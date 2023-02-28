@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5671\)
+## Playlists \(5672\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -4170,6 +4170,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [The Pit](/playlists/pretty/37i9dQZF1DWXXKBeJuKnWE.md)
 - [The Pop Lounge](/playlists/pretty/37i9dQZF1DXcQRnVXaCXYk.md)
 - [The Pulse of Americana](/playlists/pretty/37i9dQZF1DX3Fzl4v4w9Zp.md)
+- [The Pulse of Glitchbreak](/playlists/pretty/4a0a7QNf4ytPMOzQeWur9B.md)
 - [The Punk List](/playlists/pretty/37i9dQZF1DXdOAw8BT7AHt.md)
 - [The Quiet Club](/playlists/pretty/37i9dQZF1DWUt6s1pWAnvP.md)
 - [The Quintessential Quintuplets \-五等分の花嫁\-](/playlists/pretty/37i9dQZF1DWX48bLeZRpmd.md)
