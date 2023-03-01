@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173454,
+      "name": "100 Hiba",
+      "url": "https://open.spotify.com/track/3cGzuLfzd4DpuQoV2W8AIk"
+    },
+    {
+      "album": {
         "name": "The World Of CH!PZ (Deluxe version)",
         "url": "https://open.spotify.com/album/3fuyXU6qRuSyC8yK3cMu83"
       },
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 168000,
       "name": "Beautiful Day (Thank You for Sunshine)",
       "url": "https://open.spotify.com/track/1z5r6Rpcc1BreRtYALBncX"
@@ -1995,6 +2013,28 @@
     },
     {
       "album": {
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131013,
+      "name": "Boy's a liar Pt. 2",
+      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "album": {
         "name": "Brazilian Phonk Mano",
         "url": "https://open.spotify.com/album/5pWDJaRKvFnwpPO1NXXw8a"
       },
@@ -2344,7 +2384,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
@@ -2485,6 +2525,28 @@
     },
     {
       "album": {
+        "name": "ROADTRIP",
+        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168923,
+      "name": "Cik\u00e1dy",
+      "url": "https://open.spotify.com/track/4enbO9cZhJLSZ6Tf21LRnv"
+    },
+    {
+      "album": {
         "name": "Clandestina (JVSTIN Remix)",
         "url": "https://open.spotify.com/album/35ADWQ8p7cIVqFs0h1PVdW"
       },
@@ -2552,7 +2614,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
@@ -3684,7 +3746,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 180022,
       "name": "Dumb Ways to Die",
       "url": "https://open.spotify.com/track/180MVaidIYWpB1MSYEv5BI"
@@ -3706,6 +3768,28 @@
       "duration_ms": 66323,
       "name": "Du\u0161an kukuricky HDR REMAKE",
       "url": "https://open.spotify.com/track/39OkzyklCw21dTLex4nFZs"
+    },
+    {
+      "album": {
+        "name": "ROADTRIP",
+        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "D\u00edvej",
+      "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
     },
     {
       "album": {
@@ -4238,7 +4322,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 279910,
       "name": "Fine",
       "url": "https://open.spotify.com/track/2GlV9w8oHSQdiPPk9lxqlp"
@@ -5814,7 +5898,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 195918,
       "name": "Hviezdy",
       "url": "https://open.spotify.com/track/5xEIngz64bQKmTAVtlv5VP"
@@ -6085,6 +6169,24 @@
     },
     {
       "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "Idegen",
+      "url": "https://open.spotify.com/track/2BAmnTI9arntwH5BRP3EZx"
+    },
+    {
+      "album": {
         "name": "if looks could kill",
         "url": "https://open.spotify.com/album/1LOxsRxzEcPeYQSNQuQEbv"
       },
@@ -6118,7 +6220,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 187091,
       "name": "IK TRIP 'M",
       "url": "https://open.spotify.com/track/5gRYw2JYH3QUr5k2BQvpFZ"
@@ -6961,6 +7063,24 @@
     },
     {
       "album": {
+        "name": "La Cosa Nostra",
+        "url": "https://open.spotify.com/album/48NlXmZwck5tg38XFhzhiQ"
+      },
+      "artists": [
+        {
+          "name": "KOTL\u00c1R SECURITY",
+          "url": "https://open.spotify.com/artist/0z5HBunSnoCNMGy5NqEGYg"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137010,
+      "name": "La Cosa Nostra",
+      "url": "https://open.spotify.com/track/1wDlHHkETfW9TTd97k6sU6"
+    },
+    {
+      "album": {
         "name": "SR. SANTOS",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -7038,7 +7158,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 153650,
       "name": "Latyo \u00e9s haze",
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
@@ -7532,7 +7652,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 147349,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/0F0wMiv8PfATkxC0YO5XqB"
@@ -7616,6 +7736,24 @@
       "duration_ms": 185749,
       "name": "Mamacita (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
+    },
+    {
+      "album": {
+        "name": "Mamo miri",
+        "url": "https://open.spotify.com/album/16JA8hC7MZyKre8rx0S63c"
+      },
+      "artists": [
+        {
+          "name": "Zea",
+          "url": "https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131317,
+      "name": "Mamo miri",
+      "url": "https://open.spotify.com/track/1SxaR2y94iRFUW6YH97fb5"
     },
     {
       "album": {
@@ -9734,7 +9872,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 150241,
       "name": "Out th\u00eb way",
       "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
@@ -10035,6 +10173,24 @@
     },
     {
       "album": {
+        "name": "Past Lives - Sapientdreams Remix",
+        "url": "https://open.spotify.com/album/6hUXjk7tGsBWvSYKKgbtiF"
+      },
+      "artists": [
+        {
+          "name": "Dj Agos",
+          "url": "https://open.spotify.com/artist/2m4LlfxDioYvvjx6UWjV8U"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154895,
+      "name": "Past Lives - Sapientdreams Remix",
+      "url": "https://open.spotify.com/track/58TzcSnsgTBVN0jytVskgn"
+    },
+    {
+      "album": {
         "name": "Past Lives (Sapientdreams Remix)",
         "url": "https://open.spotify.com/album/65E47oz7ARX7uXdLT988tu"
       },
@@ -10046,7 +10202,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 154895,
       "name": "Past Lives - Sapientdreams Remix",
       "url": "https://open.spotify.com/track/6BU4Xd49WEr8AXI7M2LMEw"
@@ -10666,7 +10822,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 151000,
       "name": "Pri Tebe",
       "url": "https://open.spotify.com/track/7nOVlLj76RmOT4SHZ0OLLy"
@@ -10844,7 +11000,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 147979,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
@@ -11356,6 +11512,28 @@
       "duration_ms": 143197,
       "name": "Safe and sound zyzz",
       "url": "https://open.spotify.com/track/16F5wpMkp9bnD9OaVlOtrw"
+    },
+    {
+      "album": {
+        "name": "ROADTRIP",
+        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149589,
+      "name": "Saf\u00edr",
+      "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
     },
     {
       "album": {
@@ -12447,6 +12625,28 @@
     },
     {
       "album": {
+        "name": "Slzy Ulic",
+        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
+      },
+      "artists": [
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        },
+        {
+          "name": "Taomi",
+          "url": "https://open.spotify.com/artist/59jeu94znh2noMuS99hZjA"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "stale hladam (feat. Taomi)",
+      "url": "https://open.spotify.com/track/0ILk1dfKSJpQ1QzMoZgau8"
+    },
+    {
+      "album": {
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
         "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
       },
@@ -12636,7 +12836,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 186570,
       "name": "Sugar Rush Ride",
       "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
@@ -12916,7 +13116,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 132396,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/0KFK1UkZkYO5uv9MmAN4t1"
@@ -13711,6 +13911,28 @@
     },
     {
       "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191204,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/30JqjpV2qLhBfewhuF3Pey"
+    },
+    {
+      "album": {
         "name": "TOXIC",
         "url": "https://open.spotify.com/album/7l72jwIz37QsEP1RzSNG5O"
       },
@@ -14135,6 +14357,42 @@
     },
     {
       "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231193,
+      "name": "Upgrade",
+      "url": "https://open.spotify.com/track/4o7sNuNNkNVlUombpE3D3F"
+    },
+    {
+      "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122833,
+      "name": "Utols\u00f3 dal",
+      "url": "https://open.spotify.com/track/6aINWu0V4uW9fggLqPq9xO"
+    },
+    {
+      "album": {
         "name": "V Oblakoch",
         "url": "https://open.spotify.com/album/0ilGSSMKllux4qNrj4FKln"
       },
@@ -14190,6 +14448,24 @@
       "duration_ms": 172138,
       "name": "VAKMELEG",
       "url": "https://open.spotify.com/track/5hrqYOAOfilrvKT5Et0agg"
+    },
+    {
+      "album": {
+        "name": "Slzy Ulic",
+        "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
+      },
+      "artists": [
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120827,
+      "name": "Valeriya",
+      "url": "https://open.spotify.com/track/09MbMeMVENgLv6Z9ogzkuG"
     },
     {
       "album": {
@@ -14584,6 +14860,24 @@
       "duration_ms": 120428,
       "name": "WASTE",
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
+    },
+    {
+      "album": {
+        "name": "Watch The World Burn",
+        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203948,
+      "name": "Watch The World Burn",
+      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
     },
     {
       "album": {

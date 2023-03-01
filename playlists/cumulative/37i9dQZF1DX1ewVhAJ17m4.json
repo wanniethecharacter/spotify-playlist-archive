@@ -2332,10 +2332,32 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 156492,
       "name": "I'm Close Behind",
       "url": "https://open.spotify.com/track/5Q3gEtiKbGA5ZxQMVcnE6O"
+    },
+    {
+      "album": {
+        "name": "Hope You're Proud",
+        "url": "https://open.spotify.com/album/7iidCiYZ0gNZHm3S7CODEQ"
+      },
+      "artists": [
+        {
+          "name": "Fat Nick",
+          "url": "https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx"
+        },
+        {
+          "name": "Mikey The Magician",
+          "url": "https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156492,
+      "name": "I'm Close Behind (feat. Mikey The Magician)",
+      "url": "https://open.spotify.com/track/3rtSOOnfEpLE41eTLDjzOu"
     },
     {
       "album": {

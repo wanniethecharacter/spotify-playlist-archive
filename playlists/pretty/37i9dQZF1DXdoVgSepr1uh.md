@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Argentina en la casa! Foto: Albere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,682 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,693 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 11 | [Hagámoslo de Nuevo](https://open.spotify.com/track/5nqd99eG78DHIFLTKlEW8C) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [Hagámoslo de Nuevo](https://open.spotify.com/album/5nZkyesRCLkiCel7T2t681) | 2:05 |
 | 12 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 |
 | 13 | [Lo Olvidaste](https://open.spotify.com/track/6HQTemjqjKBwDfN8AG16uj) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Lo Olvidaste](https://open.spotify.com/album/3StSMliOF6G8OLYrsPV3Y0) | 2:46 |
-| 14 | [Utopía](https://open.spotify.com/track/5jCeTPt24kvPb9WNL9uZFb) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Utopía](https://open.spotify.com/album/76hcVFUJtbF7LyqN1hVDDa) | 2:30 |
+| 14 | [Utopía](https://open.spotify.com/track/5jCeTPt24kvPb9WNL9uZFb) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3), [DOC](https://open.spotify.com/artist/0GR5HJ4Lo9rqVAqmewAODa) | [Utopía](https://open.spotify.com/album/76hcVFUJtbF7LyqN1hVDDa) | 2:30 |
 | 15 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 |
 | 16 | [FULL TIME](https://open.spotify.com/track/7fJOUPnEllozwkRoKVuddk) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [FULL TIME](https://open.spotify.com/album/2lbVpm9aZdZiOC5RyenQXR) | 2:27 |
 | 17 | [Bendición](https://open.spotify.com/track/5fIpvX6QRQ9hLtMjJYeKty) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Bendición](https://open.spotify.com/album/7Eo44MvuVaLGz2zIlvrhTO) | 2:49 |

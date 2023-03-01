@@ -460,7 +460,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
@@ -580,6 +580,24 @@
       "duration_ms": 213453,
       "name": "Better When We're Close",
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
+    },
+    {
+      "album": {
+        "name": "Big Night",
+        "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
+      },
+      "artists": [
+        {
+          "name": "Siddha-Funk",
+          "url": "https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Big Night",
+      "url": "https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA"
     },
     {
       "album": {
@@ -965,6 +983,32 @@
     },
     {
       "album": {
+        "name": "Crux Australis",
+        "url": "https://open.spotify.com/album/5NnNrnljeZVpPsW2lPfg4M"
+      },
+      "artists": [
+        {
+          "name": "Tunkuy",
+          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
+        },
+        {
+          "name": "Man After Man",
+          "url": "https://open.spotify.com/artist/1jxHgQ48lEj9OZ7o3y1HfQ"
+        },
+        {
+          "name": "Dar\u00edo Abdala",
+          "url": "https://open.spotify.com/artist/7CfkX18xoIBT9BAFZdh1m3"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306863,
+      "name": "Crux Australis",
+      "url": "https://open.spotify.com/track/1pWWrnSxMW5DniwdPXDE3B"
+    },
+    {
+      "album": {
         "name": "Cuando Canto Grito",
         "url": "https://open.spotify.com/album/6JheZZQ496DfWRYzsziz6S"
       },
@@ -1058,7 +1102,7 @@
           "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
         }
       ],
-      "date_added": "2023-02-15",
+      "date_added": "2023-02-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216000,
@@ -3390,7 +3434,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
@@ -3677,6 +3721,28 @@
     },
     {
       "album": {
+        "name": "Regresar (Vibes4YourSoul Remix)",
+        "url": "https://open.spotify.com/album/2ek84DXerG63Z5QhSz79lA"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        },
+        {
+          "name": "Vibes4YourSoul",
+          "url": "https://open.spotify.com/artist/2z0Od7adlbPJRlM6pyFZZV"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "Regresar (Vibes4YourSoul Remix)",
+      "url": "https://open.spotify.com/track/2Rzt5D3eOg7I12ZWozGX4w"
+    },
+    {
+      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
       },
@@ -3746,7 +3812,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 178823,
       "name": "R\u00fambala",
       "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"

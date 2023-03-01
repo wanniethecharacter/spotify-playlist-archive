@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 198046,
       "name": "#OLLAGANDA 2 (Feat. SINCE)",
       "url": "https://open.spotify.com/track/26nNwfqSAccfPJxxGKRj7S"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 197812,
       "name": "Beat Me",
       "url": "https://open.spotify.com/track/70Dd29IjKu4aIJqoveoZXQ"
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 209999,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/3wNyk56POKvJWrFDVWJAEx"
@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 213933,
       "name": "BUST IT (Feat. UNEDUCATED KID)",
       "url": "https://open.spotify.com/track/2rAjakCurnu8UBGCX4MTQM"
@@ -3166,7 +3166,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 151615,
       "name": "Chuckle (Feat. KWAII)",
       "url": "https://open.spotify.com/track/3DWtFDFhzgzb0oaOZ26eSp"
@@ -3232,7 +3232,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 229173,
       "name": "City Lights (Feat. Hash Swan)",
       "url": "https://open.spotify.com/track/02X3xsCCCtW0jwAXgvu5Mk"
@@ -3620,7 +3620,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 209577,
       "name": "Confidence (feat. SINCE & hangzoo)",
       "url": "https://open.spotify.com/track/01Nqfxufv1yF3R6LqYEbqX"
@@ -4721,6 +4721,32 @@
     },
     {
       "album": {
+        "name": "SEOULVIBES, NETFLEX",
+        "url": "https://open.spotify.com/album/74Whl3z2bmvDC1ZRnLNTjH"
+      },
+      "artists": [
+        {
+          "name": "KozyPop",
+          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
+        },
+        {
+          "name": "Yellon",
+          "url": "https://open.spotify.com/artist/0yFJrcYT1PUX0gY7JWs4EG"
+        },
+        {
+          "name": "kaogaii",
+          "url": "https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157542,
+      "name": "Dress code (feat. Yellon & kaogaii)",
+      "url": "https://open.spotify.com/track/4WbFmQ6i59D2d0Dbt7Ooex"
+    },
+    {
+      "album": {
         "name": "zillamode 4",
         "url": "https://open.spotify.com/album/6O7AASfdsj9oQMAV3do7yF"
       },
@@ -5528,7 +5554,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 166473,
       "name": "Fix up (Feat. Koonta)",
       "url": "https://open.spotify.com/track/6hrPBBKARnlBXxMt74nI17"
@@ -5690,7 +5716,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 169973,
       "name": "Freak",
       "url": "https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik"
@@ -5862,7 +5888,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 343890,
       "name": "FURY (feat. Nucksal, RHYME-A- & Basick)",
       "url": "https://open.spotify.com/track/7d5xtJWSRwuClKVWRYbFrd"
@@ -6416,7 +6442,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 201379,
       "name": "God's Science - Remix",
       "url": "https://open.spotify.com/track/11zGLobOQ8mseZToc54RLr"
@@ -7416,7 +7442,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 189350,
       "name": "HIGH RISK HIGH RETURN (Feat. Polodared)",
       "url": "https://open.spotify.com/track/5MnjjRXp2huzCdVXkGpU2I"
@@ -7975,6 +8001,28 @@
     },
     {
       "album": {
+        "name": "I Feel It So Close",
+        "url": "https://open.spotify.com/album/34w34asHyQFbCZJqyD492S"
+      },
+      "artists": [
+        {
+          "name": "V1VA",
+          "url": "https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR"
+        },
+        {
+          "name": "VEKOEL",
+          "url": "https://open.spotify.com/artist/6c1sIisEY5HNqkjgEhgbEo"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138591,
+      "name": "I Feel It So Close (Feat. VEKOEL)",
+      "url": "https://open.spotify.com/track/5ViNfkZnAbHKUv1uD7aCJ2"
+    },
+    {
+      "album": {
         "name": "HOMESICK",
         "url": "https://open.spotify.com/album/1N9N45rliehKL52ZGAdFZm"
       },
@@ -8248,7 +8296,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 225093,
       "name": "In The Mud",
       "url": "https://open.spotify.com/track/6CfMtSd1VzajRUdOm4uleS"
@@ -8514,7 +8562,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 201510,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
@@ -9084,7 +9132,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 2000,
       "name": "KrOWN _Paloalto",
       "url": "https://open.spotify.com/track/7hYGG19q8AOJ0w20tPqEgn"
@@ -9468,7 +9516,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 189373,
       "name": "LAW (Prod. Czaer)",
       "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
@@ -11890,7 +11938,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 227560,
       "name": "NG (Feat. pH-1, Jay Park)",
       "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
@@ -12284,7 +12332,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 213529,
       "name": "NOW (feat. BE\u2019O)",
       "url": "https://open.spotify.com/track/3KcrVznUlZ3xvnyYp9GZ7n"
@@ -12426,7 +12474,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 183573,
       "name": "On My Way (Feat. Jackson Wang)",
       "url": "https://open.spotify.com/track/5vaR767DFNrbwosqbdJRD0"
@@ -13162,7 +13210,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 157737,
       "name": "Porsche (Feat. Owen, Loopy)",
       "url": "https://open.spotify.com/track/2fCwI74h1jsiMUfQiacfdh"
@@ -14820,7 +14868,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
@@ -15956,7 +16004,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 136240,
       "name": "Sweaty (Prod. GRAY)",
       "url": "https://open.spotify.com/track/11gYMzMkvro6P9YG69BIxm"

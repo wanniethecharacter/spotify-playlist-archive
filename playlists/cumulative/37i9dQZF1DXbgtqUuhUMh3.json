@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to Arab women, at full volume. Cover: Carole Samaha\n",
+  "description": "Listen to Arab women, at full volume. Cover: Oumaima Taleb\n",
   "name": "EQUAL Arabia ",
   "tracks": [
     {
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 184000,
       "name": "Dandana",
       "url": "https://open.spotify.com/track/0Jxc621ZPErwELUjuQCrXr"
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 170627,
       "name": "El Hob Jnoon",
       "url": "https://open.spotify.com/track/1dbGD1JdNrHnA6EwMiQmVK"
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 246613,
       "name": "Eshrit Sinin",
       "url": "https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo"
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 180976,
       "name": "Film Helw",
       "url": "https://open.spotify.com/track/25EbCKCq8dQ3YBmwbix7ye"
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 129532,
       "name": "Hawwa",
       "url": "https://open.spotify.com/track/0uIlJ1aiIJYqscUjXONYPo"
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 188826,
       "name": "Hnaya",
       "url": "https://open.spotify.com/track/37fxraGklh1llULoyhcFCz"
@@ -4300,7 +4300,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 150000,
       "name": "Nazele Big Champagne",
       "url": "https://open.spotify.com/track/3y6b0RXNW5edjwLxdvojMB"
@@ -4790,6 +4790,24 @@
       "duration_ms": 199171,
       "name": "Sahar El Layali (Kan Enna Tahoun)",
       "url": "https://open.spotify.com/track/2FCybmEGNqquzBkIGO9RNX"
+    },
+    {
+      "album": {
+        "name": "Satantahi Al Harbu",
+        "url": "https://open.spotify.com/album/5I81x0FiYIibjurMtysKRC"
+      },
+      "artists": [
+        {
+          "name": "Carole Samaha",
+          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220704,
+      "name": "Satantahi Al Harbu",
+      "url": "https://open.spotify.com/track/7CEatH4LJGZhDWCP7ijvJj"
     },
     {
       "album": {
@@ -5939,6 +5957,28 @@
     },
     {
       "album": {
+        "name": "Zay El Moug",
+        "url": "https://open.spotify.com/album/0aBTAji3itfFJI6aiUys57"
+      },
+      "artists": [
+        {
+          "name": "Nour Khan",
+          "url": "https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs"
+        },
+        {
+          "name": "Ahmed Kore",
+          "url": "https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180451,
+      "name": "Zay El Moug",
+      "url": "https://open.spotify.com/track/3PSC7JkkBtl1QTJiVh9Ek2"
+    },
+    {
+      "album": {
         "name": "Zina Weya El Nas",
         "url": "https://open.spotify.com/album/1vwUwpq5kOrMEJqEcf2eUM"
       },
@@ -6152,7 +6192,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 142662,
       "name": "\u0627\u0644\u0648\u0631\u0648\u062f",
       "url": "https://open.spotify.com/track/0yLiUX7xOAqQ4qOaE5zwyV"
@@ -6250,7 +6290,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 233364,
       "name": "\u0627\u064a\u0647 \u063a\u064a\u0631\u0643",
       "url": "https://open.spotify.com/track/7d8Q20fRUqE7FaUXOTcARp"
@@ -6949,6 +6989,24 @@
     },
     {
       "album": {
+        "name": "\u0644\u0627 \u0644\u0627 \u064a\u0627\u0644\u062e\u064a\u0632\u0631\u0627\u0646\u0647",
+        "url": "https://open.spotify.com/album/5kfATHTrJ77l3NVCQPqK8q"
+      },
+      "artists": [
+        {
+          "name": "Oumaima Taleb",
+          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216189,
+      "name": "\u0644\u0627 \u0644\u0627 \u064a\u0627\u0644\u062e\u064a\u0632\u0631\u0627\u0646\u0647",
+      "url": "https://open.spotify.com/track/4ZBUuvMtpGqiqF18lqeeIB"
+    },
+    {
+      "album": {
         "name": "\u0644\u0645 \u0623\u0646\u0633",
         "url": "https://open.spotify.com/album/280303IVABQ0juGpMlu5vM"
       },
@@ -7292,7 +7350,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 195583,
       "name": "\u0648\u0627\u062c\u0647\u0646\u064a",
       "url": "https://open.spotify.com/track/7asTmSESqhuj3HdgR6rQwk"

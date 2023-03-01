@@ -5392,7 +5392,7 @@
     {
       "album": {
         "name": "NEXTBOT!",
-        "url": "https://open.spotify.com/album/0smWk9Z2wHTmIm8k3hkWwe"
+        "url": "https://open.spotify.com/album/5O5zv32363BkvzctGwLqyR"
       },
       "artists": [
         {
@@ -5403,6 +5403,24 @@
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 90625,
+      "name": "NEXTBOT!",
+      "url": "https://open.spotify.com/track/0wohSgJuZJvQoMV7gMpMrT"
+    },
+    {
+      "album": {
+        "name": "NEXTBOT!",
+        "url": "https://open.spotify.com/album/0smWk9Z2wHTmIm8k3hkWwe"
+      },
+      "artists": [
+        {
+          "name": "HAARPER",
+          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-01",
       "duration_ms": 90625,
       "name": "NEXTBOT!",
       "url": "https://open.spotify.com/track/4J87A1wSp2Tfl0NxaKUGfr"

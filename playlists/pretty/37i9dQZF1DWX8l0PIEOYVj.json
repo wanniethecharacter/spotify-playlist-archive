@@ -1,12 +1,12 @@
 {
   "description": "Future & melodic bass. Cover: Tsu Nami.",
-  "num_followers": 86632,
+  "num_followers": 86700,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGM0YjA0M2I4NGMxMmNhNWVmMDRlYWZhYmVmZWE4ODhl",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGFjNmVkYmJjMmU5NDY5NmM3YzExOTQ1ZTQ4NzVhNGFi",
   "tracks": [
     {
       "added_at": "2023-01-13 14:39:14",
@@ -200,7 +200,7 @@
       "added_at": "2023-01-13 14:39:14",
       "album": {
         "name": "Distance",
-        "url": "https://open.spotify.com/album/3CBJdbiqPhdBSUuPpn2YdF"
+        "url": "https://open.spotify.com/album/4LoqJkatX8j9Xtrj3moCE1"
       },
       "artists": [
         {
@@ -214,7 +214,7 @@
       ],
       "duration_ms": 164920,
       "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/2NolG4iiuoPfBtofjRdctc"
+      "url": "https://open.spotify.com/track/7eGesoKVNP8jJig7xgmk3t"
     },
     {
       "added_at": "2023-01-13 14:39:14",
@@ -2763,42 +2763,6 @@
     {
       "added_at": "2023-01-13 14:39:14",
       "album": {
-        "name": "create together vol. 3",
-        "url": "https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2"
-      },
-      "artists": [
-        {
-          "name": "Scro",
-          "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW"
-        },
-        {
-          "name": "whyislavndr",
-          "url": "https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E"
-        }
-      ],
-      "duration_ms": 241475,
-      "name": "i don\u2019t wanna write sad songs anymore",
-      "url": "https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4"
-    },
-    {
-      "added_at": "2023-01-13 14:39:14",
-      "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC"
-      },
-      "artists": [
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8"
-    },
-    {
-      "added_at": "2023-01-13 14:39:14",
-      "album": {
         "name": "Ghost Town (feat. David Frank)",
         "url": "https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l"
       },
@@ -2815,6 +2779,22 @@
       "duration_ms": 212470,
       "name": "Ghost Town (feat. David Frank)",
       "url": "https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS"
+    },
+    {
+      "added_at": "2023-01-13 14:39:14",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8"
     },
     {
       "added_at": "2023-01-13 14:39:14",
@@ -3095,6 +3075,26 @@
       "duration_ms": 194181,
       "name": "Here",
       "url": "https://open.spotify.com/track/1rAlHGfpnHz3kF2WwLGXw6"
+    },
+    {
+      "added_at": "2023-01-13 14:39:14",
+      "album": {
+        "name": "Somewhere In Between EP",
+        "url": "https://open.spotify.com/album/2bnNcIyUBsgGGVI2EWSPY7"
+      },
+      "artists": [
+        {
+          "name": "Far Out",
+          "url": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
+        },
+        {
+          "name": "Danni Carra",
+          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+        }
+      ],
+      "duration_ms": 250294,
+      "name": "Start Over (feat. Danni Carra)",
+      "url": "https://open.spotify.com/track/789tQuKCnSNj9ekKbLnEc2"
     }
   ],
   "unique_name": "Bass Lounge",

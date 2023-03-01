@@ -2195,6 +2195,28 @@
     },
     {
       "album": {
+        "name": "Dhoora Vaaney (From \"Yaanai Mugathaan\")",
+        "url": "https://open.spotify.com/album/6lDDPiXfGgOkB7NWEMI1Sz"
+      },
+      "artists": [
+        {
+          "name": "Bharath Sankar",
+          "url": "https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260243,
+      "name": "Dhoora Vaaney (From \"Yaanai Mugathaan\")",
+      "url": "https://open.spotify.com/track/1b3H3ZsoCaebuB1F4UzKlN"
+    },
+    {
+      "album": {
         "name": "Vezham (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0SD4vZliEXuuBk6RpMZbqr"
       },
@@ -2266,6 +2288,32 @@
       "duration_ms": 222620,
       "name": "Dhooram Pona",
       "url": "https://open.spotify.com/track/1H9eXVNViwIEQkOWVJ6w9F"
+    },
+    {
+      "album": {
+        "name": "Dhrogam (From \"Agilan\")",
+        "url": "https://open.spotify.com/album/4U21sIeJd7xabjCNLD8NZi"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Sivam",
+          "url": "https://open.spotify.com/artist/52yAITEPYVr5ZEQL0KJyQX"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235909,
+      "name": "Dhrogam - From \"Agilan\"",
+      "url": "https://open.spotify.com/track/4plbhkGv5ozLn96lu9pdfc"
     },
     {
       "album": {
@@ -10120,7 +10168,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 144404,
       "name": "Theevinai Aaraathaa",
       "url": "https://open.spotify.com/track/4T4qrhpNahHNVN1pBOPSo4"
@@ -11908,7 +11956,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 329416,
       "name": "Yaar Intha Peigal",
       "url": "https://open.spotify.com/track/0kMpGpnStz7thaMAfiD0HE"
@@ -11946,6 +11994,28 @@
       "duration_ms": 268032,
       "name": "Yaar Solvathu - From \"Amaichar\"",
       "url": "https://open.spotify.com/track/7bchpQho692AAHanRplFpC"
+    },
+    {
+      "album": {
+        "name": "Andhagan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0b24hWKT59Dn3ywu1TjRyO"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120107,
+      "name": "Yaaro Nee",
+      "url": "https://open.spotify.com/track/0QyB4kNBaZvYcQt9DeoNPq"
     },
     {
       "album": {
@@ -12262,6 +12332,28 @@
       "duration_ms": 254594,
       "name": "Yengum Oli Pirakkumey",
       "url": "https://open.spotify.com/track/1VDLjxLUEYTOUZhSAwN9xT"
+    },
+    {
+      "album": {
+        "name": "Andhagan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0b24hWKT59Dn3ywu1TjRyO"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247456,
+      "name": "Yosichi Yosichi",
+      "url": "https://open.spotify.com/track/2hlLlookIkEFF8fVN0XmMl"
     },
     {
       "album": {

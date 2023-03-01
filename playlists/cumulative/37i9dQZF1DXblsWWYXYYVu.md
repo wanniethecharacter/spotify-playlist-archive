@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-166 songs - 9 hr 20 min
+167 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [My Time Machine](https://open.spotify.com/track/44pg0fUyO3Fbj99LiLOHKy) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [My Time Machine](https://open.spotify.com/album/6dHcdUtQyeUbYEe6o8CY8c) | 2:25 | 2023-02-03 |  |
 | [Nashville](https://open.spotify.com/track/54ZN2jpVqqhS8l4Qdc4ncu) | [Jill and Kate](https://open.spotify.com/artist/3nOFoJxsyWVGxnFQMqjeH0) | [Nashville](https://open.spotify.com/album/1R2wxAT6PhqV8EkE3EejMT) | 3:54 | 2021-04-19 | 2022-04-29 |
 | [Never Break](https://open.spotify.com/track/3usBViVaNvJsFkFxUpOxCP) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Never Break EP](https://open.spotify.com/album/1tdRdrWNCNpLtjpel7rjZG) | 2:35 | 2021-04-19 |  |
-| [Never Really Gone](https://open.spotify.com/track/5wabVKcJepqDkkthpTGW76) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Wilderness](https://open.spotify.com/album/3XyV6DyEqRb8V9tW4YeJLG) | 3:41 | 2021-04-19 |  |
+| [Never Really Gone](https://open.spotify.com/track/0kafxbw9nhnesEGzLra0nm) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Wilderness](https://open.spotify.com/album/5FgkmSbPNTir7JKyUJPApz) | 3:41 | 2021-04-19 |  |
+| [Never Really Gone](https://open.spotify.com/track/5wabVKcJepqDkkthpTGW76) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Wilderness](https://open.spotify.com/album/3XyV6DyEqRb8V9tW4YeJLG) | 3:41 | 2021-04-19 | 2023-03-01 |
 | [Next Year](https://open.spotify.com/track/5DPwUwH9MouCDdHw5tw3LA) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Both Ways](https://open.spotify.com/album/0P5Gw1os7s0rzcDWwrE7hx) | 4:17 | 2021-04-19 | 2022-07-29 |
 | [Next Year](https://open.spotify.com/track/5nnIvP82ykJuI60Bov5n3f) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Both Ways](https://open.spotify.com/album/1lCMPLXpxu11jKDngB9w8L) | 4:17 | 2021-04-19 |  |
 | [Old Time's Sake](https://open.spotify.com/track/3IQSmhYf1nst6Gp5BbW3xE) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Beginning of Things](https://open.spotify.com/album/24XNUmmNY44uGmG4aY001K) | 3:22 | 2021-04-19 |  |

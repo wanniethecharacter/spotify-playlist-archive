@@ -1,51 +1,115 @@
 {
-  "description": "\u05d4\u05d0\u05d6\u05d9\u05e0\u05d5 \u05d1\u05e4\u05d5\u05dc \u05d5\u05d5\u05dc\u05d9\u05d5\u05dd \u05dc\u05d0\u05de\u05e0\u05d9\u05d5\u05ea \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05db\u05e8\u05e7\u05d5\u05e7\u05dc\u05d9\n",
-  "num_followers": 15010,
+  "description": "\u05de\u05d1\u05d7\u05e8 \u05e9\u05d9\u05e8\u05d9\u05dd \u05de\u05d9\u05d5\u05d7\u05d3 \u05e9\u05e2\u05e8\u05db\u05e0\u05d5 \u05d9\u05d7\u05d3 \u05e2\u05dd \u05db\u05e8\u05e7\u05d5\u05e7\u05dc\u05d9 \u05dc\u05d9\u05d5\u05dd \u05d4\u05d0\u05d9\u05e9\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9\n\n",
+  "num_followers": 15014,
   "original_name": "EQUAL Israel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIwMjQwMCwwMDAwMDAwMGRlZDQ1Zjc3NDczNmI3YmQ5Mjg0NjJhZDE5OTUzNjM2",
+  "snapshot_id": "MTY3NzYyMTYwMCwwMDAwMDAwMDg1MzYwOTQwOTQwMjcxMGQ4YmQ4NzNkYWRmZjUzYTI3",
   "tracks": [
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05d4\u05d2\u05d9\u05dc \u05d3\u05d5\u05e4\u05e7 \u05d1\u05d3\u05dc\u05ea (Prod. By Triangle)",
-        "url": "https://open.spotify.com/album/11jCUGmgUmPa7kilqbjvBt"
+        "name": "\u05de\u05d0\u05d3\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/29xmwGmAa2OCDPg8yhWKd5"
       },
       "artists": [
         {
           "name": "Carakukly",
           "url": "https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu"
-        },
-        {
-          "name": "\u05d4\u05e4\u05e9\u05d5\u05d8\u05e2",
-          "url": "https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb"
         }
       ],
-      "duration_ms": 183082,
-      "name": "\u05d4\u05d2\u05d9\u05dc \u05d3\u05d5\u05e4\u05e7 \u05d1\u05d3\u05dc\u05ea (Prod. By Triangle)",
-      "url": "https://open.spotify.com/track/2trg8gUn9D8OJfbtnpXMdH"
+      "duration_ms": 167999,
+      "name": "\u05de\u05d0\u05d3\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/17xjt6c1BpRM8OHmMFV7xQ"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B"
+        "name": "\u05d0\u05d9\u05e9\u05d4 \u05e7\u05e9\u05d4",
+        "url": "https://open.spotify.com/album/14YiiAuDaEBbP5WaMNb7JO"
       },
       "artists": [
         {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+          "name": "Jane Bordeaux",
+          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
+        },
+        {
+          "name": "ECHO",
+          "url": "https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW"
         }
       ],
-      "duration_ms": 179890,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T"
+      "duration_ms": 195500,
+      "name": "\u05d0\u05d9\u05e9\u05d4 \u05e7\u05e9\u05d4",
+      "url": "https://open.spotify.com/track/0riTg4W5chUXwJJq7W8DSE"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "\u05d7\u05d2\u05d9\u05d2\u05d4",
+        "url": "https://open.spotify.com/album/5IVtC2TqdD3mP7EQ1KCNRp"
+      },
+      "artists": [
+        {
+          "name": "Sarit Hadad",
+          "url": "https://open.spotify.com/artist/39jFFncu6W0phhYK16Dp9g"
+        }
+      ],
+      "duration_ms": 208693,
+      "name": "\u05d1\u05d7\u05d5\u05dd \u05e9\u05dc \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+      "url": "https://open.spotify.com/track/6hWXe5KsRygkMO5MOvk7W4"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/70YvgB6eePlwbkv4ZrQGWN"
+      },
+      "artists": [
+        {
+          "name": "Dana International",
+          "url": "https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Diva - Original English Version",
+      "url": "https://open.spotify.com/track/3smiQSui5Qg811abaWXh10"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "\u05d0\u05d7\u05d5\u05ea\u05d9 \u05db\u05d1\u05e8 \u05dc\u05d0 \u05e1\u05d5\u05d1\u05dc\u05ea \u05d0\u05d5\u05ea\u05da",
+        "url": "https://open.spotify.com/album/50V1UPWQyk6uGVdIm8WgC5"
+      },
+      "artists": [
+        {
+          "name": "Shira Margalit",
+          "url": "https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz"
+        }
+      ],
+      "duration_ms": 181760,
+      "name": "\u05d0\u05d7\u05d5\u05ea\u05d9 \u05db\u05d1\u05e8 \u05dc\u05d0 \u05e1\u05d5\u05d1\u05dc\u05ea \u05d0\u05d5\u05ea\u05da",
+      "url": "https://open.spotify.com/track/6clAq1cGO4PYimAmzelTmL"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "\u05e4\u05e8\u05e4\u05e8\u05d9\u05dd \u05e9\u05d7\u05d5\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2KURC1NX5TdTccS2G6glpG"
+      },
+      "artists": [
+        {
+          "name": "Inbal Bibi",
+          "url": "https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "\u05e4\u05e8\u05e4\u05e8\u05d9\u05dd \u05e9\u05d7\u05d5\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/0jVXkBHNflfBZLSul58xbx"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
       "album": {
         "name": "\u05e8\u05d9\u05d2\u05d5\u05e9 \u05d6\u05de\u05e0\u05d9 (by Tamar Yahalomy & Yonatan Kalimi)",
         "url": "https://open.spotify.com/album/2Ln37EX208rxYh4eVmTxJS"
@@ -61,10 +125,10 @@
       "url": "https://open.spotify.com/track/7j0U0ll8Q31b4sF9uSrTEo"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05d1\u05dc\u05d9\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/23n9Q5lO4evwyypeE0fQMN"
+        "name": "\u05de\u05d0\u05de\u05d9",
+        "url": "https://open.spotify.com/album/75PctryEK8QcxFQyEF37bc"
       },
       "artists": [
         {
@@ -72,16 +136,16 @@
           "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
         },
         {
-          "name": "Offer Nissim",
-          "url": "https://open.spotify.com/artist/2U5N2KMBT6aFPrQMygMkhj"
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
         }
       ],
-      "duration_ms": 348571,
-      "name": "\u05d1\u05dc\u05d9\u05dc\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/3qnR0XicTEzQeWKWYBoLpw"
+      "duration_ms": 120000,
+      "name": "\u05de\u05d0\u05de\u05d9",
+      "url": "https://open.spotify.com/track/0iTSkLz9biPGVXqTSrkkNd"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
         "name": "\u05e8\u05d2\u05e2\u05d9\u05dd",
         "url": "https://open.spotify.com/album/7EVVtdoYTjekYFqlGPeO7E"
@@ -97,55 +161,23 @@
       "url": "https://open.spotify.com/track/3sdQMiCQq6fQzKOULtiav3"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05d0\u05d9\u05df \u05dc\u05e0\u05d5 \u05e1\u05d5\u05e3",
-        "url": "https://open.spotify.com/album/4VhPNYhoWuTWcQ9BA40ZQV"
+        "name": "\u05e2\u05e5 \u05d0\u05d5 \u05e4\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/4JwCYky8dmmWibk0Fw5RFp"
       },
       "artists": [
         {
-          "name": "Narkis",
-          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
+          "name": "J.Lamotta",
+          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
         }
       ],
-      "duration_ms": 190449,
-      "name": "\u05d0\u05d9\u05df \u05dc\u05e0\u05d5 \u05e1\u05d5\u05e3",
-      "url": "https://open.spotify.com/track/2eS1TH7IsLKMuG29fejmp4"
+      "duration_ms": 171350,
+      "name": "\u05e2\u05e5 \u05d0\u05d5 \u05e4\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/3yaRKYX25U4bltbiHZpmDP"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "\u05ea\u05de\u05d9\u05d3 \u05d1\u05dc\u05d0\u05d2\u05df",
-        "url": "https://open.spotify.com/album/1btMewQXEsROVHR6gSoidL"
-      },
-      "artists": [
-        {
-          "name": "\u05de\u05d9\u05d4 \u05e1\u05d5\u05dc\u05d9\u05de\u05df",
-          "url": "https://open.spotify.com/artist/12ft1cfLUNXc6gfM1JzaKR"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "\u05ea\u05de\u05d9\u05d3 \u05d1\u05dc\u05d0\u05d2\u05df",
-      "url": "https://open.spotify.com/track/286lPLYHPdOxxyku1mYwfX"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "\u05de\u05d4 \u05d9\u05d4\u05d9\u05d4 \u05d0\u05d9\u05ea\u05da",
-        "url": "https://open.spotify.com/album/0rvFZpnMSm4tsMcUILBHwN"
-      },
-      "artists": [
-        {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
-        }
-      ],
-      "duration_ms": 255802,
-      "name": "\u05de\u05d4 \u05d9\u05d4\u05d9\u05d4 \u05d0\u05d9\u05ea\u05da",
-      "url": "https://open.spotify.com/track/0wyjFdOiQF7neJlQu2ij9O"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
         "name": "\u05d4\u05dc\u05d5\u05d5\u05d0\u05d9 \u05d5\u05dc\u05d0 \u05ea\u05d4\u05d9\u05d4 \u05dc\u05da \u05d0\u05e3 \u05d0\u05d7\u05ea",
         "url": "https://open.spotify.com/album/5oAs4fisnloqd5Us8yGtJA"
@@ -161,211 +193,23 @@
       "url": "https://open.spotify.com/track/3468a6o1yV2eyfHfrGyvfu"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05db\u05dc \u05d4\u05dc\u05d9\u05dc\u05d4",
-        "url": "https://open.spotify.com/album/4yUfrpxUlzPGMcbXGapg6D"
+        "name": "\u05de\u05db\u05dc \u05d4\u05d0\u05d4\u05d1\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4rfAe0BAEYBKJib6QhBMYE"
       },
       "artists": [
         {
-          "name": "Alin Golan",
-          "url": "https://open.spotify.com/artist/0e2paefwT1ZqF2uvVq8Ldv"
+          "name": "Sarit Hadad",
+          "url": "https://open.spotify.com/artist/39jFFncu6W0phhYK16Dp9g"
         }
       ],
-      "duration_ms": 199958,
-      "name": "\u05db\u05dc \u05d4\u05dc\u05d9\u05dc\u05d4",
-      "url": "https://open.spotify.com/track/0NZdzFYlNLraTjQsMwhlIe"
+      "duration_ms": 229967,
+      "name": "\u05de\u05db\u05dc \u05d4\u05d0\u05d4\u05d1\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/50jUErjdFJobwhgKluEnvR"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "\u05de\u05d7\u05db\u05d4 \u05dc\u05da",
-        "url": "https://open.spotify.com/album/7A1Spa4XTLTbZm8uY5sfPK"
-      },
-      "artists": [
-        {
-          "name": "\u05e1\u05e4\u05d9\u05e8 \u05e6\u05de\u05d7",
-          "url": "https://open.spotify.com/artist/0KPGlr2vRpVSHa3oEtfi4p"
-        }
-      ],
-      "duration_ms": 179829,
-      "name": "\u05de\u05d7\u05db\u05d4 \u05dc\u05da",
-      "url": "https://open.spotify.com/track/5QxW05hvqmWTOCykOd4WfT"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "Do I Have What It Takes?",
-        "url": "https://open.spotify.com/album/5A5qWUk96uqadsOWrNBHXq"
-      },
-      "artists": [
-        {
-          "name": "Roni Bar Hadas",
-          "url": "https://open.spotify.com/artist/5OZeMBvHIGYKnOg3WfBQ44"
-        },
-        {
-          "name": "Russo",
-          "url": "https://open.spotify.com/artist/0ECpBE2RTJep1cVxNFulEA"
-        }
-      ],
-      "duration_ms": 229083,
-      "name": "Do I Have What It Takes?",
-      "url": "https://open.spotify.com/track/3uHtLxqT4sZwePXxEVlsxz"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "\u05d0\u05dd \u05de\u05d9\u05e9\u05d4\u05d5 \u05d9\u05d3\u05e2",
-        "url": "https://open.spotify.com/album/1cTBQ1heTAZSpQknL4po0J"
-      },
-      "artists": [
-        {
-          "name": "Sapir Saban",
-          "url": "https://open.spotify.com/artist/5Aw431uxuPIJWiPuiEpIWr"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "\u05d0\u05dd \u05de\u05d9\u05e9\u05d4\u05d5 \u05d9\u05d3\u05e2",
-      "url": "https://open.spotify.com/track/4AAh2IUAoydGtsrmXV1BA0"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "\u05d4\u05e8\u05d2\u05e2 \u05d4\u05d6\u05d4",
-        "url": "https://open.spotify.com/album/5OVdkLDtvS2gdhcVHGviB7"
-      },
-      "artists": [
-        {
-          "name": "Daniel Rubin",
-          "url": "https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "\u05d4\u05e8\u05d2\u05e2 \u05d4\u05d6\u05d4",
-      "url": "https://open.spotify.com/track/7ijNPOU3Jvc21qAy8lpE7Z"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "Connecting",
-        "url": "https://open.spotify.com/album/0KeEzwf96x1WCZJZhi0ORW"
-      },
-      "artists": [
-        {
-          "name": "Orka",
-          "url": "https://open.spotify.com/artist/694axYJ7pjeqqmZOl6NALd"
-        },
-        {
-          "name": "Nadav Dagon",
-          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
-        },
-        {
-          "name": "Udi Ben Knaan",
-          "url": "https://open.spotify.com/artist/0dZeNqD3OcD8VJXpg6g9TL"
-        }
-      ],
-      "duration_ms": 358709,
-      "name": "Connecting",
-      "url": "https://open.spotify.com/track/2GqLPJfWy6YddJGWPAt2ZY"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "\u05d0\u05dc\u05e3 \u05e9\u05e0\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LL03NEbbyCnfwLOi2pPSb"
-      },
-      "artists": [
-        {
-          "name": "Metsada",
-          "url": "https://open.spotify.com/artist/5xtNnC30AU9vdyK5fziZS0"
-        }
-      ],
-      "duration_ms": 224814,
-      "name": "\u05d0\u05dc\u05e3 \u05e9\u05e0\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/0pP4E5AtqJwWrfm7ZxrTtu"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "Ping Pong",
-        "url": "https://open.spotify.com/album/4HDqMXKpePDKRtQ7iX2tJX"
-      },
-      "artists": [
-        {
-          "name": "Adi Feher",
-          "url": "https://open.spotify.com/artist/5aBJJGTiNWhFC6qCDidwyF"
-        }
-      ],
-      "duration_ms": 178375,
-      "name": "Ping Pong",
-      "url": "https://open.spotify.com/track/6BK9uGq6GDt8QFGQbLResQ"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "\u05d4\u05d7\u05dc\u05d9\u05e4\u05d4 \u05d4\u05d0\u05e4\u05d5\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/5NEOnDpvFgoyFgVBJVFXvI"
-      },
-      "artists": [
-        {
-          "name": "Lihi Toledano",
-          "url": "https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx"
-        }
-      ],
-      "duration_ms": 226079,
-      "name": "\u05d4\u05d7\u05dc\u05d9\u05e4\u05d4 \u05d4\u05d0\u05e4\u05d5\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/7xuJe7GeVrVvDxRGze1u9M"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "Into You",
-        "url": "https://open.spotify.com/album/71BzIKBlhJHYWdQXE3cal7"
-      },
-      "artists": [
-        {
-          "name": "Shelly Peled",
-          "url": "https://open.spotify.com/artist/5ZEItsgtbJ0twPTNd29wAR"
-        }
-      ],
-      "duration_ms": 251400,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/3VBYiTfk5Z09UUFssxTUIe"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "Buna",
-        "url": "https://open.spotify.com/album/4uthgvWJkSLC3nKjI8uPdK"
-      },
-      "artists": [
-        {
-          "name": "TamaRadah",
-          "url": "https://open.spotify.com/artist/2TQKpzejGpHKF3gqKAPdt0"
-        }
-      ],
-      "duration_ms": 184961,
-      "name": "Buna",
-      "url": "https://open.spotify.com/track/54ErghniqmE0FbaWWI8nCD"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "\u05e0\u05e9\u05d0\u05e8\u05ea \u05dc\u05d1\u05d3",
-        "url": "https://open.spotify.com/album/5HQFsXuPCS8zxXS8rBDOF1"
-      },
-      "artists": [
-        {
-          "name": "Sharon Haziz",
-          "url": "https://open.spotify.com/artist/0HWaHdiaEVDY3ANOSPzJHb"
-        }
-      ],
-      "duration_ms": 179445,
-      "name": "\u05e0\u05e9\u05d0\u05e8\u05ea \u05dc\u05d1\u05d3",
-      "url": "https://open.spotify.com/track/3NbVu9eIZRNSfY7tI4gguf"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
         "name": "\u05e8\u05d0\u05e9\u05d5\u05df \u05d1\u05d1\u05d5\u05e7\u05e8",
         "url": "https://open.spotify.com/album/4yXN6hkRfpYm4AshupuLn4"
@@ -389,111 +233,87 @@
       "url": "https://open.spotify.com/track/3xtK7rFrJvL5hrBu4vFgf7"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05de\u05d0\u05de\u05d9",
-        "url": "https://open.spotify.com/album/75PctryEK8QcxFQyEF37bc"
+        "name": "\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1\u05ea \u05d0\u05d5\u05ea\u05da",
+        "url": "https://open.spotify.com/album/1zyLWuRMgETsNbySD8pzDS"
       },
       "artists": [
         {
-          "name": "Odeya",
-          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
-        },
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+          "name": "Noy Fadlon",
+          "url": "https://open.spotify.com/artist/4VFtBffxanXW7fbw1xH7at"
         }
       ],
-      "duration_ms": 120000,
-      "name": "\u05de\u05d0\u05de\u05d9",
-      "url": "https://open.spotify.com/track/0iTSkLz9biPGVXqTSrkkNd"
+      "duration_ms": 211498,
+      "name": "\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1\u05ea \u05d0\u05d5\u05ea\u05da",
+      "url": "https://open.spotify.com/track/6AehJ8DWXFjsjFwafHZkib"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05e7\u05e8\u05d9\u05d5\u05e7\u05d9",
-        "url": "https://open.spotify.com/album/3McTG0AulBIvhIR4j6QI9w"
+        "name": "\u05d0\u05d9\u05e4\u05d4 \u05d0\u05ea\u05d4?",
+        "url": "https://open.spotify.com/album/68LfK2qQQd7fLZzNFJT0kN"
       },
       "artists": [
         {
-          "name": "J.Lamotta",
-          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
-        },
-        {
-          "name": "Jenny Penkin",
-          "url": "https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke"
+          "name": "Agam Buhbut",
+          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
         }
       ],
-      "duration_ms": 150319,
-      "name": "\u05e7\u05e8\u05d9\u05d5\u05e7\u05d9",
-      "url": "https://open.spotify.com/track/4hw7CHZvOxEmTWBg8729CZ"
+      "duration_ms": 171617,
+      "name": "\u05d0\u05d9\u05e4\u05d4 \u05d0\u05ea\u05d4?",
+      "url": "https://open.spotify.com/track/1EA8nSZ2nT9Lu9ZqwTwVW7"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05d0\u05d7\u05d5\u05ea\u05d9 \u05db\u05d1\u05e8 \u05dc\u05d0 \u05e1\u05d5\u05d1\u05dc\u05ea \u05d0\u05d5\u05ea\u05da",
-        "url": "https://open.spotify.com/album/50V1UPWQyk6uGVdIm8WgC5"
+        "name": "\u05d0\u05d9\u05df \u05dc\u05e0\u05d5 \u05e1\u05d5\u05e3",
+        "url": "https://open.spotify.com/album/4VhPNYhoWuTWcQ9BA40ZQV"
       },
       "artists": [
         {
-          "name": "Shira Margalit",
-          "url": "https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz"
+          "name": "Narkis",
+          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
         }
       ],
-      "duration_ms": 181760,
-      "name": "\u05d0\u05d7\u05d5\u05ea\u05d9 \u05db\u05d1\u05e8 \u05dc\u05d0 \u05e1\u05d5\u05d1\u05dc\u05ea \u05d0\u05d5\u05ea\u05da",
-      "url": "https://open.spotify.com/track/6clAq1cGO4PYimAmzelTmL"
+      "duration_ms": 190449,
+      "name": "\u05d0\u05d9\u05df \u05dc\u05e0\u05d5 \u05e1\u05d5\u05e3",
+      "url": "https://open.spotify.com/track/2eS1TH7IsLKMuG29fejmp4"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05db\u05d9\u05e0\u05d5\u05e8\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/7wGjAH5AKWpqrhGEWOOaqs"
+        "name": "\u05db\u05dc \u05d4\u05dc\u05d9\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/4yUfrpxUlzPGMcbXGapg6D"
       },
       "artists": [
         {
-          "name": "Eden Ben Zaken",
-          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
+          "name": "Alin Golan",
+          "url": "https://open.spotify.com/artist/0e2paefwT1ZqF2uvVq8Ldv"
         }
       ],
-      "duration_ms": 175910,
-      "name": "\u05db\u05d9\u05e0\u05d5\u05e8\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/01H5jdEyPwM4rhc7gTWLgt"
+      "duration_ms": 199958,
+      "name": "\u05db\u05dc \u05d4\u05dc\u05d9\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/0NZdzFYlNLraTjQsMwhlIe"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05de\u05e9\u05e4\u05d9\u05e2\u05e0\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/3AsoW2hX0D8PwokcM2wneO"
+        "name": "\u05de\u05d4 \u05d9\u05d4\u05d9\u05d4 \u05d0\u05d9\u05ea\u05da",
+        "url": "https://open.spotify.com/album/0rvFZpnMSm4tsMcUILBHwN"
       },
       "artists": [
         {
-          "name": "Maya Dadon",
-          "url": "https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG"
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
         }
       ],
-      "duration_ms": 217269,
-      "name": "\u05de\u05e9\u05e4\u05d9\u05e2\u05e0\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/1riszebbgh0yIfxj0mrnuJ"
+      "duration_ms": 255802,
+      "name": "\u05de\u05d4 \u05d9\u05d4\u05d9\u05d4 \u05d0\u05d9\u05ea\u05da",
+      "url": "https://open.spotify.com/track/0wyjFdOiQF7neJlQu2ij9O"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
-      "album": {
-        "name": "\u05d0\u05d5\u05de\u05e5",
-        "url": "https://open.spotify.com/album/7Cvpb9DLQGqCVqnDNYBJEV"
-      },
-      "artists": [
-        {
-          "name": "Roni Dalumi",
-          "url": "https://open.spotify.com/artist/5yjmxaLSoZEnkIWJRAmhQe"
-        }
-      ],
-      "duration_ms": 138625,
-      "name": "\u05d0\u05d5\u05de\u05e5",
-      "url": "https://open.spotify.com/track/4SrqTVvWCagcDGtq9be2u8"
-    },
-    {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
         "name": "\u05de\u05d5\u05e9\u05dc\u05de\u05ea",
         "url": "https://open.spotify.com/album/0tbdja4mA0ZVsmxyqvRsap"
@@ -513,90 +333,246 @@
       "url": "https://open.spotify.com/track/0jxvn0Efq7d65OGQAV8N7s"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05d4\u05d1\u05d0 \u05e9\u05e0\u05d5\u05d2\u05e2 \u05d1\u05d9 \u05de\u05ea",
-        "url": "https://open.spotify.com/album/7DUxPFr2TgIYc5jdLGBAWS"
+        "name": "\u05dc\u05e9\u05e0\u05d5\u05ea \u05d0\u05ea \u05d4\u05e2\u05d5\u05dc\u05dd",
+        "url": "https://open.spotify.com/album/6QssMchL1dLUouZ2HSK8kO"
       },
       "artists": [
         {
-          "name": "Efrat Gosh",
-          "url": "https://open.spotify.com/artist/31rjcnxNmi1OZHp6Ld7LLA"
+          "name": "Adi Ulmansky",
+          "url": "https://open.spotify.com/artist/3USGrdyXkg1eLoWJ7KhrhJ"
+        },
+        {
+          "name": "Shekel",
+          "url": "https://open.spotify.com/artist/4XRymSxqMfKCkA6njs39lM"
         }
       ],
-      "duration_ms": 211234,
-      "name": "\u05d4\u05d1\u05d0 \u05e9\u05e0\u05d5\u05d2\u05e2 \u05d1\u05d9 \u05de\u05ea",
-      "url": "https://open.spotify.com/track/1i4kcAV0Sbs9wJPmD8GPAD"
+      "duration_ms": 254000,
+      "name": "\u05dc\u05e9\u05e0\u05d5\u05ea \u05d0\u05ea \u05d4\u05e2\u05d5\u05dc\u05dd",
+      "url": "https://open.spotify.com/track/4HQc1EAtWVk2ACZKj8YZgy"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05de\u05d9\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/5eAxUHBAHphUbTsY9ImPIH"
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B"
       },
       "artists": [
         {
-          "name": "Ester Rada",
-          "url": "https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g"
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
         }
       ],
-      "duration_ms": 170890,
-      "name": "\u05de\u05d9\u05dc\u05d9\u05d5\u05e0\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/24fYXSdvSb6zBFvzNN5lkl"
+      "duration_ms": 179890,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "Between Us",
-        "url": "https://open.spotify.com/album/4occFG8reElejLnGd2KyTb"
+        "name": "\u05e1\u05d8\u05d8\u05d5\u05e1",
+        "url": "https://open.spotify.com/album/25NrLi2xwYYO8WniTmdKL6"
       },
       "artists": [
         {
-          "name": "Mika Sade",
-          "url": "https://open.spotify.com/artist/0kROWsDsrudeisdMchbraW"
+          "name": "Nunu",
+          "url": "https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG"
         }
       ],
-      "duration_ms": 197250,
-      "name": "Between Us",
-      "url": "https://open.spotify.com/track/1iSAcQFAiSuCaFjKm7Wcof"
+      "duration_ms": 142386,
+      "name": "\u05e7\u05d5\u05d1\u05d9\u05d3 19",
+      "url": "https://open.spotify.com/track/7dEtCKY2MthcyP0U6aiMCW"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "Rock Bottom",
-        "url": "https://open.spotify.com/album/06F0m1IxFzxvmhM71vUNfV"
+        "name": "\u05d0\u05de\u05d0",
+        "url": "https://open.spotify.com/album/4ZuC2HCyhejMClAavzLX3o"
       },
       "artists": [
         {
-          "name": "Sheer Haimov",
-          "url": "https://open.spotify.com/artist/4iwsoEswW7lHcsgIHsO3pd"
+          "name": "Shiri Maimon",
+          "url": "https://open.spotify.com/artist/3giniJpo19Md4V5Plataq2"
         }
       ],
-      "duration_ms": 179608,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/586CTpvu8wf98jSuMcM3gH"
+      "duration_ms": 175259,
+      "name": "\u05d0\u05de\u05d0",
+      "url": "https://open.spotify.com/track/3wYF5MudhMnKi7ewkE9JJJ"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "Water on Water",
-        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
+        "name": "\u05ea\u05de\u05d9\u05d3 \u05d1\u05dc\u05d0\u05d2\u05df",
+        "url": "https://open.spotify.com/album/1btMewQXEsROVHR6gSoidL"
       },
       "artists": [
         {
-          "name": "Roni Alter",
-          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
+          "name": "\u05de\u05d9\u05d4 \u05e1\u05d5\u05dc\u05d9\u05de\u05df",
+          "url": "https://open.spotify.com/artist/12ft1cfLUNXc6gfM1JzaKR"
         }
       ],
-      "duration_ms": 308093,
-      "name": "Carry me home",
-      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
+      "duration_ms": 175833,
+      "name": "\u05ea\u05de\u05d9\u05d3 \u05d1\u05dc\u05d0\u05d2\u05df",
+      "url": "https://open.spotify.com/track/286lPLYHPdOxxyku1mYwfX"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05e0\u05e0\u05d4 \u05d1\u05e0\u05e0\u05d4",
-        "url": "https://open.spotify.com/album/4a8a0ZjvWDneAYbGWUl0t7"
+        "name": "\u05d4\u05d7\u05dc\u05d9\u05e4\u05d4 \u05d4\u05d0\u05e4\u05d5\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/5NEOnDpvFgoyFgVBJVFXvI"
+      },
+      "artists": [
+        {
+          "name": "Lihi Toledano",
+          "url": "https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx"
+        }
+      ],
+      "duration_ms": 226079,
+      "name": "\u05d4\u05d7\u05dc\u05d9\u05e4\u05d4 \u05d4\u05d0\u05e4\u05d5\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/7xuJe7GeVrVvDxRGze1u9M"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "\u05db\u05dc\u05d5\u05dd \u05dc\u05d0 \u05e7\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/1DRSxDtihUnSTeH2xWn34D"
+      },
+      "artists": [
+        {
+          "name": "Iggy Waxman",
+          "url": "https://open.spotify.com/artist/2tkkTH2ypDbb40swErU2w6"
+        }
+      ],
+      "duration_ms": 122272,
+      "name": "\u05db\u05dc\u05d5\u05dd \u05dc\u05d0 \u05e7\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/2f4gjt5FMykDEqMVaOBq9h"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "Red Lines",
+        "url": "https://open.spotify.com/album/3iN07fX57Q2viUc50j6wvM"
+      },
+      "artists": [
+        {
+          "name": "Roni Bar Hadas",
+          "url": "https://open.spotify.com/artist/5OZeMBvHIGYKnOg3WfBQ44"
+        }
+      ],
+      "duration_ms": 255584,
+      "name": "Red Lines",
+      "url": "https://open.spotify.com/track/6KQy9nQIl5jkgElKSBp5c1"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "For M.",
+        "url": "https://open.spotify.com/album/3acsY0Nwb0ZZUGgQhvaVMq"
+      },
+      "artists": [
+        {
+          "name": "Adi Feher",
+          "url": "https://open.spotify.com/artist/5aBJJGTiNWhFC6qCDidwyF"
+        }
+      ],
+      "duration_ms": 174364,
+      "name": "The Encounter",
+      "url": "https://open.spotify.com/track/4Vb6G5GcxMaraNUyEymQyW"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "\u05d7\u05dc\u05e7 \u05de\u05e2\u05e6\u05de\u05d9",
+        "url": "https://open.spotify.com/album/0H3KnEzzkEndaigHKv40i5"
+      },
+      "artists": [
+        {
+          "name": "\u05d4\u05d2\u05e8 \u05d9\u05e4\u05ea",
+          "url": "https://open.spotify.com/artist/0yuzd9F7msg9MS8MTzQOmy"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "\u05d7\u05dc\u05e7 \u05de\u05e2\u05e6\u05de\u05d9",
+      "url": "https://open.spotify.com/track/4GraasFTiB9Cp6FfuapkNg"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/71r3rcjimNXtdfKZoRl7Gg"
+      },
+      "artists": [
+        {
+          "name": "Emily Karpel",
+          "url": "https://open.spotify.com/artist/7ytcg5LcEvPWBGwbZ1Rhtj"
+        }
+      ],
+      "duration_ms": 215472,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/3Iyrbc2D7t0JSIrsgDMo9G"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/0SekRdnjFkamVpxFz04uEV"
+      },
+      "artists": [
+        {
+          "name": "ORCA",
+          "url": "https://open.spotify.com/artist/4zX19Kr8d8QfTn07OBVEAu"
+        },
+        {
+          "name": "OZEL",
+          "url": "https://open.spotify.com/artist/7rnFtYcUMZEtcWQaQeBCVl"
+        }
+      ],
+      "duration_ms": 187885,
+      "name": "Hang Low",
+      "url": "https://open.spotify.com/track/4g2fgGyuDzDTMGswB25hWQ"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "\u05d4\u05de\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d0 \u05e0\u05d2\u05de\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/1OEasnq0LGYPZRtkBXYwQc"
+      },
+      "artists": [
+        {
+          "name": "Rona Kenan",
+          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+        }
+      ],
+      "duration_ms": 186900,
+      "name": "\u05d4\u05de\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d0 \u05e0\u05d2\u05de\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/61CWsw4LnfMTR4MoXiZKlU"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "\u05d0\u05dc \u05ea\u05d2\u05d9\u05d3 \u05dc\u05d9 \u05e9\u05dc\u05d0",
+        "url": "https://open.spotify.com/album/1xHjjToFEJk7Zv2gKFifU2"
+      },
+      "artists": [
+        {
+          "name": "Sabbo",
+          "url": "https://open.spotify.com/artist/1Le4RKC0GO8sD4cRxmqlgp"
+        },
+        {
+          "name": "ZIV",
+          "url": "https://open.spotify.com/artist/05Oc7LzqtxHyG3ywMwDAIy"
+        }
+      ],
+      "duration_ms": 229260,
+      "name": "\u05d0\u05dc \u05ea\u05d2\u05d9\u05d3 \u05dc\u05d9 \u05e9\u05dc\u05d0",
+      "url": "https://open.spotify.com/track/49X32jbEaRdrx74a1I0jHw"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "\u05d1\u05de\u05e6\u05d9\u05d0\u05d5\u05ea \u05d0\u05d7\u05e8\u05ea",
+        "url": "https://open.spotify.com/album/2LzxRyPFyZeTGRbKRVMgFy"
       },
       "artists": [
         {
@@ -604,12 +580,12 @@
           "url": "https://open.spotify.com/artist/31h1Tt25QjurO3YixXtJ5Y"
         }
       ],
-      "duration_ms": 140408,
-      "name": "\u05e0\u05e0\u05d4 \u05d1\u05e0\u05e0\u05d4",
-      "url": "https://open.spotify.com/track/2un3eax2X0XgvF1ixBlw8O"
+      "duration_ms": 173918,
+      "name": "\u05d1\u05de\u05e6\u05d9\u05d0\u05d5\u05ea \u05d0\u05d7\u05e8\u05ea",
+      "url": "https://open.spotify.com/track/29ptgDCRhesqi8HothlQc2"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
         "name": "\u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d0\u05d7\u05e8\u05d9\u05da (\u200fProd. By Tamar Yahalomy & Yonatan Kalimi)",
         "url": "https://open.spotify.com/album/7kcDQOhUa1aPr9A7bRlg14"
@@ -625,240 +601,244 @@
       "url": "https://open.spotify.com/track/0urIdTVIjmPX5i9dsIusQj"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05d0\u05d9\u05e4\u05d4 \u05d0\u05ea\u05d4?",
-        "url": "https://open.spotify.com/album/68LfK2qQQd7fLZzNFJT0kN"
+        "name": "\u05dc\u05d9\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/1ueHYQTNGJBpFnqMKxqArL"
       },
       "artists": [
         {
-          "name": "Agam Buhbut",
-          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
+          "name": "Valerie Hamaty",
+          "url": "https://open.spotify.com/artist/6BY5HhFibJ6LXJ1vVAByLw"
         }
       ],
-      "duration_ms": 171617,
-      "name": "\u05d0\u05d9\u05e4\u05d4 \u05d0\u05ea\u05d4?",
-      "url": "https://open.spotify.com/track/1EA8nSZ2nT9Lu9ZqwTwVW7"
+      "duration_ms": 211000,
+      "name": "\u05dc\u05d9\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/5Qf4b60SY158CFsXJLlyXl"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05de\u05e6\u05e8\u05d9\u05dd / \u05d0\u05dc\u05e3 \u05e4\u05e2\u05dd",
-        "url": "https://open.spotify.com/album/7FZSF9I5w3UySVddWFbTAN"
+        "name": "\u05d0\u05dd \u05de\u05d9\u05e9\u05d4\u05d5 \u05d9\u05d3\u05e2",
+        "url": "https://open.spotify.com/album/1cTBQ1heTAZSpQknL4po0J"
       },
       "artists": [
         {
-          "name": "Aya Korem",
-          "url": "https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25"
+          "name": "Sapir Saban",
+          "url": "https://open.spotify.com/artist/5Aw431uxuPIJWiPuiEpIWr"
         }
       ],
-      "duration_ms": 285000,
-      "name": "\u05de\u05e6\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/5ClWK5AX04zMv2JXBxXScI"
+      "duration_ms": 156521,
+      "name": "\u05d0\u05dd \u05de\u05d9\u05e9\u05d4\u05d5 \u05d9\u05d3\u05e2",
+      "url": "https://open.spotify.com/track/4AAh2IUAoydGtsrmXV1BA0"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05e9\u05dc\u05dd \u05e2\u05dc\u05d9\u05d9 - Pay4me",
-        "url": "https://open.spotify.com/album/0dlqp2x3x8Y2UoqLJ8Pka9"
+        "name": "\u05de\u05d4 \u05ea\u05e2\u05e9\u05d9 \u05d1\u05dc\u05e2\u05d3\u05d9\u05d9?",
+        "url": "https://open.spotify.com/album/1VUMmjoEWN1gZhvv6Ad8G9"
       },
       "artists": [
         {
-          "name": "Riff Cohen",
-          "url": "https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg"
+          "name": "Margalit Tzan'ani",
+          "url": "https://open.spotify.com/artist/2l6M7GaS9x3rZOX6nDX3CM"
         }
       ],
-      "duration_ms": 204732,
-      "name": "\u05e9\u05dc\u05dd \u05e2\u05dc\u05d9\u05d9 - Pay4me",
-      "url": "https://open.spotify.com/track/5oBfXbiGMO4YN2vahPCm2Q"
+      "duration_ms": 199903,
+      "name": "\u05de\u05d4 \u05ea\u05e2\u05e9\u05d9 \u05d1\u05dc\u05e2\u05d3\u05d9\u05d9?",
+      "url": "https://open.spotify.com/track/0wI7bezsgafxJaJFyvs4N0"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05da",
-        "url": "https://open.spotify.com/album/6bMWo4jKSJTR5KndNMessC"
+        "name": "\u05db\u05e9\u05d4\u05dc\u05d1 \u05d4\u05d5\u05d0 \u05d7\u05d5\u05e4\u05e9\u05d9",
+        "url": "https://open.spotify.com/album/6zQ4LP6XQbwQzZF5XOG8CG"
       },
       "artists": [
         {
-          "name": "Noy Fadlon",
-          "url": "https://open.spotify.com/artist/4VFtBffxanXW7fbw1xH7at"
+          "name": "Gali Atari",
+          "url": "https://open.spotify.com/artist/4og9lYRD6weUueMRu8lbP4"
         }
       ],
-      "duration_ms": 211498,
-      "name": "\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05da (Prod. by Offir Malol)",
-      "url": "https://open.spotify.com/track/3RWhzp0KIMmqB5mJxi1e3p"
+      "duration_ms": 183000,
+      "name": "\u05db\u05e9\u05d4\u05dc\u05d1 \u05d4\u05d5\u05d0 \u05d7\u05d5\u05e4\u05e9\u05d9",
+      "url": "https://open.spotify.com/track/4qvwvEJoeozR6aGO2Fo4MP"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05d9\u05d5\u05dd \u05d9\u05d1\u05d5\u05d0",
-        "url": "https://open.spotify.com/album/6keqEBqfKcUxj4ilmUyrqf"
+        "name": "A'nd Ethiopia",
+        "url": "https://open.spotify.com/album/4YUCmE7HKRwULplZAKQYIr"
       },
       "artists": [
         {
-          "name": "\u05d4\u05d2\u05e8 \u05d9\u05e4\u05ea",
-          "url": "https://open.spotify.com/artist/0yuzd9F7msg9MS8MTzQOmy"
+          "name": "TamaRadah",
+          "url": "https://open.spotify.com/artist/2TQKpzejGpHKF3gqKAPdt0"
         }
       ],
-      "duration_ms": 172159,
-      "name": "\u05d9\u05d5\u05dd \u05d9\u05d1\u05d5\u05d0",
-      "url": "https://open.spotify.com/track/6BNHpkH8xxsVVrKlvVpQPQ"
+      "duration_ms": 233472,
+      "name": "A'nd Ethiopia",
+      "url": "https://open.spotify.com/track/0uFzp8dXGF6Eb7HMsg8ITU"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05e1\u05d9\u05d5\u05d5\u05e4\u05dc\u05d4",
-        "url": "https://open.spotify.com/album/7wHnlFe5drIJIPsl9y2qw8"
+        "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05e7\u05e6\u05ea \u05e9\u05ea\u05de\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/5AFncCD1w7lzJHzSQeQVPx"
       },
       "artists": [
         {
-          "name": "Nunu",
-          "url": "https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG"
-        },
-        {
-          "name": "TOX1C",
-          "url": "https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp"
+          "name": "Gaya Shaki",
+          "url": "https://open.spotify.com/artist/4CMezkD0gxsstpISAYphBl"
         }
       ],
-      "duration_ms": 143636,
-      "name": "\u05e1\u05d9\u05d5\u05d5\u05e4\u05dc\u05d4",
-      "url": "https://open.spotify.com/track/3xoOOmHo07QA9Q7ng1aplW"
+      "duration_ms": 159018,
+      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05e7\u05e6\u05ea \u05e9\u05ea\u05de\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/6qq949cEFVrEbKuYFDRIbb"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05d1\u05d0 \u05de\u05d6\u05de\u05df \u05dc\u05d6\u05de\u05df",
-        "url": "https://open.spotify.com/album/0OrbuQERxJJ0glkoE3KzTs"
+        "name": "\u05d7\u05d6\u05e7\u05d4 \u05d9\u05d5\u05ea\u05e8",
+        "url": "https://open.spotify.com/album/60pcAHs63pg8GH5YuOYLTW"
       },
       "artists": [
         {
-          "name": "Shiri Maimon",
-          "url": "https://open.spotify.com/artist/3giniJpo19Md4V5Plataq2"
+          "name": "Mika Moshe",
+          "url": "https://open.spotify.com/artist/2TbLxamjJeEArYTdwdpvC6"
         }
       ],
-      "duration_ms": 191300,
-      "name": "\u05d1\u05d0 \u05de\u05d6\u05de\u05df \u05dc\u05d6\u05de\u05df",
-      "url": "https://open.spotify.com/track/3yAT1YCcxHYfzopKSawQM1"
+      "duration_ms": 193810,
+      "name": "\u05d7\u05d6\u05e7\u05d4 \u05d9\u05d5\u05ea\u05e8",
+      "url": "https://open.spotify.com/track/0Ceh8etqp3j2DM17X1ExBY"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05de\u05e9\u05d5\u05dc\u05e9 \u05e7\u05d3\u05d5\u05e9",
-        "url": "https://open.spotify.com/album/5hk5va1tbx2mlGNsc9EYrJ"
+        "name": "\u05d4\u05e8\u05d2\u05e2 \u05d4\u05d6\u05d4",
+        "url": "https://open.spotify.com/album/5OVdkLDtvS2gdhcVHGviB7"
       },
       "artists": [
         {
-          "name": "Eden Derso",
-          "url": "https://open.spotify.com/artist/7sG6GYc2AsX0HNOkVdGCO4"
+          "name": "Daniel Rubin",
+          "url": "https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB"
         }
       ],
-      "duration_ms": 157734,
-      "name": "\u05e1\u05d5\u05db\u05e8",
-      "url": "https://open.spotify.com/track/6MppVuQjxN9rV4jnI2nypy"
+      "duration_ms": 246400,
+      "name": "\u05d4\u05e8\u05d2\u05e2 \u05d4\u05d6\u05d4",
+      "url": "https://open.spotify.com/track/7ijNPOU3Jvc21qAy8lpE7Z"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "NAILS (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/250tsczCTKdauTN2QJgak4"
+        "name": "\u05d0\u05dc\u05e3 \u05e9\u05e0\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LL03NEbbyCnfwLOi2pPSb"
       },
       "artists": [
         {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Metsada",
+          "url": "https://open.spotify.com/artist/5xtNnC30AU9vdyK5fziZS0"
         }
       ],
-      "duration_ms": 171750,
-      "name": "NAILS (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq"
+      "duration_ms": 224814,
+      "name": "\u05d0\u05dc\u05e3 \u05e9\u05e0\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/0pP4E5AtqJwWrfm7ZxrTtu"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05db\u05b8\u05bc\u05d1\u05d5\u05b9\u05d3",
-        "url": "https://open.spotify.com/album/4uhBSCwAjVHz2Bl7uwVQrE"
+        "name": "Hands Off",
+        "url": "https://open.spotify.com/album/3Q6ECKkcVp68KK7haQv9ac"
       },
       "artists": [
         {
-          "name": "Daniel sun Krief",
-          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
+          "name": "Terry Poison",
+          "url": "https://open.spotify.com/artist/6VyVdEOmZsAQaWOa2kw3Xc"
         }
       ],
-      "duration_ms": 195520,
-      "name": "\u05db\u05b8\u05bc\u05d1\u05d5\u05b9\u05d3",
-      "url": "https://open.spotify.com/track/50MKWXRphRZPAWHm1o9Dn7"
+      "duration_ms": 187265,
+      "name": "Hands Off",
+      "url": "https://open.spotify.com/track/1ss4p110SN4kd26iAdDETy"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05e7\u05d3\u05dd",
-        "url": "https://open.spotify.com/album/1yStdlqzam9jBtPpAPmUgW"
+        "name": "\u05d6\u05d6\u05d4 \u05de\u05d6\u05d4",
+        "url": "https://open.spotify.com/album/6gjvCLkUl9RDcwjNtUWr8t"
       },
       "artists": [
         {
-          "name": "Maayan Linik",
-          "url": "https://open.spotify.com/artist/6RzuwCbcn7Lxkg32uUcHLR"
+          "name": "Mika Karni",
+          "url": "https://open.spotify.com/artist/67trMXLIr07HCRo7bBJn08"
         }
       ],
-      "duration_ms": 207181,
-      "name": "\u05e7\u05d3\u05dd",
-      "url": "https://open.spotify.com/track/39MGd1DWkfjbsywhal4Hhh"
+      "duration_ms": 240000,
+      "name": "\u05d6\u05d6\u05d4 \u05de\u05d6\u05d4",
+      "url": "https://open.spotify.com/track/0tzwyBD53mBQca1QSEhtLZ"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "Black Velvet",
-        "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
+        "name": "Buna",
+        "url": "https://open.spotify.com/album/4uthgvWJkSLC3nKjI8uPdK"
       },
       "artists": [
         {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        },
-        {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+          "name": "TamaRadah",
+          "url": "https://open.spotify.com/artist/2TQKpzejGpHKF3gqKAPdt0"
         }
       ],
-      "duration_ms": 248400,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
+      "duration_ms": 184961,
+      "name": "Buna",
+      "url": "https://open.spotify.com/track/54ErghniqmE0FbaWWI8nCD"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05de\u05e6\u05d0\u05ea \u05de\u05d9\u05e9\u05d4\u05d9",
-        "url": "https://open.spotify.com/album/3z2YU9BcESc9kcCmzmksEo"
+        "name": "\u05e0\u05e9\u05d0\u05e8\u05ea \u05dc\u05d1\u05d3",
+        "url": "https://open.spotify.com/album/5HQFsXuPCS8zxXS8rBDOF1"
       },
       "artists": [
         {
-          "name": "Noy Fadlon",
-          "url": "https://open.spotify.com/artist/4VFtBffxanXW7fbw1xH7at"
+          "name": "Sharon Haziz",
+          "url": "https://open.spotify.com/artist/0HWaHdiaEVDY3ANOSPzJHb"
         }
       ],
-      "duration_ms": 155141,
-      "name": "\u05de\u05e6\u05d0\u05ea \u05de\u05d9\u05e9\u05d4\u05d9",
-      "url": "https://open.spotify.com/track/4phgRAtdNFqGb6UWjYBGdQ"
+      "duration_ms": 179445,
+      "name": "\u05e0\u05e9\u05d0\u05e8\u05ea \u05dc\u05d1\u05d3",
+      "url": "https://open.spotify.com/track/3NbVu9eIZRNSfY7tI4gguf"
     },
     {
-      "added_at": "2023-01-31 22:00:00",
+      "added_at": "2023-02-28 22:00:00",
       "album": {
-        "name": "\u05d0\u05dd \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e6\u05e8\u05d9\u05db\u05d4",
-        "url": "https://open.spotify.com/album/5B3xBhi3cYWXHcl8uFNDYm"
+        "name": "\u05d4\u05d1\u05d0 \u05e9\u05e0\u05d5\u05d2\u05e2 \u05d1\u05d9 \u05de\u05ea",
+        "url": "https://open.spotify.com/album/7DUxPFr2TgIYc5jdLGBAWS"
       },
       "artists": [
         {
-          "name": "Odeya",
-          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+          "name": "Efrat Gosh",
+          "url": "https://open.spotify.com/artist/31rjcnxNmi1OZHp6Ld7LLA"
         }
       ],
-      "duration_ms": 204255,
-      "name": "\u05d0\u05dd \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e6\u05e8\u05d9\u05db\u05d4",
-      "url": "https://open.spotify.com/track/79h6P8bV0ENtq6Vmhkpewr"
+      "duration_ms": 211234,
+      "name": "\u05d4\u05d1\u05d0 \u05e9\u05e0\u05d5\u05d2\u05e2 \u05d1\u05d9 \u05de\u05ea",
+      "url": "https://open.spotify.com/track/1i4kcAV0Sbs9wJPmD8GPAD"
+    },
+    {
+      "added_at": "2023-02-28 22:00:00",
+      "album": {
+        "name": "Water on Water",
+        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
+      },
+      "artists": [
+        {
+          "name": "Roni Alter",
+          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
+        }
+      ],
+      "duration_ms": 308093,
+      "name": "Carry me home",
+      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
     }
   ],
   "unique_name": "EQUAL Israel",

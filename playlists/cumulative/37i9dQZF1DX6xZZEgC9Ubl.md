@@ -4,10 +4,11 @@
 
 > In your bag\. Cover: Kxllswxtch
 
-779 songs - 1 day 11 hr 25 min
+779 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 0:00 | 2022-06-10 |  |
 | [\(i hope you\) miss me](https://open.spotify.com/track/1Zv2jT7iZu98Feqpzhn0nd) | [Joseph Black](https://open.spotify.com/artist/7sPFCTilT1dZsqcDXzOiQf) | [\(i hope you\) miss me](https://open.spotify.com/album/2FSsUu3vgMkoffjHBSdk1r) | 2:39 | 2021-01-15 | 2021-04-24 |
 | [...And To Those I Love, Thanks For Sticking Around](https://open.spotify.com/track/23GLgk0r6rKVCic7cCFArg) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [STOP STARING AT THE SHADOWS](https://open.spotify.com/album/2yopGJJSiA6ZDpw9IsGXTA) | 2:48 | 2021-01-15 | 2022-03-19 |
 | [1.28.19](https://open.spotify.com/track/0Wjczjn4UW1DBl0Hzt9bkx) | [Chynna](https://open.spotify.com/artist/41TSOINjztNAFtwuGenWVA) | [drug opera](https://open.spotify.com/album/7huwRfNMhKPpjIX6xyUZUk) | 3:44 | 2021-10-12 | 2021-10-13 |
@@ -362,7 +363,6 @@
 | [Is It True?](https://open.spotify.com/track/0Nycz2YwjTTaogpN5VFs4u) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Is It True?](https://open.spotify.com/album/0TJEweaCCuwREkAWbzFdeA) | 3:02 | 2022-05-27 | 2022-07-26 |
 | [Issues](https://open.spotify.com/track/73RF3sAfPudbZ57jChqhiv) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Issues](https://open.spotify.com/album/1fXSKNUR40ajVJvD4inDly) | 2:46 | 2021-06-12 | 2022-04-18 |
 | [it only gets worse, i promise](https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [it only gets worse, i promise](https://open.spotify.com/album/361dxLkzUSAyH159ZtXUUj) | 2:34 | 2021-09-27 | 2022-07-27 |
-| [I’ll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 | 2022-06-10 |  |
 | [jaded](https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [jaded](https://open.spotify.com/album/6T23UR8liTx61aRkLl0E7p) | 2:40 | 2022-05-23 |  |
 | [jetlag](https://open.spotify.com/track/1lpxJ3K9cvOTZzFwFFIHT1) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [jetlag](https://open.spotify.com/album/5y84p6F74Mc1Q8x1QvaFPS) | 2:00 | 2022-04-15 | 2022-06-30 |
 | [jetlag](https://open.spotify.com/track/62jvrAm0bIgTj9auHh3XFS) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [creatures together](https://open.spotify.com/album/55MvRMMqTYn6NTxLqu5PjX) | 2:00 | 2022-10-07 | 2022-10-15 |

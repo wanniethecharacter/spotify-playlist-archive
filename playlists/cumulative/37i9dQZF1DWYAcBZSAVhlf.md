@@ -4,7 +4,7 @@
 
 > The best feel\-good songs of the 1980s.
 
-193 songs - 12 hr 54 min
+194 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All Night Long \(All Night\)](https://open.spotify.com/track/1DxT6f6mH7kLriOUWbujup) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 6:22 | 2021-04-29 | 2022-07-29 |
 | [All Night Long \(All Night\)](https://open.spotify.com/track/7gaQtc0vrSpmRJpSMDiPEk) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down \(Deluxe Edition\)](https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC) | 6:23 | 2022-05-11 | 2022-11-25 |
 | [Always on My Mind](https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 3:54 | 2021-04-29 | 2022-07-29 |
-| [Always on My Mind \- 2003 Remaster](https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv) | 3:57 | 2023-01-03 |  |
+| [Always on My Mind \- 2003 Remaster](https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv) | 3:57 | 2023-01-03 | 2023-03-01 |
 | [Any Dream Will Do](https://open.spotify.com/track/4FEyVH9a4WGY6zdhVixIxE) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Jason Donovan](https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4), ["Joseph And The Amazing Technicolor Dreamcoat" 1991 London Cast](https://open.spotify.com/artist/7CD4S5LN8BeM1MVjL7ASK4) | [Joseph And The Amazing Technicolor Dreamcoat](https://open.spotify.com/album/4fGWn2HIeTZsIgIzaoL8sx) | 3:54 | 2021-10-05 | 2022-07-29 |
 | [Axel F](https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [Harold F](https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc) | 3:00 | 2022-05-11 |  |
 | [Axel F \- From "Beverly Hills Cop"](https://open.spotify.com/track/2MXo0rStHudN4KrgJqz6bC) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [True Disco \(3 CD Set\)](https://open.spotify.com/album/4KpgD16YgavSq0RQYiADD5) | 3:01 | 2021-04-29 | 2022-04-21 |
@@ -162,6 +162,7 @@
 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 | 2021-04-29 |  |
 | [The Race](https://open.spotify.com/track/3SPYCV8Nn7S8pnsGup9qsz) | [Yello](https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi) | [Essential Yello](https://open.spotify.com/album/1Vs9UuwwRcFf9GA0sMnoDT) | 3:21 | 2021-04-29 | 2022-04-21 |
 | [The Right Thing](https://open.spotify.com/track/2ZfALE4EncKJFqsEwDkrl9) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Men and Women \(Expanded Version\)](https://open.spotify.com/album/2cUNjYzEhwwmjtmHsDM54t) | 4:17 | 2021-04-29 | 2023-01-02 |
+| [The Safety Dance](https://open.spotify.com/track/4t5lrf5rFX6JWAUPKCDlKk) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rock Of The 80's](https://open.spotify.com/album/2avyCubWluhpGqAbYYbmph) | 2:45 | 2023-02-28 |  |
 | [The Tide Is High \- Edit](https://open.spotify.com/track/165NAtd2DRPKNQ6EVY0VG9) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Tide Is High](https://open.spotify.com/album/0zkNOW8F8hcsEwIhulD67b) | 3:53 | 2021-04-29 | 2022-11-13 |
 | [The Way You Make Me Feel \- 2012 Remaster](https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:58 | 2021-04-29 |  |
 | [Theme from S\-Express](https://open.spotify.com/track/1ZT36B4fO2R7rBCGRb3XIM) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [The Definitive 80's \(eighties\)](https://open.spotify.com/album/0H8w0t8lsZiSTVA3yORSVP) | 3:54 | 2021-04-29 | 2022-04-20 |

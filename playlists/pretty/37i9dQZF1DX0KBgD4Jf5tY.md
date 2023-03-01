@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:1HHQ5Lz44duNiQmpzKU0jd">soap</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,558 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,572 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 30 | [magari t’innamori](https://open.spotify.com/track/6oFDVisE99EQHTxpoR0iBM) | [Dale](https://open.spotify.com/artist/7ldxWvmHhkRb9VUV3D2dMv) | [magari t’innamori](https://open.spotify.com/album/5UlD0ZyqiZthfomG0awcCV) | 2:47 |
 | 31 | [Parigi](https://open.spotify.com/track/1QOX3kqLnL5bDxTULhgfir) | [Denoise](https://open.spotify.com/artist/5p8W2If8qwjFGW7peV00Qo) | [E poi in un momento diverso dagli altri](https://open.spotify.com/album/6PnDZLGUuSkZMHevZUgXOt) | 3:18 |
 | 32 | [Ma tu ci tieni a me?](https://open.spotify.com/track/0KeF7ceyOpu0Ibo6H0xUD0) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Ma tu ci tieni a me?](https://open.spotify.com/album/7xVTEaPyoS67yHalgjQi8u) | 3:01 |
-| 33 | [Perché x3](https://open.spotify.com/track/4Eic047RKaqabELHSMyUsu) | [Ciao sono Vale](https://open.spotify.com/artist/4F9QCOBWpH7P6zZwF6kKOc), [Young Ned](https://open.spotify.com/artist/5If74jYE6YIOyFveWJaRh7) | [Perché x3](https://open.spotify.com/album/4xT4HTUoNZcUdrBo8Oc3Lw) | 3:04 |
+| 33 | [Perché x3](https://open.spotify.com/track/4Eic047RKaqabELHSMyUsu) | [Ciao sono Vale](https://open.spotify.com/artist/4F9QCOBWpH7P6zZwF6kKOc) | [Perché x3](https://open.spotify.com/album/4xT4HTUoNZcUdrBo8Oc3Lw) | 3:04 |
 | 34 | [Vallanzasca](https://open.spotify.com/track/5rPfyNNY0VFMDFuulJCTLi) | [Erre](https://open.spotify.com/artist/0lw8IVoA8vYLLzjVxpsa5w) | [Vallanzasca](https://open.spotify.com/album/5jDXqDqpa6ZNJ4amNRCiy0) | 2:14 |
 | 35 | [LUNA](https://open.spotify.com/track/2ofbzIEV9PxrPh6Xfgr0No) | [Tamara](https://open.spotify.com/artist/0EyurrrSNYs9RHlcmWOjVM) | [LUNA](https://open.spotify.com/album/6gm4oM45qqRFipAUV5Nf5O) | 3:06 |
 | 36 | [Madrid](https://open.spotify.com/track/3Jhis8KUVqGHGucAIJ7gZj) | [Serni](https://open.spotify.com/artist/7C6H0dyN6J76NT1oOIK6Vr), [illVeno](https://open.spotify.com/artist/4m4T3yni8geaTZRC7S0Vdq) | [Madrid](https://open.spotify.com/album/6mCDC9SPRnoEqrKqTBQvM4) | 3:13 |

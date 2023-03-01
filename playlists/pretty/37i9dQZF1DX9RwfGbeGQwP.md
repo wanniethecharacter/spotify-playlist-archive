@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,595 likes - 510 songs - 18 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,820 likes - 510 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 26 | [Under The Stars](https://open.spotify.com/track/7JaX10rbsmPiwJANAjAouR) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Under The Stars](https://open.spotify.com/album/7ivCdZwxSn6gvMPPajMOlO) | 1:55 |
 | 27 | [Rosé For Breakfast](https://open.spotify.com/track/7cO2sDDjsSG6altNBcy8h6) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rosé For Breakfast](https://open.spotify.com/album/0afijbIAtcutNiEJZRwinE) | 2:44 |
 | 28 | [bloom](https://open.spotify.com/track/0dOnielazzJAafGsSBYmWl) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [bloom](https://open.spotify.com/album/5BJau1GLTkarkCZ6fHkpDK) | 2:13 |
-| 29 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [Hazeeman](https://open.spotify.com/artist/5mLnKXD8YyMwMI7dCBpFkP) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 |
+| 29 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 |
 | 30 | [Everything I'm not](https://open.spotify.com/track/3VRUnokiLze9VzGfeQWt8i) | [lowerful](https://open.spotify.com/artist/5vud9meb096x8pcNKiGDAm) | [Everything I'm not](https://open.spotify.com/album/25MzO5IM7UJI0YLX1eNfbM) | 1:48 |
 | 31 | [Principles](https://open.spotify.com/track/0dgAgBQijLtATLnQ9wxjrk) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Eggz Benny](https://open.spotify.com/album/3zuujkBis1epFkensMUnp7) | 2:05 |
 | 32 | [Crystals](https://open.spotify.com/track/224u5HmiQxK7tQLWrFGdrF) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Crystals](https://open.spotify.com/album/2vNj0Ps06Qzx7eOADRP1NC) | 2:07 |

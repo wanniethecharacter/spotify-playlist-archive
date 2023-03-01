@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "2gether 4ever",
+        "url": "https://open.spotify.com/album/5ipfEYTI2lQB5a8ztTtsFx"
+      },
+      "artists": [
+        {
+          "name": "AYANE",
+          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203879,
+      "name": "2gether 4ever",
+      "url": "https://open.spotify.com/track/5t8oTln1Hm5wX4J5sumiQH"
+    },
+    {
+      "album": {
         "name": "Ainokotoba",
         "url": "https://open.spotify.com/album/2vhhT7EjOboMtOGOSiA82b"
       },
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 211500,
       "name": "\u7acb\u6625\u3001\u5742\u9053\u306b\u3066",
       "url": "https://open.spotify.com/track/1tTAF6VFTl5qXpNYdi62pm"

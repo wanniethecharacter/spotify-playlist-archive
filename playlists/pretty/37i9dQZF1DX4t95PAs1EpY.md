@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,199 likes - 239 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,343 likes - 239 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 46 | [down in delhi](https://open.spotify.com/track/65EJQAJLqW1YgH71hgaBre) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [down in delhi](https://open.spotify.com/album/1r8BpJD5zy8BZmwg3KHzdz) | 2:12 |
 | 47 | [Unencumbered](https://open.spotify.com/track/4fb9chYMC6ExF1eSd4Q9Uu) | [Rakuto](https://open.spotify.com/artist/3TdtGIrs1VN2rb5eCD911V) | [What is Earth](https://open.spotify.com/album/3pSKpzmlqKf3skN687fm7X) | 2:32 |
 | 48 | [Fingers Crossed](https://open.spotify.com/track/2gQmlDrCMN49X5E2tiKT5I) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Fingers Crossed](https://open.spotify.com/album/54VqTA5zvV38BXk4W5FjcX) | 1:25 |
-| 49 | [Just Another Sip](https://open.spotify.com/track/6IuedPL68KNsBzci64vX9J) | [Maraboy](https://open.spotify.com/artist/3dZyuWwtjxpoCy6bbPu5Gj) | [Domino Party](https://open.spotify.com/album/43eSBlvqzZt3h5WKegoFSl) | 2:18 |
+| 49 | [Just Another Sip](https://open.spotify.com/track/6IuedPL68KNsBzci64vX9J) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [Domino Party](https://open.spotify.com/album/43eSBlvqzZt3h5WKegoFSl) | 2:18 |
 | 50 | [Serenity](https://open.spotify.com/track/52Pjj1Iuk7MAh5pdaleydA) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Blossom](https://open.spotify.com/album/2jFYrpK8s8KWYdSEVruk8M) | 2:18 |
 | 51 | [Locked In](https://open.spotify.com/track/1j8zVhwVap4GxbsmC5tgsZ) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Locked In](https://open.spotify.com/album/6se5oHfh9hQ6PQ1Y1BJRID) | 2:12 |
 | 52 | [Jazz Has Many Faces](https://open.spotify.com/track/6S1v4mCBFT3yG895yilYyt) | [Super Off\-Beat](https://open.spotify.com/artist/08gFTIqLswYXSzCTLqkDT4) | [Jazz Has Many Faces](https://open.spotify.com/album/5U13M8p2FQMbI9IZUffHDN) | 2:00 |
 | 53 | [colors of a night](https://open.spotify.com/track/1ygF2oxp5bjMQctM7c3kxS) | [Antennaah](https://open.spotify.com/artist/6KiVH2JCfM9KczjORaXjGj) | [colors of a night](https://open.spotify.com/album/0pk3a6XFh1WiuhXwCphASp) | 1:56 |
 | 54 | [orchid](https://open.spotify.com/track/4dFghKKkPZStUpdyFYu0oJ) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [orchid](https://open.spotify.com/album/7tIsJ2fOZzxGnvufJxGmkz) | 2:31 |
 | 55 | [Night Light](https://open.spotify.com/track/2U6vFampiXQZtmOhNXz7dp) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Night Light](https://open.spotify.com/album/2JEp433mqNZaTYe6R0D1AY) | 2:09 |
-| 56 | [Mario Lopez](https://open.spotify.com/track/5BEOEB4JQmvOLrhHp3T9Jl) | [Ceelen](https://open.spotify.com/artist/2KOGdGOCUsZeoU6FsyuDzc) | [Mario Lopez](https://open.spotify.com/album/7d8M8gyeUImR6rm9YkwO3V) | 1:55 |
+| 56 | [Mario Lopez](https://open.spotify.com/track/5BEOEB4JQmvOLrhHp3T9Jl) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Mario Lopez](https://open.spotify.com/album/7d8M8gyeUImR6rm9YkwO3V) | 1:55 |
 | 57 | [Perfect Dark](https://open.spotify.com/track/6rMfRzs0lpnKY8gVk8dh6W) | [Orangelo](https://open.spotify.com/artist/6rGGEz9rM3t9SeOvwLJNIT) | [Midnight Sun](https://open.spotify.com/album/61ggX6ltMrTBy7fv96Bbip) | 2:14 |
 | 58 | [saving grace](https://open.spotify.com/track/77Ar4sZAFYg3He4ZjgLXHM) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [saving grace](https://open.spotify.com/album/3HnK7BfyjNfhUV4o3GCJUU) | 2:32 |
 | 59 | [Treasure Chest](https://open.spotify.com/track/2EtnxLV4JoKkt6W6EoqeIJ) | [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Treasure Chest](https://open.spotify.com/album/0UVOkKSirR2rPTK8N6Bo5A) | 2:18 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 83 | [Fuji](https://open.spotify.com/track/3saNOmdsMZjlKLM3FSFU70) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh) | [Fuji](https://open.spotify.com/album/7sHeMInQs3hKhDCe7cnzVB) | 2:45 |
 | 84 | [Sunset Over Paris](https://open.spotify.com/track/4A7HE0qtkcaueIdBqTQIKK) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [Sunset Over Paris](https://open.spotify.com/album/6U8r9IvFcbFpJva7TKWpxg) | 2:28 |
 | 85 | [Chi\-town](https://open.spotify.com/track/6IlUL7y90tJ87q4f37egWZ) | [55 South](https://open.spotify.com/artist/6Fu4AVSoxW8zh9MB1yuotB) | [Chi\-town](https://open.spotify.com/album/4UswIixSDaHuBY5YdrBQi7) | 2:41 |
-| 86 | [Lofi love](https://open.spotify.com/track/4WrzPaoDS5vtaMuzQ53ffb) | [Ceelen](https://open.spotify.com/artist/2KOGdGOCUsZeoU6FsyuDzc) | [Mario Lopez](https://open.spotify.com/album/7d8M8gyeUImR6rm9YkwO3V) | 1:36 |
+| 86 | [Lofi love](https://open.spotify.com/track/4WrzPaoDS5vtaMuzQ53ffb) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Mario Lopez](https://open.spotify.com/album/7d8M8gyeUImR6rm9YkwO3V) | 1:36 |
 | 87 | [Anemone](https://open.spotify.com/track/7eNGBTOkvmEJqh7ylI2Kfu) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Anemone](https://open.spotify.com/album/7ek1qAaWiRo87eyr6vmbsE) | 2:30 |
 | 88 | [sonar zone](https://open.spotify.com/track/3GGVT0QnHgcVzc3svCFzsd) | [Larid](https://open.spotify.com/artist/6sOC5JvEbDHGkQClRxWP49) | [sonar zone](https://open.spotify.com/album/2UoqAhmWLsEp8HJUeWe5mw) | 3:06 |
 | 89 | [Vague Miracle](https://open.spotify.com/track/5BmVCvb2jjRSWhzUnefhlz) | [Vincent Adara](https://open.spotify.com/artist/1PKXtmjzzAeBmAhIQM6O4j) | [Vague Miracle](https://open.spotify.com/album/3cQbO7Vfn6TdgUKEfpmH1F) | 1:55 |

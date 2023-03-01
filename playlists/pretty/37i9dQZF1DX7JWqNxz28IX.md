@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > un cuore così 💔  \(in cover, solø\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,269 likes - 139 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,299 likes - 139 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 109 | [Shama è buono](https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Shama è buono](https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX) | 2:24 |
 | 110 | [Darkness](https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Darkness](https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7) | 2:54 |
 | 111 | [Xelisa2 \(feat\. ARIETE\)](https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7) | [Tauro Boys](https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TauroTape3](https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp) | 2:57 |
-| 112 | [uno stupido ricordo](https://open.spotify.com/track/5IG4lH3RuqbZDKmzIR0rYX) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN), [NOIA](https://open.spotify.com/artist/6kMHzKCOo8xS59JVOIHkmd) | [uno stupido ricordo](https://open.spotify.com/album/2MXM917y7CX7iAiioSsNyp) | 2:43 |
+| 112 | [uno stupido ricordo](https://open.spotify.com/track/5IG4lH3RuqbZDKmzIR0rYX) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN), [Noia](https://open.spotify.com/artist/2juG6RJqgbhPLJvHWOjEMM) | [uno stupido ricordo](https://open.spotify.com/album/2MXM917y7CX7iAiioSsNyp) | 2:43 |
 | 113 | [DOVE SEI](https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB) | [Faster](https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd), [JXN](https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga) | [ONIRO](https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x) | 2:54 |
 | 114 | [Spalla Destra](https://open.spotify.com/track/6dEDitKtQNG6GQzwBN2vvb) | [deca ydf](https://open.spotify.com/artist/13Il0NL1QiQEVvWhK6ZZ5a) | [Spalla Destra](https://open.spotify.com/album/1u5GTFReIuhmN8tBp7T0KD) | 2:57 |
 | 115 | [Empatia](https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:52 |

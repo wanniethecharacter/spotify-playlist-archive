@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,935 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,554 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 99 | [The Look Of Love](https://open.spotify.com/track/6MZg4IeXiCaRe9MtWYmaul) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [The Look Of Love \- Burt Bacharach Songbook](https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2) | 4:33 |
 | 100 | [Hit The Ground](https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks) | 3:30 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGJkYWExYjg3ZjVjZDM5YzdlMzZkN2ZlZjVlYWUzYTky`
+Snapshot ID: `MTY3NzU4OTU5OSwwMDAwMDAwMGUxZWU1YzEwZGMyY2MzZTM3MzY3MDVmNDg5OGU0MTQ1`

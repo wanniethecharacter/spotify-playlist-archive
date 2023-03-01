@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-300 songs - 13 hr 1 min
+302 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Final Hour](https://open.spotify.com/track/6FrEmXntHD6IZeM8f0FIJM) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Final Hour](https://open.spotify.com/album/2nVKTxx2WuV0ZDlHFm2lDU) | 1:52 | 2022-12-22 |  |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2022-04-14 | 2022-06-08 |
 | [Fleurs Séchées](https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Fleurs Séchées](https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2) | 2:06 | 2022-04-14 |  |
+| [Flow](https://open.spotify.com/track/73HWFNQQwgTMWv13iGEfte) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Flow](https://open.spotify.com/album/6U96DdlOnpMY5OjYqUQF1G) | 1:40 | 2023-02-28 |  |
 | [Folklore](https://open.spotify.com/track/0ZbDS3webX8T8c8FCV4T1l) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Folklore](https://open.spotify.com/album/4VTTfTngOcdfVVnlCDhY6f) | 2:09 | 2022-04-14 |  |
 | [For Annemieke](https://open.spotify.com/track/6d8UCO1LCZUsDRUcN2hBUs) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [For Annemieke](https://open.spotify.com/album/5WZbdzE2PigFpUn4IpwEe1) | 2:12 | 2022-12-22 |  |
 | [For Chris](https://open.spotify.com/track/2rAeRLkoePtmTFsBpmEN92) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm) | [For Chris](https://open.spotify.com/album/2jQxj8JfpJk39kqrqMBsfU) | 5:08 | 2022-08-30 |  |
@@ -118,6 +119,7 @@
 | [How It Is](https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [How It Is](https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3) | 2:05 | 2022-04-14 |  |
 | [How it Used to Be](https://open.spotify.com/track/75erFAUKLzeaRHhaIOrTGM) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [How it Used to Be](https://open.spotify.com/album/7mSlDiBarb6ZuUScqXK9nz) | 2:06 | 2023-01-20 |  |
 | [Howthian](https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Howthian](https://open.spotify.com/album/3eDvXFQzvzaRxRMdAss0vn) | 2:24 | 2022-04-14 | 2022-05-05 |
+| [hugo](https://open.spotify.com/track/21ahPavCJkiyxrfUCSaNIs) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [hugo](https://open.spotify.com/album/4PFNrjsLy1tu0E2m3RJc4w) | 2:23 | 2023-02-28 |  |
 | [I know you're there](https://open.spotify.com/track/5WGYWJw11o7urLQDU6p3Pg) | [Gilbert Domoréz](https://open.spotify.com/artist/4TsUPA5s9MvAtgV36Z010L) | [I know you're there](https://open.spotify.com/album/3vj1cRZYbmzcVVojFyPOUM) | 3:01 | 2022-10-26 |  |
 | [If Ever](https://open.spotify.com/track/0x9aJ6eA0Z6MVlOkPp9VYI) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [If Ever](https://open.spotify.com/album/0xr4S9M4CkfFgnvsiMUHpM) | 2:55 | 2022-04-14 |  |
 | [Il lago](https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Il lago](https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582) | 2:30 | 2022-04-14 |  |

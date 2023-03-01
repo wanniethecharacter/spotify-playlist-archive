@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,916 likes - 220 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,938 likes - 220 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 81 | [Over the Sky](https://open.spotify.com/track/2j2p1uJgUqqHyQPUZaRJBA) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [A Mix of Feelings](https://open.spotify.com/album/52gavUrAe1daARHrPsbq8d) | 2:11 |
 | 82 | [Chimes \- Radio Edit](https://open.spotify.com/track/6SOX3KORVetzhwAzFagp0b) | [OTHERLiiNE](https://open.spotify.com/artist/5UaAbLKpBsJ9gh7FthqfW5), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Chimes](https://open.spotify.com/album/0LFPuGCBIJ3sDzzq8twyR3) | 3:48 |
 | 83 | [Bubinga](https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Bubinga](https://open.spotify.com/album/1JTUjel0M8No911bMMVhr6) | 3:10 |
-| 84 | [Where To Go](https://open.spotify.com/track/5VsZd4qGOSTRdsNC0XRU1F) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/7JnNqcLoD25tZeO0jQQnpW) | 4:11 |
+| 84 | [Where To Go](https://open.spotify.com/track/0kLLT6X6nPjPSEggRVyaQM) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/3Al0anvIeIVpJez6yrjXnM) | 4:11 |
 | 85 | [Line Of Sight \- Chet Porter Remix](https://open.spotify.com/track/2kEDTny6qyWoyNUPYiLzTW) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [A Moment Apart Remixes](https://open.spotify.com/album/1aCwkhlyKbMk4xOXmHARqB) | 3:52 |
 | 86 | [Treat You Better \- Single Edit](https://open.spotify.com/track/5lzHDkFLN01bKatvKQC0lO) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Treat You Better](https://open.spotify.com/album/4fSTqJwbIavIZdeWQ7uIUe) | 3:38 |
 | 87 | [It Was You \(With Zeeba\)](https://open.spotify.com/track/42uG027pzJkSk63FZkUd0I) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [It Was You \(With Zeeba\)](https://open.spotify.com/album/6pCrr0GMlTyu6XOirgJVF5) | 2:37 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 219 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 220 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY3Njk4OTg1OSwwMDAwMDAwMGYxM2UyZDIyMzM3YzBiN2Y4Njk5ODJjOTVhNjBlZWIw`
+Snapshot ID: `MTY3Njk4OTg1OSwwMDAwMDAwMGM5MTcwODEwODBhNjI3YTEzMGY0NjYzMTQ5NGMyZDdk`

@@ -3360,6 +3360,24 @@
     {
       "album": {
         "name": "Lagrimas De Un Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0JuGK46ql3YRsEhctOIwzu"
+      },
+      "artists": [
+        {
+          "name": "Mac Rockelle",
+          "url": "https://open.spotify.com/artist/0J9W7WVIGjIzrNFeu7gHb2"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236373,
+      "name": "Lagrimas De Un Ni\u00f1o",
+      "url": "https://open.spotify.com/track/1OUOgB9xjsm6wfGDnXqh0R"
+    },
+    {
+      "album": {
+        "name": "Lagrimas De Un Ni\u00f1o",
         "url": "https://open.spotify.com/album/2FB6vRnbnFlqScryy4bxsp"
       },
       "artists": [
@@ -3374,7 +3392,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 236373,
       "name": "Lagrimas De Un Ni\u00f1o",
       "url": "https://open.spotify.com/track/5008QIm75DiVaG2IdZQJTd"

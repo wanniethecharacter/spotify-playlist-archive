@@ -4,7 +4,7 @@
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-114 songs - 3 hr 46 min
+115 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Dino Groove](https://open.spotify.com/track/2GLRXgnX2PhxmALVX6X7e1) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Blippi's Treehouse Vol.1](https://open.spotify.com/album/25E577jWtQp1P5xsBSQV43) | 2:39 | 2022-01-14 |  |
 | [Dino Rap](https://open.spotify.com/track/7keBoSqDEfhfTCqW7BzWzw) | [The Kerplunks](https://open.spotify.com/artist/1FtSjJqBHqIdhB4jW1E7Hy) | [Walk On](https://open.spotify.com/album/7C4z3FagwSJYuoBSMJ9T86) | 2:03 | 2022-01-14 |  |
 | [Dino\-dino\-dinosaur](https://open.spotify.com/track/3YUewYkLTxa4Out5wF9bsr) | [Rick & Audrey](https://open.spotify.com/artist/6osU6dIAUuyqlnv9kzly6a) | [Imagine That!](https://open.spotify.com/album/6kE0BtzzksGe9Gsh6f5F3X) | 3:13 | 2022-01-14 |  |
-| [Dinosaur](https://open.spotify.com/track/3exDuR6wcyLuT2qoiykN2A) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Fun Learning](https://open.spotify.com/album/68pllW49tJvjL0TPwGpQIM) | 2:19 | 2022-01-14 |  |
+| [Dinosaur](https://open.spotify.com/track/38a59nQuRmFI5AqXBMWfm6) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Fun Learning](https://open.spotify.com/album/35spzlfd5pY8DoEQaVXcS1) | 2:19 | 2022-08-16 |  |
+| [Dinosaur](https://open.spotify.com/track/3exDuR6wcyLuT2qoiykN2A) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Fun Learning](https://open.spotify.com/album/68pllW49tJvjL0TPwGpQIM) | 2:19 | 2022-01-14 | 2023-03-01 |
 | [Dinosaur](https://open.spotify.com/track/4cPnCfFTy0ytbq9JkmqUNg) | [We Kids Rock](https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT) | [Let The Sun Shine](https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx) | 2:08 | 2022-01-14 |  |
 | [Dinosaur Bones](https://open.spotify.com/track/2OVW2YkuliLysSriq6dARo) | [Cody](https://open.spotify.com/artist/7rAaRqIDuMiQuG4oy8vygE), [Heart](https://open.spotify.com/artist/6UEVx8BU4FwqzFHO4U72R7), [Mr\. Primm](https://open.spotify.com/artist/1LWRjmEu1mWd95oX6Vqlyb), [Scatter](https://open.spotify.com/artist/745OTOZLsTL84LJrF4szKm), [Paleontologist Paloma](https://open.spotify.com/artist/5G0YQqdQPR8gnBfap8cUFv) | [Helpsters: Apple TV+ Original Series Soundtrack, Vol\. 1](https://open.spotify.com/album/1iUfQktugNa5K7QmP5PukO) | 1:35 | 2022-01-14 |  |
 | [Dinosaur Bones](https://open.spotify.com/track/12Jcwk5fRzlCKKn0xhECoL) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Best of Kids Music](https://open.spotify.com/album/5jxyozu7nLcgyhMFaMuVmi) | 1:19 | 2022-08-16 | 2022-11-13 |

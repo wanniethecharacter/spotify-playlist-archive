@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "CONFEXXION",
+        "url": "https://open.spotify.com/album/7Jd0Fcoc8aLSrtWqNYQ4WO"
+      },
+      "artists": [
+        {
+          "name": "YooShin",
+          "url": "https://open.spotify.com/artist/2EzuG4WW4xOYNjMIxVddHn"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "CONFEXXION",
+      "url": "https://open.spotify.com/track/5s3opyN6LAoYAxs3158KuP"
+    },
+    {
+      "album": {
         "name": "D-day",
         "url": "https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt"
       },

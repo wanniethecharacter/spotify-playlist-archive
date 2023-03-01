@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > This is Channel Tres taking over Metropolis with some of my favorite songs to DJ and to listen to, hope you enjoy 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,012 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,118 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

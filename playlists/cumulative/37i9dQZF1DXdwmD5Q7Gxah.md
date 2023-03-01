@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: quinnie
 
-2,079 songs - 4 day 15 hr 26 min
+2,080 songs - 4 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,7 +484,7 @@
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 | 2023-02-03 | 2023-02-22 |
 | [Did You Sleep Last Night?](https://open.spotify.com/track/3mOf4VKJR7S8fHXlMakRK1) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Did You Sleep Last Night?](https://open.spotify.com/album/0neb8SNbZDXNUT6wHdDv68) | 3:10 | 2022-01-14 | 2022-02-26 |
 | [die for my bitch](https://open.spotify.com/track/4JcibCP49g3evpDtS4Ij6x) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:53 | 2022-04-15 | 2022-04-29 |
-| [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-04 |  |
+| [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-04 | 2023-03-01 |
 | [Different Kind of World](https://open.spotify.com/track/0drAsTHCEB3polistcpT1T) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/7IxsGUvcgSIyxvwvoyr162) | 2:45 | 2022-07-29 | 2022-08-09 |
 | [Different World](https://open.spotify.com/track/7fCcsqV6kCC328iIxQmrpl) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Different World](https://open.spotify.com/album/7KsecjpFZT2eTJOJ6iqFgH) | 2:16 | 2020-08-14 | 2020-08-21 |
 | [Dinosaurs in Love](https://open.spotify.com/track/23Vq2aaW3u5F7oIFQvP7jy) | [Fenn Rosenthal](https://open.spotify.com/artist/2XNH1qlwNQG1NTSk7yELM5), [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Dinosaurs in Love](https://open.spotify.com/album/51i7nDExHfxOSRqTFswUIE) | 1:06 | 2020-02-01 | 2021-01-07 |
@@ -721,7 +721,7 @@
 | [globe](https://open.spotify.com/track/2pEbVa6xv8bwzjOqOU1W6w) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [globe](https://open.spotify.com/album/3gk5PW6aSsD8qSwjBdTVDY) | 3:31 | 2022-06-17 | 2022-08-13 |
 | [Glory](https://open.spotify.com/track/77fRc8iT858bzRdcR4k8T8) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:20 | 2021-11-13 | 2022-01-08 |
 | [Glow](https://open.spotify.com/track/7wR04K3JSaRJPO3D0f5fnx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 2:45 | 2021-12-22 | 2022-02-26 |
-| [glow](https://open.spotify.com/track/10UeoHlOUMXiRXcgaCO7pJ) | [diet lemon](https://open.spotify.com/artist/4w4tyhOTLrFjXwPzuUmT3U) | [glow](https://open.spotify.com/album/0s4TWfMrNVHqVEEr1lRoJi) | 2:23 | 2023-02-03 |  |
+| [glow](https://open.spotify.com/track/10UeoHlOUMXiRXcgaCO7pJ) | [diet lemon](https://open.spotify.com/artist/4w4tyhOTLrFjXwPzuUmT3U) | [glow](https://open.spotify.com/album/0s4TWfMrNVHqVEEr1lRoJi) | 2:23 | 2023-02-03 | 2023-03-01 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-14 |  |
 | [GO](https://open.spotify.com/track/6W8XOCAudICxfCjiNgH35p) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CYCLE/S](https://open.spotify.com/album/10O6gdA0uhYKbwW7F7BuAG) | 3:26 | 2020-12-04 | 2021-05-19 |
 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:26 | 2021-07-10 | 2022-03-11 |
@@ -941,6 +941,7 @@
 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 | 2022-07-01 | 2022-12-24 |
 | [Icing on the Cake](https://open.spotify.com/track/5rKxidPRpvArBSYkL745T0) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Icing on the Cake](https://open.spotify.com/album/3xXmQezq1Z2019sHLQCq6g) | 1:56 | 2019-07-30\* | 2019-08-02 |
 | [Idaho](https://open.spotify.com/track/5BKUgBEpybXolrVOezijIb) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Idaho](https://open.spotify.com/album/0XiDbkIWIq8e7K6Ro02QSd) | 4:05 | 2020-08-21 | 2020-11-11 |
+| [Idaho Alien](https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Idaho Alien](https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY) | 3:23 | 2023-02-28 |  |
 | [IDC](https://open.spotify.com/track/43x8gg4AnsyCO5pWmWed1J) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [IDC](https://open.spotify.com/album/5hR9rhURMQx8oewiccoNS8) | 3:45 | 2021-11-17 | 2022-04-09 |
 | [Idea of Her](https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Man’s Best Friend](https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt) | 2:48 | 2021-06-05 | 2022-01-22 |
 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 | 2020-04-09 | 2020-07-31 |

@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/6U96DdlOnpMY5OjYqUQF1G"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100934,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/73HWFNQQwgTMWv13iGEfte"
+    },
+    {
+      "album": {
         "name": "Folklore",
         "url": "https://open.spotify.com/album/4VTTfTngOcdfVVnlCDhY6f"
       },
@@ -1990,6 +2008,24 @@
       "duration_ms": 144555,
       "name": "Howthian",
       "url": "https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M"
+    },
+    {
+      "album": {
+        "name": "hugo",
+        "url": "https://open.spotify.com/album/4PFNrjsLy1tu0E2m3RJc4w"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143760,
+      "name": "hugo",
+      "url": "https://open.spotify.com/track/21ahPavCJkiyxrfUCSaNIs"
     },
     {
       "album": {

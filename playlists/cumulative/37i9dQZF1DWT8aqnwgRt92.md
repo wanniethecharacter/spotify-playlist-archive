@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-532 songs - 1 day 9 hr 58 min
+534 songs - 1 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,7 @@
 | [ラナ](https://open.spotify.com/track/1iXN8j1ThITNhNOr2Tez8A) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [ラナ](https://open.spotify.com/album/3m5ZzghhvDyygAcIaJMrV3) | 3:21 | 2022-05-28 | 2022-07-06 |
 | [リナリア](https://open.spotify.com/track/1EcWKRFhvsDMkBSDjoOUav) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [リナリア](https://open.spotify.com/album/0PSl0xYeFCBe24VyQiOMEQ) | 4:08 | 2023-01-05 |  |
 | [リライト \- from CrosSing](https://open.spotify.com/track/4K02Qepi2R08uz15q50vos) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [リライト \- from CrosSing](https://open.spotify.com/album/011upJam3OIlt6QT8qDRuS) | 3:48 | 2022-11-22 | 2022-11-24 |
-| [ルパン三世主題歌Ⅱ](https://open.spotify.com/track/6XEtXkDY8mIVFj6LgN4AOJ) | [山下穀雄](https://open.spotify.com/artist/2R2YOJvwaLrE32lLSkSqJI), [Otomo Yoshihide](https://open.spotify.com/artist/4P8VTkHWHX32b1xRa7uK03), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [ルパン三世主題歌Ⅱ](https://open.spotify.com/album/2VrwFGVZVQ6K9qslrC8HLi) | 6:12 | 2023-01-31 |  |
+| [ルパン三世主題歌Ⅱ](https://open.spotify.com/track/6XEtXkDY8mIVFj6LgN4AOJ) | [山下穀雄](https://open.spotify.com/artist/2R2YOJvwaLrE32lLSkSqJI), [Otomo Yoshihide](https://open.spotify.com/artist/4P8VTkHWHX32b1xRa7uK03), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [ルパン三世主題歌Ⅱ](https://open.spotify.com/album/2VrwFGVZVQ6K9qslrC8HLi) | 6:12 | 2023-01-31 | 2023-03-01 |
 | [ルードルーズダンス](https://open.spotify.com/track/0sHbdxyepJ11nCCUEOin35) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [ルードルーズダンス](https://open.spotify.com/album/78MM2z00YPJadoqTqmhDbi) | 4:42 | 2023-01-26 |  |
 | [ロマンティックマニフェスト](https://open.spotify.com/track/5zTs0vqU5ecrsvbYdRVdBB) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [ロマンティックマニフェスト](https://open.spotify.com/album/4RsEb8TXkdM9a1nqNzv0rw) | 4:06 | 2022-12-20 | 2023-01-18 |
 | [ロメオ](https://open.spotify.com/track/7fINebCzUsbG8KXCUX9kqS) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [榎本虎太朗 \(CV:花江夏樹\)](https://open.spotify.com/artist/5nHNAtcpQxtsqiZe18w7ST), [柴崎健（CV：江口拓也）](https://open.spotify.com/artist/4Fxvg5CZfQxFFtjPfKUZqk) | [ロメオ](https://open.spotify.com/album/79h5Pcn9p34PMYveZxAmyi) | 5:14 | 2022-05-28 | 2022-06-03 |
@@ -466,7 +466,7 @@
 | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/track/6UEudr7wL1kWoEzWTWOjL9) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/album/5ANkUMQeCcz1yLFKGwIamt) | 4:58 | 2022-07-07 | 2022-10-05 |
 | [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 | 2023-01-17 |  |
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-05-28 | 2022-07-13 |
-| [希望の声](https://open.spotify.com/track/0BngQzqA4SQbcdZYy88BqB) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [Anela](https://open.spotify.com/artist/1BeVYVAzCorZ52aPMereYt) | [希望の声](https://open.spotify.com/album/5NAgL68RJr4Ribm5Okzu90) | 4:09 | 2023-02-21 |  |
+| [希望の声](https://open.spotify.com/track/0BngQzqA4SQbcdZYy88BqB) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [Anela](https://open.spotify.com/artist/1BeVYVAzCorZ52aPMereYt) | [希望の声](https://open.spotify.com/album/5NAgL68RJr4Ribm5Okzu90) | 4:09 | 2023-02-21 | 2023-03-01 |
 | [幻愛遊戯](https://open.spotify.com/track/1jQSxEc0Yfcj6CmWdpmBZm) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [幻愛遊戯](https://open.spotify.com/album/4RKBVmR8igpcLT2vvNFaNR) | 3:48 | 2022-09-29 | 2022-10-01 |
 | [廻廻奇譚 \- from CrosSing](https://open.spotify.com/track/2pmkpQZLZ5XgaemmC2rKG2) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [廻廻奇譚 \- from CrosSing](https://open.spotify.com/album/0W09G6ikA8kPk9XXTOkTSU) | 3:43 | 2022-09-27 | 2022-09-29 |
 | [心臓](https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:34 | 2022-10-18 | 2023-01-11 |
@@ -484,6 +484,7 @@
 | [星のクズ α](https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ α](https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0) | 5:03 | 2023-01-12 |  |
 | [星の少女、月に少女](https://open.spotify.com/track/2UbKoDvnCwmCb9aCdXsEAq) | [鶴姫やちよ\(CV:工藤晴香\)](https://open.spotify.com/artist/2n5MfZnl6NgCSxo1LA4saT), [天堂真矢\(CV:富田麻帆\)](https://open.spotify.com/artist/0GoCYmSDh7ldDd9HjtRf3F), [大月あるる\(CV.潘めぐみ\)](https://open.spotify.com/artist/0DWe8hrfAbZJYFq6yqPJ7Q), [愛城華恋\(CV:小山百代\)](https://open.spotify.com/artist/3c6d2IEnd9ZGChYpN3nnB2) | [「少女☆歌劇 レヴュースタァライト」レヴューアルバム「アルカナ・アルカディア」](https://open.spotify.com/album/6mZy5s37cEzI54dl6CXtRj) | 4:14 | 2022-09-20 | 2022-09-22 |
 | [星座になれたら](https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:18 | 2023-01-01 | 2023-01-18 |
+| [暁](https://open.spotify.com/track/4TXgBfKETCH8llKQvXZjMk) | [山下大輝](https://open.spotify.com/artist/4JFyikk3GFeUaSYiSKuXEB) | [from here](https://open.spotify.com/album/1Zj4SNihiKfAEiaerZlaMp) | 4:13 | 2023-02-28 |  |
 | [暁光](https://open.spotify.com/track/4l4OxhHdAZuVcjoCHapPwk) | [Half time Old](https://open.spotify.com/artist/1zpGAwgdCoZw9CP4QlWq9l) | [暁光](https://open.spotify.com/album/3JX3ho78EjyYxBjLIOI0o1) | 3:29 | 2022-07-12 | 2022-09-30 |
 | [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 | 2022-10-18 | 2023-01-13 |
 | [未完成ドリーム!](https://open.spotify.com/track/3MVbG5259vPrYXUhX5JtQZ) | [SCHOOL IDOL MUSICAL](https://open.spotify.com/artist/0ac7G5NyL6NEnPTeozqUgd) | [未完成ドリーム!](https://open.spotify.com/album/1RnbfqigPmq2mFTikAHuDt) | 3:57 | 2022-12-13 | 2023-01-13 |
@@ -509,6 +510,7 @@
 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 | 2022-08-31 |
 | [秘密の庭のふたり](https://open.spotify.com/track/0drkpiibrRIpUc5tSubX2J) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [秘密の庭のふたり](https://open.spotify.com/album/3pVwRnFsKMjOwkpAWddA54) | 4:05 | 2022-08-16 | 2022-10-05 |
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-05-28 | 2022-07-01 |
+| [空色デイズ \- from CrosSing](https://open.spotify.com/track/2r0obcBXAqmjT25pBewWlc) | [平野綾](https://open.spotify.com/artist/3HsqZmNM3saSQSfiTl8GzD) | [空色デイズ \- from CrosSing](https://open.spotify.com/album/2RqmAvQcK25aIBLUfflMGW) | 4:13 | 2023-02-28 |  |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-11-08 |  |
 | [脊髄ぶっこ抜き音頭\(女性Ver.\)](https://open.spotify.com/track/72eMKuoXuFdF0MrAQARVjy) | [ポプ子\(CV:石見舞菜香\)](https://open.spotify.com/artist/23asa50gen4Pqsiq6wfCHr), [ピピ美\(CV:長谷川育美\)](https://open.spotify.com/artist/0UfcIsa4gYHICPdbhgRQ2a) | [ポプテピピック ALLTIME BEST 3](https://open.spotify.com/album/1ovsSfBYS6hTimYnSZTMpN) | 1:28 | 2022-12-20 | 2022-12-22 |
 | [腕塚](https://open.spotify.com/track/0JAdB9U6meFetLWHmqG3RA) | [犬王\(CV:アヴちゃん\)](https://open.spotify.com/artist/7ywWY3GidvDeixGiFLdYZW) | [腕塚](https://open.spotify.com/album/4ogusjG9KOOJP0XS56YdoL) | 5:35 | 2022-05-28 | 2022-07-06 |

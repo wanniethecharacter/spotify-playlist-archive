@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7cvDzE3MOI.md) - [plain]
 
 > Discover the unforgettable melodies of Chopin, including moving ballades, relaxing nocturnes and vibrant concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,063 likes - 66 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,308 likes - 66 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7cvDzE3MOI.md) - [plain]
 | 40 | [Nocturne in C\-Sharp Minor, Op\. 27 No\. 1](https://open.spotify.com/track/217q37AihiC1jm9Qh7PNyB) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Ingrid Fliter](https://open.spotify.com/artist/7iUbgcO0RSM8jJHbXNnrdq) | [Chopin: Nocturnes](https://open.spotify.com/album/0LrAzPzajLZ4Zmit30UILX) | 4:57 |
 | 41 | [Prelude N°20 In C Minor: Op.28, Largo](https://open.spotify.com/track/3WuS2T1NocPtTUngzCNZ5p) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Laure Favre\-Kahn](https://open.spotify.com/artist/0SisGbXTlo7miIX1UAQBu7) | [Chopin: 24 Preludes, 2 Polonaises](https://open.spotify.com/album/1tsN0js5fInbnTaCoQ8S7F) | 1:52 |
 | 42 | [Chopin: Scherzo No\. 2 in B\-Flat Minor, Op\. 31](https://open.spotify.com/track/6OwavBgVS1N4lAXZ2zKUfc) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Simon Trpčeski](https://open.spotify.com/artist/5PIHDfb0kpwTfNuWRWjXmU) | [Chopin: Piano Sonata No\. 2 Op\. 35 & 4 Scherzos](https://open.spotify.com/album/2nYlvZ89PuF4MVME7EHqns) | 9:47 |
-| 43 | [Waltz No\. 1 in E Flat, Op\. 18 \-"Grande valse brillante"](https://open.spotify.com/track/1vWAWChbVffjnpl6PPzUA4) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Waltzes; 4 Scherzos; 26 Preludes](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) | 4:50 |
+| 43 | [Waltz No\. 1 in E\-Flat Major, Op\. 18 "Grande valse brillante"](https://open.spotify.com/track/1vWAWChbVffjnpl6PPzUA4) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Waltzes; 4 Scherzos; 26 Preludes](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) | 4:50 |
 | 44 | [Waltzes, Op\. 64: No\. 1 in D\-Flat Major\. Molto vivace "Minute"](https://open.spotify.com/track/1liokBkvylDfpKhQPWxXjO) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Chopin: Waltzes](https://open.spotify.com/album/0TN8xiZVdavNba1o2inEuu) | 1:54 |
 | 45 | [Études, Op\. 25: No\. 1 in A\-Flat Major](https://open.spotify.com/track/6SZecFOXcA1mt31T67vajf) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 2:54 |
 | 46 | [Ballade No\. 2 in F Major, Op\. 38](https://open.spotify.com/track/6NcG7IDh8qC3zb1Mcr9fBS) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Ballades / Berceuse Op\. 57 / Fantasie Op\. 49](https://open.spotify.com/album/5us87BphrE84ew5F5jIQxa) | 7:32 |

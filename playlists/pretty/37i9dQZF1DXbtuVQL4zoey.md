@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,320 likes - 309 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,415 likes - 309 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 27 | [Conant Gardens](https://open.spotify.com/track/563eOsTuwa7hZomJl7AI4A) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Conant Gardens](https://open.spotify.com/album/3qqQxrLKoQJJ9yGdAXuJ6l) | 2:42 |
 | 28 | [Can We Just Vibe?](https://open.spotify.com/track/0wmr45zDNsSMy9cRgddm4E) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Can We Just Vibe?](https://open.spotify.com/album/5WsSwxseHP6HV4DVWl0CVn) | 2:44 |
 | 29 | [Vague Action](https://open.spotify.com/track/5P4K1RXoqxuLalYxSQqgbA) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Zakky](https://open.spotify.com/album/0qoRty23FJ6Whk9gQQvBIT) | 1:50 |
-| 30 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [Hazeeman](https://open.spotify.com/artist/5mLnKXD8YyMwMI7dCBpFkP) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 |
+| 30 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 |
 | 31 | [Dirib Dirib](https://open.spotify.com/track/5mR1njp8a1rfU3b8BllWS9) | [Linn Blink](https://open.spotify.com/artist/5oV5bOkm37Icq1ia1XNh7H) | [Dirib Dirib](https://open.spotify.com/album/1pRsWXNvF6P4VqqPbAFt57) | 1:44 |
 | 32 | [Faster](https://open.spotify.com/track/74HsEuxWpgnH0osQ3LT7UP) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Youth](https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF) | 2:29 |
 | 33 | [Staycation](https://open.spotify.com/track/0csvQK4CkxifOBDs3rEHRu) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Cats in the Alley](https://open.spotify.com/album/2Q4EwaUfWI6ZiEPwzOqOZ0) | 2:15 |

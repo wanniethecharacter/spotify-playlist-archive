@@ -890,7 +890,7 @@
     {
       "album": {
         "name": "The Voyage",
-        "url": "https://open.spotify.com/album/0b2toX1GP2XxY5W83bjAdA"
+        "url": "https://open.spotify.com/album/3yNL4RvDIZShXbY1HHiVqA"
       },
       "artists": [
         {
@@ -901,6 +901,24 @@
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207093,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/40z4u67Cm6I4WUQvM3atmb"
+    },
+    {
+      "album": {
+        "name": "The Voyage",
+        "url": "https://open.spotify.com/album/0b2toX1GP2XxY5W83bjAdA"
+      },
+      "artists": [
+        {
+          "name": "Karen Mok",
+          "url": "https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-01",
       "duration_ms": 207093,
       "name": "\u521d\u604b",
       "url": "https://open.spotify.com/track/4aLmzZyMECEzWSXt15bI1f"

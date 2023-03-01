@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. nemahsis on the cover.
 
-1,026 songs - 2 day 4 hr 39 min
+1,027 songs - 2 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Drinking on My Own](https://open.spotify.com/track/6HFyjxSYCJqIOfFPhUn9zo) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Drinking on My Own](https://open.spotify.com/album/52XwdX4PxxlyYlyYNEreir) | 3:34 | 2021-01-09 | 2021-03-14 |
 | [Drive](https://open.spotify.com/track/6vU3EwC4Cg9nBIhzMD6dqi) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W), [Running on Everything](https://open.spotify.com/artist/6m4N2GZCDQ1iqF3sM0t3Ei) | [Drive](https://open.spotify.com/album/3VtxlF7lJUezAkW5UNUsN9) | 2:39 | 2021-06-05 | 2021-07-04 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-01-09 | 2021-02-20 |
-| [Droves](https://open.spotify.com/track/0u9qsoepu46b6aHi3fr6gW) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Droves](https://open.spotify.com/album/6lR1ihhd03xEjXgCRO8Icj) | 3:50 | 2022-04-01 |  |
+| [Droves](https://open.spotify.com/track/0YppvOQE8xelLmxIKfbh0W) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Droves](https://open.spotify.com/album/7bEt2pGjAlfQ12Bl9rSi7T) | 3:50 | 2023-02-24 |  |
+| [Droves](https://open.spotify.com/track/0u9qsoepu46b6aHi3fr6gW) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Droves](https://open.spotify.com/album/6lR1ihhd03xEjXgCRO8Icj) | 3:50 | 2022-04-01 | 2023-03-01 |
 | [DRUGS](https://open.spotify.com/track/0yruV4sUwyczq5cxMRRljU) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [DRUGS](https://open.spotify.com/album/0EomGnN4zv8AC2Zi7NL1bV) | 2:39 | 2020-11-03 | 2020-11-07 |
 | [drugs are for fun](https://open.spotify.com/track/3EAPXckxzS63OgxbDgaAZz) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [drugs are for fun](https://open.spotify.com/album/7IhqRJzrwITx7QCXzYitzT) | 2:22 | 2022-08-05 | 2022-12-10 |
 | [Dumb](https://open.spotify.com/track/3ADZ5dT4Gdau4pVmFhleBF) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Dumb](https://open.spotify.com/album/66u2QlWEFzKwpqLeHIR1Q2) | 3:58 | 2021-06-27 | 2021-09-04 |
@@ -641,7 +642,7 @@
 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 | 2021-05-29 | 2021-11-20 |
 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 | 2022-04-15 |  |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-14 |  |
-| [off](https://open.spotify.com/track/0ZaoyHVn2qHN7NoTqH2qbK) | [harper gordon](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK), [Good Karma](https://open.spotify.com/artist/3e1VExchYabwD6b6QDe4rI) | [off](https://open.spotify.com/album/3hq0lrG23NHRQmMmuLlDmF) | 2:31 | 2023-02-10 |  |
+| [off](https://open.spotify.com/track/0ZaoyHVn2qHN7NoTqH2qbK) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK), [Good Karma](https://open.spotify.com/artist/3e1VExchYabwD6b6QDe4rI) | [off](https://open.spotify.com/album/3hq0lrG23NHRQmMmuLlDmF) | 2:31 | 2023-02-10 |  |
 | [Off the Rails](https://open.spotify.com/track/0h7Vz5MQyJjO4ZnMW7HTjV) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/7lhVwtCdwtbtDkfZ0747aS) | 2:20 | 2021-05-15 | 2021-06-27 |
 | [Oh shit…are we in love?](https://open.spotify.com/track/4syyKlhOWbsZUsZ4DwmJxH) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Oh shit…are we in love?](https://open.spotify.com/album/48w4LOmCFBERYFr7QkT4VA) | 2:35 | 2021-09-04 | 2022-01-15 |
 | [ohfuckimnotok](https://open.spotify.com/track/6w0t6KnnmifuC5N6O231Dk) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I'm A Disappointment](https://open.spotify.com/album/4TeUmayh0oTlUaMHkQPTXE) | 2:24 | 2022-04-15 | 2022-10-01 |

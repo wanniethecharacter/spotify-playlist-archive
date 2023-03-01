@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Skrillex.",
-  "num_followers": 741201,
+  "num_followers": 741234,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDBhMzM5Zjc1N2JiNDRlZmIzNmMyYjNkZTZiM2QwY2Y2",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDQyYzk5NDEwY2Y0ODYwODk2NjY0ZDFhNGY3ZTQ0NzM4",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -384,7 +384,7 @@
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "call me up",
-        "url": "https://open.spotify.com/album/1w14PvnHzO7YSAwvx1dzcJ"
+        "url": "https://open.spotify.com/album/0i3z1G1OXeonHedYoebyOa"
       },
       "artists": [
         {
@@ -398,7 +398,7 @@
       ],
       "duration_ms": 228379,
       "name": "call me up",
-      "url": "https://open.spotify.com/track/4WzOPJJtDYjBpqLDvadaMx"
+      "url": "https://open.spotify.com/track/7hV9TqcZDOJbGRNxEjXUJb"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Recursion",
-        "url": "https://open.spotify.com/album/2fm1hGoHOQ9agA0yoUKcaQ"
-      },
-      "artists": [
-        {
-          "name": "Rootkit",
-          "url": "https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm"
-        },
-        {
-          "name": "Gloria Kim",
-          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
-        }
-      ],
-      "duration_ms": 186885,
-      "name": "Be With You (ft. Gloria Kim)",
-      "url": "https://open.spotify.com/track/6O2eMeVNJnbmHC721q9EFV"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5Te858VbhA2CD4zLrMYxIH"
       },
@@ -951,22 +931,6 @@
       "duration_ms": 172727,
       "name": "Cliffs",
       "url": "https://open.spotify.com/track/7gnl8zbOnLzEVu5ktsvjEW"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/05pxwAHOdXuatMuOFIeI6c"
-      },
-      "artists": [
-        {
-          "name": "Duskus",
-          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
-        }
-      ],
-      "duration_ms": 294826,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/0UapLurjls7TjbtsX5QW7l"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1203,26 +1167,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/0iaxJy9W6DrkrnvwKgdyjf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        },
-        {
-          "name": "TWERL",
-          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
-        }
-      ],
-      "duration_ms": 164609,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5tOq0CP7E8025oB6l9eghz"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/5Jj425whuDpbmHTprH49gT"
       },
@@ -1235,6 +1179,22 @@
       "duration_ms": 282000,
       "name": "Cosmopolitan",
       "url": "https://open.spotify.com/track/6oPoNJcfeXXBAjLwNmiVds"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 201857,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1319,42 +1279,6 @@
       "duration_ms": 195483,
       "name": "game point",
       "url": "https://open.spotify.com/track/2JMCa4YAC2wp0HY0ChY0BQ"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "So Long (Tails Remix)",
-        "url": "https://open.spotify.com/album/0C8IJ8Gmzhsby8BpZiItgc"
-      },
-      "artists": [
-        {
-          "name": "On Planets",
-          "url": "https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi"
-        },
-        {
-          "name": "Tails",
-          "url": "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
-        }
-      ],
-      "duration_ms": 252705,
-      "name": "So Long - Tails Remix",
-      "url": "https://open.spotify.com/track/3FLxGmYJyextdbsVPZxn5p"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 201857,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1771,6 +1695,26 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "PILLARS ///",
+        "url": "https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        },
+        {
+          "name": "MOONZz",
+          "url": "https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab"
+        }
+      ],
+      "duration_ms": 205989,
+      "name": "Statues",
+      "url": "https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Cross Me",
         "url": "https://open.spotify.com/album/6zVp3A8lkZjrDOAxExLdMi"
       },
@@ -1823,26 +1767,6 @@
       "duration_ms": 232800,
       "name": "Voices",
       "url": "https://open.spotify.com/track/79IUdU0benwGkJQsK6iMla"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "PILLARS ///",
-        "url": "https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        },
-        {
-          "name": "MOONZz",
-          "url": "https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab"
-        }
-      ],
-      "duration_ms": 205989,
-      "name": "Statues",
-      "url": "https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1991,22 +1915,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "care about u",
-        "url": "https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 201637,
-      "name": "care about u",
-      "url": "https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Holding On (Rome In Silver Remix)",
         "url": "https://open.spotify.com/album/1bhDZ4U0FIFxILggKHBY3M"
       },
@@ -2027,6 +1935,26 @@
       "duration_ms": 180779,
       "name": "Holding On - Rome In Silver Remix",
       "url": "https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Narrow",
+        "url": "https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R"
+      },
+      "artists": [
+        {
+          "name": "sumthin sumthin",
+          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
+        },
+        {
+          "name": "Player Dave",
+          "url": "https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Narrow",
+      "url": "https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -2083,26 +2011,6 @@
       "duration_ms": 234615,
       "name": "Close",
       "url": "https://open.spotify.com/track/6g1hNthhnctPsmIzBq1Ver"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Narrow",
-        "url": "https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R"
-      },
-      "artists": [
-        {
-          "name": "sumthin sumthin",
-          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
-        },
-        {
-          "name": "Player Dave",
-          "url": "https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Narrow",
-      "url": "https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -2195,6 +2103,26 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "I Love You, Keep Going (The Remixes)",
+        "url": "https://open.spotify.com/album/0pxKWbAyhIkcGFv9DH1fa9"
+      },
+      "artists": [
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        },
+        {
+          "name": "Sweater Beats",
+          "url": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
+        }
+      ],
+      "duration_ms": 177103,
+      "name": "Under the Same Stars - Sweater Beats Remix",
+      "url": "https://open.spotify.com/track/7fkf0pSWrK1waeSzVlwjtF"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Sleeptalking",
         "url": "https://open.spotify.com/album/2NUKhQaSu80QqTaDQaLUl0"
       },
@@ -2215,22 +2143,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "on hold",
-        "url": "https://open.spotify.com/album/6GFEQWEDiLWBhJi1oXYwyZ"
-      },
-      "artists": [
-        {
-          "name": "Tails",
-          "url": "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "on hold",
-      "url": "https://open.spotify.com/track/3qSlXaZDxYlS2Z6t7OCswv"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "gold",
         "url": "https://open.spotify.com/album/2P56f3HlbQGgGkjaS02ji0"
       },
@@ -2243,26 +2155,6 @@
       "duration_ms": 193175,
       "name": "gold",
       "url": "https://open.spotify.com/track/3vGgCXDCJZmkO83Yi5eUqf"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "I Love You, Keep Going (The Remixes)",
-        "url": "https://open.spotify.com/album/0pxKWbAyhIkcGFv9DH1fa9"
-      },
-      "artists": [
-        {
-          "name": "Evalyn",
-          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
-        },
-        {
-          "name": "Sweater Beats",
-          "url": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
-        }
-      ],
-      "duration_ms": 177103,
-      "name": "Under the Same Stars - Sweater Beats Remix",
-      "url": "https://open.spotify.com/track/7fkf0pSWrK1waeSzVlwjtF"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -2367,6 +2259,122 @@
       "duration_ms": 139486,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/5Dnh9RY6HYq1UKXgmqdeRW"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 284444,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/4WlSrA0dALD8NXSOTNhjNT"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Make Me A Memory",
+        "url": "https://open.spotify.com/album/3GZEU2tfdPrz7MWFDVxSyg"
+      },
+      "artists": [
+        {
+          "name": "n\u00f8ll",
+          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Make Me A Memory",
+      "url": "https://open.spotify.com/track/6rbnauS7WjniN8vbV4tTkQ"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/13lB6cbUQUfr2lZkwYJxTk"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/5VLggkhHW1zKYE8uYCPW5D"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Mazde: The Remixes",
+        "url": "https://open.spotify.com/album/3smXBs5oEJjx0UnjcDY6bR"
+      },
+      "artists": [
+        {
+          "name": "Mazde",
+          "url": "https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx"
+        },
+        {
+          "name": "Sam Day",
+          "url": "https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Gone - Sam Day Remix",
+      "url": "https://open.spotify.com/track/6QeTOaxZRItQG5Pfj2qWm7"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "On Air",
+        "url": "https://open.spotify.com/album/13czmHAij9ZlJaT9qh50gI"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Captain Cuts",
+          "url": "https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk"
+        },
+        {
+          "name": "JRM",
+          "url": "https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a"
+        }
+      ],
+      "duration_ms": 237488,
+      "name": "On Air",
+      "url": "https://open.spotify.com/track/3r7g1BxqfQu1y5CLBkemdZ"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6UUp2HIH4yYacaH0xknMn6"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "duration_ms": 125016,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/0xKcqGdFWwO9flQUL0s594"
     }
   ],
   "unique_name": "creamy",

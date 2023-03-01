@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-158 songs - 9 hr 18 min
+162 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Circles](https://open.spotify.com/track/1ftNzNvPPIxdo3QDfq8h2A) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2019, Vol\. 2](https://open.spotify.com/album/2ZCnNqYX39bthmtd2I9IKB) | 3:32 | 2022-11-18 | 2022-11-26 |
 | [Clocks \- Coldplay](https://open.spotify.com/track/2Pv2aeT9K8EH0b0HgCJxDv) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [A Night In Strings](https://open.spotify.com/album/3duk4PVA7r012ysSojmnXv) | 5:14 | 2021-11-25 |  |
 | [Clown](https://open.spotify.com/track/5An9TSZ5KmfsCLwBxq1VRA) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Clown](https://open.spotify.com/album/2vVEFVUPxPeiok2a1JEXCo) | 3:47 | 2023-01-30 |  |
+| [Colors Of The Wind](https://open.spotify.com/track/6bQ5Bvcmykkj5ONuk6FWyt) | [Alessandra Palade](https://open.spotify.com/artist/3RLM2ofq28IJVrNveeIkb3) | [Colors Of The Wind](https://open.spotify.com/album/4NeduIspIgT4GpZjAJeF3O) | 3:18 | 2023-02-28 |  |
 | [Dance Monkey](https://open.spotify.com/track/2yKwUvawwvock24y5EAl4g) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Dance Monkey](https://open.spotify.com/album/49lYvjArPlTqsn4O10ti44) | 2:52 | 2021-11-25 | 2023-02-15 |
 | [Dancing on My Own](https://open.spotify.com/track/2g2IYIXc0FDGf0HDkEC0rL) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 9](https://open.spotify.com/album/00WpR5hZn6CsVp6PT5NCvo) | 3:45 | 2021-11-25 |  |
 | [Dancing Queen \(arr\. piano\)](https://open.spotify.com/track/61HC09wMMxwHkjgktA94tP) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [ABBA](https://open.spotify.com/album/79mSoTbnuSzUFVIz2h89D0) | 3:31 | 2022-01-14 |  |
@@ -63,6 +64,7 @@
 | [Fix You](https://open.spotify.com/track/7B0jMqIk8icAL7jn0XdF1D) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Piano EP1](https://open.spotify.com/album/10Gvmhuqt3zXhtAAnM41Nu) | 5:29 | 2021-11-25 | 2022-07-29 |
 | [Fix You](https://open.spotify.com/track/2ZzqC4NSi374IufPYvGMP6) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Music Lab Collective](https://open.spotify.com/album/1hJMoMK9kIQFlF6mbqG9nU) | 5:32 | 2022-07-15 |  |
 | [Fragments of Time](https://open.spotify.com/track/53adoODXmH7iY9g7YquSNT) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Daft Punk's Random Access Memories](https://open.spotify.com/album/4kRcTnhismcDg7nicWGAKB) | 2:46 | 2022-11-18 | 2022-11-26 |
+| [From Both Sides Now](https://open.spotify.com/track/0y1QJXvmb5iRXd11JJf9Hi) | [Mats Tärnfors](https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1) | [From Both Sides Now](https://open.spotify.com/album/7leRuOJAVfQIAPkVFBhEKz) | 4:12 | 2023-02-28 |  |
 | [Gatekeeper](https://open.spotify.com/track/1tFDLeuRNjkpdwiej6gCZH) | [Fauré Quartett](https://open.spotify.com/artist/4RUUet9z5AWXyt9dn6asqN) | [Popsongs](https://open.spotify.com/album/0Od9iGE0VH3ISl3dJwYJ7z) | 2:13 | 2022-07-15 |  |
 | [Gatekeeper](https://open.spotify.com/track/3NpymsA5tpDNj26CLM7FuN) | [Fauré Quartett](https://open.spotify.com/artist/4RUUet9z5AWXyt9dn6asqN) | [Popsongs](https://open.spotify.com/album/4GTw1vgMJTVLIdza7QdhPH) | 2:13 | 2021-11-25 | 2022-07-29 |
 | [God's Plan](https://open.spotify.com/track/0u3JkMF1s1fbKt3FyIEBdq) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2018](https://open.spotify.com/album/3mg5bKwAv9VmWE1mrxLj31) | 2:23 | 2022-11-18 | 2022-11-26 |
@@ -71,6 +73,7 @@
 | [Hallelujah](https://open.spotify.com/track/3OIuwKMMuO3tVZ9futeIfb) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/5iFn9WyVbL1FIRJACbkdlR) | 2:45 | 2022-07-15 |  |
 | [Happier Than Ever](https://open.spotify.com/track/6YdoHXpaoC41PACP5q6VSu) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Happier Than Ever](https://open.spotify.com/album/7ghv2N51bQG2GegOqLwjpm) | 3:51 | 2022-07-15 |  |
 | [Have I Told You Lately](https://open.spotify.com/track/685KqTbzJzUKcStO5m1VD8) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Have I Told You Lately](https://open.spotify.com/album/3SKmeoVfGxc9RePhU4j6wu) | 3:01 | 2023-02-14 |  |
+| [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-28 |  |
 | [Here](https://open.spotify.com/track/2sJqQqodYHAv9gHhSbFVo2) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2015, Vol\. 3](https://open.spotify.com/album/2nrvMKV3Ulz6e1Okjs2HhD) | 3:22 | 2022-11-18 | 2022-11-26 |
 | [Here I Dreamt I Was an Architect](https://open.spotify.com/track/3raq8Hy4VIHlj9k5Chsfmp) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs The Decemberists](https://open.spotify.com/album/6H2zbBBOWSTxiat8AhpO1R) | 4:45 | 2022-11-18 | 2022-11-26 |
 | [Hey Jude](https://open.spotify.com/track/0nxhyi6QjPajz7zPFqe5GD) | [Veronica Howland](https://open.spotify.com/artist/2i3G7ixL6J6qkND65vK8XC) | [A Little Beatle](https://open.spotify.com/album/5d7gIj38XMEsxfS1ZlaUZn) | 3:56 | 2023-02-06 |  |
@@ -160,6 +163,7 @@
 | [Wicked Game](https://open.spotify.com/track/1fzP9TiMOq4FHKmnGaKVAE) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Our Flashback Wedding](https://open.spotify.com/album/7EjVc5O5g56nKL6RrAilPo) | 3:24 | 2022-11-18 | 2022-11-26 |
 | [Wise Up](https://open.spotify.com/track/66VOEjxqwAXhVAMQytWTOo) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vsq Film School: Cult Classics & Indie Faves](https://open.spotify.com/album/56rhaqWDLMw6wG5Flbr72W) | 3:25 | 2022-11-18 | 2022-11-26 |
 | [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 | 2023-02-14 |  |
+| [Wonderwall](https://open.spotify.com/track/37mbKfCK38Kkyg7ivgcxzV) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Wonderwall](https://open.spotify.com/album/0O46PzSt1njOguGiMHF9Pu) | 4:30 | 2023-02-28 |  |
 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 | 2021-11-25 |  |
 | [Yellow](https://open.spotify.com/track/3v64j3vihZ9IhEewaUfIqK) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Covers, Vol\. 1](https://open.spotify.com/album/0yFuG8TdMSfrTE5repnCWN) | 4:23 | 2022-05-13 | 2023-02-22 |
 | [You and Me](https://open.spotify.com/track/6yoNRCtmcgAqKUJ9hvLaqT) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [The Modern Wedding Collection, Vol\. 2](https://open.spotify.com/album/2XwUsjzSF4Qxd7cHcFSCsm) | 4:27 | 2022-11-18 | 2022-11-26 |

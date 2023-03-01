@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 39575,
+  "num_followers": 39623,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk0NTYxMiwwMDAwMDAwMDE0N2Y5OWFlMWY3ZDcxNTcyOWFmNDNjNGVhZjIxMDY1",
+  "snapshot_id": "MTY3NzU1ODgyMCwwMDAwMDAwMGJkYWVhODg3NzdiMWUzNjY4OWE1NmQxYjVlMGQxMDYz",
   "tracks": [
     {
       "added_at": "2022-12-20 21:43:10",
@@ -589,6 +589,26 @@
       "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
     },
     {
+      "added_at": "2023-02-28 04:33:40",
+      "album": {
+        "name": "La Faca (Feat. Carol Villagr\u00e1n)",
+        "url": "https://open.spotify.com/album/66A465PEibTC3MjkOI4Nvw"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngel Strife",
+          "url": "https://open.spotify.com/artist/3Lse4fAlOchY8msotsYMA6"
+        },
+        {
+          "name": "Carol Villagr\u00e1n",
+          "url": "https://open.spotify.com/artist/2t97Z9KUuhtctWUlsmrt4Q"
+        }
+      ],
+      "duration_ms": 198307,
+      "name": "La Faca",
+      "url": "https://open.spotify.com/track/1JpecUG8sPntakN0orOpgN"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Salvavidas de hielo",
@@ -933,6 +953,22 @@
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
+      "added_at": "2022-04-23 18:00:53",
+      "album": {
+        "name": "The Nada",
+        "url": "https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 300746,
+      "name": "Guacamole",
+      "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
@@ -1001,22 +1037,6 @@
       "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "The Nada",
-        "url": "https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 300746,
-      "name": "Guacamole",
-      "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Latin & Love Studies",
@@ -1035,26 +1055,6 @@
       "duration_ms": 240298,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Otros Colores",
-        "url": "https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS"
-      },
-      "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 351813,
-      "name": "Otros Colores",
-      "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
     }
   ],
   "unique_name": "Caf\u00e9 Revoluci\u00f3n",

@@ -4,7 +4,7 @@
 
 > 
 
-208 songs - 12 hr 30 min
+210 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Before the Dawn](https://open.spotify.com/track/588vIX446PBPjGyYk2sTgH) | [Fraunhofer Diffraction](https://open.spotify.com/artist/3s001vzLUM01WSssGvHhXA) | [A Place to Drown the Dreams](https://open.spotify.com/album/66McoXxes1kWgoeq3Tu660) | 3:05 | 2018-11-27 |  |
 | [Beyond Evo](https://open.spotify.com/track/7fI6AXFogX1QMWFQ0aanI6) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 3:20 | 2019-12-30 |  |
 | [Blame](https://open.spotify.com/track/26bE28MknenbrYV9OFzJ6S) | [Divine](https://open.spotify.com/artist/6nsJ6vUJ9WqOlAzHiVv30v) | [Blame](https://open.spotify.com/album/3FKwFxzvXJLNhrRUy33pJV) | 3:34 | 2018-11-27 |  |
+| [Blindspot](https://open.spotify.com/track/5xXpd5FzXOVVCwCL2fgTxp) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [Radical](https://open.spotify.com/album/4dn52eV4gt2YcYxcKd1HZl) | 2:19 | 2023-02-28 |  |
 | [Bloody Tear](https://open.spotify.com/track/0Al16Wsj4pkExUadvNLF7C) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [Universe of the Past](https://open.spotify.com/album/1GX9tOFuNisK62WpFVKhbu) | 2:39 | 2019-11-05 |  |
 | [CARBON MIST](https://open.spotify.com/track/3RuWS8JiPtAjmEPW6pNB6Z) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [CARBON MIST](https://open.spotify.com/album/2tnaIqXfakuKXpwvXQmi9G) | 2:40 | 2021-10-14 |  |
 | [Castle \(feat\. Madi Larson\)](https://open.spotify.com/track/7wTPOhjjOt02hjVUOaOD11) | [Trashlord](https://open.spotify.com/artist/4CRAZ1v62qreoYTNrbP5Yj), [Madi Larson](https://open.spotify.com/artist/2heDXXeSmrfHsjBATaCUXC) | [wave 002](https://open.spotify.com/album/0S1PNLnoLH1CdncU5H724W) | 3:37 | 2019-05-26 |  |
@@ -154,6 +155,7 @@
 | [Onsra](https://open.spotify.com/track/3riXqWf7Ah7LS0oHn3DrhB) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Onsra](https://open.spotify.com/album/08jgBwhXzIet0cRKfI5NAR) | 4:00 | 2022-02-20 |  |
 | [Over You](https://open.spotify.com/track/0S22k9Eh34bjxlHejtQnIK) | [MYSTXRIVL](https://open.spotify.com/artist/5puIJpEBWYS37qD8TS8gZq) | [wave 003](https://open.spotify.com/album/4DO3xx1RRiRaTHSTfIpBzt) | 3:43 | 2018-11-27 |  |
 | [P.1](https://open.spotify.com/track/6FV6ucDuhwmb46chhJZbZD) | [CXRSEDMANE](https://open.spotify.com/artist/27cWMuyYxLlaAkEaQ0Fgm3) | [P.1](https://open.spotify.com/album/4OH5iDHKWFwwIROnrTmbFb) | 3:54 | 2021-02-09 |  |
+| [Paradise](https://open.spotify.com/track/7atISFYLur90ZXfQgFibA9) | [SHPACKYOU$](https://open.spotify.com/artist/67qKhVs7sfKAF7b38kPcNE) | [Vinyl 2](https://open.spotify.com/album/3nbGgtr417BUtWI1fZkvtI) | 1:56 | 2023-02-28 |  |
 | [Perception](https://open.spotify.com/track/3LLThN8kxWS8rvstTacMdZ) | [Øfdream](https://open.spotify.com/artist/70P3LvwslDBQicUfL2Ix02) | [Perception](https://open.spotify.com/album/5M3iiuaGZbpN1sq2s6WXhp) | 4:34 | 2018-11-27 |  |
 | [Pixel](https://open.spotify.com/track/0CDQpqpDFkbpHLHReZ3uuR) | [MYSTXRIVL](https://open.spotify.com/artist/5puIJpEBWYS37qD8TS8gZq), [Sokos](https://open.spotify.com/artist/74BcHC0oHVSwJySCVT8pz7) | [Pixel](https://open.spotify.com/album/1YlJV2vKkFCQQJjd2DLCXZ) | 2:45 | 2018-11-27 |  |
 | [PLATINUM SHOW](https://open.spotify.com/track/7v4oVQ0mWP00SlpvpjeqhM) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [DRAW HYDRA](https://open.spotify.com/album/2f1uzzQMXlqc6rIg7a17n6) | 2:40 | 2021-08-09 |  |

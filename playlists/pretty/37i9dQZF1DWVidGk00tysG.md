@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 
 > Dive into Chopin's greatest works for the piano, from solo études to full\-blown concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,832 likes - 90 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,918 likes - 90 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 | 13 | [24 Préludes, Op\. 28: 19\. In E Flat Major](https://open.spotify.com/track/2xrdTuS1XLK5iEebMXus8G) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Etudes; Préludes; Polonaises](https://open.spotify.com/album/6beqQKZ9CiKs8MHUuShzN3) | 1:18 |
 | 14 | [Ballade No\. 2 in F Major, Op\. 38](https://open.spotify.com/track/6NcG7IDh8qC3zb1Mcr9fBS) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Ballades / Berceuse Op\. 57 / Fantasie Op\. 49](https://open.spotify.com/album/5us87BphrE84ew5F5jIQxa) | 7:32 |
 | 15 | [12 Études, Op\. 10: No\. 2 in A Minor](https://open.spotify.com/track/3EEfOzF1ia1ioqw2oIczpP) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Études](https://open.spotify.com/album/1eXQ6JbICpv9STKnfdDKqN) | 1:30 |
-| 16 | [Waltz No\. 1 in E Flat, Op\. 18 \-"Grande valse brillante"](https://open.spotify.com/track/1vWAWChbVffjnpl6PPzUA4) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Waltzes; 4 Scherzos; 26 Preludes](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) | 4:50 |
+| 16 | [Waltz No\. 1 in E\-Flat Major, Op\. 18 "Grande valse brillante"](https://open.spotify.com/track/1vWAWChbVffjnpl6PPzUA4) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Waltzes; 4 Scherzos; 26 Preludes](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) | 4:50 |
 | 17 | [Chopin: Waltz No\. 9 in A\-Flat Major, Op\. 69 No\. 1, "The Farewell Waltz "](https://open.spotify.com/track/2zfitTxt9KPU0XroKQT0ND) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [David Fray](https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR) | [Chopin: Piano Works](https://open.spotify.com/album/5eThYMo8mVyZqA9ygT333u) | 4:28 |
 | 18 | [Valse in E Minor, Op\. posth.](https://open.spotify.com/track/5hCGNc0Dtr20NoZ6gXGXw1) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jean\-Paul Gasparian](https://open.spotify.com/artist/1KAYt5PzgkE6W3ExmqoNPn) | [Chopin: 4 Ballades, Polonaise Héroïque, Polonaise Fantaisie, Nocturnes, Waltzes](https://open.spotify.com/album/7HEVPr4OUtCfuBW0A1IrY6) | 2:52 |
 | 19 | [12 Études, Op\. 10: No\. 6 in E\-Flat Minor](https://open.spotify.com/track/1agUvChcIwZPgdopLc4fD6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Études](https://open.spotify.com/album/1eXQ6JbICpv9STKnfdDKqN) | 3:16 |

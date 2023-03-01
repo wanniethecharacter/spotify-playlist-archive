@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Walker County
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,424 likes - 136 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,456 likes - 136 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 62 | [Used To](https://open.spotify.com/track/0qy8mUJt4ZGWTyhPobNZ7D) | [Natalia Taylar](https://open.spotify.com/artist/5DvIX76UmlOkfUnwwLjcZB), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Used To](https://open.spotify.com/album/7ILMvDpbyOtiqovE2itsId) | 3:25 |
 | 63 | [Growing Up \(Are You Happy\)](https://open.spotify.com/track/6z9H1dDF1eF0wu7zXrslXw) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Growing Up \(Are You Happy\)](https://open.spotify.com/album/1yiaYbHec1sNIo2g0wSBUQ) | 2:31 |
 | 64 | [saw ur mom at the grocery store](https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [saw ur mom at the grocery store](https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP) | 4:13 |
-| 65 | [Red Flags](https://open.spotify.com/track/5yJ0jhZV0YXAzQ6ylZgj6i) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Red Flags](https://open.spotify.com/album/53wuYCjfggJsrAKAHFDdCx) | 2:34 |
+| 65 | [Red Flags](https://open.spotify.com/track/0cnh2XFirA4Ny091xnJiwh) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 2:34 |
 | 66 | [The Way Back](https://open.spotify.com/track/4ZyzYYf3r0D03aFWInHHNo) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [The Way Back](https://open.spotify.com/album/7BzyMdpi9CcAWuojOVrrlu) | 3:00 |
 | 67 | [Secret](https://open.spotify.com/track/5ZOy8RnkCaTRFAhLxJDBql) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Secret](https://open.spotify.com/album/40cTaPb1jF6KiiykwR0fEO) | 2:46 |
 | 68 | [Memories](https://open.spotify.com/track/180x7QSS94PEVrJnLMYTV2) | [Jordan Rager](https://open.spotify.com/artist/4XoYsecWoLIoV66HEbt365) | [Memories](https://open.spotify.com/album/2RIyH2pNBgdBkdudi7FXFt) | 3:11 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 85 | [Miss California](https://open.spotify.com/track/3PzFElSoQkDDbeloGfg7Nm) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn) | [Miss California](https://open.spotify.com/album/1XcCJgdR5mdwmY38BwO3o5) | 3:01 |
 | 86 | [Right Now](https://open.spotify.com/track/5ck3G7eGFtScipscku8Q8t) | [Caleb Lovely](https://open.spotify.com/artist/588OniOrJFEKU5hWUDJ6V7) | [Right Now](https://open.spotify.com/album/35CLVsyK08NxxZxxwQEmu9) | 3:02 |
 | 87 | [Hang the Moon](https://open.spotify.com/track/2pQEiFLujXVmbLKhanrXjD) | [The Roads Below](https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI) | [Hang the Moon](https://open.spotify.com/album/7eWr3gZZqEHV7t2SAET5jo) | 2:56 |
-| 88 | [What Do We Do Now?](https://open.spotify.com/track/2Y8Bc8FFaAFTLSUggumiqT) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [What Do We Do Now?](https://open.spotify.com/album/3DSiv8bSfBosbvQispCd9r) | 2:36 |
+| 88 | [What Do We Do Now?](https://open.spotify.com/track/6ptcHU0vegcB2ef8rqeOWR) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 2:36 |
 | 89 | [Sad](https://open.spotify.com/track/2h9TXJfGr4rKRm5SPs4DEs) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Sad](https://open.spotify.com/album/5ZMzBphtzLY90oPXAm5chP) | 3:15 |
 | 90 | [Therapy](https://open.spotify.com/track/1Hvx88ks6xcxmX0aBi6kOS) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Therapy](https://open.spotify.com/album/1VKT3dlNWRsdqINYD4jxik) | 2:50 |
 | 91 | [Changed](https://open.spotify.com/track/59CcTuZW4YDSAok0ZOOTgx) | [Taryn Papa](https://open.spotify.com/artist/6Ej5v1jyKVKWQ9qdBkPMBW) | [Changed](https://open.spotify.com/album/2UrcEgREB1xJGXDNNlJcxv) | 2:48 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 135 | [Ruin A Beach](https://open.spotify.com/track/0BVbf4047jr9EXMwrgMNEY) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Ruin A Beach](https://open.spotify.com/album/3KqFxUwQ2ltFATUisQU6U6) | 3:28 |
 | 136 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGE3MzQwNWU1MjY5NTQ3N2NhMjI1YmEyMWI1Njg5OTU5`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGJiY2IzNGJlN2JmNGNiNzU5ZmMxMzBlNDgyYTExYmQz`

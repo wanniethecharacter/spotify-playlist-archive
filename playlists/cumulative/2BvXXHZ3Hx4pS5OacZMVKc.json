@@ -1977,6 +1977,28 @@
     },
     {
       "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/5yGK4IS1eeotZoaFnG2mFX"
+      },
+      "artists": [
+        {
+          "name": "Vizzen",
+          "url": "https://open.spotify.com/artist/0EKwbldduMcVWub0o2V5e5"
+        },
+        {
+          "name": "Protolizard",
+          "url": "https://open.spotify.com/artist/7nlh1D3MwQ7LOIcCD6jFya"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/4vmOIctOvLOEH4744M9rCu"
+    },
+    {
+      "album": {
         "name": "Here For Me",
         "url": "https://open.spotify.com/album/0GsChDp8uzLlO70baUjrRD"
       },

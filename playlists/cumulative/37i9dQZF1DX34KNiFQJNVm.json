@@ -20530,10 +20530,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 170271,
       "name": "Ci\u00fames Ao Vivo - Ao Vivo",
       "url": "https://open.spotify.com/track/3RXeq8xPXqqb6n0XTqguOE"
+    },
+    {
+      "album": {
+        "name": "Sertanejo Nattos, Ep. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6dy7bjUJtw3qiJ8ec2RuMH"
+      },
+      "artists": [
+        {
+          "name": "Edy Britto & Samuel",
+          "url": "https://open.spotify.com/artist/6UWCS7TrQo1V96jomn1k8U"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170271,
+      "name": "Ci\u00fames Ao Vivo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7BuWmzBU2aXf9BK5gX8VmJ"
     },
     {
       "album": {
@@ -89250,6 +89268,10 @@
         {
           "name": "MC Tairon",
           "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        },
+        {
+          "name": "Dj Win",
+          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
         },
         {
           "name": "Life Song Records",

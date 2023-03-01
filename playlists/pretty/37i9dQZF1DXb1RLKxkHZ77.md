@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Masdo
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,939 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,024 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 18 | [Hingga Tua Bersama](https://open.spotify.com/track/5b0NpyYAwW2dUGL08ir7Bg) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Hingga Tua Bersama](https://open.spotify.com/album/0pLC2EIZV2q4Ds7L7qbZaR) | 4:30 |
 | 19 | [CHECK](https://open.spotify.com/track/2e7kJy1vLWXqKQmOUnALLU) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [CHECK](https://open.spotify.com/album/4wBVctRA2xhUIMjGLukuG1) | 2:36 |
 | 20 | [Bohongi Hati](https://open.spotify.com/track/0zYSfIjxemTi6jvUxGrDHl) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:22 |
-| 21 | [Genggam](https://open.spotify.com/track/4ymk5xUFpoevOYcE8gvw8v) | [Aliff Aziz](https://open.spotify.com/artist/5lsnCehMgZLY9UfQa7STMy) | [Genggam](https://open.spotify.com/album/5Z0eni7PYZo7u7UL1vd6te) | 4:23 |
+| 21 | [Genggam](https://open.spotify.com/track/4ymk5xUFpoevOYcE8gvw8v) | [Aliff Aziz](https://open.spotify.com/artist/5lsnCehMgZLY9UfQa7STMy) | [Genggam](https://open.spotify.com/album/5Z0eni7PYZo7u7UL1vd6te) | 4:22 |
 | 22 | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/track/7As3vd7OvJwyGUsZfNtHce) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/album/2EAkuKnERWRUnGBw1OTDZo) | 3:52 |
 | 23 | [SWIPE](https://open.spotify.com/track/1FNfR4kZyozQ1unC5rQGC6) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [SWIPE](https://open.spotify.com/album/5mtgm2XTGhtLxxHcYC6XU0) | 2:40 |
 | 24 | [Tak Ingin Usai \- Duet Version](https://open.spotify.com/track/0qPiK7vHmTMAckxIgKETN9) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Tak Ingin Usai \(Duet Version\)](https://open.spotify.com/album/16K8rQ5maxmxeJb5L3uuo4) | 4:38 |

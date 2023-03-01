@@ -4,7 +4,7 @@
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-128 songs - 4 hr 49 min
+129 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Guacamole](https://open.spotify.com/track/6aDRlhhobcOIt1MkOUIbrV) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [The Best Tees](https://open.spotify.com/artist/0iMbhQ3qjEbpzE5c8vU8pp) | [Guacamole](https://open.spotify.com/album/17DIqmnctIXjOgBWkymHff) | 2:25 | 2022-04-05 |  |
 | [He's a Chef](https://open.spotify.com/track/2zkzPVWZXSWFcBszZ0HvmH) | [Rocket From The Crypt](https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h) | [Yo Gabba Gabba! Hey!](https://open.spotify.com/album/1KkCmh4A9k1U4znzSvqAEB) | 1:18 | 2022-04-05 |  |
 | [He's a Chef](https://open.spotify.com/track/1GCdjBxsfQFzviKCHkVxMq) | [Rocket From The Crypt](https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h) | [Yo Gabba Gabba! Music Is Awesome: Vol\. 4](https://open.spotify.com/album/3TmM9wQILguHtXEsfr2P7K) | 1:20 | 2022-04-05 | 2022-07-29 |
-| [Healthy Eating](https://open.spotify.com/track/359M3tiY30lcBM2UO2pXoX) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Fun Learning](https://open.spotify.com/album/68pllW49tJvjL0TPwGpQIM) | 1:56 | 2022-04-05 |  |
+| [Healthy Eating](https://open.spotify.com/track/359M3tiY30lcBM2UO2pXoX) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Fun Learning](https://open.spotify.com/album/68pllW49tJvjL0TPwGpQIM) | 1:56 | 2022-04-05 | 2023-03-01 |
+| [Healthy Eating](https://open.spotify.com/track/47FqRNKFucQZ6Gp1Z0HEoo) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Fun Learning](https://open.spotify.com/album/35spzlfd5pY8DoEQaVXcS1) | 1:56 | 2022-04-05 |  |
 | [Hot Potato](https://open.spotify.com/track/19m3CyoifSlSRKCVXhyMSg) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hot Potatoes! The Best of The Wiggles](https://open.spotify.com/album/4E3YeOlS3XChnyBE1kpgwj) | 1:18 | 2022-04-05 | 2022-07-29 |
 | [Hot Potato](https://open.spotify.com/track/7GDLgYICHuTevdp8Kf7YjY) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hit Songs and Rarities](https://open.spotify.com/album/0sNCyOvNDTgmzFhmfASPzz) | 1:19 | 2022-04-05 | 2022-11-14 |
 | [Hot Potato](https://open.spotify.com/track/0TQp3SpfrkWtGCyJJgMbHW) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Yummy Yummy](https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO) | 1:21 | 2022-04-05 |  |

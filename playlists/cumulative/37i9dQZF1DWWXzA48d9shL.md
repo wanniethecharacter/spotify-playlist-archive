@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$ & Shakewell
 
-391 songs - 15 hr 29 min
+392 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,8 @@
 | [Necrossist](https://open.spotify.com/track/5HUpPwK5mJWEHSEMKuYPqO) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [NECROSSISM](https://open.spotify.com/album/6tnsPiqgWU9EG8xh8PJBLm) | 1:41 | 2023-02-24 |  |
 | [Never Enough](https://open.spotify.com/track/08mjZYnpAFVWjKtLom6lRg) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Lu](https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4) | [Never Enough](https://open.spotify.com/album/5PE0K2u8spjs5v55RPYMOE) | 2:00 | 2022-02-04 | 2022-05-17 |
 | [NEW PROFILE PIC](https://open.spotify.com/track/1gyRKqGojB0xbiommbjN32) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [NEW PROFILE PIC](https://open.spotify.com/album/5H1l5WjzOXeKYakngqyqRa) | 2:07 | 2021-09-17 | 2022-05-17 |
-| [NEXTBOT!](https://open.spotify.com/track/4J87A1wSp2Tfl0NxaKUGfr) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NEXTBOT!](https://open.spotify.com/album/0smWk9Z2wHTmIm8k3hkWwe) | 1:30 | 2022-11-25 |  |
+| [NEXTBOT!](https://open.spotify.com/track/0wohSgJuZJvQoMV7gMpMrT) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NEXTBOT!](https://open.spotify.com/album/5O5zv32363BkvzctGwLqyR) | 1:30 | 2022-11-25 |  |
+| [NEXTBOT!](https://open.spotify.com/track/4J87A1wSp2Tfl0NxaKUGfr) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NEXTBOT!](https://open.spotify.com/album/0smWk9Z2wHTmIm8k3hkWwe) | 1:30 | 2022-11-25 | 2023-03-01 |
 | [NIGHTMARE!](https://open.spotify.com/track/3m3PvBLWGFW6QNXtFvmRsg) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [NIGHTMARE!](https://open.spotify.com/album/2g9zVgPOAAX5yXlXOgdK5N) | 2:28 | 2022-01-21 | 2023-02-17 |
 | [NINE!](https://open.spotify.com/track/6zI8XSUDmRc98U34KkqUJy) | [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic), [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [NINE!](https://open.spotify.com/album/6Vrs7bLaPib0PWC8wlen6J) | 2:12 | 2022-02-25 | 2022-05-12 |
 | [NoQuestionsAsked](https://open.spotify.com/track/4hu2iYMj7LAlCsEFbcWTrL) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Fukkit](https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI) | [NoQuestionsAsked](https://open.spotify.com/album/4zEZfmGSWrQg7oTTcTLvgv) | 1:53 | 2022-01-07 | 2022-04-29 |

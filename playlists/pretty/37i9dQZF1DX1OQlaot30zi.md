@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con Finesse, Sfera, Shiva e Guè\. Nuovi pezzi di Rondo e Plaza, Silent Bob e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,483 likes - 85 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,509 likes - 85 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 41 | [Albuquerque](https://open.spotify.com/track/57Ni9oqkifsawfzEOfwHr9) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Cabeleira](https://open.spotify.com/artist/7Lauhxh5gRrMpARrXzJ7dh), [Young Kid](https://open.spotify.com/artist/3fLhN3w58mHNCl7pxTbPz7) | [Albuquerque](https://open.spotify.com/album/6lal2IqeNec3CTLWLYDf8E) | 3:29 |
 | 42 | [ANSIA](https://open.spotify.com/track/58ULwLH4xc32gWPA1arrKb) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT) | [ANSIA](https://open.spotify.com/album/2aXUhCL7GP3n4gen4oSHkk) | 2:47 |
 | 43 | [BIG STEPPA](https://open.spotify.com/track/1a1wChKn8YYdbYs6aFh2Br) | [LA PLATA](https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ) | [BIG STEPPA](https://open.spotify.com/album/6N0mY0drXnE0kWGTF53HlK) | 2:15 |
-| 44 | [Su di me](https://open.spotify.com/track/67MNth2mSaOSiFWFBaBLRK) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ), [BUNNA](https://open.spotify.com/artist/2DCqMfiEpXVg3IKbvMj93g) | [Su di me](https://open.spotify.com/album/6Nj8bwU6LjTFlmu6WeQA1B) | 3:10 |
+| 44 | [Su di me](https://open.spotify.com/track/67MNth2mSaOSiFWFBaBLRK) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ), [Bunna](https://open.spotify.com/artist/2DCqMfiEpXVg3IKbvMj93g) | [Su di me](https://open.spotify.com/album/6Nj8bwU6LjTFlmu6WeQA1B) | 3:10 |
 | 45 | [I just wanna know](https://open.spotify.com/track/277746xxr6Ff3FkzFonVvC) | [Valos](https://open.spotify.com/artist/2lBSwGanSUwEoznDXPxOAv), [Otalay](https://open.spotify.com/artist/3RuR9IVE8ErUJaeI2FCY8b) | [I just wanna know](https://open.spotify.com/album/1AArGizGzdIwRn1htIDXha) | 3:08 |
 | 46 | [Mi sveglio sempre al pranzo](https://open.spotify.com/track/7jXdPtXWmclUgicMnUaua2) | [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [Mi sveglio sempre al pranzo](https://open.spotify.com/album/5OsM5oXuuT1ly9naqfTwPY) | 2:11 |
 | 47 | [4AM \(feat\. Nayt\)](https://open.spotify.com/track/28e2tSmvlacRKq69nkhDQ2) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [FLOW](https://open.spotify.com/album/1rXh4Ui9xfA0qK4k9GZYza) | 2:28 |

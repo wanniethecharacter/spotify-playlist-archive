@@ -1930,7 +1930,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -3674,7 +3674,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 169263,
       "name": "DIAMANTENA SULZA",
       "url": "https://open.spotify.com/track/17T4168xAdgt2muxa303JV"
@@ -4944,7 +4944,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 223216,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/4sO11a54gXayms6GDyqKep"
@@ -8084,7 +8084,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Kam vratata",
       "url": "https://open.spotify.com/track/2Q4Du5980to1tbdALIxew2"
@@ -10050,7 +10050,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
@@ -11424,7 +11424,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 215771,
       "name": "Nqma Kak",
       "url": "https://open.spotify.com/track/5nuqX3R4iAhbXO1sGrBLqi"
@@ -16970,7 +16970,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 152133,
       "name": "VSE EDNO",
       "url": "https://open.spotify.com/track/4B4f0Jno4VnQA2a7R1kWgX"
@@ -17290,7 +17290,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 202666,
       "name": "Welcome to Bulgaria",
       "url": "https://open.spotify.com/track/04zqsdXIs6fCpvKgl0AYY7"
@@ -20102,6 +20102,24 @@
       "duration_ms": 215064,
       "name": "\u0422\u0440\u0435\u0437\u043e\u0440\u0430",
       "url": "https://open.spotify.com/track/4BGRK42GfRCw2Hoolpu1G7"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0440\u0438\u043b\u043e\u0433\u0438\u044f",
+        "url": "https://open.spotify.com/album/52J0cEVQAEuPwxWKn22uAV"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508338,
+      "name": "\u0422\u0440\u0438\u043b\u043e\u0433\u0438\u044f (Trilogy)",
+      "url": "https://open.spotify.com/track/2jEgS0xLFvmoBDk43ZcPpp"
     },
     {
       "album": {

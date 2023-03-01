@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover: Paul Kim\(폴킴\)\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover: msftz\(미스피츠\)\)\) \(당신의 감성에 발라드, 려요\)
 
-803 songs - 2 day 4 hr 17 min
+806 songs - 2 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Hold On](https://open.spotify.com/track/7ch0WVownlf3971uGCwJcv) | [Yumin](https://open.spotify.com/artist/7mpr6KFA3Ss5MDZA0cy6ve) | [Hold On](https://open.spotify.com/album/1Pwno5h3SQ06NiwZmxERh1) | 3:36 | 2022-07-07 | 2022-09-06 |
 | [Honey Milk Tea](https://open.spotify.com/track/0eYoLzJApcy4FqebJMLiSS) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [Honey Milk Tea](https://open.spotify.com/album/5YBEOqh7IMmqQaHV8Iushk) | 3:42 | 2022-03-29 | 2022-06-25 |
 | [Hopefully sky](https://open.spotify.com/track/0w246i6rL2nkjgnyNNAmg6) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Hi Bye Mama \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5qM2yc5dwte5lQiuw2Dnvy) | 4:29 | 2021-12-23 | 2022-06-08 |
+| [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 | 2023-02-28 |  |
 | [How can I forget about you](https://open.spotify.com/track/6IsDt2hW9kaH9cLVu4DIVH) | [Kim Yong Jun](https://open.spotify.com/artist/7c8aDBJZIk4slFY40S6He7) | [Suddenly](https://open.spotify.com/album/2NxrCMvZHSJXsm92CmPiiW) | 3:29 | 2022-10-14 | 2023-01-11 |
 | [How Can I Forget You](https://open.spotify.com/track/3zs2ZBMzKOG1fMeh9rnkVT) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Forbidden Marriage, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0UoIZMkWzH1OqYXbc934Mv) | 4:35 | 2022-12-26 | 2023-02-09 |
 | [How could you](https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [How could you](https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo) | 4:11 | 2021-12-23 | 2022-07-08 |
@@ -377,6 +378,7 @@
 | [Just Watching You](https://open.spotify.com/track/0pPl0eb7HcfwuXkFZqp4TU) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Alchemy of Souls, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5FEmnt9FCOivDPeAfNxuin) | 4:02 | 2022-07-26 | 2022-10-27 |
 | [Knock](https://open.spotify.com/track/0xhykBkGxhVf2trGATsAfA) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 01](https://open.spotify.com/album/30bYSVfQCQ8sozUnbEsFrh) | 4:05 | 2023-01-20 | 2023-02-15 |
 | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/track/5tsFpHn90YwfYdfKGb0UnJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/album/3SHirl0IeccHW7cpPZXuLU) | 3:25 | 2022-03-24 | 2022-04-21 |
+| [Korean Ballad](https://open.spotify.com/track/6dXt2gwVdumUj1pFEyGg6w) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:43 | 2023-02-28 |  |
 | [Last Love](https://open.spotify.com/track/3IIpNE0OGmMThMQO4uK3Fd) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Last Love](https://open.spotify.com/album/5YqWy3QakMPwKDt5ntfDN6) | 4:04 | 2023-01-20 | 2023-02-25 |
 | [Last Scene](https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Last Scene \- The 3rd Mini Album](https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7) | 4:22 | 2022-11-16 | 2023-01-21 |
 | [Late Night](https://open.spotify.com/track/3QRUPaizh0X42xNQMr8aPg) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Late Night](https://open.spotify.com/album/4LGqCVppg8PsAPqfVjDPsx) | 3:36 | 2021-12-20 | 2022-04-21 |
@@ -503,6 +505,7 @@
 | [OceanooM Duet∘☽ \(feat\. Jung YoungEun\)](https://open.spotify.com/track/4iDcQyypdqnsx9lFwJaNWU) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf) | [OceanooM Duet∘☽](https://open.spotify.com/album/4IQct8SSePLkfcJpSsKAMd) | 3:27 | 2022-07-04 | 2022-09-30 |
 | [On A Rainy Night](https://open.spotify.com/track/1t6AYmReZJdCcbKLUjGCWQ) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [On A Rainy Night](https://open.spotify.com/album/5JtQzYZOacgK1jTrHI62Ou) | 4:09 | 2022-07-07 | 2022-09-30 |
 | [On A Starry Night](https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [On A Starry Night \(REVIBE Vol.3\)](https://open.spotify.com/album/3J2AhRHfqSOMwp6YYloJxC) | 4:32 | 2022-01-03 | 2022-04-30 |
+| [On My Way](https://open.spotify.com/track/5Q9aFVpPOYbN5EavyKr3yh) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [On My Way](https://open.spotify.com/album/26POvIjMcsJWQrtOt8ia18) | 3:54 | 2023-02-28 |  |
 | [On such a wonderful night](https://open.spotify.com/track/3Ueh9WSlKB9pKgNhsmMcRM) | [dawon you](https://open.spotify.com/artist/3sorJaK11BPQosaTaZkuhk) | [On such a wonderful night](https://open.spotify.com/album/5HpaXffkKOfi78iGPG656S) | 3:16 | 2023-01-10 | 2023-02-25 |
 | [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 | 2022-06-13 | 2022-08-13 |
 | [Once, More Than Anyone](https://open.spotify.com/track/4x6MZH5XsfnHH3D4fTiU8L) | [Baek Yeseul](https://open.spotify.com/artist/7GE4KJsseSG0G1848UQpro) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.23](https://open.spotify.com/album/2x3aDNlIC5WjRkWaN5KNEm) | 3:26 | 2022-12-16 | 2023-02-09 |

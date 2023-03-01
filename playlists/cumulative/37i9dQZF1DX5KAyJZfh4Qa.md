@@ -2,7 +2,7 @@
 
 ### [emo right now](https://open.spotify.com/playlist/37i9dQZF1DX5KAyJZfh4Qa)
 
-> it's just one of those days w/ <a href="https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb?si=6rDzYCSkSrSbnfwH1WhERA">One Step Closer</a>
+> it's just one of those days w/ Sweet Pill
 
 90 songs - 4 hr 50 min
 

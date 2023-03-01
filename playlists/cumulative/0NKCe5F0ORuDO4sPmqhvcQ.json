@@ -5365,6 +5365,24 @@
     },
     {
       "album": {
+        "name": "Only 1 Trying",
+        "url": "https://open.spotify.com/album/15uWvQD5fCOjeBFn9Bu6sP"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147042,
+      "name": "Only 1 Trying",
+      "url": "https://open.spotify.com/track/0BSHtzrgWBgw19hgZncNEl"
+    },
+    {
+      "album": {
         "name": "Open Road (feat. Rico & Miella)",
         "url": "https://open.spotify.com/album/3sEy4cNtbtNuXY6fwAo5kE"
       },

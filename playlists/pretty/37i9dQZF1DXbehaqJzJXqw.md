@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,771 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,258 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 99 | [Ces petits riens](https://open.spotify.com/track/3ttOCwpDbGFLf3VbZinXF1) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Monsieur Gainsbourg Originals](https://open.spotify.com/album/0SywgxMeOlmVNDa2IXAa3G) | 2:02 |
 | 100 | [Faire des ronds dans l'eau](https://open.spotify.com/track/7JFT6vfzNI3Qtyyza6J55R) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre Avec Vue](https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB) | 2:48 |
 
-Snapshot ID: `MTY3NzA1ODE2NiwwMDAwMDAwMGRkYzE5OGFjMGZjMDRmMDIyNWMzYTA3ZmZhZWZiOWMx`
+Snapshot ID: `MTY3NzU5NzU0NiwwMDAwMDAwMGU5NGU4NzVkYTg1OGM4ODRlMGYzOWZjMGUzMDU0OTQw`

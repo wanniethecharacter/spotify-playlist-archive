@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134,547 likes - 510 songs - 19 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,135,690 likes - 510 songs - 19 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -475,7 +475,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 465 | [Paper Heart](https://open.spotify.com/track/1Hc3WJFNoEVScMuJ8ofDxB) | [Gael Rico](https://open.spotify.com/artist/7792K7G74q2ZpczQiXdvlX) | [Paper Heart](https://open.spotify.com/album/5cmzgPNKOMs9bWGWbullff) | 1:37 |
 | 466 | [Play and Stop](https://open.spotify.com/track/1gT6cdQbANynZ2aur4Prnk) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Viro Aronowitz](https://open.spotify.com/album/6PyEDBCGsADSxhoRksNFxQ) | 1:45 |
 | 467 | [Morning Journey](https://open.spotify.com/track/1191leNva7cN89gJQahJxz) | [Miley Rari](https://open.spotify.com/artist/39K06JqlaHaQBdTwBPrNS4) | [Morning Journey](https://open.spotify.com/album/56J3tbBhjQnVZQcQrlzUwv) | 1:44 |
-| 468 | [Modulus Operandi](https://open.spotify.com/track/2bvz2s3PR1vMm0hdBqGA8D) | [Christoffer Jensen](https://open.spotify.com/artist/1TI8lR4mTDHzhy5rAmNAEz) | [Modulus Operandi](https://open.spotify.com/album/24oZ0Rbq781YkSaqaLVxiL) | 1:36 |
+| 468 | [Modulus Operandi](https://open.spotify.com/track/2bvz2s3PR1vMm0hdBqGA8D) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Modulus Operandi](https://open.spotify.com/album/24oZ0Rbq781YkSaqaLVxiL) | 1:36 |
 | 469 | [Lepricorn Ride](https://open.spotify.com/track/2YO5oyN7TcyRMlytlKxLmr) | [Sebastian Flecci](https://open.spotify.com/artist/4gJKWV189rb49Y9vvWmk3S) | [Magicos](https://open.spotify.com/album/1ji6VCa1jsz9wQ6cTX5Y0E) | 2:03 |
 | 470 | [Flattery](https://open.spotify.com/track/0EZzvnbBEDGBjaQRseSrbf) | [The Modern Zolo](https://open.spotify.com/artist/566dcTwvUwHWNp2bThMR3f) | [After Life](https://open.spotify.com/album/1pyFsXsMNGOaRzBPQtZLdQ) | 2:00 |
 | 471 | [Apple](https://open.spotify.com/track/4CWY4ISUUdFrN8YDrqETzh) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Apple](https://open.spotify.com/album/1qrnjn8odAEDmEe5ttFPlj) | 2:21 |

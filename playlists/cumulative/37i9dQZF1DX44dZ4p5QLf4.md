@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-305 songs - 17 hr 58 min
+306 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Anything For You \- The Duet](https://open.spotify.com/track/4Y6kb79j6Dw8Sy99JSBtzO) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Anything For You \(The Duet\)](https://open.spotify.com/album/0SehtJ2CGMhcBrEZTE5HLH) | 4:16 | 2021-12-16 | 2022-04-09 |
 | [Ascension](https://open.spotify.com/track/6BnkcVCFZX3HCU9csLS6UR) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85), [Oliver Night](https://open.spotify.com/artist/6n2LDOKxdPlYU0Awxu53Z9) | [Birdhouse](https://open.spotify.com/album/1gCav3gJyQL0ShBQ2BLYMJ) | 3:49 | 2022-02-24 |  |
 | [Astrology Joint](https://open.spotify.com/track/1jcGbrSCZ32Q2vyvOpOZzg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Astrology Joint](https://open.spotify.com/album/22JbTK2Ol0UpTjPnW8rlds) | 2:32 | 2022-10-28 |  |
-| [Baby](https://open.spotify.com/track/4ZmoarB1JBI8bXHPl7HH3h) | [Mörk](https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [In the Golden Hour](https://open.spotify.com/album/4tjwLFkl6rQ89oYznUM8nE) | 6:01 | 2022-07-28 |  |
+| [Baby](https://open.spotify.com/track/30VXXYrH2jyAHW3EKabNK5) | [Mörk](https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [In the Golden Hour](https://open.spotify.com/album/16R62MJA9jQRw1VUdzw1S9) | 6:01 | 2023-02-17 |  |
+| [Baby](https://open.spotify.com/track/4ZmoarB1JBI8bXHPl7HH3h) | [Mörk](https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [In the Golden Hour](https://open.spotify.com/album/4tjwLFkl6rQ89oYznUM8nE) | 6:01 | 2022-07-28 | 2023-03-01 |
 | [Back In The Day](https://open.spotify.com/track/1SgUfsEz18JLCIlnvIhmFE) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Back In The Day](https://open.spotify.com/album/4yh7uIniR1c3v3QQ1PcduJ) | 3:35 | 2021-12-16 | 2022-07-07 |
 | [Bad](https://open.spotify.com/track/1FuZI50Lm6PLN6JWQagTzK) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [Bad](https://open.spotify.com/album/5B285ZvlrjVrlBQs3qnhGv) | 2:29 | 2022-02-10 | 2023-02-18 |
 | [BAD bad](https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:49 | 2022-10-07 |  |

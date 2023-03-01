@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Cheat Codes
 
-319 songs - 16 hr 16 min
+320 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Islands To Nashville](https://open.spotify.com/track/59tIjrUIE6bdBfn0QRzmAs) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Islands To Nashville](https://open.spotify.com/album/7IDtDfgOiykmk79S7lcZiM) | 3:14 | 2021-12-10 | 2023-01-04 |
 | [JOSIE \(feat\. Jimmie Allen\)](https://open.spotify.com/track/6BHcMNbc3ZMU4aVjWeluJb) | [Liza Owen](https://open.spotify.com/artist/7rMi39MYgKE1TdRCTK3xqm), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Songs From Monte Nido](https://open.spotify.com/album/3hFdLwXe8yCZOE4W6lGSsl) | 3:47 | 2021-12-10 | 2022-06-25 |
 | [Joyride](https://open.spotify.com/track/56WqFKgyrRZd6CugD7Adjh) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Joyride](https://open.spotify.com/album/4GtZQ2uTWGcd40naFI7vYF) | 3:36 | 2021-12-10 | 2022-02-26 |
-| [K\[no\]w Better](https://open.spotify.com/track/4oPZQzSt5mD8BxV2T9zbzI) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [K\[no\]w Better](https://open.spotify.com/album/4IF6tCmUA0seAPrh4rUABg) | 2:47 | 2022-07-22 |  |
+| [K\[no\]w Better](https://open.spotify.com/track/44HYuoGSPTgV8yKXccrOuW) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 2:47 | 2023-02-24 |  |
+| [K\[no\]w Better](https://open.spotify.com/track/4oPZQzSt5mD8BxV2T9zbzI) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [K\[no\]w Better](https://open.spotify.com/album/4IF6tCmUA0seAPrh4rUABg) | 2:47 | 2022-07-22 | 2023-03-01 |
 | [Karma](https://open.spotify.com/track/70Y4SxunX8iVvBLzjEukyE) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Karma](https://open.spotify.com/album/2uFl4pMQtGIlGN3onYvxfg) | 3:08 | 2022-07-08 | 2022-07-23 |
 | [Kids](https://open.spotify.com/track/2EJBb3MDWCoXh5vRntYVP4) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Kids](https://open.spotify.com/album/7r07SSu50xNwGjkNCLVEd9) | 3:57 | 2021-12-10 | 2022-06-11 |
 | [Kiss About It](https://open.spotify.com/track/4atQ9Mu2f3s4ym4U2y811i) | [Cash Campbell](https://open.spotify.com/artist/57niI6IBcl5QLGLY45pEdw) | [Kiss About It](https://open.spotify.com/album/0H8cRuaKhqv98RjOWowmN7) | 3:16 | 2021-12-10 | 2022-02-26 |

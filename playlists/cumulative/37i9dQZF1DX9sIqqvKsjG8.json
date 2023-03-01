@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "85mm",
+        "url": "https://open.spotify.com/album/2WBVYJgZDu0sU46CakgquV"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179123,
+      "name": "85mm",
+      "url": "https://open.spotify.com/track/0QXXalGnUnollbhAscrpy3"
+    },
+    {
+      "album": {
         "name": "88",
         "url": "https://open.spotify.com/album/6YVrFPQ3k1xHiS4CuzsUFm"
       },
@@ -1917,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Chaque seconde",
+        "url": "https://open.spotify.com/album/28jXOYo12w7BRvB9lA2q3V"
+      },
+      "artists": [
+        {
+          "name": "Brielle De Villiers",
+          "url": "https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126864,
+      "name": "Chaque seconde",
+      "url": "https://open.spotify.com/track/7zE6q0FE26UZxgVt6HfZTK"
+    },
+    {
+      "album": {
         "name": "Charming Spring",
         "url": "https://open.spotify.com/album/5ehVzPu5IAoqa2b37chyOx"
       },
@@ -2112,6 +2148,24 @@
       "duration_ms": 121624,
       "name": "Completion",
       "url": "https://open.spotify.com/track/1mL8ZN23Rv9J4pNFp9lLCe"
+    },
+    {
+      "album": {
+        "name": "Con Cupido",
+        "url": "https://open.spotify.com/album/09LK6yRnnWz7pm6QIesK95"
+      },
+      "artists": [
+        {
+          "name": "Walter Giulini",
+          "url": "https://open.spotify.com/artist/59sSHs1swsdokd6UX7cvYO"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116752,
+      "name": "Con Cupido",
+      "url": "https://open.spotify.com/track/54eceUoCcFJUi1YV20rXfY"
     },
     {
       "album": {
@@ -2620,6 +2674,24 @@
       "duration_ms": 112125,
       "name": "Dorian",
       "url": "https://open.spotify.com/track/1DWg10tzVICdCpZoIdZ9qB"
+    },
+    {
+      "album": {
+        "name": "Dormendi",
+        "url": "https://open.spotify.com/album/1IKp4YnhKuAaIZDAbzkCc9"
+      },
+      "artists": [
+        {
+          "name": "Pontiver Bogross",
+          "url": "https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146601,
+      "name": "Dormendi",
+      "url": "https://open.spotify.com/track/2fhJokmG2tWLEIspaOyWzL"
     },
     {
       "album": {
@@ -3171,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2"
+      },
+      "artists": [
+        {
+          "name": "Hans Bukowski",
+          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139250,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O"
+    },
+    {
+      "album": {
         "name": "Faire le pont",
         "url": "https://open.spotify.com/album/7GYy9vKElgUbrFGzrPkWJ3"
       },
@@ -3680,6 +3770,24 @@
       "duration_ms": 127013,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/7IOhTZyPfyCPhO041cdiDv"
+    },
+    {
+      "album": {
+        "name": "Ourselves, as we are",
+        "url": "https://open.spotify.com/album/54dKyTMnecZ9sxs5zpeLi9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263013,
+      "name": "Forgotten me",
+      "url": "https://open.spotify.com/track/31SFfgcrOi5VtaVAQE7qFl"
     },
     {
       "album": {
@@ -7086,7 +7194,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 117016,
       "name": "Oaks Bluffs",
       "url": "https://open.spotify.com/track/0jSUVrvKQ0qF8ee1usL34M"
@@ -8278,6 +8386,24 @@
       "duration_ms": 103591,
       "name": "Return of the swans",
       "url": "https://open.spotify.com/track/28a8DXnFlTHUSGC9UuTwBM"
+    },
+    {
+      "album": {
+        "name": "Return To Le Berry",
+        "url": "https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM"
+      },
+      "artists": [
+        {
+          "name": "Jordi Forni\u00e9s",
+          "url": "https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165826,
+      "name": "Return To Le Berry",
+      "url": "https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa"
     },
     {
       "album": {
@@ -10756,7 +10882,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 213828,
       "name": "Tro",
       "url": "https://open.spotify.com/track/1be0V9RlpP8vsE78U54E8f"
@@ -12128,6 +12254,24 @@
       "duration_ms": 160694,
       "name": "Zephyr",
       "url": "https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl"
+    },
+    {
+      "album": {
+        "name": "Zonder jou",
+        "url": "https://open.spotify.com/album/7cqhmrEBhBUI0FjWly4fJg"
+      },
+      "artists": [
+        {
+          "name": "Darrell Boxman",
+          "url": "https://open.spotify.com/artist/7aAV3VOC8LXfsig7tWf47g"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141726,
+      "name": "Zonder jou",
+      "url": "https://open.spotify.com/track/6EsMDxk8tOh66QRuQmBpzv"
     },
     {
       "album": {

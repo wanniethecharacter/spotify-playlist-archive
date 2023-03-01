@@ -1775,6 +1775,28 @@
     },
     {
       "album": {
+        "name": "La Faca (Feat. Carol Villagr\u00e1n)",
+        "url": "https://open.spotify.com/album/66A465PEibTC3MjkOI4Nvw"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngel Strife",
+          "url": "https://open.spotify.com/artist/3Lse4fAlOchY8msotsYMA6"
+        },
+        {
+          "name": "Carol Villagr\u00e1n",
+          "url": "https://open.spotify.com/artist/2t97Z9KUuhtctWUlsmrt4Q"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198307,
+      "name": "La Faca",
+      "url": "https://open.spotify.com/track/1JpecUG8sPntakN0orOpgN"
+    },
+    {
+      "album": {
         "name": "Bossa Cubana",
         "url": "https://open.spotify.com/album/2FzEVO0AIoZRFxiqw8RDF2"
       },
@@ -2818,7 +2840,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 351813,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"

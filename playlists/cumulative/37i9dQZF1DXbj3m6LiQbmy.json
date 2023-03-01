@@ -4109,6 +4109,28 @@
     },
     {
       "album": {
+        "name": "See You in Paradise",
+        "url": "https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS"
+      },
+      "artists": [
+        {
+          "name": "Massimiliano Pagliara",
+          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
+        },
+        {
+          "name": "Snax",
+          "url": "https://open.spotify.com/artist/5rjH376DhRy7PhQS32wtOg"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385153,
+      "name": "Snap Out",
+      "url": "https://open.spotify.com/track/1NSL9l3FVezZcX6fp0cuMC"
+    },
+    {
+      "album": {
         "name": "SOLO PER TE",
         "url": "https://open.spotify.com/album/4u8rILA5sJgKIJidTObCpV"
       },
@@ -4610,7 +4632,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 203684,
       "name": "Tocco di Lusso",
       "url": "https://open.spotify.com/track/3Mx4tA9RPAgtLGSmbQSP9T"

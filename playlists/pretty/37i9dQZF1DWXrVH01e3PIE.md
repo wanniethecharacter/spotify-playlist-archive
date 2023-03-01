@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Tiago PZK en la casa del Trap de Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,433 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,582 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 69 | [CANAPÉ](https://open.spotify.com/track/4ShrmORSgiLFUOQ00yzflb) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [POCHOCLOS](https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP) | 2:27 |
 | 70 | [Wannabes](https://open.spotify.com/track/3CRWif4nvM2k0iHsXMg1ST) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p) | [Wannabes](https://open.spotify.com/album/77ICfYyqJTWoVssh5kJjQt) | 2:01 |
 | 71 | [Tú](https://open.spotify.com/track/2bweGiZkARokGehStQeENF) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [Tú](https://open.spotify.com/album/4IEQwedQvsAJn05mWfuQ4I) | 3:20 |
-| 72 | [Guapa](https://open.spotify.com/track/5kw4PXyQAKtIegpAfwjGMy) | [Luche](https://open.spotify.com/artist/3KKomwHhzofchp8VArk3sC), [Chigua](https://open.spotify.com/artist/16vvA9c32SSlzKJff7s7JW) | [Guapa](https://open.spotify.com/album/0f7hijY5yqgbXbgjDlMg62) | 2:33 |
+| 72 | [Guapa](https://open.spotify.com/track/5kw4PXyQAKtIegpAfwjGMy) | [Luche](https://open.spotify.com/artist/3KKomwHhzofchp8VArk3sC), [Chigua](https://open.spotify.com/artist/16vvA9c32SSlzKJff7s7JW), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [Guapa](https://open.spotify.com/album/0f7hijY5yqgbXbgjDlMg62) | 2:33 |
 | 73 | [Tantas Canciones](https://open.spotify.com/track/42xovTUdF6tbJ9sX9Fkc1K) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [Tantas Canciones](https://open.spotify.com/album/5BdHmsryeB9eN1s7T7UeUe) | 1:57 |
 | 74 | [Lero Lero](https://open.spotify.com/track/5byzOd0JbgAZYdFfqTKhVA) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [Lero Lero](https://open.spotify.com/album/0bw2wWwulRUFCK0CYxOdnm) | 2:22 |
 | 75 | [22HS](https://open.spotify.com/track/3cCTNbeGVsoANK3pbLXOz7) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [POCHOCLOS](https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP) | 2:34 |

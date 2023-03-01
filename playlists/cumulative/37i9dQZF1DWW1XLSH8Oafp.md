@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring DJ HEARTSTRING
 
-548 songs - 1 day 7 hr 44 min
+549 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Glimmer](https://open.spotify.com/track/6mbaDSOA05Cy4txRRYuJqL) | [FOURA](https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4) | [Glimmer](https://open.spotify.com/album/4UQ7SYtwVP2TzxBbqHKfNz) | 3:16 | 2022-09-02 | 2022-12-24 |
 | [Go Ahead](https://open.spotify.com/track/6iA0zMB7nFWf7sEUzIEXlZ) | [Downhill2k01](https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs) | [Go Ahead](https://open.spotify.com/album/4VIOjgUzMTvsQ8ZhubK2MB) | 3:12 | 2022-09-23 |  |
 | [Googoo Lagoon](https://open.spotify.com/track/2WDhakxpi1P3Kzp6JT30ll) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Googoo Lagoon](https://open.spotify.com/album/26lzqyZj9NtAe1JG1lejca) | 3:44 | 2022-03-04 | 2022-08-17 |
-| [grand slam](https://open.spotify.com/track/72q0Hbobb1aSXy5H9bwUbQ) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [grand slam](https://open.spotify.com/album/6RH62n57jgzYLnrGB5eEOG) | 2:30 | 2023-02-03 |  |
+| [grand slam](https://open.spotify.com/track/53xI80sTC0D7HaqieVEiDa) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [grand slam](https://open.spotify.com/album/0Jaajl2WmRIwEOFLnbN2dx) | 2:30 | 2023-02-03 |  |
+| [grand slam](https://open.spotify.com/track/72q0Hbobb1aSXy5H9bwUbQ) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [grand slam](https://open.spotify.com/album/6RH62n57jgzYLnrGB5eEOG) | 2:30 | 2023-02-03 | 2023-03-01 |
 | [Grays](https://open.spotify.com/track/5LLzSKWxCPkPDmScnUerZL) | [Boys Hotel](https://open.spotify.com/artist/3BQpGPX8wEhlKrICJuCmBd) | [Grays](https://open.spotify.com/album/7y8rIJ7Bav0DBK5chVlIHV) | 5:11 | 2022-10-21 | 2022-11-04 |
 | [guessabelle](https://open.spotify.com/track/5vf5A8GZM1m2obl3vHmZFQ) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [guessabelle](https://open.spotify.com/album/725oq2BOUlctmIJxwzlmWd) | 8:58 | 2022-03-11 | 2022-06-26 |
 | [Guest House](https://open.spotify.com/track/6grlBYKqpLsnZcoy9oa6tw) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 2:08 | 2022-04-01 | 2022-04-09 |

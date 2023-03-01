@@ -6,7 +6,7 @@
     "name": "leoyuki",
     "url": "https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw"
   },
-  "snapshot_id": "MjI0LDViYjU5ZjhkYTk5NGQwNGJlMWZlNjg3OWUwODRlNmNlOWMwY2MyYzU=",
+  "snapshot_id": "MjI2LGNiOWE5MGZiMjY5ZDIwODI0YWE0MGRjOTE2NTlkNTc0OWI3ODliMzY=",
   "tracks": [
     {
       "added_at": "2018-11-27 22:12:08",
@@ -3547,6 +3547,38 @@
       "duration_ms": 238326,
       "name": "ETERNAL PAIN",
       "url": "https://open.spotify.com/track/3peSjzHxueZ5Us5IoNFQmL"
+    },
+    {
+      "added_at": "2023-02-28 06:25:50",
+      "album": {
+        "name": "Radical",
+        "url": "https://open.spotify.com/album/4dn52eV4gt2YcYxcKd1HZl"
+      },
+      "artists": [
+        {
+          "name": "LXST CXNTURY",
+          "url": "https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp"
+        }
+      ],
+      "duration_ms": 139419,
+      "name": "Blindspot",
+      "url": "https://open.spotify.com/track/5xXpd5FzXOVVCwCL2fgTxp"
+    },
+    {
+      "added_at": "2023-02-28 10:52:38",
+      "album": {
+        "name": "Vinyl 2",
+        "url": "https://open.spotify.com/album/3nbGgtr417BUtWI1fZkvtI"
+      },
+      "artists": [
+        {
+          "name": "SHPACKYOU$",
+          "url": "https://open.spotify.com/artist/67qKhVs7sfKAF7b38kPcNE"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7atISFYLur90ZXfQgFibA9"
     }
   ],
   "unique_name": "hardwave~phonk",

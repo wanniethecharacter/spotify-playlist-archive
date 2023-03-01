@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Milena\(밀레나\)\)
 
-170 songs - 9 hr 42 min
+171 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/0AgNlLxv23f2iBgdphi4to) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 | 2022-11-22 |  |
 | [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 | 2022-07-25 | 2022-12-16 |
 | [Complicated](https://open.spotify.com/track/7hJyTX9CUFlYDmbVPuv8nT) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Complicated Needles](https://open.spotify.com/album/3m4dDrPmFG9Uzgl1C7y5zM) | 3:44 | 2022-09-27 |  |
+| [CONFEXXION](https://open.spotify.com/track/5s3opyN6LAoYAxs3158KuP) | [YooShin](https://open.spotify.com/artist/2EzuG4WW4xOYNjMIxVddHn) | [CONFEXXION](https://open.spotify.com/album/7Jd0Fcoc8aLSrtWqNYQ4WO) | 4:00 | 2023-02-28 |  |
 | [D\-day \(Feat\. GIRIBOY\)](https://open.spotify.com/track/15LVXIWDmQA7mLUnLJn1AF) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:31 | 2022-05-28 | 2022-06-10 |
 | [Dang](https://open.spotify.com/track/2OEeCgbcjrEo5mkXnc17iv) | [HAN HEEJUN](https://open.spotify.com/artist/3XMcOeSNjiIPC033PUTSbi), [DeAndre](https://open.spotify.com/artist/6cRaQkqVc3CqVtuE25ZVK8), [그렉](https://open.spotify.com/artist/0LTTvbTIWZk7uA0I4Ax7je) | [Dang](https://open.spotify.com/album/7a9AU8c7VLlGdDfjgfysOV) | 3:37 | 2022-05-28 | 2022-08-13 |
 | [DATE NiTE \(feat\. Yoonmirae\)](https://open.spotify.com/track/53rzmLk7JlZazvvZuVf04d) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 3:37 | 2022-05-28 | 2022-07-06 |

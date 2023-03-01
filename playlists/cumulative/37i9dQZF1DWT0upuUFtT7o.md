@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Noah Pope
 
-1,210 songs - 2 day 18 hr 26 min
+1,211 songs - 2 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [dangerous](https://open.spotify.com/track/4QcfyE17dRGVCb2ZLrepnG) | [NOVA ONE](https://open.spotify.com/artist/23AoRz8asmZEYrUd1GpRiS) | [dangerous](https://open.spotify.com/album/08x4sWyx2sNVxeKEfG8edB) | 3:13 | 2023-02-08 | 2023-02-23 |
 | [Dans la foule](https://open.spotify.com/track/1lxW5i6WdLJpUJYqOyMpNS) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Dans la foule](https://open.spotify.com/album/4Bcl7TLTBO7Q6Sbks59HRC) | 2:34 | 2022-03-02 | 2022-04-27 |
 | [Day To Day](https://open.spotify.com/track/2nBpbHeiTJhenr1p4fdikV) | [Chelsea Days](https://open.spotify.com/artist/0Ix2QkyM31FfPRCQjnkttP) | [Day To Day](https://open.spotify.com/album/7no1A7DLxpfi35PDmdV1Xc) | 2:36 | 2022-09-28 | 2022-10-26 |
+| [Daydrunk](https://open.spotify.com/track/39624Sa4E4yXdWibiPErMh) | [Mana Garden](https://open.spotify.com/artist/66Gv97uu4XTInfcVvHhbcC) | [Daydrunk](https://open.spotify.com/album/47SPZuz2evHfXFP0j067j0) | 3:36 | 2023-02-28 |  |
 | [Days Go By](https://open.spotify.com/track/0Wi4Cn9tgcNKEKWNWXQqIV) | [Fontanarosa](https://open.spotify.com/artist/0k4N7aGYCoBA9NVf1AKoqy) | [Are You There ?](https://open.spotify.com/album/54Au5aeDYhtVv1cPVeIuaC) | 2:30 | 2022-04-06 | 2022-04-27 |
 | [Dazed](https://open.spotify.com/track/49KnDWWAZzWXVxaiDwSXsI) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [New Occasion](https://open.spotify.com/album/7mPuG1ZP41IW1A7X4pNzPf) | 4:18 | 2022-10-25 | 2022-12-01 |
 | [DD](https://open.spotify.com/track/5NXryQULOsXksGBwnXOVwz) | [Hot Moms Club](https://open.spotify.com/artist/44U6qVof1S72cplspDbWrj) | [DD](https://open.spotify.com/album/1fk3lsaqYE7Zmi6e0WiK1u) | 3:46 | 2022-05-04 | 2022-05-26 |

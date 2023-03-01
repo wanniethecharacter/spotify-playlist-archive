@@ -596,10 +596,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 196000,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/49FgEirdzQYfzmDKwNynOI"
+    },
+    {
+      "album": {
+        "name": "Mist",
+        "url": "https://open.spotify.com/album/1gy2sqf4gWrnoNGNQsrff6"
+      },
+      "artists": [
+        {
+          "name": "Otomizu",
+          "url": "https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/4JSNOmj7ZPf9hkerGa1RUN"
     },
     {
       "album": {

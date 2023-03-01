@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-403 songs - 22 hr 32 min
+404 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [On 2 Me](https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [On 2 Me](https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP) | 2:30 | 2022-03-18 | 2022-04-19 |
 | [on the hill](https://open.spotify.com/track/33uIddmYbMTtXea5qTfwLT) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG), [Finn Sigil](https://open.spotify.com/artist/4hUoSB0GFnGjmwUouW4Z2O) | [Mage 1](https://open.spotify.com/album/0WzFWjxpn9M2vQJS1jxcGR) | 4:40 | 2022-07-01 | 2022-09-19 |
 | [One More Time \- AOBeats Remix](https://open.spotify.com/track/7c9l2jlh2XHyRmDC6Cz5CX) | [Luka Kloser](https://open.spotify.com/artist/3IOjE9iyEPAWA1MnoeKjfQ), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [One More Time \(AOBeats Remix\)](https://open.spotify.com/album/2KIgLWdFH0EF6H5RFvR9qW) | 2:38 | 2022-03-04 |  |
+| [Only 1 Trying](https://open.spotify.com/track/0BSHtzrgWBgw19hgZncNEl) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Only 1 Trying](https://open.spotify.com/album/15uWvQD5fCOjeBFn9Bu6sP) | 2:27 | 2023-02-28 |  |
 | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/track/5OWt21Fcte8qlNuf9r0fVI) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Rico & Miella](https://open.spotify.com/artist/6F4KRaTnwZ3ttUYpdo45C8) | [Open Road \(feat\. Rico & Miella\)](https://open.spotify.com/album/3sEy4cNtbtNuXY6fwAo5kE) | 3:27 | 2022-03-18 | 2022-06-28 |
 | [OTW](https://open.spotify.com/track/6P7TP6ifKNaIp0y59Q3pCF) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:52 | 2021-12-07 | 2022-01-08 |
 | [Over the Sun](https://open.spotify.com/track/6zqcYS3RD9SPG9I6u2n4DD) | [Manic Focus](https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz) | [Over the Sun](https://open.spotify.com/album/3mS2aEDIWw9Fr15ljWJdQT) | 3:09 | 2023-02-03 |  |

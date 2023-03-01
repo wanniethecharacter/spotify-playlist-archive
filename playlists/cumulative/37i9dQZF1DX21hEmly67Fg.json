@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Colors Of The Wind",
+        "url": "https://open.spotify.com/album/4NeduIspIgT4GpZjAJeF3O"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Palade",
+          "url": "https://open.spotify.com/artist/3RLM2ofq28IJVrNveeIkb3"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198545,
+      "name": "Colors Of The Wind",
+      "url": "https://open.spotify.com/track/6bQ5Bvcmykkj5ONuk6FWyt"
+    },
+    {
+      "album": {
         "name": "Dance Monkey",
         "url": "https://open.spotify.com/album/49lYvjArPlTqsn4O10ti44"
       },
@@ -1007,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "From Both Sides Now",
+        "url": "https://open.spotify.com/album/7leRuOJAVfQIAPkVFBhEKz"
+      },
+      "artists": [
+        {
+          "name": "Mats T\u00e4rnfors",
+          "url": "https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252874,
+      "name": "From Both Sides Now",
+      "url": "https://open.spotify.com/track/0y1QJXvmb5iRXd11JJf9Hi"
+    },
+    {
+      "album": {
         "name": "Popsongs",
         "url": "https://open.spotify.com/album/0Od9iGE0VH3ISl3dJwYJ7z"
       },
@@ -1148,6 +1184,24 @@
       "duration_ms": 181656,
       "name": "Have I Told You Lately",
       "url": "https://open.spotify.com/track/685KqTbzJzUKcStO5m1VD8"
+    },
+    {
+      "album": {
+        "name": "Hello, Young Lovers",
+        "url": "https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW"
+      },
+      "artists": [
+        {
+          "name": "Jon Belle",
+          "url": "https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208764,
+      "name": "Hello, Young Lovers",
+      "url": "https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz"
     },
     {
       "album": {
@@ -2786,6 +2840,24 @@
       "duration_ms": 188418,
       "name": "Woman In Love",
       "url": "https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe"
+    },
+    {
+      "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/0O46PzSt1njOguGiMHF9Pu"
+      },
+      "artists": [
+        {
+          "name": "Pia Nouvelle",
+          "url": "https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/37mbKfCK38Kkyg7ivgcxzV"
     },
     {
       "album": {

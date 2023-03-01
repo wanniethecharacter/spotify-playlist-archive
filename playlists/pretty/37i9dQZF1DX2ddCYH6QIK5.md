@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: MODULAR, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,160 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,165 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 52 | [Oasen aus Beton](https://open.spotify.com/track/4FdBzucjtVBglF8SR6kz7l) | [Yellow](https://open.spotify.com/artist/7zjrMyYoQlzR3h32TW6gxZ) | [Oasen aus Beton](https://open.spotify.com/album/2mIiJXegxXcGa8LFIp8URd) | 2:33 |
 | 53 | [Leeres Haus](https://open.spotify.com/track/4nsodT0Ifmgjwq2MRidCJv) | [Kind](https://open.spotify.com/artist/17xOXfjwwBku3bnlraoLDI) | [Leeres Haus](https://open.spotify.com/album/5YJYw9FLIixneYORcZPuje) | 4:56 |
 | 54 | [I Had It All](https://open.spotify.com/track/0zQIx6PWtZ7PtAFFkNR9LP) | [Sophie Hallberg](https://open.spotify.com/artist/5yXGV9tUS2AkJ8E464zwfF) | [I Had It All](https://open.spotify.com/album/0iDh4uktO7sKTrimguKfRU) | 3:01 |
-| 55 | [Flashing Excitement](https://open.spotify.com/track/1nCJHaPHWNcBjwAJxnLdo7) | [Smash TV](https://open.spotify.com/artist/1VUgV5TXOldN4yUTiIjJbP), [KIKI](https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez), [June Coco](https://open.spotify.com/artist/06Av3z6xKBCMXblNdMc4Cu) | [Electric Days EP](https://open.spotify.com/album/4bxpcVPORPJpgwvMKixl4a) | 5:13 |
+| 55 | [Flashing Excitement](https://open.spotify.com/track/1nCJHaPHWNcBjwAJxnLdo7) | [Smash TV](https://open.spotify.com/artist/1VUgV5TXOldN4yUTiIjJbP), [KIKI](https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez), [June Cocó](https://open.spotify.com/artist/0g3Rqfcl1SIoXRZRF0uAGg) | [Electric Days EP](https://open.spotify.com/album/4bxpcVPORPJpgwvMKixl4a) | 5:13 |
 | 56 | [BBB \#40](https://open.spotify.com/track/75UAvAAZnHbKvkrC3kKdfN) | [TRINA](https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ) | [BBB \#40](https://open.spotify.com/album/5LuB1rFFATNhE2yKo17Stq) | 2:18 |
 | 57 | [Down](https://open.spotify.com/track/5guo8TwbQXq9oxVZIKNm5O) | [Neon Neet](https://open.spotify.com/artist/5GIYsEtFCzSQxFLmBW6Ri0) | [Down](https://open.spotify.com/album/4rFKLD044q352JelD1AARX) | 2:47 |
 | 58 | [Round Around](https://open.spotify.com/track/1zPssv4lqLQEm1AawunhoS) | [JA:CK](https://open.spotify.com/artist/33roiDwMgXEydzvBwn9NR7) | [Round Around](https://open.spotify.com/album/5zimKf9QPGPHWY6bpz4CDp) | 7:40 |

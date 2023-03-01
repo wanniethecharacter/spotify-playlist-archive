@@ -1,13 +1,29 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Noah Pope",
-  "num_followers": 170724,
+  "num_followers": 170828,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUzODc4MCwwMDAwMDAwMGUyZGZlNWEyYTUyZjA0MzY5ZTAxZDM0MDRkYWQ3MGNi",
+  "snapshot_id": "MTY3NzYwMjQ1NiwwMDAwMDAwMDExMmZjN2Q1NGY5NTU5MTMxYzdjM2Y0ZDgyM2FlNjEx",
   "tracks": [
+    {
+      "added_at": "2023-02-28 16:40:56",
+      "album": {
+        "name": "Daydrunk",
+        "url": "https://open.spotify.com/album/47SPZuz2evHfXFP0j067j0"
+      },
+      "artists": [
+        {
+          "name": "Mana Garden",
+          "url": "https://open.spotify.com/artist/66Gv97uu4XTInfcVvHhbcC"
+        }
+      ],
+      "duration_ms": 216297,
+      "name": "Daydrunk",
+      "url": "https://open.spotify.com/track/39624Sa4E4yXdWibiPErMh"
+    },
     {
       "added_at": "2023-02-22 01:30:35",
       "album": {

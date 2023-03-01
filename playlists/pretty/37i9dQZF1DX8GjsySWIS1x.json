@@ -1,33 +1,13 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 1003760,
+  "num_followers": 1003873,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMGM5Mzk4ZjcyODA5ZTc2MGYyNmIwZTBkOGI4NDZmZjRl",
+  "snapshot_id": "MTY3NzYwNzkzNSwwMDAwMDAwMDk2MjkyYmI5MjQxYmQ1NThiYzZlYTc2MjIzZTJkOGM5",
   "tracks": [
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Get Along (With the Groove)",
-        "url": "https://open.spotify.com/album/1QvBwRmjvnfuiuZ61vdoir"
-      },
-      "artists": [
-        {
-          "name": "NVDES",
-          "url": "https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy"
-        },
-        {
-          "name": "The Vibe Trillionaires",
-          "url": "https://open.spotify.com/artist/2ChPvjFuvqOs9ezyG24HEV"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "Get Along (With the Groove)",
-      "url": "https://open.spotify.com/track/69iucb7EFeICfSjgzJgyVp"
-    },
     {
       "added_at": "2022-12-16 06:01:00",
       "album": {
@@ -307,26 +287,6 @@
       "duration_ms": 156000,
       "name": "MEGALOVANIA",
       "url": "https://open.spotify.com/track/1J03Vp93ybKIxfzYI4YJtL"
-    },
-    {
-      "added_at": "2022-11-23 15:37:37",
-      "album": {
-        "name": "CODES",
-        "url": "https://open.spotify.com/album/1VNGWcGNCBkUGFyFiC0Kdj"
-      },
-      "artists": [
-        {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
-        },
-        {
-          "name": "Macntaj",
-          "url": "https://open.spotify.com/artist/0erl2oe9fDqYo37ueBiG8K"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "CODES",
-      "url": "https://open.spotify.com/track/7HNsbDFhZhs2qhEjC2W3om"
     },
     {
       "added_at": "2022-07-28 15:31:40",

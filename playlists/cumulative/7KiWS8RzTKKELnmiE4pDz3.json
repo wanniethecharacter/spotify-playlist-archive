@@ -594,7 +594,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 224468,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1BuN2kMDQrXhS73RrTNRyY"
@@ -2833,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184426,
+      "name": "How it go",
+      "url": "https://open.spotify.com/track/6yTy7zuNnUglg5EIlD5vX4"
+    },
+    {
+      "album": {
         "name": "Lost Files",
         "url": "https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q"
       },
@@ -3628,6 +3646,24 @@
       "duration_ms": 256052,
       "name": "Like Me (feat. Kevin Gates and Stroke tha Don)",
       "url": "https://open.spotify.com/track/2v2bCAheJHzMGsqT1oxCxp"
+    },
+    {
+      "album": {
+        "name": "Like Sosa, Bang, Bang, Baby",
+        "url": "https://open.spotify.com/album/2F3ecFWb26F4F67H1ChUJk"
+      },
+      "artists": [
+        {
+          "name": "iayze",
+          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133423,
+      "name": "Like Sosa, Bang, Bang, Baby",
+      "url": "https://open.spotify.com/track/19DxfiuqUiuAB2QtDkgTPj"
     },
     {
       "album": {
@@ -4998,7 +5034,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
@@ -5074,6 +5110,28 @@
       "duration_ms": 150852,
       "name": "Portrayal!",
       "url": "https://open.spotify.com/track/22DtsLext8dWgV3PBYrmxi"
+    },
+    {
+      "album": {
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "Pot Roast (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/4lGVw2ckNgm2rvVySj7qTP"
     },
     {
       "album": {
@@ -5168,7 +5226,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 194262,
       "name": "PURE (feat. G Herbo)",
       "url": "https://open.spotify.com/track/1GOifqA2EoXqxwFB5aFrWI"
@@ -5670,7 +5728,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 162930,
       "name": "Same Thang",
       "url": "https://open.spotify.com/track/19kjy1ka0n0qfr9SeIViwy"
@@ -5901,6 +5959,24 @@
     },
     {
       "album": {
+        "name": "So Messy",
+        "url": "https://open.spotify.com/album/5pcdj525dihZGZFEvwIVVe"
+      },
+      "artists": [
+        {
+          "name": "GOONIE",
+          "url": "https://open.spotify.com/artist/2Z8HHweJsQ0WDusmOsqozg"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122958,
+      "name": "So Messy",
+      "url": "https://open.spotify.com/track/5xKWzb7qzaRvTQ8OSfmOWR"
+    },
+    {
+      "album": {
         "name": "Song 32",
         "url": "https://open.spotify.com/album/3WyY9vsAcsEngOhfOl3aby"
       },
@@ -5973,6 +6049,24 @@
     },
     {
       "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/3HqGDrSOZ6LbBfX5EsiaAj"
+    },
+    {
+      "album": {
         "name": "SSN",
         "url": "https://open.spotify.com/album/04bCZaRSZaS0YsSJvs3yM1"
       },
@@ -6002,7 +6096,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 93935,
       "name": "Stay Focused",
       "url": "https://open.spotify.com/track/4w8IHtYC1uTSY27fH4DPdk"

@@ -2137,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Vox",
+        "url": "https://open.spotify.com/album/3ePnQQvmjCbOH0Bo8EJ7XV"
+      },
+      "artists": [
+        {
+          "name": "OG MarlynMonROLLUP",
+          "url": "https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59663,
+      "name": "Vox",
+      "url": "https://open.spotify.com/track/7I5Ob4Izz1yJKINm2C3hjf"
+    },
+    {
+      "album": {
         "name": "Qweendom",
         "url": "https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv"
       },

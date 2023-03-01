@@ -376,7 +376,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 200321,
       "name": "As We Ran",
       "url": "https://open.spotify.com/track/5ITmuvjtUUdxVQCCsaKBDx"
@@ -1988,6 +1988,24 @@
       "duration_ms": 264706,
       "name": "Even in the Tremor",
       "url": "https://open.spotify.com/track/6F4UgWQag8N1fFK1rcqN50"
+    },
+    {
+      "album": {
+        "name": "RMCM",
+        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
     },
     {
       "album": {

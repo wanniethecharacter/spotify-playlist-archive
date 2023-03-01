@@ -4,7 +4,7 @@
 
 > 經得起時間考驗嘅歌曲，無論新版、舊歌一樣好聽！
 
-92 songs - 6 hr 7 min
+93 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [兩個你](https://open.spotify.com/track/1vpxFxx27sDpx9oaeBPzyF) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [兩個你](https://open.spotify.com/album/04vZzjRIBZPqPqZiB9GwFX) | 3:16 | 2022-03-10 | 2023-02-03 |
 | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/track/7eZJLfMQ5mDtejHitRkzRf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/album/5f1R2DOR0cLJlUmpO1gtjC) | 4:44 | 2022-03-10 | 2023-02-03 |
 | [分手總要在雨天](https://open.spotify.com/track/5GWjuO8Fq0180HXbny1HNo) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [E11](https://open.spotify.com/album/53pbunTdvp1O77bS2rRN1Q) | 4:41 | 2023-02-02 |  |
-| [初恋](https://open.spotify.com/track/4aLmzZyMECEzWSXt15bI1f) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [The Voyage](https://open.spotify.com/album/0b2toX1GP2XxY5W83bjAdA) | 3:27 | 2023-02-02 |  |
+| [初恋](https://open.spotify.com/track/40z4u67Cm6I4WUQvM3atmb) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [The Voyage](https://open.spotify.com/album/3yNL4RvDIZShXbY1HHiVqA) | 3:27 | 2023-02-02 |  |
+| [初恋](https://open.spotify.com/track/4aLmzZyMECEzWSXt15bI1f) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [The Voyage](https://open.spotify.com/album/0b2toX1GP2XxY5W83bjAdA) | 3:27 | 2023-02-02 | 2023-03-01 |
 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 | 2022-03-10 | 2023-02-03 |
 | [取消資格](https://open.spotify.com/track/5fTvinvM2O7Qfedvp4u3ck) | [Cass Phang](https://open.spotify.com/artist/0RkQt8LMVrxCjQb9BxpBfF) | [給我愛過的男孩們\. 10週年24K金碟限量版](https://open.spotify.com/album/5yR2ixyCiWRtSfB5Jeb9CF) | 4:01 | 2023-02-02 |  |
 | [喜歡戀愛](https://open.spotify.com/track/4FzNaixy0Ura2eDmS3217L) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [Sammi VS Sammi](https://open.spotify.com/album/1ZMrZVljBvcfVt2Eez0e9a) | 4:30 | 2023-02-02 |  |

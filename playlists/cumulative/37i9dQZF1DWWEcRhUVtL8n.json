@@ -1530,7 +1530,7 @@
           "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
         }
       ],
-      "date_added": "2023-02-25",
+      "date_added": "2023-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156141,
@@ -2406,6 +2406,24 @@
       "duration_ms": 160720,
       "name": "Beluga Baby",
       "url": "https://open.spotify.com/track/051j6UH25Tkif0uPdsBybg"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/1KR6xkLa2lvdvCABYlk7OO"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233499,
+      "name": "Best",
+      "url": "https://open.spotify.com/track/3B4eW2VXGdOdsbTyfF5oDE"
     },
     {
       "album": {
@@ -6172,7 +6190,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 162421,
       "name": "daydreaming",
       "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
@@ -13659,6 +13677,24 @@
     },
     {
       "album": {
+        "name": "Kick in the Teeth",
+        "url": "https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167289,
+      "name": "Kick in the Teeth",
+      "url": "https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ"
+    },
+    {
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/3Hjw4hTQa3wN4dyiZMEms0"
       },
@@ -15968,7 +16004,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 145547,
       "name": "Melancholy",
       "url": "https://open.spotify.com/track/1KF7in1Tx1G5JzIVFw8Frj"
@@ -18416,7 +18452,7 @@
           "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "date_added": "2023-02-25",
+      "date_added": "2023-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217125,
@@ -22364,7 +22400,7 @@
           "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
         }
       ],
-      "date_added": "2023-02-25",
+      "date_added": "2023-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193749,
@@ -23980,7 +24016,7 @@
           "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
         }
       ],
-      "date_added": "2023-02-25",
+      "date_added": "2023-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 146973,
@@ -24436,7 +24472,7 @@
           "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
         }
       ],
-      "date_added": "2023-02-25",
+      "date_added": "2023-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 206893,
@@ -24634,7 +24670,7 @@
           "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
         }
       ],
-      "date_added": "2023-02-25",
+      "date_added": "2023-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 229806,
@@ -26710,7 +26746,7 @@
           "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
         }
       ],
-      "date_added": "2023-02-25",
+      "date_added": "2023-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 147839,

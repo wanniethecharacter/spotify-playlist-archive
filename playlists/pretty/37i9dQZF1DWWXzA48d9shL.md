@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$ & Shakewell
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,920 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,311 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 33 | [Candy Flip](https://open.spotify.com/track/38ChjlYHZ0lNeCtjHspZhX) | [XZARKHAN](https://open.spotify.com/artist/0ekK352BUEA00cnbGeOLkO), [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4), [L U N A](https://open.spotify.com/artist/2e6JwrcJbzHnFPaSYofN4U) | [Candy Flip](https://open.spotify.com/album/4itcYsTVUHcZA6ii8Hogz5) | 1:52 |
 | 34 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 |
 | 35 | [UP LIKE AN INSOMNIAC \- Freestyle](https://open.spotify.com/track/5UJ3N25ukIruG4Do8RDHra) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/album/03TZqOGHlyNTdHxsdOXIZX) | 2:31 |
-| 36 | [NEXTBOT!](https://open.spotify.com/track/4J87A1wSp2Tfl0NxaKUGfr) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NEXTBOT!](https://open.spotify.com/album/0smWk9Z2wHTmIm8k3hkWwe) | 1:30 |
+| 36 | [NEXTBOT!](https://open.spotify.com/track/0wohSgJuZJvQoMV7gMpMrT) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NEXTBOT!](https://open.spotify.com/album/5O5zv32363BkvzctGwLqyR) | 1:30 |
 | 37 | [JFK](https://open.spotify.com/track/1utP2KYqItjzrXnbqkwNmz) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7), [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [JFK](https://open.spotify.com/album/7FIqHpb31hKyUEWv3imPRG) | 2:54 |
 | 38 | [TYRANT](https://open.spotify.com/track/1TdvR1RJGlEIGXLA1IXYi0) | [TVSTELESS](https://open.spotify.com/artist/0fW2IGCuzMtYSToamwOAHS), [Mvko](https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P) | [TYRANT](https://open.spotify.com/album/0R16n2AAbIfpifjHnL3Zun) | 1:56 |
 | 39 | [Lovely 2](https://open.spotify.com/track/30crz8PY2kecaVkO7fSoAA) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [Lovely 2](https://open.spotify.com/album/0UijW3m8HrZZw35z2QBYIH) | 1:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [10 FOOT TALL](https://open.spotify.com/track/3hyxHwYJOqSHGRDxwO7OUm) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [10 FOOT TALL](https://open.spotify.com/album/4yr5Yn1U79i2HikJSA0lrU) | 2:46 |
 | 100 | [Dorohedorohe Drip](https://open.spotify.com/track/2lcRTWOwCNffdwCs8zEDo7) | [Faceless 1\-7](https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV), [TrippyThaKid](https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz) | [Dorohedorohe Drip](https://open.spotify.com/album/1Uge5Im3luXyVeBvWUeEqW) | 2:06 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGE0N2RmMDM1NjIzNDkzZDViZjE1YmFhMGM5NTM0NmY5`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGY2YmI2YjYzMmJhZWM5ODkzMjgyOTRlM2QyMjkwYzc5`

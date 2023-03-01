@@ -692,7 +692,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 230823,
       "name": "God Don't Make Mistakes (feat. Dante Bowe, Montell Fish & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/7Gm5qTbZOdsCDdRohqoFVB"
@@ -740,6 +740,36 @@
       "duration_ms": 304000,
       "name": "Green Leaves (feat. Kyng)",
       "url": "https://open.spotify.com/track/51hUaBDS30iiC4iQJlpBnN"
+    },
+    {
+      "album": {
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Gingi Bradley",
+          "url": "https://open.spotify.com/artist/0DIIlR40byWxfrXpPfV35Y"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248531,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5c2yqU4vbxkQQbZ2ePb5wJ"
     },
     {
       "album": {

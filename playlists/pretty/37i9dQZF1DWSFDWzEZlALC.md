@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,462 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,780 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 19 | [Der neue Stil meiner Generation](https://open.spotify.com/track/6PUomERMiVx0qOz0D5UlDM) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Der neue Stil meiner Generation](https://open.spotify.com/album/5fetQgc4TVEdRGWmQfGjRi) | 2:24 |
 | 20 | [Kater](https://open.spotify.com/track/7y9Kp4Tjka2B52vtuY4Jse) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Kater](https://open.spotify.com/album/0XZTfLHBEDDCyxfL7vMYF1) | 2:47 |
 | 21 | [Tätowier Mir Dein Namen](https://open.spotify.com/track/3B8E7EJ5KkR6NJM2qlB92z) | [STEEZY](https://open.spotify.com/artist/7qrYjRiwMxIIxbuvVyVIeL) | [Tätowier Mir Dein Namen](https://open.spotify.com/album/6RPkPeXNuakYMF5yDWhOkk) | 2:28 |
-| 22 | [Für immer](https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Für immer](https://open.spotify.com/album/4ta6tTPzBZ52kisCgtXvGR) | 3:23 |
+| 22 | [Für immer](https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Für immer](https://open.spotify.com/album/4ta6tTPzBZ52kisCgtXvGR) | 3:23 |
 | 23 | [AUS MEIN KOPF](https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx) | [CRAZY HORSE CLUB MIXTAPE, VOL\. 1](https://open.spotify.com/album/6KF9pLPmF38Ge6TDaojJwJ) | 1:41 |
 | 24 | [Fragil](https://open.spotify.com/track/0k1akQtVHZ7PWqjxqazJoV) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [wie es ist](https://open.spotify.com/album/7lj1zNPlp5Fh3rBh6ph539) | 3:24 |
 | 25 | [lost](https://open.spotify.com/track/38UXs833I3BFuLT9Sq31KZ) | [Apollo Sissi](https://open.spotify.com/artist/3rx1CQwe0iyA3d2q1renfJ) | [lost](https://open.spotify.com/album/5fhETrRmzcp29kd6ey26EW) | 2:13 |

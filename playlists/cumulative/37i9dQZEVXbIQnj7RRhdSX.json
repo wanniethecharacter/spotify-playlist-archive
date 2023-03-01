@@ -21602,6 +21602,24 @@
     {
       "album": {
         "name": "SUPEREROI",
+        "url": "https://open.spotify.com/album/54YVUZvEjuGMyVSyLwPPdn"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "SUPEREROI",
+      "url": "https://open.spotify.com/track/1nND6VDerwJxLaUwVVCp28"
+    },
+    {
+      "album": {
+        "name": "SUPEREROI",
         "url": "https://open.spotify.com/album/1wCM2lec05I4cZ2u7dV7xU"
       },
       "artists": [
@@ -21612,7 +21630,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 195000,
       "name": "SUPEREROI",
       "url": "https://open.spotify.com/track/42koUxIEdY4kVqcLRjp6uE"
@@ -23822,7 +23840,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 201425,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/2MXrLjt3WznfYFeJJoD1oo"
@@ -23964,7 +23982,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 191257,
       "name": "Vorrei (feat. Lazza)",
       "url": "https://open.spotify.com/track/5IbrGxWxB427KJEDrphgRN"

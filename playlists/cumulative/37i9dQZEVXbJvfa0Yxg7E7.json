@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 201330,
       "name": "BlimE! - Den Ene",
       "url": "https://open.spotify.com/track/5PTYydUwfxM8Q7KuqjmPxu"
@@ -13962,6 +13962,24 @@
       "duration_ms": 226706,
       "name": "PAF.no",
       "url": "https://open.spotify.com/track/2coLAzVouJE4BC8lrKbDLk"
+    },
+    {
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/4rOjLnFYn6xZSEKkR86qEV"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122070,
+      "name": "Painting Pictures",
+      "url": "https://open.spotify.com/track/4ElnYhTeJEx90XrPDlLzH9"
     },
     {
       "album": {

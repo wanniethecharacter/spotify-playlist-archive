@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,604 likes - 36 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,697 likes - 36 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 | 14 | [Theory Of One](https://open.spotify.com/track/3EnfFT0S4AEANjRJTqtDhQ) | [Versa & Rowl](https://open.spotify.com/artist/16HXo5dAYHkP1g4vhPBrKn) | [Smokin' Sessions 20](https://open.spotify.com/album/5WIeDM6y3DhY2avhuZ1S2Q) | 4:10 |
 | 15 | [Dread & Buried \- Congi Remix](https://open.spotify.com/track/2AuzAvDq4piWEeSsfkZxqp) | [Origin One](https://open.spotify.com/artist/1EKZ8G8paqscrKD9uZMOor), [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Deeply Remixed, Vol\. 2](https://open.spotify.com/album/1rD87trISV6lwx6QJ5TRpp) | 3:54 |
 | 16 | [528](https://open.spotify.com/track/06jDufKf27np0WOJC2W8Ih) | [Nomine](https://open.spotify.com/artist/7uQ1qwQMMz3quYPqFsDgGS), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6) | [Ascension](https://open.spotify.com/album/4JHrIpLbsi16Vgv4VkU4WH) | 3:34 |
-| 17 | [Koshi](https://open.spotify.com/track/5f3PUD9AdDVGKcZnwZxoud) | [De\-Tu](https://open.spotify.com/artist/2fszmVl0OLH7M3QyIHuhJd) | [Koshi](https://open.spotify.com/album/2SwzlOLKcWmN9NCrsWU8GO) | 6:10 |
+| 17 | [Koshi](https://open.spotify.com/track/5f3PUD9AdDVGKcZnwZxoud) | [DE\-TÜ](https://open.spotify.com/artist/5iCCchx08AOJTQOg0IuAUd) | [Koshi](https://open.spotify.com/album/2SwzlOLKcWmN9NCrsWU8GO) | 6:10 |
 | 18 | [Revival](https://open.spotify.com/track/0B71eleP2fI8erz2AccjRx) | [Cimm](https://open.spotify.com/artist/5X4hjk9hibUXzbSn3jq6ZK), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6) | [Revival](https://open.spotify.com/album/36yJ0HBPXOBOv1HEjyLE0b) | 4:50 |
 | 19 | [What You Need](https://open.spotify.com/track/3ymAJcyFcFBa1K7KrmCGjT) | [Jack Flynn\-Oakley](https://open.spotify.com/artist/3Xn4aRiHb1qN3UYs3yLKwW), [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Appetency](https://open.spotify.com/album/7hmORaeY9xIflDguuESlQ9) | 5:16 |
 | 20 | [Where Ya From](https://open.spotify.com/track/2BaqPUM4FO9CH4YxKmy1gN) | [Taiko](https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq) | [Oaken](https://open.spotify.com/album/64AHueA64ofjV9g69ZXHhi) | 4:42 |

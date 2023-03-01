@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Shubham Kabra, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,235 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,273 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 35 | [Do I Really Do?](https://open.spotify.com/track/27BPOjJJJH7rKS807KdZHP) | [Blue Hush](https://open.spotify.com/artist/3R8iUh001mnkDNnsAoFIMf) | [Do I Really Do?](https://open.spotify.com/album/7kZizeCR7188cTn5dA4JAl) | 3:21 |
 | 36 | [Fake It](https://open.spotify.com/track/2wI2bnnvKFWUIn1xulNz6y) | [Archita Ajgaokar](https://open.spotify.com/artist/72jrhtmMkan7AZq1vGm7FP) | [Fake It](https://open.spotify.com/album/0OvbS06QupGdvdpeDWJBY0) | 1:57 |
 | 37 | [Maahi Ve](https://open.spotify.com/track/67CqL411a5F40sJIvobrHI) | [Dhidipon Dowarah](https://open.spotify.com/artist/6Jo2vlcbQNZS1hBusXJzen), [Bastov](https://open.spotify.com/artist/1L1sWpxfUtnTtySdjRGztp) | [Maahi Ve](https://open.spotify.com/album/63MgYk376xqxQnAelGFo5W) | 3:49 |
-| 38 | [UDTI PHIRA](https://open.spotify.com/track/3THX26BJiJuR8nTVbeR4tv) | [Aashi](https://open.spotify.com/artist/1gCTatUOFHAtA2NasATYnD) | [UDTI PHIRA](https://open.spotify.com/album/24NtlvBm7DCYOQHTwacrhc) | 2:34 |
+| 38 | [UDTI PHIRA](https://open.spotify.com/track/3THX26BJiJuR8nTVbeR4tv) | [AASHI TITORIA](https://open.spotify.com/artist/0ZgI3wn1xsCsYxVLofMu5q) | [UDTI PHIRA](https://open.spotify.com/album/24NtlvBm7DCYOQHTwacrhc) | 2:34 |
 | 39 | [Khaamiyan](https://open.spotify.com/track/4YiZywCYHRNPjHT0x2nmXT) | [Tarunbir Singh](https://open.spotify.com/artist/2wwqslo97YMueTazwgelvF) | [Khaamiyan](https://open.spotify.com/album/3jeMXQpB9CFzk7gXoYBlAQ) | 3:11 |
 | 40 | [Ye Kaisa Sheher Hai](https://open.spotify.com/track/5DzgfCZFMlHxss6C9xkReN) | [Goyell Saab](https://open.spotify.com/artist/2CN4nSMtSdnMyn6IGAttPF) | [Ye Kaisa Sheher Hai](https://open.spotify.com/album/5OFbPz6w8Q0I4YKOBdwwYH) | 2:49 |
 | 41 | [Barsa](https://open.spotify.com/track/4ycYFA5IoxS8V9EWd5oxTP) | [Joshua Singh](https://open.spotify.com/artist/38HBNhl3BVneu8qCuG8wW9), [Mai Farosh](https://open.spotify.com/artist/796wsEBGmmakASy6pf1SYf) | [Barsa](https://open.spotify.com/album/6cB7uXUQROSTmEFZt9kudW) | 3:41 |

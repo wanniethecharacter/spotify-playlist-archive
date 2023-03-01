@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 212054,
       "name": "Mazaak",
       "url": "https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0"
@@ -3090,6 +3090,24 @@
       "duration_ms": 199000,
       "name": "That Morning",
       "url": "https://open.spotify.com/track/2ZNYeQ0yS3zjTOlvUrhdaW"
+    },
+    {
+      "album": {
+        "name": "Toh Kya Ye Teh Hai",
+        "url": "https://open.spotify.com/album/1vSk0RPSgkloOaJzNUsJ69"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Ali",
+          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227500,
+      "name": "Toh Kya Ye Teh Hai",
+      "url": "https://open.spotify.com/track/682n0ZYSJuHmxJ28Mxn7qK"
     },
     {
       "album": {

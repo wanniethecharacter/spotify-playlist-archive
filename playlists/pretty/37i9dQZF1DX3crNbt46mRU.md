@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: KAROL G, Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,146 likes - 110 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,147 likes - 110 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 57 | [DENKMAL](https://open.spotify.com/track/1Eswi9eaSstpkw3tFtMrZy) | [Yecca](https://open.spotify.com/artist/0ypMouAPYgghSqlAwwOebe), [Alex Lys](https://open.spotify.com/artist/5WLNhK4QDt7xgX45A9VGec) | [DENKMAL](https://open.spotify.com/album/0mTnplhPeS2Y7xYaj1Y9nm) | 2:32 |
 | 58 | [Heart Back](https://open.spotify.com/track/0OSgkdebxTRNXLwwzD2b8s) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Heart Back](https://open.spotify.com/album/1hPoZ0YpV7J1w1jmvF5vxg) | 2:44 |
 | 59 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 |
-| 60 | [Schoggy](https://open.spotify.com/track/4nzCM9qI2bqyEw9uxg7JVv) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA), [Joanna](https://open.spotify.com/artist/2mGnpu5F8ZDeEWvD5aHhCk), [Dj Kiko EL De Lo Alka](https://open.spotify.com/artist/6XlX29ZMzM5v7xJeyfcjgg) | [Schoggy](https://open.spotify.com/album/2paJoOHFVwhpr7Nkyws3j0) | 2:41 |
+| 60 | [Schoggy](https://open.spotify.com/track/4nzCM9qI2bqyEw9uxg7JVv) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA), [Joanna](https://open.spotify.com/artist/2mGnpu5F8ZDeEWvD5aHhCk), [DJ Kiko El De Lo Alka](https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF) | [Schoggy](https://open.spotify.com/album/2paJoOHFVwhpr7Nkyws3j0) | 2:41 |
 | 61 | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Next To You \(feat\. Kane Brown\)](https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe) | 2:41 |
 | 62 | [New Order T\-Shirt](https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [New Order T\-Shirt](https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw) | 4:56 |
 | 63 | [Don't Stop the Car](https://open.spotify.com/track/72OrO3uJtMEGRlPyKLogvk) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [You'll Get It When You're Older](https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu) | 2:39 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 73 | [Saw It Coming](https://open.spotify.com/track/6gecBiCMM6BBttZ4r9BOma) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Saw It Coming](https://open.spotify.com/album/4hO2snTnpeTR9DxIpyGAPY) | 3:09 |
 | 74 | [Kleine Blüte](https://open.spotify.com/track/3QdxGvXkskmNxJho9yj7lG) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [kid kapri](https://open.spotify.com/artist/2fPTKvCZ1fEiDiuGFGMh2w) | [Kleine Blüte](https://open.spotify.com/album/6qPE9ssGrZKoeAubgBoIMC) | 2:15 |
 | 75 | [Outside of Town](https://open.spotify.com/track/1Tavucpw0XO90ODhWzcYST) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Outside of Town](https://open.spotify.com/album/4fESdemqdOvImBKPwC5XGp) | 4:46 |
-| 76 | [Für immer](https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Für immer](https://open.spotify.com/album/4ta6tTPzBZ52kisCgtXvGR) | 3:23 |
+| 76 | [Für immer](https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Für immer](https://open.spotify.com/album/4ta6tTPzBZ52kisCgtXvGR) | 3:23 |
 | 77 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 |
 | 78 | [Fragil](https://open.spotify.com/track/0k1akQtVHZ7PWqjxqazJoV) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [wie es ist](https://open.spotify.com/album/7lj1zNPlp5Fh3rBh6ph539) | 3:24 |
 | 79 | [cold\-hearted romantic](https://open.spotify.com/track/4JpHzTYranyrd479QGb1fR) | [Gregory Muffin](https://open.spotify.com/artist/0ZRG0IhKp1qcfyCYtiAY4x) | [cold\-hearted romantic](https://open.spotify.com/album/1MPJynuMk7zERGO9g2njLX) | 3:17 |

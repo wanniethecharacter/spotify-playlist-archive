@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música urbana representando a Cuba! Cover: Lenier
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,940 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,009 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 37 | [Me Imagino](https://open.spotify.com/track/6VsrmWdxO5GgFKPS6WVCix) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Sobredosis](https://open.spotify.com/album/3HmzYPOlw8lMs37DMZpBJ4) | 3:12 |
 | 38 | [Te Amo \(Versos Gastados\) \- prod\. by Cuban Deejays](https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Cuban Deejays](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 3:39 |
 | 39 | [Calentando la Habana](https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Fiesta](https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH) | 4:13 |
-| 40 | [Eso Es Bola](https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm) | [Eso Es Bola \(Deluxe Edition\) \[El Principe y General Damian\]](https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms) | 4:23 |
+| 40 | [Eso Es Bola](https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm) | [Eso Es Bola \(Deluxe Edition\) \[El Principe y Damian The Lion\]](https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms) | 4:23 |
 | 41 | [Si No Vuelves](https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:35 |
 | 42 | [Ojalá \- Remix](https://open.spotify.com/track/5sWqQjbO1NgzjKMAbLZ0Rq) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Ojalá \(Remix\)](https://open.spotify.com/album/6Oafoz08oK6AfBTunDtxCX) | 3:16 |
 | 43 | [La Mala Y La Buena](https://open.spotify.com/track/5DcEz9lEgKFserQ1OrRS9X) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [La Mala Y La Buena](https://open.spotify.com/album/1NLn33FYW9Iq4O51iBNa6D) | 3:44 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 64 | [La Habana \(with Pinto "Wahin" & DJ Ricky Luna feat\. El Taiger\)](https://open.spotify.com/track/1yMoKk7UbHlqv8NWlF385d) | [Pinto “Wahin”](https://open.spotify.com/artist/3h3AWIF6JCWTRB5cr5wp55), [DJ Ricky Luna](https://open.spotify.com/artist/41EN0ZREKu3QnW9N0kre0K), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [The Fate of the Furious: The Album](https://open.spotify.com/album/2FoY0AdBnIYxOH7Z2arD89) | 2:44 |
 | 65 | [Pa' trá](https://open.spotify.com/track/1oHRAvQTs6UmKKwxbFvdDC) | [Micha](https://open.spotify.com/artist/5fjXwEPUkg5ucxmw4TpurV) | [Sobredosis](https://open.spotify.com/album/3HmzYPOlw8lMs37DMZpBJ4) | 4:09 |
 | 66 | [Noche Fria](https://open.spotify.com/track/1qk0so7GxNqitvmBln39T4) | [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Noche Fria](https://open.spotify.com/album/09qC1Hp8F3ANdCay0BfWOd) | 3:44 |
-| 67 | [Maleante Pero Elegante](https://open.spotify.com/track/09cH9mlP9unLaiN7kgBxFV) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm) | [Eso Es Bola \(Deluxe Edition\) \[El Principe y General Damian\]](https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms) | 3:16 |
+| 67 | [Maleante Pero Elegante](https://open.spotify.com/track/09cH9mlP9unLaiN7kgBxFV) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm) | [Eso Es Bola \(Deluxe Edition\) \[El Principe y Damian The Lion\]](https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms) | 3:16 |
 | 68 | [Las Feas](https://open.spotify.com/track/2WiWXnVgfeU0N0gCZr6eKy) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Los Exitos \(Lo Nuevo y Lo Mejor\)](https://open.spotify.com/album/7xSWQZdRZcqq78lN2bAlXW) | 3:38 |
 | 69 | [Volvere Junto a Ti](https://open.spotify.com/track/031G5P1NTQ9pfhrnxPwr1V) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Simplemente Lo Mejor](https://open.spotify.com/album/3RU3VqVst27dAwrfYLbEQo) | 3:48 |
 | 70 | [Bla Bla Bla](https://open.spotify.com/track/1Pbn9UgscbHOM7OY5dCjaa) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Bla Bla Bla](https://open.spotify.com/album/787S5irCGrnB6kNJsZZ9v7) | 3:32 |

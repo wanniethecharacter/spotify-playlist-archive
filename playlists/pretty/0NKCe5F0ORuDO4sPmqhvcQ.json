@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21092,
+  "num_followers": 21091,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAyMzQsZjk4YTM4ZjY1NDQ3ZDYxNjM3OGNjMGYxOGQxMjY2OTYxZjAwZGRkZQ==",
+  "snapshot_id": "MTAyMzUsNDIyOWY5NjNjNGVlMWM5NTA2NzVlM2E3MzRmNzc4ZTg4YzljOGIwNA==",
   "tracks": [
     {
       "added_at": "2023-02-22 21:57:47",
@@ -2323,6 +2323,22 @@
       "duration_ms": 180400,
       "name": "ambien",
       "url": "https://open.spotify.com/track/21KwCo6dkh83CypNslVwG1"
+    },
+    {
+      "added_at": "2023-02-28 17:35:47",
+      "album": {
+        "name": "Only 1 Trying",
+        "url": "https://open.spotify.com/album/15uWvQD5fCOjeBFn9Bu6sP"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "duration_ms": 147042,
+      "name": "Only 1 Trying",
+      "url": "https://open.spotify.com/track/0BSHtzrgWBgw19hgZncNEl"
     }
   ],
   "unique_name": "Moving Castle Monthly",

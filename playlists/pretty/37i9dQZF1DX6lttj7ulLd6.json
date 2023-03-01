@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 83884,
+  "num_followers": 84062,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMGNmMzFlY2ZjMjcxN2IxYjg5YjRkZDhhZTk2N2RlZGQ4",
+  "snapshot_id": "MTY3NzU5OTU3MSwwMDAwMDAwMGM2ZDZlZjQ1Y2VjMzc4MWM0ZTNjOWI3ZmRjOTY0MmM3",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Don't Stop Now!",
-        "url": "https://open.spotify.com/album/1uVPlYMIp6GoyWWflqm9cm"
-      },
-      "artists": [
-        {
-          "name": "Gino Rosaria",
-          "url": "https://open.spotify.com/artist/1kQHli4oL4h6IZxBu8PHoq"
-        }
-      ],
-      "duration_ms": 263280,
-      "name": "Take It Higher",
-      "url": "https://open.spotify.com/track/2n3CS2o8W2zUzOvGHaAynw"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Celebration",
         "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
@@ -1659,6 +1643,26 @@
       "duration_ms": 305306,
       "name": "Together At Last",
       "url": "https://open.spotify.com/track/2aEyRqY48LbMzHiNAvwoQK"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Out Of A Dream",
+        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 253815,
+      "name": "Just One Wish",
+      "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
     }
   ],
   "unique_name": "Smooth Jazz Chill",

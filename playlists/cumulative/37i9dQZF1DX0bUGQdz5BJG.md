@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Caylee Hammack
 
-1,111 songs - 2 day 11 hr 26 min
+1,112 songs - 2 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -826,7 +826,8 @@
 | [Shot Glass](https://open.spotify.com/track/1GwfKxtZb6JAr9lXa7b383) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Shot Glass](https://open.spotify.com/album/0LjZjuCqFFYCeit3OqcNVH) | 3:19 | 2022-03-18 | 2022-05-28 |
 | [Should've Been](https://open.spotify.com/track/0w6Gggzlzn5ONZahABj2Qr) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [Should've Been](https://open.spotify.com/album/17p9ChjSW5zSE7NQwcqQ5q) | 3:01 | 2023-01-20 |  |
 | [Shut the Truck Up](https://open.spotify.com/track/0NkKyatEadT5zhWAKf0m7n) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [One Of Us](https://open.spotify.com/album/7iKlHIJl5wTYuLz4RuKvES) | 3:39 | 2023-02-10 |  |
-| [Side of the Stage](https://open.spotify.com/track/73acPCpqy3OtWRvdwV8AOj) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Side of the Stage](https://open.spotify.com/album/5SCeMhZFEaAAabYI2JI3s2) | 3:04 | 2022-09-30 |  |
+| [Side of the Stage](https://open.spotify.com/track/73acPCpqy3OtWRvdwV8AOj) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Side of the Stage](https://open.spotify.com/album/5SCeMhZFEaAAabYI2JI3s2) | 3:04 | 2022-09-30 | 2023-03-01 |
+| [Side of the Stage](https://open.spotify.com/track/7eqUoUgMTosw36ZZA6pbQV) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:04 | 2023-02-24 |  |
 | [Silver and Gold](https://open.spotify.com/track/2TuAFr9dezkWzpRB1NY1Xt) | [Brandon Lay](https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv) | [Silver and Gold](https://open.spotify.com/album/0GBj1HypmJhYiHysIm27rK) | 3:13 | 2022-04-22 | 2022-05-14 |
 | [Singing In A Beer](https://open.spotify.com/track/7gr4XUVtcogJ9ZmiLwc9Fe) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Singing In A Beer](https://open.spotify.com/album/2Rf3FtApcWOYcUSSUEc3v5) | 2:52 | 2023-01-27 |  |
 | [Sink with the Sun](https://open.spotify.com/track/7lqRRwPo08ycT5NkxjNIyF) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Sink with the Sun](https://open.spotify.com/album/5XDDYVaQ5YdwwQT9ITQXhN) | 3:21 | 2022-07-15 | 2022-08-13 |

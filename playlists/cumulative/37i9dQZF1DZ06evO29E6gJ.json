@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Bonita Finca De Adobe",
+        "url": "https://open.spotify.com/album/4fSqKBmC0SrE0uPtOSMKmB"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173986,
+      "name": "Pero Como Voy a Odiarte",
+      "url": "https://open.spotify.com/track/1rYJ1hXlob1r7kwCwUZQhg"
+    },
+    {
+      "album": {
         "name": "Frente a Frente Los Alegres de Ter\u00e1n vs Los Invasores de Nuevo Le\u00f3n",
         "url": "https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf"
       },

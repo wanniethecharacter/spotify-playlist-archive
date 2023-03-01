@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-306 songs - 19 hr 43 min
+307 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,8 +302,9 @@
 | [Weather](https://open.spotify.com/track/71ZFs7nzJHstB2dNcQ3aG8) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Weather \(Nitemoves Remix\)](https://open.spotify.com/album/1gq8jZDjMm5uxTRyIXHf8r) | 4:14 | 2022-09-09 | 2022-11-14 |
 | [Wen Uuu](https://open.spotify.com/track/1Q8lDjEzlTwATSZz2zgPd9) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Vacation \- Single](https://open.spotify.com/album/3LVxeR0VvnVs1jkIIaqLau) | 3:53 | 2022-04-12 | 2022-07-29 |
 | [Wen Uuu](https://open.spotify.com/track/3CFLz9Enes0cQksNSNLlXy) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Vacation \- Single](https://open.spotify.com/album/1RhXvTjZRTJYC7SGdGvZYE) | 3:53 | 2022-04-12 |  |
+| [Where To Go](https://open.spotify.com/track/0kLLT6X6nPjPSEggRVyaQM) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/3Al0anvIeIVpJez6yrjXnM) | 4:11 | 2023-02-21 |  |
 | [Where To Go](https://open.spotify.com/track/5EIPYlUGHcWXFV8DHINuBa) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/4PpRIBNZW0EW3gG3dwAuLX) | 4:11 | 2022-04-12 | 2022-07-29 |
-| [Where To Go](https://open.spotify.com/track/5VsZd4qGOSTRdsNC0XRU1F) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/7JnNqcLoD25tZeO0jQQnpW) | 4:11 | 2022-04-12 |  |
+| [Where To Go](https://open.spotify.com/track/5VsZd4qGOSTRdsNC0XRU1F) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/7JnNqcLoD25tZeO0jQQnpW) | 4:11 | 2022-04-12 | 2023-03-01 |
 | [Where You Are](https://open.spotify.com/track/0KRUyc5w1U3TPh7KLtEZVM) | [Coquinio](https://open.spotify.com/artist/5HPcMVzRD40VXSDzv4WqyQ) | [Where You Are](https://open.spotify.com/album/4peZV1PcMnto4anaNVETCS) | 3:07 | 2022-04-12 |  |
 | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/track/1G7KYThXAkjO11OhoKr6z1) | [Aybner](https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA) | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/album/1Da9UhVgPmpSYlJsSHV9KG) | 2:56 | 2022-09-09 |  |
 | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/track/2ZlEYFavXkkEF37JrjMSLp) | [Aybner](https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA) | [Wherever You Go \(You'll Never See Me\)](https://open.spotify.com/album/37P4W95GLJ3xwW1VS25mNL) | 2:56 | 2022-04-12 | 2022-10-17 |

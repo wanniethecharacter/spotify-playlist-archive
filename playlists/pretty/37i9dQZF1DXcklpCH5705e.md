@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > 經得起時間考驗嘅歌曲，無論新版、舊歌一樣好聽！
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,344 likes - 35 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,346 likes - 35 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 3 | [青春頌](https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD) | [Terence Siufay 小肥](https://open.spotify.com/artist/14wCkmaUSQPkMjqo0MRhRv), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌](https://open.spotify.com/album/5C5s445G0OEd3OiRki54In) | 4:07 |
 | 4 | [路過蜻蜓](https://open.spotify.com/track/4Uhq40fGrEwKEHxzQQajTY) | [Sandy Lam](https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro) | [歷久嚐新II Reborn \(環球精選\)](https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL) | 4:51 |
 | 5 | [暗湧 \- 電影"愈快樂愈墮落"歌曲](https://open.spotify.com/track/51qJSDTQiyP2BNsAKRcRo2) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [廿一世紀精選](https://open.spotify.com/album/1YOynn6PjM1NnCnBRLuv2S) | 3:49 |
-| 6 | [初恋](https://open.spotify.com/track/4aLmzZyMECEzWSXt15bI1f) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [The Voyage](https://open.spotify.com/album/0b2toX1GP2XxY5W83bjAdA) | 3:27 |
+| 6 | [初恋](https://open.spotify.com/track/40z4u67Cm6I4WUQvM3atmb) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [The Voyage](https://open.spotify.com/album/3yNL4RvDIZShXbY1HHiVqA) | 3:27 |
 | 7 | [手望\(守望版\) \- Chill Club Version](https://open.spotify.com/track/72xWqUAWRuYhP0BZhroJjF) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1), [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [手望\(守望版\) \[Chill Club Version\]](https://open.spotify.com/album/55YNpYQPgwvhxCXte6OtN7) | 3:58 |
 | 8 | [損友 \(音樂永續作品\)](https://open.spotify.com/track/58NLb3BrpY5ulbRRaFH8bU) | [SoulJase](https://open.spotify.com/artist/0DxUeiPWLakywVP1UocKim) | [損友 \(音樂永續作品\)](https://open.spotify.com/album/23Bihif9rjkXe3oSL7qmTU) | 4:24 |
 | 9 | [漣漪 \(音樂永續作品\)](https://open.spotify.com/track/5agxyN0XnlsRNJXXk2xDYN) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [Timeless \(音樂永續作品\)](https://open.spotify.com/album/2mWGL5GwVUhIs7UADr4dQS) | 3:08 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 34 | [甘心替代你 \- 2020 Music Suite Live](https://open.spotify.com/track/5aB9F7Ku4KwzuvEmQqXnPI) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dear Secret \(2nd edition\)](https://open.spotify.com/album/33oSpTnVlOvjODoph9vv3u) | 3:25 |
 | 35 | [給自己的信](https://open.spotify.com/track/0Tmkb2BB7M6Jxugz2yHZCU) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [C AllLive 2012](https://open.spotify.com/album/6rvPe6eKm2V6YVw3GzJWAj) | 4:33 |
 
-Snapshot ID: `MTY3NTMyOTEyMywwMDAwMDAwMDFhODU4N2FlZjhjMmVkNzViYzUxNWZjYTc2YWRmOTk1`
+Snapshot ID: `MTY3NTMyOTEyMywwMDAwMDAwMDMzMTk1ZDg1NzMyYTBmMTkwZGQxYTAzMzkwYThhZmMz`

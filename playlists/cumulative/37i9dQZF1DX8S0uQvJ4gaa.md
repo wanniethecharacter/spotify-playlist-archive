@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Ashley McBryde
 
-1,614 songs - 3 day 15 hr 20 min
+1,615 songs - 3 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,8 @@
 | [Girlfriend](https://open.spotify.com/track/29monW9ZLg2W4IhPgDGQlS) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Girlfriend](https://open.spotify.com/album/3RBXMBzdvkBTI6jd0CCrTT) | 3:02 | 2019-07-21 | 2019-11-09 |
 | [Girls Call the Shots](https://open.spotify.com/track/5mGfZZcQCia9vJgygMikR5) | [Hannah Dasher](https://open.spotify.com/artist/60JD0JML3KiTHFkKNGv16e) | [Girls Call the Shots](https://open.spotify.com/album/1bu6uwLPSG9PHxn2IA3zFo) | 2:31 | 2020-12-06 | 2021-01-23 |
 | [Girls Like Me \(From Songland\)](https://open.spotify.com/track/7mAEhhFuvOYmPhIUPrPeSo) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Girls Like Me \(From Songland\)](https://open.spotify.com/album/0ZERnGKcGJaYPLa5nlGQP7) | 3:15 | 2020-05-09 | 2020-05-30 |
-| [Girls Like You](https://open.spotify.com/track/421Y1KnVaq15mux4QmLJTU) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/5CbbfVTtYGmnVn6rLrgklf) | 3:01 | 2022-11-18 |  |
+| [Girls Like You](https://open.spotify.com/track/14oK2do8KogXF21nfI9uOS) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:01 | 2023-02-24 |  |
+| [Girls Like You](https://open.spotify.com/track/421Y1KnVaq15mux4QmLJTU) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/5CbbfVTtYGmnVn6rLrgklf) | 3:01 | 2022-11-18 | 2023-03-01 |
 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/5nra2uQhiaYKKpemgiDNC3) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [GIVE HEAVEN SOME HELL](https://open.spotify.com/album/0GAm85q4EIBAVs27M5hh0J) | 3:37 | 2020-07-25 | 2020-10-24 |
 | [Give It To Me Straight](https://open.spotify.com/track/6bdZQKMgyC1InFgT9UeRnv) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Give It to Me Straight](https://open.spotify.com/album/1JGTnsftlkq5l0ZmUjhj4m) | 3:13 | 2021-03-06 | 2021-05-29 |
 | [Give Me Tonight](https://open.spotify.com/track/45u6AHUadot6PPykL9Tmhl) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Give Me Tonight](https://open.spotify.com/album/4TthvZrRJoyLtj69E6IHFG) | 3:40 | 2019-11-18 | 2020-02-01 |

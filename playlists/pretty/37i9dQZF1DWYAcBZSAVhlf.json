@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 200433,
+  "num_followers": 200618,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg2NTg0NywwMDAwMDAwMDcyNDIzMDBhNDFkOGQzMDdmMjZkMDAxOTkwMzQyNTkz",
+  "snapshot_id": "MTY3NzU2NDUxMSwwMDAwMDAwMDhlZTU0ODQ1NzU4MzQ1ZWVjMjZiMzM1NmY1MjcyZjdk",
   "tracks": [
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1237,6 +1237,22 @@
       "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi"
     },
     {
+      "added_at": "2023-02-28 06:08:31",
+      "album": {
+        "name": "Rock Of The 80's",
+        "url": "https://open.spotify.com/album/2avyCubWluhpGqAbYYbmph"
+      },
+      "artists": [
+        {
+          "name": "Men Without Hats",
+          "url": "https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "The Safety Dance",
+      "url": "https://open.spotify.com/track/4t5lrf5rFX6JWAUPKCDlKk"
+    },
+    {
       "added_at": "2023-01-03 15:06:17",
       "album": {
         "name": "Kylie",
@@ -1603,22 +1619,6 @@
       "duration_ms": 237320,
       "name": "The Look",
       "url": "https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
-        "name": "PopArt: The Hits",
-        "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Always on My Mind - 2003 Remaster",
-      "url": "https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1"
     }
   ],
   "unique_name": "Happy 80s",

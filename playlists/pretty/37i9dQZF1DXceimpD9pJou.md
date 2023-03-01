@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:  Free Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,955 likes - 84 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,087 likes - 84 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

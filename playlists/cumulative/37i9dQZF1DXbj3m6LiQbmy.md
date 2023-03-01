@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Sans Soucis in cover, e <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">nella playlist global</a> ✨
 
-258 songs - 15 hr 38 min
+259 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Shots & Squats](https://open.spotify.com/track/5nIrdpo8eXQU3YgZelEXkd) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Tham Sway](https://open.spotify.com/artist/3sEqETeMb1urfCoVUhdjUv) | [Shots & Squats](https://open.spotify.com/album/2oww4CllHtrPPeMId1UUjA) | 2:51 | 2022-06-12 | 2022-06-27 |
 | [SIAMO RAGAZZU](https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT) | [fantahouse](https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd) | [SIAMO RAGAZZU](https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o) | 1:34 | 2022-01-31 |  |
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2022-06-12 | 2022-06-27 |
+| [Snap Out](https://open.spotify.com/track/1NSL9l3FVezZcX6fp0cuMC) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Snax](https://open.spotify.com/artist/5rjH376DhRy7PhQS32wtOg) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 6:25 | 2023-02-28 |  |
 | [SOLO PER TE](https://open.spotify.com/track/5Lym9E14zAnv4b2FJYfEp5) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [SOLO PER TE](https://open.spotify.com/album/4u8rILA5sJgKIJidTObCpV) | 3:19 | 2023-02-23 |  |
 | [Somebody to Hold](https://open.spotify.com/track/2Tg8bdcdK587ua5UHdUjlo) | [Blinded Hearts](https://open.spotify.com/artist/5uiEF5htEqJgHcOajZ25ns), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Somebody to Hold](https://open.spotify.com/album/1rxYR6NPzIYwo6tPmmQhjI) | 2:00 | 2022-06-12 | 2022-06-27 |
 | [SOTTOPELLE](https://open.spotify.com/track/4I6tfF0z09uVOVXy9fS9e4) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [SOTTOPELLE](https://open.spotify.com/album/0HT35YNuCxYKIIxXyhtJsJ) | 3:02 | 2022-06-26 | 2022-09-22 |
@@ -239,7 +240,7 @@
 | [Ti Sento](https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Melanchólia](https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE) | 4:15 | 2022-06-26 | 2023-01-26 |
 | [Ti voglio](https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Io Fuori](https://open.spotify.com/album/2vxXavw8SrYsHR707Novja) | 5:49 | 2022-05-25 |  |
 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 | 2022-06-26 | 2023-02-25 |
-| [Tocco di Lusso](https://open.spotify.com/track/3Mx4tA9RPAgtLGSmbQSP9T) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/0NbmQJt0h6KFZXyQuXX1PS) | 3:23 | 2023-02-27 |  |
+| [Tocco di Lusso](https://open.spotify.com/track/3Mx4tA9RPAgtLGSmbQSP9T) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/0NbmQJt0h6KFZXyQuXX1PS) | 3:23 | 2023-02-27 | 2023-03-01 |
 | [Tonight](https://open.spotify.com/track/13swmSXznFqIFZyhUommva) | [The KDMS](https://open.spotify.com/artist/4j6P5NUEEk1jKhrLHXQ3kp) | [Kinky Dramas and Magic Stories](https://open.spotify.com/album/0sJelEXJyBqMUkwByZSvb7) | 4:53 | 2022-06-26 | 2022-07-16 |
 | [TooMuch](https://open.spotify.com/track/4xNJDgvIlMjFIVTr7Fz72j) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [TooMuch](https://open.spotify.com/album/5W1SrEyT5psrYtuyqkOyCi) | 2:23 | 2022-06-26 | 2023-02-28 |
 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 | 2022-04-01 | 2023-01-25 |

@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 211578,
       "name": "Channa Ve",
       "url": "https://open.spotify.com/track/58ynJq9eLLDChA3GNFJcDL"
@@ -4188,7 +4188,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 193832,
       "name": "Ghodey Pe Sawaar (From \"Qala\")",
       "url": "https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl"
@@ -7744,6 +7744,28 @@
       "duration_ms": 218270,
       "name": "Maroon",
       "url": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm"
+    },
+    {
+      "album": {
+        "name": "Sir",
+        "url": "https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225424,
+      "name": "Mastaaru Mastaaru",
+      "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
     },
     {
       "album": {
@@ -11844,7 +11866,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 258000,
       "name": "Thee Thalapathy (From \"Varisu\")",
       "url": "https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h"

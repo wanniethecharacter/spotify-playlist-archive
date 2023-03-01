@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5471jEhaq8X.md) - [plain]
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: miguel cornejo y Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,621 likes - 136 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,685 likes - 136 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

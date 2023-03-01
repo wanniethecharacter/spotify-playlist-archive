@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,844,102 likes - 250 songs - 21 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,844,892 likes - 250 songs - 21 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 249 | [Cheek To Cheek](https://open.spotify.com/track/3MRu7wA7ziRNf2cZr9gqtb) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Irving Berlin Song Book](https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj) | 3:48 |
 | 250 | [Autumn Leaves](https://open.spotify.com/track/1QlTNF43OyKK9BorIRsJ8o) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Jazz Moods \- Cool](https://open.spotify.com/album/3Cnj43AyRQy21WQWsngNDs) | 7:02 |
 
-Snapshot ID: `MTY3NzA1MDA2MywwMDAwMDAwMGNhNjNmZDFkYjg4YmM1YzE0OWVlNzg1ZTgyMzAxNWVk`
+Snapshot ID: `MTY3NzU4OTMwMywwMDAwMDAwMDVhNWUyMDZmYWJhNThmYTk2YTNlN2UwZGM1NmUxNTkw`

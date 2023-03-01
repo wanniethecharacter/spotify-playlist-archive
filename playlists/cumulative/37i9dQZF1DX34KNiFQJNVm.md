@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Mc Hariel com MC GP e Mc Kadu, Dilsinho com Diego & Vitor Hugo, Agnes Nunes, BaianaSystem com Gilsons, Mc Livinho, Fernanda Takai e muito mais!
 
-5,143 songs - 11 day 0 hr 17 min
+5,144 songs - 11 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -947,7 +947,8 @@
 | [City Of The Dead](https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [City Of The Dead](https://open.spotify.com/album/36OypNDN6ZVkr5u08ZCmJG) | 2:53 | 2022-06-10 | 2022-06-18 |
 | [Ciumenta](https://open.spotify.com/track/42wWf8vyEYFqXoe4msRScV) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 3:20 | 2022-12-02 | 2022-12-10 |
 | [Ciúme Ni Mim \- Ao Vivo](https://open.spotify.com/track/4DeF8klU8y9JWQGN9mzQGS) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Resenha 3 \(Ao Vivo\)](https://open.spotify.com/album/6NATO2Ljai8xB1a9WCta1h) | 2:34 | 2022-10-07 | 2022-10-15 |
-| [Ciúmes Ao Vivo \- Ao Vivo](https://open.spotify.com/track/3RXeq8xPXqqb6n0XTqguOE) | [Edy Britto & Samuel](https://open.spotify.com/artist/6UWCS7TrQo1V96jomn1k8U) | [Sertanejo Nattos, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/3H01pLx17gk7C3xpnc8re2) | 2:50 | 2023-02-24 |  |
+| [Ciúmes Ao Vivo \- Ao Vivo](https://open.spotify.com/track/3RXeq8xPXqqb6n0XTqguOE) | [Edy Britto & Samuel](https://open.spotify.com/artist/6UWCS7TrQo1V96jomn1k8U) | [Sertanejo Nattos, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/3H01pLx17gk7C3xpnc8re2) | 2:50 | 2023-02-24 | 2023-03-01 |
+| [Ciúmes Ao Vivo \- Ao Vivo](https://open.spotify.com/track/7BuWmzBU2aXf9BK5gX8VmJ) | [Edy Britto & Samuel](https://open.spotify.com/artist/6UWCS7TrQo1V96jomn1k8U) | [Sertanejo Nattos, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/6dy7bjUJtw3qiJ8ec2RuMH) | 2:50 | 2023-02-27 |  |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-22 | 2022-04-29 |
 | [Clap](https://open.spotify.com/track/2HXWW3EM1SkQGMI2XvAZLW) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Clap](https://open.spotify.com/album/4zbaOZTwAytXImiLDbsWCX) | 2:30 | 2022-08-26 | 2022-09-03 |
 | [Clara \(the night is dark\)](https://open.spotify.com/track/6LeTQu4NvTnLRRiB8GVFQe) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:38 | 2022-10-28 | 2022-11-05 |
@@ -4071,7 +4072,7 @@
 | [Sem Sinal](https://open.spotify.com/track/1F8kWdt82mpoJNAR9A6XbA) | [Gah Bernardes](https://open.spotify.com/artist/7u8RGJqTNFz0AOP74ok20D), [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac) | [Sem Sinal](https://open.spotify.com/album/16wbUY8tIM3cSKRJijM7gG) | 2:21 | 2022-01-21 | 2022-01-29 |
 | [Sem Te Esquecer](https://open.spotify.com/track/4NtuhfmgPZjRlZDr24anza) | [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx), [DJ 2w](https://open.spotify.com/artist/0yO1IUIzyJgjMqFbKw57pq) | [Sem Te Esquecer](https://open.spotify.com/album/7jrffKoLSXy5j3BMEuYGow) | 2:27 | 2022-09-02 | 2022-09-10 |
 | [Sem Tempo](https://open.spotify.com/track/0UmCpoKnVyZ9EcN3FCVsM0) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Sem Tempo](https://open.spotify.com/album/7Dc0bIIjcr0l0NfZkhbmkD) | 2:58 | 2023-01-20 | 2023-01-28 |
-| [Sem Tempo a Perder](https://open.spotify.com/track/6zo9LNofGra7bzHbSznnQu) | [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Life Song Records](https://open.spotify.com/artist/7ej9Ehmtv3NMCTRQkKjjpm) | [Sem Tempo a Perder](https://open.spotify.com/album/6nQkKMbu90zJTGLFYGgeW0) | 2:27 | 2023-02-24 |  |
+| [Sem Tempo a Perder](https://open.spotify.com/track/6zo9LNofGra7bzHbSznnQu) | [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG), [Life Song Records](https://open.spotify.com/artist/7ej9Ehmtv3NMCTRQkKjjpm) | [Sem Tempo a Perder](https://open.spotify.com/album/6nQkKMbu90zJTGLFYGgeW0) | 2:27 | 2023-02-24 |  |
 | [Sem Ti](https://open.spotify.com/track/2qUnP4hviknFSkZWPS6opK) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM), [Taty pink](https://open.spotify.com/artist/0zp4Tuw2qRqrPTZyBkk8pS) | [Sem Ti](https://open.spotify.com/album/2zMB2vSKNlmxIw3TwSK34q) | 3:16 | 2022-12-23 | 2022-12-31 |
 | [Sem Ti](https://open.spotify.com/track/4MpqRcw198MhsNtKgew4Dn) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM), [Taty pink](https://open.spotify.com/artist/0zp4Tuw2qRqrPTZyBkk8pS) | [Jogador Nº 1](https://open.spotify.com/album/6tNc0LaE9HSsLpuHXPjHFa) | 3:16 | 2023-01-20 | 2023-01-28 |
 | [sem você](https://open.spotify.com/track/1RZ7AzZNQupZBqj2IwJnkN) | [Gutierrez Castro](https://open.spotify.com/artist/1A3hKIjI8yAqKC6kfByNCC), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [sem você](https://open.spotify.com/album/0boEelv8pr5Q1s3CUqcIAG) | 2:43 | 2022-06-03 | 2022-06-11 |

@@ -1,12 +1,12 @@
 {
   "description": "Just chill.",
-  "num_followers": 2413338,
+  "num_followers": 2413573,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1MjkyNiwwMDAwMDAwMDg0NzcwNTE1OGQ1MWU1MmY2ZGE3MTI2YzY4YmQyOGMw",
+  "snapshot_id": "MTY3NzI1MjkyNiwwMDAwMDAwMDA1NjljNmU4MjUzNmM4M2I4NmEzYzUzOGNjYzE4NDYy",
   "tracks": [
     {
       "added_at": "2023-02-15 01:06:06",
@@ -1004,17 +1004,21 @@
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "I\u2019ll Keep You Safe",
-        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
+        "url": "https://open.spotify.com/album/50X8oQMHBatjI3dx4MpZjL"
       },
       "artists": [
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        },
         {
           "name": "Vluestar",
           "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
         }
       ],
-      "duration_ms": 140338,
+      "duration_ms": 140356,
       "name": "I\u2019ll Keep You Safe",
-      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
+      "url": "https://open.spotify.com/track/5pTwD58utTkX0spi0OkCI6"
     },
     {
       "added_at": "2022-11-11 05:00:00",

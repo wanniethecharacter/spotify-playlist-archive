@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,918 likes - 55 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,929 likes - 55 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

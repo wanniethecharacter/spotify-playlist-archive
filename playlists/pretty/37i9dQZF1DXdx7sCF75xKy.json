@@ -1,54 +1,146 @@
 {
-  "description": "Listen to women from Singapore and Malaysia at full volume. Cover: Soph T.",
-  "num_followers": 3039,
+  "description": "Listen to women from Singapore and Malaysia at full volume. Cover: SHN",
+  "num_followers": 3046,
   "original_name": "EQUAL Singapore & Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE4MDgwMCwwMDAwMDAwMGQ2ODQ0M2U1MjBhZjAxZDE3Y2E5ZGJjNzQ1MWUzYTQ3",
+  "snapshot_id": "MTY3NzYwMDAwMCwwMDAwMDAwMDEzZTM1MzhmZjY5MDM0NmI4MTU3MjViNmU0N2NmZDA2",
   "tracks": [
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "\u561f\u58f0\u540e\u8bf7\u7559\u604b",
-        "url": "https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2"
+        "name": "as long as you're there",
+        "url": "https://open.spotify.com/album/4ZnLdPupZ4uDFklJ4nOnig"
       },
       "artists": [
         {
-          "name": "Soph T.",
-          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
-        },
-        {
-          "name": "Juice Boy",
-          "url": "https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H"
+          "name": "SHN",
+          "url": "https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq"
         }
       ],
-      "duration_ms": 207428,
-      "name": "\u538c\u5026\u538c\u5026 (feat. Juice Boy)",
-      "url": "https://open.spotify.com/track/6kqcUXQsV4NeNX1l0MQtVE"
+      "duration_ms": 207200,
+      "name": "as long as you're there",
+      "url": "https://open.spotify.com/track/0HfiC0BALNXtrml73ouCf4"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Sejuta Maaf",
-        "url": "https://open.spotify.com/album/4Ku3zmF2wR54POfcnj36ty"
+        "name": "Build A Home",
+        "url": "https://open.spotify.com/album/22BcyhsuaGOMfG2OWs1ZVt"
       },
       "artists": [
         {
-          "name": "Liza Hanim",
-          "url": "https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O"
+          "name": "shazza",
+          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Sejuta Maaf",
-      "url": "https://open.spotify.com/track/2dNl9852kqrSurEtz1WsyQ"
+      "duration_ms": 237270,
+      "name": "Build A Home",
+      "url": "https://open.spotify.com/track/2N2pNJbvZNvNMEC0mlgr4k"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Playing Around",
-        "url": "https://open.spotify.com/album/7zLdtN7TW0SGaasMU6cZFT"
+        "name": "Look At This",
+        "url": "https://open.spotify.com/album/2C4xKICnTxn7rGSBpeJvsD"
+      },
+      "artists": [
+        {
+          "name": "DOLLA",
+          "url": "https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Look At This",
+      "url": "https://open.spotify.com/track/2sIBt75HNRZMFtFEoPgV3j"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "Terus Hidup",
+        "url": "https://open.spotify.com/album/4BDfVnGe4BlQxXQcf9RcqA"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "duration_ms": 264644,
+      "name": "Terus Hidup",
+      "url": "https://open.spotify.com/track/3sUY5xI83n8KX0rjpfxoQu"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "Langit Yang Sama",
+        "url": "https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ"
+      },
+      "artists": [
+        {
+          "name": "Dalia Farhana",
+          "url": "https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg"
+        }
+      ],
+      "duration_ms": 245454,
+      "name": "Langit Yang Sama",
+      "url": "https://open.spotify.com/track/2CJvBRL5ZevYir3mbFdcm6"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "janji kita bertemu lagi",
+        "url": "https://open.spotify.com/album/24GLmkNtjkUQaEUFQsjoDB"
+      },
+      "artists": [
+        {
+          "name": "Aisyah Aziz",
+          "url": "https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4"
+        }
+      ],
+      "duration_ms": 258173,
+      "name": "janji kita bertemu lagi",
+      "url": "https://open.spotify.com/track/5JO9dDda0tqXhPOhA6y4VL"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/1GyfrRukb2HZgsoSW0UQvm"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sokko",
+          "url": "https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/1pe8pkKTMRAHgVDvkMGye6"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/0B29tKx7e38MjW4NBSvcZF"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/1ZK2qvM0yDoj7sonoEWiG5"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0WtREq23Wm2V6Fj6tKlluH"
       },
       "artists": [
         {
@@ -56,28 +148,124 @@
           "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
         }
       ],
-      "duration_ms": 158181,
-      "name": "Playing Around",
-      "url": "https://open.spotify.com/track/1u4dJb0Xnl6B2txgNk5P2c"
+      "duration_ms": 236379,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/470DmyCe8EL1wwbElMLaN7"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Sayunk I Love You",
-        "url": "https://open.spotify.com/album/16h6YbiB8SbLwbs24nAMh1"
+        "name": "Burn (English Version)",
+        "url": "https://open.spotify.com/album/11VgXoVhoRveVxdk7wFLRE"
       },
       "artists": [
         {
-          "name": "Chombi",
-          "url": "https://open.spotify.com/artist/3R2BImdmQcwDaRX3E8lDsN"
+          "name": "Sarah Suhairi",
+          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
         }
       ],
-      "duration_ms": 213151,
-      "name": "Sayunk I Love You",
-      "url": "https://open.spotify.com/track/5Fb2E9eZ6I3S8h4Vh4NvSO"
+      "duration_ms": 189120,
+      "name": "Burn - English Version",
+      "url": "https://open.spotify.com/track/5IENcbXHvFoKAhecGLQtc6"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "Fajar",
+        "url": "https://open.spotify.com/album/3qbHIVSidorQWYKwUGSUxk"
+      },
+      "artists": [
+        {
+          "name": "Wani Kayrie",
+          "url": "https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M"
+        }
+      ],
+      "duration_ms": 223872,
+      "name": "Fajar",
+      "url": "https://open.spotify.com/track/1YmmjCvJGAPRwnpbOFIwbq"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/2oMoazj0HGsegjfPDyfrvh"
+      },
+      "artists": [
+        {
+          "name": "Khally",
+          "url": "https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES"
+        }
+      ],
+      "duration_ms": 211738,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/6Oa0nJwDOkclkCQsiZh6ge"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/4HQhioGsFrghbRy8ajT6Sj"
+      },
+      "artists": [
+        {
+          "name": "Afee",
+          "url": "https://open.spotify.com/artist/3UgXt5RJMgngGdKXJAFoOD"
+        }
+      ],
+      "duration_ms": 191707,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0RUfi1QfMXMnGQGcX3FgOJ"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "Superhuman",
+        "url": "https://open.spotify.com/album/4zyyXOkKsKk9qTke4pCYQM"
+      },
+      "artists": [
+        {
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+        }
+      ],
+      "duration_ms": 227018,
+      "name": "Superhuman",
+      "url": "https://open.spotify.com/track/6YAUAZ6Yf0mUeTIPduQHAB"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "dark places",
+        "url": "https://open.spotify.com/album/54OZigkOypoAyPcvwBtrd2"
+      },
+      "artists": [
+        {
+          "name": "SHN",
+          "url": "https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq"
+        }
+      ],
+      "duration_ms": 197859,
+      "name": "when i lie",
+      "url": "https://open.spotify.com/track/3jzfXEShdDtFxTtXlsbT7a"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "Astana",
+        "url": "https://open.spotify.com/album/38UjF0TgEfXgo5Zl4mnPle"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        }
+      ],
+      "duration_ms": 205824,
+      "name": "Astana",
+      "url": "https://open.spotify.com/track/67oBisTedMhW9Ku67XPcXZ"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
       "album": {
         "name": "Future Somebody",
         "url": "https://open.spotify.com/album/6oNuFaEPjjlNH9XeT1Aiab"
@@ -93,7 +281,91 @@
       "url": "https://open.spotify.com/track/4lW3yXHQfYvnq1njjxU07M"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "Bimbang",
+        "url": "https://open.spotify.com/album/5IVjZ9i3Vq42zKh6F8Y0IB"
+      },
+      "artists": [
+        {
+          "name": "Marsha Milan",
+          "url": "https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD"
+        }
+      ],
+      "duration_ms": 218967,
+      "name": "Bimbang",
+      "url": "https://open.spotify.com/track/4McwnRAyCRirH4Tntqt9Ew"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "LOVERGIRL",
+        "url": "https://open.spotify.com/album/1Eivm2c1chCBMHG2OcTjWd"
+      },
+      "artists": [
+        {
+          "name": "ALICIA DC",
+          "url": "https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E"
+        }
+      ],
+      "duration_ms": 187874,
+      "name": "You Already Know",
+      "url": "https://open.spotify.com/track/6aBVnDNG502Sh5rJRqLxmD"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "idk it's complicated",
+        "url": "https://open.spotify.com/album/32q4VWN3LXqqGSaaqdsrwJ"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "legally illegal",
+      "url": "https://open.spotify.com/track/6ffYVjNh4wJ5qgvdfKkNEn"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/6yMEaBxyjkMQmTobwogeVc"
+      },
+      "artists": [
+        {
+          "name": "Aisyah Aziz",
+          "url": "https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "Killing Me Softly",
+      "url": "https://open.spotify.com/track/6pzFkFLHDqFpgFtZfNH9RU"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "\u6d6a\u6f2b\u4e3b\u4e49",
+        "url": "https://open.spotify.com/album/3aHrTxbzVWe1puIJfGF64m"
+      },
+      "artists": [
+        {
+          "name": "Angelloweee",
+          "url": "https://open.spotify.com/artist/3VKXShqcZPqG6OPlvIAQ7t"
+        },
+        {
+          "name": "Layla Sania",
+          "url": "https://open.spotify.com/artist/7cgAsD4dJVqN4ckWT9jbEK"
+        }
+      ],
+      "duration_ms": 221044,
+      "name": "\u6d6a\u6f2b\u4e3b\u4e49",
+      "url": "https://open.spotify.com/track/6v2j7JBjWmERbzCujd9Rci"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
       "album": {
         "name": "MY BEST",
         "url": "https://open.spotify.com/album/4J5aiB9seZIjro3cG6xE4Q"
@@ -109,231 +381,171 @@
       "url": "https://open.spotify.com/track/2sYjGMRMMg4o0p0IYLCafl"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "\u561f\u58f0\u540e\u8bf7\u7559\u604b",
-        "url": "https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2"
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/7keqZmk1fm6mUd8XWVTK1b"
       },
       "artists": [
         {
-          "name": "Soph T.",
-          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
+          "name": "Khally",
+          "url": "https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES"
         }
       ],
-      "duration_ms": 183002,
-      "name": "\u4ed6\u6765\u65f6\u7684\u811a\u6b65",
-      "url": "https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk"
+      "duration_ms": 212093,
+      "name": "LTAL",
+      "url": "https://open.spotify.com/track/0vYPK4AH1s18cpc4uBkY1n"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "GO SLOW - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/71hE7PNuaYZ8iue9QdYXh8"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/45Hi3XBRsv0BrJi9ma226C"
       },
       "artists": [
         {
-          "name": "Lunadira",
-          "url": "https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC"
+          "name": "Mars B",
+          "url": "https://open.spotify.com/artist/3WmvQooo0fKwYMFuCpa7yo"
+        },
+        {
+          "name": "Naztykeys",
+          "url": "https://open.spotify.com/artist/3XOLDVuQheBegICAbrgSVb"
         }
       ],
-      "duration_ms": 136800,
-      "name": "GO SLOW - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5VnZTry3HpruQpTKhhuvvI"
+      "duration_ms": 198260,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/7kJO1LGZX9fXioVbeI6KRt"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Belagu II",
-        "url": "https://open.spotify.com/album/56IDVtAk3NJ4FM8ScK1kEk"
+        "name": "Walking Away",
+        "url": "https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2"
       },
       "artists": [
         {
-          "name": "Dayang Nurfaizah",
-          "url": "https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV"
+          "name": "Abby Simone",
+          "url": "https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN"
         }
       ],
-      "duration_ms": 244833,
-      "name": "Nak Dara Rindu",
-      "url": "https://open.spotify.com/track/6W5zgdGi4NFnbyslbrmy6L"
+      "duration_ms": 187269,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/6GF5a1ZWg9fsw6jRrpC4f7"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "27 in a 7-Eleven",
-        "url": "https://open.spotify.com/album/2HepEpC2LK5JZ3duY3sxqO"
+        "name": "Yang Kau Minta",
+        "url": "https://open.spotify.com/album/67eMyWfK7o8G9jVCvXltOb"
       },
       "artists": [
         {
-          "name": "SHN",
-          "url": "https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq"
+          "name": "Salma Asis",
+          "url": "https://open.spotify.com/artist/2AErcAntrtfnIB2tuRxCVn"
         }
       ],
-      "duration_ms": 180952,
-      "name": "27 in a 7-Eleven",
-      "url": "https://open.spotify.com/track/7M2WiIMPWioFgdsDUNLPvU"
+      "duration_ms": 234335,
+      "name": "Yang Kau Minta",
+      "url": "https://open.spotify.com/track/0pWTcAVezL3Nq4xp9qfiRR"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Isyarat Jiwa",
-        "url": "https://open.spotify.com/album/0W7xs8v9PDEcP7ZvMMsl3J"
+        "name": "Right Person, Wrong Time",
+        "url": "https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa"
       },
       "artists": [
         {
-          "name": "Liza Hanim",
-          "url": "https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O"
+          "name": "shazza",
+          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
         }
       ],
-      "duration_ms": 294293,
-      "name": "Gelisah Mimpi (KL Menjerit OST)",
-      "url": "https://open.spotify.com/track/0gLr1Qi0hs2GCTE7esHBnJ"
+      "duration_ms": 238410,
+      "name": "Right Person, Wrong Time",
+      "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Obvi",
-        "url": "https://open.spotify.com/album/1up43JxXIQ3MbRYWfJ6piU"
+        "name": "Hey Love",
+        "url": "https://open.spotify.com/album/5UNISFP0L5IJ3uRub35raQ"
       },
       "artists": [
         {
-          "name": "JAIE",
-          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
         }
       ],
-      "duration_ms": 151771,
-      "name": "Obvi",
-      "url": "https://open.spotify.com/track/2qKm38yVYENyqytMGLNt2Y"
+      "duration_ms": 225375,
+      "name": "Hey Love",
+      "url": "https://open.spotify.com/track/1gGVs5VYqj912AJCNp2sSe"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Terpisah",
-        "url": "https://open.spotify.com/album/4NPmR8lmiwhUPqazhRZ3kS"
+        "name": "We'll Be Okay",
+        "url": "https://open.spotify.com/album/6TKYSEQ5i7pk7LiqXQaOSo"
       },
       "artists": [
         {
-          "name": "Zizi Kirana",
-          "url": "https://open.spotify.com/artist/3HgrsNDURBPYS1KlN7LgnE"
+          "name": "Jean Seizure",
+          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
         }
       ],
-      "duration_ms": 188057,
-      "name": "Terpisah",
-      "url": "https://open.spotify.com/track/39xRvdI1VM3ZKhxt0t5C17"
+      "duration_ms": 174093,
+      "name": "We'll Be Okay",
+      "url": "https://open.spotify.com/track/6uptYZuPpko5v4NxPikGmw"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "tidak sangka",
-        "url": "https://open.spotify.com/album/7G6YidcyG8g5t2Mxoyejpp"
+        "name": "Andai Hatiku Bersuara",
+        "url": "https://open.spotify.com/album/715HPNak5ExGn7v8bM8gGC"
       },
       "artists": [
         {
-          "name": "putri dahlia",
-          "url": "https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g"
+          "name": "Damia",
+          "url": "https://open.spotify.com/artist/3Lvh8uQIPZjn7HojYCdHEE"
         }
       ],
-      "duration_ms": 194187,
-      "name": "tidak sangka",
-      "url": "https://open.spotify.com/track/6m9JUiyVHWIA8RXQfLpACX"
+      "duration_ms": 222236,
+      "name": "Andai Hatiku Bersuara",
+      "url": "https://open.spotify.com/track/12Cu2Qo80vOSPE1QnZfJv4"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Tunggu",
-        "url": "https://open.spotify.com/album/67L1sbtLvcyQ1zhqfDF3OC"
+        "name": "\u03b8i = \u03b8r",
+        "url": "https://open.spotify.com/album/2kn0Bvqiq98iZlIPEw4DLE"
       },
       "artists": [
         {
-          "name": "Elizabeth Tan",
-          "url": "https://open.spotify.com/artist/17bFKNQu8Ov9bwgUzMygRH"
+          "name": "Jasmine Sokko",
+          "url": "https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz"
         }
       ],
-      "duration_ms": 174315,
-      "name": "Tunggu",
-      "url": "https://open.spotify.com/track/7KHeoaLSpzMC0nHm1NFoI5"
+      "duration_ms": 147000,
+      "name": "TERMS & CONDITIONS",
+      "url": "https://open.spotify.com/track/3I69ylSTzkrx1vWCHQXoDo"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Rindu Rindu",
-        "url": "https://open.spotify.com/album/1rwY2ely7VFdYm4nUDcNGU"
+        "name": "Walking Away",
+        "url": "https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2"
       },
       "artists": [
         {
-          "name": "Chombi",
-          "url": "https://open.spotify.com/artist/3R2BImdmQcwDaRX3E8lDsN"
+          "name": "Abby Simone",
+          "url": "https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN"
         }
       ],
-      "duration_ms": 213727,
-      "name": "Rindu Rindu",
-      "url": "https://open.spotify.com/track/6XkyQsapXPyQrNinH4UUgG"
+      "duration_ms": 211893,
+      "name": "Same Sunrise",
+      "url": "https://open.spotify.com/track/0MGx8iGZ96saTtNlGFYqll"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "to you, to me",
-        "url": "https://open.spotify.com/album/5vtHCIkKF4SmJDnWcTqzn7"
-      },
-      "artists": [
-        {
-          "name": "Marian Carmel",
-          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
-        }
-      ],
-      "duration_ms": 191843,
-      "name": "Pause + Reset",
-      "url": "https://open.spotify.com/track/0mw3KxfThvfj5ouPtEJumv"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "Cheese on Toast",
-        "url": "https://open.spotify.com/album/4CAa56Oqz3uY68r8IFyVfc"
-      },
-      "artists": [
-        {
-          "name": "RENE",
-          "url": "https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg"
-        }
-      ],
-      "duration_ms": 193371,
-      "name": "Cheese on Toast",
-      "url": "https://open.spotify.com/track/4rtrqwN7NT2RaKkqiGXVaV"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "All We Have",
-        "url": "https://open.spotify.com/album/1McozNMsx8TAM0HAHZYxlj"
-      },
-      "artists": [
-        {
-          "name": "aeriqah",
-          "url": "https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb"
-        }
-      ],
-      "duration_ms": 229913,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/2GmnSyMeKinU5hdOiDy7dv"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "dark places",
-        "url": "https://open.spotify.com/album/54OZigkOypoAyPcvwBtrd2"
-      },
-      "artists": [
-        {
-          "name": "SHN",
-          "url": "https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "baggage",
-      "url": "https://open.spotify.com/track/7KrEAwnaoNAi148hm1kVtG"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
         "name": "Irama",
         "url": "https://open.spotify.com/album/43Bn9dR02QXM0bSXGRh0Pe"
@@ -349,234 +561,126 @@
       "url": "https://open.spotify.com/track/5YxZ62YzIE3h31g7MDUATb"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "don't lmk",
-        "url": "https://open.spotify.com/album/78xiJxWg0YcNHNDqRYEaKD"
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/2t3ar6rVWNqkBYU9LibAwi"
       },
       "artists": [
         {
-          "name": "J.M3",
-          "url": "https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx"
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
         }
       ],
-      "duration_ms": 203720,
-      "name": "don't lmk",
-      "url": "https://open.spotify.com/track/1ApQEG6RxJq3IHI504AEdd"
+      "duration_ms": 179103,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/6zlio0K6QpRC4R9czfzPV8"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "\u4e00\u5239\u90a3\u82b1\u706b",
-        "url": "https://open.spotify.com/album/7hslljYtbnZlTheevJpUgf"
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/7FM4ChgZ4rkqLrvUOV9PUe"
       },
       "artists": [
         {
-          "name": "Yokez",
-          "url": "https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus"
+          "name": "ALICIA DC",
+          "url": "https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E"
         }
       ],
-      "duration_ms": 182357,
-      "name": "\u4e00\u5239\u90a3\u82b1\u706b",
-      "url": "https://open.spotify.com/track/4wlVJSRfM8aJXbgLEJPPiW"
+      "duration_ms": 256450,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/3tQAZFrBa4nOPW2dFsM7xY"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Big Stage 2019",
-        "url": "https://open.spotify.com/album/0OG3dnjZr7lxJoqzsiZxG6"
+        "name": "Pasrah",
+        "url": "https://open.spotify.com/album/0vbNRbVX4WBYMcD9YM5uEg"
       },
       "artists": [
         {
-          "name": "Neeta",
-          "url": "https://open.spotify.com/artist/4FQwf6xj7M4sJrsZwKy1Y5"
+          "name": "Sarah Suhairi",
+          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
         }
       ],
-      "duration_ms": 210982,
-      "name": "Ruang Mimpi",
-      "url": "https://open.spotify.com/track/3OtgvwRXJVZopEaxyIDK4P"
+      "duration_ms": 253913,
+      "name": "Pasrah",
+      "url": "https://open.spotify.com/track/6XtqjjLBLM2rgRXwtn0KdE"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "KEMBALI TERANG",
-        "url": "https://open.spotify.com/album/4BGue0B72lKl9nvFPxZDzW"
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4GZlfuIQLFqMPJ5V7YR98E"
       },
       "artists": [
         {
-          "name": "Marsha Milan",
-          "url": "https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD"
+          "name": "Afee",
+          "url": "https://open.spotify.com/artist/3UgXt5RJMgngGdKXJAFoOD"
         }
       ],
-      "duration_ms": 202058,
-      "name": "KEMBALI TERANG",
-      "url": "https://open.spotify.com/track/4NzB31TlldP5VSb9En1L6Q"
+      "duration_ms": 190000,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7fE8VAkDiUSsqgMpVk699s"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Precious",
-        "url": "https://open.spotify.com/album/5zCGVSNOIhoCt0fjvX8R1K"
+        "name": "Kembali Bersamaku",
+        "url": "https://open.spotify.com/album/6zdJbgbWPwBKd4y5JrxaQQ"
       },
       "artists": [
         {
-          "name": "JAIE",
-          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
+          "name": "Damia",
+          "url": "https://open.spotify.com/artist/3Lvh8uQIPZjn7HojYCdHEE"
         }
       ],
-      "duration_ms": 145333,
-      "name": "Precious",
-      "url": "https://open.spotify.com/track/7iE2pKXgHO93pvzCs1RkdH"
+      "duration_ms": 189477,
+      "name": "Kembali Bersamaku",
+      "url": "https://open.spotify.com/track/3Xf73flpNqlcJGBwgflzle"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "\u7231\u7684\u62e5\u62b1",
-        "url": "https://open.spotify.com/album/3RJd9veInpPlgqLdQKBiMe"
+        "name": "Biar Sayang",
+        "url": "https://open.spotify.com/album/7o77Nm2LiSh0DeT3xX5Cnu"
       },
       "artists": [
         {
-          "name": "BECKA",
-          "url": "https://open.spotify.com/artist/0zH5akhP1A41eUk6VCQUNz"
+          "name": "Dalia Farhana",
+          "url": "https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg"
         }
       ],
-      "duration_ms": 218000,
-      "name": "\u7231\u7684\u62e5\u62b1",
-      "url": "https://open.spotify.com/track/0SHdwd2FVwDAg9cHNcgbVq"
+      "duration_ms": 248695,
+      "name": "Biar Sayang",
+      "url": "https://open.spotify.com/track/7wZAAwOBxbl4dyd0MgH6V1"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Crazy Dizzy",
-        "url": "https://open.spotify.com/album/1ArzNnMr9c9I8knWh2pP59"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/45Hi3XBRsv0BrJi9ma226C"
       },
       "artists": [
         {
-          "name": "Lunadira",
-          "url": "https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Crazy Dizzy",
-      "url": "https://open.spotify.com/track/6fJc134pVUWG883kFcYwVg"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "Katak Belang",
-        "url": "https://open.spotify.com/album/0OkFzJ1yvTn7UHfb5M6nLO"
-      },
-      "artists": [
+          "name": "Mars B",
+          "url": "https://open.spotify.com/artist/3WmvQooo0fKwYMFuCpa7yo"
+        },
         {
-          "name": "Neeta",
-          "url": "https://open.spotify.com/artist/4oCjaJOG9XG6RYV66uQXxh"
+          "name": "KAYE",
+          "url": "https://open.spotify.com/artist/6xtWwGjr7pWga4C7xiG29M"
         }
       ],
-      "duration_ms": 201493,
-      "name": "Katak Belang",
-      "url": "https://open.spotify.com/track/28uSXow2303cQXyjcDEcNn"
+      "duration_ms": 165245,
+      "name": "Daze",
+      "url": "https://open.spotify.com/track/2Gicp3243K3coxM6mXlEtC"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Lepaskan",
-        "url": "https://open.spotify.com/album/4DoE3kGF5cOf99G0nT4rhI"
-      },
-      "artists": [
-        {
-          "name": "Hullera",
-          "url": "https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Lepaskan",
-      "url": "https://open.spotify.com/track/7CKHJN6qCRHiKRJlIED2ZB"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "WANT",
-        "url": "https://open.spotify.com/album/0moqUbZQR7GxfDNZTQ8gIA"
-      },
-      "artists": [
-        {
-          "name": "Iman Fandi",
-          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
-        }
-      ],
-      "duration_ms": 225747,
-      "name": "WANT",
-      "url": "https://open.spotify.com/track/7hqlbKbYWLnoIEg9GxyfWu"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "Semua Sudah",
-        "url": "https://open.spotify.com/album/1IT4TfVXXnMRA3pUEnqsI6"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Tan",
-          "url": "https://open.spotify.com/artist/17bFKNQu8Ov9bwgUzMygRH"
-        }
-      ],
-      "duration_ms": 199259,
-      "name": "Semua Sudah",
-      "url": "https://open.spotify.com/track/5U8ov9W5n7Xkq4v4EhTSmF"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/2JaUPjJ0TmNRQQA0zt1ivT"
-      },
-      "artists": [
-        {
-          "name": "Jean Seizure",
-          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
-        }
-      ],
-      "duration_ms": 212424,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/4exaC757D7BBmexDDC3day"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "All We Have",
-        "url": "https://open.spotify.com/album/1McozNMsx8TAM0HAHZYxlj"
-      },
-      "artists": [
-        {
-          "name": "aeriqah",
-          "url": "https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb"
-        }
-      ],
-      "duration_ms": 271183,
-      "name": "One More, Then I'll Go",
-      "url": "https://open.spotify.com/track/2ARGpIXuGrFH4GeFwet3eI"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "to you, to me",
-        "url": "https://open.spotify.com/album/5vtHCIkKF4SmJDnWcTqzn7"
-      },
-      "artists": [
-        {
-          "name": "Marian Carmel",
-          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
-        }
-      ],
-      "duration_ms": 103500,
-      "name": "to you, now",
-      "url": "https://open.spotify.com/track/4CWyeIX411aJdNpVB3rXvA"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "Easy Girl Easy Boy",
-        "url": "https://open.spotify.com/album/763KgVE9H9LEnNIo2BPIwa"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/4azZpwzY4rz8nL1kwIWNga"
       },
       "artists": [
         {
@@ -584,127 +688,31 @@
           "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
         }
       ],
-      "duration_ms": 204921,
-      "name": "Easy Girl Easy Boy",
-      "url": "https://open.spotify.com/track/16J7AI5bo2CO088Qr8Dw9A"
+      "duration_ms": 150588,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1P2fnEpYqkAHXRuN41IFIc"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "\u8d70\u6563",
-        "url": "https://open.spotify.com/album/4iAnHibgTBajYffc7DSTjT"
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/2UiwzTFOuIkZm0OT4ld0HS"
       },
       "artists": [
         {
-          "name": "Moon Chew",
-          "url": "https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq"
+          "name": "DOLLA",
+          "url": "https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO"
         }
       ],
-      "duration_ms": 254347,
-      "name": "\u8d70\u6563",
-      "url": "https://open.spotify.com/track/6VX8cXIdV7nAxdjND4QeT4"
+      "duration_ms": 218389,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/6o0jmD1rCPYp7uZBtbUrya"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Pijak",
-        "url": "https://open.spotify.com/album/7rBEohzHVNLBsuBrzuLh9l"
-      },
-      "artists": [
-        {
-          "name": "Zizi Kirana",
-          "url": "https://open.spotify.com/artist/3HgrsNDURBPYS1KlN7LgnE"
-        }
-      ],
-      "duration_ms": 189591,
-      "name": "Pijak",
-      "url": "https://open.spotify.com/track/0AWTae2iHMtB9W2mcIIh7l"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "Dry In The Sun",
-        "url": "https://open.spotify.com/album/72gYLxxEBOJTItU5dm4Bqk"
-      },
-      "artists": [
-        {
-          "name": "RENE",
-          "url": "https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg"
-        }
-      ],
-      "duration_ms": 202748,
-      "name": "Dry In The Sun",
-      "url": "https://open.spotify.com/track/3Yt6XuC4pSwwdfBXFHuVO9"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "\u6211\u7684\u57ce\u5821",
-        "url": "https://open.spotify.com/album/73Vupnm187tTrROhONaSGu"
-      },
-      "artists": [
-        {
-          "name": "J.M3",
-          "url": "https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx"
-        }
-      ],
-      "duration_ms": 200045,
-      "name": "\u6211\u7684\u57ce\u5821",
-      "url": "https://open.spotify.com/track/5dYNl6a3U5x6N8beswH0Md"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "Belagu II",
-        "url": "https://open.spotify.com/album/56IDVtAk3NJ4FM8ScK1kEk"
-      },
-      "artists": [
-        {
-          "name": "Dayang Nurfaizah",
-          "url": "https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV"
-        }
-      ],
-      "duration_ms": 151954,
-      "name": "Ketipang Payung",
-      "url": "https://open.spotify.com/track/54LGyjyePwbWTkEemHWlJP"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "Pilihilah Aku",
-        "url": "https://open.spotify.com/album/0MiW94MQMjcLzlFaXDyDzZ"
-      },
-      "artists": [
-        {
-          "name": "Shiha Zikir",
-          "url": "https://open.spotify.com/artist/1S2qOJwpoeUkoJuToOZXU5"
-        }
-      ],
-      "duration_ms": 234157,
-      "name": "Pilihilah Aku",
-      "url": "https://open.spotify.com/track/6LEsL9RNze2jiBABQnaseB"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "set u free",
-        "url": "https://open.spotify.com/album/28n8iQ1LN5jDQacK2NRds3"
-      },
-      "artists": [
-        {
-          "name": "putri dahlia",
-          "url": "https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g"
-        }
-      ],
-      "duration_ms": 155874,
-      "name": "set u free",
-      "url": "https://open.spotify.com/track/57irsENomPFXRoL7aBmRIZ"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "Cinta",
-        "url": "https://open.spotify.com/album/1gAC5jqOsnhlGjfucDDkWo"
+        "name": "Kesudahan Kita",
+        "url": "https://open.spotify.com/album/7GMMpLGKdpZSYrXulKkMEc"
       },
       "artists": [
         {
@@ -712,28 +720,44 @@
           "url": "https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD"
         }
       ],
-      "duration_ms": 234555,
-      "name": "Cinta",
-      "url": "https://open.spotify.com/track/0jkJChuTxiVr05C2oUAlht"
+      "duration_ms": 223346,
+      "name": "Kesudahan Kita",
+      "url": "https://open.spotify.com/track/2lyerx4GLKQM5YFTWZtgxl"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "\u5206\u624b\u610f\u4e49",
-        "url": "https://open.spotify.com/album/78K4VMUYf7u0tKvqg6N2bz"
+        "name": "Jagakan Dia",
+        "url": "https://open.spotify.com/album/7ITJvdq4y4bREnYqqdXOll"
       },
       "artists": [
         {
-          "name": "Yokez",
-          "url": "https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus"
+          "name": "Shiha Zikir",
+          "url": "https://open.spotify.com/artist/1S2qOJwpoeUkoJuToOZXU5"
         }
       ],
-      "duration_ms": 289840,
-      "name": "\u5206\u624b\u610f\u4e49",
-      "url": "https://open.spotify.com/track/2mVdHxT8A06CrPWyDoCcDp"
+      "duration_ms": 246612,
+      "name": "Jagakan Dia",
+      "url": "https://open.spotify.com/track/2rtO2pRT4zVgiNwmFMwn8c"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
+      "album": {
+        "name": "Kamu Kamu",
+        "url": "https://open.spotify.com/album/5TZaIiYaLM7glIpL7rWrs8"
+      },
+      "artists": [
+        {
+          "name": "Wani Kayrie",
+          "url": "https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Kamu Kamu",
+      "url": "https://open.spotify.com/track/2f25Hbrr0W46pXGdFNGXBw"
+    },
+    {
+      "added_at": "2023-02-28 16:00:00",
       "album": {
         "name": "AHHH",
         "url": "https://open.spotify.com/album/3IcK2G3DQi8K1eOctzBbl5"
@@ -749,68 +773,52 @@
       "url": "https://open.spotify.com/track/6FuKGUQdfjtLOX3PTLtiFM"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Love Me Little More",
-        "url": "https://open.spotify.com/album/35dpZS4M2NcrxZXTrOTIQR"
+        "name": "Warkah Untuk Kekasih",
+        "url": "https://open.spotify.com/album/07a2yuEj1gmxggRDwSWGb0"
       },
       "artists": [
         {
-          "name": "Iman Fandi",
-          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
+          "name": "Salma Asis",
+          "url": "https://open.spotify.com/artist/2AErcAntrtfnIB2tuRxCVn"
         }
       ],
-      "duration_ms": 199223,
-      "name": "Love Me Little More",
-      "url": "https://open.spotify.com/track/6j2nyMkP5ACxj7JiXx40RE"
+      "duration_ms": 260010,
+      "name": "Warkah Untuk Kekasih",
+      "url": "https://open.spotify.com/track/3QZQO1td50sHIpKwTOmWs9"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "\u7a81\u7136\u8d77\u4e86\u4e00\u4e2a\u5ff5\u5934",
-        "url": "https://open.spotify.com/album/12oRbnnG2KrpKXlKvazvit"
+        "name": "Koleksi Terbaik Ernie Zakri",
+        "url": "https://open.spotify.com/album/0RJfa9ixS7mhDhhQLvlKXg"
       },
       "artists": [
         {
-          "name": "BECKA",
-          "url": "https://open.spotify.com/artist/0zH5akhP1A41eUk6VCQUNz"
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
         }
       ],
-      "duration_ms": 217444,
-      "name": "\u7a81\u7136\u8d77\u4e86\u4e00\u4e2a\u5ff5\u5934",
-      "url": "https://open.spotify.com/track/6bSabw5H2dnbx8IjYfplOj"
+      "duration_ms": 230504,
+      "name": "Boneka",
+      "url": "https://open.spotify.com/track/1C9wjvXDwQQEaVlNJn4lAV"
     },
     {
-      "added_at": "2023-01-31 16:00:00",
+      "added_at": "2023-02-28 16:00:00",
       "album": {
-        "name": "Obsesiku",
-        "url": "https://open.spotify.com/album/2quCLWVSnzIECwh1zWorQk"
+        "name": "\u4e0d, \u8981\u4e0d\u8981",
+        "url": "https://open.spotify.com/album/6cNHhVnI9wvR1KNAzgRp7O"
       },
       "artists": [
         {
-          "name": "Hullera",
-          "url": "https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH"
+          "name": "Angelloweee",
+          "url": "https://open.spotify.com/artist/3VKXShqcZPqG6OPlvIAQ7t"
         }
       ],
-      "duration_ms": 196666,
-      "name": "Obsesiku",
-      "url": "https://open.spotify.com/track/0BgiFXOj32ZEGcweeYmLrR"
-    },
-    {
-      "added_at": "2023-01-31 16:00:00",
-      "album": {
-        "name": "\u6c34\u661f\u8a18",
-        "url": "https://open.spotify.com/album/0Lb4h7zgiQW5k03Mk6t7RC"
-      },
-      "artists": [
-        {
-          "name": "Moon Chew",
-          "url": "https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq"
-        }
-      ],
-      "duration_ms": 270447,
-      "name": "\u6c34\u661f\u8a18",
-      "url": "https://open.spotify.com/track/1ZLZ7azsl5orPPjjNHDDuC"
+      "duration_ms": 184226,
+      "name": "\u4e0d, \u8981\u4e0d\u8981",
+      "url": "https://open.spotify.com/track/53dWaPiPkR1bJKpqJZN7Sd"
     }
   ],
   "unique_name": "EQUAL Singapore & Malaysia",

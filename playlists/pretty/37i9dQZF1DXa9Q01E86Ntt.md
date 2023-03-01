@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,040 likes - 62 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,091 likes - 62 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 18 | [Minamata Piano Theme](https://open.spotify.com/track/4SuctdNPUY8Cl6NL5dasGN) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Minamata Piano Theme](https://open.spotify.com/album/2uGicSh9qaQyj7oRQsolTi) | 2:50 |
 | 19 | [The Revenant Main Theme](https://open.spotify.com/track/4QrLwgJt0OGkUFBbQKk0fL) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 2:41 |
 | 20 | [Uoon II](https://open.spotify.com/track/6B8uUGXbyeZdLZDeslWOho) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Vrioon](https://open.spotify.com/album/2myKuYcGPleSWTa5VKgRVl) | 9:40 |
-| 21 | [Amore](https://open.spotify.com/track/5sqHOvj1wi2xCwFvAlM2cA) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing The Piano](https://open.spotify.com/album/6prGgcmP2UbZGkD4GeHf5F) | 5:09 |
-| 22 | [energy flow](https://open.spotify.com/track/6rXnP6n3myylS9PV4N53ID) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:32 |
+| 21 | [Amore](https://open.spotify.com/track/5IeHIsegjkCOEHUrbs8hrF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [/05](https://open.spotify.com/album/1s8Esd8UoFFMGV6e8DCDix) | 5:09 |
+| 22 | [energy flow](https://open.spotify.com/track/3lam56BGPAHGpzKeOZwBW1) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [ウラBTTB](https://open.spotify.com/album/5uJn2krSFUsP5CrtP8ccFL) | 4:35 |
 | 23 | [Glass and Buffalo Warrior Travel](https://open.spotify.com/track/0u6MujE7DSgv0HyrTEUcHI) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 1:51 |
 | 24 | [Koko](https://open.spotify.com/track/6holSPJTVmOypblQABUtCz) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Koko](https://open.spotify.com/album/5RSXVXsgxW9Qx69g4cAxM0) | 4:05 |
 | 25 | [MUJI2020](https://open.spotify.com/track/6q4yJfdPmQh5OkzJHrj538) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing the Piano 12122020](https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU) | 2:14 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 61 | [WORLD CITIZEN \-I won't be disappointed\- \- short version](https://open.spotify.com/track/5YeWWr0tzI9hzhLPE2PMjd) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [WORLD CITIZEN \-I won't be disappointed\-](https://open.spotify.com/album/5fSg0GYR6LRi33k9eg0iUM) | 3:47 |
 | 62 | [oxygen \- from "Exception" Soundtrack](https://open.spotify.com/track/3EhgZBz3LPFtR8L6pSKPvK) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Exception \(Soundtrack from the Netflix Anime Series\)](https://open.spotify.com/album/4ToOQ4ZlOLxWKPHqDg3WlJ) | 3:48 |
 
-Snapshot ID: `MTY3Mzk2ODE4OSwwMDAwMDAwMDFjMTgxYzkxY2MxZjE3ZTVkMTY0MmEzNjdlNDY3ZWNk`
+Snapshot ID: `MTY3Mzk2ODE4OSwwMDAwMDAwMDNiZjIyNmIxZmFjODY0ZmYzODM4MTVjMGFlZTNjN2U2`

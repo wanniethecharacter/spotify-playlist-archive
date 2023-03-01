@@ -1,6 +1,6 @@
 {
   "description": "The home for alternative electronic music. Cover: Jayda G",
-  "num_followers": 418311,
+  "num_followers": 418350,
   "original_name": "Altar",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,26 @@
       "duration_ms": 269799,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 138484,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI"
     },
     {
       "added_at": "2023-02-24 00:00:00",

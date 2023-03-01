@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Headbangers of Bangladesh. Cover - Odd Signature",
+  "description": "Headbangers of Bangladesh. Cover - Encore",
   "name": "Bangla Rock",
   "tracks": [
     {
@@ -620,7 +620,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 280656,
       "name": "Bhondo",
       "url": "https://open.spotify.com/track/07qgJazJQyknsbmuJZDL6N"
@@ -678,7 +678,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 226889,
       "name": "Bijoyer Gan",
       "url": "https://open.spotify.com/track/4fO6kQvF1BtjW2tpaUIamd"
@@ -736,6 +736,24 @@
       "duration_ms": 331139,
       "name": "Biyogantok",
       "url": "https://open.spotify.com/track/7e4tE0wyLzVuzUPbUMCqR6"
+    },
+    {
+      "album": {
+        "name": "Rongmistree",
+        "url": "https://open.spotify.com/album/6EBc74qFiapuYasuHvIL7k"
+      },
+      "artists": [
+        {
+          "name": "Shohojia",
+          "url": "https://open.spotify.com/artist/7ImlbtGXKIeyQWQWOZuDtx"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351240,
+      "name": "Boka pakhi",
+      "url": "https://open.spotify.com/track/5QFHN5g6tUuQGIsGFQyMjF"
     },
     {
       "album": {
@@ -876,7 +894,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 383523,
       "name": "Chiro Adhora",
       "url": "https://open.spotify.com/track/2a7k7F8c4XJAHnZ03uBVrG"
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 258324,
       "name": "Eden",
       "url": "https://open.spotify.com/track/53NYK7ZRLBErAMdJNBJEoo"
@@ -1226,6 +1244,24 @@
       "duration_ms": 403766,
       "name": "Epitaph",
       "url": "https://open.spotify.com/track/1U6tiLQYPT9C3GEhJlAsAQ"
+    },
+    {
+      "album": {
+        "name": "Esho Amar Shohore",
+        "url": "https://open.spotify.com/album/0GaKAf0jqP3TLdY0Ju3IXe"
+      },
+      "artists": [
+        {
+          "name": "Meghdol",
+          "url": "https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318500,
+      "name": "Esho Amar Shohore",
+      "url": "https://open.spotify.com/track/5CM1vkHKmfjGk5Akzd6An1"
     },
     {
       "album": {
@@ -1644,6 +1680,24 @@
       "duration_ms": 2027448,
       "name": "Krittrim Prithibi Deluxe Edition",
       "url": "https://open.spotify.com/track/7ceKXmTvOuIcj8VALPZTfq"
+    },
+    {
+      "album": {
+        "name": "Lastbench",
+        "url": "https://open.spotify.com/album/18T8X6weq4yFMMOTySu94q"
+      },
+      "artists": [
+        {
+          "name": "Sina Hasan",
+          "url": "https://open.spotify.com/artist/0513ybeb4TjVZplaeBe3Sm"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251120,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/4SIdqm1SVgcOORx0X3DNq1"
     },
     {
       "album": {
@@ -2186,7 +2240,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 249786,
       "name": "Oporanho",
       "url": "https://open.spotify.com/track/5pvcKpHBdbhIUuE3JDvfQE"
@@ -2449,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "Provu",
+        "url": "https://open.spotify.com/album/65CBawaHaqasNGO8BBMbm8"
+      },
+      "artists": [
+        {
+          "name": "Abirbhaab",
+          "url": "https://open.spotify.com/artist/60DzpTSQlf934knmD0jkdr"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286190,
+      "name": "Provu",
+      "url": "https://open.spotify.com/track/4IJ1xoz8M9omBst9dd9IKH"
+    },
+    {
+      "album": {
         "name": "Punorjonmo",
         "url": "https://open.spotify.com/album/0mIPFSHREKf2yXhgXPrImn"
       },
@@ -2638,6 +2710,24 @@
       "duration_ms": 278035,
       "name": "Shada Golap",
       "url": "https://open.spotify.com/track/056R8hTzXwi1GNzORWm9Rz"
+    },
+    {
+      "album": {
+        "name": "Mohomukti",
+        "url": "https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv"
+      },
+      "artists": [
+        {
+          "name": "Karnival",
+          "url": "https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330398,
+      "name": "Sheishob Din Raatri",
+      "url": "https://open.spotify.com/track/0lrXNv7c4pZ44KJjtyXlDb"
     },
     {
       "album": {

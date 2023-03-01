@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: NorthSideBenji
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,177 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,228 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [5 AM in London](https://open.spotify.com/track/3CslgoZltqk8R1XV2f6GNq) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Prophecy](https://open.spotify.com/album/4I13FVparFXcJj2JfEsHFG) | 2:54 |
 | 2 | [Bora Bora](https://open.spotify.com/track/586guBKCSzccyYZVZduraw) | [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw) | [Big Screen](https://open.spotify.com/album/3fbMX5wfEMgo9jsGvxArf3) | 2:35 |
 | 3 | [Lately](https://open.spotify.com/track/46DB28jumopDyMuYhjoydV) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Lately](https://open.spotify.com/album/7r2z3mRulccCz5XgmAaCcr) | 3:50 |
-| 4 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 |
+| 4 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 |
 | 5 | [Sunday](https://open.spotify.com/track/4pg7v1l4E54OSfojSVa6RL) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Sunday](https://open.spotify.com/album/2m7woQW8imyUenD0BQyoyn) | 2:36 |
 | 6 | [WYD](https://open.spotify.com/track/2tFTUUlBZeHGeI2Ys0nkci) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [WYD](https://open.spotify.com/album/08PRxcK4bHMKg6PVObT6r9) | 3:21 |
 | 7 | [Gentleman's Sweep](https://open.spotify.com/track/3e6PTJYRmgMBASVVl2l9Gd) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Gentleman's Sweep](https://open.spotify.com/album/1WIvyIEkE7X2J5W6RN9Ri5) | 2:20 |

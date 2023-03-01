@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Awesome Day",
+        "url": "https://open.spotify.com/album/0YiAhoEt7KwUWIwUkVqkWT"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u96c4\u58eb",
+          "url": "https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198233,
+      "name": "Awesome Day",
+      "url": "https://open.spotify.com/track/5XNEnGFGKjeWgaVRvP4wq8"
+    },
+    {
+      "album": {
         "name": "Hot Sauce on Ice Cream",
         "url": "https://open.spotify.com/album/6FDsnKHOZcxraTjXWQDUXE"
       },
@@ -1437,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313561,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp"
+    },
+    {
+      "album": {
         "name": "swing in the dark",
         "url": "https://open.spotify.com/album/5CTADoSfMQnu66awJEeqgl"
       },
@@ -2346,7 +2382,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 246734,
       "name": "Koi ha jealousy",
       "url": "https://open.spotify.com/track/381vdLFYEwBI1JYzIT9GME"
@@ -3130,7 +3166,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 199907,
       "name": "Must Be Love",
       "url": "https://open.spotify.com/track/3aRb0l183NvGHFxrCJSuJ5"
@@ -3188,6 +3224,24 @@
       "duration_ms": 170366,
       "name": "Natural",
       "url": "https://open.spotify.com/track/0o313xtpNX0r3gx5TZSwK0"
+    },
+    {
+      "album": {
+        "name": "Night Cruising",
+        "url": "https://open.spotify.com/album/0zqsPnIdwqEGQs0VT7idAY"
+      },
+      "artists": [
+        {
+          "name": "Hiplin",
+          "url": "https://open.spotify.com/artist/7kBLcEkquJFcV7lk9MkKBM"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240164,
+      "name": "Night Cruising",
+      "url": "https://open.spotify.com/track/0BLD3ShD5ZPNaYQHIWgXxb"
     },
     {
       "album": {
@@ -3352,7 +3406,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 198750,
       "name": "One Way My Love - Neon Mix",
       "url": "https://open.spotify.com/track/6CLeUulXsPa2AyaiVKN9OY"
@@ -3677,6 +3731,24 @@
     },
     {
       "album": {
+        "name": "A.Y.A e.p",
+        "url": "https://open.spotify.com/album/0DqIJCwOCkKi4HLuxuSbn3"
+      },
+      "artists": [
+        {
+          "name": "Yogee New Waves",
+          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273719,
+      "name": "Rain Of Your Heart",
+      "url": "https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O"
+    },
+    {
+      "album": {
         "name": "Rainin' on my parade",
         "url": "https://open.spotify.com/album/0I6IpubleNWNAZkDllZaCR"
       },
@@ -3984,7 +4056,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 225038,
       "name": "Saitei Na Drama",
       "url": "https://open.spotify.com/track/01yyhN908OiuvbFjCtBBXA"
@@ -4246,6 +4318,36 @@
       "duration_ms": 274250,
       "name": "Smile in your face",
       "url": "https://open.spotify.com/track/4G8VYP3HTnU7fWLoTF77VI"
+    },
+    {
+      "album": {
+        "name": "Smile In Your Face (CUNIMONDO Remix)",
+        "url": "https://open.spotify.com/album/0izorA2Rs232bpzsnsoKhi"
+      },
+      "artists": [
+        {
+          "name": "\u77e2\u821f\u30c6\u30c4\u30ed\u30fc",
+          "url": "https://open.spotify.com/artist/552OyEDbpgWBiFB9vE0SDV"
+        },
+        {
+          "name": "Seira Kariya",
+          "url": "https://open.spotify.com/artist/0iJ6VIGJffJ0vCLJHc3xqO"
+        },
+        {
+          "name": "\u3055\u3068\u3046\u3089\u3089",
+          "url": "https://open.spotify.com/artist/6YnQ8Xgg8UgixHoIhpslxx"
+        },
+        {
+          "name": "\u30af\u30cb\u30e2\u30f3\u30c9\u7027\u53e3",
+          "url": "https://open.spotify.com/artist/37Ep9wXsW6DPD1rEYPnPRj"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260693,
+      "name": "Smile In Your Face - CUNIMONDO Remix",
+      "url": "https://open.spotify.com/track/00iEiaBARvaEaiI7mY6VJx"
     },
     {
       "album": {
@@ -4912,7 +5014,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 278290,
       "name": "Talk",
       "url": "https://open.spotify.com/track/30v1ffMJ8gcCYv5YfrLE99"
@@ -6156,7 +6258,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 222464,
       "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30ea\u30fc\u30f3\u306e\u63fa\u3089\u3081\u304d",
       "url": "https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX"
@@ -6178,6 +6280,24 @@
       "duration_ms": 145384,
       "name": "\u30a8\u30e2\u3081\u306e\u590f",
       "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
+        "url": "https://open.spotify.com/album/0geyTyvqhnQeIyBbKeuDo9"
+      },
+      "artists": [
+        {
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207014,
+      "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
+      "url": "https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2"
     },
     {
       "album": {
@@ -6396,7 +6516,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 218166,
       "name": "\u30b9\u30d1\u30f3\u30b3\u30fc\u30eb\u306e\u5973",
       "url": "https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm"
@@ -6808,7 +6928,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 194285,
       "name": "\u30e1\u30e2\u30ea\u30a2\u30d5\u30ed\u30a2",
       "url": "https://open.spotify.com/track/56UpxpbqRT8I6vBAMo3BIu"

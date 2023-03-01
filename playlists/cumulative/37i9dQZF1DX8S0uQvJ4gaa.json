@@ -8592,6 +8592,24 @@
     {
       "album": {
         "name": "Western",
+        "url": "https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181483,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/14oK2do8KogXF21nfI9uOS"
+    },
+    {
+      "album": {
+        "name": "Western",
         "url": "https://open.spotify.com/album/5CbbfVTtYGmnVn6rLrgklf"
       },
       "artists": [
@@ -8602,7 +8620,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 181483,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/421Y1KnVaq15mux4QmLJTU"

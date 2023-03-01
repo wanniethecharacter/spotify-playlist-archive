@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,485 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,524 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 57 | [Receso Solo 1](https://open.spotify.com/track/1pLGlJF5gf5YDEKFzLg9Fz) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Receso Solo 1](https://open.spotify.com/album/0LhuysoUDHLhiV6BKkwk4m) | 3:33 |
 | 58 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
 | 59 | [Nrs In Da Area](https://open.spotify.com/track/2nwyBoKRKAemGvgRhHELg0) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv) | [Nrs In Da Area](https://open.spotify.com/album/29HcQVOLpnwwmaI7Qlv665) | 3:31 |
-| 60 | [Siempre Recuerdo](https://open.spotify.com/track/0U1sNqtTaZePegE7dfyvek) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6ChyYaAHTxyVQp4il1Qyjs), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Universos Mixtape](https://open.spotify.com/album/7MnWuyMR88boF22p1x9Eus) | 4:00 |
+| 60 | [Siempre Recuerdos](https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 4:00 |
 | 61 | [Arde Roma](https://open.spotify.com/track/1iDcAvaddk5uOJbp2Al0Iz) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ) | [El Armador del Sol](https://open.spotify.com/album/224wnpTxgYLu50oxEZFoh6) | 3:27 |
 | 62 | [Mielmesabe](https://open.spotify.com/track/5MN9YfKzoMwXhtds1U4uUh) | [AvenREC](https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa), [Ily Wonder](https://open.spotify.com/artist/1qDDG4jYzb2tkpVvOSntGv) | [S.A.L.T \(Chapter 4 \- Figues À La Crème\)](https://open.spotify.com/album/1Vf36DRLwGjfXnBMtPieUf) | 3:54 |
 | 63 | [Flaca](https://open.spotify.com/track/18PywrD2EQCVJEXMjETy8p) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Flaca](https://open.spotify.com/album/1rGB0EkQQ96tB4iYTklDIy) | 3:24 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 65 | [Esperaré por Ti](https://open.spotify.com/track/36Rix2ddUNOg7eMJOEGxNk) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Esperaré por Ti](https://open.spotify.com/album/4OptL4DWShK5i4P1XP6V2Y) | 3:50 |
 | 66 | [Murderah](https://open.spotify.com/track/70IHmmLDvJD2wzdqkbIjLi) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Murderah](https://open.spotify.com/album/5fGkMu6qo9R5kzH5Nsss7T) | 4:57 |
 | 67 | [Renace](https://open.spotify.com/track/02nx5tMIZ9upPdoyt6zhWD) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Renace](https://open.spotify.com/album/6Jps3FkjuosN5ARZuQ56MQ) | 2:31 |
-| 68 | [Otra Pa' Mi Cuenta](https://open.spotify.com/track/7kCRdqtRVssyEZEfUSECWZ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Andrade A.K.A Doble A](https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU) | [Otra Pa' Mi Cuenta](https://open.spotify.com/album/0UGuJH97dHiHsQTUpy6puf) | 2:50 |
+| 68 | [Otra Pa' Mi Cuenta](https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 2:50 |
 | 69 | [De la Cuna al Ataud](https://open.spotify.com/track/6IvOJYhT1frsjHtYQYHKhl) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Full Nelson](https://open.spotify.com/artist/4R98y7MxLluiK7NVDB3Ur9) | [Real](https://open.spotify.com/album/5if6wXKwPFKHXfjA1TlkD5) | 4:10 |
 | 70 | [Noicanicula](https://open.spotify.com/track/3IalZWzPrxDvh3n2hNBSKI) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H) | [El Ataque del Metano](https://open.spotify.com/album/6hKScNAjmff6t6l2qLCHhL) | 4:10 |
 | 71 | [Coctel Espacial](https://open.spotify.com/track/1JySgFKxTEWqfzoxWZd33U) | [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4) | [Coctel Espacial](https://open.spotify.com/album/4wnzzKCaQ0yYYDVHNV0tBk) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 74 | [Deja](https://open.spotify.com/track/6Kc4xRgbOxNqoVoXIP6h4e) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:31 |
 | 75 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 |
 
-Snapshot ID: `MTY3NjYxMzQ4MCwwMDAwMDAwMGEyYjNkOGI2NzJkZDMxZDg3N2NmZTNhNjhlN2E2ZTg4`
+Snapshot ID: `MTY3NjYxMzQ4MCwwMDAwMDAwMGViMDkzNjFmYmMwZjk0ZTJkOWYyZWM1NmIyYjZlNDVk`

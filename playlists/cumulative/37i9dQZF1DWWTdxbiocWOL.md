@@ -2,9 +2,9 @@
 
 ### [Calm Before the Storm](https://open.spotify.com/playlist/37i9dQZF1DWWTdxbiocWOL)
 
-> Aerial post\-rock sounds to take you somewhere else.
+> Thunder is coming.
 
-89 songs - 10 hr 3 min
+92 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aura Phase](https://open.spotify.com/track/0VjApV6NEpnFPDNbOAhbIP) | [L'Effondras](https://open.spotify.com/artist/7MlGEYuOaC0SzJmAuvjZ4y) | [Anabasis](https://open.spotify.com/album/6d4GLYbbpS40ZljBpSPPq5) | 4:48 | 2021-06-09 | 2022-10-01 |
 | [Balabaristas](https://open.spotify.com/track/0iJhP5gxnbgprXwQOkZD52) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [A Colores](https://open.spotify.com/album/2G1xCfcdhD34iLvclBqfM6) | 6:07 | 2020-10-20\* |  |
 | [Bells Bleed & Bloom](https://open.spotify.com/track/2kL584Ddb8dVjAbga456kZ) | [ef](https://open.spotify.com/artist/4K7elTMrmeEYTE9w1zGP5e) | [Ceremonies](https://open.spotify.com/album/1QxZ4EvWHLFlvfiyhMG5kN) | 8:36 | 2020-10-20\* | 2021-07-02 |
+| [Bloom](https://open.spotify.com/track/4AKNkgtTweGqn1GNffqSnw) | [Ohgod](https://open.spotify.com/artist/4yHMMpyFmpADPocYFtVHDt) | [The Great Silence](https://open.spotify.com/album/43GscsaXmBs0A6vvd7eep9) | 5:01 | 2023-02-28 |  |
 | [Captured Moments](https://open.spotify.com/track/4ckmG9O7QH2qNA67QbDzjk) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Find a Place to Be Safe](https://open.spotify.com/album/7xnGXpy5HE5AbAgshq0wGw) | 4:25 | 2020-10-20\* |  |
 | [Ce que révèle l'éclipse](https://open.spotify.com/track/32ALgQvmpOXfIIPMRDBXG9) | [L'Effondras](https://open.spotify.com/artist/7MlGEYuOaC0SzJmAuvjZ4y) | [Stellar Frequencies Sessions](https://open.spotify.com/album/1Sz7eNhtBzBrhpU1xE3061) | 10:17 | 2022-09-30 |  |
 | [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 3:39 | 2020-10-20\* |  |
@@ -26,6 +27,7 @@
 | [Debutante](https://open.spotify.com/track/0CpaNwilKJGqn9WF6K6aRV) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/3W3aDgjrpZRIO2YKaWMuyJ) | 7:21 | 2021-06-09 | 2022-07-29 |
 | [Debutante](https://open.spotify.com/track/36qrbIHqtbfBYa3l7nUmnT) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/0QFxVcmghKylwoFT6xozzF) | 7:21 | 2022-09-30 |  |
 | [El Odio\. Parte I](https://open.spotify.com/track/60oLFjfjcmDk0qPewtt5Tm) | [Toundra](https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT) | [El Odio\. Parte I](https://open.spotify.com/album/1H3Ps2PV4sNgbpTzZvuinS) | 8:05 | 2021-10-26 |  |
+| [End Credits](https://open.spotify.com/track/421LXKD20JHZEUrJJqK7cg) | [Palms](https://open.spotify.com/artist/73UTl03wWJozyn2hoahK6l) | [Opening Titles / End Credits](https://open.spotify.com/album/0wd7MIcvlfmNLLxkSxGDaJ) | 4:51 | 2023-02-28 |  |
 | [Ether](https://open.spotify.com/track/2mfwBdDf28c24qqKAABkUK) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Ether](https://open.spotify.com/album/7v40ZeGjhUByCeN8GSDbHn) | 5:10 | 2020-10-20\* | 2021-06-09 |
 | [Every Second is a Second Chance](https://open.spotify.com/track/19q3MEth6JSO5PLWtGLhce) | [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ) | [Hooray! For Happiness](https://open.spotify.com/album/711BUAij7FQyF93WPaBuh8) | 6:13 | 2020-10-20\* | 2021-06-09 |
 | [Fanshawe](https://open.spotify.com/track/3kaRUmBVjpS5pcT6JKB1jE) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/1j1FvT4EyX9ZIHKlPnUFRL) | 5:12 | 2020-10-20\* | 2021-06-09 |
@@ -57,7 +59,7 @@
 | [Logic of a Dream](https://open.spotify.com/track/1WQ96gvJgsd3CwxMPEUZYC) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Wilderness](https://open.spotify.com/album/1MUhDxkdqg5IyNYylLu7P8) | 6:37 | 2022-01-17 |  |
 | [Logic Of A Dream](https://open.spotify.com/track/4pp3ilXwxKvWRsDSm3Ld8K) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Logic Of A Dream](https://open.spotify.com/album/5OaYHqiXnYW8tSAmHfOqBZ) | 6:37 | 2020-10-20\* | 2022-07-29 |
 | [Memorial \(feat\. Chelsea Wolfe\)](https://open.spotify.com/track/5Y6u1FBAsYsfUAzBX7ym7k) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Memorial](https://open.spotify.com/album/2169qq2aiycEtmgwEQlwgp) | 3:45 | 2021-06-09 |  |
-| [Mlàdek](https://open.spotify.com/track/1begl8Bjbo8q1eVtr5XGOV) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Empros](https://open.spotify.com/album/2evkzWDPHn96GZ0In9GG1w) | 7:39 | 2020-10-20\* |  |
+| [Mlàdek](https://open.spotify.com/track/1begl8Bjbo8q1eVtr5XGOV) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Empros](https://open.spotify.com/album/2evkzWDPHn96GZ0In9GG1w) | 7:39 | 2020-10-20\* | 2023-03-01 |
 | [Mogwai Fear Satan](https://open.spotify.com/track/39q7Yyr5iD0ajA6ZFw91y7) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team \(Deluxe Edition\)](https://open.spotify.com/album/3sHB5AiFaJEOCAqh3taqGX) | 16:19 | 2021-06-09 | 2022-07-29 |
 | [Mogwai Fear Satan](https://open.spotify.com/track/3v2JDIu7n8DJ83V2pCKyqu) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team \(Deluxe Edition\)](https://open.spotify.com/album/03Oli2dCjoYM5YS4f8R2pd) | 16:19 | 2022-09-30 | 2022-11-13 |
 | [Mogwai Fear Satan](https://open.spotify.com/track/5rVFrWKhJNe1iuGK0BPgTC) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team](https://open.spotify.com/album/0qXr1kAu0GXoFoa55MbrLK) | 16:19 | 2022-01-17 |  |
@@ -72,15 +74,16 @@
 | [Screen Shot](https://open.spotify.com/track/2PzNFF5P9ezfuGpuyHPdyV) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [To Be Kind](https://open.spotify.com/album/1WwiyWxa40PKucRxIKlEVM) | 8:04 | 2021-06-09 | 2022-07-29 |
 | [Silent Flight, Sleeping Dawn \- Remastered](https://open.spotify.com/track/0Dv3M0Ck4n9anoPu1VQ5fU) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Hymn to the Immortal Wind \(Anniversary Edition\)](https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK) | 6:00 | 2022-01-17 |  |
 | [Silent Flight, Sleeping Dawn \- Remastered](https://open.spotify.com/track/77ezg0rqxHTfyMP4COtBHi) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [Hymn to the Immortal Wind \(Anniversary Edition\)](https://open.spotify.com/album/3BOSfrx3jxvAS8zgCs5xL9) | 6:00 | 2021-06-09 | 2022-07-29 |
-| [Sæglópur](https://open.spotify.com/track/3OAf2iksV6MRLzqtUglTDq) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 7:38 | 2022-01-17 |  |
+| [Sæglópur](https://open.spotify.com/track/3OAf2iksV6MRLzqtUglTDq) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/12tw1A9HmwE3MHvPfHhdoP) | 7:38 | 2022-01-17 | 2023-03-01 |
 | [Sæglópur](https://open.spotify.com/track/2KvIO4ew1TGnz1VfTJk49g) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/3sE83l3A58DipFp3EzNLiE) | 8:24 | 2021-06-09 | 2022-07-29 |
 | [Tendresse](https://open.spotify.com/track/4M5fqxO2LsqKA4AJqpduxv) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/5acWZQPiULxgupTkAIdWbw) | 4:12 | 2020-10-20\* | 2021-06-09 |
 | [The Dead Flag Blues](https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [F♯ A♯ ∞](https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5) | 16:27 | 2021-06-09 | 2021-10-27 |
 | [The First Fire](https://open.spotify.com/track/0glEvaWrhIP0boU56o5Q9U) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Red Forest](https://open.spotify.com/album/0i1vP6JtYq4kE3oygILHzk) | 6:30 | 2020-10-20\* |  |
 | [The Landlord Is Dead](https://open.spotify.com/track/5FWLAjPd8HIoJxYfRkHqwT) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Goodbye Enemy Airship The Landlord Is Dead](https://open.spotify.com/album/1SH23Q59wEm5Dyxw2afsm4) | 5:39 | 2021-06-09 | 2022-07-29 |
 | [The Landlord Is Dead](https://open.spotify.com/track/6QXxmGsc0A2PG3alWT5bYi) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Goodbye Enemy Airship The Landlord Is Dead](https://open.spotify.com/album/47JFhOvr0AZIZLpy7BTYWa) | 5:39 | 2022-01-17 | 2022-10-01 |
-| [The Last March](https://open.spotify.com/track/0CpibaJlmN4ZU5MhovLQf7) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Origins](https://open.spotify.com/album/0JWFe9UkBvkDQdkooJdbOi) | 4:43 | 2020-10-20\* |  |
+| [The Last March](https://open.spotify.com/track/0CpibaJlmN4ZU5MhovLQf7) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Origins](https://open.spotify.com/album/0JWFe9UkBvkDQdkooJdbOi) | 4:43 | 2020-10-20\* | 2023-03-01 |
 | [The Longest Journey](https://open.spotify.com/track/2rTLrieV0wgvqoMIE6p23B) | [Walls of Ashes](https://open.spotify.com/artist/5ibjknpzKnUR5s8bidwfCn) | [The Longest Journey](https://open.spotify.com/album/7AckSB2G0cAqKMHjhlRCuy) | 4:40 | 2021-07-02 |  |
+| [The Only Moment We Were Alone](https://open.spotify.com/track/7rQbeL4G2aIYy5VWDumGpR) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 10:14 | 2023-02-28 |  |
 | [The World I Remember](https://open.spotify.com/track/1NKpRhBMGNEBK17cC3G3gx) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [The World I Remember](https://open.spotify.com/album/4dc7dwhwBEpDajRO1PetWG) | 5:31 | 2022-09-30 |  |
 | [The World Is Our \_\_\_](https://open.spotify.com/track/1EKk6Xvei9N9scaQcrax2S) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Young Mountain](https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5) | 7:12 | 2020-10-20\* |  |
 | [They Move on Tracks of Never\-Ending Light](https://open.spotify.com/track/3cIG78oBauowzEbkBwWADN) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 6:56 | 2021-06-09 |  |

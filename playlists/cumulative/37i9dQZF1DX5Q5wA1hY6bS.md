@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-438 songs - 1 day 2 hr 41 min
+439 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 | 2022-05-27 |  |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-05-27 | 2022-07-29 |
 | [Arizona](https://open.spotify.com/track/7hGeRC8nVfXI4a9sC8x8N7) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Arizona](https://open.spotify.com/album/4hiNrZKf4GuN3Djx0ngOkd) | 3:19 | 2019-05-26\* | 2022-06-23 |
-| [As We Ran](https://open.spotify.com/track/5ITmuvjtUUdxVQCCsaKBDx) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/2MeNqK7a04QJIiUgrcX97y) | 3:20 | 2019-05-26\* |  |
+| [As We Ran](https://open.spotify.com/track/5ITmuvjtUUdxVQCCsaKBDx) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/2MeNqK7a04QJIiUgrcX97y) | 3:20 | 2019-05-26\* | 2023-03-01 |
 | [Asshole \- Demo](https://open.spotify.com/track/4jEAQtOfv9yfGYefR48wwE) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Asshole \(Demo\)](https://open.spotify.com/album/7tXZuCdegsmWNLROp3OdrT) | 3:12 | 2019-05-26\* | 2020-06-12 |
 | [At the Party](https://open.spotify.com/track/2PdymseMdXz8eqOXxxTaCM) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [At the Party With My Brown Friends](https://open.spotify.com/album/0N14D9LoMALrUCfyFgkMtb) | 3:54 | 2019-10-22 | 2019-10-24 |
 | [Baby Drugs](https://open.spotify.com/track/2qCBqY9hnIIj1oOLHX3Kzc) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Charlatans At the Garden Gate](https://open.spotify.com/album/1f1xR8TP4O0DmFRZI1Kzmm) | 2:34 | 2020-03-09 | 2020-09-05 |
@@ -113,6 +113,7 @@
 | [Electric Love](https://open.spotify.com/track/0zulYs8vHhhN0hl8wvYgdv) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Candy](https://open.spotify.com/album/3QykM79uWpxMEc3e29D711) | 3:38 | 2019-05-26\* | 2019-12-13 |
 | [Eve's Daughter](https://open.spotify.com/track/3rfio6cKBhgSv4CSv00LoQ) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [To the Sunset](https://open.spotify.com/album/161jerzEynZ47m4SfxSVuW) | 3:10 | 2020-03-09 | 2020-04-14 |
 | [Even in the Tremor](https://open.spotify.com/track/6F4UgWQag8N1fFK1rcqN50) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Even in the Tremor](https://open.spotify.com/album/5j9LqrQ1ngTEJ8vHzk9xSa) | 4:24 | 2020-03-09 | 2020-04-14 |
+| [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2023-02-28 |  |
 | [Everything Changed](https://open.spotify.com/track/75lG0mNxn3YH7MD4qcLkA6) | [Lindsay Lou & the Flatbellys](https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3) | [Ionia](https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ) | 4:05 | 2020-03-09 | 2022-07-28 |
 | [Expectations](https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl) | 3:55 | 2019-10-23 |  |
 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 | 2021-06-19 | 2022-11-13 |

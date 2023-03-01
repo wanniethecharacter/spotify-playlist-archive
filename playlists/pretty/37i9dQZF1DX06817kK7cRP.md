@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,179 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,572 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 99 | [Up the Block \(Live\)](https://open.spotify.com/track/3PVuA7US6N5rOmTpy0tjyv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Undertones \(Live\)](https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw) | 2:48 |
 | 100 | [Golden Age](https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:22 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGZjNDQ0YTNkNzRjOWJjZjc2OTYyNjc0NjU0MjkwZmZl`
+Snapshot ID: `MTY3NzU5OTM1MiwwMDAwMDAwMGE5YWQzYjNiZjY5NWMzYjYzMTExM2VjZDhjZTFiZjk2`

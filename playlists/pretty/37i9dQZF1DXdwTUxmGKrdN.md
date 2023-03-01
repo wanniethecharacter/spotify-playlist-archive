@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,609 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,708 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 99 | [Co\-Motion](https://open.spotify.com/track/7aCzaOsXIRC28tE7bjJ7JK) | [Lemek](https://open.spotify.com/artist/52LGkbSlh5X2HM5hRnL83v) | [Co\-Motion](https://open.spotify.com/album/5nQi9bFWOclcf9zFzJi1qs) | 4:07 |
 | 100 | [Fluid](https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Fluid](https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH) | 4:25 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDY5MTkyYjVlZTlkMzU0YjliMTNlOWI3YzAwNzc1ZDg4`
+Snapshot ID: `MTY3NzU5NDk2MiwwMDAwMDAwMDEzMGFjZjQ3NTcyMjkzNzlhNTNkNTNkNzAxYmVjNzBl`

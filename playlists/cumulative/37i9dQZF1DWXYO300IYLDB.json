@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 305389,
       "name": "Aikotoba - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/4nBjCv2Z5u38dyf5WuVHsl"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 201933,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx"
@@ -802,6 +802,24 @@
       "duration_ms": 263573,
       "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
+    },
+    {
+      "album": {
+        "name": "From My Side",
+        "url": "https://open.spotify.com/album/5qqmp9a4tJjR6vNphVdTYA"
+      },
+      "artists": [
+        {
+          "name": "Somewhere",
+          "url": "https://open.spotify.com/artist/1nDq6lPB8DMpBpnxLFqXO2"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241041,
+      "name": "From My Side",
+      "url": "https://open.spotify.com/track/0MtwU2O5WxNXzE9UeFNqXg"
     },
     {
       "album": {
@@ -2537,7 +2555,7 @@
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 231635,
+      "duration_ms": 235881,
       "name": "This Song -Planxty Irwin-",
       "url": "https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER"
     },
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 234920,
       "name": "walk my life",
       "url": "https://open.spotify.com/track/1uWghGURCsFNleZaOtJwxU"

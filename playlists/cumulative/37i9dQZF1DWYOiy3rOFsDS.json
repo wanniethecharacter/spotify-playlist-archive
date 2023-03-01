@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201829,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
+    },
+    {
+      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -584,7 +602,7 @@
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "date_added": "2023-02-25",
+      "date_added": "2023-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 162209,
@@ -2102,7 +2120,7 @@
           "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
         }
       ],
-      "date_added": "2023-02-25",
+      "date_added": "2023-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 247428,
@@ -3382,7 +3400,7 @@
           "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
         }
       ],
-      "date_added": "2023-02-25",
+      "date_added": "2023-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203761,
@@ -4524,7 +4542,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-01",
       "duration_ms": 156781,
       "name": "Veinte A\u00f1os",
       "url": "https://open.spotify.com/track/70XqvfxgfXusqHIUGmo65X"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,987 likes - 667 songs - 1 day 20 hr 57 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,988 likes - 669 songs - 1 day 21 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -675,5 +675,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 665 | [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 |
 | 666 | [To the Moon](https://open.spotify.com/track/02WFT9dNg31Skl02dPT1ei) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [To the Moon](https://open.spotify.com/album/5T9fiTYrP7eZ6d47VR86Y8) | 2:50 |
 | 667 | [Space Train](https://open.spotify.com/track/0bsWrdyxCwIlttOGkLICTH) | [Spiral Drive](https://open.spotify.com/artist/5wj6rtWtoMYXEppT7Hq07V) | [Space Train](https://open.spotify.com/album/7GGYdBte34n3jsPVcuRkXG) | 3:28 |
+| 668 | [Sunrise \- 2022 Digital Master](https://open.spotify.com/track/0KBzF1rgXLj3LrHGDoGcFr) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Low\-Life \(Definitive\)](https://open.spotify.com/album/1zw2R2jhDJf7BFJMR0aOSq) | 6:00 |
+| 669 | [Elegia \- 2022 Digital Master](https://open.spotify.com/track/7JT81f9I7Jh3FcqnNLQ9xJ) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Low\-Life \(Definitive\)](https://open.spotify.com/album/1zw2R2jhDJf7BFJMR0aOSq) | 4:56 |
 
-Snapshot ID: `MTY5MCwxYzAxMzg3YzE3OTY4MjIxYjk0NDg4MjljMWE2MzRhNDc2MjdmOGI4`
+Snapshot ID: `MTY5MiwyYjA4OTg2NGIyZDg0YzFjYzllYjFkZDUzYTM4YzZhYmY0MjRkNjAw`

@@ -1,13 +1,29 @@
 {
   "description": "New Indie driving the current, every week. Cover: Chiiild, by Ian Woods. ",
-  "num_followers": 25637,
+  "num_followers": 25901,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAxODE3OCwwMDAwMDAwMGNjNzc5NWQ3NjRlMzdhOWVjYTNmNGIzYWMzZTBlNGRk",
+  "snapshot_id": "MTY3NzYwODAxNiwwMDAwMDAwMDQ1OTc4MzQ4NGYwNGJlNzI1ZjM0MGFjZTBhMGU4ZTk4",
   "tracks": [
+    {
+      "added_at": "2023-02-28 18:13:36",
+      "album": {
+        "name": "free flow",
+        "url": "https://open.spotify.com/album/01Fg6wIgT1NDXys8UPTJsK"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 203624,
+      "name": "free flow",
+      "url": "https://open.spotify.com/track/1UxiPpx3EC2SqFmGoqlXOy"
+    },
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {

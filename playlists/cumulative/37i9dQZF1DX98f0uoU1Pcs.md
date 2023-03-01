@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: shame
 
-403 songs - 21 hr 36 min
+404 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Outsah](https://open.spotify.com/track/67lTcyZnBnkZVnU8KcBEnl) | [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI) | [Outsah](https://open.spotify.com/album/5NhvzOeKEqFa4TWtexhmmF) | 1:53 | 2021-10-07 | 2022-04-29 |
 | [Over & Out](https://open.spotify.com/track/76M5por1Z1EIqZQ3K0fA1X) | [Pile of Love](https://open.spotify.com/artist/60iCPCyahHaVV4TvJBD6mL) | [Over & Out](https://open.spotify.com/album/1sikjvOUTHaQYcoPUjC3me) | 2:44 | 2022-10-24 |  |
 | [Paranormaladies](https://open.spotify.com/track/55zbU6Cwjc8un3OgYRUCSU) | [City of Caterpillar](https://open.spotify.com/artist/6zRqJkcK9YW5muISa2kwZR) | [Paranormaladies](https://open.spotify.com/album/1bg6Y8rD4adKAzuBvL609H) | 3:33 | 2022-09-30 | 2023-02-11 |
+| [Pay the Price](https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc) | [Glowing](https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm) | [Pay the Price](https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4) | 3:36 | 2023-03-01 |  |
 | [Peaceful Life](https://open.spotify.com/track/0gq6V1aodhiGhQhpMOZzY7) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [Peaceful Life](https://open.spotify.com/album/1WCP9j9mfD12JT7FpRiQV5) | 2:03 | 2021-10-07 | 2022-12-10 |
 | [Perth Traumatic Stress Disorder](https://open.spotify.com/track/4deF1pg0zExtb7SnbSLXHZ) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [I Love You Like A Brother](https://open.spotify.com/album/5PyPauobzmwT3iWtSjWNvK) | 2:15 | 2021-10-07 | 2022-01-08 |
 | [Pigs Is Pigs](https://open.spotify.com/track/6wOfwjT2TowI9OJEnd07Yw) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Perfect](https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD) | 1:56 | 2022-01-07 | 2022-08-27 |

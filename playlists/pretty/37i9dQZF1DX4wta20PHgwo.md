@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,003,021 likes - 100 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,003,167 likes - 100 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 99 | [Prelude](https://open.spotify.com/track/3nt2gUt7V9Z01aAljXZip2) | [Jacob Roved Quintet](https://open.spotify.com/artist/7GtNzyMUm0JLoKs8XrxqCB), [Jacob Roved](https://open.spotify.com/artist/4NuB9MixMoBdiyfcifI9A7) | [Dawn](https://open.spotify.com/album/6oPbbOKJyk9plm5gyA4psH) | 2:21 |
 | 100 | [I Love Music](https://open.spotify.com/track/6oAni9EYklGVd1ZOLThaW1) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [I Love Music](https://open.spotify.com/album/7222mnyJDInGd0gsVn8GIY) | 4:19 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDRmMjg0NGEyMTE5NzU0NmNlYmUwMDMwMWJhZDFmNWFl`
+Snapshot ID: `MTY3NzU5NDQwMywwMDAwMDAwMDU5ODYyNjk5NDdkMThkNTgwNDk0Y2E3NWU4NjVkZTVl`

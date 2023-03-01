@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Wayne Shorter
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,249 likes - 500 songs - 1 day 15 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,385 likes - 500 songs - 1 day 15 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

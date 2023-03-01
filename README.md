@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5672\)
+## Playlists \(5674\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -1480,7 +1480,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Easy On Saturday](/playlists/pretty/37i9dQZF1DX79N7YUDFu8f.md)
 - [Easy On Sunday](/playlists/pretty/37i9dQZF1DWZpGSuzrdTXg.md)
 - [Easy Rider](/playlists/pretty/37i9dQZF1DX9AnDBiu0P2E.md)
-- [Easy Winter](/playlists/pretty/37i9dQZF1DXdPIbPNr916x.md)
+- [Easy Spring](/playlists/pretty/37i9dQZF1DXdPIbPNr916x.md)
 - [Ecoscapes](/playlists/pretty/37i9dQZF1DWVoK39RtbDqZ.md)
 - [Edge!](/playlists/pretty/37i9dQZF1DX3UWlNiixH0j.md)
 - [Editor's Choice: Fiction](/playlists/pretty/37i9dQZF1DX4jokLVYoXC3.md)
@@ -2596,7 +2596,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Louvores de Natal](/playlists/pretty/37i9dQZF1DX1DeZkoLBQuv.md)
 - [Louça Infinita](/playlists/pretty/37i9dQZF1DWZFKJle6VhNB.md)
 - [Love Back](/playlists/pretty/37i9dQZF1DX1ciKEeRL2zU.md)
-- [Love Ballads: Michael Bublé Takeover](/playlists/pretty/37i9dQZF1DWYMvTygsLWlG.md)
+- [Love Ballads](/playlists/pretty/37i9dQZF1DWYMvTygsLWlG.md)
 - [Love Coffee, Love Jesus](/playlists/pretty/37i9dQZF1DWXKWi9FunemC.md)
 - [Love Deluxe](/playlists/pretty/37i9dQZF1DWVEvzGeX3eRs.md)
 - [Love In Paris](/playlists/pretty/37i9dQZF1DX5SrscLLafXx.md)
@@ -3831,6 +3831,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Songs To Rage To In 2022](/playlists/pretty/37i9dQZF1DX3WhT6PhKtsd.md)
 - [Songs To Test Headphones With](/playlists/pretty/37i9dQZF1DWZtZ8vUCzche.md)
 - [Songs We Rocked Out To](/playlists/pretty/37i9dQZF1DWT3pfwRgyQMA.md)
+- [Songs We Swooned To In 2022](/playlists/pretty/37i9dQZF1DWZoDfksyokHA.md)
 - [Songs of Glory](/playlists/pretty/37i9dQZF1DWVlWpJblBvap.md)
 - [Songs of Salvation](/playlists/pretty/37i9dQZF1DWZ4dtFEnppbd.md)
 - [Songs of Summer](/playlists/pretty/37i9dQZF1DX4zbZrYRGVam.md)
@@ -3904,6 +3905,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Spotify Singles: Stripped](/playlists/pretty/37i9dQZF1DXdFhiq9L31be.md)
 - [Spotlight: The Juggernaut](/playlists/pretty/37i9dQZF1DWWxJ7o7YYYQA.md)
 - [Spread the Gospel](/playlists/pretty/37i9dQZF1DX7OIddoQVdRt.md)
+- [Spring Classical Japan](/playlists/pretty/37i9dQZF1DXcUv9n7At27D.md)
 - [Spring Garden](/playlists/pretty/6YMK6nqc1jS11fGraCU1o2.md)
 - [Spring Loaded](/playlists/pretty/37i9dQZF1DWTLlRxFAxbpj.md)
 - [Spécial soleil](/playlists/pretty/37i9dQZF1DXcEdamGPOi1T.md)
@@ -5262,7 +5264,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Winter '23](/playlists/pretty/37i9dQZF1DXcx1szy2g67M.md)
 - [Winter Acoustic](/playlists/pretty/37i9dQZF1DWUNIrSzKgQbP.md)
 - [Winter Classical](/playlists/pretty/37i9dQZF1DX0ynPp7KaiSY.md)
-- [Winter Classical Japan](/playlists/pretty/37i9dQZF1DXcUv9n7At27D.md)
 - [Witch House Nights](/playlists/pretty/7LBFMuT8Ool5VxAbDMWjtA.md)
 - [With Love, A Changemaker](/playlists/pretty/37i9dQZF1DWZdp0QTOUSvS.md)
 - [With Love, A Storyteller](/playlists/pretty/37i9dQZF1DWSqkyNSQUvSz.md)
@@ -5689,6 +5690,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [想愛就愛](/playlists/pretty/37i9dQZF1DWVrewvmoU2pr.md)
 - [我的微醺夜](/playlists/pretty/37i9dQZF1DWU2UWGeVtJ2M.md)
 - [新海誠 音楽の扉 \- Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
+- [映画ドラえもん \-Doraemon The Movie\-](/playlists/pretty/37i9dQZF1DWUVNUz8WZk9Y.md)
 - [昭和仮面ライダー](/playlists/pretty/37i9dQZF1DX6w9umnoLA0o.md)
 - [暖心情歌](/playlists/pretty/37i9dQZF1DX7pGtIaS1UoB.md)
 - [梶浦由記 Yuki Kajiura Works](/playlists/pretty/37i9dQZF1DXaYP4U0VPZgc.md)

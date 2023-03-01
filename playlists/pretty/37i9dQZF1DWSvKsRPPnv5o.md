@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 03 Greedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,523 likes - 55 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,718 likes - 55 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 10 | [Chaka Khan \(feat\. BabyTron\)](https://open.spotify.com/track/33ydbei58nqa2j621WAU5B) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Born To Score](https://open.spotify.com/album/6Nm7qcEY3GsDfOt7Nj6iY3) | 3:05 |
 | 11 | [Limoncello](https://open.spotify.com/track/1yIJZPDmD1HwxR6SJYYQWA) | [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:34 |
 | 12 | [Action](https://open.spotify.com/track/2Ed3C4ZFO2SK8A4mnJSdMQ) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Action](https://open.spotify.com/album/6rF7J2uPfRwVlpwxsG7OLc) | 2:27 |
-| 13 | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \- Trailer Anthem](https://open.spotify.com/track/21wkixaulehrFctAvEhvQl) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \[Trailer Anthem\]](https://open.spotify.com/album/1DfDXWmnmfnqHmPbvgPhWc) | 3:11 |
+| 13 | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \- Trailer Anthem](https://open.spotify.com/track/0sKJExQWRKxd76gSSwrsaI) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [Let's Ride \(feat\. YG, Ty Dolla $ign, Lambo4oe\) \[Trailer Anthem\]](https://open.spotify.com/album/2gtzhUrfhH4VsoiWeQqSmX) | 2:27 |
 | 14 | [My Favorite](https://open.spotify.com/track/19cBwH3rKyAySF3WaFLtN7) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [My Favorite](https://open.spotify.com/album/1oleEyTyiPpY0FTXbC6YcT) | 1:54 |
 | 15 | [K Mode](https://open.spotify.com/track/2WhIUdbhctqMIEu9UpqRqQ) | [RBE](https://open.spotify.com/artist/05VIB0QOmnNMM0fvG1UYvt), [Sneakk](https://open.spotify.com/artist/1OoCNcMF4htuDnnHYPuTbF), [Yhung T.O.](https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l) | [K Mode](https://open.spotify.com/album/679MeyfhrJG6EIfBXiFV6V) | 2:14 |
 | 16 | [Every Night \(with Baby Money\)](https://open.spotify.com/track/7q1pTqYaDoDiRVIoejwaI9) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Every Night \(with Baby Money\)](https://open.spotify.com/album/5hg0NN87i3dGPpVQFOoN9f) | 2:10 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 54 | [1st Day of School](https://open.spotify.com/track/0GQ4pqjCYn5WTENwjb7eCJ) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [1st Day of School](https://open.spotify.com/album/7gXrFNnD9NopmuacVt0r7s) | 2:30 |
 | 55 | [Name Ring Bells](https://open.spotify.com/track/60isa06LcZlUAaPsWKhuov) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [88thagang](https://open.spotify.com/artist/1m3X5E8NvaHIKLTk1xf2af) | [Name Ring Bells](https://open.spotify.com/album/2ymHsWePPtAKBAnlLdaFCq) | 3:08 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGIwNWViNzM0Mzk3NTg5OTU4ZjRlY2VmYjM1ZjhlODk2`
+Snapshot ID: `MTY3NzYyNTk3NiwwMDAwMDAwMGM2YWZmM2RlYWE4NGY4OTUwNTNiMzhhM2Y2M2NiODY5`

@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: WOODZ",
-  "num_followers": 738757,
+  "num_followers": 738951,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzQ3NDA2NiwwMDAwMDAwMDFhMWYwMWFiZGFkZDgxYmY4Zjk0MDVhMmYwMTMyNTYz",
+  "snapshot_id": "MTY3NzU1NjI4MSwwMDAwMDAwMDVhZTZmYWE5NjViZjZiNmI2OWM3MzhiMDMyZmYwOWU2",
   "tracks": [
+    {
+      "added_at": "2023-02-28 03:51:21",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI"
+    },
     {
       "added_at": "2023-02-23 06:50:12",
       "album": {
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-02-23 06:50:12",
       "album": {
-        "name": "chrOme arts",
-        "url": "https://open.spotify.com/album/6nYQ1nUIKWEhxW7fn4JMiI"
-      },
-      "artists": [
-        {
-          "name": "OnlyOneOf",
-          "url": "https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "chrOme arts",
-      "url": "https://open.spotify.com/track/3xcCp9Q4YTiCqynB9ws6Ei"
-    },
-    {
-      "added_at": "2023-02-23 06:50:12",
-      "album": {
         "name": "H1-KEY 1st Mini Album [Rose Blossom]",
         "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
       },
@@ -799,26 +799,6 @@
       "duration_ms": 232960,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
-    },
-    {
-      "added_at": "2023-02-23 06:50:12",
-      "album": {
-        "name": "Groove Missing",
-        "url": "https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0"
-      },
-      "artists": [
-        {
-          "name": "J.Y. Park",
-          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 212054,
-      "name": "Groove Back (Feat. Gaeko)",
-      "url": "https://open.spotify.com/track/6ee02p5ioFpkeKDdDGOhkJ"
     },
     {
       "added_at": "2023-02-23 06:50:12",
