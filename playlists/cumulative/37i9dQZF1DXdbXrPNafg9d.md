@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: U.S\. Girls
 
-4,871 songs - 11 day 21 hr 52 min
+4,872 songs - 11 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4722,7 +4722,8 @@
 | [WISH U PICKED ME…](https://open.spotify.com/track/1jL1WlEx5i1mLxrNpYxN8Y) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [19 MASTERS](https://open.spotify.com/album/71XSXeqU8507mW0raHyeUN) | 2:45 | 2022-06-10 | 2022-07-16 |
 | [Wish You Well](https://open.spotify.com/track/7KuSHOqPEgLzE8UwSoaKX1) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Wish You Well](https://open.spotify.com/album/7DllxBuh4dcjrORcKNkyQf) | 2:46 | 2022-08-19 | 2022-09-24 |
 | [Wish You Were Gay](https://open.spotify.com/track/4suMbpl3KKlF1RokG5m1D4) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Wish You Were Gay](https://open.spotify.com/album/1JV6u7gohGqAl8x8Rt4DRa) | 3:11 | 2019-06-14 | 2019-06-28 |
-| [Wished Well \- Suicideyear Remix](https://open.spotify.com/track/1n6SOTzvWH1NYZvbCmtcLP) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [Wished Well \(Suicideyear Remix\)](https://open.spotify.com/album/182XHSQkvpGMjg4eKqzzcP) | 2:03 | 2023-02-03 |  |
+| [Wished Well \- Suicideyear Remix](https://open.spotify.com/track/1n6SOTzvWH1NYZvbCmtcLP) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [Wished Well \(Suicideyear Remix\)](https://open.spotify.com/album/182XHSQkvpGMjg4eKqzzcP) | 2:03 | 2023-02-03 | 2023-03-02 |
+| [Wished Well \- Suicideyear Remix](https://open.spotify.com/track/1orveLLt5XH5CBqxKHlFKD) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [Held My Gaze \(Remixes\)](https://open.spotify.com/album/2eEH9o5I41b5wTeUnvqiZj) | 2:03 | 2023-02-03 |  |
 | [Witches](https://open.spotify.com/track/7loJvOYgnlWmVzWARmdAyc) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho) | 2:48 | 2020-03-27 | 2020-05-01 |
 | [Witching Hour](https://open.spotify.com/track/5MnffGHyT1gTLB0N28BaU0) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Witching Hour](https://open.spotify.com/album/3qTkQ4C9JnCwvqyUlp6sDZ) | 3:13 | 2020-02-14 | 2020-03-27 |
 | [With A Smile](https://open.spotify.com/track/4JRKR13F5P0yRvRCh3R7MC) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita](https://open.spotify.com/album/0EYeCdEufuv5e94Vxd75rn) | 2:56 | 2020-10-02 | 2020-10-24 |

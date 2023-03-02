@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! RBD en portada.
 
-179 songs - 9 hr 10 min
+180 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,11 +121,12 @@
 | [Party, Humo y Alcohol](https://open.spotify.com/track/4PsWkgvetxEeApf3RBHDbV) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Party, Humo y Alcohol](https://open.spotify.com/album/21rWMBXCHKtTwBKG8NlTzc) | 3:36 | 2022-02-04 | 2022-02-19 |
 | [Pasajero](https://open.spotify.com/track/6EBd69hWC96BKJ0Ts92riX) | [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [Pasajero](https://open.spotify.com/album/5DGSn1ipSRxFMgleIALTXL) | 2:52 | 2022-03-11 | 2022-05-20 |
 | [Pase Lo Que Pase](https://open.spotify.com/track/3oVkYxmpw1VZcLumrMNywZ) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Pase Lo Que Pase](https://open.spotify.com/album/0xZEnws967dqNnWQ7YjqqY) | 3:05 | 2022-02-18 | 2022-07-22 |
-| [Pasos de Gigante](https://open.spotify.com/track/6DlhPEHyYrrZCs9rTIz6ho) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Pasos de Gigante](https://open.spotify.com/album/2hHyswHGfr2UQ1jdVUlMsP) | 3:41 | 2022-10-31 | 2023-02-28 |
+| [Pasos de Gigante](https://open.spotify.com/track/6DlhPEHyYrrZCs9rTIz6ho) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Pasos de Gigante](https://open.spotify.com/album/2hHyswHGfr2UQ1jdVUlMsP) | 3:41 | 2022-10-31 |  |
 | [Pensando En Ti](https://open.spotify.com/track/0DA7ylqBTevQpc5ytIkaF6) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Ciencia Fricción](https://open.spotify.com/album/5tHACDBVaSJ1j9np1vAmsF) | 2:50 | 2022-07-26 | 2022-11-02 |
 | [Pereza](https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Pereza](https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB) | 3:09 | 2022-07-29 | 2022-12-25 |
 | [Perreito](https://open.spotify.com/track/0CukGWJFEpaiQYic5R1iMq) | [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl) | [Prezea](https://open.spotify.com/album/56GTiqI6vHTARWl7nkGusX) | 2:56 | 2022-02-04 | 2022-06-08 |
-| [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 | 2023-02-24 |  |
+| [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 | 2023-02-24 |  |
+| [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 | 2023-02-24 | 2023-03-02 |
 | [Por ti](https://open.spotify.com/track/1bgpFTASKqTZiBXjM3somT) | [Famasloop](https://open.spotify.com/artist/0XHiwpimzCx4fWUdtniRC7) | [Lo Más Seguro Es Que Quién Sabe](https://open.spotify.com/album/6wSMFRm8HwZI7ygxo0zS0L) | 3:31 | 2022-09-23 | 2022-12-03 |
 | [Psycho B\*\*ch](https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Psycho B\*\*ch](https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u) | 2:47 | 2022-11-14 |  |
 | [Put Your Money](https://open.spotify.com/track/6SKIDMQzzPqT348oFTVr0N) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW) | [JUMP](https://open.spotify.com/album/08UCL77Bqi7KC6XSjkVgLN) | 3:18 | 2022-05-20 | 2022-05-31 |
@@ -152,7 +153,7 @@
 | [Sintonía](https://open.spotify.com/track/04XUVNDGZlQu4XcgzdD5GD) | [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP) | [Sintonía](https://open.spotify.com/album/5e2KDtyqG9lZiT8IoVXbeA) | 2:50 | 2022-04-22 | 2022-05-04 |
 | [Sirena](https://open.spotify.com/track/24qPSsYbHn9NzeDde6tIg7) | [Isabella de la Torre "La Bala"](https://open.spotify.com/artist/1KSyJ6T61RxbnR3ksp5Ehp) | [Sirena](https://open.spotify.com/album/75D1TCWnX5TMNPcNvO8Uzp) | 3:26 | 2022-02-18 | 2022-07-11 |
 | [Solita En La Playa](https://open.spotify.com/track/1UHDeQzIBBiAMXFWuUTq1X) | [Sofía Blumer](https://open.spotify.com/artist/7ph2lA8aukTsX8JkgjjdZ2) | [Solita En La Playa](https://open.spotify.com/album/5eBEN4WWl8Y6HdwTACmWta) | 3:10 | 2022-04-22 | 2022-07-01 |
-| [Solo Quédate en Silencio](https://open.spotify.com/track/5tHlx87NpprW9FXF1jweH5) | [Rebelde la Serie](https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj), [Giovanna Grigio](https://open.spotify.com/artist/3xp09DOSzWRRJlxzWzomrh), [Alejandro Puente](https://open.spotify.com/artist/2ekFBWXVFLI1uzH9AMj3Lg) | [Rebelde la Serie \(Official Soundtrack\)](https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS) | 3:22 | 2022-02-04 |  |
+| [Solo Quédate en Silencio](https://open.spotify.com/track/5tHlx87NpprW9FXF1jweH5) | [Rebelde la Serie](https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj), [Giovanna Grigio](https://open.spotify.com/artist/3xp09DOSzWRRJlxzWzomrh), [Alejandro Puente](https://open.spotify.com/artist/2ekFBWXVFLI1uzH9AMj3Lg) | [Rebelde la Serie \(Official Soundtrack\)](https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS) | 3:22 | 2022-02-04 | 2023-03-02 |
 | [Solteras](https://open.spotify.com/track/3NNOr3YRkdiYF1Jvfq8Nin) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Solteras](https://open.spotify.com/album/2JKecMPRulCP3h0Xn42P8N) | 2:14 | 2023-02-10 | 2023-02-25 |
 | [SOS](https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [SOS](https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH) | 3:02 | 2023-02-03 |  |
 | [Suerte](https://open.spotify.com/track/2TIKfPzyuQ2X1SnAv5PvUQ) | [Martinez](https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy) | [Suerte](https://open.spotify.com/album/7oggcTW87RNFibNUQLi1hB) | 3:00 | 2022-02-04 | 2022-06-01 |

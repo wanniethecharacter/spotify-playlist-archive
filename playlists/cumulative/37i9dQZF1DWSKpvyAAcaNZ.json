@@ -3910,10 +3910,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 215912,
       "name": "The Hurricane's Eye",
       "url": "https://open.spotify.com/track/1EAuRuC7lIgIVLwXaZoHLo"
+    },
+    {
+      "album": {
+        "name": "Red Bird",
+        "url": "https://open.spotify.com/album/5stp2zzBVUCwusper8vGI9"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215912,
+      "name": "The Hurricane's Eye",
+      "url": "https://open.spotify.com/track/5u3Ix27LxPWXQsOdigfTga"
     },
     {
       "album": {

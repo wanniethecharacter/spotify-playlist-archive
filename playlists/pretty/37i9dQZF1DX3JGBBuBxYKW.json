@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 79881,
+  "num_followers": 79902,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGViYjkyZWQxZmVjMTExN2Y3ZGE1YTEwYzBlMGU1NGM1",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDRlMGExNDFjNDIyZGNjYjBkYmJkMGJlMzAyN2Q2Y2Nj",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Viru Kumbieron",
-        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 250439,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 166736,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Viru Kumbieron",
+        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 250439,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "En Peligro de Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 221823,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Miau",
         "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 196706,
       "name": "Metrosexual",
       "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "En Peligro de Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 221823,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Si hay alguien en tu vida",
-        "url": "https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 231280,
-      "name": "Si Tu Te Vas",
-      "url": "https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Amandititita",
         "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 198413,
       "name": "La Muy Muy - (Album Version)",
       "url": "https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Si hay alguien en tu vida",
+        "url": "https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 231280,
+      "name": "Si Tu Te Vas",
+      "url": "https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3"
-      },
-      "artists": [
-        {
-          "name": "Lia Crucet",
-          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/0zWv4SB4NLDHZeTQPJpfZs"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Ya No Cabes en Mi Vida",
         "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 211489,
       "name": "Ya No Cabes en Mi Vida",
       "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3"
+      },
+      "artists": [
+        {
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/0zWv4SB4NLDHZeTQPJpfZs"
     },
     {
       "added_at": "2023-02-10 03:00:00",

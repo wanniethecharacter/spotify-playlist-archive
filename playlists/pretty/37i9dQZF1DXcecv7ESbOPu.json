@@ -1,6 +1,6 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 195253,
+  "num_followers": 195259,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
@@ -563,7 +563,7 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
+        "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
         "url": "https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL"
       },
       "artists": [
@@ -572,16 +572,16 @@
           "url": "https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW"
         },
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
           "name": "347aidan",
           "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
       "duration_ms": 147025,
-      "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
+      "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
     },
     {
@@ -1407,7 +1407,7 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Shades Of Love (feat. The Joy)",
+        "name": "Shades Of Love (feat. The Joy) [Edit]",
         "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
       },
       "artists": [

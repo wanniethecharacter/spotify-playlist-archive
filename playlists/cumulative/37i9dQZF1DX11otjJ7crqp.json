@@ -644,10 +644,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 164618,
       "name": "28",
       "url": "https://open.spotify.com/track/4x83cYbV42NT0z1QkTj4TN"
+    },
+    {
+      "album": {
+        "name": "Best Friend Breakup",
+        "url": "https://open.spotify.com/album/6mF1bVrioCxksnRBHUN7Ej"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164618,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5E1A7q6QL34ex6B3MQa91s"
     },
     {
       "album": {
@@ -31811,7 +31829,7 @@
     },
     {
       "album": {
-        "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
+        "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
         "url": "https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL"
       },
       "artists": [
@@ -31820,19 +31838,19 @@
           "url": "https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW"
         },
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
           "name": "347aidan",
           "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 147025,
-      "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
+      "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
     },
     {

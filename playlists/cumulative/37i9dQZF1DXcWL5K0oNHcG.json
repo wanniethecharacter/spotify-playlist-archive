@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Gecko&Tokage Parade Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Joabe Reis Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -3753,6 +3753,28 @@
     },
     {
       "album": {
+        "name": "constellations",
+        "url": "https://open.spotify.com/album/3tXcqoG6fMJQciSTv0wGGC"
+      },
+      "artists": [
+        {
+          "name": "JaRon Marshall",
+          "url": "https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211395,
+      "name": "constellations",
+      "url": "https://open.spotify.com/track/1GCJZ0gIDc4XtWco9Jp9fA"
+    },
+    {
+      "album": {
         "name": "Eixo do Jazz Ensemble Meets M\u00e1rio Laginha",
         "url": "https://open.spotify.com/album/4N6GJRwFB6xoMP0rT5stWl"
       },
@@ -6234,7 +6256,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 550922,
       "name": "Forward Thinker - Nuovi Fratelli Cosmic Disco Remix",
       "url": "https://open.spotify.com/track/77KUswT8DVzxHYS1AScyON"
@@ -6304,7 +6326,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 422065,
       "name": "Fourth Right",
       "url": "https://open.spotify.com/track/696Hdt8SckPelWFrAnEzvZ"
@@ -7445,6 +7467,24 @@
     },
     {
       "album": {
+        "name": "I've Found a New Baby",
+        "url": "https://open.spotify.com/album/4uYLmWfHbS53asRsg8rEjD"
+      },
+      "artists": [
+        {
+          "name": "Mulo Francel",
+          "url": "https://open.spotify.com/artist/4ZfWg40EXHfCUiXHOIfRsI"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247973,
+      "name": "I've Found a New Baby",
+      "url": "https://open.spotify.com/track/57225qPFGFLt8MTI10FohE"
+    },
+    {
+      "album": {
         "name": "IAT",
         "url": "https://open.spotify.com/album/0vXpPJReKxn8SYJi8Wo4Mm"
       },
@@ -8062,7 +8102,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 305493,
       "name": "Is It You",
       "url": "https://open.spotify.com/track/2OtgGnqV7YAIUOvBC9joCW"
@@ -8138,6 +8178,48 @@
       "duration_ms": 182081,
       "name": "It Funks",
       "url": "https://open.spotify.com/track/025e8Tl2g33pAAQjedWg9Z"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/4whkpZK8Z0zdNXJSb33Srn"
+      },
+      "artists": [
+        {
+          "name": "Udi Shlomo",
+          "url": "https://open.spotify.com/artist/3x9Pa86pQ8yQ4XcvsuDgGu"
+        },
+        {
+          "name": "Eirik Hegdal",
+          "url": "https://open.spotify.com/artist/0vpFpz2uvSad2YbwzPX3U3"
+        },
+        {
+          "name": "Omri Abramov",
+          "url": "https://open.spotify.com/artist/6f5MKCIiP2EdmXksSzqKVo"
+        },
+        {
+          "name": "Oscar Andreas Haug",
+          "url": "https://open.spotify.com/artist/26LBjI4jymy7Yry7qi5kB1"
+        },
+        {
+          "name": "Moshe Elmakias",
+          "url": "https://open.spotify.com/artist/1J22wLDqobeR19lXM098gx"
+        },
+        {
+          "name": "Andreas Svab\u00f8",
+          "url": "https://open.spotify.com/artist/24S9znel3c0JTEyiEjfkzV"
+        },
+        {
+          "name": "Kyrre Laastad",
+          "url": "https://open.spotify.com/artist/0FAH0nDPOzfrl7und4muMW"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550680,
+      "name": "It's Alright Now - Alternative Take",
+      "url": "https://open.spotify.com/track/6NnGlLwv2UbvpwwA3bGGoL"
     },
     {
       "album": {
@@ -10911,6 +10993,24 @@
     },
     {
       "album": {
+        "name": "Montana",
+        "url": "https://open.spotify.com/album/3JoJEaRYQQB31ymbeNilpg"
+      },
+      "artists": [
+        {
+          "name": "The Funky Knuckles",
+          "url": "https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/6ct4nGTgyZEa8dV2jmLBaZ"
+    },
+    {
+      "album": {
         "name": "Montsouris",
         "url": "https://open.spotify.com/album/48120Oy65ceVY3KMJsuRzW"
       },
@@ -12565,6 +12665,56 @@
     },
     {
       "album": {
+        "name": "Partido Alto",
+        "url": "https://open.spotify.com/album/7he2s9yl13xyhx7Zs4BnHp"
+      },
+      "artists": [
+        {
+          "name": "Joabe Reis",
+          "url": "https://open.spotify.com/artist/1JiLPWNdWWRYIkMfh4m2PK"
+        },
+        {
+          "name": "Agenor de Lorenzi",
+          "url": "https://open.spotify.com/artist/08tzQH6xIsbJxxq4hNygPG"
+        },
+        {
+          "name": "Bob Mintzer",
+          "url": "https://open.spotify.com/artist/2yKX1WpgVIxOJbwBbFwqQ0"
+        },
+        {
+          "name": "Daniel Pinheiro",
+          "url": "https://open.spotify.com/artist/621ldIdMOskFO8bAxEhi17"
+        },
+        {
+          "name": "Gabriel Grossi",
+          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
+        },
+        {
+          "name": "Josue Lopez",
+          "url": "https://open.spotify.com/artist/0mhi3HqBVORAmDbKFQNkJA"
+        },
+        {
+          "name": "Michael Pipoquinha",
+          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
+        },
+        {
+          "name": "Sidmar Vieira",
+          "url": "https://open.spotify.com/artist/13yenubT6mQJO3m6uDQTiN"
+        },
+        {
+          "name": "U-Nam",
+          "url": "https://open.spotify.com/artist/2zZfDVGDSqHQTeITZzJRqs"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393973,
+      "name": "Partido Alto",
+      "url": "https://open.spotify.com/track/0yWjwwFnycb86QbTsDWw33"
+    },
+    {
+      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/5iFfYT7tGBZivFrlT3tEh5"
       },
@@ -14199,6 +14349,32 @@
     },
     {
       "album": {
+        "name": "Secondo",
+        "url": "https://open.spotify.com/album/7oJ1XC8Bd9jQqFKgxAFG7o"
+      },
+      "artists": [
+        {
+          "name": "Michel Bisceglia",
+          "url": "https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC"
+        },
+        {
+          "name": "Marc Lehan",
+          "url": "https://open.spotify.com/artist/0QMgOp0gF1fxA5egCXg96G"
+        },
+        {
+          "name": "Werner Lauscher",
+          "url": "https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369564,
+      "name": "Secondo",
+      "url": "https://open.spotify.com/track/5upRxHx2LZDhunpfUiShhU"
+    },
+    {
+      "album": {
         "name": "Secret No. 3",
         "url": "https://open.spotify.com/album/73HtZcmE45oWAjxBZrTAbI"
       },
@@ -15456,7 +15632,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 176149,
       "name": "Still Not In Space",
       "url": "https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI"
@@ -17644,7 +17820,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 533748,
       "name": "Thursday Surrender",
       "url": "https://open.spotify.com/track/3Bqy1xr2AcpaDW3r92bEWK"
@@ -19130,7 +19306,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 339757,
       "name": "Why Should We Care",
       "url": "https://open.spotify.com/track/1N5P9bFKXgUiwRzNrI7Enb"

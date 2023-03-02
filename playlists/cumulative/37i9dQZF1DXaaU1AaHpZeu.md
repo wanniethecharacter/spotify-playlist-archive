@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. En portada: Mitú.
 
-1,834 songs - 4 day 7 hr 35 min
+1,835 songs - 4 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1336,7 +1336,8 @@
 | [Plaza Mafalda](https://open.spotify.com/track/2BJnYSXBjxMpFXNPPXwztS) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [Plaza Mafalda](https://open.spotify.com/album/4DI9hNINzGd67XxEFytbiw) | 3:03 | 2022-10-14 | 2022-10-22 |
 | [PODER \- Lilith: 6](https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo) | [MARÍA](https://open.spotify.com/artist/0L26KOsNaEDlbjWUUSWcZ3), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [PODER \- Lilith: 6](https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S) | 3:11 | 2022-04-29 | 2022-05-14 |
 | [Podría Parar de Pensar](https://open.spotify.com/track/10W221avg6N9YKrBr3dMmf) | [Sienna](https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA) | [Podría Parar de Pensar](https://open.spotify.com/album/4KbmpyQSdAdt5kZ2ndFOs4) | 3:19 | 2022-10-14 | 2022-10-22 |
-| [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 | 2023-02-24 |  |
+| [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 | 2023-02-24 |  |
+| [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 | 2023-02-24 | 2023-03-02 |
 | [Polifomo](https://open.spotify.com/track/2MHGjwzYzDqZfxkMY8lqk3) | [Bruno Albano](https://open.spotify.com/artist/5SPn97xEYlWyf9SYzzD731) | [Polifomo](https://open.spotify.com/album/4fWHXLDyaMl30t6o1vzxJi) | 3:04 | 2022-04-15 | 2022-04-23 |
 | [Polvo Cósmico](https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Polvo Cósmico](https://open.spotify.com/album/4cpzYWDTQ1kLjSnDnD1qrY) | 4:01 | 2022-03-25 | 2022-04-09 |
 | [Pompeya](https://open.spotify.com/track/2RxdVDO1tLmJKtHOWuDYT7) | [Lisboa](https://open.spotify.com/artist/0XUGMV6jNYjZdu9WYZCfsQ), [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY) | [Pompeya](https://open.spotify.com/album/6i80Sv5CCN5FO3PiQHgeoU) | 2:29 | 2022-07-29 | 2022-08-13 |

@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177067,
+      "name": "10 Toes (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
+    },
+    {
+      "album": {
         "name": "Heating Up",
         "url": "https://open.spotify.com/album/4ZTBDp6mTXBEn2GkJNBBgo"
       },
@@ -74,7 +96,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 244615,
       "name": "Abena",
       "url": "https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu"
@@ -802,7 +824,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-29",
+      "date_removed": null,
       "duration_ms": 221059,
       "name": "Bluffin",
       "url": "https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH"
@@ -1337,6 +1359,28 @@
     },
     {
       "album": {
+        "name": "Matter Of Time II",
+        "url": "https://open.spotify.com/album/7wqVMzE8uRN0DKnMMU3GMC"
+      },
+      "artists": [
+        {
+          "name": "Yung Mavu",
+          "url": "https://open.spotify.com/artist/6lVRinYmZqt7NFNPZHx0TP"
+        },
+        {
+          "name": "Chuki Beats",
+          "url": "https://open.spotify.com/artist/3I2KQWCAh5aOh1YJ62LIlQ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151227,
+      "name": "Clear This Sometime",
+      "url": "https://open.spotify.com/track/0XLFIYfCuUOBolcHoUi7Uz"
+    },
+    {
+      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/1MgzDNkOWFOnnJwbrBVolY"
       },
@@ -1448,7 +1492,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 156545,
       "name": "Come Online (feat. King Promise & Diquenza) - Remix",
       "url": "https://open.spotify.com/track/4si8WMTSHD5k9WP5DgV7ye"
@@ -1760,7 +1804,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 180624,
       "name": "Curvy Waistline",
       "url": "https://open.spotify.com/track/1wAMqAnW9HooAIJbbLddGw"
@@ -1976,7 +2020,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 198280,
       "name": "DesignerBoy",
       "url": "https://open.spotify.com/track/5TWJIdt1LdQJ5w66jYpNnd"
@@ -2196,7 +2240,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 199000,
       "name": "Drogba (Joanna)",
       "url": "https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi"
@@ -2624,7 +2668,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 199591,
       "name": "Flex",
       "url": "https://open.spotify.com/track/4Bozf61W7Tv1Vyp18kLZy1"
@@ -2966,7 +3010,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6"
@@ -3408,7 +3452,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 224640,
       "name": "Iskaba",
       "url": "https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX"
@@ -3620,7 +3664,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 164135,
       "name": "Karma Riddim",
       "url": "https://open.spotify.com/track/3ilMKDKPxTeboM0BpXPyjk"
@@ -3646,7 +3690,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189201,
       "name": "Keep On Going",
       "url": "https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA"
@@ -3923,6 +3967,24 @@
     },
     {
       "album": {
+        "name": "LEADER!",
+        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141711,
+      "name": "LEADER!",
+      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
+    },
+    {
+      "album": {
         "name": "Life Is Eazi, Vol. 1 - Accra To Lagos",
         "url": "https://open.spotify.com/album/6vvcUJ4tlCObKG1PARtRpZ"
       },
@@ -4028,6 +4090,28 @@
       "duration_ms": 179737,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU"
+    },
+    {
+      "album": {
+        "name": "Looking for Somebody",
+        "url": "https://open.spotify.com/album/3V3asywN4oLR2McSuXD6gk"
+      },
+      "artists": [
+        {
+          "name": "Angelo King",
+          "url": "https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169170,
+      "name": "Looking for Somebody",
+      "url": "https://open.spotify.com/track/5D6rGaauri3oyZAXM5V2q2"
     },
     {
       "album": {
@@ -4200,7 +4284,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 216092,
       "name": "LowKey (feat. Jayd Ink) - Charly Black Remix",
       "url": "https://open.spotify.com/track/3XQvocnKfdOlLYpe78kzxl"
@@ -4218,7 +4302,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 217733,
       "name": "Lupita",
       "url": "https://open.spotify.com/track/0ibShYbjMMERrW91r5VyoT"
@@ -4598,7 +4682,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Middle of the Night",
       "url": "https://open.spotify.com/track/4oJyts0kE96tUG8ddpnXrD"
@@ -4730,7 +4814,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 148761,
       "name": "Morning",
       "url": "https://open.spotify.com/track/4gO59qwXs3VmC9L6Ky1KrD"
@@ -5238,7 +5322,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 185081,
       "name": "Nobody Like You",
       "url": "https://open.spotify.com/track/1OxuUFo0lRwfWU2bm8nvRY"
@@ -5260,7 +5344,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 212482,
       "name": "Not Over It",
       "url": "https://open.spotify.com/track/5vYWYCPdD6BqOy5hDYuCAi"
@@ -5368,7 +5452,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 223846,
       "name": "One Night",
       "url": "https://open.spotify.com/track/6mrs3TiZ3fnUnJu72OkCrG"
@@ -6116,7 +6200,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 165776,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/1fiXFwKNKcTRFBeR9wlKhB"
@@ -6192,7 +6276,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 154582,
       "name": "Set It",
       "url": "https://open.spotify.com/track/4lyJX3Yn9c2IpUUwrfQhyO"
@@ -6420,7 +6504,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "So Nice",
       "url": "https://open.spotify.com/track/1lCc5XcnnKHsSaCKDngvM4"
@@ -6472,7 +6556,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 255608,
       "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
       "url": "https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD"
@@ -6618,7 +6702,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195951,
       "name": "Str3a",
       "url": "https://open.spotify.com/track/4Ytdb0MtQht8jcSnL4B0d5"
@@ -6640,7 +6724,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176121,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/4Qsouk5Vp4MxmHbigrZUKL"
@@ -7556,7 +7640,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 214016,
       "name": "Unite",
       "url": "https://open.spotify.com/track/4gOWmUEtOo9UV8xpHbesPG"
@@ -7590,7 +7674,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238747,
       "name": "Valid\u00e9",
       "url": "https://open.spotify.com/track/35vXOZ12RvGtjyTcVEWlIo"

@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 115902,
+  "num_followers": 115960,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4NDE2NSwwMDAwMDAwMGUwYzVhYjM3ZGNlNTFlNTA0MDVmMjQ4ZTgwYTQ3MWRl",
+  "snapshot_id": "MTY3NjQ4NDE2NSwwMDAwMDAwMDhiNWEwZTFjNGU5ZjY2ZTgyYTFiNWVmMGVkZTIzNGFm",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Lolita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Lolita Ya Ya",
-      "url": "https://open.spotify.com/track/2cVr3kgag9vfl6aXnYfmav"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "When It's Time to Go",
         "url": "https://open.spotify.com/album/0pEYDo499hzgCpBLzcpVpl"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 163626,
       "name": "When It's Time to Go",
       "url": "https://open.spotify.com/track/06bgtOwOTqbDLf1n1eqjji"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Lolita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Lolita Ya Ya",
+      "url": "https://open.spotify.com/track/2cVr3kgag9vfl6aXnYfmav"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -287,26 +287,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Ultra-Lounge: Bossa Novaville",
-        "url": "https://open.spotify.com/album/5utRkK1KmqAY9H5UiRT2WM"
-      },
-      "artists": [
-        {
-          "name": "Wanda De Sah",
-          "url": "https://open.spotify.com/artist/53fV7ZIDRHAnZyHYAszLki"
-        },
-        {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
-        }
-      ],
-      "duration_ms": 137706,
-      "name": "So Nice (Samba De Verao) - Remastered",
-      "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Hawaiian Blossom",
         "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 128066,
       "name": "Taboo Tu",
       "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge: Bossa Novaville",
+        "url": "https://open.spotify.com/album/5utRkK1KmqAY9H5UiRT2WM"
+      },
+      "artists": [
+        {
+          "name": "Wanda De Sah",
+          "url": "https://open.spotify.com/artist/53fV7ZIDRHAnZyHYAszLki"
+        },
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "duration_ms": 137706,
+      "name": "So Nice (Samba De Verao) - Remastered",
+      "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
     },
     {
       "added_at": "2022-03-30 01:46:18",
@@ -419,6 +419,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Primitiva",
         "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
       },
@@ -481,22 +497,6 @@
       "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Latin-Esque",
@@ -527,6 +527,22 @@
       "duration_ms": 220733,
       "name": "Sunset on the Kona Kai",
       "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -563,18 +579,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+        "name": "Ultra-Lounge: Fuzzy Retail Sampler",
+        "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
       },
       "artists": [
         {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+          "name": "Jackie Davis",
+          "url": "https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ"
         }
       ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+      "duration_ms": 143666,
+      "name": "Glow Worm Cha Cha Cha - Remastered",
+      "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -591,22 +607,6 @@
       "duration_ms": 198466,
       "name": "Terry's Theme (From \"Limelight)",
       "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Ultra-Lounge: Fuzzy Retail Sampler",
-        "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
-      },
-      "artists": [
-        {
-          "name": "Jackie Davis",
-          "url": "https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ"
-        }
-      ],
-      "duration_ms": 143666,
-      "name": "Glow Worm Cha Cha Cha - Remastered",
-      "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Quiet Village",
-        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "Hawaiian War Chant",
-      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Makani Olu'olu",
@@ -699,6 +683,22 @@
       "duration_ms": 163786,
       "name": "Lepe Ula'ula",
       "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Quiet Village",
+        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "Hawaiian War Chant",
+      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Lo Mejor De Xavier Cugat Y Su Orquesta",
-        "url": "https://open.spotify.com/album/5nNGjwNd47TTnMWUnEa5he"
-      },
-      "artists": [
-        {
-          "name": "Xavier Cugat",
-          "url": "https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/3Zgl5jhVzcK9ZQdrj4WIUR"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Golden Voice of Hawai'i, Vol. 1",
         "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 275066,
       "name": "Hanalei Moon",
       "url": "https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Lo Mejor De Xavier Cugat Y Su Orquesta",
+        "url": "https://open.spotify.com/album/5nNGjwNd47TTnMWUnEa5he"
+      },
+      "artists": [
+        {
+          "name": "Xavier Cugat",
+          "url": "https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/3Zgl5jhVzcK9ZQdrj4WIUR"
     },
     {
       "added_at": "2021-01-20 03:50:53",

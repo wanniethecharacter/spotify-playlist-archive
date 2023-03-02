@@ -502,6 +502,10 @@
       },
       "artists": [
         {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
           "name": "Arunraja Kamaraj",
           "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
         }
@@ -943,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Maaveeran Theme (From \"Maaveeran\")",
+        "url": "https://open.spotify.com/album/6ONnbDDAVvMFbrtVmUbz8j"
+      },
+      "artists": [
+        {
+          "name": "Bharath Sankar",
+          "url": "https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130363,
+      "name": "Maaveeran Theme",
+      "url": "https://open.spotify.com/track/1bKoL7ah6R0ztoFK76UTLd"
+    },
+    {
+      "album": {
         "name": "Mahaan Title Poster Theme (From \"Mahaan\")",
         "url": "https://open.spotify.com/album/2j9Fx8Mi6VnW1csBunbFXh"
       },
@@ -1044,7 +1066,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 178000,
       "name": "Masked Warrior",
       "url": "https://open.spotify.com/track/5SISIYduHnFqlQz9lOAANQ"

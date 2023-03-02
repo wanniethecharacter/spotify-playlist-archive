@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$ & Shakewell
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,311 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,647 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 2 | [SHAMELESS $UICIDE](https://open.spotify.com/track/1vjon7jtpF5usLV2CVxtsw) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [SHAMELESS $UICIDE](https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M) | 4:03 |
 | 3 | [Five Nights \(feat\. Danny Brown\)](https://open.spotify.com/track/345lVnvY38p44UbPC20f2U) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Freddie's Inferno \(Deluxe\)](https://open.spotify.com/album/07YX7oCO5D6zr1NVDEeSAd) | 2:26 |
 | 4 | [Necrossist](https://open.spotify.com/track/5HUpPwK5mJWEHSEMKuYPqO) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [NECROSSISM](https://open.spotify.com/album/6tnsPiqgWU9EG8xh8PJBLm) | 1:41 |
-| 5 | [NOTHING IS FOREVER](https://open.spotify.com/track/4PQmQnDUxanb5NkYAToaQr) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NOTHING IS FOREVER](https://open.spotify.com/album/74wHsULDsjbJQ7HSBjH49z) | 2:32 |
+| 5 | [NOTHING IS FOREVER](https://open.spotify.com/track/54GrLa8J4zdvRfU8VXdo8l) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NOTHING IS FOREVER](https://open.spotify.com/album/6Z8CtXFwlvDrtgXzfxBFGF) | 2:32 |
 | 6 | [Big Shot Cream Soda](https://open.spotify.com/track/3wHRgXJJTTwS2CkusTpn56) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [Big Shot Cream Soda](https://open.spotify.com/album/4XASZ5lxkyqeks39BJIMKb) | 3:15 |
 | 7 | [RED EYES BLACK DRAGON \(feat\. 1nonly\)](https://open.spotify.com/track/1mMd869pIVfM8TurlkPjAH) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [RED EYES BLACK DRAGON \(feat\. 1nonly\)](https://open.spotify.com/album/4KkI8MEM9ySiNs5PWgm5Mq) | 2:20 |
 | 8 | [You Make Me Sick!](https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [You Make Me Sick!](https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [10 FOOT TALL](https://open.spotify.com/track/3hyxHwYJOqSHGRDxwO7OUm) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [10 FOOT TALL](https://open.spotify.com/album/4yr5Yn1U79i2HikJSA0lrU) | 2:46 |
 | 100 | [Dorohedorohe Drip](https://open.spotify.com/track/2lcRTWOwCNffdwCs8zEDo7) | [Faceless 1\-7](https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV), [TrippyThaKid](https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz) | [Dorohedorohe Drip](https://open.spotify.com/album/1Uge5Im3luXyVeBvWUeEqW) | 2:06 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGY2YmI2YjYzMmJhZWM5ODkzMjgyOTRlM2QyMjkwYzc5`
+Snapshot ID: `MTY3NzcwNDkxOCwwMDAwMDAwMDEyYTUzZGYzMjljY2ViOTJjYTUwMGEzZmQ5NmMwOWRk`

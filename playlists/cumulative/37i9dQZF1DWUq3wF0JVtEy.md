@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-297 songs - 14 hr 38 min
+298 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Ballin'](https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Make Trouble](https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT) | 3:30 | 2022-12-02 |  |
 | [Bang Bang](https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Bang Bang](https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ) | 2:24 | 2022-07-22 |  |
 | [Banga](https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD) | 2:21 | 2022-09-16 | 2023-02-26 |
+| [Banga](https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw) | 2:21 | 2023-02-17 |  |
 | [Bass Face](https://open.spotify.com/track/4n93qqnMDU7n5LRj5O2wh7) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Bass Face](https://open.spotify.com/album/3w7pSN07nFeY7fqlVEBkFc) | 2:30 | 2021-10-29 | 2022-06-10 |
 | [Bass Goes Down](https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Bass Goes Down](https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0) | 2:24 | 2021-10-29 | 2022-03-21 |
 | [BB Got Me Like](https://open.spotify.com/track/75lHY2V0DN0SvRoF2BJQfn) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [BB Got Me Like](https://open.spotify.com/album/04F6eKFDiQUnVJvICSKwjV) | 2:28 | 2021-10-29 | 2022-07-24 |
@@ -114,7 +115,7 @@
 | [Goodnight \(feat\. JP Cooper\)](https://open.spotify.com/track/3UAeRjm3BXh9joNAGn2W6Q) | [Sleepwalkrs](https://open.spotify.com/artist/6yVrZt8f3TB1NXP5fIT193), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Goodnight \(feat\. JP Cooper\)](https://open.spotify.com/album/5LJOHCNAxofL23i7XGRY4o) | 2:57 | 2021-10-29 | 2022-08-06 |
 | [Got Me Feeling](https://open.spotify.com/track/4OehHyyY1vOOafiOEoiPFM) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB) | [Got Me Feeling](https://open.spotify.com/album/4BTrDK6QAOM64YRyaaPFN3) | 2:23 | 2021-10-29 | 2022-07-25 |
 | [Gotta Let U Go](https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [Gotta Let U Go](https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp) | 2:29 | 2022-03-18 |  |
-| [Green Light \(feat\. Kate Wild\)](https://open.spotify.com/track/4SnBJPqAZmf18gF4vlqEWL) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\)](https://open.spotify.com/album/6blqmHrgEubFGOJOcIsCUj) | 2:37 | 2021-10-29 |  |
+| [Green Light \(feat\. Kate Wild\)](https://open.spotify.com/track/4SnBJPqAZmf18gF4vlqEWL) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\)](https://open.spotify.com/album/6blqmHrgEubFGOJOcIsCUj) | 2:37 | 2021-10-29 | 2023-03-02 |
 | [Grimestar](https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Grimestar](https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt) | 2:48 | 2022-12-02 |  |
 | [Gucci Fendi Prada \- BYOR Remix](https://open.spotify.com/track/7FYV4Nq4IW08XDssxctuyR) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Gucci Fendi Prada \(BYOR Remix\)](https://open.spotify.com/album/34qSP54lisomdVGxqaDy08) | 2:07 | 2021-10-29 | 2022-06-24 |
 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2023-01-06 |  |

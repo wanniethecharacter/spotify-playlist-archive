@@ -2,9 +2,9 @@
 
 ### [lofi covers](https://open.spotify.com/playlist/37i9dQZF1DX4nNmLlb3JR2)
 
-> A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
+> A fresh lofi spin on your favourite tunes and old songs you love.
 
-174 songs - 6 hr 51 min
+180 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [By This River \- Spotify Singles](https://open.spotify.com/track/3ZuyLRUhtxy3Aw8LOX3nsE) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 3:51 | 2022-09-02 |  |
 | [californication](https://open.spotify.com/track/4tGyu6JEpbpYGCmwijRYOt) | [kent mills](https://open.spotify.com/artist/7622kFOP9UZ4bl6DN87EIZ) | [californication](https://open.spotify.com/album/2Dvz9vSWLxEBd2eO6uldcU) | 2:07 | 2022-12-02 |  |
 | [Californication](https://open.spotify.com/track/2qPuqNzXKGJxUGix3Ot6ff) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Covers Collection \(Vol\. 3\)](https://open.spotify.com/album/6xV0OXNjDLNExHKq0NO6Tc) | 4:23 | 2022-09-02 |  |
+| [can't get you out of my head](https://open.spotify.com/track/0pMDDVEwKLJ0WaUK4BL4f2) | [amelia liz](https://open.spotify.com/artist/7N0txyqhJC7i8CPZQoWOVq) | [can't get you out of my head](https://open.spotify.com/album/5wox44PtCaRPxM1tMp1ozd) | 2:37 | 2023-03-01 |  |
 | [Cantaloupe Island \- Spotify Singles](https://open.spotify.com/track/7yKsd3VFFd4RD5Io5c1LyR) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 2:01 | 2022-09-02 |  |
 | [chandelier](https://open.spotify.com/track/25AjoIOjVfxe6kgE9ftvep) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [chandelier](https://open.spotify.com/album/7rd5lKApMDcncjp7ZBEoMQ) | 3:33 | 2023-01-06 |  |
 | [Chasing Cars](https://open.spotify.com/track/1VOGwVCwqfCN57a1g1ZMSg) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Chasing Cars](https://open.spotify.com/album/070uuSMrffZLnxkqseJehl) | 2:31 | 2022-09-02 | 2022-10-02 |
@@ -68,6 +69,7 @@
 | [Go Tell It On The Mountain](https://open.spotify.com/track/1JpDYuMELHWVIIb8RcY1TJ) | [Leo Stikks](https://open.spotify.com/artist/7LUeaR9RcIreAylx2jise5) | [Go Tell It On The Mountain](https://open.spotify.com/album/07Ho6FAFJVNAUquAEKeuUJ) | 1:50 | 2022-10-28 |  |
 | [God Girl](https://open.spotify.com/track/6PUrpc5FKEIdOHB6Cr0UOQ) | [Salty Soundz](https://open.spotify.com/artist/0uj4WSTdDGg22OCuqLTKk9) | [God Girl](https://open.spotify.com/album/0FUXc6dVrKHPn2dT9FhzrU) | 2:48 | 2023-02-07 |  |
 | [good 4 u](https://open.spotify.com/track/3AZgoA4NPnW7WVsYilE7Bo) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [good 4 u](https://open.spotify.com/album/778p2Kr3Tz1f5ZExmuQBDW) | 2:19 | 2022-11-11 |  |
+| [Hakuna Matata](https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Focus](https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN) | 2:48 | 2023-03-01 |  |
 | [Happier Than Ever](https://open.spotify.com/track/5i8lZgGvIBe3iL8WMCPHsi) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [Happier Than Ever](https://open.spotify.com/album/44aUBNTF0z4prL3vEdIwAB) | 2:19 | 2022-11-11 |  |
 | [Havana \- Lofi Version](https://open.spotify.com/track/4QjurBzqOd71ctHlvWDCXo) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lo\-Fi Jams Vol\. 14](https://open.spotify.com/album/1IwWjovnVG3Ni1pr58JZkS) | 1:49 | 2022-09-02 | 2022-09-30 |
 | [hey, soul sister](https://open.spotify.com/track/1qJgvV6WYN8pLieuY18ahM) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [hey, soul sister](https://open.spotify.com/album/7aIiJxjW2A9pkYvgljzADh) | 2:31 | 2022-11-11 |  |
@@ -81,6 +83,7 @@
 | [i follow rivers](https://open.spotify.com/track/33NOfDaVqMf9XJzTeGuV2B) | [Mushhi](https://open.spotify.com/artist/1NtM12STZroHO6boHGnnAk) | [i follow rivers](https://open.spotify.com/album/0TgzNPeF5HTOOLhtFhsRdz) | 1:52 | 2023-01-06 |  |
 | [I Took a Pill in Ibiza](https://open.spotify.com/track/2UE2Kys4CeDLYmKe44GgXm) | [I Am Lofi](https://open.spotify.com/artist/330gdzZYIWN7O1gWheychm) | [I Took a Pill in Ibiza](https://open.spotify.com/album/6zjzyzBuav0MnSELLr4K0U) | 2:59 | 2022-09-02 | 2022-11-12 |
 | [I Took A Pill In Ibiza](https://open.spotify.com/track/1E5gES1ms01jbmsqrQGIM2) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [I Took A Pill In Ibiza](https://open.spotify.com/album/5ECbMHGv1TPtO4VfdgthB2) | 2:18 | 2022-09-02 |  |
+| [i try](https://open.spotify.com/track/3BHNGiuU59k3c1G9dlTMWB) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [i try](https://open.spotify.com/album/5MsKW2gmxgB8a4p1uBq4BB) | 2:14 | 2023-03-01 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/61VtQO8JpakFjWYcdo0ZD3) | [Joongle](https://open.spotify.com/artist/5NChOzODHzPYNB4iho8Zcy) | [I Wanna Be Yours](https://open.spotify.com/album/320qqaTJSFgI1zqEeRPULg) | 2:00 | 2022-12-02 |  |
 | [I'll Be There \- Lofi Version](https://open.spotify.com/track/2ph6VLJoG4TheddqDFhriN) | [kudos nine](https://open.spotify.com/artist/6LkjO5gXOpwSzsB7RFPX7Y) | [I'll Be There \(But it's Lofi\)](https://open.spotify.com/album/5leduPp8U09XHYuDMkuR9X) | 2:57 | 2022-11-11 |  |
 | [I'm Good \(Blue\) \- lofi version](https://open.spotify.com/track/5tTBRgYnLmYVua7mbFbPMh) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [TODAY'S TOP HITS BUT IT'S LOFI, VOL\. 3](https://open.spotify.com/album/5tczhjfE1TI0dAAPGKWT0Z) | 2:01 | 2022-10-14 |  |
@@ -108,6 +111,7 @@
 | [My Mind & Me](https://open.spotify.com/track/43M3Hb61vb3BQVLKPx5zqC) | [Miro Mas](https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL) | [Portals pt 2](https://open.spotify.com/album/7yOQ2GIiEZz4nVo4BF7CPb) | 2:38 | 2023-01-13 |  |
 | [Never Gonna Give You Up](https://open.spotify.com/track/6mb3ei1PSzzZgZyOeQN5QA) | [Phatazza Cat](https://open.spotify.com/artist/3dV8aCIrUUtXrOnU6qo3rN) | [Never Gonna Give You Up](https://open.spotify.com/album/6k9mZX2jUO3e2xkQTDVScA) | 2:08 | 2022-09-02 |  |
 | [No Suprises](https://open.spotify.com/track/4TVrdSsBbr4RYWBqyVdATT) | [Granlund](https://open.spotify.com/artist/2dZvcVqJDI3Lbxnwg5hQ8m) | [My Name Is Spruce](https://open.spotify.com/album/6wTSNipQRO7zT58J0uQJGE) | 2:56 | 2022-09-02 |  |
+| [nothing compares 2 u](https://open.spotify.com/track/2Bq5JGZFtj0rLGrm8uaLp8) | [Sophia Lopez](https://open.spotify.com/artist/6cgDJHmQSZ3o3jVAQA7lKp) | [nothing compares 2 u](https://open.spotify.com/album/3GUBR4e38i8Zo7BYJ0yn5q) | 2:12 | 2023-03-01 |  |
 | [Nothing´s Gonna Stop Us Now](https://open.spotify.com/track/5kDdYabORKt6kskxz1sd1S) | [the beats of...](https://open.spotify.com/artist/6xI7tRm64d9dwDuXrSv1Kr) | [Nothing´s Gonna Stop Us Now](https://open.spotify.com/album/3jtPNM44kEtKnG2CxSeixS) | 2:40 | 2022-11-11 |  |
 | [Numb](https://open.spotify.com/track/3RLTOAqa72Kn7gh6NzaRot) | [Miro Mas](https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL) | [I've Seen You Somewhere Before](https://open.spotify.com/album/68dG80XL5iTYGxjlfmG8tx) | 2:55 | 2022-09-02 | 2022-11-12 |
 | [Numb](https://open.spotify.com/track/2XBFv43iLJAgc0tFLwpvSB) | [Mount Eminest](https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y), [holydope](https://open.spotify.com/artist/0xxzcwAkvq75H2kNaZVLxD), [Gletscher](https://open.spotify.com/artist/2XvOqRc89ghu9XuYotuqDj) | [Numb](https://open.spotify.com/album/7zSYpDlrN7u5RYDSkDcHpz) | 2:06 | 2022-09-02 |  |
@@ -144,6 +148,7 @@
 | [Smells Like Teen Spirit](https://open.spotify.com/track/1Pb8m7vHVM8rme82BsjzaX) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Smells Like Teen Spirit](https://open.spotify.com/album/4ErNj2gXEnoDYuosutmNXj) | 1:22 | 2022-09-02 |  |
 | [SNAP](https://open.spotify.com/track/2kMEd5WGasnXv1gLJSxQiI) | [Dreamy Tapes](https://open.spotify.com/artist/6aeonzKYD0nGInEExXavVa), [Sunset Dreamer](https://open.spotify.com/artist/6uMK6BgXXMATTcnGhc6MUN) | [SNAP](https://open.spotify.com/album/17bQnLWtoWkDSQDh6oF3DB) | 2:17 | 2022-10-28 |  |
 | [so sick](https://open.spotify.com/track/04P0VWJ6oo8Hh7pmyrQIuW) | [flowtide](https://open.spotify.com/artist/1krCmhhTo8H7k8YxKoKpbv) | [so sick](https://open.spotify.com/album/4Vv9Xe8EXex4XS0EAoJ4Vt) | 2:01 | 2023-01-06 |  |
+| [somebody else](https://open.spotify.com/track/4SwdZqpbUSk66Ml3LtV1JA) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [somebody else](https://open.spotify.com/album/2Xge9gAY63AG4CL9vp27e9) | 1:39 | 2023-03-01 |  |
 | [Stay \- lofi vocal version](https://open.spotify.com/track/6OBjTQlEcdIrHzqaqzLRI2) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [LoFi Remixes of Famous TikTok Songs \(songs stuck in your head\)](https://open.spotify.com/album/5PtYr6slAFyJ0afCDPlkgK) | 1:50 | 2022-09-02 |  |
 | [Stay High](https://open.spotify.com/track/4zkSqnyv3re6lZhLRYghY8) | [Miro Mas](https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL) | [I've Seen You Somewhere Before](https://open.spotify.com/album/68dG80XL5iTYGxjlfmG8tx) | 3:11 | 2022-09-02 |  |
 | [stay with me](https://open.spotify.com/track/5DTBkfXH6YJV42PD3NxQVx) | [Reggie Lume](https://open.spotify.com/artist/6wQTCO5DGk8vkOA0p514km) | [stay with me](https://open.spotify.com/album/1wIME3lWJVOGJWHvLdjYUF) | 2:14 | 2022-12-16 |  |
@@ -178,6 +183,7 @@
 | [Wish You Were Here](https://open.spotify.com/track/5kr227jZLwUeZCDMU4JT1d) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Wish You Were Here](https://open.spotify.com/album/18SIXuoraTIBZdMy4jPVPD) | 2:57 | 2022-09-02 |  |
 | [wrecking ball](https://open.spotify.com/track/36jFRBBQIUbLxc7LRmGfir) | [Reggie Lume](https://open.spotify.com/artist/6wQTCO5DGk8vkOA0p514km) | [wrecking ball](https://open.spotify.com/album/2bByu5g7BkxtCO69Qpnsib) | 1:58 | 2023-02-07 |  |
 | [You Oughta Know](https://open.spotify.com/track/1wy11OtTLB78IcBoDrPP9W) | [Yoga Beats](https://open.spotify.com/artist/0YgFSc6eJJRhhgDnTdifyt), [Cameron Ford](https://open.spotify.com/artist/2Epdw19iNTn6Wv4YV29h9y) | [Jagged Little Chill](https://open.spotify.com/album/4WcB9SSwOI0DgKp2OJ6oFz) | 3:33 | 2022-10-07 |  |
+| [You'll Be In My Heart](https://open.spotify.com/track/3XXemjIqQleJMVtae2Vsb6) | [Jeff Kaale](https://open.spotify.com/artist/6HbFnvkO1zsyxqyyfbNRwL), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Chill](https://open.spotify.com/album/37Fq2lVxXUoEVOekYAo9Pm) | 4:48 | 2023-03-01 |  |
 | [you're makin' me high](https://open.spotify.com/track/49O7D9q23Z6o067OM9vHaE) | [NSW Kenny](https://open.spotify.com/artist/7rAgjCQMN8VOaqHzdKESzr) | [you're makin' me high](https://open.spotify.com/album/1qZR3NpT5gCEFiE0qWytWt) | 2:19 | 2023-02-07 |  |
 | [young folks](https://open.spotify.com/track/1aYcdEUigk7EO41RgbkYZh) | [Mrs Blonded](https://open.spotify.com/artist/6Gx6MRxYH7sQQTRe7EStEN) | [young folks](https://open.spotify.com/album/3UwBdJs9Mxm3y699ElCCKR) | 2:02 | 2023-01-06 |  |
 | [Youngblood \- Lofi Version](https://open.spotify.com/track/0r05GCsSeNbfHKeONCGhCJ) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Youngblood \(Lofi Version\)](https://open.spotify.com/album/0DmR3wOKBs9LJGdB9LoObG) | 1:40 | 2022-10-28 |  |

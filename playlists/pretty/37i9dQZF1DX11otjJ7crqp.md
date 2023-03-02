@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: BoyWithUke
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,341 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,486 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 22 | [parasite](https://open.spotify.com/track/5uryeSMcKUDIFVakxsjg6o) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [runaway](https://open.spotify.com/album/0BFInEkCDlkmq5R7pNaDLr) | 3:15 |
 | 23 | [STEP ON ME](https://open.spotify.com/track/45HSCsfTCoDloxNEof033U) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [STEP ON ME](https://open.spotify.com/album/0llSxQdK1datftaK0xHYPd) | 3:25 |
 | 24 | [Heart Wants What It Wants](https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Wants What It Wants](https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG) | 3:02 |
-| 25 | [One Of Those Days \(feat\. Lil Yachty & 347aidan\)](https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [One Of Those Days \(feat\. Lil Yachty & 347aidan\)](https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL) | 2:27 |
+| 25 | [One Of Those Days \(feat\. Lil Yachty & with 347aidan\)](https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [One Of Those Days \(feat\. Lil Yachty & with 347aidan\)](https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL) | 2:27 |
 | 26 | [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 |
 | 27 | [CHRONICALLY CAUTIOUS](https://open.spotify.com/track/73ZWAySu4UX5LkpCM6zjYh) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CHRONICALLY CAUTIOUS](https://open.spotify.com/album/418zZ5Y7Wds4r6JiIU0WEL) | 1:59 |
 | 28 | [Every Heart But Mine](https://open.spotify.com/track/3NdrWLR4BsyiCGbQQmuwSL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Every Heart But Mine](https://open.spotify.com/album/6vDayREemPdb81FBBGaiX8) | 3:15 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 51 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 |
 | 52 | [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 |
 | 53 | [Pick Your Tears Up](https://open.spotify.com/track/5wlZ4PZGrRR2feOTA862m2) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Pick Your Tears Up](https://open.spotify.com/album/4XHdogqYIFfgdW3qwIkVlI) | 2:48 |
-| 54 | [28](https://open.spotify.com/track/4x83cYbV42NT0z1QkTj4TN) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [28](https://open.spotify.com/album/3rogb53wBCNjq4oHV7Dy5p) | 2:44 |
+| 54 | [28](https://open.spotify.com/track/5E1A7q6QL34ex6B3MQa91s) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/6mF1bVrioCxksnRBHUN7Ej) | 2:44 |
 | 55 | [Fuck My Money](https://open.spotify.com/track/5tcz08acmFO5SfXwhBMHCt) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Fuck My Money](https://open.spotify.com/album/17jtrUDqTib0dp9CAsLecX) | 2:41 |
 | 56 | [Better Me](https://open.spotify.com/track/0DJ27WN7CkW5iTi2k5hETW) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Better Me](https://open.spotify.com/album/1TvoyxNUPUbQkMBUpU5gh2) | 1:55 |
 | 57 | [Last Man Standing](https://open.spotify.com/track/6Px4zAZ9RrIVVkn7gbFeau) | [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6) | [Last Man Standing](https://open.spotify.com/album/35EZve6rPQ433ChO3Lgh8j) | 3:15 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 100 | [Hold On To The Heart](https://open.spotify.com/track/2KSUk5yV9STT7RVnSFkNoi) | [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Hold On To The Heart](https://open.spotify.com/album/1zE4ybOQXAdUbD8g3HZYI5) | 3:23 |
 | 101 | [Bubbly](https://open.spotify.com/track/5Yxw8MJcI4AT58ur7e04Fw) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Bubbly](https://open.spotify.com/album/3Ow42KfNDAWbBmCIZ7YK5E) | 2:40 |
 
-Snapshot ID: `MTY3NzIxNTg2MCwwMDAwMDAwMGMyOTQwZjFjNDRjMTdkYzc4OTk0MGQ2NzFiMzgwZmY4`
+Snapshot ID: `MTY3NzIxNTg2MCwwMDAwMDAwMGU2N2EyNTllY2NmMGY2Y2ZjNWU1YzUzODBmODJmMzYx`

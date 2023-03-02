@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 69409,
+  "num_followers": 69612,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMDkyODdhZjgzY2FlZmRhMzdlZDc0N2VhOTE2MzkxY2Qy",
+  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMDQzZmQ0M2JjMTQ4NDhhOTg3OWMzMGY2ZGI0ZTFhYzIy",
   "tracks": [
     {
       "added_at": "2023-01-25 15:11:28",
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
     },
     {
-      "added_at": "2023-03-01 01:10:27",
+      "added_at": "2023-03-02 00:11:40",
       "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "Kim Wilde",
-        "url": "https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Kids In America",
-      "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 270651,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
+        "name": "Kim Wilde",
+        "url": "https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Kids In America",
+      "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD"
     },
     {
-      "added_at": "2023-03-01 01:10:27",
+      "added_at": "2023-03-02 00:11:40",
       "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "Thirty Thousand Feet Over China",
-        "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
-      },
-      "artists": [
-        {
-          "name": "The Passions",
-          "url": "https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3"
-        }
-      ],
-      "duration_ms": 241320,
-      "name": "I'm In Love With A German Film Star",
-      "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
         "name": "The Innocents",
         "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 215346,
       "name": "Chains of Love",
       "url": "https://open.spotify.com/track/1I0qu4PsBjAHfJHy9wy5AA"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
+        "name": "Thirty Thousand Feet Over China",
+        "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
+      },
+      "artists": [
+        {
+          "name": "The Passions",
+          "url": "https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3"
+        }
+      ],
+      "duration_ms": 241320,
+      "name": "I'm In Love With A German Film Star",
+      "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -1123,8 +1123,8 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "Oh Canada!: Rock Hits",
-        "url": "https://open.spotify.com/album/04c15XwztwFaHZchwcHSFP"
+        "name": "80-Regine del Pop",
+        "url": "https://open.spotify.com/album/69POGM6ZPfBNMNvxgUys87"
       },
       "artists": [
         {
@@ -1134,23 +1134,7 @@
       ],
       "duration_ms": 214933,
       "name": "Echo Beach",
-      "url": "https://open.spotify.com/track/2uUHKPZF6W0ayxmdi6HRxa"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/5PHV7kFMuDYufMWOy68gNx"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 265320,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/537yo062QIz16oQOgxmul3"
+      "url": "https://open.spotify.com/track/08gcSzRD66Dc7z3x6yigol"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -1167,6 +1151,22 @@
       "duration_ms": 197760,
       "name": "Who Needs Love Like That",
       "url": "https://open.spotify.com/track/5hBQzpIVTuImm4uQCs84kB"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/5PHV7kFMuDYufMWOy68gNx"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 265320,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/537yo062QIz16oQOgxmul3"
     },
     {
       "added_at": "2023-01-25 15:11:28",

@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 47621,
+  "num_followers": 47684,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMDA0NTZiMTlhNzA3MmFhMjVlYzQ2NzY4ODgxYjAwNDNj",
+  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMDFkNzFiMWUzODAxOGM5OWZmN2UzNjQ5ZjY3OWU0YTMw",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Las 30 grandes de Chavela Vargas",
-        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "Toda una vida",
-      "url": "https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Inspiraciones de Siempre",
         "url": "https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 167493,
       "name": "Cari\u00f1ito Azucarado",
       "url": "https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Las 30 grandes de Chavela Vargas",
+        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "Toda una vida",
+      "url": "https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -739,6 +739,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Esta Noche...Billo",
+        "url": "https://open.spotify.com/album/4OjlD6tl5AAkN06A19QhWA"
+      },
+      "artists": [
+        {
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 147017,
+      "name": "Cuando Estemos Viejo",
+      "url": "https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Esta Noche...Billo",
-        "url": "https://open.spotify.com/album/4OjlD6tl5AAkN06A19QhWA"
-      },
-      "artists": [
-        {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 147017,
-      "name": "Cuando Estemos Viejo",
-      "url": "https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Los Exitos de Alvaro Carrillo",
         "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
       },
@@ -807,22 +807,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Latin Trumpets - Bolero",
-        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
+        "name": "16 Exitos De Oro",
+        "url": "https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk"
       },
       "artists": [
         {
-          "name": "Leo Marini",
-          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
         }
       ],
-      "duration_ms": 178173,
-      "name": "En la Palma de la Mano",
-      "url": "https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i"
+      "duration_ms": 231493,
+      "name": "Veronica",
+      "url": "https://open.spotify.com/track/4rEybMVb5H7glCSbezlEAL"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -843,18 +839,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "16 Exitos De Oro",
-        "url": "https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk"
+        "name": "Latin Trumpets - Bolero",
+        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
       "artists": [
         {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+          "name": "Leo Marini",
+          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 231493,
-      "name": "Veronica",
-      "url": "https://open.spotify.com/track/4rEybMVb5H7glCSbezlEAL"
+      "duration_ms": 178173,
+      "name": "En la Palma de la Mano",
+      "url": "https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Benny Mor\u00e9 M\u00e1gico",
-        "url": "https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Como Fu\u00e9",
-      "url": "https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "16 Exitos De Oro",
         "url": "https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk"
       },
@@ -975,22 +959,34 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Las 2 Grandes Orquestas de Venezuela",
-        "url": "https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0"
+        "name": "Benny Mor\u00e9 M\u00e1gico",
+        "url": "https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb"
       },
       "artists": [
         {
-          "name": "La Billo",
-          "url": "https://open.spotify.com/artist/19ctQy7OHWSuGAko9eMUTR"
-        },
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 247906,
-      "name": "Flores Negras - Fichas Negras",
-      "url": "https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A"
+      "duration_ms": 178626,
+      "name": "Como Fu\u00e9",
+      "url": "https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Serie 20 Exitos",
+        "url": "https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Serie 20 Exitos",
-        "url": "https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO"
+        "name": "Las 2 Grandes Orquestas de Venezuela",
+        "url": "https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0"
       },
       "artists": [
         {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+          "name": "La Billo",
+          "url": "https://open.spotify.com/artist/19ctQy7OHWSuGAko9eMUTR"
+        },
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
         }
       ],
-      "duration_ms": 155733,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2"
+      "duration_ms": 247906,
+      "name": "Flores Negras - Fichas Negras",
+      "url": "https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Los Exitos de Alvaro Carrillo",
+        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 280773,
+      "name": "Amor M\u00edo / Sabr\u00e1 Dios / Sabor a Mi",
+      "url": "https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Eternamente",
         "url": "https://open.spotify.com/album/5DyJdvitTIEd4ncxUL0XHQ"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 183800,
       "name": "Cuando Ya No Me Quieras",
       "url": "https://open.spotify.com/track/1RfB1vZYB2mi6RSSwgMU6c"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Los Exitos de Alvaro Carrillo",
-        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 280773,
-      "name": "Amor M\u00edo / Sabr\u00e1 Dios / Sabor a Mi",
-      "url": "https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b"
     },
     {
       "added_at": "2021-12-26 12:28:38",

@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 116966,
+  "num_followers": 116982,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE2ODAwMCwwMDAwMDAwMDE2Zjk1MWUzYjlhMGZlYTRiYmJjMDQ2MjUyOTBmMDQz",
+  "snapshot_id": "MTY3NzE2ODAwMCwwMDAwMDAwMDNkMjJmMGY2OTk2NmViOTQ1NWNjY2QzNGEzNDE5Mzg0",
   "tracks": [
     {
       "added_at": "2023-02-23 16:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "\u8fd9\u4e16\u754c\u90a3\u4e48\u591a\u4eba (\u7535\u5f71\u300a\u6211\u8981\u6211\u4eec\u5728\u4e00\u8d77\u300b\u4e3b\u9898\u66f2)",
-        "url": "https://open.spotify.com/album/7loUfq99zoKzh5n2g68UkH"
-      },
-      "artists": [
-        {
-          "name": "Karen Mok",
-          "url": "https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1"
-        }
-      ],
-      "duration_ms": 285833,
-      "name": "\u8fd9\u4e16\u754c\u90a3\u4e48\u591a\u4eba - \u7535\u5f71\u300a\u6211\u8981\u6211\u4eec\u5728\u4e00\u8d77\u300b\u4e3b\u9898\u66f2",
-      "url": "https://open.spotify.com/track/0CIndp98sle6N5oubW92Jp"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
         "name": "DEPART",
         "url": "https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
+        "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
+        "url": "https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "duration_ms": 200287,
+      "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
+      "url": "https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
         "name": "\u60f3\u898b\u5c31\u80fd\u76f8\u898b (Live \u7248)",
         "url": "https://open.spotify.com/album/7tKrxlXdVdep0w6dHibgMO"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 297352,
       "name": "\u4e00\u4e8c\u4e09\u4e00\u4e8c\u4e09",
       "url": "https://open.spotify.com/track/0OZdSwCnNFXAgpeONjK9gs"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
-        "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
-        "url": "https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK"
-      },
-      "artists": [
-        {
-          "name": "G.E.M.",
-          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
-        }
-      ],
-      "duration_ms": 200287,
-      "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
-      "url": "https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -367,22 +351,6 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "\u7121\u4eba\u77e5\u66c9",
-        "url": "https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju"
-      },
-      "artists": [
-        {
-          "name": "Hebe Tien",
-          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
-        }
-      ],
-      "duration_ms": 277800,
-      "name": "\u61f8\u65e5",
-      "url": "https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
         "name": "\u8b0e\u4e4b\u97f3",
         "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
       },
@@ -395,6 +363,22 @@
       "duration_ms": 301666,
       "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
       "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
+        "name": "\u7121\u4eba\u77e5\u66c9",
+        "url": "https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "duration_ms": 277800,
+      "name": "\u61f8\u65e5",
+      "url": "https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -463,22 +447,6 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "\u6084\u6084\u544a\u8a34\u4f60",
-        "url": "https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC"
-      },
-      "artists": [
-        {
-          "name": "Christine Fan",
-          "url": "https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg"
-        }
-      ],
-      "duration_ms": 136706,
-      "name": "\u6084\u6084\u544a\u8a34\u4f60",
-      "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
         "name": "\u76f8\u53cd\u7684\u662f",
         "url": "https://open.spotify.com/album/69yaUTVnjoxtsP7vTXqKxw"
       },
@@ -491,6 +459,22 @@
       "duration_ms": 247324,
       "name": "\u597d\u5f37",
       "url": "https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
+        "name": "\u6084\u6084\u544a\u8a34\u4f60",
+        "url": "https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC"
+      },
+      "artists": [
+        {
+          "name": "Christine Fan",
+          "url": "https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "\u6084\u6084\u544a\u8a34\u4f60",
+      "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -527,22 +511,6 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "\u84cb\u4e16\u82f1\u96c4",
-        "url": "https://open.spotify.com/album/22pEd6RNnbso5XFaZoT0YF"
-      },
-      "artists": [
-        {
-          "name": "Leehom Wang",
-          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
-        }
-      ],
-      "duration_ms": 286773,
-      "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
-      "url": "https://open.spotify.com/track/4FOcKtu7mXOrnifIaif0L3"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
         "name": "I Know You Know-\u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
         "url": "https://open.spotify.com/album/4rmw9Ja0txHNXJ8wSSDBuJ"
       },
@@ -555,6 +523,22 @@
       "duration_ms": 244474,
       "name": "I Know You Know - \u96fb\u8996\u5287\u300a\u6211\u7684\u771f\u670b\u53cb\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/4ec3HOKBBbkjTvoGteQncK"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
+        "name": "\u84cb\u4e16\u82f1\u96c4",
+        "url": "https://open.spotify.com/album/22pEd6RNnbso5XFaZoT0YF"
+      },
+      "artists": [
+        {
+          "name": "Leehom Wang",
+          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
+        }
+      ],
+      "duration_ms": 286773,
+      "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
+      "url": "https://open.spotify.com/track/4FOcKtu7mXOrnifIaif0L3"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -623,22 +607,6 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "The Joy Of Sorrow",
-        "url": "https://open.spotify.com/album/0xShV7TaXhCZ2WTwwFtwT9"
-      },
-      "artists": [
-        {
-          "name": "\u67ef\u667a\u68e0",
-          "url": "https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd"
-        }
-      ],
-      "duration_ms": 207434,
-      "name": "The Joy Of Sorrow",
-      "url": "https://open.spotify.com/track/78oPAwgoMFL9QxnueTuNwy"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
         "name": "\u5409\u4ed6\u624b",
         "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
       },
@@ -667,6 +635,22 @@
       "duration_ms": 245000,
       "name": "\u88dd\u5e40",
       "url": "https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
+        "name": "The Joy Of Sorrow",
+        "url": "https://open.spotify.com/album/0xShV7TaXhCZ2WTwwFtwT9"
+      },
+      "artists": [
+        {
+          "name": "\u67ef\u667a\u68e0",
+          "url": "https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd"
+        }
+      ],
+      "duration_ms": 207434,
+      "name": "The Joy Of Sorrow",
+      "url": "https://open.spotify.com/track/78oPAwgoMFL9QxnueTuNwy"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -783,6 +767,22 @@
       "duration_ms": 266085,
       "name": "\u60f3\u5ff5\u64ec\u4eba\u5316",
       "url": "https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
+        "name": "\u5c0f\u6642\u5019\u7684\u6211\u5011",
+        "url": "https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 184607,
+      "name": "\u5176\u5be6\u4f60\u4e26\u6c92\u90a3\u9ebc\u5b64\u55ae",
+      "url": "https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB"
     },
     {
       "added_at": "2023-02-23 16:00:00",

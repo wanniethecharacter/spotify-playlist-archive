@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Sans Soucis in cover, e <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">nella playlist global</a> ✨
 
-259 songs - 15 hr 44 min
+260 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [TooMuch](https://open.spotify.com/track/4xNJDgvIlMjFIVTr7Fz72j) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [TooMuch](https://open.spotify.com/album/5W1SrEyT5psrYtuyqkOyCi) | 2:23 | 2022-06-26 | 2023-02-28 |
 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 | 2022-04-01 | 2023-01-25 |
 | [Trompetisto](https://open.spotify.com/track/7LZQAYj5NmW7Db2y8k7dXm) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Trompetisto](https://open.spotify.com/album/6gsOgcotCeVJsqqQVZ0Qdb) | 2:20 | 2022-06-12 | 2022-06-27 |
+| [Tropicanal](https://open.spotify.com/track/3dLlb5I6vH8flft1ga6YSu) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F) | [Freak & Chic](https://open.spotify.com/album/3LApgjRlLrqiPsXq4EtzC7) | 4:20 | 2023-02-28 |  |
 | [Tropicanal](https://open.spotify.com/track/63NuCcaxGfsgHssX8M0xkn) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F) | [Freak & Chic](https://open.spotify.com/album/0a5LE8ZiJ9TVEjEUt9hWwp) | 4:20 | 2021-11-19 | 2023-02-25 |
 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 | 2021-11-19 |  |
 | [UNA DONNA CHE CONTA](https://open.spotify.com/track/5p3XoxsE8ZMsBEpO5NVCPs) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [UNA VITA IN CAPSLOCK](https://open.spotify.com/album/4K0sNlCS9yi7f0vXXUEsoL) | 3:45 | 2022-06-26 | 2023-02-28 |
@@ -263,7 +264,7 @@
 | [XTC \(feat\. LA NIÑA & BigMama\)](https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 2:35 | 2022-05-31 |  |
 | [You Be](https://open.spotify.com/track/79cBivPnoqZt3w7peRRyNl) | [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [Jerry Bouthier](https://open.spotify.com/artist/0odCQ1NOW9JfbEKDE2FaAb), [Cristina Bugatty](https://open.spotify.com/artist/04T2arZOVbRRfJVOlrwPDi) | [You Be](https://open.spotify.com/album/4mwmk3D6vj2PEk4ITWODen) | 5:39 | 2021-11-19 | 2022-07-28 |
 | [You Keep Me Hangin' On](https://open.spotify.com/track/3Hi5bBuZeFT9nye7ZLpQGa) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:14 | 2022-04-01 | 2023-01-25 |
-| [Young Boy](https://open.spotify.com/track/44S6dzwZux8Juxe8wP5y6E) | [Maria Violenza](https://open.spotify.com/artist/0Z9mBVXA1TwmOpN6AP8wFy) | [Tendres Tenebres](https://open.spotify.com/album/7GV3u6Of9ZC5tSeBJJjtIZ) | 4:19 | 2023-02-28 |  |
+| [Young Boy](https://open.spotify.com/track/44S6dzwZux8Juxe8wP5y6E) | [Maria Violenza](https://open.spotify.com/artist/0Z9mBVXA1TwmOpN6AP8wFy) | [Tendres Tenebres](https://open.spotify.com/album/7GV3u6Of9ZC5tSeBJJjtIZ) | 4:19 | 2023-02-28 | 2023-03-02 |
 | [Ça va? Je t’aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua) | 3:28 | 2022-07-21 |  |
 | [Ça va? Je t’aime! \- Feat\. EMMANUELLE](https://open.spotify.com/track/5FOhiZAJlPOIGBsIsnbNRC) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça va? Je t’aime! \(Feat\. Emmanuelle\)](https://open.spotify.com/album/4mn91zVzcoYysheAEd4bYJ) | 3:28 | 2022-04-22 | 2022-07-30 |
 | [МАГНИТОЛА](https://open.spotify.com/track/2VCVEs7TWgvC432VMAX1WJ) | [ДЕТИ RAVE](https://open.spotify.com/artist/73AXOp3t6ik1YiJjINRvMm) | [МАГНИТОЛА](https://open.spotify.com/album/1WbnP8ykCwSllefpsli1QC) | 2:36 | 2022-06-12 | 2022-06-27 |

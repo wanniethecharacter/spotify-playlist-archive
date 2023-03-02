@@ -4,7 +4,7 @@
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-137 songs - 10 hr 0 min
+138 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Tamago 2004](https://open.spotify.com/track/1iUrKv8Yi56ZClINsg1iXe) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [/04](https://open.spotify.com/album/5h5d12f2X21NAyfn7XdWaw) | 3:15 | 2022-01-18 | 2022-11-30 |
 | [TANGO](https://open.spotify.com/track/0zHTKP1hZPZ4PkHegHeIRe) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [SMOOCHY](https://open.spotify.com/album/7oeVetwYBxgvx2uqLSrLAV) | 4:36 | 2022-01-18 | 2022-07-29 |
 | [Tango](https://open.spotify.com/track/0YiRTKDv9phGaSxKQuyHdF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Smoochy](https://open.spotify.com/album/3vOZPaudktiXQzX1dr3228) | 4:40 | 2022-01-18 | 2023-01-17 |
-| [Tema Para Ana](https://open.spotify.com/track/6OTEPWnWVOmuwHf1153i1F) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Paula Morelenbaum](https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Casa](https://open.spotify.com/album/3thtQaXOtMWoEKx8MTmFNM) | 2:07 | 2023-01-16 |  |
+| [Tema Para Ana](https://open.spotify.com/track/6OTEPWnWVOmuwHf1153i1F) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Paula Morelenbaum](https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Casa](https://open.spotify.com/album/3thtQaXOtMWoEKx8MTmFNM) | 2:07 | 2023-01-16 | 2023-03-02 |
+| [TEMA PARA ANA \- Instrumental](https://open.spotify.com/track/75OOVMUQxu2A25n8Ki5sLQ) | [Morelenbaum2](https://open.spotify.com/artist/0nPijYv2uVkfstvYBZ7QnZ), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [CASA](https://open.spotify.com/album/6wYXK1d4dK8oXwWd78flt2) | 2:07 | 2023-01-17 |  |
 | [THE ARRANGEMENT](https://open.spotify.com/track/2ObWE3GLw2DvHkZaJNFNBS) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Robin Scott](https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8) | [THE ARRANGEMENT](https://open.spotify.com/album/02D2D6niMNBAKhzXnJIRCw) | 4:51 | 2022-01-18 | 2022-07-29 |
 | [THE ARRANGEMENT](https://open.spotify.com/track/3ZgXnrIOFfDJjSDNMwOVUu) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Robin Scott](https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8) | [THE ARRANGEMENT](https://open.spotify.com/album/5BNZ9Mn7hU2ZLhVs8LqYg8) | 4:51 | 2022-01-18 | 2023-01-17 |
 | [the end of europe](https://open.spotify.com/track/1spOegY3cSIfQ4HcET2iu0) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [B\-2 Unit](https://open.spotify.com/album/7mcQUJ1DvUqk4F7sGSOZVU) | 4:56 | 2022-01-18 | 2022-07-29 |

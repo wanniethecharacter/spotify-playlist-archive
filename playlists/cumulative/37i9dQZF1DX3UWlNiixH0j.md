@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディーシーン最先端を特集。Cover: SADFRANK
 
-212 songs - 13 hr 44 min
+214 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Highway](https://open.spotify.com/track/0CKF5Il9laNqfSWNU36qgZ) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Highway](https://open.spotify.com/album/0LRbsy0bndIFllIVDosuQM) | 2:23 | 2023-02-23 |  |
 | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/track/3nDZBhgAXl1SKLrg3lwQOM) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB) | 4:28 | 2023-01-26 |  |
 | [Holiday Coffee](https://open.spotify.com/track/1t657PdwYCNvJ9BqIt7imn) | [Dreamcast](https://open.spotify.com/artist/7l0f04RlI76FMqgXTOIJWI), [Koichiro Toyoda](https://open.spotify.com/artist/6fvMrUiC0ToUVL7BqZU8H1) | [Holiday Coffee](https://open.spotify.com/album/4cJxiAuV9TiBNwJuEDozUf) | 3:55 | 2023-01-12 | 2023-01-18 |
-| [Home away from home](https://open.spotify.com/track/078aRKG1uIz2W2Vf6Brncl) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/1QPo9D2cCyLWtBEdAjzdmg) | 4:07 | 2023-02-28 |  |
+| [Home away from home](https://open.spotify.com/track/078aRKG1uIz2W2Vf6Brncl) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/1QPo9D2cCyLWtBEdAjzdmg) | 4:07 | 2023-02-28 | 2023-03-02 |
+| [Home away from home](https://open.spotify.com/track/0Gq2WKpmU7eKwK8dUcckv2) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/3QjYyRaZJAGvFQksUdrWqW) | 4:07 | 2023-02-28 |  |
 | [Honey and Mustard](https://open.spotify.com/track/56RSWyXUBbBhJ6uveNOzkV) | [The Whoops](https://open.spotify.com/artist/0wNomLWF4Yg4XN2hHlP3Cz) | [Honey and Mustard](https://open.spotify.com/album/4y7iJG3nWln6sBgcqwSO3s) | 1:56 | 2023-01-31 | 2023-02-22 |
 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 | 2023-01-12 | 2023-01-27 |
 | [HUMAN](https://open.spotify.com/track/2HTPQfPf92R09MFSOaE8nD) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [HUMAN](https://open.spotify.com/album/2ff6i92pRXmlG5QpKDOeuU) | 4:17 | 2023-02-23 |  |
@@ -106,7 +107,8 @@
 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 | 2023-01-12 | 2023-02-01 |
 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2023-01-12 | 2023-02-08 |
 | [Rikka](https://open.spotify.com/track/23Iupm2PXlVn3bkwPBpHT5) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [SHITSURAI](https://open.spotify.com/album/2xHbUNFhiKHl8S0ap73LoK) | 3:19 | 2023-02-07 | 2023-02-22 |
-| [river relief](https://open.spotify.com/track/0PaMGCGfmGZvtGIFrpNIQ8) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [崎山蒼志](https://open.spotify.com/artist/7jOw1334Xnxq88NUyEEtOZ) | [river relief](https://open.spotify.com/album/2sXpVAlIb2DHIeCCeRzajB) | 4:00 | 2023-02-28 |  |
+| [river relief](https://open.spotify.com/track/5LfrLmJ7Mnv9ZJOy3cROKk) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [river relief](https://open.spotify.com/album/4jGKhuY5FPaNYdiYn2KDmA) | 4:00 | 2023-02-28 |  |
+| [river relief](https://open.spotify.com/track/0PaMGCGfmGZvtGIFrpNIQ8) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [崎山蒼志](https://open.spotify.com/artist/7jOw1334Xnxq88NUyEEtOZ) | [river relief](https://open.spotify.com/album/2sXpVAlIb2DHIeCCeRzajB) | 4:00 | 2023-02-28 | 2023-03-02 |
 | [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 | 2023-01-12 |  |
 | [sad but dancing, happy but crying](https://open.spotify.com/track/5GGw2ve0iVKmzSbjOghU5T) | [Bearwear](https://open.spotify.com/artist/1vs4LphTDQKsiFwVnDGFKf) | [sad but dancing, happy but crying](https://open.spotify.com/album/7c9sGteLmRaOZuzMVPKeVR) | 1:50 | 2023-01-26 | 2023-02-15 |
 | [Saikin Donano](https://open.spotify.com/track/38wXh7F3gTJo3o4DSZGqG0) | [Seikatsu no Sekkei](https://open.spotify.com/artist/6xM4LUYF3ZCeNOU3sgfrCT) | [Saikin Donano](https://open.spotify.com/album/741IDER2JBR9iOdCOTjwCU) | 3:37 | 2023-01-24 | 2023-02-08 |

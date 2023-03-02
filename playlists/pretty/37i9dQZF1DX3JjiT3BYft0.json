@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 51990,
+  "num_followers": 52017,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk0MjM1MywwMDAwMDAwMDQ4MjYwNzQwZGExZTIzNzczNzhjZjFiNmI0OTRjZGE5",
+  "snapshot_id": "MTY3MDk0MjM1MywwMDAwMDAwMDRjNjA3NjVhOGUwZTMxOGRkYWYzMWI3MjI5OTEyOTJi",
   "tracks": [
     {
       "added_at": "2022-12-13 14:39:13",
@@ -379,18 +379,34 @@
     {
       "added_at": "2022-12-13 14:39:13",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+        "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
+        "url": "https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN"
       },
       "artists": [
         {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+          "name": "\u9999\u6f84",
+          "url": "https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV"
+        },
+        {
+          "name": "\u862d",
+          "url": "https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu"
+        },
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
+        },
+        {
+          "name": "\u53cb\u5e0c\u90a3",
+          "url": "https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw"
+        },
+        {
+          "name": "\u3053\u3053\u308d",
+          "url": "https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM"
         }
       ],
-      "duration_ms": 270868,
-      "name": "Y.O.L.O!!!!!",
-      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
+      "duration_ms": 259466,
+      "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
+      "url": "https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd"
     },
     {
       "added_at": "2022-12-13 14:39:13",
@@ -427,34 +443,18 @@
     {
       "added_at": "2022-12-13 14:39:13",
       "album": {
-        "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
-        "url": "https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN"
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
       },
       "artists": [
         {
-          "name": "\u9999\u6f84",
-          "url": "https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV"
-        },
-        {
-          "name": "\u862d",
-          "url": "https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu"
-        },
-        {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
-        },
-        {
-          "name": "\u53cb\u5e0c\u90a3",
-          "url": "https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw"
-        },
-        {
-          "name": "\u3053\u3053\u308d",
-          "url": "https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM"
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 259466,
-      "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
-      "url": "https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd"
+      "duration_ms": 270868,
+      "name": "Y.O.L.O!!!!!",
+      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
     },
     {
       "added_at": "2022-12-13 14:39:13",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-12-13 14:39:13",
       "album": {
-        "name": "\u8ff7\u661f\u53eb",
-        "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
-      },
-      "artists": [
-        {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
-        }
-      ],
-      "duration_ms": 271653,
-      "name": "\u540d\u7121\u58f0",
-      "url": "https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q"
-    },
-    {
-      "added_at": "2022-12-13 14:39:13",
-      "album": {
         "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
         "url": "https://open.spotify.com/album/3T2Swbk2WotBJA6sXka0mY"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 238835,
       "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
       "url": "https://open.spotify.com/track/0BFyIMS0AV0nQPey197CAh"
+    },
+    {
+      "added_at": "2022-12-13 14:39:13",
+      "album": {
+        "name": "\u8ff7\u661f\u53eb",
+        "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "\u540d\u7121\u58f0",
+      "url": "https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q"
     },
     {
       "added_at": "2022-12-13 14:39:13",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-12-13 14:39:13",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
-        "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
+        "name": "\u3069\u304d\u3069\u304dSING OUT!",
+        "url": "https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn"
       },
       "artists": [
         {
-          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV.\u4f0a\u85e4\u5f69\u6c99)",
-          "url": "https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry"
+          "name": "\u6238\u5c71 \u9999\u6f84(CV:\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP"
         }
       ],
-      "duration_ms": 299235,
-      "name": "\u590f\u7a7a Sun! Sun! Seven! - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/2bUelKUEXJNjgLv3S8JjAX"
+      "duration_ms": 248182,
+      "name": "\u3069\u304d\u3069\u304dSING OUT!",
+      "url": "https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11"
     }
   ],
   "unique_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",

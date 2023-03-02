@@ -1,15 +1,63 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3dE92yGWcrboP1kC5SWyqu\">Todd Terry</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 36503,
+  "num_followers": 36547,
   "original_name": "Todd Terry's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2NTY2MywwMDAwMDAwMGIwNjY3NzNkODcyMzU3MzEyOTJhMWVmNmNjNjQ3NGUx",
+  "snapshot_id": "MTY3NzcwMDA0NSwwMDAwMDAwMDY0ZGJhODU0NWNjMTU3Y2RhODcxNGVkZDVmZDg5MDc2",
   "tracks": [
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "IRLY (I Really Love You)",
+        "url": "https://open.spotify.com/album/1ZaGCKsUUEhsfEbzTJeGrk"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 170569,
+      "name": "IRLY (I Really Love You)",
+      "url": "https://open.spotify.com/track/0TZmwiefBLRaNYtkRWH8Uh"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Fly Like an Eagle",
+        "url": "https://open.spotify.com/album/3fxmtAYgHefEmvKLuL6Jft"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 156097,
+      "name": "Fly Like an Eagle",
+      "url": "https://open.spotify.com/track/4uXUjefF7VdVfXz44ihvuh"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "Make You Happy",
         "url": "https://open.spotify.com/album/2eRJAVu552WFHPtGuorxQ0"
@@ -41,47 +89,27 @@
       "url": "https://open.spotify.com/track/5ZAtTAUvEz8jNJ5EPhsfJP"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
-        "name": "The Whip",
-        "url": "https://open.spotify.com/album/115wHgWz0aGblQkiSn2xbb"
+        "name": "Inside My Mind",
+        "url": "https://open.spotify.com/album/0vE2iJeMSfo7Q3J2b4esej"
       },
       "artists": [
         {
-          "name": "Gettoblaster",
-          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
         },
         {
-          "name": "James Curd",
-          "url": "https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL"
-        },
-        {
-          "name": "Missy",
-          "url": "https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4"
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
         }
       ],
-      "duration_ms": 278000,
-      "name": "The Whip",
-      "url": "https://open.spotify.com/track/7zrjgXWXMV5jtb6Sd9vi5Q"
+      "duration_ms": 209763,
+      "name": "Inside My Mind",
+      "url": "https://open.spotify.com/track/3vl8JYvFMneZNXSGvMjrZI"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/16WIijb8hRZYk8Zqg9x6z4"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 180638,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/6YX3RfZz03SIbz6uE5ujIj"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "Jackin",
         "url": "https://open.spotify.com/album/45aDCsWhHX0dYMYBD1YZwi"
@@ -97,27 +125,39 @@
       "url": "https://open.spotify.com/track/5Ch37IZ373AdaU5f4pZ9MR"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
-        "name": "Hit It (feat. NEZ)",
-        "url": "https://open.spotify.com/album/60TvAeH7kQLbPKxmdYFXD6"
+        "name": "Hendrix Flow",
+        "url": "https://open.spotify.com/album/5xX0bfn9ncd9Q3OBxqEJBx"
       },
       "artists": [
         {
-          "name": "Junior Sanchez",
-          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
-        },
-        {
-          "name": "NEZ",
-          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 221010,
-      "name": "Hit It (feat. NEZ)",
-      "url": "https://open.spotify.com/track/7hLnFu1Pv6u32fOYLLEc1t"
+      "duration_ms": 177204,
+      "name": "Hendrix Flow",
+      "url": "https://open.spotify.com/track/2JK7amLLxtXYavB4DJeF0Y"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Something In Your Eyes",
+        "url": "https://open.spotify.com/album/5s4ZxE4IDV0TlOBwZNAPo1"
+      },
+      "artists": [
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        }
+      ],
+      "duration_ms": 128223,
+      "name": "Something In Your Eyes",
+      "url": "https://open.spotify.com/track/5vr8JEu7dWxm6p1IXBGEbH"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
@@ -137,7 +177,7 @@
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
@@ -165,7 +205,7 @@
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc"
@@ -185,7 +225,7 @@
       "url": "https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "Come Back to Me",
         "url": "https://open.spotify.com/album/0eILQbXrlfdGPAWWmDAjM5"
@@ -201,7 +241,7 @@
       "url": "https://open.spotify.com/track/0wGFG26QzuMRH03ACmlyW7"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "2B Luv Part 3",
         "url": "https://open.spotify.com/album/5YY0kjII0NQ2YoaC1jyLBD"
@@ -225,7 +265,7 @@
       "url": "https://open.spotify.com/track/5xwv4MS7fkr0lvMlWlwn2E"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "We Kept Dancing",
         "url": "https://open.spotify.com/album/0fRkPkffppY6DxRBEh6txA"
@@ -249,7 +289,7 @@
       "url": "https://open.spotify.com/track/6LQK9OcjeVgTjN8iLKPVhf"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
@@ -265,7 +305,7 @@
       "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "It's Like This",
         "url": "https://open.spotify.com/album/7xdxxMGDWcQrLIgJEQq22Q"
@@ -285,7 +325,7 @@
       "url": "https://open.spotify.com/track/6hgbJDivrseU40c2G6WQaP"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "In The Yuma (feat. Aatig)",
         "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
@@ -305,7 +345,7 @@
       "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/4uT5hURMpTckmBqEKs040D"
@@ -329,95 +369,7 @@
       "url": "https://open.spotify.com/track/0NFchYXJVNxHb693dpIs0t"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Better Than The Love I Know / Pull Up To The Bumper",
-        "url": "https://open.spotify.com/album/0RcP8egKoAOG71UiiP1OOy"
-      },
-      "artists": [
-        {
-          "name": "Pig&Dan",
-          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
-        }
-      ],
-      "duration_ms": 185942,
-      "name": "Pull Up To The Bumper - Disco Mix",
-      "url": "https://open.spotify.com/track/7Jp6v5eRCGuQ1pW5tqOGlu"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "House Masters - Harry Romero Sampler",
-        "url": "https://open.spotify.com/album/1QhjW1oghJqWMiYzebJ5li"
-      },
-      "artists": [
-        {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
-        }
-      ],
-      "duration_ms": 216794,
-      "name": "Revolution - House Masters Edit",
-      "url": "https://open.spotify.com/track/0mUNTG0barFNz6rVnFBLET"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "I Need Some",
-        "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
-      },
-      "artists": [
-        {
-          "name": "WEISS",
-          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
-        },
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "I Need Some",
-      "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Talkin' Drums",
-        "url": "https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W"
-      },
-      "artists": [
-        {
-          "name": "Mel\u00e9",
-          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
-        },
-        {
-          "name": "Tour\u00e9 Kunda",
-          "url": "https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Talkin' Drums",
-      "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "Little Woman (feat. Tristan Henry)",
         "url": "https://open.spotify.com/album/5q7xui0sb5WxnQ6T8o3oI1"
@@ -445,243 +397,43 @@
       "url": "https://open.spotify.com/track/4QHRhcnKlhgsGrhGwlkjEy"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
-        "name": "Black Girl Magic",
-        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
+        "name": "House Masters - Harry Romero Sampler",
+        "url": "https://open.spotify.com/album/1QhjW1oghJqWMiYzebJ5li"
       },
       "artists": [
         {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "duration_ms": 216794,
+      "name": "Revolution - House Masters Edit",
+      "url": "https://open.spotify.com/track/0mUNTG0barFNz6rVnFBLET"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "I Need Some",
+        "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
+      },
+      "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
         },
         {
-          "name": "Dope Earth Alien",
-          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 182750,
-      "name": "It's Quiet Now (feat. Dope Earth Alien)",
-      "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
+      "duration_ms": 142200,
+      "name": "I Need Some",
+      "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "MAW Lost Tapes 1",
-        "url": "https://open.spotify.com/album/4GBo76PIdIfhS2K8c8JueH"
-      },
-      "artists": [
-        {
-          "name": "Masters At Work",
-          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
-        }
-      ],
-      "duration_ms": 382649,
-      "name": "MAW Apes Groove",
-      "url": "https://open.spotify.com/track/74K4cmvuQh2qysZ7zoXbAb"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "My Paradise",
-        "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 211029,
-      "name": "My Paradise",
-      "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/5r8caCRAl9fjuyiBwNR45H"
-      },
-      "artists": [
-        {
-          "name": "Ridney",
-          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
-        },
-        {
-          "name": "Inaya Day",
-          "url": "https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h"
-        },
-        {
-          "name": "Mighty Mouse",
-          "url": "https://open.spotify.com/artist/7L2YO3SQWLLDsYkpv0Ju4K"
-        }
-      ],
-      "duration_ms": 217935,
-      "name": "Like You - Mighty Mouse Remix",
-      "url": "https://open.spotify.com/track/6hw1qavyBjne9NjGHYCJ7F"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Jumpin (Keep on Jumpin Steve Mac Edit)",
-        "url": "https://open.spotify.com/album/6AbH2yBg9xfdcpneRQ1p7o"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "Steve Mac",
-          "url": "https://open.spotify.com/artist/4HQPu8xlD0YTKmUhCsty3a"
-        }
-      ],
-      "duration_ms": 186720,
-      "name": "Jumpin - Keep on Jumpin Steve Mac Edit",
-      "url": "https://open.spotify.com/track/2OgJRqeNdZx2NsZ9uzh9RT"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/2ZiddAyxM98xMHCu5pwuR5"
-      },
-      "artists": [
-        {
-          "name": "Marc Rousso",
-          "url": "https://open.spotify.com/artist/5f04rilC9gS34hBTw1bYXm"
-        },
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        }
-      ],
-      "duration_ms": 174598,
-      "name": "Heartbeat - Ferreck Dawn Remix",
-      "url": "https://open.spotify.com/track/4mSTPmCqktzNRnAx3BDODE"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "This Is The Sound",
-        "url": "https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u"
-      },
-      "artists": [
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 192401,
-      "name": "This Is The Sound",
-      "url": "https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Oh Why",
-        "url": "https://open.spotify.com/album/1gDXVMN35aeGp2kozkrWBG"
-      },
-      "artists": [
-        {
-          "name": "Don Swing",
-          "url": "https://open.spotify.com/artist/7mcLscTOgNSY1tyilt7dhr"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "Oh Why - Edit",
-      "url": "https://open.spotify.com/track/4kuvUV3BqWEkY3SWRFRG2K"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Helter Skelter",
-        "url": "https://open.spotify.com/album/5SimEb9VfV4K7GmeeLogha"
-      },
-      "artists": [
-        {
-          "name": "Kokiri",
-          "url": "https://open.spotify.com/artist/1owCC0eLSdPUND3qAAFEmv"
-        }
-      ],
-      "duration_ms": 172523,
-      "name": "Helter Skelter",
-      "url": "https://open.spotify.com/track/6c47kb1UyEDDK6r3EJu1Dj"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Givin My Love (Jerome Robins Remix)",
-        "url": "https://open.spotify.com/album/3YCJGM6ZdvDREFhxjlQwec"
-      },
-      "artists": [
-        {
-          "name": "Mark Funk",
-          "url": "https://open.spotify.com/artist/5zpDNufpzh8Hy6e1bQCABs"
-        },
-        {
-          "name": "Danny Cruz",
-          "url": "https://open.spotify.com/artist/4BHDajMTeCvfxfoRBU8Qc3"
-        },
-        {
-          "name": "Jerome Robins",
-          "url": "https://open.spotify.com/artist/56Ci0Hx4pIlkTsNVhI3EQW"
-        }
-      ],
-      "duration_ms": 288750,
-      "name": "Givin My Love (Jerome Robins Remix)",
-      "url": "https://open.spotify.com/track/0U3WJYeVdygyFgojRaBVNB"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Blow (La Trompeta)",
-        "url": "https://open.spotify.com/album/6IwrSyiDnALzOXDY53gq5P"
-      },
-      "artists": [
-        {
-          "name": "Des Mitchell",
-          "url": "https://open.spotify.com/artist/1Ci0pmKPsnRWghRT7aPnmk"
-        },
-        {
-          "name": "Pep N\u00fa\u00f1ez",
-          "url": "https://open.spotify.com/artist/77nsPdheTRg0Abvk23l3yb"
-        }
-      ],
-      "duration_ms": 152903,
-      "name": "Blow (La Trompeta)",
-      "url": "https://open.spotify.com/track/2NZgoxwBK0Y2h2BDCnGXYq"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Jack Had A Groove (KPD Remix)",
-        "url": "https://open.spotify.com/album/4k3BRM4j0YPtzpb2NfChfa"
-      },
-      "artists": [
-        {
-          "name": "HP Vince",
-          "url": "https://open.spotify.com/artist/08Lep2BacHxwwnUaaiXvlW"
-        },
-        {
-          "name": "Chuck Roberts",
-          "url": "https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu"
-        },
-        {
-          "name": "KPD",
-          "url": "https://open.spotify.com/artist/0hfAYH44GGDMvBJ4uGp4u0"
-        }
-      ],
-      "duration_ms": 241889,
-      "name": "Jack Had A Groove - KPD Remix Edit",
-      "url": "https://open.spotify.com/track/5dSOo8GadGa5W501o0ZuEH"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "I'll Wait (Todd Terry Remix)",
         "url": "https://open.spotify.com/album/5XDRyRQqcwmpNEom3HZg6o"
@@ -705,7 +457,311 @@
       "url": "https://open.spotify.com/track/6LMRj8igCpvgyMewvK8gaq"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Better Than The Love I Know / Pull Up To The Bumper",
+        "url": "https://open.spotify.com/album/0RcP8egKoAOG71UiiP1OOy"
+      },
+      "artists": [
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        }
+      ],
+      "duration_ms": 185942,
+      "name": "Pull Up To The Bumper - Disco Mix",
+      "url": "https://open.spotify.com/track/7Jp6v5eRCGuQ1pW5tqOGlu"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Talkin' Drums",
+        "url": "https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        },
+        {
+          "name": "Tour\u00e9 Kunda",
+          "url": "https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "Talkin' Drums",
+      "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Black Girl Magic",
+        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "It's Quiet Now (feat. Dope Earth Alien)",
+      "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Hit It (feat. NEZ)",
+        "url": "https://open.spotify.com/album/60TvAeH7kQLbPKxmdYFXD6"
+      },
+      "artists": [
+        {
+          "name": "Junior Sanchez",
+          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+        },
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        }
+      ],
+      "duration_ms": 221010,
+      "name": "Hit It (feat. NEZ)",
+      "url": "https://open.spotify.com/track/7hLnFu1Pv6u32fOYLLEc1t"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "MAW Lost Tapes 1",
+        "url": "https://open.spotify.com/album/4GBo76PIdIfhS2K8c8JueH"
+      },
+      "artists": [
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        }
+      ],
+      "duration_ms": 382649,
+      "name": "MAW Apes Groove",
+      "url": "https://open.spotify.com/track/74K4cmvuQh2qysZ7zoXbAb"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "The Whip",
+        "url": "https://open.spotify.com/album/115wHgWz0aGblQkiSn2xbb"
+      },
+      "artists": [
+        {
+          "name": "Gettoblaster",
+          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
+        },
+        {
+          "name": "James Curd",
+          "url": "https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL"
+        },
+        {
+          "name": "Missy",
+          "url": "https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "The Whip",
+      "url": "https://open.spotify.com/track/7zrjgXWXMV5jtb6Sd9vi5Q"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "I Am One, I Am Many",
+        "url": "https://open.spotify.com/album/5Art4i9DQoLjKy98UXYvC2"
+      },
+      "artists": [
+        {
+          "name": "James Curd",
+          "url": "https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL"
+        }
+      ],
+      "duration_ms": 344886,
+      "name": "I Am One, I Am Many",
+      "url": "https://open.spotify.com/track/1nfxYoiCrP9tttV3UjOAIu"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "My Paradise",
+        "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 211029,
+      "name": "My Paradise",
+      "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/5r8caCRAl9fjuyiBwNR45H"
+      },
+      "artists": [
+        {
+          "name": "Ridney",
+          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
+        },
+        {
+          "name": "Inaya Day",
+          "url": "https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h"
+        },
+        {
+          "name": "Mighty Mouse",
+          "url": "https://open.spotify.com/artist/7L2YO3SQWLLDsYkpv0Ju4K"
+        }
+      ],
+      "duration_ms": 217935,
+      "name": "Like You - Mighty Mouse Remix",
+      "url": "https://open.spotify.com/track/6hw1qavyBjne9NjGHYCJ7F"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/2ZiddAyxM98xMHCu5pwuR5"
+      },
+      "artists": [
+        {
+          "name": "Marc Rousso",
+          "url": "https://open.spotify.com/artist/5f04rilC9gS34hBTw1bYXm"
+        },
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        }
+      ],
+      "duration_ms": 174598,
+      "name": "Heartbeat - Ferreck Dawn Remix",
+      "url": "https://open.spotify.com/track/4mSTPmCqktzNRnAx3BDODE"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Oh Why",
+        "url": "https://open.spotify.com/album/1gDXVMN35aeGp2kozkrWBG"
+      },
+      "artists": [
+        {
+          "name": "Don Swing",
+          "url": "https://open.spotify.com/artist/7mcLscTOgNSY1tyilt7dhr"
+        }
+      ],
+      "duration_ms": 222580,
+      "name": "Oh Why - Edit",
+      "url": "https://open.spotify.com/track/4kuvUV3BqWEkY3SWRFRG2K"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "This Is The Sound",
+        "url": "https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 192401,
+      "name": "This Is The Sound",
+      "url": "https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Helter Skelter",
+        "url": "https://open.spotify.com/album/5SimEb9VfV4K7GmeeLogha"
+      },
+      "artists": [
+        {
+          "name": "Kokiri",
+          "url": "https://open.spotify.com/artist/1owCC0eLSdPUND3qAAFEmv"
+        }
+      ],
+      "duration_ms": 172523,
+      "name": "Helter Skelter",
+      "url": "https://open.spotify.com/track/6c47kb1UyEDDK6r3EJu1Dj"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Givin My Love (Jerome Robins Remix)",
+        "url": "https://open.spotify.com/album/3YCJGM6ZdvDREFhxjlQwec"
+      },
+      "artists": [
+        {
+          "name": "Mark Funk",
+          "url": "https://open.spotify.com/artist/5zpDNufpzh8Hy6e1bQCABs"
+        },
+        {
+          "name": "Danny Cruz",
+          "url": "https://open.spotify.com/artist/4BHDajMTeCvfxfoRBU8Qc3"
+        },
+        {
+          "name": "Jerome Robins",
+          "url": "https://open.spotify.com/artist/56Ci0Hx4pIlkTsNVhI3EQW"
+        }
+      ],
+      "duration_ms": 288750,
+      "name": "Givin My Love (Jerome Robins Remix)",
+      "url": "https://open.spotify.com/track/0U3WJYeVdygyFgojRaBVNB"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Blow (La Trompeta)",
+        "url": "https://open.spotify.com/album/6IwrSyiDnALzOXDY53gq5P"
+      },
+      "artists": [
+        {
+          "name": "Des Mitchell",
+          "url": "https://open.spotify.com/artist/1Ci0pmKPsnRWghRT7aPnmk"
+        },
+        {
+          "name": "Pep N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/77nsPdheTRg0Abvk23l3yb"
+        }
+      ],
+      "duration_ms": 152903,
+      "name": "Blow (La Trompeta)",
+      "url": "https://open.spotify.com/track/2NZgoxwBK0Y2h2BDCnGXYq"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "It's A Killa",
         "url": "https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt"
@@ -725,7 +781,7 @@
       "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/1KNgPcbtbafJwOOcFfJYIP"
@@ -745,7 +801,27 @@
       "url": "https://open.spotify.com/track/1UTIgGpDdxUonuUIw3O0YZ"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Jumpin (Keep on Jumpin Steve Mac Edit)",
+        "url": "https://open.spotify.com/album/6AbH2yBg9xfdcpneRQ1p7o"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Steve Mac",
+          "url": "https://open.spotify.com/artist/4HQPu8xlD0YTKmUhCsty3a"
+        }
+      ],
+      "duration_ms": 186720,
+      "name": "Jumpin - Keep on Jumpin Steve Mac Edit",
+      "url": "https://open.spotify.com/track/2OgJRqeNdZx2NsZ9uzh9RT"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "Do Your Thing (David Penn Remix)",
         "url": "https://open.spotify.com/album/4p0tlpETPtBRDVzA2KYnIO"
@@ -765,7 +841,159 @@
       "url": "https://open.spotify.com/track/6FR8dGMvntVCsYBFd1DCMt"
     },
     {
-      "added_at": "2023-02-17 20:27:43",
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Ride On Time",
+        "url": "https://open.spotify.com/album/1RHP9bd0aTz8ifGKNPXxVB"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Butter Rush",
+          "url": "https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo"
+        }
+      ],
+      "duration_ms": 190630,
+      "name": "Ride On Time",
+      "url": "https://open.spotify.com/track/2J7Dtaz1NYcUBbAmpUzRmw"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "World Hold On (FISHER Rework)",
+        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 178304,
+      "name": "World Hold On - FISHER Rework",
+      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "T.I.R.E.D. / Remixes",
+        "url": "https://open.spotify.com/album/1gnSB28Yq0ykJBljugMTah"
+      },
+      "artists": [
+        {
+          "name": "Oscar P",
+          "url": "https://open.spotify.com/artist/0xTeZAfTc5DpUeLXw0SBlN"
+        },
+        {
+          "name": "Norty Cotto",
+          "url": "https://open.spotify.com/artist/1R1lhAs1qcIHvzgxu5F7W5"
+        }
+      ],
+      "duration_ms": 331987,
+      "name": "T.I.R.E.D. - Norty Cotto Remix",
+      "url": "https://open.spotify.com/track/2GUxJV3Q1Mw1KrX4wNDM3G"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 154761,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Show Me Some Love (feat. Sadie Walker)",
+        "url": "https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Sadie Walker",
+          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Show Me Some Love (feat. Sadie Walker)",
+      "url": "https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Cosmic Witch (feat. Anan\u00e9) [Todd Terry Remix]",
+        "url": "https://open.spotify.com/album/5dhJFz3gS57KjqKanFWlRV"
+      },
+      "artists": [
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Anane",
+          "url": "https://open.spotify.com/artist/3cGghqrVTd3niWn9olcGYS"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 377232,
+      "name": "Cosmic Witch (feat. Anan\u00e9) - Todd Terry Remix",
+      "url": "https://open.spotify.com/track/7astMho5kK4qRN4uBywtWJ"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
+      "album": {
+        "name": "Tell You What It Is",
+        "url": "https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 187491,
+      "name": "Tell You What It Is",
+      "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
+    },
+    {
+      "added_at": "2023-03-01 19:47:25",
       "album": {
         "name": "Jumpin' (Wh0 Remix)",
         "url": "https://open.spotify.com/album/7uKSiaw9KnP0eOthc37p5P"
@@ -791,282 +1019,6 @@
       "duration_ms": 179166,
       "name": "Jumpin' - Wh0 Remix",
       "url": "https://open.spotify.com/track/3aSM13jZZAdcS3YUXQLQNB"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Ride On Time",
-        "url": "https://open.spotify.com/album/1RHP9bd0aTz8ifGKNPXxVB"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "Butter Rush",
-          "url": "https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo"
-        }
-      ],
-      "duration_ms": 190630,
-      "name": "Ride On Time",
-      "url": "https://open.spotify.com/track/2J7Dtaz1NYcUBbAmpUzRmw"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "World Hold On (FISHER Rework)",
-        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 178304,
-      "name": "World Hold On - FISHER Rework",
-      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "T.I.R.E.D. / Remixes",
-        "url": "https://open.spotify.com/album/1gnSB28Yq0ykJBljugMTah"
-      },
-      "artists": [
-        {
-          "name": "Oscar P",
-          "url": "https://open.spotify.com/artist/0xTeZAfTc5DpUeLXw0SBlN"
-        },
-        {
-          "name": "Norty Cotto",
-          "url": "https://open.spotify.com/artist/1R1lhAs1qcIHvzgxu5F7W5"
-        }
-      ],
-      "duration_ms": 331987,
-      "name": "T.I.R.E.D. - Norty Cotto Remix",
-      "url": "https://open.spotify.com/track/2GUxJV3Q1Mw1KrX4wNDM3G"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Something Going On 2022 (feat. Martha Wash & Jocelyn Brown)",
-        "url": "https://open.spotify.com/album/7Lqi1L3oTGhnHlwDhVgZmh"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "Fancy Inc",
-          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
-        },
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        },
-        {
-          "name": "Martha Wash",
-          "url": "https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Something Going On 2022 (feat. Martha Wash & Jocelyn Brown)",
-      "url": "https://open.spotify.com/track/5bExqqlQbWM7LWeOK1ZzCR"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Show Me Some Love (feat. Sadie Walker)",
-        "url": "https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        },
-        {
-          "name": "Sadie Walker",
-          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "Show Me Some Love (feat. Sadie Walker)",
-      "url": "https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Cosmic Witch (feat. Anan\u00e9) [Todd Terry Remix]",
-        "url": "https://open.spotify.com/album/5dhJFz3gS57KjqKanFWlRV"
-      },
-      "artists": [
-        {
-          "name": "Louie Vega",
-          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
-        },
-        {
-          "name": "Anane",
-          "url": "https://open.spotify.com/artist/3cGghqrVTd3niWn9olcGYS"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 377232,
-      "name": "Cosmic Witch (feat. Anan\u00e9) - Todd Terry Remix",
-      "url": "https://open.spotify.com/track/7astMho5kK4qRN4uBywtWJ"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "WATER. (Ferreck Dawn Remix)",
-        "url": "https://open.spotify.com/album/5AIA5TLGbOAzkwydu4qQAL"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        },
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "WATER. - Ferreck Dawn Remix",
-      "url": "https://open.spotify.com/track/2vy8MQuX2X7sxrPIl5h8pb"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Tell You What It Is",
-        "url": "https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu"
-      },
-      "artists": [
-        {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
-        },
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 187491,
-      "name": "Tell You What It Is",
-      "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Raw (Tony Romera Remix)",
-        "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
-      },
-      "artists": [
-        {
-          "name": "Julio Navas",
-          "url": "https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr"
-        },
-        {
-          "name": "Gustavo Bravetti",
-          "url": "https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9"
-        },
-        {
-          "name": "David Amo",
-          "url": "https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Raw - Tony Romera Remix",
-      "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Ameno Amapiano (You Wanna Bamba) [Todd Terry Remix]",
-        "url": "https://open.spotify.com/album/1p8WJo98RIGtAVRIFrXFsh"
-      },
-      "artists": [
-        {
-          "name": "Goya Menor",
-          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
-        },
-        {
-          "name": "Nektunez",
-          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "Ameno Amapiano Remix (You Wanna Bamba) - Todd Terry Remix",
-      "url": "https://open.spotify.com/track/0Yx4DyxRnhoXdEQcSbn0CD"
-    },
-    {
-      "added_at": "2023-02-17 20:27:43",
-      "album": {
-        "name": "Homework (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6JRaPcrT3cMBEmkgSqEPhI"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 477066,
-      "name": "Around the World - Tee's Frozen Sun Mix",
-      "url": "https://open.spotify.com/track/4W10VdilnHOyPs0Z2bk0Ok"
     }
   ],
   "unique_name": "Todd Terry's track IDs",

@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: くるり
 
-500 songs - 1 day 8 hr 58 min
+501 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 | 2023-02-14 |  |
 | [Wander Wraith](https://open.spotify.com/track/7nOUXBAT9xF3PaPZQlprxG) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Wander Wraith](https://open.spotify.com/album/5sFfxKiqoQ45I8oCYHTWHL) | 2:44 | 2022-05-12 | 2022-07-28 |
 | [Weekend](https://open.spotify.com/track/2FWDTbucnvUDT2pv3HR5Jl) | [Penpals](https://open.spotify.com/artist/4V8diCpPPWb4X7qav0BCNM) | [Weekend](https://open.spotify.com/album/1K5jez1Rj40wTRegT4BK15) | 3:55 | 2022-06-21 | 2022-07-14 |
+| [What a View](https://open.spotify.com/track/4xeDgkZZMm7e42KRhgynhe) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [I Want to See You So Badly](https://open.spotify.com/album/5AvOgLo5tbPdTxwO1OYB00) | 2:04 | 2023-02-28 |  |
 | [When the Ship Rolls In](https://open.spotify.com/track/6IUulBDi2zoxZoTlDXLuRe) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Adjusted](https://open.spotify.com/album/3vi50McgHideZ6Ke8dBCzz) | 4:07 | 2022-12-13 | 2022-12-21 |
 | [Wife](https://open.spotify.com/track/6sj4L1gpMd3KJTczI9H8N6) | [METAFIVE](https://open.spotify.com/artist/5bIZrkukT53Jqrc4Vl4dvI) | [Wife](https://open.spotify.com/album/5zMPAuweyhdfG57mxRK9QD) | 4:28 | 2022-07-19 | 2022-08-04 |
 | [Winter Story](https://open.spotify.com/track/5v5eCRsO7yJXcq2DGtlhVB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Winter Story](https://open.spotify.com/album/2jFjmAgTNaduGZ77qN72Js) | 3:39 | 2022-12-20 | 2023-01-25 |
@@ -326,7 +327,7 @@
 | [この道の先で](https://open.spotify.com/track/6UWhwIkN3016VwFVXXi9LQ) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [この道の先で](https://open.spotify.com/album/06YUhkvCuOV0oXIgNHNhkp) | 5:04 | 2022-05-12 | 2022-07-27 |
 | [この道を](https://open.spotify.com/track/6CaN3PyAYwDLf1XJ6bjH2m) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 3:25 | 2022-06-14 | 2022-06-22 |
 | [これでいいのだ](https://open.spotify.com/track/5YEUcZpNQH5OujYr2vTdgE) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [これでいいのだ](https://open.spotify.com/album/6wwcWh2rUlOKDdjxtai1hF) | 3:29 | 2022-05-10 | 2022-07-09 |
-| [ごらん](https://open.spotify.com/track/3QgiKtomG9JIt3U4hljXJU) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [君に会いたいんだ、とても](https://open.spotify.com/album/4CrzCrLZfXA83j0PUpgWi6) | 2:04 | 2023-02-28 |  |
+| [ごらん](https://open.spotify.com/track/3QgiKtomG9JIt3U4hljXJU) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [君に会いたいんだ、とても](https://open.spotify.com/album/4CrzCrLZfXA83j0PUpgWi6) | 2:04 | 2023-02-28 | 2023-03-02 |
 | [それくらいのこと](https://open.spotify.com/track/7MJptTkQjQNRQ1gMaLtq2w) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [それくらいのこと](https://open.spotify.com/album/6n00Y9KahbZadkPFzhSuNd) | 4:08 | 2022-05-10 | 2022-06-11 |
 | [それは愛なんだぜ!](https://open.spotify.com/track/4YAm0nGPrA8J0qGEOn5qtv) | [カーリングシトーンズ](https://open.spotify.com/artist/2CWdFcS91QZURvn7PnbpdP) | [それは愛なんだぜ!](https://open.spotify.com/album/1Awt6Ml00XvndM9CEutUzc) | 3:42 | 2022-05-10 | 2022-06-19 |
 | [たぶんMaybe明治 feat\. あ、たぎれんたろう](https://open.spotify.com/track/4XdSe3t6dLv4wm38EzztCc) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [あ、たぎれんたろう](https://open.spotify.com/artist/5HT55SPkrxr8N49KCsDrFC) | [レキシチ](https://open.spotify.com/album/11ZNUUORgFEH7S8ZHF0sH4) | 3:31 | 2022-05-22 | 2022-07-24 |
@@ -375,7 +376,7 @@
 | [デジャデジャブーブー](https://open.spotify.com/track/0VxgQOeahno7cvgZrQeu8G) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [デジャデジャブーブー](https://open.spotify.com/album/4rD8b6svsSV09woMYKQuaz) | 4:48 | 2022-09-13 | 2022-09-28 |
 | [デッドエンド](https://open.spotify.com/track/46o8Fjofhfh4P5r8adkv8l) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [デッドエンド](https://open.spotify.com/album/3qlHymwh2d2i7HIR8ZPgY7) | 3:27 | 2022-06-09 | 2022-07-27 |
 | [トップ・オブ・ザ・ワースト](https://open.spotify.com/track/0un8szvM1BgvjnFr2S7YiL) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [トップ・オブ・ザ・ワースト](https://open.spotify.com/album/5AE3c54Pvf4pm3w6zTuv3V) | 4:03 | 2022-05-17 | 2022-05-19 |
-| [ドレミ](https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [ドレミ](https://open.spotify.com/album/4m3Zz5ajxf9evbVOLySDc8) | 4:07 | 2023-02-09 |  |
+| [ドレミ](https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [ドレミ](https://open.spotify.com/album/4m3Zz5ajxf9evbVOLySDc8) | 4:07 | 2023-02-09 | 2023-03-02 |
 | [ナカマ](https://open.spotify.com/track/38Xae6a4lqhRxVPhwpQdu8) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 3:37 | 2022-06-14 | 2022-08-24 |
 | [ナンバー1 \- Remastered Version](https://open.spotify.com/track/40lwHVBXtwwwp41vIv4hz3) | [Onsoku Line](https://open.spotify.com/artist/6TTEfWEjAdpjbchHYfo62Q) | [風景描写2002](https://open.spotify.com/album/2fN7nYABUDtUmGBuBUbIIk) | 3:12 | 2022-09-06 | 2022-09-15 |
 | [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 | 2022-12-20 |  |
@@ -410,7 +411,7 @@
 | [先輩](https://open.spotify.com/track/0XugWVvzcLN7nHFEk8bgyH) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [THE YⒶNK ROCK HERØES](https://open.spotify.com/album/60pDYcWPB5rLvI1tB8Y7RS) | 3:45 | 2023-01-03 | 2023-01-18 |
 | [光](https://open.spotify.com/track/7yuYVEQlfmZwI025JosmJx) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [光](https://open.spotify.com/album/5Vxac0LhubZos7i7672DSA) | 3:08 | 2023-02-01 | 2023-02-08 |
 | [八月は僕の名前](https://open.spotify.com/track/5S57CHTpUpaceN58EP3Mn7) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [八月は僕の名前](https://open.spotify.com/album/7i4Z0kxoGUN4Ol3sLVOZeU) | 3:52 | 2022-09-15 | 2022-09-17 |
-| [冬ノ道ノセイ](https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [冬ノ道ノセイ](https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs) | 4:31 | 2023-02-21 | 2023-03-01 |
+| [冬ノ道ノセイ](https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [冬ノ道ノセイ](https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs) | 4:31 | 2023-02-21 |  |
 | [出町柳パラレルユニバース](https://open.spotify.com/track/7wRI6losvhjrbPlpsx1tXZ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/7esEraxgPxV0BlLBjaP8Gs) | 4:04 | 2022-09-20 | 2022-11-02 |
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2022-11-01 |  |
 | [勃](https://open.spotify.com/track/3X5FxxEUNq1tExNUZXgcEc) | [ENDRECHERI](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [勃](https://open.spotify.com/album/2nmxQfw5q7YIZ7EHsb2bwQ) | 3:22 | 2022-05-22 | 2022-06-09 |

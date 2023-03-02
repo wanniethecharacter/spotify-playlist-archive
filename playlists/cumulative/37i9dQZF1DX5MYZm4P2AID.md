@@ -4,7 +4,7 @@
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-203 songs - 12 hr 19 min
+204 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Catamaran](https://open.spotify.com/track/2b4Q3h1sw8p6rJv6mk3qz1) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/4PIfaEqfAARIiWtgqk8AzG) | 3:32 | 2021-10-26 | 2022-07-29 |
 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 | 2021-10-26 |  |
 | [Cheated Hearts](https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 3:58 | 2023-02-23 |  |
-| [Chevrolet Van](https://open.spotify.com/track/5QpkOt3hpNf4zns6FJ7JRH) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 4:18 | 2023-02-03 |  |
+| [Chevrolet Van](https://open.spotify.com/track/5QpkOt3hpNf4zns6FJ7JRH) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 4:18 | 2023-02-03 | 2023-03-02 |
 | [Come On](https://open.spotify.com/track/5pc6PL2JYnJ8tvyW2ciinU) | [The 4th Coming](https://open.spotify.com/artist/1CeSvNOGIf68AZ9MH1zwhr) | [Strange Things \(The Complete Works, 1970 \- 1974\)](https://open.spotify.com/album/4kwIasWUTsii5bSXUFFlDT) | 2:57 | 2021-10-26 |  |
 | [Continents](https://open.spotify.com/track/2XxUxNGLh4rQppREz9lMK9) | [Hembree](https://open.spotify.com/artist/0NTqSkdyIji6DuHVac7ROJ) | [House on Fire](https://open.spotify.com/album/6Wxo89c6cczQFhH8i8YDTH) | 3:08 | 2021-10-26 |  |
 | [Crashed My Bike](https://open.spotify.com/track/0DX6TehELIsI9N3wKAM0fV) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Crashed My Bike](https://open.spotify.com/album/2pRVYKpvfRzCCGCEImrvTr) | 3:03 | 2021-10-26 |  |
@@ -139,7 +139,7 @@
 | [Not Another Drop](https://open.spotify.com/track/2SBt99MHENYHqCtfdDZFI7) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [Kings Left Behind](https://open.spotify.com/album/7jHbdvxqWHOAAY7Rg0Cm39) | 3:56 | 2021-10-26 | 2022-07-29 |
 | [OOGA BOOGA!](https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [OOGA BOOGA!](https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt) | 2:19 | 2023-02-23 |  |
 | [Out In The Country](https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Dancin' With Wolves](https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl) | 2:54 | 2021-10-26 |  |
-| [Out on the Weekend](https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:02 | 2023-02-23 |  |
+| [Out on the Weekend \- Lyric Video](https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:02 | 2023-02-23 |  |
 | [Palm Trees](https://open.spotify.com/track/0dy38OIA6UqWLsRVtwNBhW) | [Often](https://open.spotify.com/artist/7BFGaVvOZLQtSLfWCvJeKW) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 2:57 | 2023-02-23 |  |
 | [Paper Planes \- DFA Remix](https://open.spotify.com/track/1hCD7X2223N2Jt4MzKIe3C) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [DFA](https://open.spotify.com/artist/7Gprizzv3dHXNrhfR27Aua) | [Paper Planes \- Homeland Security Remixes](https://open.spotify.com/album/4GG44VSWcotck92vWZYpS5) | 5:52 | 2021-10-26 |  |
 | [Pogues Theme](https://open.spotify.com/track/2TzhYrAMAVPZU2gKHAnWiI) | [Fil Eisler](https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj) | [Pogues Theme \(From The Netflix Series Outer Banks\)](https://open.spotify.com/album/58wGqs5bjIluzWqFLJUuAv) | 5:23 | 2023-02-13 |  |
@@ -163,6 +163,7 @@
 | [Sandman](https://open.spotify.com/track/4UuL6goVDXswWgRGQiYHki) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/7nfhqcOW8XRHZvvocev5ZF) | 3:12 | 2021-10-26 | 2022-11-18 |
 | [Silver Timothy](https://open.spotify.com/track/0dRM84FDv9MN2HGnuJsSCi) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Brothers and Sisters of the Eternal Son \(Deluxe Edition\)](https://open.spotify.com/album/1RRHi23DOwVOwimc3BjnBv) | 3:16 | 2023-02-23 |  |
 | [Simé Love](https://open.spotify.com/track/66C8WrKjSSolC9gaL9M7sr) | [Dowdelin](https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue) | [Lanmou Lanmou](https://open.spotify.com/album/5I7tMruynWvRRRMgmUnZN0) | 3:30 | 2023-02-23 |  |
+| [Sold out of Love](https://open.spotify.com/track/6BKpJ2pDPixM3Nwqhr9999) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Sold out of Love](https://open.spotify.com/album/6IScP3wFdmrD6dmlbQaN1F) | 4:19 | 2023-03-01 |  |
 | [Something That You're Missing](https://open.spotify.com/track/1feFU0PFJYCySHLBxZUZ8V) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/26WIJQq5d9NkiE2mPNvjJ8) | 2:50 | 2021-10-26 | 2022-07-29 |
 | [Something That You're Missing](https://open.spotify.com/track/24QqUt4VHZIYg5LYnl4MeA) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/24tZ8bH69NK3fmxSuQ10UO) | 2:50 | 2021-10-26 | 2022-10-14 |
 | [Something That You're Missing](https://open.spotify.com/track/2uYozG9El78dWTKLReHMI2) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/5Lw6V8cz834Wa097FaphAn) | 2:50 | 2021-10-26 |  |

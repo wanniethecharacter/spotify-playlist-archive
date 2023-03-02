@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> The hottest songs from LGBTQIA+ artists\. Cover: MOONGA K.
+> The hottest songs from LGBTQIA+ artists\. Cover: Tove Lo
 
 538 songs - 1 day 5 hr 16 min
 

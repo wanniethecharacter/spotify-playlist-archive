@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Slow Fiction",
+        "url": "https://open.spotify.com/album/1E6EbTOK4fkXha0g2LH5us"
+      },
+      "artists": [
+        {
+          "name": "Slow Fiction",
+          "url": "https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77646,
+      "name": "(take four)",
+      "url": "https://open.spotify.com/track/2dnjICOy1ebe7OypAdMCyI"
+    },
+    {
+      "album": {
         "name": "/\u02c8s\u028c\u026akl\u026a\u014b/",
         "url": "https://open.spotify.com/album/26EL0hqdD1v09epb0jwhBf"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 256146,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF"
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 420893,
       "name": "Amalgamation",
       "url": "https://open.spotify.com/track/1CfrQxlwVBGJCoJmYjIFRW"
@@ -1366,6 +1384,24 @@
       "duration_ms": 394293,
       "name": "An Interior of Strange Beauty",
       "url": "https://open.spotify.com/track/65YpsPCRVa7texeE1e6ycl"
+    },
+    {
+      "album": {
+        "name": "Excess",
+        "url": "https://open.spotify.com/album/05AUVHIbbsAWgFEDn4Hx0I"
+      },
+      "artists": [
+        {
+          "name": "FAKETHIAS",
+          "url": "https://open.spotify.com/artist/38vw9qnNRDz22drwGDr0om"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154371,
+      "name": "Anaesthesia",
+      "url": "https://open.spotify.com/track/6ml8BMLfEJjR6gQyAtiGQZ"
     },
     {
       "album": {
@@ -2038,7 +2074,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 151880,
       "name": "august 31st",
       "url": "https://open.spotify.com/track/0GyrNTSvyue6oLkUHmiSKa"
@@ -2074,7 +2110,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 437059,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
@@ -3098,7 +3134,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 296543,
       "name": "BUG",
       "url": "https://open.spotify.com/track/06XaxwXwSFobXivqcLW3Mw"
@@ -3350,7 +3386,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 304144,
       "name": "Camille",
       "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
@@ -3840,7 +3876,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 307826,
       "name": "CHOREA DUPLEX",
       "url": "https://open.spotify.com/track/4yxbe1sfI9QdPIUihlvCwc"
@@ -4013,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+      },
+      "artists": [
+        {
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282920,
+      "name": "Closer Now",
+      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
+    },
+    {
+      "album": {
         "name": "The Citadel EP",
         "url": "https://open.spotify.com/album/0aWvSmTezkoPwXmCp9uctn"
       },
@@ -4118,7 +4172,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
@@ -4918,7 +4972,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 380924,
       "name": "Desert Empress Pt. 1",
       "url": "https://open.spotify.com/track/5v4QEHIykSek3n7al4zXOp"
@@ -5718,7 +5772,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 221972,
       "name": "Electric Forest",
       "url": "https://open.spotify.com/track/5OtDgatyOFuBRnUxJTHKX9"
@@ -6470,7 +6524,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 195600,
       "name": "Fake Dub Melodies",
       "url": "https://open.spotify.com/track/7d7b263tDNwFYsZpAvFdbq"
@@ -7336,6 +7390,24 @@
       "duration_ms": 289004,
       "name": "Foxglove and Heather",
       "url": "https://open.spotify.com/track/74KOgShMZ5wJR1ny6LNPll"
+    },
+    {
+      "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8"
+      },
+      "artists": [
+        {
+          "name": "A. M.",
+          "url": "https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313600,
+      "name": "Francis K.",
+      "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
     },
     {
       "album": {
@@ -8208,7 +8280,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 182857,
       "name": "Hansel and Gretel",
       "url": "https://open.spotify.com/track/3HZOIXH7nPZiAQoZleksYC"
@@ -9893,6 +9965,24 @@
     },
     {
       "album": {
+        "name": "Into Your Trap",
+        "url": "https://open.spotify.com/album/1AQzrQhtUuOl8UvCk5nJOr"
+      },
+      "artists": [
+        {
+          "name": "Mouissie",
+          "url": "https://open.spotify.com/artist/0ttveQ3Wb7pinhXutAvoDq"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312500,
+      "name": "Into Your Trap",
+      "url": "https://open.spotify.com/track/2GECtLjf9pFR8nOK790w38"
+    },
+    {
+      "album": {
         "name": "In The Face Of",
         "url": "https://open.spotify.com/album/2yCoxxEOntKBrNFF6mixhc"
       },
@@ -10739,6 +10829,24 @@
     },
     {
       "album": {
+        "name": "Suono In Un Tempo Trasfigurato",
+        "url": "https://open.spotify.com/album/0zNMvPFZJWklo4lYjYQ6Y8"
+      },
+      "artists": [
+        {
+          "name": "Bono / Burattini",
+          "url": "https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128573,
+      "name": "Le Ossa",
+      "url": "https://open.spotify.com/track/2ogSgGDotKiMMfMWDFnmAh"
+    },
+    {
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/44xQ4JlxgaSiT8my6ahJhS"
       },
@@ -10815,6 +10923,24 @@
     },
     {
       "album": {
+        "name": "Leeches In The Mud",
+        "url": "https://open.spotify.com/album/4D9MQsm9mw5Ysts19R4QS4"
+      },
+      "artists": [
+        {
+          "name": "Early Fern",
+          "url": "https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190361,
+      "name": "Leeches In The Mud",
+      "url": "https://open.spotify.com/track/3QP6hVJrBAaHpYd88sRfg3"
+    },
+    {
+      "album": {
         "name": "Lenz Pianoday 2022",
         "url": "https://open.spotify.com/album/5o3mfWFGzWv89xNQCOVk19"
       },
@@ -10834,6 +10960,24 @@
       "duration_ms": 139885,
       "name": "Lenz Pianoday 2022",
       "url": "https://open.spotify.com/track/6L41bBZkqtvKzPVp6SLESL"
+    },
+    {
+      "album": {
+        "name": "The Story Of Leonora (OST)",
+        "url": "https://open.spotify.com/album/0g3rPnUPc43zjHdMYlkwuG"
+      },
+      "artists": [
+        {
+          "name": "Toxe",
+          "url": "https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "Leonora",
+      "url": "https://open.spotify.com/track/49aEKfDVDnyhGyf2ne4Kfw"
     },
     {
       "album": {
@@ -10986,6 +11130,24 @@
       "duration_ms": 234874,
       "name": "Ligeia",
       "url": "https://open.spotify.com/track/3h4LXHnE30xPT8KAon089D"
+    },
+    {
+      "album": {
+        "name": "Dream Hacker",
+        "url": "https://open.spotify.com/album/2tr2kXZrYu5OcCwZ98jXSP"
+      },
+      "artists": [
+        {
+          "name": "Otay:onii",
+          "url": "https://open.spotify.com/artist/0C3Qh4eVVKpw4tzzXBfwKh"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154428,
+      "name": "Light Burst",
+      "url": "https://open.spotify.com/track/56E7AQz2Dx3AtLjG0Eg4NS"
     },
     {
       "album": {
@@ -11456,7 +11618,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 181428,
       "name": "MADE OF CLAY",
       "url": "https://open.spotify.com/track/6PhbV6u1G9tGZIqf2xbWT2"
@@ -11738,7 +11900,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 279464,
       "name": "Marrow",
       "url": "https://open.spotify.com/track/4KtqiNoCyxuDpC2kC8eZ8j"
@@ -12360,7 +12522,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 243765,
       "name": "miu",
       "url": "https://open.spotify.com/track/0ePxY9h4xNghuW4BqI2dog"
@@ -12986,10 +13148,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 290500,
       "name": "Nabelschnurtanz",
       "url": "https://open.spotify.com/track/7DL4cfG56dc8iDIl6l8eNP"
+    },
+    {
+      "album": {
+        "name": "Naked Times",
+        "url": "https://open.spotify.com/album/3btcuHwbIYnufJizRpS7uT"
+      },
+      "artists": [
+        {
+          "name": "KID BE KID",
+          "url": "https://open.spotify.com/artist/4rlOrE0uIPJVu8ZQy68AVD"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243213,
+      "name": "Naked Times",
+      "url": "https://open.spotify.com/track/0hFiIk5LMHQ6siRw5nldSU"
     },
     {
       "album": {
@@ -14070,6 +14250,24 @@
       "duration_ms": 280000,
       "name": "Ora\u00e7\u00e3o sem Sujeito",
       "url": "https://open.spotify.com/track/3JQ3ya3fKNRcEYZh8AlVE5"
+    },
+    {
+      "album": {
+        "name": "Orchid / Hyacinth",
+        "url": "https://open.spotify.com/album/1DKe82tATHscyF1HbtkpFT"
+      },
+      "artists": [
+        {
+          "name": "Puzzle",
+          "url": "https://open.spotify.com/artist/0H8OfXWGeR80VpEj4Np32I"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208457,
+      "name": "Orchid",
+      "url": "https://open.spotify.com/track/1ixhE0CTxDDhue5xbuyc2m"
     },
     {
       "album": {
@@ -15360,7 +15558,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 289041,
       "name": "Raw Cutz",
       "url": "https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC"
@@ -15646,7 +15844,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 222626,
       "name": "Resplandor",
       "url": "https://open.spotify.com/track/5dw3w0fcwUDvYN3hYih5Jd"
@@ -15896,6 +16094,24 @@
       "duration_ms": 139605,
       "name": "Ritus",
       "url": "https://open.spotify.com/track/5A6W79nwUxR8QVZQ7mx2HO"
+    },
+    {
+      "album": {
+        "name": "Road to Techno",
+        "url": "https://open.spotify.com/album/1eAgVQ6XRrOtbiFbeWzre8"
+      },
+      "artists": [
+        {
+          "name": "Adrian Dett",
+          "url": "https://open.spotify.com/artist/1wpeyU0O8FMgp5QNSMuIx3"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480052,
+      "name": "Road to Techno",
+      "url": "https://open.spotify.com/track/3Qc7eb1JrtCPjMjwhmzhxh"
     },
     {
       "album": {
@@ -16971,6 +17187,24 @@
     },
     {
       "album": {
+        "name": "Skylands",
+        "url": "https://open.spotify.com/album/3grMnyzNydV5L6RXhoEO5p"
+      },
+      "artists": [
+        {
+          "name": "Beatrix Weapons",
+          "url": "https://open.spotify.com/artist/5j66CcLPA7zzUhfGm8Ifhn"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174372,
+      "name": "Skylands",
+      "url": "https://open.spotify.com/track/2BIE2xv3AFNrMubxEtike4"
+    },
+    {
+      "album": {
         "name": "Lazy",
         "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
       },
@@ -17038,6 +17272,24 @@
       "duration_ms": 199666,
       "name": "Slice of Life",
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
+    },
+    {
+      "album": {
+        "name": "Slowly Forgetting, Barely Remembering",
+        "url": "https://open.spotify.com/album/0w2mMp1rooOhYEVGKP6wWc"
+      },
+      "artists": [
+        {
+          "name": "Martyna Basta",
+          "url": "https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Slowly Forgetting, Barely Remembering",
+      "url": "https://open.spotify.com/track/5WZSFvCa9sw3lDufP9w8nb"
     },
     {
       "album": {
@@ -17472,6 +17724,24 @@
       "duration_ms": 310550,
       "name": "Speak More of Love",
       "url": "https://open.spotify.com/track/0gEvpqMPj8vjJ4VZJPanIS"
+    },
+    {
+      "album": {
+        "name": "VIOLENT GLARE",
+        "url": "https://open.spotify.com/album/0EOuU9vymdpcWaRQTQzSPT"
+      },
+      "artists": [
+        {
+          "name": "TUNA DISPLAY",
+          "url": "https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "SPIN FOREVER",
+      "url": "https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC"
     },
     {
       "album": {
@@ -18195,6 +18465,24 @@
     },
     {
       "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/2oyjP6PPzSn1hTOlYcod2Z"
+      },
+      "artists": [
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80219,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/7kJ6HwxgvdYgp1M05ONYNB"
+    },
+    {
+      "album": {
         "name": "Phantom of Eden",
         "url": "https://open.spotify.com/album/17KovENSr872390SmpvK5l"
       },
@@ -18282,6 +18570,24 @@
       "duration_ms": 93733,
       "name": "Tascam",
       "url": "https://open.spotify.com/track/4ERw6RlOXBKW8Q20As61Pb"
+    },
+    {
+      "album": {
+        "name": "Maritz",
+        "url": "https://open.spotify.com/album/1cgPSwXdOm7k8TjJ1tJx5m"
+      },
+      "artists": [
+        {
+          "name": "Jonnine",
+          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171266,
+      "name": "Tea For Two (Boo)",
+      "url": "https://open.spotify.com/track/76EHY28KFA81weQ6NhXidd"
     },
     {
       "album": {
@@ -18546,7 +18852,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 276902,
       "name": "The Accident",
       "url": "https://open.spotify.com/track/12iSO9IrdXEQpSMdzBNYxi"
@@ -19026,6 +19332,24 @@
       "duration_ms": 94632,
       "name": "The Metallic Index",
       "url": "https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO"
+    },
+    {
+      "album": {
+        "name": "the moment a zipper",
+        "url": "https://open.spotify.com/album/5QcBwD6HXVRHtPRwgCJtqc"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321000,
+      "name": "the moment a zipper",
+      "url": "https://open.spotify.com/track/5gZv0ObJ7rBIiNhde9ESR3"
     },
     {
       "album": {
@@ -19810,7 +20134,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 229500,
       "name": "Todos Mis Labios",
       "url": "https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97"
@@ -20150,7 +20474,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 224000,
       "name": "Tropic Air",
       "url": "https://open.spotify.com/track/4zGpxGMoGFZarHUpAzJURL"
@@ -20460,7 +20784,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 259724,
       "name": "Ugly Orange",
       "url": "https://open.spotify.com/track/4h0b9WP2RCf4araoVaSj3J"
@@ -20532,7 +20856,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 437634,
       "name": "Umbra",
       "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
@@ -20999,6 +21323,24 @@
     },
     {
       "album": {
+        "name": "32 Balas",
+        "url": "https://open.spotify.com/album/6MUNNkg58Tz1MUlKErASw5"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Urquieta",
+          "url": "https://open.spotify.com/artist/0FvPx0jMxVB5f1B9SECQXh"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214520,
+      "name": "Vaya Pues",
+      "url": "https://open.spotify.com/track/1WYzqnLbSMLL8MlNoEdozC"
+    },
+    {
+      "album": {
         "name": "Vegetal Passivity",
         "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
       },
@@ -21010,7 +21352,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-16",
+      "date_removed": null,
       "duration_ms": 238153,
       "name": "Vegetal Passivity",
       "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
@@ -22138,6 +22480,24 @@
       "duration_ms": 227093,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/3Ov9hd59cYEYlgsv1zRjAk"
+    },
+    {
+      "album": {
+        "name": "The Things We See When We Look Closer",
+        "url": "https://open.spotify.com/album/3df9GiynsYFZ3oBcOWnV3o"
+      },
+      "artists": [
+        {
+          "name": "Sam Goku",
+          "url": "https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "Yellow River Drone",
+      "url": "https://open.spotify.com/track/1IhaSAvt7pf9qEEBt5bkoj"
     },
     {
       "album": {

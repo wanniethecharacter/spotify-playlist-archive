@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-266 songs - 16 hr 45 min
+267 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 | 2022-07-22 |  |
 | [Tell Me](https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/7hLiHJqM7TJJrHxN5o4FWB) | 3:17 | 2021-12-17 | 2022-07-29 |
 | [The 28th of January \- Electric](https://open.spotify.com/track/1TRVXcgvTlP1eBSklgawRS) | [Michael Daves](https://open.spotify.com/artist/6xkwfOyFlcsZkf6jG3wxxb) | [Orchids and Violence](https://open.spotify.com/album/62zAtstVoTRA2shCQLyXCb) | 4:46 | 2021-12-17 |  |
-| [The Hurricane's Eye](https://open.spotify.com/track/1EAuRuC7lIgIVLwXaZoHLo) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Red Bird](https://open.spotify.com/album/52TyDS3LAr2H4ZUoITQ6Ef) | 3:35 | 2021-12-17 |  |
+| [The Hurricane's Eye](https://open.spotify.com/track/1EAuRuC7lIgIVLwXaZoHLo) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Red Bird](https://open.spotify.com/album/52TyDS3LAr2H4ZUoITQ6Ef) | 3:35 | 2021-12-17 | 2023-03-02 |
+| [The Hurricane's Eye](https://open.spotify.com/track/5u3Ix27LxPWXQsOdigfTga) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Red Bird](https://open.spotify.com/album/5stp2zzBVUCwusper8vGI9) | 3:35 | 2023-01-13 |  |
 | [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 | 2022-03-11 |  |
 | [The Perfect Parts](https://open.spotify.com/track/22ojTkfbwYxyMJwOPhDvUV) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:56 | 2022-07-22 |  |
 | [The Perfect Parts](https://open.spotify.com/track/5qN5bEU3LL1LroOla5FkaE) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [The Perfect Parts](https://open.spotify.com/album/3BpphwHZ3qPvBMQ8IaldMo) | 3:56 | 2021-12-17 | 2022-07-29 |

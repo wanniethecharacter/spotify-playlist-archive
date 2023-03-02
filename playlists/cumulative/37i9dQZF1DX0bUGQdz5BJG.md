@@ -2,9 +2,9 @@
 
 ### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
-> Music City must\-hears\. Cover: Caylee Hammack
+> Music City must\-hears\. Cover: Kassi Ashton
 
-1,112 songs - 2 day 11 hr 29 min
+1,114 songs - 2 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Don't It Sound Alright](https://open.spotify.com/track/58UvLeYJXtFkbkUP3lU6YK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Don't It Sound Alright](https://open.spotify.com/album/3zLyedIJvUMz9V6iLeFPlv) | 3:38 | 2022-04-01 | 2022-05-20 |
 | [Don't Make Her Look Dumb](https://open.spotify.com/track/3AsO1KYw8SunvNFpprng8V) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX) | [Through The Madness Vol\. 1](https://open.spotify.com/album/5N9ZHay9lZWfle8m5mTPiK) | 4:02 | 2022-01-28 | 2022-02-12 |
 | [Don't Say Goodnight](https://open.spotify.com/track/77Z79JhMPYNlHZaap9mm5W) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [Don't Say Goodnight](https://open.spotify.com/album/6X1TomjwJtCv8uWMMKixRD) | 3:23 | 2022-01-28 | 2022-03-26 |
+| [Don't Say It Wasn't Love](https://open.spotify.com/track/1GFVqRtjKWcfc0n7RuO7nC) | [Brooks Huntley](https://open.spotify.com/artist/0qkwQ7ZLjeOdypr1UQCe9m) | [Don't Say It Wasn't Love](https://open.spotify.com/album/20pOKOzX2xMTZe5XfgVthL) | 3:18 | 2023-03-01 |  |
 | [Don't Tempt Me](https://open.spotify.com/track/5H6YabXRgTbGRWkZEgQoOG) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [One Of These Days](https://open.spotify.com/album/0DLyAwA8jwAwn8CK6VNT6E) | 3:04 | 2022-06-03 | 2022-09-03 |
 | [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-04-15 | 2022-05-07 |
 | [Don’t Mess With Exes](https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Don’t Mess With Exes](https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956) | 3:27 | 2023-02-10 |  |
@@ -251,6 +252,7 @@
 | [Drink Sometime](https://open.spotify.com/track/1k0XEGSF0timkI0I80ivPD) | [Nick Boyd](https://open.spotify.com/artist/5MgzAw2RMY0fJSDTn63Cdj) | [Drink Sometime](https://open.spotify.com/album/6zBT8U5feFHsaMovgYACBR) | 3:16 | 2022-04-29 | 2022-07-16 |
 | [Drinkin' It Wrong](https://open.spotify.com/track/4DSVCVCTwLElQGgS1fr3ix) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Drinkin' It Wrong](https://open.spotify.com/album/53mdg0kzOIHfb2ez48NEUY) | 3:24 | 2022-01-28 | 2022-03-12 |
 | [Drinking Songs](https://open.spotify.com/track/4rqjF6HMDIPWx52U09kNwV) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Drinking Songs](https://open.spotify.com/album/1fOOTVggmp78uXc2P5lJo1) | 3:12 | 2022-01-07 | 2022-02-26 |
+| [Drive You Out Of My Mind](https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind](https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv) | 3:32 | 2023-03-01 |  |
 | [Drunk I Am](https://open.spotify.com/track/3KUi90R0ivgB0OSsOklFV4) | [You Betcha Guy](https://open.spotify.com/artist/1Vjl3O5CQt1l05QLZWHdGd), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Drunk I Am](https://open.spotify.com/album/4b3gGfOkYYBOtQm9uPpxVB) | 3:00 | 2022-04-22 | 2022-07-02 |
 | [Drunk Plans](https://open.spotify.com/track/7aquXzKa4ABAOshANU0qio) | [Joey Hyde](https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo) | [Drunk Plans](https://open.spotify.com/album/1XyWXqkjfSA9gnFAsSNCY3) | 3:01 | 2023-01-13 |  |
 | [Dying Inside](https://open.spotify.com/track/5bghT3tkeWuJXZfPwBx3g6) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Dying Inside](https://open.spotify.com/album/4O8aG8jY8fiJ1MicUXlKiZ) | 3:15 | 2022-04-22 | 2022-06-04 |

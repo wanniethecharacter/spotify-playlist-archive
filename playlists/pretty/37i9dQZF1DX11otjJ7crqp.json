@@ -1,12 +1,12 @@
 {
   "description": "This week's essential new pop tracks. Cover: BoyWithUke",
-  "num_followers": 51341,
+  "num_followers": 51486,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNTg2MCwwMDAwMDAwMGMyOTQwZjFjNDRjMTdkYzc4OTk0MGQ2NzFiMzgwZmY4",
+  "snapshot_id": "MTY3NzIxNTg2MCwwMDAwMDAwMGU2N2EyNTllY2NmMGY2Y2ZjNWU1YzUzODBmODJmMzYx",
   "tracks": [
     {
       "added_at": "2023-02-24 05:17:40",
@@ -427,7 +427,7 @@
     {
       "added_at": "2023-02-24 05:17:40",
       "album": {
-        "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
+        "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
         "url": "https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL"
       },
       "artists": [
@@ -436,16 +436,16 @@
           "url": "https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW"
         },
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
           "name": "347aidan",
           "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
       "duration_ms": 147025,
-      "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
+      "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
     },
     {
@@ -907,8 +907,8 @@
     {
       "added_at": "2023-02-24 05:17:40",
       "album": {
-        "name": "28",
-        "url": "https://open.spotify.com/album/3rogb53wBCNjq4oHV7Dy5p"
+        "name": "Best Friend Breakup",
+        "url": "https://open.spotify.com/album/6mF1bVrioCxksnRBHUN7Ej"
       },
       "artists": [
         {
@@ -918,7 +918,7 @@
       ],
       "duration_ms": 164618,
       "name": "28",
-      "url": "https://open.spotify.com/track/4x83cYbV42NT0z1QkTj4TN"
+      "url": "https://open.spotify.com/track/5E1A7q6QL34ex6B3MQa91s"
     },
     {
       "added_at": "2023-02-24 05:17:40",

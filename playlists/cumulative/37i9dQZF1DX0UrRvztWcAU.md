@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-517 songs - 1 day 5 hr 7 min
+518 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Birthday](https://open.spotify.com/track/0ktV2JoOsoTGURzKaZnjJL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/4lFDt4sVpCni9DRHRmDjgG) | 3:35 | 2022-03-15 | 2022-04-21 |
 | [Birthday](https://open.spotify.com/track/1NOZvdCovG42qQV7ftVD5d) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:35 | 2022-07-08 | 2022-09-10 |
 | [Birthday](https://open.spotify.com/track/2xLOMHjkOK8nzxJ4r6yOKR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:35 | 2022-09-09 | 2022-12-14 |
-| [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 | 2022-12-14 |  |
+| [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 | 2022-12-14 | 2023-03-02 |
 | [Blame It on the Boogie](https://open.spotify.com/track/2JPhjahxid1Y6nv6keJ3q2) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Jacksons](https://open.spotify.com/album/56P85b0u2ND6dJL9AgOB95) | 3:30 | 2022-11-11 | 2022-11-13 |
 | [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:34 | 2022-03-15 |  |
 | [Blame It on the Boogie](https://open.spotify.com/track/1qDxpXApOmGgfkvq8DNhFT) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/3pIvt7ca8uJmrfnJAQA5l1) | 3:34 | 2022-04-11 | 2022-04-18 |
@@ -501,6 +501,7 @@
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-12-14 |  |
 | [white shoes](https://open.spotify.com/track/6llBJSKS3t3yARXQmD5pi7) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [white shoes](https://open.spotify.com/album/0a4lTjuhAiOcGP7KYk1WrT) | 2:59 | 2022-03-29 | 2022-07-29 |
 | [Wildest Dreams](https://open.spotify.com/track/59HjlYCeBsxdI0fcm3zglw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:40 | 2022-09-23 | 2022-10-01 |
+| [Wings](https://open.spotify.com/track/4l61TlfmTwxt7PdzEe28rz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Wings](https://open.spotify.com/album/1gZbP4bJhkyyompPUyfAdj) | 1:58 | 2023-02-24 |  |
 | [Winter In LA](https://open.spotify.com/track/2nuOpLwdmen2BRhV2fOvXM) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [Winter In LA](https://open.spotify.com/album/3jft4lonUAEnDbK0ODYvIe) | 2:53 | 2022-02-15 | 2022-07-29 |
 | [Wires](https://open.spotify.com/track/0VF9jhGJ0OeLsaexfWCkW7) | [Spirit of the Bear](https://open.spotify.com/artist/5nGmm4hwsRfS0XrD5ZcSCb) | [Wires](https://open.spotify.com/album/5EG1n8wKEQHNNXlmCDcMvm) | 3:53 | 2022-03-15 | 2022-07-29 |
 | [Wish You Well](https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Wish You Well](https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ) | 3:25 | 2021-12-16 | 2022-12-14 |

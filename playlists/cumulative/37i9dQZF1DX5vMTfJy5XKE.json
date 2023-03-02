@@ -5172,7 +5172,7 @@
     {
       "album": {
         "name": "O.N.E Very Merry Christmas",
-        "url": "https://open.spotify.com/album/1ec4f3q3bHBzP5IgqXMFAw"
+        "url": "https://open.spotify.com/album/6hp4z5Z80cAUCdioFrptuh"
       },
       "artists": [
         {
@@ -5183,6 +5183,24 @@
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 131111,
+      "name": "Santa Claus Is Comin' to Town",
+      "url": "https://open.spotify.com/track/6svjsUlbGkT90TwBc3t0BM"
+    },
+    {
+      "album": {
+        "name": "O.N.E Very Merry Christmas",
+        "url": "https://open.spotify.com/album/1ec4f3q3bHBzP5IgqXMFAw"
+      },
+      "artists": [
+        {
+          "name": "O.N.E The Duo",
+          "url": "https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
       "duration_ms": 131432,
       "name": "Santa Claus is Comin' to Town",
       "url": "https://open.spotify.com/track/4eGQyyMFL8VAjh0FLnO4YH"

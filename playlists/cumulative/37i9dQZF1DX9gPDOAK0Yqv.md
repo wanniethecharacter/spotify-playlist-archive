@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-184 songs - 17 hr 2 min
+185 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Anytime](https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Anytime](https://open.spotify.com/album/0t27wEKOc7V1RKMRQUemPE) | 6:05 | 2022-11-23 | 2023-01-20 |
 | [Apollo 11](https://open.spotify.com/track/2vl9yXYJmoKbv72pUIxoue) | [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Apollo 11](https://open.spotify.com/album/4K8v2zx2n4sSBSaTyPixHa) | 7:44 | 2022-11-23 |  |
 | [Aposch](https://open.spotify.com/track/2G8lZJkPiS6NHBLFCNqjlj) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Aposch](https://open.spotify.com/album/1Kz8tIRA6OB1hmv7suXLem) | 7:04 | 2022-11-24 | 2022-12-17 |
-| [Ascent \- Rebūke Remix](https://open.spotify.com/track/6600D9sZObhQUcmAw8osH0) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Ascent \(Rebūke Remix\)](https://open.spotify.com/album/7uGGt7zDGBY00AaGf3Pk8s) | 6:16 | 2023-01-13 |  |
+| [Ascent \- Rebūke Remix](https://open.spotify.com/track/6600D9sZObhQUcmAw8osH0) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Ascent \(Rebūke Remix\)](https://open.spotify.com/album/7uGGt7zDGBY00AaGf3Pk8s) | 6:16 | 2023-01-13 | 2023-03-02 |
 | [Atomic Heart](https://open.spotify.com/track/2IDz0jj2IrqSjkB3SCcDn8) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Yana Blinder](https://open.spotify.com/artist/79EE54kxCNXUGNtEkgo12R) | [Atomic Heart](https://open.spotify.com/album/0luQU7YFJBr05uS279ifqf) | 7:13 | 2023-02-27 |  |
 | [Azurblau](https://open.spotify.com/track/5x6sZ6mz23tTf7lCCa7F7A) | [GIGEE](https://open.spotify.com/artist/7mqebOCOql0RKtn1bGUdOd) | [Berlin](https://open.spotify.com/album/58Mt8Tv2EEMupogXTFC9pB) | 6:51 | 2022-12-28 | 2023-01-06 |
 | [Back Up](https://open.spotify.com/track/28tiVC1tvvPwG4jajq63pJ) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Back Up](https://open.spotify.com/album/10yJevvqETfkqxVtKIL2Pd) | 6:11 | 2023-02-27 |  |
@@ -137,6 +137,7 @@
 | [Run & Hide \- Ae:ther Remix](https://open.spotify.com/track/1vPsTGsRfdTRhzUHG7kTLF) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Run & Hide \(Ae:ther Remix\)](https://open.spotify.com/album/1YfMh6jxGPAdTxuRIYESMS) | 7:02 | 2022-12-02 | 2023-02-04 |
 | [Rush \- Miss Monique Remix](https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb) | [Sied Van Riel](https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rush \(Miss Monique Remix\)](https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6) | 4:51 | 2022-11-23 |  |
 | [Say Love \- Radio Mix](https://open.spotify.com/track/5Wlpy9LzfhRnZgeUcXkUXh) | [Airsand](https://open.spotify.com/artist/4rlSlj2XnxKA05eZ7sLWSC), [TuraniQa](https://open.spotify.com/artist/7kXkMWoPg5UfAc4LQmfI9V) | [Say Love](https://open.spotify.com/album/0ZvWPjOwDxNRAqubn8b1u7) | 4:24 | 2022-12-28 | 2023-01-06 |
+| [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-27 |  |
 | [Shake This World](https://open.spotify.com/track/2oRrosZu67qZ1g0FvxFVBS) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:44 | 2022-11-23 |  |
 | [Shout](https://open.spotify.com/track/2BB24tcKHCZtp14guuVeaJ) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Shout](https://open.spotify.com/album/00u18CYVfC2LTCaUUoYOfu) | 3:31 | 2022-12-28 | 2023-01-06 |
 | [Sidewindah \(feat\. Flirta D\)](https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Sidewindah \(feat\. Flirta D\)](https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm) | 3:33 | 2022-12-28 | 2023-01-06 |

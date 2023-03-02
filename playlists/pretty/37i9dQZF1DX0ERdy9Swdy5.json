@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 615037,
+  "num_followers": 615313,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM4MzgwMiwwMDAwMDAwMGMzNWUyOTVjY2UxNzBmYmU5NmUxYzgxY2FkNDQzM2E0",
+  "snapshot_id": "MTY3NTM4MzgwMiwwMDAwMDAwMDNhMmE5Y2U5NDRmOTFjMTYzZTY1NDIwYjlmZDRjNTE4",
   "tracks": [
     {
       "added_at": "2023-02-03 00:23:22",
@@ -143,18 +143,22 @@
     {
       "added_at": "2023-02-03 00:23:22",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+        "name": "Pa' Otro La 'O",
+        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        },
+        {
+          "name": "Jandy Feliz",
+          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
         }
       ],
-      "duration_ms": 289466,
-      "name": "Vali\u00f3 la Pena - Salsa Version",
-      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
+      "duration_ms": 316960,
+      "name": "Amor Narc\u00f3tico",
+      "url": "https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr"
     },
     {
       "added_at": "2023-02-03 00:23:22",
@@ -175,22 +179,18 @@
     {
       "added_at": "2023-02-03 00:23:22",
       "album": {
-        "name": "Pa' Otro La 'O",
-        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
       "artists": [
         {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        },
-        {
-          "name": "Jandy Feliz",
-          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 316960,
-      "name": "Amor Narc\u00f3tico",
-      "url": "https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr"
+      "duration_ms": 289466,
+      "name": "Vali\u00f3 la Pena - Salsa Version",
+      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
     },
     {
       "added_at": "2023-02-03 00:23:22",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-02-03 00:23:22",
       "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
       "artists": [
         {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 286306,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq"
+      "duration_ms": 281773,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
     },
     {
       "added_at": "2023-02-03 00:23:22",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-02-03 00:23:22",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
         }
       ],
-      "duration_ms": 281773,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
+      "duration_ms": 286306,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq"
     },
     {
       "added_at": "2023-02-03 00:23:22",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-02-03 00:23:22",
       "album": {
-        "name": "14 \u00c9xitos Duros Como Guayacan",
-        "url": "https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 334800,
-      "name": "Te Amo, Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/6P6CwLaI6bEkPGlbDI0MXW"
-    },
-    {
-      "added_at": "2023-02-03 00:23:22",
-      "album": {
         "name": "A Pesar De Todo",
         "url": "https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 303373,
       "name": "He Tratado",
       "url": "https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5"
+    },
+    {
+      "added_at": "2023-02-03 00:23:22",
+      "album": {
+        "name": "14 \u00c9xitos Duros Como Guayacan",
+        "url": "https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 334800,
+      "name": "Te Amo, Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/6P6CwLaI6bEkPGlbDI0MXW"
     },
     {
       "added_at": "2023-02-03 00:23:22",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-02-03 00:23:22",
       "album": {
-        "name": "14 \u00c9xitos Duros Como Guayacan",
-        "url": "https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Invierno En Primavera",
-      "url": "https://open.spotify.com/track/1Ta3rORfRZyTPcqCHsZXGF"
-    },
-    {
-      "added_at": "2023-02-03 00:23:22",
-      "album": {
         "name": "Esenciales Vol\u00famen I",
         "url": "https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2023-02-03 00:23:22",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 279186,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/59Fg7F5Azwd3oDSJ3vemne"
+    },
+    {
+      "added_at": "2023-02-03 00:23:22",
+      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-02-03 00:23:22",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+        "name": "14 \u00c9xitos Duros Como Guayacan",
+        "url": "https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9"
       },
       "artists": [
         {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
         }
       ],
-      "duration_ms": 279186,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/59Fg7F5Azwd3oDSJ3vemne"
+      "duration_ms": 315026,
+      "name": "Invierno En Primavera",
+      "url": "https://open.spotify.com/track/1Ta3rORfRZyTPcqCHsZXGF"
     },
     {
       "added_at": "2023-02-03 00:23:22",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-02-03 00:23:22",
       "album": {
-        "name": "Mis Amores",
-        "url": "https://open.spotify.com/album/4QcUkOX9DED7QTsHLW2FN0"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        }
-      ],
-      "duration_ms": 307386,
-      "name": "Bailemos Otra Vez",
-      "url": "https://open.spotify.com/track/7CElrb5b1CNzbbLUaBynyO"
-    },
-    {
-      "added_at": "2023-02-03 00:23:22",
-      "album": {
         "name": "Oro Salsero (20 \u00c9xitos)",
         "url": "https://open.spotify.com/album/2VChfDMXaPMlzVRWGvDwVU"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 291800,
       "name": "Qu\u00e9 Habr\u00eda Sido de M\u00ed",
       "url": "https://open.spotify.com/track/7Kz4ntJk8ACKH7sojsfTTv"
+    },
+    {
+      "added_at": "2023-02-03 00:23:22",
+      "album": {
+        "name": "Mis Amores",
+        "url": "https://open.spotify.com/album/4QcUkOX9DED7QTsHLW2FN0"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        }
+      ],
+      "duration_ms": 307386,
+      "name": "Bailemos Otra Vez",
+      "url": "https://open.spotify.com/track/7CElrb5b1CNzbbLUaBynyO"
     },
     {
       "added_at": "2023-02-03 00:23:22",

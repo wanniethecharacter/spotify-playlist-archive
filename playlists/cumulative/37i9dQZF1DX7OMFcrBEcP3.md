@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7OMFcrBEcP3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7OMFcrBEcP3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7OMFcrBEcP3)
 
-### [Corridos Viejitos](https://open.spotify.com/playlist/37i9dQZF1DX7OMFcrBEcP3)
+### [We Love Corridos Viejitos ](https://open.spotify.com/playlist/37i9dQZF1DX7OMFcrBEcP3)
 
-> Corridos viejitos pero perrones!
+> The corridos our abuelos and parents listened to, viejitos y perrones!
 
 193 songs - 9 hr 57 min
 

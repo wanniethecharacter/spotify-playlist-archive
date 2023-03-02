@@ -1032,10 +1032,28 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 247547,
       "name": "Home away from home",
       "url": "https://open.spotify.com/track/078aRKG1uIz2W2Vf6Brncl"
+    },
+    {
+      "album": {
+        "name": "Home away from home",
+        "url": "https://open.spotify.com/album/3QjYyRaZJAGvFQksUdrWqW"
+      },
+      "artists": [
+        {
+          "name": "Lilubay",
+          "url": "https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247547,
+      "name": "Home away from home",
+      "url": "https://open.spotify.com/track/0Gq2WKpmU7eKwK8dUcckv2"
     },
     {
       "album": {
@@ -1878,6 +1896,28 @@
     {
       "album": {
         "name": "river relief",
+        "url": "https://open.spotify.com/album/4jGKhuY5FPaNYdiYn2KDmA"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240940,
+      "name": "river relief",
+      "url": "https://open.spotify.com/track/5LfrLmJ7Mnv9ZJOy3cROKk"
+    },
+    {
+      "album": {
+        "name": "river relief",
         "url": "https://open.spotify.com/album/2sXpVAlIb2DHIeCCeRzajB"
       },
       "artists": [
@@ -1892,7 +1932,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 240940,
       "name": "river relief",
       "url": "https://open.spotify.com/track/0PaMGCGfmGZvtGIFrpNIQ8"

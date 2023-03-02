@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: RBD
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,745 likes - 63 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,814 likes - 63 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 35 | [Ahora Se Puede](https://open.spotify.com/track/062I8eKzgx5xtx7zhaACG2) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Ahora Se Puede](https://open.spotify.com/album/4qTRkqTXr6XA1Bh9tf4OAW) | 3:10 |
 | 36 | [Haciendo Mil Cosas](https://open.spotify.com/track/5MeC9hQFfXg8ZylieyMMzO) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Haciendo Mil Cosas](https://open.spotify.com/album/7vKfja3R6wFGwFos31XREP) | 4:50 |
 | 37 | [Volver a Casa](https://open.spotify.com/track/7DgLzDFLp5GcsYuZWJSmNL) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Volver a Casa](https://open.spotify.com/album/60bE7gawbgeAnOsbeCAMaX) | 3:44 |
-| 38 | [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 |
+| 38 | [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 |
 | 39 | [Ese Fui Yo](https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Ese Fui Yo](https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom) | 2:42 |
 | 40 | [Uva](https://open.spotify.com/track/7eiLYbtnvcPcA7UE7lcgqm) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Uva](https://open.spotify.com/album/36CZqjmsiL3aRFkkbgn5d2) | 3:07 |
 | 41 | [Ricota](https://open.spotify.com/track/6nWccNnCVXzL2JDJ6pEuVF) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Ricota](https://open.spotify.com/album/6nH1ZpOLKXDlALA2lkOrYn) | 2:38 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 62 | [Tenue](https://open.spotify.com/track/32gceUYIU0mndsBGg5DGRm) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Tenue](https://open.spotify.com/album/0RkQGiKeZoF42TjtmUE6Xk) | 2:44 |
 | 63 | [CORAZON DE NIEVE](https://open.spotify.com/track/6jKdi3HZuPTpr8BPap6D2b) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [SINCERAMENTE, BEBE](https://open.spotify.com/album/5pRyuC3CDcSZkJbg3KUFut) | 2:48 |
 
-Snapshot ID: `MTY3NzI3MDUzNSwwMDAwMDAwMDA3ZTM3ZTlmZDM1N2YxZGYxNTFjZDY0ZGRlM2I1YWE1`
+Snapshot ID: `MTY3NzI3MDUzNSwwMDAwMDAwMDIyNmIxZDBhM2ZjNzdmZmYzMzY4ZDUwYjNhYWI1MzE3`

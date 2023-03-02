@@ -3343,6 +3343,32 @@
     },
     {
       "album": {
+        "name": "Bucks",
+        "url": "https://open.spotify.com/album/2RfmTgJJDC3zz9UPojxkXp"
+      },
+      "artists": [
+        {
+          "name": "Lau Jr",
+          "url": "https://open.spotify.com/artist/0VqAapxk0FZ4ijMAZxf3hA"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Bucks",
+      "url": "https://open.spotify.com/track/44Hm2RgINnzbtq8ZpMvufp"
+    },
+    {
+      "album": {
         "name": "Butter",
         "url": "https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD"
       },
@@ -8869,6 +8895,24 @@
     },
     {
       "album": {
+        "name": "Idrogeios",
+        "url": "https://open.spotify.com/album/0CZ66Y3fWW3kptJQyM5kDC"
+      },
+      "artists": [
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170909,
+      "name": "Idrogeios",
+      "url": "https://open.spotify.com/track/77S1MD14JNFGwTVlr1NLTh"
+    },
+    {
+      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/6OqLxDFzcx4KrOsxZxG3VC"
       },
@@ -11496,6 +11540,24 @@
       "duration_ms": 219684,
       "name": "Louis Vuitton",
       "url": "https://open.spotify.com/track/1ej0sDQLcgyf8aeWOfzw4l"
+    },
+    {
+      "album": {
+        "name": "Louloudi",
+        "url": "https://open.spotify.com/album/6AcIhu9WhsZtkhpitttdjc"
+      },
+      "artists": [
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "Louloudi",
+      "url": "https://open.spotify.com/track/2sqAEZmdjX6RG0x8fQ0ldY"
     },
     {
       "album": {
@@ -15372,7 +15434,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 239253,
       "name": "Parallili Agapi",
       "url": "https://open.spotify.com/track/2LHUIYOsCZ19mDp2xRxj1u"
@@ -16844,7 +16906,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 169351,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/2Rpfa4gDFr3q96himB2c3m"
@@ -19218,7 +19280,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 203454,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/2Hl382Ahx7IV5i2Qfu5m2Q"

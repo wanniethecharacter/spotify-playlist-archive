@@ -2,7 +2,7 @@
 
 ### [EQUAL France](https://open.spotify.com/playlist/37i9dQZF1DX4kZR8vL5oVX)
 
-> Les femmes montent le son : playlist réalisée en collaboration avec Jain, à l'occasion de la journée internationale des droits des femmes.
+> Les femmes montent le son : playlist réalisée en collaboration avec Jain \(Miley Cyrus, Nicki Minaj, Beyoncé, Dolly Parton & Kate Bush\), à l'occasion de la journée internationale des droits des femmes.
 
 699 songs - 1 day 12 hr 35 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 375 songs - 16 hr 32 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 377 songs - 16 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -383,5 +383,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 373 | [Like Sosa, Bang, Bang, Baby](https://open.spotify.com/track/19DxfiuqUiuAB2QtDkgTPj) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Like Sosa, Bang, Bang, Baby](https://open.spotify.com/album/2F3ecFWb26F4F67H1ChUJk) | 2:13 |
 | 374 | [Split](https://open.spotify.com/track/3HqGDrSOZ6LbBfX5EsiaAj) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:23 |
 | 375 | [How it go](https://open.spotify.com/track/6yTy7zuNnUglg5EIlD5vX4) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:04 |
+| 376 | [Photo Copied](https://open.spotify.com/track/4Fi7fihVNkHPfBZ7KeSXVH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 2:52 |
+| 377 | [Inside The Mattress](https://open.spotify.com/track/2jLE3ZvaEZ3IeQ9gIkl2oT) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:30 |
 
-Snapshot ID: `NjkyNiw2Y2E5YjgwNjQyYmY0OWEwMzM1NDIxYmZlMTNiYTdhYzc4YmJlMmY1`
+Snapshot ID: `NjkyOCwwZTI2YmZmZDRiMGY5MjIxNjA3ODliMjExODM2ZjUyMzcwYWIyZGEw`

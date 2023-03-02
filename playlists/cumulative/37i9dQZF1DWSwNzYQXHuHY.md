@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-170 songs - 9 hr 37 min
+171 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [I′ll tell you today](https://open.spotify.com/track/3mOQFlfQMDlJWp8AK4aTKj) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [I'll tell you today \(PRIENDS Original Soundtrack Part 2\)](https://open.spotify.com/album/0ahqw51XhfIX7Eevi5NtmW) | 2:41 | 2022-05-11 | 2022-07-28 |
 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-08-09 |  |
 | [L.O.V.E](https://open.spotify.com/track/4cRAQZ8SzbTlqhD6jxhNFD) | [DANI \(Park Hyuck Jin\)](https://open.spotify.com/artist/1UzO0KpLhB7BGq2ejDKkpQ) | [Oh My Wedding OST Part.3](https://open.spotify.com/album/6nEZwWK3EoGPCbBcynPJOb) | 3:02 | 2022-07-04 | 2022-07-19 |
+| [Let's Love](https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Let's Love](https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P) | 3:40 | 2023-03-02 |  |
 | [Line](https://open.spotify.com/track/2n4NuLpGCLp7dnICjvCgAy) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Line](https://open.spotify.com/album/1fhJ1jSUbkJSF8w4vilvSr) | 3:36 | 2022-05-11 | 2022-07-28 |
 | [Losing Sleep Over You](https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Losing Sleep Over You](https://open.spotify.com/album/5cWr6GGTuK2eWAjN8EkUxi) | 3:01 | 2022-09-05 | 2023-02-25 |
 | [LOVE CELLS \(Feat\. THE PERCENT\)](https://open.spotify.com/track/1suxmKvismP5TmZHUOIS0B) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx), [THE PERCENT](https://open.spotify.com/artist/7lLlaJt5GBAqRlFcOMtgov) | [LOVE CELLS \(Feat\. THE PERCENT\)](https://open.spotify.com/album/0lzv5xX8HFaCO2PVhvMh6U) | 3:12 | 2022-05-11 | 2022-07-29 |
@@ -122,7 +123,7 @@
 | [Secret](https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Secret \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.2](https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2) | 3:11 | 2022-05-11 | 2022-08-15 |
 | [see you](https://open.spotify.com/track/5qwogqCsf0RDUVzywwlfzI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:15 | 2022-05-11 | 2022-07-26 |
 | [See You Again](https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:44 | 2022-05-11 |  |
-| [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 | 2022-05-11 |  |
+| [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 | 2022-05-11 | 2023-03-02 |
 | [Should not love you \(Part.2\)](https://open.spotify.com/track/49EViTtQ88ssFquryh5e9C) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Should not love you \(Part.2\)](https://open.spotify.com/album/7kvX7N3RNIJlBbuUvP92n2) | 2:42 | 2022-06-18 | 2022-07-29 |
 | [Shutter \(feat\. Kinn\)](https://open.spotify.com/track/1hisjif3DM0ITkDTdrRrao) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Kinn](https://open.spotify.com/artist/1xjybRUDl1NlkiSFXatruo) | [Shutter](https://open.spotify.com/album/1WdDr0SPN5osJNzKJB6RKl) | 3:03 | 2022-06-09 | 2022-07-22 |
 | [So Sweet](https://open.spotify.com/track/0i2ph7eYTjreLPe3VAd6N4) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Forever yours](https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5) | 3:59 | 2022-05-11 | 2022-06-07 |

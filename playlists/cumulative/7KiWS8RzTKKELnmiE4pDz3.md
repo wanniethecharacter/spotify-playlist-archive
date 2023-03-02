@@ -4,7 +4,7 @@
 
 > 
 
-380 songs - 16 hr 44 min
+382 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Inergee](https://open.spotify.com/track/3UJiZWtjt7Ifj557nU8awJ) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Dumb and Dumb3r](https://open.spotify.com/album/6WYfNdcfLHoI37nwA3dLdG) | 2:50 | 2022-09-29 |  |
 | [Inergee Too](https://open.spotify.com/track/7pZZmGHmmwnUL29KHGxVaK) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Dum and Dumber Too](https://open.spotify.com/album/36t3hvr9NDOKn6y3NVBAlu) | 2:36 | 2022-10-28 |  |
 | [Inside My Head!](https://open.spotify.com/track/0TapjhV7ADxz1FEk5VDlyF) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 1:37 | 2022-08-27 |  |
+| [Inside The Mattress](https://open.spotify.com/track/2jLE3ZvaEZ3IeQ9gIkl2oT) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:30 | 2023-03-01 |  |
 | [Intro](https://open.spotify.com/track/6unRl88GuLmoZTUwkffkIA) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 1:51 | 2022-08-18 |  |
 | [Intro](https://open.spotify.com/track/22yTSaGkqjJj54MkiCNYOX) | [RTB MB](https://open.spotify.com/artist/6MchyBkv0DmhCIP7kBLx5o) | [Up the Score](https://open.spotify.com/album/0qVNSAy5oED9dQvIvIWZmG) | 2:16 | 2022-09-30 |  |
 | [It's Up](https://open.spotify.com/track/4ERg7RV7W0SWkel6mJBiHv) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 2:16 | 2023-01-07 |  |
@@ -266,6 +267,7 @@
 | [Party Girlz](https://open.spotify.com/track/6LQvGtDpDMTnn3zWOBQzOx) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [2014](https://open.spotify.com/album/2tf3aF0klfrWgl9x60waZ6) | 2:12 | 2023-01-20 |  |
 | [Penthouse Shordy](https://open.spotify.com/track/3Ab6LCpjNI4GQZ5tXBpJkc) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Penthouse Shordy](https://open.spotify.com/album/6x57aHz5UqOELrNukV6hoD) | 2:06 | 2022-09-09 |  |
 | [Perfect Timing](https://open.spotify.com/track/0Tnvy0iwmoGBD0mq5MtgZF) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Sophomore Season](https://open.spotify.com/album/0AuGgD8nSb5Ct0sU6LGtiY) | 2:55 | 2022-10-28 |  |
+| [Photo Copied](https://open.spotify.com/track/4Fi7fihVNkHPfBZ7KeSXVH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 2:52 | 2023-03-01 |  |
 | [Plastic](https://open.spotify.com/track/1D0FXktMId8ocFISiXoGNG) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Flawless](https://open.spotify.com/album/3G9AmxmuqKPVRrcr0X7ns3) | 2:56 | 2023-02-02 |  |
 | [Player](https://open.spotify.com/track/35x7wRh6EKz8g2z0i2ePIF) | [0oDarksideo0](https://open.spotify.com/artist/2C6jKeAzoqfAyS1C2icx5j) | [Lost Files 4 \*Ken\*](https://open.spotify.com/album/2OrIEj7JEItUOW8wITjiSt) | 2:25 | 2023-01-11 |  |
 | [Player](https://open.spotify.com/track/54oNnhlEHJhvEmVutaB5hE) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:20 | 2023-01-07 |  |

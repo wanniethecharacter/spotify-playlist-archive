@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-138 songs - 12 hr 32 min
+139 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Sunn Bhavara](https://open.spotify.com/track/5bYBUKAIs1F4DcdcNfbMgj) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [OK Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6) | 4:23 | 2022-05-17 |  |
 | [Tangerine Thumri \(Orange Turban Mix\)](https://open.spotify.com/track/6e0Nq5CfORhxfuuBRsUaQG) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Shiva Moon: Prem Joshua Remixed by Maneesh de Moor](https://open.spotify.com/album/0q91pqWmodbereR3sVAxvX) | 7:12 | 2022-05-17 | 2022-07-29 |
 | [Tangerine Thumri \(Orange Turban Mix\)](https://open.spotify.com/track/1ZpDROkwHFYtpsRkBTG2Sr) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1), [Maneesh de Moor](https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA) | [Shiva Moon](https://open.spotify.com/album/1TtTFpcrxspPiuBsD7f1gT) | 7:12 | 2022-07-12 |  |
+| [Tarfe](https://open.spotify.com/track/3VvdqoYyBa6zssV8kNj0bM) | [Samarth Janve](https://open.spotify.com/artist/6aD59tcg6klEh7d51b6JuQ) | [Tarfe](https://open.spotify.com/album/4jkjW6EwGjiZO10LD2DTfx) | 3:18 | 2023-03-01 |  |
 | [The Deepest Of Sorrow](https://open.spotify.com/track/5TrqCiv8CSLHbSbvk0XDLo) | [Pathiena](https://open.spotify.com/artist/0gFioxhm0NLtIrUKSLkmUW) | [The Deepest Of Sorrow](https://open.spotify.com/album/7x43if6epaRgG3Mlj3dtwQ) | 3:32 | 2022-05-17 | 2023-02-22 |
 | [The Search](https://open.spotify.com/track/6voH23DtEAO7RPtSm3JRTm) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Is That So?](https://open.spotify.com/album/3ylCRdrUcCGJo47CkPtCDm) | 10:49 | 2022-05-17 |  |
 | [The Unposted Letter](https://open.spotify.com/track/1xuLfcXNcA3J2qLZGFQ3kB) | [Varun Nimbolkar](https://open.spotify.com/artist/3dmI9UkzIOZZeHcdLJfXZs), [Saee Tembhekar](https://open.spotify.com/artist/3TJyCCTVwoTQo1FQ5xxuKm) | [The Unposted Letter](https://open.spotify.com/album/48hMn9wMVg6fRDYXCH06hY) | 4:14 | 2022-05-17 | 2023-02-21 |

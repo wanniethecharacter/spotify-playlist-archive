@@ -1,13 +1,33 @@
 {
-  "description": "Los \u00e9xitos del momento en Centroam\u00e9rica, con Yandel y Feid en portada.",
-  "num_followers": 284139,
+  "description": "Los \u00e9xitos del momento en Centroam\u00e9rica, con Karol G y Shakira",
+  "num_followers": 284249,
   "original_name": "\u00c9xitos Centroam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5NjQyOCwwMDAwMDAwMDczYTgyNDAwZjI0NzcyOTM1NGMwNmNhMDg3NzgyOWY2",
+  "snapshot_id": "MTY3NzcwNjI4NCwwMDAwMDAwMDRkNzBiMzc3ODg4ZTlhMDcxNmIwZDAzNjI5ZmEzMDE5",
   "tracks": [
+    {
+      "added_at": "2023-03-01 21:31:24",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "TQG",
+      "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
+    },
     {
       "added_at": "2023-02-17 05:01:00",
       "album": {
@@ -463,26 +483,6 @@
       "duration_ms": 223992,
       "name": "La Bebe",
       "url": "https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "GAT\u00daBELA",
-        "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "GAT\u00daBELA",
-      "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
     },
     {
       "added_at": "2023-02-17 05:01:00",

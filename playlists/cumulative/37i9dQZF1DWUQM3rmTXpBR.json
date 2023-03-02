@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Shta2tella",
+        "url": "https://open.spotify.com/album/1EZENUppFnXlur5KKsP41B"
+      },
+      "artists": [
+        {
+          "name": "Ibby VK",
+          "url": "https://open.spotify.com/artist/1ZaiYYGVDJvISe5rUV7JAS"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115287,
+      "name": "Shta2tella",
+      "url": "https://open.spotify.com/track/66Vk9wfboLceIahHzBJuV0"
+    },
+    {
+      "album": {
         "name": "Sint El Ew",
         "url": "https://open.spotify.com/album/6bjdPYlUv6grgJWy5Jbiid"
       },

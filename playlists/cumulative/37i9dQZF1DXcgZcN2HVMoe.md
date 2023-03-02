@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-681 songs - 1 day 16 hr 39 min
+683 songs - 1 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Change It All](https://open.spotify.com/track/58h15p2z6LMURhFn3G18a4) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Change It All](https://open.spotify.com/album/1dEqHzlsanDYiakbPgnl7s) | 4:07 | 2022-01-24 | 2022-04-19 |
 | [Change It All](https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Change It All](https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU) | 4:07 | 2022-07-22 |  |
 | [Chasing Dreams](https://open.spotify.com/track/3cTsh9sZdHHV6Syjcwg8VW) | [Dekleyn](https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI) | [Chasing Dreams](https://open.spotify.com/album/1z1vP6EpqNYSaDWHBQfiLN) | 4:17 | 2022-01-24 | 2022-04-21 |
-| [Cheap Date](https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Starfire](https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB) | 3:10 | 2021-12-17 |  |
+| [Cheap Date](https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Starfire](https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB) | 3:10 | 2021-12-17 | 2023-03-02 |
 | [Chew On My Heart \- Piano & Voice](https://open.spotify.com/track/4VyOYqqy4sXCKsdx1mBDBc) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart \(Piano & Voice\)](https://open.spotify.com/album/3rZWc6tU0jEtwtrT3o2NvQ) | 3:41 | 2021-12-17 | 2022-06-15 |
 | [Cigarette \- Acoustic](https://open.spotify.com/track/45nYpQ2IXQQEVP5npi01wO) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [Cigarette \(Acoustic\)](https://open.spotify.com/album/6B0nmuREkryDtcDS0jFdPx) | 3:22 | 2022-01-24 | 2022-04-02 |
 | [Climb On Your Tears \(feat\. Aoife O'Donovan\)](https://open.spotify.com/track/0AQK1WPoRCTtgW5dHpKKdn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Climb On Your Tears \(feat\. Aoife O'Donovan\)](https://open.spotify.com/album/6hFKaZKTX3xGT62fnj3Ikn) | 6:04 | 2021-12-17 | 2022-07-28 |
@@ -116,7 +116,7 @@
 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 | 2022-07-22 |  |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2022-01-24 |  |
 | [Colors](https://open.spotify.com/track/5zn38bzjOZhCNmipZ9agN1) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Colors](https://open.spotify.com/album/3uO1F4TvpNqp1EQ6RNxfF1) | 3:11 | 2021-12-17 | 2022-07-28 |
-| [Colors](https://open.spotify.com/track/6pPMNzjGavElntvvM4eLoA) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 3:11 | 2023-02-10 |  |
+| [Colors](https://open.spotify.com/track/6pPMNzjGavElntvvM4eLoA) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 3:11 | 2023-02-10 | 2023-03-02 |
 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 | 2021-12-17 |  |
 | [Come To The Beach \- Acoustic Version](https://open.spotify.com/track/5AYixj0Xa8qMPVeFS2uuzT) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Come To The Beach \(Acoustic Version\)](https://open.spotify.com/album/4cAEODeG7oWbfqAbXZD59Y) | 2:28 | 2021-12-17 | 2022-07-29 |
 | [Control](https://open.spotify.com/track/0H2oAJ06XboQPa4DnKSbXL) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Control](https://open.spotify.com/album/7Ea1qWHjd65hekrOI51DJl) | 3:30 | 2021-12-17 | 2022-07-25 |
@@ -300,9 +300,11 @@
 | [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 | 2022-07-22 |  |
 | [I Made a Mess Here \(22 Symphony\)](https://open.spotify.com/track/4ShMGb0fv1ew8I86a40tpe) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5) | [All My Strength and All My Weakness](https://open.spotify.com/album/6PnEpx8wdShvkpbpuOteeG) | 3:46 | 2021-12-17 | 2022-06-11 |
 | [I Melt With You](https://open.spotify.com/track/11Ftd4jfRnTeAcDYZgxnGx) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt With You](https://open.spotify.com/album/3U5EtpqL7RLpfjAlkvV4OV) | 3:37 | 2021-12-17 | 2022-07-29 |
+| [I Melt with You](https://open.spotify.com/track/2klm5iA7LfNZBdip5hAeVL) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt with You](https://open.spotify.com/album/52bkZUrqk2yqMChTrt7bQS) | 3:37 | 2023-02-10 |  |
 | [I Melt with You](https://open.spotify.com/track/6uYFQyxZtCZih0aUfk1XdQ) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt with You](https://open.spotify.com/album/2LtZ92MK0h2C1zJofjUMaQ) | 3:37 | 2022-07-22 | 2023-02-15 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:32 | 2021-12-17 |  |
 | [I Tried](https://open.spotify.com/track/2K90utpi9AUlGUrYDapNGB) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [I Tried](https://open.spotify.com/album/0m6Rqk4Dgy7D8XEvTbrVuZ) | 4:26 | 2022-01-24 | 2022-04-20 |
+| [I Want You Back](https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 2:46 | 2023-02-10 |  |
 | [I Want You Back](https://open.spotify.com/track/37N5kMRSKMZ51e7z2C9TLy) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [I Want You Back](https://open.spotify.com/album/6pgZGRynGEYJu6cHZe9NRO) | 2:46 | 2021-12-17 | 2022-07-29 |
 | [I Want You Back](https://open.spotify.com/track/4unFohIcd9kN5SeeYrqtXk) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 2:46 | 2022-07-22 | 2023-02-15 |
 | [I'll Be Around](https://open.spotify.com/track/2XLhVVerKskZrWFnhu8WJZ) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [I'll Be Around](https://open.spotify.com/album/3HQ0GDN2XHNUhCOlwNpTTT) | 3:06 | 2021-12-17 | 2022-07-29 |

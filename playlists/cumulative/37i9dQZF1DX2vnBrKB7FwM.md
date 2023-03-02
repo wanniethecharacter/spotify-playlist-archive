@@ -4,7 +4,7 @@
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-108 songs - 6 hr 10 min
+109 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,8 +62,9 @@
 | [La Típica](https://open.spotify.com/track/03TwdngKfoPWtXEHwkhid0) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Típica](https://open.spotify.com/album/16TDlWh7XgEuclEP0waHxh) | 2:51 | 2022-07-15 | 2022-11-14 |
 | [La Típica \(2.018\)](https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 2:51 | 2022-07-15 |  |
 | [La Típica \(2.018\)](https://open.spotify.com/track/2sM2CvBHegavYx0LUCWZrx) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/1n2cyFuubJtLlIyQWjtNEi) | 2:51 | 2022-02-25 | 2022-07-29 |
+| [La Vida Es Solo Una](https://open.spotify.com/track/3DONoS10PcEs8mSoDbqhY1) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:04 | 2023-02-17 |  |
 | [La Vida Es Solo Una](https://open.spotify.com/track/5CwIPEZLQWwYB8tKruccJm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [La Vida Es Solo Una](https://open.spotify.com/album/6nMhlrzDLRGETUIxjpqXiU) | 3:04 | 2022-02-25 | 2023-02-18 |
-| [La Vida Es Sólo Una](https://open.spotify.com/track/2yDhopId3iy8hLBii6hNfh) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Grandes Éxitos: 15 Años de Carrera Musical \(Remastered\)](https://open.spotify.com/album/5M5EJPvvYzUtZZ0qoVJ2Tk) | 3:04 | 2023-02-17 |  |
+| [La Vida Es Sólo Una](https://open.spotify.com/track/2yDhopId3iy8hLBii6hNfh) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Grandes Éxitos: 15 Años de Carrera Musical \(Remastered\)](https://open.spotify.com/album/5M5EJPvvYzUtZZ0qoVJ2Tk) | 3:04 | 2023-02-17 | 2023-03-02 |
 | [Lío](https://open.spotify.com/track/2ZoHRsTZ5olVYztp1ti9ta) | [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Lío](https://open.spotify.com/album/5uKw3P9gFKtpiZx1WgKIxo) | 4:44 | 2022-12-23 |  |
 | [Mal Ejemplo](https://open.spotify.com/track/1IwdJy0egbXlhmY6dmTU9j) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mal Ejemplo](https://open.spotify.com/album/26dgbqThI76gzXN2lTAcfK) | 3:11 | 2022-02-25 |  |
 | [Mamma Mia](https://open.spotify.com/track/1tOcCdYflHbg6oHENPYTAu) | [Merchan MCH](https://open.spotify.com/artist/4Fx4y3skWbQYZtflxgVZv3), [Jr Ruiz](https://open.spotify.com/artist/6i9LyL2qb7cOPsjasA0CsS), [Xplicitos](https://open.spotify.com/artist/3wrPOw6GaEyYpCFubBXzVv), [Crikmanjam](https://open.spotify.com/artist/3zsLwOOwIPPXOtS3cWTQmH) | [Capisce](https://open.spotify.com/album/3FWZIkpgBDEfBlas4S5bTY) | 4:25 | 2022-02-25 | 2022-07-16 |

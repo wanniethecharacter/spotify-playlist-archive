@@ -434,10 +434,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 207214,
       "name": "2003",
       "url": "https://open.spotify.com/track/0LLzqbT0mLpoiQ8oqLohU3"
+    },
+    {
+      "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/0IRNdak5TtBL1YVw0bzqIK"
+      },
+      "artists": [
+        {
+          "name": "Luna Blue",
+          "url": "https://open.spotify.com/artist/71jXlesSMotAtJXLCWpvzo"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207214,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/1spixwJ4Yk3zP5W6SRF21E"
     },
     {
       "album": {
@@ -29583,7 +29601,7 @@
     },
     {
       "album": {
-        "name": "Shades Of Love (feat. The Joy)",
+        "name": "Shades Of Love (feat. The Joy) [Edit]",
         "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
       },
       "artists": [

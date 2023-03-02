@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 51273,
+  "num_followers": 51364,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGFmOTBhNTY0NGE2YjUxNDllNTU5NGZkNzk1NzY3ZjFm",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGQzOTdjYWJjNjYxZWZiMTdlMmUyYjZmODYzZDc5YTgy",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Pacer",
-        "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 459081,
-      "name": "Pacer",
-      "url": "https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Music Has The Right To Children",
         "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 95973,
       "name": "Bocuma",
       "url": "https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Pacer",
+        "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 459081,
+      "name": "Pacer",
+      "url": "https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Patterns & Light",
+        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
+      },
+      "artists": [
+        {
+          "name": "Kodomo",
+          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
+        }
+      ],
+      "duration_ms": 295049,
+      "name": "Red Giant",
+      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 528410,
       "name": "Between Dreams and Reality - Niko Schwind Remix",
       "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Patterns & Light",
-        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
-      },
-      "artists": [
-        {
-          "name": "Kodomo",
-          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
-        }
-      ],
-      "duration_ms": 295049,
-      "name": "Red Giant",
-      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Drone Logic",
-        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 342853,
-      "name": "Knowing We'll Be Here",
-      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Foans",
         "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 276115,
       "name": "Witness",
       "url": "https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Drone Logic",
+        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 342853,
+      "name": "Knowing We'll Be Here",
+      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Find Myself EP",
-        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
-      },
-      "artists": [
-        {
-          "name": "Danny B",
-          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
-        }
-      ],
-      "duration_ms": 364579,
-      "name": "Raw Charmer",
-      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "What I Saw That Night",
         "url": "https://open.spotify.com/album/2aivF6gzeacxE64m0jvfGU"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "WWDKF",
-        "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
+        "name": "Find Myself EP",
+        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
       },
       "artists": [
         {
-          "name": "Pilotpriest",
-          "url": "https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX"
+          "name": "Danny B",
+          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
         }
       ],
-      "duration_ms": 344470,
-      "name": "Archive Seven",
-      "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
+      "duration_ms": 364579,
+      "name": "Raw Charmer",
+      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -879,18 +863,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "A Minor Thought",
-        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
+        "name": "WWDKF",
+        "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
       },
       "artists": [
         {
-          "name": "Moomin",
-          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
+          "name": "Pilotpriest",
+          "url": "https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX"
         }
       ],
-      "duration_ms": 372041,
-      "name": "Loop No 1",
-      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
+      "duration_ms": 344470,
+      "name": "Archive Seven",
+      "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -907,6 +891,22 @@
       "duration_ms": 331486,
       "name": "Miracle Of The Rose",
       "url": "https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "A Minor Thought",
+        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
+      },
+      "artists": [
+        {
+          "name": "Moomin",
+          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
+        }
+      ],
+      "duration_ms": 372041,
+      "name": "Loop No 1",
+      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "The Haunted House of House",
+        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 346640,
+      "name": "Cow Palace",
+      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Toxic Temptation",
         "url": "https://open.spotify.com/album/2bTmTP8aBsiwY9ibFFtq6e"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 420433,
       "name": "Toxic Temptation - Undercatt Remix",
       "url": "https://open.spotify.com/track/0VKIilt1Z8oJQ7isTytBDc"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "The Haunted House of House",
-        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 346640,
-      "name": "Cow Palace",
-      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1079,18 +1079,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "like me",
-        "url": "https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup"
+        "name": "Sky Float Sun",
+        "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
       },
       "artists": [
         {
-          "name": "paleboi",
-          "url": "https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe"
+          "name": "Rocket Empire",
+          "url": "https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82"
+        },
+        {
+          "name": "Amber Sparks",
+          "url": "https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf"
         }
       ],
-      "duration_ms": 311186,
-      "name": "like me",
-      "url": "https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76"
+      "duration_ms": 331203,
+      "name": "Bonder",
+      "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1111,18 +1115,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Mellowdramatic",
-        "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
+        "name": "like me",
+        "url": "https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup"
       },
       "artists": [
         {
-          "name": "A Forest Mighty Black",
-          "url": "https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5"
+          "name": "paleboi",
+          "url": "https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe"
         }
       ],
-      "duration_ms": 478373,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS"
+      "duration_ms": 311186,
+      "name": "like me",
+      "url": "https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1139,6 +1143,22 @@
       "duration_ms": 376720,
       "name": "Vasudeva",
       "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Mellowdramatic",
+        "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
+      },
+      "artists": [
+        {
+          "name": "A Forest Mighty Black",
+          "url": "https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5"
+        }
+      ],
+      "duration_ms": 478373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Sky Float Sun",
-        "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
-      },
-      "artists": [
-        {
-          "name": "Rocket Empire",
-          "url": "https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82"
-        },
-        {
-          "name": "Amber Sparks",
-          "url": "https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf"
-        }
-      ],
-      "duration_ms": 331203,
-      "name": "Bonder",
-      "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Frekk EP",
         "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 474009,
       "name": "Deepart 8.0",
       "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Deep Blues",
+        "url": "https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 381453,
+      "name": "Deep Blues - Session Victim Remix",
+      "url": "https://open.spotify.com/track/3IRF31C4uQOiT9oqEE8UjX"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1219,38 +1235,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Syvsover",
-        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 423586,
-      "name": "Clock",
-      "url": "https://open.spotify.com/track/6N6jCOPR4kEczFBMrgun5A"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Backstabber EP",
-        "url": "https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu"
-      },
-      "artists": [
-        {
-          "name": "Nachtbraker",
-          "url": "https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw"
-        }
-      ],
-      "duration_ms": 407038,
-      "name": "Backstabber",
-      "url": "https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Occasional Magic Remixes EP",
         "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 330145,
       "name": "Occasional Magic - Ulrich Schnauss Remix",
       "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Backstabber EP",
+        "url": "https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu"
+      },
+      "artists": [
+        {
+          "name": "Nachtbraker",
+          "url": "https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw"
+        }
+      ],
+      "duration_ms": 407038,
+      "name": "Backstabber",
+      "url": "https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Syvsover",
+        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 423586,
+      "name": "Clock",
+      "url": "https://open.spotify.com/track/6N6jCOPR4kEczFBMrgun5A"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Endless Sacrifice",
         "url": "https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J"
       },
@@ -1339,34 +1355,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "In search of Moksha... Or something of the kind",
-        "url": "https://open.spotify.com/album/1ZYN9az0XRYYi3sGRt836S"
+        "name": "Reachy Prints",
+        "url": "https://open.spotify.com/album/1gEUsLhMFziQj29kuo65hk"
       },
       "artists": [
         {
-          "name": "Aron Estocolmo",
-          "url": "https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra"
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
         }
       ],
-      "duration_ms": 397894,
-      "name": "The Ganga river unpolluted once more",
-      "url": "https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Ars Vivendi",
-        "url": "https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F"
-      },
-      "artists": [
-        {
-          "name": "Eisket",
-          "url": "https://open.spotify.com/artist/7dg92RF0oCciOkdpRwtskK"
-        }
-      ],
-      "duration_ms": 381406,
-      "name": "Ars Vivendi",
-      "url": "https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm"
+      "duration_ms": 288554,
+      "name": "Hawkmoth",
+      "url": "https://open.spotify.com/track/0LQwjyPTElZ4rKxJXEPFnq"
     }
   ],
   "unique_name": "Deep Study",

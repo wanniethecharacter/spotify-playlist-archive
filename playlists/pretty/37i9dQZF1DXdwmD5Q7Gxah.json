@@ -1,6 +1,6 @@
 {
   "description": "All the indescribable feelings that music gives you. cover: quinnie",
-  "num_followers": 1012178,
+  "num_followers": 1013326,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
@@ -171,7 +171,7 @@
     {
       "added_at": "2023-02-22 22:17:39",
       "album": {
-        "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
+        "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
         "url": "https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL"
       },
       "artists": [
@@ -180,16 +180,16 @@
           "url": "https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW"
         },
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
           "name": "347aidan",
           "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
       "duration_ms": 147025,
-      "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
+      "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
     },
     {

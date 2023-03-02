@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 209988,
+  "num_followers": 210005,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDY2YzU3ZmZmMDdkNmI4ZmZhZDI1ZjFiZDI4ZDA0OWJk",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDg0NjhmN2ZjNTQxYTA5YWI3MDVmOTEwM2E3NmY0Mzcx",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "There's A Riot Goin' On",
-        "url": "https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT"
-      },
-      "artists": [
-        {
-          "name": "George Howard",
-          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "Luv N' Haight",
-      "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 185340,
       "name": "Today",
       "url": "https://open.spotify.com/track/2q31jbhT4UKTd0hD79yPJQ"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "There's A Riot Goin' On",
+        "url": "https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT"
+      },
+      "artists": [
+        {
+          "name": "George Howard",
+          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "Luv N' Haight",
+      "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/2uLQpzNicgtkOX2HnuQz7f"
-      },
-      "artists": [
-        {
-          "name": "Vandell Andrew",
-          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
-        }
-      ],
-      "duration_ms": 245989,
-      "name": "Chill AF",
-      "url": "https://open.spotify.com/track/7wsOL6S0gabDU2OW95qlSq"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Can't Stop Now",
         "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 301853,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/6lyoLhAkRUDGXVgcpXXcCx"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/2uLQpzNicgtkOX2HnuQz7f"
+      },
+      "artists": [
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "duration_ms": 245989,
+      "name": "Chill AF",
+      "url": "https://open.spotify.com/track/7wsOL6S0gabDU2OW95qlSq"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -697,38 +697,6 @@
       "url": "https://open.spotify.com/track/5H6VCCvafjEQWIrnui0wOd"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "The Goddess",
-        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 246458,
-      "name": "The Goddess",
-      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Manhattan Nights",
-        "url": "https://open.spotify.com/album/5DGDEZkZPkc2OrnBAp9ij1"
-      },
-      "artists": [
-        {
-          "name": "Jaared",
-          "url": "https://open.spotify.com/artist/0SaucWNgFLWiUFMEplJnyL"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Touch",
@@ -749,6 +717,22 @@
       "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
     },
     {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "The Goddess",
+        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 246458,
+      "name": "The Goddess",
+      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+    },
+    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "Echoes Of The Heart",
@@ -763,6 +747,22 @@
       "duration_ms": 241933,
       "name": "Caught Me By Surprise",
       "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Manhattan Nights",
+        "url": "https://open.spotify.com/album/5DGDEZkZPkc2OrnBAp9ij1"
+      },
+      "artists": [
+        {
+          "name": "Jaared",
+          "url": "https://open.spotify.com/artist/0SaucWNgFLWiUFMEplJnyL"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "My One And Only One",
+        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 316377,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/0tWkzUTlC82KsJpfJ7oC2d"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Backyard Brew",
         "url": "https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 254376,
       "name": "Backyard Brew",
       "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "My One And Only One",
-        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 316377,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/0tWkzUTlC82KsJpfJ7oC2d"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "L.I.T.",
-        "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
-      },
-      "artists": [
-        {
-          "name": "Riley Richard",
-          "url": "https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4"
-        }
-      ],
-      "duration_ms": 258138,
-      "name": "L.I.T.",
-      "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Quintastic",
         "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
       },
@@ -975,22 +959,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "James Vargas",
-        "url": "https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh"
-      },
-      "artists": [
-        {
-          "name": "James Vargas",
-          "url": "https://open.spotify.com/artist/75zhICFfHLHabeEW0ZTlnC"
-        }
-      ],
-      "duration_ms": 312800,
-      "name": "Lasting Impression",
-      "url": "https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Undeniable",
         "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
       },
@@ -1003,6 +971,54 @@
       "duration_ms": 258275,
       "name": "Issa Party",
       "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "L.I.T.",
+        "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
+      },
+      "artists": [
+        {
+          "name": "Riley Richard",
+          "url": "https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4"
+        }
+      ],
+      "duration_ms": 258138,
+      "name": "L.I.T.",
+      "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
+        "url": "https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Barack's Groove",
+      "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "James Vargas",
+        "url": "https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh"
+      },
+      "artists": [
+        {
+          "name": "James Vargas",
+          "url": "https://open.spotify.com/artist/75zhICFfHLHabeEW0ZTlnC"
+        }
+      ],
+      "duration_ms": 312800,
+      "name": "Lasting Impression",
+      "url": "https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1053,24 +1069,20 @@
       "url": "https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
+      "added_at": "2021-08-13 04:01:00",
       "album": {
-        "name": "I'm Back",
-        "url": "https://open.spotify.com/album/35LyXPSnkCbeQ6aYIHpIFi"
+        "name": "West Coast Soul",
+        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
       },
       "artists": [
         {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        },
-        {
-          "name": "Michael O'Hara",
-          "url": "https://open.spotify.com/artist/7snMO6N0CoAKYdO3wJQzHQ"
+          "name": "Chris Godber",
+          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
         }
       ],
-      "duration_ms": 252946,
-      "name": "Hard Work (feat. Michael O'Hara)",
-      "url": "https://open.spotify.com/track/7mDJQJu8HAyeALcGNNWZ9x"
+      "duration_ms": 259838,
+      "name": "West Coast Soul",
+      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1087,22 +1099,6 @@
       "duration_ms": 242933,
       "name": "City Beat",
       "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "West Coast Soul",
-        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
-      },
-      "artists": [
-        {
-          "name": "Chris Godber",
-          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "West Coast Soul",
-      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1123,22 +1119,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Soho",
-      "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Main Street Beat",
         "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 253426,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "I'm Back",
+        "url": "https://open.spotify.com/album/35LyXPSnkCbeQ6aYIHpIFi"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        },
+        {
+          "name": "Michael O'Hara",
+          "url": "https://open.spotify.com/artist/7snMO6N0CoAKYdO3wJQzHQ"
+        }
+      ],
+      "duration_ms": 252946,
+      "name": "Hard Work (feat. Michael O'Hara)",
+      "url": "https://open.spotify.com/track/7mDJQJu8HAyeALcGNNWZ9x"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1167,6 +1167,22 @@
       "duration_ms": 250093,
       "name": "On The Move",
       "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "Soho",
+      "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1205,6 +1221,22 @@
       "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
     },
     {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 261401,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "As the Days Go by...",
@@ -1219,22 +1251,6 @@
       "duration_ms": 309827,
       "name": "As the Days Go by...",
       "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
-        "url": "https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Barack's Groove",
-      "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1299,6 +1315,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
+      },
+      "artists": [
+        {
+          "name": "Neamen Lyles",
+          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Shades",
         "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
       },
@@ -1331,22 +1363,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Moment of Truth",
-        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
-      },
-      "artists": [
-        {
-          "name": "Neamen Lyles",
-          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Align",
         "url": "https://open.spotify.com/album/76yw5fyBIXtxEGr1XqrZsv"
       },
@@ -1365,6 +1381,22 @@
       "url": "https://open.spotify.com/track/2eEQtEfr7JdPSSwYjNsznv"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Sexy Saxy, Vol. 3",
+        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
+      },
+      "artists": [
+        {
+          "name": "Jarez",
+          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
+        }
+      ],
+      "duration_ms": 263128,
+      "name": "What U Want, What U Need",
+      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
+    },
+    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Play",
@@ -1379,6 +1411,38 @@
       "duration_ms": 236273,
       "name": "Play",
       "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shell",
+          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
+        },
+        {
+          "name": "Arun Shenoy",
+          "url": "https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU"
+        },
+        {
+          "name": "Douglas Lira",
+          "url": "https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI"
+        },
+        {
+          "name": "Sami Turunen",
+          "url": "https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO"
+        },
+        {
+          "name": "Strat Carter",
+          "url": "https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx"
+        }
+      ],
+      "duration_ms": 187818,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1407,38 +1471,6 @@
       "duration_ms": 310480,
       "name": "Another Part Of Me",
       "url": "https://open.spotify.com/track/4vMb0VIg2w6qcrfaqRjcYB"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Sexy Saxy, Vol. 3",
-        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
-      },
-      "artists": [
-        {
-          "name": "Jarez",
-          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
-        }
-      ],
-      "duration_ms": 263128,
-      "name": "What U Want, What U Need",
-      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Steppin' Up",
-        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Ward",
-          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "City Vibe",
-      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1477,52 +1509,20 @@
       "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
+        "name": "Steppin' Up",
+        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
       },
       "artists": [
         {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+          "name": "Andr\u00e9 Ward",
+          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
         }
       ],
-      "duration_ms": 261401,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shell",
-          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
-        },
-        {
-          "name": "Arun Shenoy",
-          "url": "https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU"
-        },
-        {
-          "name": "Douglas Lira",
-          "url": "https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI"
-        },
-        {
-          "name": "Sami Turunen",
-          "url": "https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO"
-        },
-        {
-          "name": "Strat Carter",
-          "url": "https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx"
-        }
-      ],
-      "duration_ms": 187818,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
+      "duration_ms": 284093,
+      "name": "City Vibe",
+      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Main Street Beat",
+        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 241195,
+      "name": "When You Smile",
+      "url": "https://open.spotify.com/track/013ax5zW6vprMR4n5C8soU"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "City Life",
         "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
       },
@@ -1609,10 +1625,10 @@
       "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
+      "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "I Feel It Coming",
-        "url": "https://open.spotify.com/album/1EmXsKgb7A6a3rIhI3aW4T"
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/3quqcEs11KQm0IpKDGBbsW"
       },
       "artists": [
         {
@@ -1620,9 +1636,9 @@
           "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
         }
       ],
-      "duration_ms": 241240,
-      "name": "I Feel It Coming",
-      "url": "https://open.spotify.com/track/5JjpJpnQRjYjlRh1FJCkVm"
+      "duration_ms": 259019,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/0UyiDNoxlWfrJIeNXGOE5I"
     },
     {
       "added_at": "2021-08-06 04:01:00",
@@ -1639,22 +1655,6 @@
       "duration_ms": 251142,
       "name": "Sharon's Groove",
       "url": "https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Main Street Beat",
-        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 241195,
-      "name": "When You Smile",
-      "url": "https://open.spotify.com/track/013ax5zW6vprMR4n5C8soU"
     },
     {
       "added_at": "2021-07-12 18:09:21",

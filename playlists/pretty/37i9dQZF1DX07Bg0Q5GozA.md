@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,471 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,498 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 |
+| 1 | [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\) \[Edit\]](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 |
 | 2 | [No Love](https://open.spotify.com/track/51u0i005MZ9G0e1Lxm3PqO) | [Glimmer of Blooms](https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6) | [No Love](https://open.spotify.com/album/6mPiGd5dPUn5eIIDqjEKJU) | 2:22 |
 | 3 | [White Walls](https://open.spotify.com/track/3CuCZPForUo8r9Cwl8IuW7) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Running / White Walls](https://open.spotify.com/album/4uefJDQWx5GQr8havtOMuf) | 4:35 |
 | 4 | [You & I](https://open.spotify.com/track/4FKuIlfFCIcvpg7M2HJhwx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:28 |

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Felipe Vilela",
-  "num_followers": 61318,
+  "num_followers": 61358,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNzc0MiwwMDAwMDAwMDk3ZTU0N2FkYjllNTIyZjI4OTMyN2ZmOTFmMGRkM2Yx",
+  "snapshot_id": "MTY3NzIzNzc0MiwwMDAwMDAwMDZmMjBjMDJkMmQ0MDUyYTFkYzgxYmZhMGUwZTU1ZTUx",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9"
     },
     {
-      "added_at": "2023-03-01 01:17:06",
+      "added_at": "2023-03-02 00:51:10",
       "album": {
         "name": "Melhor Lugar",
         "url": "https://open.spotify.com/album/67lLOGcSwcIDCiuBIfSjnL"
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Bom \u00c2nimo",
-        "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 176520,
-      "name": "Bom \u00c2nimo",
-      "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Eu Vou",
         "url": "https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 209664,
       "name": "Eu Vou",
       "url": "https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Bom \u00c2nimo",
+        "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 176520,
+      "name": "Bom \u00c2nimo",
+      "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
     },
     {
-      "added_at": "2023-03-01 01:17:06",
+      "added_at": "2023-03-02 00:51:10",
       "album": {
         "name": "Vai Ser Melhor",
         "url": "https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL"
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Teu Amor Me Consome",
-        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
-      },
-      "artists": [
-        {
-          "name": "Guerreiros da F\u00e9",
-          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
-        }
-      ],
-      "duration_ms": 226187,
-      "name": "Teu Amor Me Consome",
-      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
         "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Leif Bessa - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb"
+        "name": "Teu Amor Me Consome",
+        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
       },
       "artists": [
         {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+          "name": "Guerreiros da F\u00e9",
+          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
         }
       ],
-      "duration_ms": 280235,
-      "name": "Caminhada",
-      "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
+      "duration_ms": 226187,
+      "name": "Teu Amor Me Consome",
+      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -535,6 +519,22 @@
       "duration_ms": 222811,
       "name": "Ao Teu Lado - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1uP31TFAG8a4VGwpE7w3yT"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Leif Bessa - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        }
+      ],
+      "duration_ms": 280235,
+      "name": "Caminhada",
+      "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Sabe Tudo",
-        "url": "https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 193388,
-      "name": "Sabe Tudo",
-      "url": "https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Nasce o Sol (Remix)",
         "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Sabe Tudo",
+        "url": "https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 193388,
+      "name": "Sabe Tudo",
+      "url": "https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "A Porta (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 191569,
       "name": "A Porta - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Pra Sempre",
-        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 219857,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -791,18 +775,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Acoustic Sessions, Vol. 6",
-        "url": "https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n"
+        "name": "Pra Sempre",
+        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
       },
       "artists": [
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
         }
       ],
-      "duration_ms": 165954,
-      "name": "Plano B",
-      "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
+      "duration_ms": 219857,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -823,18 +807,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Por Completo",
-        "url": "https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx"
+        "name": "Acoustic Sessions, Vol. 6",
+        "url": "https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n"
       },
       "artists": [
         {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
         }
       ],
-      "duration_ms": 212160,
-      "name": "Te Vejo L\u00e1",
-      "url": "https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO"
+      "duration_ms": 165954,
+      "name": "Plano B",
+      "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -875,58 +859,34 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Amor Leal",
-        "url": "https://open.spotify.com/album/2XNWrlxoCDchGediXzLTRd"
+        "name": "Por Completo",
+        "url": "https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx"
       },
       "artists": [
         {
-          "name": "Lari Mac\u00e1rio",
-          "url": "https://open.spotify.com/artist/5AdvNG5bNSx9lKOj7Tj5ck"
-        },
-        {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        },
-        {
-          "name": "Dani Aguiar",
-          "url": "https://open.spotify.com/artist/774uYXQYFkSEs4TvjM2lZA"
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
         }
       ],
-      "duration_ms": 182080,
-      "name": "Amor Leal",
-      "url": "https://open.spotify.com/track/6rrbLn49jsw8sdcCqdFgbN"
+      "duration_ms": 212160,
+      "name": "Te Vejo L\u00e1",
+      "url": "https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO"
     },
     {
-      "added_at": "2023-02-03 03:00:00",
+      "added_at": "2023-03-02 00:51:10",
       "album": {
-        "name": "Ac\u00fastico Talita Barreto",
-        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
+        "name": "Cora\u00e7\u00e3o de Aprendiz",
+        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
       },
       "artists": [
         {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
         }
       ],
-      "duration_ms": 136626,
-      "name": "Vida Leve",
-      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
+      "duration_ms": 303071,
+      "name": "Cora\u00e7\u00e3o de Aprendiz",
+      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -951,6 +911,62 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Ac\u00fastico Talita Barreto",
+        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Vida Leve",
+      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Amor Leal",
+        "url": "https://open.spotify.com/album/2XNWrlxoCDchGediXzLTRd"
+      },
+      "artists": [
+        {
+          "name": "Lari Mac\u00e1rio",
+          "url": "https://open.spotify.com/artist/5AdvNG5bNSx9lKOj7Tj5ck"
+        },
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        },
+        {
+          "name": "Dani Aguiar",
+          "url": "https://open.spotify.com/artist/774uYXQYFkSEs4TvjM2lZA"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Amor Leal",
+      "url": "https://open.spotify.com/track/6rrbLn49jsw8sdcCqdFgbN"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "A Voz do Brasil (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/59AQfJCPFSvEje7t1ocCaO"
       },
@@ -967,6 +983,22 @@
       "duration_ms": 180263,
       "name": "A Voz do Brasil - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6dFtxQYgNWqbSapneyMVn1"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Teus Rios",
+        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+        }
+      ],
+      "duration_ms": 194034,
+      "name": "Teus Rios",
+      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1003,22 +1035,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Casulo",
-        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 219903,
-      "name": "Casulo",
-      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -1037,36 +1053,20 @@
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
     },
     {
-      "added_at": "2023-03-01 01:17:06",
-      "album": {
-        "name": "Cora\u00e7\u00e3o de Aprendiz",
-        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
-      },
-      "artists": [
-        {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
-        }
-      ],
-      "duration_ms": 303071,
-      "name": "Cora\u00e7\u00e3o de Aprendiz",
-      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
-    },
-    {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Teus Rios",
-        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
+        "name": "Casulo",
+        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
         }
       ],
-      "duration_ms": 194034,
-      "name": "Teus Rios",
-      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
+      "duration_ms": 219903,
+      "name": "Casulo",
+      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+        }
+      ],
+      "duration_ms": 215057,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Batida",
         "url": "https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 196032,
       "name": "Rota",
       "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "GPS",
-        "url": "https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
-        }
-      ],
-      "duration_ms": 215057,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Me Chamar de Filho",
-        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
-      },
-      "artists": [
-        {
-          "name": "Ana Canhoto",
-          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
-        }
-      ],
-      "duration_ms": 187565,
-      "name": "Me Chamar de Filho",
-      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Tua Gra\u00e7a",
         "url": "https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 235997,
       "name": "Tua Gra\u00e7a",
       "url": "https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Me Chamar de Filho",
+        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
+      },
+      "artists": [
+        {
+          "name": "Ana Canhoto",
+          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Me Chamar de Filho",
+      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
     },
     {
       "added_at": "2023-02-03 03:00:00",

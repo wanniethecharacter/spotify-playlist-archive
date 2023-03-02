@@ -4,7 +4,7 @@
 
 > Pick up the pace to energetic remixes.
 
-68 songs - 3 hr 49 min
+69 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Green Green Grass \- Sam Feldt Remix](https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Green Green Grass](https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q) | 2:18 | 2023-02-11 |  |
 | [Harleys In Hawaii \- KANDY Remix](https://open.spotify.com/track/5EECgBC0NjIaUd8ke9YYTo) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [KANDY](https://open.spotify.com/artist/4mPFPLedaotlYFB3GLn6r7) | [Harleys In Hawaii \(KANDY Remix\)](https://open.spotify.com/album/2ptDoWK5hL9gzZ3SXLSVmX) | 2:45 | 2022-08-12 | 2023-01-17 |
 | [Hold Me Closer \- Joel Corry Remix](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hold Me Closer \(Joel Corry Remix\)](https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa) | 4:08 | 2023-01-03 |  |
-| [How Do I Say Goodbye \- Tiësto Remix](https://open.spotify.com/track/2gCyxh8Q7Sj1t7pU5IrE7A) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [How Do I Say Goodbye \(Tiësto Remix\)](https://open.spotify.com/album/6XjTK78pOsk3RcetfMXNUe) | 3:45 | 2023-02-11 |  |
+| [How Do I Say Goodbye \- Tiësto Remix](https://open.spotify.com/track/2gCyxh8Q7Sj1t7pU5IrE7A) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [How Do I Say Goodbye \(Tiësto Remix\)](https://open.spotify.com/album/6XjTK78pOsk3RcetfMXNUe) | 3:45 | 2023-02-11 | 2023-03-02 |
+| [How Do I Say Goodbye \- Tiësto Remix](https://open.spotify.com/track/1ps5972g02HgOtvjE8OMfz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [How Do I Say Goodbye \(Tiësto Remix\)](https://open.spotify.com/album/2l9HABqiwDkL7oVGAiW2mV) | 3:45 | 2023-03-02 |  |
 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 | 2022-08-12 |  |
 | [I Feel Good \(R3HAB Remix\)](https://open.spotify.com/track/1DV04K6TT3Lx2N3dJuRBTi) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [DJ White Shadow](https://open.spotify.com/artist/2yP2heDvGPROpYtPMKsOh1), [Anthony Watts](https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1) | [I Feel Good \(R3HAB Remix\)](https://open.spotify.com/album/0bGTfamwl2XVCrXcWAhx6P) | 2:36 | 2022-08-12 | 2023-02-23 |
 | [I Know You \(feat\. Bastille\) \- Vigiland Remix](https://open.spotify.com/track/1byydVLDAt7An5Pk3SuL5j) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [I Know You \(Remixes\) \(feat\. Bastille\)](https://open.spotify.com/album/2WhixOxit7FV5fyM3XQTwo) | 3:03 | 2022-08-12 |  |

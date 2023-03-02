@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Women at full volume! Co\-curated by <a href="spotify:artist:6SU1jFBqw4tZJQDT8iQ6Nw">Sophie Straat</a> for international women’s day\. Sophie's picks:  Amyl and The Sniffers, Sinéad O'Connor, Naaz, Little Sims & Lizzo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,510 likes - 63 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,575 likes - 63 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

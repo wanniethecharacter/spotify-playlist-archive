@@ -1,6 +1,6 @@
 {
   "description": "Una speciale selezione curata insieme a Emma per la Giornata Internazionale della Donna! #IWD",
-  "num_followers": 17473,
+  "num_followers": 17565,
   "original_name": "EQUAL Italia ",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,26 @@
       "duration_ms": 215172,
       "name": "BLU",
       "url": "https://open.spotify.com/track/6w4QgM7NJgyIxAOVdvMR32"
+    },
+    {
+      "added_at": "2023-02-28 23:01:00",
+      "album": {
+        "name": "Appartamento",
+        "url": "https://open.spotify.com/album/3rPaQlQ7jxnu1HlPbkvjKg"
+      },
+      "artists": [
+        {
+          "name": "ceneri",
+          "url": "https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz"
+        },
+        {
+          "name": "B-CROMA",
+          "url": "https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Appartamento",
+      "url": "https://open.spotify.com/track/6brtEOxKUH2NoxcPnDNI7I"
     },
     {
       "added_at": "2023-02-28 23:01:00",

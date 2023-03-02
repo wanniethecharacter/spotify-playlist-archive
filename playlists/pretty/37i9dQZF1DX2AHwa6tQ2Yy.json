@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 33846,
+  "num_followers": 33868,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE1NzIwMCwwMDAwMDAwMGFmYjhhOTI1MDk3ZGZhOGE2MjdiYjJhNDQ5NDYyNDNh",
+  "snapshot_id": "MTY3NzE1NzIwMCwwMDAwMDAwMDA4MjdlM2RlMGU0ZDE4NjliZjYwN2NjZDUzMTkxMzFj",
   "tracks": [
     {
       "added_at": "2023-02-16 12:17:50",
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
     },
     {
-      "added_at": "2023-03-01 01:05:58",
+      "added_at": "2023-03-02 01:09:45",
       "album": {
         "name": "Grounded",
         "url": "https://open.spotify.com/album/3fKkThISW69xk6pnCbHyzL"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
     },
     {
-      "added_at": "2023-03-01 01:05:58",
+      "added_at": "2023-03-02 01:09:45",
       "album": {
         "name": "maryjane",
         "url": "https://open.spotify.com/album/0g56yZHVOSFB47HhNDnB0V"
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-02-16 12:17:50",
       "album": {
-        "name": "Process (Bonus Edition)",
-        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "(No One Knows Me) Like the Piano",
-      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
-    },
-    {
-      "added_at": "2023-02-16 12:17:50",
-      "album": {
         "name": "Bittersweet (Radio Edit)",
         "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 236640,
       "name": "Bittersweet - Radio Edit",
       "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
+    },
+    {
+      "added_at": "2023-02-16 12:17:50",
+      "album": {
+        "name": "Process (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "(No One Knows Me) Like the Piano",
+      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
     },
     {
       "added_at": "2023-02-16 12:17:50",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-02-16 12:17:50",
       "album": {
-        "name": "Unconditionally",
-        "url": "https://open.spotify.com/album/0jv3He98jgN7Joy9qiTm17"
-      },
-      "artists": [
-        {
-          "name": "JKING",
-          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
-        }
-      ],
-      "duration_ms": 152673,
-      "name": "Unconditionally",
-      "url": "https://open.spotify.com/track/4QZGeNO9Mo7NewVb1QAcOE"
-    },
-    {
-      "added_at": "2023-02-16 12:17:50",
-      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -459,6 +443,38 @@
       "duration_ms": 234866,
       "name": "So Done (feat. Khalid)",
       "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
+    },
+    {
+      "added_at": "2023-02-16 12:17:50",
+      "album": {
+        "name": "Unconditionally",
+        "url": "https://open.spotify.com/album/0jv3He98jgN7Joy9qiTm17"
+      },
+      "artists": [
+        {
+          "name": "JKING",
+          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
+        }
+      ],
+      "duration_ms": 152673,
+      "name": "Unconditionally",
+      "url": "https://open.spotify.com/track/4QZGeNO9Mo7NewVb1QAcOE"
+    },
+    {
+      "added_at": "2023-02-16 12:17:50",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
+      },
+      "artists": [
+        {
+          "name": "Budjerah",
+          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+        }
+      ],
+      "duration_ms": 192103,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
     },
     {
       "added_at": "2023-02-16 12:17:50",
@@ -495,22 +511,6 @@
       "duration_ms": 233053,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/3aLq93pLZHx25jcFhfbEee"
-    },
-    {
-      "added_at": "2023-02-16 12:17:50",
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
-      },
-      "artists": [
-        {
-          "name": "Budjerah",
-          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
-        }
-      ],
-      "duration_ms": 192103,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
     },
     {
       "added_at": "2023-02-16 12:17:50",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-02-16 12:17:50",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 409866,
-      "name": "Transatlantic Flight",
-      "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
-    },
-    {
-      "added_at": "2023-02-16 12:17:50",
-      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2023-02-16 12:17:50",
       "album": {
-        "name": "exodus the north star",
-        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
       "artists": [
         {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 205354,
-      "name": "exodus the north star",
-      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
+      "duration_ms": 409866,
+      "name": "Transatlantic Flight",
+      "url": "https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt"
     },
     {
       "added_at": "2023-02-16 12:17:50",
@@ -675,6 +659,22 @@
     {
       "added_at": "2023-02-16 12:17:50",
       "album": {
+        "name": "exodus the north star",
+        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 205354,
+      "name": "exodus the north star",
+      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
+    },
+    {
+      "added_at": "2023-02-16 12:17:50",
+      "album": {
         "name": "Just Fine",
         "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 174000,
       "name": "Just Fine",
       "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
-    },
-    {
-      "added_at": "2023-02-16 12:17:50",
-      "album": {
-        "name": "Thinking Too Much",
-        "url": "https://open.spotify.com/album/5gQlfc5Uk8txY9bAH0TIaQ"
-      },
-      "artists": [
-        {
-          "name": "TOI",
-          "url": "https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A"
-        }
-      ],
-      "duration_ms": 208405,
-      "name": "Thinking Too Much",
-      "url": "https://open.spotify.com/track/7ES4KuLdHnkBRFqWsQua8r"
     },
     {
       "added_at": "2023-02-16 12:17:50",
@@ -723,6 +707,22 @@
       "duration_ms": 137546,
       "name": "The Room",
       "url": "https://open.spotify.com/track/7euupBRn1BnMdWecnyBWU6"
+    },
+    {
+      "added_at": "2023-02-16 12:17:50",
+      "album": {
+        "name": "Thinking Too Much",
+        "url": "https://open.spotify.com/album/5gQlfc5Uk8txY9bAH0TIaQ"
+      },
+      "artists": [
+        {
+          "name": "TOI",
+          "url": "https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A"
+        }
+      ],
+      "duration_ms": 208405,
+      "name": "Thinking Too Much",
+      "url": "https://open.spotify.com/track/7ES4KuLdHnkBRFqWsQua8r"
     },
     {
       "added_at": "2023-02-16 12:17:50",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-02-16 12:17:50",
       "album": {
-        "name": "I Won't Let You Down",
-        "url": "https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "I Won't Let You Down",
-      "url": "https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3"
-    },
-    {
-      "added_at": "2023-02-16 12:17:50",
-      "album": {
         "name": "Something To Feel",
         "url": "https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 309786,
       "name": "First Time",
       "url": "https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw"
+    },
+    {
+      "added_at": "2023-02-16 12:17:50",
+      "album": {
+        "name": "I Won't Let You Down",
+        "url": "https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "I Won't Let You Down",
+      "url": "https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3"
     },
     {
       "added_at": "2023-02-16 12:17:50",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-02-16 12:17:50",
       "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
-    },
-    {
-      "added_at": "2023-02-16 12:17:50",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 252616,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
+    },
+    {
+      "added_at": "2023-02-16 12:17:50",
+      "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
     },
     {
       "added_at": "2023-02-16 12:17:50",

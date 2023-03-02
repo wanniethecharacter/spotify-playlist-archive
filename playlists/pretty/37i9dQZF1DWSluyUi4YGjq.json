@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. julie on cover!",
-  "num_followers": 36218,
+  "num_followers": 36719,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUzOTk0NiwwMDAwMDAwMDM4MjE2Mzc0YzBkYzRmNmNiMzA4MGQxZTUyNzg1ZmMx",
+  "snapshot_id": "MTY3NzUzOTk0NiwwMDAwMDAwMGFmYTQwMmZjMWNiZDhjMTliYmFiN2RmNmQ5YTc0OTVl",
   "tracks": [
     {
       "added_at": "2023-01-12 03:08:14",
@@ -409,6 +409,22 @@
       "url": "https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p"
     },
     {
+      "added_at": "2023-02-27 23:19:06",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
+    },
+    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "We're Not Here to Be Loved",
@@ -441,22 +457,6 @@
       "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
-      "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Everything Else Matters",
@@ -471,22 +471,6 @@
       "duration_ms": 248744,
       "name": "Holy Forest",
       "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
-    },
-    {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "11\u202211\u202211",
-        "url": "https://open.spotify.com/album/5mGJloHxjO2igmx9XJKAeJ"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Who's Counting",
-      "url": "https://open.spotify.com/track/1UMij8I1SjJi3Syusg35sp"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -505,6 +489,22 @@
       "url": "https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5"
     },
     {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "11\u202211\u202211",
+        "url": "https://open.spotify.com/album/5mGJloHxjO2igmx9XJKAeJ"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "Who's Counting",
+      "url": "https://open.spotify.com/track/1UMij8I1SjJi3Syusg35sp"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Aurora",
@@ -521,10 +521,26 @@
       "url": "https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl"
     },
     {
+      "added_at": "2023-02-27 23:19:06",
+      "album": {
+        "name": "Bath County",
+        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Bath County",
+      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },
       "artists": [
         {
@@ -532,9 +548,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 204975,
-      "name": "Vertigo Flowers",
-      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
+      "duration_ms": 250096,
+      "name": "Famine Asylum",
+      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -569,22 +585,6 @@
       "url": "https://open.spotify.com/track/6YQSQ6CQN4pIcXEiOqoH8x"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "taste of concrete",
-        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
-      },
-      "artists": [
-        {
-          "name": "Shrimp",
-          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
-        }
-      ],
-      "duration_ms": 152061,
-      "name": "taste of concrete",
-      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
-    },
-    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "eye cue rew see",
@@ -599,6 +599,22 @@
       "duration_ms": 178920,
       "name": "ERROR",
       "url": "https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX"
+    },
+    {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "taste of concrete",
+        "url": "https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V"
+      },
+      "artists": [
+        {
+          "name": "Shrimp",
+          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
+        }
+      ],
+      "duration_ms": 152061,
+      "name": "taste of concrete",
+      "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -651,8 +667,8 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
       },
       "artists": [
         {
@@ -660,25 +676,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 250096,
-      "name": "Famine Asylum",
-      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 235565,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
+      "duration_ms": 204975,
+      "name": "Vertigo Flowers",
+      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -697,26 +697,6 @@
       "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
-      "album": {
-        "name": "Clinging to the Ground",
-        "url": "https://open.spotify.com/album/08BiEP4rj0gHNLmm5epckO"
-      },
-      "artists": [
-        {
-          "name": "Cathedral Bells",
-          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
-        },
-        {
-          "name": "Rew",
-          "url": "https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Clinging to the Ground",
-      "url": "https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys"
-    },
-    {
       "added_at": "2022-01-07 19:52:45",
       "album": {
         "name": "Strawberry",
@@ -733,36 +713,20 @@
       "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "Out of Line",
-        "url": "https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo"
-      },
-      "artists": [
-        {
-          "name": "Bedchamber",
-          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
-        }
-      ],
-      "duration_ms": 131674,
-      "name": "Out of Line",
-      "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
       },
       "artists": [
         {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 270281,
-      "name": "The Dead Are Dumb",
-      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
+      "duration_ms": 235565,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -797,20 +761,40 @@
       "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
+      "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "Bath County",
-        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
+        "name": "Out of Line",
+        "url": "https://open.spotify.com/album/3XtCIvkWt9FCLgCkbKjyFo"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "Bedchamber",
+          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
         }
       ],
-      "duration_ms": 190105,
-      "name": "Bath County",
-      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
+      "duration_ms": 131674,
+      "name": "Out of Line",
+      "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
+    },
+    {
+      "added_at": "2023-02-27 23:19:06",
+      "album": {
+        "name": "Clinging to the Ground",
+        "url": "https://open.spotify.com/album/08BiEP4rj0gHNLmm5epckO"
+      },
+      "artists": [
+        {
+          "name": "Cathedral Bells",
+          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
+        },
+        {
+          "name": "Rew",
+          "url": "https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Clinging to the Ground",
+      "url": "https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -847,6 +831,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270281,
+      "name": "The Dead Are Dumb",
+      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
       },
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Colour Trip",
-        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
-      },
-      "artists": [
-        {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
-    },
-    {
       "added_at": "2022-12-12 18:23:41",
       "album": {
         "name": "Heaven Inches Away",
@@ -907,22 +891,6 @@
       "duration_ms": 240500,
       "name": "Chihiro",
       "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Blue Line Baby",
-      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
       "added_at": "2021-12-08 15:59:07",
@@ -943,22 +911,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "TRU",
         "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
       },
@@ -971,6 +923,22 @@
       "duration_ms": 202528,
       "name": "Stick",
       "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
       "added_at": "2022-05-03 02:08:01",
@@ -987,6 +955,38 @@
       "duration_ms": 189673,
       "name": "eightball",
       "url": "https://open.spotify.com/track/6OvX3WPe2CeyLRVsy3yFxz"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Colour Trip",
+        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
+      },
+      "artists": [
+        {
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
       "added_at": "2023-02-27 23:19:06",
@@ -1037,6 +1037,26 @@
       "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
     },
     {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "Blush Response & Warm",
+        "url": "https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn"
+      },
+      "artists": [
+        {
+          "name": "Blush Response",
+          "url": "https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj"
+        },
+        {
+          "name": "Warm",
+          "url": "https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "OUTLAW69",
+      "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
+    },
+    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "Cabin Fever",
@@ -1057,24 +1077,20 @@
       "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
+      "added_at": "2023-02-27 23:19:06",
       "album": {
-        "name": "Blush Response & Warm",
-        "url": "https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn"
+        "name": "Involved",
+        "url": "https://open.spotify.com/album/2aggWWbILLTD3maeXZc8mh"
       },
       "artists": [
         {
-          "name": "Blush Response",
-          "url": "https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj"
-        },
-        {
-          "name": "Warm",
-          "url": "https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I"
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
         }
       ],
-      "duration_ms": 236000,
-      "name": "OUTLAW69",
-      "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
+      "duration_ms": 307000,
+      "name": "Involved",
+      "url": "https://open.spotify.com/track/4vjA0e8i58eJbsa67MuIlt"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -1125,22 +1141,6 @@
       "url": "https://open.spotify.com/track/4saJggfntxQyb3Ro8mk03U"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
-      "album": {
-        "name": "Involved",
-        "url": "https://open.spotify.com/album/2aggWWbILLTD3maeXZc8mh"
-      },
-      "artists": [
-        {
-          "name": "James Ivy",
-          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Involved",
-      "url": "https://open.spotify.com/track/4vjA0e8i58eJbsa67MuIlt"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Lesser Matters",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0"
     },
     {
-      "added_at": "2022-12-14 00:00:00",
-      "album": {
-        "name": "Hotel Insomnia",
-        "url": "https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh"
-      },
-      "artists": [
-        {
-          "name": "For Tracy Hyde",
-          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
-        }
-      ],
-      "duration_ms": 134626,
-      "name": "Bleachers",
-      "url": "https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Glitter",
@@ -1203,6 +1187,22 @@
       "duration_ms": 190000,
       "name": "Breakbeats",
       "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
+    },
+    {
+      "added_at": "2022-12-14 00:00:00",
+      "album": {
+        "name": "Hotel Insomnia",
+        "url": "https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh"
+      },
+      "artists": [
+        {
+          "name": "For Tracy Hyde",
+          "url": "https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy"
+        }
+      ],
+      "duration_ms": 134626,
+      "name": "Bleachers",
+      "url": "https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN"
     },
     {
       "added_at": "2023-02-09 20:06:26",

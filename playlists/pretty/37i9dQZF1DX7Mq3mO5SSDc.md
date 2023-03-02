@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 
 > An homage to the iconic label’s 1980s and 1990s roots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,649 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,693 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 39 | [Excuse Me Miss](https://open.spotify.com/track/0ZHu7jkSSrT0eK4OxuG4O5) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:41 |
 | 40 | [The Gas Face](https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc), [Zev Love](https://open.spotify.com/artist/6ZsabzDRDqFRj6DCRvYRDx) | [Best Of 3rd Bass](https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc) | 3:49 |
 | 41 | [Check N' Me Out](https://open.spotify.com/track/6VqQjCxM21kapF2RxdTtYA) | [Def Squad](https://open.spotify.com/artist/52karaTYZPcUZRPr3zy3X4) | [El Nino](https://open.spotify.com/album/1I3hHYnoz7lZsBZN0jZJ1G) | 3:55 |
-| 42 | [Don't Believe The Hype](https://open.spotify.com/track/0VAoDsKh7Or84V8xP7p1Fs) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:19 |
-| 43 | [Strictly Business](https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:45 |
-| 44 | [Stay Real](https://open.spotify.com/track/6jaj4k0LwFLy1q54TXZZpZ) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [No Pressure](https://open.spotify.com/album/1i8XHvNdaPXRhoQW0IBycA) | 3:55 |
-| 45 | [The Ruler's Back](https://open.spotify.com/track/3cb6gJ7SHYuZ3NVm996ffD) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 5:36 |
-| 46 | [It's Yours \(Radio Mix\)](https://open.spotify.com/track/6SuIF8oh96UPJIIJjKvtIe) | [T La Rock](https://open.spotify.com/artist/2YR8RDJEpKZUbcQgSbBmAp) | [It's Yours](https://open.spotify.com/album/0ZBs6IU80LLsNIzB3RRYEm) | 4:21 |
-| 47 | [Bring The Noise](https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 3:46 |
-| 48 | [Headbanger](https://open.spotify.com/track/17GdAx0kHOFNXZiCj8HuOW) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [K\-Solo](https://open.spotify.com/artist/0knb2mXB2y0L44J05Nj6zX) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 4:51 |
-| 49 | [Daddy's Little Girl](https://open.spotify.com/track/0ySoJyAbKGLI5yShGBOIQ8) | [Nikki D](https://open.spotify.com/artist/3wHL6veDs4kliIKWrE2Bnb) | [Daddy's Little Girl](https://open.spotify.com/album/6ROlQudStSux3K7kuWU6uG) | 4:28 |
-| 50 | [Deeper](https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK) | [Boss](https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT), [Papa Juggy](https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf) | [Def Jam's Greatest Hits \- Hardcore](https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR) | 4:01 |
+| 42 | [Strictly Business](https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:45 |
+| 43 | [Stay Real](https://open.spotify.com/track/6jaj4k0LwFLy1q54TXZZpZ) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [No Pressure](https://open.spotify.com/album/1i8XHvNdaPXRhoQW0IBycA) | 3:55 |
+| 44 | [The Ruler's Back](https://open.spotify.com/track/3cb6gJ7SHYuZ3NVm996ffD) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 5:36 |
+| 45 | [It's Yours \(Radio Mix\)](https://open.spotify.com/track/6SuIF8oh96UPJIIJjKvtIe) | [T La Rock](https://open.spotify.com/artist/2YR8RDJEpKZUbcQgSbBmAp) | [It's Yours](https://open.spotify.com/album/0ZBs6IU80LLsNIzB3RRYEm) | 4:21 |
+| 46 | [Daddy's Little Girl](https://open.spotify.com/track/0ySoJyAbKGLI5yShGBOIQ8) | [Nikki D](https://open.spotify.com/artist/3wHL6veDs4kliIKWrE2Bnb) | [Daddy's Little Girl](https://open.spotify.com/album/6ROlQudStSux3K7kuWU6uG) | 4:28 |
+| 47 | [Headbanger](https://open.spotify.com/track/17GdAx0kHOFNXZiCj8HuOW) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [K\-Solo](https://open.spotify.com/artist/0knb2mXB2y0L44J05Nj6zX) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 4:51 |
+| 48 | [Deeper](https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK) | [Boss](https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT), [Papa Juggy](https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf) | [Def Jam's Greatest Hits \- Hardcore](https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR) | 4:01 |
+| 49 | [Tie Goes To The Runner](https://open.spotify.com/track/2TZuNkLb0J6oKLEdlZ0XX3) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Greatest Misses](https://open.spotify.com/album/6ViErzJ80VCeOnrTPvX2nW) | 4:17 |
+| 50 | [Don't Believe The Hype](https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:19 |
 
-Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMDM0Y2M1YjY5ZmY3MzIwNDQ4ZGYzYThlMDM3MWU5OTcw`
+Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMDVlNDA5NWRjYzQ0MDdhNzA3YzRkZDg1NTljYzkwOGU0`

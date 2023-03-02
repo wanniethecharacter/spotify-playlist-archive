@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$ & Shakewell
 
-392 songs - 15 hr 30 min
+393 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,8 @@
 | [NoQuestionsAsked](https://open.spotify.com/track/4hu2iYMj7LAlCsEFbcWTrL) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Fukkit](https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI) | [NoQuestionsAsked](https://open.spotify.com/album/4zEZfmGSWrQg7oTTcTLvgv) | 1:53 | 2022-01-07 | 2022-04-29 |
 | [North Memphis](https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/1lct5ZQWEx7w2r3qyajVOq) | 2:15 | 2022-10-11 |  |
 | [NOTHING](https://open.spotify.com/track/4kc2vovUnrGOwWgGZFhsuU) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [NOTHING](https://open.spotify.com/album/3CygmOk16boufN92DA7xxR) | 2:12 | 2021-11-12 | 2022-04-20 |
-| [NOTHING IS FOREVER](https://open.spotify.com/track/4PQmQnDUxanb5NkYAToaQr) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NOTHING IS FOREVER](https://open.spotify.com/album/74wHsULDsjbJQ7HSBjH49z) | 2:32 | 2023-01-27 |  |
+| [NOTHING IS FOREVER](https://open.spotify.com/track/4PQmQnDUxanb5NkYAToaQr) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NOTHING IS FOREVER](https://open.spotify.com/album/74wHsULDsjbJQ7HSBjH49z) | 2:32 | 2023-01-27 | 2023-03-02 |
+| [NOTHING IS FOREVER](https://open.spotify.com/track/54GrLa8J4zdvRfU8VXdo8l) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NOTHING IS FOREVER](https://open.spotify.com/album/6Z8CtXFwlvDrtgXzfxBFGF) | 2:32 | 2023-01-27 |  |
 | [Now I'm Up To My Neck With Offers](https://open.spotify.com/track/1QSMyV4BAvNRwIpRzS8zWn) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XX: The Infinity Saga](https://open.spotify.com/album/26qaxSxlPcfjVDYKNxjLQn) | 2:47 | 2021-09-17 | 2022-05-17 |
 | [OCTOPUS.LADY](https://open.spotify.com/track/4vjj0bcIG5O3FA0C9cXNR8) | [Changeline](https://open.spotify.com/artist/6y4WxCw3Pu2MnjqSBtoxSJ) | [OCTOPUS.LADY](https://open.spotify.com/album/56JMyJsWVb1YLVldbau63p) | 2:36 | 2023-01-30 |  |
 | [Off the Leash](https://open.spotify.com/track/1JgQeigk5XdpxGLwgWCJlG) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe), [Burgos](https://open.spotify.com/artist/3chqU15yLP7B3XRQpILQY2), [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Off the Leash](https://open.spotify.com/album/6UkwTJMCVJuIqkHwJ7NTME) | 3:04 | 2022-02-25 | 2022-06-04 |

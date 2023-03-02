@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 258146,
       "name": "Chevrolet Van",
       "url": "https://open.spotify.com/track/5QpkOt3hpNf4zns6FJ7JRH"
@@ -2424,7 +2424,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 242714,
-      "name": "Out on the Weekend",
+      "name": "Out on the Weekend - Lyric Video",
       "url": "https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9"
     },
     {
@@ -2852,6 +2852,24 @@
       "duration_ms": 210261,
       "name": "Sim\u00e9 Love",
       "url": "https://open.spotify.com/track/66C8WrKjSSolC9gaL9M7sr"
+    },
+    {
+      "album": {
+        "name": "Sold out of Love",
+        "url": "https://open.spotify.com/album/6IScP3wFdmrD6dmlbQaN1F"
+      },
+      "artists": [
+        {
+          "name": "The Nude Party",
+          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259937,
+      "name": "Sold out of Love",
+      "url": "https://open.spotify.com/track/6BKpJ2pDPixM3Nwqhr9999"
     },
     {
       "album": {

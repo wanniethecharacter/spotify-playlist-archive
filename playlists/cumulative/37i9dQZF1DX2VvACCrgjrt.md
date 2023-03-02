@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: FETISH
 
-402 songs - 21 hr 25 min
+403 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Crave The Bassline](https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Crave The Bassline](https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S) | 2:46 | 2022-02-25 |  |
 | [Crew](https://open.spotify.com/track/7BI7gk1G4VgO8RZmk439vC) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Crew](https://open.spotify.com/album/6dMhTnkHKvIFCeldylvkIQ) | 3:03 | 2022-08-12 | 2023-02-08 |
 | [Daddy](https://open.spotify.com/track/3Bp5P1UoYfprzFy7EClcoz) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Daddy / What Happens In Vegas](https://open.spotify.com/album/4jq7sudnqaNjpJh8FMNTKZ) | 2:27 | 2021-10-29 |  |
-| [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 | 2022-05-06 |  |
+| [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 | 2022-05-06 | 2023-03-02 |
 | [Dancerteria](https://open.spotify.com/track/0LVOxIv7HB4y9llCuUUObS) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Kickin Back](https://open.spotify.com/album/7sJhrdrW2NLgsZIemINUKa) | 3:54 | 2021-10-29 | 2022-01-07 |
 | [Danger](https://open.spotify.com/track/5Ztlpo0tihmvazlFYTL3fQ) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Cipher One](https://open.spotify.com/album/0sXeA5zcpIua5syJn7RqIg) | 3:03 | 2021-10-29 | 2022-05-28 |
 | [Dark Side](https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Dark Side](https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya) | 2:37 | 2022-12-16 |  |
@@ -141,6 +141,7 @@
 | [Fool](https://open.spotify.com/track/5DPkzkBSFFMY7u0QKSMIBC) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Fool](https://open.spotify.com/album/7srxSNnTWeirw0haBqUQey) | 3:15 | 2021-11-12 |  |
 | [Four Legs](https://open.spotify.com/track/5j6Bpqse6MmyG0P1f1GTej) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr) | [Four Legs](https://open.spotify.com/album/1iJZOgO2mXGiKY1NUxfjb9) | 2:26 | 2021-10-29 | 2022-01-06 |
 | [Freaky](https://open.spotify.com/track/4kGKb76jdupromKClU6Udl) | [Golf Clap](https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Freaky](https://open.spotify.com/album/7fHMOHG8YAFLnGPvHPJTgZ) | 3:46 | 2022-12-16 |  |
+| [Free My Mind](https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/1W09O51MifKfx4XAl851q9) | 2:51 | 2023-02-24 |  |
 | [Free My Mind](https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU) | 2:51 | 2022-08-19 | 2023-02-27 |
 | [Front To Back \(feat\. DLMT\)](https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El) | [FOMO](https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Front To Back \(feat\. DLMT\)](https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR) | 3:31 | 2023-01-09 |  |
 | [Full of Love](https://open.spotify.com/track/62UaGLT1sKYQhhudWjcAjq) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Full of Love](https://open.spotify.com/album/0gvl8TSfutOQiBLKwADwyG) | 2:54 | 2021-10-29 | 2022-03-26 |

@@ -1,12 +1,12 @@
 {
   "description": "The greatest works from mastermind composer Ryuichi Sakamoto",
-  "num_followers": 74091,
+  "num_followers": 74144,
   "original_name": "This Is: Ryuichi Sakamoto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk2ODE4OSwwMDAwMDAwMDNiZjIyNmIxZmFjODY0ZmYzODM4MTVjMGFlZTNjN2U2",
+  "snapshot_id": "MTY3Mzk2ODE4OSwwMDAwMDAwMGFjNTgyMDdmNjZiMDdjZDFlNTBlMzZjNzc1ZTkyNjAz",
   "tracks": [
     {
       "added_at": "2023-01-17 15:09:49",
@@ -991,26 +991,22 @@
     {
       "added_at": "2023-01-17 15:09:49",
       "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/3thtQaXOtMWoEKx8MTmFNM"
+        "name": "CASA",
+        "url": "https://open.spotify.com/album/6wYXK1d4dK8oXwWd78flt2"
       },
       "artists": [
         {
+          "name": "Morelenbaum2",
+          "url": "https://open.spotify.com/artist/0nPijYv2uVkfstvYBZ7QnZ"
+        },
+        {
           "name": "Ryuichi Sakamoto",
           "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        },
-        {
-          "name": "Paula Morelenbaum",
-          "url": "https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN"
-        },
-        {
-          "name": "Jaques Morelenbaum",
-          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
         }
       ],
-      "duration_ms": 127133,
-      "name": "Tema Para Ana",
-      "url": "https://open.spotify.com/track/6OTEPWnWVOmuwHf1153i1F"
+      "duration_ms": 127160,
+      "name": "TEMA PARA ANA - Instrumental",
+      "url": "https://open.spotify.com/track/75OOVMUQxu2A25n8Ki5sLQ"
     },
     {
       "added_at": "2023-01-17 15:09:49",

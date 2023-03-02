@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: U.S\. Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,213 likes - 173 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,293 likes - 173 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 105 | [Action Figures Fighting](https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Action Figures Fighting](https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv) | 2:43 |
 | 106 | [DEATHWISH](https://open.spotify.com/track/1OwAfrgAN5H0PVF3OSPY6I) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [i think there's something wrong with joshy](https://open.spotify.com/album/1iero6O9P7g7IFkY96TGU4) | 2:30 |
 | 107 | [TIME&PLACE](https://open.spotify.com/track/7I2SSOnol8GMtxP9kFojdW) | [Younger Hunger](https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu), [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0), [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [TIME&PLACE](https://open.spotify.com/album/7GagREZar3joLD8XRgilsP) | 2:53 |
-| 108 | [Wished Well \- Suicideyear Remix](https://open.spotify.com/track/1n6SOTzvWH1NYZvbCmtcLP) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [Wished Well \(Suicideyear Remix\)](https://open.spotify.com/album/182XHSQkvpGMjg4eKqzzcP) | 2:03 |
+| 108 | [Wished Well \- Suicideyear Remix](https://open.spotify.com/track/1orveLLt5XH5CBqxKHlFKD) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [Held My Gaze \(Remixes\)](https://open.spotify.com/album/2eEH9o5I41b5wTeUnvqiZj) | 2:03 |
 | 109 | [Rivers of Another Town](https://open.spotify.com/track/1uAmnhfgtyacNRPnpvyqnX) | [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [Sugar World](https://open.spotify.com/album/6dEA8sTmywhnEKxfshZghx) | 4:47 |
 | 110 | [The Helmet](https://open.spotify.com/track/3UhlUXB6PX98gJl4SYLdfM) | [Yonic South](https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg) | [Devo Challenge Cup](https://open.spotify.com/album/1bdOWTmAP6KfLK4YInXpW2) | 2:56 |
 | 111 | [Sixteen Ways](https://open.spotify.com/track/4CVOjsILsyX4CMroV4B8pu) | [Frankie Rose](https://open.spotify.com/artist/44mVqYPHmFgrDJxv6CWrOo) | [Sixteen Ways](https://open.spotify.com/album/1uiuyIkp8FxptB5blr6a63) | 4:14 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 172 | [In the Dark](https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Bubblegum](https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb) | 2:19 |
 | 173 | [I KNOW YOU'RE HAPPY](https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [MERCY](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0) | 5:15 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGQxNTJhYTA1YTY4YWIwOWE3NmEwZDgxMmY3OTY3ZTkx`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDkwNjZjNDIyMGU3ZGZkZDY4N2U2MGRlOTFlMDg1NjY3`

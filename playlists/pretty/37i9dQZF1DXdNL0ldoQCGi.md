@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,526 likes - 101 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,769 likes - 101 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 59 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Listen Up! The Official 2010 FIFA World Cup Album](https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm) | 3:22 |
 | 60 | [Último Pedido](https://open.spotify.com/track/0efaXmYra0ajRvgp1iyDH3) | [Os Parazim](https://open.spotify.com/artist/0jhNzTzC1CZaf2FFgBVCMT) | [Pisadinha dos Parazim](https://open.spotify.com/album/24aTdNmDP6FJ2r56BXdR55) | 2:26 |
 | 61 | [Deixa Escondido \(Speed\) \- Remix](https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y) | [Vitux](https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t) | [Deixa Escondido \(Speed\) \[Remix\]](https://open.spotify.com/album/1205QRpQV4bEJw6YsShzkh) | 2:31 |
-| 62 | [Eu Vou Deixar de Ser Besta](https://open.spotify.com/track/6LApHv7VpoFUj9s38JWOTi) | [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Caneta Azul](https://open.spotify.com/album/5VFcM61xPRTvg0GQnXFsv8) | 3:08 |
+| 62 | [Eu Vou Deixar de Ser Besta](https://open.spotify.com/track/6S7bf78ghkbMHu0DIyY8on) | [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Coletânea Manoel Gomes \(Blue Pen\) \- 27 Sucessos](https://open.spotify.com/album/3o80rmnnIuRIyXPYc3h0cV) | 3:08 |
 | 63 | [202 \- Speed](https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202 \(Speed\)](https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ) | 2:22 |
 | 64 | [7 Ligações](https://open.spotify.com/track/5TafECxsAuQHec0pbCetnW) | [vaqueiro desmantelado](https://open.spotify.com/artist/60k7um8B3hK7IID8qIZfQs), [Edu Matuto](https://open.spotify.com/artist/0ETDS7UgEhnskP0MD5i7AL) | [7 Ligações](https://open.spotify.com/album/0evvuV0Q3BZKfLNwxJIRTL) | 2:49 |
 | 65 | [Mantenha Distância](https://open.spotify.com/track/7oodfOYg0KH2LtjM0FBgb7) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [O Forró Voltou](https://open.spotify.com/album/3QzLVWvor6455GKNEW6FPK) | 2:27 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 100 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 101 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MTY3NzU5NDMxMCwwMDAwMDAwMGQ5YzUwODdjOWEzODBlZDFmNGZhZTQwZGYyYzI4NWJk`
+Snapshot ID: `MTY3NzU5NDMxMCwwMDAwMDAwMDFiMzBlZWE2ZjJkMTMzNDk1ODZhMmFiNmZhMDc2MDVl`

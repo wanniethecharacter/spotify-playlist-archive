@@ -1,35 +1,15 @@
 {
   "description": "Trending dance hits in India. Cover: Deepika Padukone & Shahrukh Khan",
-  "num_followers": 47687,
+  "num_followers": 47728,
   "original_name": "mint India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYyMTM1OSwwMDAwMDAwMGY5N2MyYzMxYzY5MGRiYzRkMzI3MTllZjdjNzJkZDhj",
+  "snapshot_id": "MTY3NzY1ODcxOCwwMDAwMDAwMGExYjk1Y2I0ZWVmOWMxYjM3ZWEyMWZiMmMzN2U1Mjg1",
   "tracks": [
     {
-      "added_at": "2023-02-17 08:09:19",
-      "album": {
-        "name": "Saturday/Sunday",
-        "url": "https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 166572,
-      "name": "Saturday/Sunday",
-      "url": "https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa"
-    },
-    {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "OFIVE1",
         "url": "https://open.spotify.com/album/1Rk6mhJQnIDrhygra17EtG"
@@ -53,31 +33,7 @@
       "url": "https://open.spotify.com/track/4IQqOlTZpfjnSTOArpZX5j"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
-      "album": {
-        "name": "Marianela (Que Pasa)",
-        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        },
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 145766,
-      "name": "Marianela (Que Pasa)",
-      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
-    },
-    {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Besharam Rang (From \"Pathaan\")",
         "url": "https://open.spotify.com/album/5CvI5ppsG522pV554VLezD"
@@ -113,7 +69,7 @@
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Bombay Dreams (feat. Kavita Seth)",
         "url": "https://open.spotify.com/album/5EyIytU4jYrTCuf8Xy49M3"
@@ -137,7 +93,27 @@
       "url": "https://open.spotify.com/track/4SlCYFaUQ8GRuwdpgniaGF"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
+      "album": {
+        "name": "Summertime Sadness (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 265997,
+      "name": "Summertime - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
+    },
+    {
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Marigold Soundsystem",
         "url": "https://open.spotify.com/album/6t9tMKgYyud4Bb43XYxSX2"
@@ -157,7 +133,27 @@
       "url": "https://open.spotify.com/track/77kFQ06wtiKTmrgDlq4uwp"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
+      "album": {
+        "name": "Lavender Haze (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "Lavender Haze - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi"
+    },
+    {
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Jugnu",
         "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
@@ -177,7 +173,7 @@
       "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Music Is The Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
@@ -205,7 +201,7 @@
       "url": "https://open.spotify.com/track/58PeAWeOz9yVemSLoeYyKZ"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Punjabi Retro Trap Mix",
         "url": "https://open.spotify.com/album/6qeYUrQzY8NZJlAFBKaa1v"
@@ -216,8 +212,8 @@
           "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
         },
         {
-          "name": "Dixit",
-          "url": "https://open.spotify.com/artist/4NrIN5zzc1DXEGbvsPlpOM"
+          "name": "Dixit Seth",
+          "url": "https://open.spotify.com/artist/2vKDhoyeBijAcWJzSiOny4"
         }
       ],
       "duration_ms": 105142,
@@ -225,7 +221,7 @@
       "url": "https://open.spotify.com/track/3NGH0wmZ0pT3Z1LCPOWWtt"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Bass Rani",
         "url": "https://open.spotify.com/album/6qz7Uf0jWIEaAr7vEr5cYY"
@@ -241,7 +237,7 @@
       "url": "https://open.spotify.com/track/6uiTWAJmiA7UO0bb80982m"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Tu Kahaan (1 Min Music)",
         "url": "https://open.spotify.com/album/5QdhLeikSse9wFEokUM2Gw"
@@ -261,7 +257,7 @@
       "url": "https://open.spotify.com/track/1CPhllOfBgOtTTDe05tSEw"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Dillagi",
         "url": "https://open.spotify.com/album/6XpGHTIMmOITEcwG5z86NR"
@@ -281,7 +277,7 @@
       "url": "https://open.spotify.com/track/3kA53abqN88SJ06rXMd3np"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "love nwantiti (feat. Dj Yo! & AX'EL) [Remix]",
         "url": "https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9"
@@ -305,7 +301,7 @@
       "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Whistle (feat. Calum Scott)",
         "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
@@ -325,7 +321,7 @@
       "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Desert Disco",
         "url": "https://open.spotify.com/album/779wLBWoL0hQLaYAbQhiA3"
@@ -341,7 +337,7 @@
       "url": "https://open.spotify.com/track/6EZq7cj5ryaVZDQeM5DVGf"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Munda Sona Hoon Main (From \"Shehzada\")",
         "url": "https://open.spotify.com/album/1d8jt3TJEbsTf6bTDnfyK9"
@@ -369,31 +365,7 @@
       "url": "https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
-      "album": {
-        "name": "The Naani Song",
-        "url": "https://open.spotify.com/album/61Dy7XSz7DO7txGaQeKY3e"
-      },
-      "artists": [
-        {
-          "name": "KS Abhishek",
-          "url": "https://open.spotify.com/artist/2qyLcNy946Ywef0ZnEnq0M"
-        },
-        {
-          "name": "Naani",
-          "url": "https://open.spotify.com/artist/5UNep9mQ7MXfuCmZ6aWVUl"
-        },
-        {
-          "name": "Sukanya Chattopadhyay",
-          "url": "https://open.spotify.com/artist/237MSTpAwqV8LuM9b2eF0B"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "The Naani Song",
-      "url": "https://open.spotify.com/track/74IinPT5MUEx90zNUguaSL"
-    },
-    {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Voodoo (With J Balvin) - Ti\u00ebsto Remix",
         "url": "https://open.spotify.com/album/75G6Xu4kuB1hfbBjUaRYyt"
@@ -417,7 +389,7 @@
       "url": "https://open.spotify.com/track/6NazIrzaE4n57E7ObZNVFC"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -433,7 +405,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
@@ -449,7 +421,7 @@
       "url": "https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Naagin",
         "url": "https://open.spotify.com/album/1qvwPj7hWoVYJ0S5z5mbag"
@@ -477,7 +449,7 @@
       "url": "https://open.spotify.com/track/7gAyu0od48mkaCw1laPKVC"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Hungama Ho Gaya (From \"Queen\") - Single",
         "url": "https://open.spotify.com/album/6OwQwHjB0tBu122oE7JK5P"
@@ -497,7 +469,7 @@
       "url": "https://open.spotify.com/track/4ZiH6RyMrw2vlgD6vrvzBd"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Baaraat",
         "url": "https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn"
@@ -517,7 +489,7 @@
       "url": "https://open.spotify.com/track/1rDQJd8kzwBRXeoTtojkQn"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Banna Re",
         "url": "https://open.spotify.com/album/7G7tYDvqxDNqAG0yhZkCep"
@@ -541,7 +513,7 @@
       "url": "https://open.spotify.com/track/0Yu3YJCrxA8htVYv4r9e19"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Rangi Saari",
         "url": "https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK"
@@ -561,23 +533,7 @@
       "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
-      "album": {
-        "name": "Pahari EDM Drop",
-        "url": "https://open.spotify.com/album/1wjiukEkEjiwkNXD1HEQY4"
-      },
-      "artists": [
-        {
-          "name": "Hb Mania",
-          "url": "https://open.spotify.com/artist/6C8kHWXwnezUU6eCGwgr1e"
-        }
-      ],
-      "duration_ms": 144166,
-      "name": "Pahari EDM Drop",
-      "url": "https://open.spotify.com/track/5z3dsvkkwDvlrw8g7ntpfn"
-    },
-    {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Mera Dil Ye Pukare - Tu Aaja (Heartlock Mix)",
         "url": "https://open.spotify.com/album/313XQLTvs8g357smdl4S0j"
@@ -597,7 +553,7 @@
       "url": "https://open.spotify.com/track/6bJmYR0sjTZNJxwdw52ern"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/4DigtdeXwziCXKHmEHXAr3"
@@ -613,7 +569,7 @@
       "url": "https://open.spotify.com/track/0eGXtYsvQlUqP5btDyOx17"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
@@ -633,7 +589,7 @@
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Aap Jaisa Koi (From \"An Action Hero\")",
         "url": "https://open.spotify.com/album/6nR97VpgmRofNSX7YeDItC"
@@ -657,7 +613,7 @@
       "url": "https://open.spotify.com/track/0SONddnho2KyMgAoaVd4Wk"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "OOPS (feat. Masked Wolf)",
         "url": "https://open.spotify.com/album/5DaEs5QojfHjfVDGJERW3R"
@@ -677,7 +633,7 @@
       "url": "https://open.spotify.com/track/10gKUrPM1XAvLeMtVdmn8w"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Aafat (From \"Liger\")",
         "url": "https://open.spotify.com/album/1Z4BdsXFm9DFEtShHrIr3h"
@@ -701,7 +657,7 @@
       "url": "https://open.spotify.com/track/0C6G3mqMjVcIgTWbK9nFIE"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Summer High",
         "url": "https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W"
@@ -717,7 +673,7 @@
       "url": "https://open.spotify.com/track/1aL9518P5G72N92b48tuKw"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Pushpa - The Rise",
         "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
@@ -733,31 +689,7 @@
       "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
-      "album": {
-        "name": "Bass Rani",
-        "url": "https://open.spotify.com/album/6qz7Uf0jWIEaAr7vEr5cYY"
-      },
-      "artists": [
-        {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
-        },
-        {
-          "name": "Julius Sylvest",
-          "url": "https://open.spotify.com/artist/533nJfX56F25FOytbE46tU"
-        },
-        {
-          "name": "Gagan Mudgal",
-          "url": "https://open.spotify.com/artist/4faYoMlqyHUk7oGpbK2nNo"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Mumbai Dance",
-      "url": "https://open.spotify.com/track/3Trk97TnEvpYk1iIcR3GRq"
-    },
-    {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Excuses",
         "url": "https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9"
@@ -781,7 +713,7 @@
       "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Sauda",
         "url": "https://open.spotify.com/album/7mbrC2oMrMrm034VVrVo9F"
@@ -801,7 +733,7 @@
       "url": "https://open.spotify.com/track/6BgHJll6fCYkbBaW52FACV"
     },
     {
-      "added_at": "2023-02-17 08:09:19",
+      "added_at": "2023-03-01 08:18:38",
       "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"

@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-239 songs - 13 hr 9 min
+240 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Cream](https://open.spotify.com/track/6AuFHzc4WmOdOxUbSpXy3S) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Cream](https://open.spotify.com/album/4WfyVhM0WYciroTsLT9ZXs) | 3:04 | 2021-11-19 | 2022-02-02 |
 | [CRUISE N CRASH \- Litek & RNDM Beats Refix Edition](https://open.spotify.com/track/49MzTVgUcivXDmSQyDbutH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [LiTek](https://open.spotify.com/artist/38UNDmwOPDx9LI028z8Bcw), [RNDM](https://open.spotify.com/artist/4FIohe40XNCk9HgvL2cxdT) | [CRUISE N CRASH \(Litek & RNDM Beats Refix Edition\)](https://open.spotify.com/album/28tKww6xlKuojAis24fRby) | 2:35 | 2022-01-21 | 2022-01-31 |
 | [Dale Vuelta](https://open.spotify.com/track/40tEZ9JmmfpwMUvG2DYgje) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X), [jordnmoody](https://open.spotify.com/artist/5WUJ0HwckdD0XHPz9EQ2XU), [episcool](https://open.spotify.com/artist/3KhrVd40DJwuzH8uPASUu4) | [Dale Vuelta](https://open.spotify.com/album/0qZEnwW3OQTuTqUVQI8ABD) | 3:00 | 2022-12-02 | 2023-01-16 |
+| [DAMN](https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7) | 3:40 | 2023-02-24 |  |
 | [DAMN \- Bonus Track](https://open.spotify.com/track/3sGJmCUfZKbbjtZ24eaepn) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:40 | 2022-02-01 | 2023-02-25 |
 | [DDOKBOKKI](https://open.spotify.com/track/0yT0Ok6LxqSLEzM7UMWEsQ) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU) | [DDOKBOKKI](https://open.spotify.com/album/2T48nb1L3se9K1QZIPJNWq) | 2:35 | 2021-11-19 | 2022-02-02 |
 | [Diamond Chain](https://open.spotify.com/track/60svIMvs5qsqcrQcqoPbXp) | [ELEVATD](https://open.spotify.com/artist/4Jp2Y29zopLWCqPWRt2TCR), [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk) | [Diamond Chain](https://open.spotify.com/album/49rsOusUhmuj20WdTGdAwH) | 5:03 | 2021-11-19 | 2022-01-25 |
@@ -193,7 +194,7 @@
 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2021-11-19 |  |
 | [Run Around](https://open.spotify.com/track/1RXh1aAInzM41tTIMwLMxX) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Run Around](https://open.spotify.com/album/6PEApdxop2cHLXra7RScde) | 2:19 | 2021-11-19 | 2022-07-29 |
 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 | 2021-11-19 |  |
-| [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/track/0tWgUaqAz1g9RoKbYYfUTG) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/album/2aOduwWZEWYDJ8389eDUar) | 3:12 | 2021-11-19 |  |
+| [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/track/0tWgUaqAz1g9RoKbYYfUTG) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/album/2aOduwWZEWYDJ8389eDUar) | 3:12 | 2021-11-19 | 2023-03-02 |
 | [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 | 2021-11-19 |  |
 | [Schism](https://open.spotify.com/track/6ORBymYSqdRRqAyZvybcXq) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko) | [Schism](https://open.spotify.com/album/7DM9QTovHnLVjFjRkDNQ1F) | 2:33 | 2021-11-19 | 2022-02-02 |
 | [Sense](https://open.spotify.com/track/3mAHtO5lWZmVmZ898Vp3mB) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [Pryzms](https://open.spotify.com/artist/6HNMTkdyksPiM9gdBKLkYf), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Sense](https://open.spotify.com/album/2Ll4zYTAQXnBHi18Jg4K04) | 2:46 | 2022-06-17 | 2022-07-29 |

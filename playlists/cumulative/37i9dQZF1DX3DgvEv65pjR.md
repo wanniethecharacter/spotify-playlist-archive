@@ -4,7 +4,7 @@
 
 > Fancy Hagood co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Music City has to offer!
 
-47 songs - 2 hr 46 min
+48 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 | 2021-06-01 |  |
 | [look up](https://open.spotify.com/track/1XO1GBR7sTLAFGHKWuCfTM) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:33 | 2021-06-01 | 2022-11-13 |
 | [look up](https://open.spotify.com/track/4fAWuHhfAqykApaqrR9tfK) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [look up](https://open.spotify.com/album/1Xk1qcxPB914MvYiiMkm3S) | 3:33 | 2021-06-01 | 2022-07-29 |
-| [Make It Easy](https://open.spotify.com/track/3oy0Z0FmYwAutwMdCJKjAm) | [Kree Harrison](https://open.spotify.com/artist/69EZtIpAexeay0SwCf5EKY) | [Chosen Family Tree](https://open.spotify.com/album/67PmOchcnQC7kIHDlGonsj) | 4:19 | 2021-06-01 |  |
+| [Make It Easy](https://open.spotify.com/track/2bCbRVsjMcLwUdlxMvFZ2V) | [Kree Harrison](https://open.spotify.com/artist/69EZtIpAexeay0SwCf5EKY) | [Chosen Family Tree](https://open.spotify.com/album/1kTyAvgksFOl4nlogRvTJw) | 4:19 | 2021-06-01 |  |
+| [Make It Easy](https://open.spotify.com/track/3oy0Z0FmYwAutwMdCJKjAm) | [Kree Harrison](https://open.spotify.com/artist/69EZtIpAexeay0SwCf5EKY) | [Chosen Family Tree](https://open.spotify.com/album/67PmOchcnQC7kIHDlGonsj) | 4:19 | 2021-06-01 | 2023-03-02 |
 | [Man In Me](https://open.spotify.com/track/6qNtretPY2YmajrAdNQxmP) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Man In Me](https://open.spotify.com/album/1wDnYhK35LSEuYIlc7gguF) | 4:48 | 2021-06-01 |  |
 | [Middle of Love](https://open.spotify.com/track/12f5yNRJaFUHWO25n3r9iG) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Middle of Love](https://open.spotify.com/album/2u66BiWE50bX5HDSwkjnjh) | 3:20 | 2021-06-01 |  |
 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 | 2021-06-01 |  |

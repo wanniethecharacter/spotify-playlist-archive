@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: Lani Rose
 
-259 songs - 16 hr 9 min
+260 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Good Morning](https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Good Morning](https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3) | 3:34 | 2023-02-19 |  |
 | [Goodbye Ole Me](https://open.spotify.com/track/2Ia3J3KjBGuJpNv93YaoLk) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Goodbye Ole Me](https://open.spotify.com/album/4nFLk3fZUyo8CnQZ1FHKc2) | 2:01 | 2023-02-19 |  |
 | [Growing Up](https://open.spotify.com/track/26AqRniqB19PZGLuvYFqUZ) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Growing Up](https://open.spotify.com/album/23IZW5PrpK26X2UeP3i2qX) | 3:35 | 2023-02-24 |  |
-| [Happier](https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Happier](https://open.spotify.com/album/1dQCWiSfNzXl9nhRCiGhsV) | 2:08 | 2023-02-24 | 2023-02-26 |
+| [Happier](https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Happier](https://open.spotify.com/album/1dQCWiSfNzXl9nhRCiGhsV) | 2:08 | 2023-02-24 |  |
 | [Happy](https://open.spotify.com/track/0Xp0lKqJIdgrjSH6sgzgZd) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Happy](https://open.spotify.com/album/5otImxxh8AbzxndieeMrZb) | 3:27 | 2023-02-19 |  |
 | [HATE TO TRY](https://open.spotify.com/track/0svfrfshZVw0tToRLLVWV1) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn) | [HATE TO TRY](https://open.spotify.com/album/3b60i1fSd2wy3Ro4iIJJOJ) | 3:15 | 2023-02-24 |  |
 | [Have My Heart](https://open.spotify.com/track/1x5wCRfjkvBtsWEWO0uBSc) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Have My Heart](https://open.spotify.com/album/0VYPJJVnnlaarZXaQFWsu1) | 2:56 | 2023-02-19 |  |
@@ -170,7 +170,7 @@
 | [Pilgrim](https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:57 | 2020-12-18 | 2023-02-19 |
 | [Places \(Des Endroits\)](https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i), [Mbushka](https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya) | [Places \(Des Endroits\)](https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2) | 3:32 | 2023-02-24 | 2023-02-26 |
 | [Please](https://open.spotify.com/track/2vDJTc0KHHmAWYL9zyBEh4) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Please](https://open.spotify.com/album/3NABwH188S5lqlfRIH8Nj2) | 3:16 | 2023-02-19 |  |
-| [please don't blame me.](https://open.spotify.com/track/5rU4PnVFgb9FhSTkADgCLv) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [The Lone\(ly\) Wolf](https://open.spotify.com/album/69QsGp278TfSBKas5NLKsC) | 2:31 | 2023-02-24 |  |
+| [please don't blame me.](https://open.spotify.com/track/5rU4PnVFgb9FhSTkADgCLv) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [The Lone\(ly\) Wolf](https://open.spotify.com/album/69QsGp278TfSBKas5NLKsC) | 2:31 | 2023-02-24 | 2023-03-02 |
 | [Point To You](https://open.spotify.com/track/43ZqqtbASlKlRVRRdU8SyT) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye) | [Point To You](https://open.spotify.com/album/2LSjz7Fy4w4aFRz91T8CWk) | 2:49 | 2023-02-19 |  |
 | [Poison](https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Poison](https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z) | 2:57 | 2023-02-19 |  |
 | [Poison](https://open.spotify.com/track/1jTheEoZrLEr54mXZRJpLC) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Poison](https://open.spotify.com/album/0bzSZYw44KNZrwpildyXgk) | 2:51 | 2023-02-19 |  |
@@ -200,7 +200,7 @@
 | [Slow Down](https://open.spotify.com/track/0z0jIa4ieoF1U2kMXJRemg) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Slow Down](https://open.spotify.com/album/0R36i2T4Afvy3frSywQ9dy) | 3:07 | 2020-12-18 | 2023-02-19 |
 | [Smell The Roses](https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Smell The Roses](https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f) | 4:13 | 2023-02-19 |  |
 | [Somebody](https://open.spotify.com/track/3SE2OWRSRPwNtO3flHQOKv) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Somebody](https://open.spotify.com/album/6ReAgEGnlcVPWAoCHwMU8E) | 3:12 | 2023-02-24 |  |
-| [Something You Once Knew](https://open.spotify.com/track/5Nbim16j7SNmatgnUmA8D7) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Something You Once Knew](https://open.spotify.com/album/45a35sVDNqX5DpTEAwisRl) | 1:38 | 2023-02-24 |  |
+| [Something You Once Knew](https://open.spotify.com/track/5Nbim16j7SNmatgnUmA8D7) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Something You Once Knew](https://open.spotify.com/album/45a35sVDNqX5DpTEAwisRl) | 1:38 | 2023-02-24 | 2023-03-02 |
 | [Springtime](https://open.spotify.com/track/3u3wIwedK7lT55qBqZ1M1s) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Springtime](https://open.spotify.com/album/62xXWkJPnP0bFdwEspp0CT) | 4:14 | 2020-12-18 | 2022-07-29 |
 | [Springtime](https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 4:14 | 2020-12-18 | 2023-02-19 |
 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 | 2020-12-18 | 2023-02-19 |
@@ -255,6 +255,7 @@
 | [Wherever I Go \(Acoustic\)](https://open.spotify.com/track/2gBVcqS417YeS6Jr4rqvsg) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Wherever I Go \(Acoustic\)](https://open.spotify.com/album/48da3rX8UEuuwkS9t0LUBh) | 4:10 | 2023-02-24 |  |
 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 | 2023-02-19 |  |
 | [Who's That Guy?](https://open.spotify.com/track/0c9Pvl5ZbuSLz74zYaJOmE) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [fake strong](https://open.spotify.com/album/0MI00zdMi7R5he3t0aaVRm) | 2:42 | 2023-02-24 |  |
+| [Wildflower \- Single Version](https://open.spotify.com/track/2tKaFiKEIuFf5r3LXpiqPg) | [Baily Hager](https://open.spotify.com/artist/20o7eBmsXpjnNqWVvwp9sb) | [Wildflower](https://open.spotify.com/album/1T6eFur755rELSRscSb0AK) | 5:31 | 2023-02-24 |  |
 | [WINNING](https://open.spotify.com/track/2GV28Ng9Qb9nd1Eo0pcoIC) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [WINNING](https://open.spotify.com/album/5gACii71448MJmPfypnC80) | 2:18 | 2023-02-24 |  |
 | [With Us Still](https://open.spotify.com/track/3TxZrkbyMAsRPbYAzDS7ag) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [With Us Still](https://open.spotify.com/album/1xajWufL9Q5yU8abterSB5) | 3:37 | 2023-02-24 |  |
 | [Without Your Love](https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [A.Bishai](https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM) | [Without Your Love](https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC) | 2:59 | 2023-02-19 | 2023-02-24 |

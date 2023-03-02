@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-370 songs - 19 hr 26 min
+371 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,8 @@
 | [santa baby](https://open.spotify.com/track/4RAVnFrYEAsI0C3blilR1Z) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [santa baby](https://open.spotify.com/album/1fqQ3f6kH5mvh6mK1XWGVt) | 3:25 | 2022-11-04 |  |
 | [Santa Claus Is Back in Town](https://open.spotify.com/track/2Hka93SeXGJnYjJIhgJERo) | [Rachel Wammack](https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR) | [Dear Christmas](https://open.spotify.com/album/0sL6qfdchTqAll5oMh45im) | 2:25 | 2022-11-11 |  |
 | [Santa Claus Is Back In Town](https://open.spotify.com/track/7DULSpZJEnYQEE2wD6Z5T9) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Santa Claus Is Back In Town](https://open.spotify.com/album/0EEfg4RCyu9GS4yIjY1KPw) | 2:18 | 2022-11-04 |  |
-| [Santa Claus is Comin' to Town](https://open.spotify.com/track/4eGQyyMFL8VAjh0FLnO4YH) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [O.N.E Very Merry Christmas](https://open.spotify.com/album/1ec4f3q3bHBzP5IgqXMFAw) | 2:11 | 2022-11-11 |  |
+| [Santa Claus Is Comin' to Town](https://open.spotify.com/track/6svjsUlbGkT90TwBc3t0BM) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [O.N.E Very Merry Christmas](https://open.spotify.com/album/6hp4z5Z80cAUCdioFrptuh) | 2:11 | 2022-11-11 |  |
+| [Santa Claus is Comin' to Town](https://open.spotify.com/track/4eGQyyMFL8VAjh0FLnO4YH) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [O.N.E Very Merry Christmas](https://open.spotify.com/album/1ec4f3q3bHBzP5IgqXMFAw) | 2:11 | 2022-11-11 | 2023-03-02 |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/03yVoDvmEN4eWzJjI2SqlJ) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Home for the Holidays with DCappella](https://open.spotify.com/album/3FHCtrY8Pu5KfPfvNSMmcZ) | 2:29 | 2022-09-27 | 2022-10-24 |
 | [Santa Claus Is Coming To Town \(Fireside Version\)](https://open.spotify.com/track/007cHCs8dPQmtrrb4bygGJ) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Santa Claus Is Coming To Town \(Fireside Version\)](https://open.spotify.com/album/3PsuS5HhHPJ8FRqID7q0Yx) | 3:32 | 2022-11-04 |  |
 | [Santa Claus Is Comin’ To Town](https://open.spotify.com/track/56NwAqyAAD9yJ2gn2W1dvO) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Santa Claus Is Comin’ To Town](https://open.spotify.com/album/1WwXf2YyHyN5kdHxjMVKOe) | 2:41 | 2022-10-23 |  |

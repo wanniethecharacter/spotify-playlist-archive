@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kWFWFtanIn.md) - [plain]
 
 > The perfect soundtrack to your prenatal yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,536 likes - 262 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,552 likes - 262 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kWFWFtanIn.md) - [plain]
 | 56 | [For These Reasons](https://open.spotify.com/track/0jBJMUnzVfdgvGudnNjTKw) | [Celestial Seekr](https://open.spotify.com/artist/6vzDsyuY7VKxGPDCcz9Eel) | [For These Reasons](https://open.spotify.com/album/1D0HXijd9Hzxs1gH3bHspk) | 2:48 |
 | 57 | [Easy Relaxation](https://open.spotify.com/track/5C2kORborDnldRKdr5jcQY) | [Whispers in Haze](https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP) | [Easy Relaxation](https://open.spotify.com/album/2d1vqShDaC1AEcLIQVomTM) | 3:00 |
 | 58 | [By Night](https://open.spotify.com/track/3GUcRSX4iicaUG2K2g4bBH) | [Hain Sona](https://open.spotify.com/artist/6Caj9wTooVGTk1edAU4uXD) | [By Night](https://open.spotify.com/album/0XD64OAteO7YJRXdMfnuKb) | 2:44 |
-| 59 | [Layers](https://open.spotify.com/track/3h6v2gPzB9ouue4uNq9mVo) | [Da Malia](https://open.spotify.com/artist/21uIQDwO87x0WilDQA3NkT) | [Layers](https://open.spotify.com/album/5fcvLEFHyTopriEc7ffypY) | 2:25 |
+| 59 | [Layers](https://open.spotify.com/track/3h6v2gPzB9ouue4uNq9mVo) | [Da Malia](https://open.spotify.com/artist/221MMXF9lRjQOzfgDdNZA3) | [Layers](https://open.spotify.com/album/5fcvLEFHyTopriEc7ffypY) | 2:25 |
 | 60 | [Softly Drift](https://open.spotify.com/track/2YYvF9y9HlnvDUsqgmmI9a) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Softly Drift](https://open.spotify.com/album/7GpqbUVy8lUymLnjVEtmDL) | 3:18 |
 | 61 | [Beyond The Moon](https://open.spotify.com/track/4657ZjUX9Go69R5LHdbPOJ) | [Tryggve Malmberg](https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq) | [Beyond The Moon](https://open.spotify.com/album/3ylKvmxVNOb1kXL1jf1Cta) | 2:30 |
 | 62 | [Awakening](https://open.spotify.com/track/7z6h9sgnoZQxUYoIDGBn2h) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Awakening](https://open.spotify.com/album/3GybZKjekAvH8YwQAO1kZE) | 3:04 |

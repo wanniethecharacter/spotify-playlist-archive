@@ -5783,6 +5783,24 @@
     },
     {
       "album": {
+        "name": "Fire on mute",
+        "url": "https://open.spotify.com/album/0wLLNfLogSEe9AuawPu9dM"
+      },
+      "artists": [
+        {
+          "name": "Baddies",
+          "url": "https://open.spotify.com/artist/3xyExNQNROZjTvur6Za2DW"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143023,
+      "name": "Fire on mute",
+      "url": "https://open.spotify.com/track/3ZYa386k9Ij1972ocF5Twl"
+    },
+    {
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -13838,7 +13856,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 177700,
       "name": "Oppmerksomhet",
       "url": "https://open.spotify.com/track/6b02mOA9cRfwiX69pFuXUo"
@@ -13966,6 +13984,24 @@
     {
       "album": {
         "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/1XciNWcYMtjVEjgEQXXxSN"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122070,
+      "name": "Painting Pictures",
+      "url": "https://open.spotify.com/track/2OgIbXHmuRJowDwtmezcio"
+    },
+    {
+      "album": {
+        "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/4rOjLnFYn6xZSEKkR86qEV"
       },
       "artists": [
@@ -13976,7 +14012,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 122070,
       "name": "Painting Pictures",
       "url": "https://open.spotify.com/track/4ElnYhTeJEx90XrPDlLzH9"
@@ -16596,7 +16632,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 153789,
       "name": "Sorry, jeg har pult en annen",
       "url": "https://open.spotify.com/track/0bg4gJlfoDR0ICj58UfmdF"
@@ -17594,6 +17630,24 @@
       "duration_ms": 133714,
       "name": "TANTE",
       "url": "https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k"
+    },
+    {
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "album": {

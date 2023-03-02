@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 32271,
+  "num_followers": 32387,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMGU5OWRkNTY5ZDQ5MDI2NTMxYWU3NjUwZjExMWMwNzdh",
+  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMDQ4NWQ2ZTQwYzlkNzZlNTFjYzk4N2QxMzVhNTE2Yzcx",
   "tracks": [
     {
       "added_at": "2022-11-29 16:59:10",
@@ -487,26 +487,18 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Dial Tone",
-        "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
+        "name": "fishmonger",
+        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
       },
       "artists": [
         {
-          "name": "That Kid",
-          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
-        },
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J"
-        },
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
         }
       ],
-      "duration_ms": 178823,
-      "name": "Dial Tone",
-      "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
+      "duration_ms": 199796,
+      "name": "Spoiled little brat",
+      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -567,18 +559,26 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "fishmonger",
-        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
+        "name": "Dial Tone",
+        "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
       },
       "artists": [
         {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+          "name": "That Kid",
+          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J"
+        },
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
         }
       ],
-      "duration_ms": 199796,
-      "name": "Spoiled little brat",
-      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
+      "duration_ms": 178823,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -843,6 +843,30 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "Good Luck (Deluxe)",
+        "url": "https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 120754,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "doing it wrong",
         "url": "https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo"
       },
@@ -879,30 +903,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Good Luck (Deluxe)",
-        "url": "https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM"
-      },
-      "artists": [
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        },
-        {
-          "name": "Mechatok",
-          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 120754,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "BIPP",
         "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
       },
@@ -919,18 +919,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Rich Bitch Juice",
-        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
+        "name": "I <3 Harajuku",
+        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
       },
       "artists": [
         {
           "name": "Alice Longyu Gao",
           "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
         }
       ],
-      "duration_ms": 120221,
-      "name": "Rich Bitch Juice",
-      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
+      "duration_ms": 146938,
+      "name": "I <3 Harajuku",
+      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -999,6 +1003,70 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "Peace & Love",
+        "url": "https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 202391,
+      "name": "Of Course I Still Love You",
+      "url": "https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "Visored Vitality",
+        "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Butterfly Bankai",
+      "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "Honda",
+        "url": "https://open.spotify.com/album/59OTBWWNBMB0dLbRzmZMIX"
+      },
+      "artists": [
+        {
+          "name": "David Shawty",
+          "url": "https://open.spotify.com/artist/1p8A4FgZDL8Q7o6BO3NwJk"
+        }
+      ],
+      "duration_ms": 110106,
+      "name": "Honda",
+      "url": "https://open.spotify.com/track/1tixCrYa7pcaze1PUqTsCa"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "movinglikeazombie (remix)",
         "url": "https://open.spotify.com/album/3Qsn28wKIcugGTZ6HnR0qR"
       },
@@ -1055,86 +1123,18 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Visored Vitality",
-        "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
-      },
-      "artists": [
-        {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
-        }
-      ],
-      "duration_ms": 152032,
-      "name": "Butterfly Bankai",
-      "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "Peace & Love",
-        "url": "https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 202391,
-      "name": "Of Course I Still Love You",
-      "url": "https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "Honda",
-        "url": "https://open.spotify.com/album/59OTBWWNBMB0dLbRzmZMIX"
-      },
-      "artists": [
-        {
-          "name": "David Shawty",
-          "url": "https://open.spotify.com/artist/1p8A4FgZDL8Q7o6BO3NwJk"
-        }
-      ],
-      "duration_ms": 110106,
-      "name": "Honda",
-      "url": "https://open.spotify.com/track/1tixCrYa7pcaze1PUqTsCa"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "FREAK",
-        "url": "https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "FREAK",
-      "url": "https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "I <3 Harajuku",
-        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
+        "name": "Rich Bitch Juice",
+        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
       },
       "artists": [
         {
           "name": "Alice Longyu Gao",
           "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        },
-        {
-          "name": "Fraxiom",
-          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
         }
       ],
-      "duration_ms": 146938,
-      "name": "I <3 Harajuku",
-      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
+      "duration_ms": 120221,
+      "name": "Rich Bitch Juice",
+      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
     },
     {
       "added_at": "2022-11-29 16:59:10",

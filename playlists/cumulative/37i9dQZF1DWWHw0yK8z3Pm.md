@@ -4,7 +4,7 @@
 
 > Singer\-songwriters who colour outside the lines\. Cover: Cat Clyde
 
-235 songs - 14 hr 31 min
+236 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Tough or Die](https://open.spotify.com/track/0KKcazbwGXcSEdwXwhkWwN) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Down\-Home](https://open.spotify.com/album/23oKMLD2iem0u13XqIIYQh) | 3:11 | 2022-05-13 | 2022-09-17 |
 | [Two Shots](https://open.spotify.com/track/1mauqJ16bq02UNpTw2IysI) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/7aEPFKcRZg2lDCzE5FGtSX) | 4:09 | 2022-05-13 | 2023-02-01 |
 | [Two Shots](https://open.spotify.com/track/5TedK5daYlWU5Ij9gBxQpk) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn) | 4:09 | 2023-01-27 |  |
-| [Two Wolves](https://open.spotify.com/track/6ojNVt86xChV8OV3qcWeB4) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 4:04 | 2022-09-30 |  |
+| [Two Wolves](https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 4:04 | 2023-02-24 |  |
+| [Two Wolves](https://open.spotify.com/track/6ojNVt86xChV8OV3qcWeB4) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 4:04 | 2022-09-30 | 2023-03-02 |
 | [Unlucky Skin](https://open.spotify.com/track/6lFoLANp9f1mETEyxp3sCE) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Unlucky Skin / Roll The Bones](https://open.spotify.com/album/6mWrmigd6yuj5142g0f8Vo) | 3:18 | 2022-05-13 | 2022-05-20 |
 | [Up To You](https://open.spotify.com/track/6NpXHoyenMiNwXvOocSPkk) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Up To You](https://open.spotify.com/album/3SJsVvtNTvD8UqHztTFWs0) | 3:12 | 2022-07-29 | 2022-08-27 |
 | [Upime](https://open.spotify.com/track/4roek8AJnlSRgkvJxLQJjE) | [Claude McKenzie](https://open.spotify.com/artist/6mQxVMXmQumHSbY96HiMjY) | [Mukuuin](https://open.spotify.com/album/6U8xS5uvMy8bD6ErzK4WMn) | 3:46 | 2022-05-13 |  |

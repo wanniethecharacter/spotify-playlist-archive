@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "The Incredible Harry James",
+        "url": "https://open.spotify.com/album/6S9sSx0t4iOvkFSyBVpIeP"
+      },
+      "artists": [
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187573,
+      "name": "It's Been a Long Long Time (Alternate Take)",
+      "url": "https://open.spotify.com/track/4iecQTgGLf0WJKrdnT2OKD"
+    },
+    {
+      "album": {
         "name": "Harry James in Hi-Fi",
         "url": "https://open.spotify.com/album/10CSPZT502I5RgbPtgweEp"
       },
@@ -2128,7 +2146,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 552600,
       "name": "Tales For A Girl, 12",
       "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"

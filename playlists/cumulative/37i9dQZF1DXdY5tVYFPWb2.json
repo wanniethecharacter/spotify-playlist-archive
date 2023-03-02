@@ -508,7 +508,7 @@
     {
       "album": {
         "name": "Awesome Day",
-        "url": "https://open.spotify.com/album/0YiAhoEt7KwUWIwUkVqkWT"
+        "url": "https://open.spotify.com/album/6gcG7112FkoCEeCN6ljP6T"
       },
       "artists": [
         {
@@ -519,6 +519,24 @@
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198233,
+      "name": "Awesome Day",
+      "url": "https://open.spotify.com/track/0qqmOwDSPhH1PNHv72al3N"
+    },
+    {
+      "album": {
+        "name": "Awesome Day",
+        "url": "https://open.spotify.com/album/0YiAhoEt7KwUWIwUkVqkWT"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u96c4\u58eb",
+          "url": "https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
       "duration_ms": 198233,
       "name": "Awesome Day",
       "url": "https://open.spotify.com/track/5XNEnGFGKjeWgaVRvP4wq8"
@@ -3406,7 +3424,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 198750,
       "name": "One Way My Love - Neon Mix",
       "url": "https://open.spotify.com/track/6CLeUulXsPa2AyaiVKN9OY"
@@ -5205,6 +5223,24 @@
     },
     {
       "album": {
+        "name": "Time of adult",
+        "url": "https://open.spotify.com/album/6729vNYmT495Qsn8IQuE83"
+      },
+      "artists": [
+        {
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207014,
+      "name": "Time of adult",
+      "url": "https://open.spotify.com/track/52BmVOetghDJzb1LtVYx3n"
+    },
+    {
+      "album": {
         "name": "Ladies In The City",
         "url": "https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7"
       },
@@ -6294,7 +6330,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 207014,
       "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
       "url": "https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2"
@@ -6928,7 +6964,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 194285,
       "name": "\u30e1\u30e2\u30ea\u30a2\u30d5\u30ed\u30a2",
       "url": "https://open.spotify.com/track/56UpxpbqRT8I6vBAMo3BIu"

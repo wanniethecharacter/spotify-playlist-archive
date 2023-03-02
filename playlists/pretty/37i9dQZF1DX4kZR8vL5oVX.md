@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 ### [EQUAL France](https://open.spotify.com/playlist/37i9dQZF1DX4kZR8vL5oVX)
 
-> Les femmes montent le son : playlist réalisée en collaboration avec Jain, à l'occasion de la journée internationale des droits des femmes.
+> Les femmes montent le son : playlist réalisée en collaboration avec Jain \(Miley Cyrus, Nicki Minaj, Beyoncé, Dolly Parton & Kate Bush\), à l'occasion de la journée internationale des droits des femmes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,500 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,508 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 48 | [Demain n'existe plus](https://open.spotify.com/track/2wIKEluOoDgeC7ygqOiQvR) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Demain n'existe plus](https://open.spotify.com/album/12sCUPkoIfLXQKJrfXMwZP) | 2:47 |
 | 49 | [Aussi fou](https://open.spotify.com/track/44KgBXNkTTeoUOxdIMx8Df) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Aussi fou](https://open.spotify.com/album/62oW0RbQHKayXG1sYDkoI6) | 2:27 |
 
-Snapshot ID: `MTY3NzYyNTIwMCwwMDAwMDAwMDlhNDMwNWQ1MGMyNmZmZDczNzI2N2M5ZDIzYmYyMzFh`
+Snapshot ID: `MTY3NzY5MDg0MywwMDAwMDAwMDMzYjI4NTk3YWRlZmE0MDVkYTNhYmE3ZThiOTU0NmZm`

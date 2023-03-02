@@ -4,7 +4,7 @@
 
 > Brand new music from Gorillaz \(pictured\), The Weeknd + Ariana Grande, Halsey and more!
 
-2,040 songs - 4 day 14 hr 44 min
+2,041 songs - 4 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-11 | 2022-11-18 |
 | [20 Seconds](https://open.spotify.com/track/52URZEXs1DNmZmvfhH34Ez) | [MICHAELA](https://open.spotify.com/artist/0QxBW01qmpM8InQcVa1x9V) | [20 Seconds](https://open.spotify.com/album/66umoovRLP9pdVlBNkHMOV) | 3:10 | 2022-11-11 | 2022-11-18 |
 | [20 Something](https://open.spotify.com/track/7qZUgxn9Sgr3Zdv93kznbu) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Kat Penkin](https://open.spotify.com/artist/1T5oohg2vb4T6d5kAdaCgs) | [20 Something](https://open.spotify.com/album/2S9bi0zlHgkclOhp1avefj) | 2:53 | 2023-01-20 | 2023-01-27 |
-| [2003](https://open.spotify.com/track/0LLzqbT0mLpoiQ8oqLohU3) | [Luna Blue](https://open.spotify.com/artist/71jXlesSMotAtJXLCWpvzo) | [2003](https://open.spotify.com/album/2tynBEjDByYqbLOjUP4dNQ) | 3:27 | 2023-02-24 |  |
+| [2003](https://open.spotify.com/track/0LLzqbT0mLpoiQ8oqLohU3) | [Luna Blue](https://open.spotify.com/artist/71jXlesSMotAtJXLCWpvzo) | [2003](https://open.spotify.com/album/2tynBEjDByYqbLOjUP4dNQ) | 3:27 | 2023-02-24 | 2023-03-02 |
+| [2003](https://open.spotify.com/track/1spixwJ4Yk3zP5W6SRF21E) | [Luna Blue](https://open.spotify.com/artist/71jXlesSMotAtJXLCWpvzo) | [2003](https://open.spotify.com/album/0IRNdak5TtBL1YVw0bzqIK) | 3:27 | 2023-02-24 |  |
 | [2020s](https://open.spotify.com/track/0TLsJGWkuTUFZIIRuLNJDO) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [2020s](https://open.spotify.com/album/0VGKDlG0R7b8G7ETtzaeIW) | 2:32 | 2023-01-13 | 2023-01-20 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 |  |
 | [23](https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [23](https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf) | 4:21 | 2023-01-20 | 2023-01-27 |
@@ -1527,7 +1528,7 @@
 | [Set You Free](https://open.spotify.com/track/1dGDCmIYShi7xuaX2MuZtF) | [Bamy](https://open.spotify.com/artist/6NGPF371TgDsclADp9n50D) | [Set You Free](https://open.spotify.com/album/4Jv5zqslHfbtEnu8eiX7SC) | 2:31 | 2023-02-03 | 2023-02-10 |
 | [Settled Accounts](https://open.spotify.com/track/00yPQxPinyr2Ofvuvu2jXs) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [Settled Accounts](https://open.spotify.com/album/40vmturVgi5PpqT5O0Ultv) | 3:41 | 2023-01-06 | 2023-01-13 |
 | [Shade](https://open.spotify.com/track/0rwnBxMt2ZF1TCh4qfI3v9) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61), [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7) | [Shade](https://open.spotify.com/album/2qJgRjmfiRzg75yl04Kms8) | 3:29 | 2022-12-16 | 2022-12-24 |
-| [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-02-24 |  |
+| [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\) \[Edit\]](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-02-24 |  |
 | [Shadowboxing](https://open.spotify.com/track/2SX6347SQmylZcetMu6w3P) | [Lost Under Heaven](https://open.spotify.com/artist/634K1Y2zhBHexel2Ma4xsC) | [Shadowboxing](https://open.spotify.com/album/4uY5FlBUGNyO3wz4jR0Rzc) | 4:01 | 2023-02-24 |  |
 | [Shake It](https://open.spotify.com/track/6z7uW7zQppwxA7wDkl7Hhl) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6) | [Shake It](https://open.spotify.com/album/2ycKYIdtvyhvtKSb2kJkrf) | 2:07 | 2022-11-04 | 2022-11-11 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:37 | 2023-01-13 | 2023-01-20 |

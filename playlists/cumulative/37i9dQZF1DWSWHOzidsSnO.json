@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Arelys Henao y m\u00e1s mujeres, a todo volumen!",
+  "description": "\u00a1Mujeres de los Andes, a todo volumen! Co-curada con La L\u00e1.",
   "name": "EQUAL Andes",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 219451,
       "name": "Agu\u00e1ntame un ratito",
       "url": "https://open.spotify.com/track/6mxRQaBAAFwnUnefO2ilh6"
+    },
+    {
+      "album": {
+        "name": "\u00a1Sola...Siempre Sola!",
+        "url": "https://open.spotify.com/album/712D7w8qU2KB9J9HJQOpEk"
+      },
+      "artists": [
+        {
+          "name": "Flor Pucarina",
+          "url": "https://open.spotify.com/artist/0Cx0jBqPZuvdKTcpOkRsk8"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171280,
+      "name": "Airampito",
+      "url": "https://open.spotify.com/track/6qiVSgeijeice6TrfhnCKj"
     },
     {
       "album": {
@@ -290,7 +308,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 223615,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/3OAcJ8edCrAvbEVG99AjAL"
@@ -352,7 +370,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 243680,
       "name": "Balada Borracha",
       "url": "https://open.spotify.com/track/3jBNpVIScSy6HjcbFqqLWG"
@@ -392,7 +410,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 162005,
       "name": "Bellakita",
       "url": "https://open.spotify.com/track/7anoUUKKK3GQOpdR3BSGsE"
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 200232,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/7g6hdsFsrG5uRvZqbHJ6QW"
@@ -1485,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Afro-Peruvian Classics: The Soul of Black Peru",
+        "url": "https://open.spotify.com/album/5yJ0eAVAP7G2OR4lRcNcas"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337840,
+      "name": "Maria Lando",
+      "url": "https://open.spotify.com/track/363nd7Fxruaf0CrQnK7p0m"
+    },
+    {
+      "album": {
         "name": "Mariposas",
         "url": "https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv"
       },
@@ -1550,7 +1586,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 190329,
       "name": "Me Duele",
       "url": "https://open.spotify.com/track/2srklBkaBf5cCIeVCmyZso"
@@ -1598,6 +1634,28 @@
       "duration_ms": 140423,
       "name": "Mesero",
       "url": "https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf"
+    },
+    {
+      "album": {
+        "name": "Mito",
+        "url": "https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234478,
+      "name": "Mito",
+      "url": "https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX"
     },
     {
       "album": {
@@ -1952,7 +2010,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 191936,
       "name": "No Me Hablen de \u00c9l",
       "url": "https://open.spotify.com/track/0evFiUFMG6KNXTnXlthNRT"
@@ -2147,6 +2205,28 @@
     },
     {
       "album": {
+        "name": "Paracas Cavernas",
+        "url": "https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "Tessa Ia",
+          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268011,
+      "name": "Paracas Cavernas",
+      "url": "https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5"
+    },
+    {
+      "album": {
         "name": "Perro Es Perro",
         "url": "https://open.spotify.com/album/3PXimCd1eMcfJFCAfCy9gC"
       },
@@ -2158,7 +2238,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 171093,
       "name": "Perro Es Perro",
       "url": "https://open.spotify.com/track/3fYStiduJeyLoraptOBWLD"
@@ -2346,7 +2426,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
@@ -2545,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "Isqun",
+        "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
+      },
+      "artists": [
+        {
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136706,
+      "name": "Tijeras",
+      "url": "https://open.spotify.com/track/5qjpID2xzQjJu67a3wP68m"
+    },
+    {
+      "album": {
         "name": "Todo por Decir",
         "url": "https://open.spotify.com/album/1du3Ki9h7sUNzoKgggKrDy"
       },
@@ -2603,6 +2701,28 @@
     },
     {
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "TQG",
+      "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
+    },
+    {
+      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/4I7jRaamLwR0blv9qzGiW7"
       },
@@ -2650,7 +2770,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 360880,
       "name": "T\u00edo Guachupesito",
       "url": "https://open.spotify.com/track/7AzIWxOIJOqOt6GXZKhDUD"
@@ -2900,6 +3020,24 @@
       "duration_ms": 229404,
       "name": "VOLVI\u00d3 A LATIR",
       "url": "https://open.spotify.com/track/3zvrOvREVagZmg9bb1wYFp"
+    },
+    {
+      "album": {
+        "name": "WARMISITAY",
+        "url": "https://open.spotify.com/album/27BrKlycAoVnEUDz1v5amr"
+      },
+      "artists": [
+        {
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204219,
+      "name": "WARMISITAY",
+      "url": "https://open.spotify.com/track/6PI8OSjXRVqzQA3S8lPnMl"
     },
     {
       "album": {

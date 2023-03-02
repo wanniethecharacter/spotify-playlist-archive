@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-207 songs - 10 hr 37 min
+208 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Can't Say No](https://open.spotify.com/track/3GjkAL654ijp5s8Xkh93wV) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q) | [Can't Say No](https://open.spotify.com/album/3ChgqHnbhZNKP8bzyKOyVX) | 3:35 | 2023-01-05 |  |
 | [Can't You Feel It](https://open.spotify.com/track/7qw1FDLaNC5LA6kifisldI) | [MIDNIGHT CVLT](https://open.spotify.com/artist/6fT08N8EN9rPdbeWxXkNdX), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Can't You Feel It](https://open.spotify.com/album/1mdT842jxLeARBJpahEw6f) | 3:43 | 2022-09-20 |  |
 | [Caramel](https://open.spotify.com/track/14StKF124FSjdGN5zizxeu) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Stahl](https://open.spotify.com/artist/1Yc7C8ld8ndzPNKh3kUmWU), [RUD](https://open.spotify.com/artist/6IJyibMKpIZOeGR8FlxzBb) | [Caramel](https://open.spotify.com/album/1GaCDSNcfWizabEX3El1vl) | 4:02 | 2022-08-19 |  |
+| [Catching Feelings](https://open.spotify.com/track/31nf4tcEQwkjhWtKY0Odox) | [VERB](https://open.spotify.com/artist/1pRjBwChdQFuoYH6NiI3pe) | [Catching Feelings](https://open.spotify.com/album/12uiINa1SNssVPOXdYXXqq) | 2:25 | 2023-03-01 |  |
 | [Champions](https://open.spotify.com/track/0TX9BlX5jJfMMinl7UWaPa) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Lunaar](https://open.spotify.com/artist/13utdDa4vewlnpTmTHZNma), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Champions](https://open.spotify.com/album/2Xfu9gcaWqUiFdjXFJToOB) | 3:30 | 2022-04-23 |  |
 | [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Circle](https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR) | 3:58 | 2022-08-31 |  |
 | [Come Alive](https://open.spotify.com/track/6pftCjKWt9FhrTtVTgMgam) | [RDLS](https://open.spotify.com/artist/7JiTFmONy7I3lM2ZDvjc6H), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Come Alive](https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH) | 2:56 | 2022-07-15 |  |

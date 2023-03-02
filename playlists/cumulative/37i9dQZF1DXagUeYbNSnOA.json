@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Mimi Rose. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Digiannia. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 163124,
       "name": "Amor No Correspondido",
       "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
@@ -2967,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "Complejo de Martir",
+        "url": "https://open.spotify.com/album/7anGWpldwOfPvADPqdoPq4"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195227,
+      "name": "Complejo de Martir",
+      "url": "https://open.spotify.com/track/5xVAjvnDSbjEQjTX3LXQKB"
+    },
+    {
+      "album": {
         "name": "Comprende",
         "url": "https://open.spotify.com/album/1izMjI469MuMCqXMiUM3jB"
       },
@@ -3101,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "SINCERAMENTE, BEBE",
+        "url": "https://open.spotify.com/album/5pRyuC3CDcSZkJbg3KUFut"
+      },
+      "artists": [
+        {
+          "name": "BEBEBOY",
+          "url": "https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "CORAZON DE NIEVE",
+      "url": "https://open.spotify.com/track/6jKdi3HZuPTpr8BPap6D2b"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4TmwigR6q4r2S26W1McDed"
       },
@@ -3184,7 +3220,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 183852,
       "name": "Cristales",
       "url": "https://open.spotify.com/track/6pNAZMDO85s5ZmEzP9Lpo5"
@@ -8030,7 +8066,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 155439,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S"
@@ -8254,7 +8290,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 178285,
       "name": "Majalca",
       "url": "https://open.spotify.com/track/4IcvsDVsftpVFrPqqVy99V"
@@ -8660,7 +8696,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 202090,
       "name": "Me Empiezo a Enamorar",
       "url": "https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp"
@@ -11226,7 +11262,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 211581,
       "name": "Papaya dulce",
       "url": "https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb"
@@ -12899,6 +12935,24 @@
     },
     {
       "album": {
+        "name": "Sexo Sin Drama",
+        "url": "https://open.spotify.com/album/2ndDGHFi69bEujXAftA959"
+      },
+      "artists": [
+        {
+          "name": "Digiannia",
+          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142216,
+      "name": "Sexo Sin Drama",
+      "url": "https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw"
+    },
+    {
+      "album": {
         "name": "shaolin mantis",
         "url": "https://open.spotify.com/album/7GVtxQM7wvRDZtHCTRiXgI"
       },
@@ -14509,6 +14563,24 @@
     },
     {
       "album": {
+        "name": "TQD",
+        "url": "https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA"
+      },
+      "artists": [
+        {
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200022,
+      "name": "TQD",
+      "url": "https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq"
+    },
+    {
+      "album": {
         "name": "Tranki",
         "url": "https://open.spotify.com/album/45tKdzbI2oiQSygVPOtIZC"
       },
@@ -14536,6 +14608,24 @@
       "duration_ms": 248275,
       "name": "Tranki",
       "url": "https://open.spotify.com/track/3akVrZdcqOQ8SKfQNWnvAj"
+    },
+    {
+      "album": {
+        "name": "Tranquilita Quieta",
+        "url": "https://open.spotify.com/album/7nNcFmwj1G8O9cWyP0CRNq"
+      },
+      "artists": [
+        {
+          "name": "Dalizz",
+          "url": "https://open.spotify.com/artist/4wNPkDno84vmJuPwfVzhwc"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128854,
+      "name": "Tranquilita Quieta",
+      "url": "https://open.spotify.com/track/1SzYWgwf3898EvxcCvl8Sr"
     },
     {
       "album": {
@@ -15786,6 +15876,28 @@
       "duration_ms": 195562,
       "name": "\u00bfC\u00f3mo Te Llamas?",
       "url": "https://open.spotify.com/track/0XRZIweJTtPMAcr6BVtxaR"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde?",
+        "url": "https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY"
+      },
+      "artists": [
+        {
+          "name": "Lechero",
+          "url": "https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw"
+        },
+        {
+          "name": "Desamor",
+          "url": "https://open.spotify.com/artist/2wwu1GwT0zP8kwErW5D4Mm"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152280,
+      "name": "\u00bfD\u00f3nde?",
+      "url": "https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt"
     },
     {
       "album": {

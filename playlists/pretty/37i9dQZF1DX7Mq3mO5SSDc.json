@@ -1,12 +1,12 @@
 {
   "description": "An homage to the iconic label\u2019s 1980s and 1990s roots.",
-  "num_followers": 273649,
+  "num_followers": 273693,
   "original_name": "Hip-Hop Anthems: Def Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ3Nzc4MywwMDAwMDAwMDM0Y2M1YjY5ZmY3MzIwNDQ4ZGYzYThlMDM3MWU5OTcw",
+  "snapshot_id": "MTYzOTQ3Nzc4MywwMDAwMDAwMDVlNDA5NWRjYzQ0MDdhNzA3YzRkZDg1NTljYzkwOGU0",
   "tracks": [
     {
       "added_at": "2020-03-04 09:06:11",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "Don't Believe The Hype",
-      "url": "https://open.spotify.com/track/0VAoDsKh7Or84V8xP7p1Fs"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
         "name": "Strictly Business",
         "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
+        "name": "Daddy's Little Girl",
+        "url": "https://open.spotify.com/album/6ROlQudStSux3K7kuWU6uG"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "Nikki D",
+          "url": "https://open.spotify.com/artist/3wHL6veDs4kliIKWrE2Bnb"
         }
       ],
-      "duration_ms": 226173,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
+      "duration_ms": 268426,
+      "name": "Daddy's Little Girl",
+      "url": "https://open.spotify.com/track/0ySoJyAbKGLI5yShGBOIQ8"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -823,22 +807,6 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "Daddy's Little Girl",
-        "url": "https://open.spotify.com/album/6ROlQudStSux3K7kuWU6uG"
-      },
-      "artists": [
-        {
-          "name": "Nikki D",
-          "url": "https://open.spotify.com/artist/3wHL6veDs4kliIKWrE2Bnb"
-        }
-      ],
-      "duration_ms": 268426,
-      "name": "Daddy's Little Girl",
-      "url": "https://open.spotify.com/track/0ySoJyAbKGLI5yShGBOIQ8"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
         "name": "Def Jam's Greatest Hits - Hardcore",
         "url": "https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR"
       },
@@ -855,6 +823,38 @@
       "duration_ms": 241560,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "Greatest Misses",
+        "url": "https://open.spotify.com/album/6ViErzJ80VCeOnrTPvX2nW"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Tie Goes To The Runner",
+      "url": "https://open.spotify.com/track/2TZuNkLb0J6oKLEdlZ0XX3"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Don't Believe The Hype",
+      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
     }
   ],
   "unique_name": "Hip-Hop Anthems: Def Jam",

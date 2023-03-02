@@ -4,7 +4,7 @@
 
 > Una speciale selezione curata insieme a Emma per la Giornata Internazionale della Donna! \#IWD
 
-511 songs - 1 day 1 hr 59 min
+512 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [ANYONE](https://open.spotify.com/track/0KAyFugHHLeiXnkNuwF3e3) | [Hēir](https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW) | [ANYONE](https://open.spotify.com/album/5BnsqobilGjcgcNXKeb3r2) | 4:53 | 2022-03-07 | 2022-05-04 |
 | [Apnea](https://open.spotify.com/track/5GQfK2d2kE6O6Xj1x5CKYX) | [Limo](https://open.spotify.com/artist/0jF3fDGxLXAQtrSDwzqdsa) | [Apnea](https://open.spotify.com/album/5K2ZKb8prieUrfTF48kfrZ) | 2:51 | 2022-11-01 | 2022-12-01 |
 | [Aposto](https://open.spotify.com/track/3KA9IQQuAumlMXg0GxWdKg) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Aposto](https://open.spotify.com/album/1hHnzj2rQ4boFeXBLROIXO) | 2:31 | 2022-04-05 | 2022-06-03 |
+| [Appartamento](https://open.spotify.com/track/6brtEOxKUH2NoxcPnDNI7I) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz), [B\-CROMA](https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS) | [Appartamento](https://open.spotify.com/album/3rPaQlQ7jxnu1HlPbkvjKg) | 2:51 | 2023-02-28 |  |
 | [Aria](https://open.spotify.com/track/0BjZnI20OPKVoefzL1Hejj) | [Elex](https://open.spotify.com/artist/4j4Lzob5lrhowmGN5HKZWe) | [Aria](https://open.spotify.com/album/2uPxrfkZ9Rnd7gkt8pWTs9) | 3:36 | 2022-11-01 | 2023-03-01 |
 | [Armatura](https://open.spotify.com/track/5o727apbXnlO00hSzqOZ7U) | [Verano](https://open.spotify.com/artist/36Dv8rurwsJU0mpf9fpoUc) | [Supra \(prima parte\)](https://open.spotify.com/album/3qrRltXaqXwzfDp825oYNW) | 5:29 | 2022-05-03 | 2022-06-03 |
 | [Arrivederci](https://open.spotify.com/track/107abW6uOuMYJI8mI3yjaQ) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb) | [Arrivederci](https://open.spotify.com/album/7jm8bJjhobRnP8EMVZgxco) | 3:00 | 2023-02-09 | 2023-03-01 |

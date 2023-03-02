@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The freshest indie music from South African and beyond\. Cover: <a href="https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE?si=3syqe78ET\_S4gz5VVwa4wQ">Yum Yuck
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,548 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,554 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 38 | [Can I Go Away](https://open.spotify.com/track/4sUr5RMYLppzj139NfnWeB) | [Amor Amor](https://open.spotify.com/artist/7FB4gfPdf6h403oi9QiPVm) | [Can I Go Away](https://open.spotify.com/album/1tVJ4wW70gmvFmzcT1RYnt) | 3:11 |
 | 39 | [Vuka Sizwe](https://open.spotify.com/track/7dgjQyk5CEdJ3Z7zkYemDV) | [Ruzza Wazzi](https://open.spotify.com/artist/6bCOMF4KxMWfP6zd2j3eGZ) | [Vuka Sizwe](https://open.spotify.com/album/0yimQOfR8HHoBKMWEoFl3v) | 5:21 |
 | 40 | [Countryside](https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Countryside](https://open.spotify.com/album/4Z9AQ8SjQybVgcEhdhfvd0) | 3:37 |
-| 41 | [Noba Bangathini](https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Noba Bangathini](https://open.spotify.com/album/6bAahiYLIo1WGuiSip2EU0) | 4:50 |
+| 41 | [noba bangathini](https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [noba bangathini](https://open.spotify.com/album/6bAahiYLIo1WGuiSip2EU0) | 4:50 |
 | 42 | [pink & blue](https://open.spotify.com/track/0fVfYsnBOunr5mX1mViBQt) | [gerald kent](https://open.spotify.com/artist/4deC9GQfMqj9MpuG0jA2un) | [façade](https://open.spotify.com/album/79vl4afRpt6VNGoHRFaUfP) | 3:14 |
 | 43 | [Little Girl](https://open.spotify.com/track/1KK3whamg1HmTETY7tl51g) | [Ernest Che Guerro](https://open.spotify.com/artist/31E8QoONQGPHC1j6V4BWmm) | [Little Girl](https://open.spotify.com/album/38OTti2ijv4mARDji7Rx99) | 4:11 |
 | 44 | [I Don't Miss You \(Except For When I Do\)](https://open.spotify.com/track/0t0iEf8iXrg0OQeqO2jm9C) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0), [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [I Don't Miss You \(Except For When I Do\)](https://open.spotify.com/album/02yMv1Udrki6AonJYgVT8h) | 3:16 |

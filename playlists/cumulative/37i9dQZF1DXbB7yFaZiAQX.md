@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-426 songs - 1 day 6 hr 6 min
+427 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Birthday](https://open.spotify.com/track/5zpRUKG7MSRZvNjr25vJsl) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/1at2GIPfbUeGwewAUQr4lw) | 3:58 | 2018-12-12 | 2022-07-29 |
 | [Birthday](https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f) | [The Sugarcubes](https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP) | [Life's Too Good](https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp) | 3:59 | 2018-12-12 |  |
 | [Blasphemous Rumours](https://open.spotify.com/track/7oQX82XgUBDhSbpMSksG12) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(Deluxe\)](https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A) | 6:21 | 2022-05-27 | 2022-07-29 |
+| [Blasphemous Rumours \- 2006 Remaster](https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 6:21 | 2022-05-27 |  |
 | [Blister In The Sun](https://open.spotify.com/track/4PXH3g9qGgMqDlC52dJw07) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes: Deluxe Edition](https://open.spotify.com/album/645pkwf8FAE9eYY2vx7TiO) | 2:24 | 2018-12-12 | 2022-07-29 |
 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 | 2018-12-12 |  |
 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 | 2018-12-12 | 2022-07-29 |
@@ -114,7 +115,7 @@
 | [Duchess](https://open.spotify.com/track/3FgEerIxXNMRhY2KV5Kl44) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [IV](https://open.spotify.com/album/2QQviVx6NuFSanA4chNY5d) | 2:29 | 2018-12-12 | 2022-07-28 |
 | [Duel](https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish \(Analogue Sequence\)](https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW) | 4:42 | 2018-12-12 |  |
 | [Duel](https://open.spotify.com/track/3v7qgdQzpiNulr8eytLNXX) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish](https://open.spotify.com/album/20WvOLT4klgKqzYGJGFDMV) | 4:48 | 2018-12-12 | 2022-07-29 |
-| [Echo Beach](https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Metro Music](https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX) | 3:39 | 2018-12-12 |  |
+| [Echo Beach](https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Metro Music](https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX) | 3:39 | 2018-12-12 | 2023-03-02 |
 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 3:59 | 2019-08-01 |  |
 | [Eisbär](https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX) | [Grauzone](https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW) | [Eisbär](https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE) | 4:48 | 2018-12-18 |  |
 | [Electricity \- Remastered 2003](https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Orchestral Manoeuvres In The Dark \(Remastered 2003\)](https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF) | 3:39 | 2018-12-12 |  |
@@ -241,7 +242,7 @@
 | [More](https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Vision Thing](https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK) | 8:23 | 2021-08-31 |  |
 | [My Spine Is The Bassline](https://open.spotify.com/track/3VxFd7SnACXpFR2LBROrsR) | [Shriekback](https://open.spotify.com/artist/5zdhsKuFI263xttcgdoW3c) | [Disco Not Disco Digital Edition](https://open.spotify.com/album/3mw4x6EP6OEl2ypn7iHmGa) | 4:01 | 2018-12-12 | 2022-07-29 |
 | [N.I.T.A.](https://open.spotify.com/track/5K97YR5NWP2H88mQ4p8JlH) | [Young Marble Giants](https://open.spotify.com/artist/0tQ2Q4y9iUkKszxXyB14ZH) | [Colossal Youth](https://open.spotify.com/album/5wxOkqHT4xGadN56TAzF09) | 3:31 | 2018-12-12 | 2022-04-19 |
-| [Nellie the Elephant](https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [Dig That Groove Baby](https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP) | 3:27 | 2018-12-12 |  |
+| [Nellie the Elephant](https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid) | [The Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [Dig That Groove Baby](https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP) | 3:27 | 2018-12-12 | 2023-03-02 |
 | [Nellie The Elephant](https://open.spotify.com/track/4YFtztmFu4Kq2CBPKL2qC3) | [Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [We're Mad \- The Anthology](https://open.spotify.com/album/2uYraKzm3H1btz5VajleOj) | 3:27 | 2018-12-12 | 2022-05-31 |
 | [Never Let Me Down Again](https://open.spotify.com/track/0ooy3NjwsJreceWYCxlfQt) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses](https://open.spotify.com/album/5Yyx661Ksxl2pmRUuGLzw3) | 4:48 | 2020-01-07 | 2022-07-29 |
 | [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2020-01-07 |  |
@@ -311,7 +312,7 @@
 | [Seven Seas](https://open.spotify.com/track/2L7FTi2Fopo0ZJX0MkUXKS) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 3:19 | 2018-12-12 | 2022-07-29 |
 | [Sex Beat](https://open.spotify.com/track/41Z86N3KhVdJWLa3qkNTH6) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 2:47 | 2018-12-12 | 2022-04-21 |
 | [Sex Beat \- Remastered 2020](https://open.spotify.com/track/4dQAbNxIxeySyXcNCMRsnS) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love \(Remastered 2020\)](https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu) | 2:48 | 2018-12-12 | 2022-11-13 |
-| [She Blinded Me With Science](https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age Of Wireless](https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4) | 3:41 | 2018-12-12 | 2023-02-28 |
+| [She Blinded Me With Science](https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age Of Wireless](https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4) | 3:41 | 2018-12-12 |  |
 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 | 2018-12-12 |  |
 | [She Sells Sanctuary](https://open.spotify.com/track/4vnLdmUdkOworoveEzpEST) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Pure Cult](https://open.spotify.com/album/279o49AIcWuS6kIqVozTGL) | 4:12 | 2018-12-12 | 2022-07-29 |
 | [She's In Parties](https://open.spotify.com/track/1JhORTF6h6N2lpb3lLWeqv) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Bauhaus \- 1979\-1983 Volume Two](https://open.spotify.com/album/12U3k2UeDnmqE4id0G7uOb) | 3:51 | 2018-12-12 | 2022-04-16 |

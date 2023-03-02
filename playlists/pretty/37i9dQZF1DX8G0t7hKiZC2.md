@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G0t7hKiZC2.md) - [plain]
 
 > Some of Barack Obama's favorite songs of the summer\. A mix of genres & eras made with everyone in mind!
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,809 likes - 38 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,802 likes - 38 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G0t7hKiZC2.md) - [plain]
 | 17 | [Coyote](https://open.spotify.com/track/5jgl3Fzeyoysz2ZVhnFPlp) | [Urbxnxd](https://open.spotify.com/artist/6tUxchkjqhlH1pY0TIMbaj) | [Cayote](https://open.spotify.com/album/2HoVPKAoYnwDYIVhiMELHS) | 5:01 |
 | 18 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 |
 | 19 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
-| 20 | [Allure \- Album Version \(Edited\)](https://open.spotify.com/track/3XEHn72yyeU5VmCrvqh37n) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/2ROptx2K5R4YYqlQQRpT7k) | 4:51 |
+| 20 | [Allure](https://open.spotify.com/track/3XEHn72yyeU5VmCrvqh37n) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/2ROptx2K5R4YYqlQQRpT7k) | 4:51 |
 | 21 | [Conséquence](https://open.spotify.com/track/76ot3BABnfPJi06g7J7iBa) | [Kékélé](https://open.spotify.com/artist/4qjqvzyR3Kq2W9puCX2wE7) | [Kinavana](https://open.spotify.com/album/5aX2ssV8mdnw05IxzcdrKJ) | 5:18 |
 | 22 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |
 | 23 | [So Hard](https://open.spotify.com/track/5I0qCoNe6cOfXajLAzazUN) | [Nezi](https://open.spotify.com/artist/09LvpbdDJHTFARXMJ04Rto) | [So Hard](https://open.spotify.com/album/6CM5Q43X8r38gyGeollqGj) | 2:58 |

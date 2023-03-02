@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Wyatt Flores
 
-409 songs - 1 day 1 hr 13 min
+410 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,8 @@
 | [Starved](https://open.spotify.com/track/51dn2eCX2DhMTHtkPmZbZP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Starved](https://open.spotify.com/album/07jpOEyD7mjM3X1cW25EY4) | 4:42 | 2022-10-14 |  |
 | [State Of Mind \(feat\. Margo Price\)](https://open.spotify.com/track/3xbafuZ0aEPeHSwb1qxIpV) | [Mike Campbell & The Dirty Knobs](https://open.spotify.com/artist/1pBQqdeHHjEdCtjSUAdu0G), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [State Of Mind \(feat\. Margo Price\)](https://open.spotify.com/album/2SPR1ILQhgDjoSw1j92uMo) | 4:18 | 2022-03-04 | 2022-09-10 |
 | [Storms Never Last](https://open.spotify.com/track/4eFO9eib4mPZYKAWCl2zKa) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Storms Never Last](https://open.spotify.com/album/5FaXoAFB95CiYsxkJAOrIc) | 3:22 | 2022-03-25 | 2022-04-29 |
-| [Stranger In My Bed](https://open.spotify.com/track/2It86UDD44KhZ3Anq7mCFG) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [If your tired heart is aching...](https://open.spotify.com/album/78ijTLvmc9f653NePvU8nH) | 3:44 | 2022-11-18 |  |
+| [Stranger In My Bed](https://open.spotify.com/track/2It86UDD44KhZ3Anq7mCFG) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [If your tired heart is aching...](https://open.spotify.com/album/78ijTLvmc9f653NePvU8nH) | 3:44 | 2022-11-18 | 2023-03-02 |
+| [Stranger In My Bed](https://open.spotify.com/track/2X1bOZ6nBgbfQgRhyxU9uc) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [If your tired heart is aching...](https://open.spotify.com/album/6440bejxeCnoetmfeidyX9) | 3:44 | 2023-02-24 |  |
 | [Stubborn Pride](https://open.spotify.com/track/414EsuxXyDJ5vpUllmt2ue) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Stubborn Pride](https://open.spotify.com/album/1aTYKaVzN0q2tPHiYfkhTj) | 7:09 | 2022-08-12 | 2023-01-19 |
 | [Stubborn Pride](https://open.spotify.com/track/49ExSGKErkQHeqxPnanEcO) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Comeback \(Deluxe\)](https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J) | 7:09 | 2023-01-13 |  |
 | [Sunk Like a Stone](https://open.spotify.com/track/0caJNYdZLdahG4qWza2QyT) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [Sunk Like a Stone](https://open.spotify.com/album/5LrYFi2TMwx50iLXddh2Eb) | 3:45 | 2021-12-17 | 2022-04-16 |

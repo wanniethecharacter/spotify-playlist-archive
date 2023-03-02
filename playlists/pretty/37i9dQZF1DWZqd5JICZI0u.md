@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,190 likes - 246 songs - 12 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,593,405 likes - 246 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Layers](https://open.spotify.com/track/3h6v2gPzB9ouue4uNq9mVo) | [Da Malia](https://open.spotify.com/artist/21uIQDwO87x0WilDQA3NkT) | [Layers](https://open.spotify.com/album/5fcvLEFHyTopriEc7ffypY) | 2:25 |
+| 1 | [Layers](https://open.spotify.com/track/3h6v2gPzB9ouue4uNq9mVo) | [Da Malia](https://open.spotify.com/artist/221MMXF9lRjQOzfgDdNZA3) | [Layers](https://open.spotify.com/album/5fcvLEFHyTopriEc7ffypY) | 2:25 |
 | 2 | [Quiet Times](https://open.spotify.com/track/0DnhhwJ9zw3xjRHGB7eo7R) | [Dan Maus](https://open.spotify.com/artist/7oJoc76R3JMv7dZhxgi7zD) | [Quiet Times](https://open.spotify.com/album/0KkfbKgLGtPvrNAA4m96Q5) | 2:53 |
 | 3 | [Carried Away](https://open.spotify.com/track/19tpUsoPv87ty0OS0kMvvU) | [Ardigo Menes](https://open.spotify.com/artist/3pSRJvRpZNqgVW89jaW9yZ) | [In The Air](https://open.spotify.com/album/4kWlwypYVf1qFofj3OCJHz) | 2:58 |
 | 4 | [The Arrival](https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [The Gentle Wait](https://open.spotify.com/album/1iET0lk71G9Y0wVvpn24DX) | 2:32 |

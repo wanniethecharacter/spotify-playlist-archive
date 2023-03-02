@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Cancamusa
 
-316 songs - 19 hr 17 min
+317 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Por Esta Noche](https://open.spotify.com/track/4eKSEGX7T9HWN9zT9T5KpJ) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [\#777](https://open.spotify.com/album/3xc7k3yrB0A83b9tIP3PQ2) | 3:36 | 2022-05-13 | 2022-12-31 |
 | [Por Qué Me Tratas Tan Bien](https://open.spotify.com/track/4Uo5LSC0gjfu7EurU7gMHo) | [Angel Maulén](https://open.spotify.com/artist/4JwEtcpqvM9prTGz9Py1hh) | [El Pulso](https://open.spotify.com/album/3WTMigtRHTS0btKmQNNl7q) | 3:41 | 2022-08-12 | 2023-01-12 |
 | [Precio y Detalles](https://open.spotify.com/track/6YHU8WZI7eaa1EicKKWX2j) | [Jorge Nada](https://open.spotify.com/artist/4BiY4IzRaBVTkCcdKtZmCZ) | [Mismas Viejas Costumbres](https://open.spotify.com/album/7jpQdWHHBjRWlya8DcYBWO) | 3:02 | 2022-04-15 | 2022-07-26 |
-| [Primera Fila](https://open.spotify.com/track/2L0596a5bepvjShPKuqYB0) | [Jorge Nada](https://open.spotify.com/artist/4BiY4IzRaBVTkCcdKtZmCZ) | [Primera Fila](https://open.spotify.com/album/2EHbgDYcIOZ1b9TwB04I32) | 3:42 | 2023-02-03 |  |
+| [Primera Fila](https://open.spotify.com/track/2L0596a5bepvjShPKuqYB0) | [Jorge Nada](https://open.spotify.com/artist/4BiY4IzRaBVTkCcdKtZmCZ) | [Primera Fila](https://open.spotify.com/album/2EHbgDYcIOZ1b9TwB04I32) | 3:42 | 2023-02-03 | 2023-03-02 |
 | [Profundidad del Mar](https://open.spotify.com/track/6fM8NeVzpDJTl6AmMq28Nu) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [NAVEGANDO](https://open.spotify.com/album/6Ta9nz4E0FD8udyyCXz2KN) | 3:08 | 2022-06-10 | 2022-07-29 |
 | [Prohibido](https://open.spotify.com/track/7lxDfpa4rg908BuGv6sMQc) | [Futuralgia](https://open.spotify.com/artist/7E8546nHdwMid6Z7IUVHVW) | [Prohibido](https://open.spotify.com/album/4yC80pHcbHTa4FkPsyIxfu) | 3:31 | 2022-04-15 | 2022-07-27 |
 | [Provenza](https://open.spotify.com/track/74EyCgYnEH3ARfgpLh0Cdq) | [Glup!](https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE) | [Provenza](https://open.spotify.com/album/67ihyeAL1wwakz5tBP2rLo) | 3:49 | 2022-12-09 | 2023-02-25 |
@@ -248,6 +248,7 @@
 | [Ruiseñor](https://open.spotify.com/track/40GU1Arl19P6U2bO25gOq8) | [Elegía al Atardecer](https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7) | [Ruiseñor](https://open.spotify.com/album/3rtVmKiXgVGkzMz4jdhVJ3) | 3:18 | 2022-04-15 | 2022-07-28 |
 | [Río](https://open.spotify.com/track/3fOK6EErTZPEPYfcUP88H9) | [Los Mil Jinetes](https://open.spotify.com/artist/5H8rz8dQLNWvaHojkHyQMn) | [Río](https://open.spotify.com/album/35y2ja42BcPxY5P98sARzo) | 3:25 | 2022-04-15 | 2022-07-25 |
 | [Sabes](https://open.spotify.com/track/7ldFXJQVQkyE4sYc3YJf4i) | [Los Tristes](https://open.spotify.com/artist/5QFSZNKhWVCHkA0ZlSYrbK) | [Sabes](https://open.spotify.com/album/52antku4m9Xw7CZceClUIg) | 3:35 | 2022-04-15 | 2022-07-27 |
+| [Sal \- Reversión](https://open.spotify.com/track/3ftpY64u6Vgv6KzerJJs8U) | [Pancho Gana](https://open.spotify.com/artist/4I9qrx9Lb6RDDKkMgXd1yM), [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [Sal \(Reversión\)](https://open.spotify.com/album/5ROTJPrKaWvaKNkIRn1ZgL) | 2:32 | 2023-02-24 |  |
 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 | 2022-04-15 | 2022-12-10 |
 | [Santiago](https://open.spotify.com/track/1hVYdvPaE54bVdAXP5wqev) | [Maria Perlita](https://open.spotify.com/artist/6CggKxKQ8oV0vt93nmYMRj) | [Santiago](https://open.spotify.com/album/43rnbuJiVS8gUnInXlPJox) | 3:19 | 2022-04-15 | 2022-07-27 |
 | [Secreto de cuatro paredes \- Acoustic](https://open.spotify.com/track/7xjBDln5bwCNcqWpGzYk3Y) | [GomaSlash](https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP), [MemoDz](https://open.spotify.com/artist/36oVDZLr9ROLk0pTLwRmUj) | [Secreto de cuatro paredes \(Acoustic\)](https://open.spotify.com/album/2daH3BSfGuBwS6dQeAjPR3) | 2:13 | 2022-04-15 | 2022-07-21 |

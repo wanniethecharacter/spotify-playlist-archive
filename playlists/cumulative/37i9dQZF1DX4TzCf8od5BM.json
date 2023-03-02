@@ -1165,6 +1165,28 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: Me & Mickey",
+        "url": "https://open.spotify.com/album/0nQdS5tHGoSQzv0qdWdgMd"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100471,
+      "name": "Head, Shoulders, Knees and Toes",
+      "url": "https://open.spotify.com/track/58uXn37TC1iZuRuEV9FWiT"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Puppy Dog Pals - Pup-tastic Party",
         "url": "https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7"
       },
@@ -1812,6 +1834,28 @@
       "duration_ms": 63392,
       "name": "Marvel's Spidey and His Amazing Friends Theme - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
       "url": "https://open.spotify.com/track/6Z9oWsUnoGXYy6ErIuhnO5"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Me & Mickey",
+        "url": "https://open.spotify.com/album/0nQdS5tHGoSQzv0qdWdgMd"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120159,
+      "name": "Me & Mickey Theme Song",
+      "url": "https://open.spotify.com/track/2cZ0fR98bufCNz5bBxl45s"
     },
     {
       "album": {

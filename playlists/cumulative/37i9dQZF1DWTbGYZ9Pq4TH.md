@@ -4,7 +4,7 @@
 
 > Le tracce italiane più romantiche di sempre ❤️
 
-189 songs - 12 hr 15 min
+190 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Baciami Ancora](https://open.spotify.com/track/36UJ6MVWrKm2mTXpHovbkc) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Backup 1987\-2012](https://open.spotify.com/album/1ws4MgPpkizrbcNYCXHESG) | 4:38 | 2021-09-26 | 2022-07-29 |
 | [Basta cosi' \- With Elisa](https://open.spotify.com/track/2493A7OGenXVtLT1hfels3) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Casa 69](https://open.spotify.com/album/6G2h1c16cEErA8mu7JkROt) | 5:59 | 2021-09-26 | 2022-07-22 |
 | [Bella e rovinata](https://open.spotify.com/track/5uPQRVuGquShCnqzuOTq4B) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Giovani](https://open.spotify.com/album/59i6L1OigHny6mYy0vGttB) | 3:20 | 2021-09-26 | 2022-07-16 |
-| [Bella senz'anima](https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Anima](https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb) | 4:34 | 2021-09-26 |  |
+| [Bella senz'anima](https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Anima](https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb) | 4:34 | 2021-09-26 | 2023-03-02 |
 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 | 2023-02-07 |  |
 | [Casa](https://open.spotify.com/track/65sEIdBT16fziZvjhckFpq) | [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [Casa](https://open.spotify.com/album/0FO2xwcfokmFAuEUuMCEel) | 2:45 | 2021-09-26 | 2022-06-22 |
 | [Cascare nei tuoi occhi](https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:46 | 2021-09-26 | 2023-02-26 |
@@ -71,6 +71,7 @@
 | [Hola \(I Say\) \(feat\. Tom Walker\)](https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Atlantico](https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI) | 3:47 | 2021-09-26 |  |
 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 | 2021-09-26 | 2022-06-04 |
 | [Il bacio di Klimt](https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Il bacio di Klimt](https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB) | 2:57 | 2021-09-26 | 2023-02-08 |
+| [Il bacio di Klimt](https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Sindrome di Stendhal](https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca) | 2:57 | 2023-02-13 |  |
 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 | 2021-09-26 |  |
 | [Il coraggio di andare \(feat\. Biagio Antonacci\)](https://open.spotify.com/track/7Imr3iWPjlPs208jw92W5J) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Fatti sentire ancora](https://open.spotify.com/album/79DqfTYT6oweCZwWPOfQOR) | 3:44 | 2021-09-26 | 2022-07-28 |
 | [Il Mestiere Della Vita](https://open.spotify.com/track/5zrpHRrDQXHd9aZIcEvQHQ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Il Mestiere Della Vita](https://open.spotify.com/album/7w6z4cJ9Now0y8rnYEKkEa) | 3:18 | 2021-09-26 | 2022-07-07 |

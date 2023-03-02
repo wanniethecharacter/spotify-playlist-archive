@@ -4,7 +4,7 @@
 
 > Música nueva de toda la región\. Esta semana en portada: Karol G y Shakira
 
-3,635 songs - 8 day 5 hr 6 min
+3,636 songs - 8 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2585,7 +2585,8 @@
 | [Poeta del Amor](https://open.spotify.com/track/3us0Mk89vSIIWzuowa9ieK) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Poeta del Amor](https://open.spotify.com/album/1igXDXmd3Z4qH4amNvkSyN) | 4:01 | 2022-08-05 | 2022-08-13 |
 | [Poivrons](https://open.spotify.com/track/4Lvh46OeKJrQ5Zlmh4Mggm) | [Juliette](https://open.spotify.com/artist/3fbrQzAVyMSC7oyNHjRO9A) | [Chansons de là où l'œil se pose](https://open.spotify.com/album/2uNynaV0RnNJcVT3xtj9Jq) | 4:05 | 2023-02-24 |  |
 | [Pokas ideia 777\*](https://open.spotify.com/track/5i9QdbynB94VNGEY0Tll0G) | [Mc Kelvinho](https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [01 \* 777 \*](https://open.spotify.com/album/3MFV860smeu9H0bhwk5kCS) | 3:22 | 2022-07-08 | 2022-07-16 |
-| [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 | 2023-02-24 |  |
+| [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 | 2023-02-24 |  |
+| [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 | 2023-02-24 | 2023-03-02 |
 | [Polen](https://open.spotify.com/track/077IhBAyPSoTflz9e2Xe5Z) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [De Sur A Norte](https://open.spotify.com/album/1mDieLmWyCiyZWhPJUckVf) | 4:48 | 2022-04-15 | 2022-04-23 |
 | [Polvos Narcos](https://open.spotify.com/track/6ckRxmSWoAy1oBrlwrlqhZ) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Polvos Narcos](https://open.spotify.com/album/3OIeXcf2e3ahdXuHuFsHCw) | 3:48 | 2022-12-09 | 2022-12-17 |
 | [Ponle \- Remix](https://open.spotify.com/track/60eTDDWVvw2QKXEeoQ4BjO) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Forest](https://open.spotify.com/artist/6cCWIcv3LugtJRStFIPIYS), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [franco el gorila](https://open.spotify.com/artist/53Yckgi85HIytd0Zci2uMb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Ponle \(Remix\)](https://open.spotify.com/album/6cNQVNGtsG2QHIXK8tsTtO) | 8:00 | 2022-02-18 | 2022-02-26 |

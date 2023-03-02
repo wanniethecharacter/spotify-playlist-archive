@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Mc Taya",
-  "num_followers": 30309,
+  "num_followers": 30345,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzYxNzIyNSwwMDAwMDAwMDQ0YzczZmMxYmQ4ODY5MmIzNDQ4MDg4ZWE0MGRjOTUx",
+  "snapshot_id": "MTY3NzYxNzIyNSwwMDAwMDAwMGJiMzgzOTIxMDQ0ZjM3NmEzZjRlYWFhZWUxMDFlNzk0",
   "tracks": [
     {
       "added_at": "2023-02-28 20:47:05",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-02-28 20:47:05",
       "album": {
-        "name": "A Cuca",
-        "url": "https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK"
-      },
-      "artists": [
-        {
-          "name": "Ashira",
-          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "A Cuca",
-      "url": "https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh"
-    },
-    {
-      "added_at": "2023-02-28 20:47:05",
-      "album": {
         "name": "Fogo",
         "url": "https://open.spotify.com/album/30bN41Kha9wBELEX60Nvel"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 144601,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/0z8LtG7fiK0EHwtNVudl8d"
+    },
+    {
+      "added_at": "2023-02-28 20:47:05",
+      "album": {
+        "name": "A Cuca",
+        "url": "https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK"
+      },
+      "artists": [
+        {
+          "name": "Ashira",
+          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "A Cuca",
+      "url": "https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh"
     },
     {
       "added_at": "2023-02-28 20:47:05",

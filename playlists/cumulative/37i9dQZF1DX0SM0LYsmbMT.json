@@ -31070,7 +31070,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 138576,
       "name": "Late Rain",
       "url": "https://open.spotify.com/track/6lAsOTYy9HNXccda1MuDuK"
@@ -36530,7 +36530,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 163932,
       "name": "Million Ways",
       "url": "https://open.spotify.com/track/3l6A86Ec4sxhVx2IllwlBC"
@@ -51259,6 +51259,28 @@
     },
     {
       "album": {
+        "name": "Silver Birch",
+        "url": "https://open.spotify.com/album/6aTbjQPDKcheugJicJpIf9"
+      },
+      "artists": [
+        {
+          "name": "Rudy Raw",
+          "url": "https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton"
+        },
+        {
+          "name": "Beats for Trees",
+          "url": "https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136941,
+      "name": "Silver Birch",
+      "url": "https://open.spotify.com/track/3ONIRhoRyimzjiW2W8PjtB"
+    },
+    {
+      "album": {
         "name": "Sims",
         "url": "https://open.spotify.com/album/6AXjWE7OJr6rasSTYFaoW6"
       },
@@ -52160,6 +52182,24 @@
       "duration_ms": 111538,
       "name": "Smoothinking",
       "url": "https://open.spotify.com/track/03odtGgOcXbA9vRIFYUbaM"
+    },
+    {
+      "album": {
+        "name": "Smoove",
+        "url": "https://open.spotify.com/album/0ITtWPEg5ILG9opzYCCFzR"
+      },
+      "artists": [
+        {
+          "name": "Beatific Vision",
+          "url": "https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105178,
+      "name": "Smoove",
+      "url": "https://open.spotify.com/track/13sIC4vLfw2DNAjyO8hY1l"
     },
     {
       "album": {
@@ -53764,6 +53804,24 @@
       "duration_ms": 208200,
       "name": "Spiraling",
       "url": "https://open.spotify.com/track/3adThTiv76bZNw87We890P"
+    },
+    {
+      "album": {
+        "name": "Spirelli",
+        "url": "https://open.spotify.com/album/7erh5iz0QtNbbsunV030jh"
+      },
+      "artists": [
+        {
+          "name": "Elffire",
+          "url": "https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Spirelli",
+      "url": "https://open.spotify.com/track/28qj2LnACOvB97gUaGjL5D"
     },
     {
       "album": {
@@ -62056,7 +62114,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 128366,
       "name": "Unter L\u00f6wen und Banditen",
       "url": "https://open.spotify.com/track/75HUZv6xss2ADArgzuCsYL"

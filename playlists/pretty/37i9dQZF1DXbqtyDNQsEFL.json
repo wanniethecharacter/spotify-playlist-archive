@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 30436,
+  "num_followers": 30462,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMGEzZGFiMThmZDEwMjQwYTAwNjVjYTA3ZjBhNWJlYmUy",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDM5N2E3NGQ3ZDhkN2E4OTBiMGVkZjc0MzA3ZTIxNDY3",
   "tracks": [
     {
       "added_at": "2023-02-20 09:01:10",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-02-20 09:01:10",
       "album": {
-        "name": "Frankincense",
-        "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        },
-        {
-          "name": "Don Moen",
-          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
-        }
-      ],
-      "duration_ms": 209653,
-      "name": "Ka Anyi Bulie (feat. Don Moen)",
-      "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
-    },
-    {
-      "added_at": "2023-02-20 09:01:10",
-      "album": {
         "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
         "url": "https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 344325,
       "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r"
+    },
+    {
+      "added_at": "2023-02-20 09:01:10",
+      "album": {
+        "name": "Frankincense",
+        "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        },
+        {
+          "name": "Don Moen",
+          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "Ka Anyi Bulie (feat. Don Moen)",
+      "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
     },
     {
       "added_at": "2023-02-20 09:01:10",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-02-20 09:01:10",
       "album": {
-        "name": "Overflow",
-        "url": "https://open.spotify.com/album/4YKBwt7dPjkXJYrnGaWoqM"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 290061,
-      "name": "FIRE",
-      "url": "https://open.spotify.com/track/0NuZcPidCtDipRPciaL6lA"
-    },
-    {
-      "added_at": "2023-02-20 09:01:10",
-      "album": {
         "name": "Nsenkyerene Nyankopon (Live)",
         "url": "https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 464677,
       "name": "Nsenkyerene Nyankopon (Live)",
       "url": "https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog"
+    },
+    {
+      "added_at": "2023-02-20 09:01:10",
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/4YKBwt7dPjkXJYrnGaWoqM"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 290061,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/0NuZcPidCtDipRPciaL6lA"
     },
     {
       "added_at": "2023-02-20 09:01:10",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-02-20 09:01:10",
       "album": {
-        "name": "No Longer Slaves",
-        "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
-      },
-      "artists": [
-        {
-          "name": "Florocka",
-          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
-        }
-      ],
-      "duration_ms": 350981,
-      "name": "No Longer Slaves",
-      "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
-    },
-    {
-      "added_at": "2023-02-20 09:01:10",
-      "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 408856,
       "name": "Mensuro",
       "url": "https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY"
+    },
+    {
+      "added_at": "2023-02-20 09:01:10",
+      "album": {
+        "name": "No Longer Slaves",
+        "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
+      },
+      "artists": [
+        {
+          "name": "Florocka",
+          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
+        }
+      ],
+      "duration_ms": 350981,
+      "name": "No Longer Slaves",
+      "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
     },
     {
       "added_at": "2023-02-20 09:01:10",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-02-20 09:01:10",
       "album": {
-        "name": "IBUKA",
-        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 302608,
-      "name": "IBUKA",
-      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
-    },
-    {
-      "added_at": "2023-02-20 09:01:10",
-      "album": {
         "name": "Billion Words",
         "url": "https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 464973,
       "name": "Billion Words",
       "url": "https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u"
+    },
+    {
+      "added_at": "2023-02-20 09:01:10",
+      "album": {
+        "name": "IBUKA",
+        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 302608,
+      "name": "IBUKA",
+      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
     },
     {
       "added_at": "2023-02-20 09:01:10",

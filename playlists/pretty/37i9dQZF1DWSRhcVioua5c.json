@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 57251,
+  "num_followers": 57273,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGZlMTQ0YzgzNjA2MTkzZmE2ZTM3NTVjMzU1NmQ3NTBh",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDY4MGI2ODJkMzY5YTgxZGJiYTNjMjUwZWRhMDIzODEz",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Zamba para Olvidarte",
-        "url": "https://open.spotify.com/album/30n0qbEez9YgxftQ9Kv7jO"
-      },
-      "artists": [
-        {
-          "name": "Daniel Toro",
-          "url": "https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Zamba para Olvidarte",
-      "url": "https://open.spotify.com/track/5V1FwqoPmvZllRuQCuZAyx"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Nocheros",
         "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 253466,
       "name": "Roja Boca",
       "url": "https://open.spotify.com/track/1361babwNajrOi2roMF78b"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Zamba para Olvidarte",
+        "url": "https://open.spotify.com/album/30n0qbEez9YgxftQ9Kv7jO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Toro",
+          "url": "https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Zamba para Olvidarte",
+      "url": "https://open.spotify.com/track/5V1FwqoPmvZllRuQCuZAyx"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -307,6 +307,26 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Carnaval, Pasi\u00f3n del Norte",
+        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 297360,
+      "name": "Vuela una Lagrima",
+      "url": "https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Folklore Rom\u00e1ntico: Nada Tengo de Ti / Canci\u00f3n del Adi\u00f3s / Due\u00f1a de Mi Alma / Zamba para Olvidarte",
         "url": "https://open.spotify.com/album/3MuAn8aG7ZvtCop2C8GH3G"
       },
@@ -355,42 +375,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 226629,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Carnaval, Pasi\u00f3n del Norte",
-        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        },
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 297360,
-      "name": "Vuela una Lagrima",
-      "url": "https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "C\u00f3mplices",
         "url": "https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM"
       },
@@ -411,22 +395,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Due\u00f1a de Mi Alma",
-        "url": "https://open.spotify.com/album/2STMKBpE4k24Q7y1Dk7pfa"
-      },
-      "artists": [
-        {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
-        }
-      ],
-      "duration_ms": 249090,
-      "name": "Due\u00f1a de Mi Alma",
-      "url": "https://open.spotify.com/track/4X6W8eU2duqUHmSN1euAHY"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Mi Cantar",
         "url": "https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX"
       },
@@ -443,18 +411,34 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Poncho",
-        "url": "https://open.spotify.com/album/2LqkMvdnxBpqdOwGXPMdP3"
+        "name": "Due\u00f1a de Mi Alma",
+        "url": "https://open.spotify.com/album/2STMKBpE4k24Q7y1Dk7pfa"
       },
       "artists": [
         {
-          "name": "Canto 4",
-          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
         }
       ],
-      "duration_ms": 195059,
-      "name": "La So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5irK16GrbSb7eSKzvrbJiZ"
+      "duration_ms": 249090,
+      "name": "Due\u00f1a de Mi Alma",
+      "url": "https://open.spotify.com/track/4X6W8eU2duqUHmSN1euAHY"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 226629,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -475,6 +459,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Si La Vieras",
+        "url": "https://open.spotify.com/album/4RcPHUbcXSib4fo1c6h522"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 226750,
+      "name": "Si La Vieras",
+      "url": "https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "La Voz Del Viento",
         "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
       },
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Si La Vieras",
-        "url": "https://open.spotify.com/album/4RcPHUbcXSib4fo1c6h522"
+        "name": "Poncho",
+        "url": "https://open.spotify.com/album/2LqkMvdnxBpqdOwGXPMdP3"
       },
       "artists": [
         {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+          "name": "Canto 4",
+          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
         }
       ],
-      "duration_ms": 226750,
-      "name": "Si La Vieras",
-      "url": "https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d"
+      "duration_ms": 195059,
+      "name": "La So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5irK16GrbSb7eSKzvrbJiZ"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Grito Chayero",
-        "url": "https://open.spotify.com/album/0Q5etdp3c84hBS4RgfPv4O"
-      },
-      "artists": [
-        {
-          "name": "Sergio Galleguillo Y Los Amigos",
-          "url": "https://open.spotify.com/artist/4RWsSjLE6TMBwdYzHj2NiO"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Fabula De Amor",
-      "url": "https://open.spotify.com/track/7KAX0hjF1ieKr0k5rSPDNH"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/55sN3ewoEyGxBfaJ5klMeb"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 197866,
       "name": "Nuestro Juramento",
       "url": "https://open.spotify.com/track/5u7V5Mgr9RGuNcJKVYLRlx"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Grito Chayero",
+        "url": "https://open.spotify.com/album/0Q5etdp3c84hBS4RgfPv4O"
+      },
+      "artists": [
+        {
+          "name": "Sergio Galleguillo Y Los Amigos",
+          "url": "https://open.spotify.com/artist/4RWsSjLE6TMBwdYzHj2NiO"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Fabula De Amor",
+      "url": "https://open.spotify.com/track/7KAX0hjF1ieKr0k5rSPDNH"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Corazon Sin Tiempo",
-        "url": "https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "Corazon Sin Tiempo",
-      "url": "https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Volver A Verte",
         "url": "https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 136639,
       "name": "Volver A Verte",
       "url": "https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Corazon Sin Tiempo",
+        "url": "https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "Corazon Sin Tiempo",
+      "url": "https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W"
-      },
-      "artists": [
-        {
-          "name": "Qiro",
-          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
-        },
-        {
-          "name": "Ruben Ehizaguirre",
-          "url": "https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z"
-        }
-      ],
-      "duration_ms": 237957,
-      "name": "Vivo",
-      "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Ansiado Encuentro",
         "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 275563,
       "name": "Ansiado Encuentro",
       "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W"
+      },
+      "artists": [
+        {
+          "name": "Qiro",
+          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
+        },
+        {
+          "name": "Ruben Ehizaguirre",
+          "url": "https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z"
+        }
+      ],
+      "duration_ms": 237957,
+      "name": "Vivo",
+      "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
     },
     {
       "added_at": "2022-10-07 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 148918,
+  "num_followers": 148984,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDQ3ZTI0NTVmNjU3ZWEwZTExYjZmMzA3Mzg2YTI3YTU4",
+  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMGQ5YTc2ZTQ0Y2I2OGFjZDRlYzQ2N2FkOTFlMjZjMjZk",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The New Limelight",
-        "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Limelight",
-      "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 457400,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1TsmHRIXvMTLP7Vu53XsUV"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The New Limelight",
+        "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -267,6 +267,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Las No. 1 Instrumentales",
+        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
+      },
+      "artists": [
+        {
+          "name": "Bebu Silvetti",
+          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+        }
+      ],
+      "duration_ms": 283573,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Fingerbreaker: Classics Of Ragtime And Early Jazz Piano",
         "url": "https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 233600,
       "name": "The Entertainer",
       "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Las No. 1 Instrumentales",
-        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
-      },
-      "artists": [
-        {
-          "name": "Bebu Silvetti",
-          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
-        }
-      ],
-      "duration_ms": 283573,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "100 All Time Greatest Hits",
-        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/1rshuebpBibATjY7UtHolH"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "20 Valses Instrumentales",
         "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 206653,
       "name": "Se Busca",
       "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "100 All Time Greatest Hits",
+        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/1rshuebpBibATjY7UtHolH"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -911,22 +911,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "101% Cine",
-        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
-      },
-      "artists": [
-        {
-          "name": "Sounds Unlimited",
-          "url": "https://open.spotify.com/artist/7rPQaO8pCTGS9N9vPlieel"
-        }
-      ],
-      "duration_ms": 131255,
-      "name": "P\u00eddele Al Tiempo Que Vuelva",
-      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "14 Estelares",
         "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 197093,
       "name": "Il",
       "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "101% Cine",
+        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
+      },
+      "artists": [
+        {
+          "name": "Sounds Unlimited",
+          "url": "https://open.spotify.com/artist/7rPQaO8pCTGS9N9vPlieel"
+        }
+      ],
+      "duration_ms": 131255,
+      "name": "P\u00eddele Al Tiempo Que Vuelva",
+      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La Fiesta Mexicana de Pepe Jaramillo",
-        "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
-      },
-      "artists": [
-        {
-          "name": "Pepe Jaramillo",
-          "url": "https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0"
-        }
-      ],
-      "duration_ms": 111200,
-      "name": "Capullito de Alel\u00ed",
-      "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Boleros Bonitos",
         "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Rhythms Of The World",
-        "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
+        "name": "La Fiesta Mexicana de Pepe Jaramillo",
+        "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
       },
       "artists": [
         {
-          "name": "Van McCoy",
-          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
+          "name": "Pepe Jaramillo",
+          "url": "https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0"
         }
       ],
-      "duration_ms": 257633,
-      "name": "The Shuffle",
-      "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
+      "duration_ms": 111200,
+      "name": "Capullito de Alel\u00ed",
+      "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1067,6 +1051,22 @@
       "duration_ms": 202805,
       "name": "Chariots Of Fire",
       "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Rhythms Of The World",
+        "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
+      },
+      "artists": [
+        {
+          "name": "Van McCoy",
+          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
+        }
+      ],
+      "duration_ms": 257633,
+      "name": "The Shuffle",
+      "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
-        "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
-      },
-      "artists": [
-        {
-          "name": "Pablo Beltran Ruiz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq"
-        }
-      ],
-      "duration_ms": 135613,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Nadia's Theme (Theme from the Young and Restless)",
         "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 182266,
       "name": "Nadia's Theme (Theme from the Young and Restless)",
       "url": "https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Pablo Beltr\u00e1n Ru\u00edz y Su Orquesta",
+        "url": "https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F"
+      },
+      "artists": [
+        {
+          "name": "Pablo Beltran Ruiz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq"
+        }
+      ],
+      "duration_ms": 135613,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Bonanza - 50 Fabulous Guitar Favourites",
+        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
+      },
+      "artists": [
+        {
+          "name": "Al Caiola",
+          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
+        }
+      ],
+      "duration_ms": 160679,
+      "name": "Guns of Navarone",
+      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Best of Pop Concerto Orchestra",
         "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 193213,
       "name": "Playas de Ensue\u00f1o",
       "url": "https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Bonanza - 50 Fabulous Guitar Favourites",
-        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
-      },
-      "artists": [
-        {
-          "name": "Al Caiola",
-          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
-        }
-      ],
-      "duration_ms": 160679,
-      "name": "Guns of Navarone",
-      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La Danza De Los Corcelos (with The Royal Philharmonic Orchestra)",
-        "url": "https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
       },
       "artists": [
         {
-          "name": "Luis Cobos",
-          "url": "https://open.spotify.com/artist/1H75EEjXwzO6v2K1d8QGPX"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+          "name": "Raul Di Blasio",
+          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
         }
       ],
-      "duration_ms": 233333,
-      "name": "Recuerdos De La Alhambra (with The Royal Philharmonic Orchestra)",
-      "url": "https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL"
+      "duration_ms": 383933,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1427,18 +1423,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
+        "name": "La Danza De Los Corcelos (with The Royal Philharmonic Orchestra)",
+        "url": "https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD"
       },
       "artists": [
         {
-          "name": "Raul Di Blasio",
-          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
+          "name": "Luis Cobos",
+          "url": "https://open.spotify.com/artist/1H75EEjXwzO6v2K1d8QGPX"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
-      "duration_ms": 383933,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23"
+      "duration_ms": 233333,
+      "name": "Recuerdos De La Alhambra (with The Royal Philharmonic Orchestra)",
+      "url": "https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Avengers and Other Top Sixties Themes",
-        "url": "https://open.spotify.com/album/4G3wBMn8HG0iHXtAhiXoAN"
-      },
-      "artists": [
-        {
-          "name": "Tony Hatch",
-          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Memories of Summer",
-      "url": "https://open.spotify.com/track/1xQReqTn2P5oyqnXo9Eir2"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Born Losers",
         "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 121333,
       "name": "Billy Jack's Theme",
       "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Avengers and Other Top Sixties Themes",
+        "url": "https://open.spotify.com/album/4G3wBMn8HG0iHXtAhiXoAN"
+      },
+      "artists": [
+        {
+          "name": "Tony Hatch",
+          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Memories of Summer",
+      "url": "https://open.spotify.com/track/1xQReqTn2P5oyqnXo9Eir2"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Ferrante & Teicher Collection",
-        "url": "https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV"
-      },
-      "artists": [
-        {
-          "name": "Ferrante & Teicher",
-          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
-        }
-      ],
-      "duration_ms": 403466,
-      "name": "Ravel's Bolero",
-      "url": "https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The Pink Panther - Original Soundtrack",
         "url": "https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 169413,
       "name": "Something for Sellers - From the Mirisch-G & E Production \"The Pink Panther\"",
       "url": "https://open.spotify.com/track/0Y6C8gl6ypXDfRGM1fbbAq"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Ferrante & Teicher Collection",
+        "url": "https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV"
+      },
+      "artists": [
+        {
+          "name": "Ferrante & Teicher",
+          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
+        }
+      ],
+      "duration_ms": 403466,
+      "name": "Ravel's Bolero",
+      "url": "https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x"
     },
     {
       "added_at": "2020-12-08 19:02:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,271 likes - 160 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,220 likes - 160 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,10 +163,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 153 | [Jingle Bells](https://open.spotify.com/track/4ShMpmLtZBFVOaqjHXVWZ6) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Jingle Bells](https://open.spotify.com/album/2EUjvWNXPiSWbk9C0PdVFM) | 1:30 |
 | 154 | [New Baby for Christmas](https://open.spotify.com/track/7gYt5HLSsPAk3mRIlm5oNF) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [New Baby for Christmas](https://open.spotify.com/album/4V25h5GQ0rrufeCxCG0hTd) | 2:46 |
 | 155 | [Meet Me Under the Mistletoe](https://open.spotify.com/track/2P5G4Z0LEaZeuKyAIdoab0) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Meet Me Under the Mistletoe](https://open.spotify.com/album/2EGPFLNRc3M1IJX1q2sqdE) | 2:53 |
-| 156 | [Happy Holiday with Me](https://open.spotify.com/track/7B6q1fpfancMEaQ5D4vZed) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [O.N.E Very Merry Christmas](https://open.spotify.com/album/1ec4f3q3bHBzP5IgqXMFAw) | 2:40 |
+| 156 | [Happy Holiday With Me](https://open.spotify.com/track/3bCxSYyw6x9q6ooG0SB3SK) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [O.N.E Very Merry Christmas](https://open.spotify.com/album/6hp4z5Z80cAUCdioFrptuh) | 2:40 |
 | 157 | [There's a New Kid in Town \(feat\. Blessing Offor\)](https://open.spotify.com/track/1m9yiOXTZ35caPDsK2U60D) | [Rachel Wammack](https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Dear Christmas](https://open.spotify.com/album/0sL6qfdchTqAll5oMh45im) | 4:11 |
 | 158 | [Mary, Did You Know?](https://open.spotify.com/track/7ymcpXgVeTPd9W2desgjdZ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Mary, Did You Know?](https://open.spotify.com/album/2jtvfB4GlsYu2TjyoSmEzs) | 4:04 |
 | 159 | [A Winter Wonderland](https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl) | 3:47 |
 | 160 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 |
 
-Snapshot ID: `MTY3MTE2Nzc4NSwwMDAwMDAwMDc1ODUyYzU2ZDBmZmFjY2IyZTg3MzYyN2ZlMzY0MDMy`
+Snapshot ID: `MTY3MTE2Nzc4NSwwMDAwMDAwMGY5ZjhlMTI3NzBhYzI0ZTg2ZmFmNGE2MjZmYWM3OWNh`

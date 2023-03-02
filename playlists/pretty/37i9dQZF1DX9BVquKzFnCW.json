@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
-  "num_followers": 13858,
+  "num_followers": 13914,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE0ODM4MSwwMDAwMDAwMDgwZDQzOGYyMGQ5ODRmOWFhMjVjNjY2YzhhNmVhYTc0",
+  "snapshot_id": "MTY3NzE0ODM4MSwwMDAwMDAwMDg3ZmUwYzgzZmNhZTBjOTRkOWMwNGU2MjM0ZTg3MmQ5",
   "tracks": [
     {
       "added_at": "2023-02-23 10:33:01",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Leapin' And Lopin'",
-        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 402799,
-      "name": "Deep In A Dream",
-      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "A Swingin' Affair",
         "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 409840,
       "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
       "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Leapin' And Lopin'",
+        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 402799,
+      "name": "Deep In A Dream",
+      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 446893,
-      "name": "Without a Song - Remastered",
-      "url": "https://open.spotify.com/track/6NeCoPvzhTHcBu3RFzbY3X"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 352146,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/6s5Ush55ZistjzNAbbIpoL"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 446893,
+      "name": "Without a Song - Remastered",
+      "url": "https://open.spotify.com/track/6NeCoPvzhTHcBu3RFzbY3X"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 332333,
-      "name": "Inside Impromptu",
-      "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Nights Of Ballads & Blues",
         "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 322560,
       "name": "Blue Monk",
       "url": "https://open.spotify.com/track/56XCdW9tzLtnbtupTLoBVJ"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "Inside Impromptu",
+      "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Pick up Sticks",
+      "url": "https://open.spotify.com/track/0XugQpP1aeQwpdGKHpjcci"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
         "name": "Duke Ellington Meets Coleman Hawkins",
         "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 300506,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/55se4FQGLvhYMOeNxdElaS"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Pick up Sticks",
-      "url": "https://open.spotify.com/track/0XugQpP1aeQwpdGKHpjcci"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 285666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
+        "name": "Saxophone Supremacy",
+        "url": "https://open.spotify.com/album/2e6azkD3xAzR0bQ8sJHPPb"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt Quartet",
+          "url": "https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H"
+        }
+      ],
+      "duration_ms": 230120,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/76mRDTbUFAUyG0yRMzpwwj"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
         "name": "Cannonball Adderley Quintet In Chicago",
         "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
       },
@@ -731,38 +747,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Saxophone Supremacy",
-        "url": "https://open.spotify.com/album/2e6azkD3xAzR0bQ8sJHPPb"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt Quartet",
-          "url": "https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H"
-        }
-      ],
-      "duration_ms": 230120,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/76mRDTbUFAUyG0yRMzpwwj"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "Everybody Gets the Blues",
-        "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
-      },
-      "artists": [
-        {
-          "name": "Eric Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Everybody Gets the Blues",
-      "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
+        "name": "In Pursuit Of The 27th Man",
+        "url": "https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Summer In Central Park - Remastered",
+      "url": "https://open.spotify.com/track/20ZALyUySircoAOgNfp3Cs"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
         "name": "Trio 64",
         "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "In Pursuit Of The 27th Man",
-        "url": "https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp"
+        "name": "Everybody Gets the Blues",
+        "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
         }
       ],
-      "duration_ms": 281746,
-      "name": "Summer In Central Park - Remastered",
-      "url": "https://open.spotify.com/track/20ZALyUySircoAOgNfp3Cs"
+      "duration_ms": 229226,
+      "name": "Everybody Gets the Blues",
+      "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Blowin' The Blues Away",
-        "url": "https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 362280,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/5XjjmKaKGBgPuwOgm1Ux1j"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Nights Of Ballads & Blues",
         "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 484333,
       "name": "Like Someone In Love - Rudy Van Gelder Edition, 2004 Remaster",
       "url": "https://open.spotify.com/track/5oEUptjKIrQ4eVMdwTiYcM"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Blowin' The Blues Away",
+        "url": "https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 362280,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/5XjjmKaKGBgPuwOgm1Ux1j"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/3V2IgdbFSyoAYBwTujQ7GL"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Bags Meets Wes [Keepnews Collection]",
         "url": "https://open.spotify.com/album/0MRn6bdBb83HGYCssD2Sp3"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 317413,
       "name": "S.K.J.",
       "url": "https://open.spotify.com/track/3cGQV0JaTjzB4nMe9h3oru"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/3V2IgdbFSyoAYBwTujQ7GL"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Bass On Top (2007 Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4wKkVSHqJDGjSAOfULYoZf"
-      },
-      "artists": [
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        }
-      ],
-      "duration_ms": 404826,
-      "name": "Dear Old Stockholm - Rudy Van Gelder Edition; 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/4C64gYHQq6JKrKmw70QkLq"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/4SaSGPT2uxIgJcMSCNvO1x"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "The Finest",
-        "url": "https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE"
+        "name": "Bass On Top (2007 Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4wKkVSHqJDGjSAOfULYoZf"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
         }
       ],
-      "duration_ms": 561400,
-      "name": "Silver's Serenade - 20-Bit Remastering/1997",
-      "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
+      "duration_ms": 404826,
+      "name": "Dear Old Stockholm - Rudy Van Gelder Edition; 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/4C64gYHQq6JKrKmw70QkLq"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1223,6 +1207,22 @@
       "duration_ms": 290040,
       "name": "What Is This Thing Called Love? - Instrumental",
       "url": "https://open.spotify.com/track/1A2ioCDTc0lDVuCUpBwh3v"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "The Finest",
+        "url": "https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 561400,
+      "name": "Silver's Serenade - 20-Bit Remastering/1997",
+      "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
+        "name": "How My Heart Sings! [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/03DYlPuBuICW1aTbvwbDjl"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "How My Heart Sings",
+      "url": "https://open.spotify.com/track/6wXyHw8n3mmrcqYJHimRPe"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
         "name": "Study In Brown",
         "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 311000,
       "name": "Jacqui",
       "url": "https://open.spotify.com/track/1uwY1ZqURcKJ9Fd7foMxPb"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "How My Heart Sings! [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/03DYlPuBuICW1aTbvwbDjl"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "How My Heart Sings",
-      "url": "https://open.spotify.com/track/6wXyHw8n3mmrcqYJHimRPe"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "First Place Again",
-        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 518733,
-      "name": "I Get a Kick out of You",
-      "url": "https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "The Golden Flute",
         "url": "https://open.spotify.com/album/4BmWdFMdpfZgKpspsAdqZZ"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 231706,
       "name": "Rosetta",
       "url": "https://open.spotify.com/track/5OtACP7f32kZgVEXCgVsjs"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "First Place Again",
+        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 518733,
+      "name": "I Get a Kick out of You",
+      "url": "https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Oscar Pettiford",
-        "url": "https://open.spotify.com/album/140tK9eP8UUecyEOT26GgH"
-      },
-      "artists": [
-        {
-          "name": "Oscar Pettiford",
-          "url": "https://open.spotify.com/artist/3DuKJapiJ2AUvoIJq1ZJFb"
-        }
-      ],
-      "duration_ms": 335173,
-      "name": "Bohemia After Dark",
-      "url": "https://open.spotify.com/track/3TcD9Hcy9DpU58J4IXagMA"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Workout",
         "url": "https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 647946,
       "name": "Uh Huh - Remastered 2005",
       "url": "https://open.spotify.com/track/1ifrzoPqpThdTHnktdPTyu"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Oscar Pettiford",
+        "url": "https://open.spotify.com/album/140tK9eP8UUecyEOT26GgH"
+      },
+      "artists": [
+        {
+          "name": "Oscar Pettiford",
+          "url": "https://open.spotify.com/artist/3DuKJapiJ2AUvoIJq1ZJFb"
+        }
+      ],
+      "duration_ms": 335173,
+      "name": "Bohemia After Dark",
+      "url": "https://open.spotify.com/track/3TcD9Hcy9DpU58J4IXagMA"
     }
   ],
   "unique_name": "Brunch Jazz",

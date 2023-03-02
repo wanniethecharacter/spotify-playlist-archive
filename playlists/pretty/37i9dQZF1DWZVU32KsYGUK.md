@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Restaurant style background music for chill dinner ambiance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,796 likes - 208 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,808 likes - 208 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You Would Know](https://open.spotify.com/track/6pzQ42eg8TJSNRXR6eoeUs) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [You Would Know](https://open.spotify.com/album/3KdHdkUYvDI4FIJ9A80c4q) | 2:09 |
-| 2 | [Tournesols](https://open.spotify.com/track/7lssMgk6U5ikJZ8yxt3xw0) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Tournesols](https://open.spotify.com/album/4jq8FPznCCPIAIkI2hCFzS) | 2:32 |
-| 3 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 |
-| 4 | [Horizon](https://open.spotify.com/track/7Dlxj1vwhHVd6PeTWV50Gf) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Horizon](https://open.spotify.com/album/5BiNmrCJrBo2Tpd4PcAJqR) | 2:30 |
-| 5 | [Asilah](https://open.spotify.com/track/01bBzDT79dc34s2Aj9C5Z8) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Asilah](https://open.spotify.com/album/7sbf9VjGSRCE2BOA3GCOgX) | 1:55 |
-| 6 | [Travelling](https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Travelling](https://open.spotify.com/album/3OLjWTVE7j1i2pWoBDRhoR) | 2:40 |
-| 7 | [Dulcinea](https://open.spotify.com/track/41GPX9Sl8plXLofQAIbjSS) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Dulcinea](https://open.spotify.com/album/3irIiK7LtZnnm16g8EX29i) | 2:30 |
+| 1 | [Tournesols](https://open.spotify.com/track/7lssMgk6U5ikJZ8yxt3xw0) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Tournesols](https://open.spotify.com/album/4jq8FPznCCPIAIkI2hCFzS) | 2:32 |
+| 2 | [Asilah](https://open.spotify.com/track/01bBzDT79dc34s2Aj9C5Z8) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Asilah](https://open.spotify.com/album/7sbf9VjGSRCE2BOA3GCOgX) | 1:55 |
+| 3 | [Travelling](https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Travelling](https://open.spotify.com/album/3OLjWTVE7j1i2pWoBDRhoR) | 2:40 |
+| 4 | [Dulcinea](https://open.spotify.com/track/41GPX9Sl8plXLofQAIbjSS) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Dulcinea](https://open.spotify.com/album/3irIiK7LtZnnm16g8EX29i) | 2:30 |
+| 5 | [You Would Know](https://open.spotify.com/track/6pzQ42eg8TJSNRXR6eoeUs) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [You Would Know](https://open.spotify.com/album/3KdHdkUYvDI4FIJ9A80c4q) | 2:09 |
+| 6 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 |
+| 7 | [Horizon](https://open.spotify.com/track/7Dlxj1vwhHVd6PeTWV50Gf) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Horizon](https://open.spotify.com/album/5BiNmrCJrBo2Tpd4PcAJqR) | 2:30 |
 | 8 | [Winter Warmth](https://open.spotify.com/track/7i7EzSHTyUnZiSuwkVjnYR) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [Winter Warmth](https://open.spotify.com/album/5YfDgNzucWkIgaceuAAAmf) | 2:02 |
 | 9 | [Trapèze](https://open.spotify.com/track/65jKH7EzzFRmtfCM3xTI2V) | [Gaelle Gregoire](https://open.spotify.com/artist/2Lo6AyG7yPXfFRUoI7G2mX) | [Les formes](https://open.spotify.com/album/6w22F75zm6WePNXxjV4QYu) | 1:59 |
 | 10 | [Sun Rays](https://open.spotify.com/track/1zYeaGszUkDyQd0Rk2jUX1) | [Aiden Kelly](https://open.spotify.com/artist/6OMjw6yGi38GTbrktNfxu3) | [Sun Rays](https://open.spotify.com/album/4HOCxe4I0644Rcm9AQZ9BD) | 1:40 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 207 | [Evenfall](https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Evenfall](https://open.spotify.com/album/5nSQeRUNCJrPoy412qtL6i) | 2:26 |
 | 208 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 |
 
-Snapshot ID: `MTY3NjQ2MTU0OSwwMDAwMDAwMGMwNzE4YzU3NGRlMTkxNWYzMGUyMTMyYjdlZDc5OWIy`
+Snapshot ID: `MTY3NzY2NDMyNSwwMDAwMDAwMDA5ZDdhZDQ4NDcwZWEyMGU5NjJhMDAyNmU1YzMzYzAw`

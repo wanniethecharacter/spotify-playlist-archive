@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-217 songs - 10 hr 35 min
+218 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Seagull's Dream \(Wave Sounds\)](https://open.spotify.com/track/4Q8gCZ1KF38PZs35uFbKO6) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:47 | 2021-11-11 |  |
 | [Across The Ocean](https://open.spotify.com/track/49Eos3Dytu0nrhZ8fhQNbd) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Across The Ocean](https://open.spotify.com/album/1qLrKZJ5wFbTOrkNrANeHa) | 3:04 | 2021-11-11 |  |
 | [Afternoon Tide](https://open.spotify.com/track/1nEQ117bf8yZaxQAJvlqq9) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Private Beach Wave Sounds](https://open.spotify.com/album/32DqIRyDehbR8cLyWFilgg) | 3:07 | 2021-11-11 |  |
-| [Andaman Ocean Breeze](https://open.spotify.com/track/4up7ZpF0IKwf7HIpQs1oen) | [Deep Horizon Waves](https://open.spotify.com/artist/5aw5WfeOV5ThlwFcfaK9JO) | [Andaman Ocean Breeze](https://open.spotify.com/album/1j5rwKmf1hXr19vXG2RvUI) | 3:53 | 2021-11-11 |  |
+| [Andaman Ocean Breeze](https://open.spotify.com/track/4up7ZpF0IKwf7HIpQs1oen) | [Deep Horizon Waves](https://open.spotify.com/artist/5aw5WfeOV5ThlwFcfaK9JO) | [Andaman Ocean Breeze](https://open.spotify.com/album/1j5rwKmf1hXr19vXG2RvUI) | 3:53 | 2021-11-11 | 2023-03-02 |
 | [Andaman Ocean Sounds](https://open.spotify.com/track/1frIGFGHFJkJW70E5dMBWq) | [Moon Samples](https://open.spotify.com/artist/63ziOZ0VIIvzFR5G3RTaRw) | [Andaman](https://open.spotify.com/album/2AAemFxPrKRqlTWYdzsEKN) | 2:01 | 2021-11-11 |  |
 | [Astonishing Waves](https://open.spotify.com/track/68i4DiObcwpjfsFcGmH2rn) | [Exotic Wave Sounds](https://open.spotify.com/artist/1kwv2ZDCeSTSoa9J88tN3N) | [Part One](https://open.spotify.com/album/39zcjubfAiJRC0EbKtruol) | 3:15 | 2022-11-16 |  |
 | [At Sea](https://open.spotify.com/track/7wRfRPaDStGzCt0r0YqpOq) | [Olof Dahlström Recordings](https://open.spotify.com/artist/6nwprrB1xrohGrilsErewM) | [At Sea](https://open.spotify.com/album/3WA6b9wPZOuvqj94C2iW6i) | 2:27 | 2021-11-11 |  |
@@ -132,6 +132,7 @@
 | [Roaring Waves](https://open.spotify.com/track/2gsm5ZQynDsHLAJKm8Iyj1) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Sounds From The Ocean](https://open.spotify.com/album/1JEZtBR0mM1f7HaQ3LVdiP) | 3:32 | 2021-11-11 |  |
 | [Rocking Waves](https://open.spotify.com/track/6RAlemH3wuNmuIT07DlMOa) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [The Vast Sea](https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y) | 2:40 | 2022-11-16 |  |
 | [Rolling](https://open.spotify.com/track/5dMjTM8o4K2s3Dh7qWLiu3) | [Streams & Mist](https://open.spotify.com/artist/0xD2iKIYHK3REQyRFdHF3f) | [Bucket Respite](https://open.spotify.com/album/36D7ByB9PMsnAdFSb8o27z) | 4:20 | 2021-11-11 |  |
+| [Rolling Waves and Rockpools](https://open.spotify.com/track/1db2CHgoX19tKKu2p8Zbu2) | [Hello Soundz](https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT) | [Summer Ocean Waves](https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT) | 2:56 | 2023-02-15 |  |
 | [Rumbling Surf \(Ocean\)](https://open.spotify.com/track/3OTOq3EXRb2tIJ1NGiRGBa) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Blissful Nature Sounds](https://open.spotify.com/album/07rmOLfWdDDM4rJx1VhjR6) | 2:20 | 2021-11-11 |  |
 | [Sailing](https://open.spotify.com/track/1v6QpNfnrbVmJqPGZ1TsaV) | [Deep Sleep FX](https://open.spotify.com/artist/52ZkV6bSNDshzq9BGTudae) | [Deep Sleep FX](https://open.spotify.com/album/1y3kDuu8NrB0O3wM9ge5uj) | 3:05 | 2021-11-11 |  |
 | [San Diego Waves](https://open.spotify.com/track/4ljJ5YsllFvel7JjZIs8oQ) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [La Jolla Waves](https://open.spotify.com/album/3H5jbmk8MCrO3qdW3sLJKL) | 3:55 | 2021-11-11 | 2022-10-12 |

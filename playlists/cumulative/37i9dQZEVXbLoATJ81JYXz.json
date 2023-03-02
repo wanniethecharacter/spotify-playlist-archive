@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 153074,
       "name": "BOTTEGA",
       "url": "https://open.spotify.com/track/3RRwRGSCAsokzDr5CL3ISC"
@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 166062,
       "name": "BUBBEL P\u00c5 BALKONGEN",
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
@@ -4412,7 +4412,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 256449,
       "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
       "url": "https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W"
@@ -4688,7 +4688,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 165045,
       "name": "Din l\u00e5t",
       "url": "https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G"
@@ -4826,7 +4826,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 140046,
       "name": "Djurens vaggvisa",
       "url": "https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF"
@@ -5190,7 +5190,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 128888,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2e9JCw6tagF1APPHXWy6ff"
@@ -6508,7 +6508,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 189843,
       "name": "Farv\u00e4l",
       "url": "https://open.spotify.com/track/5GlvvciOftIl3hdvUjyik6"
@@ -7117,6 +7117,24 @@
     },
     {
       "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "Free At Last",
+      "url": "https://open.spotify.com/track/0n1JxDmR4Juj9LEZ4deFjW"
+    },
+    {
+      "album": {
         "name": "FREE SMOKE",
         "url": "https://open.spotify.com/album/7d10wpjHWZ4lII0zOfTenv"
       },
@@ -7150,6 +7168,24 @@
       "duration_ms": 174506,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1h4SQsufLENc6oCAbskc1T"
+    },
+    {
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140077,
+      "name": "Fri Fr\u00e5n Mig Sj\u00e4lv",
+      "url": "https://open.spotify.com/track/22F7PGDs5cDvsr11Aouk1o"
     },
     {
       "album": {
@@ -7786,7 +7822,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 139090,
       "name": "Ghetto Psykos (GS)",
       "url": "https://open.spotify.com/track/4S4nhjCMlx3d4LkMGqiCpm"
@@ -8699,6 +8735,24 @@
     },
     {
       "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202954,
+      "name": "Har Dig",
+      "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
+    },
+    {
+      "album": {
         "name": "HARKI",
         "url": "https://open.spotify.com/album/2Pit0Gz40DEVhx71C6ZtUz"
       },
@@ -9496,10 +9550,28 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 144890,
       "name": "Hoodrich",
       "url": "https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO"
+    },
+    {
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144890,
+      "name": "Hoodrich",
+      "url": "https://open.spotify.com/track/5o9ZvJGrZrw4iZVRsLW4cr"
     },
     {
       "album": {
@@ -13349,6 +13421,24 @@
     },
     {
       "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166415,
+      "name": "L\u00e5ngt Hemifr\u00e5n",
+      "url": "https://open.spotify.com/track/11dvt39aUJjx3jPK47HWK1"
+    },
+    {
+      "album": {
         "name": "L\u00e5t hela stan se p\u00e5",
         "url": "https://open.spotify.com/album/1eH4xvNREOFJycHwqifLNR"
       },
@@ -13360,7 +13450,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 184440,
       "name": "L\u00e5t hela stan se p\u00e5",
       "url": "https://open.spotify.com/track/1ZmXkSbIt88oScLQlkU8so"
@@ -15095,6 +15185,24 @@
     },
     {
       "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155620,
+      "name": "Nordv\u00e4stra",
+      "url": "https://open.spotify.com/track/2CUzvBKTBoN2QWZlZQyUci"
+    },
+    {
+      "album": {
         "name": "Nordv\u00e4stra",
         "url": "https://open.spotify.com/album/12f4UbS9xpt5QzE7qpC2W2"
       },
@@ -15204,7 +15312,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 123506,
       "name": "Noyy",
       "url": "https://open.spotify.com/track/4W0pPaBJwKhxScJXDVIKhS"
@@ -15490,6 +15598,24 @@
       "duration_ms": 151168,
       "name": "N\u00e5nting i Luften",
       "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
+    },
+    {
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151168,
+      "name": "N\u00e5nting I Luften",
+      "url": "https://open.spotify.com/track/321RwsoTVlohBMx1nkOHmZ"
     },
     {
       "album": {
@@ -15786,6 +15912,24 @@
       "duration_ms": 193506,
       "name": "One Right Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
+    },
+    {
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155008,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/3wIUf2ssPffFAUoIR4F1Tm"
     },
     {
       "album": {
@@ -16352,6 +16496,24 @@
       "duration_ms": 165048,
       "name": "Pippi",
       "url": "https://open.spotify.com/track/1U0kSgjv4BgjLwtsEA2UkU"
+    },
+    {
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139415,
+      "name": "Pistoler Poesi och Sex",
+      "url": "https://open.spotify.com/track/5nVkBEk1qYgkFOEk2kLuMW"
     },
     {
       "album": {
@@ -16931,6 +17093,24 @@
     },
     {
       "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103227,
+      "name": "Rap \u00c4r Ingen Konst",
+      "url": "https://open.spotify.com/track/506EpbgpJcknwVjuDSUekl"
+    },
+    {
+      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -17428,7 +17608,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 178453,
       "name": "Royals",
       "url": "https://open.spotify.com/track/7Cxq5B4XJt5FrpU4Uu2BxO"
@@ -19492,6 +19672,24 @@
       "duration_ms": 217320,
       "name": "SPACE MAN",
       "url": "https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa"
+    },
+    {
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90677,
+      "name": "Spiderman Del 2",
+      "url": "https://open.spotify.com/track/2IpGbRTC0b58mYvq5O0mmw"
     },
     {
       "album": {
@@ -21791,6 +21989,42 @@
     },
     {
       "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101559,
+      "name": "Turbo S",
+      "url": "https://open.spotify.com/track/0DEpDFlJZmU0mdOu8LKTzd"
+    },
+    {
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137621,
+      "name": "Turbolens",
+      "url": "https://open.spotify.com/track/3gKetx683y0y23F4zkqqNu"
+    },
+    {
+      "album": {
         "name": "Tusen g\u00e5nger om (feat. Newkid)",
         "url": "https://open.spotify.com/album/6MW4cZxYvBtl4ptt5cODZ2"
       },
@@ -22476,7 +22710,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 168000,
       "name": "Vatten & eld",
       "url": "https://open.spotify.com/track/5zpHef3TfeFtFYJ8s95WRj"

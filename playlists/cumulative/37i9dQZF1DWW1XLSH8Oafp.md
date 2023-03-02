@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring DJ HEARTSTRING
 
-549 songs - 1 day 7 hr 46 min
+550 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,8 @@
 | [Night Light](https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Night Light](https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ) | 3:40 | 2023-02-03 |  |
 | [Night Safari](https://open.spotify.com/track/1ess3AYGD2HtKbmSHLD8pJ) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [FR009](https://open.spotify.com/album/6PyFSxGcYl4YeTns5gy8Dy) | 5:17 | 2023-02-03 |  |
 | [Nights \(The Same\)](https://open.spotify.com/track/6ilo9FfdTjYG3dp7prGv83) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Nights \(The Same\)](https://open.spotify.com/album/54vSRnVYilUsUqwTYs5iIJ) | 4:25 | 2021-09-17 | 2022-02-26 |
-| [nintendo 64](https://open.spotify.com/track/3ojqUvdhAxighZs7WDi2mx) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [nintendo 64](https://open.spotify.com/album/0Ler3M1pK387glzodtvbFR) | 2:35 | 2022-10-28 |  |
+| [nintendo 64](https://open.spotify.com/track/3ojqUvdhAxighZs7WDi2mx) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [nintendo 64](https://open.spotify.com/album/0Ler3M1pK387glzodtvbFR) | 2:35 | 2022-10-28 | 2023-03-02 |
+| [nintendo 64](https://open.spotify.com/track/6phVWgpkuEW7zfhRWJj7MW) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [nintendo 64](https://open.spotify.com/album/4gkXCRrY758mIidr1NLaeV) | 2:35 | 2022-10-28 |  |
 | [No](https://open.spotify.com/track/6oeIbzZ7j784J4puWN4hnH) | [Goo Munday](https://open.spotify.com/artist/540egazqjMY2Lm7NPclRQ2) | [9 Lives](https://open.spotify.com/album/4RuGgpsV7CUhlEe7vR6B5U) | 3:36 | 2022-11-11 | 2023-01-14 |
 | [No Limits](https://open.spotify.com/track/0jRdgIr1nmhHrRhnWy5vTB) | [Broosnica](https://open.spotify.com/artist/4x7GBuoe0tEsKcgUecaC2m) | [No Limits](https://open.spotify.com/album/2dG2MJNAcj60orXdVekXsN) | 2:52 | 2023-01-20 |  |
 | [No Negativity](https://open.spotify.com/track/0djwC4Bj52JrJqtwbxtdyq) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Pesolife](https://open.spotify.com/artist/7f9jDhglsest0HQ921acyT) | [No Negativity](https://open.spotify.com/album/6VATXrvcessPvEUsY7RvOx) | 3:06 | 2022-07-22 | 2022-10-29 |

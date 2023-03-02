@@ -321,6 +321,28 @@
     },
     {
       "album": {
+        "name": "Bhoothaddam Bhaskar Narayana",
+        "url": "https://open.spotify.com/album/5Xb3QbKLMWwDxmx9fpQgbI"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282826,
+      "name": "Dappukotti Cheppukona",
+      "url": "https://open.spotify.com/track/7mPOS5KRp734Mc9LxB3TfZ"
+    },
+    {
+      "album": {
         "name": "Vinaro Bhagyamu Vishnu Katha",
         "url": "https://open.spotify.com/album/5IYnCIHoayjRyzW6OiumQb"
       },

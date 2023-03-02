@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-632 songs - 1 day 11 hr 19 min
+634 songs - 1 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2022-12-25 | 2022-12-27 |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-22 | 2021-12-04 |
 | [Animals](https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:51 | 2022-05-09 | 2022-05-19 |
-| [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-08-07 |  |
+| [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-08-07 | 2023-03-02 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-02-02 |
 | [Anxious](https://open.spotify.com/track/0bqwsQAkGaO0jzfzgI5iLV) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Anxious](https://open.spotify.com/album/7zdqBNL7UW6ez29rMY0NJ0) | 2:56 | 2021-03-27\* | 2021-07-04 |
 | [Anxious](https://open.spotify.com/track/5W9Qlj971vEzgfVHxiUCkT) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Some Days](https://open.spotify.com/album/34d6ShNbcuMzFbLLz9RcB7) | 2:56 | 2021-07-04 | 2021-08-01 |
@@ -472,6 +472,7 @@
 | [לא מרגיש טוב](https://open.spotify.com/track/686FdlEzrYCttdUAFByYhI) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [לא מרגיש טוב](https://open.spotify.com/album/3bdYTqXYcqvOW36agrX804) | 2:40 | 2021-12-03 | 2022-02-13 |
 | [לא נרגע](https://open.spotify.com/track/3u2kyAe7mj38p6ETztE5mP) | [Avihai Hollender](https://open.spotify.com/artist/7xdmWLAYEUMdYhgoYMZge1) | [לא נרגע](https://open.spotify.com/album/4ORqv9AlK35BYbO9SZTMSF) | 3:17 | 2023-01-13 | 2023-01-16 |
 | [לאהובי](https://open.spotify.com/track/5nmq4anDakdMvojDYPkg6S) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [סיבה לנשום](https://open.spotify.com/album/5x3hX8Av6UIZG4ng18QxZl) | 3:29 | 2022-05-05 | 2022-05-07 |
+| [לאט לאט לאט](https://open.spotify.com/track/0anWq8zX8Hz4jTKmdunfjq) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח](https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci) | 3:31 | 2023-03-01 |  |
 | [לב יפה](https://open.spotify.com/track/79frUUdqTcE1Qll6Twt8Ds) | [Ron Buhnik](https://open.spotify.com/artist/0mFHr7lwZmiRqsuy6JCS2K) | [לב יפה](https://open.spotify.com/album/43hoL0qqcYUMrYhccu6VvF) | 2:44 | 2023-01-13 | 2023-01-22 |
 | [לבד על המיטה](https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לבד על המיטה](https://open.spotify.com/album/18m2Yfw0d6ceN5UUmY273m) | 2:35 | 2022-02-10 |  |
 | [לבחור נכון & פוליטיקה וסקס](https://open.spotify.com/track/2EpdcPssADDCCMeOQ9GVtv) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Amir Dadon](https://open.spotify.com/artist/398u4UqbG8yzv4H08Mc1Eq) | [לבחור נכון & פוליטיקה וסקס](https://open.spotify.com/album/3vZff9NFFWmvMO7jqVUg6h) | 5:44 | 2022-10-01 | 2022-12-31 |
@@ -513,7 +514,7 @@
 | [מועבט](https://open.spotify.com/track/1peEkDKW4oCV3qzpuIiN3H) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [מועבט](https://open.spotify.com/album/4ypwDnOLVLoFSQoMUnWNPJ) | 4:11 | 2021-04-26 | 2021-05-09 |
 | [מועבט](https://open.spotify.com/track/6GCoKavQd5wOqScl5wVXOp) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [מועבט](https://open.spotify.com/album/2ZgkEHTdjFkDHgM1yBpVf0) | 4:11 | 2021-05-09 | 2021-10-10 |
 | [מזרח פרוע](https://open.spotify.com/track/7LqUeDojg7eFCqwMSsbEzF) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:28 | 2021-12-18 | 2021-12-26 |
-| [מחול](https://open.spotify.com/track/7FLWyTcWqdRXgfdfetlkGq) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 2:20 | 2023-02-23 |  |
+| [מחול](https://open.spotify.com/track/7FLWyTcWqdRXgfdfetlkGq) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 2:20 | 2023-02-23 | 2023-03-02 |
 | [מחילה](https://open.spotify.com/track/1XuxoHDc7mFeyhaDcgjYST) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [מחילה](https://open.spotify.com/album/5QIPFeYDdNDVoU7j24YavX) | 3:24 | 2021-08-01 | 2021-12-16 |
 | [מחרוזת שירי חינה](https://open.spotify.com/track/1FY2cAziLE3VYAcUL3v46r) | [Lehakat Sfataim](https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R) | [האלבום הכפול](https://open.spotify.com/album/2YmSYV06U6ucPWCkpysEeR) | 7:25 | 2022-04-24 | 2022-04-26 |
 | [מטפסים על הקירות](https://open.spotify.com/track/3hpaRxH73ciJCuH6QcNWXO) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [מטפסים על הקירות](https://open.spotify.com/album/1Vd5fkLCic0TwqlbMcv4Fn) | 2:46 | 2022-08-10 |  |
@@ -548,6 +549,7 @@
 | [סגול בהיר](https://open.spotify.com/track/7yamSClFVolBatiO4PvCjr) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [סגול בהיר](https://open.spotify.com/album/3Qq9reXVhaAMmsP40r31mq) | 3:36 | 2021-07-10 | 2021-07-11 |
 | [סדר העבודה](https://open.spotify.com/track/4A5lRH29TyKxllsl94BWex) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 5:50 | 2021-09-17 | 2022-10-07 |
 | [סהרה](https://open.spotify.com/track/3uidHx3If1PWAOCMcCdkNH) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:04 | 2021-12-18 | 2023-02-28 |
+| [סהרה + לבדי](https://open.spotify.com/track/6Tfl8NsXQSMRsTBjgdWtHs) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סהרה + לבדי](https://open.spotify.com/album/57d2RFiCo2VlaqonKO51g7) | 3:58 | 2023-03-01 |  |
 | [סהרה \- Live](https://open.spotify.com/track/7BcRDWY4VTCvRRHoobFWWo) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [סהרה \(Live\)](https://open.spotify.com/album/78GQ3pNd1Uy3oQJsX3MmGk) | 4:32 | 2022-07-29 |  |
 | [סוף של כל סיפור](https://open.spotify.com/track/52IzyboDKO3vFCWebuDd7e) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [סוף של כל סיפור](https://open.spotify.com/album/2Id1zXgJuXAXSe2xzBGJST) | 3:17 | 2022-01-20 | 2022-02-13 |
 | [סופרסטארית](https://open.spotify.com/track/2IqNTJPqS8hbB4PUSDtxTF) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 2:22 | 2023-02-23 | 2023-03-01 |

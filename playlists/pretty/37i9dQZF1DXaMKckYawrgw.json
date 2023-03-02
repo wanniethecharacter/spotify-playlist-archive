@@ -1,12 +1,12 @@
 {
-  "description": "Ska 100% hecho en M\u00e9xico con chilito del que pica. Pante\u00f3n Rococ\u00f3 en portada. ",
-  "num_followers": 7661,
-  "original_name": "Ska Mexa",
+  "description": "Ska 100% hecho en M\u00e9xico con chilito del que pica. La Tremenda Korte en portada. ",
+  "num_followers": 7672,
+  "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxODQwMCwwMDAwMDAwMGQ4NWY3ODczNDMxY2RlYWYzZmU1NGU5MTg0NjJmYmU1",
+  "snapshot_id": "MTY3NzY5NTQ4OCwwMDAwMDAwMGEzYjRlNzM0OTU5YjVjNjI2ZThhNzc2ODVlODAyNGNl",
   "tracks": [
     {
       "added_at": "2023-02-24 06:00:00",
@@ -871,8 +871,8 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
-        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/47IVDbiDtwhwHd1kk4XlDk"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
         }
       ],
-      "duration_ms": 209306,
-      "name": "No Hemos Muerto",
-      "url": "https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn"
+      "duration_ms": 170826,
+      "name": "Cenizas en el Mar",
+      "url": "https://open.spotify.com/track/6W92iAWlEVfiKTr9zZYseg"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Venga la Sentencia",
-        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Sonora Skandalera",
         "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 254589,
       "name": "Algo De Suerte",
       "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Venga la Sentencia",
+        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1011,8 +1011,8 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/47IVDbiDtwhwHd1kk4XlDk"
+        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
+        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
       },
       "artists": [
         {
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
         }
       ],
-      "duration_ms": 170826,
-      "name": "Cenizas en el Mar",
-      "url": "https://open.spotify.com/track/6W92iAWlEVfiKTr9zZYseg"
+      "duration_ms": 209306,
+      "name": "No Hemos Muerto",
+      "url": "https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "La Rebeli\u00f3n",
-        "url": "https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL"
+        "name": "Sonora Skandalera",
+        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "Sonora Skandalera",
+          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
         }
       ],
-      "duration_ms": 271301,
-      "name": "Y la Recuerdo de Ayer",
-      "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"
+      "duration_ms": 360071,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/7LTDgxW0Wkl0lZOq4Z5fOZ"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Sonora Skandalera",
-        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
+        "name": "La Rebeli\u00f3n",
+        "url": "https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL"
       },
       "artists": [
         {
-          "name": "Sonora Skandalera",
-          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 360071,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/7LTDgxW0Wkl0lZOq4Z5fOZ"
+      "duration_ms": 271301,
+      "name": "Y la Recuerdo de Ayer",
+      "url": "https://open.spotify.com/track/30qRh0j4htHrsroySiDh57"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Venga la Sentencia",
-        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
+        "name": "Jamaica Ska",
+        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+          "name": "To\u00f1o Quirazco",
+          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
         }
       ],
-      "duration_ms": 209053,
-      "name": "Condenado a Muerte",
-      "url": "https://open.spotify.com/track/3p3NU6zPzsAxYSwDufIjWL"
+      "duration_ms": 135810,
+      "name": "Jamaica Ska",
+      "url": "https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Jamaica Ska",
-        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
+        "name": "Frecuencia Rebelde",
+        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
       },
       "artists": [
         {
-          "name": "To\u00f1o Quirazco",
-          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 135810,
-      "name": "Jamaica Ska",
-      "url": "https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD"
+      "duration_ms": 217800,
+      "name": "Ni un paso atras",
+      "url": "https://open.spotify.com/track/0DAixqXelWP3hwdUrJKP0F"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "Revoluciones",
-        "url": "https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ"
-      },
-      "artists": [
-        {
-          "name": "La Hoja Ensamble",
-          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
-        }
-      ],
-      "duration_ms": 387922,
-      "name": "Revoluciones",
-      "url": "https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Classic's Ska",
         "url": "https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 253270,
       "name": "No Insistas M\u00e1s",
       "url": "https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "Revoluciones",
+        "url": "https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ"
+      },
+      "artists": [
+        {
+          "name": "La Hoja Ensamble",
+          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
+        }
+      ],
+      "duration_ms": 387922,
+      "name": "Revoluciones",
+      "url": "https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
-        "name": "La Ultima Noche",
-        "url": "https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT"
-      },
-      "artists": [
-        {
-          "name": "Pachecos Orchestra",
-          "url": "https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR"
-        }
-      ],
-      "duration_ms": 248888,
-      "name": "La Ultima Noche",
-      "url": "https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
         "name": "Marcando El Ritmo",
         "url": "https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 218804,
       "name": "Jueves",
       "url": "https://open.spotify.com/track/1A2UpNvD4mDtfDxRwy32EY"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
+        "name": "La Ultima Noche",
+        "url": "https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT"
+      },
+      "artists": [
+        {
+          "name": "Pachecos Orchestra",
+          "url": "https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR"
+        }
+      ],
+      "duration_ms": 248888,
+      "name": "La Ultima Noche",
+      "url": "https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n"
     },
     {
       "added_at": "2022-03-18 06:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-03-18 06:00:00",
       "album": {
+        "name": "Venga la Sentencia",
+        "url": "https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "Condenado a Muerte",
+      "url": "https://open.spotify.com/track/3p3NU6zPzsAxYSwDufIjWL"
+    },
+    {
+      "added_at": "2022-03-18 06:00:00",
+      "album": {
         "name": "Compa\u00f1eros Musicales",
         "url": "https://open.spotify.com/album/6che3OFwfIG8KzJQ7IkwXc"
       },
@@ -1699,24 +1715,8 @@
       "duration_ms": 296355,
       "name": "El Dejado",
       "url": "https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv"
-    },
-    {
-      "added_at": "2022-03-18 06:00:00",
-      "album": {
-        "name": "Canciones de Carretera: Conducir Por Espa\u00f1a",
-        "url": "https://open.spotify.com/album/1B7nU2MOVmYdivGbfhoBj9"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "Ni un paso atras",
-      "url": "https://open.spotify.com/track/18IS6FcCXbJODmeWrM7uAf"
     }
   ],
-  "unique_name": "Ska Mexa",
+  "unique_name": "MexSka ",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaMKckYawrgw"
 }

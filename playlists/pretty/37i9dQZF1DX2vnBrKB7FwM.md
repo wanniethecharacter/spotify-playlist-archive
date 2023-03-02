@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,524 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,549 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 52 | [La Nada](https://open.spotify.com/track/1RqeXjIirY9nD9rypTvU2G) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO) | [La Nada](https://open.spotify.com/album/5ziIa95wsIA1lUiDEpm2ad) | 3:06 |
 | 53 | [Pulso & Sudor](https://open.spotify.com/track/7uD7zOaghFbdV9bRz7SNAO) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Pulso & Sudor](https://open.spotify.com/album/7MNIx7mV2OVCvO7ltXMFkl) | 3:21 |
 | 54 | [La Típica \(2.018\)](https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 2:51 |
-| 55 | [La Vida Es Sólo Una](https://open.spotify.com/track/2yDhopId3iy8hLBii6hNfh) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Grandes Éxitos: 15 Años de Carrera Musical \(Remastered\)](https://open.spotify.com/album/5M5EJPvvYzUtZZ0qoVJ2Tk) | 3:04 |
+| 55 | [La Vida Es Solo Una](https://open.spotify.com/track/3DONoS10PcEs8mSoDbqhY1) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:04 |
 | 56 | [Hienas](https://open.spotify.com/track/0fMUUugJLn2IZX5EedPRj2) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [Hienas](https://open.spotify.com/album/6PBGi7sW0jYuDgVlkAkjA2) | 2:55 |
 | 57 | [Receso Solo 1](https://open.spotify.com/track/1pLGlJF5gf5YDEKFzLg9Fz) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Receso Solo 1](https://open.spotify.com/album/0LhuysoUDHLhiV6BKkwk4m) | 3:33 |
 | 58 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 74 | [Deja](https://open.spotify.com/track/6Kc4xRgbOxNqoVoXIP6h4e) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:31 |
 | 75 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 |
 
-Snapshot ID: `MTY3NjYxMzQ4MCwwMDAwMDAwMGViMDkzNjFmYmMwZjk0ZTJkOWYyZWM1NmIyYjZlNDVk`
+Snapshot ID: `MTY3NjYxMzQ4MCwwMDAwMDAwMDE0MzM2ODJiYWQ1MjQ0NThjNDJjN2FjNTVjYWQ3Y2Zj`

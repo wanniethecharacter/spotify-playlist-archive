@@ -272,7 +272,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -9145,6 +9145,24 @@
     },
     {
       "album": {
+        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7",
+        "url": "https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci"
+      },
+      "artists": [
+        {
+          "name": "Peer Tasi",
+          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211740,
+      "name": "\u05dc\u05d0\u05d8 \u05dc\u05d0\u05d8 \u05dc\u05d0\u05d8",
+      "url": "https://open.spotify.com/track/0anWq8zX8Hz4jTKmdunfjq"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d1 \u05d9\u05e4\u05d4",
         "url": "https://open.spotify.com/album/43hoL0qqcYUMrYhccu6VvF"
       },
@@ -9938,7 +9956,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 140933,
       "name": "\u05de\u05d7\u05d5\u05dc",
       "url": "https://open.spotify.com/track/7FLWyTcWqdRXgfdfetlkGq"
@@ -10598,6 +10616,24 @@
       "duration_ms": 244939,
       "name": "\u05e1\u05d4\u05e8\u05d4",
       "url": "https://open.spotify.com/track/3uidHx3If1PWAOCMcCdkNH"
+    },
+    {
+      "album": {
+        "name": "\u05e1\u05d4\u05e8\u05d4 + \u05dc\u05d1\u05d3\u05d9",
+        "url": "https://open.spotify.com/album/57d2RFiCo2VlaqonKO51g7"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238235,
+      "name": "\u05e1\u05d4\u05e8\u05d4 + \u05dc\u05d1\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/6Tfl8NsXQSMRsTBjgdWtHs"
     },
     {
       "album": {

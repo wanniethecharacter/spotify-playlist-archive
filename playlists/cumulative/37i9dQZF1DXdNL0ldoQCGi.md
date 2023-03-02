@@ -4,7 +4,7 @@
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-307 songs - 16 hr 3 min
+308 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-05-25 | 2022-11-08 |
 | [Eu Minto \(Ao Vivo\)](https://open.spotify.com/track/6tW23l5oRR8XyYJsF5si9G) | [US Agroboy](https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Eu Minto \(Ao Vivo\)](https://open.spotify.com/album/3ROWMQ6yXBXYGz2fCCuvse) | 2:40 | 2023-01-30 |  |
 | [Eu Te Amo Tanto](https://open.spotify.com/track/0i4Rf3MmRWfFuwe0lGOhMB) | [Lucas Queiroz](https://open.spotify.com/artist/67qKgZwBs9k7OVNvs0xex5) | [De Todo Jeito Cê Bebe, Vol.5](https://open.spotify.com/album/31JkLIxD1XtQFByWQw0a6X) | 3:19 | 2022-12-28 |  |
-| [Eu Vou Deixar de Ser Besta](https://open.spotify.com/track/6LApHv7VpoFUj9s38JWOTi) | [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Caneta Azul](https://open.spotify.com/album/5VFcM61xPRTvg0GQnXFsv8) | 3:08 | 2022-12-13 |  |
+| [Eu Vou Deixar de Ser Besta](https://open.spotify.com/track/6LApHv7VpoFUj9s38JWOTi) | [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Caneta Azul](https://open.spotify.com/album/5VFcM61xPRTvg0GQnXFsv8) | 3:08 | 2022-12-13 | 2023-03-02 |
+| [Eu Vou Deixar de Ser Besta](https://open.spotify.com/track/6S7bf78ghkbMHu0DIyY8on) | [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Coletânea Manoel Gomes \(Blue Pen\) \- 27 Sucessos](https://open.spotify.com/album/3o80rmnnIuRIyXPYc3h0cV) | 3:08 | 2023-02-28 |  |
 | [Eu Vou Tirar Você do Cabaré](https://open.spotify.com/track/1LRN7VyDgvvUMwYl0rSjBy) | [Murilo Costa](https://open.spotify.com/artist/0mdsT7zvqWl2LO4P43NQfk), [Israell Muniz](https://open.spotify.com/artist/1GEoj0CGGUFSqnDepUa3o9) | [Eu Vou Tirar Você do Cabaré](https://open.spotify.com/album/5ZcoF4QRiIWSZkFjr6hEUK) | 2:34 | 2023-01-03 |  |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 | 2022-07-28 | 2022-09-22 |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 | 2022-05-25 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Chill indie music\. Cover: Reneé Rapp
 
-324 songs - 18 hr 14 min
+325 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [It Was Nice To See You](https://open.spotify.com/track/0OBnGFOQxVOwh8d3xKCn98) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [It Was Nice To See You](https://open.spotify.com/album/6PAbsa37ZcNDLcwW97V84R) | 3:20 | 2022-12-12 | 2022-12-22 |
 | [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 | 2022-12-05 | 2022-12-13 |
 | [Just Know It](https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Just Know It](https://open.spotify.com/album/2PR7cECQ1VMirJeXjMHeN9) | 2:13 | 2022-09-18 | 2022-09-28 |
-| [labyrinth](https://open.spotify.com/track/3qbzROYNqCrv7hAPjFKzHP) | [heimlich](https://open.spotify.com/artist/1kMXJQzp4rZtPvmRbIgKIZ), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [labyrinth](https://open.spotify.com/album/5QaITPB0fRNwrTGQkqzNzF) | 2:38 | 2023-02-16 | 2023-02-28 |
+| [labyrinth](https://open.spotify.com/track/3qbzROYNqCrv7hAPjFKzHP) | [heimlich](https://open.spotify.com/artist/1kMXJQzp4rZtPvmRbIgKIZ), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [labyrinth](https://open.spotify.com/album/5QaITPB0fRNwrTGQkqzNzF) | 2:38 | 2023-02-16 |  |
 | [Landslide](https://open.spotify.com/track/0t8WM4tywwZBBvkEFmaQdA) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Revival](https://open.spotify.com/album/7jPYa8KUobduH8YFkep7AI) | 4:11 | 2022-06-13 | 2022-06-27 |
 | [Last First Kiss](https://open.spotify.com/track/3NRsALILJmLX78BLoVjgE5) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Last First Kiss](https://open.spotify.com/album/6kktuhRMpePuUNuRZYdZ9Y) | 2:51 | 2022-10-31 |  |
 | [Last To Know](https://open.spotify.com/track/3jW2VJnoDSO9fPvt3GPwct) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 3:12 | 2022-06-06 | 2022-06-14 |
@@ -300,6 +300,7 @@
 | [Uneasy Me](https://open.spotify.com/track/1JRA1YAKVAZHgqFc6ZPj5M) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [is it me, or is it you?](https://open.spotify.com/album/4ZSt8gHnOnfHZz4UMsgMH5) | 3:03 | 2022-10-03 | 2022-10-11 |
 | [Until I Found You \- Piano Version](https://open.spotify.com/track/06vNG6CiV4k8oNA0wUUAO7) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You \(Piano Version\)](https://open.spotify.com/album/6126tYz1txFtCrM0pDbEhc) | 3:04 | 2022-06-06 | 2022-09-02 |
 | [Up Down](https://open.spotify.com/track/6HLtZhPygF6XrLVLkkaEYC) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Loved You, What Happened?](https://open.spotify.com/album/3K6gfRB0Yn4IEd5VDThMXv) | 3:10 | 2022-07-04 | 2022-09-02 |
+| [van gogh](https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [van gogh](https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi) | 2:53 | 2023-03-02 |  |
 | [Venting to Strangers](https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Venting to Strangers](https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz) | 2:32 | 2022-11-21 |  |
 | [Vertigo](https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Vertigo](https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm) | 3:38 | 2022-09-18 | 2022-09-28 |
 | [VICEROY \(OUTRO\)](https://open.spotify.com/track/4aIBulWf0GiefNZRvy9M9v) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [VICEROY...LIKE THE BUTTERFLY](https://open.spotify.com/album/3ADXdCzTGTTKggrHf3WU3o) | 1:59 | 2022-10-31 | 2022-11-15 |

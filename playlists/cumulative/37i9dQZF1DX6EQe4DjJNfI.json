@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 143022,
       "name": "incenso",
       "url": "https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f"
@@ -798,6 +798,28 @@
       "duration_ms": 199655,
       "name": "Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/40rijjvXbyX6alCMtM2r3Z"
+    },
+    {
+      "album": {
+        "name": "Ir Embora",
+        "url": "https://open.spotify.com/album/6Xz4M5yXXEOgAljSsV1MkV"
+      },
+      "artists": [
+        {
+          "name": "Klayver Kazz",
+          "url": "https://open.spotify.com/artist/2Z2rOubqtfS2Pg7yZsiPJv"
+        },
+        {
+          "name": "Xavier2bit",
+          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188717,
+      "name": "Ir Embora",
+      "url": "https://open.spotify.com/track/0afH6dozAUehE0yJB7FMUg"
     },
     {
       "album": {

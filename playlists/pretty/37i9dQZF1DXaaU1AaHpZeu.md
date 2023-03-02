@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Mitú.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,357 likes - 59 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,406 likes - 59 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 18 | [Harakiri](https://open.spotify.com/track/1bqr8KMcoHeZHdb8HAQuAR) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harakiri](https://open.spotify.com/album/5gDm3a5oSYeS4t9sNaswVs) | 3:33 |
 | 19 | [Aviones](https://open.spotify.com/track/3tKM7Elq9Q0KIcXhyagUBC) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Aviones](https://open.spotify.com/album/1oAJT670zqDm1ICuE72By0) | 3:14 |
 | 20 | [Chill](https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Chill](https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0) | 2:43 |
-| 21 | [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 |
+| 21 | [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 |
 | 22 | [RIP Cupido](https://open.spotify.com/track/3ZVG78uYLajGqF1Xq6kM1u) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH), [Choclock](https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn) | [RIP Cupido](https://open.spotify.com/album/6iEBUT8sMj68YVpecApkLx) | 3:09 |
 | 23 | [End of the World](https://open.spotify.com/track/1Q4LD5uagwbJeSlkrNPRjZ) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [Somebody From Badajoz](https://open.spotify.com/album/3eltMTppgMcOoY5ftwwRy2) | 4:23 |
 | 24 | [De Córrer Per Tot Nova York](https://open.spotify.com/track/2UigCRCyjbrxW8qOegLnZT) | [Els Amics De Les Arts](https://open.spotify.com/artist/0op3EnoEZ0jQY13sbyoSo2) | [De Córrer Per Tot Nova York](https://open.spotify.com/album/2mAktSZo73hjMqv21KLziw) | 4:10 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 58 | [Ruta 7](https://open.spotify.com/track/21M3XwoJcEXdLp9cQPJKeK) | [Joven Breakfast](https://open.spotify.com/artist/5kWpJQ4Bvmm1RcibWmx5tT), [Dumelefant](https://open.spotify.com/artist/6Yaka3hMhE4DvmtSgxVgA2), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Ruta 7](https://open.spotify.com/album/19VE49YRECgUsAq0r2HmoT) | 3:28 |
 | 59 | [Ses paraules s'emporta el vent](https://open.spotify.com/track/46ZzM0y5yxxlqlWl6YAdke) | [Socunbohemio](https://open.spotify.com/artist/3Zyph9kkkEfTKaMQrLotUV) | [Ses paraules s'emporta el vent](https://open.spotify.com/album/4KbQI5faiaG1Bzyr04gkDp) | 3:42 |
 
-Snapshot ID: `MTY3NzIxNTUyMCwwMDAwMDAwMDA3NzNiYWFiNjI2MTU4ZDU0YmVjODNhYzQxNTRjMDM2`
+Snapshot ID: `MTY3NzIxNTUyMCwwMDAwMDAwMDM0ZWQxZDgxOWY5MTFjNTczMzI4MjZjN2YwMzNhYWYx`

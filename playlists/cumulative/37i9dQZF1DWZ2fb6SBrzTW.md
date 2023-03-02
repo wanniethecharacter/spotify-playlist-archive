@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-216 songs - 11 hr 31 min
+217 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Full Current \(That's My Baby\)](https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Full Current \(That's My baby\)](https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP) | 3:28 | 2022-07-28 | 2023-02-25 |
 | [Fvck Off](https://open.spotify.com/track/6suEGaFoeHV8eNQau8itvT) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Fvck Off](https://open.spotify.com/album/0xlCeLVQm5xoe9JsCHyJ48) | 2:37 | 2022-05-19 | 2022-10-08 |
 | [Gbee Body \(feat\. Edem\)](https://open.spotify.com/track/4UkCWodJ0mU4BQ1M5Aifdb) | [Ak Songstress](https://open.spotify.com/artist/52lFu2pWl3LZrSer7G5K3a), [Edem](https://open.spotify.com/artist/5gb4BlH3ixp1oGLlzfeppl) | [Gbee Body \(feat\. Edem\)](https://open.spotify.com/album/1kKY6PVggt76lqta770b9y) | 3:23 | 2022-03-24 | 2022-07-25 |
+| [Gbese](https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Gbese](https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC) | 2:42 | 2023-02-23 |  |
 | [Gboza](https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Gboza](https://open.spotify.com/album/1xdEbTrHZcaRKs3gjLFVQ5) | 3:19 | 2022-10-07 | 2022-12-03 |
 | [Gettin' Hot](https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Gettin' Hot](https://open.spotify.com/album/0otN5Uk42fJzAtyMmPrLc0) | 3:44 | 2022-07-28 | 2022-08-22 |
 | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw) | 2:53 | 2022-09-09 | 2022-10-25 |
@@ -208,7 +209,7 @@
 | [Universe](https://open.spotify.com/track/53xvLHBlltsQQG3X9MrGtH) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Universe](https://open.spotify.com/album/76lQfFP5A7OnL68NJ8k9QB) | 4:25 | 2022-06-30 | 2022-07-27 |
 | [Usenemali](https://open.spotify.com/track/3KnHZwV1StOTvtHwpK2gK1) | [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Kingtone](https://open.spotify.com/artist/7fFTOKl46UbEvewIR3e6Dx) | [Usenemali](https://open.spotify.com/album/00YNcknmNuCikd80YChjlV) | 5:47 | 2022-09-01 | 2022-10-14 |
 | [Vanessa My Lover](https://open.spotify.com/track/3xjnc9VwyFBeVcHxUdTx78) | [Davi Richie](https://open.spotify.com/artist/4IjrryLh4NjxN8KC6CZijI) | [On You](https://open.spotify.com/album/2G3bmJCmuUvdI7LdewaV4Z) | 2:33 | 2022-07-07 | 2022-07-22 |
-| [Vawulence](https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Vawulence](https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq) | 3:10 | 2022-11-25 |  |
+| [Vawulence](https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Vawulence](https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq) | 3:10 | 2022-11-25 | 2023-03-02 |
 | [VIP](https://open.spotify.com/track/4orL9o7BToP1jrzvwMO3gV) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [VIP](https://open.spotify.com/album/5REoa2uwPL4cw58uv686cR) | 3:07 | 2021-10-15 | 2022-07-27 |
 | [WAKA WAKA](https://open.spotify.com/track/51GphBzrIolTeEEsAj8nBP) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [MY DIARY \- EP](https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r) | 2:48 | 2022-07-22 | 2022-07-26 |
 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 | 2022-06-16 |  |

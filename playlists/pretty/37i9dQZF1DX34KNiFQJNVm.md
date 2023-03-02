@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Hariel com MC GP e Mc Kadu, Dilsinho com Diego & Vitor Hugo, Agnes Nunes, BaianaSystem com Gilsons, Mc Livinho, Fernanda Takai e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,841,015 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,841,237 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 23 | [Doa a Quem Doer](https://open.spotify.com/track/6G7pExYSYFwUAd7YMDBlEg) | [Na Hora H](https://open.spotify.com/artist/3nwLhoJrBjPgQwuAL7J3NJ), [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52) | [Doa a Quem Doer](https://open.spotify.com/album/1GYETjrYy3akwX7OSSl4iV) | 3:08 |
 | 24 | [Coração de Bruta](https://open.spotify.com/track/1790yuOLY41q0pXX0GG9uy) | [Antony & Gabriel](https://open.spotify.com/artist/1uhE4e8omc2wKqIK88bqH4) | [Coração de Bruta](https://open.spotify.com/album/6R5SMM5Furbkfj1lXBbTYS) | 2:30 |
 | 25 | [Tá Pedindo Recaída \- Ao Vivo](https://open.spotify.com/track/4ovuPNNC6i9AuKQ3gpAUGJ) | [Pedro Sanchez e Thiago](https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5) | [Tá Pedindo Recaída \(Ao Vivo\)](https://open.spotify.com/album/5LxqzfOB6uvNXcoHeJqV8N) | 2:44 |
-| 26 | [Eu Vou Deixar de Ser Besta](https://open.spotify.com/track/6LApHv7VpoFUj9s38JWOTi) | [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Caneta Azul](https://open.spotify.com/album/5VFcM61xPRTvg0GQnXFsv8) | 3:08 |
+| 26 | [Eu Vou Deixar de Ser Besta](https://open.spotify.com/track/6S7bf78ghkbMHu0DIyY8on) | [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Coletânea Manoel Gomes \(Blue Pen\) \- 27 Sucessos](https://open.spotify.com/album/3o80rmnnIuRIyXPYc3h0cV) | 3:08 |
 | 27 | [Ciúmes Ao Vivo \- Ao Vivo](https://open.spotify.com/track/7BuWmzBU2aXf9BK5gX8VmJ) | [Edy Britto & Samuel](https://open.spotify.com/artist/6UWCS7TrQo1V96jomn1k8U) | [Sertanejo Nattos, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/6dy7bjUJtw3qiJ8ec2RuMH) | 2:50 |
 | 28 | [Desconhecido \- Ao Vivo](https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:53 |
 | 29 | [Amor das Minhas Vidas](https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Amor das Minhas Vidas](https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx) | 2:57 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Vai Rodar](https://open.spotify.com/track/2YnXYkH4IcIIbNvRTttAzV) | [Biel Rocha](https://open.spotify.com/artist/2oHZ8zd8mZpSO8UMoi9NBj), [MC Lynne](https://open.spotify.com/artist/7fBWh0t05vVZTnmni0usMu) | [Vai Rodar](https://open.spotify.com/album/1EZniOov9RMjDizyglh8Bq) | 2:48 |
 | 99 | [Estouramos a Boa](https://open.spotify.com/track/3vxx6J9juVLknVy5bHY2mb) | [MC Dede](https://open.spotify.com/artist/09YH5ZE9GiphIoGzWVoiPs), [MC Julio D.E.R.](https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Mc Dentinho](https://open.spotify.com/artist/11vBPMdlaIj2Sfy5agutuB), [MC GHAELL](https://open.spotify.com/artist/53yGlTm3SvTB9xsCRhIu6f), [Mc Diouro](https://open.spotify.com/artist/08KQfADhvzZNtQnplCAIyS) | [Estouramos a Boa](https://open.spotify.com/album/6A41dpcJayKzkkcLoWIDZN) | 4:19 |
 
-Snapshot ID: `MTY3NzUwMTE0MywwMDAwMDAwMDQxZGM0YzdlZGViMjYzMzk4ZDg3YmY2OTIyNDRmMzZl`
+Snapshot ID: `MTY3NzUwMTE0MywwMDAwMDAwMDYxODhlOTYzODBmZDUyNTJjNjYwNGFmZDFjOGI5OTBk`

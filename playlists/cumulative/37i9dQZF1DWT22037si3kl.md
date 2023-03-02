@@ -4,7 +4,7 @@
 
 > Chique e confortável como a realeza do Trap\. Foto: Oruam, Borges, Chefin
 
-184 songs - 9 hr 20 min
+185 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Madrugada](https://open.spotify.com/track/2Lqt0JMtbWwiDrzNIrsPYc) | [Lupper](https://open.spotify.com/artist/6xa7IcwSnl1KJSj4i7Om4Q) | [Madrugada](https://open.spotify.com/album/5hLiaDKMdkJrAYKXaMfBoc) | 2:20 | 2022-07-29 | 2022-08-27 |
 | [Malvadão 3](https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Malvadão 3](https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl) | 2:21 | 2022-03-18 | 2022-04-29 |
 | [Mansão da Nadamal](https://open.spotify.com/track/1mt7mgPFH8YoJHIUFG8yF3) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Mansão da Nadamal](https://open.spotify.com/album/0LnEZovsRCo7uDMNLOLWGk) | 4:02 | 2022-04-29 | 2022-05-14 |
-| [Maturidade](https://open.spotify.com/track/7GvJL7IG958R87MphADwR6) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Maturidade](https://open.spotify.com/album/6vPBEJpr7ZvMTBR0GiQL9L) | 2:22 | 2022-09-30 |  |
+| [Maturidade](https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Maturidade](https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg) | 2:22 | 2023-02-28 |  |
+| [Maturidade](https://open.spotify.com/track/7GvJL7IG958R87MphADwR6) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Maturidade](https://open.spotify.com/album/6vPBEJpr7ZvMTBR0GiQL9L) | 2:22 | 2022-09-30 | 2023-03-02 |
 | [Meca Cereja](https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meca Cereja](https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC) | 3:54 | 2022-12-23 |  |
 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 | 2022-05-08 |  |
 | [Meu Carro na Pista](https://open.spotify.com/track/0K9HKdZMguk6mQI8YIYBlK) | [DANK](https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meu Carro na Pista](https://open.spotify.com/album/2v9St64Ky2ag2jZ5JLgPZV) | 2:24 | 2022-12-23 | 2023-01-24 |

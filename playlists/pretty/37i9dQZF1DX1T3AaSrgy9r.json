@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 85840,
+  "num_followers": 85929,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMGIyYmQzZWZhODZlMjE5NTA1N2FjNTBjMDU1NjhlOTAw",
+  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMDhiNGVkMDk1OTBmZDZlMDg4Nzk4OTVhZTViZGM0ZmY5",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Let Forever Be",
-      "url": "https://open.spotify.com/track/3m1JFLpKLYgMi1jf6Bu16P"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Music Has The Right To Children",
         "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 149080,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Let Forever Be",
+      "url": "https://open.spotify.com/track/3m1JFLpKLYgMi1jf6Bu16P"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Red Alert",
-        "url": "https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "Red Alert - Jaxx Radio Mix",
-      "url": "https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Gettin' High On Your Own Supply",
         "url": "https://open.spotify.com/album/0OiWmi1Jt8URgnt8SS4YtP"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 212400,
       "name": "Stop the Rock",
       "url": "https://open.spotify.com/track/37jrubWAb4F9TY2GgSRG56"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Red Alert",
+        "url": "https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "Red Alert - Jaxx Radio Mix",
+      "url": "https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 382360,
-      "name": "Original - Remastered",
-      "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Play & Play: B Sides",
         "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 253760,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 382360,
+      "name": "Original - Remastered",
+      "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Swamp Thing",
-        "url": "https://open.spotify.com/album/6q2Cg5nOfvYzKj6BSYWfTq"
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
       "artists": [
         {
-          "name": "The Grid",
-          "url": "https://open.spotify.com/artist/1fN3lF5RILxJeG9H8EhEDo"
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
         }
       ],
-      "duration_ms": 237453,
-      "name": "Swamp Thing",
-      "url": "https://open.spotify.com/track/2TU5HRSj7cSjkKwNzF8NhS"
+      "duration_ms": 239760,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+        "name": "Swamp Thing",
+        "url": "https://open.spotify.com/album/6q2Cg5nOfvYzKj6BSYWfTq"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "The Grid",
+          "url": "https://open.spotify.com/artist/1fN3lF5RILxJeG9H8EhEDo"
         }
       ],
-      "duration_ms": 239760,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p"
+      "duration_ms": 237453,
+      "name": "Swamp Thing",
+      "url": "https://open.spotify.com/track/2TU5HRSj7cSjkKwNzF8NhS"
     },
     {
       "added_at": "2021-07-14 17:36:34",

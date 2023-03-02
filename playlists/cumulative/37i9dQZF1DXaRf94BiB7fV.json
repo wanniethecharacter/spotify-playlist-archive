@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Shubham Kabra, Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Ridi, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 143125,
       "name": "Chai",
       "url": "https://open.spotify.com/track/5mwyz9v3FkTp80xmReZ8Aj"
@@ -2218,6 +2218,28 @@
       "duration_ms": 138482,
       "name": "Cloud Burst",
       "url": "https://open.spotify.com/track/196EOSSuHR7vfHd4aCLQ3U"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/4dXqE7rIVNlbTpfp87WElr"
+      },
+      "artists": [
+        {
+          "name": "Sparsh Agrawal",
+          "url": "https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U"
+        },
+        {
+          "name": "Piyush Ambhore",
+          "url": "https://open.spotify.com/artist/3JTWKX8xftNT53zfFRyn2s"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221395,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/6OQpymPIXmfIhPDDV2gDks"
     },
     {
       "album": {
@@ -3385,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/5BJLzLDSNLCbzwuNwifnVE"
+      },
+      "artists": [
+        {
+          "name": "Tyesha Kohli",
+          "url": "https://open.spotify.com/artist/5CXHXgoOC6fIFdtyxTZ5sO"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/7qUXtrjjf0KqCCxD9SAw3Q"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/5FEB9ICJg3LCXr847800Fk"
       },
@@ -4020,6 +4060,24 @@
       "duration_ms": 214322,
       "name": "halo in the dark.",
       "url": "https://open.spotify.com/track/4jXCnl2qeIiIMSyUVLl27T"
+    },
+    {
+      "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/3KPI0zjrAAqSuw8zfpLL5e"
+      },
+      "artists": [
+        {
+          "name": "Ridi",
+          "url": "https://open.spotify.com/artist/4dWZYIVD1EhyDVfc812o81"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178890,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/6jBijDZuMlDZva99GE2Wq5"
     },
     {
       "album": {
@@ -5964,7 +6022,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 191997,
       "name": "Kahan Main Gum Gaya",
       "url": "https://open.spotify.com/track/70Zyo5t03zLxFSWsAablmm"
@@ -8268,6 +8326,24 @@
       "duration_ms": 156000,
       "name": "Musafir",
       "url": "https://open.spotify.com/track/7x9ULDeUBNrjd0LHoxEj2b"
+    },
+    {
+      "album": {
+        "name": "Musafir Dil",
+        "url": "https://open.spotify.com/album/0vaM9jZy1d7d81wGY3BvwB"
+      },
+      "artists": [
+        {
+          "name": "Marshall Tyagi",
+          "url": "https://open.spotify.com/artist/1PvElMPV4DKqeqAEtD4urQ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220775,
+      "name": "Musafir Dil",
+      "url": "https://open.spotify.com/track/1zrG8PASqGyqnXZd4o5ncD"
     },
     {
       "album": {
@@ -10992,7 +11068,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 163076,
       "name": "So Blue",
       "url": "https://open.spotify.com/track/6L11TOEMnyDF0giRinVCtb"
@@ -11849,6 +11925,28 @@
     },
     {
       "album": {
+        "name": "Tere Bin Jeena",
+        "url": "https://open.spotify.com/album/6OJS7wv48gXAVXHJoRoKyA"
+      },
+      "artists": [
+        {
+          "name": "Tanu Srivastava",
+          "url": "https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8"
+        },
+        {
+          "name": "Utkarsh Srivastava",
+          "url": "https://open.spotify.com/artist/3NjTUyaPq8pQFSjJlm3rgm"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176613,
+      "name": "Tere Bin Jeena",
+      "url": "https://open.spotify.com/track/3kZY2qYmj5aGA9Abay1JFy"
+    },
+    {
+      "album": {
         "name": "Tere Irade",
         "url": "https://open.spotify.com/album/5lQelyYoBHYfS6UCnL1Sty"
       },
@@ -11860,7 +11958,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 173627,
       "name": "Tere Irade",
       "url": "https://open.spotify.com/track/5ejGH18GdRX7rFlH50eufR"
@@ -12800,7 +12898,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 317024,
       "name": "Tumse Pyaar Hai",
       "url": "https://open.spotify.com/track/3DVQWNRE8pYPZGEtovHjIJ"

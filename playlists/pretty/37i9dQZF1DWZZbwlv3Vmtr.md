@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,697 likes - 384 songs - 14 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,109 likes - 384 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 138 | [One Minute](https://open.spotify.com/track/1cav5cQVWoCppNXXbg7b5m) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV) | [One Minute](https://open.spotify.com/album/1dQGXOReBiGGZAwag5ZPyW) | 1:10 |
 | 139 | [all in time](https://open.spotify.com/track/5DBdIkRVzbRuJyT9ZlUz3b) | [Isaac Wheadon](https://open.spotify.com/artist/3JdtFl0iWwZTNO5ul5nP5e) | [all in time](https://open.spotify.com/album/4pWWQ94GJBYcTh02Etoint) | 4:25 |
 | 140 | [Flight 99 \- Instrumental](https://open.spotify.com/track/3xYuSl14visUQp9josEqIM) | [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK) | [Flight 99 \(Remixes\)](https://open.spotify.com/album/0TAKBTEX12oBQ6VmlPe0Sn) | 2:51 |
-| 141 | [Autumn Colours](https://open.spotify.com/track/4jxUiUn3Ho8aN4u2NQpmia) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd), [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Autumn Colours](https://open.spotify.com/album/25slxRdPIXB4ytpeMEKEge) | 2:27 |
+| 141 | [Autumn Colours](https://open.spotify.com/track/2M5xnklRUnCnLJD00UUfJG) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd) | [Autumn Colours](https://open.spotify.com/album/1MqZmJJ8PXsSc76DRVRotP) | 2:27 |
 | 142 | [Nostalgia](https://open.spotify.com/track/6j6ZILBUn4Db0eC8dwSpxg) | [Betty Michaels](https://open.spotify.com/artist/1BhnNe00irqmdbyijyTZMk), [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM) | [Nostalgia](https://open.spotify.com/album/25lzc5egcw786yCAD1n5W2) | 2:41 |
 | 143 | [Time And Space](https://open.spotify.com/track/2LAqKH7Fep8GfNJGONTAag) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Time And Space](https://open.spotify.com/album/0g5vm8jQYvi7daN6YsSlUY) | 2:46 |
 | 144 | [Candy](https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq) | [Ada Vula](https://open.spotify.com/artist/79KlmpJEbaL2Eif2lceNLv) | [Candy](https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N) | 1:46 |
@@ -393,4 +393,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 383 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 |
 | 384 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 |
 
-Snapshot ID: `MTY3Njk4OTE5NiwwMDAwMDAwMDQ4NTU0ZWQ4NjIyYjA0YzYyNjliNzdiNzg1Y2RlMzlm`
+Snapshot ID: `MTY3Njk4OTE5NiwwMDAwMDAwMDY2ZmI5MTcyMDZkMTZhZDk3MzAzYTcyMTRjOTYxZDI2`

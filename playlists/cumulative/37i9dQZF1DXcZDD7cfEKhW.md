@@ -4,7 +4,7 @@
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Taylor Swift
 
-415 songs - 22 hr 24 min
+416 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Honesty \- \(Jersey Club Remix\)](https://open.spotify.com/track/3J0vtBWWTwKUzwgvQrR4yM) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [JIDDY](https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA) | [Honesty \(Jersey Club Remix\)](https://open.spotify.com/album/1jlifOkBFmYB1xQPjfddGR) | 2:10 | 2021-01-23 | 2021-05-26 |
 | [Hot In It \- Riton Remix](https://open.spotify.com/track/1jIfRDKyt4jn7tQ5ekmkoM) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1) | [Hot In It \(Riton Remix\)](https://open.spotify.com/album/1UPYb9AJxXfJuPl8cDsPuO) | 2:47 | 2022-09-02 | 2022-11-18 |
 | [How Do I Make You Love Me? \- Sebastian Ingrosso & Salvatore Ganacci Remix](https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [How Do I Make You Love Me? \(Sebastian Ingrosso & Salvatore Ganacci Remix\)](https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe) | 3:37 | 2022-07-29 |  |
-| [How Do I Say Goodbye \- Tiësto Remix](https://open.spotify.com/track/2gCyxh8Q7Sj1t7pU5IrE7A) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [How Do I Say Goodbye \(Tiësto Remix\)](https://open.spotify.com/album/6XjTK78pOsk3RcetfMXNUe) | 3:45 | 2023-01-27 |  |
+| [How Do I Say Goodbye \- Tiësto Remix](https://open.spotify.com/track/2gCyxh8Q7Sj1t7pU5IrE7A) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [How Do I Say Goodbye \(Tiësto Remix\)](https://open.spotify.com/album/6XjTK78pOsk3RcetfMXNUe) | 3:45 | 2023-01-27 | 2023-03-02 |
+| [How Do I Say Goodbye \- Tiësto Remix](https://open.spotify.com/track/1ps5972g02HgOtvjE8OMfz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [How Do I Say Goodbye \(Tiësto Remix\)](https://open.spotify.com/album/2l9HABqiwDkL7oVGAiW2mV) | 3:45 | 2023-02-17 |  |
 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 | 2021-09-28 |  |
 | [HWAA \- Dimitri Vegas & Like Mike Remix](https://open.spotify.com/track/6sUnwJgPUTHKBKnsKZr9PC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [HWAA \(Dimitri Vegas & Like Mike Remix\)](https://open.spotify.com/album/6sxMmlXY5Sx0JM48RaReuO) | 2:55 | 2021-02-19 | 2021-09-17 |
 | [I am not a woman, I'm a god \- Hot Chip Remix](https://open.spotify.com/track/6N9e2i99cXGGujgELtxotL) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [I am not a woman, I'm a god \(Remixes\)](https://open.spotify.com/album/1KI8OF9vF5XKY88noK7Au9) | 4:47 | 2021-10-09 | 2022-08-22 |

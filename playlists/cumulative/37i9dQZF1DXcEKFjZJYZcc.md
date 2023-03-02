@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-216 songs - 8 hr 55 min
+222 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Girasole](https://open.spotify.com/track/2HsdXI21r6mfT7GOA2PzGb) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Girasole](https://open.spotify.com/album/6D63OsGo4i9O0wZ4h15Eoa) | 2:41 | 2022-08-30 |  |
 | [Grace](https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi) | [Carl Stark Willgold](https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9) | [Grace](https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P) | 2:15 | 2021-12-14 | 2022-04-29 |
 | [Gran Separado](https://open.spotify.com/track/6E0A1z9LAekBr97GRRlQ4p) | [Leonid Gautier](https://open.spotify.com/artist/1PG2CsJ35TSdcLarWqxGdu) | [Gran Separado](https://open.spotify.com/album/5MAFv5FqwSv5iNtmsInAbc) | 3:41 | 2021-12-14 | 2022-07-21 |
+| [Gratitude](https://open.spotify.com/track/5t4wYNhdJDzxVlMjri5sOn) | [Eadgar Évariste](https://open.spotify.com/artist/1c7hoqo3WagTVwFD2JMHmu) | [Gratitude](https://open.spotify.com/album/5YfNOdFUtS4eFZVHBO5GIF) | 1:54 | 2023-03-01 |  |
 | [Gratitude](https://open.spotify.com/track/05RikarvGDzw4HktIAxxKR) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Gratitude](https://open.spotify.com/album/2gZdEJzgzP0PYSso7gILsX) | 2:13 | 2021-12-14 |  |
 | [Green Meadow](https://open.spotify.com/track/3utSs25tLqIPeLegK7MRiT) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Green Meadow](https://open.spotify.com/album/77BGGPqjJJEI6g9wF8gy0o) | 2:51 | 2021-12-14 | 2023-01-28 |
 | [Hand Woven Clouds](https://open.spotify.com/track/0sGGKnrBxiogubR7KDrxpC) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Hand Woven Clouds](https://open.spotify.com/album/3391Xd2lX5OKi5V2kCITvY) | 2:36 | 2022-09-13 |  |
@@ -98,6 +99,8 @@
 | [Le Pont De L'amour](https://open.spotify.com/track/0UhArwSZP4TGYxPfj7XF4y) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Le Pont De L'amour](https://open.spotify.com/album/3b3PShJsSRVsqmPXBSPQgh) | 2:48 | 2021-12-14 | 2022-07-21 |
 | [Learning](https://open.spotify.com/track/7ndJq3FTs0QIzag0nYw7BX) | [Gareth Riley](https://open.spotify.com/artist/4MV0ijpQhdnte0lJh2tilX) | [Learning](https://open.spotify.com/album/04uA73Nx9vnxlpZJfktKNp) | 2:02 | 2021-12-14 | 2022-04-29 |
 | [Lemons In London](https://open.spotify.com/track/4NEIlZgVYb3lwN81SgxcJV) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Lemons In London](https://open.spotify.com/album/3ssXGJlbEKzfnqNoHFOJ5S) | 1:52 | 2021-12-14 |  |
+| [Let It Be Us](https://open.spotify.com/track/7lV58DNV6rBJ57wyWiPClh) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Let It Be Us](https://open.spotify.com/album/3lI2vFP5irpgNbkg1ikc97) | 2:33 | 2023-03-01 |  |
+| [Liedchen](https://open.spotify.com/track/5Ly26x1z1XshVyBKos1PXw) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Liedchen](https://open.spotify.com/album/195rTFzMloA4cdl0ncy3cU) | 2:35 | 2023-03-01 |  |
 | [Lilt](https://open.spotify.com/track/2nyu65wNXcu377f7UVDnYa) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Lilt](https://open.spotify.com/album/7hueCmRflhqn17bV20JOz1) | 2:21 | 2022-04-28 |  |
 | [Little Bird](https://open.spotify.com/track/2n1QbWSRwYIGwMybFB730q) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Signs](https://open.spotify.com/album/7FgWxjsFY2iaboS6cEd1r2) | 1:50 | 2022-12-21 |  |
 | [Looking Forward, Looking Backward](https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Looking Forward, Looking Backward](https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x) | 2:57 | 2021-12-14 |  |
@@ -118,6 +121,7 @@
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2021-12-14 |  |
 | [Notre terre](https://open.spotify.com/track/5kHdX3qzFelWIDOiUAs96C) | [Mattéo Roussel](https://open.spotify.com/artist/5cWYlySCjG96BxyPDRdT9J) | [Notre terre](https://open.spotify.com/album/285DJvpqFwBzxXopSOd2ML) | 2:38 | 2022-03-03 |  |
 | [Nuove stelle](https://open.spotify.com/track/4XhwwAHtDNnv8sHJk1O69p) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Nuove stelle](https://open.spotify.com/album/4EYOSBo5Ih0iYWbDbLKLos) | 1:40 | 2023-02-15 |  |
+| [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 | 2023-03-01 |  |
 | [Oaks Bluffs](https://open.spotify.com/track/0jSUVrvKQ0qF8ee1usL34M) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Heart Open & Oak Bluffs](https://open.spotify.com/album/0WUh561iRu6szlrM5pB2eW) | 1:57 | 2022-12-06 |  |
 | [Ocean](https://open.spotify.com/track/6EP77Zog3nQuQaOHEpE9cR) | [Eric Wilhelm](https://open.spotify.com/artist/7pMZdUh8fBuVoUpARYPuoQ) | [Ocean](https://open.spotify.com/album/6YPiF7Xt7QHDS610MMgyoH) | 1:46 | 2021-12-14 | 2022-01-20 |
 | [On My Way Home](https://open.spotify.com/track/4iuGVtUXm2RfdyaGofN5MC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [On My Way Home](https://open.spotify.com/album/0xjLWXYwiERfTpIeBxSPam) | 2:31 | 2022-09-13 |  |
@@ -140,6 +144,7 @@
 | [Play](https://open.spotify.com/track/2y2nlOAf1TmyHT1NGHroaA) | [Noël](https://open.spotify.com/artist/3hCvaJnqBQX6DqHh4nZiYj) | [Play](https://open.spotify.com/album/3JPQiCXgWY2aoBTRiwoHMN) | 2:32 | 2022-07-20 |  |
 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 | 2021-12-14 |  |
 | [Pour tous les cœurs du monde](https://open.spotify.com/track/54UQ3Jzm53YkAHpj3BGOQa) | [Olivier Mournier](https://open.spotify.com/artist/7wnpAk4GIaM7dyBnl1bRB7) | [Pour tous les cœurs du monde](https://open.spotify.com/album/4taqzXzFoQJJYhy93v8q2h) | 2:09 | 2021-12-14 |  |
+| [Pray](https://open.spotify.com/track/3zSMjsAjKtDLR9cPjJ9NRv) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Pray](https://open.spotify.com/album/3yf0CyVwOwOtL6HQr3X6A4) | 2:16 | 2023-03-01 |  |
 | [Presque l'amour](https://open.spotify.com/track/03VbBcRhqaoH04MMlxlGIC) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Presque l'amour](https://open.spotify.com/album/6enrbOB2poCkylWRXhrp7r) | 2:22 | 2021-12-14 |  |
 | [primeiro verão](https://open.spotify.com/track/2V1y8aiJS9HMFqh51dNVs4) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [primeiro verão](https://open.spotify.com/album/5R6voZl0tGls3ews6juX0L) | 3:28 | 2021-12-14 | 2022-04-29 |
 | [Progression](https://open.spotify.com/track/4GkIVom3wSy41JEql2fQ72) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Progression](https://open.spotify.com/album/307SxWZ8sKnBFJMDe176cI) | 2:21 | 2021-12-14 |  |
@@ -224,5 +229,6 @@
 | [Yamasá](https://open.spotify.com/track/5qmRevePYyVzWefMUjcdu3) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Yamasá](https://open.spotify.com/album/0qMYA2SgQ2g3nFuZ2JWnCN) | 2:51 | 2022-10-26 |  |
 | [Yellow Man](https://open.spotify.com/track/49m1O8EMWPKhqw8lIvmU81) | [Ramin Kuliev](https://open.spotify.com/artist/31YH5gJZ2AxYRBhQRIUzaT) | [Yellow Man](https://open.spotify.com/album/6w2UFWXpoVwjLby9A3y3yT) | 3:06 | 2022-05-20 |  |
 | [Your Love](https://open.spotify.com/track/000tG7ZCNMDFLzIxobVSUZ) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Your Love](https://open.spotify.com/album/645jck6JPjVMjb4NwNscBZ) | 2:40 | 2021-12-14 |  |
+| [Ámbar](https://open.spotify.com/track/7gScZspJ5A3DpEY8rWNiO3) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Monteverde](https://open.spotify.com/album/6e1VBFdJxZ1b7wKQCuw5XY) | 2:42 | 2023-03-01 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2300,
+  "num_followers": 2303,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNTA4MywwMDAwMDAwMDEyNTNkNTg3ZTM0ZGZjNTRiYmIyZTdiNTA3YmRhMTNh",
+  "snapshot_id": "MTY3NzIzNTA4MywwMDAwMDAwMDkzZDI1MmYzNjllZGZkODkxMzY2MTA2ZGIyMzhlYzQw",
   "tracks": [
     {
       "added_at": "2023-02-16 06:45:07",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-02-16 06:45:07",
       "album": {
-        "name": "Unlock My Boss, Pt. 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7fc4t7MRmxZkQWxPHjVoHh"
-      },
-      "artists": [
-        {
-          "name": "WOO JEE WON",
-          "url": "https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU"
-        }
-      ],
-      "duration_ms": 241259,
-      "name": "Am I living like a dream?",
-      "url": "https://open.spotify.com/track/4mOf7FNqxwLer8Skri59Li"
-    },
-    {
-      "added_at": "2023-02-16 06:45:07",
-      "album": {
         "name": "How To Love (Feat.Paul Kim)",
         "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 180000,
       "name": "How To Love (Feat.Paul Kim)",
       "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
+    },
+    {
+      "added_at": "2023-02-16 06:45:07",
+      "album": {
+        "name": "Unlock My Boss, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7fc4t7MRmxZkQWxPHjVoHh"
+      },
+      "artists": [
+        {
+          "name": "WOO JEE WON",
+          "url": "https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU"
+        }
+      ],
+      "duration_ms": 241259,
+      "name": "Am I living like a dream?",
+      "url": "https://open.spotify.com/track/4mOf7FNqxwLer8Skri59Li"
     },
     {
       "added_at": "2023-02-16 06:45:07",
@@ -391,6 +391,22 @@
       "duration_ms": 282118,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
+    },
+    {
+      "added_at": "2023-02-16 06:45:07",
+      "album": {
+        "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
+      },
+      "artists": [
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
     },
     {
       "added_at": "2023-02-16 06:45:07",
@@ -431,38 +447,6 @@
     {
       "added_at": "2023-02-16 06:45:07",
       "album": {
-        "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
-      },
-      "artists": [
-        {
-          "name": "SEOLA",
-          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
-    },
-    {
-      "added_at": "2023-02-16 06:45:07",
-      "album": {
-        "name": "How many nights should far away more",
-        "url": "https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc"
-      },
-      "artists": [
-        {
-          "name": "Shin Sae Byeok",
-          "url": "https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "How many nights should far away more",
-      "url": "https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX"
-    },
-    {
-      "added_at": "2023-02-16 06:45:07",
-      "album": {
         "name": "\ube59\uadf8\ub808",
         "url": "https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU"
       },
@@ -483,22 +467,18 @@
     {
       "added_at": "2023-02-16 06:45:07",
       "album": {
-        "name": "Sool",
-        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
+        "name": "How many nights should far away more",
+        "url": "https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc"
       },
       "artists": [
         {
-          "name": "snzae",
-          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
-        },
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+          "name": "Shin Sae Byeok",
+          "url": "https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0"
         }
       ],
-      "duration_ms": 230560,
-      "name": "Sool (Feat. THAMA)",
-      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
+      "duration_ms": 226240,
+      "name": "How many nights should far away more",
+      "url": "https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX"
     },
     {
       "added_at": "2023-02-16 06:45:07",
@@ -515,6 +495,26 @@
       "duration_ms": 200826,
       "name": "MERRY GO ROUND",
       "url": "https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv"
+    },
+    {
+      "added_at": "2023-02-16 06:45:07",
+      "album": {
+        "name": "Sool",
+        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
+      },
+      "artists": [
+        {
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Sool (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
       "added_at": "2023-02-16 06:45:07",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-02-16 06:45:07",
       "album": {
+        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
+      },
+      "artists": [
+        {
+          "name": "Hwang Inhyeock",
+          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
+        }
+      ],
+      "duration_ms": 254186,
+      "name": "I Will Remember You",
+      "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
+    },
+    {
+      "added_at": "2023-02-16 06:45:07",
+      "album": {
         "name": "YOU (feat .Beenzino)",
         "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2023-02-16 06:45:07",
       "album": {
-        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uc9c0\uc6d0",
-          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
-        }
-      ],
-      "duration_ms": 203386,
-      "name": "Cloud",
-      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
-    },
-    {
-      "added_at": "2023-02-16 06:45:07",
-      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-02-16 06:45:07",
       "album": {
+        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uc9c0\uc6d0",
+          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
+        }
+      ],
+      "duration_ms": 203386,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
+    },
+    {
+      "added_at": "2023-02-16 06:45:07",
+      "album": {
         "name": "The Blowing",
         "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 197720,
       "name": "Surf",
       "url": "https://open.spotify.com/track/1bdwAw470DRWXrDP6Ktxk5"
-    },
-    {
-      "added_at": "2023-02-16 06:45:07",
-      "album": {
-        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
-      },
-      "artists": [
-        {
-          "name": "Hwang Inhyeock",
-          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
-        }
-      ],
-      "duration_ms": 254186,
-      "name": "I Will Remember You",
-      "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
     },
     {
       "added_at": "2023-02-16 06:45:07",

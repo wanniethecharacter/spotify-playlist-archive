@@ -1,13 +1,29 @@
 {
-  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Superstar Pride",
-  "num_followers": 202721,
+  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: BreezyLYN",
+  "num_followers": 202846,
   "original_name": "Fresh Finds: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwNzI1OCwwMDAwMDAwMDMzYjEyOTQwMjRjZDM5ZTM2M2JjNzhlNDQ2MWEzN2Yw",
+  "snapshot_id": "MTY3NzY5MDAwMCwwMDAwMDAwMDdmZTMzN2E4NjI0NjY1OGM5Y2YwYTE4YjU0ZTBhZGE4",
   "tracks": [
+    {
+      "added_at": "2023-02-22 17:00:00",
+      "album": {
+        "name": "BAD BITCHES",
+        "url": "https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W"
+      },
+      "artists": [
+        {
+          "name": "BreezyLYN",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+        }
+      ],
+      "duration_ms": 129619,
+      "name": "BAD BITCHES",
+      "url": "https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4"
+    },
     {
       "added_at": "2023-02-22 17:00:00",
       "album": {
@@ -25,24 +41,40 @@
       "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
     },
     {
-      "added_at": "2023-02-22 17:00:00",
+      "added_at": "2023-03-01 17:00:00",
       "album": {
-        "name": "Gift Of The Ghetto",
-        "url": "https://open.spotify.com/album/3lr8MX7RXraKBsQjxxEDBc"
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/3W98a1ODzyIZ048YGUYM2Q"
       },
       "artists": [
         {
-          "name": "Lil Darius",
-          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+          "name": "Jelly",
+          "url": "https://open.spotify.com/artist/6Jb1lWkhG604r5Ly1HCfvh"
         },
         {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+          "name": "Notta Wrd",
+          "url": "https://open.spotify.com/artist/1ffvNCCukqimbBPtJzHMTs"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Chedda Cheese (feat. Babyface Ray)",
-      "url": "https://open.spotify.com/track/05a0oCC4u0uIwtHf2xgYGM"
+      "duration_ms": 99709,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/1IV6iZ3OzhRgcosTrW7uXI"
+    },
+    {
+      "added_at": "2023-03-01 17:00:00",
+      "album": {
+        "name": "Don Lemon",
+        "url": "https://open.spotify.com/album/0xEgjYr2xDO6VYODAJkyfr"
+      },
+      "artists": [
+        {
+          "name": "Yoza",
+          "url": "https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT"
+        }
+      ],
+      "duration_ms": 146413,
+      "name": "Don Lemon",
+      "url": "https://open.spotify.com/track/0CMynrZC5yzBNcx1yO2Whs"
     },
     {
       "added_at": "2023-02-22 17:00:00",
@@ -77,6 +109,22 @@
       "url": "https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD"
     },
     {
+      "added_at": "2023-03-01 17:00:00",
+      "album": {
+        "name": "It's Not You, It's Me",
+        "url": "https://open.spotify.com/album/3vLCn4H68dyNpLhF3xgIFV"
+      },
+      "artists": [
+        {
+          "name": "Coach Tev",
+          "url": "https://open.spotify.com/artist/51nmCCHes2y60eOYg1D1Jx"
+        }
+      ],
+      "duration_ms": 192116,
+      "name": "Dance On Me",
+      "url": "https://open.spotify.com/track/0lO6UXUZ6yyN9B24B5bbYd"
+    },
+    {
       "added_at": "2023-02-22 23:07:38",
       "album": {
         "name": "Dawson's Creek",
@@ -97,20 +145,20 @@
       "url": "https://open.spotify.com/track/4J8kPd5rTr6KpcWhPcj3Ij"
     },
     {
-      "added_at": "2023-02-22 17:00:00",
+      "added_at": "2023-03-01 17:00:00",
       "album": {
-        "name": "This Is Why You Shouldn't Do Drugs",
-        "url": "https://open.spotify.com/album/7vqqJ4x520tM6sC1mFD7Ul"
+        "name": "Rockin' & Rollin",
+        "url": "https://open.spotify.com/album/4C1Bcy0lQFUH2jVOthpeXY"
       },
       "artists": [
         {
-          "name": "Cocanina",
-          "url": "https://open.spotify.com/artist/6Jwx0B8JhSuBMy5ZBz7GIk"
+          "name": "SheedTs",
+          "url": "https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ"
         }
       ],
-      "duration_ms": 135881,
-      "name": "This Is Why You Shouldn't Do Drugs",
-      "url": "https://open.spotify.com/track/1KAsGLVdOWY6nxL1pNN0Xd"
+      "duration_ms": 132413,
+      "name": "Rockin' & Rollin",
+      "url": "https://open.spotify.com/track/4U8PK5lwaOTMITmRlsH15n"
     },
     {
       "added_at": "2023-02-22 17:00:00",
@@ -127,6 +175,26 @@
       "duration_ms": 107329,
       "name": "Mode",
       "url": "https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ"
+    },
+    {
+      "added_at": "2023-02-22 17:00:00",
+      "album": {
+        "name": "Gift Of The Ghetto",
+        "url": "https://open.spotify.com/album/3lr8MX7RXraKBsQjxxEDBc"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Chedda Cheese (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/05a0oCC4u0uIwtHf2xgYGM"
     },
     {
       "added_at": "2023-02-22 17:00:00",
@@ -167,18 +235,50 @@
     {
       "added_at": "2023-02-22 17:00:00",
       "album": {
-        "name": "Scholarships",
-        "url": "https://open.spotify.com/album/4OYuyuTU9iD9kUBXmtmVeq"
+        "name": "THE BOOK OF ENOCH",
+        "url": "https://open.spotify.com/album/4HUGjaDcWNBQjMgMSCWKXo"
       },
       "artists": [
         {
-          "name": "Dominique",
-          "url": "https://open.spotify.com/artist/0HEDkFaeylE7P6ntTi74aJ"
+          "name": "Armani Jordan",
+          "url": "https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR"
         }
       ],
-      "duration_ms": 140800,
-      "name": "Scholarships",
-      "url": "https://open.spotify.com/track/40Le5OkLnE80qyPeB8cTXw"
+      "duration_ms": 149446,
+      "name": "THE BOOK OF ENOCH",
+      "url": "https://open.spotify.com/track/038prP9D2SiSkE3RiDmkwa"
+    },
+    {
+      "added_at": "2023-03-01 17:00:00",
+      "album": {
+        "name": "Dancing In The Rain Love",
+        "url": "https://open.spotify.com/album/7LAd4f5v4GR7nvCfXfiZda"
+      },
+      "artists": [
+        {
+          "name": "CASSO",
+          "url": "https://open.spotify.com/artist/7dHCVmzPtG2SUUvMwLNPQB"
+        }
+      ],
+      "duration_ms": 173510,
+      "name": "Dancing In The Rain Love",
+      "url": "https://open.spotify.com/track/3yYo9G7amMqLfzVoIrpHk0"
+    },
+    {
+      "added_at": "2023-03-01 17:00:00",
+      "album": {
+        "name": "before the sunset",
+        "url": "https://open.spotify.com/album/7yBmQJ8URZIoE4Fr1wVdmr"
+      },
+      "artists": [
+        {
+          "name": "Seth Sutch",
+          "url": "https://open.spotify.com/artist/2znMo5vYA8FuOuCZ1V8uXt"
+        }
+      ],
+      "duration_ms": 151543,
+      "name": "before the sunset",
+      "url": "https://open.spotify.com/track/6Sl8ZFkYXI2oYXHeHjo0gy"
     },
     {
       "added_at": "2023-02-22 17:00:00",
@@ -201,36 +301,20 @@
       "url": "https://open.spotify.com/track/3JbUSy1PDFY7ZeK4IRqxUv"
     },
     {
-      "added_at": "2023-02-22 17:00:00",
+      "added_at": "2023-03-01 17:00:00",
       "album": {
-        "name": "THE BOOK OF ENOCH",
-        "url": "https://open.spotify.com/album/4HUGjaDcWNBQjMgMSCWKXo"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/56kAFh4wODx0dL3GwWV4Vi"
       },
       "artists": [
         {
-          "name": "Armani Jordan",
-          "url": "https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR"
+          "name": "JoeLew",
+          "url": "https://open.spotify.com/artist/3NhCLsIR8nOpw7xoCqkwUD"
         }
       ],
-      "duration_ms": 149446,
-      "name": "THE BOOK OF ENOCH",
-      "url": "https://open.spotify.com/track/038prP9D2SiSkE3RiDmkwa"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
-        "name": "I Ain't Going Lie",
-        "url": "https://open.spotify.com/album/3VT1FKvrbCv2FHIu5SdTCs"
-      },
-      "artists": [
-        {
-          "name": "MoneyMarr",
-          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
-        }
-      ],
-      "duration_ms": 133511,
-      "name": "I Ain't Going Lie",
-      "url": "https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ"
+      "duration_ms": 200773,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/5JOlpRKAaFHgbVyihSuEBo"
     },
     {
       "added_at": "2023-02-22 23:07:38",
@@ -303,6 +387,22 @@
     {
       "added_at": "2023-02-22 17:00:00",
       "album": {
+        "name": "I Ain't Going Lie",
+        "url": "https://open.spotify.com/album/3VT1FKvrbCv2FHIu5SdTCs"
+      },
+      "artists": [
+        {
+          "name": "MoneyMarr",
+          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
+        }
+      ],
+      "duration_ms": 133511,
+      "name": "I Ain't Going Lie",
+      "url": "https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ"
+    },
+    {
+      "added_at": "2023-02-22 17:00:00",
+      "album": {
         "name": "Not Done",
         "url": "https://open.spotify.com/album/00UOEFTRkKG1nvtD5Gh0pC"
       },
@@ -315,6 +415,38 @@
       "duration_ms": 156000,
       "name": "Not Done",
       "url": "https://open.spotify.com/track/3CIbNHRrvqjgmWBCKe7bb8"
+    },
+    {
+      "added_at": "2023-02-22 17:00:00",
+      "album": {
+        "name": "This Is Why You Shouldn't Do Drugs",
+        "url": "https://open.spotify.com/album/7vqqJ4x520tM6sC1mFD7Ul"
+      },
+      "artists": [
+        {
+          "name": "Cocanina",
+          "url": "https://open.spotify.com/artist/6Jwx0B8JhSuBMy5ZBz7GIk"
+        }
+      ],
+      "duration_ms": 135881,
+      "name": "This Is Why You Shouldn't Do Drugs",
+      "url": "https://open.spotify.com/track/1KAsGLVdOWY6nxL1pNN0Xd"
+    },
+    {
+      "added_at": "2023-02-22 17:00:00",
+      "album": {
+        "name": "Scholarships",
+        "url": "https://open.spotify.com/album/4OYuyuTU9iD9kUBXmtmVeq"
+      },
+      "artists": [
+        {
+          "name": "Dominique",
+          "url": "https://open.spotify.com/artist/0HEDkFaeylE7P6ntTi74aJ"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Scholarships",
+      "url": "https://open.spotify.com/track/40Le5OkLnE80qyPeB8cTXw"
     },
     {
       "added_at": "2023-02-22 17:00:00",
@@ -385,6 +517,26 @@
       "url": "https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T"
     },
     {
+      "added_at": "2023-03-01 17:00:00",
+      "album": {
+        "name": "Danger - Jersey Club (Remix)",
+        "url": "https://open.spotify.com/album/5miOht0S6eRmvNx5KMXoMi"
+      },
+      "artists": [
+        {
+          "name": "Jourdin Pauline",
+          "url": "https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk"
+        },
+        {
+          "name": "DJ SMALLZ 732",
+          "url": "https://open.spotify.com/artist/07Qh4jqt5TL0mWm3tERxDR"
+        }
+      ],
+      "duration_ms": 93800,
+      "name": "Danger - Jersey Club - Remix",
+      "url": "https://open.spotify.com/track/6CnPjdQqENmUlgDSbOuqeZ"
+    },
+    {
       "added_at": "2023-02-22 17:00:00",
       "album": {
         "name": "Did It Again",
@@ -419,22 +571,6 @@
       "duration_ms": 126720,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4bjAZhQQAsanXd6VGMmydN"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
-        "name": "BAD BITCHES",
-        "url": "https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W"
-      },
-      "artists": [
-        {
-          "name": "BreezyLYN",
-          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
-        }
-      ],
-      "duration_ms": 129619,
-      "name": "BAD BITCHES",
-      "url": "https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4"
     },
     {
       "added_at": "2023-02-22 17:00:00",

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: LUIS, TYM
 
-692 songs - 1 day 9 hr 20 min
+693 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [lost](https://open.spotify.com/track/38UXs833I3BFuLT9Sq31KZ) | [Apollo Sissi](https://open.spotify.com/artist/3rx1CQwe0iyA3d2q1renfJ) | [lost](https://open.spotify.com/album/5fhETrRmzcp29kd6ey26EW) | 2:13 | 2023-02-23 |  |
 | [Love](https://open.spotify.com/track/5WtdIBUOGNdslIPwPAjHUW) | [Ctill](https://open.spotify.com/artist/47diE7gubS7rniBjkHsQPY) | [Love](https://open.spotify.com/album/4XqiYJLPxRFWfO0thNCgLl) | 3:02 | 2023-01-16 | 2023-01-23 |
 | [Love \- Remix](https://open.spotify.com/track/5f5C2gkvXy16MbQwEYZeYS) | [kevoxx](https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9) | [Love \- Remix](https://open.spotify.com/album/0QPSUf5dmhOGbvsnJ6uEsn) | 3:02 | 2023-01-26 | 2023-02-15 |
-| [Love \- Remix](https://open.spotify.com/track/3ftLcyt5pQA4Z3paDbI6wB) | [NVBR](https://open.spotify.com/artist/2SK1xoft5PyuLAxTjK9RVe) | [Love \- Remix](https://open.spotify.com/album/4YO6PeUBpVc9pI8d68q21r) | 3:02 | 2023-02-13 |  |
+| [Love \- Remix](https://open.spotify.com/track/3ftLcyt5pQA4Z3paDbI6wB) | [NVBR](https://open.spotify.com/artist/2SK1xoft5PyuLAxTjK9RVe) | [Love \- Remix](https://open.spotify.com/album/4YO6PeUBpVc9pI8d68q21r) | 3:02 | 2023-02-13 | 2023-03-02 |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-26 |  |
 | [Love Shots](https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Love Shots](https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD) | 1:50 | 2022-09-01 | 2022-12-02 |
 | [Lucky Luke](https://open.spotify.com/track/4ej3FXhGM9CVjvS4tJ2gtk) | [OTPendia](https://open.spotify.com/artist/0xUNWefnIKxk31Qhg634BY), [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi), [Cany75](https://open.spotify.com/artist/25J0KcLLMB0IucsDJ4LocD), [OT](https://open.spotify.com/artist/122hwG9HcBJitZseVPce5T) | [Lucky Luke](https://open.spotify.com/album/5wcAF1i1PpvDvcauhMWUUg) | 2:44 | 2023-01-06 |  |
@@ -409,6 +409,7 @@
 | [My All](https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [My All](https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg) | 3:17 | 2022-12-08 | 2023-01-10 |
 | [My G \(feat\. Ed Sheeran\)](https://open.spotify.com/track/6Iqz3QB6zSdn1N61acinau) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Close To Home](https://open.spotify.com/album/4ZBwKt9Zp3MF9iqqa9Z01R) | 3:18 | 2022-08-18 | 2022-09-02 |
 | [My Love](https://open.spotify.com/track/1z3WPf2k1yRyWtZLjVvRzV) | [Ctill](https://open.spotify.com/artist/47diE7gubS7rniBjkHsQPY) | [My Love](https://open.spotify.com/album/3UsBjs22X6tMtgSUMhaT0V) | 3:02 | 2023-01-05 | 2023-01-17 |
+| [My Love](https://open.spotify.com/track/5X0PDEd9BQIMrVPBeVQvS0) | [Lil\-K](https://open.spotify.com/artist/79hts1H3bhswabKZPnX9jB) | [My Love](https://open.spotify.com/album/0ptwsotnVJ0o53NHutCREC) | 3:02 | 2023-02-24 |  |
 | [My Love](https://open.spotify.com/track/66qwuwSNqWrN31ZdPpLnmq) | [Reld Aurel](https://open.spotify.com/artist/47sh7ffaC7eOWDHWZJDm1b) | [My Love](https://open.spotify.com/album/107Wr2BVfkMihKvG2NgizY) | 3:02 | 2023-01-16 | 2023-01-19 |
 | [My Love \(feat\. T.I.\)](https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 4:36 | 2022-06-09 | 2022-07-14 |
 | [müde](https://open.spotify.com/track/71I89sp3uzWIWq9BGHZQTv) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [müde](https://open.spotify.com/album/4MAkTfejQZEuVORff0WeYF) | 3:25 | 2022-07-21 | 2022-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Huh\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,332 likes - 109 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,367 likes - 109 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

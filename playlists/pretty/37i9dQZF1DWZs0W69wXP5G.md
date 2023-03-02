@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover: Jennifer Hudson
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,837 likes - 82 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,857 likes - 82 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 60 | [You Will Be Found \(with Summer Walker\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [You Will Be Found \(with Summer Walker\) \[From The “Dear Evan Hansen” Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf) | 3:57 |
 | 61 | [Wicked Medley](https://open.spotify.com/track/2HKBDRRBt8NPX5wjrV5q64) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Wicked Medley](https://open.spotify.com/album/3RUeqc8x6uzYsEsLOxlf2B) | 3:11 |
 | 62 | [You’re Not Here](https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 5:14 |
-| 63 | [The Least](https://open.spotify.com/track/2nlvhe6y2NMYhNcEy6SFDl) | [Shaina Taub](https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA) | [The Least](https://open.spotify.com/album/6bLKcMg4Be8TmJprOjQXRE) | 2:20 |
+| 63 | [The Least](https://open.spotify.com/track/1yuHXM3jAS4Te3o1qrXAY2) | [Shaina Taub](https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA) | [Songs of the Great Hill](https://open.spotify.com/album/0sxZZDmsx0ih796gVVrA19) | 2:20 |
 | 64 | [Nose to Nose](https://open.spotify.com/track/7vczAHzfnUqcsRcUbHKZKW) | [Laura Dreyfuss](https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK) | [Nose to Nose](https://open.spotify.com/album/3dSzXQev0iDG85clMukCok) | 3:31 |
 | 65 | [One Thing](https://open.spotify.com/track/6mfOySZI3Bw3g3pKw2itvo) | [36 Questions](https://open.spotify.com/artist/1lZ55BBi0fylEBR9qOFk2x), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Jessie Shelton](https://open.spotify.com/artist/2fpFaqhr6d1JZ47hlYuIcs) | [36 Questions: The Deluxe Album](https://open.spotify.com/album/7aIu3t8kD1qCud2uMO2wd7) | 4:38 |
 | 66 | [Here I Am \(Singing My Way Home\)](https://open.spotify.com/track/6wLJiRkrSbqPzbNnrKSYNX) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [RESPECT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EzytFSc1iJY6DjHR6fUMm) | 5:14 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 81 | [Only Us \(with Dan + Shay\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Only Us \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF) | 3:45 |
 | 82 | [New York Lonely Boy](https://open.spotify.com/track/21LzxdHPxlWGdcUH6FfBow) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Girls5eva \(Music From The Peacock Original Series\)](https://open.spotify.com/album/6IxbJg2NoDKjxxza4uJjgU) | 2:34 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGRhNDc3NWFjNWI1MDU3M2FhZWZkYzk5YzM0NWJkYzZl`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDk2YWY4MjRmMWRmNGFlOWYyMWVkYzQxZjg4ZWUyOTk3`

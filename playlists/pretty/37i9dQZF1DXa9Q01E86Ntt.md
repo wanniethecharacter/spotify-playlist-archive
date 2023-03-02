@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,091 likes - 62 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,144 likes - 62 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 53 | [A Word I Give \(with Ryuichi Sakamoto\)](https://open.spotify.com/track/1zANV84VJJnsxaHZzvh4IY) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Sometimes](https://open.spotify.com/album/0RcwBD2P5YubxRUpeKezTF) | 3:26 |
 | 54 | [Happy End](https://open.spotify.com/track/1t0wA9xkyYZnlPuT6x0cJE) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Judy Kang](https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR) | [THREE](https://open.spotify.com/album/2vxrJgwfpt0sHQtDhSXjpc) | 5:23 |
 | 55 | [Where Is Armo?](https://open.spotify.com/track/65PCR0u8UN3dSWaYjad1hC) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Last Emperor Original Soundtrack](https://open.spotify.com/album/70iCI16xKlhPlJJT7OIKGH) | 2:26 |
-| 56 | [Tema Para Ana](https://open.spotify.com/track/6OTEPWnWVOmuwHf1153i1F) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Paula Morelenbaum](https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Casa](https://open.spotify.com/album/3thtQaXOtMWoEKx8MTmFNM) | 2:07 |
+| 56 | [TEMA PARA ANA \- Instrumental](https://open.spotify.com/track/75OOVMUQxu2A25n8Ki5sLQ) | [Morelenbaum2](https://open.spotify.com/artist/0nPijYv2uVkfstvYBZ7QnZ), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [CASA](https://open.spotify.com/album/6wYXK1d4dK8oXwWd78flt2) | 2:07 |
 | 57 | [LIFE, LIFE](https://open.spotify.com/track/7npQjukEKQQYiqSWtqeCvW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:23 |
 | 58 | [変革の世紀 \- ピアノ・ソロ](https://open.spotify.com/track/6LVZrwMtVshH2x4gad9jTf) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [変革の世紀](https://open.spotify.com/album/3GEighWZunz7IbtsiVWd16) | 3:22 |
 | 59 | [TIBETAN DANCE](https://open.spotify.com/track/4AbkIYykiZVzWbQaUCdloT) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Ongaku Zukan \-2015 Edition\-](https://open.spotify.com/album/2CI4X2v5UpNLxh6RFpspHR) | 5:03 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 61 | [WORLD CITIZEN \-I won't be disappointed\- \- short version](https://open.spotify.com/track/5YeWWr0tzI9hzhLPE2PMjd) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [WORLD CITIZEN \-I won't be disappointed\-](https://open.spotify.com/album/5fSg0GYR6LRi33k9eg0iUM) | 3:47 |
 | 62 | [oxygen \- from "Exception" Soundtrack](https://open.spotify.com/track/3EhgZBz3LPFtR8L6pSKPvK) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Exception \(Soundtrack from the Netflix Anime Series\)](https://open.spotify.com/album/4ToOQ4ZlOLxWKPHqDg3WlJ) | 3:48 |
 
-Snapshot ID: `MTY3Mzk2ODE4OSwwMDAwMDAwMDNiZjIyNmIxZmFjODY0ZmYzODM4MTVjMGFlZTNjN2U2`
+Snapshot ID: `MTY3Mzk2ODE4OSwwMDAwMDAwMGFjNTgyMDdmNjZiMDdjZDFlNTBlMzZjNzc1ZTkyNjAz`

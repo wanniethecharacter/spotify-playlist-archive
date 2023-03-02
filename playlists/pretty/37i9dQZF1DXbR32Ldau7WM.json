@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: \u304f\u308b\u308a",
-  "num_followers": 250854,
+  "num_followers": 250935,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5NjQwMCwwMDAwMDAwMDQzZTUyNGQ1YTk3OTNlN2MwYWQ4NjkwOWIzNzA2OTcz",
+  "snapshot_id": "MTY3NzU5NjQwMCwwMDAwMDAwMDNkNTA3ZmMwODQ1NzBjOTMxNjI3MDNmMjgzOTkwMWE0",
   "tracks": [
     {
       "added_at": "2023-02-28 15:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Nonnegative",
-        "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
+        "name": "Fantasista",
+        "url": "https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6"
       },
       "artists": [
         {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
         }
       ],
-      "duration_ms": 233678,
-      "name": "From Today",
-      "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
+      "duration_ms": 272333,
+      "name": "Fantasista",
+      "url": "https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "kaleido proud fiesta",
-        "url": "https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p"
+        "name": "Nonnegative",
+        "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
       },
       "artists": [
         {
-          "name": "UNISON SQUARE GARDEN",
-          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
         }
       ],
-      "duration_ms": 222666,
-      "name": "kaleido proud fiesta",
-      "url": "https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3"
+      "duration_ms": 233678,
+      "name": "From Today",
+      "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Fantasista",
-        "url": "https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6"
+        "name": "kaleido proud fiesta",
+        "url": "https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p"
       },
       "artists": [
         {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
         }
       ],
-      "duration_ms": 272333,
-      "name": "Fantasista",
-      "url": "https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ"
+      "duration_ms": 222666,
+      "name": "kaleido proud fiesta",
+      "url": "https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -427,8 +427,8 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "\u541b\u306b\u4f1a\u3044\u305f\u3044\u3093\u3060\u3001\u3068\u3066\u3082",
-        "url": "https://open.spotify.com/album/4CrzCrLZfXA83j0PUpgWi6"
+        "name": "I Want to See You So Badly",
+        "url": "https://open.spotify.com/album/5AvOgLo5tbPdTxwO1OYB00"
       },
       "artists": [
         {
@@ -441,8 +441,8 @@
         }
       ],
       "duration_ms": 124493,
-      "name": "\u3054\u3089\u3093",
-      "url": "https://open.spotify.com/track/3QgiKtomG9JIt3U4hljXJU"
+      "name": "What a View",
+      "url": "https://open.spotify.com/track/4xeDgkZZMm7e42KRhgynhe"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
+        "name": "Memorable",
+        "url": "https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "duration_ms": 193965,
+      "name": "Memorable",
+      "url": "https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
         "name": "\u9cf4\u308a\u97ff\u304f\u9650\u308a",
         "url": "https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND"
       },
@@ -607,34 +623,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Memorable",
-        "url": "https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o"
+        "name": "More Than Words",
+        "url": "https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC"
       },
       "artists": [
         {
-          "name": "BAND-MAID",
-          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
         }
       ],
-      "duration_ms": 193965,
-      "name": "Memorable",
-      "url": "https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv"
+      "duration_ms": 230542,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -659,18 +659,34 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "More Than Words",
-        "url": "https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC"
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5"
       },
       "artists": [
         {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 230542,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
+      "duration_ms": 219146,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL"
+      },
+      "artists": [
+        {
+          "name": "ACIDMAN",
+          "url": "https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn"
+        }
+      ],
+      "duration_ms": 221700,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -711,18 +727,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL"
+        "name": "\u51ac\u30ce\u9053\u30ce\u30bb\u30a4",
+        "url": "https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs"
       },
       "artists": [
         {
-          "name": "ACIDMAN",
-          "url": "https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn"
+          "name": "Straightener",
+          "url": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG"
         }
       ],
-      "duration_ms": 221700,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3"
+      "duration_ms": 271666,
+      "name": "\u51ac\u30ce\u9053\u30ce\u30bb\u30a4",
+      "url": "https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -743,6 +759,22 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
+        "name": "Blaze",
+        "url": "https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "duration_ms": 219360,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
         "name": "Adapt",
         "url": "https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4"
       },
@@ -755,22 +787,6 @@
       "duration_ms": 250000,
       "name": "Tsuki no Wan",
       "url": "https://open.spotify.com/track/29QmgPpVOUTZq8sQbobcku"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
-        "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
-        "url": "https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 189786,
-      "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
-      "url": "https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -791,34 +807,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "\u30c9\u30ec\u30df",
-        "url": "https://open.spotify.com/album/4m3Zz5ajxf9evbVOLySDc8"
+        "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
+        "url": "https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT"
       },
       "artists": [
         {
-          "name": "the dresscodes",
-          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 247952,
-      "name": "\u30c9\u30ec\u30df",
-      "url": "https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
-        "name": "Blaze",
-        "url": "https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 219360,
-      "name": "Blaze",
-      "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
+      "duration_ms": 189786,
+      "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
+      "url": "https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH"
     }
   ],
   "unique_name": "Big in Japan",

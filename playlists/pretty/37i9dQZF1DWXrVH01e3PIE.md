@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Tiago PZK en la casa del Trap de Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,582 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,720 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 96 | [Humilde pero Cotizado](https://open.spotify.com/track/4K8LtrJP6kxbwuTvSqpQCf) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv) | [Humilde pero Cotizado](https://open.spotify.com/album/7jw0BTiz0RRFnjUomw562e) | 2:42 |
 | 97 | [TNT](https://open.spotify.com/track/4ld82JEAVNp87NWWslgPJc) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [PUNKDEMIA](https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f) | 3:51 |
 | 98 | [Bipolar](https://open.spotify.com/track/2QSTNCW51cpgyFqahUxNGe) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Bipolar](https://open.spotify.com/album/02RWaSaZZUXVeVH5MqDQ7i) | 3:01 |
-| 99 | [Rompediscoteka](https://open.spotify.com/track/5IdLmgNH1r8QQbELC1GueB) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Rompediscoteka](https://open.spotify.com/album/22pOSKsw95pibnK4OZq2Om) | 3:02 |
+| 99 | [ROMPEDISCOTEKA](https://open.spotify.com/track/65pH9RioD4Kw4laCZdWexI) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [ROMPEDISCOTEKA](https://open.spotify.com/album/0vmEOqbr8asBKT1OlmSgNb) | 3:02 |
 | 100 | [Viernes](https://open.spotify.com/track/3pZOWGQSkv4OZTwS8woop1) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT) | [Viernes](https://open.spotify.com/album/6xNmYVIkmTDvY0uZHrJEQt) | 2:49 |
 
-Snapshot ID: `MTY3NzIwNzYwMCwwMDAwMDAwMDFmN2RlYzZmNzljYzZiNjkwYjg5ZmY3ODA0MjQ2ZTFi`
+Snapshot ID: `MTY3NzIwNzYwMCwwMDAwMDAwMDFiNjMyY2U4OTQxZTc5Mzg1Njg5MjJmODBjZDNkYTJl`

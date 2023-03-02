@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Zlatan & Seyi Vibez",
-  "num_followers": 11218,
+  "num_followers": 11251,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDMwN2NiYWViYzIzNzllNjJmZThmN2MwMGIwY2VkOWM0",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDQzZTI3NWU0Nzc3MTAxMDliNGNlMDcwNTBiMWEwNTNh",
   "tracks": [
     {
       "added_at": "2023-02-03 04:43:37",
@@ -613,26 +613,6 @@
       "url": "https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg"
     },
     {
-      "added_at": "2023-02-03 04:43:37",
-      "album": {
-        "name": "Caution (Remix)",
-        "url": "https://open.spotify.com/album/7nbqUtDbv8SvVWmwN2Pqig"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        }
-      ],
-      "duration_ms": 146951,
-      "name": "Caution (Remix)",
-      "url": "https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9"
-    },
-    {
       "added_at": "2023-02-16 23:00:00",
       "album": {
         "name": "Time (Remix)",
@@ -651,6 +631,26 @@
       "duration_ms": 147931,
       "name": "Time - Remix",
       "url": "https://open.spotify.com/track/2ETc95EJp82O8Bbx1MGEAR"
+    },
+    {
+      "added_at": "2023-02-03 04:43:37",
+      "album": {
+        "name": "Caution (Remix)",
+        "url": "https://open.spotify.com/album/7nbqUtDbv8SvVWmwN2Pqig"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        }
+      ],
+      "duration_ms": 146951,
+      "name": "Caution (Remix)",
+      "url": "https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9"
     },
     {
       "added_at": "2023-02-03 04:43:37",
@@ -729,6 +729,26 @@
       "url": "https://open.spotify.com/track/371o3VFIoEDH6crkA42Kxy"
     },
     {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Banga (feat. Portable)",
+        "url": "https://open.spotify.com/album/49wtNf0riNWWlUb3phQcQc"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/2aoXJ2B1v1OEqHGxdv1gEy"
+    },
+    {
       "added_at": "2023-02-03 04:43:37",
       "album": {
         "name": "El Major",
@@ -803,26 +823,6 @@
       "duration_ms": 204031,
       "name": "Say You Bad (Remix)",
       "url": "https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Banga (feat. Portable)",
-        "url": "https://open.spotify.com/album/49wtNf0riNWWlUb3phQcQc"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Portable",
-          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/2aoXJ2B1v1OEqHGxdv1gEy"
     },
     {
       "added_at": "2023-02-03 04:43:37",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-02-03 04:43:37",
       "album": {
-        "name": "Turkey Nla",
-        "url": "https://open.spotify.com/album/4tHC1X4o1r1IXzRFsl7dQd"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Turkey Nla",
-      "url": "https://open.spotify.com/track/0na5iZ3EElnlMiE6Y0SM3P"
-    },
-    {
-      "added_at": "2023-02-03 04:43:37",
-      "album": {
         "name": "If No Be You",
         "url": "https://open.spotify.com/album/36pqojgfTE8oOoHoswOgxW"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 211849,
       "name": "If No Be You",
       "url": "https://open.spotify.com/track/1ZKiX93n8VgK0Gh7iqW9Es"
+    },
+    {
+      "added_at": "2023-02-03 04:43:37",
+      "album": {
+        "name": "Turkey Nla",
+        "url": "https://open.spotify.com/album/4tHC1X4o1r1IXzRFsl7dQd"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Turkey Nla",
+      "url": "https://open.spotify.com/track/0na5iZ3EElnlMiE6Y0SM3P"
     },
     {
       "added_at": "2023-02-03 04:43:37",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-02-03 04:43:37",
       "album": {
-        "name": "SDM (Spray D Money)",
-        "url": "https://open.spotify.com/album/1QS79U7O5ge4udOsFSyl3n"
-      },
-      "artists": [
-        {
-          "name": "Mr Real",
-          "url": "https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 164764,
-      "name": "SDM (Spray D Money)",
-      "url": "https://open.spotify.com/track/3cxKQlFmha1tHfFQ5Br6Ou"
-    },
-    {
-      "added_at": "2023-02-03 04:43:37",
-      "album": {
         "name": "BADDEST",
         "url": "https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 225425,
       "name": "BADDEST",
       "url": "https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx"
+    },
+    {
+      "added_at": "2023-02-03 04:43:37",
+      "album": {
+        "name": "SDM (Spray D Money)",
+        "url": "https://open.spotify.com/album/1QS79U7O5ge4udOsFSyl3n"
+      },
+      "artists": [
+        {
+          "name": "Mr Real",
+          "url": "https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 164764,
+      "name": "SDM (Spray D Money)",
+      "url": "https://open.spotify.com/track/3cxKQlFmha1tHfFQ5Br6Ou"
     },
     {
       "added_at": "2023-02-03 04:43:37",

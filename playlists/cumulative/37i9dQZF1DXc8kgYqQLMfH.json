@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 210731,
       "name": "'99",
       "url": "https://open.spotify.com/track/7JE2ujzBHaZVvtiUtBKQn1"
@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/20RTWWI9KZr76XpsP5mp94"
+      },
+      "artists": [
+        {
+          "name": "Linearwave",
+          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/7qWeJvxs5Ir8aYqRrDUllE"
+    },
+    {
+      "album": {
         "name": "Absinth",
         "url": "https://open.spotify.com/album/4awE5uVPCnR1nZSskH5tch"
       },
@@ -512,7 +530,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 129920,
       "name": "after after hours",
       "url": "https://open.spotify.com/track/4dD5fQxc6WalPeAsp6QI9U"
@@ -646,7 +664,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 164407,
       "name": "Aisuru",
       "url": "https://open.spotify.com/track/1kNRezqPjsOWe4eD5PKFju"
@@ -932,7 +950,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 117901,
       "name": "another LOOK",
       "url": "https://open.spotify.com/track/3ujm2z1mOalAvVyE0yDLbF"
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 235822,
       "name": "Beach Bums",
       "url": "https://open.spotify.com/track/6kBXI5i7TtXvfGo6QbNaQJ"
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 145500,
       "name": "Beats And Beans",
       "url": "https://open.spotify.com/track/0u4KFxbNWmwT7FIEtB0R8Q"
@@ -1624,6 +1642,24 @@
       "duration_ms": 145124,
       "name": "Blue Lagoon",
       "url": "https://open.spotify.com/track/6cV5DZwGqN0kLcrW5QnZqY"
+    },
+    {
+      "album": {
+        "name": "Blue Mountain",
+        "url": "https://open.spotify.com/album/0ocKq0cOVAFwbBYfISICVD"
+      },
+      "artists": [
+        {
+          "name": "Mount Dreamer",
+          "url": "https://open.spotify.com/artist/2pPuDXt6uSj2gGllSLRjnO"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Blue Mountain",
+      "url": "https://open.spotify.com/track/4GWyN3ou7FqaWuyVt82Hf8"
     },
     {
       "album": {
@@ -1978,7 +2014,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 125614,
       "name": "bulb",
       "url": "https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM"
@@ -2112,7 +2148,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 192008,
       "name": "Candy Clouds",
       "url": "https://open.spotify.com/track/0Z4O3yTtmqdLXzCxSX9XPt"
@@ -2638,7 +2674,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 200624,
       "name": "Cold Pillows",
       "url": "https://open.spotify.com/track/6a3UWWhZheDHZMi8hBLKgn"
@@ -2841,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/0176EEPWJGAUTmjeetjYej"
+      },
+      "artists": [
+        {
+          "name": "Sorsele",
+          "url": "https://open.spotify.com/artist/2tTcT2ddh1bHSEsdLjLfpw"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Cooldown",
+      "url": "https://open.spotify.com/track/7F1LFRHNnaAG14SxhRVJ9i"
+    },
+    {
+      "album": {
         "name": "Corduroy",
         "url": "https://open.spotify.com/album/4SLKIYowg7nmsYylxIhWmB"
       },
@@ -2878,6 +2932,24 @@
       "duration_ms": 96750,
       "name": "cosmic",
       "url": "https://open.spotify.com/track/4oYH2FzH0vV1R3Df7MtaLi"
+    },
+    {
+      "album": {
+        "name": "Elephant Soul",
+        "url": "https://open.spotify.com/album/672sDweJIxHJ8hlvd7BwEz"
+      },
+      "artists": [
+        {
+          "name": "L.O.F.I",
+          "url": "https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Cosmos",
+      "url": "https://open.spotify.com/track/00TdtTQPE8qA8wprZHfHLo"
     },
     {
       "album": {
@@ -4202,7 +4274,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 162162,
       "name": "East of the Fields",
       "url": "https://open.spotify.com/track/7MxwkhpH9lAdeE9KkNVPPR"
@@ -5178,7 +5250,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 124376,
       "name": "florida keys",
       "url": "https://open.spotify.com/track/4cGB1bYpm6kvBMUERmaFHl"
@@ -5286,7 +5358,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 96000,
       "name": "Foley",
       "url": "https://open.spotify.com/track/3zF7rEUNOekwcFdspyZ2by"
@@ -5676,7 +5748,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 115339,
       "name": "garden bed",
       "url": "https://open.spotify.com/track/1l52MnASg7swhbLFtBhVJb"
@@ -5857,6 +5929,24 @@
     },
     {
       "album": {
+        "name": "Gravitational Waves",
+        "url": "https://open.spotify.com/album/20FZSE1sdAvI5ZVozUW5fi"
+      },
+      "artists": [
+        {
+          "name": "Mr Muddy",
+          "url": "https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138928,
+      "name": "Gravitational Waves",
+      "url": "https://open.spotify.com/track/6Ox8BL8gsEhQ9uWJtjRped"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/4w0EdRKTU2b6EWS8AOP3ha"
       },
@@ -5922,7 +6012,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 116982,
       "name": "gum base",
       "url": "https://open.spotify.com/track/6LyviQusG58OfxFrffz2qq"
@@ -7202,7 +7292,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 112941,
       "name": "introspection",
       "url": "https://open.spotify.com/track/623oh9a6Vrc4NlUkgPuvvi"
@@ -7724,7 +7814,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 136084,
       "name": "l u s h",
       "url": "https://open.spotify.com/track/4vkHWjfEG7l5gH72po5X6u"
@@ -7988,7 +8078,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 124869,
       "name": "Lego",
       "url": "https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL"
@@ -8473,6 +8563,24 @@
     },
     {
       "album": {
+        "name": "Jazzi Trees",
+        "url": "https://open.spotify.com/album/0Ob7VnPaKXxUDTrAP6Dc9k"
+      },
+      "artists": [
+        {
+          "name": "LelleXCX",
+          "url": "https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118874,
+      "name": "Lost In The Club",
+      "url": "https://open.spotify.com/track/5lGVwkBwlIiUCbFNkxff50"
+    },
+    {
+      "album": {
         "name": "Lost in Time",
         "url": "https://open.spotify.com/album/1gYZeyDHGN5NM1Iqmybuzq"
       },
@@ -8703,6 +8811,24 @@
     },
     {
       "album": {
+        "name": "Low Games",
+        "url": "https://open.spotify.com/album/4O9KYWpLLmC9qXrNo6sjcA"
+      },
+      "artists": [
+        {
+          "name": "Lala Vega & the Rookies",
+          "url": "https://open.spotify.com/artist/3NOwCiCBRXtxSG9xcBi3IR"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Low Games",
+      "url": "https://open.spotify.com/track/4PM6vMw5PXjGqQwgggO6Ay"
+    },
+    {
+      "album": {
         "name": "Low-Key Into You",
         "url": "https://open.spotify.com/album/0h51gXK0Oe3OyfHBt2sgxV"
       },
@@ -8714,7 +8840,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 140571,
       "name": "Low-Key Into You",
       "url": "https://open.spotify.com/track/2z4t24jysAzffGRI99idTW"
@@ -8844,7 +8970,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 88108,
       "name": "luv",
       "url": "https://open.spotify.com/track/21u9dmIolRg8yKgBKd3XGW"
@@ -8996,7 +9122,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 126392,
       "name": "mararun",
       "url": "https://open.spotify.com/track/2nG9Kq8al1Y8CwuikqWXut"
@@ -9306,7 +9432,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 141199,
       "name": "Midnight Heart",
       "url": "https://open.spotify.com/track/1MbYPlwWJJ5xYeBt3Yv186"
@@ -9588,7 +9714,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 141333,
       "name": "Moody Her",
       "url": "https://open.spotify.com/track/7ywoimEb7KMv7gmLQ2xo7O"
@@ -10568,7 +10694,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 136585,
       "name": "no new messages",
       "url": "https://open.spotify.com/track/5ULfgK782GmbzTvb0E3Bf7"
@@ -12232,7 +12358,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 121358,
       "name": "Resistance",
       "url": "https://open.spotify.com/track/0EPGaVpdeFYEEWm77ynjwL"
@@ -12286,7 +12412,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 133736,
       "name": "right now, huh?",
       "url": "https://open.spotify.com/track/3O1LaaHCHuombngwVBOOlE"
@@ -12356,7 +12482,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 137580,
       "name": "roadtrip",
       "url": "https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4"
@@ -13672,7 +13798,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 150836,
       "name": "soft as water",
       "url": "https://open.spotify.com/track/4faneCEP0jeHgrp8N0mLf4"
@@ -13914,7 +14040,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 120750,
       "name": "Squares and Circles",
       "url": "https://open.spotify.com/track/2LHjVBewQoqtWECN4awbV4"
@@ -14330,7 +14456,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 122054,
       "name": "Sundets",
       "url": "https://open.spotify.com/track/1s8KFO2b6qhK94kzCc375G"
@@ -14813,6 +14939,24 @@
     },
     {
       "album": {
+        "name": "The Acme of Elegance",
+        "url": "https://open.spotify.com/album/1blIE7bh65SyQ8eLH6txej"
+      },
+      "artists": [
+        {
+          "name": "Talented Mr Tipsy",
+          "url": "https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "The Acme of Elegance",
+      "url": "https://open.spotify.com/track/5Q6L6mAwPWIDYss2KjqIVq"
+    },
+    {
+      "album": {
         "name": "The Field",
         "url": "https://open.spotify.com/album/0gpCwSea1AT1JaDgKwniFx"
       },
@@ -15042,7 +15186,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 176000,
       "name": "Through the fields",
       "url": "https://open.spotify.com/track/0GyZq3mNQYAPDTWJUVWB4V"
@@ -15782,7 +15926,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 126315,
       "name": "Union Station",
       "url": "https://open.spotify.com/track/4sW9IMneuWCFGj3bZDbDcM"
@@ -15934,7 +16078,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 179154,
       "name": "Veraneo",
       "url": "https://open.spotify.com/track/4cAZWQZLlDXoHGYkTNMt4i"
@@ -16724,7 +16868,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 178285,
       "name": "with you",
       "url": "https://open.spotify.com/track/2FQeoy9i7ZQsFrXEdIq0t3"

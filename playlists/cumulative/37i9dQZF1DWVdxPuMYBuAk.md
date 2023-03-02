@@ -4,7 +4,7 @@
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-114 songs - 6 hr 48 min
+117 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,10 +70,12 @@
 | [In My Head](https://open.spotify.com/track/1MjywBIaDgHK8po7QRwBpV) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:34 | 2022-02-09 |  |
 | [Kill This Love](https://open.spotify.com/track/18PergoIrGmRyeYxnaXJN2) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/7viSsSKXrDa95CtUcuc1Iv) | 3:09 | 2022-02-09 | 2022-07-29 |
 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-02-09 |  |
-| [lift me from the ground](https://open.spotify.com/track/7snnEDYwv30hRtmifVni8P) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [album1](https://open.spotify.com/album/3KHPqtzQKRPKup29xEQWtg) | 4:20 | 2022-02-09 |  |
+| [lift me from the ground](https://open.spotify.com/track/7kZVirTc3V6d4YWtu6RaAu) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [album1](https://open.spotify.com/album/4ng50Mr3rntmZPj89Xshm9) | 4:20 | 2022-02-09 |  |
+| [lift me from the ground](https://open.spotify.com/track/7snnEDYwv30hRtmifVni8P) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [album1](https://open.spotify.com/album/3KHPqtzQKRPKup29xEQWtg) | 4:20 | 2022-02-09 | 2023-03-02 |
 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 | 2022-02-09 |  |
 | [Me and My Mind](https://open.spotify.com/track/2Mjx0U6EzYoY0dCvhxy9aV) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Me and My Mind](https://open.spotify.com/album/2NnZL43g94wi797xEYMSsI) | 3:04 | 2022-02-09 | 2022-07-29 |
-| [Me and My Mind](https://open.spotify.com/track/4QG1X1iG7fevXjaEeGLmBI) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Me and My Mind](https://open.spotify.com/album/09xUbuXHA0Wp7QqHOE1Pdh) | 3:04 | 2022-02-09 |  |
+| [Me and My Mind](https://open.spotify.com/track/4QG1X1iG7fevXjaEeGLmBI) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Me and My Mind](https://open.spotify.com/album/09xUbuXHA0Wp7QqHOE1Pdh) | 3:04 | 2022-02-09 | 2023-03-02 |
+| [Me and My Mind](https://open.spotify.com/track/54VcbKsuJ3875eI8B0OIbq) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Me and My Mind](https://open.spotify.com/album/3c5yEziaKqiTeN8hcaiCCH) | 3:04 | 2022-02-09 |  |
 | [Midnight Sun \(with Ukiyo\)](https://open.spotify.com/track/6DGSMdJtEmxzu8JKjb62xI) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x) | [To All The Boys: P.S\. I Still Love You \(Music From The Netflix Film\)](https://open.spotify.com/album/37QF4ERcZXyv3i4s22akY5) | 3:55 | 2022-02-09 |  |
 | [Midway](https://open.spotify.com/track/4RFQqoOFw0pdropkjrPnh3) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Psychic Reader](https://open.spotify.com/album/5klZj0GbathSjaZZBD2Qxm) | 3:04 | 2022-02-09 |  |
 | [Moral of the Story](https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story](https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP) | 3:21 | 2022-02-09 |  |
@@ -106,7 +108,8 @@
 | [Until We Leave the Ground](https://open.spotify.com/track/0Y2BB9NaHf1afyCuwBVTUW) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 2:57 | 2022-02-09 | 2022-07-29 |
 | [Until We Leave the Ground](https://open.spotify.com/track/1oRUR4mnq1aRwAKD6ONelx) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ) | 3:00 | 2022-02-09 |  |
 | [Until We Leave the Ground](https://open.spotify.com/track/2U5GoyOx5r93PzP1xbji9V) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/596mgQppymQJnhfphd3RJP) | 3:00 | 2022-02-09 | 2022-10-13 |
-| [Video Child](https://open.spotify.com/track/5MBKDKheLzcGoRYGWpFNNg) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1cRf3YRjE0pm48CNQC6eCr) | 5:00 | 2022-02-09 |  |
+| [Video Child](https://open.spotify.com/track/4kpRLUBWg4GSNlfmWuMil7) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1nvh4GtBzBIidFQyXaEDOz) | 5:00 | 2022-02-09 |  |
+| [Video Child](https://open.spotify.com/track/5MBKDKheLzcGoRYGWpFNNg) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1cRf3YRjE0pm48CNQC6eCr) | 5:00 | 2022-02-09 | 2023-03-02 |
 | [Video Child](https://open.spotify.com/track/6XRJPmdCErAaOEraEuvsuQ) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1BKijwhYBjOXRwdQ1Iv5Fr) | 5:00 | 2022-02-09 | 2022-07-29 |
 | [Wannabe](https://open.spotify.com/track/1TYmnAWxFBttuHzwZZt2nQ) | [Sandflower](https://open.spotify.com/artist/2frKv3a39gzx9Ppx8UGVKR) | [Wannabe](https://open.spotify.com/album/7JRCylMpB4AEmofvQX5TDx) | 3:17 | 2022-02-09 |  |
 | [Wannabe](https://open.spotify.com/track/7aywhUmrzk9186azjE49Ar) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 2:53 | 2022-02-09 |  |

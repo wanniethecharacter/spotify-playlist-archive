@@ -699,6 +699,24 @@
     },
     {
       "album": {
+        "name": "Catching Feelings",
+        "url": "https://open.spotify.com/album/12uiINa1SNssVPOXdYXXqq"
+      },
+      "artists": [
+        {
+          "name": "VERB",
+          "url": "https://open.spotify.com/artist/1pRjBwChdQFuoYH6NiI3pe"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "Catching Feelings",
+      "url": "https://open.spotify.com/track/31nf4tcEQwkjhWtKY0Odox"
+    },
+    {
+      "album": {
         "name": "Champions",
         "url": "https://open.spotify.com/album/2Xfu9gcaWqUiFdjXFJToOB"
       },

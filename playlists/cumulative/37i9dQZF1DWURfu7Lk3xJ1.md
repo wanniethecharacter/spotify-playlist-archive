@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-333 songs - 12 hr 49 min
+336 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Meteor Shower](https://open.spotify.com/track/7ramzkXZYtHU4bUzR2qTJ6) | [Theo Aabel](https://open.spotify.com/artist/6yxMxVw1MRLoB9EJWO5XVe), [møndberg](https://open.spotify.com/artist/7i9PhtRTxJnGvgoOXgTox2) | [Meteor Shower](https://open.spotify.com/album/009XcHxeU83CdvOQ5cctHH) | 2:36 | 2022-09-23 |  |
 | [midnight](https://open.spotify.com/track/58p2CheTGFg41WQifXMww6) | [drowsy](https://open.spotify.com/artist/0GlXvaYL6TY3zsZPQBk9sd) | [midnight](https://open.spotify.com/album/4e08g8EbIj7THGU4R1eV6K) | 1:58 | 2022-10-07 |  |
 | [Midnight Heart](https://open.spotify.com/track/1MbYPlwWJJ5xYeBt3Yv186) | [Syzygy X](https://open.spotify.com/artist/5bQ0VyBeExuR0VDhSMIuii) | [Midnight Heart](https://open.spotify.com/album/3509Yhr3a8aW3PnrmA0RVo) | 2:21 | 2022-09-09 |  |
+| [midnight melody](https://open.spotify.com/track/5lPvUiyvXEHMsiuOybY1Dc) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [midnight melody](https://open.spotify.com/album/3PpJbBS0404mPEK8Lg6dDA) | 2:19 | 2023-03-01 |  |
 | [milky moon](https://open.spotify.com/track/5Ro7Zhxns5rtyleQsffnkb) | [Tween City](https://open.spotify.com/artist/0tVWLGanEa906nosw2Uu9p) | [milky moon](https://open.spotify.com/album/4D2PsPJFSQwH63YitxHYNy) | 2:09 | 2022-09-09 |  |
 | [Mist](https://open.spotify.com/track/0v3YwvruUzRAzFDig3GFKl) | [Elsei](https://open.spotify.com/artist/50w62qMAnHcGIIFsUdEReo) | [Mist](https://open.spotify.com/album/0QJb6zS2hhYATx6Ae2yJ0L) | 1:56 | 2022-09-09 | 2022-12-09 |
 | [Mistakes](https://open.spotify.com/track/53YDxoUrkEZmXHIc2qQPid) | [Café](https://open.spotify.com/artist/013rEqbv3a8POPZgcNq6K2), [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj) | [Mistakes](https://open.spotify.com/album/0dR6H4HIDo7PDn9oJ2h7jx) | 1:55 | 2022-09-09 |  |
@@ -248,6 +249,7 @@
 | [remote cabin](https://open.spotify.com/track/1k1ioWy2YBIlZ7RqpTpUnl) | [Mariniwa](https://open.spotify.com/artist/5ggoqTsmvRkOrmqtCSjMPE), [Marc Brave](https://open.spotify.com/artist/5HCI0gwwKsD6eFnyWnycgK) | [remote cabin](https://open.spotify.com/album/6ylHT1hLGNmn9L7d4prnyZ) | 1:56 | 2022-12-02 |  |
 | [rest easy](https://open.spotify.com/track/3py1oINWygxcUIsJ7NpImZ) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [tezpu](https://open.spotify.com/artist/4qsNTmhzMYuDilyDFbJFp2) | [rest easy](https://open.spotify.com/album/5ACZy2y5AlQHZAiu6tWykw) | 2:23 | 2022-10-28 | 2022-11-19 |
 | [Resting bull face](https://open.spotify.com/track/1YWebNgNeLzNqybFQsoXn4) | [Catch ze Bull](https://open.spotify.com/artist/2FtYPL4cwgV84Z1xoJaM4S) | [Resting bull face](https://open.spotify.com/album/0lUn82bsrNOJkOXqI5AnVd) | 2:11 | 2022-09-09 |  |
+| [Reverie lofi](https://open.spotify.com/track/7xeGaui2rOd2fKs2NCvMgl) | [Juanita Garcia](https://open.spotify.com/artist/5yXjaU6XFq11LZi6Aybxgg) | [Reverie lofi](https://open.spotify.com/album/1T6WZK1VL0NjNmcEFxMG1Q) | 2:00 | 2023-03-01 |  |
 | [Rosso](https://open.spotify.com/track/3pscNS95UxbGBl9JY0SsFP) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Rosso](https://open.spotify.com/album/0VBXpCv2RP6ekq7rtGpX7w) | 2:01 | 2023-02-07 |  |
 | [Safe Lines](https://open.spotify.com/track/4NYsjmwUAP7YnuwhVK0NVz) | [Enoki](https://open.spotify.com/artist/1ioPe940lafF8R9ejGRRpW) | [Safe Lines](https://open.spotify.com/album/5jhukSqjKsW3erE3uaMGnt) | 2:00 | 2022-09-09 | 2022-10-29 |
 | [said & done](https://open.spotify.com/track/3ZLXYsLYDagaczN7eeh6xo) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [said & done](https://open.spotify.com/album/2sOQxN0wUhPnoT0SJN7vcx) | 2:02 | 2022-09-09 |  |
@@ -340,6 +342,7 @@
 | [Yellow Moon](https://open.spotify.com/track/3jJCwfvB3zzLqYp7RlaXhF) | [smplsmth](https://open.spotify.com/artist/3xikz0pO9DWQ9SBfxmNlId) | [Color Theory](https://open.spotify.com/album/2OfgtfwWi2RNUk2z1qGKdk) | 2:17 | 2022-09-09 |  |
 | [your destination](https://open.spotify.com/track/6GtAIZZMpMiSBP2Mpe2mpR) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [your destination](https://open.spotify.com/album/3oAhQBzerDMF0azuuCMXze) | 2:20 | 2023-01-20 |  |
 | [Yours](https://open.spotify.com/track/2k6nINDNfSvdnF2cSmBt2S) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [afterthought](https://open.spotify.com/album/5PMYxpXf5gtKt1hTthAaB0) | 2:45 | 2022-09-30 |  |
+| [ZMOOTH](https://open.spotify.com/track/3FOvS4B32VeOvRG6sQyL0m) | [Written On Glass](https://open.spotify.com/artist/0flGLaDtO2VB3ETpqoZhwg) | [ZMOOTH](https://open.spotify.com/album/3L3ORj0iQxym4SDCe0fTew) | 2:04 | 2023-03-01 |  |
 | [zoom out](https://open.spotify.com/track/1jVbngaIfjUEjZiS8dVzlS) | [yellow book](https://open.spotify.com/artist/6JE9upCogY91a2Tm5UB8fe) | [zoom out](https://open.spotify.com/album/7lyfqEF3MgF1NtWiySrtww) | 2:29 | 2023-01-13 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle - avec blesse, Sophia Bel, Corridor et bien plus.",
-  "num_followers": 701,
+  "num_followers": 711,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDU3ZTAzNjhlZjZiYzg0MzJjZGYwMDljMjQxMDY4YjAz",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGI3NTE5NzRjNWI1N2YzNGM0NWVlMDM0ZTFhY2M5ZWUw",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Quand la nuit tombe",
+        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
+      },
+      "artists": [
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 279397,
+      "name": "La photo",
+      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Supermercado",
         "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 178426,
       "name": "Alice",
       "url": "https://open.spotify.com/track/6ybS1WcfNXf1hmx8bE3lgi"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Quand la nuit tombe",
-        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
-      },
-      "artists": [
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 279397,
-      "name": "La photo",
-      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Pink Dogs on the Green Grass",
-        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
-      },
-      "artists": [
-        {
-          "name": "Paul Jacobs",
-          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
-        }
-      ],
-      "duration_ms": 225249,
-      "name": "Christopher Robbins",
-      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Tu ne mourras pas",
         "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 200765,
       "name": "Demande-moi",
       "url": "https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Pink Dogs on the Green Grass",
+        "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
+      },
+      "artists": [
+        {
+          "name": "Paul Jacobs",
+          "url": "https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2"
+        }
+      ],
+      "duration_ms": 225249,
+      "name": "Christopher Robbins",
+      "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Juillet",
-        "url": "https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a"
-      },
-      "artists": [
-        {
-          "name": "Frais Dispo",
-          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Juillet",
-      "url": "https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Darl\u00e8ne",
         "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 145936,
       "name": "Ton h\u00f4tel",
       "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Juillet",
+        "url": "https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a"
+      },
+      "artists": [
+        {
+          "name": "Frais Dispo",
+          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Juillet",
+      "url": "https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Diorama",
+        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Astronaute amateur",
+      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Nimueshtaten nete",
         "url": "https://open.spotify.com/album/5SEtpOliFRWSyPucn4A2PO"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 240010,
       "name": "Nimueshtaten nete",
       "url": "https://open.spotify.com/track/3KtPaEk8dzOJ9GpQZzkvza"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Diorama",
-        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Astronaute amateur",
-      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Phil\u00e9douche",
-        "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
-      },
-      "artists": [
-        {
-          "name": "Phil\u00e9mon Cimon",
-          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
-        }
-      ],
-      "duration_ms": 280513,
-      "name": "Phile\u0301douche",
-      "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 183706,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Phil\u00e9douche",
+        "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
+      },
+      "artists": [
+        {
+          "name": "Phil\u00e9mon Cimon",
+          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
+        }
+      ],
+      "duration_ms": 280513,
+      "name": "Phile\u0301douche",
+      "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Fleur de l'\u00c2ge",
-        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 202996,
-      "name": "Shoegaze",
-      "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Dungeon Master",
         "url": "https://open.spotify.com/album/2WA0YbN1rdESR8aRLcl5hM"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 241966,
       "name": "whatwasthatwine",
       "url": "https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Fleur de l'\u00c2ge",
+        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "duration_ms": 202996,
+      "name": "Shoegaze",
+      "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Lighter Fluid",
-        "url": "https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ"
-      },
-      "artists": [
-        {
-          "name": "Les Deuxluxes",
-          "url": "https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg"
-        }
-      ],
-      "duration_ms": 171321,
-      "name": "Lighter Fluid",
-      "url": "https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Ta yeule, toute va ben",
         "url": "https://open.spotify.com/album/7czM4O7ElmQ8WOCrav1Vxf"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Snake eyes",
-        "url": "https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8"
+        "name": "Lighter Fluid",
+        "url": "https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ"
       },
       "artists": [
         {
-          "name": "Lucill",
-          "url": "https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x"
+          "name": "Les Deuxluxes",
+          "url": "https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg"
         }
       ],
-      "duration_ms": 172013,
-      "name": "D\u00e9tours",
-      "url": "https://open.spotify.com/track/5wEDlWLX0Gl0Wi6fHDNTsy"
+      "duration_ms": 171321,
+      "name": "Lighter Fluid",
+      "url": "https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Snake eyes",
+        "url": "https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8"
+      },
+      "artists": [
+        {
+          "name": "Lucill",
+          "url": "https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "D\u00e9tours",
+      "url": "https://open.spotify.com/track/5wEDlWLX0Gl0Wi6fHDNTsy"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
       },
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Les murs",
-        "url": "https://open.spotify.com/album/6HW17MhlbFPAExlsGgW70n"
+        "name": "Totalement Sublime",
+        "url": "https://open.spotify.com/album/6MQXmQjOXqN47I1y3172Td"
       },
       "artists": [
         {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+          "name": "Totalement Sublime",
+          "url": "https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY"
         }
       ],
-      "duration_ms": 220893,
-      "name": "Les murs",
-      "url": "https://open.spotify.com/track/56cfcyfAcQJEUvKHOwjXuZ"
+      "duration_ms": 243950,
+      "name": "OMG (oiseau)",
+      "url": "https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Vertiges",
-        "url": "https://open.spotify.com/album/1xJBGMDXE3nHY5SvPS7ZCj"
+        "name": "Les murs",
+        "url": "https://open.spotify.com/album/6HW17MhlbFPAExlsGgW70n"
       },
       "artists": [
         {
-          "name": "zouz",
-          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
         }
       ],
-      "duration_ms": 186904,
-      "name": "Aur\u00e9ole",
-      "url": "https://open.spotify.com/track/2Tsl8BPilekrItPa2716qj"
+      "duration_ms": 220893,
+      "name": "Les murs",
+      "url": "https://open.spotify.com/track/56cfcyfAcQJEUvKHOwjXuZ"
     }
   ],
   "unique_name": "ALT_QC",

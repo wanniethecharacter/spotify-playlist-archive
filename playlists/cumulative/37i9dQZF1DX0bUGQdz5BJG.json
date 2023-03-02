@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Caylee Hammack",
+  "description": "Music City must-hears. Cover: Kassi Ashton",
   "name": "Next From Nashville",
   "tracks": [
     {
@@ -4179,6 +4179,24 @@
     },
     {
       "album": {
+        "name": "Don't Say It Wasn't Love",
+        "url": "https://open.spotify.com/album/20pOKOzX2xMTZe5XfgVthL"
+      },
+      "artists": [
+        {
+          "name": "Brooks Huntley",
+          "url": "https://open.spotify.com/artist/0qkwQ7ZLjeOdypr1UQCe9m"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198803,
+      "name": "Don't Say It Wasn't Love",
+      "url": "https://open.spotify.com/track/1GFVqRtjKWcfc0n7RuO7nC"
+    },
+    {
+      "album": {
         "name": "One Of These Days",
         "url": "https://open.spotify.com/album/0DLyAwA8jwAwn8CK6VNT6E"
       },
@@ -4508,6 +4526,24 @@
       "duration_ms": 192306,
       "name": "Drinking Songs",
       "url": "https://open.spotify.com/track/4rqjF6HMDIPWx52U09kNwV"
+    },
+    {
+      "album": {
+        "name": "Drive You Out Of My Mind",
+        "url": "https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212360,
+      "name": "Drive You Out Of My Mind",
+      "url": "https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD"
     },
     {
       "album": {

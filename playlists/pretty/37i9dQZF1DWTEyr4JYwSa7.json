@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 53178,
+  "num_followers": 53174,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MTc0OCwwMDAwMDAwMDE0MmNjMmUzMmIyZWY2NWZiNDkyYTFkN2Q5YTVhOGM5",
+  "snapshot_id": "MTY3MTc1MTc0OCwwMDAwMDAwMDJkZmRjNGM0ZTg1ZmI3NWQzYWRjMjIyN2U3ZTZmMzY2",
   "tracks": [
     {
       "added_at": "2022-12-22 23:29:07",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-12-22 23:29:07",
       "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
+    },
+    {
+      "added_at": "2022-12-22 23:29:07",
+      "album": {
         "name": "Holiday Inn (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 177480,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
-    },
-    {
-      "added_at": "2022-12-22 23:29:07",
-      "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
       "added_at": "2022-12-22 23:29:07",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-12-22 23:29:07",
       "album": {
-        "name": "Sainte Nuit",
-        "url": "https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja"
-      },
-      "artists": [
-        {
-          "name": "Johanne Blouin",
-          "url": "https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "L'enfant au tambour",
-      "url": "https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8"
-    },
-    {
-      "added_at": "2022-12-22 23:29:07",
-      "album": {
         "name": "No\u00ebl tout blanc (feat. Marc-Andr\u00e9 Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de D\u00e9cembre) [D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime]",
         "url": "https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ"
       },
@@ -1655,6 +1639,38 @@
     {
       "added_at": "2022-12-22 23:29:07",
       "album": {
+        "name": "Sainte Nuit",
+        "url": "https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja"
+      },
+      "artists": [
+        {
+          "name": "Johanne Blouin",
+          "url": "https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "L'enfant au tambour",
+      "url": "https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8"
+    },
+    {
+      "added_at": "2022-12-22 23:29:07",
+      "album": {
+        "name": "Les nuits de Repentigny",
+        "url": "https://open.spotify.com/album/0XCvQlTZV9Pyp3SyyceAsc"
+      },
+      "artists": [
+        {
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+        }
+      ],
+      "duration_ms": 255327,
+      "name": "No\u00ebl brun",
+      "url": "https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj"
+    },
+    {
+      "added_at": "2022-12-22 23:29:07",
+      "album": {
         "name": "No\u00ebl avec Jireh Gospel Choir",
         "url": "https://open.spotify.com/album/3nR7D8rkYHXIQG80R3EpFf"
       },
@@ -1667,26 +1683,6 @@
       "duration_ms": 233066,
       "name": "No\u00ebl \u00e0 J\u00e9rusalem",
       "url": "https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79"
-    },
-    {
-      "added_at": "2022-12-22 23:29:07",
-      "album": {
-        "name": "No\u00ebl \u00e0 deux",
-        "url": "https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv"
-      },
-      "artists": [
-        {
-          "name": "Marie Eve Janvier",
-          "url": "https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch"
-        },
-        {
-          "name": "Jean-Fran\u00e7ois Breau",
-          "url": "https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu"
-        }
-      ],
-      "duration_ms": 203169,
-      "name": "No\u00ebl c'est toi",
-      "url": "https://open.spotify.com/track/4rG6whNnK2TY2OZ042G5XY"
     },
     {
       "added_at": "2022-12-22 23:29:07",

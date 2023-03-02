@@ -2,7 +2,7 @@
 
 ### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
-> Top country hits you know and love! Cover: Carly Pearce
+> Top country hits you know and love! Cover: Luke Combs
 
 197 songs - 10 hr 40 min
 

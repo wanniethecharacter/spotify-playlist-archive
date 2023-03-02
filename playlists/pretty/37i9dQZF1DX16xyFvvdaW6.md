@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,095 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,125 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 2 | [Siguiéndote Los Pasos](https://open.spotify.com/track/7oKiPeuyHCuAeV8Idsep1T) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Apasionado Por Ti](https://open.spotify.com/album/17sFSyV70emgk2ES8zWdzd) | 3:00 |
 | 3 | [Tiene razón](https://open.spotify.com/track/0YVkK3eoqA9rmpqyMObT4h) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [Indudablemente](https://open.spotify.com/album/59P6zsVljf0Gs8h4F8iWw4) | 3:19 |
 | 4 | [Tu Fan Number One](https://open.spotify.com/track/5lAtZmes9ELeVyEn1X0oqA) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Tu Fan Number One](https://open.spotify.com/album/4O5VnMxSs4kY3uqzBZZykI) | 3:34 |
-| 5 | [Dias Mejores](https://open.spotify.com/track/6vtFTFXUa8dDV2DXnXAzhq) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Dias Mejores](https://open.spotify.com/album/1OkifSNfJnObBOcbJ2lpPW) | 4:27 |
+| 5 | [Días Mejores](https://open.spotify.com/track/6vtFTFXUa8dDV2DXnXAzhq) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Días Mejores](https://open.spotify.com/album/1OkifSNfJnObBOcbJ2lpPW) | 4:27 |
 | 6 | [Harto](https://open.spotify.com/track/5U0V9jjQie6QhNU3khHBhi) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [¿Como Me Ves?](https://open.spotify.com/album/6P0VO2HC3OV54KfupPb2Vk) | 4:07 |
 | 7 | [A Mi Ángel](https://open.spotify.com/track/471CAxyTTVZDK8g4MUXfnq) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu) | [Voy A Entregar Mi Corazón](https://open.spotify.com/album/5WgMBg0KfWb1drMLy4uOw2) | 3:36 |
 | 8 | [Nunca para de Llover](https://open.spotify.com/track/2cI14t5e2KYKG4i39hdvXJ) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 2:58 |

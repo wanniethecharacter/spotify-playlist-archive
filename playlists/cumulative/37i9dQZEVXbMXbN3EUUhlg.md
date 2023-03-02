@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-621 songs - 1 day 7 hr 23 min
+622 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Clarão](https://open.spotify.com/track/2zLEc4IWwT4GJR20A04tJa) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:09 | 2021-10-22 | 2021-10-23 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:22 | 2022-03-24 | 2022-03-28 |
 | [Comunicação Falhou \- Ao Vivo](https://open.spotify.com/track/7bhvRvE56NHBvedx0EeALS) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Ao Vivo em Fortaleza](https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr) | 3:00 | 2022-05-28 | 2023-02-24 |
+| [Controllah \(feat\. MC Bin Laden\)](https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 2:30 | 2023-03-01 |  |
 | [Coração Cachorro](https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Coração Cachorro](https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d) | 2:30 | 2021-09-30 | 2022-03-04 |
 | [CORAÇÃO CIGANO \- Ao Vivo](https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 3:29 | 2022-08-11 | 2023-01-03 |
 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 | 2022-12-10 |  |
@@ -433,7 +434,7 @@
 | [Paradigmas](https://open.spotify.com/track/158ukl5rih76dOEsp0I91H) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tudo Em Paz, Vol\. 1](https://open.spotify.com/album/1GLViCxaCfb75xbzBGbskT) | 2:37 | 2021-03-27\* | 2021-04-26 |
 | [Paradigmas](https://open.spotify.com/track/17UfXrL7Run3GyZJW4uRjC) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 2:37 | 2021-04-26 | 2021-09-15 |
 | [Paradise](https://open.spotify.com/track/7wBrglFVTNCcW6IhdgBkm1) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/5GykKNn2KjofEoA8SpNnuw) | 4:38 | 2022-09-14 | 2022-09-16 |
-| [Parecia Tempestade](https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID) | [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb), [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade](https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR) | 2:29 | 2023-01-31 |  |
+| [Parecia Tempestade](https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID) | [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb), [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade](https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR) | 2:29 | 2023-01-31 | 2023-03-02 |
 | [Passatempo](https://open.spotify.com/track/3ODFNdnvb3EwcXk6DI6tGA) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Passatempo](https://open.spotify.com/album/0fqIsVNMzHtVJapF5MWCZx) | 2:42 | 2021-05-10 | 2021-06-20 |
 | [Passatempo](https://open.spotify.com/track/3ibiPPqHxdmX4nNp4kNHE9) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS Sem Limites](https://open.spotify.com/album/5EopJnJifkrGKt7jyRZonH) | 2:42 | 2021-06-20 | 2021-10-27 |
 | [Passinho Debochado](https://open.spotify.com/track/1tdDDOJRdbo1Uz47D1k62G) | [Dan Ventura](https://open.spotify.com/artist/5am6JZ05n3QyqYMyD9CgSn) | [Passinho Debochado](https://open.spotify.com/album/6rIlyuNip5zlz0Lb0SEBBD) | 1:25 | 2021-09-04 | 2021-11-19 |

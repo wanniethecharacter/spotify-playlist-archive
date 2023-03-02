@@ -2,9 +2,9 @@
 
 ### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
 
-> GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Paramore
+> GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-345 songs - 20 hr 40 min
+346 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Midnight Train](https://open.spotify.com/track/161esqOztHsKYDh9Aj4yij) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Midnight Train / Don't Wade In The Water](https://open.spotify.com/album/3BpPThkSnJZF2wo5vrmUup) | 3:16 | 2020-10-23 | 2022-03-18 |
 | [Mindreader](https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Mindreader](https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ) | 2:53 | 2020-10-10\* | 2021-05-13 |
 | [MLBRN](https://open.spotify.com/track/3F6b6goF66FibaTgfdO3eS) | [KID LAB RAT](https://open.spotify.com/artist/3s02o9NfNibQnaLmkRxRzd) | [MLBRN](https://open.spotify.com/album/7EOVE590oo7t0kK3kK1a8X) | 2:45 | 2022-06-23 |  |
+| [Modern Love](https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Modern Love](https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy) | 3:14 | 2023-03-01 |  |
 | [Monsters \(feat\. Demi Lovato and blackbear\)](https://open.spotify.com/track/50DMJJpAeQv4fIpxZvQz2e) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Monsters \(feat\. Demi Lovato and blackbear\)](https://open.spotify.com/album/1EGlv1JGCUPolWU4qv7bsK) | 2:54 | 2021-02-15 | 2022-03-18 |
 | [Moonstar](https://open.spotify.com/track/6XJfecxMzGgOqtMsCSMUOy) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Moonstar](https://open.spotify.com/album/2a7Iemv4KcVROkxXOKQ1Mg) | 2:57 | 2021-05-08 | 2022-03-18 |
 | [Mother](https://open.spotify.com/track/0kgXAjZ2y0kGjKUekY0H8t) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:09 | 2020-10-10\* | 2021-05-13 |

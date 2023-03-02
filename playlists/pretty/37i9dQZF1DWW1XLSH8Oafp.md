@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring DJ HEARTSTRING
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,312 likes - 118 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,446 likes - 118 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 88 | [chuck x blair](https://open.spotify.com/track/3qSTsOPwFTTmCX6mzY0Boh) | [DJ LILLI](https://open.spotify.com/artist/2XIcC0xbpVPPJO6XqTRen6) | [chuck x blair](https://open.spotify.com/album/3AORQRBMInwrERkWcN0tzV) | 2:06 |
 | 89 | [In the Booth](https://open.spotify.com/track/01WsWq82CbBG8zoGgoBzIj) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [In the Booth](https://open.spotify.com/album/6kj37sDOEVO4d61FSDNBTB) | 3:40 |
 | 90 | [Sapphire](https://open.spotify.com/track/1tgoQX4JWi2vMUsKImW4YJ) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Sapphire / My Love](https://open.spotify.com/album/4MHJYdhNwFVF72lP1EoJOs) | 2:40 |
-| 91 | [nintendo 64](https://open.spotify.com/track/3ojqUvdhAxighZs7WDi2mx) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [nintendo 64](https://open.spotify.com/album/0Ler3M1pK387glzodtvbFR) | 2:35 |
+| 91 | [nintendo 64](https://open.spotify.com/track/6phVWgpkuEW7zfhRWJj7MW) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [nintendo 64](https://open.spotify.com/album/4gkXCRrY758mIidr1NLaeV) | 2:35 |
 | 92 | [Non\-Fungible Memory](https://open.spotify.com/track/5NHSjW8cnpzK6gEIA2pWn1) | [Broosnica](https://open.spotify.com/artist/4x7GBuoe0tEsKcgUecaC2m) | [Non\-Fungible Memory](https://open.spotify.com/album/7Ei4jGZgktpTI1bbIFmiXO) | 3:56 |
 | 93 | [Trancendence](https://open.spotify.com/track/4hkJ9k6TYJE5Y0CsOlGL5G) | [Nedaj](https://open.spotify.com/artist/56huNdCA3s7tthaMNhIXLU), [Young Mooski](https://open.spotify.com/artist/3Zoc4cR3DJ9YJX92YfjWyt) | [Trancendence](https://open.spotify.com/album/01I7XQK5STddzTwho9fsmf) | 3:44 |
 | 94 | [where’d u go? o\(╥\_╥\)o .。\*゚+](https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [where’d u go? o\(╥\_╥\)o .。\*゚+](https://open.spotify.com/album/1MFYXg6npaLvWvDidgtzqo) | 2:29 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 117 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
 | 118 | [Fuck It!](https://open.spotify.com/track/4GTa4r47RMGgVzESGRmEul) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Fuck It!](https://open.spotify.com/album/1snDRRO46ItFbvq8OyNvo2) | 3:41 |
 
-Snapshot ID: `MTY3NzQ5MDI1OCwwMDAwMDAwMGMzMWVlMGEyNTJlMWFiY2JhOWIxYWRiODg0ZTJkZDZm`
+Snapshot ID: `MTY3NzQ5MDI1OCwwMDAwMDAwMDcxZjRjOTI1YWZlOTlkN2Y0NjUxNTMzOThmYmI3MzA5`

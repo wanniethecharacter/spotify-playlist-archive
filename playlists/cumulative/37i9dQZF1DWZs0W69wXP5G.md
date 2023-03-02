@@ -4,7 +4,7 @@
 
 > Everything Broadway\-adjacent\. Cover: Jennifer Hudson
 
-98 songs - 5 hr 58 min
+99 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2022-08-12 | 2022-10-01 |
 | [Tell Her](https://open.spotify.com/track/5Z0WrP05lXzIDFmq104Knq) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [13: The Musical \(Soundtrack From the Netflix Film\)](https://open.spotify.com/album/1gvMZVaVH0AWCzoaXBMc9h) | 2:58 | 2022-08-12 |  |
 | [The Anonymous Ones \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5bOLF8govy2D7heVI0mfuu) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [The Anonymous Ones \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/164VJE1gedqrVwULmGODs9) | 4:09 | 2022-08-12 | 2022-10-29 |
-| [The Least](https://open.spotify.com/track/2nlvhe6y2NMYhNcEy6SFDl) | [Shaina Taub](https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA) | [The Least](https://open.spotify.com/album/6bLKcMg4Be8TmJprOjQXRE) | 2:20 | 2022-08-12 |  |
+| [The Least](https://open.spotify.com/track/1yuHXM3jAS4Te3o1qrXAY2) | [Shaina Taub](https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA) | [Songs of the Great Hill](https://open.spotify.com/album/0sxZZDmsx0ih796gVVrA19) | 2:20 | 2023-02-17 |  |
+| [The Least](https://open.spotify.com/track/2nlvhe6y2NMYhNcEy6SFDl) | [Shaina Taub](https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA) | [The Least](https://open.spotify.com/album/6bLKcMg4Be8TmJprOjQXRE) | 2:20 | 2022-08-12 | 2023-03-02 |
 | [The Night\-Time Sky's Got Nothing on You](https://open.spotify.com/track/6NLdEVaTnMouAcIOM2hlnE) | [Chris Wood](https://open.spotify.com/artist/5yM1DQUmKUfdc4FRpgp4Cx), [Solea Pfeiffer](https://open.spotify.com/artist/2crTNLaQdRWk74CNuccUOs), [Original Broadway Cast of Almost Famous \- The Musical](https://open.spotify.com/artist/7ybNybQQDnJoGOP2Y9JyHG) | [The Night\-Time Sky's Got Nothing on You](https://open.spotify.com/album/48ybZa5Klu3naTjFcZMxC3) | 3:35 | 2022-08-19 |  |
 | [The Phantom Of The Opera Symphonic Suite \- Pt.1](https://open.spotify.com/track/1KgJrBJv7nxhpPunJOXXgt) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [The Andrew Lloyd Webber Orchestra](https://open.spotify.com/artist/5cPnLgyqj9H5Gsqry9dAaW), [Simon Lee](https://open.spotify.com/artist/6pAzH04RdZLJJleDu3Rj6R) | [The Phantom Of The Opera Symphonic Suite \(Pt.1\)](https://open.spotify.com/album/0HNGzcTvkjeJu7IonaF8Z9) | 5:17 | 2022-08-12 |  |
 | [The Witches Are Back](https://open.spotify.com/track/6SWxJnEL4PgRySciwic4N3) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W), [Sarah Jessica Parker](https://open.spotify.com/artist/07fyshwD6z8kprzXN7hQYH), [Kathy Najimy](https://open.spotify.com/artist/1JdX5huLHgBUAHTNinXnN5) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 1:44 | 2022-09-30 |  |

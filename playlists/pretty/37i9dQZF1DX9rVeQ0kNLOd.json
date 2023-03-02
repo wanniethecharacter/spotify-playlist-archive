@@ -1,12 +1,12 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 13781,
+  "num_followers": 13791,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5NjQwMCwwMDAwMDAwMDI3ZDhlNmFhOTRmMzMyZjhkYjZjYjJjYWJjNjRmNmEz",
+  "snapshot_id": "MTY3NzU5NjQwMCwwMDAwMDAwMDNmYjQ1ZWZmZTcxZDAzMDM5Y2JkMzE4ZWVjMzc2N2Rl",
   "tracks": [
     {
       "added_at": "2023-02-28 15:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Have a nice day",
-        "url": "https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l"
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "sloppy dim",
+          "url": "https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae"
         }
       ],
-      "duration_ms": 175693,
-      "name": "Have a nice day",
-      "url": "https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW"
+      "duration_ms": 147370,
+      "name": "minority",
+      "url": "https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM"
+        "name": "Have a nice day",
+        "url": "https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l"
       },
       "artists": [
         {
-          "name": "sloppy dim",
-          "url": "https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 147370,
-      "name": "minority",
-      "url": "https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE"
+      "duration_ms": 175693,
+      "name": "Have a nice day",
+      "url": "https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "ohashiTrio collaboration best -off White-",
-        "url": "https://open.spotify.com/album/3Ip5cak1FzlibuFBlI1Lay"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 245555,
-      "name": "La La La - feat. JQ from Nulbarich",
-      "url": "https://open.spotify.com/track/5LvrsZy7CMNdtjEFRan63u"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "S.S.S.",
         "url": "https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 201683,
       "name": "S.S.S.",
       "url": "https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "ohashiTrio collaboration best -off White-",
+        "url": "https://open.spotify.com/album/3Ip5cak1FzlibuFBlI1Lay"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 245555,
+      "name": "La La La - feat. JQ from Nulbarich",
+      "url": "https://open.spotify.com/track/5LvrsZy7CMNdtjEFRan63u"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/1dHkwzvY4F4DXOznl8568M"
-      },
-      "artists": [
-        {
-          "name": "chelmico",
-          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
-        }
-      ],
-      "duration_ms": 229375,
-      "name": "\u305a\u308b\u3044\u306d",
-      "url": "https://open.spotify.com/track/0btLLjOMp8mQ1q1NA18XpU"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "\u55a7\u9a12\u5e7b\u60f3",
         "url": "https://open.spotify.com/album/55jIuQAwbXmjlzMiQC7yQN"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 181836,
       "name": "One",
       "url": "https://open.spotify.com/track/7sT48E0PEPQy5cd4Nwfexs"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/1dHkwzvY4F4DXOznl8568M"
+      },
+      "artists": [
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "duration_ms": 229375,
+      "name": "\u305a\u308b\u3044\u306d",
+      "url": "https://open.spotify.com/track/0btLLjOMp8mQ1q1NA18XpU"
     },
     {
       "added_at": "2023-02-28 15:00:00",

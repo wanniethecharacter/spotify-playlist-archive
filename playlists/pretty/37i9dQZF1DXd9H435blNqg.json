@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 34084,
+  "num_followers": 34132,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGI4YzNlYzM5MmVhMzAwNWM3ZTk1MGMyZThkMGE1OWNm",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDExYjhiNTYxNzQyMGJkZWRmZWU4OTdhZGQ2OTRmYTVi",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -44,7 +44,7 @@
       "added_at": "2022-08-31 19:45:43",
       "album": {
         "name": "Blood In The Water",
-        "url": "https://open.spotify.com/album/09rxHR1agURAUCivjjFQBB"
+        "url": "https://open.spotify.com/album/5lSY3MZOCvKsFsSniZMxrW"
       },
       "artists": [
         {
@@ -70,23 +70,23 @@
       ],
       "duration_ms": 226000,
       "name": "Blood In The Water",
-      "url": "https://open.spotify.com/track/1Rjo59fEVsnBdahY0ULQNd"
+      "url": "https://open.spotify.com/track/6tsRuvYMEMZkujPu4jiQCG"
     },
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Desert Dreams",
-        "url": "https://open.spotify.com/album/71OHum7ucyhzFO7QnLiEhj"
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
       "artists": [
         {
-          "name": "Lonesome Shack",
-          "url": "https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3"
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 190626,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/0UxhRgcEhJdGkuLRKXbdHN"
+      "duration_ms": 319253,
+      "name": "Bulletproof - Tangle Eye Mix",
+      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -107,18 +107,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+        "name": "Desert Dreams",
+        "url": "https://open.spotify.com/album/71OHum7ucyhzFO7QnLiEhj"
       },
       "artists": [
         {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+          "name": "Lonesome Shack",
+          "url": "https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3"
         }
       ],
-      "duration_ms": 319253,
-      "name": "Bulletproof - Tangle Eye Mix",
-      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
+      "duration_ms": 190626,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/0UxhRgcEhJdGkuLRKXbdHN"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "A Light That Never Dies",
-        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
-      },
-      "artists": [
-        {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
-        }
-      ],
-      "duration_ms": 173366,
-      "name": "The Ballad of Johnny",
-      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Holy Ghost Fire",
         "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "A Light That Never Dies",
+        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
+      },
+      "artists": [
+        {
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+        }
+      ],
+      "duration_ms": 173366,
+      "name": "The Ballad of Johnny",
+      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Dog Days",
+        "url": "https://open.spotify.com/album/3rpWxFW2hDLikbkShc3fKY"
+      },
+      "artists": [
+        {
+          "name": "Wild the Coyote",
+          "url": "https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB"
+        }
+      ],
+      "duration_ms": 248478,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/03fOkmHmQKR06GvdM2AxW5"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "In the Middle",
         "url": "https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 191933,
       "name": "Bump that Mother",
       "url": "https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Dog Days",
-        "url": "https://open.spotify.com/album/3rpWxFW2hDLikbkShc3fKY"
-      },
-      "artists": [
-        {
-          "name": "Wild the Coyote",
-          "url": "https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB"
-        }
-      ],
-      "duration_ms": 248478,
-      "name": "Dog Days",
-      "url": "https://open.spotify.com/track/03fOkmHmQKR06GvdM2AxW5"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Eric Tessmer 2",
-        "url": "https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD"
-      },
-      "artists": [
-        {
-          "name": "Eric Tessmer",
-          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
-        }
-      ],
-      "duration_ms": 249826,
-      "name": "Good So Bad",
-      "url": "https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 185597,
       "name": "Get Gone",
       "url": "https://open.spotify.com/track/6U4XpiZrqaYTVmKKfens2L"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Eric Tessmer 2",
+        "url": "https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD"
+      },
+      "artists": [
+        {
+          "name": "Eric Tessmer",
+          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
+        }
+      ],
+      "duration_ms": 249826,
+      "name": "Good So Bad",
+      "url": "https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
-      },
-      "artists": [
-        {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
-        }
-      ],
-      "duration_ms": 212147,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Homemade Disaster",
         "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 194564,
       "name": "Homemade Disaster",
       "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
+      },
+      "artists": [
+        {
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+        }
+      ],
+      "duration_ms": 212147,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
     },
     {
       "added_at": "2022-08-31 19:45:43",

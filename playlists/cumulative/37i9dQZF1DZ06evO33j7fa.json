@@ -532,10 +532,28 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 60626,
       "name": "Sketch 1",
       "url": "https://open.spotify.com/track/0d33pGwcSqRPZszpIIJEnQ"
+    },
+    {
+      "album": {
+        "name": "Digital Box Set",
+        "url": "https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60626,
+      "name": "Sketch 1",
+      "url": "https://open.spotify.com/track/4ioMdV2VHZme6Qs6ecGyPo"
     },
     {
       "album": {
@@ -622,7 +640,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 222960,
       "name": "Tomorrow Is A Long Time",
       "url": "https://open.spotify.com/track/5WY7FujhGg2jZHyFmIrRV0"

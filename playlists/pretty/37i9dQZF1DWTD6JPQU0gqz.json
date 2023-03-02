@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 45536,
+  "num_followers": 45553,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwNTIwNiwwMDAwMDAwMGM4NzdlNjgxM2Y2NWVlNDIyYTQxZDBhNWMzZTUyNDFj",
+  "snapshot_id": "MTY3NjYwNTIwNiwwMDAwMDAwMGQ5MTM1OThhMDkxNGEyMjJhNTI2ZWUyMjZjM2Q1Y2Zh",
   "tracks": [
     {
       "added_at": "2023-02-17 03:40:06",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/1EfoYpgTD1HtuKIYHrrZei"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 302373,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/3eoZ06E3Pmf6jfgWHM0m5X"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Date Brillo Cadenita",
         "url": "https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 438480,
       "name": "La Chiflera",
       "url": "https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/1EfoYpgTD1HtuKIYHrrZei"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 302373,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/3eoZ06E3Pmf6jfgWHM0m5X"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "A Tu Lado",
-        "url": "https://open.spotify.com/album/3BfR38sPExTxHy9Awxrn9J"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Bonito que Canta",
         "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 259000,
       "name": "La Vida Vale la Pena",
       "url": "https://open.spotify.com/track/6JOzfwVljrGuLdN7umkXQF"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "A Tu Lado",
+        "url": "https://open.spotify.com/album/3BfR38sPExTxHy9Awxrn9J"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Sigue y Sigue",
-        "url": "https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS"
-      },
-      "artists": [
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 146269,
-      "name": "Sigue y Sigue",
-      "url": "https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Flavors 3",
         "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 180375,
       "name": "Acu\u00e9rdate De M\u00ed",
       "url": "https://open.spotify.com/track/0KV5E5nAh0zU9M5eSORUgG"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "Sigue y Sigue",
+        "url": "https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS"
+      },
+      "artists": [
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 146269,
+      "name": "Sigue y Sigue",
+      "url": "https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Tambores y Cantos",
-        "url": "https://open.spotify.com/album/1KXkEHQiw2vzUIl5b1galh"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
-        }
-      ],
-      "duration_ms": 288586,
-      "name": "Prende La Vela",
-      "url": "https://open.spotify.com/track/6gyKkveHSPxKnZfSu0kYbQ"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Na Na Na",
         "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 138626,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "Tambores y Cantos",
+        "url": "https://open.spotify.com/album/1KXkEHQiw2vzUIl5b1galh"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "duration_ms": 288586,
+      "name": "Prende La Vela",
+      "url": "https://open.spotify.com/track/6gyKkveHSPxKnZfSu0kYbQ"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Haters y Fan\u00e1ticos",
-        "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
-      },
-      "artists": [
-        {
-          "name": "Akim",
-          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Fettuccine",
-      "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Creature!",
         "url": "https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 155522,
       "name": "Negrita",
       "url": "https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "Haters y Fan\u00e1ticos",
+        "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
+      },
+      "artists": [
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Fettuccine",
+      "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Lucky 7",
-        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
-      },
-      "artists": [
-        {
-          "name": "Luchy DR",
-          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Sleng Teng Riddim",
         "url": "https://open.spotify.com/album/0yvN4eN3T0OZwPiVARh5ci"
       },
@@ -1263,22 +1247,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L"
-      },
-      "artists": [
-        {
-          "name": "Nino Augustine",
-          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
-        }
-      ],
-      "duration_ms": 159218,
-      "name": "Duelo",
-      "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Latinos",
         "url": "https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30"
       },
@@ -1291,6 +1259,38 @@
       "duration_ms": 211722,
       "name": "Latinos",
       "url": "https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "Lucky 7",
+        "url": "https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho"
+      },
+      "artists": [
+        {
+          "name": "Luchy DR",
+          "url": "https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L"
+      },
+      "artists": [
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        }
+      ],
+      "duration_ms": 159218,
+      "name": "Duelo",
+      "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
     },
     {
       "added_at": "2023-02-17 03:40:06",

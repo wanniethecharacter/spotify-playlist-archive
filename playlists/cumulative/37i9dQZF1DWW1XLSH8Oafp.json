@@ -6426,10 +6426,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 155300,
       "name": "nintendo 64",
       "url": "https://open.spotify.com/track/3ojqUvdhAxighZs7WDi2mx"
+    },
+    {
+      "album": {
+        "name": "nintendo 64",
+        "url": "https://open.spotify.com/album/4gkXCRrY758mIidr1NLaeV"
+      },
+      "artists": [
+        {
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155300,
+      "name": "nintendo 64",
+      "url": "https://open.spotify.com/track/6phVWgpkuEW7zfhRWJj7MW"
     },
     {
       "album": {

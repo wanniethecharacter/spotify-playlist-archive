@@ -1,6 +1,6 @@
 {
   "description": "The very best in new music from around the world. Cover: KAROL G & Shakira ",
-  "num_followers": 350838,
+  "num_followers": 351019,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
@@ -287,7 +287,7 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
+        "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
         "url": "https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL"
       },
       "artists": [
@@ -296,16 +296,16 @@
           "url": "https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW"
         },
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
           "name": "347aidan",
           "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
       "duration_ms": 147025,
-      "name": "One Of Those Days (feat. Lil Yachty & 347aidan)",
+      "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
     },
     {
@@ -1365,7 +1365,7 @@
         },
         {
           "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/5Cw0Kn3UHy7esDxIu1xlpu"
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
       "duration_ms": 222740,

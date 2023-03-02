@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 83952,
+  "num_followers": 83977,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDMzN2MyMDAwNDQ5Mzk0MzI0NjgxN2U1ZTk3MDBjZDE3",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDU3NTFlMjcyZTA5NWY3YTFiYWNiNGJjYTcxZTY1OWE2",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "One Mic Freestyle (S3-EP1)",
-        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 121624,
-      "name": "One Mic Freestyle (S3-EP1)",
-      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "If I Die Young",
         "url": "https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 189781,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "One Mic Freestyle (S3-EP1)",
+        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 121624,
+      "name": "One Mic Freestyle (S3-EP1)",
+      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Love Don't Change",
+        "url": "https://open.spotify.com/album/5pCvpUnLgq5etnBXOTzql8"
+      },
+      "artists": [
+        {
+          "name": "K5ive",
+          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
+        }
+      ],
+      "duration_ms": 215063,
+      "name": "Love Don't Change",
+      "url": "https://open.spotify.com/track/0Mrqm8cGahrzooiKmCE9lu"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/7nTX2UAegtxAFreniQhSaI"
-      },
-      "artists": [
-        {
-          "name": "Tevin Terrell",
-          "url": "https://open.spotify.com/artist/0fhCAbWfW3DL0DrJAZpZ2S"
-        }
-      ],
-      "duration_ms": 177057,
-      "name": "Be Forreal",
-      "url": "https://open.spotify.com/track/3y6cH5sy37Mb7gK6slyIlB"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Love & Attention",
         "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
       },
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Love Don't Change",
-        "url": "https://open.spotify.com/album/5pCvpUnLgq5etnBXOTzql8"
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/7nTX2UAegtxAFreniQhSaI"
       },
       "artists": [
         {
-          "name": "K5ive",
-          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
+          "name": "Tevin Terrell",
+          "url": "https://open.spotify.com/artist/0fhCAbWfW3DL0DrJAZpZ2S"
         }
       ],
-      "duration_ms": 215063,
-      "name": "Love Don't Change",
-      "url": "https://open.spotify.com/track/0Mrqm8cGahrzooiKmCE9lu"
+      "duration_ms": 177057,
+      "name": "Be Forreal",
+      "url": "https://open.spotify.com/track/3y6cH5sy37Mb7gK6slyIlB"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Love, Eternity & Faith",
-        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        },
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 160490,
-      "name": "Venting",
-      "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Take The Risk",
         "url": "https://open.spotify.com/album/4RMlVn3P7BppnyMKJ8lu6R"
       },
@@ -1159,18 +1139,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "High (All The Time)",
-        "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
+        "name": "Love, Eternity & Faith",
+        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
       },
       "artists": [
         {
-          "name": "RhyRab",
-          "url": "https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS"
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        },
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 160030,
-      "name": "High (All The Time)",
-      "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
+      "duration_ms": 160490,
+      "name": "Venting",
+      "url": "https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1191,6 +1175,22 @@
       "duration_ms": 154157,
       "name": "Lowkey '",
       "url": "https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "High (All The Time)",
+        "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
+      },
+      "artists": [
+        {
+          "name": "RhyRab",
+          "url": "https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS"
+        }
+      ],
+      "duration_ms": 160030,
+      "name": "High (All The Time)",
+      "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
-      },
-      "artists": [
-        {
-          "name": "AMB",
-          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
-        }
-      ],
-      "duration_ms": 203964,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Stuck In My Ways",
         "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 111253,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
+      },
+      "artists": [
+        {
+          "name": "AMB",
+          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
+        }
+      ],
+      "duration_ms": 203964,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Love, Eternity & Faith",
+        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 135000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Love, Eternity & Faith",
-        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
     },
     {
       "added_at": "2022-08-02 15:42:28",

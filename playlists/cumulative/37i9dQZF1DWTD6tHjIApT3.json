@@ -2830,10 +2830,28 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 256437,
       "name": "deep",
       "url": "https://open.spotify.com/track/2x8fdufCi4pMEY6Hddi0kh"
+    },
+    {
+      "album": {
+        "name": "deep",
+        "url": "https://open.spotify.com/album/7fB5sYBtF3UF31NvBu6sdD"
+      },
+      "artists": [
+        {
+          "name": "Pink Sea",
+          "url": "https://open.spotify.com/artist/1oV4nakuVx667vDeKwRemA"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256437,
+      "name": "deep",
+      "url": "https://open.spotify.com/track/4yYS3wucJBmdeRWFiaqbuJ"
     },
     {
       "album": {
@@ -4032,7 +4050,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 232284,
       "name": "Go back",
       "url": "https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi"
@@ -7691,6 +7709,28 @@
     },
     {
       "album": {
+        "name": "oDoRiKo",
+        "url": "https://open.spotify.com/album/3qQlRiDLPuo6DrvLuqMmgD"
+      },
+      "artists": [
+        {
+          "name": "SUKISHA",
+          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
+        },
+        {
+          "name": "JU!iE",
+          "url": "https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249250,
+      "name": "oDoRiKo",
+      "url": "https://open.spotify.com/track/3in6o3amnJwGKIZf2u6tmi"
+    },
+    {
+      "album": {
         "name": "ODORO!(feat.MIHO FUKUHARA)",
         "url": "https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc"
       },
@@ -8242,6 +8282,24 @@
       "duration_ms": 224560,
       "name": "Perfect! Your Love",
       "url": "https://open.spotify.com/track/5NrqcSAxspspQHsSSoHgey"
+    },
+    {
+      "album": {
+        "name": "Period & Prelude",
+        "url": "https://open.spotify.com/album/022ckq5LsHUzjBbFooMTKy"
+      },
+      "artists": [
+        {
+          "name": "clammbon",
+          "url": "https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329372,
+      "name": "Period & Prelude",
+      "url": "https://open.spotify.com/track/2g5t9kLiQySvjSkhpsK6j5"
     },
     {
       "album": {
@@ -8996,6 +9054,24 @@
       "duration_ms": 248000,
       "name": "Seed",
       "url": "https://open.spotify.com/track/6lqxRu3b2EkoupvUpEXEmm"
+    },
+    {
+      "album": {
+        "name": "Seesaw",
+        "url": "https://open.spotify.com/album/4XHVdHqnRy4ALsX0pBlF6N"
+      },
+      "artists": [
+        {
+          "name": "Chikyukara 2miri Uiteruhitotachi",
+          "url": "https://open.spotify.com/artist/7noDQtNgyA34TFE0ICDYf5"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "Seesaw",
+      "url": "https://open.spotify.com/track/30mrIINmpibZ6exTWiVTLa"
     },
     {
       "album": {
@@ -10677,6 +10753,24 @@
     },
     {
       "album": {
+        "name": "Time of adult",
+        "url": "https://open.spotify.com/album/6729vNYmT495Qsn8IQuE83"
+      },
+      "artists": [
+        {
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207014,
+      "name": "Time of adult",
+      "url": "https://open.spotify.com/track/52BmVOetghDJzb1LtVYx3n"
+    },
+    {
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC"
       },
@@ -11616,7 +11710,7 @@
     {
       "album": {
         "name": "We've Come So Far",
-        "url": "https://open.spotify.com/album/3yMGaBA6j0ruj1gnYdCGp4"
+        "url": "https://open.spotify.com/album/6TdjKQw56ZFOExxjqQf7qo"
       },
       "artists": [
         {
@@ -11627,6 +11721,24 @@
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 238831,
+      "name": "We've Come So Far",
+      "url": "https://open.spotify.com/track/6NPWhHGuKj5lHVOYCjqENO"
+    },
+    {
+      "album": {
+        "name": "We've Come So Far",
+        "url": "https://open.spotify.com/album/3yMGaBA6j0ruj1gnYdCGp4"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
       "duration_ms": 238831,
       "name": "We've Come So Far",
       "url": "https://open.spotify.com/track/6dGRGV7x5kKiqLu6TJ1ua7"
@@ -11666,6 +11778,28 @@
       "duration_ms": 261829,
       "name": "Wellmade",
       "url": "https://open.spotify.com/track/4c3w3gcinYMP7NiAGr9o30"
+    },
+    {
+      "album": {
+        "name": "I Want to See You So Badly",
+        "url": "https://open.spotify.com/album/5AvOgLo5tbPdTxwO1OYB00"
+      },
+      "artists": [
+        {
+          "name": "\u77e2\u91ce\u9855\u5b50\u30fb\u91ce\u53e3\u8061\u4e00",
+          "url": "https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS"
+        },
+        {
+          "name": "Akiko Yano",
+          "url": "https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124493,
+      "name": "What a View",
+      "url": "https://open.spotify.com/track/4xeDgkZZMm7e42KRhgynhe"
     },
     {
       "album": {
@@ -12854,7 +12988,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 124493,
       "name": "\u3054\u3089\u3093",
       "url": "https://open.spotify.com/track/3QgiKtomG9JIt3U4hljXJU"
@@ -14126,7 +14260,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 207014,
       "name": "\u30aa\u30c8\u30ca\u306e\u6642\u9593",
       "url": "https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2"
@@ -14638,7 +14772,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 182800,
       "name": "\u30b7\u30fc\u30bd\u30fc",
       "url": "https://open.spotify.com/track/7HvFjjZs7ge4Ie8v0lRLqb"
@@ -15470,7 +15604,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 329372,
       "name": "\u30d4\u30ea\u30aa\u30c9\u3068\u30d7\u30ec\u30ea\u30e5\u30fc\u30c9",
       "url": "https://open.spotify.com/track/4Kn58T8pSI4FoW4okByWP7"
@@ -17858,7 +17992,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
@@ -21128,7 +21262,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 249250,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/7pn8sAIxVMDnAmgoy72jZt"

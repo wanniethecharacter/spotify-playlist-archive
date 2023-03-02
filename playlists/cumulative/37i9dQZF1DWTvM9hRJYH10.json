@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum. Cover: Walker County",
+  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum. Cover: Karley Scott Collins",
   "name": "Young Nashville",
   "tracks": [
     {
@@ -1454,6 +1454,24 @@
       "duration_ms": 182442,
       "name": "Heartbreak Girl",
       "url": "https://open.spotify.com/track/30usOzYWz8pd8Y00FjTW2P"
+    },
+    {
+      "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/2M5Y6YoELhOhQcgY1nGL9X"
+      },
+      "artists": [
+        {
+          "name": "Karley Scott Collins",
+          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192386,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/0fx1Oyto2wN6gLenluWyYJ"
     },
     {
       "album": {
@@ -3122,6 +3140,24 @@
       "duration_ms": 210496,
       "name": "Over the Weekend",
       "url": "https://open.spotify.com/track/14rwllmMI8akokL4gQPLIN"
+    },
+    {
+      "album": {
+        "name": "Petty in the 80s",
+        "url": "https://open.spotify.com/album/48Hpr0CUSFKnyCBAycvrrj"
+      },
+      "artists": [
+        {
+          "name": "Karley Scott Collins",
+          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Petty in the 80s",
+      "url": "https://open.spotify.com/track/5Mo1eAltBg5Mb3vR8ZYvwn"
     },
     {
       "album": {

@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 253722,
       "name": "19\u2103",
       "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 181400,
       "name": "All Through the Night",
       "url": "https://open.spotify.com/track/36LFopdtzqjhLU6syX7oJ7"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 152957,
       "name": "brownie",
       "url": "https://open.spotify.com/track/0s2tWUZc1jyVEqAyr4QjsQ"
@@ -3694,7 +3694,7 @@
     {
       "album": {
         "name": "Inner Flight",
-        "url": "https://open.spotify.com/album/7KoD7YR4ptUXOapcoAZFFx"
+        "url": "https://open.spotify.com/album/47rJv4QQ7AsIdiDlpiDWNr"
       },
       "artists": [
         {
@@ -3709,6 +3709,28 @@
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233454,
+      "name": "Inner Flight",
+      "url": "https://open.spotify.com/track/1FyZDPAWN0ZonSt95lvxGr"
+    },
+    {
+      "album": {
+        "name": "Inner Flight",
+        "url": "https://open.spotify.com/album/7KoD7YR4ptUXOapcoAZFFx"
+      },
+      "artists": [
+        {
+          "name": "UEBO",
+          "url": "https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ"
+        },
+        {
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
       "duration_ms": 233454,
       "name": "Inner Flight",
       "url": "https://open.spotify.com/track/6xPZ9lFdNHcUJA4oLDUyyg"
@@ -5425,6 +5447,28 @@
     },
     {
       "album": {
+        "name": "oDoRiKo",
+        "url": "https://open.spotify.com/album/3qQlRiDLPuo6DrvLuqMmgD"
+      },
+      "artists": [
+        {
+          "name": "SUKISHA",
+          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
+        },
+        {
+          "name": "JU!iE",
+          "url": "https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249250,
+      "name": "oDoRiKo",
+      "url": "https://open.spotify.com/track/3in6o3amnJwGKIZf2u6tmi"
+    },
+    {
+      "album": {
         "name": "ODORO!(feat.MIHO FUKUHARA)",
         "url": "https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc"
       },
@@ -6259,7 +6303,7 @@
         },
         {
           "name": "KRICK",
-          "url": "https://open.spotify.com/artist/0zZo5sDK4Bm49a9SSKvSf1"
+          "url": "https://open.spotify.com/artist/4vD5wi2rLVnQoXKspx48x2"
         }
       ],
       "date_added": "2023-02-28",
@@ -8802,7 +8846,7 @@
     {
       "album": {
         "name": "We've Come So Far",
-        "url": "https://open.spotify.com/album/3yMGaBA6j0ruj1gnYdCGp4"
+        "url": "https://open.spotify.com/album/6TdjKQw56ZFOExxjqQf7qo"
       },
       "artists": [
         {
@@ -8813,6 +8857,24 @@
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 238831,
+      "name": "We've Come So Far",
+      "url": "https://open.spotify.com/track/6NPWhHGuKj5lHVOYCjqENO"
+    },
+    {
+      "album": {
+        "name": "We've Come So Far",
+        "url": "https://open.spotify.com/album/3yMGaBA6j0ruj1gnYdCGp4"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
       "duration_ms": 238831,
       "name": "We've Come So Far",
       "url": "https://open.spotify.com/track/6dGRGV7x5kKiqLu6TJ1ua7"
@@ -11590,7 +11652,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 216302,
       "name": "\u7948\u308a",
       "url": "https://open.spotify.com/track/7HPycbZx8VSAwN1tOdy4Ty"
@@ -11794,7 +11856,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 249250,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/7pn8sAIxVMDnAmgoy72jZt"

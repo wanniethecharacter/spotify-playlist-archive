@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: LUIS, TYM
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,589 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,065 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love \- Remix](https://open.spotify.com/track/3ftLcyt5pQA4Z3paDbI6wB) | [NVBR](https://open.spotify.com/artist/2SK1xoft5PyuLAxTjK9RVe) | [Love \- Remix](https://open.spotify.com/album/4YO6PeUBpVc9pI8d68q21r) | 3:02 |
+| 1 | [My Love](https://open.spotify.com/track/5X0PDEd9BQIMrVPBeVQvS0) | [Lil\-K](https://open.spotify.com/artist/79hts1H3bhswabKZPnX9jB) | [My Love](https://open.spotify.com/album/0ptwsotnVJ0o53NHutCREC) | 3:02 |
 | 2 | [Hör mal mein Herz <3…](https://open.spotify.com/track/4TVTKtOqCfx9MIckLwSfca) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Hör mal mein Herz <3…](https://open.spotify.com/album/5uACPYkV733Y98ZHQE6QMA) | 1:26 |
 | 3 | [Timeout](https://open.spotify.com/track/3CiAZWNRw0WFIjXAjCap1J) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [Timeout](https://open.spotify.com/album/5L6FluwTqosoaRfV5Yoal7) | 2:27 |
 | 4 | [sure thing \(sped up\)](https://open.spotify.com/track/6fBiLOkPcQ3iFUpmIv88fQ) | [accelerate](https://open.spotify.com/artist/7IErGg6ZCfFyJJoKGUUBpv), [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [sure thing \(sped up\)](https://open.spotify.com/album/2OcWg39f3Ms3Zsf01J7asL) | 1:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Nie Mein Shawty](https://open.spotify.com/track/0rCl2Tq2rctLJaqcv4nzV1) | [Romero](https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU) | [Nie Mein Shawty](https://open.spotify.com/album/7BUBA636QQxzHhSxTcC2ft) | 2:42 |
 | 100 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 
-Snapshot ID: `MTY3NzIyOTI1OSwwMDAwMDAwMGY4Y2Q2MzUyZWUzOTJkYzcwMjMwZjg0NjBjMmQ2OWY3`
+Snapshot ID: `MTY3NzIyOTI1OSwwMDAwMDAwMDI3NGU1ZTY4YjVlNGNjYTA0NTU2NjMwNzhkOGQ3Nzli`

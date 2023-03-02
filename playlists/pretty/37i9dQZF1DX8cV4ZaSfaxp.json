@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: En Sokum(\uc740\uc18c\uae08)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 36540,
+  "num_followers": 36590,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM2MDQ2MiwwMDAwMDAwMGI2YTM4MTgxNTVjMDg1MTk4NGQ2ZTk2NmZiNDU3Y2Iy",
+  "snapshot_id": "MTY3NjM2MDQ2MiwwMDAwMDAwMGNiY2U3MzViNjNhODJjYjUyMGEzMjdhZjIwYzU5Nzg0",
   "tracks": [
     {
       "added_at": "2023-02-14 07:41:01",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "\uce74\ub77c(KARA) 6th Mini Album [Day&Night]",
-        "url": "https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 212950,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 218160,
       "name": "Jam Jam",
       "url": "https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "\uce74\ub77c(KARA) 6th Mini Album [Day&Night]",
+        "url": "https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 212950,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
+        "name": "Afterlife (Feat. OOHYO)",
+        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
+      },
+      "artists": [
+        {
+          "name": "Space Cowboy",
+          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
+        },
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 270713,
+      "name": "Afterlife (Feat. OOHYO)",
+      "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
         "name": "Love & Evil",
         "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
       },
@@ -1099,22 +1119,6 @@
       "duration_ms": 201409,
       "name": "Rain 51db",
       "url": "https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
-        "name": "Onstage Digging Club Seoul Part.03",
-        "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "It's Beautiful",
-      "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1139,22 +1143,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Afterlife (Feat. OOHYO)",
-        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
+        "name": "Onstage Digging Club Seoul Part.03",
+        "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
       },
       "artists": [
         {
-          "name": "Space Cowboy",
-          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
-        },
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 270713,
-      "name": "Afterlife (Feat. OOHYO)",
-      "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
+      "duration_ms": 234000,
+      "name": "It's Beautiful",
+      "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Cream Dream",
-        "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
       },
       "artists": [
         {
-          "name": "TrophyCat",
-          "url": "https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK"
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
         }
       ],
-      "duration_ms": 196112,
-      "name": "Cream Dream",
-      "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Ending",
-        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
+        "name": "Cream Dream",
+        "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
       },
       "artists": [
         {
-          "name": "JUNE",
-          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+          "name": "TrophyCat",
+          "url": "https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK"
         }
       ],
-      "duration_ms": 226453,
-      "name": "A day of weather",
-      "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
+      "duration_ms": 196112,
+      "name": "Cream Dream",
+      "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
       "artists": [
         {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
         }
       ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
+      "duration_ms": 226453,
+      "name": "A day of weather",
+      "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 231294,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
         "name": "MOOD FOR LOVE",
         "url": "https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Sparkling",
-        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+        "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
+        "url": "https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk"
       },
       "artists": [
         {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+          "name": "Seoulmoon",
+          "url": "https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP"
         }
       ],
-      "duration_ms": 231294,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+      "duration_ms": 194772,
+      "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
+      "url": "https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
-        "url": "https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk"
-      },
-      "artists": [
-        {
-          "name": "Seoulmoon",
-          "url": "https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP"
-        }
-      ],
-      "duration_ms": 194772,
-      "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
-      "url": "https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "THIS CITY",
         "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 194400,
       "name": "THIS CITY",
       "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
-        "name": "S.O.S",
-        "url": "https://open.spotify.com/album/2sfzPfHxZZ5zYro4dHuCjF"
-      },
-      "artists": [
-        {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        }
-      ],
-      "duration_ms": 200166,
-      "name": "S.O.S",
-      "url": "https://open.spotify.com/track/6AFTQ1U8UwAZt1yG1bs9pN"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "THE PARK IN THE NIGHT part three",
-        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
+        "name": "S.O.S",
+        "url": "https://open.spotify.com/album/2sfzPfHxZZ5zYro4dHuCjF"
       },
       "artists": [
         {
-          "name": "GWSN",
-          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
         }
       ],
-      "duration_ms": 213150,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
+      "duration_ms": 200166,
+      "name": "S.O.S",
+      "url": "https://open.spotify.com/track/6AFTQ1U8UwAZt1yG1bs9pN"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1483,6 +1467,22 @@
       "duration_ms": 236031,
       "name": "10 Seconds",
       "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "THE PARK IN THE NIGHT part three",
+        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
+      },
+      "artists": [
+        {
+          "name": "GWSN",
+          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
+        }
+      ],
+      "duration_ms": 213150,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "When My Loneliness Calls You (From The Original TV Show \"Live On\")",
-        "url": "https://open.spotify.com/album/1UjN6iS3t6X7TiBpZynE2l"
-      },
-      "artists": [
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        },
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        }
-      ],
-      "duration_ms": 257031,
-      "name": "When My Loneliness Calls You",
-      "url": "https://open.spotify.com/track/61fkpzyUvPX7PMz9PnuHTF"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 243381,
       "name": "Ondo (with LeeHi)",
       "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "When My Loneliness Calls You (From The Original TV Show \"Live On\")",
+        "url": "https://open.spotify.com/album/1UjN6iS3t6X7TiBpZynE2l"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        }
+      ],
+      "duration_ms": 257031,
+      "name": "When My Loneliness Calls You",
+      "url": "https://open.spotify.com/track/61fkpzyUvPX7PMz9PnuHTF"
     },
     {
       "added_at": "2023-02-14 07:41:01",

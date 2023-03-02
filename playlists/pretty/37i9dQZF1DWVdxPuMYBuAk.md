@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,166 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,240 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 11 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 |
 | 12 | [Eat Them Apples](https://open.spotify.com/track/7ofbhfuwvOfeG8yIKI9aeK) | [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 2:55 |
 | 13 | [I Love You](https://open.spotify.com/track/2asYogTvOCEZe9LGIjzMA4) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/13PivTjVtAlNX45TRXKqB4) | 3:22 |
-| 14 | [Me and My Mind](https://open.spotify.com/track/4QG1X1iG7fevXjaEeGLmBI) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Me and My Mind](https://open.spotify.com/album/09xUbuXHA0Wp7QqHOE1Pdh) | 3:04 |
+| 14 | [Me and My Mind](https://open.spotify.com/track/54VcbKsuJ3875eI8B0OIbq) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Me and My Mind](https://open.spotify.com/album/3c5yEziaKqiTeN8hcaiCCH) | 3:04 |
 | 15 | [Beginning Middle End \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/1BOhfgNrX3vKKrzyTKhsPE) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:15 |
 | 16 | [Tutti Frutti](https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:24 |
 | 17 | [I Like Me Better \- Ryan Riback Remix](https://open.spotify.com/track/2wViKxJDqr6AUG6dv7oMW4) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [I met you when I was 18\. \(the extras\)](https://open.spotify.com/album/53L0zJIjxxqClZyJGN5p7o) | 3:30 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 35 | [Real Love](https://open.spotify.com/track/2f47eePMUJvRVVqWdA4JC2) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Rabbit Hole](https://open.spotify.com/album/3O9h4n6a5yGA4OCcwNx2se) | 3:46 |
 | 36 | [The Same](https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Same / Real Love](https://open.spotify.com/album/0zWFPw6BqkytZZ2roxs9vh) | 3:53 |
 | 37 | [Peaches](https://open.spotify.com/track/7yndlXlrUV0dA01TBMvxuY) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Peaches](https://open.spotify.com/album/4hyB3TXvwJuvBgXMbOFBeH) | 3:30 |
-| 38 | [lift me from the ground](https://open.spotify.com/track/7snnEDYwv30hRtmifVni8P) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [album1](https://open.spotify.com/album/3KHPqtzQKRPKup29xEQWtg) | 4:20 |
+| 38 | [lift me from the ground](https://open.spotify.com/track/7kZVirTc3V6d4YWtu6RaAu) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [album1](https://open.spotify.com/album/4ng50Mr3rntmZPj89Xshm9) | 4:20 |
 | 39 | [Beginning Middle End \- Always and Forever Mix\)\(From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/00EsQxsJv6vy7hEQN3jZWG) | [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:16 |
 | 40 | [Feeling That](https://open.spotify.com/track/4jJ5PJ407RwLXghBgiGUHb) | [Sioux Sioux](https://open.spotify.com/artist/6KrbxHXkdLfQMRiy2vM6vQ) | [Feeling That](https://open.spotify.com/album/1i46yGiP77fHX4iueTN38t) | 3:18 |
 | 41 | [I Will Take Care Of You](https://open.spotify.com/track/5EqnXSr74hfTgMa2n2Ne54) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [This Is Where I Live](https://open.spotify.com/album/77N6jWITSP46ToG6ESeHUh) | 2:52 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 77 | [Nadir](https://open.spotify.com/track/5pGCxazPxShO5jBpOyM85f) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Modern Addiction](https://open.spotify.com/album/36uRsDIqy2qooBY9gum3qC) | 4:01 |
 | 78 | [Hypnotic Regression](https://open.spotify.com/track/0AIhZWdCh5A01W5ldiS6Z5) | [Girls Names](https://open.spotify.com/artist/4UAxwzDV5PYB11huf5Shs3) | [The New Life](https://open.spotify.com/album/7cUfFtYLowKwLNrrJiAxFj) | 3:48 |
 | 79 | [This / That](https://open.spotify.com/track/7sx3aDUXa9tSDcDqYhIcVI) | [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Bad Baby](https://open.spotify.com/album/6Er2GVXW6JrjaYqAwVaPII) | 4:28 |
-| 80 | [Video Child](https://open.spotify.com/track/5MBKDKheLzcGoRYGWpFNNg) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1cRf3YRjE0pm48CNQC6eCr) | 5:00 |
+| 80 | [Video Child](https://open.spotify.com/track/4kpRLUBWg4GSNlfmWuMil7) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Away for All Time](https://open.spotify.com/album/1nvh4GtBzBIidFQyXaEDOz) | 5:00 |
 | 81 | [Cool Out](https://open.spotify.com/track/0sVe9dSeNSisHB0OocGykj) | [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4), [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Cool Out](https://open.spotify.com/album/1vzpMBK4bvXFEBwLIy37Ey) | 4:22 |
 | 82 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
 | 83 | [When I Dance with You](https://open.spotify.com/track/2GQia0YdSaFinMOz9koAXu) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Echo of Pleasure](https://open.spotify.com/album/53OcLnAgz2Pi9hgUyE0vGv) | 4:47 |
 | 84 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 85 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 |
 
-Snapshot ID: `MTY0NDQ0NzMxMywwMDAwMDAwMDY1NTY2OTYxNDkxYzM3MzNhMTQ0Mjc0ZDhkNDIyNTNm`
+Snapshot ID: `MTY0NDQ0NzMxMywwMDAwMDAwMDFmZWM2Mzg4ZWNiNjY1MWNiNmMwZjI2NDhjOWNkZTY2`

@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-845 songs - 2 day 2 hr 11 min
+846 songs - 2 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Dreaming \- Mahogany Sessions](https://open.spotify.com/track/11VjvbhJ8QdHC37VktjfUA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/album/0DvXICZwcJszRJpYglIVOy) | 4:31 | 2021-12-21 | 2022-07-29 |
 | [Dreaming \- Mahogany Sessions](https://open.spotify.com/track/5myjsv8hybpNWNIWtLaW4T) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/album/58iAtZRKMXR0mg1WntNBsa) | 4:31 | 2022-07-08 | 2022-12-25 |
 | [Dreams](https://open.spotify.com/track/7x7DOytG3tRbZsaLMt4JBq) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Dreams](https://open.spotify.com/album/2LH8xN3t9OREDNJhAo99F5) | 3:34 | 2021-12-21 | 2022-04-09 |
-| [Drink About \- Acoustic Version](https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Drink About \(Acoustic Version\)](https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo) | 2:57 | 2021-12-21 |  |
+| [Drink About \- Acoustic Version](https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Drink About \(Acoustic Version\)](https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo) | 2:57 | 2021-12-21 | 2023-03-02 |
 | [drivers license](https://open.spotify.com/track/2Or2xCQrCtsu5Pkg8DuAvz) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Covers from Home](https://open.spotify.com/album/5hRLamvDu0NbkTBuVHkdA4) | 3:48 | 2021-12-21 | 2022-11-26 |
 | [drivers license](https://open.spotify.com/track/4GtkO065k7XSNJ9OQcnBHW) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Covers from Home](https://open.spotify.com/album/6BAh6hwMexhCLh3myahu5A) | 3:48 | 2022-12-02 |  |
 | [Dude](https://open.spotify.com/track/1BGu0LjKQfC63QBaRMYc66) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [Dude](https://open.spotify.com/album/2NfRYje8N8j6nwTbAVxp9B) | 2:40 | 2022-02-03 | 2022-04-12 |
@@ -639,6 +639,7 @@
 | [Something American](https://open.spotify.com/track/3UATWsUyES5Nkcqo22NUG5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4NDLVoNCIFbnWX3JGY3pR2) | 3:02 | 2022-07-08 | 2022-09-15 |
 | [Something American](https://open.spotify.com/track/3s1zYiwrFKVQmCPaiCAK5T) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4xnVEOwaNKhm2Z9LsfY968) | 3:03 | 2022-03-24 | 2022-04-19 |
 | [Something Worth Saving](https://open.spotify.com/track/10THcVz6xpbsdmxzdqCVZV) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Something Worth Saving](https://open.spotify.com/album/4cQroVXGDa7ikTp8l5ZJ64) | 3:38 | 2022-03-24 | 2022-11-13 |
+| [Sometimes I Feel](https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [Sometimes I Feel](https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r) | 2:27 | 2023-02-24 |  |
 | [Somewhere in the Mountains, Somewhere in New York](https://open.spotify.com/track/1YHcldMQte5JOWneD0Rd6A) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Somewhere in the Mountains, Somewhere in New York](https://open.spotify.com/album/4f6O5K1S5PEJHSIxAOSesf) | 4:31 | 2022-03-24 | 2022-04-19 |
 | [Song For You](https://open.spotify.com/track/6okQlv5v9VaJEzoxBUAx4S) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 4:17 | 2022-03-24 | 2022-04-21 |
 | [Song For You](https://open.spotify.com/track/6Nm7N1FI8wGgteRftjsX53) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU) | 4:38 | 2022-03-24 | 2022-04-02 |

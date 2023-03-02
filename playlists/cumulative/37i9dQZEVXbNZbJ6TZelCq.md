@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-1,061 songs - 2 day 8 hr 14 min
+1,062 songs - 2 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Am simtit cum ard](https://open.spotify.com/track/29wM9VUnyLNFyEaHbngdxB) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [BANDO 3](https://open.spotify.com/album/07XMvIHjrlOH9zYUtqpL8L) | 3:27 | 2022-12-24 | 2022-12-26 |
 | [Amnesia](https://open.spotify.com/track/3JhdCHaJZWnvIqFRHhQfCs) | [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP) | [Amnesia](https://open.spotify.com/album/5YK8V15nGoiK1QIxXfH0Yv) | 2:54 | 2021-05-21 | 2021-06-05 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-14 | 2022-09-15 |
-| [Antetokounmpo](https://open.spotify.com/track/47YtkJKWNuemFKKFT3QklE) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Înapoi La Viață](https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH) | 4:57 | 2022-08-12 |  |
+| [Antetokounmpo](https://open.spotify.com/track/47YtkJKWNuemFKKFT3QklE) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Înapoi La Viață](https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH) | 4:57 | 2022-08-12 | 2023-03-02 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2022-11-25 |
 | [Antisocial \(feat\. Juice WRLD\)](https://open.spotify.com/track/3lakLxKgelrvKBTyGwDXhX) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:22 | 2021-06-13 | 2021-06-14 |
 | [Anturaj](https://open.spotify.com/track/3741dyZRKWQQZxy2dplpWp) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Supernova](https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG) | [Anturaj](https://open.spotify.com/album/3lgIMxv01hehzGuDqfdeam) | 3:27 | 2022-01-04 | 2022-01-08 |
@@ -638,6 +638,7 @@
 | [Need to Know](https://open.spotify.com/track/10hcDov7xmcRviA8jLwEaI) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Need to Know](https://open.spotify.com/album/7N3SiwnBMR1C8hcA4W1GtH) | 3:30 | 2021-06-14 | 2021-06-20 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-06-27 | 2022-01-05 |
 | [Nefiu](https://open.spotify.com/track/7cqBCPSg3gGx5WLcThHq0c) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv), [Ian](https://open.spotify.com/artist/67jmOUMmXY6qY19JcTpBoO) | [Nefiu](https://open.spotify.com/album/5Lwzw3ukbFMyrZPJ14PqTr) | 3:05 | 2022-04-24 | 2023-01-04 |
+| [Neiubita ta](https://open.spotify.com/track/30ez5ibqjbK1AySCZBFKax) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Neiubita ta](https://open.spotify.com/album/2S2ROlqR75qyK9juZymOIG) | 2:49 | 2023-03-01 |  |
 | [NETFLIX & CHILL](https://open.spotify.com/track/3QU5eXxZW0R9G9gAh0AFRP) | [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [CORDIAL](https://open.spotify.com/album/5LpBSwOZaLQfU2mVU3Vyzm) | 2:39 | 2021-12-12 | 2021-12-13 |
 | [New Again](https://open.spotify.com/track/2GPTiPR5db727wu1tFvFt4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:03 | 2021-08-31 | 2021-09-02 |
 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:27 | 2022-12-03 | 2022-12-18 |

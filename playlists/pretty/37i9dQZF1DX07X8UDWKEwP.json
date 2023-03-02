@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Man\u00fa, Be\u00e9le & Andr\u00e9s Cepeda",
-  "num_followers": 248289,
+  "num_followers": 248319,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDJhMTRlNGY0YjFiMjNkZDBhMDQyMzBiM2RjYzJhZDdi",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGZjZGMzNWJjZjY1YTI3ZjcwNmQ5NzE1NzU0YmEwNTlh",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Peligro de Amor",
-        "url": "https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp"
-      },
-      "artists": [
-        {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
-        }
-      ],
-      "duration_ms": 256045,
-      "name": "Peligro de Amor",
-      "url": "https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Bluetooth",
         "url": "https://open.spotify.com/album/3bDX277eDWvvUECpCIKDUj"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 160560,
       "name": "Bluetooth",
       "url": "https://open.spotify.com/track/3TtXbnqC4U5BUW1NlOFHVz"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Peligro de Amor",
+        "url": "https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp"
+      },
+      "artists": [
+        {
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+        }
+      ],
+      "duration_ms": 256045,
+      "name": "Peligro de Amor",
+      "url": "https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160856,
-      "name": "ADI\u00d3S",
-      "url": "https://open.spotify.com/track/0oCg7mNg3DDcKsB5wfWo9r"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Esta Canci\u00f3n",
         "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 214145,
       "name": "Esta Canci\u00f3n",
       "url": "https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160856,
+      "name": "ADI\u00d3S",
+      "url": "https://open.spotify.com/track/0oCg7mNg3DDcKsB5wfWo9r"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Encaprichao",
         "url": "https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 129323,
       "name": "Encaprichao",
       "url": "https://open.spotify.com/track/1d2UAejVm1DMf78pfick1d"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -647,18 +647,38 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Tentaciones Vol 2.",
-        "url": "https://open.spotify.com/album/7wDmNPbuG28t71sP1m4gsb"
+        "name": "Soltemos al Mundo",
+        "url": "https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm"
       },
       "artists": [
         {
-          "name": "Charlie Cruz",
-          "url": "https://open.spotify.com/artist/3BiAkgxrLIXhB4evNuF2hn"
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        },
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 240555,
-      "name": "Besame XXX",
-      "url": "https://open.spotify.com/track/3Vpw562wr7JptY0d2HwrfG"
+      "duration_ms": 213255,
+      "name": "Soltemos al Mundo",
+      "url": "https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Sube Tela",
+        "url": "https://open.spotify.com/album/0OW0rzFBUtjViPP6SB2IBs"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Sube Tela",
+      "url": "https://open.spotify.com/track/2ZSO65g1JGMNiyftPfXO7w"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -695,22 +715,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Quien Dijo",
-        "url": "https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 241346,
-      "name": "Quien Dijo",
-      "url": "https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Confesi\u00f3n",
         "url": "https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L"
       },
@@ -731,6 +735,38 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Quien Dijo",
+        "url": "https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 241346,
+      "name": "Quien Dijo",
+      "url": "https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Tentaciones Vol 2.",
+        "url": "https://open.spotify.com/album/7wDmNPbuG28t71sP1m4gsb"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cruz",
+          "url": "https://open.spotify.com/artist/3BiAkgxrLIXhB4evNuF2hn"
+        }
+      ],
+      "duration_ms": 240555,
+      "name": "Besame XXX",
+      "url": "https://open.spotify.com/track/3Vpw562wr7JptY0d2HwrfG"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Cuando Te Toco",
         "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
       },
@@ -747,22 +783,6 @@
       "duration_ms": 246759,
       "name": "Cuando Te Toco",
       "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Sube Tela",
-        "url": "https://open.spotify.com/album/0OW0rzFBUtjViPP6SB2IBs"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Sube Tela",
-      "url": "https://open.spotify.com/track/2ZSO65g1JGMNiyftPfXO7w"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -859,22 +879,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Empezando Otra Vez",
-        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 248325,
-      "name": "Te Equivocaste Conmigo",
-      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Sin Tu Amor",
         "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
       },
@@ -891,6 +895,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Empezando Otra Vez",
+        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 248325,
+      "name": "Te Equivocaste Conmigo",
+      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Ven, Ven",
         "url": "https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 208680,
       "name": "Ven, Ven",
       "url": "https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Soltemos al Mundo",
-        "url": "https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
-        },
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 213255,
-      "name": "Soltemos al Mundo",
-      "url": "https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8"
     }
   ],
   "unique_name": "el nuevo tropical",

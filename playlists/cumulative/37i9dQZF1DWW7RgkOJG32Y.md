@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending new and recent tracks from the last few months\. Cover: Kameron Marlowe
+> Top trending new and recent tracks from the last few months\. Cover: Tigirlily Gold
 
 277 songs - 14 hr 42 min
 

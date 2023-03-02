@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 45166,
+  "num_followers": 45188,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5NjQwMCwwMDAwMDAwMDY1YWIzNzhhZDU4YjcyYmNmMjFiNjE0ODAwZTk1ODM4",
+  "snapshot_id": "MTY3NzU5NjQwMCwwMDAwMDAwMDFkODllZDY5ZWNlOTdmZDRhYTc2NWQ5YWY5OTZkOGYy",
   "tracks": [
     {
       "added_at": "2023-02-28 15:00:00",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+        "name": "A&W",
+        "url": "https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+      "duration_ms": 433916,
+      "name": "A&W",
+      "url": "https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "A&W",
-        "url": "https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS"
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 433916,
-      "name": "A&W",
-      "url": "https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn"
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
         }
       ],
-      "duration_ms": 219020,
-      "name": "Just Another Thing We Don't Talk About",
-      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
+      "duration_ms": 264844,
+      "name": "Temple White",
+      "url": "https://open.spotify.com/track/7elLKWtTEMCbOmYZ37ci9r"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO"
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
       },
       "artists": [
         {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 264844,
-      "name": "Temple White",
-      "url": "https://open.spotify.com/track/7elLKWtTEMCbOmYZ37ci9r"
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -675,18 +675,22 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Be On Your Way",
-        "url": "https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl"
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 244772,
-      "name": "Be On Your Way",
-      "url": "https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX"
+      "duration_ms": 297253,
+      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -711,26 +715,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Flute and Harp",
-        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
+        "name": "Be On Your Way",
+        "url": "https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl"
       },
       "artists": [
         {
-          "name": "Nora Mercz",
-          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
-        },
-        {
-          "name": "Nikolai Rimsky-Korsakov",
-          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
-        },
-        {
-          "name": "Janos Balint",
-          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
-      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
+      "duration_ms": 244772,
+      "name": "Be On Your Way",
+      "url": "https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -751,22 +747,26 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "From Afar",
-        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
+        "name": "Flute and Harp",
+        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Nora Mercz",
+          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
         },
         {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Janos Balint",
+          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
         }
       ],
-      "duration_ms": 297253,
-      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
+      "duration_ms": 212000,
+      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
+      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1"
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 267994,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM"
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+        "name": "Party",
+        "url": "https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 252864,
-      "name": "Free In The Knowledge",
-      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
+      "duration_ms": 267994,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Aselestine",
-        "url": "https://open.spotify.com/album/3YO4xzqS7a56VCkqxgsoy2"
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
       "artists": [
         {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 230173,
-      "name": "Aselestine",
-      "url": "https://open.spotify.com/track/2M7TQ7SQVGxLhIV43yTN8I"
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "Aselestine",
+        "url": "https://open.spotify.com/album/3YO4xzqS7a56VCkqxgsoy2"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 230173,
+      "name": "Aselestine",
+      "url": "https://open.spotify.com/track/2M7TQ7SQVGxLhIV43yTN8I"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
         "name": "TREE",
         "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "\u4eba\u751f\u3078\u306e\u53e4\u4ee3\u306e\u30b9\u30c6\u30c3\u30d7",
-        "url": "https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU"
-      },
-      "artists": [
-        {
-          "name": "Takare Tadame",
-          "url": "https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0"
-        }
-      ],
-      "duration_ms": 130483,
-      "name": "\u4eba\u751f\u3078\u306e\u53e4\u4ee3\u306e\u30b9\u30c6\u30c3\u30d7",
-      "url": "https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/4s9avSHrTQWXFYuEy0IfNZ"
       },
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6"
+        "name": "\u4eba\u751f\u3078\u306e\u53e4\u4ee3\u306e\u30b9\u30c6\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Takare Tadame",
+          "url": "https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0"
         }
       ],
-      "duration_ms": 121250,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e"
+      "duration_ms": 130483,
+      "name": "\u4eba\u751f\u3078\u306e\u53e4\u4ee3\u306e\u30b9\u30c6\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1499,42 +1499,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "A Safe Place To Be",
-        "url": "https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq"
-      },
-      "artists": [
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 199152,
-      "name": "I Wanna See You Smile",
-      "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
-        "name": "tasogare",
-        "url": "https://open.spotify.com/album/6vkWYfXeLfiSenOG4BouTR"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        },
-        {
-          "name": "The Flipside",
-          "url": "https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1"
-        }
-      ],
-      "duration_ms": 136322,
-      "name": "tasogare",
-      "url": "https://open.spotify.com/track/3tDQvzH52bu9gXmTtMSboM"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "Glass: Tissue No. 7 (Musical Moments)",
         "url": "https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs"
       },
@@ -1559,24 +1523,44 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+        "name": "tasogare",
+        "url": "https://open.spotify.com/album/6vkWYfXeLfiSenOG4BouTR"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        },
+        {
+          "name": "The Flipside",
+          "url": "https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1"
         }
       ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
+      "duration_ms": 136322,
+      "name": "tasogare",
+      "url": "https://open.spotify.com/track/3tDQvzH52bu9gXmTtMSboM"
     },
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
+        "name": "A Safe Place To Be",
+        "url": "https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 199152,
+      "name": "I Wanna See You Smile",
+      "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6"
       },
       "artists": [
         {
@@ -1584,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 180057,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
+      "duration_ms": 121250,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
+      },
+      "artists": [
+        {
+          "name": "Itoko Toma",
+          "url": "https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Leaves and Light",
+      "url": "https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
         "name": "Dos Oruguitas [From \"Encanto\" (Feat. Sebasti\u00e1n Yatra)]",
         "url": "https://open.spotify.com/album/461CLQruOGg653N6axfh6K"
       },
@@ -1643,38 +1643,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0~beautiful sleep~",
-        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
-      },
-      "artists": [
-        {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
-        }
-      ],
-      "duration_ms": 201306,
-      "name": "\u30d1\u30c3\u30d8\u30eb\u30d9\u30eb\u306e\u30ab\u30ce\u30f3 - beautiful sleep ver.",
-      "url": "https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
-      },
-      "artists": [
-        {
-          "name": "Itoko Toma",
-          "url": "https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Leaves and Light",
-      "url": "https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
         "url": "https://open.spotify.com/album/0f1utxCEh4RRCXVPQYfhXG"
       },
@@ -1691,6 +1659,22 @@
       "duration_ms": 210026,
       "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
       "url": "https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0~beautiful sleep~",
+        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
+      },
+      "artists": [
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+        }
+      ],
+      "duration_ms": 201306,
+      "name": "\u30d1\u30c3\u30d8\u30eb\u30d9\u30eb\u306e\u30ab\u30ce\u30f3 - beautiful sleep ver.",
+      "url": "https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1723,6 +1707,22 @@
       "duration_ms": 199784,
       "name": "Ieta",
       "url": "https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 180057,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Summer Wine",
-        "url": "https://open.spotify.com/album/0On0y1iTi5xDGokahA6iMS"
+        "name": "Life in Process",
+        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
       },
       "artists": [
         {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+          "name": "Masaki Kawasaki",
+          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
         }
       ],
-      "duration_ms": 135176,
-      "name": "Summer Wine",
-      "url": "https://open.spotify.com/track/7b8IcOvAOdaYJEaLW5dv9C"
+      "duration_ms": 199400,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Life in Process",
-        "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
+        "name": "Summer Wine",
+        "url": "https://open.spotify.com/album/0On0y1iTi5xDGokahA6iMS"
       },
       "artists": [
         {
-          "name": "Masaki Kawasaki",
-          "url": "https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK"
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
         }
       ],
-      "duration_ms": 199400,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
+      "duration_ms": 135176,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/7b8IcOvAOdaYJEaLW5dv9C"
     },
     {
       "added_at": "2023-02-28 15:00:00",

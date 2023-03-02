@@ -4,7 +4,7 @@
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-271 songs - 14 hr 50 min
+272 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Hallelujah](https://open.spotify.com/track/2olKV1Kl0yp2WdK78jcFsR) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [My Gift](https://open.spotify.com/album/1wI9NGtQCnhyweuVACpXW4) | 4:35 | 2021-12-16 |  |
 | [Hang Your Hat on My Christmas Tree \- Dave Audé Remix](https://open.spotify.com/track/0I6Q4KRB2u36hQdoFF38vL) | [Cody Belew](https://open.spotify.com/artist/57mO2JxS9Ce0dX4ZJsUlfk), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Hang Your Hat on My Christmas Tree \(Dave Audé Remix\)](https://open.spotify.com/album/6CHlCUzydanGGo0pmi97oc) | 2:36 | 2021-12-16 | 2022-10-08 |
 | [Hangover For Christmas](https://open.spotify.com/track/5PibhDx6l13d6e2kiKOcfW) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Hangover For Christmas](https://open.spotify.com/album/5BvP4OjFYbqwRGdInh5aZC) | 3:00 | 2021-12-16 | 2022-10-08 |
-| [Happy Holiday with Me](https://open.spotify.com/track/7B6q1fpfancMEaQ5D4vZed) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [O.N.E Very Merry Christmas](https://open.spotify.com/album/1ec4f3q3bHBzP5IgqXMFAw) | 2:40 | 2022-10-14 |  |
+| [Happy Holiday With Me](https://open.spotify.com/track/3bCxSYyw6x9q6ooG0SB3SK) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [O.N.E Very Merry Christmas](https://open.spotify.com/album/6hp4z5Z80cAUCdioFrptuh) | 2:40 | 2022-12-16 |  |
+| [Happy Holiday with Me](https://open.spotify.com/track/7B6q1fpfancMEaQ5D4vZed) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [O.N.E Very Merry Christmas](https://open.spotify.com/album/1ec4f3q3bHBzP5IgqXMFAw) | 2:40 | 2022-10-14 | 2023-03-02 |
 | [Hard Candy Christmas](https://open.spotify.com/track/2889QIzPxnBJhcUpLI8EGX) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [Hard Candy Christmas](https://open.spotify.com/album/0irDJ8FJTTRkBaJrHYB7uy) | 3:08 | 2022-11-18 |  |
 | [Hard Candy Christmas](https://open.spotify.com/track/47xcINWj6dcm7RFXXtr4gQ) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Hard Candy Christmas](https://open.spotify.com/album/7kgL9ZYLySa4PfRzcorozE) | 4:14 | 2021-12-16 | 2022-10-08 |
 | [Hard Candy Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/7ARgYvIGWXcAyKCmxZMqEW) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Hard Candy Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/2rnJ0VBNmS5pdFrbY9p8YI) | 4:09 | 2021-12-16 |  |

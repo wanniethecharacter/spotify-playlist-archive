@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Duquesa
 
-91 songs - 4 hr 40 min
+92 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,10 +42,11 @@
 | [Faz Arrepiar](https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz) | [Fashion Piva](https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk), [Ane](https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG) | [Faz Arrepiar](https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7) | 2:20 | 2023-02-17 |  |
 | [Garota Nota 100](https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Garota Nota 100](https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi) | 3:15 | 2023-01-20 |  |
 | [Gosto de Você](https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Gosto de Você](https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw) | 2:50 | 2022-11-18 |  |
-| [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 | 2023-01-27 |  |
+| [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 | 2023-01-27 | 2023-03-02 |
 | [incomum](https://open.spotify.com/track/70zl4IbecZee4V3YubNt4J) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [incomum](https://open.spotify.com/album/2jpFAKZ13KRb8EqChWMBON) | 3:37 | 2022-11-18 |  |
 | [intenção](https://open.spotify.com/track/0skj9KDlD6sFf7RB8SgWB4) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Vício](https://open.spotify.com/album/1Xc3wQDbAv60BjFIcUoy59) | 2:13 | 2022-11-18 |  |
 | [Intenção](https://open.spotify.com/track/40rijjvXbyX6alCMtM2r3Z) | [Wallace Lopes](https://open.spotify.com/artist/3SCWQkVBlN3uvNQoXSHCAN), [Damiana Sadili](https://open.spotify.com/artist/3hbg9yKFggp4UmquEPpgd5) | [Intenção](https://open.spotify.com/album/3GtRC63GLxKHEq2o7j95A8) | 3:19 | 2022-11-18 |  |
+| [Ir Embora](https://open.spotify.com/track/0afH6dozAUehE0yJB7FMUg) | [Klayver Kazz](https://open.spotify.com/artist/2Z2rOubqtfS2Pg7yZsiPJv), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Ir Embora](https://open.spotify.com/album/6Xz4M5yXXEOgAljSsV1MkV) | 3:08 | 2023-02-24 |  |
 | [Jura pra Mim](https://open.spotify.com/track/5QW2JtmBB42eTfv5Wyu49a) | [ELBER](https://open.spotify.com/artist/0UGner7q3Cy5DfIWnCKBJM), [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [Ana Carvalho](https://open.spotify.com/artist/6nMoGl0eFghgYr5R2pITWz) | [Jura pra Mim](https://open.spotify.com/album/11AB3THEnYaRPkF3V5bG7D) | 2:50 | 2022-11-18 |  |
 | [Licor](https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Hip Hop Machine \#13](https://open.spotify.com/album/6NHVEU2tX4VYNs6t9aFBkP) | 5:30 | 2022-11-18 |  |
 | [Ligação](https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA) | [Meraki](https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs), [BlakkLança](https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX) | [Ligação](https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG) | 3:29 | 2022-11-18 |  |

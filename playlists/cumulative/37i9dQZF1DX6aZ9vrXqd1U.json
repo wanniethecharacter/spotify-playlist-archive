@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 291308,
       "name": "A Red Ray",
       "url": "https://open.spotify.com/track/2KCOmmGptlVGAvFAVzAx7H"
@@ -46,6 +46,28 @@
       "duration_ms": 293706,
       "name": "A Red Ray (feat. miwa)",
       "url": "https://open.spotify.com/track/19jryDqhWoCZeDRDY5bCFK"
+    },
+    {
+      "album": {
+        "name": "Mobile Suit Gundam 40th Anniversary Album ~BEYOND~",
+        "url": "https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI"
+      },
+      "artists": [
+        {
+          "name": "SUGIZO",
+          "url": "https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7"
+        },
+        {
+          "name": "miwa",
+          "url": "https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293706,
+      "name": "A Red Ray (feat. miwa)",
+      "url": "https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF"
     },
     {
       "album": {
@@ -889,6 +911,24 @@
     },
     {
       "album": {
+        "name": "MOBILE SUIT GUNDAM THE ORIGIN - Chronicle of the Loum Battlefield - (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7c0Xs5C1nmkw7rVDVpuCZ8"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Yamazaki",
+          "url": "https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291853,
+      "name": "Hasen no Namida",
+      "url": "https://open.spotify.com/track/2G6cLZijcvKMEcRxThTBtm"
+    },
+    {
+      "album": {
         "name": "HATENA",
         "url": "https://open.spotify.com/album/4hWdLdkGzwMstowEcJoGQw"
       },
@@ -940,10 +980,32 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 383842,
       "name": "Hikari no Hate",
       "url": "https://open.spotify.com/track/6a0Scz4j4tbqURCVyAvNSW"
+    },
+    {
+      "album": {
+        "name": "Mobile Suit Gundam 40th Anniversary Album ~BEYOND~",
+        "url": "https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI"
+      },
+      "artists": [
+        {
+          "name": "SUGIZO",
+          "url": "https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7"
+        },
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386906,
+      "name": "Hikari no Hate (feat. Aina The End)",
+      "url": "https://open.spotify.com/track/0IF2evtzFoRvcgfj805Nkd"
     },
     {
       "album": {
@@ -3688,7 +3750,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 295670,
       "name": "\u7834\u7dda\u306e\u6d99",
       "url": "https://open.spotify.com/track/6p16SQ6gD5TgWI9Sunw9Qw"

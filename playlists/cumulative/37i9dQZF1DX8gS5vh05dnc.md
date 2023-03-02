@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-190 songs - 10 hr 25 min
+191 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-16 |  |
 | [Fly Fly Fly](https://open.spotify.com/track/2LLIuyj3LwG7pAoEa5nRwC) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Everything Is Peachy](https://open.spotify.com/album/6wRP6ClrCoOao42t9zYEVy) | 3:05 | 2022-10-25 | 2022-11-08 |
 | [Free](https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Donavon Frankenreiter](https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG) | 2:28 | 2023-02-13 |  |
-| [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 | 2023-02-13 |  |
+| [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 | 2023-02-13 | 2023-03-02 |
 | [Freeway](https://open.spotify.com/track/2GfkYe0wCV0Rq9ri81Jo9e) | [Crinkle Cut](https://open.spotify.com/artist/2UCFiIIvMdaT4UqRxJVHWk) | [Freeway](https://open.spotify.com/album/7o1TfO6fioQSLVNXttMa8o) | 3:19 | 2022-10-25 | 2022-11-08 |
 | [Fresh Feelings \(feat\. J.Sheon\)](https://open.spotify.com/track/3WRYvBdzmWUg3ccLdwRJ9U) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [Fresh Feelings \(feat\. J.Sheon\)](https://open.spotify.com/album/7FuyF09HbzIg81wIcOg5Mj) | 3:05 | 2022-06-06 | 2022-07-29 |
 | [get2know](https://open.spotify.com/track/4PjMMVmd9Sxe4K3EiAFnfQ) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [get2know](https://open.spotify.com/album/4ZRUUWKt8BonBz7fh1QDHJ) | 3:01 | 2022-06-06 | 2022-07-29 |
@@ -165,6 +165,7 @@
 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 | 2022-11-07 |  |
 | [Summerlight](https://open.spotify.com/track/30XOaNDIPBOTOBTESvjXMu) | [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9) | [Summerlight](https://open.spotify.com/album/67OG30MAKGHt05Lsm1oe7x) | 2:48 | 2022-06-20 | 2022-06-23 |
 | [Sumthin Bout Love](https://open.spotify.com/track/36PagkhheRVG0iFaM55njV) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Sumthin Bout Love](https://open.spotify.com/album/6eqKKHirJmjLlVBJCN87i9) | 3:50 | 2022-06-13 | 2022-07-19 |
+| [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 | 2023-02-27 |  |
 | [Sundays in New York](https://open.spotify.com/track/74wyS8BlwfND1B3dwxlUEL) | [Rian Cult](https://open.spotify.com/artist/2idZntzccbSKeEzNWqzamb), [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL), [Heidi Jauregui](https://open.spotify.com/artist/3n414fIFQCQRnlSPiJKYeN) | [Sundays in New York](https://open.spotify.com/album/6iRtcrq5XjRB90SLrgEeXx) | 3:02 | 2022-06-20 | 2022-07-06 |
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-07-25 |  |
 | [Sunset Boulevard](https://open.spotify.com/track/49cG8acJBlobgHF7lRdpMx) | [Aditya Putra](https://open.spotify.com/artist/44ByzhHSHczvuFYTrEIcST) | [Sunset Boulevard](https://open.spotify.com/album/1wbxKkwgwAVFKS6IumvjRb) | 4:28 | 2022-06-06 | 2022-07-29 |

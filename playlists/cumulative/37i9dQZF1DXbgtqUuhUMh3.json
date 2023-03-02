@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Dandana",
       "url": "https://open.spotify.com/track/0Jxc621ZPErwELUjuQCrXr"
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 246613,
       "name": "Eshrit Sinin",
       "url": "https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo"
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 129532,
       "name": "Hawwa",
       "url": "https://open.spotify.com/track/0uIlJ1aiIJYqscUjXONYPo"
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 188826,
       "name": "Hnaya",
       "url": "https://open.spotify.com/track/37fxraGklh1llULoyhcFCz"
@@ -4142,6 +4142,28 @@
       "duration_ms": 153600,
       "name": "Mn Hadid",
       "url": "https://open.spotify.com/track/4SgFhANgPutWrIB5iJ377I"
+    },
+    {
+      "album": {
+        "name": "Mosafer Anta",
+        "url": "https://open.spotify.com/album/0Zj3QSrDMeGxumSuxPQt7O"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        },
+        {
+          "name": "Lena Chamamyan",
+          "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267241,
+      "name": "Mosafer Anta",
+      "url": "https://open.spotify.com/track/0BVpJSZrmysREiUbIMaDNC"
     },
     {
       "album": {
@@ -5716,7 +5738,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 148494,
       "name": "Ya Yema",
       "url": "https://open.spotify.com/track/0yhfnQQXbiBPAfPHGRBLfM"
@@ -6342,8 +6364,8 @@
       },
       "artists": [
         {
-          "name": "Hana Yousry",
-          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
+          "name": "\u0647\u0646\u0627\u0621 \u064a\u0633\u0631\u064a",
+          "url": "https://open.spotify.com/artist/21mycRtvhUO077yAXgb9H3"
         }
       ],
       "date_added": "2023-02-01",
@@ -7300,6 +7322,24 @@
       "duration_ms": 197302,
       "name": "\u0646\u0633\u0627\u0649",
       "url": "https://open.spotify.com/track/2AVA6NJZXA7UERS5nnsTzz"
+    },
+    {
+      "album": {
+        "name": "\u0646\u0633\u064a\u0646\u0627 \u0646\u0639\u064a\u0634",
+        "url": "https://open.spotify.com/album/5TlwYlQKbof258r72pe1lu"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195468,
+      "name": "\u0646\u0633\u064a\u0646\u0627 \u0646\u0639\u064a\u0634",
+      "url": "https://open.spotify.com/track/0Ia5kzbFM2iMADp1Wq1EZe"
     },
     {
       "album": {

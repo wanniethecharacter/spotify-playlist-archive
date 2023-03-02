@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,794,068 likes - 293 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,794,686 likes - 293 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 36 | [Simplicity](https://open.spotify.com/track/0LdLscWL2kMfEgTNKTe9n5) | [Filippa Greer](https://open.spotify.com/artist/2nbErRms1OxHurL1yna5ov) | [Simplicity](https://open.spotify.com/album/2epRyfhK3oBrbBnHRvjXTM) | 3:25 |
 | 37 | [Center of Attention](https://open.spotify.com/track/3P0y5vYWxPRRekolc4eCHp) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Center of Attention](https://open.spotify.com/album/4zzxld3PGyxOkpB09VpW7u) | 3:26 |
 | 38 | [Cumbre](https://open.spotify.com/track/79YtzS8PtQlSgRnn1Z8Pni) | [On A Cloud](https://open.spotify.com/artist/68sd27bqb8nHxgO6lh9tEo) | [Cumbre](https://open.spotify.com/album/3mZkf1eqF4gNLPyQ4iLJdh) | 2:18 |
-| 39 | [Layers](https://open.spotify.com/track/3h6v2gPzB9ouue4uNq9mVo) | [Da Malia](https://open.spotify.com/artist/21uIQDwO87x0WilDQA3NkT) | [Layers](https://open.spotify.com/album/5fcvLEFHyTopriEc7ffypY) | 2:25 |
+| 39 | [Layers](https://open.spotify.com/track/3h6v2gPzB9ouue4uNq9mVo) | [Da Malia](https://open.spotify.com/artist/221MMXF9lRjQOzfgDdNZA3) | [Layers](https://open.spotify.com/album/5fcvLEFHyTopriEc7ffypY) | 2:25 |
 | 40 | [Anachronic](https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Anachronic](https://open.spotify.com/album/4xvH0fR97sPN1K2NXajyLB) | 2:48 |
 | 41 | [Perpetuality](https://open.spotify.com/track/6Kt4t76FWnzPESRiKYPdSx) | [Parker Woods](https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX) | [Perpetuality](https://open.spotify.com/album/4Q6TErWBcAFskWp665tW4D) | 2:43 |
 | 42 | [Spirits on My Mind](https://open.spotify.com/track/44taQM4lPyUeGSrt5TYhGh) | [Roofies Dragon](https://open.spotify.com/artist/3ETUioJojNZNqdjqmpQsAz) | [Spirits on My Mind](https://open.spotify.com/album/7LGeDsQaq0qZNgDxhxTdCj) | 3:10 |

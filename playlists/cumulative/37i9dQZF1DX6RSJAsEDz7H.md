@@ -4,7 +4,7 @@
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-199 songs - 13 hr 48 min
+200 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [r \- Cali](https://open.spotify.com/track/6AtscuPpNRwDvuehpFtWw1) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr) | 2:19 | 2021-11-17 |  |
 | [Real McKoy \(feat\. Busy Signal\)](https://open.spotify.com/track/0x50dstr4C54wbWTgI9NHD) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Gangsta For Life: The Symphony Of David Brooks](https://open.spotify.com/album/3I7Azh48r3YeQS3m7O8xrz) | 3:31 | 2021-11-17 |  |
 | [Rebel Without A Pause](https://open.spotify.com/track/5vrUTmUF0mDNE8lZWEmU9J) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Grand Theft Auto 8 CD Set \(Explicit Version\)](https://open.spotify.com/album/3hMYWO9KfMPGN4VMUlSjrc) | 5:02 | 2021-11-17 | 2022-07-29 |
-| [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 | 2021-11-17 |  |
+| [Rebel Without A Pause](https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:02 | 2021-11-17 |  |
+| [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 | 2021-11-17 | 2023-03-02 |
 | [Rebel Without A Pause](https://open.spotify.com/track/5dvcKo3zDbRmTmlpi8bsSQ) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Hip\-Hop's Most Haunted](https://open.spotify.com/album/4zGjSFp4AjLUw5vuGEGPDs) | 5:04 | 2021-11-17 | 2022-11-13 |
 | [remote viewing](https://open.spotify.com/track/5DvSH3Y2LUOfqO5DQYiP3j) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Exit](https://open.spotify.com/album/2kPNu9xYVmwVMbfEkbrfyi) | 8:18 | 2021-11-17 |  |
 | [Rising To The Top](https://open.spotify.com/track/3eFyL2sxUrjWxtJsAMe9VE) | [8\-Off Agallah Featuring Sean Price & Bazaar Royale](https://open.spotify.com/artist/1HpeNXcML3EVkAmZlfl2Nv) | [Game Tight](https://open.spotify.com/album/2fq6xLDQhwbswMqTL3ey9M) | 5:02 | 2021-11-17 |  |

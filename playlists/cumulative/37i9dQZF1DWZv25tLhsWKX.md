@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-83 songs - 5 hr 4 min
+84 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Polk Salad Annie](https://open.spotify.com/track/0jtz7Ia3HahOqXWnKad0rn) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Black & White](https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ) | 3:43 | 2021-02-17 |  |
 | [Pushin' Against a Stone](https://open.spotify.com/track/7meaVP9XohwubW6TqvxP4Q) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against a Stone](https://open.spotify.com/album/2ce5ND89nKxicash0FzBYq) | 5:14 | 2021-02-17 | 2022-07-29 |
 | [Pushin’ Against A Stone](https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 5:14 | 2021-02-17 |  |
-| [Put the Gun Down](https://open.spotify.com/track/7fpnWAkZA0YqOcy8dQvTbu) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Put the Gun Down](https://open.spotify.com/album/4WgAjLNij42ukPGP4nfX7N) | 2:51 | 2022-08-26 |  |
+| [Put The Gun Down](https://open.spotify.com/track/06MVDvmfrxQgZAXdw3TfVM) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Put The Gun Down](https://open.spotify.com/album/6mIrUvkAULzaMWm7h7RzKJ) | 2:51 | 2023-02-10 |  |
+| [Put the Gun Down](https://open.spotify.com/track/7fpnWAkZA0YqOcy8dQvTbu) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Put the Gun Down](https://open.spotify.com/album/4WgAjLNij42ukPGP4nfX7N) | 2:51 | 2022-08-26 | 2023-03-02 |
 | [Respect Yourself](https://open.spotify.com/track/56wqwyEEzfYHbXp1larwg8) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Stax Classics](https://open.spotify.com/album/7n799A9IQT4WVDPbXwVa7n) | 3:30 | 2021-02-17 | 2022-11-13 |
 | [Respect Yourself](https://open.spotify.com/track/4Y13tcnF3rc1SHfNyVTjAG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/1jkwBngCquhmnteY7cXjm9) | 3:31 | 2021-02-17 | 2022-07-29 |
 | [Respect Yourself](https://open.spotify.com/track/4lzTyLYXb3ED01TSLCJ1Hz) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:31 | 2021-02-17 |  |

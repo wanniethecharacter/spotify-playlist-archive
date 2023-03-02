@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 85708,
+  "num_followers": 85931,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMGEzNTIxZjhkY2ZiNzFiMzFjMDM4NmRiNTRkN2YyNDE5",
+  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMGE2YjUyNjI2OTJmYjQ4YzIwYTg0MWFmYTYyYzA2Y2Ex",
   "tracks": [
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "You Forgot It In People",
-        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "Anthems For A Seventeen Year-Old Girl",
-      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Louder Than Bombs",
         "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 112706,
       "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
       "url": "https://open.spotify.com/track/1oA0tDRFjY5xoNDXuMBGGA"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "You Forgot It In People",
+        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Anthems For A Seventeen Year-Old Girl",
+      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Let Me Introduce My Friends",
-        "url": "https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L"
-      },
-      "artists": [
-        {
-          "name": "I'm From Barcelona",
-          "url": "https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "We're from Barcelona",
-      "url": "https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Punch-Drunk Love (Music from the Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7sdNTTUH7F47pfAgXkSBUJ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 286533,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/2sZPDd14bOTQ31FomTeSsF"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Let Me Introduce My Friends",
+        "url": "https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L"
+      },
+      "artists": [
+        {
+          "name": "I'm From Barcelona",
+          "url": "https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "We're from Barcelona",
+      "url": "https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5"
     },
     {
       "added_at": "2022-08-26 20:04:38",

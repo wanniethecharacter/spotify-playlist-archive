@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر!  <br/> كوفر: الصواريخ مع أبو الأنوار
 
-130 songs - 8 hr 0 min
+131 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [تليفونى للسؤال](https://open.spotify.com/track/6gbjsT7U7b1I0iARVPUoy8) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [تليفونى للسؤال](https://open.spotify.com/album/3hzCVYGtdd3YzDcmFw53ll) | 3:38 | 2022-07-30 | 2022-11-24 |
 | [جامد](https://open.spotify.com/track/7dhkgivsendkxVgtB9zZo6) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f) | [جامد](https://open.spotify.com/album/50Bc0tbgEIIQ1imsPKeZkO) | 3:00 | 2021-12-16 | 2022-10-25 |
 | [جوب](https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [جوب](https://open.spotify.com/album/0sUROVLFIxptdj9P8Vssyn) | 4:10 | 2022-09-08 |  |
+| [حمرا](https://open.spotify.com/track/0nkJCooURSEVpWFpeYOzeI) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [حمرا](https://open.spotify.com/album/0g8MIat372o8vp1Shk1sMe) | 3:38 | 2023-03-01 |  |
 | [خصمي بكيفه مكتفه \- انا مش بتكسف يا ابلتي](https://open.spotify.com/track/3Kroxt7mnIUfSDFGpWF5yJ) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [خصمي بكيفه مكتفه \(انا مش بتكسف يا ابلتي\)](https://open.spotify.com/album/369scONG77YROb5sy7AnTt) | 4:33 | 2022-03-30 | 2022-06-03 |
 | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/track/1C6pNXiVfcKO49JttTv0xJ) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/album/6nXBRUkDo8ttEm2DItn3sY) | 4:00 | 2021-12-16 |  |
 | [خطوة اجباري](https://open.spotify.com/track/06h6dQDVdXjnIOXGXabW02) | [نور النبوي](https://open.spotify.com/artist/2lvyyBvz0mMzl57uxbzQ15), [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [خطوة اجباري](https://open.spotify.com/album/74il7VqlKq7JEM1oiTrIm5) | 1:50 | 2022-06-06 |  |
@@ -85,7 +86,7 @@
 | [طمنيني](https://open.spotify.com/track/1LBnLlVug13kIthC9VtMcJ) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [طمنيني](https://open.spotify.com/album/3wnNwOBfnZhl6CZ8NtEzc9) | 3:55 | 2021-12-16 | 2022-07-29 |
 | [عادي عادي مبيشغلنيش](https://open.spotify.com/track/24JteCymkDnedpSDPCjLCR) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [بوده محمد](https://open.spotify.com/artist/1RqbnHZJu6fkerAn262p31) | [عادي عادي مبيشغلنيش](https://open.spotify.com/album/2EhOx2z4MHnBhjFlf6D2Q0) | 2:50 | 2021-12-16 |  |
 | [عذرا قد حضر العو](https://open.spotify.com/track/4sN9tEkslUyImMrckTqjut) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [شئلشة](https://open.spotify.com/artist/6g5gJTj2RuFHU1y5dDWbY2), [محمد عبسلام](https://open.spotify.com/artist/3mITpO5lgkYAQFglY4ZFyZ) | [عذرا قد حضر العو](https://open.spotify.com/album/5PO1g2zD7NMsBNpkxVqDUr) | 2:42 | 2023-02-16 |  |
-| [عره فافي عامل مغامر \- بت انتي حب حياتي](https://open.spotify.com/track/0PTlHYXWyCeayIw3Tpafdl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عره فافي عامل مغامر \(بت انتي حب حياتي\)](https://open.spotify.com/album/2eMdQBMDL8ShHvxyDCQkCk) | 3:36 | 2022-07-30 |  |
+| [عره فافي عامل مغامر \- بت انتي حب حياتي](https://open.spotify.com/track/0PTlHYXWyCeayIw3Tpafdl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عره فافي عامل مغامر \(بت انتي حب حياتي\)](https://open.spotify.com/album/2eMdQBMDL8ShHvxyDCQkCk) | 3:36 | 2022-07-30 | 2023-03-02 |
 | [عصفورة \- بتنقل الكلام دى مش رجوله](https://open.spotify.com/track/4Y0HYqCtlXqSCZp3C2UoaY) | [Mohamed Zizo](https://open.spotify.com/artist/3h9YTec0GeWBcIFCFJRDgG), [Za3blawy](https://open.spotify.com/artist/7BkpFKhw7N5aeZ3doZ2k8V) | [عصفورة \(بتنقل الكلام دى مش رجوله\)](https://open.spotify.com/album/61ErcbWUlflfi766DtCkG2) | 3:33 | 2021-12-16 | 2022-03-31 |
 | [عقباوي دمي حامي](https://open.spotify.com/track/589yxRQaTsgjX23dBtgaIz) | [Hamada Abo El Soud](https://open.spotify.com/artist/46Mk53pIP0buQqvhKNlsAH), [Te7a](https://open.spotify.com/artist/5upPnqjYhTrlCrxCwQqTyC) | [عقباوي دمي حامي](https://open.spotify.com/album/46ThkQd2YDMj6yFH1DZaWE) | 2:50 | 2021-12-16 |  |
 | [على وضعنا](https://open.spotify.com/track/5sb9l21Adj5wafYN0U2eo7) | [Ahmed Faransa](https://open.spotify.com/artist/4edzZOS8Fd330sVuzn8D6q) | [على وضعنا](https://open.spotify.com/album/1etJ2v9Joi2EyIjZqQDNJo) | 2:02 | 2021-12-16 | 2022-09-28 |

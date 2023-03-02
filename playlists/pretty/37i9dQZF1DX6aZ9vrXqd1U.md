@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,059 likes - 123 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,140 likes - 123 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 71 | [Ash Like Snow](https://open.spotify.com/track/0nMflPztzJg8C8w1xcHhIe) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [complete single collection '97\-'08](https://open.spotify.com/album/4tTWP0M6kE7r1WkAKvfSV2) | 4:32 |
 | 72 | [Core](https://open.spotify.com/track/16efoleNNHcCHRGnB0la99) | [Mille Face](https://open.spotify.com/artist/3nLAIBYf5Ebm44Y1re9Wyg) | [Core](https://open.spotify.com/album/4liHmwW0xaX3uJtnhhQRVx) | 4:43 |
 | 73 | [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 |
-| 74 | [破線の涙](https://open.spotify.com/track/6p16SQ6gD5TgWI9Sunw9Qw) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [破線の涙](https://open.spotify.com/album/07D1QO5OjgCf9RTD35NViD) | 4:55 |
+| 74 | [Hasen no Namida](https://open.spotify.com/track/2G6cLZijcvKMEcRxThTBtm) | [Masayoshi Yamazaki](https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt) | [MOBILE SUIT GUNDAM THE ORIGIN \- Chronicle of the Loum Battlefield \- \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7c0Xs5C1nmkw7rVDVpuCZ8) | 4:51 |
 | 75 | [罠](https://open.spotify.com/track/1flOkQIJUm6j8XluuFEJCy) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [BEST THE BACK HORN](https://open.spotify.com/album/0yaafXyRahYiHyT69hiP3v) | 4:22 |
 | 76 | [宇宙の彼方で](https://open.spotify.com/track/6x1bX99bVUhBbhzH3gLO8Z) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [宇宙の彼方で](https://open.spotify.com/album/4lv8NOmvqjKAfF1lEDxrCf) | 5:35 |
 | 77 | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/track/1jGRCbz8D1prxGRbSy4Xir) | [服部隆之 Presents GUNDAM THE ORIGIN](https://open.spotify.com/artist/4E6kqE30CXyqBEFxeD8Pj6), [AYA](https://open.spotify.com/artist/5XboRZlTHep5d4fC6AmZkW) | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/album/4ADBrrYkMVaEBe4IP4Jqcl) | 5:24 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 105 | [ココロオドル \-original version\-](https://open.spotify.com/track/424ekFg5fk3v0vmf9K85mU) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [Do You Know ?](https://open.spotify.com/album/1VwAzqa6biqAwybsDXsnm0) | 4:11 |
 | 106 | [MAGIC TIME](https://open.spotify.com/track/6Unwf4vD3ygUvr39kEmIRV) | [sudannayuzuyully](https://open.spotify.com/artist/4AA6Dmgfg8CRDXoBAgnkvc) | [MAGIC TIME](https://open.spotify.com/album/5NgYsNywkut0VDktPlTW8u) | 4:04 |
 | 107 | [星屑の砂時計](https://open.spotify.com/track/74O5dGvC43jOGpOXyYZpE1) | [服部隆之 Presents GUNDAM THE ORIGIN](https://open.spotify.com/artist/4E6kqE30CXyqBEFxeD8Pj6), [yu\-yu](https://open.spotify.com/artist/6KuW1jOW9tCAirqEt0GKlM) | [星屑の砂時計](https://open.spotify.com/album/3gY7UNOVZIAOcanynxE110) | 5:46 |
-| 108 | [Hikari no Hate](https://open.spotify.com/track/6a0Scz4j4tbqURCVyAvNSW) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Hikari no Hate](https://open.spotify.com/album/7DORue0YE6jJImEv9a5pgd) | 6:23 |
+| 108 | [Hikari no Hate \(feat\. Aina The End\)](https://open.spotify.com/track/0IF2evtzFoRvcgfj805Nkd) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 6:26 |
 | 109 | [僕たちの行方](https://open.spotify.com/track/1Wv3Mnr1MTj0Z4abHQANuq) | [Hitomi Takahashi](https://open.spotify.com/artist/1Jim3BQn4Kj7pJXRZ3vlRd) | [青空のナミダ / 僕たちの行方 BESTタッグ](https://open.spotify.com/album/5lg9H3etTkZQE1np1rwGz2) | 4:33 |
 | 110 | [Realize](https://open.spotify.com/track/1c6hdEBSFwutFim9pyaDHm) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Greeting](https://open.spotify.com/album/1tSpBQpRxeTychxGR9NhiQ) | 4:41 |
 | 111 | [wimp](https://open.spotify.com/track/4deAcev969KEs1YrSgnhmS) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [Lil' Fang \(from FAKY\)](https://open.spotify.com/artist/1Uv1E9YZ94w2ExlLGN08cJ) | [RELOAD](https://open.spotify.com/album/3TpgBK0jom391y7SdJF1iO) | 3:43 |
@@ -130,6 +130,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 120 | [星空のBelieve](https://open.spotify.com/track/3FLV3VjxA3sMVXLpUZScb7) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [星空のBelieve](https://open.spotify.com/album/4n3AREDtmXcYvRFNDxuzfP) | 3:30 |
 | 121 | [風にひとりで](https://open.spotify.com/track/1vGEd0fDPCpelshgpYJ7ct) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [風にひとりで](https://open.spotify.com/album/4G15i7KcK0lj7XmGZS2YE7) | 3:28 |
 | 122 | [ビギニング](https://open.spotify.com/track/515LLsIoa7eetaTiFEJSa6) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [ビギニング](https://open.spotify.com/album/4oel0lHGTN643V87ohpAL1) | 3:24 |
-| 123 | [A Red Ray](https://open.spotify.com/track/2KCOmmGptlVGAvFAVzAx7H) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [A Red Ray](https://open.spotify.com/album/3LRl7ohuRCj6RIDTEhcx3r) | 4:51 |
+| 123 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 |
 
-Snapshot ID: `MTY3MDM0NTg1MywwMDAwMDAwMGZhNGZjMWM0MWEwMzMzNDQyODg3OTQ5ZTJhYTE2ZDMx`
+Snapshot ID: `MTY3MDM0NTg1MywwMDAwMDAwMDk1NDQwMzBlMGIxODdkZGZiY2RiMWM1MzhlYmYxNDdm`

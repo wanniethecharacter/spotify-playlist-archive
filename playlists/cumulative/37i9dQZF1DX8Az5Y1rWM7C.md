@@ -4,7 +4,7 @@
 
 > Revive lo mejor del trap latino del año.<br/>Foto: Jhay Cortez, Anuel AA & J Balvin.
 
-69 songs - 4 hr 11 min
+70 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 | 2020-12-01 |  |
 | [Burbujas de Cristal](https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Burbujas de Cristal](https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ) | 3:44 | 2020-12-01 |  |
 | [Burbujas de Cristal](https://open.spotify.com/track/4X1fQMrCbBLSkZKPvhO1Kj) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Burbujas de Cristal](https://open.spotify.com/album/63x472Q4wWqzhfjUURqAfU) | 3:44 | 2020-12-01 | 2022-07-29 |
-| [C90 \(Remix\)](https://open.spotify.com/track/2b6i9zx3ULzKrNWmyP0ePD) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [C90 \(Remix\)](https://open.spotify.com/album/16a33enqgAGsnuMmRH7uHa) | 5:16 | 2020-12-01 |  |
+| [C90 \(Remix\)](https://open.spotify.com/track/2b6i9zx3ULzKrNWmyP0ePD) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [C90 \(Remix\)](https://open.spotify.com/album/16a33enqgAGsnuMmRH7uHa) | 5:16 | 2020-12-01 | 2023-03-02 |
+| [C90 \(Remix\)](https://open.spotify.com/track/6b4ioB9n5Hkeu2GdSOWzJJ) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [C90 \(Remix\)](https://open.spotify.com/album/2OLJMC8S2A3HfNevKPfYm4) | 5:16 | 2020-12-01 |  |
 | [Café](https://open.spotify.com/track/2vHfWA1QJh66ln7dhy4QUN) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [LUYO](https://open.spotify.com/artist/1CEbjili13aEiNZGfyApZL) | [Café](https://open.spotify.com/album/2IO81a5tK82jSynV3E5HCX) | 3:39 | 2020-12-01 |  |
 | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2) | 2:26 | 2020-12-01 |  |
 | [Como Me Ven](https://open.spotify.com/track/7j13aYb9i5749QxSI8Yhfv) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [LVV the Real Rondon](https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR) | 2:47 | 2020-12-01 |  |

@@ -4198,7 +4198,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 177013,
       "name": "good1ife",
       "url": "https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F"
@@ -5906,6 +5906,28 @@
       "duration_ms": 221909,
       "name": "Kitty (Feat. MIYEON ((G)I-DLE)",
       "url": "https://open.spotify.com/track/4Jpsou7XWCNG2cgeFZBSvL"
+    },
+    {
+      "album": {
+        "name": "Koalified",
+        "url": "https://open.spotify.com/album/4PFooguSM49DOGmqLQEadi"
+      },
+      "artists": [
+        {
+          "name": "\ucf54\uc54c\ub77c KOALA",
+          "url": "https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176907,
+      "name": "Koalified",
+      "url": "https://open.spotify.com/track/0ZsMOhMKDO0JDttwfPY7CM"
     },
     {
       "album": {

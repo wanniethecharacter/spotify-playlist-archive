@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 116167,
+  "num_followers": 116306,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNjc4NywwMDAwMDAwMDNkNjVkMjVjODFjNGUzZjE5YWYxNGEyYTY1YzU2MWQ4",
+  "snapshot_id": "MTY3MjQyNjc4NywwMDAwMDAwMGUyYzcxZWI1NmE1NGQ4ODBmMzI4MmZhZDQwNmIyOTVm",
   "tracks": [
     {
       "added_at": "2022-12-30 18:59:47",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Puras Chicotedas, Vol. 2",
-        "url": "https://open.spotify.com/album/6mbswRFWJZYdNHJcyIla2y"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense MM",
-          "url": "https://open.spotify.com/artist/6fgCB45zXDURhJVchnPA0S"
-        }
-      ],
-      "duration_ms": 129560,
-      "name": "El Son de los Aguacates",
-      "url": "https://open.spotify.com/track/4HMxfNzokt7s7zPFN0LdI1"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Puras Chicotedas, Vol. 2",
+        "url": "https://open.spotify.com/album/6mbswRFWJZYdNHJcyIla2y"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MM",
+          "url": "https://open.spotify.com/artist/6fgCB45zXDURhJVchnPA0S"
+        }
+      ],
+      "duration_ms": 129560,
+      "name": "El Son de los Aguacates",
+      "url": "https://open.spotify.com/track/4HMxfNzokt7s7zPFN0LdI1"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Que Chulo Es el Jaripeo",
-        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
-      },
-      "artists": [
-        {
-          "name": "Banda la Fascinante del Merito Zirahuen",
-          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "El Toro Requeson",
-      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
         "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 274064,
       "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
       "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Que Chulo Es el Jaripeo",
+        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
+      },
+      "artists": [
+        {
+          "name": "Banda la Fascinante del Merito Zirahuen",
+          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "El Toro Requeson",
+      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
-        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
-      },
-      "artists": [
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
-        }
-      ],
-      "duration_ms": 197162,
-      "name": "Los Enanitos",
-      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "El Chavo del Ocho (The Elephant Never Forgets)",
         "url": "https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 166876,
       "name": "El Chavo del Ocho (The Elephant Never Forgets)",
       "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "duration_ms": 197162,
+      "name": "Los Enanitos",
+      "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1580,9 +1580,9 @@
           "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
         }
       ],
-      "duration_ms": 168618,
-      "name": "Male Chuchita",
-      "url": "https://open.spotify.com/track/2QfZqEprY6qkKWHNsaMLYe"
+      "duration_ms": 164863,
+      "name": "La Reginita",
+      "url": "https://open.spotify.com/track/7GlZJkyIm9r7TTPmERzLNC"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1596,9 +1596,9 @@
           "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
         }
       ],
-      "duration_ms": 164863,
-      "name": "La Reginita",
-      "url": "https://open.spotify.com/track/7GlZJkyIm9r7TTPmERzLNC"
+      "duration_ms": 168618,
+      "name": "Male Chuchita",
+      "url": "https://open.spotify.com/track/2QfZqEprY6qkKWHNsaMLYe"
     },
     {
       "added_at": "2022-12-30 18:59:47",

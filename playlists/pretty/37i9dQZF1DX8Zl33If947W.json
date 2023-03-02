@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 116891,
+  "num_followers": 117076,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI3ODQzMSwwMDAwMDAwMDIzMTE1ODU0OTMyZjc0MmJjODA5OTMzYTcwY2M2MGVh",
+  "snapshot_id": "MTY3NjI3ODQzMSwwMDAwMDAwMDRjODcwMTFlMGNkZDRiZjQzZmExODk4YWQ2N2MxMDIx",
   "tracks": [
     {
       "added_at": "2023-02-13 08:33:30",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
-      "added_at": "2023-03-01 01:11:57",
+      "added_at": "2023-03-02 00:44:15",
       "album": {
         "name": "Mailbox",
         "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
+        "name": "F\u00fcr den Himmel durch die H\u00f6lle (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Nur f\u00fcr Dich",
+      "url": "https://open.spotify.com/track/7gK3S5NIkw1KdvdnUU1O5z"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
         "name": "Vermissen (feat. Henning May)",
         "url": "https://open.spotify.com/album/2f1G3TDphZQx0jbv9qwMdB"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "F\u00fcr den Himmel durch die H\u00f6lle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Nur f\u00fcr Dich",
-      "url": "https://open.spotify.com/track/7gK3S5NIkw1KdvdnUU1O5z"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Melodie",
-        "url": "https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 195548,
-      "name": "Traum",
-      "url": "https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Endorphine",
         "url": "https://open.spotify.com/album/6NXTCMg4iFotpfmxp7Cf8S"
       },
@@ -311,6 +295,22 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 174873,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
         "name": "Reim (Expanded Edition)",
         "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 220373,
       "name": "Verdammt, ich lieb Dich - 2020 Remastered",
       "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "30-11-80",
+        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 195416,
+      "name": "Liebe",
+      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -355,38 +371,6 @@
       "duration_ms": 176250,
       "name": "Liege wieder wach",
       "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
-        "name": "30-11-80",
-        "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 195416,
-      "name": "Liebe",
-      "url": "https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
-        "name": "Raop",
-        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 174873,
-      "name": "Du",
-      "url": "https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -495,22 +479,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "F\u00fcr Immer",
-        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
-      },
-      "artists": [
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "F\u00fcr Immer",
-      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Immer in Bewegung",
         "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
       },
@@ -523,6 +491,22 @@
       "duration_ms": 212520,
       "name": "Ich lass f\u00fcr dich das Licht an",
       "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "F\u00fcr Immer",
+        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "F\u00fcr Immer",
+      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -867,6 +851,22 @@
       "duration_ms": 228373,
       "name": "Vom selben Stern - Radio Edit",
       "url": "https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "Sommerregen",
+        "url": "https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl"
+      },
+      "artists": [
+        {
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+        }
+      ],
+      "duration_ms": 225481,
+      "name": "Sommerregen",
+      "url": "https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi"
     }
   ],
   "unique_name": "Liebeslieder",

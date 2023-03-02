@@ -3563,6 +3563,24 @@
     },
     {
       "album": {
+        "name": "midnight melody",
+        "url": "https://open.spotify.com/album/3PpJbBS0404mPEK8Lg6dDA"
+      },
+      "artists": [
+        {
+          "name": "Plectric",
+          "url": "https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139145,
+      "name": "midnight melody",
+      "url": "https://open.spotify.com/track/5lPvUiyvXEHMsiuOybY1Dc"
+    },
+    {
+      "album": {
         "name": "milky moon",
         "url": "https://open.spotify.com/album/4D2PsPJFSQwH63YitxHYNy"
       },
@@ -4718,6 +4736,24 @@
       "duration_ms": 131500,
       "name": "Resting bull face",
       "url": "https://open.spotify.com/track/1YWebNgNeLzNqybFQsoXn4"
+    },
+    {
+      "album": {
+        "name": "Reverie lofi",
+        "url": "https://open.spotify.com/album/1T6WZK1VL0NjNmcEFxMG1Q"
+      },
+      "artists": [
+        {
+          "name": "Juanita Garcia",
+          "url": "https://open.spotify.com/artist/5yXjaU6XFq11LZi6Aybxgg"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120857,
+      "name": "Reverie lofi",
+      "url": "https://open.spotify.com/track/7xeGaui2rOd2fKs2NCvMgl"
     },
     {
       "album": {
@@ -6562,6 +6598,24 @@
       "duration_ms": 165600,
       "name": "Yours",
       "url": "https://open.spotify.com/track/2k6nINDNfSvdnF2cSmBt2S"
+    },
+    {
+      "album": {
+        "name": "ZMOOTH",
+        "url": "https://open.spotify.com/album/3L3ORj0iQxym4SDCe0fTew"
+      },
+      "artists": [
+        {
+          "name": "Written On Glass",
+          "url": "https://open.spotify.com/artist/0flGLaDtO2VB3ETpqoZhwg"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124859,
+      "name": "ZMOOTH",
+      "url": "https://open.spotify.com/track/3FOvS4B32VeOvRG6sQyL0m"
     },
     {
       "album": {

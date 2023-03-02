@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de canciones pop para toda la familia.",
-  "num_followers": 39568,
+  "num_followers": 39586,
   "original_name": "Pop para Ni\u00f1os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyODAwOSwwMDAwMDAwMDJmMWE2MTRhNjliYTZjMGFhNmNmNDg5YTYxNjc5ODEz",
+  "snapshot_id": "MTY2MjEyODAwOSwwMDAwMDAwMGNjZmVmYWZiMGJmYzIwOWNmZTE0YjI0MWNiZjE4NGQ0",
   "tracks": [
     {
       "added_at": "2022-08-06 01:30:30",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/1AO5MeGsWdPLejY47pnYYy"
     },
     {
-      "added_at": "2022-08-06 01:35:58",
-      "album": {
-        "name": "Sin Novia",
-        "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "Sin Novia",
-      "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
-    },
-    {
       "added_at": "2020-04-23 18:59:24",
       "album": {
         "name": "SIE7E +",
@@ -651,6 +635,22 @@
       "duration_ms": 177533,
       "name": "Oye Pablo",
       "url": "https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz"
+    },
+    {
+      "added_at": "2022-08-06 01:35:58",
+      "album": {
+        "name": "Sin Novia",
+        "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "Sin Novia",
+      "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
     },
     {
       "added_at": "2021-07-28 16:02:26",
@@ -767,22 +767,6 @@
     {
       "added_at": "2020-04-22 18:52:29",
       "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 186946,
-      "name": "Sodio",
-      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
-    },
-    {
-      "added_at": "2020-04-22 18:52:29",
-      "album": {
         "name": "M\u00e1s Valiente",
         "url": "https://open.spotify.com/album/2bWGnzbEVYMsFdYCIDIA1z"
       },
@@ -813,6 +797,22 @@
       "url": "https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H"
     },
     {
+      "added_at": "2021-07-12 14:03:12",
+      "album": {
+        "name": "Revelaci\u00f3n - EP",
+        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 155956,
+      "name": "De Una Vez",
+      "url": "https://open.spotify.com/track/1v3lhrZEsOcazqR2QIyyRu"
+    },
+    {
       "added_at": "2022-09-02 14:13:29",
       "album": {
         "name": "Un A\u00f1o",
@@ -833,20 +833,20 @@
       "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
     },
     {
-      "added_at": "2021-07-12 14:03:12",
+      "added_at": "2020-04-22 18:52:29",
       "album": {
-        "name": "Revelaci\u00f3n - EP",
-        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 155956,
-      "name": "De Una Vez",
-      "url": "https://open.spotify.com/track/1v3lhrZEsOcazqR2QIyyRu"
+      "duration_ms": 186946,
+      "name": "Sodio",
+      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
     },
     {
       "added_at": "2020-04-23 18:59:24",
@@ -917,6 +917,22 @@
       "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
     },
     {
+      "added_at": "2020-04-22 18:52:29",
+      "album": {
+        "name": "Escr\u00edbeme",
+        "url": "https://open.spotify.com/album/0nwzf3YejDCtModbfBr9sL"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Escr\u00edbeme",
+      "url": "https://open.spotify.com/track/0gLPbKWrfFTifO5m90P8DE"
+    },
+    {
       "added_at": "2022-07-14 21:23:03",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
@@ -935,22 +951,6 @@
       "duration_ms": 179426,
       "name": "Inspiraci\u00f3n",
       "url": "https://open.spotify.com/track/0luqiaAZqlVRhwVpooWC8s"
-    },
-    {
-      "added_at": "2020-04-22 18:52:29",
-      "album": {
-        "name": "Escr\u00edbeme",
-        "url": "https://open.spotify.com/album/0nwzf3YejDCtModbfBr9sL"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Escr\u00edbeme",
-      "url": "https://open.spotify.com/track/0gLPbKWrfFTifO5m90P8DE"
     }
   ],
   "unique_name": "Pop para Ni\u00f1os",

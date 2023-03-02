@@ -4,7 +4,7 @@
 
 > Deep beats to study to.
 
-145 songs - 14 hr 8 min
+146 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 | 2022-03-22 |  |
 | [Archangel](https://open.spotify.com/track/1aaIYTqoRDzRUilU2Q6vTe) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 3:58 | 2022-03-22 | 2022-07-16 |
 | [Archive Seven](https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ) | [Pilotpriest](https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX) | [WWDKF](https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM) | 5:44 | 2022-03-22 |  |
-| [Ars Vivendi](https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm) | [Eisket](https://open.spotify.com/artist/7dg92RF0oCciOkdpRwtskK) | [Ars Vivendi](https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F) | 6:21 | 2022-03-22 |  |
+| [Ars Vivendi](https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm) | [Eisket](https://open.spotify.com/artist/7dg92RF0oCciOkdpRwtskK) | [Ars Vivendi](https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F) | 6:21 | 2022-03-22 | 2023-03-02 |
 | [Arterial](https://open.spotify.com/track/4peVRcmAcueJlmM0dFd8OX) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/0t3mZVc3l8zwo8b8la2jfM) | 4:14 | 2022-03-22 | 2022-07-29 |
 | [Arterial](https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH) | 4:14 | 2022-07-15 |  |
 | [As Long as There's Sunset](https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Aerial](https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89) | 6:09 | 2022-03-22 |  |
@@ -49,7 +49,7 @@
 | [Crushed Ice \- Remix](https://open.spotify.com/track/7jTfuvv1YNU231Ai3D3vuq) | [MAM](https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi) | [Modern Heat](https://open.spotify.com/album/6Nkw7I7WaFL3am2rLlelFT) | 3:43 | 2022-03-22 | 2022-07-29 |
 | [Dance Machine \- Original Mix](https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL), [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Dance Machine](https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn) | 5:40 | 2022-07-15 |  |
 | [Decoder](https://open.spotify.com/track/4LG888bzqPoLOM8UroeS5G) | [Kodomo](https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU) | [Frozen In Motion](https://open.spotify.com/album/5g8ZG8IRvxAwPzv3JpyZkS) | 6:33 | 2022-03-22 | 2022-07-27 |
-| [Deep Blues \- Session Victim Remix](https://open.spotify.com/track/3IRF31C4uQOiT9oqEE8UjX) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Deep Blues](https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s) | 6:21 | 2022-03-22 | 2023-02-28 |
+| [Deep Blues \- Session Victim Remix](https://open.spotify.com/track/3IRF31C4uQOiT9oqEE8UjX) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Deep Blues](https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s) | 6:21 | 2022-03-22 |  |
 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 | 2022-07-15 |  |
 | [Deep Eyes Blue Skies](https://open.spotify.com/track/73Om0wV3hW3K0nLBQhZeh2) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2sJi5IEWJmJX7KrnqGTQfi) | 6:40 | 2022-03-22 | 2022-07-29 |
 | [Deepart 8.0](https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI) | [Async](https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t) | [Frekk EP](https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE) | 7:54 | 2022-03-22 |  |
@@ -72,6 +72,7 @@
 | [Grand St\. Blues](https://open.spotify.com/track/5BxTUvzRSTGakm0iXAVtu8) | [Lovers](https://open.spotify.com/artist/3WDMaTckX5c9kOGLU7N6uz) | [Grand St\. Blues](https://open.spotify.com/album/2Nua0uyD0jz5XOcSBdKqkl) | 4:04 | 2022-03-22 | 2022-07-29 |
 | [Gulch](https://open.spotify.com/track/5QwqstnenYJb97CaZYV4Qs) | [Tipper](https://open.spotify.com/artist/1soJ22UMyjIw6SYFtoFJwe) | [Forward Escape](https://open.spotify.com/album/6ZQJYNWtH2hZwnECEw354L) | 3:56 | 2022-03-22 |  |
 | [Harmony \- Original Mix](https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3) | [Francis Inferno Orchestra](https://open.spotify.com/artist/3OOEKzLNBzkeQWCKun4UXe) | [Where Will You Be Spending Eternity?](https://open.spotify.com/album/13iR44I1vESNGv6QTn4Wwi) | 5:14 | 2022-03-22 |  |
+| [Hawkmoth](https://open.spotify.com/track/0LQwjyPTElZ4rKxJXEPFnq) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Reachy Prints](https://open.spotify.com/album/1gEUsLhMFziQj29kuo65hk) | 4:48 | 2022-07-15 |  |
 | [Hawkmoth](https://open.spotify.com/track/44MqpNL8xdtG3hTT2QWbQ4) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Reachy Prints](https://open.spotify.com/album/4nwAU3LuHt6nL5KLqhzw1z) | 4:48 | 2022-03-22 | 2023-02-03 |
 | [Heading North](https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Flu](https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi) | [Endless Sacrifice](https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J) | 7:17 | 2022-07-15 |  |
 | [Home](https://open.spotify.com/track/01mTrac137TL0EgIktc4fo) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nobody Is Not Loved](https://open.spotify.com/album/2NarmNFabeJTZpjO4VL1eF) | 3:41 | 2022-03-22 |  |
@@ -132,7 +133,7 @@
 | [Synphonic](https://open.spotify.com/track/71NOKuKaMW49PnrIpHuqw1) | [Tchaka](https://open.spotify.com/artist/45v1hQPdUt5dbHdDpRnxpL) | [Synphonic](https://open.spotify.com/album/4ccUpQaGFT5DFmW7MdcGAk) | 6:38 | 2022-03-22 | 2022-07-29 |
 | [Take Your Place](https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT) | [Lucci Minati](https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1) | [The Ring EP](https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse) | 6:31 | 2022-03-22 |  |
 | [Talk to Me You'll Understand](https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE) | 6:57 | 2022-03-22 |  |
-| [The Ganga river unpolluted once more](https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki) | [Aron Estocolmo](https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra) | [In search of Moksha..\. Or something of the kind](https://open.spotify.com/album/1ZYN9az0XRYYi3sGRt836S) | 6:37 | 2022-03-22 |  |
+| [The Ganga river unpolluted once more](https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki) | [Aron Estocolmo](https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra) | [In search of Moksha..\. Or something of the kind](https://open.spotify.com/album/1ZYN9az0XRYYi3sGRt836S) | 6:37 | 2022-03-22 | 2023-03-02 |
 | [The Hymn Of Fallen Dreams](https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [Hold Me To The Light](https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI) | 7:54 | 2022-03-22 |  |
 | [The Year After](https://open.spotify.com/track/3VZ3LogsGmVdGuDwOGZgqu) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/4q14VFOUqwQLNMQzVdJUBG) | 7:08 | 2022-03-22 | 2022-07-29 |
 | [The Year After](https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [The Year After](https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M) | 7:08 | 2022-07-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 133267,
+  "num_followers": 133342,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDBjN2RlYWRlNDExMWViMDYxMWZjN2NiZDZiMTg4OWE2",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDJkYTE5Y2M3MTIwY2ExNmM5OGIyNzY1N2U1NDMyNDkz",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Sweetheart Of The Rodeo",
-        "url": "https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "You Ain't Goin' Nowhere",
-      "url": "https://open.spotify.com/track/6kPxXhjSvy8RsmZBAJUiFs"
-    },
-    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "Certified Hits (Remastered)",
@@ -151,6 +135,22 @@
       "duration_ms": 215400,
       "name": "Mr. Bojangles - Remastered 2001",
       "url": "https://open.spotify.com/track/3cq6mwsjgygbwRIi9wVPGv"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Sweetheart Of The Rodeo",
+        "url": "https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "You Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/6kPxXhjSvy8RsmZBAJUiFs"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "The Flying Burrito Brothers",
-        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
-      },
-      "artists": [
-        {
-          "name": "The Flying Burrito Brothers",
-          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
-        }
-      ],
-      "duration_ms": 298893,
-      "name": "Just Can't Be",
-      "url": "https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp"
-    },
-    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "Greatest Hits",
@@ -331,6 +315,22 @@
       "duration_ms": 219346,
       "name": "This Ol' Cowboy",
       "url": "https://open.spotify.com/track/0diAR6QUxrDiEBjRZSfweR"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "The Flying Burrito Brothers",
+        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
+      },
+      "artists": [
+        {
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
+        }
+      ],
+      "duration_ms": 298893,
+      "name": "Just Can't Be",
+      "url": "https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp"
     },
     {
       "added_at": "2022-06-01 14:20:20",
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Renegade Picker",
-        "url": "https://open.spotify.com/album/6ri0hV7jR1ETLP5zRH4RGk"
-      },
-      "artists": [
-        {
-          "name": "Steve Young",
-          "url": "https://open.spotify.com/artist/4JzwsGHb8ZN03C7JauWsWH"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "It's Not Supposed to Be That Way",
-      "url": "https://open.spotify.com/track/4jNBYAK1mPmgM66wZEx6rr"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 235106,
       "name": "Make A Little Magic - 2001 Remaster",
       "url": "https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Renegade Picker",
+        "url": "https://open.spotify.com/album/6ri0hV7jR1ETLP5zRH4RGk"
+      },
+      "artists": [
+        {
+          "name": "Steve Young",
+          "url": "https://open.spotify.com/artist/4JzwsGHb8ZN03C7JauWsWH"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "It's Not Supposed to Be That Way",
+      "url": "https://open.spotify.com/track/4jNBYAK1mPmgM66wZEx6rr"
     },
     {
       "added_at": "2020-08-05 15:52:11",

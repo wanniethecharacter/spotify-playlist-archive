@@ -4,7 +4,7 @@
 
 > Tiago PZK en la casa del Trap de Argentino.
 
-180 songs - 8 hr 51 min
+181 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [QUÉ LOCO](https://open.spotify.com/track/5gvKZfC4fZ4P4B8qvqCeRo) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [POCHOCLOS](https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP) | 2:31 | 2022-06-17 | 2023-01-28 |
 | [RELOJES REVENTADOS](https://open.spotify.com/track/3WHBTuOibN5pPTiz9eyUpA) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:40 | 2022-11-11 |  |
 | [Roma](https://open.spotify.com/track/3xywCyObh95Tge2J6aM90B) | [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT), [Arse](https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX), [R.J.Ä](https://open.spotify.com/artist/3Q8bocv6goyDOaHXauuYp8), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [Roma](https://open.spotify.com/album/6YX2jYAlZjERuOlpjI3Rbt) | 3:30 | 2022-04-01 | 2022-10-29 |
-| [Rompediscoteka](https://open.spotify.com/track/5IdLmgNH1r8QQbELC1GueB) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Rompediscoteka](https://open.spotify.com/album/22pOSKsw95pibnK4OZq2Om) | 3:02 | 2022-04-01 |  |
+| [Rompediscoteka](https://open.spotify.com/track/5IdLmgNH1r8QQbELC1GueB) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Rompediscoteka](https://open.spotify.com/album/22pOSKsw95pibnK4OZq2Om) | 3:02 | 2022-04-01 | 2023-03-02 |
+| [ROMPEDISCOTEKA](https://open.spotify.com/track/65pH9RioD4Kw4laCZdWexI) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [ROMPEDISCOTEKA](https://open.spotify.com/album/0vmEOqbr8asBKT1OlmSgNb) | 3:02 | 2023-02-24 |  |
 | [RPSNT](https://open.spotify.com/track/1IhWFLPAiD30fCt2YoIa5Y) | [Osx Mob](https://open.spotify.com/artist/6uJE0vxnT7UNCgBHOCZ7WV), [Spekter](https://open.spotify.com/artist/2hliiu43MCbFQnDtfXKXsm) | [RPSNT](https://open.spotify.com/album/1y1CLAGu91YqmrlWP04xo0) | 2:48 | 2022-01-21 | 2022-03-05 |
 | [Salsa Suprema](https://open.spotify.com/track/0A4F5SYr1vmvNJ9mdA7fJQ) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Salsa Suprema](https://open.spotify.com/album/7hKtv2HaJdDylmlykXCcEX) | 2:32 | 2023-01-27 |  |
 | [Sangre](https://open.spotify.com/track/3ODrnuH1Qx2iX6P7MEo3lF) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Sangre](https://open.spotify.com/album/7jxepQCHjYw27f7DWpApSW) | 2:47 | 2022-01-21 | 2022-04-02 |

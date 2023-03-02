@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Dalex, Ryan Castro, y Symon Dice",
-  "num_followers": 512812,
+  "num_followers": 512865,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1OTc5MSwwMDAwMDAwMGRhYTcyYzdmMzFiZWM4YmJkOTFhNjBiMDE0OWE4MTk5",
+  "snapshot_id": "MTY3NzI1OTc5MSwwMDAwMDAwMDZiYWM5YWU2N2QyNTI5MmQ2NjdiNjJlOTQwZDkwODMy",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Gatita",
-        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 153062,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "LPM",
         "url": "https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 223992,
       "name": "La Bebe",
       "url": "https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/7eiLYbtnvcPcA7UE7lcgqm"
     },
     {
-      "added_at": "2023-03-01 01:10:34",
+      "added_at": "2023-03-02 00:26:32",
       "album": {
         "name": "UuU",
         "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Si Me Sobrara el Tiempo",
+        "url": "https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Si Me Sobrara el Tiempo",
+      "url": "https://open.spotify.com/track/2ypbIXW3a7fsLdLtLpZWDZ"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Whiskey y Coco",
         "url": "https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Si Me Sobrara el Tiempo",
-        "url": "https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Si Me Sobrara el Tiempo",
-      "url": "https://open.spotify.com/track/2ypbIXW3a7fsLdLtLpZWDZ"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Arte",
         "url": "https://open.spotify.com/album/531LZb17gcTf6iu8wIc7kt"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 192000,
       "name": "Arte",
       "url": "https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Chulo",
+        "url": "https://open.spotify.com/album/2oDHlQQn8sthDVKO8pJ6eZ"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 120413,
+      "name": "Chulo",
+      "url": "https://open.spotify.com/track/3szqC0lxrJdhn3eW6FfFfo"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -583,22 +599,6 @@
       "duration_ms": 216000,
       "name": "Dominicana",
       "url": "https://open.spotify.com/track/0xCRFfgIHOsmovVZzrFCoT"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Chulo",
-        "url": "https://open.spotify.com/album/2oDHlQQn8sthDVKO8pJ6eZ"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 120413,
-      "name": "Chulo",
-      "url": "https://open.spotify.com/track/3szqC0lxrJdhn3eW6FfFfo"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -659,6 +659,26 @@
       "duration_ms": 191052,
       "name": "Big Booty",
       "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "TAMO EN NOTA",
+        "url": "https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "duration_ms": 180060,
+      "name": "TAMO EN NOTA",
+      "url": "https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -727,26 +747,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "TAMO EN NOTA",
-        "url": "https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        }
-      ],
-      "duration_ms": 180060,
-      "name": "TAMO EN NOTA",
-      "url": "https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Nopalatele",
         "url": "https://open.spotify.com/album/1snuYixt90LiQwCVQtUwOC"
       },
@@ -771,22 +771,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Clickiamos",
-        "url": "https://open.spotify.com/album/4r4fzFm36AaDlOKKF6Cr4o"
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
       },
       "artists": [
         {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        },
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Clickiamos",
-      "url": "https://open.spotify.com/track/29epP1fWAPigLlCi0h5iU2"
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -823,18 +819,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
+        "name": "Clickiamos",
+        "url": "https://open.spotify.com/album/4r4fzFm36AaDlOKKF6Cr4o"
       },
       "artists": [
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        },
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
+      "duration_ms": 219533,
+      "name": "Clickiamos",
+      "url": "https://open.spotify.com/track/29epP1fWAPigLlCi0h5iU2"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Drippin",
+        "url": "https://open.spotify.com/album/72qQWFH7ABnGnn3y7npnpA"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Drippin",
+      "url": "https://open.spotify.com/track/5LH8MkYXQ9C43PNrbCMVwq"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Siempre Blessd",
         "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 167733,
       "name": "Kame Hame",
       "url": "https://open.spotify.com/track/7xh93gqqo5VBD6tGRp77qv"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Drippin",
-        "url": "https://open.spotify.com/album/72qQWFH7ABnGnn3y7npnpA"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Drippin",
-      "url": "https://open.spotify.com/track/5LH8MkYXQ9C43PNrbCMVwq"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "TU ME QUIERES?",
+        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "TU ME QUIERES?",
+      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Quien Va a Frontiar",
         "url": "https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf"
       },
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "TU ME QUIERES?",
-        "url": "https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "TU ME QUIERES?",
-      "url": "https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Patio de la C\u00e1rcel (Tangos)",
         "url": "https://open.spotify.com/album/3a7J9AYQxcUpC5RaFJw59c"
       },
@@ -1035,26 +1035,6 @@
       "duration_ms": 202097,
       "name": "Patio de la C\u00e1rcel - Tangos",
       "url": "https://open.spotify.com/track/6dCJdn6puMU4OFbIqTzLDy"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "AP",
-        "url": "https://open.spotify.com/album/2961gn3NRzleGQPWL0wJf2"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Foreign Teck",
-          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "AP",
-      "url": "https://open.spotify.com/track/44Gd0fsaqfM814xSWqgTe4"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1095,6 +1075,26 @@
       "duration_ms": 191917,
       "name": "Todo Menso",
       "url": "https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "AP",
+        "url": "https://open.spotify.com/album/2961gn3NRzleGQPWL0wJf2"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "AP",
+      "url": "https://open.spotify.com/track/44Gd0fsaqfM814xSWqgTe4"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Bebi Demasiado",
+        "url": "https://open.spotify.com/album/1g8IVrqLI8ZwCvBSp0UoCZ"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "duration_ms": 148453,
+      "name": "Bebi Demasiado",
+      "url": "https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Toronto",
         "url": "https://open.spotify.com/album/1QOr09jMkuAzns6EAxUkr0"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 232277,
       "name": "Toronto",
       "url": "https://open.spotify.com/track/2HoDXiTgzmcNiY1Pich8cP"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Bebi Demasiado",
-        "url": "https://open.spotify.com/album/1g8IVrqLI8ZwCvBSp0UoCZ"
-      },
-      "artists": [
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        }
-      ],
-      "duration_ms": 148453,
-      "name": "Bebi Demasiado",
-      "url": "https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/0D7TME7LVUblhluJnxUT8n"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 197378,
+      "name": "Tasty",
+      "url": "https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5NpLWVbpJ0q1iFRDkPaOjK"
       },
@@ -1707,26 +1727,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/0D7TME7LVUblhluJnxUT8n"
-      },
-      "artists": [
-        {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 197378,
-      "name": "Tasty",
-      "url": "https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "ODISEA",
         "url": "https://open.spotify.com/album/6VrCQZOumRGIfk3EsjyfZN"
       },
@@ -1739,26 +1739,6 @@
       "duration_ms": 242240,
       "name": "ODISEA",
       "url": "https://open.spotify.com/track/6xf7EMkgOnsdkwtLj524Gr"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Romeo",
-        "url": "https://open.spotify.com/album/0QZODC5XhYHHCowfJFOHbC"
-      },
-      "artists": [
-        {
-          "name": "Mequi",
-          "url": "https://open.spotify.com/artist/37sm4BRjUMEVI6iUC1Zg6k"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 198951,
-      "name": "Romeo",
-      "url": "https://open.spotify.com/track/2mkS6DKJIldz6Qv88e2ka9"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1779,6 +1759,26 @@
       "duration_ms": 211968,
       "name": "Dios Y Mi Fe",
       "url": "https://open.spotify.com/track/0VO3n8Y01UTsZYCelzwu9M"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/0QZODC5XhYHHCowfJFOHbC"
+      },
+      "artists": [
+        {
+          "name": "Mequi",
+          "url": "https://open.spotify.com/artist/37sm4BRjUMEVI6iUC1Zg6k"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 198951,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/2mkS6DKJIldz6Qv88e2ka9"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "La Copa",
-        "url": "https://open.spotify.com/album/35tpDrBCdtuyINZQVW0X8k"
-      },
-      "artists": [
-        {
-          "name": "Darkiel",
-          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "La Copa",
-      "url": "https://open.spotify.com/track/0Ytw6vO3vGY47p707NUaC8"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Light Zone",
         "url": "https://open.spotify.com/album/0IeVTWuigUFBLtaL3zQBZC"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 197333,
       "name": "Light Zone",
       "url": "https://open.spotify.com/track/5NNqDGrDCdEFBQNXZoYZdT"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "La Copa",
+        "url": "https://open.spotify.com/album/35tpDrBCdtuyINZQVW0X8k"
+      },
+      "artists": [
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "La Copa",
+      "url": "https://open.spotify.com/track/0Ytw6vO3vGY47p707NUaC8"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Hoy En Dia",
+        "url": "https://open.spotify.com/album/55XiOVXxv8iuG7bBzI1GU1"
+      },
+      "artists": [
+        {
+          "name": "YoGambii",
+          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Hoy En Dia",
+      "url": "https://open.spotify.com/track/7nNkcIRoXZKYFqD3nVHt0n"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "QUE VAMO HACER",
         "url": "https://open.spotify.com/album/109mh3p0iUwkwgqN13sF73"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 212420,
       "name": "QUE VAMO HACER",
       "url": "https://open.spotify.com/track/7iDD6EPPrKYGcvabJhbGX6"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Hoy En Dia",
-        "url": "https://open.spotify.com/album/55XiOVXxv8iuG7bBzI1GU1"
-      },
-      "artists": [
-        {
-          "name": "YoGambii",
-          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Hoy En Dia",
-      "url": "https://open.spotify.com/track/7nNkcIRoXZKYFqD3nVHt0n"
     },
     {
       "added_at": "2023-02-24 05:00:00",

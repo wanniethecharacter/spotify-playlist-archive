@@ -1915,6 +1915,28 @@
     },
     {
       "album": {
+        "name": "Changing Fast",
+        "url": "https://open.spotify.com/album/2HOaGI7ZdFheqQoS03Rpnh"
+      },
+      "artists": [
+        {
+          "name": "Hel:sl\u00f8wed",
+          "url": "https://open.spotify.com/artist/153wxN1mEz167KM0a34zss"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216393,
+      "name": "Changing Fast",
+      "url": "https://open.spotify.com/track/5MYbfoSdlUXShTDqLspv9S"
+    },
+    {
+      "album": {
         "name": "Chasing Dreams",
         "url": "https://open.spotify.com/album/193OHe6QohyJUPd8ENNlKa"
       },
@@ -3730,7 +3752,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 228750,
       "name": "Forgiven Not Forgotten",
       "url": "https://open.spotify.com/track/3WPkQDALdIsNZ1SY6bn9u2"
@@ -4426,7 +4448,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 165483,
       "name": "Heroes For One Day",
       "url": "https://open.spotify.com/track/0GC56le7ReiMLDzRteFqGw"
@@ -4690,7 +4712,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 231304,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/5uU8ZBRbxxw4LaGqfaIhOY"
@@ -7001,6 +7023,24 @@
     },
     {
       "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/1SYQHb33hqsSCHTcUCbWRA"
+      },
+      "artists": [
+        {
+          "name": "Shogun",
+          "url": "https://open.spotify.com/artist/6diiyZ15AVZoSxzAyjIYJT"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205420,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/7AHQCsa2s0ix8fnA489mLs"
+    },
+    {
+      "album": {
         "name": "Nexus Point",
         "url": "https://open.spotify.com/album/662G6dI2ixFAXUPOdZpCOJ"
       },
@@ -8274,7 +8314,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 222470,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/6SgvrfbLr63HjUH2fa23gS"
@@ -9356,6 +9396,28 @@
       "duration_ms": 243763,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0PJr4eTfffgfHQda27VpIq"
+    },
+    {
+      "album": {
+        "name": "Soundscape",
+        "url": "https://open.spotify.com/album/0D5zpBdgsCQAfeXtpoUuhK"
+      },
+      "artists": [
+        {
+          "name": "Steve Dekay",
+          "url": "https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE"
+        },
+        {
+          "name": "Proyal",
+          "url": "https://open.spotify.com/artist/4Lof8bu6EJxnEX2owLrVtP"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238285,
+      "name": "Soundscape",
+      "url": "https://open.spotify.com/track/2ckuYy0wxNGXfjrRLfCnQQ"
     },
     {
       "album": {
@@ -11088,6 +11150,28 @@
     {
       "album": {
         "name": "WARRIOR",
+        "url": "https://open.spotify.com/album/1OnswtGIHmQubKovKfiRop"
+      },
+      "artists": [
+        {
+          "name": "Emma Hewitt",
+          "url": "https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8"
+        },
+        {
+          "name": "Daxson",
+          "url": "https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208656,
+      "name": "WARRIOR",
+      "url": "https://open.spotify.com/track/4Nwj9lMURvCAsU6DQDuy3Q"
+    },
+    {
+      "album": {
+        "name": "WARRIOR",
         "url": "https://open.spotify.com/album/6PbOFCxXMR13eXpEzuVnmL"
       },
       "artists": [
@@ -11154,6 +11238,28 @@
       "duration_ms": 224091,
       "name": "Way To You",
       "url": "https://open.spotify.com/track/6oOWzHuMNBZSopa3zvvuoQ"
+    },
+    {
+      "album": {
+        "name": "We Are In Ctrl",
+        "url": "https://open.spotify.com/album/5B6kzLobgTCLlKaohhJna6"
+      },
+      "artists": [
+        {
+          "name": "Crowd+Ctrl",
+          "url": "https://open.spotify.com/artist/2Jgx1nqdBfRJCktEPjLreh"
+        },
+        {
+          "name": "ReOrder",
+          "url": "https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207550,
+      "name": "We Are In Ctrl",
+      "url": "https://open.spotify.com/track/32e5YeMoTGAhe8aITrtBen"
     },
     {
       "album": {
@@ -11560,7 +11666,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 242000,
       "name": "You Can't Save Me",
       "url": "https://open.spotify.com/track/61dE4pgV3F1TKdrPm3ToCD"

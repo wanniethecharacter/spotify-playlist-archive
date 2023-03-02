@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-534 songs - 1 day 10 hr 7 min
+536 songs - 1 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Abracada\-Boo](https://open.spotify.com/track/6sScdgu1m1tey48IoeMDkt) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Abracada\-Boo](https://open.spotify.com/album/2HdzJMCn6VXTuBJni0ANJ7) | 4:35 | 2022-08-02 | 2022-10-09 |
 | [Ahatte Teppen'](https://open.spotify.com/track/1Ahd8RIuzNBZFwkH2AhYlR) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen’](https://open.spotify.com/album/44dpI1riKMZ1mSMFS8RWAA) | 3:29 | 2022-08-16 | 2022-10-05 |
 | [Ahatte Teppen' \- TV size](https://open.spotify.com/track/58uIXj0FV76d3g2h3UBZZC) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen' \(TV size\)](https://open.spotify.com/album/3qMx7JqolPCn74lz6rdmRD) | 1:30 | 2022-07-05 | 2022-07-29 |
+| [Akatsuki](https://open.spotify.com/track/574u5IAlTW7pCG5C8oRlJO) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py) | [from here](https://open.spotify.com/album/7qAbSvs8VpfPOwqXJYlyGx) | 4:13 | 2023-02-28 |  |
 | [ALIVE](https://open.spotify.com/track/5cBmwNnKGLPRCQWzFS0r0Y) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE](https://open.spotify.com/album/7lpsmkTYFRiDNIDyKRRLXP) | 3:37 | 2022-07-12 | 2022-10-12 |
 | [Alive](https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive](https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF) | 4:18 | 2022-11-08 | 2023-01-13 |
 | [ALIVE \- LycoReco Version](https://open.spotify.com/track/6d1bY43yAlhHwxJAuUYsll) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE \(LycoReco Version\)](https://open.spotify.com/album/2wfi1Oar57Qp9wAm4pwSY4) | 2:46 | 2022-10-11 | 2022-11-25 |
@@ -252,6 +253,7 @@
 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 | 2023-01-05 |  |
 | [SKETCH](https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [SKETCH](https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL) | 3:57 | 2022-10-11 | 2023-01-11 |
 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 | 2022-06-23 | 2022-08-03 |
+| [Sorairo Days \- From CrosSing](https://open.spotify.com/track/3YnFuf6DE54Uw3gt7iBgBF) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj) | [Sorairo Days \- From CrosSing](https://open.spotify.com/album/5AHqJaHjgCN0L9RgYVOUzQ) | 4:13 | 2023-02-28 |  |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2022-09-29 | 2023-01-18 |
 | [SPARKLES](https://open.spotify.com/track/3heytsqAvwcOmpvJvKop80) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/7DLjM7lmuv7rlhVShdIBXN) | 4:36 | 2022-11-24 | 2023-01-13 |
 | [Speak Out meets Giga](https://open.spotify.com/track/2lEO1KZiyh5gsSM10H2q4o) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [Speak Out meets Giga](https://open.spotify.com/album/5JHClsBOrIzUUMWUbJpceO) | 2:45 | 2022-10-25 | 2023-01-13 |
@@ -484,7 +486,7 @@
 | [星のクズ α](https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ α](https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0) | 5:03 | 2023-01-12 |  |
 | [星の少女、月に少女](https://open.spotify.com/track/2UbKoDvnCwmCb9aCdXsEAq) | [鶴姫やちよ\(CV:工藤晴香\)](https://open.spotify.com/artist/2n5MfZnl6NgCSxo1LA4saT), [天堂真矢\(CV:富田麻帆\)](https://open.spotify.com/artist/0GoCYmSDh7ldDd9HjtRf3F), [大月あるる\(CV.潘めぐみ\)](https://open.spotify.com/artist/0DWe8hrfAbZJYFq6yqPJ7Q), [愛城華恋\(CV:小山百代\)](https://open.spotify.com/artist/3c6d2IEnd9ZGChYpN3nnB2) | [「少女☆歌劇 レヴュースタァライト」レヴューアルバム「アルカナ・アルカディア」](https://open.spotify.com/album/6mZy5s37cEzI54dl6CXtRj) | 4:14 | 2022-09-20 | 2022-09-22 |
 | [星座になれたら](https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:18 | 2023-01-01 | 2023-01-18 |
-| [暁](https://open.spotify.com/track/4TXgBfKETCH8llKQvXZjMk) | [山下大輝](https://open.spotify.com/artist/4JFyikk3GFeUaSYiSKuXEB) | [from here](https://open.spotify.com/album/1Zj4SNihiKfAEiaerZlaMp) | 4:13 | 2023-02-28 |  |
+| [暁](https://open.spotify.com/track/4TXgBfKETCH8llKQvXZjMk) | [山下大輝](https://open.spotify.com/artist/4JFyikk3GFeUaSYiSKuXEB) | [from here](https://open.spotify.com/album/1Zj4SNihiKfAEiaerZlaMp) | 4:13 | 2023-02-28 | 2023-03-02 |
 | [暁光](https://open.spotify.com/track/4l4OxhHdAZuVcjoCHapPwk) | [Half time Old](https://open.spotify.com/artist/1zpGAwgdCoZw9CP4QlWq9l) | [暁光](https://open.spotify.com/album/3JX3ho78EjyYxBjLIOI0o1) | 3:29 | 2022-07-12 | 2022-09-30 |
 | [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 | 2022-10-18 | 2023-01-13 |
 | [未完成ドリーム!](https://open.spotify.com/track/3MVbG5259vPrYXUhX5JtQZ) | [SCHOOL IDOL MUSICAL](https://open.spotify.com/artist/0ac7G5NyL6NEnPTeozqUgd) | [未完成ドリーム!](https://open.spotify.com/album/1RnbfqigPmq2mFTikAHuDt) | 3:57 | 2022-12-13 | 2023-01-13 |
@@ -510,7 +512,7 @@
 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 | 2022-08-31 |
 | [秘密の庭のふたり](https://open.spotify.com/track/0drkpiibrRIpUc5tSubX2J) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [秘密の庭のふたり](https://open.spotify.com/album/3pVwRnFsKMjOwkpAWddA54) | 4:05 | 2022-08-16 | 2022-10-05 |
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-05-28 | 2022-07-01 |
-| [空色デイズ \- from CrosSing](https://open.spotify.com/track/2r0obcBXAqmjT25pBewWlc) | [平野綾](https://open.spotify.com/artist/3HsqZmNM3saSQSfiTl8GzD) | [空色デイズ \- from CrosSing](https://open.spotify.com/album/2RqmAvQcK25aIBLUfflMGW) | 4:13 | 2023-02-28 |  |
+| [空色デイズ \- from CrosSing](https://open.spotify.com/track/2r0obcBXAqmjT25pBewWlc) | [平野綾](https://open.spotify.com/artist/3HsqZmNM3saSQSfiTl8GzD) | [空色デイズ \- from CrosSing](https://open.spotify.com/album/2RqmAvQcK25aIBLUfflMGW) | 4:13 | 2023-02-28 | 2023-03-02 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-11-08 |  |
 | [脊髄ぶっこ抜き音頭\(女性Ver.\)](https://open.spotify.com/track/72eMKuoXuFdF0MrAQARVjy) | [ポプ子\(CV:石見舞菜香\)](https://open.spotify.com/artist/23asa50gen4Pqsiq6wfCHr), [ピピ美\(CV:長谷川育美\)](https://open.spotify.com/artist/0UfcIsa4gYHICPdbhgRQ2a) | [ポプテピピック ALLTIME BEST 3](https://open.spotify.com/album/1ovsSfBYS6hTimYnSZTMpN) | 1:28 | 2022-12-20 | 2022-12-22 |
 | [腕塚](https://open.spotify.com/track/0JAdB9U6meFetLWHmqG3RA) | [犬王\(CV:アヴちゃん\)](https://open.spotify.com/artist/7ywWY3GidvDeixGiFLdYZW) | [腕塚](https://open.spotify.com/album/4ogusjG9KOOJP0XS56YdoL) | 5:35 | 2022-05-28 | 2022-07-06 |

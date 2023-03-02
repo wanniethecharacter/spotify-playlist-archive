@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,253 likes - 104 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,259 likes - 104 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 29 | [Roller Coasters Make Me Sad](https://open.spotify.com/track/15D8qDyRL6NuyxxmQRWosK) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Roller Coasters Make Me Sad](https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1) | 3:11 |
 | 30 | [STEP ON ME](https://open.spotify.com/track/45HSCsfTCoDloxNEof033U) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [STEP ON ME](https://open.spotify.com/album/0llSxQdK1datftaK0xHYPd) | 3:25 |
 | 31 | [Every Heart But Mine](https://open.spotify.com/track/3NdrWLR4BsyiCGbQQmuwSL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Every Heart But Mine](https://open.spotify.com/album/6vDayREemPdb81FBBGaiX8) | 3:15 |
-| 32 | [One Of Those Days \(feat\. Lil Yachty & 347aidan\)](https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [One Of Those Days \(feat\. Lil Yachty & 347aidan\)](https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL) | 2:27 |
+| 32 | [One Of Those Days \(feat\. Lil Yachty & with 347aidan\)](https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [One Of Those Days \(feat\. Lil Yachty & with 347aidan\)](https://open.spotify.com/album/6Vi0vIyTyUc60z7n3J7NZL) | 2:27 |
 | 33 | [Bite](https://open.spotify.com/track/357BPRQBOi7m38Kl3Jn7j8) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Bite](https://open.spotify.com/album/7tMqwp42zyOZaSpQgnp03t) | 2:52 |
 | 34 | [Svag](https://open.spotify.com/track/5VdM4f7623wDXsDcd6izs6) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0) | [Svag](https://open.spotify.com/album/3BYgqqXZjs2LxuduStCsaE) | 3:25 |
 | 35 | [Som en sång](https://open.spotify.com/track/0cVDXsKlmi4ANSpld0XTSq) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Som en sång](https://open.spotify.com/album/5FW9X0S4UqnM9QuSqITB11) | 3:50 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 73 | [HOLD YOU](https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [HOLD YOU](https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi) | 2:54 |
 | 74 | [HOW DARE YOU](https://open.spotify.com/track/2mPqRhxkdcszi5MSX6b211) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [HOW DARE YOU](https://open.spotify.com/album/6h4qAwlP3jGlG7b7YVQVih) | 3:02 |
 | 75 | [Thrill Of It All](https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Thrill Of It All](https://open.spotify.com/album/23tZRrcxog6733FrjhknAi) | 3:23 |
-| 76 | [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 |
+| 76 | [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\) \[Edit\]](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 |
 | 77 | [Bug Eye](https://open.spotify.com/track/0IhyGjf2QCm5BkgmotrSnR) | [Juli Capelius](https://open.spotify.com/artist/5lvgW9cUNZajEcT18Wui5p) | [Bug Eye](https://open.spotify.com/album/37FkslA5Is8lueB6qrALfG) | 2:05 |
 | 78 | [On a Track Like This](https://open.spotify.com/track/1IgLUXgFuDlqmp0CaFW4D1) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [On a Track Like This](https://open.spotify.com/album/2VS4N7947OIFXG4xbqCLVQ) | 3:59 |
 | 79 | [Lie For Me](https://open.spotify.com/track/5VEkFlaS12TsOdeofJGPVP) | [YADAYADA](https://open.spotify.com/artist/0kOSwbgw1yE3Sunf3F7F0t), [Unklfnkl](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW), [Pawl](https://open.spotify.com/artist/1ShHSfgvLgJ4i26xcXB232) | [Lie For Me](https://open.spotify.com/album/5KvbAE5WaOwFuAszGydN8T) | 2:13 |

@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "from here",
+        "url": "https://open.spotify.com/album/7qAbSvs8VpfPOwqXJYlyGx"
+      },
+      "artists": [
+        {
+          "name": "Daiki Yamashita",
+          "url": "https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253300,
+      "name": "Akatsuki",
+      "url": "https://open.spotify.com/track/574u5IAlTW7pCG5C8oRlJO"
+    },
+    {
+      "album": {
         "name": "ALIVE",
         "url": "https://open.spotify.com/album/7lpsmkTYFRiDNIDyKRRLXP"
       },
@@ -4538,6 +4556,24 @@
       "duration_ms": 218866,
       "name": "SLEEPLESS",
       "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
+    },
+    {
+      "album": {
+        "name": "Sorairo Days - From CrosSing",
+        "url": "https://open.spotify.com/album/5AHqJaHjgCN0L9RgYVOUzQ"
+      },
+      "artists": [
+        {
+          "name": "Aya Hirano",
+          "url": "https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253386,
+      "name": "Sorairo Days - From CrosSing",
+      "url": "https://open.spotify.com/track/3YnFuf6DE54Uw3gt7iBgBF"
     },
     {
       "album": {
@@ -8948,7 +8984,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 253300,
       "name": "\u6681",
       "url": "https://open.spotify.com/track/4TXgBfKETCH8llKQvXZjMk"
@@ -9428,7 +9464,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 253386,
       "name": "\u7a7a\u8272\u30c7\u30a4\u30ba - from CrosSing",
       "url": "https://open.spotify.com/track/2r0obcBXAqmjT25pBewWlc"

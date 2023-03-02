@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12169,
+  "num_followers": 12168,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGZiYjgyNjhiYTdjNmVhYWQyYmFkYjU3NWRlZDU2OThm",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDE2ODExNWI4MmE5NDRmYjliN2Q0NTUzMzg4YjcyYTA2",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -601,6 +601,22 @@
       "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
     },
     {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "These Are My Roots",
+        "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
+      },
+      "artists": [
+        {
+          "name": "Mike Love",
+          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
+        }
+      ],
+      "duration_ms": 234061,
+      "name": "These Are My Roots",
+      "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Fly Away",
@@ -639,22 +655,6 @@
       "duration_ms": 274093,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/5toBuWuHXCsausMXQcQkLR"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "These Are My Roots",
-        "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
-      },
-      "artists": [
-        {
-          "name": "Mike Love",
-          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
-        }
-      ],
-      "duration_ms": 234061,
-      "name": "These Are My Roots",
-      "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
     },
     {
       "added_at": "2023-01-03 17:09:40",

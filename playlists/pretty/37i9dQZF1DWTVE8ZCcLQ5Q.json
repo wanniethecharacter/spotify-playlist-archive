@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421570,
+  "num_followers": 421569,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGUxMWNlODg4MGU5OWFkNWIzMGU0ZTViNmUyNzgyYTU3",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDEyZmM4ZjZjYzVmZTNkMWViZjE4MGYxMDk2ZWE4Njhj",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -35,18 +35,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Simplesmente Ela",
-        "url": "https://open.spotify.com/album/1SuKWIQ4PxaWIiv0DfmqsQ"
+        "name": "212",
+        "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
       },
       "artists": [
         {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
-      "duration_ms": 161076,
-      "name": "Simplesmente Ela",
-      "url": "https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u"
+      "duration_ms": 150610,
+      "name": "212",
+      "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -75,22 +79,18 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "212",
-        "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
+        "name": "Simplesmente Ela",
+        "url": "https://open.spotify.com/album/1SuKWIQ4PxaWIiv0DfmqsQ"
       },
       "artists": [
         {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
         }
       ],
-      "duration_ms": 150610,
-      "name": "212",
-      "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
+      "duration_ms": 161076,
+      "name": "Simplesmente Ela",
+      "url": "https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -271,22 +271,30 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Formosa",
-        "url": "https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI"
+        "name": "Maresia",
+        "url": "https://open.spotify.com/album/0LeTsEVvfdJ86Hi7uE7CxK"
       },
       "artists": [
         {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
         },
         {
-          "name": "MC CJ",
-          "url": "https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp"
+          "name": "Cuper",
+          "url": "https://open.spotify.com/artist/5nxSXjNaqM5nInGmULlfpG"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        },
+        {
+          "name": "Fredinho O Louco",
+          "url": "https://open.spotify.com/artist/25EuS30LCi2tFM0DftRLyF"
         }
       ],
-      "duration_ms": 185831,
-      "name": "Formosa",
-      "url": "https://open.spotify.com/track/1QmupixsVNc0osesKXraZC"
+      "duration_ms": 144553,
+      "name": "Maresia",
+      "url": "https://open.spotify.com/track/14MmpI6ZOB9QaetEIPSzqB"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -315,30 +323,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Maresia",
-        "url": "https://open.spotify.com/album/0LeTsEVvfdJ86Hi7uE7CxK"
+        "name": "Formosa",
+        "url": "https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI"
       },
       "artists": [
         {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
         },
         {
-          "name": "Cuper",
-          "url": "https://open.spotify.com/artist/5nxSXjNaqM5nInGmULlfpG"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        },
-        {
-          "name": "Fredinho O Louco",
-          "url": "https://open.spotify.com/artist/25EuS30LCi2tFM0DftRLyF"
+          "name": "MC CJ",
+          "url": "https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp"
         }
       ],
-      "duration_ms": 144553,
-      "name": "Maresia",
-      "url": "https://open.spotify.com/track/14MmpI6ZOB9QaetEIPSzqB"
+      "duration_ms": 185831,
+      "name": "Formosa",
+      "url": "https://open.spotify.com/track/1QmupixsVNc0osesKXraZC"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "F\u00daRIA",
-        "url": "https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ"
-      },
-      "artists": [
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 177650,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/6SsjwrTV7bn8eeibnMftZp"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Todo Mundo Ama O Sol",
         "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 162000,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "F\u00daRIA",
+        "url": "https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 177650,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/6SsjwrTV7bn8eeibnMftZp"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "BXD IN JAZZ",
+        "url": "https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 173147,
+      "name": "Meu Grande Amor",
+      "url": "https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "SIM SIM SIM",
         "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 303550,
       "name": "Baile de M\u00e1scaras (Recarnaval)",
       "url": "https://open.spotify.com/track/7M8ufi5rmgnWpJfPidV4g8"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "BXD IN JAZZ",
-        "url": "https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 173147,
-      "name": "Meu Grande Amor",
-      "url": "https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "P90",
-        "url": "https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz"
-      },
-      "artists": [
-        {
-          "name": "JayPluggz",
-          "url": "https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M"
-        },
-        {
-          "name": "Brocasito",
-          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
-        }
-      ],
-      "duration_ms": 123383,
-      "name": "P90",
-      "url": "https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 200173,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "P90",
+        "url": "https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz"
+      },
+      "artists": [
+        {
+          "name": "JayPluggz",
+          "url": "https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M"
+        },
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        }
+      ],
+      "duration_ms": 123383,
+      "name": "P90",
+      "url": "https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Sextou BB 4 Completo (Ao Vivo em Goi\u00e2nia)",
-        "url": "https://open.spotify.com/album/7fj0Le4QkGQQkGdoZZtsGw"
-      },
-      "artists": [
-        {
-          "name": "\u00cdcaro e Gilmar",
-          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
-        }
-      ],
-      "duration_ms": 163879,
-      "name": "Que Amigo \u00c9 Esse (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6Ur3usqEbguXdqoc1WjA3K"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Juma",
         "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 205718,
       "name": "Jogo Sujo",
       "url": "https://open.spotify.com/track/4dr0AjgSS9kfTD9U8bfOnF"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Sextou BB 4 Completo (Ao Vivo em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/7fj0Le4QkGQQkGdoZZtsGw"
+      },
+      "artists": [
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        }
+      ],
+      "duration_ms": 163879,
+      "name": "Que Amigo \u00c9 Esse (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6Ur3usqEbguXdqoc1WjA3K"
     },
     {
       "added_at": "2023-02-10 03:00:00",

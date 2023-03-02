@@ -1,12 +1,12 @@
 {
   "description": "pov: you're crying and dancing at the same time. ",
-  "num_followers": 207326,
+  "num_followers": 207461,
   "original_name": "llorando en el club \ud83e\udd72",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUzODE1MCwwMDAwMDAwMDM4N2VjYzM0OWM2ODYyMTVkY2Y0NjQ1ZTM4NDBkN2E5",
+  "snapshot_id": "MTY3NzUzODE1MCwwMDAwMDAwMDIzMTgzM2IyZDU5NTM0ZmUyMDkxOWQwOGMwMGE1ZGVj",
   "tracks": [
     {
       "added_at": "2023-02-27 22:49:09",
@@ -919,6 +919,34 @@
     {
       "added_at": "2023-02-27 22:49:09",
       "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "UN DIA (ONE DAY)",
+      "url": "https://open.spotify.com/track/66x45Yh9x397PWpxMX0ZDT"
+    },
+    {
+      "added_at": "2023-02-27 22:49:09",
+      "album": {
         "name": "FERXXO (VOL 1: M.O.R)",
         "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
       },
@@ -931,26 +959,6 @@
       "duration_ms": 138680,
       "name": "ATEO",
       "url": "https://open.spotify.com/track/14M8dLdMYo5rTxDVvIp85o"
-    },
-    {
-      "added_at": "2023-02-27 22:49:09",
-      "album": {
-        "name": "Amapolas (Remix)",
-        "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 267338,
-      "name": "Amapolas - Remix",
-      "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
     }
   ],
   "unique_name": "llorando en el club \ud83e\udd72",

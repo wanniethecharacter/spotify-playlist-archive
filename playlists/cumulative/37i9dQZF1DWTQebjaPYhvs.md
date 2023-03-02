@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-203 songs - 12 hr 39 min
+204 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Born Again](https://open.spotify.com/track/217WnNJ3NuFB9dC8wncMPb) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:28 | 2020-08-03 |  |
 | [Bottle In My Hand](https://open.spotify.com/track/0jUpbc2wZpWgvmXInQcxaS) | [Gethen Jenkins](https://open.spotify.com/artist/60JnsFVGbyznmdovxTyIEh) | [Western Gold](https://open.spotify.com/album/0aOX8fuikpPyZzqHwXT4aO) | 2:22 | 2021-12-06 |  |
 | [Bread & Water](https://open.spotify.com/track/7sWp37WaRYUsEg0QLjtXeM) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Mescalito](https://open.spotify.com/album/3R4SU0GLULP0QxIal7Fcr1) | 4:07 | 2019-06-27 |  |
-| [Break My Heart Sweetly](https://open.spotify.com/track/4G2e1xRnQIavsrSXrqIwqm) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [In the Throes](https://open.spotify.com/album/0uPyGFPZWApM0xOEV1Njir) | 5:23 | 2021-12-28 |  |
+| [Break My Heart Sweetly](https://open.spotify.com/track/4G2e1xRnQIavsrSXrqIwqm) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [In the Throes](https://open.spotify.com/album/0uPyGFPZWApM0xOEV1Njir) | 5:23 | 2021-12-28 | 2023-03-02 |
+| [Break My Heart Sweetly](https://open.spotify.com/track/7vzYYRZuvy9CNyzh3LJFaY) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [In the Throes](https://open.spotify.com/album/11LoGMC6U6CAS5BSr1W7z5) | 5:23 | 2021-12-28 |  |
 | [Breakdown in G Major](https://open.spotify.com/track/2jbG1AjoLyn4JMSdtV6CQ4) | [Eliot Bronson](https://open.spotify.com/artist/404FGezj0LKlz93eSqqKuI) | [James](https://open.spotify.com/album/0YWQoV4ZgZa3mGEPZTLs5v) | 3:13 | 2019-06-27 |  |
 | [Broken Window Serenade](https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 5:46 | 2019-06-27 |  |
 | [Burying Secrets](https://open.spotify.com/track/125nLemIP1mkNCUqigwUIP) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 3:23 | 2019-06-27 |  |

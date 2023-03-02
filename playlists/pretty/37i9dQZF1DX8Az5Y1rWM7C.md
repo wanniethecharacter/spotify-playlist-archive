@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Az5Y1rWM7C.md) - [plain]
 
 > Revive lo mejor del trap latino del año.<br/>Foto: Jhay Cortez, Anuel AA & J Balvin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,904 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,938 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Az5Y1rWM7C.md) - [plain]
 | 42 | [Coroné](https://open.spotify.com/track/0SepUdFlQjKMBB3LETGaeK) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [ANHMATSV](https://open.spotify.com/album/5cpUiATf6r2KWEBb9aGPqz) | 3:07 |
 | 43 | [Sold Out Dates](https://open.spotify.com/track/25rJp2UNyZWmBSoVDzjRss) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sold Out Dates](https://open.spotify.com/album/7MUGqiTtFGF2THKw5BjuoG) | 2:21 |
 | 44 | [Agüita](https://open.spotify.com/track/1meFyuPuPiX207yLeTcvYY) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita](https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH) | 3:13 |
-| 45 | [C90 \(Remix\)](https://open.spotify.com/track/2b6i9zx3ULzKrNWmyP0ePD) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [C90 \(Remix\)](https://open.spotify.com/album/16a33enqgAGsnuMmRH7uHa) | 5:16 |
+| 45 | [C90 \(Remix\)](https://open.spotify.com/track/6b4ioB9n5Hkeu2GdSOWzJJ) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [C90 \(Remix\)](https://open.spotify.com/album/2OLJMC8S2A3HfNevKPfYm4) | 5:16 |
 | 46 | [Achi](https://open.spotify.com/track/1XHxaSr5xL87kxR8FIUbRD) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Moods](https://open.spotify.com/album/707uAk4QeoapehDGCcZeWb) | 3:20 |
 | 47 | [Dubai](https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Dubai](https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm) | 2:37 |
 | 48 | [Bando Boyz Free](https://open.spotify.com/track/6xX1coEqiOl3EhKCjNgxvr) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Bando Boyz Free](https://open.spotify.com/album/5WPXLBp8n4yrU9Zzrr4iq5) | 2:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Az5Y1rWM7C.md) - [plain]
 | 59 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 |
 | 60 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 |
 
-Snapshot ID: `MTYwNjkxMzY4MSwwMDAwMDAwMGU0NTViOTczZWQzYzI0MThkNjQ1MjYzNDNjODdhZjVk`
+Snapshot ID: `MTYwNjkxMzY4MSwwMDAwMDAwMGQ2NTk2NDdmZTVkNDM2YmIwZjU3OTQyZmQ2ZTc1OTU0`

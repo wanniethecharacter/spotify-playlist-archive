@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Écoute en boucle les hits tunisiens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,502 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,578 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [One Love](https://open.spotify.com/track/5oHN7syQOktjfuFzg12UBl) | [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [One Love](https://open.spotify.com/album/6BCjHmj1zFwLeAF2La2jKY) | 3:10 |
+| 1 | [One Love](https://open.spotify.com/track/5oHN7syQOktjfuFzg12UBl) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [One Love](https://open.spotify.com/album/6BCjHmj1zFwLeAF2La2jKY) | 3:10 |
 | 2 | [Warda \- وردة](https://open.spotify.com/track/5iv5BmdSI63MOkRaV95agi) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Warda \(وردة\)](https://open.spotify.com/album/3IulcYLJcCYEQyE0Ufthtl) | 4:29 |
 | 3 | [Galbi](https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Galbi](https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK) | 5:22 |
 | 4 | [Hbibty Wini \- حبيبتي ويني](https://open.spotify.com/track/2Gru4OBnrGbfM7mIpts6Fk) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Hbibty Wini \(حبيبتي ويني\)](https://open.spotify.com/album/7jwGkqkRlEcpFIy0kcYH20) | 2:41 |

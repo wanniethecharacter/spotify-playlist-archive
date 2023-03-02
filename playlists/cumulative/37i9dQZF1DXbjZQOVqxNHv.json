@@ -3576,7 +3576,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 293800,
       "name": "Heliosphan",
       "url": "https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1"
@@ -4110,6 +4110,24 @@
       "duration_ms": 177266,
       "name": "IZ-US",
       "url": "https://open.spotify.com/track/0c0Z5agmnSibjIWjdZV6R1"
+    },
+    {
+      "album": {
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177266,
+      "name": "IZ-US",
+      "url": "https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq"
     },
     {
       "album": {
@@ -7120,7 +7138,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 316097,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/1rsbnhLppI7cibuDHEVurM"
@@ -9228,6 +9246,24 @@
       "duration_ms": 365773,
       "name": "When Face Was Face",
       "url": "https://open.spotify.com/track/0clXhth0BU2STcyntZqmsc"
+    },
+    {
+      "album": {
+        "name": "Succour (Redux)",
+        "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365773,
+      "name": "When Face Was Face",
+      "url": "https://open.spotify.com/track/3kij9paFcI0oZx0ATXIGwJ"
     },
     {
       "album": {

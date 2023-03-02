@@ -4,7 +4,7 @@
 
 > make a mess of it\. Cover: DeathbyRomy
 
-158 songs - 8 hr 51 min
+159 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Gravedigger](https://open.spotify.com/track/7BVjEyP3YVzOzfVBWC4IrN) | [MXMS](https://open.spotify.com/artist/385fK73L7PCt3RMlZQOu6t) | [We Are: the Guard, Vol\. 2](https://open.spotify.com/album/0Rs9PSrI1xLSQpWr04TWGV) | 3:30 | 2022-11-08 | 2022-11-13 |
 | [HATEFUCK](https://open.spotify.com/track/2G6AOP03YY7hCCxvskZLb4) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [HATEFUCK](https://open.spotify.com/album/2JN7YYzP0l4WkIlHIeFfIa) | 3:16 | 2022-04-29 |  |
 | [Head Like A Hole](https://open.spotify.com/track/3ckd4YA4LcD3j50rfIVwUe) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:59 | 2022-04-08 | 2022-09-24 |
-| [HEARTSTOPPER](https://open.spotify.com/track/4YDATcqz2STt6QpMVWtj5Q) | [Kent Osborne](https://open.spotify.com/artist/7A15q1iSA5BitDh0WeK7ta) | [HEARTSTOPPER](https://open.spotify.com/album/4twfTWkuCk9FLlRE4JaXjd) | 2:13 | 2022-11-08 |  |
+| [HEARTSTOPPER](https://open.spotify.com/track/362y5MOIwF4ueAFlYrwuCy) | [Kent Osborne](https://open.spotify.com/artist/7A15q1iSA5BitDh0WeK7ta) | [HEARTSTOPPER](https://open.spotify.com/album/1469SqW8gXxPFpBGMrZg9p) | 2:13 | 2022-11-08 |  |
+| [HEARTSTOPPER](https://open.spotify.com/track/4YDATcqz2STt6QpMVWtj5Q) | [Kent Osborne](https://open.spotify.com/artist/7A15q1iSA5BitDh0WeK7ta) | [HEARTSTOPPER](https://open.spotify.com/album/4twfTWkuCk9FLlRE4JaXjd) | 2:13 | 2022-11-08 | 2023-03-02 |
 | [Hold The Line \(feat\. grandson\)](https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:12 | 2022-04-08 |  |
 | [HTIS](https://open.spotify.com/track/6ZL9yaWzZtyjksUXwqncAZ) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ), [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ), [Carmen Vandenberg](https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS) | [CHILDREN OF LIGHT II](https://open.spotify.com/album/4ju7VhYQ892SQ7gEmMViW4) | 3:15 | 2022-11-08 | 2022-11-13 |
 | [HTIS \(feat\. Carmen Vandenberg and Luna Shadows\)](https://open.spotify.com/track/5pAfHXMg9s3MzGDPyxjRCH) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ), [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ), [Carmen Vandenberg](https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS) | [HTIS \(feat\. Carmen Vandenberg and Luna Shadows\)](https://open.spotify.com/album/5dyhUIvWHSq974a0MUVrc5) | 3:15 | 2022-09-30 |  |

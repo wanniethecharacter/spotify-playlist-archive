@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-785 songs - 2 day 8 hr 12 min
+786 songs - 2 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -727,7 +727,7 @@
 | [Topaz](https://open.spotify.com/track/397FlWenFDWA1G6DdFmhdq) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 1:52 | 2019-06-19\* | 2022-04-16 |
 | [Torpid](https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Taum](https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r) | 4:34 | 2022-01-14 | 2022-04-16 |
 | [Train Rides](https://open.spotify.com/track/4s07g5Al7Hb26QBTKFG5zZ) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Hoarder's Paradise](https://open.spotify.com/album/3OVmgm7mRRtts90GF7rZpW) | 3:12 | 2019-07-25 | 2022-04-20 |
-| [Transcend](https://open.spotify.com/track/4luihFQ22pn73BCwIGfPlv) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Reflections](https://open.spotify.com/album/0JEn4fzoSIcStA15mcZB9d) | 4:42 | 2021-06-19 |  |
+| [Transcend](https://open.spotify.com/track/4luihFQ22pn73BCwIGfPlv) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Reflections](https://open.spotify.com/album/0JEn4fzoSIcStA15mcZB9d) | 4:42 | 2021-06-19 | 2023-03-02 |
 | [Transition \(Short\)](https://open.spotify.com/track/166P9sq7uIQGcB3De671wt) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Friends EP](https://open.spotify.com/album/4WmEAPlQs2ZFxGsBO9UiFJ) | 2:25 | 2019-05-26\* | 2020-08-26 |
 | [Translation \- Edit](https://open.spotify.com/track/5fY30MQfgnjgWIsuRAsgwQ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Translation \- Edit](https://open.spotify.com/album/2WM28Wnh46EIO4TS1Yr3B3) | 6:56 | 2021-11-26 | 2022-07-29 |
 | [Tri\-State](https://open.spotify.com/track/0NYmQAHfHlG18sFYRLcQ8b) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tri\-State](https://open.spotify.com/album/3LOFci2RIEaXJqD3nIoekv) | 4:11 | 2019-06-21 | 2020-06-12 |
@@ -769,6 +769,7 @@
 | [Wave Propagation](https://open.spotify.com/track/34p5mFJ2yMJJBewufyvq4s) | [10th Letter](https://open.spotify.com/artist/157BopKUKZXtvl8CFdUok2) | [Prism Scale](https://open.spotify.com/album/4FHp17Yu5qXZ5yOnDCmYZt) | 2:47 | 2020-08-26 | 2021-03-06 |
 | [Waves](https://open.spotify.com/track/6jgTOfIBnT1TdQqUf85OVx) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Waves](https://open.spotify.com/album/5kRDYz9MhpOr3JYgnZBe66) | 3:49 | 2019-05-26\* | 2020-08-26 |
 | [We All Need a Friend](https://open.spotify.com/track/6UKD0o25JviZYk8hXDYmaf) | [Julian Calor](https://open.spotify.com/artist/2y8eOaQNjiIuITkz6zGfgL) | [We All Need a Friend](https://open.spotify.com/album/7ApsWXhi53apgxxrI4b6uK) | 4:04 | 2019-06-22 | 2020-10-22 |
+| [We Are \(우리는\)](https://open.spotify.com/track/1UFD14oaGxtXOLnuD89OEv) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:46 | 2023-02-20 |  |
 | [We Are \(우리는\)](https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [We Are \(우리는\)](https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5) | 3:46 | 2022-09-09 | 2023-01-11 |
 | [Weird Summer](https://open.spotify.com/track/2KmGCjvla5f5wjUAoVRwJ1) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 0:42 | 2019-06-19\* | 2020-10-19 |
 | [Whalphin](https://open.spotify.com/track/0PcQvfwgwYWzqj2TtjtH3F) | [Julian Calor](https://open.spotify.com/artist/2y8eOaQNjiIuITkz6zGfgL) | [Whalphin](https://open.spotify.com/album/2f5ob10kPgbTAzqGbXfTHc) | 2:44 | 2019-05-26\* | 2022-04-19 |

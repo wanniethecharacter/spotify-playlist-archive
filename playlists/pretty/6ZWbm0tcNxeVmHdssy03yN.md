@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,453 likes - 89 songs - 4 hr 43 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,461 likes - 89 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 10 | [Never Stood A Chance](https://open.spotify.com/track/3AgmA7OJFNok5iGIRJu5HE) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Never Stood A Chance](https://open.spotify.com/album/5bqv7OLX8iCZEzRMZuzXLe) | 2:50 |
 | 11 | [venom](https://open.spotify.com/track/2sDX7racfnjrWXJLqBLpCn) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [Spent](https://open.spotify.com/artist/4D5DohcRoNQVTWDKb08Iy6) | [venom](https://open.spotify.com/album/77YsFlEg2yaw0qZTSrsPoH) | 3:02 |
 | 12 | [Wasted Prayers](https://open.spotify.com/track/1WvGfMf2HNlM6Rk9BbZSJx) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Wasted Prayers](https://open.spotify.com/album/5MvARiRgNiMgbxYWaX6EOa) | 3:24 |
-| 13 | [VANESSA](https://open.spotify.com/track/4G73ZbqMSz2JlMzBjzgb4q) | [Hasin](https://open.spotify.com/artist/2s1fxat2D0HFYkx7aimn0z), [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Martinsfeelz](https://open.spotify.com/artist/6yDnSctLP418ktCtL1xmgS), [MATHIAS](https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK) | [VANESSA](https://open.spotify.com/album/5mybiXqO3IyP0YrO1c183k) | 2:57 |
+| 13 | [VANESSA...](https://open.spotify.com/track/4G73ZbqMSz2JlMzBjzgb4q) | [Hasin](https://open.spotify.com/artist/2s1fxat2D0HFYkx7aimn0z), [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Martinsfeelz](https://open.spotify.com/artist/6yDnSctLP418ktCtL1xmgS), [MATHIAS](https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK) | [VANESSA](https://open.spotify.com/album/5mybiXqO3IyP0YrO1c183k) | 2:57 |
 | 14 | [Papabi](https://open.spotify.com/track/0u1w6JiN1ApGtWwDLXY2dD) | [Mishasha](https://open.spotify.com/artist/2X8BDJoWGo3VkrzPy2fN7W), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Papabi](https://open.spotify.com/album/09kaeUGlamtNLY21BAoREx) | 3:45 |
 | 15 | [Punk Luv](https://open.spotify.com/track/6bqzTc0gaDiq1wzaHW0g2d) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Punk Luv](https://open.spotify.com/album/37oAGxwK44ijCSqaHy6Mca) | 3:16 |
 | 16 | [Tout seul](https://open.spotify.com/track/6gvo1vOwrzbqQ5kxn4Fq5B) | [JDL](https://open.spotify.com/artist/3aSOqB03AcdniBDFyhaQBq) | [Tout seul](https://open.spotify.com/album/5tapBIFonisGWiZ1rV9Hkd) | 2:45 |

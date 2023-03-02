@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 141541,
+  "num_followers": 141547,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMDk1NWE4NTM1NmRjMDNjYjBlY2IzODZlMjhlMzY4NTdk",
+  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMDRjMDI3Y2NiMmIzZGJiZTFjNmEyM2VmZWEyN2E0YzYw",
   "tracks": [
     {
       "added_at": "2023-01-27 17:40:01",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Por Fin Decid\u00ed",
-        "url": "https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl"
-      },
-      "artists": [
-        {
-          "name": "South TX Homies",
-          "url": "https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq"
-        }
-      ],
-      "duration_ms": 194599,
-      "name": "Por Fin Decid\u00ed",
-      "url": "https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Quedate",
         "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 179063,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Por Fin Decid\u00ed",
+        "url": "https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl"
+      },
+      "artists": [
+        {
+          "name": "South TX Homies",
+          "url": "https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq"
+        }
+      ],
+      "duration_ms": 194599,
+      "name": "Por Fin Decid\u00ed",
+      "url": "https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "La Primavera",
-        "url": "https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp"
-      },
-      "artists": [
-        {
-          "name": "Severo y Grupo Fuego",
-          "url": "https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6"
-        }
-      ],
-      "duration_ms": 192003,
-      "name": "La Primavera",
-      "url": "https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Sweet City Style",
         "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 168426,
       "name": "Amor Traicionero",
       "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "La Primavera",
+        "url": "https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp"
+      },
+      "artists": [
+        {
+          "name": "Severo y Grupo Fuego",
+          "url": "https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6"
+        }
+      ],
+      "duration_ms": 192003,
+      "name": "La Primavera",
+      "url": "https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Me Dec\u00edas",
-        "url": "https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ"
+        "name": "Girls Night",
+        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
       },
       "artists": [
         {
-          "name": "Sonja De La Paz",
-          "url": "https://open.spotify.com/artist/4Z8RA77GGwuKlmpv5pLhR3"
-        },
-        {
-          "name": "Veno Mona",
-          "url": "https://open.spotify.com/artist/37IPrPpo8zMf7SZ0qpMJpL"
+          "name": "ANGELICA",
+          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
         }
       ],
-      "duration_ms": 197965,
-      "name": "Me Dec\u00edas",
-      "url": "https://open.spotify.com/track/4i827y4gh3TA5mgFhCVDov"
+      "duration_ms": 208979,
+      "name": "Nunca Fuiste Mio",
+      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -555,18 +551,22 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Girls Night",
-        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
+        "name": "Me Dec\u00edas",
+        "url": "https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ"
       },
       "artists": [
         {
-          "name": "ANGELICA",
-          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
+          "name": "Sonja De La Paz",
+          "url": "https://open.spotify.com/artist/4Z8RA77GGwuKlmpv5pLhR3"
+        },
+        {
+          "name": "Veno Mona",
+          "url": "https://open.spotify.com/artist/37IPrPpo8zMf7SZ0qpMJpL"
         }
       ],
-      "duration_ms": 208979,
-      "name": "Nunca Fuiste Mio",
-      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
+      "duration_ms": 197965,
+      "name": "Me Dec\u00edas",
+      "url": "https://open.spotify.com/track/4i827y4gh3TA5mgFhCVDov"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -583,6 +583,22 @@
       "duration_ms": 200159,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
+      },
+      "artists": [
+        {
+          "name": "Demmi Garcia",
+          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
+        }
+      ],
+      "duration_ms": 193967,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
-      },
-      "artists": [
-        {
-          "name": "Demmi Garcia",
-          "url": "https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu"
-        }
-      ],
-      "duration_ms": 193967,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Desastre Natural",
         "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Final De Tu Amor",
-        "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Vidal",
-          "url": "https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X"
-        }
-      ],
-      "duration_ms": 205438,
-      "name": "Final De Tu Amor",
-      "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Nunca Me Imagine",
         "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 167507,
       "name": "Nunca Me Imagine",
       "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Final De Tu Amor",
+        "url": "https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Vidal",
+          "url": "https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X"
+        }
+      ],
+      "duration_ms": 205438,
+      "name": "Final De Tu Amor",
+      "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Mentias",
-        "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
-      },
-      "artists": [
-        {
-          "name": "Brooke T",
-          "url": "https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ"
-        }
-      ],
-      "duration_ms": 199870,
-      "name": "Mentias",
-      "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 220003,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Mentias",
+        "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
+      },
+      "artists": [
+        {
+          "name": "Brooke T",
+          "url": "https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ"
+        }
+      ],
+      "duration_ms": 199870,
+      "name": "Mentias",
+      "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
     },
     {
       "added_at": "2023-01-27 17:40:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 
 > Fancy Hagood co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Music City has to offer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,447 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,448 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 | 22 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 |
 | 23 | [Black Jeans](https://open.spotify.com/track/1zHgiJB245RamHyftORKn9) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [E.G.O.](https://open.spotify.com/album/1VVaCcDi6CDJ86XpyGVUQ0) | 5:06 |
 | 24 | [Count On Me](https://open.spotify.com/track/5sA7NCo4bHH9stpolSymvz) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 2:40 |
-| 25 | [Make It Easy](https://open.spotify.com/track/3oy0Z0FmYwAutwMdCJKjAm) | [Kree Harrison](https://open.spotify.com/artist/69EZtIpAexeay0SwCf5EKY) | [Chosen Family Tree](https://open.spotify.com/album/67PmOchcnQC7kIHDlGonsj) | 4:19 |
+| 25 | [Make It Easy](https://open.spotify.com/track/2bCbRVsjMcLwUdlxMvFZ2V) | [Kree Harrison](https://open.spotify.com/artist/69EZtIpAexeay0SwCf5EKY) | [Chosen Family Tree](https://open.spotify.com/album/1kTyAvgksFOl4nlogRvTJw) | 4:19 |
 | 26 | [Neon Cross](https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Neon Cross](https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ) | 4:24 |
 | 27 | [Blueneck](https://open.spotify.com/track/4hsfbnqymyRKixQZJpOiXW) | [Chris Housman](https://open.spotify.com/artist/6kpQQUxQqxZEXaaWEoFdhY) | [Blueneck](https://open.spotify.com/album/26sJLYRYYqSbzX28jkS2Nm) | 2:55 |
 | 28 | [Remind Me Of You](https://open.spotify.com/track/72jf3DDz9utQpLpHs2jfXv) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Remind Me Of You](https://open.spotify.com/album/26sL1Mhq8kEduQGGeY2jGq) | 2:40 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DgvEv65pjR.md) - [plain]
 | 39 | [All My Worry](https://open.spotify.com/track/1MwEsNbSXgpjmfAN3JMzzS) | [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha), [Joe Pisapia](https://open.spotify.com/artist/5b3G440uTn9vamEasYG0eH) | [Kate York & Joe Pisapia](https://open.spotify.com/album/05pNWaK791JPgmURl9kWRc) | 4:16 |
 | 40 | [All Good Cowboys](https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs) | [Mercy Bell](https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG) | [Mercy Bell](https://open.spotify.com/album/0DqRo10IE9EQwVM5Uva7l7) | 3:51 |
 
-Snapshot ID: `MTYyMjUyNzIwMCwwMDAwMDAwMDRlOTIwNDcwM2I2MTljMzI2YjUwMjc4OTk1Nzc2NzU4`
+Snapshot ID: `MTYyMjUyNzIwMCwwMDAwMDAwMDg5NjRiZTZhYzFjM2U4NjQxNTE2NTVkOWQzZjA1MWRj`

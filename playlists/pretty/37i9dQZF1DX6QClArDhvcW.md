@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,712 likes - 217 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,760 likes - 217 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 146 | [Notification](https://open.spotify.com/track/27FbD1YqrxGg9zhSv3X91R) | [Laizman](https://open.spotify.com/artist/7IgCfXJ8DHWGTli0aDft56) | [Notification](https://open.spotify.com/album/33XIIDfqzpAOCLTobGaGdJ) | 2:38 |
 | 147 | [peg your bardon](https://open.spotify.com/track/00sc16mjcSsbWxoWqwt2nu) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [peg your bardon](https://open.spotify.com/album/6jgaFaSDSkS4bUXx3Qu8ot) | 1:59 |
 | 148 | [Imagine Us There](https://open.spotify.com/track/4CsaHdE3Lcloc9pxIYCtc8) | [vhskid.](https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq) | [Imagine Us There](https://open.spotify.com/album/2p9hsK7n8nTSVZZQ9RXr8A) | 2:31 |
-| 149 | [In His Hands](https://open.spotify.com/track/5c0x1OUR0CxdrkuYTVruvB) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd) | [In His Hands](https://open.spotify.com/album/0hkZvsnTjDDHH7tMzeTKTy) | 3:52 |
+| 149 | [In His Hands](https://open.spotify.com/track/5QuVkuYILtBdcwURWDF3xw) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd) | [In His Hands](https://open.spotify.com/album/7raff7KIazUqJcxIOZttP2) | 3:52 |
 | 150 | [lost love.](https://open.spotify.com/track/6lMyaA24CjS5PvdOzYjCl3) | [KhloeAutumn](https://open.spotify.com/artist/5CS3nzAktIkqgSL0IgqyLy) | [lost love.](https://open.spotify.com/album/4QrgErJxylEf8TSt8ylZRX) | 1:00 |
 | 151 | [Slow Dance](https://open.spotify.com/track/55khu0OQgoX1E0aVsrYQMU) | [Spade Brooks](https://open.spotify.com/artist/2GCSNNNTph8mnMlU40Q9ne) | [Night Shift](https://open.spotify.com/album/49uzwqjrLr6gS8KrNiBM4Y) | 1:44 |
 | 152 | [In Between](https://open.spotify.com/track/020iEfBNomft0siCh50ilV) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV) | [In Between](https://open.spotify.com/album/075iJR8AXb3Xtg4Cp9LUA1) | 2:22 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 216 | [Misty](https://open.spotify.com/track/482jgUtNalNOBuOC9XAuJu) | [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Misty](https://open.spotify.com/album/28l4AuuySCumrAxCvlic76) | 1:57 |
 | 217 | [Silk Lips](https://open.spotify.com/track/26nnd4xKNuV4jXkr9fJkKc) | [Saif Amo](https://open.spotify.com/artist/0EtMAH16SljSdJ3DFy2pod) | [Silk Lips](https://open.spotify.com/album/3T1Kxwr9f5YRF7EPXIfqeV) | 2:07 |
 
-Snapshot ID: `MTY3NzI0MjgzNiwwMDAwMDAwMDM0MzAzNjdiNjc2NWVmYjcwZmJkZGQ2OGJiOWUzMTJl`
+Snapshot ID: `MTY3NzI0MjgzNiwwMDAwMDAwMGRlMWZiNmFhYmMyZjUyODFlNDJiMjllMzkzZGVhZDM4`

@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: lau.ra & Dope Earth Alien
 
-425 songs - 23 hr 43 min
+426 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Permanence](https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Permanence](https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg) | 3:51 | 2022-01-14 | 2022-06-11 |
 | [Play By My Rules](https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Play By My Rules](https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p) | 3:37 | 2022-01-14 | 2022-04-16 |
 | [Polite \(feat\. Malokyo\)](https://open.spotify.com/track/0ymIxPq8P10uANAKQVCwCp) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Malokyo](https://open.spotify.com/artist/3xLrKqOIgw2kuEdaB1eWs6) | [Polite \(feat\. Malokyo\)](https://open.spotify.com/album/5rLswFt7tvu4Zh4rq2Yndt) | 3:19 | 2022-01-28 | 2022-05-07 |
-| [Pop Like](https://open.spotify.com/track/6lG6sIWzNkntKpBSBxat4V) | [KARBON](https://open.spotify.com/artist/3KQWdNzEwAMedviqUBAodQ) | [6am EP](https://open.spotify.com/album/5gllxDkktUWrcUZK0ORhmh) | 3:31 | 2022-12-16 |  |
+| [Pop Like](https://open.spotify.com/track/6lG6sIWzNkntKpBSBxat4V) | [KARBON](https://open.spotify.com/artist/3KQWdNzEwAMedviqUBAodQ) | [6am EP](https://open.spotify.com/album/5gllxDkktUWrcUZK0ORhmh) | 3:31 | 2022-12-16 | 2023-03-02 |
 | [Post\-Rave Heist](https://open.spotify.com/track/7fvxVumQ30aRR1RDmkiuI6) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [Post\-Rave Heist](https://open.spotify.com/album/30HXtVrHxww4WwnRgHQf5m) | 3:12 | 2023-02-24 |  |
 | [Prayers](https://open.spotify.com/track/32AM51AZPlQ7NqpuGqK4rP) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Prayers](https://open.spotify.com/album/1l5hWqjF2bmh6NgduCsMwj) | 3:20 | 2022-01-14 | 2022-01-29 |
 | [Psychedelic Girls](https://open.spotify.com/track/3ekMDfXCRTwlXXtfxwA0jP) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Psychedelic Girls](https://open.spotify.com/album/0kjg5HYPH9fM4gwTWTOaWD) | 2:52 | 2022-11-25 |  |
@@ -350,6 +350,7 @@
 | [SHiNE](https://open.spotify.com/track/3eGTeMHX7bB8YhUuXs9IV3) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1) | [SHiNE](https://open.spotify.com/album/5todskDJAkfo8TYsGGtCEh) | 3:35 | 2022-10-07 | 2022-11-19 |
 | [Sillo](https://open.spotify.com/track/41nCgrlaeqVkMCcAEPuu6O) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Sillo](https://open.spotify.com/album/5cMRL9Nv0wLvuArkp3qC9h) | 4:38 | 2022-02-04 | 2022-06-25 |
 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 | 2022-09-02 | 2023-01-14 |
+| [Slang Bang](https://open.spotify.com/track/2qYh4nKrsYsXb3T7U1VWxi) | [Greeko](https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH) | [Slang Bang](https://open.spotify.com/album/0KEhLU0pumICuuu387MJ5Z) | 3:24 | 2023-02-24 |  |
 | [Slow Motion](https://open.spotify.com/track/2z0FdOJ757ehCVORtbmMBk) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Slow Motion / Hit The Lights](https://open.spotify.com/album/1Y4MQpcyo8Ne9oqxoQQdjs) | 3:32 | 2022-08-12 | 2022-08-27 |
 | [Slumber With a Key](https://open.spotify.com/track/7hM8tfmh3rz02Le2bnbmko) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Slumber With a Key](https://open.spotify.com/album/0siKwju6hva10Nk8D1k2Kx) | 7:19 | 2022-02-25 | 2022-04-02 |
 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 | 2022-10-07 | 2022-11-26 |

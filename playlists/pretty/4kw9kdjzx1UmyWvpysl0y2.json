@@ -1,13 +1,73 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127118,
+  "num_followers": 127125,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDAxNyw2MTg4YTJjNjU1OGZhNThhNDdlMTc1YmQ4OGU0ZDVlZGE1OGMyZWMy",
+  "snapshot_id": "NDAyNiwyMGIyMWRiYjkyYjRmZWE1ZmQwZTRjNzk2OGQ0ZDYyN2M2NmIzZmVk",
   "tracks": [
+    {
+      "added_at": "2023-03-01 18:48:47",
+      "album": {
+        "name": "Long Ago",
+        "url": "https://open.spotify.com/album/0q5IFGu4CPd21YiEbbr81y"
+      },
+      "artists": [
+        {
+          "name": "Wassu",
+          "url": "https://open.spotify.com/artist/0jxabdMr8MK0OQgpsMVQDq"
+        },
+        {
+          "name": "Lumynesynth",
+          "url": "https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD"
+        }
+      ],
+      "duration_ms": 260163,
+      "name": "Long Ago",
+      "url": "https://open.spotify.com/track/3qfMRghmtjtuHTFG3gTjtE"
+    },
+    {
+      "added_at": "2023-03-01 18:45:52",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/31hnvDgjFArB8Xbntl48ou"
+      },
+      "artists": [
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Weird Genius",
+          "url": "https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ"
+        }
+      ],
+      "duration_ms": 162519,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/0rHT3KSdQn3JvGPwe5EH2Y"
+    },
+    {
+      "added_at": "2023-03-01 18:44:42",
+      "album": {
+        "name": "Valhalla",
+        "url": "https://open.spotify.com/album/49ViXJDQNm2nV1bCMFMcAJ"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        },
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        }
+      ],
+      "duration_ms": 237931,
+      "name": "Valhalla",
+      "url": "https://open.spotify.com/track/4nQAwNLKpcn0g54dPedQBi"
+    },
     {
       "added_at": "2023-02-24 17:22:35",
       "album": {
@@ -1095,66 +1155,6 @@
       "duration_ms": 199500,
       "name": "Falling Off - Club Mix",
       "url": "https://open.spotify.com/track/6o98BHCAJs67DTIfhg7ung"
-    },
-    {
-      "added_at": "2022-12-03 05:05:28",
-      "album": {
-        "name": "Can We Be Free (KDrew Remix)",
-        "url": "https://open.spotify.com/album/3po4Lcgb6oUUksB3d6xrt9"
-      },
-      "artists": [
-        {
-          "name": "KUURO",
-          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
-        },
-        {
-          "name": "KDrew",
-          "url": "https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ"
-        }
-      ],
-      "duration_ms": 148580,
-      "name": "Can We Be Free - KDrew Remix",
-      "url": "https://open.spotify.com/track/6z8jYJCzgBCNgbMTwvvnFy"
-    },
-    {
-      "added_at": "2022-12-01 20:53:35",
-      "album": {
-        "name": "Nirvana (Tisoki Remix)",
-        "url": "https://open.spotify.com/album/0Kz8iQFEkPIyqgxBspHPzL"
-      },
-      "artists": [
-        {
-          "name": "Candyland",
-          "url": "https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq"
-        },
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Nirvana - Tisoki Remix",
-      "url": "https://open.spotify.com/track/3xxKLNhN0uADJtSF53kULp"
-    },
-    {
-      "added_at": "2022-11-30 20:18:29",
-      "album": {
-        "name": "this feeling that never ends",
-        "url": "https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv"
-      },
-      "artists": [
-        {
-          "name": "Scarr.",
-          "url": "https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV"
-        },
-        {
-          "name": "Finding Mero",
-          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
-        }
-      ],
-      "duration_ms": 150888,
-      "name": "this feeling that never ends",
-      "url": "https://open.spotify.com/track/4YMmmpFYgC29DqDqjghjuT"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

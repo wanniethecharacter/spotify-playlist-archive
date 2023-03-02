@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33964,
+  "num_followers": 33963,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMDQ1YWJmNWEyNGE0MWE2NjZlMzM5NzQ3NmQwMWNiNDdl",
+  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMDk5MzFkNDkxZjRlNjM4NGM3YmZmOTViOTUxZGE2OTBk",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Asleep At Heaven's Gate (Remastered And Expanded Edition)",
-        "url": "https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F"
-      },
-      "artists": [
-        {
-          "name": "Rogue Wave",
-          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
-        }
-      ],
-      "duration_ms": 228349,
-      "name": "Lake Michigan",
-      "url": "https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "By and By",
         "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Gimme Fiction (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk"
+        "name": "Asleep At Heaven's Gate (Remastered And Expanded Edition)",
+        "url": "https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F"
       },
       "artists": [
         {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+          "name": "Rogue Wave",
+          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
         }
       ],
-      "duration_ms": 235560,
-      "name": "I Summon You",
-      "url": "https://open.spotify.com/track/4k15blneKWudA2gBmlWFIW"
+      "duration_ms": 228349,
+      "name": "Lake Michigan",
+      "url": "https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -679,18 +663,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "People Are My Drug",
-        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
+        "name": "Gimme Fiction (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk"
       },
       "artists": [
         {
-          "name": "Phil Cook",
-          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
         }
       ],
-      "duration_ms": 241746,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
+      "duration_ms": 235560,
+      "name": "I Summon You",
+      "url": "https://open.spotify.com/track/4k15blneKWudA2gBmlWFIW"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -707,6 +691,22 @@
       "duration_ms": 348226,
       "name": "Burning",
       "url": "https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "People Are My Drug",
+        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
+      },
+      "artists": [
+        {
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
     },
     {
       "added_at": "2022-06-17 04:02:00",

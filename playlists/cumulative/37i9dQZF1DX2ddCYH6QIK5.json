@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: MODULAR, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Ritter Lean, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -702,7 +702,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 175960,
       "name": "attic box",
       "url": "https://open.spotify.com/track/3btitHAcDeV6xG5qBFzYBD"
@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Bevor ich hier verschwinde",
+        "url": "https://open.spotify.com/album/2pXTToa1m09b5JyFGhYVso"
+      },
+      "artists": [
+        {
+          "name": "SWAMPHEAD",
+          "url": "https://open.spotify.com/artist/4TuIJomSFRjpC0YZThRcgZ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146583,
+      "name": "Bevor ich hier verschwinde",
+      "url": "https://open.spotify.com/track/6FTTDKPoGFzon9i9ugKW9L"
+    },
+    {
+      "album": {
         "name": "Bicycle Day",
         "url": "https://open.spotify.com/album/0FR0jouBzwrB9Rbd2lGwcH"
       },
@@ -1225,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "bloodline",
+        "url": "https://open.spotify.com/album/7Fn2D1GgUWa6zMEc7ErtlI"
+      },
+      "artists": [
+        {
+          "name": "Soukou",
+          "url": "https://open.spotify.com/artist/0eRpKXLg1McmJuL3ASNbiz"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184035,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/5wYBgTWun7J3OR4hPYuUyF"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/5GyuZwXkCnAUIuxiU31uZg"
       },
@@ -1294,7 +1330,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 233453,
       "name": "Bordeaux",
       "url": "https://open.spotify.com/track/0Z9UUmKD3v47decKhZSUtp"
@@ -2314,7 +2350,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 352011,
       "name": "Desire",
       "url": "https://open.spotify.com/track/7BFEDDCUYqYXnVH5ItVvOo"
@@ -2494,7 +2530,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 167454,
       "name": "Down",
       "url": "https://open.spotify.com/track/5guo8TwbQXq9oxVZIKNm5O"
@@ -2826,6 +2862,24 @@
       "duration_ms": 154551,
       "name": "Ein Zeichen",
       "url": "https://open.spotify.com/track/5Sx1kDpJOERW9wKLUzG31R"
+    },
+    {
+      "album": {
+        "name": "Einsame Insel",
+        "url": "https://open.spotify.com/album/2bA9VJUcbmzW47Nubm8yOJ"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164063,
+      "name": "Einsame Insel",
+      "url": "https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76"
     },
     {
       "album": {
@@ -3904,6 +3958,24 @@
       "duration_ms": 167542,
       "name": "Granada",
       "url": "https://open.spotify.com/track/13zaYkkjtliAgZzK4TPC3i"
+    },
+    {
+      "album": {
+        "name": "Grauer Rauch",
+        "url": "https://open.spotify.com/album/5IvFWqLamFlQteyAI3c4Q1"
+      },
+      "artists": [
+        {
+          "name": "blau",
+          "url": "https://open.spotify.com/artist/0vGTJXb8ZQrJNebRjj4Btr"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195358,
+      "name": "Grauer Rauch",
+      "url": "https://open.spotify.com/track/6QNvh9lgVqJAOshHB3HA2D"
     },
     {
       "album": {
@@ -5403,6 +5475,24 @@
     },
     {
       "album": {
+        "name": "Keine Panik",
+        "url": "https://open.spotify.com/album/3cC8Qm5TtLpzvR2CJImgcY"
+      },
+      "artists": [
+        {
+          "name": "Siggi",
+          "url": "https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209146,
+      "name": "Keine Panik",
+      "url": "https://open.spotify.com/track/6LH0YQyj12KPaFTe3PRO1S"
+    },
+    {
+      "album": {
         "name": "Kids Table",
         "url": "https://open.spotify.com/album/4lUk75cvEBPSAttBiq1ZWi"
       },
@@ -5602,6 +5692,28 @@
       "duration_ms": 142000,
       "name": "Laura",
       "url": "https://open.spotify.com/track/20THYUWiTFveytALH4pyUD"
+    },
+    {
+      "album": {
+        "name": "Laura's Stern",
+        "url": "https://open.spotify.com/album/2E3jVlkDn8oKLzRFeMN55J"
+      },
+      "artists": [
+        {
+          "name": "NALI",
+          "url": "https://open.spotify.com/artist/7J7cXoOrDcrMeozaxsrnkB"
+        },
+        {
+          "name": "kalla",
+          "url": "https://open.spotify.com/artist/6NPqm65uxN88zrFo7l6vY3"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147835,
+      "name": "Laura's Stern",
+      "url": "https://open.spotify.com/track/4QAPoCZhTSWKO38zAmpZGh"
     },
     {
       "album": {
@@ -5808,6 +5920,24 @@
       "duration_ms": 215816,
       "name": "Lie To You",
       "url": "https://open.spotify.com/track/6FKIKLy6wDeFgRBpEIRnmh"
+    },
+    {
+      "album": {
+        "name": "Liebesbriefe",
+        "url": "https://open.spotify.com/album/75WcHRxhZRy1zGlzoRTeFa"
+      },
+      "artists": [
+        {
+          "name": "Arctic8",
+          "url": "https://open.spotify.com/artist/06uvtPo2ZlLhC4yKI5i2Is"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254153,
+      "name": "Liebesbriefe",
+      "url": "https://open.spotify.com/track/6lVRDNNb4omegvDYORrAet"
     },
     {
       "album": {
@@ -6348,7 +6478,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 164210,
       "name": "Mich",
       "url": "https://open.spotify.com/track/5fsuJIbKoH7e6U7g7oJ59C"
@@ -7070,6 +7200,24 @@
       "duration_ms": 189013,
       "name": "N\u00e4chte",
       "url": "https://open.spotify.com/track/4vpMwzSfNS7YvV8cv9gzTP"
+    },
+    {
+      "album": {
+        "name": "N\u00e4he",
+        "url": "https://open.spotify.com/album/4Q99RwL897TuoY8DKDv8yB"
+      },
+      "artists": [
+        {
+          "name": "Madlin",
+          "url": "https://open.spotify.com/artist/6lBhO8p0uitZv0J2VELLyy"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189818,
+      "name": "N\u00e4he",
+      "url": "https://open.spotify.com/track/6iFSrLkOrX96d3pGTn4akk"
     },
     {
       "album": {
@@ -8498,7 +8646,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 279218,
       "name": "Schweig",
       "url": "https://open.spotify.com/track/2oxLIdAVPK5Uygb2dmUvyK"
@@ -8736,7 +8884,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 56395,
       "name": "sing u to sleep",
       "url": "https://open.spotify.com/track/2aWvfZyUsQ7uPuInlRzeD2"
@@ -10086,7 +10234,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 156342,
       "name": "TOXISCH",
       "url": "https://open.spotify.com/track/0WkO9mCwx4nVN1gexEm22W"
@@ -10309,6 +10457,24 @@
     },
     {
       "album": {
+        "name": "T\u00e4towier Mir Dein Namen",
+        "url": "https://open.spotify.com/album/6RPkPeXNuakYMF5yDWhOkk"
+      },
+      "artists": [
+        {
+          "name": "STEEZY",
+          "url": "https://open.spotify.com/artist/7qrYjRiwMxIIxbuvVyVIeL"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148255,
+      "name": "T\u00e4towier Mir Dein Namen",
+      "url": "https://open.spotify.com/track/3B8E7EJ5KkR6NJM2qlB92z"
+    },
+    {
+      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/6TH72GNIkdULBcomH1VUf0"
       },
@@ -10490,7 +10656,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 217159,
       "name": "Verdammt - Radio Edit",
       "url": "https://open.spotify.com/track/6B8hCZtANfdTrU4y9P9R5i"
@@ -10750,7 +10916,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 222403,
       "name": "Weltraumarmee",
       "url": "https://open.spotify.com/track/3PjRZwzojOxrgZBjhNW7sz"
@@ -11284,6 +11450,24 @@
       "duration_ms": 155294,
       "name": "Xari",
       "url": "https://open.spotify.com/track/5qaqvD5nZtGxtny6qOVIbz"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/1JXXDB8oMPIYNiXphYighm"
+      },
+      "artists": [
+        {
+          "name": "Jules Atlas",
+          "url": "https://open.spotify.com/artist/589j7VCgHVfk4fjX0JoB2q"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264893,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1IQ56ehvvJcLdlwWK2vF4A"
     },
     {
       "album": {

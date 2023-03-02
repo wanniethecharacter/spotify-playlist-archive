@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-644 songs - 1 day 12 hr 53 min
+645 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 | 2022-10-06 | 2023-02-22 |
 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2022-11-17 |  |
 | [RestartSmile](https://open.spotify.com/track/7nn2z9nlUVacYiDDNbkrsi) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [RestartSmile](https://open.spotify.com/album/4Ne4UIGziyFGdReco9fNSi) | 3:28 | 2022-06-16 | 2022-07-12 |
-| [river relief](https://open.spotify.com/track/0PaMGCGfmGZvtGIFrpNIQ8) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [崎山蒼志](https://open.spotify.com/artist/7jOw1334Xnxq88NUyEEtOZ) | [river relief](https://open.spotify.com/album/2sXpVAlIb2DHIeCCeRzajB) | 4:00 | 2023-03-01 |  |
+| [river relief](https://open.spotify.com/track/5LfrLmJ7Mnv9ZJOy3cROKk) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [river relief](https://open.spotify.com/album/4jGKhuY5FPaNYdiYn2KDmA) | 4:00 | 2023-03-02 |  |
+| [river relief](https://open.spotify.com/track/0PaMGCGfmGZvtGIFrpNIQ8) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [崎山蒼志](https://open.spotify.com/artist/7jOw1334Xnxq88NUyEEtOZ) | [river relief](https://open.spotify.com/album/2sXpVAlIb2DHIeCCeRzajB) | 4:00 | 2023-03-01 | 2023-03-02 |
 | [Saccharin \(feat\. natsumi\)](https://open.spotify.com/track/1kCn0Vx5jh6WNy7S7cCvab) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [natsumi](https://open.spotify.com/artist/0j5uL1aGwr2KzirkKWF2YD) | [Saccharin \(feat\. natsumi\)](https://open.spotify.com/album/4EhAU964ARXJZKR8oegtPk) | 4:08 | 2022-07-24 | 2022-07-26 |
 | [sakura breeze](https://open.spotify.com/track/0wA4jgSYocJbr3VMGhgFI7) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8), [sekai](https://open.spotify.com/artist/7fnGQtfTGswQS3T0tMZ0xZ) | [sakura breeze](https://open.spotify.com/album/5wG74dZ07tw3YFQu3BdpKp) | 3:33 | 2022-06-09 | 2022-07-15 |
 | [Sansan to Furitsumoru Yoru ha](https://open.spotify.com/track/79y2tDJEkshvARtHIWlv5g) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [ONE MORE SHABON](https://open.spotify.com/album/1Xeegi7QJ8HdQWnow6IO2U) | 3:12 | 2022-06-21 | 2022-07-19 |
@@ -419,7 +420,7 @@
 | [ランデブー](https://open.spotify.com/track/5lacv3oHw1HtbCW87uCZqx) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [ランデブー](https://open.spotify.com/album/6sSdvm5IwggRQyFrbC4ZjV) | 3:00 | 2022-06-09 | 2022-06-14 |
 | [ラヴィ \- すりぃ ver.](https://open.spotify.com/track/4KFPgXmv9DaAOud3uEp9bJ) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [ラヴィ \(すりぃ Ver.\)](https://open.spotify.com/album/3ZFcnCHeDpf7W65zhyuGBM) | 3:00 | 2023-01-03 | 2023-01-18 |
 | [リベリオン](https://open.spotify.com/track/3AchaKyy2z6K85YGR729JQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [リベリオン](https://open.spotify.com/album/120fFIxJOERpjvhdC7xJSE) | 2:58 | 2022-09-20 | 2022-10-11 |
-| [ルードルーズダンス](https://open.spotify.com/track/0sHbdxyepJ11nCCUEOin35) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [ルードルーズダンス](https://open.spotify.com/album/78MM2z00YPJadoqTqmhDbi) | 4:42 | 2023-02-02 | 2023-02-28 |
+| [ルードルーズダンス](https://open.spotify.com/track/0sHbdxyepJ11nCCUEOin35) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [ルードルーズダンス](https://open.spotify.com/album/78MM2z00YPJadoqTqmhDbi) | 4:42 | 2023-02-02 |  |
 | [レイニー ブルー feat.こぴ&未来](https://open.spotify.com/track/47Ndw7P01dq1kLZpxz7kZN) | [kobasolo](https://open.spotify.com/artist/4n2W84plMrq8WttT18Npwi), [こぴ](https://open.spotify.com/artist/7o5Zl6NC3E8gO3sDoEjyqU), [未来](https://open.spotify.com/artist/2XRMhre9OgtMDUA9byHD4O) | [これくしょん ヴァイナル](https://open.spotify.com/album/7JGNOCHjSXe6MLPRQiLfbo) | 4:24 | 2022-06-16 | 2022-07-13 |
 | [レインボー!](https://open.spotify.com/track/5HbCXXaf4o2hjw6s1tkLhc) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [間一発](https://open.spotify.com/album/1OmxRf8VOCmablACDWI6vF) | 1:32 | 2022-07-14 | 2022-07-16 |
 | [ロアーズ](https://open.spotify.com/track/1sS8qMEm9hjHfKaZxjrHI0) | [アニマル教団](https://open.spotify.com/artist/7ooWBDJNhv1KUH07mrhVc0) | [参上!アニマル教団!](https://open.spotify.com/album/1DhGLgkbbbYdHiI8zDn4vm) | 3:39 | 2022-10-12 | 2022-10-19 |
@@ -545,7 +546,7 @@
 | [法螺話](https://open.spotify.com/track/26ZdaEMub8SOt4XnQj8qwP) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [法螺話](https://open.spotify.com/album/73yepwlqkgml0FPn0CGcbi) | 3:18 | 2022-07-07 | 2022-07-09 |
 | [泡沫](https://open.spotify.com/track/71T5m7fxjbh0OJd4BHJLQ9) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [泡沫](https://open.spotify.com/album/3YkzKo0YN19spDDodxa9OJ) | 3:17 | 2022-06-09 | 2022-07-29 |
 | [海のまにまに](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [海のまにまに](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) | 4:15 | 2022-11-17 |  |
-| [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 | 2022-09-08 |  |
+| [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 | 2022-09-08 | 2023-03-02 |
 | [消えろ](https://open.spotify.com/track/0zDpnig8f0tRZxScjZVyKN) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [消えろ](https://open.spotify.com/album/0NKAHtQ6xW7xAVfa3mcDRm) | 3:26 | 2022-06-28 | 2022-06-30 |
 | [涙の融点](https://open.spotify.com/track/4rCTcnw3ZitCRbCtsCa0QX) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [涙の融点](https://open.spotify.com/album/0LvctQtKfApZhKBaIyq5dr) | 4:32 | 2022-06-09 | 2022-06-13 |
 | [涙も出ない](https://open.spotify.com/track/1AEhZ4IJn3MdbHYtjJxSv1) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [涙も出ない](https://open.spotify.com/album/30kdM6IUVQ0mlES8WrIJrU) | 2:01 | 2022-07-21 | 2022-07-24 |

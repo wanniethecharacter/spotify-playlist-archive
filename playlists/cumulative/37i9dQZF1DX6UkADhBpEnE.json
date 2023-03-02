@@ -150,7 +150,7 @@
     {
       "album": {
         "name": "Awesome Day",
-        "url": "https://open.spotify.com/album/0YiAhoEt7KwUWIwUkVqkWT"
+        "url": "https://open.spotify.com/album/6gcG7112FkoCEeCN6ljP6T"
       },
       "artists": [
         {
@@ -161,6 +161,24 @@
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198233,
+      "name": "Awesome Day",
+      "url": "https://open.spotify.com/track/0qqmOwDSPhH1PNHv72al3N"
+    },
+    {
+      "album": {
+        "name": "Awesome Day",
+        "url": "https://open.spotify.com/album/0YiAhoEt7KwUWIwUkVqkWT"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u96c4\u58eb",
+          "url": "https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
       "duration_ms": 198233,
       "name": "Awesome Day",
       "url": "https://open.spotify.com/track/5XNEnGFGKjeWgaVRvP4wq8"
@@ -178,7 +196,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 164682,
       "name": "BABY SAID",
       "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
@@ -204,7 +222,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 172714,
       "name": "Bad Decisions (with BTS & Snoop Dogg)",
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"

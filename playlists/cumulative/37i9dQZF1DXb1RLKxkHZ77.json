@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 171810,
       "name": "Bahaya",
       "url": "https://open.spotify.com/track/49hyS2kEeKRDn6lzCrxfSN"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 180047,
       "name": "CASABLANCA",
       "url": "https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD"
@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Hasrat (OST Imaginur)",
+        "url": "https://open.spotify.com/album/3ABD4eXxckIrnVXKYRkClU"
+      },
+      "artists": [
+        {
+          "name": "Amir Jahari",
+          "url": "https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Hasrat (OST Imaginur)",
+      "url": "https://open.spotify.com/track/3Q6DYlT649Y1tgyf5We71c"
+    },
+    {
+      "album": {
         "name": "HATI",
         "url": "https://open.spotify.com/album/2ZjFUUNd76Fm1tInQHNF3N"
       },
@@ -1333,6 +1351,28 @@
     },
     {
       "album": {
+        "name": "JARAK",
+        "url": "https://open.spotify.com/album/7filDfq6Z8X1eWulSfcdIQ"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        },
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163425,
+      "name": "JARAK",
+      "url": "https://open.spotify.com/track/4jjLmbtRO9PjGARABzxya7"
+    },
+    {
+      "album": {
         "name": "Jika",
         "url": "https://open.spotify.com/album/7IRGPklzUkOw1uhYlXHIPS"
       },
@@ -1388,7 +1428,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 285765,
       "name": "Kamu Kurang Usaha",
       "url": "https://open.spotify.com/track/2SmryvmzCMHQ4fjAf1mzmA"
@@ -1558,6 +1598,24 @@
       "duration_ms": 276019,
       "name": "Kisah Sempurna",
       "url": "https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR"
+    },
+    {
+      "album": {
+        "name": "Komang",
+        "url": "https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222706,
+      "name": "Komang",
+      "url": "https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH"
     },
     {
       "album": {
@@ -1876,6 +1934,24 @@
       "duration_ms": 225047,
       "name": "Mandrem",
       "url": "https://open.spotify.com/track/779zDIMn5tmn8mq3e0GTpu"
+    },
+    {
+      "album": {
+        "name": "Masuk",
+        "url": "https://open.spotify.com/album/6N5gdazIpVUbG1WIjNid1g"
+      },
+      "artists": [
+        {
+          "name": "Fariz Jabba",
+          "url": "https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Masuk",
+      "url": "https://open.spotify.com/track/1MjcAJQWeWwDgXIB8aQ9nM"
     },
     {
       "album": {
@@ -2706,7 +2782,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 232000,
       "name": "Sejuta Maaf",
       "url": "https://open.spotify.com/track/2dNl9852kqrSurEtz1WsyQ"
@@ -2768,6 +2844,28 @@
       "duration_ms": 251714,
       "name": "Sempurna",
       "url": "https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I"
+    },
+    {
+      "album": {
+        "name": "Sengkek",
+        "url": "https://open.spotify.com/album/34mBrSppMy6BDbB6YT8JMj"
+      },
+      "artists": [
+        {
+          "name": "Yonnyboii",
+          "url": "https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR"
+        },
+        {
+          "name": "ALYPH",
+          "url": "https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Sengkek",
+      "url": "https://open.spotify.com/track/5UVKm78nMoKQgLj66IR36j"
     },
     {
       "album": {
@@ -3284,7 +3382,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 174315,
       "name": "Tunggu",
       "url": "https://open.spotify.com/track/7KHeoaLSpzMC0nHm1NFoI5"

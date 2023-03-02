@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: CATT
 
-772 songs - 1 day 16 hr 47 min
+774 songs - 1 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [Schwarzes Kleid](https://open.spotify.com/track/3lrq4oJZLg7Gh2hR7NfjUa) | [GINI](https://open.spotify.com/artist/6TBAZHXDXBywvVgYyQ8aCQ) | [Schwarzes Kleid](https://open.spotify.com/album/6j7vM6HcfSgBdnr5BSZbOt) | 2:39 | 2022-09-06 | 2022-10-05 |
 | [Schweden Espresso](https://open.spotify.com/track/0LokKpZ75o151vBOJpDS8b) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Harlequin](https://open.spotify.com/album/4KWRSlFGJVcctCYzwyII38) | 4:28 | 2022-10-04 | 2022-11-08 |
 | [Schwestern](https://open.spotify.com/track/2Wb7KMXU8JocMRyGpbUpAA) | [CHILDREN](https://open.spotify.com/artist/0OlZ5hF4EGr6UPaIxwHVIY) | [Schwestern](https://open.spotify.com/album/27IrOLQFBYRkp8BByjkNnc) | 4:00 | 2022-05-31 | 2022-07-06 |
+| [schwimmen](https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [schwimmen](https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy) | 2:07 | 2023-03-01 |  |
 | [Schön genug](https://open.spotify.com/track/4Cz5GKXgKwWODjdWvC3t0D) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Schön genug](https://open.spotify.com/album/60e9x7E5DRVgrwCyG18sd6) | 3:06 | 2023-01-03 | 2023-02-01 |
 | [schön naiv :\)](https://open.spotify.com/track/2ykcuqXjl9bg3ouHsfeISI) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [schön naiv :\)](https://open.spotify.com/album/38apSHIt2ShQsodAhOAzP7) | 2:28 | 2023-01-03 | 2023-02-01 |
 | [Schön, dass du da bist](https://open.spotify.com/track/0q9sVOMAV0tXRXWHuKVWdv) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Schön, dass du da bist](https://open.spotify.com/album/5MKxa2RpV056fLgzOCtGfW) | 3:38 | 2021-12-21 | 2022-01-05 |
@@ -601,6 +602,7 @@
 | [Shouldn't This Feel Easy?](https://open.spotify.com/track/05h7Pyi60LUWXJJVBpouah) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [Shouldn't This Feel Easy?](https://open.spotify.com/album/15cubvXFZezkvHcVF4b5RU) | 2:49 | 2022-08-02 | 2022-09-07 |
 | [Shutdown](https://open.spotify.com/track/5EBYnmDtqwK5o0nHddAFgl) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Shutdown](https://open.spotify.com/album/4xlYy4DDtx32POwZaJbVhq) | 2:22 | 2022-07-05 | 2022-08-03 |
 | [Sick Of Being Sad](https://open.spotify.com/track/584NxuMTvdTausXZ9oT85R) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Sick Of Being Sad](https://open.spotify.com/album/4FD9TVJXqsT3OuCR1jZjXP) | 2:43 | 2022-05-03 | 2022-06-01 |
+| [Sidebitch](https://open.spotify.com/track/0pQWkYjOuiN3axFsuGbsEW) | [Nura](https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf) | [Sidebitch](https://open.spotify.com/album/1wvT7ELpKDNVKlslNZEYJH) | 2:32 | 2023-03-01 |  |
 | [Sidewalk](https://open.spotify.com/track/23jcLRQeXNcZWZrBIKeuY8) | [Bae.con](https://open.spotify.com/artist/13Vka7xGjRHhIOGzvomJZd) | [Sidewalk](https://open.spotify.com/album/7bvIFa8V7Oj9yZbv9H69x0) | 2:20 | 2022-11-07 | 2022-12-01 |
 | [Signal](https://open.spotify.com/track/2Y6dYM6KjTEPhfvM8a7zTI) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Signal](https://open.spotify.com/album/1b5h1zGp7FDEgnJjFxFQzZ) | 3:23 | 2022-04-05 | 2023-01-04 |
 | [Silver / Gold](https://open.spotify.com/track/73TyCqBd1kuZ1trhAJHXuZ) | [Elena Rud](https://open.spotify.com/artist/7H55j50FUEqEhAVqJbIBuE) | [Angst](https://open.spotify.com/album/69D4O0UPGWLKmdtZlnOyEY) | 3:46 | 2022-09-06 | 2022-10-05 |

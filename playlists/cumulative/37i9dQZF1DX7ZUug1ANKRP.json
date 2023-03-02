@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: Ti\u00ebsto",
+  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: southstar",
   "name": "Main Stage",
   "tracks": [
     {
@@ -453,6 +453,28 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1eVBpSRDy2mI9Dk1JhgklY"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Maurice Lessing",
+          "url": "https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187619,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/3yXYMEELc9m32h8vGxSPKN"
+    },
+    {
+      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -850,6 +872,24 @@
       "duration_ms": 169624,
       "name": "Blow Ur Mind",
       "url": "https://open.spotify.com/track/47ZtMQwbGGL5A3sqwSBj81"
+    },
+    {
+      "album": {
+        "name": "Body Rock",
+        "url": "https://open.spotify.com/album/2N7fWqjHyi2OpIxPJPBdO2"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133884,
+      "name": "Body Rock",
+      "url": "https://open.spotify.com/track/0qtjn6dbQ8VDNJwJQ9w7Cy"
     },
     {
       "album": {
@@ -1289,6 +1329,32 @@
     },
     {
       "album": {
+        "name": "Cups (Drunk in Love Pt. 2)",
+        "url": "https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Wasback",
+          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
+        },
+        {
+          "name": "Edward V",
+          "url": "https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163617,
+      "name": "Cups (Drunk in Love Pt. 2)",
+      "url": "https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z"
+    },
+    {
+      "album": {
         "name": "Dance Again",
         "url": "https://open.spotify.com/album/2TMMSOhG0eydMUUhrFspPT"
       },
@@ -1524,7 +1590,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 238455,
       "name": "Died In Your Arms (Reloaded)",
       "url": "https://open.spotify.com/track/4fc381V6V17JS7RqXH2E7M"
@@ -3470,7 +3536,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 174956,
       "name": "Live And Die (feat. Sophie Simmons)",
       "url": "https://open.spotify.com/track/0QR4vZ9iuNjrkWYNLoVAnM"
@@ -3844,7 +3910,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 136846,
       "name": "Mission Control",
       "url": "https://open.spotify.com/track/45lGbfYeIdseB3N8FSR9HG"
@@ -4943,6 +5009,32 @@
     },
     {
       "album": {
+        "name": "Rave Superstar",
+        "url": "https://open.spotify.com/album/1qXEVMoSphad9CrO7Zwdsi"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        },
+        {
+          "name": "Haley Maze",
+          "url": "https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159993,
+      "name": "Rave Superstar",
+      "url": "https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5"
+    },
+    {
+      "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/3MOCPhpSF2KOfh1eE688mI"
       },
@@ -5042,7 +5134,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 146400,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/0ueLLmCacZAdtP23ecNWAu"

@@ -2,7 +2,7 @@
 
 ### [RADAR Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX2TlTLxcIo6J)
 
-> From across the globe\. New Songwriters on the horizon\. Cover: Beach Noise
+> From across the globe\. New Songwriters on the horizon\. Cover: <a href="spotify:playlist:37i9dQZF1EFNQOtgvYf8sH">Matt Schaeffer</a>, <a href="spotify:playlist:37i9dQZF1EFPfGQQdiNNNO">Jake Kosich</a> and <a href="spotify:playlist:37i9dQZF1EFyBQlHaB2TvT">Johnny Kosich</a> of Beach Noise
 
 39 songs - 2 hr 5 min
 

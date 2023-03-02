@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-96 songs - 6 hr 25 min
+97 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bulbul Tarang \(From "Ramarao On Duty"\)](https://open.spotify.com/track/28lsav37Xq8OnmM61yhDiQ) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Bulbul Tarang \(From "Ramarao On Duty"\)](https://open.spotify.com/album/4t7QhuTqMr8wwbNl3hLAG8) | 3:34 | 2022-04-10 | 2023-02-21 |
 | [Bullet Song](https://open.spotify.com/track/7Mi0pugIa9VPQm7ykGWIfa) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr](https://open.spotify.com/album/424KdwSKagxxopiqLlbasW) | 3:57 | 2022-04-22 | 2023-02-21 |
 | [Chilipi Varaale Ivvu](https://open.spotify.com/track/6lD9pCsyKfAlX1HUwCsK5x) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Bhediya \- Telugu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6K6CxjmyZYmHywt81aITIb) | 4:23 | 2022-11-24 |  |
+| [Dappukotti Cheppukona](https://open.spotify.com/track/7mPOS5KRp734Mc9LxB3TfZ) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Bhoothaddam Bhaskar Narayana](https://open.spotify.com/album/5Xb3QbKLMWwDxmx9fpQgbI) | 4:42 | 2023-03-01 |  |
 | [Darshana](https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5IYnCIHoayjRyzW6OiumQb) | 3:38 | 2023-01-30 |  |
 | [Dhada Dhada](https://open.spotify.com/track/2AvlqNNJdRrfRhS9GoaL48) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [The Warriorr](https://open.spotify.com/album/5YHLMRNyLqmIMF6z0FUdsQ) | 4:06 | 2022-06-04 | 2023-02-21 |
 | [Dheemthanana](https://open.spotify.com/track/3dPHu4WuOSn3zw4udpBBNv) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1CYUy4WQ2yXvt7OV0ANIbs) | 3:39 | 2022-10-10 |  |

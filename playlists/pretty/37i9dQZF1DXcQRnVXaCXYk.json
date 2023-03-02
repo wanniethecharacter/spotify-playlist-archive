@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ1MjY5MCwwMDAwMDAwMDg1ZGI5ZThkNGZjMGNjYjk3NGM1MDk2YTIyNTdiMWU5",
+  "snapshot_id": "MTY3NTQ1MjY5MCwwMDAwMDAwMDUyNDIyMjg0NDUzYWI1NGY4NmMxMDUxYTQzZDRjODdi",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 220891,
-      "name": "September",
-      "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Holding on to Letting Go",
         "url": "https://open.spotify.com/album/4QzrKpnh58uBFIEqP91Q8U"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 292656,
       "name": "Courage to Change",
       "url": "https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 220891,
+      "name": "September",
+      "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Best Day Of My Life",
         "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 146895,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -779,6 +779,26 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Trippin",
+        "url": "https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs"
+      },
+      "artists": [
+        {
+          "name": "Goldkimono",
+          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
+        },
+        {
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+        }
+      ],
+      "duration_ms": 190438,
+      "name": "Trippin",
+      "url": "https://open.spotify.com/track/6hURVOp7JtavNu11tfl912"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Holy Ground",
         "url": "https://open.spotify.com/album/0Hq69eXXaoGvrVUSOLJrPb"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 168324,
       "name": "How Do You Feel",
       "url": "https://open.spotify.com/track/5bpj0ZqFlll4Xir4BPmGZ2"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Trippin",
-        "url": "https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs"
-      },
-      "artists": [
-        {
-          "name": "Goldkimono",
-          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
-        },
-        {
-          "name": "DAO",
-          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
-        }
-      ],
-      "duration_ms": 190438,
-      "name": "Trippin",
-      "url": "https://open.spotify.com/track/6hURVOp7JtavNu11tfl912"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Room for Another",
-        "url": "https://open.spotify.com/album/43Msz3c7nU5vKAsXPdRekM"
-      },
-      "artists": [
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Room for Another",
-      "url": "https://open.spotify.com/track/0dcJ754zhmVd3qCwv7oW5g"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Learn to Love (Stripped)",
         "url": "https://open.spotify.com/album/5lluwVdUqKhjsby4RLMahS"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 212777,
       "name": "Learn to Love - Stripped",
       "url": "https://open.spotify.com/track/3QuArt3TFanlz6XOUiphiE"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Room for Another",
+        "url": "https://open.spotify.com/album/43Msz3c7nU5vKAsXPdRekM"
+      },
+      "artists": [
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Room for Another",
+      "url": "https://open.spotify.com/track/0dcJ754zhmVd3qCwv7oW5g"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "these words are all for you",
-        "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 208754,
-      "name": "good",
-      "url": "https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Evolve EP",
         "url": "https://open.spotify.com/album/4le148qEn3xi1yh9bknqAh"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 149820,
       "name": "Sorry That I Do That",
       "url": "https://open.spotify.com/track/2WxCovJaXPloCHw0yJ0Z0z"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "these words are all for you",
+        "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 208754,
+      "name": "good",
+      "url": "https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw"
     },
     {
       "added_at": "2023-01-19 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Karol G y Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,595 likes - 61 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,004 likes - 61 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 27 | [Perdón](https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Perdón](https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu) | 2:46 |
 | 28 | [4 Life](https://open.spotify.com/track/51wq4bW0xbDq1A7BOjAGuE) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 2:36 |
 | 29 | [Cla Cla](https://open.spotify.com/track/1CBzjDMBoF63EMLBEbdH9K) | [DJ Chulo NYC](https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Cla Cla](https://open.spotify.com/album/4T0Tmu9yDWl1ggpIBF5qzL) | 2:54 |
-| 30 | [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 |
+| 30 | [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 |
 | 31 | [Padre Nuestro](https://open.spotify.com/track/4fDWPEB5QiVVIrNxxLxUYe) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Padre Nuestro](https://open.spotify.com/album/6oBmOmQUawgL7QYK4Aca5Z) | 2:20 |
 | 32 | [Ese Fui Yo](https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Ese Fui Yo](https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom) | 2:42 |
 | 33 | [San Andres](https://open.spotify.com/track/1GyT9RAp9hMof7ZCMPyYKM) | [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [San Andres](https://open.spotify.com/album/2t5rzOmk2isevxYreGZlIC) | 2:36 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 60 | [Reverse](https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Reverse](https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D) | 2:13 |
 | 61 | [De Atual Pra Ex \- Ao Vivo](https://open.spotify.com/track/2l2O7UZFJjWjvCIlF2crws) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diferentão \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/3wEWZruVritF6G5aKFQblY) | 3:24 |
 
-Snapshot ID: `MTY3NzI2NzM4NywwMDAwMDAwMDgyZmEwOWIxOWU1Y2VmZWMzNzc1ZjQ3MzU2NDM0NGVl`
+Snapshot ID: `MTY3NzI2NzM4NywwMDAwMDAwMDU2MTcyMmZmODEyNDQ4Yjc0ZjUzMzgzYjIwYjNiYjI0`

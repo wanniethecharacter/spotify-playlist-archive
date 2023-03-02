@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6036,
+  "num_followers": 6047,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMGRlNjJlYWNiN2UyNzJiZmNjZjBkODRkYzc3NjY5ZmEw",
+  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMDk1YWEzYTUyYmM3YmUyYWZlMDAyOGUzYmZmODg1Y2Ni",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/3cYozFVrbaSezuvCd5DXq2"
-      },
-      "artists": [
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Orbit - Instrumental",
-      "url": "https://open.spotify.com/track/17cK339xKTGOIlBTM02WbS"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "The World of the Married, Pt. 5 (Original Television SoundTrack)",
         "url": "https://open.spotify.com/album/3JNtbSAHXEcR67bAjVSscB"
       },
@@ -435,34 +419,50 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
-        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/3cYozFVrbaSezuvCd5DXq2"
       },
       "artists": [
         {
-          "name": "\uc9f1\uad70 Zzanggoon",
-          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 256526,
-      "name": "Love Poem",
-      "url": "https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF"
+      "duration_ms": 186066,
+      "name": "Orbit - Instrumental",
+      "url": "https://open.spotify.com/track/17cK339xKTGOIlBTM02WbS"
     },
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/7vVkg2DjA247mg2XdEC49T"
+        "name": "A Poem a Day (tvN DRAMA) OST Part.7",
+        "url": "https://open.spotify.com/album/01neY4Yc8lzmHDagkIuYW2"
       },
       "artists": [
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "Monogram",
+          "url": "https://open.spotify.com/artist/527XQt0xJFseCh4cu50LuC"
         }
       ],
-      "duration_ms": 207999,
-      "name": "I Just Want To Stay With You - Instrumental",
-      "url": "https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x"
+      "duration_ms": 212828,
+      "name": "That Person - Instrumental",
+      "url": "https://open.spotify.com/track/7JhEKgTX5WoIWJkJk4tBUy"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/0RXkfsaEQIeOyAfC5Im2hY"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 270693,
+      "name": "Shine On You - Instrumental",
+      "url": "https://open.spotify.com/track/5YulRNwiJWA0XbTr08D5fx"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -499,18 +499,34 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/0RXkfsaEQIeOyAfC5Im2hY"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7vVkg2DjA247mg2XdEC49T"
       },
       "artists": [
         {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 270693,
-      "name": "Shine On You - Instrumental",
-      "url": "https://open.spotify.com/track/5YulRNwiJWA0XbTr08D5fx"
+      "duration_ms": 207999,
+      "name": "I Just Want To Stay With You - Instrumental",
+      "url": "https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
+        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
+      },
+      "artists": [
+        {
+          "name": "\uc9f1\uad70 Zzanggoon",
+          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
+        }
+      ],
+      "duration_ms": 256526,
+      "name": "Love Poem",
+      "url": "https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -527,22 +543,6 @@
       "duration_ms": 212200,
       "name": "Every second - Instrumental",
       "url": "https://open.spotify.com/track/1fzzhtCEeuvPRRfuMP4xtA"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "A Poem a Day (tvN DRAMA) OST Part.7",
-        "url": "https://open.spotify.com/album/01neY4Yc8lzmHDagkIuYW2"
-      },
-      "artists": [
-        {
-          "name": "Monogram",
-          "url": "https://open.spotify.com/artist/527XQt0xJFseCh4cu50LuC"
-        }
-      ],
-      "duration_ms": 212828,
-      "name": "That Person - Instrumental",
-      "url": "https://open.spotify.com/track/7JhEKgTX5WoIWJkJk4tBUy"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -599,22 +599,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 220920,
-      "name": "My Day Is Full Of You - Instrumental",
-      "url": "https://open.spotify.com/track/5CWn4CsR7PgVnVyReNvBlM"
+      "duration_ms": 253045,
+      "name": "With My Tears - Instrumental",
+      "url": "https://open.spotify.com/track/6j1NUuVnwa20lAEpyqcLA3"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -635,6 +631,26 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "My Day Is Full Of You - Instrumental",
+      "url": "https://open.spotify.com/track/5CWn4CsR7PgVnVyReNvBlM"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "Mystic Pop-up Bar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5y5QgjKcmGgMZehvukxm8y"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 222786,
       "name": "I'll Take You To Tomorrow - Instrumental",
       "url": "https://open.spotify.com/track/4wD07bJUFDTNWeqqYkYgxG"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 253045,
-      "name": "With My Tears - Instrumental",
-      "url": "https://open.spotify.com/track/6j1NUuVnwa20lAEpyqcLA3"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Chicago Typewriter (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/7wScVzTeRnlBcqlSq96ghT"
-      },
-      "artists": [
-        {
-          "name": "Kevin Oh",
-          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Be My Light (Inst.)",
-      "url": "https://open.spotify.com/track/3MnViwjwY7UHy70Vre4lIU"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/5mmVliOxJVjTrV9axuBfnI"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.7",
-        "url": "https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1"
+        "name": "Chicago Typewriter (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/7wScVzTeRnlBcqlSq96ghT"
       },
       "artists": [
         {
-          "name": "YONGZOO",
-          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
+          "name": "Kevin Oh",
+          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Puzzle - Instrumental",
-      "url": "https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220"
+      "duration_ms": 228413,
+      "name": "Be My Light (Inst.)",
+      "url": "https://open.spotify.com/track/3MnViwjwY7UHy70Vre4lIU"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -743,6 +727,22 @@
       "duration_ms": 251483,
       "name": "A Poem For Poetry - Instrumental",
       "url": "https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1"
+      },
+      "artists": [
+        {
+          "name": "YONGZOO",
+          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Puzzle - Instrumental",
+      "url": "https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "Piano Covers, Vol. 7 (Best of 2021)",
+        "url": "https://open.spotify.com/album/35LgiOE6OUXmRidKGVOoSb"
+      },
+      "artists": [
+        {
+          "name": "Piano Peace",
+          "url": "https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/05OogEWyJLjhUaNSdXBK63"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/6d9WJan9PUdbfD457BMjBu"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 240946,
       "name": "Leaning on you - Instrumental",
       "url": "https://open.spotify.com/track/2tSJ5EVYDOCB6LCdJFnCnH"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
-      },
-      "artists": [
-        {
-          "name": "Jo Hyun Ah",
-          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "When We Were Together - Instrumental",
-      "url": "https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -859,34 +859,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Piano Covers, Vol. 7 (Best of 2021)",
-        "url": "https://open.spotify.com/album/35LgiOE6OUXmRidKGVOoSb"
+        "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
       },
       "artists": [
         {
-          "name": "Piano Peace",
-          "url": "https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK"
+          "name": "Jo Hyun Ah",
+          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
         }
       ],
-      "duration_ms": 153250,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/05OogEWyJLjhUaNSdXBK63"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "Mystic Pop-up Bar, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6XwT8iVf1vomZd0BeZEjJL"
-      },
-      "artists": [
-        {
-          "name": "YOOK SUNG JAE",
-          "url": "https://open.spotify.com/artist/2CTby8c4ravq3bTYDqB0yN"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Love Resembles Memories - Instrumental",
-      "url": "https://open.spotify.com/track/4TSaLllN793GqbJ3tk7Lju"
+      "duration_ms": 224720,
+      "name": "When We Were Together - Instrumental",
+      "url": "https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -903,6 +887,22 @@
       "duration_ms": 226715,
       "name": "Just Like a Dream (Inst.)",
       "url": "https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Mystic Pop-up Bar, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6XwT8iVf1vomZd0BeZEjJL"
+      },
+      "artists": [
+        {
+          "name": "YOOK SUNG JAE",
+          "url": "https://open.spotify.com/artist/2CTby8c4ravq3bTYDqB0yN"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Love Resembles Memories - Instrumental",
+      "url": "https://open.spotify.com/track/4TSaLllN793GqbJ3tk7Lju"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Off The Record",
-        "url": "https://open.spotify.com/album/4ugwx793BHJrbvkoLMZ0Ks"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Bad - Instrumental",
-      "url": "https://open.spotify.com/track/55XAUeBmZDTvABug4VjdrC"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Backstreet Rookie (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/7BjnXrdKCpf6ehnG1PjUso"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 204893,
       "name": "See Saw - Inst.",
       "url": "https://open.spotify.com/track/6rdtUu5dcx9YN9GZC97gX3"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/4ugwx793BHJrbvkoLMZ0Ks"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Bad - Instrumental",
+      "url": "https://open.spotify.com/track/55XAUeBmZDTvABug4VjdrC"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1247,18 +1247,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "I Still Need You",
-        "url": "https://open.spotify.com/album/26VATjHeBHhjmqe8vhz8Kz"
+        "name": "Between Us (Feat. OVCOCO)",
+        "url": "https://open.spotify.com/album/3XGjYjce5dOqS0vWknvUzs"
       },
       "artists": [
         {
-          "name": "Panini Brunch",
-          "url": "https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij"
+          "name": "WEN",
+          "url": "https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE"
+        },
+        {
+          "name": "OVCOCO",
+          "url": "https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght"
         }
       ],
-      "duration_ms": 226618,
-      "name": "I Still Need You - Instrumental",
-      "url": "https://open.spotify.com/track/5CPuSwBmu12OIIXdoxwpNU"
+      "duration_ms": 199304,
+      "name": "Between Us (Feat. OVCOCO) - Instrumental",
+      "url": "https://open.spotify.com/track/6TEorNgHxGO14PUvTXEd9F"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1279,22 +1283,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Between Us (Feat. OVCOCO)",
-        "url": "https://open.spotify.com/album/3XGjYjce5dOqS0vWknvUzs"
+        "name": "I Still Need You",
+        "url": "https://open.spotify.com/album/26VATjHeBHhjmqe8vhz8Kz"
       },
       "artists": [
         {
-          "name": "WEN",
-          "url": "https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE"
-        },
-        {
-          "name": "OVCOCO",
-          "url": "https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght"
+          "name": "Panini Brunch",
+          "url": "https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij"
         }
       ],
-      "duration_ms": 199304,
-      "name": "Between Us (Feat. OVCOCO) - Instrumental",
-      "url": "https://open.spotify.com/track/6TEorNgHxGO14PUvTXEd9F"
+      "duration_ms": 226618,
+      "name": "I Still Need You - Instrumental",
+      "url": "https://open.spotify.com/track/5CPuSwBmu12OIIXdoxwpNU"
     },
     {
       "added_at": "2022-11-02 13:40:53",

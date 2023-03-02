@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,502 likes - 166 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,464 likes - 166 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 123 | [River](https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [River](https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs) | 3:17 |
 | 124 | [Winter Wonderland](https://open.spotify.com/track/6hgFVBbQYBMVlMHZwM6AP7) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Winter Wonderland](https://open.spotify.com/album/5KsXvlgJXGtgdOvdok6dCc) | 2:13 |
 | 125 | [Christmas With You](https://open.spotify.com/track/3ZI1F5STp9JBSEX1eNqOcM) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:54 |
-| 126 | [Santa Claus is Comin' to Town](https://open.spotify.com/track/4eGQyyMFL8VAjh0FLnO4YH) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [O.N.E Very Merry Christmas](https://open.spotify.com/album/1ec4f3q3bHBzP5IgqXMFAw) | 2:11 |
+| 126 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/6svjsUlbGkT90TwBc3t0BM) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [O.N.E Very Merry Christmas](https://open.spotify.com/album/6hp4z5Z80cAUCdioFrptuh) | 2:11 |
 | 127 | [Everybody Knows It's Christmas](https://open.spotify.com/track/0AOfQHnpjIe1xyfp8Wgqiy) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Everybody Knows It's Christmas](https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG) | 1:31 |
 | 128 | [Christmas in New York](https://open.spotify.com/track/56oYlOg8iTHa99Oo6LikDx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 4:33 |
 | 129 | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt) | 3:26 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 165 | [Last Christmas](https://open.spotify.com/track/2ADlV7RigsZc3Lo6kzGczk) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Last Christmas](https://open.spotify.com/album/6gWCpXtACkNTSchRJtD3oo) | 2:48 |
 | 166 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 |
 
-Snapshot ID: `MTY3MTYzODUxMCwwMDAwMDAwMDQzMTYyMDQzMjFmYTE3ZmMxZGQ0YjAzZDM5M2IxZjlk`
+Snapshot ID: `MTY3MTYzODUxMCwwMDAwMDAwMGE0NjY2YjUzYzZiN2M0N2Y4ODBkNmE3YzljMThjMTAz`

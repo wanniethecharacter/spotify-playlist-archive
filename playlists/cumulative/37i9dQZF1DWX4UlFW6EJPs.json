@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118216,
+      "name": "A Great Man",
+      "url": "https://open.spotify.com/track/4W0RWhmF9FNSGx1cJd8ZAX"
+    },
+    {
+      "album": {
         "name": "The Last of Us",
         "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
       },
@@ -16,10 +34,46 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 73120,
       "name": "All Gone",
       "url": "https://open.spotify.com/track/0GO5eHbhtjHklVKhAFvt7I"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94133,
+      "name": "All Gone",
+      "url": "https://open.spotify.com/track/5fV66sSCWs5HfSKOQYfJxg"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82767,
+      "name": "All Gone (Affliction)",
+      "url": "https://open.spotify.com/track/6DKZ6kwCDHC8JckgXYrb9x"
     },
     {
       "album": {
@@ -38,7 +92,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 64440,
       "name": "All Gone (Aftermath)",
       "url": "https://open.spotify.com/track/05704F5Uk32MIb9tX5omWQ"
@@ -60,32 +114,118 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 82253,
       "name": "All Gone (Alone)",
       "url": "https://open.spotify.com/track/0pbr3g8GP1OPCdmHJNtXpQ"
     },
     {
       "album": {
-        "name": "The Last of Us",
-        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
       "artists": [
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Alan Umstead",
-          "url": "https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP"
         }
       ],
-      "date_added": "2023-01-30",
+      "date_added": "2023-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 174333,
-      "name": "All Gone (No Escape)",
-      "url": "https://open.spotify.com/track/6zezOLouSWKEfMizbzcsad"
+      "duration_ms": 44972,
+      "name": "All Gone (Elegy)",
+      "url": "https://open.spotify.com/track/3MPJtSUzQpFn64gqQQwlgz"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90314,
+      "name": "All Gone (Embrace)",
+      "url": "https://open.spotify.com/track/2ungRRY94Oj47tDCAm4yGI"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108134,
+      "name": "All Gone (Ephemeral)",
+      "url": "https://open.spotify.com/track/2BLxu6HN5qZUB5M25zNvRm"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70095,
+      "name": "All Gone (Flashbacks)",
+      "url": "https://open.spotify.com/track/7DS5saHBLhb6x5SEJ8eLUo"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65499,
+      "name": "All Gone (In Vain)",
+      "url": "https://open.spotify.com/track/1VHVRcsVxgMfJLkkbfFNjj"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51428,
+      "name": "All Gone (Isolation)",
+      "url": "https://open.spotify.com/track/2zysGsFCXuQuB0fVqpnNHh"
     },
     {
       "album": {
@@ -104,7 +244,83 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 174333,
+      "name": "All Gone (No Escape)",
+      "url": "https://open.spotify.com/track/6zezOLouSWKEfMizbzcsad"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 77978,
+      "name": "All Gone (Promise)",
+      "url": "https://open.spotify.com/track/6R4iwtndN4vxtg024vcZc6"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81667,
+      "name": "All Gone (Purpose)",
+      "url": "https://open.spotify.com/track/0KepE4aUzFvhHimdbXFmPR"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97712,
+      "name": "All Gone (Reunion)",
+      "url": "https://open.spotify.com/track/3xQsL61qYs3uGmIPzKlDPS"
+    },
+    {
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Alan Umstead",
+          "url": "https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
       "duration_ms": 117906,
       "name": "All Gone (The Outside)",
       "url": "https://open.spotify.com/track/3pFvXXDuKGsUPsmBc6McV9"
@@ -166,10 +382,50 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 98800,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/1KRQpyjO3B86ZWSKS9Cgnf"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86757,
+      "name": "Bravery",
+      "url": "https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224981,
+      "name": "Breaching the Wall",
+      "url": "https://open.spotify.com/track/5I04MBlxgkrND4xvwlAWjG"
     },
     {
       "album": {
@@ -188,10 +444,32 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 84373,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/65AutDIlqEMNVNDt5x2bzW"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Jake Staley",
+          "url": "https://open.spotify.com/artist/40gj4UseDxGVmEPXkfZudj"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92496,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/3nIc4GrbvKXc0M7MwObq9c"
     },
     {
       "album": {
@@ -206,10 +484,36 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 113120,
       "name": "By Any Means",
       "url": "https://open.spotify.com/track/64pdVDKZJbLAMy6EUEOVe3"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Jake Staley",
+          "url": "https://open.spotify.com/artist/40gj4UseDxGVmEPXkfZudj"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61891,
+      "name": "Cargo",
+      "url": "https://open.spotify.com/track/7fAFXX20WLmkSGZVM2BDyu"
     },
     {
       "album": {
@@ -231,6 +535,96 @@
     },
     {
       "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68824,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/7bjpKVomLZrKnBpuR8sXwK"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152567,
+      "name": "Complications",
+      "url": "https://open.spotify.com/track/67u2hkSPKTyKpWnEpHhYWO"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127488,
+      "name": "Don't Look",
+      "url": "https://open.spotify.com/track/76RdZMmRezzaNdUbcjjNyU"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89639,
+      "name": "Endure",
+      "url": "https://open.spotify.com/track/5gLcteZSW89HtwM9Glwp0r"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54870,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/5q76hPNXXR1S8BF86hbM1b"
+    },
+    {
+      "album": {
         "name": "The Last of Us",
         "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
       },
@@ -242,10 +636,28 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 67640,
       "name": "Forgotten Memories",
       "url": "https://open.spotify.com/track/4TVtXw28cKW0qT8aNM2ODh"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42197,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL"
     },
     {
       "album": {
@@ -267,6 +679,46 @@
     },
     {
       "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433637,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/41KpRS8w8Bdrs5ecWbSxtJ"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Jake Staley",
+          "url": "https://open.spotify.com/artist/40gj4UseDxGVmEPXkfZudj"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63442,
+      "name": "Greater Purpose",
+      "url": "https://open.spotify.com/track/6OjSyUp4cLDv9RYvVYYrQc"
+    },
+    {
+      "album": {
         "name": "Keseimbangan",
         "url": "https://open.spotify.com/album/2NHhFC00ygRbtB3BeO8bKo"
       },
@@ -285,6 +737,50 @@
     },
     {
       "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93791,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/1LT4QUpKPE9Y7oTD1uYT0A"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Jake Staley",
+          "url": "https://open.spotify.com/artist/40gj4UseDxGVmEPXkfZudj"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98471,
+      "name": "Hive Mind",
+      "url": "https://open.spotify.com/track/6vf4zR62v16hWExurdqLKN"
+    },
+    {
+      "album": {
         "name": "The Last of Us",
         "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
       },
@@ -296,10 +792,28 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 187853,
       "name": "Home",
       "url": "https://open.spotify.com/track/5PvWM8RrfJ1vNBoRHviWMB"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41821,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu"
     },
     {
       "album": {
@@ -332,7 +846,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 81626,
       "name": "I Know What You Are",
       "url": "https://open.spotify.com/track/022b5KP2xqjy8LuS798skH"
@@ -368,10 +882,50 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 76013,
       "name": "Infected",
       "url": "https://open.spotify.com/track/0YdP4Kr7HJaWqwuIGvlsF7"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94877,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/1M9pbKaLoE8i1U5w4G2lHV"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108441,
+      "name": "It Can't Last (Sunset)",
+      "url": "https://open.spotify.com/track/0cd61fgEIxajNPSz4oE6R0"
     },
     {
       "album": {
@@ -393,6 +947,42 @@
     },
     {
       "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191811,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/37t1gWrJgoofbjVmyLBE5q"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68097,
+      "name": "Left Behind (Together)",
+      "url": "https://open.spotify.com/track/74MeFebolnDpgvEOMVCAnF"
+    },
+    {
+      "album": {
         "name": "Silk Purse",
         "url": "https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G"
       },
@@ -408,6 +998,82 @@
       "duration_ms": 263400,
       "name": "Long Long Time",
       "url": "https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Nick Offerman",
+          "url": "https://open.spotify.com/artist/4NrhfauK45NuwkOlx2CemS"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72022,
+      "name": "Long Long Time",
+      "url": "https://open.spotify.com/track/6CcPNaOx5cp5nYhpc0p7Ur"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56711,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/0pvR6pWkGrO0lYGtFV1Dvi"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91493,
+      "name": "Murals",
+      "url": "https://open.spotify.com/track/1v1OjOgLVvOtPjHBLl3bWS"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209748,
+      "name": "Never Let Me Down Again",
+      "url": "https://open.spotify.com/track/2Tw463vi8DMqkr2EiLYfZM"
     },
     {
       "album": {
@@ -507,8 +1173,48 @@
     },
     {
       "album": {
-        "name": "The Last of Us",
-        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161322,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/5CzMYZ9RWunez2wR3oHwtr"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106744,
+      "name": "Raiders",
+      "url": "https://open.spotify.com/track/4Voe2eKl4bIx1mJqXpQZQa"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
       "artists": [
         {
@@ -516,12 +1222,66 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "date_added": "2023-01-30",
+      "date_added": "2023-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 215680,
-      "name": "Returning",
-      "url": "https://open.spotify.com/track/6ptaNuDuwRtqK4y1UOarmo"
+      "duration_ms": 16958,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/3dqolcvYNg0QofPi5OgYSl"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45031,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/7HPX5D4BvN2kDrcuiehCno"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108425,
+      "name": "Resolve",
+      "url": "https://open.spotify.com/track/1WxUcACrb7ZM2UcIRRYNFZ"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79986,
+      "name": "Resolve (Isolation)",
+      "url": "https://open.spotify.com/track/1PYTHSKkgsKfIcgEck1e9c"
     },
     {
       "album": {
@@ -536,10 +1296,180 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 215680,
+      "name": "Returning",
+      "url": "https://open.spotify.com/track/6ptaNuDuwRtqK4y1UOarmo"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 166462,
+      "name": "Safe Surrender",
+      "url": "https://open.spotify.com/track/4QpC3gb43bRmWmcOQVvwjV"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85641,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/5qYriBdPXy6FCRLSbI6SU0"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81057,
+      "name": "Set Everything Right",
+      "url": "https://open.spotify.com/track/1YrIVAOYdoQd1ypGk31RjP"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372517,
+      "name": "Shortcut",
+      "url": "https://open.spotify.com/track/2afTwwBpDFlbIwOFJTkYa6"
+    },
+    {
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
       "duration_ms": 98373,
       "name": "Smugglers",
       "url": "https://open.spotify.com/track/00xROqagTXvH2PZKrGoYEB"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77940,
+      "name": "Stockpile",
+      "url": "https://open.spotify.com/track/6yFIspNCKGI6pPfTOUYGjl"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169812,
+      "name": "Subterranean",
+      "url": "https://open.spotify.com/track/6F9aB1osAA5KWZiKAwjgD7"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Jake Staley",
+          "url": "https://open.spotify.com/artist/40gj4UseDxGVmEPXkfZudj"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118267,
+      "name": "Surveillance",
+      "url": "https://open.spotify.com/track/7Mysq8IJXZvqVSg3NVH7wJ"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272068,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/7KjGwbC1Nbt3e0Wovd3LvB"
     },
     {
       "album": {
@@ -561,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83646,
+      "name": "The Choice",
+      "url": "https://open.spotify.com/track/7aBxcGXVoALaZzwcv5l15F"
+    },
+    {
+      "album": {
         "name": "The Last of Us",
         "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
       },
@@ -576,7 +1524,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 102373,
       "name": "The Choice",
       "url": "https://open.spotify.com/track/2IXJyG1DX93g2EhFXghz37"
@@ -612,7 +1560,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 61666,
       "name": "The Hour",
       "url": "https://open.spotify.com/track/2N46oddjo1Tp1fXvWEYrCU"
@@ -630,10 +1578,28 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 119946,
       "name": "The Hunters",
       "url": "https://open.spotify.com/track/54DtvExH7HbmDM8PKGjcjU"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67669,
+      "name": "The Last of Us",
+      "url": "https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5"
     },
     {
       "album": {
@@ -648,7 +1614,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 183533,
       "name": "The Last of Us",
       "url": "https://open.spotify.com/track/285ieonEuLkll3zknYK2TY"
@@ -666,7 +1632,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 148120,
       "name": "The Last of Us (A New Dawn)",
       "url": "https://open.spotify.com/track/0MeSuyL6pVnhzN4jrkDS0a"
@@ -684,7 +1650,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 51000,
       "name": "The Last of Us (Goodnight)",
       "url": "https://open.spotify.com/track/5kK0CQYgpRgBrtMNNN47BG"
@@ -706,10 +1672,64 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 61573,
       "name": "The Last of Us (Never Again)",
       "url": "https://open.spotify.com/track/0VfZ8soLs3Sjh0aatQJX9N"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48535,
+      "name": "The Last of Us (Prevail)",
+      "url": "https://open.spotify.com/track/6sjCNpsNZ4JUDy6FgzKXTo"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73733,
+      "name": "The Last of Us (Protection)",
+      "url": "https://open.spotify.com/track/3LmbUrxznZTMQun8Ko4Pnh"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179038,
+      "name": "The Last of Us (Vengeance)",
+      "url": "https://open.spotify.com/track/6mYQ6Sm3tkYoz6CzutEkSm"
     },
     {
       "album": {
@@ -728,7 +1748,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 128826,
       "name": "The Last of Us (You and Me)",
       "url": "https://open.spotify.com/track/1e6ZxoUlQsxZG6GS4MYeZ4"
@@ -750,7 +1770,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 91600,
       "name": "The Outbreak",
       "url": "https://open.spotify.com/track/4XBcN5LAyt9cyIXO9ps9VC"
@@ -768,13 +1788,31 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 88880,
       "name": "The Path",
       "url": "https://open.spotify.com/track/6CocRuwefYkuUs68orrrJd"
     },
     {
       "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100513,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/5pSsTNmq2WKFqa93HI2Ztb"
+    },
+    {
+      "album": {
         "name": "The Last of Us",
         "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
       },
@@ -786,28 +1824,32 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 167066,
       "name": "The Path (A New Beginning)",
       "url": "https://open.spotify.com/track/1hdDnQRPinE8hxYhW3uy6u"
     },
     {
       "album": {
-        "name": "The Last of Us",
-        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
       "artists": [
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Jake Staley",
+          "url": "https://open.spotify.com/artist/40gj4UseDxGVmEPXkfZudj"
         }
       ],
-      "date_added": "2023-01-30",
+      "date_added": "2023-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 220200,
-      "name": "The Quarantine Zone (20 Years Later)",
-      "url": "https://open.spotify.com/track/1K4aTCGpWV247Prt4LYbmc"
+      "duration_ms": 105226,
+      "name": "The Quarantine Zone",
+      "url": "https://open.spotify.com/track/746LA65NkR4lBTRmxXDxwX"
     },
     {
       "album": {
@@ -822,10 +1864,90 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 220200,
+      "name": "The Quarantine Zone (20 Years Later)",
+      "url": "https://open.spotify.com/track/1K4aTCGpWV247Prt4LYbmc"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 50077,
+      "name": "The Settlement",
+      "url": "https://open.spotify.com/track/7naQN2rKMnye6uuzV2L0wh"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128994,
+      "name": "The Swarm",
+      "url": "https://open.spotify.com/track/2QKKDlyUcWmfZm3vO7PlXW"
+    },
+    {
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
       "duration_ms": 91493,
       "name": "The Way It Was",
       "url": "https://open.spotify.com/track/3J86RRNATHA6dlL9mctyi4"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65100,
+      "name": "There Is No Girl",
+      "url": "https://open.spotify.com/track/54Ybc5gEmC1Vdm2hqazAr1"
     },
     {
       "album": {
@@ -865,6 +1987,60 @@
     },
     {
       "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88722,
+      "name": "Unbroken",
+      "url": "https://open.spotify.com/track/7ddxMpUel8jS2mUuegnhfC"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81137,
+      "name": "Uncertain Course",
+      "url": "https://open.spotify.com/track/1J0jZwa6Wg8EQaqpSPB16x"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85468,
+      "name": "Vanishing Grace",
+      "url": "https://open.spotify.com/track/23GapVjCiDjXbJkDbX8fad"
+    },
+    {
+      "album": {
         "name": "The Last of Us",
         "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
       },
@@ -876,7 +2052,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 126053,
       "name": "Vanishing Grace",
       "url": "https://open.spotify.com/track/5TBJdXataXjsbjcXsCtUeP"
@@ -898,10 +2074,28 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 101106,
       "name": "Vanishing Grace (Childhood)",
       "url": "https://open.spotify.com/track/3DMLISDQgfwws7KpbCm2LI"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51711,
+      "name": "Vanishing Grace (Devotion)",
+      "url": "https://open.spotify.com/track/1ENHNwnyaxwdzajxpMZpZB"
     },
     {
       "album": {
@@ -920,10 +2114,46 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 55760,
       "name": "Vanishing Grace (Innocence)",
       "url": "https://open.spotify.com/track/0VghZFhcQKEcLvsxV4N7cG"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76970,
+      "name": "Vanishing Grace (Radiant)",
+      "url": "https://open.spotify.com/track/3G9N5TrD82H8WM7rwhCCLk"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165316,
+      "name": "Warning Signs",
+      "url": "https://open.spotify.com/track/32yWi7U1DJ7pa9NRcm4zZr"
     },
     {
       "album": {
@@ -978,6 +2208,24 @@
       "duration_ms": 298333,
       "name": "White Room",
       "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83597,
+      "name": "Wounds",
+      "url": "https://open.spotify.com/track/1rCKzLoPGXiOfxqPjVkcl3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWX4UlFW6EJPs"

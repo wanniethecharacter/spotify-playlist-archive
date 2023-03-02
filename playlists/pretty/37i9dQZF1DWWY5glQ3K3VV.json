@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Gu\u00e8, ANNA, Sfera Ebbasta",
-  "num_followers": 71627,
+  "num_followers": 71705,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA4MzkwNCwwMDAwMDAwMDM3NjE5ZDNjOGIyMTA4ODNlODU1Y2E0MGVkZjJkNmQz",
+  "snapshot_id": "MTY3NzA4MzkwNCwwMDAwMDAwMDliMjI0YTQzNTgwMjM0NDNhOGI0ZWQ4M2Q4M2Q2ZDM1",
   "tracks": [
     {
       "added_at": "2023-02-22 16:38:23",
@@ -759,18 +759,22 @@
     {
       "added_at": "2023-02-22 16:38:23",
       "album": {
-        "name": "PLAYA",
-        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+        "name": "LISTA 47",
+        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
       },
       "artists": [
         {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
         }
       ],
-      "duration_ms": 154926,
-      "name": "PLAYA",
-      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
+      "duration_ms": 183038,
+      "name": "ADVICE",
+      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
     },
     {
       "added_at": "2023-02-22 16:38:23",
@@ -799,22 +803,18 @@
     {
       "added_at": "2023-02-22 16:38:23",
       "album": {
-        "name": "LISTA 47",
-        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
         }
       ],
-      "duration_ms": 183038,
-      "name": "ADVICE",
-      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
       "added_at": "2023-02-22 16:38:23",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-02-22 16:38:23",
       "album": {
+        "name": "No y No",
+        "url": "https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 255319,
+      "name": "No y No",
+      "url": "https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e"
+    },
+    {
+      "added_at": "2023-02-22 16:38:23",
+      "album": {
         "name": "SHAWTY (feat. Sacky)",
         "url": "https://open.spotify.com/album/6FtMPLKEmsz2BsnJuCYrKQ"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 153881,
       "name": "SHAWTY (feat. Sacky)",
       "url": "https://open.spotify.com/track/6yX3lSkO4F3FKx5wDJi4J0"
-    },
-    {
-      "added_at": "2023-02-22 16:38:23",
-      "album": {
-        "name": "No y No",
-        "url": "https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 255319,
-      "name": "No y No",
-      "url": "https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e"
     },
     {
       "added_at": "2023-02-22 16:38:23",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-02-22 16:38:23",
       "album": {
-        "name": "Thick (feat. MamboLosco) [Remix]",
-        "url": "https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c"
-      },
-      "artists": [
-        {
-          "name": "Slings",
-          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 131697,
-      "name": "Thick (feat. MamboLosco) - Remix",
-      "url": "https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99"
-    },
-    {
-      "added_at": "2023-02-22 16:38:23",
-      "album": {
         "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
         "url": "https://open.spotify.com/album/1Ldy8KRZOLtwLJP3NmIR3q"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 174983,
       "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
       "url": "https://open.spotify.com/track/2mKxTSrVPzc6dS8VqNTIYZ"
+    },
+    {
+      "added_at": "2023-02-22 16:38:23",
+      "album": {
+        "name": "Thick (feat. MamboLosco) [Remix]",
+        "url": "https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c"
+      },
+      "artists": [
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "duration_ms": 131697,
+      "name": "Thick (feat. MamboLosco) - Remix",
+      "url": "https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99"
     },
     {
       "added_at": "2023-02-22 16:38:23",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-02-22 16:38:23",
       "album": {
+        "name": "Frero",
+        "url": "https://open.spotify.com/album/0cwLY77URLPGihFgE9sox2"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "duration_ms": 180532,
+      "name": "Frero",
+      "url": "https://open.spotify.com/track/1cop1UjwA7BxeyQOhEHect"
+    },
+    {
+      "added_at": "2023-02-22 16:38:23",
+      "album": {
         "name": "Mr. Fini",
         "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 195820,
       "name": "Medellin (feat. Lazza)",
       "url": "https://open.spotify.com/track/1hqV0kb6c8Rp9jvJRPcDy7"
-    },
-    {
-      "added_at": "2023-02-22 16:38:23",
-      "album": {
-        "name": "Frero",
-        "url": "https://open.spotify.com/album/0cwLY77URLPGihFgE9sox2"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        }
-      ],
-      "duration_ms": 180532,
-      "name": "Frero",
-      "url": "https://open.spotify.com/track/1cop1UjwA7BxeyQOhEHect"
     }
   ],
   "unique_name": "Club Rap ",

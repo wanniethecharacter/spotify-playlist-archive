@@ -492,7 +492,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 277501,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/1euNFApRpCYzoHV847acSa"
@@ -5038,7 +5038,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
@@ -6326,7 +6326,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 176607,
       "name": "Five Star",
       "url": "https://open.spotify.com/track/3o9QxDW61sQWbe6yncDDSx"
@@ -8512,7 +8512,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 155152,
       "name": "Ich Liebe Dich",
       "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
@@ -13514,6 +13514,24 @@
     {
       "album": {
         "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/1XciNWcYMtjVEjgEQXXxSN"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122070,
+      "name": "Painting Pictures",
+      "url": "https://open.spotify.com/track/2OgIbXHmuRJowDwtmezcio"
+    },
+    {
+      "album": {
+        "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/4rOjLnFYn6xZSEKkR86qEV"
       },
       "artists": [
@@ -13524,7 +13542,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 122070,
       "name": "Painting Pictures",
       "url": "https://open.spotify.com/track/4ElnYhTeJEx90XrPDlLzH9"
@@ -15220,7 +15238,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 162480,
       "name": "Sadio",
       "url": "https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0"
@@ -16203,6 +16221,24 @@
     },
     {
       "album": {
+        "name": "So Glad",
+        "url": "https://open.spotify.com/album/16pkyltC5KPHWGg66S7sYW"
+      },
+      "artists": [
+        {
+          "name": "Mark Vank",
+          "url": "https://open.spotify.com/artist/43kbgy3mjbFkA5ndaFzekf"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201758,
+      "name": "So Glad",
+      "url": "https://open.spotify.com/track/0rqIHZOaxnBGc2OoZCkNAY"
+    },
+    {
+      "album": {
         "name": "Sobrio",
         "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
       },
@@ -16960,7 +16996,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
@@ -18976,6 +19012,24 @@
       "duration_ms": 212114,
       "name": "West Connect (feat. Central Cee)",
       "url": "https://open.spotify.com/track/1Fb8gCHRkmNAaN8vytd5vg"
+    },
+    {
+      "album": {
+        "name": "wewa",
+        "url": "https://open.spotify.com/album/5vLiB5pD5Enti3r4DDcxvm"
+      },
+      "artists": [
+        {
+          "name": "Pegguy Tabu",
+          "url": "https://open.spotify.com/artist/64YnF4w2bf0VU6eQrn1e5y"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197551,
+      "name": "wewa",
+      "url": "https://open.spotify.com/track/5Tf94zg0bIWRxmCD6oUW7K"
     },
     {
       "album": {

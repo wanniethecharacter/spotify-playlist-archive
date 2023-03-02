@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 8578,
+  "num_followers": 8582,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGNmMmY1NTIxOWVkOTgzMDM4ODcyNjQ4Mzg1NmQ0NjU3",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGQ0YTlhOTUxNWZmMGU2ZWYyMTdhZDVhZGI5Y2IwODA0",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 114784,
+      "name": "We've Got The Music",
+      "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Riding with the King (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44qfaiUTWryt5PNHjZU9iz"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 263397,
       "name": "Riding with the King",
       "url": "https://open.spotify.com/track/3MUQ573SFa0PuI65Gt9X2b"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 114784,
-      "name": "We've Got The Music",
-      "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Benton County Relic",
-        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 143013,
-      "name": "Get Your Groove On",
-      "url": "https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 288282,
       "name": "Blues Party",
       "url": "https://open.spotify.com/track/3o6j1UHNrch5Xigvyn3jZA"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Benton County Relic",
+        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 143013,
+      "name": "Get Your Groove On",
+      "url": "https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -505,22 +505,6 @@
       "url": "https://open.spotify.com/track/4hNETR2geBfWVzGDe6Qmvn"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Got Soul",
-        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Got Soul",
-      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
-    },
-    {
       "added_at": "2021-11-05 04:00:00",
       "album": {
         "name": "Shout Into The Noise",
@@ -535,6 +519,22 @@
       "duration_ms": 149895,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Got Soul",
+        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Got Soul",
+      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Best Of Freddie King: The Shelter Years",
-        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Palace Of The King - Remastered",
-      "url": "https://open.spotify.com/track/6u71ueCmdXNGjbbAX4bkOU"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Ice Queen",
         "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 223560,
       "name": "The Lucky Ones",
       "url": "https://open.spotify.com/track/0htOaNZzBUZFd31Puajgbz"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Best Of Freddie King: The Shelter Years",
+        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "Palace Of The King - Remastered",
+      "url": "https://open.spotify.com/track/6u71ueCmdXNGjbbAX4bkOU"
     },
     {
       "added_at": "2020-12-01 05:01:00",

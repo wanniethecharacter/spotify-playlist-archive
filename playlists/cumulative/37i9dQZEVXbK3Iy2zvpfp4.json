@@ -201,6 +201,32 @@
     },
     {
       "album": {
+        "name": "JUNGEN",
+        "url": "https://open.spotify.com/album/1km4LkW2OJCQ5c6w5F6GHc"
+      },
+      "artists": [
+        {
+          "name": "AstralKid22",
+          "url": "https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ"
+        },
+        {
+          "name": "Tisci",
+          "url": "https://open.spotify.com/artist/7vdksiaT0UGPpZgCCPCKrU"
+        },
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245406,
+      "name": "4RANO",
+      "url": "https://open.spotify.com/track/0erwNL7oZuFhqK1zEs1ajn"
+    },
+    {
+      "album": {
         "name": "4R\u00c1NO",
         "url": "https://open.spotify.com/album/2Rh8ZSzMLESy6iTsL4jmdc"
       },
@@ -2960,6 +2986,28 @@
       "duration_ms": 150000,
       "name": "Csinibaba",
       "url": "https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt"
+    },
+    {
+      "album": {
+        "name": "AZ ALBUM",
+        "url": "https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Csiri\u00f3",
+      "url": "https://open.spotify.com/track/0jJVsraMUoXKk8SCiE5fQz"
     },
     {
       "album": {
@@ -6198,10 +6246,28 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 161181,
       "name": "if looks could kill",
       "url": "https://open.spotify.com/track/5UUeEeHlBuOlKrCaix7M43"
+    },
+    {
+      "album": {
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/0NlzWMwEDGDXP5KpUuMmjU"
+      },
+      "artists": [
+        {
+          "name": "shadow nightcore",
+          "url": "https://open.spotify.com/artist/5M0J8qPCNZevlbPqHbzxqP"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161425,
+      "name": "If Looks Could Kill",
+      "url": "https://open.spotify.com/track/0dGw3ozTMBrOrRqBw0JpqI"
     },
     {
       "album": {
@@ -6220,7 +6286,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 187091,
       "name": "IK TRIP 'M",
       "url": "https://open.spotify.com/track/5gRYw2JYH3QUr5k2BQvpFZ"
@@ -7158,7 +7224,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 153650,
       "name": "Latyo \u00e9s haze",
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
@@ -7750,7 +7816,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 131317,
       "name": "Mamo miri",
       "url": "https://open.spotify.com/track/1SxaR2y94iRFUW6YH97fb5"
@@ -10444,7 +10510,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -13522,7 +13588,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 186279,
       "name": "The Perfect Phonk",
       "url": "https://open.spotify.com/track/4auagVkC2xBJvBctdjl5Nw"
@@ -14524,7 +14590,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 178728,
       "name": "Ve\u010der Na Izbe",
       "url": "https://open.spotify.com/track/7B4PauJntjBaPZrPnsZclm"

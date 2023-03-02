@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178613,
+      "name": "El Cigarrito",
+      "url": "https://open.spotify.com/track/4jxhkcdt00M3Iy5dH9fQfw"
+    },
+    {
+      "album": {
         "name": "Vivir La Vida",
         "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
       },
@@ -972,7 +990,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 159653,
       "name": "Te Acostumbr\u00e9 A Mis Besos",
       "url": "https://open.spotify.com/track/3Zj6ZHiLwbKW1DvtcAf1sG"

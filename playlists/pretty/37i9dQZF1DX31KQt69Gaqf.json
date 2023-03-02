@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMDQ2YmQxMmZhODIyOTY3ZjcwODU2M2YwMzQ1MGQ3ZGJm",
+  "snapshot_id": "MTY3NDY5MzEyMCwwMDAwMDAwMGQzNmNiYjhmMzZhNmJhNTFhNWIzOTQ4YTJlZDU0OWUw",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
     },
     {
+      "added_at": "2021-09-24 18:51:29",
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"
+    },
+    {
       "added_at": "2021-08-12 14:57:38",
       "album": {
         "name": "Chinatown (feat. Bruce Springsteen)",
@@ -387,22 +403,6 @@
       "duration_ms": 247968,
       "name": "Chinatown (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
-    },
-    {
-      "added_at": "2021-09-24 18:51:29",
-      "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "U&ME",
-      "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -899,18 +899,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Truth or Consequences",
-        "url": "https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4"
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
       },
       "artists": [
         {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 202003,
-      "name": "Southwark",
-      "url": "https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws"
+      "duration_ms": 208988,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -935,18 +935,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Butterfly Blue",
-        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+        "name": "Truth or Consequences",
+        "url": "https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4"
       },
       "artists": [
         {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 208988,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH"
+      "duration_ms": 202003,
+      "name": "Southwark",
+      "url": "https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Baby It's You",
-        "url": "https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 242239,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Baby It's You",
+        "url": "https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 242239,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Taurus",
         "url": "https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 186000,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1083,22 +1099,6 @@
       "duration_ms": 279613,
       "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
       "url": "https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Magical Thinking",
-        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Something Good Will Happen",
+        "url": "https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK"
+      },
+      "artists": [
+        {
+          "name": "MarthaGunn",
+          "url": "https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Caught Up & Confused",
+      "url": "https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "California Screaming",
         "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 234453,
       "name": "Womxn",
       "url": "https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Something Good Will Happen",
-        "url": "https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK"
-      },
-      "artists": [
-        {
-          "name": "MarthaGunn",
-          "url": "https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Caught Up & Confused",
-      "url": "https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 236104,
-      "name": "A.M. AM",
-      "url": "https://open.spotify.com/track/1tZW8iinOpafycLyeif7zX"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/1MWEYBI6r6QinmApx4QkO8"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 232130,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/4BfC6YSExs6vhuDrJca9Lz"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 236104,
+      "name": "A.M. AM",
+      "url": "https://open.spotify.com/track/1tZW8iinOpafycLyeif7zX"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Lonely Dancer",
-        "url": "https://open.spotify.com/album/6w0ZfpZWsrqip4YoZ0bsTJ"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        },
-        {
-          "name": "Anika",
-          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
-        }
-      ],
-      "duration_ms": 187492,
-      "name": "Lonely Dancer",
-      "url": "https://open.spotify.com/track/5EDiJyIO6wvTms3qK2E4mk"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "So Simpatico",
         "url": "https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 235373,
       "name": "Big Skies, Silly Faces",
       "url": "https://open.spotify.com/track/0Zga9iWiTp760vRHHLNxFF"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Lonely Dancer",
+        "url": "https://open.spotify.com/album/6w0ZfpZWsrqip4YoZ0bsTJ"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
+        }
+      ],
+      "duration_ms": 187492,
+      "name": "Lonely Dancer",
+      "url": "https://open.spotify.com/track/5EDiJyIO6wvTms3qK2E4mk"
     }
   ],
   "unique_name": "Your Office Stereo",

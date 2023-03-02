@@ -1422,6 +1422,24 @@
     {
       "album": {
         "name": "PELIKULON",
+        "url": "https://open.spotify.com/album/1VE8jKvj4DI44sYqDg8xp7"
+      },
+      "artists": [
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163615,
+      "name": "PELIKULON",
+      "url": "https://open.spotify.com/track/0rPEpIVIp65ZumM73NHF1g"
+    },
+    {
+      "album": {
+        "name": "PELIKULON",
         "url": "https://open.spotify.com/album/3NFdz4Cl4t5cgPLQa0TdNj"
       },
       "artists": [
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 163615,
       "name": "PELIKULON",
       "url": "https://open.spotify.com/track/6GBmsnc0nyHoirMPmgFnSZ"

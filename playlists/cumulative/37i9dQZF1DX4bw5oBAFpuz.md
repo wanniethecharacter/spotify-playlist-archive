@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-252 songs - 14 hr 47 min
+253 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Nothing's Ever Good Enough \(feat\. Lorrèn\)](https://open.spotify.com/track/5i2gud3IkzMXg1QlS5Eblr) | [The BlueBirds](https://open.spotify.com/artist/1WKVDXahDiNpcTlTf8ltq0), [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi), [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw), [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Nothing's Ever Good Enough](https://open.spotify.com/album/3CZ5MiCVazk5SEZhbQxqXi) | 3:09 | 2023-02-23 | 2023-02-26 |
 | [Now That We’ve Found Love](https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB), [We Said](https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY) | [Now That We’ve Found Love](https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8) | 2:34 | 2023-02-23 |  |
 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 | 2023-02-23 |  |
-| [On My Way](https://open.spotify.com/track/525quKjX8KEnj2fmKdZy3z) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [Subway Silence](https://open.spotify.com/album/34GPJpmCoILZKAds4eNefL) | 3:25 | 2023-02-23 |  |
+| [On My Way](https://open.spotify.com/track/525quKjX8KEnj2fmKdZy3z) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [Subway Silence](https://open.spotify.com/album/34GPJpmCoILZKAds4eNefL) | 3:25 | 2023-02-23 | 2023-03-02 |
 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 | 2023-02-23 |  |
 | [Only You](https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [We Were Here](https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG) | 2:29 | 2023-02-23 |  |
 | [Paradise \- Guitar Acoustic](https://open.spotify.com/track/6ehKqIkVCkz9chGBwk3alc) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise \(Guitar Acoustic\)](https://open.spotify.com/album/5VSseS7GXXtGFIhEun2z47) | 3:05 | 2023-02-23 |  |
@@ -201,6 +201,7 @@
 | [Start Again](https://open.spotify.com/track/5Km6e8PWkwEPVKlifElIDB) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Start Again](https://open.spotify.com/album/6AZP6Qm8YD7hUALhn0pd6O) | 3:37 | 2023-02-23 |  |
 | [Step Into The Water](https://open.spotify.com/track/6YePPPV7zWKdnuMavH2k5x) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [High On You](https://open.spotify.com/album/1wtPKN1ppxjJT7ywdcnvzy) | 3:02 | 2023-02-23 |  |
 | [Summer Haze](https://open.spotify.com/track/2wL5gUdq6fweMjaFVMWmc2) | [Close to Fire](https://open.spotify.com/artist/659oLAkAQQTvYQR9zr98jA) | [This Is What It Feels Like](https://open.spotify.com/album/64CFi1tG0UmknPzxMZCZWD) | 3:38 | 2023-02-23 |  |
+| [Summer of My Life](https://open.spotify.com/track/5e1qJDCinxx2XGGEAnffMb) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Project Me](https://open.spotify.com/album/63Dbmdt0RTxUDXzQl4ZhIj) | 3:06 | 2023-02-23 |  |
 | [Sun Goes Down \- Acoustic Version](https://open.spotify.com/track/1Vt9LAUmkUM41DLCLlIMUc) | [Kenn Colt](https://open.spotify.com/artist/0vSNFAo2h20zd3HOBcM8BX) | [Sun Goes Down \(Acoustic Version\)](https://open.spotify.com/album/5lJHfXBdOgmi6Sc5tqMFk4) | 3:03 | 2023-02-23 |  |
 | [Sunday Morning](https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 4:04 | 2023-02-23 |  |
 | [Sunny Days](https://open.spotify.com/track/6RrUUleT9JI0KQHZYBdJMB) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Sunny Days](https://open.spotify.com/album/0SottnyJaBApBrZZT6Y3kb) | 3:30 | 2023-02-23 |  |

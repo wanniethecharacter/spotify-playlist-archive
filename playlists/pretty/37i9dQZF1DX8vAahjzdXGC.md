@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Reality Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,446 likes - 121 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,471 likes - 121 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 61 | [Patah](https://open.spotify.com/track/3s2mb9iICrvYvpeLEzHSUH) | [Plato Ginting](https://open.spotify.com/artist/2224NGvU7QXIooiFBYnBAE) | [Patah](https://open.spotify.com/album/7JUqD9jGlSlhFXXAHqUT9Q) | 3:43 |
 | 62 | [Abadi](https://open.spotify.com/track/6rdqabpJT3jplQzor1os8j) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Abadi](https://open.spotify.com/album/6imuBPMqzJSYbN19D9GlFm) | 4:52 |
 | 63 | [Untuk Kita](https://open.spotify.com/track/0ghSnHLHN3ddVLqcusuIyq) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Sigma](https://open.spotify.com/album/3hWFLdXIZssIipx3cohFFf) | 3:49 |
-| 64 | [Bury Me](https://open.spotify.com/track/4FZQbFfSRIwVOj4OSReKK0) | [Bara Nagata](https://open.spotify.com/artist/0XjsFNkgfvCaTG0Z6Av0oc) | [Bury Me](https://open.spotify.com/album/6XQkmlU3cY68WuK7FSvmgu) | 3:26 |
+| 64 | [Bury Me](https://open.spotify.com/track/4FZQbFfSRIwVOj4OSReKK0) | [Bara Nagata](https://open.spotify.com/artist/6HroxxPckeXqSu1seASTTV) | [Bury Me](https://open.spotify.com/album/6XQkmlU3cY68WuK7FSvmgu) | 3:26 |
 | 65 | [Albuquerque](https://open.spotify.com/track/39aIeN9UF3JiYpcqL29WtY) | [Salsha](https://open.spotify.com/artist/25gaVpEHT6OQXS7SKVmBag) | [Albuquerque](https://open.spotify.com/album/5Va4XMr1chlKFJSewWh9K1) | 3:45 |
 | 66 | [Buru Buru Pergi](https://open.spotify.com/track/6SNYcCKCeAqvipQP8qY0Nq) | [Arman Harjo](https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb) | [Buru Buru Pergi](https://open.spotify.com/album/1LN1f6ejCpQc2cpG4DP5T1) | 3:27 |
 | 67 | [Go Solo](https://open.spotify.com/track/0NHXUzk9c4rJWurd09Pp8d) | [Ticya](https://open.spotify.com/artist/0NbMfuIv1DlbPuBZqqhK27) | [Go Solo](https://open.spotify.com/album/6Sc7R3weFfLsEDufDehvq2) | 3:14 |

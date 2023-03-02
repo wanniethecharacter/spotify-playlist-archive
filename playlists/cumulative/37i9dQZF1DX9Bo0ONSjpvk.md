@@ -4,7 +4,7 @@
 
 > Panama born producer <a href="spotify:artist:0vN342SOFAsCVGGZwLU9AF">Gian Varela</a> shares his take on Latin tech house with his upbeat DJ mix.
 
-17 songs - 56 min 36 sec
+18 songs - 59 min 51 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ponme Loco \- Mixed](https://open.spotify.com/track/6Ih8SMRMt3IgF3zmSHZ9UY) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Melfi](https://open.spotify.com/artist/01hRJI4NkY6Qp7a4IlxxFs) | [Ponme Loco \(Mixed\)](https://open.spotify.com/album/2X4sA2dFN8IOIw0KIBS6xr) | 2:45 | 2023-02-23 |  |
 | [Pressure \(Wanna Feel Good\) \- Mixed](https://open.spotify.com/track/39ScK5sHXq7GEHRmWC4nrr) | [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Pressure \(Wanna Feel Good\) \[Mixed\]](https://open.spotify.com/album/51Z8RcawcQz12jJpg1Aa19) | 1:15 | 2023-02-23 |  |
 | [Que Lo Que \- Mixed](https://open.spotify.com/track/2DWc7o9Udhgneuws8oeZrK) | [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [Que Lo Que \(Mixed\)](https://open.spotify.com/album/6bxIwIj0k6VVdGjPuekScn) | 3:13 | 2023-02-23 |  |
+| [Rizzla \- Mochakk Remix \- Mixed](https://open.spotify.com/track/1XapmmPQOYng11RYGbQ2nZ) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Rizzla \- Mochakk Remix \(Mixed\)](https://open.spotify.com/album/0AN0htPFBHJC2S02MMxBJI) | 3:15 | 2023-02-23 |  |
 | [Tamo Loco \- Mixed](https://open.spotify.com/track/7ylc67rspsRX6ySDH1JMlD) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Tamo Loco \(Mixed\)](https://open.spotify.com/album/3CJFPVUrjxYtPhE5vP8WXA) | 3:43 | 2023-02-23 |  |
 | [Tequila \- Mixed](https://open.spotify.com/track/1R4gg0YVMtaFwP7Fw32Bh9) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Tequila \(Mixed\)](https://open.spotify.com/album/0CI3XvEGd2gZ2ZQP8F6nkP) | 3:37 | 2023-02-23 |  |
 | [Woken Minds \- Mixed](https://open.spotify.com/track/1mO36NhbG0S6OAjD4lBxvB) | [Sam Supplier](https://open.spotify.com/artist/4nGuobAIiHwi25ngyJQO1n) | [Woken Minds \(Mixed\)](https://open.spotify.com/album/3oGatvnawGOc5Y2RsyFLVr) | 2:45 | 2023-02-23 |  |

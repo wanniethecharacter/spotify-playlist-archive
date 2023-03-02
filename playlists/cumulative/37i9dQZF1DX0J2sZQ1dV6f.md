@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-231 songs - 12 hr 26 min
+232 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,8 @@
 | [SUSANA](https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS) | [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [SUSANA](https://open.spotify.com/album/2to3l5blV24S95syzQg5Th) | 2:31 | 2022-07-29 | 2022-12-08 |
 | [Susurro Riddim](https://open.spotify.com/track/1mGxiXPxKIuItW4D2eVgjI) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Susurro Riddim](https://open.spotify.com/album/6f6DfbkP32U7ZIg31X0g0z) | 2:02 | 2022-03-21 | 2022-04-26 |
 | [Ta \- Tan!](https://open.spotify.com/track/2Oz1VUVi99vwepCD6IhyYx) | [EsaMiPau!](https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei), [Baby Bae](https://open.spotify.com/artist/7rtODlbpm0d3ZeGOJgxHbU), [The Produsexxx](https://open.spotify.com/artist/0Huo99sGzwmHx3VfybdIk2), [Trillhouse](https://open.spotify.com/artist/0FIkFONUP78BzJE4DC8Gfa) | [Ta \- Tan!](https://open.spotify.com/album/6HgG0Wuvwy10VRGQvouZIn) | 2:59 | 2022-03-21 | 2022-04-20 |
-| [Tamagotchi](https://open.spotify.com/track/0ztgfQJ8raYUjuuJC8Ik42) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL) | [Tamagotchi](https://open.spotify.com/album/1Z6JQqwz2U8Py6lsYh8j8P) | 2:31 | 2023-02-24 |  |
+| [Tamagotchi](https://open.spotify.com/track/0ztgfQJ8raYUjuuJC8Ik42) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL) | [Tamagotchi](https://open.spotify.com/album/1Z6JQqwz2U8Py6lsYh8j8P) | 2:31 | 2023-02-24 | 2023-03-02 |
+| [Tamagotchi](https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL) | [Tamagotchi](https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA) | 2:31 | 2023-02-24 |  |
 | [Tempo](https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Tempo](https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB) | 2:25 | 2022-07-08 | 2022-07-28 |
 | [tenemos que hablar](https://open.spotify.com/track/078XvvyCHmoix2omRiC198) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [relaciones tóxicas](https://open.spotify.com/album/6n24N0gjwRDi9Nz4hr6CWc) | 3:22 | 2022-07-08 | 2023-02-20 |
 | [TESTIGO](https://open.spotify.com/track/6pDqsritPEFUfo4MuDKbno) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [TESTIGO](https://open.spotify.com/album/0uCapRAWnX9YHCPwLWZMTZ) | 2:33 | 2022-03-21 | 2022-04-20 |

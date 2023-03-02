@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 376915,
       "name": "Ascent - Reb\u016bke Remix",
       "url": "https://open.spotify.com/track/6600D9sZObhQUcmAw8osH0"
@@ -2576,6 +2576,24 @@
       "duration_ms": 264600,
       "name": "Say Love - Radio Mix",
       "url": "https://open.spotify.com/track/5Wlpy9LzfhRnZgeUcXkUXh"
+    },
+    {
+      "album": {
+        "name": "Shades Of Night",
+        "url": "https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409492,
+      "name": "Shades Of Night",
+      "url": "https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R"
     },
     {
       "album": {

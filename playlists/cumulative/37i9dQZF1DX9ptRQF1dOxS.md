@@ -2,9 +2,9 @@
 
 ### [EQUAL UK & Ireland ](https://open.spotify.com/playlist/37i9dQZF1DX9ptRQF1dOxS)
 
-> Listen to women at full volume\. Cover: The Blessed Madonna
+> Listen to women at full volume\. Co\-curated by The Blessed Madonna for International Women’s Day.
 
-624 songs - 1 day 11 hr 55 min
+629 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Heaven For Me](https://open.spotify.com/track/3ctdG7NOfkuqMnOjLNSR1b) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [Heaven For Me](https://open.spotify.com/album/7rZgVr2cZEczd9L1En2lpN) | 3:04 | 2022-05-04 | 2022-06-01 |
 | [Heavenly Mother](https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Lost In June \- EP](https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX) | 3:59 | 2022-05-04 | 2022-06-01 |
 | [Hell](https://open.spotify.com/track/3DC8V0NDZ8h06R9xQhi0AH) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Hell](https://open.spotify.com/album/2vadrK0FovrmPSp4b8BSfN) | 3:32 | 2022-07-06 | 2023-01-06 |
+| [Hide and Seek](https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 4:28 | 2023-03-01 |  |
 | [High Tide](https://open.spotify.com/track/7suw12rQZwkno8lhmIGE1y) | [VONDA7](https://open.spotify.com/artist/0Glk45UpQ9Tz1yp6GvhUBM) | [High Tide EP](https://open.spotify.com/album/4Ms1cZbeR20b8v4rkl0PZQ) | 3:44 | 2022-06-01 | 2022-07-07 |
 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 | 2022-03-08 | 2022-04-06 |
 | [Hold The Girl](https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw) | 4:05 | 2022-11-02 | 2022-12-01 |
@@ -400,6 +401,7 @@
 | [Not Like This](https://open.spotify.com/track/5grd5zeMl1nKVxwYiDjTUb) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [Not Like This](https://open.spotify.com/album/1gsnhLwPmsoS3BIvsccec9) | 3:25 | 2022-07-06 | 2022-08-04 |
 | [Not Yours](https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Not Yours](https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa) | 4:51 | 2022-06-01 | 2022-07-07 |
 | [Numb](https://open.spotify.com/track/1Io26nlR6afy1Lz5yrxmM1) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Numb](https://open.spotify.com/album/3qMZqfgITfd7UklbVI4vyE) | 3:12 | 2022-01-05 | 2022-02-11 |
+| [O Superman](https://open.spotify.com/track/421Gp1eSmOIcD6alTWowFR) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Big Science](https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ) | 8:25 | 2023-03-01 |  |
 | [Obviously](https://open.spotify.com/track/0JDNuqf61lagLVIRu0Eeid) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Obviously](https://open.spotify.com/album/1FWDzyRUKNjYnfX6gH9Ra0) | 3:41 | 2022-10-05 | 2022-11-02 |
 | [Olivia](https://open.spotify.com/track/5ruQHtb5I60wPAq0672ytg) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Olivia](https://open.spotify.com/album/6F6a1eVUXuO96dW55DZHfl) | 3:48 | 2022-05-04 | 2022-06-01 |
 | [on & on](https://open.spotify.com/track/5mfGEs5n647v4WE3K5YmBy) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:15 | 2023-03-01 |  |
@@ -409,7 +411,9 @@
 | [Only An Ocean](https://open.spotify.com/track/4zoIrhblCFocyM4f5MmyWX) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Details](https://open.spotify.com/album/244T1paEjaUgeWERdxsOLb) | 3:43 | 2022-07-06 | 2022-08-04 |
 | [OPTION](https://open.spotify.com/track/1zgSO8kt39pgiC47IdSvzD) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [OPTION](https://open.spotify.com/album/2WqZJHTnXKXTVqiF4Ki0jv) | 3:00 | 2022-11-02 | 2022-12-01 |
 | [Other Side](https://open.spotify.com/track/7cF2hKTFZ1JgoyEObsx2K4) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Other Side](https://open.spotify.com/album/2PqqKi9JNeXzT9zqFHwFEP) | 6:09 | 2022-06-01 | 2022-07-07 |
+| [Our Darkness](https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL) | [Joined Up Writing/The Sitting Room](https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ) | 5:24 | 2023-03-01 |  |
 | [our time](https://open.spotify.com/track/6WBacWkfkwZxteVJ7MMBLZ) | [AZA](https://open.spotify.com/artist/1TuDcLFLVVf4Acp0Ja5O9Z) | [introducing AZA](https://open.spotify.com/album/4mAejHwVXINF599ZZ9XPVo) | 3:23 | 2022-11-02 | 2022-12-01 |
+| [Out](https://open.spotify.com/track/307LMAWIYSpyNweOpB1vR3) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Chance Of Rain](https://open.spotify.com/album/0ItFk3ohAXF6hiGMHEaUl0) | 1:29 | 2023-03-01 |  |
 | [Out For The Weekend](https://open.spotify.com/track/6DFxVrPvZGn0hdEwLPPapb) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [A Mosh Pit In The Clouds](https://open.spotify.com/album/7fnkJty0bXBUFiN0sutHC7) | 3:27 | 2023-01-05 | 2023-03-01 |
 | [Over](https://open.spotify.com/track/2R5zZ42pco4K4dGdX0GxSp) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Over](https://open.spotify.com/album/07Xdxsb20hV1rRtHkM5nAh) | 2:38 | 2022-02-10 | 2022-03-09 |
 | [Overgrown](https://open.spotify.com/track/0uciuyNzCb0ZUmTLCx0JOv) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Overgrown](https://open.spotify.com/album/4fBRtt02jOVKhvKyGazEcH) | 2:41 | 2022-11-02 | 2022-12-01 |
@@ -459,6 +463,7 @@
 | [Queen](https://open.spotify.com/track/5FcQHl7DGewrkxKdkIVLNF) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [It’s Not Me, It’s You](https://open.spotify.com/album/7HlFIhLhZix8Esb2jzKr7O) | 3:13 | 2022-01-05 | 2022-02-11 |
 | [Rat Race](https://open.spotify.com/track/4JIYMwRJwMjyMo6sjD9PbA) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Rat Race](https://open.spotify.com/album/6VWn9VsfNhGOpxdxsYDVpv) | 2:29 | 2022-11-02 | 2022-12-01 |
 | [Real Man](https://open.spotify.com/track/1c6yJ3DE0AEhG76jFJk6Gn) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [A MAN'S WORLD](https://open.spotify.com/album/1pzcFK7h8rWhhIZcL484lt) | 3:08 | 2021-12-08 | 2022-03-09 |
+| [Realla](https://open.spotify.com/track/5mzoBYJM5WKAMQEOHpcgsx) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:30 | 2023-03-01 |  |
 | [Really OK on My Own](https://open.spotify.com/track/16d7m4scMc0NWrq7loOyY6) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Really OK on My Own](https://open.spotify.com/album/0BlK6FdyXFBu9Z3J97KlEG) | 3:19 | 2022-11-30 | 2023-01-06 |
 | [Really OK on My Own](https://open.spotify.com/track/7A5ak2IQuoFdCX0guLbhZP) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Really OK on My Own](https://open.spotify.com/album/1wu8squEZowo2MsEoLfLJq) | 3:19 | 2022-08-03 | 2022-09-07 |
 | [Red and Green \- Blue Lab Beats Remix](https://open.spotify.com/track/50wdgAA4XTOMPD4DZFwv5Y) | [Eda Eren](https://open.spotify.com/artist/0Dcf25hADP87VNkGkSMRQ4), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Red and Green \(Blue Lab Beats Remix\)](https://open.spotify.com/album/1ifUgR4IwQyFNhMI3FZzM6) | 4:11 | 2022-11-02 | 2023-03-01 |
@@ -485,7 +490,7 @@
 | [Sensitive](https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Sometimes, I'm Speechless](https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE) | 2:54 | 2023-01-05 | 2023-02-01 |
 | [Seven Nights](https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 2:50 | 2022-05-04 | 2022-06-01 |
 | [Shade](https://open.spotify.com/track/4kIRyUnl8elQFStSL8866M) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI) | [Hoodrich Vol\. 3](https://open.spotify.com/album/5fABa5up9Eit0AP1juW4Qm) | 2:55 | 2022-03-08 | 2022-04-06 |
-| [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-03-01 |  |
+| [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\) \[Edit\]](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-03-01 |  |
 | [Shark Eyes](https://open.spotify.com/track/1KYj6fNIUl7ESsnDTQhmhK) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Smiling Like An Idiot](https://open.spotify.com/album/4Q86qieApCBrN9e2vnlzmG) | 4:30 | 2022-10-05 | 2022-11-02 |
 | [Shimmer](https://open.spotify.com/track/6NzCy1aUFe3VOWRdnbmQN1) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie / Shimmer](https://open.spotify.com/album/2Jv8NoXc5iLVXVpCoUiB6t) | 5:10 | 2023-03-01 |  |
 | [Shine](https://open.spotify.com/track/6IjEfZNMugnk5yhLLJDKg9) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi) | 2:33 | 2022-04-06 | 2022-05-05 |

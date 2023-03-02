@@ -1120,6 +1120,24 @@
     {
       "album": {
         "name": "Gratitude",
+        "url": "https://open.spotify.com/album/5YfNOdFUtS4eFZVHBO5GIF"
+      },
+      "artists": [
+        {
+          "name": "Eadgar \u00c9variste",
+          "url": "https://open.spotify.com/artist/1c7hoqo3WagTVwFD2JMHmu"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114437,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/5t4wYNhdJDzxVlMjri5sOn"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
         "url": "https://open.spotify.com/album/2gZdEJzgzP0PYSso7gILsX"
       },
       "artists": [
@@ -1641,6 +1659,42 @@
     },
     {
       "album": {
+        "name": "Let It Be Us",
+        "url": "https://open.spotify.com/album/3lI2vFP5irpgNbkg1ikc97"
+      },
+      "artists": [
+        {
+          "name": "Tjeerd Oosterhuis",
+          "url": "https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153768,
+      "name": "Let It Be Us",
+      "url": "https://open.spotify.com/track/7lV58DNV6rBJ57wyWiPClh"
+    },
+    {
+      "album": {
+        "name": "Liedchen",
+        "url": "https://open.spotify.com/album/195rTFzMloA4cdl0ncy3cU"
+      },
+      "artists": [
+        {
+          "name": "Christian Menke",
+          "url": "https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Liedchen",
+      "url": "https://open.spotify.com/track/5Ly26x1z1XshVyBKos1PXw"
+    },
+    {
+      "album": {
         "name": "Lilt",
         "url": "https://open.spotify.com/album/7hueCmRflhqn17bV20JOz1"
       },
@@ -1998,6 +2052,24 @@
       "duration_ms": 100833,
       "name": "Nuove stelle",
       "url": "https://open.spotify.com/track/4XhwwAHtDNnv8sHJk1O69p"
+    },
+    {
+      "album": {
+        "name": "N\u00e5r du er n\u00e6r",
+        "url": "https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC"
+      },
+      "artists": [
+        {
+          "name": "Leah Dreyer",
+          "url": "https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124576,
+      "name": "N\u00e5r du er n\u00e6r",
+      "url": "https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY"
     },
     {
       "album": {
@@ -2398,6 +2470,24 @@
       "duration_ms": 129368,
       "name": "Pour tous les c\u0153urs du monde",
       "url": "https://open.spotify.com/track/54UQ3Jzm53YkAHpj3BGOQa"
+    },
+    {
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/3yf0CyVwOwOtL6HQr3X6A4"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136567,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/3zSMjsAjKtDLR9cPjJ9NRv"
     },
     {
       "album": {
@@ -3922,6 +4012,24 @@
       "duration_ms": 160090,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/000tG7ZCNMDFLzIxobVSUZ"
+    },
+    {
+      "album": {
+        "name": "Monteverde",
+        "url": "https://open.spotify.com/album/6e1VBFdJxZ1b7wKQCuw5XY"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162522,
+      "name": "\u00c1mbar",
+      "url": "https://open.spotify.com/track/7gScZspJ5A3DpEY8rWNiO3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcEKFjZJYZcc"

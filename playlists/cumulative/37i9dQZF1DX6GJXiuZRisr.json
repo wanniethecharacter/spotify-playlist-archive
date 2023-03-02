@@ -2155,6 +2155,24 @@
     },
     {
       "album": {
+        "name": "Forget It",
+        "url": "https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173694,
+      "name": "Forget It",
+      "url": "https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr"
+    },
+    {
+      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/1FmCbkv8Sr05gSWeRq0T4G"
       },
@@ -7006,7 +7024,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 195000,
       "name": "With You",
       "url": "https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v"

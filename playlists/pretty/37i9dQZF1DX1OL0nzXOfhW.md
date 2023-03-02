@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: moon tang
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,905 likes - 68 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,910 likes - 68 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -277,6 +277,24 @@
     },
     {
       "album": {
+        "name": "boythots",
+        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137844,
+      "name": "boythots",
+      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
+    },
+    {
+      "album": {
         "name": "burbank house",
         "url": "https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR"
       },
@@ -750,7 +768,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 166727,
       "name": "H\u00eb\u0142l\u0153 K\u012ftt\u00ff",
       "url": "https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI"
@@ -945,6 +963,28 @@
     },
     {
       "album": {
+        "name": "KIDS",
+        "url": "https://open.spotify.com/album/5merKL9SBjIDRuvFBavQ8z"
+      },
+      "artists": [
+        {
+          "name": "auston ghost",
+          "url": "https://open.spotify.com/artist/1wCjv2RGjyuHMJw2UAvjLO"
+        },
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162177,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/7x8sUnnKHZsddQxLZeWwB4"
+    },
+    {
+      "album": {
         "name": "losemymind",
         "url": "https://open.spotify.com/album/5P8gmVPWC5O21bN5rkNaWu"
       },
@@ -1093,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "off the map",
+        "url": "https://open.spotify.com/album/4qpSyJ8g2EPT7U3b43mXqZ"
+      },
+      "artists": [
+        {
+          "name": "Ramzoid",
+          "url": "https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129113,
+      "name": "off the map",
+      "url": "https://open.spotify.com/track/1VjFGmdI8jKbs3rCjGfc1G"
+    },
+    {
+      "album": {
         "name": "offense mechanism",
         "url": "https://open.spotify.com/album/3GVG5tPERhnalSNGlrxfyD"
       },
@@ -1209,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "play pretend",
+        "url": "https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr"
+      },
+      "artists": [
+        {
+          "name": "Cybertrash",
+          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117774,
+      "name": "play pretend",
+      "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
+    },
+    {
+      "album": {
         "name": "punch back",
         "url": "https://open.spotify.com/album/5FK5312txKT8bF6IEDEaOv"
       },
@@ -1224,6 +1300,24 @@
       "duration_ms": 133286,
       "name": "punch back",
       "url": "https://open.spotify.com/track/2vOLEQPJAFD3uFmeJaD24H"
+    },
+    {
+      "album": {
+        "name": "punk rock",
+        "url": "https://open.spotify.com/album/08WWzkcjNxPpC8kAkTAkis"
+      },
+      "artists": [
+        {
+          "name": "she loves boon",
+          "url": "https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142237,
+      "name": "punk rock",
+      "url": "https://open.spotify.com/track/0nog7rb95VYzC1WDliuhKZ"
     },
     {
       "album": {
@@ -1598,7 +1692,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 166266,
       "name": "stay close",
       "url": "https://open.spotify.com/track/2jajPzkjTecTxrcSBnb4J4"
@@ -1830,7 +1924,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 127896,
       "name": "white noise! (feat. cybertrash)",
       "url": "https://open.spotify.com/track/4RZRRDbFDgxkf5hV2xizyr"
@@ -1852,7 +1946,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 149433,
       "name": "with u",
       "url": "https://open.spotify.com/track/7uStrFhx6PYmfI2ZWFFnCH"

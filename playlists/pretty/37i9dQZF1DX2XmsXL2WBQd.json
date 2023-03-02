@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 337535,
+  "num_followers": 337610,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUwMDgxMiwwMDAwMDAwMDQ5NmI0ODAyNWIzODQ4YWMxZTVhMzI2MzI5Y2RiNmI3",
+  "snapshot_id": "MTY3NzUwMDgxMiwwMDAwMDAwMGRkZDdkMzk2ZTM2NjEyOWVlOTJiMDZjNWM0YmYyZDQ2",
   "tracks": [
     {
       "added_at": "2023-02-27 12:26:52",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 302800,
-      "name": "Rebel Without A Pause",
-      "url": "https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
         "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 319906,
       "name": "Ain't No Half-Steppin'",
       "url": "https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "Rock The Bells",
+      "url": "https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "Rock The Bells",
-      "url": "https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "Future Shock",
         "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 325133,
       "name": "Rockit",
       "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "It's A Big Daddy Thing",
+        "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Kane",
+          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Smooth Operator",
+      "url": "https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -527,38 +527,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "It's A Big Daddy Thing",
-        "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Kane",
-          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Smooth Operator",
-      "url": "https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "Don't Believe The Hype",
-      "url": "https://open.spotify.com/track/0VAoDsKh7Or84V8xP7p1Fs"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "8th Wonder",
         "url": "https://open.spotify.com/album/530KKhZLtHwDtz3BeJqWSJ"
       },
@@ -575,22 +543,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Hold It Now, Hit It",
-      "url": "https://open.spotify.com/track/3C8xkK4Cir2QmiaN07GIZs"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "Strictly Business",
         "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
@@ -603,6 +555,22 @@
       "duration_ms": 285413,
       "name": "Strictly Business",
       "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Hold It Now, Hit It",
+      "url": "https://open.spotify.com/track/3C8xkK4Cir2QmiaN07GIZs"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -635,38 +603,6 @@
       "duration_ms": 288053,
       "name": "Talkin' All That Jazz",
       "url": "https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8"
-      },
-      "artists": [
-        {
-          "name": "The Sugarhill Gang",
-          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Rapper's Delight",
-      "url": "https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -739,18 +675,18 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+        "name": "Party",
+        "url": "https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "The Sugarhill Gang",
+          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
         }
       ],
-      "duration_ms": 167880,
-      "name": "My Adidas",
-      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
+      "duration_ms": 234453,
+      "name": "Rapper's Delight",
+      "url": "https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -787,22 +723,18 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "Planet Rock: The Album",
-        "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
       "artists": [
         {
-          "name": "Afrika Bambaataa",
-          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
-        },
-        {
-          "name": "The Soulsonic Force",
-          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
         }
       ],
-      "duration_ms": 422493,
-      "name": "Looking for the Perfect Beat - Original 12\" Version",
-      "url": "https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL"
+      "duration_ms": 167880,
+      "name": "My Adidas",
+      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -823,34 +755,22 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "Paid In Full (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj"
+        "name": "Planet Rock: The Album",
+        "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
       },
       "artists": [
         {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 429560,
-      "name": "Paid In Full - Seven Minutes Of Madness - The Coldcut Remix",
-      "url": "https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
-        "name": "By All Means Necessary (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
-      },
-      "artists": [
+          "name": "Afrika Bambaataa",
+          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
+        },
         {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+          "name": "The Soulsonic Force",
+          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
         }
       ],
-      "duration_ms": 340133,
-      "name": "My Philosophy",
-      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
+      "duration_ms": 422493,
+      "name": "Looking for the Perfect Beat - Original 12\" Version",
+      "url": "https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -871,6 +791,22 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
+        "name": "By All Means Necessary (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "My Philosophy",
+      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
         "name": "How Ya Like Me Now (Expanded Edition)",
         "url": "https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI"
       },
@@ -883,6 +819,22 @@
       "duration_ms": 280840,
       "name": "Wild Wild West",
       "url": "https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "Paid In Full (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 429560,
+      "name": "Paid In Full - Seven Minutes Of Madness - The Coldcut Remix",
+      "url": "https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -903,22 +855,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "All World",
-        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 279960,
-      "name": "I'm Bad",
-      "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "Duck Rock",
         "url": "https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0"
       },
@@ -931,6 +867,22 @@
       "duration_ms": 259426,
       "name": "Buffalo Gals",
       "url": "https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "All World",
+        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 279960,
+      "name": "I'm Bad",
+      "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -983,22 +935,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "The Very Best Of MC Lyte",
-        "url": "https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4"
-      },
-      "artists": [
-        {
-          "name": "MC Lyte",
-          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "Al-Naafyish",
         "url": "https://open.spotify.com/album/7uOndksGzmAduRTenxvVIt"
       },
@@ -1011,6 +947,22 @@
       "duration_ms": 374666,
       "name": "Al-Naafyish - Time",
       "url": "https://open.spotify.com/track/6nDk4QT1fDe0S86PxijTUE"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "The Very Best Of MC Lyte",
+        "url": "https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4"
+      },
+      "artists": [
+        {
+          "name": "MC Lyte",
+          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -1067,22 +1019,6 @@
     {
       "added_at": "2023-02-27 12:26:52",
       "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 308558,
-      "name": "South Bronx",
-      "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
-    },
-    {
-      "added_at": "2023-02-27 12:26:52",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
       },
@@ -1095,6 +1031,22 @@
       "duration_ms": 279866,
       "name": "Friends",
       "url": "https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 308558,
+      "name": "South Bronx",
+      "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
     },
     {
       "added_at": "2023-02-27 12:26:52",
@@ -1159,6 +1111,54 @@
       "duration_ms": 271333,
       "name": "My Part of Town",
       "url": "https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "The Great Adventures Of Slick Rick",
+        "url": "https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN"
+      },
+      "artists": [
+        {
+          "name": "Slick Rick",
+          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+        }
+      ],
+      "duration_ms": 248160,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "Jam On Revenge",
+        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
+      },
+      "artists": [
+        {
+          "name": "Newcleus",
+          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
+        }
+      ],
+      "duration_ms": 395626,
+      "name": "Jam On Revenge (The Wikki Wikki Song)",
+      "url": "https://open.spotify.com/track/6nDgVarnxUZrFzI2OlWNhE"
+    },
+    {
+      "added_at": "2023-02-27 12:26:52",
+      "album": {
+        "name": "Back to the Old School",
+        "url": "https://open.spotify.com/album/2Ld5FTT4I7MtnvhzbAR8Yc"
+      },
+      "artists": [
+        {
+          "name": "Just-Ice",
+          "url": "https://open.spotify.com/artist/4o2YVQGcx3e2L4c95B3ZcU"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "Cold Gettin' Dumb",
+      "url": "https://open.spotify.com/track/5hGsUZIjiBZq4QRtjdulKB"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Bella White
 
-139 songs - 8 hr 29 min
+140 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Good Ol' Boys with Bad Names](https://open.spotify.com/track/659Vb5AFqIdFiMDY8GXUAp) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Good Ol' Boys with Bad Names](https://open.spotify.com/album/2LbLo3eYCbE3CTe4sYQmM0) | 1:54 | 2023-02-03 |  |
 | [Goodbye to Goodbye](https://open.spotify.com/track/3cwJEaPREKbmAOqG1cIx2T) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [For You](https://open.spotify.com/album/5Gv1mY3pYSO0mEu7J3aR9F) | 3:46 | 2022-01-28 |  |
 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 | 2022-01-28 |  |
-| [Guilty](https://open.spotify.com/track/1WKRU8ovR8lbHD5gIj8h2P) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz) | 3:02 | 2022-01-28 |  |
+| [Guilty](https://open.spotify.com/track/1WKRU8ovR8lbHD5gIj8h2P) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz) | 3:02 | 2022-01-28 | 2023-03-02 |
+| [Guilty](https://open.spotify.com/track/1lGb5arfGbuaf3x8WItW47) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/16IHuRaNklgTjUc3NnJ3kW) | 3:02 | 2023-02-03 |  |
 | [Hardlytown](https://open.spotify.com/track/0vgKumXafJCisk3fYWnGjh) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Hardlytown](https://open.spotify.com/album/0hD9U5UhKA4iS1fzqZs1Wd) | 3:17 | 2022-01-28 | 2022-07-29 |
 | [Hardlytown](https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 3:17 | 2022-01-28 | 2023-01-14 |
 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 | 2022-01-28 |  |

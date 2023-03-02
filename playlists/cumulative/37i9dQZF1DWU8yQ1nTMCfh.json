@@ -732,7 +732,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 245706,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/09PAG3Co1FvI01BkpTU37G"
@@ -2724,6 +2724,24 @@
       "duration_ms": 218322,
       "name": "Todo Puede Ser Mejor - Fc Chdkf",
       "url": "https://open.spotify.com/track/0ks15BzbVU00CmOo22NRjL"
+    },
+    {
+      "album": {
+        "name": "Traidora",
+        "url": "https://open.spotify.com/album/46yK79DN46OjOnQusajJb0"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190146,
+      "name": "Traidora",
+      "url": "https://open.spotify.com/track/6wYxYsCGPFTAZx6OnfmIDH"
     },
     {
       "album": {

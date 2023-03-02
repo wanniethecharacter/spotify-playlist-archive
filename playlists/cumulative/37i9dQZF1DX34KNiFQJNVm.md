@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Mc Hariel com MC GP e Mc Kadu, Dilsinho com Diego & Vitor Hugo, Agnes Nunes, BaianaSystem com Gilsons, Mc Livinho, Fernanda Takai e muito mais!
 
-5,144 songs - 11 day 0 hr 20 min
+5,145 songs - 11 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1611,7 +1611,8 @@
 | [Eu vim pra Somar](https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ) | [Eu vim pra Somar](https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku) | 3:43 | 2022-07-08 | 2022-07-16 |
 | [Eu Vou \- Ao Vivo](https://open.spotify.com/track/48kqsCqLziLiMdV3ilhiCn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [O \(IM\)POSSÍVEL \[Ao Vivo\]](https://open.spotify.com/album/6b87opgcfElb3XS3aFO677) | 2:52 | 2022-03-11 | 2022-03-18 |
 | [Eu Vou Chorar Dançando](https://open.spotify.com/track/49JqYb5Vtm42UTrjQI1eTP) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68) | [Eu Vou Chorar Dançando](https://open.spotify.com/album/086wyZc2kXudA59dUTWPVX) | 2:55 | 2022-05-27 | 2022-06-04 |
-| [Eu Vou Deixar de Ser Besta](https://open.spotify.com/track/6LApHv7VpoFUj9s38JWOTi) | [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Caneta Azul](https://open.spotify.com/album/5VFcM61xPRTvg0GQnXFsv8) | 3:08 | 2023-02-24 |  |
+| [Eu Vou Deixar de Ser Besta](https://open.spotify.com/track/6LApHv7VpoFUj9s38JWOTi) | [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Caneta Azul](https://open.spotify.com/album/5VFcM61xPRTvg0GQnXFsv8) | 3:08 | 2023-02-24 | 2023-03-02 |
+| [Eu Vou Deixar de Ser Besta](https://open.spotify.com/track/6S7bf78ghkbMHu0DIyY8on) | [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Coletânea Manoel Gomes \(Blue Pen\) \- 27 Sucessos](https://open.spotify.com/album/3o80rmnnIuRIyXPYc3h0cV) | 3:08 | 2023-02-27 |  |
 | [Eu Vou Deixar de Ser Besta](https://open.spotify.com/track/370ymgkom17VNEmBklyqz2) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Eu Vou Deixar de Ser Besta](https://open.spotify.com/album/4gWi12T6yhXNv5Ld9VnJ7a) | 2:26 | 2023-01-20 | 2023-01-28 |
 | [Eu Vou Descer \- Ao Vivo](https://open.spotify.com/track/27uQBl7HobUjBM0aiCQFxZ) | [Matheuzinho](https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Sinta Essa Vibe, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4e8yiGk1u8hVNRRv7NTCGJ) | 3:08 | 2023-01-27 | 2023-02-04 |
 | [Eu, Ela e Os Gravão](https://open.spotify.com/track/0jsGgiNCjxAdShR0Ln4vKO) | [LT](https://open.spotify.com/artist/27EsaYcDfQ1XhSx08LJCNR) | [Eu, Ela e Os Gravão](https://open.spotify.com/album/1yZW8iERQtZl6gbCL9rgxe) | 2:27 | 2022-11-11 | 2022-11-19 |

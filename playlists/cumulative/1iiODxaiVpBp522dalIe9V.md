@@ -2,7 +2,7 @@
 
 ### [Don't Mess With Texas](https://open.spotify.com/playlist/1iiODxaiVpBp522dalIe9V)
 
-> Hip hop heat from the Lone Star State featuring Sauce Walka, TrapboyDre10k, LilCJ Kasino, Sosamann, Peso Peso.
+> Hip hop heat from the Lone Star State featuring Sunnitharapper, Sauce Walka, TrapboyDre10k, LilCJ Kasino, Sosamann, Peso Peso.
 
 249 songs - 11 hr 21 min
 

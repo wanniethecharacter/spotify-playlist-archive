@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 194713,
+  "num_followers": 194762,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDk1YzQxZmZmNTY5ZWNkMWEwMzU5ZjUyZGIxYTQwNTMz",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDY2YmU5YmZiYjIwOTZmNDJjMTA1YTYxZjJlYmNkMzI3",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -543,22 +543,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "From Time To Time - The Singles Collection",
-        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "Wherever I Lay My Hat (That's My Home)",
-      "url": "https://open.spotify.com/track/3yzM3pkIF5rlllUAAhFPx7"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Tunnel Of Love",
         "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 261826,
       "name": "One Step Up",
       "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "From Time To Time - The Singles Collection",
+        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "Wherever I Lay My Hat (That's My Home)",
+      "url": "https://open.spotify.com/track/3yzM3pkIF5rlllUAAhFPx7"
     },
     {
       "added_at": "2018-12-12 11:36:39",

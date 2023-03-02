@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 210181,
+  "num_followers": 210214,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDVjMWU1NzcwNmM1ZGRhMmE0ZThhZmE0ZDM1ZGQ1OGUx",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDRjZDYzN2VkOGU2YWQ2ZDYyM2JkZDdlZDMyNTRiNDFl",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -431,22 +431,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Venas De Acero",
-        "url": "https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl"
-      },
-      "artists": [
-        {
-          "name": "Tren Loco",
-          "url": "https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "Pueblo Motoquero",
-      "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Deceitful Idols",
         "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 331013,
       "name": "Deceitful Idols",
       "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Venas De Acero",
+        "url": "https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl"
+      },
+      "artists": [
+        {
+          "name": "Tren Loco",
+          "url": "https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "Pueblo Motoquero",
+      "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -527,18 +527,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "U.F.T.M. (Up for the Massacre)",
-        "url": "https://open.spotify.com/album/1QFZRMsBbTK27CbtIRX5yP"
+        "name": "Satanico-Dramatico",
+        "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
       },
       "artists": [
         {
-          "name": "Strike Master",
-          "url": "https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09"
+          "name": "Dia De Los Muertos",
+          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
         }
       ],
-      "duration_ms": 315923,
-      "name": "Merciless Machine",
-      "url": "https://open.spotify.com/track/14YPy9y4pGct5kDHwYl0ns"
+      "duration_ms": 71000,
+      "name": "Sigo Siendo El Rey",
+      "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -559,18 +559,18 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Satanico-Dramatico",
-        "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
+        "name": "U.F.T.M. (Up for the Massacre)",
+        "url": "https://open.spotify.com/album/1QFZRMsBbTK27CbtIRX5yP"
       },
       "artists": [
         {
-          "name": "Dia De Los Muertos",
-          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
+          "name": "Strike Master",
+          "url": "https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09"
         }
       ],
-      "duration_ms": 71000,
-      "name": "Sigo Siendo El Rey",
-      "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
+      "duration_ms": 315923,
+      "name": "Merciless Machine",
+      "url": "https://open.spotify.com/track/14YPy9y4pGct5kDHwYl0ns"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Apatrida",
-        "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
-      },
-      "artists": [
-        {
-          "name": "Nuclear",
-          "url": "https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt"
-        }
-      ],
-      "duration_ms": 225312,
-      "name": "Apatrida",
-      "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "No Anesthesia",
         "url": "https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 275600,
       "name": "Heavy Drinker",
       "url": "https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Apatrida",
+        "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
+      },
+      "artists": [
+        {
+          "name": "Nuclear",
+          "url": "https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Apatrida",
+      "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
     },
     {
       "added_at": "2020-10-24 03:38:51",

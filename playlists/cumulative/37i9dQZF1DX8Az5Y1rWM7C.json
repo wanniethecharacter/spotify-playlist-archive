@@ -388,10 +388,40 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 316000,
       "name": "C90 (Remix)",
       "url": "https://open.spotify.com/track/2b6i9zx3ULzKrNWmyP0ePD"
+    },
+    {
+      "album": {
+        "name": "C90 (Remix)",
+        "url": "https://open.spotify.com/album/2OLJMC8S2A3HfNevKPfYm4"
+      },
+      "artists": [
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "C90 (Remix)",
+      "url": "https://open.spotify.com/track/6b4ioB9n5Hkeu2GdSOWzJJ"
     },
     {
       "album": {

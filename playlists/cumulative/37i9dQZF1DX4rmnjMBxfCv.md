@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Obeidmusic, Pamela Antoun.
 
-96 songs - 6 hr 26 min
+99 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 | 2022-06-02 | 2022-07-31 |
 | [Hiya hiya New Distribution](https://open.spotify.com/track/3GDe4ABAWZWP6XKYCPmrhc) | [Mustafa Hussam](https://open.spotify.com/artist/1ZVYNea11w8l7t5pqZUYoM) | [Hiya hiya New Distribution](https://open.spotify.com/album/4iJJ8pkyW3CY41C53B6KVq) | 3:37 | 2022-08-23 | 2022-09-01 |
 | [Khidni Habibi](https://open.spotify.com/track/2k2vv7Pvl2gYfHkdVRnHZl) | [DJ Carlos B](https://open.spotify.com/artist/6Zc4YkIlrrgNXpcTXoj9M6), [Maher Salame](https://open.spotify.com/artist/2E82x2YXapSBHgdoxplfdP), [Rana Saab](https://open.spotify.com/artist/6ZErECsxugfPTnmJwIbEgA) | [Khidni Habibi](https://open.spotify.com/album/5MSHUA4LGMP1vzGUUjfT22) | 4:52 | 2022-03-30 | 2022-11-26 |
+| [Ksser Essouk](https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [Ksser Essouk](https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh) | 5:26 | 2023-03-01 |  |
 | [Kun](https://open.spotify.com/track/38p1aFLLRYT8XbNal1PbWT) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 4:45 | 2022-03-30 | 2022-11-26 |
 | [Laar Ya Laar](https://open.spotify.com/track/6p1nVQXxuS3bI5jXxwZnnF) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Laar Ya Laar](https://open.spotify.com/album/4cpHlMvyOBWGHGAa9sufhw) | 2:10 | 2022-03-30 |  |
 | [Lala Mama](https://open.spotify.com/track/41G8Erys8j0Ijux3HAJ9mp) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Lala Mama](https://open.spotify.com/album/7CGDfjYxjMl8HT49pNydPG) | 2:43 | 2022-03-30 |  |
@@ -75,9 +76,11 @@
 | [Raina Rai](https://open.spotify.com/track/6uXkNygGn4fIMSitwP47wa) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Raina Rai](https://open.spotify.com/album/2kPkBpH8Mnu89fomCSUPfP) | 3:34 | 2022-06-30 | 2022-11-26 |
 | [Route 55](https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp) | [Mr Oasis](https://open.spotify.com/artist/3arKqyvmf9PeoHKISoOUex) | [Route 55](https://open.spotify.com/album/1iXUuIQpSnzUZcSUGRvjgR) | 4:38 | 2022-03-30 | 2022-11-26 |
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-08 |  |
+| [Sahra On The Moon](https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA), [Feras Naddaf](https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b) | [Sahra On The Moon](https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7) | 2:39 | 2023-03-01 |  |
 | [Seret El Hob Remix](https://open.spotify.com/track/2nLsfcz1xMPpRVQbEICa0a) | [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Seret El Hob Remix](https://open.spotify.com/album/6ac2W6mJALSa62m9Rjf8WQ) | 4:06 | 2022-12-21 |  |
 | [Shoft Alhala \- Radio Edit](https://open.spotify.com/track/6nlJi5I96yMdToZZ7vfKdf) | [Vinyl Mode](https://open.spotify.com/artist/5Hk1jxKs1Qxg8uQY3SrAAv), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Shoft Alhala](https://open.spotify.com/album/2h0QwgH6vNBvECQEmTxeH8) | 3:46 | 2022-11-22 | 2023-02-02 |
 | [Silent](https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP) | [Silent](https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR) | 2:52 | 2022-03-30 | 2022-11-26 |
+| [Tangerines](https://open.spotify.com/track/5OqAt7yFGoyAV9PEOAmfa1) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Tangerines](https://open.spotify.com/album/1gOAS1nyS6NEYJdjvOKQXt) | 2:31 | 2023-03-01 |  |
 | [Tearaf Bahebak Leh](https://open.spotify.com/track/4J91ULN1DJ1FHPRD1G4FYN) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Tearaf Bahebak Leh](https://open.spotify.com/album/1ioz7toy8ZetQuqIH8cT1j) | 2:45 | 2022-03-30 | 2022-11-26 |
 | [Ti Ra Ra \- Mark Shakedown Remix](https://open.spotify.com/track/7jXKKQ3PSmxj0sFLnlX0eb) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W), [Mark Shakedown](https://open.spotify.com/artist/0owA2yBBDFjsmyBi4pgVgo) | [Ti Ra Ra \(Mark Shakedown Remix\)](https://open.spotify.com/album/71gEymvL5E6UHlvGybgMDH) | 2:43 | 2022-03-30 |  |
 | [Trigue Lycee \- Remix](https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Trigue Lycee \(Remix\)](https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd) | 3:05 | 2022-08-04 |  |

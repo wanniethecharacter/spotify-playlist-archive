@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-240 songs - 14 hr 21 min
+241 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Nuptse Freestyle by Daichi Yamamoto](https://open.spotify.com/track/0EsmsHwFA4UoBXNM8beDFt) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Nuptse Freestyle by Daichi Yamamoto](https://open.spotify.com/album/1xwKrUGQurMzq61VMUYZcq) | 1:30 | 2022-10-20 | 2022-11-30 |
 | [Obsessed \(with Charlie Puth & Shenseea\)](https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:46 | 2022-10-20 |  |
 | [Oceans Niagara](https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Oceans Niagara](https://open.spotify.com/album/05lNHHSVcb58JiL1d0kPIr) | 4:31 | 2023-01-12 | 2023-02-17 |
+| [oDoRiKo](https://open.spotify.com/track/3in6o3amnJwGKIZf2u6tmi) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7) | [oDoRiKo](https://open.spotify.com/album/3qQlRiDLPuo6DrvLuqMmgD) | 4:09 | 2023-02-28 |  |
 | [on & on](https://open.spotify.com/track/2z60665qOaXrUcFIVIB9yj) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [on & on](https://open.spotify.com/album/2fInwWeb0bggsmMeUSAYbv) | 2:48 | 2022-11-29 | 2022-12-07 |
 | [on our journey feat.Shingo Sekiguchi](https://open.spotify.com/track/3CbnAD1zSEGhmrYpvJoEdd) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB), [関口シンゴ](https://open.spotify.com/artist/3fKuiwNIx4A4ljcpAUKHIz) | [on our journey feat.Shingo Sekiguchi](https://open.spotify.com/album/7mCwxg24thEUZm7UWF60VM) | 3:19 | 2022-10-20 | 2022-11-23 |
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-10-20 | 2023-01-13 |
@@ -246,7 +247,7 @@
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-10-20 | 2023-01-06 |
 | [瞳惚れ](https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [瞳惚れ](https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss) | 4:17 | 2022-10-27 |  |
 | [肌](https://open.spotify.com/track/4feplpsR36DD09WfE5MqLl) | [DADARAY](https://open.spotify.com/artist/5YVpCleE4Ysa6YRa66nzIN) | [肌](https://open.spotify.com/album/3gt2UvnXJQHQugGxaZO6Jx) | 3:43 | 2022-12-01 | 2023-01-13 |
-| [踊り子](https://open.spotify.com/track/7pn8sAIxVMDnAmgoy72jZt) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7) | [踊り子](https://open.spotify.com/album/1OXJFRvbiQz9mcgWtQguUK) | 4:09 | 2023-02-28 |  |
+| [踊り子](https://open.spotify.com/track/7pn8sAIxVMDnAmgoy72jZt) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7) | [踊り子](https://open.spotify.com/album/1OXJFRvbiQz9mcgWtQguUK) | 4:09 | 2023-02-28 | 2023-03-02 |
 | [都会](https://open.spotify.com/track/2xnakNkUj5CFdWQ8kK0BME) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [都会](https://open.spotify.com/album/2gRN2uSvRB2TV5TUOlMhU7) | 3:53 | 2022-11-08 | 2022-11-25 |
 
 \*This playlist was first scraped on 2022-10-24. Prior content cannot be recovered.

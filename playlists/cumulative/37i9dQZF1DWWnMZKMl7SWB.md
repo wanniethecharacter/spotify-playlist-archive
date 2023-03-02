@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-307 songs - 19 hr 47 min
+308 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,8 @@
 | [SDDS](https://open.spotify.com/track/64eLVpJjRI3U3Kg8mLyEdF) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [OBG](https://open.spotify.com/album/4aghuCPwRba0iBmzslJm9C) | 3:35 | 2022-09-09 | 2022-11-13 |
 | [SDDS](https://open.spotify.com/track/6E12A1iLAqjjOUlEjTY78N) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [SDDS](https://open.spotify.com/album/1JuzzZ8wwu2sNaq6cI5YIc) | 3:35 | 2022-04-12 | 2022-07-29 |
 | [self\-love](https://open.spotify.com/track/20Qufms0u6e9mHprf81SzX) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/0OVyWmEdWlSrG2EcbkXjt4) | 2:23 | 2022-04-12 | 2022-07-29 |
-| [self\-love](https://open.spotify.com/track/63PjUXm7NNcqm5OCyRMbr5) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/647Fq4w3G1lqfi210TCblk) | 2:23 | 2022-04-12 |  |
+| [self\-love](https://open.spotify.com/track/63PjUXm7NNcqm5OCyRMbr5) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/647Fq4w3G1lqfi210TCblk) | 2:23 | 2022-04-12 | 2023-03-02 |
+| [self\-love](https://open.spotify.com/track/6piJi2nXNd3Au33og2w6BM) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/6uLFk1TZzDTj9fT2pkvEHc) | 2:23 | 2023-02-21 |  |
 | [Serious Mood](https://open.spotify.com/track/1ZgQnD9g6koKGpBUmYDBNq) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ), [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Serious Mood](https://open.spotify.com/album/1AiJtsc3rR17zE9lgh6Sg6) | 3:38 | 2022-04-12 |  |
 | [Serious Mood](https://open.spotify.com/track/5qPul0sZ3IrqrjBZl52u0F) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ), [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Serious Mood](https://open.spotify.com/album/6bKeiwUBQJtsP5gfJdGbtV) | 3:38 | 2022-09-09 | 2022-11-14 |
 | [Serious Mood](https://open.spotify.com/track/6KdqE1loutetHOOJCTt0qc) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ), [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Serious Mood](https://open.spotify.com/album/3DwWwVJ52qLRAlWEo1JSQt) | 3:39 | 2022-04-12 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,772 likes - 197 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,563 likes - 197 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 36 | [Peace in the Pines](https://open.spotify.com/track/3Aw7AkVsRDZfcJ4LfGCDj0) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Everything Has Changed](https://open.spotify.com/album/0A0R2bKlLS2U3uICL3nwFn) | 3:39 |
 | 37 | [Chess](https://open.spotify.com/track/7AYbl1Auq495a2BUcc5Xf5) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Chess](https://open.spotify.com/album/37WoevP8269NwUSQ370NVV) | 2:32 |
 | 38 | [Dear Rodeo](https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:14 |
-| 39 | [Break My Heart Sweetly](https://open.spotify.com/track/4G2e1xRnQIavsrSXrqIwqm) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [In the Throes](https://open.spotify.com/album/0uPyGFPZWApM0xOEV1Njir) | 5:23 |
+| 39 | [Break My Heart Sweetly](https://open.spotify.com/track/7vzYYRZuvy9CNyzh3LJFaY) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [In the Throes](https://open.spotify.com/album/11LoGMC6U6CAS5BSr1W7z5) | 5:23 |
 | 40 | [Restless Ways](https://open.spotify.com/track/46BuKMRwrsORK3LGmJBwuv) | [Gethen Jenkins](https://open.spotify.com/artist/60JnsFVGbyznmdovxTyIEh) | [Western Gold](https://open.spotify.com/album/0aOX8fuikpPyZzqHwXT4aO) | 3:42 |
 | 41 | [Hallelujah](https://open.spotify.com/track/4rdE7Rtddm0BXwj6RBFSxL) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Junky Star](https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x) | 5:00 |
 | 42 | [Hurt So Bad](https://open.spotify.com/track/0vR9THRZdAsBehAAeGSBjo) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Neon Cross](https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ) | 3:49 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 196 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 | 197 | [Yellowstone Theme](https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:28 |
 
-Snapshot ID: `MTY3Mjc5NDAwMCwwMDAwMDAwMDY1YTljMzZiODg5NGZlNGViOTY0MjA3MDJlYzg3NTA2`
+Snapshot ID: `MTY3Mjc5NDAwMCwwMDAwMDAwMDU2N2JhYTM1NmQ5MTlhZjY3MjQ1MjEyOTg5MTliZjlm`

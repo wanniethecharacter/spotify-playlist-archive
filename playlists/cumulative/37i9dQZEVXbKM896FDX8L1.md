@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ireland.
 
-984 songs - 2 day 9 hr 38 min
+985 songs - 2 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,7 +660,8 @@
 | [p u n c h i n ‘ \. t h e \. c l o c k](https://open.spotify.com/track/57ZUX6TNyKLBydAdVVd02x) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 1:52 | 2021-05-16 | 2021-05-20 |
 | [Packs and Potions](https://open.spotify.com/track/1DxRMgLoWXgmIFF2Unp5pD) | [HAZEY](https://open.spotify.com/artist/6IJaUfq4P3Zjifp4YIJ8oG) | [Packs and Potions](https://open.spotify.com/album/1VkcWtwCE0ktxyiZqjkCzu) | 2:40 | 2022-01-25 | 2022-02-01 |
 | [Painting Pictures](https://open.spotify.com/track/25uBGaikHi0DhMiGMfuXYE) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:17 | 2021-06-13 | 2021-06-14 |
-| [Painting Pictures](https://open.spotify.com/track/4ElnYhTeJEx90XrPDlLzH9) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [Painting Pictures](https://open.spotify.com/album/4rOjLnFYn6xZSEKkR86qEV) | 2:02 | 2023-02-28 |  |
+| [Painting Pictures](https://open.spotify.com/track/2OgIbXHmuRJowDwtmezcio) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [Painting Pictures](https://open.spotify.com/album/1XciNWcYMtjVEjgEQXXxSN) | 2:02 | 2023-03-01 |  |
+| [Painting Pictures](https://open.spotify.com/track/4ElnYhTeJEx90XrPDlLzH9) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [Painting Pictures](https://open.spotify.com/album/4rOjLnFYn6xZSEKkR86qEV) | 2:02 | 2023-02-28 | 2023-03-02 |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-24 | 2023-03-01 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-12 |
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2021-03-27\* | 2022-06-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,210 likes - 154 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,317 likes - 154 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 127 | [I’m a Raven \(Shake Children\)](https://open.spotify.com/track/50ekLb1wXqwCalbH4onfGU) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Lateness of Dancers](https://open.spotify.com/album/7MwUlRv3S9pM6pCJPVYRCV) | 2:50 |
 | 128 | [My Babe](https://open.spotify.com/track/5skNyajERDfPHvKNdzSpRU) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [My Babe](https://open.spotify.com/album/4bdKuZONP3UEQuLAHvmlTP) | 2:18 |
 | 129 | [Vagabond](https://open.spotify.com/track/4870O66Nal4yfWwHQMSeWl) | [Aquila Young](https://open.spotify.com/artist/3VX1a20isB4AkHOBCBY18s) | [Vagabond](https://open.spotify.com/album/6EETonMsPkVWN7iGmStXvW) | 3:39 |
-| 130 | [The Hurricane's Eye](https://open.spotify.com/track/1EAuRuC7lIgIVLwXaZoHLo) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Red Bird](https://open.spotify.com/album/52TyDS3LAr2H4ZUoITQ6Ef) | 3:35 |
+| 130 | [The Hurricane's Eye](https://open.spotify.com/track/5u3Ix27LxPWXQsOdigfTga) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Red Bird](https://open.spotify.com/album/5stp2zzBVUCwusper8vGI9) | 3:35 |
 | 131 | [Don't Strike Me Down](https://open.spotify.com/track/3XWoCqLGA0Hjnl2qVYiNgj) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Radium Death](https://open.spotify.com/album/65eAnqYOKWp6MI6kWkw3XT) | 3:35 |
 | 132 | [On the Road Again](https://open.spotify.com/track/1BQkVDlEOtYKOaotnJuNzz) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Along the Trail of Tears](https://open.spotify.com/album/6IcVeQFhXfXimexDoOYJoy) | 3:43 |
 | 133 | [Trouble](https://open.spotify.com/track/4az5pchkq5BEmJTB7fpbxU) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Trouble](https://open.spotify.com/album/22osKK5opQGAkqObk6rJx8) | 4:07 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 153 | [Breathing Bullets \- US Radio Mix](https://open.spotify.com/track/3afn6c2nBmPqogKrYO06qd) | [Owen Campbell](https://open.spotify.com/artist/3euYobDxHiDFZFGnVu23qe) | [Breathing Bullets \(US Radio Mix\)](https://open.spotify.com/album/3Kb4S90XjZF8qekzIc2Wbq) | 3:46 |
 | 154 | [I Killed Robert Johnson](https://open.spotify.com/track/7eogexfpzqrkrJ8Z6B9kHQ) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 5:25 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDY2NTFmMzFhN2Q4OTJkNTlhYzJmNTY4NGIyNjVlZTQy`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGE1OGUwNjgyMzBjOGM2ODZhYWRiN2IyODcwMjZlYzM5`

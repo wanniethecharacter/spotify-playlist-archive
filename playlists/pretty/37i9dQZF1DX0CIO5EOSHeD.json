@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 412277,
+  "num_followers": 412458,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkzNTkwNywwMDAwMDAwMGJiZGNhNjFkMjc0Y2E2OThlMDY5Yzg0ZjMyM2VlMTBk",
+  "snapshot_id": "MTY3MDkzNTkwNywwMDAwMDAwMDVmZDllOTNlNzc4MTVlZDg5NTFiOTJlYjkxN2JiZjNm",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Bedside Kites",
-        "url": "https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi"
+        "name": "Ways to Go",
+        "url": "https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G"
       },
       "artists": [
         {
-          "name": "Bedside Kites",
-          "url": "https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL"
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
         }
       ],
-      "duration_ms": 328421,
-      "name": "A Sad Song About a Girl I No Longer Know",
-      "url": "https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI"
+      "duration_ms": 127085,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -547,34 +547,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Ways to Go",
-        "url": "https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G"
+        "name": "Bedside Kites",
+        "url": "https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi"
       },
       "artists": [
         {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+          "name": "Bedside Kites",
+          "url": "https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL"
         }
       ],
-      "duration_ms": 127085,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Human Condition",
-        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 131618,
-      "name": "Human Condition",
-      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
+      "duration_ms": 328421,
+      "name": "A Sad Song About a Girl I No Longer Know",
+      "url": "https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Human Condition",
+        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 131618,
+      "name": "Human Condition",
+      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "It's All In Your Head",
-        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
-      },
-      "artists": [
-        {
-          "name": "dandelion hands",
-          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
-        }
-      ],
-      "duration_ms": 167126,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "off the grid",
         "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 239195,
       "name": "u dont kno me",
       "url": "https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "It's All In Your Head",
+        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
+      },
+      "artists": [
+        {
+          "name": "dandelion hands",
+          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
+        }
+      ],
+      "duration_ms": 167126,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Sun Outside My Window",
+        "url": "https://open.spotify.com/album/2f9WckhKSSRXLJ53QJUCRo"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Sun Outside My Window",
+      "url": "https://open.spotify.com/track/4VpLdvee1V7CTKXv1xaDCk"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 199000,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Sun Outside My Window",
-        "url": "https://open.spotify.com/album/2f9WckhKSSRXLJ53QJUCRo"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Sun Outside My Window",
-      "url": "https://open.spotify.com/track/4VpLdvee1V7CTKXv1xaDCk"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7"
     },
     {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Double Superfine",
+        "url": "https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Darcy",
+      "url": "https://open.spotify.com/track/20ZVYu0lsdCsuzMKfcadZN"
+    },
+    {
       "added_at": "2022-12-13 12:51:47",
       "album": {
         "name": "Let It Pass",
@@ -979,22 +995,6 @@
       "duration_ms": 317837,
       "name": "HeatDeath",
       "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Double Superfine",
-        "url": "https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx"
-      },
-      "artists": [
-        {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
-        }
-      ],
-      "duration_ms": 204564,
-      "name": "Darcy",
-      "url": "https://open.spotify.com/track/20ZVYu0lsdCsuzMKfcadZN"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "ALLTHETIME",
+        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        }
+      ],
+      "duration_ms": 425680,
+      "name": "ALLTHETIME",
+      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Me Oh My Mirror",
         "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 223186,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "LIFE ON EARTH",
-        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "PIERCED ARROWS",
-      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "LIFE ON EARTH",
+        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "PIERCED ARROWS",
+      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Body Jumper (Deluxe)",
         "url": "https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi"
       },
@@ -1147,6 +1163,22 @@
       "duration_ms": 137400,
       "name": "Mystery Key - Eyedress Remix",
       "url": "https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "heat waves - lofi version",
+        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
+      },
+      "artists": [
+        {
+          "name": "omgkirby",
+          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+        }
+      ],
+      "duration_ms": 96363,
+      "name": "heat waves - lofi version",
+      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1187,22 +1219,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "heat waves - lofi version",
-        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
-      },
-      "artists": [
-        {
-          "name": "omgkirby",
-          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
-        }
-      ],
-      "duration_ms": 96363,
-      "name": "heat waves - lofi version",
-      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 176268,
       "name": "4th of july",
       "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "ALLTHETIME",
-        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        }
-      ],
-      "duration_ms": 425680,
-      "name": "ALLTHETIME",
-      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "i run like this",
+        "url": "https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc"
+      },
+      "artists": [
+        {
+          "name": "Vanillaroma",
+          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "buzzkill bummer",
+      "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "OH GOD",
         "url": "https://open.spotify.com/album/7x4qNYyuYnLTNjuJgG0KJ5"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 206000,
       "name": "New York, Paris and London",
       "url": "https://open.spotify.com/track/1qz48hLN202OabIYOSkCFZ"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "i run like this",
-        "url": "https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc"
-      },
-      "artists": [
-        {
-          "name": "Vanillaroma",
-          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "buzzkill bummer",
-      "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1539,22 +1539,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Reality",
-        "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L"
       },
       "artists": [
         {
-          "name": "Em Glasser",
-          "url": "https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5"
-        },
-        {
-          "name": "Maatz",
-          "url": "https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr"
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
         }
       ],
-      "duration_ms": 219205,
-      "name": "Reality",
-      "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
+      "duration_ms": 297567,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1643,18 +1639,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L"
+        "name": "Reality",
+        "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
       },
       "artists": [
         {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+          "name": "Em Glasser",
+          "url": "https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5"
+        },
+        {
+          "name": "Maatz",
+          "url": "https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr"
         }
       ],
-      "duration_ms": 297567,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8"
+      "duration_ms": 219205,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
     }
   ],
   "unique_name": "Lo-fi Indie",

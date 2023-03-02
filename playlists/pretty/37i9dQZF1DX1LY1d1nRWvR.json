@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 25030,
+  "num_followers": 25047,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDFjYjcwMWY5YWJjODMyYzRlNmQwMjlkYzcxMWE1MzJh",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDRkNmJmMmIyNGM5OTJiZjFiMDdmZGQ2YjE3ZDNmZGEz",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -335,6 +335,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "When You Focus On The Good The Good Gets Better",
+        "url": "https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm"
+      },
+      "artists": [
+        {
+          "name": "Devante Embers",
+          "url": "https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT"
+        }
+      ],
+      "duration_ms": 428023,
+      "name": "When You Focus On The Good The Good Gets Better",
+      "url": "https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Movementt",
         "url": "https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "When You Focus On The Good The Good Gets Better",
-        "url": "https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
       },
       "artists": [
         {
-          "name": "Devante Embers",
-          "url": "https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT"
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
         }
       ],
-      "duration_ms": 428023,
-      "name": "When You Focus On The Good The Good Gets Better",
-      "url": "https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG"
+      "duration_ms": 376960,
+      "name": "Bamboo",
+      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -387,22 +403,6 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
-      },
-      "artists": [
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 376960,
-      "name": "Bamboo",
-      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -475,26 +475,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Make This Right",
-        "url": "https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7"
-      },
-      "artists": [
-        {
-          "name": "Ruf Dug",
-          "url": "https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T"
-        },
-        {
-          "name": "Lovescene",
-          "url": "https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Make This Right - Radio Edit",
-      "url": "https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Buya",
         "url": "https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 464182,
       "name": "Buya - Da Capo Remix",
       "url": "https://open.spotify.com/track/4OezP9SDdFDOkANm9qdXYt"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Make This Right",
+        "url": "https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7"
+      },
+      "artists": [
+        {
+          "name": "Ruf Dug",
+          "url": "https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T"
+        },
+        {
+          "name": "Lovescene",
+          "url": "https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Make This Right - Radio Edit",
+      "url": "https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -567,26 +567,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Boro",
-        "url": "https://open.spotify.com/album/3PZz5CUq6iaaSReo5O7Yko"
+        "name": "Highlife World Series: Cuba",
+        "url": "https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE"
       },
       "artists": [
         {
-          "name": "Yarni",
-          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
-        },
-        {
-          "name": "Jonoa",
-          "url": "https://open.spotify.com/artist/6br5gZuWFULycPE9ePuqk1"
-        },
-        {
-          "name": "Rachel Shirley",
-          "url": "https://open.spotify.com/artist/6B8GzjIukc5DrGu32pabAI"
+          "name": "Auntie Flo",
+          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
         }
       ],
-      "duration_ms": 352909,
-      "name": "Golden Gai",
-      "url": "https://open.spotify.com/track/57U4RtkzOsK0vIVc6lu8ez"
+      "duration_ms": 356313,
+      "name": "Mother Theresa - Original Mix",
+      "url": "https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -607,22 +599,6 @@
       "duration_ms": 132864,
       "name": "Nankoo on Keys",
       "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Highlife World Series: Cuba",
-        "url": "https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE"
-      },
-      "artists": [
-        {
-          "name": "Auntie Flo",
-          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
-        }
-      ],
-      "duration_ms": 356313,
-      "name": "Mother Theresa - Original Mix",
-      "url": "https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -667,6 +643,30 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Boro",
+        "url": "https://open.spotify.com/album/3PZz5CUq6iaaSReo5O7Yko"
+      },
+      "artists": [
+        {
+          "name": "Yarni",
+          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
+        },
+        {
+          "name": "Jonoa",
+          "url": "https://open.spotify.com/artist/6br5gZuWFULycPE9ePuqk1"
+        },
+        {
+          "name": "Rachel Shirley",
+          "url": "https://open.spotify.com/artist/6B8GzjIukc5DrGu32pabAI"
+        }
+      ],
+      "duration_ms": 352909,
+      "name": "Golden Gai",
+      "url": "https://open.spotify.com/track/57U4RtkzOsK0vIVc6lu8ez"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Tanto Tiempo",
         "url": "https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "The Jerusalem EP's",
-        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 407893,
-      "name": "Servants Jaz House",
-      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Straight Line (Remixed)",
         "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
       },
@@ -743,22 +727,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Moodymann",
-        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 708706,
-      "name": "Sloppy Cosmic",
-      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Aletheia",
         "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
       },
@@ -771,6 +739,38 @@
       "duration_ms": 346361,
       "name": "Aletheia",
       "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "The Jerusalem EP's",
+        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 407893,
+      "name": "Servants Jaz House",
+      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Moodymann",
+        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 708706,
+      "name": "Sloppy Cosmic",
+      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "The Return",
-        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        }
-      ],
-      "duration_ms": 513226,
-      "name": "Salaam",
-      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Theme from Selva",
         "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
       },
@@ -887,6 +871,38 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        }
+      ],
+      "duration_ms": 513226,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "New Tab",
+        "url": "https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe"
+      },
+      "artists": [
+        {
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Frog Fractions",
+      "url": "https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Side Street",
         "url": "https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 217080,
       "name": "Side Street",
       "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "New Tab",
-        "url": "https://open.spotify.com/album/7sQkR41g5rIr1PPo4GloZe"
-      },
-      "artists": [
-        {
-          "name": "Khotin",
-          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Frog Fractions",
-      "url": "https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q"
     }
   ],
   "unique_name": "lush",

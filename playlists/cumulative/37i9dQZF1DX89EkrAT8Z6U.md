@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene\. Cover: Lucy from Cyberpunk: Edgerunners
 
-178 songs - 7 hr 57 min
+180 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,8 @@
 | [ALL GIRLS ARE THE SAME](https://open.spotify.com/track/0YGRqKKDhomTOp246LT11G) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [ALL GIRLS ARE THE SAME](https://open.spotify.com/album/5xfQcHCFloFP5Z2ljqmwxn) | 2:01 | 2022-11-10 |  |
 | [ALL GIRLS ARE THE SAME](https://open.spotify.com/track/4xhWfr0tyA7BGL7eXo8KnV) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [ALL GIRLS ARE THE SAME](https://open.spotify.com/album/0j5TwvQkHVoLX2n7iERVOl) | 2:01 | 2022-05-25 | 2022-12-04 |
 | [Alucard](https://open.spotify.com/track/20foGhmqyjTyHMVIgELLCo) | [Manny Force](https://open.spotify.com/artist/2Jv94ffHaw54qIhVAQp7KU), [Gravity in Space](https://open.spotify.com/artist/3R4wOxBYTNKIw48JzCFLIZ), [ONIEIGHT](https://open.spotify.com/artist/5rVuLxCcmw7Wu7rZljefdq) | [Alucard](https://open.spotify.com/album/7mgmq6iPdy9wU5Fq400Ho2) | 2:08 | 2022-05-25 | 2022-07-27 |
-| [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 | 2022-05-25 |  |
-| [Bars No Jutsu](https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae) | [Louis Capone](https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu) | [Bars No Jutsu](https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT) | 2:28 | 2022-05-25 |  |
+| [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 | 2022-05-25 | 2023-03-02 |
+| [Bars No Jutsu](https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae) | [Louis Capone](https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu) | [Bars No Jutsu](https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT) | 2:28 | 2022-05-25 | 2023-03-02 |
 | [Berserk \(Guts\)](https://open.spotify.com/track/02TkW3n36h68GDwOnGPvYV) | [Daddyphatsnaps](https://open.spotify.com/artist/6xini6REf0CP8muuVvDa91) | [Berserk \(Guts\)](https://open.spotify.com/album/41Cw2k5xNcQ2j0Ho9GTdUI) | 3:34 | 2022-05-25 | 2022-07-29 |
 | [Black Clover](https://open.spotify.com/track/40hSfhLVRH8Unwiwk16WIA) | [HazTik](https://open.spotify.com/artist/6xZtfGoy2JCGqSUPdAUHbX) | [Black Clover](https://open.spotify.com/album/7JVokvPC8GQTmoDNHRvhpL) | 2:05 | 2022-05-25 | 2022-07-25 |
 | [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 | 2022-06-10 |  |
@@ -166,6 +166,7 @@
 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 | 2022-06-21 |  |
 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 | 2022-05-25 |  |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-10-14 |  |
+| [Vito / Bad Boy](https://open.spotify.com/track/6jo3Sv2PWgX7oX2gSsvbI5) | [Headband Andy](https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm) | [Vito / Bad Boy](https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy) | 2:32 | 2023-01-06 |  |
 | [VIVID VICE](https://open.spotify.com/track/1a1b22lYmn0y5YPJUGFCqb) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [WⅡ](https://open.spotify.com/album/2B9qHYgb5Si7LbG42Uv1rC) | 3:03 | 2022-05-25 | 2022-06-11 |
 | [Wano](https://open.spotify.com/track/4ZU0Une8oHy3YP9aEHxtu3) | [954mari](https://open.spotify.com/artist/4B6My3qCkyAX7n3qzUZONc), [Ty Wild](https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm) | [Wano](https://open.spotify.com/album/2nlH87Nh0S0PGIO3XCTVtS) | 1:51 | 2022-06-21 | 2022-06-30 |
 | [WE BOUT TO GET DOWN](https://open.spotify.com/track/4IeV5yYwvdDbQ2fjniu97W) | [OMINVS](https://open.spotify.com/artist/3Bq0nZu9BVpiZ1jTjTqZQd) | [WE BOUT TO GET DOWN](https://open.spotify.com/album/5Cx08DAI2KlOfK3ksE7B4v) | 1:23 | 2022-06-28 | 2022-10-08 |
@@ -174,6 +175,7 @@
 | [Wind \(Naruto\) \- Trap Remix](https://open.spotify.com/track/2LmyFJW92BeYl0qdH3ztiO) | [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3), [Tha J\-SQUAD](https://open.spotify.com/artist/1GaBxa6meZLiIEHjCIzEzb) | [Wind \(Naruto\) \[Trap Remix\]](https://open.spotify.com/album/3ak7Khm75GZ0K3ivsJndS7) | 3:00 | 2022-06-21 | 2022-07-27 |
 | [WTH](https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 1:39 | 2022-11-29 |  |
 | [You Are Weak](https://open.spotify.com/track/01aKVGWw3AWlQz3oBGl4oO) | [Cassanova](https://open.spotify.com/artist/4ZRk4osI9p0fYRIATEG1zO) | [You Are Weak](https://open.spotify.com/album/7sdJRlKuNfCWvE3YeW3PEC) | 1:40 | 2022-06-16 | 2022-07-09 |
+| [Young Kid](https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Young Kid](https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz) | 3:29 | 2023-02-27 |  |
 | [Zoom!](https://open.spotify.com/track/1Vv93qCC50ckZdeXh7Etln) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Zoom!](https://open.spotify.com/album/10WMv6j9OpkTHVafzM3JSx) | 2:07 | 2022-06-10 |  |
 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 | 2022-05-25 |  |
 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 | 2022-05-25 |  |

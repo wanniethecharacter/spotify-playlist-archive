@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 109110,
+  "num_followers": 109153,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMGExMGU3MDc4NTY3ZDk5MDNiOWU4MjAwY2UyMmFkYTY1",
+  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDMyN2UxMjA4NzZkOTc2NDg3NDJiMmYwODMxZTIxOWVl",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
         }
       ],
-      "duration_ms": 192893,
-      "name": "Go Daddy O",
-      "url": "https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H"
+      "duration_ms": 307493,
+      "name": "Mambo Swing",
+      "url": "https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Blue Pariah",
-        "url": "https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS"
+        "name": "Dedicated To You",
+        "url": "https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw"
       },
       "artists": [
         {
-          "name": "Big Rude Jake",
-          "url": "https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA"
+          "name": "Big Sandy",
+          "url": "https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Swing Baby!",
-      "url": "https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC"
+      "duration_ms": 135146,
+      "name": "Hey Se\u00f1orita",
+      "url": "https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -516,25 +516,25 @@
           "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
         }
       ],
-      "duration_ms": 307493,
-      "name": "Mambo Swing",
-      "url": "https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW"
+      "duration_ms": 192893,
+      "name": "Go Daddy O",
+      "url": "https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H"
     },
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Dedicated To You",
-        "url": "https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw"
+        "name": "Blue Pariah",
+        "url": "https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS"
       },
       "artists": [
         {
-          "name": "Big Sandy",
-          "url": "https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp"
+          "name": "Big Rude Jake",
+          "url": "https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA"
         }
       ],
-      "duration_ms": 135146,
-      "name": "Hey Se\u00f1orita",
-      "url": "https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l"
+      "duration_ms": 202466,
+      "name": "Swing Baby!",
+      "url": "https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC"
     },
     {
       "added_at": "2022-03-28 19:13:18",

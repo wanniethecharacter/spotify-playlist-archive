@@ -2874,7 +2874,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 158823,
       "name": "Hoy No Salgo",
       "url": "https://open.spotify.com/track/3lpVdysBP4nG7yrWjRmfBK"
@@ -3079,6 +3079,24 @@
     },
     {
       "album": {
+        "name": "Estrelas da M\u00fasica Portuguesa",
+        "url": "https://open.spotify.com/album/43BNU5CRBFE4EKbM4Avzhd"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Da Concei\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/65eHtjZey5UkRE7pNFJSTc"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188386,
+      "name": "J\u00e1 Me Deixou",
+      "url": "https://open.spotify.com/track/19MzA3RuQzw4GmAEPVhZbK"
+    },
+    {
+      "album": {
         "name": "Picos e Vales",
         "url": "https://open.spotify.com/album/3BV5Fe1lCwHJfCEGZn8MLy"
       },
@@ -3166,7 +3184,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 289162,
       "name": "Kumake",
       "url": "https://open.spotify.com/track/0gYJ9bbMWP2A4gBKUcstcj"
@@ -3314,6 +3332,24 @@
       "duration_ms": 246715,
       "name": "like we're wired",
       "url": "https://open.spotify.com/track/0jWQBmBX3jowX8AuUXmzjq"
+    },
+    {
+      "album": {
+        "name": "Herm\u00ednia",
+        "url": "https://open.spotify.com/album/2kaGFuAfYSz70gGFJjFq1h"
+      },
+      "artists": [
+        {
+          "name": "Herm\u00ednia Silva",
+          "url": "https://open.spotify.com/artist/0u8aWhZhTsf4dPNpJJdu7W"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163853,
+      "name": "Lisboa Antiga",
+      "url": "https://open.spotify.com/track/5qfl3GOiB8r72QjYc1SIEf"
     },
     {
       "album": {
@@ -3552,6 +3588,24 @@
       "duration_ms": 154930,
       "name": "mais uma sobre ti",
       "url": "https://open.spotify.com/track/0XURI3XUhHQhAp2WXgJfSB"
+    },
+    {
+      "album": {
+        "name": "Maldi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4th660cJKZef4b7QILlbaK"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e1lia Rodrigues",
+          "url": "https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280133,
+      "name": "Maldi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/34yNjpigszjzcYqIIKuAUs"
     },
     {
       "album": {
@@ -4118,7 +4172,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 212798,
       "name": "Nem C\u00e9u Nem Mar",
       "url": "https://open.spotify.com/track/2xEI0gdaCtEZdmZKWjTlzG"
@@ -4794,7 +4848,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 221096,
       "name": "Outros Planos",
       "url": "https://open.spotify.com/track/30t2xt3amQEfMIbvI15054"
@@ -5170,6 +5224,24 @@
       "duration_ms": 139809,
       "name": "Picheleira, Reboleira",
       "url": "https://open.spotify.com/track/5WRtYKtlkhK3aTZ64OSXXu"
+    },
+    {
+      "album": {
+        "name": "Maria Teresa de Noronha em Est\u00fadio",
+        "url": "https://open.spotify.com/album/0akxoOH6qAiyclu6A84JRC"
+      },
+      "artists": [
+        {
+          "name": "Maria Teresa De Noronha",
+          "url": "https://open.spotify.com/artist/7n5Uo3hzsVIhOjjvBTFyKY"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130213,
+      "name": "Pintadinho",
+      "url": "https://open.spotify.com/track/50nxe61KbxPVpMhzYR8LmJ"
     },
     {
       "album": {
@@ -5632,6 +5704,24 @@
       "duration_ms": 221280,
       "name": "Quanto D\u00f3i",
       "url": "https://open.spotify.com/track/2gdq0BHOAKOunJwWyA4nl6"
+    },
+    {
+      "album": {
+        "name": "Fado Global, Vol. 3",
+        "url": "https://open.spotify.com/album/78UfVHhSflXB5M77sy5yEX"
+      },
+      "artists": [
+        {
+          "name": "Teresa Siqueira",
+          "url": "https://open.spotify.com/artist/5eDZoYsYjB3mEOabiPbVA7"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103146,
+      "name": "Quem Agitou o Trigo",
+      "url": "https://open.spotify.com/track/3lTrw7NLA1r4y2Cs02PKeS"
     },
     {
       "album": {
@@ -7198,7 +7288,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-02",
       "duration_ms": 199680,
       "name": "\u00c1gua Doce",
       "url": "https://open.spotify.com/track/13APzWfTKJfVxiIxTsFKVD"

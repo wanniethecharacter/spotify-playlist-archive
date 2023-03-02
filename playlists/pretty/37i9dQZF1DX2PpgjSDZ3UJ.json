@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 19820,
+  "num_followers": 19821,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMGRhNzExOWI3NzhlYjQ3MDdhYWJjMjEyZDM2YjdjYzJk",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDZkOWJkNTM5ZmQ0MWMxMDVlOGJjNjI4Zjk2ZjAxOWFl",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "\u018eD\u00c9N",
-        "url": "https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr"
-      },
-      "artists": [
-        {
-          "name": "MIEL",
-          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
-        }
-      ],
-      "duration_ms": 218814,
-      "name": "Centro",
-      "url": "https://open.spotify.com/track/5kABp0JZfAxisR5zzpAi7d"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "MILLONES",
         "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 185920,
       "name": "El equilibrio",
       "url": "https://open.spotify.com/track/13LiYjx7tgdqjMxAt3pgtG"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "\u018eD\u00c9N",
+        "url": "https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr"
+      },
+      "artists": [
+        {
+          "name": "MIEL",
+          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
+        }
+      ],
+      "duration_ms": 218814,
+      "name": "Centro",
+      "url": "https://open.spotify.com/track/5kABp0JZfAxisR5zzpAi7d"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 316777,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "No Sentir Nada",
         "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 170673,
       "name": "Como un Drag\u00f3n",
       "url": "https://open.spotify.com/track/4wRSPGwvz47YVOABxXJoAN"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 316777,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Joderlo Todo",
-        "url": "https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 227079,
-      "name": "Joderlo Todo",
-      "url": "https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 200869,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Joderlo Todo",
+        "url": "https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 227079,
+      "name": "Joderlo Todo",
+      "url": "https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Lo Que Vales (Para M\u00ed)",
-        "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
-      },
-      "artists": [
-        {
-          "name": "Pepe Pecas",
-          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Lo Que Vales (Para M\u00ed)",
-      "url": "https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Sentimiento Mundial",
         "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 178146,
       "name": "Delicadeza",
       "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Lo Que Vales (Para M\u00ed)",
+        "url": "https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW"
+      },
+      "artists": [
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Lo Que Vales (Para M\u00ed)",
+      "url": "https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "En Transmisi\u00f3n Perpetua",
-        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
-      },
-      "artists": [
-        {
-          "name": "Cometa Sucre",
-          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Caminos Extran\u0303os",
-      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Too Bad",
         "url": "https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 200250,
       "name": "Stuck on You",
       "url": "https://open.spotify.com/track/2p7g3PDq8PGgyD79Tzpvez"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "En Transmisi\u00f3n Perpetua",
+        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
+      },
+      "artists": [
+        {
+          "name": "Cometa Sucre",
+          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Caminos Extran\u0303os",
+      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Diciembre",
-        "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
-      },
-      "artists": [
-        {
-          "name": "Encarta 98",
-          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
-        }
-      ],
-      "duration_ms": 278453,
-      "name": "Diciembre",
-      "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Conversations",
         "url": "https://open.spotify.com/album/7l4P76P1NClX1r0pIM2xng"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 197886,
       "name": "Conversaciones",
       "url": "https://open.spotify.com/track/5tw1aZY3QC7cfQCmggqTjB"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
+      },
+      "artists": [
+        {
+          "name": "Encarta 98",
+          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
+        }
+      ],
+      "duration_ms": 278453,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "La Pel\u00edcula",
+        "url": "https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00edculas Geniales",
+          "url": "https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f"
+        },
+        {
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Estar Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5xeU3C13U7d8d6HOIhT8e4"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Sabes",
         "url": "https://open.spotify.com/album/6GUwOeqKSqk98yJK2dPkEr"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 225240,
       "name": "Honestidad",
       "url": "https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "La Pel\u00edcula",
-        "url": "https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00edculas Geniales",
-          "url": "https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f"
-        },
-        {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Estar Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5xeU3C13U7d8d6HOIhT8e4"
     }
   ],
   "unique_name": "Lo Mejor del Indie/Alternativo 2020",

@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: RBD
 
-3,555 songs - 7 day 20 hr 13 min
+3,556 songs - 7 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2545,7 +2545,8 @@
 | [Poco a Poco](https://open.spotify.com/track/5QtfHuYdlivBEKmeMWSo9T) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG), [DELIĆ](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Poco a Poco](https://open.spotify.com/album/1XDc5KwuzjGvmsV4FAKHEl) | 4:30 | 2022-05-20 | 2022-05-28 |
 | [Poderes](https://open.spotify.com/track/6W6hf9wrUR8UsMBU8fL4sG) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7) | [Poderes](https://open.spotify.com/album/4eaVybtY7RaSq1lYwpedC8) | 2:47 | 2022-06-10 | 2022-06-18 |
 | [Polaroid](https://open.spotify.com/track/6qg94YiXpAJvS3J7yKVodF) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM) | [Polaroid](https://open.spotify.com/album/6VH0Pz5i1eZhq5FUZqp3U2) | 3:24 | 2021-12-24 | 2022-01-15 |
-| [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 | 2023-02-24 |  |
+| [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 | 2023-02-24 |  |
+| [Polaroid](https://open.spotify.com/track/3r5FAJam7uWGVxO9wKERn5) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5KtjJlDfRo3meKI0oKBg6X) | 2:56 | 2023-02-24 | 2023-03-02 |
 | [Polvo De Estrellas](https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Polvo De Estrellas](https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu) | 3:47 | 2022-05-27 | 2022-06-04 |
 | [Ponle Dembow](https://open.spotify.com/track/1zp23gHCrilG1NGfmjMy0f) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [574](https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns) | [Ponle Dembow](https://open.spotify.com/album/0hHPlPbwFAvowcLtTpy5qw) | 3:20 | 2022-08-12 | 2022-08-20 |
 | [Ponme Loco](https://open.spotify.com/track/2rfRfWa17fj9cYM257xFFq) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Melfi](https://open.spotify.com/artist/2s5iQ3nYajukIti9VtEUiR) | [Ponme Loco](https://open.spotify.com/album/2XTGn1ejtNioS1pDVNmipB) | 2:19 | 2022-07-22 | 2022-07-30 |

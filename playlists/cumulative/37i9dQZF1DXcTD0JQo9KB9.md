@@ -4,7 +4,7 @@
 
 > 每日都有咁多壞消息，我心情真係好肉酸呀！只可以同自己講聲「撐住」！
 
-93 songs - 6 hr 1 min
+94 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [小島](https://open.spotify.com/track/2hn37fEFyplCS7stICKgAq) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [小島](https://open.spotify.com/album/13fTvWxRTs2t02FhPLCaGw) | 3:27 | 2022-04-13 |  |
 | [廢學](https://open.spotify.com/track/1zFfjpRxrHlv6IU3fiVepA) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [未知之知](https://open.spotify.com/album/7CkuTVTU8VfAVulHisPZDl) | 4:28 | 2022-04-13 |  |
 | [得個等](https://open.spotify.com/track/0pnfuNHCpQC56xBuBXCqbT) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/2k7cZ6tUVPxiiq5VSYqS5n) | 4:17 | 2022-04-13 |  |
-| [我也難過的](https://open.spotify.com/track/3kQvyf0lMEpcn0xGWM1blY) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P), [謝芊彤](https://open.spotify.com/artist/75X1AosgRNJ3OkpcrDS8TP) | [我也難過的](https://open.spotify.com/album/5NjBK5wSTAX9a2BbtBDKZ4) | 4:38 | 2022-04-13 |  |
+| [我也難過的](https://open.spotify.com/track/2PkErrvrjQry3l1IhhJsor) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [我也難過的](https://open.spotify.com/album/2hFVXHct1VP9me00DzxDCj) | 4:38 | 2022-11-03 |  |
+| [我也難過的](https://open.spotify.com/track/3kQvyf0lMEpcn0xGWM1blY) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P), [謝芊彤](https://open.spotify.com/artist/75X1AosgRNJ3OkpcrDS8TP) | [我也難過的](https://open.spotify.com/album/5NjBK5wSTAX9a2BbtBDKZ4) | 4:38 | 2022-04-13 | 2023-03-02 |
 | [我們都想旅行](https://open.spotify.com/track/67wmOm80zXISULC5CVQyv8) | [Ken Hung](https://open.spotify.com/artist/0sQMt1Llvcuza8oLKB9bmi) | [我們都想旅行](https://open.spotify.com/album/0iWpHNCYFrxiCbsa2dIfVj) | 3:24 | 2022-04-13 |  |
 | [我可以被這個世界淘汰,但不可以被世界擊敗](https://open.spotify.com/track/06SVExglFy0GOh3E5djqgm) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 2:40 | 2022-04-13 |  |
 | [我地](https://open.spotify.com/track/5X2hXMrZGsPJdZ5T28RKiv) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [我地](https://open.spotify.com/album/5N4PHGAQQlnzKvRrswAzoC) | 3:26 | 2022-05-25 |  |

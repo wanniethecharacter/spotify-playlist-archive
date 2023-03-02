@@ -305,6 +305,36 @@
     },
     {
       "album": {
+        "name": "Rizzla - Mochakk Remix (Mixed)",
+        "url": "https://open.spotify.com/album/0AN0htPFBHJC2S02MMxBJI"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Rizzla - Mochakk Remix - Mixed",
+      "url": "https://open.spotify.com/track/1XapmmPQOYng11RYGbQ2nZ"
+    },
+    {
+      "album": {
         "name": "Tamo Loco (Mixed)",
         "url": "https://open.spotify.com/album/3CJFPVUrjxYtPhE5vP8WXA"
       },

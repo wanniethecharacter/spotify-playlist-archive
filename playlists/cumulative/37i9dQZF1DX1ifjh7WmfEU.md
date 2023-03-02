@@ -4,7 +4,7 @@
 
 > Piano music for your massage session.
 
-177 songs - 7 hr 52 min
+179 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Evermore](https://open.spotify.com/track/0H7xrDoYtdxiWGlghRw7Ai) | [Roman Nadler](https://open.spotify.com/artist/6PJNmKUT1INuhRkWesPjLK) | [Evermore](https://open.spotify.com/album/65jiZXLY6ewxF0Xw7jpL94) | 2:06 | 2022-05-27 |  |
 | [Ex Nihilo Nihil Fit](https://open.spotify.com/track/3iyH2B4dcjufYE0ZjiUZsC) | [Elder Lockhart](https://open.spotify.com/artist/4E0ctBJaB32wQSdYHmIsxU) | [Ex Nihilo Nihil Fit](https://open.spotify.com/album/4UGoF6BHCz2xclaI3J74Zf) | 2:35 | 2022-05-27 |  |
 | [Feels like home](https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Feels like home](https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz) | 2:33 | 2022-05-27 | 2022-07-28 |
+| [Finding Peace](https://open.spotify.com/track/7nszzgsBZi9NS6F89xZeAz) | [Joel Harous](https://open.spotify.com/artist/4IUERw4YRt35ijw9Nvfqba) | [Finding Peace](https://open.spotify.com/album/2oKNblsxDmO5nVgYukb26A) | 1:42 | 2023-03-01 |  |
 | [First Light](https://open.spotify.com/track/4yuDrAv22L2WhLaNQVBn8t) | [Garreth Brooke](https://open.spotify.com/artist/2zkBE2h0e4LHHWRWHNL1bw), [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [First Light](https://open.spotify.com/album/6GHHSY1QQPCTO5ium5ec2R) | 2:06 | 2022-05-27 |  |
 | [First Sunlight](https://open.spotify.com/track/1GbQ0l3BRFOpYc1K7Xm5LM) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6xBwYrVSMHiw4DfQLtO6Ki) | 2:28 | 2022-05-27 | 2022-10-18 |
 | [First Sunlight](https://open.spotify.com/track/7oVzg7PHNE9fepPdHJVq6f) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/2Lb2OqB6ghrhlnoOR3zNO6) | 2:28 | 2022-09-23 |  |
@@ -105,6 +106,7 @@
 | [Maybe under some other sky](https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Maybe under some other sky](https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq) | 2:19 | 2022-05-27 |  |
 | [Me Donner Un Essai](https://open.spotify.com/track/5BBfQHJVWKxlVEccsELxDI) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Me Donner Un Essai](https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue) | 1:57 | 2022-05-27 |  |
 | [Merveilleuse](https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB) | [Valeria Henkel](https://open.spotify.com/artist/1kq42V5pELv36iedUE4EyN) | [Merveilleuse](https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9) | 2:01 | 2022-05-27 |  |
+| [Morning Stroll](https://open.spotify.com/track/4RojRunkpA8Hmk4hJHCeZw) | [Felicia Frank](https://open.spotify.com/artist/0PTGQLNvvo5UJQOMxBXcaA) | [Morning Stroll](https://open.spotify.com/album/6iovmi4dOraYV7GiOP4Chl) | 2:44 | 2023-03-01 |  |
 | [Nefoedd](https://open.spotify.com/track/7fpv4K07BD9tUC852Mw5Lz) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Nefoedd](https://open.spotify.com/album/78pQK6kW8RktRkQA0nqUkI) | 2:49 | 2022-05-27 |  |
 | [New Day](https://open.spotify.com/track/5p7DcsDqbHeMO02ZusP48R) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [New Day](https://open.spotify.com/album/0eYAsTv3fBqPMwY1FlbDvl) | 2:51 | 2022-05-27 |  |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2022-05-27 |  |

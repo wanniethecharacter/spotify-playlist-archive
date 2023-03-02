@@ -4,13 +4,13 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,444 songs - 4 day 3 hr 47 min
+1,445 songs - 4 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [/crowds apart/](https://open.spotify.com/track/10QxLaeF8vNLLc7O1El6jl) | [fluff](https://open.spotify.com/artist/3InMJFM9aMItFyFwHDeAhz), [Board\-Man](https://open.spotify.com/artist/1w9k3VBVzpKs0LsauO5jBd) | [/crowds apart/](https://open.spotify.com/album/7xTSsFN3t1DUe0ibWxeB1y) | 1:37 | 2020-11-20 | 2022-04-21 |
 | [1\-800MYLOVE](https://open.spotify.com/track/32Zr5mRlg7KLPxzwtJ6NXw) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 3:39 | 2020-05-18 | 2020-07-18 |
-| [1000 More Suns](https://open.spotify.com/track/7bPzk1B12yFWpnbzZIQGhm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Joseph Aquilina](https://open.spotify.com/artist/4v9F9cfOW1bf3yP09JaNeO) | [Everything We Had To Leave Behind](https://open.spotify.com/album/4hcWdQQ4VLiAsRuaYy7Xo8) | 4:24 | 2021-04-26 |  |
+| [1000 More Suns](https://open.spotify.com/track/7bPzk1B12yFWpnbzZIQGhm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Joseph Aquilina](https://open.spotify.com/artist/4v9F9cfOW1bf3yP09JaNeO) | [Everything We Had To Leave Behind](https://open.spotify.com/album/4hcWdQQ4VLiAsRuaYy7Xo8) | 4:24 | 2021-04-26 | 2023-03-02 |
 | [17 \- 6am Remix](https://open.spotify.com/track/6R3PciZdMvvkQGkhpdeL1k) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [17 \(Remixes\)](https://open.spotify.com/album/0e6y55o0nyFxXILgsyvSVc) | 4:23 | 2020-03-16 | 2020-10-09 |
 | [2003](https://open.spotify.com/track/6pDWaDQGX9h6nj4Zzbv3dE) | [FEJA](https://open.spotify.com/artist/3j82I5Vf3HXaRh3UpSoyUm), [CK Trubadix](https://open.spotify.com/artist/5acaksxPvwaEJiYOIRfnQj) | [2003](https://open.spotify.com/album/1V5rQaT0Ib4cHyr37QWs7M) | 3:27 | 2020-07-18 | 2022-04-24 |
 | [2080](https://open.spotify.com/track/6tfI13HmQHR3jP1fakpewd) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc), [Heartful](https://open.spotify.com/artist/0rSrqbsuGkhgPrg7jqk7Kk) | [2080](https://open.spotify.com/album/0k2ac1ih7ix4jo7PN7WewH) | 5:04 | 2020-05-18 | 2020-10-09 |
@@ -1087,6 +1087,7 @@
 | [Schools Out](https://open.spotify.com/track/1RtNv5YOoY0ODeAekDHAga) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Schools Out](https://open.spotify.com/album/64cTvTckUDWDLU9xRtdnlq) | 2:55 | 2020-03-17 | 2022-04-21 |
 | [Sea To Sky](https://open.spotify.com/track/7CGhUAQcsn81EVNqCHfxGc) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6vfjmNMRImYGCdH0Umbven) | 4:24 | 2022-03-18 | 2022-07-27 |
 | [Sea To Sky \- Parra For Cuva Remix](https://open.spotify.com/track/3MZoVNwQG5SCfLqGtpbbJt) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sea To Sky \(Parra For Cuva Remix\)](https://open.spotify.com/album/7JImJ5SHOXJawrhfmB7COU) | 3:46 | 2022-04-29 | 2022-12-29 |
+| [Seasons](https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy) | [Seasons](https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO) | 2:33 | 2023-02-24 |  |
 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 | 2023-02-17 |  |
 | [Seeker](https://open.spotify.com/track/6weYVdQPXtbS7CjdCdBgZs) | [Dual Manner](https://open.spotify.com/artist/5PwyPUA68oTVythcReHzXy) | [Seeker](https://open.spotify.com/album/4keAjNKZJURwQIgMIkzthP) | 4:57 | 2020-07-18 | 2020-10-09 |
 | [self\-love](https://open.spotify.com/track/20Qufms0u6e9mHprf81SzX) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/0OVyWmEdWlSrG2EcbkXjt4) | 2:23 | 2021-03-10 | 2021-06-19 |
