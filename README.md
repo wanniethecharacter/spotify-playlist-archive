@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5678\)
+## Playlists \(5679\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -4918,6 +4918,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Tommy Brown's Taste](/playlists/pretty/37i9dQZF1DX8zPOPPFGNc8.md)
 - [Tony Hawk's Pro Skater 1 + 2](/playlists/pretty/37i9dQZF1DX6F6y6vVLZ8H.md)
 - [Top 100 tracks of 2014 \- Sweden](/playlists/pretty/23sHdrU9wnUTqYjHZQ101O.md)
+- [Top 2020 \(@squope\)](/playlists/pretty/43nYeA0PJvSQD6S1RZUMoT.md)
 - [Top 50 \- Argentina](/playlists/pretty/37i9dQZEVXbMMy2roB9myp.md)
 - [Top 50 \- Australia](/playlists/pretty/37i9dQZEVXbJPcfkRz0wJ0.md)
 - [Top 50 \- Austria](/playlists/pretty/37i9dQZEVXbKNHh6NIXu36.md)
