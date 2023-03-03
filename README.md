@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5684\)
+## Playlists \(5686\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -1338,6 +1338,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Disco Hi\-Life](/playlists/pretty/37i9dQZF1DXbS8bPVXXR2B.md)
 - [Discover Weekly \(@catzs\)](/playlists/pretty/37i9dQZEVXcJR8Ys0NBejf.md)
 - [Discover Weekly \(@mackorone\)](/playlists/pretty/37i9dQZEVXcRuMXvgjbNNg.md)
+- [Discover Weekly \(@pipemanuel10\)](/playlists/pretty/37i9dQZEVXcKbRenf7f0wN.md)
 - [Disney Christmas](/playlists/pretty/37i9dQZF1DX10JY0qJoWDu.md)
 - [Disney Classical](/playlists/pretty/37i9dQZF1DWVJd52AtCSiR.md)
 - [Disney Favorites](/playlists/pretty/37i9dQZF1DWVs8I62NcHks.md)
@@ -3499,6 +3500,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Relaxing Spanish Guitar](/playlists/pretty/37i9dQZF1DX6BbeVFYBeZs.md)
 - [Relaxing Vocal Jazz](/playlists/pretty/37i9dQZF1DX08n7V52Ynyb.md)
 - [Release Radar \(@ajcooke94\)](/playlists/pretty/37i9dQZEVXbh0ciM216Os7.md)
+- [Release Radar \(@pipemanuel10\)](/playlists/pretty/37i9dQZEVXbsnqEAM3EBaJ.md)
 - [Remembering 2Pac](/playlists/pretty/6vpXSVefNo73POjhwyiWmu.md)
 - [Remix Hits](/playlists/pretty/37i9dQZF1DX7D8GQsPKGvy.md)
 - [Remixes Urbanos](/playlists/pretty/37i9dQZF1DWXbMxJaAyCq1.md)
