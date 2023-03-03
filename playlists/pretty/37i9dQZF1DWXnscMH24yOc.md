@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,195 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,302 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Soul Meets Body](https://open.spotify.com/track/6MKXxE9Zz18KXyPO7T5vhI) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Soul Meets Body](https://open.spotify.com/album/2vZ09NrNvE2ekWg9WVRAT7) | 3:38 |
 | 100 | [Feel Good Inc.](https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Feel Good Inc.](https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje) | 3:56 |
 
-Snapshot ID: `MTY0Nzk2MDAyOSwwMDAwMDAwMDJhM2JlMDk0MDllZTQwYmQwOWZmYzM5OGI0NjIyNGNk`
+Snapshot ID: `MTY0Nzk2MDAyOSwwMDAwMDAwMDRlNGVkMTQyMTQ5M2MwMTI3YzE3OWExMjBhZWNjYTJl`

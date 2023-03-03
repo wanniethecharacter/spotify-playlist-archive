@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,529 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,560 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 |
 | 50 | [You](https://open.spotify.com/track/5iCL53on065MBi6mq4gAl6) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [You](https://open.spotify.com/album/6efFuFvezQqUdxersdVYCL) | 2:54 |
 
-Snapshot ID: `MTY3NzU3OTEzNywwMDAwMDAwMGQzNDU5YzY1MDZjODFiMDY2YmMyMDhkODhhYjk4MWUz`
+Snapshot ID: `MTY3NzU3OTEzNywwMDAwMDAwMDQ2ZGIxZDRkN2UwNDEzYzgwYTVmZGE3OTAwZjQ1Nzcw`

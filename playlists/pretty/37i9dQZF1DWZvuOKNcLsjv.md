@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,015 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,042 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Lost Me](https://open.spotify.com/track/4KTK0uE4uJlS2Y8Gtq81I9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:09 |
 | 100 | [Change and Vanish](https://open.spotify.com/track/6E0Dz2xGBjK5XdnViJ0jYg) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Change and Vanish](https://open.spotify.com/album/0yOLK8giK4aXxk1Lv3d3ne) | 3:49 |
 
-Snapshot ID: `MTY3NzY3NTAxMCwwMDAwMDAwMGU0MmRmYWFkY2ZkMGM5ODQ5YzdlZTFmNzU2YmQzMjU3`
+Snapshot ID: `MTY3NzY3NTAxMCwwMDAwMDAwMGI4YzljNTI3OWU4MDU2ZDFiYWYyNzNhMDczOGMyODA4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie dance and alternative hip\-hop for a mellow time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,553 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,849 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 99 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 |
 | 100 | [peppermint](https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC) | 2:12 |
 
-Snapshot ID: `MTY3NDE1NjczMCwwMDAwMDAwMGFlMGE0MzdiZDU4NzlkOTFhODA0MGNkM2ZjNmY2NTI2`
+Snapshot ID: `MTY3NDE1NjczMCwwMDAwMDAwMGEyOTgzNWE1YjE3NDgxMjYxNWU5MTU3NTFmNWZiZDNj`

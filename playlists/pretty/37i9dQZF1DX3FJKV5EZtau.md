@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electronic tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,178 likes - 125 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,218 likes - 125 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [Error Sound](https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1) | [SO\-SO](https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW) | [Error Sound](https://open.spotify.com/album/6SHBQsvgVsvadUIDdtbPal) | 2:50 |
 | 125 | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Paige Duché](https://open.spotify.com/artist/2tlmeCXC8LbHPgPZYDPgws) | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN) | 2:42 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDE3NGEwN2M2YjU0OTEzMWI3ODUzMjYwNGVkZDVkY2Zm`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDcxZjcxYTJmNWNhM2EwMjdkMzk5ZDUwMzU1NzNiNzE0`

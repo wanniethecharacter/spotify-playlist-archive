@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano. Aggiornata ogni venerd\u00ec. Villa, Linch, Andry, Tony, Slings e Mambo in cover.",
+  "description": "La casa dello street rap italiano. Aggiornata ogni venerd\u00ec. Cover: Russ Millions, Capo Plaza, Rondodasosa e Noizy",
   "name": "Street Culto",
   "tracks": [
     {
@@ -2839,6 +2839,28 @@
     },
     {
       "album": {
+        "name": "Lacrime (feat. Zeta Cooper) [D\u00e8sol\u00e8 RMX]",
+        "url": "https://open.spotify.com/album/0nRRbsuMaZ9bGoWkczXUqD"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        },
+        {
+          "name": "Zeta Cooper",
+          "url": "https://open.spotify.com/artist/6YiWOx2th8mcrKHgZhfkIs"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222506,
+      "name": "Lacrime (feat. Zeta Cooper) [D\u00e8sol\u00e8 RMX]",
+      "url": "https://open.spotify.com/track/4wjV4XQBpZuGEPVSgXdQPO"
+    },
+    {
+      "album": {
         "name": "LAPROVINCE #1",
         "url": "https://open.spotify.com/album/3THjA1Ova7s3TevMi65qTS"
       },
@@ -3066,6 +3088,24 @@
       "duration_ms": 154675,
       "name": "Michael Jackson",
       "url": "https://open.spotify.com/track/7vR3p9l16E6o0xWDTHH8EP"
+    },
+    {
+      "album": {
+        "name": "Minaccia",
+        "url": "https://open.spotify.com/album/0jBPzPKM05G6OyULtiaq9p"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161432,
+      "name": "Minaccia",
+      "url": "https://open.spotify.com/track/0RbhNJIb0vOtLbFlcBN3lx"
     },
     {
       "album": {
@@ -3394,7 +3434,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 159036,
       "name": "NON CI TORNI PI\u00d9 (feat. Paky)",
       "url": "https://open.spotify.com/track/7z8jf3dtJPXUxlc9xJCKEh"
@@ -3430,7 +3470,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 132311,
       "name": "Non \u00e8 un gioco",
       "url": "https://open.spotify.com/track/5ie6qbpqdvq637m91zl4an"

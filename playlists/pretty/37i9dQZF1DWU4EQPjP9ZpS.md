@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,543 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,771 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [SOULLL](https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg) | 2:56 |
 | 100 | [Happy](https://open.spotify.com/track/4pM8IKc8qGOnKyloJyKU0T) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO), [Dan Mason](https://open.spotify.com/artist/6PyfRFk5DQu2o0P74VA2ag) | [Baby, I Miss You](https://open.spotify.com/album/5SMFDE1yT4gjp9I0rIxBX5) | 2:56 |
 
-Snapshot ID: `MTY2NzU0MjAyOCwwMDAwMDAwMDZlYjdhYzhjMzAxYTdjMTVjMGI2ZTBhYmEwMWI1NGI3`
+Snapshot ID: `MTY2NzU0MjAyOCwwMDAwMDAwMDkzNjViNzhjMmRlYzdlODk1MmRjOGI3YzFkYWI4Y2E5`

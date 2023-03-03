@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  Orono\(Superorganism\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,754 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,790 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Taiyokohatsuden](https://open.spotify.com/track/6zt7BlGgdLF8aFkI87MECR) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [Taiyokohatsuden](https://open.spotify.com/album/6snu9BjWt7YslUxT1DXpxe) | 3:28 |
 | 50 | [Depression \- No Joy Remix](https://open.spotify.com/track/4Mv4PAsS2Q2bv8CJsTM9se) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Depression \(No Joy Remix\)](https://open.spotify.com/album/5akrcqcTzwHEJoB3OFGY9R) | 2:57 |
 
-Snapshot ID: `MTY3NzYwMjAyOCwwMDAwMDAwMGIzOGVhMjc1ZGFlYzhjY2FlYjQ5NTNkMzUzN2RlOGJl`
+Snapshot ID: `MTY3NzYwMjAyOCwwMDAwMDAwMGE4NmY2MTU5MmRkNDMwMTQ2ODc2NjI1YmE3YWFkMjA1`

@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Agent",
-  "num_followers": 75543,
+  "num_followers": 75712,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY0NDc2OSwwMDAwMDAwMGRiNDZhMDhmMTQ0N2E0YTk4ZDBiOTkzYTg0OTE5Y2Y5",
+  "snapshot_id": "MTY3Nzc0OTg2MywwMDAwMDAwMGNlYzBkN2MxMDA0MmEzOTMyNzY3NTUyZDVmMGQ1M2Ey",
   "tracks": [
     {
       "added_at": "2023-02-22 14:11:25",
@@ -171,6 +171,30 @@
       "duration_ms": 252775,
       "name": "Yedurangula Vaana",
       "url": "https://open.spotify.com/track/0l70yEnMGHPPZff7iLplnY"
+    },
+    {
+      "added_at": "2023-03-02 09:37:43",
+      "album": {
+        "name": "Adavilona Aadapilla (From \"Rebels of Thupakulagudem\") - Single",
+        "url": "https://open.spotify.com/album/4L0loyRvCzlxz7nrJrXUJN"
+      },
+      "artists": [
+        {
+          "name": "Dhanunjay Seepana",
+          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
+        },
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Jaideep Vishnu",
+          "url": "https://open.spotify.com/artist/3rUxrdFuzlGMEeqB5ObIRM"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Adavilona Aadapilla (From \"Rebels of Thupakulagudem\")",
+      "url": "https://open.spotify.com/track/1NQ3HJq5RklgerKBPW5RF4"
     },
     {
       "added_at": "2023-02-01 05:25:42",

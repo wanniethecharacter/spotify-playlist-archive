@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,541 likes - 200 songs - 17 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,592 likes - 200 songs - 17 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 199 | [Flying Eagle](https://open.spotify.com/track/0j0CeSiXCNqGsz7Ea92leu) | [Side Liner](https://open.spotify.com/artist/7sF8RuNYCpGngojCFcHAv4), [Aviron](https://open.spotify.com/artist/72TD3r8reGeogwogAJw01w) | [Out of Town, Vol\. 3](https://open.spotify.com/album/53bmYiZ9UByRK7kAYbrgC3) | 3:17 |
 | 200 | [Recuerdos del Futuro](https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il) | [Ishtarka](https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo) | [Recuerdos del Futuro](https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU) | 3:55 |
 
-Snapshot ID: `MTY3NjUwNTM2OSwwMDAwMDAwMDZiY2QyYmM1OTg3ZDQ2YmZjMGRmYTMyNGVlN2IzNjFl`
+Snapshot ID: `MTY3NjUwNTM2OSwwMDAwMDAwMDk3NWVlMzhhYzNmMzUyODEzYWIwNzVlMTY4MWU2NTBk`

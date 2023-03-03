@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain](/playlists/plain/4QuJ2DbcTe7R8lzqfNXz7v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4QuJ2DbcTe7R8lzqfNXz7v)
 
-### [Love Songs & Chill \| Valentine's Day](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v)
+### [LOVE SONGS & CHILL \| TOP 100 SONGS](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v)
 
 > The top 100 best love songs of this moment\. Dream away with the best love songs of right now\. ❤️
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 515,685 likes - 100 songs - 5 hr 59 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 515,651 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 | 99 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 |
 | 100 | [Half As Good As You \(feat\. Alice Merton\)](https://open.spotify.com/track/13XbTTKabl4zIeqvgwkNaU) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Half As Good As You \(feat\. Alice Merton\)](https://open.spotify.com/album/5bXH6L17xho74DMOmbKiSQ) | 3:30 |
 
-Snapshot ID: `NDYyNyxjODBmYmRiMTA2OGYxMDUxOWU5MjJiMDk3NTQxZTVmYzFhZjRhMzU1`
+Snapshot ID: `NDYyOSxkNWY0MGNlODI4NGFhNjllNmM1ZDQ2ODhjYmJkZGZjMzQxMTg1MDcw`

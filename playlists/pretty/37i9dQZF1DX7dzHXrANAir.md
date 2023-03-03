@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,329 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,477 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [Cluster \- Edit](https://open.spotify.com/track/6T6U15jco43HghuqfzCAeu) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Warren Zielinski](https://open.spotify.com/artist/1loplcQfx5Wsv5ksoqyj16), [Magnus Johnston](https://open.spotify.com/artist/0q6GRh7Wyvpgwx0X0Utp3D), [Matthew Denton](https://open.spotify.com/artist/1NsjYt5ZRHbU8L0PIXTn19), [Richard Blayden](https://open.spotify.com/artist/746KXEDGbfyKxDo53zyouZ), [Tom Pigott\-Smith](https://open.spotify.com/artist/7cDm7GQi00juXOwvOKZVbm), [Bryan Senti](https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR), [James Boyd](https://open.spotify.com/artist/0AwJMPW4t7pMBwZ2h072X1), [Eoin Schmidt\-Martin](https://open.spotify.com/artist/2Sxh5zlsGPIDw5TdEAL8Ax), [Meghan Cassidy](https://open.spotify.com/artist/3SSsqU0Pf1rI460eNysz8Q), [Stephanie Edmundson](https://open.spotify.com/artist/7oAYrvlchRvnvhvlE6Utji), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9), [Reinoud Ford](https://open.spotify.com/artist/5fVIkYGFnKyKO5CTphBoKO), [Ben Chappell](https://open.spotify.com/artist/5Bcr5JYvl4wiO9jvoDvH8F), [Tim Lowe](https://open.spotify.com/artist/4c6Gwxq0m60hm6dx4dnAqB), [Laurence Ungless](https://open.spotify.com/artist/5Zu3K7V958rfiOiNxRGO64), [Anthony Weeden](https://open.spotify.com/artist/3Sn9qNHNBzGuMW3b4V6o98) | [Patina](https://open.spotify.com/album/7aAavljDRxaxDMCq2c3YlV) | 2:41 |
 | 80 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 |
 
-Snapshot ID: `MTY3NzIxMTIwMCwwMDAwMDAwMGQ5ZTFiNGQzM2EwNzg5OWQ3NmEwYzUzYzZmY2VmOWVl`
+Snapshot ID: `MTY3NzIxMTIwMCwwMDAwMDAwMDcxZDhjNWFmNzM0YWQyNDgzNTY1OWRiNmY1OTNkMWRj`

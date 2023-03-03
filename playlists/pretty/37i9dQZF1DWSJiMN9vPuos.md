@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJiMN9vPuos.md) - [plain]
 
 > Where the past meets the present\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,706 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,719 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJiMN9vPuos.md) - [plain]
 | 49 | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/track/1IeCWMwZs4rCmwPOjZYWN7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/album/2DXRWlFTI8l2YvBD4iFUK8) | 3:03 |
 | 50 | [Bars Into Captions](https://open.spotify.com/track/6eN8UzHNYYf4IJaWkhecFS) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 2:47 |
 
-Snapshot ID: `MTY3NzI2ODc3MCwwMDAwMDAwMDg3ZmQ4OGExYTMzNDVkYzc1YzRiMDQ4ZjZhYzI4MTMz`
+Snapshot ID: `MTY3NzI2ODc3MCwwMDAwMDAwMGFiMGM5ZDk5ZTg2OTgzOWU3ZGUxZTRmNTY2YjFkMmE4`

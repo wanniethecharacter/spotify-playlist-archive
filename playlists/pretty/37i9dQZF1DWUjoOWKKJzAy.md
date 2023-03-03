@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,432 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,730 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Exagerado](https://open.spotify.com/track/6L5EaSYdQDLQHhaNPUlUs1) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 3:45 |
-| 2 | [Será](https://open.spotify.com/track/7hkQhMFq4EOTYwX3I7cgmA) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Legião Urbana](https://open.spotify.com/album/3wN9mC8YEdxn4VzdQINF1k) | 2:30 |
-| 3 | [Tempo Perdido](https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 5:02 |
-| 4 | [Sonífera ilha](https://open.spotify.com/track/1mK7rqBmWWFvU1huYnsPGq) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [84 94 \- Volume 1](https://open.spotify.com/album/7ve69fgxLJKauNa5cGelKV) | 2:54 |
-| 5 | [Pintura íntima](https://open.spotify.com/track/4s7Me2OrjR7tIeeiWmZnK5) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Geração Anos 80](https://open.spotify.com/album/3O0pVgRXK60WPrRVedzRem) | 4:25 |
-| 6 | [Olhar 43](https://open.spotify.com/track/1oar565TIGGsQXjAMoCJdK) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Revoluções por Minuto](https://open.spotify.com/album/1hbH0q0Ff3BRP2iuwLd5om) | 3:03 |
-| 7 | [Bete Balanço](https://open.spotify.com/track/3j7dPWGbvPBTLWiYvXOS95) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 3:33 |
-| 8 | [Meu Erro](https://open.spotify.com/track/6P694ZjCWctbgzgh9qAmW8) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [D](https://open.spotify.com/album/6sIIMLooMGuw7oEja7uWTe) | 4:03 |
-| 9 | [Pro Dia Nascer Feliz](https://open.spotify.com/track/58mbdqx8LXXwvujfnia35r) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 4:27 |
-| 10 | [Independência](https://open.spotify.com/track/4vFUs0A9jyeCZ6pwVBjs2g) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Flashback Anos 80](https://open.spotify.com/album/1mKCvVc1yy8WBKTrLkRYrq) | 3:04 |
-| 11 | [Infinita Highway](https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [A Revolta Dos Dandis](https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC) | 6:12 |
-| 12 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 |
-| 13 | [Me Chama](https://open.spotify.com/track/6YEs08eeTPKqODQV6TFI0t) | [Lobão E Os Ronaldos](https://open.spotify.com/artist/09RGwhs3waXp27qkYuNRap) | [Ronaldo Foi Pra Guerra](https://open.spotify.com/album/0KdU1xRKnsMO85sAfLZQBH) | 3:42 |
-| 14 | [Uns Dias](https://open.spotify.com/track/1n9CxdqkfJBG7Q801V8MA5) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Nacional Anos 80](https://open.spotify.com/album/2ZNp1JhzWK58RZirU9rlz2) | 4:04 |
-| 15 | [Todo Amor Que Houver Nessa Vida](https://open.spotify.com/track/175WlvkHzAeMgD2aXEZsiv) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 2:16 |
-| 16 | [Vital E Sua Moto](https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Cinema Mudo](https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV) | 3:11 |
-| 17 | [Família](https://open.spotify.com/track/7MFq7ihwl8ZolUaPCc4sKh) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Titãs \- iCollection](https://open.spotify.com/album/7sH8F9Nh0ud7Q4q4OrmV6A) | 3:33 |
-| 18 | [Dias de luta](https://open.spotify.com/track/3Yigtl1JHFsiSVpx4lr3l6) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7) | [Dose Dupla Ira!](https://open.spotify.com/album/3dU5eiwvDAj229oIBpbY6p) | 4:28 |
+| 2 | [Tempo Perdido](https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 5:02 |
+| 3 | [Meu Erro](https://open.spotify.com/track/6P694ZjCWctbgzgh9qAmW8) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [D](https://open.spotify.com/album/6sIIMLooMGuw7oEja7uWTe) | 4:03 |
+| 4 | [Infinita Highway](https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [A Revolta Dos Dandis](https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC) | 6:12 |
+| 5 | [Bete Balanço](https://open.spotify.com/track/3j7dPWGbvPBTLWiYvXOS95) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 3:33 |
+| 6 | [Sonífera ilha](https://open.spotify.com/track/1mK7rqBmWWFvU1huYnsPGq) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [84 94 \- Volume 1](https://open.spotify.com/album/7ve69fgxLJKauNa5cGelKV) | 2:54 |
+| 7 | [Pintura íntima](https://open.spotify.com/track/4s7Me2OrjR7tIeeiWmZnK5) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Geração Anos 80](https://open.spotify.com/album/3O0pVgRXK60WPrRVedzRem) | 4:25 |
+| 8 | [Será](https://open.spotify.com/track/7hkQhMFq4EOTYwX3I7cgmA) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Legião Urbana](https://open.spotify.com/album/3wN9mC8YEdxn4VzdQINF1k) | 2:30 |
+| 9 | [Vital E Sua Moto](https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Cinema Mudo](https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV) | 3:11 |
+| 10 | [Pro Dia Nascer Feliz](https://open.spotify.com/track/58mbdqx8LXXwvujfnia35r) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 4:27 |
+| 11 | [Dias de luta](https://open.spotify.com/track/3Yigtl1JHFsiSVpx4lr3l6) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7) | [Dose Dupla Ira!](https://open.spotify.com/album/3dU5eiwvDAj229oIBpbY6p) | 4:28 |
+| 12 | [Olhar 43](https://open.spotify.com/track/1oar565TIGGsQXjAMoCJdK) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Revoluções por Minuto](https://open.spotify.com/album/1hbH0q0Ff3BRP2iuwLd5om) | 3:03 |
+| 13 | [Independência](https://open.spotify.com/track/4vFUs0A9jyeCZ6pwVBjs2g) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Flashback Anos 80](https://open.spotify.com/album/1mKCvVc1yy8WBKTrLkRYrq) | 3:04 |
+| 14 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 |
+| 15 | [Me Chama](https://open.spotify.com/track/6YEs08eeTPKqODQV6TFI0t) | [Lobão E Os Ronaldos](https://open.spotify.com/artist/09RGwhs3waXp27qkYuNRap) | [Ronaldo Foi Pra Guerra](https://open.spotify.com/album/0KdU1xRKnsMO85sAfLZQBH) | 3:42 |
+| 16 | [Uns Dias](https://open.spotify.com/track/1n9CxdqkfJBG7Q801V8MA5) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Nacional Anos 80](https://open.spotify.com/album/2ZNp1JhzWK58RZirU9rlz2) | 4:04 |
+| 17 | [Todo Amor Que Houver Nessa Vida](https://open.spotify.com/track/175WlvkHzAeMgD2aXEZsiv) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 2:16 |
+| 18 | [Família](https://open.spotify.com/track/7MFq7ihwl8ZolUaPCc4sKh) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Titãs \- iCollection](https://open.spotify.com/album/7sH8F9Nh0ud7Q4q4OrmV6A) | 3:33 |
 | 19 | [Nem Luxo Nem Lixo](https://open.spotify.com/track/5Pn7ldcp8uOZmwPJ3rUf7b) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:05 |
 | 20 | [Ainda É Cedo](https://open.spotify.com/track/7uscfoAoI65JcSY4NyHg1t) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Legião Urbana](https://open.spotify.com/album/3wN9mC8YEdxn4VzdQINF1k) | 3:57 |
 | 21 | [Pra Começar \- Live](https://open.spotify.com/track/1EpWVld69yFDx3uVBryMTS) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Todas Ao Vivo](https://open.spotify.com/album/3g7J1aC0RKkCYVybsCXYC8) | 4:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 59 | [Totalmente Demais](https://open.spotify.com/track/6exOFodN8hAuPrD8NdXYN9) | [Hanoi Hanoi](https://open.spotify.com/artist/2TSkQV59O7ELjzRAsr13Kh) | [Hanoi\-Hanoi](https://open.spotify.com/album/16oTnKtddDj0aXdkDWkcSi) | 3:01 |
 | 60 | [Eu Não Matei Joana d'Arc](https://open.spotify.com/track/5I8DslpztOwOpwERbGGDTC) | [Camisa de Vênus](https://open.spotify.com/artist/6kJHpEjr5eNnVJeyfTbs3G) | [Batalhões de Estranhos](https://open.spotify.com/album/5Le2qjifHoAvAO0Yzl8E7T) | 3:45 |
 
-Snapshot ID: `MTY3NTc5ODMzOSwwMDAwMDAwMDIzM2ZiMWE4YjU0M2Y1Y2ZjYTBmNWM1ZjQ3ZTFkYjMx`
+Snapshot ID: `MTY3Nzc3NTU5NSwwMDAwMDAwMDY2OWM4OTA2ZTRjYzQyMzIwNGFhYmZkZGE3NmRhZjlj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,003,331 likes - 100 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,003,552 likes - 100 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 99 | [Round Midnight](https://open.spotify.com/track/77Ws7XMrgFRt0wAulJ6UHF) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Par\-Ola Landin](https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr), [Karl\-Henrik Ousbäck](https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV) | [Round Midnight](https://open.spotify.com/album/2Pu9QJRzryo3Nxy8Yej26u) | 6:19 |
 | 100 | [Once upon a Summertime](https://open.spotify.com/track/2L1aSsr9qqLIHjPpcKZWWK) | [Spiral TRIO](https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f) | [Broken Blue](https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX) | 10:21 |
 
-Snapshot ID: `MTY3NzU5NDQwMywwMDAwMDAwMDJkYWUzY2FiNWVkNzdiZTAzYWZmNGY1Nzg2OTE4Yjc4`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDFlNTI4NGNhYjBhZWU4ODRhZjI4YTk3NDU4MWU3MzU3`

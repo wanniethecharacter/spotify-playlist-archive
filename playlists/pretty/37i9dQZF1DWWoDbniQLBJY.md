@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Pop Acústico para tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,015,494 likes - 120 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,015,510 likes - 120 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 119 | [Soy capaz \- Versión Acústica](https://open.spotify.com/track/0EeZEQ51vHrG569kZocOKe) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Soy capaz](https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT) | 3:45 |
 | 120 | [Beirut](https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Beirut](https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH) | 2:31 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDE3ZWRkZDhiNmQwODVlYmYwNDMzZjY4OTA2YjgxYzRh`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDExZWNmZGVjNGVjMDgyZjA3YTQ1MmI3NzY4YTY5ZjMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,465 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,527 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 99 | [Severance](https://open.spotify.com/track/1Xb23c8l5v0syXyCcUmpPH) | [Mark Rushton](https://open.spotify.com/artist/3o7In5aHAnzK7WYGHY5Khx) | [There Are Always Other Possibilities](https://open.spotify.com/album/3VAhvgDUmBYGgUlS5jAliL) | 9:07 |
 | 100 | [We Search for the Lights](https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4) | [Sean Curtis Patrick](https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4) | [The Best Driving Music in the World Ever](https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj) | 4:10 |
 
-Snapshot ID: `MTY3NzI1OTgzMCwwMDAwMDAwMGNjNDZiMTFjNWExOGJhYjI4NjI1NzIzODU3NTA4YmY0`
+Snapshot ID: `MTY3NzI1OTgzMCwwMDAwMDAwMGZjZDY0ZjU4NDY1YzM3NTEwM2QyNjQ5N2IyNmQ5ZGQ2`

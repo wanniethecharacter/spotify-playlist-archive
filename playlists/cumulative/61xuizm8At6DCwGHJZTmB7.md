@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-244 songs - 23 hr 30 min
+245 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Hurry \- Live](https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Revival Nights \(Pt\. 2\) \[Live\]](https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21) | 6:30 | 2022-02-17 | 2022-06-10 |
 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 | 2022-02-17 | 2022-04-05 |
 | [I Am Not Alone \- Radio Version](https://open.spotify.com/track/3RBnnfWA4Q2AqNuwTDdDgz) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [I Am Not Alone \(Radio Version\)](https://open.spotify.com/album/2aCi5rvU3I7XslcZ5YyjjG) | 3:57 | 2022-05-27 | 2023-01-05 |
+| [I Am Not My Own \- Live](https://open.spotify.com/track/00YlUQ5LoLXX5qY5Tiii7j) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [I Am Not My Own \(Live\)](https://open.spotify.com/album/15xnklvOU7QJNFL0jDNho0) | 4:03 | 2023-03-02 |  |
 | [I See You](https://open.spotify.com/track/2SXrg51ciQMurVKgwTpatg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [I See You](https://open.spotify.com/album/4ZLqUbhVPHmY5QD1gbYEij) | 3:48 | 2022-02-17 | 2022-09-30 |
 | [I Will Praise \- Live](https://open.spotify.com/track/2sXOJ3WxrGVqEUKJd8PWg2) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Jesus People \(Live\)](https://open.spotify.com/album/10V5LjCgIz8fGay7cUGI8r) | 4:32 | 2022-02-17 | 2022-03-16 |
 | [I Will Worship](https://open.spotify.com/track/3c9VN31K4tglWcw5p1TMFa) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [I Will Worship](https://open.spotify.com/album/1Yzm9l3a0c46rVo3lRR2r1) | 3:52 | 2022-11-17 | 2023-01-05 |

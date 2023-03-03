@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,906 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,359 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 99 | [I´m Shipping Up To Boston](https://open.spotify.com/track/0GdvuRCPThuv4SYVaiw8ca) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Holiday At Lake Bodom, 15 Years of Wasted Youth](https://open.spotify.com/album/3XoY2CTmKFB0MdlKAOnXau) | 2:50 |
 | 100 | [The World Is Yours](https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:53 |
 
-Snapshot ID: `MTY3NTg3NTcxMCwwMDAwMDAwMDAzMDA5N2MxM2FkYzNiZTVmZWNhYzYxNTU3OGFlNzMz`
+Snapshot ID: `MTY3NTg3NTcxMCwwMDAwMDAwMDJhNmZkY2JkYmQ5NDdhZTA4YzkyODgzYjcxZDk3MTQ5`

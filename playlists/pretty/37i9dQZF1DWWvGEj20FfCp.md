@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Inspired by the latest Nike x Ambush collaboration, Creative Director Yoon, curates a playlist to kick off NYFW.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,855 likes - 51 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,957 likes - 51 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 50 | [Terminator](https://open.spotify.com/track/1l0UpKKk4JoNSgiAU3jXUU) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Rufige Kru](https://open.spotify.com/artist/36kYq0d66eHa4Zz8iNkPFS) | [Fabio & Grooverider: 25 Years of Drum & Bass](https://open.spotify.com/album/1FHMZEpgqTR869J27inlbY) | 4:14 |
 | 51 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 |
 
-Snapshot ID: `MTY3NjA1MTYwMSwwMDAwMDAwMDRmOWI4OThlYWU4NmFmNjk3YTM1MGRkZjJkNWRkMWUx`
+Snapshot ID: `MTY3NjA1MTYwMSwwMDAwMDAwMDYxZDdlNTRlYWY0MzE0MDE5Y2Q0YjU3ODBkMjY2ODE2`

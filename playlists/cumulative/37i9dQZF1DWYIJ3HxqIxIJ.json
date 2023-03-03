@@ -3064,7 +3064,7 @@
     {
       "album": {
         "name": "Sofa King",
-        "url": "https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo"
+        "url": "https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk"
       },
       "artists": [
         {
@@ -3075,6 +3075,24 @@
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J"
+    },
+    {
+      "album": {
+        "name": "Sofa King",
+        "url": "https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-03",
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP"
@@ -3454,6 +3472,24 @@
       "duration_ms": 192103,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
+    },
+    {
+      "album": {
+        "name": "Things Aren't Nice In Paradise",
+        "url": "https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191788,
+      "name": "Things Aren't Nice In Paradise",
+      "url": "https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt"
     },
     {
       "album": {

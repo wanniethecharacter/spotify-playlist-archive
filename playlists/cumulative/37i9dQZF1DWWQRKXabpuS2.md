@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: أصالة نصري
 
-200 songs - 13 hr 41 min
+201 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Maskeen](https://open.spotify.com/track/6y8LpdByQROHKQMTNv7pPe) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Maskeen](https://open.spotify.com/album/6fn1Xqlur9ssQxrfSQKRdv) | 4:11 | 2022-10-10 |  |
 | [Mawed Eyonk](https://open.spotify.com/track/7aq0vVJxIfEJBl0Nca2Yfq) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Mawed Eyonk](https://open.spotify.com/album/2f6Pbb9qmPx9PEkOULDmOn) | 5:21 | 2022-08-24 |  |
 | [Mawsem Maha](https://open.spotify.com/track/45IA9bg8QtbaqL6m7oaKAp) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Mawsem Maha](https://open.spotify.com/album/4eeA89peS2KWfn7zJqe4O3) | 8:25 | 2022-06-02 | 2022-11-08 |
+| [Meakazi](https://open.spotify.com/track/741uYkXXCTT4caVBmS2wqU) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Rabeh Saqer 2023](https://open.spotify.com/album/16HTEpOwjdgVVZ3T6gnFTW) | 4:57 | 2023-03-02 |  |
 | [Men Jadak](https://open.spotify.com/track/0hjzEKv9FxKyb3YjQKt1EA) | [Mahmoud](https://open.spotify.com/artist/1i4PKo462Ma0SDEftSy7my) | [Men Jadak](https://open.spotify.com/album/4hbA5msjAqadBoxSjmZRho) | 4:00 | 2022-06-13 | 2023-01-10 |
 | [Men Twadaana](https://open.spotify.com/track/32PvqSteo1Soty0xd4Ojkk) | [Marwan Fagi](https://open.spotify.com/artist/6jX88gTjWQ2vmswdN1n5TH) | [Men Twadaana](https://open.spotify.com/album/34XzgcFeoIZ2h3cMjpFQLQ) | 7:51 | 2022-06-04 | 2023-01-10 |
 | [Min Ant](https://open.spotify.com/track/26PF0qiTHTJtriWMqc5sht) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Min Ant](https://open.spotify.com/album/5G64uDVMeCjIrzUFRlMlVa) | 4:54 | 2022-08-18 | 2023-02-25 |
@@ -158,7 +159,6 @@
 | [This Is Our Time](https://open.spotify.com/track/0yG7cff6yTcV58dVgAr8NB) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [Mayssa Karaa](https://open.spotify.com/artist/1IsHfx3tpJaUzDNRbMULzU) | [This Is Our Time](https://open.spotify.com/album/5iKUOQN1GjVQ7nYFk9VZHI) | 4:06 | 2021-12-23 | 2022-02-11 |
 | [Wa Melha Wa Zenah](https://open.spotify.com/track/365AtYjRoVs31lH6eLfsOQ) | [Faissal Ben Khalid](https://open.spotify.com/artist/3n0tXmQ0nInop0zTYGfYSZ) | [Wa Melha Wa Zenah](https://open.spotify.com/album/5zWcspJbXEb1dSwhcIAUsk) | 3:51 | 2021-12-23 | 2022-06-04 |
 | [Wahshni](https://open.spotify.com/track/7qXJDw6ucdCPRPXYSDRdBX) | [Essa Alwad](https://open.spotify.com/artist/5EZ7zMZU3c0JMHq0yczerM) | [Wahshni](https://open.spotify.com/album/6NHVn2BIPCjj5mHuWLqLKV) | 4:03 | 2022-06-02 | 2022-11-15 |
-| [Wainah](https://open.spotify.com/track/5wglb4bSdNs2bdPqCRq0iZ) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Wainah](https://open.spotify.com/album/5onbD11TjYBvvotTzH1XQj) | 5:06 | 2023-02-07 |  |
 | [Walhat Wjet](https://open.spotify.com/track/6SHgMFXfzUdJg71xZqzAeJ) | [Abdulkader Alahmed](https://open.spotify.com/artist/7fpdcwPFWY9cOWQfEKKIbk) | [Walhat Wjet](https://open.spotify.com/album/3K5AxP8THalYPGOuzJk1UA) | 2:22 | 2021-12-23 | 2022-06-04 |
 | [Wayn Ma Wayn](https://open.spotify.com/track/1kqMk4SFhqjURfdHaZHP5k) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g) | [Wayn Ma Wayn](https://open.spotify.com/album/527Um3zJpKjclamlE7OGuS) | 3:16 | 2022-03-03 | 2022-08-13 |
 | [Weddi Aeref](https://open.spotify.com/track/2zpd1Epv2gf5MUTtMCuaMv) | [Abdullah Salim](https://open.spotify.com/artist/0AVcYHRYw4hsEyXmaZMedz) | [Weddi Aeref](https://open.spotify.com/album/0GGhAFHqI12OYD0TX0frVl) | 4:04 | 2021-12-23 | 2022-05-14 |
@@ -203,6 +203,7 @@
 | [وصلنا](https://open.spotify.com/track/5x30FoNuMhL1dzwrSbDpEm) | [VO](https://open.spotify.com/artist/4QII96v2C63K9PaG6k8aby), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [وصلنا](https://open.spotify.com/album/1vrIcCOg50amkJ8OgdxI4a) | 3:39 | 2021-12-23 | 2022-04-01 |
 | [وفر الأعذار](https://open.spotify.com/track/4U0DuUjKUOnRLrY7iBQ3kU) | [فرقة أبناء المزاريع الحربية](https://open.spotify.com/artist/3fs6zGBIqV7MzH4auGofUF) | [وفر الأعذار](https://open.spotify.com/album/1I5PJKpBsEyash9Yu3kqgz) | 5:24 | 2023-02-02 |  |
 | [ولا غلطة](https://open.spotify.com/track/1Htw7lMJaoL7Wg1o1oh3rK) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [ولا غلطة](https://open.spotify.com/album/4BBuPUUSsT8qkatKvZJb33) | 4:35 | 2022-05-25 | 2022-12-06 |
+| [وينه](https://open.spotify.com/track/5wglb4bSdNs2bdPqCRq0iZ) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [وينه](https://open.spotify.com/album/5onbD11TjYBvvotTzH1XQj) | 5:06 | 2023-02-07 |  |
 | [يا طير \(feat\. Daffy\)](https://open.spotify.com/track/0sq1pHRicXP7CyuDg9N9lo) | [Bashar AlShatti](https://open.spotify.com/artist/6fqcvzx5yorkIOK2HwL9hU), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [يا طير \(feat\. Daffy\)](https://open.spotify.com/album/3wSmueX8VqBpdriZXGLgqP) | 3:25 | 2023-01-03 |  |
 | [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 | 2021-12-23 | 2022-02-18 |
 | [يازين هالجيه](https://open.spotify.com/track/0R1y22OeP2EStqbdfrFa9x) | [Abdulqader Alahmad](https://open.spotify.com/artist/56J4yjD5UrNZPcAq3yzooQ) | [يازين هالجيه](https://open.spotify.com/album/5Jn4v55CHq7Mne9zrk35hY) | 4:14 | 2021-12-23 | 2022-03-12 |

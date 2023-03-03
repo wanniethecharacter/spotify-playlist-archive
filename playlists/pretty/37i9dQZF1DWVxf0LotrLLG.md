@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: TINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,755 likes - 102 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,880 likes - 102 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 101 | [Si La Ves](https://open.spotify.com/track/5tEw2szqiBIEnCKMOPFnfR) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 3:48 |
 | 102 | [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDZlYTVhYjBjOWI1MjA5MGJmNzRmMzQyNTUzOTI4NWNj`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDlhZDRhNmZkZTk5NzU3NDRiYzgwMGU5ODQwODIxMjUx`

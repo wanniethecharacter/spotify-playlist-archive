@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl?si=BviskDqxQW-iSertWWgiVA\"> Kuami Eugene</a>  and  <a href=\"https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf?si=mhjY-We8Rhe89DSFpam0KA\"> Rotimi</a>  ",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi?si=BlraLf2eQtqbgRSe9JEpTA\"> Camidoh </a>  ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 174314,
       "name": "Anigye On A Daily",
       "url": "https://open.spotify.com/track/1R8hIgoz8CTH9DpVA9Y6vZ"
@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/3CkYnVyY3U8ALa3aBUtNST"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187245,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/4ccPHOzBCiCoBxilT5b00V"
+    },
+    {
+      "album": {
         "name": "Billionaire",
         "url": "https://open.spotify.com/album/4u2kjSO5FlYAp2GC8MzWaH"
       },
@@ -318,6 +336,28 @@
       "duration_ms": 204210,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/3qBGf7ZlkiT9FRgxigUYOT"
+    },
+    {
+      "album": {
+        "name": "Builsa Gokta",
+        "url": "https://open.spotify.com/album/4OSfmT3xCqTljt6P5Ptb1I"
+      },
+      "artists": [
+        {
+          "name": "Avit",
+          "url": "https://open.spotify.com/artist/1pWNPxR4s1pbNP9bouFeqO"
+        },
+        {
+          "name": "Sherifa Gunu",
+          "url": "https://open.spotify.com/artist/3vO8pRBAjzQzcn4BsT8ZbL"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276106,
+      "name": "Builsa Gokta",
+      "url": "https://open.spotify.com/track/0Ld8ZIx3vp1IgfxQ0ZiV3f"
     },
     {
       "album": {
@@ -464,7 +504,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 213870,
       "name": "CHOPLIFE (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
@@ -770,6 +810,24 @@
       "duration_ms": 237374,
       "name": "Fakye",
       "url": "https://open.spotify.com/track/4mQfRdTt9CLowA0UgLaLfj"
+    },
+    {
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/5C26tljU3oYAkLBqh6mNMi"
+      },
+      "artists": [
+        {
+          "name": "Larruso",
+          "url": "https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159268,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/7l9vMTJJpeRwCJh5dSSAkW"
     },
     {
       "album": {
@@ -1712,7 +1770,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 225515,
       "name": "Papabi",
       "url": "https://open.spotify.com/track/0u1w6JiN1ApGtWwDLXY2dD"

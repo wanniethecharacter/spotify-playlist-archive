@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,291 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,332 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Walkaway Joe \- The Bootlegger Sessions](https://open.spotify.com/track/4Pg5xIAXIKrNKagZfvCnUV) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Walkaway Joe \(The Bootlegger Sessions\)](https://open.spotify.com/album/1dLhjR5af52TO7IVZeOqIw) | 3:24 |
-| 2 | [Anti\-Hero \(Country Version\)](https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Anti\-Hero \(Country Version\)](https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW) | 3:10 |
+| 2 | [Anti\-Hero \- Country Version](https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Anti\-Hero \(Country Version\)](https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW) | 3:10 |
 | 3 | [Cover Me Up](https://open.spotify.com/track/0mKnuxVkPi5h0kuvZl44VM) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 4:53 |
 | 4 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 |
 | 5 | [cowboy take me away](https://open.spotify.com/track/46Qrlkk74beV2EUTmGKLRg) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [if i ever get there: a day at blackbird studio](https://open.spotify.com/album/4N6uVFBQiz6x4UqRmClANc) | 4:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 |
 | 100 | [Just to See You Smile](https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Just to See You Smile](https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA) | 4:29 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGI5ZGU1NWEzNGI5NjEwNWE4NTViZTIyNmE4MTJjYWQ0`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDA0YzU1NDdjZmYyYjU3MTdjMDQ4OTZiMTdmNWQ4M2Rj`

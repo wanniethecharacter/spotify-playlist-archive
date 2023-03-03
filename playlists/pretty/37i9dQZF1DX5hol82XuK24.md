@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,111 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,216 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 84 | [Jim, Let's Play](https://open.spotify.com/track/5cfURqfJGCi5EvCmJsDCtl) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Jim, Let’s Play](https://open.spotify.com/album/35qMY153LTQElVMozKvPY6) | 3:04 |
 | 85 | [Track X](https://open.spotify.com/track/7oPKmDtDC8DLx2lN50JvGc) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Track X](https://open.spotify.com/album/1to5nlqVrZzV3X5iJ8qf7t) | 4:44 |
 
-Snapshot ID: `MTY3MTY2NDI1NSwwMDAwMDAwMDU2NmQ1ODE2ODg3NDFhNjRkZjRmMzM1NGYxNzljY2U4`
+Snapshot ID: `MTY3MTY2NDI1NSwwMDAwMDAwMDRlYTczZmU3Y2UzZTY2NWYyYjJhN2E4OTI1NDliYmVh`

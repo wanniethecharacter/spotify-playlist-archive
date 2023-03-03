@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,103 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,190 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 99 | [Whine Up \(feat\. Elephant Man\) \- English Version](https://open.spotify.com/track/6Avndj1UPQLwR2qqzDwZBc) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP), [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [9 Lives](https://open.spotify.com/album/3Talg3a0AmXfiV4FlV3ZjL) | 3:25 |
 | 100 | [Felicidad](https://open.spotify.com/track/5BAbezIjIvHR4VOMECrIv9) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Felicidad](https://open.spotify.com/album/62sFaXABrQ6potGL10NAtl) | 3:17 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDIzNzcwMDI5YWIyMWQ5YjcyM2RjYjM2N2JhODc2MWRh`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGUyOTNiZWVhZjllNGRjYjBhNzdmMTJmN2RkMmMyNWFm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,750 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,752 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Loin](https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:33 |
 | 100 | [back](https://open.spotify.com/track/5TyT9YnF3S0Z4DfqUSO96b) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ) | [wesh](https://open.spotify.com/album/12eqi4scCGaiOQRJkR2ZfF) | 2:50 |
 
-Snapshot ID: `MTY1NjUyNzU5MCwwMDAwMDAwMGJmNGNiZDVhZGU2MzdjM2U1OGU0YzkxMjU1MDUzYmUw`
+Snapshot ID: `MTY1NjUyNzU5MCwwMDAwMDAwMGE2MTI5ZGZkODEwOGQ0NDc4Y2NkODdjNzg3N2Q0YWY2`

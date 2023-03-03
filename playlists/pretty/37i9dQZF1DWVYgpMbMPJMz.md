@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,186 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,317 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [Standing Tall](https://open.spotify.com/track/0f70HVrBcF6cVHy6MvvmIy) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Standing Tall](https://open.spotify.com/album/79NlmToigH5fSiDONEeeWP) | 4:56 |
 | 100 | [Crying Holy \(Klippan\)](https://open.spotify.com/track/6u9bJLenNvDSN0Cz6fLfld) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Crying Holy \(Klippan\)](https://open.spotify.com/album/3elIMNvjaGiB0ENHdrp9gs) | 4:18 |
 
-Snapshot ID: `MTY3NzI0MDg2NSwwMDAwMDAwMDg5YmIwYjgyMzAwZWY4MjcxNmNmNDRlZDM0ODRmNTc2`
+Snapshot ID: `MTY3NzI0MDg2NSwwMDAwMDAwMGVlNGIyNmIxNDhjZmUzZGI2YTEyZDI0OTAyNjAxYjlh`

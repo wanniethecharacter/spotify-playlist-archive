@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,710 likes - 150 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,121 likes - 150 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 149 | [Power Light](https://open.spotify.com/track/2jyAfwmsqF6wynsf70zIUQ) | [Æ7](https://open.spotify.com/artist/68Rpj4TxoMVq6JRyH13UAO) | [Power Light](https://open.spotify.com/album/4rCh8RUK2Me7KY7y6zafQg) | 4:21 |
 | 150 | [The Mansion](https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Lost Tracks Katana Zero](https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB) | 2:14 |
 
-Snapshot ID: `MTY3NTk0NjEwNSwwMDAwMDAwMGIzMWQyZGMyZGJhM2I2MzJmYzc3YzQ5NDk2MmIzZWEz`
+Snapshot ID: `MTY3NTk0NjEwNSwwMDAwMDAwMDFlY2Y4NzI0OTY4MmEyY2M1M2JiYjNmNjQ0NmFjOTgy`

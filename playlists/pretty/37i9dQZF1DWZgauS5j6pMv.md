@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: MonoNeon
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,733 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,883 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 6 | [CAN'T GO HOME](https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR) | [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [CAN'T GO HOME](https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc) | 2:52 |
 | 7 | [Like, Maybe](https://open.spotify.com/track/18UpaCZZX1daAljhgpUd0R) | [Kalu & The Electric Joint](https://open.spotify.com/artist/1OQOcvFKUjJLSHC5gdAkbt) | [Like, Maybe](https://open.spotify.com/album/0WqzN6rft3aP7MA3SNSodv) | 3:35 |
 | 8 | [Glory](https://open.spotify.com/track/61ZLT78FfbZr3nTqqFUq93) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Glory](https://open.spotify.com/album/4yBRMfmiR5d41kqA86qB9F) | 2:33 |
-| 9 | [How Happy](https://open.spotify.com/track/5e6B2DLbg9ISk7aXbabnpG) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA) | [How Happy](https://open.spotify.com/album/4Dzbfu5IH9G5I0CpqZVutY) | 4:00 |
+| 9 | [How Happy](https://open.spotify.com/track/5e6B2DLbg9ISk7aXbabnpG) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [How Happy](https://open.spotify.com/album/4Dzbfu5IH9G5I0CpqZVutY) | 4:00 |
 | 10 | [lockdown](https://open.spotify.com/track/6JvM4RyaFmEdiV58dpv1Jr) | [GARDENA](https://open.spotify.com/artist/0HjFA96a8v0dDyN58HGhrB), [Ethan Dufault](https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ) | [lockdown](https://open.spotify.com/album/6ZgBNr3doJZ1IIWjB9snwZ) | 3:21 |
 | 11 | [Real Good](https://open.spotify.com/track/1g8a0OQ17VNbBQ518OFiVu) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [Real Good](https://open.spotify.com/album/4ohTe605nVMKNPeDZfxihB) | 3:19 |
 | 12 | [New Guru](https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:24 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 46 | [Fool For You](https://open.spotify.com/track/3quWT2PJG1tbS1Q7T5yLKK) | [Apollo Theo](https://open.spotify.com/artist/4gdIEqgsdPdiAyNyArsLRz), [Jaz Lund](https://open.spotify.com/artist/76wFPyb3pS7rjiDOJOeS7P) | [Fool For You](https://open.spotify.com/album/6rc9d2SLCNCHqAsmqyfYq4) | 2:12 |
 | 47 | [Just One Of Those Days](https://open.spotify.com/track/7Cj3KziZ8nuZpM1LD56fgL) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Just One Of Those Days](https://open.spotify.com/album/1MAYtAvrKCnbnK5GWKQyfb) | 3:22 |
 | 48 | [henny & patron](https://open.spotify.com/track/4M2V3bNCMeOAgTCpAQckP5) | [Ben Yen](https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ) | [henny & patron](https://open.spotify.com/album/6vHrw5zCi73swThT9N4EIP) | 2:18 |
-| 49 | [Here You Are](https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/5FLfZyi6mP2tvQJjmcSqpL) | 3:08 |
+| 49 | [Here You Are](https://open.spotify.com/track/0ihNcF29gXIVvzknTpuvZl) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/0l4MKvhtXCavnpHgUROcLh) | 3:08 |
 | 50 | [Maintain \- Jafunk Remix](https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Maintain \(Jafunk Remix\)](https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq) | 3:13 |
 | 51 | [BURN YOU OUT](https://open.spotify.com/track/6XTiMdM4asDBoJlZ6VTmUR) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 1](https://open.spotify.com/album/6qMZQhxycxbNmswW4bEfim) | 3:04 |
 | 52 | [Pressure](https://open.spotify.com/track/6R8q5huZOkxRUdbq3JsTDp) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Pressure](https://open.spotify.com/album/0tIlSRHdKJQ1ABFNClsglz) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Twilight](https://open.spotify.com/track/6y0jJFscEgEpxrhkneLKNE) | [David Ward](https://open.spotify.com/artist/5hTGrHGP3OEBF7VFrjWZS2) | [LoZ](https://open.spotify.com/album/08jGGGBK5GehlAype4ZVIH) | 3:47 |
 | 100 | [Serious](https://open.spotify.com/track/4KBre2WIZFFEc2vaxtRZh1) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Serious](https://open.spotify.com/album/3yf6c1lKyyIBPu79loR1tf) | 4:04 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGRiYTdmYzY4ZTc1OTU3ZDAyYjY1ZWQwNGVkZWIzNWQy`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDhiY2ZhMjgwYmQxNWRlY2UyMTA3YzNlZDQ0NGUyYTQ2`

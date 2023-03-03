@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,545 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,630 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 99 | [Ahwak \(feat\. Lotfi Bouchnak\)](https://open.spotify.com/track/2ChYfZwRqh3Es64zijiaM1) | [Tosca](https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu), [Lotfi Bouchnak](https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z) | [Morabeza](https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY) | 3:37 |
 | 100 | [Fasl](https://open.spotify.com/track/0hylQMqabreoX3yi9Tfk8M) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Daba](https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R) | 4:32 |
 
-Snapshot ID: `MTY3NzIzMjkyOCwwMDAwMDAwMDI2OWQ0YjY0MGJkNWEwNTZiNGU5NTAyY2U3ODJlNGZj`
+Snapshot ID: `MTY3NzIzMjkyOCwwMDAwMDAwMGEyZTk1ZGUxMzgyYzA4Y2M0OTY0MWZlNDM5YzUxY2Y0`

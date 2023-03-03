@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > Classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,177 likes - 150 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,767 likes - 150 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 149 | [Georgy Girl](https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Seekers](https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4) | 2:20 |
 | 150 | [Dream Lover](https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:30 |
 
-Snapshot ID: `MTY3MjI5NDg4OCwwMDAwMDAwMDJhYjc1ZjhmODA4YWQ1MWY5YzQ1MDliYWExOGQ4Nzlj`
+Snapshot ID: `MTY3MjI5NDg4OCwwMDAwMDAwMDdkODM3ODg4YmQ1ZGE0OTZjNWFlMjU2ZTAxODA4MWQ2`

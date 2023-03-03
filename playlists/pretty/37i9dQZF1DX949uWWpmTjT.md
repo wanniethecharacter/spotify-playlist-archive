@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,632 likes - 300 songs - 19 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,275 likes - 300 songs - 19 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -299,14 +299,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 289 | [For Heavens Sake](https://open.spotify.com/track/0RhYQmwfGzHDBV3K8MaMDq) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 3:47 |
 | 290 | [Sweetness](https://open.spotify.com/track/3xvd1bC0V1U3nQ24y2nBk8) | [Christian Jacob](https://open.spotify.com/artist/27N1tGShltXJPjzwxs9eMZ), [Darek Oleszkiewicz](https://open.spotify.com/artist/1j4llYRtsnwcHIM0SrDstl), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [New Jazz Standards Vol 5 • the Music of Carl Saunders](https://open.spotify.com/album/5KcV3e2Dl3fQ1DngCZZITn) | 4:48 |
 | 291 | [Nightingale](https://open.spotify.com/track/38JakPibJCWbVKbR9vwGAR) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Nightingale](https://open.spotify.com/album/3m85BUKWPRjMKLw2mc4w1C) | 3:39 |
-| 292 | [The Sun Forgot To Shine This Morning](https://open.spotify.com/track/1PFa49yuGnGXRrHcuvE3Fx) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Lonely Lovers](https://open.spotify.com/album/7C0U90ZfIzSYNpPu4gFyzD) | 2:40 |
-| 293 | [Willow Weep For Me](https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:06 |
-| 294 | [BENEDICTION](https://open.spotify.com/track/1WVJQYCwg6I2a0gATnQEAH) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [The Parable Of The Poet](https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD) | 5:44 |
-| 295 | ['Tis Autumn](https://open.spotify.com/track/4Gv9rfzkqUZp3iE3JBTcd6) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 9:07 |
-| 296 | [Jitterbug Waltz](https://open.spotify.com/track/1ypXqJHbK7e2gxbXUUI5kt) | [Mark Lewandowski](https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N), [Paul Clarvis](https://open.spotify.com/artist/55yNRgOKReYCobfF0JTEKQ) | [Waller](https://open.spotify.com/album/5Tm4fXny7i9zeHOKABUx2X) | 6:16 |
-| 297 | [Homecoming](https://open.spotify.com/track/4X41g2qYikss19onM4xH6F) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Homecoming](https://open.spotify.com/album/5BR5Q9CvBdD1zXepyCyTQs) | 7:09 |
-| 298 | [I Love You, Porgy](https://open.spotify.com/track/5ZtELfV43r3kuRLPYYjJ4M) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok), [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [Jesper Kviman](https://open.spotify.com/artist/10f7IHwc88tJueFB8iM6hR) | [Porgy & Bess](https://open.spotify.com/album/4BuinnHGlzLgX3t21dVquR) | 2:30 |
-| 299 | [The Party's Over](https://open.spotify.com/track/5M5dFQKaqNngU4ZrUZqEGP) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [The Party's Over](https://open.spotify.com/album/5uMRjgzJg7elvCKNdjsm3n) | 2:50 |
-| 300 | [Words Can't Describe](https://open.spotify.com/track/2ZVo4KkwzAWImTGirpOt6P) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 4:35 |
+| 292 | [Willow Weep For Me](https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:06 |
+| 293 | [BENEDICTION](https://open.spotify.com/track/1WVJQYCwg6I2a0gATnQEAH) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [The Parable Of The Poet](https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD) | 5:44 |
+| 294 | ['Tis Autumn](https://open.spotify.com/track/4Gv9rfzkqUZp3iE3JBTcd6) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 9:07 |
+| 295 | [Jitterbug Waltz](https://open.spotify.com/track/1ypXqJHbK7e2gxbXUUI5kt) | [Mark Lewandowski](https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N), [Paul Clarvis](https://open.spotify.com/artist/55yNRgOKReYCobfF0JTEKQ) | [Waller](https://open.spotify.com/album/5Tm4fXny7i9zeHOKABUx2X) | 6:16 |
+| 296 | [Homecoming](https://open.spotify.com/track/4X41g2qYikss19onM4xH6F) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Homecoming](https://open.spotify.com/album/5BR5Q9CvBdD1zXepyCyTQs) | 7:09 |
+| 297 | [I Love You, Porgy](https://open.spotify.com/track/5ZtELfV43r3kuRLPYYjJ4M) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok), [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [Jesper Kviman](https://open.spotify.com/artist/10f7IHwc88tJueFB8iM6hR) | [Porgy & Bess](https://open.spotify.com/album/4BuinnHGlzLgX3t21dVquR) | 2:30 |
+| 298 | [The Party's Over](https://open.spotify.com/track/5M5dFQKaqNngU4ZrUZqEGP) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [The Party's Over](https://open.spotify.com/album/5uMRjgzJg7elvCKNdjsm3n) | 2:50 |
+| 299 | [Words Can't Describe](https://open.spotify.com/track/2ZVo4KkwzAWImTGirpOt6P) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 4:35 |
+| 300 | [La part des anges](https://open.spotify.com/track/5QJNVrABmfDW0g4EDVAR89) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [53](https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9) | 3:36 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDk1MWQyYTA3YzUzNWUxYmVmNzhmOWIyNzg5ZTJiOTdm`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDgzMjllY2Q1N2Y4MmI3NWNlYzQ4ODAxMzlhMjI3ZDky`

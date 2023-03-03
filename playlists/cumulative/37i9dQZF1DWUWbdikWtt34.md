@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Sridevi
+> Dendang Dangdut teratas\. Cover: RaRa
 
-78 songs - 5 hr 54 min
+80 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,10 +54,12 @@
 | [Milik Orang](https://open.spotify.com/track/3ZYBj5Dt4gfDA5BdjJep2R) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [DANGDUT TERBAIK HAPPY ASMARA](https://open.spotify.com/album/1Jo6c8Zuw6FUvuHyREYTFG) | 4:34 | 2022-10-13 |  |
 | [MILIK ORANG](https://open.spotify.com/track/4eV2IIMNfS8SO5nvmsMZ37) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [MILIK ORANG](https://open.spotify.com/album/42JxMwHI7LXX9a6q8gNV1O) | 4:34 | 2021-08-23 | 2022-07-29 |
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2021-08-23 |  |
+| [Nabi Al\-Rahma](https://open.spotify.com/track/5WTrVpfTtTWbf6qTSK66uz) | [Cici Faramida](https://open.spotify.com/artist/0v8CnbaMT0JN6DHYkGLvee), [Siti Rahmawati](https://open.spotify.com/artist/1BJ8zCKlrCsxehDeKUABgi) | [Nabi Al\-Rahma](https://open.spotify.com/album/1D6VkBs8TSfpZr6t0MjE8c) | 4:10 | 2023-03-02 |  |
 | [Nostalgia](https://open.spotify.com/track/31JvGZJBhZWUijQvLBqwCG) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Nostalgia](https://open.spotify.com/album/5I3UANRadKoF3ZuXXwjFD0) | 4:19 | 2023-01-26 |  |
 | [Ojo Dibandingke](https://open.spotify.com/track/2BIQGFkSLWl0SPRxaPR48Z) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Dibandingke](https://open.spotify.com/album/1R0NoljKSKaY6Pc025aRam) | 5:18 | 2022-10-13 |  |
 | [Ora Masalah](https://open.spotify.com/track/6QltkHtHO3XSl4w78rD5yV) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Ora Masalah](https://open.spotify.com/album/3CIYsMMFhjmGiNNLm587F0) | 4:21 | 2021-08-23 |  |
 | [Pamer Bojo](https://open.spotify.com/track/6YbECT4fvOJE1CdvisQURa) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Pamer Bojo](https://open.spotify.com/album/7BJWsDmLqH8bWqIlzrqCxn) | 4:54 | 2021-08-23 |  |
+| [Pangeran Dunia](https://open.spotify.com/track/6FKqTPo7Bpeptacrs6jNxJ) | [RaRa](https://open.spotify.com/artist/3zjsGks8xVJdz2E1UzYFxy) | [Pangeran Dunia](https://open.spotify.com/album/2Rt6yiEswcKsqz7sJV7xac) | 5:41 | 2023-03-02 |  |
 | [Pas Sayang Sayange](https://open.spotify.com/track/2kqTWTajdr0t4PQfeOkcnp) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Pas Sayang Sayange](https://open.spotify.com/album/17QcdedIFHIn2Lns6dLSjc) | 4:48 | 2021-08-23 |  |
 | [Pasrah](https://open.spotify.com/track/5PjYZaJLP6g0iZJq7xWlLb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Pasrah](https://open.spotify.com/album/7JPYB9gYfYyu2vCBmwVnRP) | 5:08 | 2021-08-23 |  |
 | [Pergi](https://open.spotify.com/track/6QCnymtBJNwdv6pIipGk4T) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Pergi](https://open.spotify.com/album/1VDEAgE1vlNpwTrBbpSG2Y) | 4:06 | 2021-08-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,323 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,779 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Rolling Stone](https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Rolling Stone](https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8) | 2:49 |
 | 100 | [Miracles](https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:16 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGQ5M2Y4ZGE5OWY1ZWNkZWU3NGFkNTc0MmZjZmQzMWFk`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDA2NGZkMmUwMjc0NTFhMjg5YzMwZTg0OTlhNTBjMDcw`

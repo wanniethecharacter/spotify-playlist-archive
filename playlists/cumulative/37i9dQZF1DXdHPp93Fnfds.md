@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-470 songs - 1 day 3 hr 3 min
+471 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Aguatera](https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 3:23 | 2022-05-06 | 2022-07-26 |
 | [Aire](https://open.spotify.com/track/0G4PDFHuz6aqu0V86r16Lj) | [Vera de Venus](https://open.spotify.com/artist/5lR5pky9TFKe1hHGf6VFjD), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Visceral](https://open.spotify.com/album/4sCoPWal6Oyfz3kGG6bUPG) | 3:20 | 2022-03-18 | 2022-07-23 |
 | [Alcohólica Funcional](https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Alcohólica Funcional](https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z) | 2:41 | 2022-01-21 |  |
+| [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 | 2023-03-03 |  |
 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 | 2023-02-03 |  |
 | [Algo de Mi Canción](https://open.spotify.com/track/0aS0PniXL2T1lGOALsrWRh) | [Camila Sapin](https://open.spotify.com/artist/4VWYsx7VsRf0Ir5UUT6pMk), [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S) | [Algo de Mi Canción](https://open.spotify.com/album/5tuHB7wXoQGjeCokaSfyil) | 3:53 | 2022-03-18 | 2022-06-29 |
 | [Alma mía](https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Alma mía](https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ) | 3:12 | 2022-01-21 | 2022-07-27 |
@@ -78,7 +79,7 @@
 | [Casa](https://open.spotify.com/track/3v1wgEVzX2SUrHrdzBCO7P) | [Ninja](https://open.spotify.com/artist/1aEDZ5whyuDHTQxdrPiJYE), [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [RUSIA](https://open.spotify.com/album/1Oq780XyJNTi9BAGySxECi) | 3:19 | 2022-01-21 | 2022-07-24 |
 | [Casamiento](https://open.spotify.com/track/0XVUtVdcxvYLmJw0ExUy4R) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Atasco](https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr) | 3:44 | 2022-01-21 | 2022-07-22 |
 | [Casi Extraños](https://open.spotify.com/track/58JNMqizRanibWoYGKZkZL) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/0dCUpjzMpccpLGYcIvxetm) | 3:47 | 2022-01-21 | 2022-07-29 |
-| [Casi Extraños](https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC) | 3:47 | 2022-07-29 |  |
+| [Casi Extraños](https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC) | 3:47 | 2022-07-29 | 2023-03-03 |
 | [Casi Nunca Entiendo Nada](https://open.spotify.com/track/5DCMmMGHptS0nOmN97kIAV) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Casi Nunca Entiendo Nada](https://open.spotify.com/album/7dAANS4Pwlb9OkkkmadzsV) | 3:13 | 2022-02-11 | 2022-07-16 |
 | [Cerca](https://open.spotify.com/track/3DXx8TguDQQ1Y2g5XQ7Msx) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Cerca](https://open.spotify.com/album/6OcxdF2MWCXFBYHDUD8o3e) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Chica](https://open.spotify.com/track/5En1tLtPLGsgZ0KnzkjDXv) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm) | [Chica](https://open.spotify.com/album/2squYvCPxYVekcmOJqPz3D) | 3:12 | 2022-01-21 | 2022-07-25 |

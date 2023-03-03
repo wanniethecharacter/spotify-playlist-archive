@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: The Amity Affliction
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,356 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,532 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 69 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 |
 | 70 | [Dead Circus](https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [Dead Circus](https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY) | 3:10 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDFlZTc5YjJmMmJhYjQxZjYxYmJjZTNlOTcwOTJlNGEy`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGYyNGFiOGI5YjFkOGM5ZTUxODExMzAxMGU3NzAyZjJj`

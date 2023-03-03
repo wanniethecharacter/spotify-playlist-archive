@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,724 likes - 200 songs - 17 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,754 likes - 200 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [For Rico](https://open.spotify.com/track/5kuU9QzBDgvI4YsQByl8im) | [Nicola Andrioli](https://open.spotify.com/artist/4aS6bn3PXcwVgRnufJ31rt), [Stéphane Galland](https://open.spotify.com/artist/1tj1I6guCFUOGJdhB3f5j6), [Federico Pecoraro](https://open.spotify.com/artist/656vB9P9n4vezqzlDaggcM) | [Skylight](https://open.spotify.com/album/4a62p5WoSdLaFtz6tGXPNA) | 3:29 |
 | 200 | [Speak](https://open.spotify.com/track/1LAhdhtcpPhCO84G4eUYD9) | [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Jangada](https://open.spotify.com/album/2XD00ztTgSIRXGB0uxLgXG) | 6:08 |
 
-Snapshot ID: `MTY2OTk5NjE0NCwwMDAwMDAwMDFmZDNkMTRhMjIwNWM3ZjA5NDk1ODk0M2U2OWRlM2U3`
+Snapshot ID: `MTY2OTk5NjE0NCwwMDAwMDAwMGNhYjcyOTViZjBmODE3ZjMyMTFiZWZjZWI1YzRhM2Y5`

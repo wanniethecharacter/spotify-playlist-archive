@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Honramos la memoria de las leyendas de nuestra Música Mexicana\. Ariel Camacho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,606 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,952 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 74 | [Qué Culpa Tengo Yo](https://open.spotify.com/track/4eZs2jMnzU5U7FOyjIsRWx) | [Patrulla 81](https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN) | [Divinas](https://open.spotify.com/album/10PJEl20JyA5vSPt4mOaga) | 2:31 |
 | 75 | [Procuro Olvidarte](https://open.spotify.com/track/2QV0hRYgDHvjPPMxIZQvTN) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Conquistando Corazones](https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP) | 5:01 |
 
-Snapshot ID: `MTY3NzI2NjA1NCwwMDAwMDAwMDMxOTgzNzU0YzE4ZWMwNTA3OGVjZDI1ZmFmMGEyNWEy`
+Snapshot ID: `MTY3NzI2NjA1NCwwMDAwMDAwMDI2YmZkNzg2NDgwNjczNmYyM2UzZmUyMmE5ZDJjY2Rj`

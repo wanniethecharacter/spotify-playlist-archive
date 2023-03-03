@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The best in new punk rock music. Cover: Grandma's House",
+  "description": "The best in new punk rock music. Cover: Los Bitchos",
   "name": "The Punk List",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 156248,
       "name": "All Time Low",
       "url": "https://open.spotify.com/track/2doVrBF6j5OVmMLBRUUlY1"
@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Grade 2",
+        "url": "https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe"
+      },
+      "artists": [
+        {
+          "name": "Grade 2",
+          "url": "https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182243,
+      "name": "Fast Pace",
+      "url": "https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
       },
@@ -558,6 +576,24 @@
       "duration_ms": 162133,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
+    },
+    {
+      "album": {
+        "name": "Force 10 From Navarone",
+        "url": "https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204895,
+      "name": "Force 10 From Navarone",
+      "url": "https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p"
     },
     {
       "album": {
@@ -948,7 +984,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 195542,
       "name": "It's good to be back - Metronomy x Panic Shack",
       "url": "https://open.spotify.com/track/7cmv2VrzPsqGopOhAWseUq"
@@ -1599,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "Pah!",
+        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
+    },
+    {
+      "album": {
         "name": "The Delicate Nature",
         "url": "https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY"
       },
@@ -1690,7 +1744,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 199732,
       "name": "Troglodyte",
       "url": "https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9"

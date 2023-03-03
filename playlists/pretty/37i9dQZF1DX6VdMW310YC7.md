@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,557,618 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,558,377 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Erase](https://open.spotify.com/track/22QG2saDLvgToHzeOZPm20) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 4:13 |
 | 100 | [Falling Back](https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Falling Back](https://open.spotify.com/album/5YtbuCRyDgcFhczoXr7KQR) | 4:21 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDQwOTkwMzM1Y2M2MWNlNDdlYTkzOThiM2EyZThkMjFm`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDZkZDFjMTIxNjNmMzkxY2EyNzgxN2NjNjdiOTBjOGMx`

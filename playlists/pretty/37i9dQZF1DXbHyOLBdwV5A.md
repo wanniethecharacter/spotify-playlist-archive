@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: Kennto, YoungJhow, JoyFull
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,759 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,840 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Nothing But The Blood](https://open.spotify.com/track/5TpY5xqQ6YI00qx3LvbusQ) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Nothing But The Blood](https://open.spotify.com/album/4EnOSdNsXJiKiIJAAv5wgH) | 2:33 |
 | 75 | [Preso a Ti \- Remix](https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao) | [Preso a Ti \(Remix\)](https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC) | 3:44 |
 
-Snapshot ID: `MTY3NzIzNzY0MSwwMDAwMDAwMGJjNGQ1NTFmYjEyZTZlMzc2ZjVlMTYzNDAyMGM3ZTBj`
+Snapshot ID: `MTY3NzIzNzY0MSwwMDAwMDAwMGNiNjkzZDc1ZWJhNGU5MmViY2UzMjM2NjJlMWM3Mzlh`

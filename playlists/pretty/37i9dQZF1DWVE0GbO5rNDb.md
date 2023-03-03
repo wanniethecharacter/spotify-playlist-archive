@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Musica dance per le tue giornate di sole!
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,648 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,656 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 99 | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP) | 2:56 |
 | 100 | [Make You Feel Like](https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Make You Feel Like](https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU) | 3:07 |
 
-Snapshot ID: `MTY3MTU0ODQxNSwwMDAwMDAwMGVhZDM0NGZhMWY1YTk3ODVjMzQ1ZGYyZWM0Yjc5YzU3`
+Snapshot ID: `MTY3MTU0ODQxNSwwMDAwMDAwMGRhNzc2MDgyODJlMmY4YmZlYmFmYzI3YjRmM2ZjZDg0`

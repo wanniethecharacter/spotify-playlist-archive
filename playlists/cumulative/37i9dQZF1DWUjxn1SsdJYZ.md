@@ -2,9 +2,9 @@
 
 ### [Local Hype](https://open.spotify.com/playlist/37i9dQZF1DWUjxn1SsdJYZ)
 
-> The best drill, trap and genre bending rap from Australia and NZ\. Cover: Moses
+> The best drill, trap and genre bending rap from Australia and NZ\. Cover: Fooligan Kevs
 
-383 songs - 18 hr 11 min
+386 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [5FT FREESTYLE](https://open.spotify.com/track/6xYlZdAvzzkl5UAoySwc3Y) | [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [5FT FREESTYLE](https://open.spotify.com/album/3lSf2OiUqvh5VQUHo27fxv) | 2:50 | 2022-03-21 | 2022-03-25 |
 | [64 Bars](https://open.spotify.com/track/51JUS47kJuTDQBDJfbNGV1) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [64 Bars](https://open.spotify.com/album/6wDzucPpFL4ODV0saHuOav) | 3:09 | 2022-03-21 | 2022-05-27 |
 | [64 Bars](https://open.spotify.com/track/4HrT0bSdtalmzfmoxiNE2Y) | [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy) | [64 Bars](https://open.spotify.com/album/4lhZiRZudcm8eKSVnS11Aq) | 2:36 | 2022-03-21 | 2022-07-01 |
+| [6ft Deep](https://open.spotify.com/track/5rrimoExne1LbHehlfymWe) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [6ft Deep](https://open.spotify.com/album/51gi5hluD0n0nagrHTnLi7) | 2:32 | 2023-03-02 |  |
 | [6gs](https://open.spotify.com/track/6mA8PVPy78DHdky2ho8I6L) | [KiD LaZE](https://open.spotify.com/artist/6aH7GRjtjfnnp9MNBzdq1n), [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [New Wave](https://open.spotify.com/artist/1itGTqVfKk3HKGvYqFOy2s) | [6gs](https://open.spotify.com/album/2NXbev6sftAddNx2oRf0Za) | 3:25 | 2022-09-29 | 2023-01-06 |
 | [77](https://open.spotify.com/track/6EGnhQh2S3xcZSbgglQIUt) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [77](https://open.spotify.com/album/61WC7CaAwgk5vlCSKzCwQK) | 2:23 | 2022-11-03 | 2022-12-16 |
 | [96 Bulls](https://open.spotify.com/track/7j2RJA45G8l0ZcDK2bOJJL) | [GMC](https://open.spotify.com/artist/1mjliHn4gJcgY5U5YtmFiP), [Johnny Narcotics](https://open.spotify.com/artist/6GBTukZn3btgHr1hq7ZGuP), [Alj](https://open.spotify.com/artist/4HPUHbvEGdXfuyaXxB0TNa), [KingTheFreeSoul](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [96 Bulls](https://open.spotify.com/album/4nitXAPFuLyCHinybJQs9b) | 3:01 | 2022-03-31 | 2022-04-15 |
@@ -23,7 +24,7 @@
 | [Arbok](https://open.spotify.com/track/078n3HIwMmlhfx7aYQKrDQ) | [Rydah](https://open.spotify.com/artist/78arWeRSIBit1TYTcTOcAY) | [Arbok](https://open.spotify.com/album/31Vj9Ku1YcQMC0FNjaoY60) | 2:41 | 2022-09-08 | 2022-12-16 |
 | [Area Baby](https://open.spotify.com/track/5BFaSmEPZSu4A7hcTtoNlP) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:41 | 2022-03-21 | 2022-06-17 |
 | [Aussie Raver](https://open.spotify.com/track/2IxukbfXzRflTlE06OFI7l) | [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Aussie Raver](https://open.spotify.com/album/4TKmOab6AcYpZmYw44Qkxd) | 2:59 | 2022-03-21 | 2022-08-11 |
-| [Azn E$hay](https://open.spotify.com/track/2GRnCWUs63ZxKgL0HwVvhY) | [Fooligan Kevs](https://open.spotify.com/artist/4bGHAmqEYRB5tsPiGjFH2g) | [Azn E$hay](https://open.spotify.com/album/01zyRaej4TUOnM8CyFAKGn) | 1:32 | 2022-12-01 |  |
+| [Azn E$hay](https://open.spotify.com/track/2GRnCWUs63ZxKgL0HwVvhY) | [Fooligan Kevs](https://open.spotify.com/artist/4bGHAmqEYRB5tsPiGjFH2g) | [Azn E$hay](https://open.spotify.com/album/01zyRaej4TUOnM8CyFAKGn) | 1:32 | 2022-12-01 | 2023-03-03 |
 | [B.B.L \(Bad Bitch Love\)](https://open.spotify.com/track/3rCGwUaOvhS3NDIF3DKb5a) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [B.B.L \(Bad Bitch Love\)](https://open.spotify.com/album/3UxBSyzHCGqY9DqSZkCvyc) | 2:18 | 2023-01-13 |  |
 | [Baby & Baby](https://open.spotify.com/track/1lNvWNg8GGbhEcPMRWrIBO) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN), [BabyT](https://open.spotify.com/artist/2DDnzptkIWeVwnGhZl3e5W) | [Baby & Baby](https://open.spotify.com/album/00QG5oFJQkqM0xHsT1i0oN) | 2:06 | 2022-11-17 |  |
 | [Baby We On \(feat\. EJ\)](https://open.spotify.com/track/6B2XQVpketLZ87ave84dj3) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [EJ](https://open.spotify.com/artist/3PGCyZIys0x2FPBa9BTkXx) | [Perspective](https://open.spotify.com/album/20uYLLC5K43XEitHfpBp3q) | 3:41 | 2022-03-21 | 2022-05-11 |
@@ -85,6 +86,7 @@
 | [DASH \(feat\. T\-Pain\) \- T\-Mix](https://open.spotify.com/track/4xOjOPeY9SycyVG8J0xz9h) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [DASH \(feat\. T\-Pain\) \[T\-Mix\]](https://open.spotify.com/album/7HNd8Zsp8Duyvz65e0b1Fq) | 2:46 | 2022-06-09 | 2022-08-05 |
 | [Daughters & Sons](https://open.spotify.com/track/5ff3xc5gxH4mIFW896UIJQ) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN) | [Daughters & Sons](https://open.spotify.com/album/39J8CnKEHl0thX4wfi44nO) | 2:28 | 2022-03-21 | 2022-04-01 |
 | [Dead Weight](https://open.spotify.com/track/4iLryROLgt2A7SXZHfZkbq) | [Kavelli](https://open.spotify.com/artist/5R1toqsQtqx4tcNpItZuEU) | [Dead Weight](https://open.spotify.com/album/3ylyRiOrwe3gjEW3ecOSkT) | 2:20 | 2022-09-08 | 2022-12-09 |
+| [Deadset 10 \- \(feat\. Manning\)](https://open.spotify.com/track/4khQKeEOy202MjC5z3r1en) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7), [Manning](https://open.spotify.com/artist/1RKaA4DmhRXFTelAvV3Gen) | [Deadset 10 \- \(feat\. Manning\)](https://open.spotify.com/album/6Cl0RPUILQLnWuW3bF1H90) | 3:46 | 2023-03-02 |  |
 | [DEATH AND WAR](https://open.spotify.com/track/6CZE22igumSIaDrfmWNPpX) | [TMB The Driver](https://open.spotify.com/artist/1kUBxtJ8z3wybn5wGAu0H2), [AG Supreme](https://open.spotify.com/artist/05hDHBYzW3yVX8QyE2Mznr), [XPUNCH](https://open.spotify.com/artist/4UyFWogo0bZ0jWLWTcIvmr) | [CLOSURE](https://open.spotify.com/album/6JyVMxFr8pec0Jrdze83q2) | 2:33 | 2022-11-17 | 2023-02-10 |
 | [Decency](https://open.spotify.com/track/4bgvbMk4pw19Dk62Q6ClPz) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [Decency](https://open.spotify.com/album/4OoW6upTBO0ZfkHDGEDTh1) | 3:12 | 2023-02-02 |  |
 | [DEMONS](https://open.spotify.com/track/2EI5puz3355OrlbJbJARgS) | [WHO SHOT SCOTT](https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP) | [DEMONS](https://open.spotify.com/album/1d5CpqkzGNcEAZvemWp2KL) | 3:10 | 2023-02-02 | 2023-02-24 |
@@ -391,5 +393,6 @@
 | [Yankees](https://open.spotify.com/track/6ZhHwo6QoIuXpAuXhHxUnM) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Yankees](https://open.spotify.com/album/4EpiNdEJwtW1aLXpgKToG0) | 2:05 | 2022-08-18 |  |
 | [Zimbabwe](https://open.spotify.com/track/6YGhqgMMsBCoxX73sEbwKv) | [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d) | [Zimbabwe](https://open.spotify.com/album/19ymHdgi8uNhHr9N5rLQxk) | 3:14 | 2022-04-28 | 2022-06-24 |
 | [ZIP!](https://open.spotify.com/track/2jnJ0UP0Ba2Og5lBMMJdRK) | [Chiggz](https://open.spotify.com/artist/4rxcNC4Af5eSLoUb4XIK5J), [ECB](https://open.spotify.com/artist/12qaVHWBtrTQ5KEvYgPQ2v), [Nate G](https://open.spotify.com/artist/4RvlcRTM1zHhPfTYLndVrp) | [ZIP!](https://open.spotify.com/album/2NCLxUOjLbEHi8lQnMP9IF) | 3:23 | 2022-08-04 | 2022-10-28 |
+| [ËGO DEATH](https://open.spotify.com/track/6zDUa7wgmL66D559pS8Fgz) | [Legend](https://open.spotify.com/artist/0QPs4yr2Za9ekUQqcbPYJW), [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk) | [PSYCHËDËLIC](https://open.spotify.com/album/5zZOFvn7XR3vghsKg7Pj0Y) | 2:33 | 2023-03-02 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

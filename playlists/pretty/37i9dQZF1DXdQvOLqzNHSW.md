@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,712 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 896,160 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 99 | [uni](https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [uni](https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm) | 2:48 |
 | 100 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 
-Snapshot ID: `MTY3NzUzOTg3MiwwMDAwMDAwMGZmZTYyMjUxOGIxZDljZGQ4ZjRmZGE1MzU3NDg3MDI2`
+Snapshot ID: `MTY3NzUzOTg3MiwwMDAwMDAwMDViZGM1N2M1ZmY5ZjgzZjg4Zjk4MjQxYTg4NzM5YWJh`

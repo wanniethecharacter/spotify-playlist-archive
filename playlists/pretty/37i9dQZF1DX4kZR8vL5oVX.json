@@ -1,12 +1,12 @@
 {
   "description": "Les femmes montent le son : playlist r\u00e9alis\u00e9e en collaboration avec Jain (Miley Cyrus, Nicki Minaj, Beyonc\u00e9, Dolly Parton & Kate Bush), \u00e0 l'occasion de la journ\u00e9e internationale des droits des femmes.",
-  "num_followers": 193508,
+  "num_followers": 193510,
   "original_name": "EQUAL France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY5MDg0MywwMDAwMDAwMDMzYjI4NTk3YWRlZmE0MDVkYTNhYmE3ZThiOTU0NmZm",
+  "snapshot_id": "MTY3Nzc2Mjc2NiwwMDAwMDAwMGQ1NDQ2ZjM5NmQwZjM0ZWQ1MGRkYjg5ODQwMWI2OTZm",
   "tracks": [
     {
       "added_at": "2023-02-28 23:00:00",
@@ -27,50 +27,18 @@
     {
       "added_at": "2023-02-28 23:00:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 200454,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
-    },
-    {
-      "added_at": "2023-02-28 23:00:00",
-      "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/4Rh57STD18rbjXbBrx2X65"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 279866,
-      "name": "Barbie Dreams",
-      "url": "https://open.spotify.com/track/4K34wkUKqd7leweceYqPFM"
-    },
-    {
-      "added_at": "2023-02-28 23:00:00",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
       "added_at": "2023-02-28 23:00:00",
@@ -91,18 +59,50 @@
     {
       "added_at": "2023-02-28 23:00:00",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+      "duration_ms": 200454,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "added_at": "2023-02-28 23:00:00",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "added_at": "2023-02-28 23:00:00",
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/4Rh57STD18rbjXbBrx2X65"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 279866,
+      "name": "Barbie Dreams",
+      "url": "https://open.spotify.com/track/4K34wkUKqd7leweceYqPFM"
     },
     {
       "added_at": "2023-02-28 23:00:00",
@@ -247,6 +247,22 @@
       "duration_ms": 142386,
       "name": "L'angle mort",
       "url": "https://open.spotify.com/track/6iI71ISS7X0T5nHHRYyjG9"
+    },
+    {
+      "added_at": "2023-02-28 23:00:00",
+      "album": {
+        "name": "Alors alors",
+        "url": "https://open.spotify.com/album/07XX7k8Hl8YiWJD3MywmnK"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "duration_ms": 165559,
+      "name": "Alors alors",
+      "url": "https://open.spotify.com/track/0JlZavAbSw9EOtVKQL4WMz"
     },
     {
       "added_at": "2023-02-28 23:00:00",

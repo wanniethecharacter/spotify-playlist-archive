@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Cover: The Band CAMINO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,678 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,802 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 64 | [Chaparral](https://open.spotify.com/track/4dOgsyS7EqbkK69S08Ns8Q) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia EP](https://open.spotify.com/album/6n5Aulqfqs4TwxuVKp6w18) | 2:46 |
 | 65 | [Spaghetti Tattoo](https://open.spotify.com/track/3SJxkDKY9w5GF0bpQrVDKy) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Spaghetti Tattoo](https://open.spotify.com/album/5P4NHzuaxvISML8kvXJvIl) | 3:12 |
 | 66 | [I Wanna Dance With You](https://open.spotify.com/track/2dqMoMjBQmhm8UWBmTuPbr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [I Wanna Dance With You](https://open.spotify.com/album/7f92wNnQO3sQ3SE3ARVZkA) | 2:54 |
-| 67 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq) | 2:39 |
+| 67 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:39 |
 | 68 | [closure](https://open.spotify.com/track/3U9SYKpPhiIawcwUXj2IvX) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [closure](https://open.spotify.com/album/04JeFildc0BYKS3E24DaEN) | 2:22 |
 | 69 | [DROP!!](https://open.spotify.com/track/71jQDHJXd7RZ3MbgqVjQeg) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [DROP!!](https://open.spotify.com/album/7yIHOCUF6QSxxZuDh2phKD) | 2:05 |
 | 70 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [Anything But You](https://open.spotify.com/track/2FQnmZO1hJ8EAYx7BSBMIw) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Anything But You](https://open.spotify.com/album/2lVpuysUoXYL2hBVeujKn1) | 3:41 |
 | 125 | [Mr\. 29](https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Mr\. 29](https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR) | 3:18 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDMyN2IwYTBhZGFiMTIzMjY2MjA4YzkwY2QzODYxOWIz`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDJkNTA1Njg4NzI4MzZiZDRjMDJkZDViMjM2ZmFjMGFh`

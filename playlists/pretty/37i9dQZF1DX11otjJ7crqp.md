@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: BoyWithUke
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,486 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,645 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 100 | [Hold On To The Heart](https://open.spotify.com/track/2KSUk5yV9STT7RVnSFkNoi) | [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Hold On To The Heart](https://open.spotify.com/album/1zE4ybOQXAdUbD8g3HZYI5) | 3:23 |
 | 101 | [Bubbly](https://open.spotify.com/track/5Yxw8MJcI4AT58ur7e04Fw) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Bubbly](https://open.spotify.com/album/3Ow42KfNDAWbBmCIZ7YK5E) | 2:40 |
 
-Snapshot ID: `MTY3NzIxNTg2MCwwMDAwMDAwMGU2N2EyNTllY2NmMGY2Y2ZjNWU1YzUzODBmODJmMzYx`
+Snapshot ID: `MTY3NzIxNTg2MCwwMDAwMDAwMDNmNmViNGI5NjcyNmE4MjRkZjJjNjZmNjc0Y2JlNDVh`

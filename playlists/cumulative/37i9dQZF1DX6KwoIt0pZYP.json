@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 147906,
       "name": "10,000 reasons",
       "url": "https://open.spotify.com/track/0gOp375c3yrCY4XkiqsBIX"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 133897,
       "name": "24",
       "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 209189,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/38wNASXJl6tNRoVFpnctt9"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 138514,
       "name": "almost",
       "url": "https://open.spotify.com/track/0psOGI1f30oEGlZ185RbpW"
@@ -950,6 +950,24 @@
       "duration_ms": 226217,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/0nPpDVxWDSWdSIrd26Taja"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2V5sPS4x8LB3H7q3Q00Cjn"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209609,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0DeERXbSE5amnnFx5MSycO"
     },
     {
       "album": {
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 237757,
       "name": "do you still think (about me?)",
       "url": "https://open.spotify.com/track/4edE57uW5nXnoXJch8qtLl"
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 172613,
       "name": "Done (Let\u2019s Get It)",
       "url": "https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD"
@@ -2026,6 +2044,24 @@
       "duration_ms": 202105,
       "name": "Endless Road",
       "url": "https://open.spotify.com/track/5EsIWm4H8qouBQ8jXVF2Ng"
+    },
+    {
+      "album": {
+        "name": "Endlessly",
+        "url": "https://open.spotify.com/album/4SyKnlO19mrQhdvbAEwnQn"
+      },
+      "artists": [
+        {
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216401,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/2XM0y8rmX13FWSGDhgvqlX"
     },
     {
       "album": {
@@ -2464,6 +2500,24 @@
       "duration_ms": 223913,
       "name": "For Days",
       "url": "https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z"
+    },
+    {
+      "album": {
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM"
+      },
+      "artists": [
+        {
+          "name": "Abby Simone",
+          "url": "https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/55aAg3WavEg2F70ha4kWi9"
     },
     {
       "album": {
@@ -3240,6 +3294,24 @@
       "duration_ms": 144000,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/57sXwalzODNWZGm5iYBf1T"
+    },
+    {
+      "album": {
+        "name": "Hello to Goodbye",
+        "url": "https://open.spotify.com/album/518Phciom4wxi4MLhvdA1x"
+      },
+      "artists": [
+        {
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226423,
+      "name": "Hello to Goodbye",
+      "url": "https://open.spotify.com/track/2hOZa7fF1UnRLjRDcEb5te"
     },
     {
       "album": {
@@ -4602,7 +4674,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 231052,
       "name": "Let Me Love U",
       "url": "https://open.spotify.com/track/2n82NbbGsaaMMT4eqPX8ZK"
@@ -4646,7 +4718,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 268002,
       "name": "Levia",
       "url": "https://open.spotify.com/track/3IGhQg2Kto8vFgj3cTVyNL"
@@ -4864,7 +4936,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 174386,
       "name": "Lost On Me",
       "url": "https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc"
@@ -5902,6 +5974,24 @@
       "duration_ms": 128727,
       "name": "ok bye",
       "url": "https://open.spotify.com/track/233XcBvOmiwJNANsDLjc2q"
+    },
+    {
+      "album": {
+        "name": "Old News (Killing Me Softly)",
+        "url": "https://open.spotify.com/album/4Vx66vf6tXpyIqxQZp6KVV"
+      },
+      "artists": [
+        {
+          "name": "SATINA",
+          "url": "https://open.spotify.com/artist/2XyAeS3sKheHLul4sxHzt0"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166396,
+      "name": "Old News (Killing Me Softly)",
+      "url": "https://open.spotify.com/track/0ccpZnh7XcFvb9iCAfsFP4"
     },
     {
       "album": {
@@ -7025,6 +7115,24 @@
     },
     {
       "album": {
+        "name": "So Called Friend",
+        "url": "https://open.spotify.com/album/0zAoM75capf0ydqURi7Pxq"
+      },
+      "artists": [
+        {
+          "name": "Dolly Ave",
+          "url": "https://open.spotify.com/artist/3CRylfSfibkfnjCMLhWmIk"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183506,
+      "name": "So Called Friend",
+      "url": "https://open.spotify.com/track/41LWWiTf1fEVXDRgK31UXy"
+    },
+    {
+      "album": {
         "name": "So Faded",
         "url": "https://open.spotify.com/album/0WTGK1ypqI40T4UM7AEGB3"
       },
@@ -7618,7 +7726,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 246718,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/6A7bJ0GCI8iEFuZaUaxjtQ"
@@ -7636,7 +7744,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 236379,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/470DmyCe8EL1wwbElMLaN7"
@@ -7712,6 +7820,24 @@
       "duration_ms": 216530,
       "name": "the boy",
       "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
+    },
+    {
+      "album": {
+        "name": "The Departure",
+        "url": "https://open.spotify.com/album/6F58l5MmeXv2wNkFlEApp4"
+      },
+      "artists": [
+        {
+          "name": "Dough-Boy",
+          "url": "https://open.spotify.com/artist/5hzXPEu0WeYHg3zQts4BGX"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187297,
+      "name": "The Departure",
+      "url": "https://open.spotify.com/track/6TN7BGFaqv62RReKpveqn0"
     },
     {
       "album": {
@@ -9042,7 +9168,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 166451,
       "name": "Without it",
       "url": "https://open.spotify.com/track/6aqrbmOIj0E2F770O6muO1"
@@ -9064,6 +9190,24 @@
       "duration_ms": 217285,
       "name": "Won't Stop",
       "url": "https://open.spotify.com/track/4pF9dg6CsvSPyScJvymAZe"
+    },
+    {
+      "album": {
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/3oMFAfDIjrbrLXBjoiFRrC"
+      },
+      "artists": [
+        {
+          "name": "Haneri",
+          "url": "https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265096,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5c3I2e3j6HT1z9Kvh9PZ0X"
     },
     {
       "album": {
@@ -9114,7 +9258,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 202750,
       "name": "Would You Mind",
       "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"
@@ -9270,7 +9414,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 148250,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/6zX2iF3aZC26DEtISIcmwh"

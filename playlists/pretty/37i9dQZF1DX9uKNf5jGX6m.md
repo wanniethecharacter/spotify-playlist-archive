@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,794,686 likes - 293 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,795,270 likes - 293 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -302,4 +302,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 292 | [Meet Me At Sundown](https://open.spotify.com/track/1kw7n9ACTz07NuIYqCm3F9) | [Kamila Tait](https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL) | [Meet Me At Sundown](https://open.spotify.com/album/1pNSmEmqhgPi5RrEjWqMLZ) | 3:05 |
 | 293 | [Profetia](https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Profetia](https://open.spotify.com/album/6iUHb3XJ0K7hxJ4grACdPV) | 2:55 |
 
-Snapshot ID: `MTY3NTk1NDk2MiwwMDAwMDAwMGU4M2FkYzhlODc2ZmRhZmUwMTgyNTEwNGUxOWQxNTIy`
+Snapshot ID: `MTY3NTk1NDk2MiwwMDAwMDAwMGVjNjcyZjdmY2RkZjhjYmRkOWZiODVmY2NhNGMwZWJm`

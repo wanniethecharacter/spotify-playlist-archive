@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's hey day; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,991 likes - 68 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,099 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,13 +68,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 58 | [Do You Believe? \- Instrumental](https://open.spotify.com/track/5wB50WI6crBSLs29UZFFCH) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX) | [Do You Believe? EP](https://open.spotify.com/album/0TWSUGFl8CfJo4HDYnGcak) | 3:41 |
 | 59 | [Roots](https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Roots](https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY) | 2:40 |
 | 60 | [Azisa \- Instrumental](https://open.spotify.com/track/6QGgUrvDvfQVeMlMuVKjQ6) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Booth Brothers & Sisters Instrumentals 1\-10](https://open.spotify.com/album/0XSP0PtqGs0omZmJ9gIbX3) | 2:24 |
-| 61 | [Skywalker OG](https://open.spotify.com/track/6oHUNQtaMKhVmQWhFoPdir) | [Dooku](https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD) | [Fields of Green 2](https://open.spotify.com/album/5cOC0HfuZKWDGaB8Oyz0PI) | 1:54 |
-| 62 | [Gold Plated](https://open.spotify.com/track/1p0vYiUriWNU5mKQnOFJWI) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Gold Plated](https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd) | 2:13 |
-| 63 | [For the Future](https://open.spotify.com/track/70otjXKq2lzJbynH7W3N76) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 3:37 |
-| 64 | [For Da Love Of Da Game \- Instrumental](https://open.spotify.com/track/0ZEbf11WdOyaxdR9Ja73XX) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [The Magnificent EP /For Da Love Of Da Game](https://open.spotify.com/album/6kNgpWi0IZuOWC7p1IzwbZ) | 5:34 |
-| 65 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 |
-| 66 | [Summerwind](https://open.spotify.com/track/1YBb5s7JxiFQV9E7e4QThO) | [Slipp](https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Summerwind](https://open.spotify.com/album/3uhMWZk6MPkw6Amk2zonai) | 2:26 |
-| 67 | [Look How Pretty Today Is](https://open.spotify.com/track/1r06SNlcN9DeAxngjsSUWt) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [RIDING AROUND](https://open.spotify.com/album/4uzGpc26ZtByWohlYtm5GK) | 2:08 |
-| 68 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 |
+| 61 | [Colours \- Instrumental](https://open.spotify.com/track/5mCZhBTtSRx1Ioy0F6rXDI) | [The Last Skeptik](https://open.spotify.com/artist/31LnFifS3x9FTENleAl6Eq) | [How Not to Make a Living \(Instrumentals\)](https://open.spotify.com/album/0RUwjgoghq5OHo5nqbMCxU) | 3:16 |
+| 62 | [Skywalker OG](https://open.spotify.com/track/6oHUNQtaMKhVmQWhFoPdir) | [Dooku](https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD) | [Fields of Green 2](https://open.spotify.com/album/5cOC0HfuZKWDGaB8Oyz0PI) | 1:54 |
+| 63 | [Gold Plated](https://open.spotify.com/track/1p0vYiUriWNU5mKQnOFJWI) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Gold Plated](https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd) | 2:13 |
+| 64 | [Acid Raindrops \- Instrumental](https://open.spotify.com/track/13VTI8Azbyt0HW8XEMZIKY) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Acid Raindrops](https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo) | 4:24 |
+| 65 | [For the Future](https://open.spotify.com/track/70otjXKq2lzJbynH7W3N76) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 3:37 |
+| 66 | [For Da Love Of Da Game \- Instrumental](https://open.spotify.com/track/0ZEbf11WdOyaxdR9Ja73XX) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [The Magnificent EP /For Da Love Of Da Game](https://open.spotify.com/album/6kNgpWi0IZuOWC7p1IzwbZ) | 5:34 |
+| 67 | [Touching Realness](https://open.spotify.com/track/2ESa9s5W3Cr80IseEzHP7O) | [K\-DEF](https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7) | [One Man Band](https://open.spotify.com/album/0w9EYiEPKzjrX0WQ48yUy2) | 2:01 |
+| 68 | [Halftime \- Instrumental](https://open.spotify.com/track/0WkpsfwbaflRTlgY7wHfAY) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Halftime EP](https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk) | 4:20 |
+| 69 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 |
+| 70 | [Summerwind](https://open.spotify.com/track/1YBb5s7JxiFQV9E7e4QThO) | [Slipp](https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Summerwind](https://open.spotify.com/album/3uhMWZk6MPkw6Amk2zonai) | 2:26 |
+| 71 | [Masta I.C\. \(Instrumental\)](https://open.spotify.com/track/3dA3Qx2nAq21Kt3UkoMMx7) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE) | [Masta I.C\. \- EP](https://open.spotify.com/album/4nx15DvzObukboid8HIkHX) | 4:17 |
+| 72 | [Look How Pretty Today Is](https://open.spotify.com/track/1r06SNlcN9DeAxngjsSUWt) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [RIDING AROUND](https://open.spotify.com/album/4uzGpc26ZtByWohlYtm5GK) | 2:08 |
+| 73 | [John Gotti \- Instrumental](https://open.spotify.com/track/1cGkCqQaLjuMSpQeKEUhXh) | [Sean Price](https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW), [Small Professor](https://open.spotify.com/artist/50wcJriOZeC8PbLSk8X9QP), [AG Da Coroner](https://open.spotify.com/artist/736quRgvvGLe7eBO18oUzx), [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [86 Witness \(Instrumentals\)](https://open.spotify.com/album/5t8JvlQa4ZNZBDaeYua6mf) | 3:18 |
+| 74 | [Cognac \- Instrumental](https://open.spotify.com/track/3HkKjrNj0JjpgC1kmL7Eil) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [Jay Stone](https://open.spotify.com/artist/1XMoZ8AHs0TxrFiQAnOTAI) | [Foreign Pedestrians](https://open.spotify.com/album/2JDMaRvUUZ2xkm2P59ebH3) | 2:38 |
+| 75 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 |
 
-Snapshot ID: `MTY3NzI1NjgxMCwwMDAwMDAwMDg5NWY2OTNlYmEyNmZkYjdiMGJlNzNkMzkxYWVmZGZi`
+Snapshot ID: `MTY3Nzc3MjQ5NywwMDAwMDAwMDY5ZDlmNjUyNjBiZjMxN2U0ODE5NDY0YjhlYTQ1MDNi`

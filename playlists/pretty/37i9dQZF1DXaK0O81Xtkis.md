@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: The Aces
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,433 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,460 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 84 | [saddest soundtrack](https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [saddest soundtrack](https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7) | 2:49 |
 | 85 | [moshpit](https://open.spotify.com/track/5LIwaCUAPW3ugjQ5ls3Fxs) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:38 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDA0ZjM0YmYwNzJmYjZhMzI3YWRlMmI3ZTBkMjQ5NmFm`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDI2ZWNhNGEzZDQ4ZDQ5MGQ3NjgwYjIwYWY0M2U4ZWM3`

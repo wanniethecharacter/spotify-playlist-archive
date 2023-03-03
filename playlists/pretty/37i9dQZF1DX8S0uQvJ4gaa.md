@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Ashley McBryde
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,248 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,463 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 85 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 |
 | 86 | [All I Need Is You](https://open.spotify.com/track/02FAxAwzApe6pAqfAL3dLr) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [All I Need Is You](https://open.spotify.com/album/1tc6XshhetHi2jagwM3UhS) | 2:42 |
 | 87 | [Lately](https://open.spotify.com/track/6rPR4M9uJHrYYJ9a1xLDjv) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Lately](https://open.spotify.com/album/1VegrzMvhwSOTupozMQnkj) | 3:27 |
-| 88 | [NEED A FAVOR](https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NEED A FAVOR](https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd) | 3:17 |
+| 88 | [Need A Favor](https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NEED A FAVOR](https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd) | 3:17 |
 | 89 | [Someone Else's Heartbreak](https://open.spotify.com/track/4EKvXD76hhYuKAXWokpyRB) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Someone Else's Heartbreak](https://open.spotify.com/album/3xccw93KgxWuesYmkkJsLp) | 3:35 |
 | 90 | [No Horse To Ride](https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride](https://open.spotify.com/album/3nO6JEsqrqiJwHlRdZr5M8) | 2:13 |
 | 91 | [Them Girls Do](https://open.spotify.com/track/5ZBqTdhua0ADInEXNOhwJP) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Them Girls Do](https://open.spotify.com/album/667A3pB1bWGSqBBpmjJJAZ) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Wish You Wouldn’t](https://open.spotify.com/track/6n4oQej0fopZK1Vijr6CFo) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Real To Me: The Way I Feel \(Deluxe Edition\)](https://open.spotify.com/album/5dMuhkxPLZSmG1uGMuPEf1) | 3:15 |
 | 100 | [Small Town Me](https://open.spotify.com/track/5XYk13uT6mzwe6P8lSrPdh) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 3:16 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGVlMjg1NmMyZTgzM2YxOGZiNDg4ODk0ZjMzODNkNjhh`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGI5ZDJlOWQ4MTQxYzhhY2QyYmU4OTk3MzNiNWM3ODFm`

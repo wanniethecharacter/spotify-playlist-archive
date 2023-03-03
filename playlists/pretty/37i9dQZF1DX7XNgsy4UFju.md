@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Gabrielle Shonk
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,136 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,137 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 24 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
 | 25 | [still](https://open.spotify.com/track/6EoI0gxW5egUN3SFxgQb7H) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [still](https://open.spotify.com/album/4x7J5fPgM0IYVRJW6fwpZ3) | 2:59 |
 | 26 | [Hold My Hand, Maria](https://open.spotify.com/track/6FDBakYPU96AegvThCmIJT) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf) | [Hold My Hand, Maria](https://open.spotify.com/album/2b4YoBDmKSCynJLRu7ihXS) | 4:15 |
-| 27 | [True Blue](https://open.spotify.com/track/2NS5hylxl4QNQcD6Vjmtpj) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 4:56 |
+| 27 | [True Blue](https://open.spotify.com/track/0q7lFwAB16sO7zgNdG4Wkl) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 4:56 |
 | 28 | [Just To Keep You Satisfied](https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:35 |
 | 29 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
 | 30 | [Chasing Every Sunrise](https://open.spotify.com/track/0Ygba8PsSx8nb6LmgXaTje) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Powder Blue](https://open.spotify.com/album/0kr5NBd2qdQNeZhzke5tHz) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Until It's Gone](https://open.spotify.com/track/6cAp800doeJL8cAa8oE03C) | [Marcus Paquin](https://open.spotify.com/artist/6jyDCVeG7H5SZVdnRrDYdH) | [Our Love](https://open.spotify.com/album/5AuA42z5TeQDB0wXfYKF9L) | 3:43 |
 | 100 | [Blue](https://open.spotify.com/track/0WIHwtJS11qxWgKtw2qhPR) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Blue](https://open.spotify.com/album/4NrL4M6sp5VMoyXxfUxfZ8) | 3:05 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDlhYzkzMmQzNjYxOTM5NGU4MmJkYjZiN2Q4ZmEzOTVl`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDMxMTdmYjYxZGY2Y2JiNjBmYzRiYzIxZTg0YmUyNTE0`

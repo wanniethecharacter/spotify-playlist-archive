@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,138 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,199 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 |
 | 100 | [Blinded](https://open.spotify.com/track/0E1hEbTq833Aqaq4pBn8yo) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Blinded](https://open.spotify.com/album/4l2DoTsXaoMwZc23jGsp2B) | 3:32 |
 
-Snapshot ID: `MTY3NzQ4OTI2MSwwMDAwMDAwMDdhYjg5ZjlhNDc3OTc4OWI4ODhiYzFlODY1NWM0YTVm`
+Snapshot ID: `MTY3NzQ4OTI2MSwwMDAwMDAwMGIzMGFkZjg5MTBhYTM1MzdjMzQ1NTdjOGVlYWJiYTk1`

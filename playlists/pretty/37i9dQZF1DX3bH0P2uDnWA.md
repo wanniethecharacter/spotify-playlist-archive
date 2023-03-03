@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,774 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,962 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 74 | [The Jungle Jive](https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [Bongo Chic](https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052) | 3:51 |
 | 75 | [Chicago](https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Chicago](https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi) | 2:44 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDNhMWE5NDgzMDYxNDU4NWFkZjI5MDdkNzMwMDdlZTQ0`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGNjZTFkYTBlYmJhOTIxYmZiZmYzNzBmYTQxYTRhMDZl`

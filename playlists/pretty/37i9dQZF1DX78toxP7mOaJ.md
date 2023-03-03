@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Scowl \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,041 likes - 78 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,121 likes - 78 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 77 | [Forevergreen](https://open.spotify.com/track/1PwsIjDKSQ1ga646a4GsLp) | [Arbor Labor Union](https://open.spotify.com/artist/2bd0QHZajmYTeHqyad6Pup) | [Yonder](https://open.spotify.com/album/2ezCoWEu7nrx6QYPKRFVSl) | 2:59 |
 | 78 | [Protected fool](https://open.spotify.com/track/2eRf7pxyIfulu4lw0Bebo9) | [Satanic Youth Club](https://open.spotify.com/artist/2qPps6dD2pS9PeUVVc6Z99) | [Protected fool](https://open.spotify.com/album/51b8QZkvh328hLEZfVy4CU) | 3:33 |
 
-Snapshot ID: `MTY3NzY5MDAwMCwwMDAwMDAwMDQ5ODZkOTZhZjJhMzhhYTc0MDE5NzBmYzdkYTUyOTAw`
+Snapshot ID: `MTY3NzY5MDAwMCwwMDAwMDAwMDZhMGM3YzE2NGNlZDZiYTc2MTQ5YWUxZjBhZjE4ZmNi`

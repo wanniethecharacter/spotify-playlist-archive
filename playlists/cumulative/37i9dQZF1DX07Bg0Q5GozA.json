@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: The Blessed Madonna",
+  "description": "New music off the beaten track. Cover: Avalon Emerson",
   "name": "OFF POP",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 228338,
       "name": "01.39 AM",
       "url": "https://open.spotify.com/track/6lvkerHwEFR7Vm8ey2gEX2"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3JBOKKRLPdZmUwLOydCBkT"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        },
+        {
+          "name": "gome",
+          "url": "https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208392,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/5ABy6tQKNoAAZfwStB0DcS"
     },
     {
       "album": {
@@ -74,7 +96,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 166034,
       "name": "A Habit I Can't Break",
       "url": "https://open.spotify.com/track/1lBNeUX94bHDDk1OOjuSfg"
@@ -622,7 +644,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 278400,
       "name": "Clara (the night is dark)",
       "url": "https://open.spotify.com/track/1halfbhGjFShZwxmnbWE8u"
@@ -844,7 +866,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 197853,
       "name": "Digging Deeper",
       "url": "https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA"
@@ -978,7 +1000,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 373802,
       "name": "Don\u2019t Lose Time",
       "url": "https://open.spotify.com/track/3I1CfmUZZrLAyYY4zm409Y"
@@ -1645,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Hot Evening",
+        "url": "https://open.spotify.com/album/7IZ79nalZzDtQhgtCR4Dp1"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241916,
+      "name": "Hot Evening",
+      "url": "https://open.spotify.com/track/7l7tXEWUMfW5m5AE8vPfOB"
+    },
+    {
+      "album": {
         "name": "Hot Sauce",
         "url": "https://open.spotify.com/album/5ue0WkGZRaNZ3LlguPyzqy"
       },
@@ -1788,6 +1828,24 @@
       "duration_ms": 216346,
       "name": "Is It What It Feels Like to Feel Like This? - Myd Remix Radio Edit",
       "url": "https://open.spotify.com/track/0jL7eFRciFuzPnFU4hLjUG"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/7wfRiLLgR2anjPEaesqAtr"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178138,
+      "name": "Is That How You Feel It",
+      "url": "https://open.spotify.com/track/1KjMr1ay272SjjNYKf9FY4"
     },
     {
       "album": {
@@ -2403,6 +2461,32 @@
     },
     {
       "album": {
+        "name": "Mike (desert island duvet)",
+        "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264097,
+      "name": "Mike (desert island duvet)",
+      "url": "https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo"
+    },
+    {
+      "album": {
         "name": "Mirror (Christian L\u00f6ffler Remix)",
         "url": "https://open.spotify.com/album/1ViMEfq5OEBe8ggSSu95IJ"
       },
@@ -2617,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "No Words",
+        "url": "https://open.spotify.com/album/27iuFlJawNgWcNsK3WGUzb"
+      },
+      "artists": [
+        {
+          "name": "Pale Blue",
+          "url": "https://open.spotify.com/artist/5qYbA0I1qwOI3jchiZukHr"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286427,
+      "name": "No Words",
+      "url": "https://open.spotify.com/track/5PBxD6QaOYV1HKeKNvgDCk"
+    },
+    {
+      "album": {
         "name": "Extra Time",
         "url": "https://open.spotify.com/album/49qaWr7XitNvgKzobKGiGg"
       },
@@ -2686,7 +2788,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 271080,
       "name": "Nowhere Game",
       "url": "https://open.spotify.com/track/3yT6Ho87fAxrvsbys6TGUx"
@@ -2853,6 +2955,28 @@
     },
     {
       "album": {
+        "name": "Paradise Circus (Fallen Sun Version)",
+        "url": "https://open.spotify.com/album/1NjAqjPhjeNlXfHE14Nn2s"
+      },
+      "artists": [
+        {
+          "name": "POST",
+          "url": "https://open.spotify.com/artist/7nsxiLUSrPfF0XcOXt5Rbe"
+        },
+        {
+          "name": "Ghostpoet",
+          "url": "https://open.spotify.com/artist/69lEbRQRe29JdyLrewNAvD"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320473,
+      "name": "Paradise Circus (Fallen Sun Version)",
+      "url": "https://open.spotify.com/track/1Fg1XSeE1aSqOD0EkQAAvn"
+    },
+    {
+      "album": {
         "name": "Party Woman (Crazy P Remix)",
         "url": "https://open.spotify.com/album/04UFwo4ylbMJuk2EKfapUg"
       },
@@ -3014,6 +3138,28 @@
       "duration_ms": 147690,
       "name": "Queen of the Night",
       "url": "https://open.spotify.com/track/4EduJEjwxnq3bw8ITCxpQf"
+    },
+    {
+      "album": {
+        "name": "The Reset",
+        "url": "https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191053,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA"
     },
     {
       "album": {
@@ -3348,7 +3494,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 201038,
       "name": "Separate Us",
       "url": "https://open.spotify.com/track/1OTfGZcyl7Eh5TXaDtLgod"
@@ -3724,7 +3870,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 234511,
       "name": "The Outsider",
       "url": "https://open.spotify.com/track/4QP9kNcxLKUT1DVnJ1d1n4"

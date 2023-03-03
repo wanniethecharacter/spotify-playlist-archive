@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,139 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,135 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 99 | [It’s Christmas Day](https://open.spotify.com/track/55HGuPjF900qc1E3nTHPzQ) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [A Charles Jenkins Christmas](https://open.spotify.com/album/2cBqPDfPm945PP4fHQ9QDs) | 3:14 |
 | 100 | [The First Noel](https://open.spotify.com/track/3j4soLmqnjVevHHTUpnbJT) | [Virtue](https://open.spotify.com/artist/3YXPy18rDwhGJdBjnpYGpa) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:24 |
 
-Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMGY2YmM5ZGE1NjBjNGRmZGQ1OWRkY2QxYTYyZWQxMjA2`
+Snapshot ID: `MTY3MDcxOTMwNiwwMDAwMDAwMGJjZjBlYTM0N2QyY2VjODA0MzYyODE5NzJmZTEwMDk1`

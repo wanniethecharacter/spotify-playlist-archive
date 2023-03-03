@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,414 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,456 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 99 | [Paravents](https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Wrecked Exotic](https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz) | 4:50 |
 | 100 | [Las Tres Hermanas](https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Las Tres Hermanas](https://open.spotify.com/album/7HJ6ekJSoJP6utcPh1HmK9) | 3:49 |
 
-Snapshot ID: `MTY3NjUwNjkwNSwwMDAwMDAwMDdlZjI5ZjVmMTgyZDFjZGMwNjUyOTY4NjczZGE1NDdj`
+Snapshot ID: `MTY3NjUwNjkwNSwwMDAwMDAwMDhjYmMzYzY3MmMxYTY0NzY4ZmQwMGNiZmE2Njc0OTVk`

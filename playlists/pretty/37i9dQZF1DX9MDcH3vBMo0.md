@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,931 likes - 250 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,162 likes - 250 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 249 | [Soudainement](https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Soudainement](https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX) | 2:48 |
 | 250 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 |
 
-Snapshot ID: `MTY3NzUxMjY1MywwMDAwMDAwMDNiYjM0NjFlMWIxOWFmNTA4YmUwNjhhOWZkMThjOWYx`
+Snapshot ID: `MTY3NzUxMjY1MywwMDAwMDAwMGFmZGE4NDQ3OTg0NWIyNGI5ZTIxN2I5MzA2ZjMyMGFj`

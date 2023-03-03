@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: とた
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,138 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,240 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [キンモクセイ](https://open.spotify.com/track/4Dc7HhgTf3lvnOEk8kaSCU) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [キンモクセイ](https://open.spotify.com/album/2cF3FboitdxvaADTCzWWmQ) | 3:07 |
 | 80 | [WORLD GROOVE 3rd.chapter \- main message](https://open.spotify.com/track/51TXAX6tcwb9ezYkeWSbet) | [TRF](https://open.spotify.com/artist/74UwkYjA5WAPyrTYFO3mW9) | [WORLD GROOVE](https://open.spotify.com/album/0sObqoToUo9FDX2Yjh1jYk) | 6:47 |
 
-Snapshot ID: `MTY3NzUzNzM5OCwwMDAwMDAwMGEwYTljNzlkYTZlYmQxYmVkZDA4NWUxZTE3ZDI4MDZm`
+Snapshot ID: `MTY3NzUzNzM5OCwwMDAwMDAwMGEyYzJiMWM0MDY2NjE3N2Q1ZjU1NTIxNDhkNTQzMGJl`

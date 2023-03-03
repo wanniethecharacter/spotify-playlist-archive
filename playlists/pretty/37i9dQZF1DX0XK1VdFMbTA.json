@@ -1,12 +1,12 @@
 {
   "description": "Any songs you forgot existed? Let's go deep into 70s rock!",
-  "num_followers": 108615,
+  "num_followers": 108726,
   "original_name": "Deep Dive: 70s Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODY5OTQ2NiwwMDAwMDAwMGMzYWNkODM5MDJjNTQxM2VhZWRkNzYxOGJkZWRhMzE3",
+  "snapshot_id": "MTY2ODY5OTQ2NiwwMDAwMDAwMDk5NDU5YzNiNjZhYTlmMWYzNTgzMDU1NGRiZjdmMzZi",
   "tracks": [
     {
       "added_at": "2022-11-17 15:37:46",
@@ -2043,7 +2043,7 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Living in the Material World (2014 Remaster)",
+        "name": "Living in the Material World",
         "url": "https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os"
       },
       "artists": [
@@ -2053,7 +2053,7 @@
         }
       ],
       "duration_ms": 215701,
-      "name": "Give Me Love (Give Me Peace on Earth) - 2014 Remaster",
+      "name": "Give Me Love (Give Me Peace on Earth)",
       "url": "https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk"
     },
     {
@@ -5795,6 +5795,22 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
+        "name": "Kongos (2014 Remastered Version)",
+        "url": "https://open.spotify.com/album/0L12QTm0mPNvE5Lya3eJwx"
+      },
+      "artists": [
+        {
+          "name": "John Kongos",
+          "url": "https://open.spotify.com/artist/15KbeP35gI9t2vgYzwsTjj"
+        }
+      ],
+      "duration_ms": 267786,
+      "name": "He's Gonna Step On You Again - 2014 Remastered Version",
+      "url": "https://open.spotify.com/track/18SFEVHt61HnNrAcK8Rlos"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
         "name": "The Fine Art Of Surfacing",
         "url": "https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts"
       },
@@ -5923,22 +5939,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Rides Again",
-        "url": "https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0"
-      },
-      "artists": [
-        {
-          "name": "James Gang",
-          "url": "https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/0OgWuPs6lyCnnLUw1INrdQ"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Sneakin' Sally Through The Alley",
         "url": "https://open.spotify.com/album/6zfi9iOuXoTJWefn4JCWlg"
       },
@@ -5967,6 +5967,22 @@
       "duration_ms": 230173,
       "name": "Get Down and Get With It",
       "url": "https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Rides Again",
+        "url": "https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0"
+      },
+      "artists": [
+        {
+          "name": "James Gang",
+          "url": "https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/0OgWuPs6lyCnnLUw1INrdQ"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6003,22 +6019,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 264453,
-      "name": "Shadow Of A Doubt (A Complex Kid)",
-      "url": "https://open.spotify.com/track/0uV5j1LuzRS5HglBLKmwM0"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "The Runaways",
         "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
       },
@@ -6031,6 +6031,22 @@
       "duration_ms": 165240,
       "name": "Is It Day Or Night?",
       "url": "https://open.spotify.com/track/1KlGMvdrwAks29kzrqMZd3"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 264453,
+      "name": "Shadow Of A Doubt (A Complex Kid)",
+      "url": "https://open.spotify.com/track/0uV5j1LuzRS5HglBLKmwM0"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6179,22 +6195,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/0CyJF98u2sjDTvw8j1Rotr"
-      },
-      "artists": [
-        {
-          "name": "Raspberries",
-          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
-        }
-      ],
-      "duration_ms": 126440,
-      "name": "Goin' Nowhere Tonight",
-      "url": "https://open.spotify.com/track/0AoHJoQJRDYWFasjoy1x26"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Sladest (Expanded)",
         "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
       },
@@ -6211,6 +6211,22 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/0CyJF98u2sjDTvw8j1Rotr"
+      },
+      "artists": [
+        {
+          "name": "Raspberries",
+          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
+        }
+      ],
+      "duration_ms": 126440,
+      "name": "Goin' Nowhere Tonight",
+      "url": "https://open.spotify.com/track/0AoHJoQJRDYWFasjoy1x26"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
         "name": "Rock 'N' Roll",
         "url": "https://open.spotify.com/album/4D5tTcz72CXGPtzTabLTDY"
       },
@@ -6223,22 +6239,6 @@
       "duration_ms": 293893,
       "name": "You Can't Catch Me - Remastered 2010",
       "url": "https://open.spotify.com/track/1xMyiK7PWLyGSumPizoYkK"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
-        "name": "Best Of Sweet",
-        "url": "https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG"
-      },
-      "artists": [
-        {
-          "name": "Sweet",
-          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Blockbuster",
-      "url": "https://open.spotify.com/track/7nvqg2Lkn7mYnmtP5egCmr"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6271,6 +6271,22 @@
       "duration_ms": 325026,
       "name": "In The Heat Of The Night",
       "url": "https://open.spotify.com/track/3eAh3qyyASMRQV9639vPHi"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Best Of Sweet",
+        "url": "https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG"
+      },
+      "artists": [
+        {
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Blockbuster",
+      "url": "https://open.spotify.com/track/7nvqg2Lkn7mYnmtP5egCmr"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6371,22 +6387,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Alvin Stardust",
-        "url": "https://open.spotify.com/album/7LmRatCq9s03iY3mNjkBNU"
-      },
-      "artists": [
-        {
-          "name": "Alvin Stardust",
-          "url": "https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "You You You",
-      "url": "https://open.spotify.com/track/1H7qaaKPl3vegsu7m1jV2M"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Desolation Boulevard",
         "url": "https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54"
       },
@@ -6399,6 +6399,22 @@
       "duration_ms": 245933,
       "name": "The Six Teens",
       "url": "https://open.spotify.com/track/4JUvMWfJ69MCx6JT8G9pfN"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Alvin Stardust",
+        "url": "https://open.spotify.com/album/7LmRatCq9s03iY3mNjkBNU"
+      },
+      "artists": [
+        {
+          "name": "Alvin Stardust",
+          "url": "https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "You You You",
+      "url": "https://open.spotify.com/track/1H7qaaKPl3vegsu7m1jV2M"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6447,22 +6463,6 @@
       "duration_ms": 154599,
       "name": "Little Bit Of Love",
       "url": "https://open.spotify.com/track/3BmK7l5cxeBR1s8OjNWweO"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
-        "name": "Rocktober (The Best South African Rock Hits of All Time), Vol. 2",
-        "url": "https://open.spotify.com/album/7imHowytOIPb0w5RPViwWy"
-      },
-      "artists": [
-        {
-          "name": "John Kongos",
-          "url": "https://open.spotify.com/artist/15KbeP35gI9t2vgYzwsTjj"
-        }
-      ],
-      "duration_ms": 260773,
-      "name": "He's Gonna Step on You Again",
-      "url": "https://open.spotify.com/track/4Kqp11O4KoQ6cHAtH9Kf1x"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6547,22 +6547,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "A's, B's And Rarities",
-        "url": "https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW"
-      },
-      "artists": [
-        {
-          "name": "Mud",
-          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
-        }
-      ],
-      "duration_ms": 167293,
-      "name": "Hypnosis",
-      "url": "https://open.spotify.com/track/5mpK3PwhJPwZG6EqutrHMW"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Angel Station",
         "url": "https://open.spotify.com/album/0xmLAhek5dnJaQMXUL2PTT"
       },
@@ -6575,6 +6559,22 @@
       "duration_ms": 242226,
       "name": "You Angel You",
       "url": "https://open.spotify.com/track/4syCYjXifmtvGI5tDDmstN"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "A's, B's And Rarities",
+        "url": "https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW"
+      },
+      "artists": [
+        {
+          "name": "Mud",
+          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
+        }
+      ],
+      "duration_ms": 167293,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/5mpK3PwhJPwZG6EqutrHMW"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6647,22 +6647,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "People's People",
-        "url": "https://open.spotify.com/album/2ZCpSljywkjNwL4FpLNQtJ"
-      },
-      "artists": [
-        {
-          "name": "Andwella",
-          "url": "https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb"
-        }
-      ],
-      "duration_ms": 213906,
-      "name": "Mississippi Water",
-      "url": "https://open.spotify.com/track/2VErcrm4ZMT0D5ThoKmsTH"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "A's, B's And Rarities",
         "url": "https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW"
       },
@@ -6675,6 +6659,22 @@
       "duration_ms": 201560,
       "name": "Moonshine Sally",
       "url": "https://open.spotify.com/track/6NDkLC6f8UVCWM3P10Pl9d"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "People's People",
+        "url": "https://open.spotify.com/album/2ZCpSljywkjNwL4FpLNQtJ"
+      },
+      "artists": [
+        {
+          "name": "Andwella",
+          "url": "https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb"
+        }
+      ],
+      "duration_ms": 213906,
+      "name": "Mississippi Water",
+      "url": "https://open.spotify.com/track/2VErcrm4ZMT0D5ThoKmsTH"
     },
     {
       "added_at": "2022-11-17 15:37:46",

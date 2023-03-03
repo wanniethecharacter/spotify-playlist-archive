@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,802 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,914 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 99 | [Todo Está Bien](https://open.spotify.com/track/38eAUn1uCsiFDVtcqleR0k) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Todo Está Bien](https://open.spotify.com/album/7kHy0i2Knq8XMqHDHH3lbf) | 2:50 |
 | 100 | [Doodoodoo](https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Doodoodoo](https://open.spotify.com/album/1m3Iv9AHZuPQBB9IhAZwkW) | 2:53 |
 
-Snapshot ID: `MTY3NTM3NzI3NCwwMDAwMDAwMDEyMzg3NjdhNjk4NGU4N2FlM2ExZjA2MjRmZjk2MmM1`
+Snapshot ID: `MTY3NTM3NzI3NCwwMDAwMDAwMGU3Yzc2MGY3NmEwNDIwNTFiNDZiYzAzN2JjZjQ1MWI2`

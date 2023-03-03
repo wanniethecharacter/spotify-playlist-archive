@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,972 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,979 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 | 59 | [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 |
 | 60 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDZhODJlOWY2MjIxYWExZDBlMTJiMzNlMmU0NjhmNmY2`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGEwMTFkOTA4NDQzMWE5MmQ5NDE0YzI2NGZiMGVjNmJk`

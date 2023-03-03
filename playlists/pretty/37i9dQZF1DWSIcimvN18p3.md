@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Anaïs Mitchell
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,882 likes - 150 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,926 likes - 150 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 149 | [Wax & Wane](https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd) | 4:31 |
 | 150 | [Queen Jane Approximately](https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y) | [Emma Swift](https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R) | [Blonde On The Tracks \(Deluxe Edition\)](https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i) | 4:36 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDBkMzczMDZiMzBkZjI5NWI1MDBiMzMxODk1NWYxNDNk`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDc5ZTU2NTYyZTBlYWQyOTBlZjU5Njc5ZDFlMjI4ZDhj`

@@ -1,12 +1,12 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 9734232,
+  "num_followers": 9738845,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDk4NmI4ZThhOGE4OTdkOWZlMmZjY2YzMWRlNTA0MTY1",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDhiMDEyZGUxOWE0NDQ0NDE2MDBjMDdiOTBlNmZkODdi",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -3044,6 +3044,10 @@
       },
       "artists": [
         {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
           "name": "Dimitri Vegas",
           "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
         },
@@ -3054,10 +3058,6 @@
         {
           "name": "Nicole Scherzinger",
           "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         }
       ],
       "duration_ms": 121987,

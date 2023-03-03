@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8wQlaHugtg.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nnekaenergy/">Nneka Onuorah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84 likes - 48 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 48 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8wQlaHugtg.md) - [plain]
 | 47 | [No One In the World](https://open.spotify.com/track/3P8v2bYhgJ7Eba8Br6pr3H) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80's R&B Love Songs](https://open.spotify.com/album/4L3FI9QrKFMUTphuIm5m7n) | 4:06 |
 | 48 | [Me, Myself and I](https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 5:01 |
 
-Snapshot ID: `MTY3NTI4MTYwMCwwMDAwMDAwMDNhZTUzZTczNzNiM2MxYzI4NzU4ZWZlMmU5OGYyMmYy`
+Snapshot ID: `MTY3NTI4MTYwMCwwMDAwMDAwMDgyM2JlZTc4N2U3NDZjMjVhNWU5NjgyMjk3MzA5MWU0`

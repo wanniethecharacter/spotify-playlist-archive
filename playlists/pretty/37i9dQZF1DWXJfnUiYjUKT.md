@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: KAROL G & Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,019 likes - 98 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,079 likes - 98 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 97 | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a) | 3:42 |
 | 98 | [Thunderhead](https://open.spotify.com/track/3woo6ubZdBV8T1bnGJo88Z) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Thunderhead](https://open.spotify.com/album/48gkRDpI0se4nXmqxjT4Kp) | 4:33 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDIwYTI2NzUzMzljNDUyMGIwYmVhOTgwYjYxMWVkYzZk`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDUxNjMzZDI4NzNiNzliMDFlMjUyNjBlOGZmZmMyOTc3`

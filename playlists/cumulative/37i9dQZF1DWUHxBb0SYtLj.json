@@ -4703,6 +4703,24 @@
     },
     {
       "album": {
+        "name": "Lalala",
+        "url": "https://open.spotify.com/album/6l3wtti5FvkeiUpjgVyqy9"
+      },
+      "artists": [
+        {
+          "name": "Schiuma",
+          "url": "https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171641,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/2wdDtaUDH2okKZhB89qKtS"
+    },
+    {
+      "album": {
         "name": "Lama d'argento",
         "url": "https://open.spotify.com/album/5L7VlGYr1fxz3BNHvubzl2"
       },

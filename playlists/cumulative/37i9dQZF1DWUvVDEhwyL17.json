@@ -1414,7 +1414,7 @@
     {
       "album": {
         "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf"
+        "url": "https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0"
       },
       "artists": [
         {
@@ -1425,6 +1425,24 @@
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 152181,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i"
+    },
+    {
+      "album": {
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-03",
       "duration_ms": 152181,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY"

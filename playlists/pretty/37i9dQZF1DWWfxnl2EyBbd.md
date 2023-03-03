@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,369 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,474 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 149 | [chemin de la lune](https://open.spotify.com/track/7BgjINRWnW9fIiuLdMXQ5R) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [chemin de la lune](https://open.spotify.com/album/15mvy7ylxmKsgrBHa0WCA1) | 3:39 |
 | 150 | [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDM5ZWU4ZjdlNjk4OTYwOTYwZjhiOWQ5ZDY2YzBkN2Ix`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDcyNDRiYmU5MWFiN2VkNDVmM2M2ZjM2YjRkZmE0MGU3`

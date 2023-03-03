@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,617 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,565 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 74 | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff) | 2:47 |
 | 75 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/2DMNyQvAMAr9yqDkCdTIBn) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 2:29 |
 
-Snapshot ID: `MTY3MTc2Mjk5MiwwMDAwMDAwMDAzZThiZDc1NDA0Y2ZhYmFkYzdmYzExN2ZhNGJhM2Rh`
+Snapshot ID: `MTY3MTc2Mjk5MiwwMDAwMDAwMGRjZGYwNTBkNjgyZTAyNjAzNzA4OTBlMjhiOWM5ZTgw`

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Kid Milli, Miranni, LOOPY, sAewoo\)
 
-817 songs - 1 day 21 hr 20 min
+818 songs - 1 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,6 +642,7 @@
 | [Scent of Winning \(Feat\. San E\)](https://open.spotify.com/track/7Gq6eHpZZPnNnz8GfkQcl3) | [Sycho](https://open.spotify.com/artist/0alOpDUsBEmBJqSZHT6z2P), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [SYCHO EP1](https://open.spotify.com/album/4IJpig7tV4S89akXGgaPuN) | 3:09 | 2022-06-09 | 2022-06-13 |
 | [Seat Belt \(Feat\. Dynamic Duo\)](https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Pphk](https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv), [다이나믹 듀오](https://open.spotify.com/artist/16cRWWcs7lg0DxKweabRhf) | [Primary and Pphk Pt.1](https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t) | 4:08 | 2022-06-18 | 2022-08-13 |
 | [Self Isolation \(feat\. Paloalto\)](https://open.spotify.com/track/6neQsYjtYlp98ioxs2XhZn) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Self Isolation](https://open.spotify.com/album/190NSlHxe7iDHTe1V9Pb5c) | 3:37 | 2022-04-28 | 2022-07-06 |
+| [Sensei season 1](https://open.spotify.com/track/0pRlrqpg3TDfwtlUanEAz1) | [SILKYBOIS](https://open.spotify.com/artist/19e5d7VkNQCFklPG8Iqdy5) | [THE JAB PACK Pt\. 1](https://open.spotify.com/album/62jrUkd4yvBlazYp5UvyJz) | 2:51 | 2023-03-02 |  |
 | [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 | 2023-02-24 |  |
 | [Set It Off](https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [DPR CLINE](https://open.spotify.com/artist/4Z6fYh9ANGOfOSylYE5gZz) | [Set It Off](https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W) | 2:30 | 2022-05-04 | 2022-07-08 |
 | [Set me Free \(Feat\. Loopy, Jvcki Wai\)](https://open.spotify.com/track/5vV2KCFpZUM3WVsnBDxojc) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 4:11 | 2021-12-21 | 2022-06-28 |

@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Groove Delight
 
-118 songs - 6 hr 2 min
+119 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Next to Me \- Vintage Culture Remix](https://open.spotify.com/track/2bidvM5hM1LGiEDkgp0EUz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Next to Me \(Remixes\)](https://open.spotify.com/album/1ZzxjxcYWxEStGTGPNHsG9) | 6:22 | 2021-12-24 |  |
 | [Night Time](https://open.spotify.com/track/4COSS0u8fXB2qYtW5bbVaE) | [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Marmii](https://open.spotify.com/artist/6AgnQLNYgI4j92GWE4cg6k) | [Night Time](https://open.spotify.com/album/5eo5f4UypNJpSMMzFtqUrB) | 2:15 | 2022-09-23 | 2023-01-21 |
 | [Nothing](https://open.spotify.com/track/7mI2Hb578fXNLJOTfAdICI) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2) | [Nothing](https://open.spotify.com/album/6ICQ72lx4SLiwNxT5iVVc5) | 2:54 | 2021-12-24 | 2022-07-30 |
+| [Oi Oi Oi](https://open.spotify.com/track/1fn0416bV6PgBQW7WtG97v) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Maxximal](https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY), [MC Hollywood](https://open.spotify.com/artist/5jjAhuJ1IyVRmm4ZsXhsRG) | [Oi Oi Oi](https://open.spotify.com/album/4ABDUmuhob2WNlAXTprObg) | 2:17 | 2023-03-03 |  |
 | [Poison](https://open.spotify.com/track/5KBZtEhzSiFyKNjtRSqTpJ) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Poison](https://open.spotify.com/album/1TPKLkMqhU8arg0gX9lA6n) | 3:27 | 2021-12-24 | 2022-03-18 |
 | [Pontos de Exclamação \- Vintage Culture & Future Class Remix](https://open.spotify.com/track/3AEw2EfF9Ng84Y3WDxV8Cn) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [Pontos de Exclamação \(Vintage Culture & Future Class Remix\)](https://open.spotify.com/album/5uGTf6Y1rdXMZi9iRLTHZF) | 3:38 | 2021-12-24 | 2022-04-09 |
 | [Pretender](https://open.spotify.com/track/2OM6aYmfvRVnYAnfo7I9V7) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Yann Camargo](https://open.spotify.com/artist/1FAj2IV5DuzAW8Q5V9EDbp), [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Pretender](https://open.spotify.com/album/6DprqvZwBR7EGIuIfQ0J3T) | 2:50 | 2021-12-24 |  |

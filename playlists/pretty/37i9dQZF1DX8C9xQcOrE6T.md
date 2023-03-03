@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All of your favorite Disney hits, including songs from Encanto\. Stream Encanto on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,852,969 likes - 128 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,855,366 likes - 128 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 127 | [The Place Where Lost Things Go](https://open.spotify.com/track/6BK8BcFxMFr3JVUaAOZsYC) | [Emily Blunt](https://open.spotify.com/artist/1Q67mZjXzxBuLSgvgFdtuG) | [Mary Poppins Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B) | 3:43 |
 | 128 | [Main Title / Once Upon A Dream / Prologue \- From "Sleeping Beauty"/Soundtrack Version](https://open.spotify.com/track/4qKDjmz094Bu2wMepNuwVN) | [Chorus \- Sleeping Beauty](https://open.spotify.com/artist/1c4ltuRXEIo20Y9UOPxiA0) | [Sleeping Beauty](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) | 2:57 |
 
-Snapshot ID: `MTY3NzI3MTUzOCwwMDAwMDAwMDA1YzAzM2I4MDdiMDFhNDQ1ZWQ2YmE2MzdjZjdiZjhh`
+Snapshot ID: `MTY3NzI3MTUzOCwwMDAwMDAwMGZlNzAyOWNlOThjMmU4ZjFiNjNlZTEzYjQxNzYwM2Ux`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Raimundo el Canastero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,703 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,707 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Tu Estrella](https://open.spotify.com/track/65lYImuXhcPB2QkWb3xcQb) | [Entalpía](https://open.spotify.com/artist/2ttOCwacWTfLos1qSfWZDg), [TTM Prod](https://open.spotify.com/artist/5aTHRHzjxamo4oDzfyLG2y) | [Tu Estrella](https://open.spotify.com/album/6nZBpjlsqlrzl2YdNiVbVb) | 3:06 |
 | 50 | [Pansequito](https://open.spotify.com/track/1wjB84uPM55JuiBlm9j9T9) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d), [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu) | [Pansequito](https://open.spotify.com/album/2OYFKPnrFZdZczJAuENE61) | 3:17 |
 
-Snapshot ID: `MTY3NzYyNTIwMCwwMDAwMDAwMDVmY2FmODgzMjU2MDczMTkyMzJmMmQxY2NlZGI1ZWM0`
+Snapshot ID: `MTY3NzYyNTIwMCwwMDAwMDAwMDE5N2M2YjllZDIwN2M0N2Y1ZGRkOTQ4ZGJmMzIwNTE3`

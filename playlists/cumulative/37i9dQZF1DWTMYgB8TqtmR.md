@@ -4,7 +4,7 @@
 
 > It's Hits – bästa och största hitsen just nu.
 
-392 songs - 19 hr 44 min
+393 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [PS jag hatar dig](https://open.spotify.com/track/5rJV3q2Z2QIZaJWSfhPt2w) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:42 | 2021-12-16 | 2022-01-14 |
 | [PSYCHO](https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [PSYCHO](https://open.spotify.com/album/7qUT6ERWHp2U6RdUkuYZ3O) | 2:42 | 2022-09-15 | 2022-09-27 |
 | [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:21 | 2022-04-07 | 2022-05-04 |
+| [Psykopat](https://open.spotify.com/track/549YcFCZtSzi5JDzZszYzw) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Psykopat](https://open.spotify.com/album/3Tz4Nx90tMdRiA0IZzrJxL) | 2:47 | 2023-03-02 |  |
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2022-11-10 | 2022-11-25 |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-02-02 |  |
 | [Queens](https://open.spotify.com/track/5y7P80dZWvvakgj89Gkekn) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Queens](https://open.spotify.com/album/1AjJDrIkBxVjaVkhSD8wRt) | 2:57 | 2022-04-14 | 2022-04-29 |
@@ -399,6 +400,6 @@
 | [ZUTTLUKTEN](https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [ZUTTLUKTEN](https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw) | 1:54 | 2022-08-16 | 2022-11-04 |
 | [Återvändsgränd](https://open.spotify.com/track/2glvJpNPCnuhAKLq1lIdWz) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Så mycket bättre 2022 \- Tolkningarna](https://open.spotify.com/album/20TlyZgpi1xGo3C4ECtG7h) | 3:15 | 2023-01-19 | 2023-01-27 |
 | [Återvändsgränd](https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Återvändsgränd](https://open.spotify.com/album/0HcXNRFN67R6c7uFKLSQxA) | 3:15 | 2022-11-24 | 2023-01-25 |
-| [åtta shots](https://open.spotify.com/track/6fdZ0dGYPVMgwlextDDJDs) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [åtta shots](https://open.spotify.com/album/6noUcSo95FnWv2yUGH8H42) | 2:28 | 2023-01-26 |  |
+| [åtta shots](https://open.spotify.com/track/6fdZ0dGYPVMgwlextDDJDs) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [åtta shots](https://open.spotify.com/album/6noUcSo95FnWv2yUGH8H42) | 2:28 | 2023-01-26 | 2023-03-03 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

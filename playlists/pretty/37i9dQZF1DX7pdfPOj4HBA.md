@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 
 > chill vibes ♡
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,839 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,031 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 | 74 | [Make Me Wanna](https://open.spotify.com/track/7KDTidXitqxwRz6UhfWXsB) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Make Me Wanna](https://open.spotify.com/album/12M4YKGroXOTB1VWY8jhtj) | 2:54 |
 | 75 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 |
 
-Snapshot ID: `MTY3Mzk3ODQwMCwwMDAwMDAwMDM1NTRmOGEyY2QyYTgwNjcxNDFlNDFmN2UxMDE4MmM3`
+Snapshot ID: `MTY3Mzk3ODQwMCwwMDAwMDAwMDYwNjgwOGU1YzJkYWIyMmQ5YzAyZjAyYWM4YmMwYTEx`

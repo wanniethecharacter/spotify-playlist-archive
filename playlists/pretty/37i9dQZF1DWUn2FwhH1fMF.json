@@ -1,12 +1,12 @@
 {
   "description": "The best dance songs of 2022. Cover: Charlotte de Witte",
-  "num_followers": 31531,
+  "num_followers": 31553,
   "original_name": "mint Presents... Best Dance Songs of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNjAyMCwwMDAwMDAwMGJkZjhkOWQ4YWJmMTcxZWVkZTM2MTFmZTY0OTYyMGNm",
+  "snapshot_id": "MTY2OTgxNjAyMCwwMDAwMDAwMDIwMTI3MDZiNGU5YzE0YzIyM2ExNzQwNjVjNmRhNjc1",
   "tracks": [
     {
       "added_at": "2022-11-30 13:47:00",
@@ -1016,6 +1016,10 @@
       },
       "artists": [
         {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
           "name": "Dimitri Vegas",
           "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
         },
@@ -1026,10 +1030,6 @@
         {
           "name": "Nicole Scherzinger",
           "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         }
       ],
       "duration_ms": 121987,

@@ -796,7 +796,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 125555,
       "name": "Block Party",
       "url": "https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 140375,
       "name": "BOTAS",
       "url": "https://open.spotify.com/track/0o0Vq3U25bkb8yYLCeQmIq"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 129032,
       "name": "B\u00e4sta Jag Vet (Gathering Crew)",
       "url": "https://open.spotify.com/track/2G63amUDQ43l9sX5LH5sew"
@@ -1680,6 +1680,28 @@
       "duration_ms": 164761,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
+    },
+    {
+      "album": {
+        "name": "Det \u00e4r ju dej jag g\u00e5r och v\u00e4ntar p\u00e5 (EPA Remix)",
+        "url": "https://open.spotify.com/album/5MsRSfaxvQehcTLDbfNqXj"
+      },
+      "artists": [
+        {
+          "name": "Stefan Borsch",
+          "url": "https://open.spotify.com/artist/4vZVZdOf8Hd82CzxfyHT3L"
+        },
+        {
+          "name": "N!NE",
+          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181320,
+      "name": "Det \u00e4r ju dej jag g\u00e5r och v\u00e4ntar p\u00e5 - N!NE EPA Remix",
+      "url": "https://open.spotify.com/track/49yeVcXtPPmiUV5ipq0C6o"
     },
     {
       "album": {
@@ -2241,6 +2263,32 @@
     },
     {
       "album": {
+        "name": "Dyngrak",
+        "url": "https://open.spotify.com/album/4nZ4hG0wOSCW4SFPMwAUUG"
+      },
+      "artists": [
+        {
+          "name": "B3nte",
+          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
+        },
+        {
+          "name": "Byz",
+          "url": "https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf"
+        },
+        {
+          "name": "Mike Emilio",
+          "url": "https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Dyngrak",
+      "url": "https://open.spotify.com/track/5K43navq707q9fWgip9l9l"
+    },
+    {
+      "album": {
         "name": "DYR BENSIN",
         "url": "https://open.spotify.com/album/4CuL02B8XYSGoTdIxiqy8L"
       },
@@ -2383,6 +2431,28 @@
     },
     {
       "album": {
+        "name": "Edelweiss (EPA Remix)",
+        "url": "https://open.spotify.com/album/0WVH272arnoPULTric7hm7"
+      },
+      "artists": [
+        {
+          "name": "Signe & Hj\u00f6rdis",
+          "url": "https://open.spotify.com/artist/4pkf3JUp7fOYK7kumrKuqG"
+        },
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200072,
+      "name": "Edelweiss (EPA Remix)",
+      "url": "https://open.spotify.com/track/368Q4Yef7c2ldUKQjcuGHS"
+    },
+    {
+      "album": {
         "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
         "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
       },
@@ -2402,7 +2472,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 140245,
       "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
       "url": "https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60"
@@ -2787,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Fan vad du \u00e4r snygg n\u00e4r jag \u00e4r full (Remix)",
+        "url": "https://open.spotify.com/album/2zD7DOoU43vlOxZA7jOSKd"
+      },
+      "artists": [
+        {
+          "name": "250 kg k\u00e4rlek",
+          "url": "https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171403,
+      "name": "Fan vad du \u00e4r snygg n\u00e4r jag \u00e4r full - Remix",
+      "url": "https://open.spotify.com/track/1gl1exrlnvfaWfK5DPn0YN"
+    },
+    {
+      "album": {
         "name": "Fanny And The Wee",
         "url": "https://open.spotify.com/album/2o8Sjuqct6Ok8rmLQWwOKS"
       },
@@ -2820,7 +2908,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 125353,
       "name": "FAST I LIFTEN",
       "url": "https://open.spotify.com/track/1G7g8V6d5jElmRg0x6ZTny"
@@ -3876,7 +3964,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 139215,
       "name": "GRANNEN",
       "url": "https://open.spotify.com/track/5txP2z9la3VltJANNVaQFW"
@@ -3941,6 +4029,24 @@
     },
     {
       "album": {
+        "name": "Guld och gr\u00f6na skogar",
+        "url": "https://open.spotify.com/album/2Z1u5B0WIFbMfNNBgrS4lF"
+      },
+      "artists": [
+        {
+          "name": "Megic Mike",
+          "url": "https://open.spotify.com/artist/50BfmbQzyebl7dnjVBpx7c"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153896,
+      "name": "Guld och gr\u00f6na skogar",
+      "url": "https://open.spotify.com/track/47a6WikXgLuoinsW1aqZ11"
+    },
+    {
+      "album": {
         "name": "G\u00e5 Til Stan",
         "url": "https://open.spotify.com/album/3GJtuMSG0s6XBh5dbTH8dZ"
       },
@@ -3974,6 +4080,24 @@
       "duration_ms": 145940,
       "name": "G\u00c5R DET BRA?",
       "url": "https://open.spotify.com/track/0qswyajymNk1uMRplcKx3P"
+    },
+    {
+      "album": {
+        "name": "HALSA HELA FLASKAN",
+        "url": "https://open.spotify.com/album/52hThFxaOwV25oPcxD4lmf"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139197,
+      "name": "HALSA HELA FLASKAN",
+      "url": "https://open.spotify.com/track/6OzTVuvzUMvSL5vp4ZQJhi"
     },
     {
       "album": {
@@ -4176,6 +4300,24 @@
       "duration_ms": 132064,
       "name": "Hej Alla Raggare",
       "url": "https://open.spotify.com/track/294hfH0VbX7jwv4PcyOlgb"
+    },
+    {
+      "album": {
+        "name": "Helt J\u00e4vla Dum",
+        "url": "https://open.spotify.com/album/6jPferYkeSmj10TbXK0wK4"
+      },
+      "artists": [
+        {
+          "name": "Gruvknegarn",
+          "url": "https://open.spotify.com/artist/4Fou3orLfT05WzkA9vzYEb"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Helt J\u00e4vla Dum",
+      "url": "https://open.spotify.com/track/2duXCmf44h6zbBV8fVGcfC"
     },
     {
       "album": {
@@ -5365,6 +5507,28 @@
     },
     {
       "album": {
+        "name": "Kommer Inte In (T&B Remix)",
+        "url": "https://open.spotify.com/album/1QtsCN2IUM9dJ8hAuMYhv5"
+      },
+      "artists": [
+        {
+          "name": "Sm\u00f6rebua",
+          "url": "https://open.spotify.com/artist/3choMl26IyqK5yBJPwN2Qk"
+        },
+        {
+          "name": "Thomassen & Berg",
+          "url": "https://open.spotify.com/artist/2h3XAFvVOB0uIWDcucNzv2"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126895,
+      "name": "Kommer Inte In (T&B Remix)",
+      "url": "https://open.spotify.com/track/3Rsc9NvYg3I5hiOpD7O6o7"
+    },
+    {
+      "album": {
         "name": "KONSEKVENSER",
         "url": "https://open.spotify.com/album/7efRAMIPMYiA0nDkxT862U"
       },
@@ -5450,6 +5614,32 @@
       "duration_ms": 163529,
       "name": "KUNGEN I GATAN",
       "url": "https://open.spotify.com/track/2wyZ8y2WfTiSLVeNhZW0wa"
+    },
+    {
+      "album": {
+        "name": "K\u00c4R I EN BLONDIN",
+        "url": "https://open.spotify.com/album/4rprzifHCAKe5OOINjtWro"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+        },
+        {
+          "name": "demz",
+          "url": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132995,
+      "name": "K\u00c4R I EN BLONDIN",
+      "url": "https://open.spotify.com/track/3NCUssVuiCr9UVDRaHjdU1"
     },
     {
       "album": {
@@ -6066,7 +6256,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 123510,
       "name": "L\u00f6rdag hela veckan",
       "url": "https://open.spotify.com/track/6TYMsHDg0k82HmBfN3foub"
@@ -6198,7 +6388,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 186692,
       "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
       "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
@@ -6398,6 +6588,28 @@
       "duration_ms": 156610,
       "name": "Moonlight Shadow",
       "url": "https://open.spotify.com/track/35wC2S4HBFHe1mUJINo1Qh"
+    },
+    {
+      "album": {
+        "name": "Motorburen Ungdom",
+        "url": "https://open.spotify.com/album/6OKcsPt2vx2cQAjOZ2HAAw"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139647,
+      "name": "Motorburen Ungdom",
+      "url": "https://open.spotify.com/track/2cV9QjbN9qHkU3nzqg6fsl"
     },
     {
       "album": {
@@ -6872,7 +7084,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 123925,
       "name": "OM HAN BJUDER BUBBEL",
       "url": "https://open.spotify.com/track/7bTvhbLJ8MOho9tFOqWyi1"
@@ -7649,6 +7861,24 @@
     },
     {
       "album": {
+        "name": "RAGGEN G\u00c5R",
+        "url": "https://open.spotify.com/album/30p5LHwQPCPkjJMvlFoyOs"
+      },
+      "artists": [
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178693,
+      "name": "RAGGEN G\u00c5R",
+      "url": "https://open.spotify.com/track/5tq2w7SbOai77pCgdi2hcI"
+    },
+    {
+      "album": {
         "name": "Raggen m\u00e5ste g\u00e5",
         "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
       },
@@ -8254,7 +8484,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 119803,
       "name": "SE P\u00c5 MIG JAG DANSAR UTAN DIG",
       "url": "https://open.spotify.com/track/0p2xrYWk6xXNoYG4FPdvYD"
@@ -8518,7 +8748,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 115906,
       "name": "Skavlan",
       "url": "https://open.spotify.com/track/0151EmrxYjXr8efKgGCfWU"
@@ -8962,10 +9192,32 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 130588,
       "name": "SPELAR LITE DOTA",
       "url": "https://open.spotify.com/track/2iZ0lth0LzIqzwre0SzQUW"
+    },
+    {
+      "album": {
+        "name": "Sprit & bubbel",
+        "url": "https://open.spotify.com/album/6nvTimS6DA1Wq7r3HthFS3"
+      },
+      "artists": [
+        {
+          "name": "Maximus",
+          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
+        },
+        {
+          "name": "Hugge",
+          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Sprit & bubbel",
+      "url": "https://open.spotify.com/track/1g7b4k2ADrqOZFkepFoU6G"
     },
     {
       "album": {

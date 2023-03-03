@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,282 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,375 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [Sweet Lucinda](https://open.spotify.com/track/6EMOrIVN27rTNUYn7z15OG) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [Mockingbird](https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2) | 2:45 |
 | 150 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDA2MGZkOTgzNzc4NjU0MTJhMTkxYWRkZGYwZDE4Nzdh`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDAzNzczZjE4M2E2NzFhMGE3YmM1ZGI5MDZiM2UzNjE3`

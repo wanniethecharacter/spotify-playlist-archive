@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,193 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,207 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Through the Night](https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj) | [Rubber Duc](https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU) | [Through the Night](https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3) | 3:39 |
 | 60 | [Fine Little Rhythm](https://open.spotify.com/track/2YPAhxlPU2tcdlS4YSx5PA) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Fine Little Rhythm](https://open.spotify.com/album/05VHHbajKoryAVCTSZDDkb) | 3:31 |
 
-Snapshot ID: `MTY3Mzg2NjAyMywwMDAwMDAwMGJjZTM2YmRmNDU5N2IyZTMzY2QyMDk0MDRhY2QwMTY4`
+Snapshot ID: `MTY3Mzg2NjAyMywwMDAwMDAwMGEwOTEyNTU5ZTNlMWI2YWFhZDQ4NzBjZjJmMGYyOGIx`

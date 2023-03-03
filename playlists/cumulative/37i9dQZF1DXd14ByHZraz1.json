@@ -1799,6 +1799,32 @@
     },
     {
       "album": {
+        "name": "Oi Oi Oi",
+        "url": "https://open.spotify.com/album/4ABDUmuhob2WNlAXTprObg"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Maxximal",
+          "url": "https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY"
+        },
+        {
+          "name": "MC Hollywood",
+          "url": "https://open.spotify.com/artist/5jjAhuJ1IyVRmm4ZsXhsRG"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137952,
+      "name": "Oi Oi Oi",
+      "url": "https://open.spotify.com/track/1fn0416bV6PgBQW7WtG97v"
+    },
+    {
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/1TPKLkMqhU8arg0gX9lA6n"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,491 likes - 120 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,517 likes - 120 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [Clear moment](https://open.spotify.com/track/5khfKdJXTPsqK6PviRofGE) | [Paulo May](https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8) | [Elevate](https://open.spotify.com/album/1MWyqip0t6nGrWIg1G1yyh) | 3:44 |
 | 120 | [Naslednjič](https://open.spotify.com/track/5k5b3ig0xlbvN2jVMKDsF5) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Naslednjič](https://open.spotify.com/album/7aVQfJW3wiyVUOtr22fQiv) | 3:15 |
 
-Snapshot ID: `MTY3NzI2MjI0NCwwMDAwMDAwMGYzYjEyM2I5Mjg3OGMyMjJmZTVkZmYwYzhhYmRiMDFh`
+Snapshot ID: `MTY3NzI2MjI0NCwwMDAwMDAwMDcwY2ExNzU0MzhmNzQ2NTA4N2VhNTViYzBkMmEyOTQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,169,319 likes - 106 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,169,566 likes - 106 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 105 | [Through a Glass \(Quartet Version\)](https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds Quartets](https://open.spotify.com/album/3UAvR6CXIWN1rChkxlZ1OM) | 3:53 |
 | 106 | [Walk Through the Fire](https://open.spotify.com/track/7isJy30YmISuhHwgz5dRDa) | [Zayde Wølf](https://open.spotify.com/artist/7LIy7KinYq7a83dUH6kvxT), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Golden Age](https://open.spotify.com/album/7FMlFMWvVuAtEVmKNbh1Uh) | 3:36 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGRlZDFmOGM5YTY3ZDI3MjEzODdmYTNkNDJmY2Q1ZTUz`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDVkMGE5OWM1NWM3NGM5NzhjYmRkMmI4MWQxZDU0ZTcz`

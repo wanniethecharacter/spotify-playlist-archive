@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482,581 likes - 76 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,388 likes - 76 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 75 | [THE REV3NGE](https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [THE REV3NGE](https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1) | 2:27 |
 | 76 | [Finger Food](https://open.spotify.com/track/1gXOwyDr6zzIL6FHk5L9IJ) | [Rolling Loud](https://open.spotify.com/artist/1KV1kUwVWFHdF8J4GGiMkg), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Finger Food](https://open.spotify.com/album/5PMB3dVQeDR63EftsRyVd1) | 3:38 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDBmOWQ2ZmU5MTJmMzk2NTVkMzY2MzlmYzYwMDg2NTQw`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGYzNmE4MTMzMjk0OTcwMGVhOTVhNTdlNzM3Njk2ZmIw`

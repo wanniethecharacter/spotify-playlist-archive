@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,302 likes - 150 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,307 likes - 150 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [Just The Cross](https://open.spotify.com/track/4rL4jepFTo9OeQ3A0bFej9) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Reborn](https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI) | 5:57 |
 | 150 | [Alive](https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Alive](https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i) | 3:25 |
 
-Snapshot ID: `MTY3NjY5OTY5OSwwMDAwMDAwMDgwNTc4YmU4Mzk2MDU0ZmQ3OWQ2YjRhZDZmYTJiODcz`
+Snapshot ID: `MTY3NjY5OTY5OSwwMDAwMDAwMGVlMmJlMzEzZTNmNzkxZjBmZDQyZjU0YjA4MjU1MmJh`

@@ -12131,6 +12131,24 @@
     },
     {
       "album": {
+        "name": "XXI",
+        "url": "https://open.spotify.com/album/5JsvLIkSY02w5LhyCGPb1n"
+      },
+      "artists": [
+        {
+          "name": "One Hope",
+          "url": "https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210807,
+      "name": "once upon a time",
+      "url": "https://open.spotify.com/track/0PULY7AIDcZ2LMjXc9oUay"
+    },
+    {
+      "album": {
         "name": "once upon a time",
         "url": "https://open.spotify.com/album/0gbp8QKU3YoK1364Zi9Arh"
       },
@@ -12142,7 +12160,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 210807,
       "name": "once upon a time",
       "url": "https://open.spotify.com/track/4NjujPB7uiaesE5BFzAWxL"

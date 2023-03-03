@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: rum.gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,310,389 likes - 135 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,310,694 likes - 135 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 40 | [Since We Ain't Together](https://open.spotify.com/track/7eB3zMEk2I77BCMx7a5fXD) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR) | [Since We Ain't Together](https://open.spotify.com/album/49Lod646QQQAiS0pCeHucW) | 3:16 |
 | 41 | [NOBODY KNOWS](https://open.spotify.com/track/3OJ1TK767oRsv44iHeiCV9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:47 |
 | 42 | [DAYEDREAMING](https://open.spotify.com/track/2iNDlXTLL11WAZn69AQBmg) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj) | [DAYEDREAMING](https://open.spotify.com/album/2nMRiKiIjQpV0UJsD0r98C) | 4:00 |
-| 43 | [Say You Want Me](https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Say You Want Me](https://open.spotify.com/album/0jKDicrmgUCTSNGRYXffXm) | 3:16 |
+| 43 | [Say You Want Me \- Single Version](https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Say You Want Me](https://open.spotify.com/album/0jKDicrmgUCTSNGRYXffXm) | 3:16 |
 | 44 | [Magic](https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip \(Deluxe\)](https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL) | 4:44 |
 | 45 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 |
 | 46 | [Consistency](https://open.spotify.com/track/2mqVR4y490UrJAtWEEW1UW) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Mood Swings](https://open.spotify.com/album/6sQl8OMZU75x9fLCRzQV02) | 2:31 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 134 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
 | 135 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDVmNzAyOTRmNjliNzNmNzhhOTJjYTQyZGFmMjYxZjg5`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDhkNjUzMDUxN2IyMDk2Njk2ODA0MTY1OWMxMjhkYjJi`

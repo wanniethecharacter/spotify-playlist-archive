@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,984 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,023 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 99 | [East Virginia Blues](https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw) | [Dominick Leslie](https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu), [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Impromptu Sessions No\. 2: Dominick Leslie & Ric Robertson \(Trust In Most\)](https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78) | 3:42 |
 | 100 | [Battersea Skillet Liquor](https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F) | [Damien O'Kane](https://open.spotify.com/artist/0rDGOgOmsA1itxFEhFfZCK), [Ron Block](https://open.spotify.com/artist/3f8ULbojWlnxQqju3KELZZ) | [Banjophony](https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW) | 4:17 |
 
-Snapshot ID: `MTY3NzIxNTA0MCwwMDAwMDAwMGUxMDIyMzk5OTJjOTkxMjIwOTRjMDZlZDFhZWFkYmU5`
+Snapshot ID: `MTY3NzIxNTA0MCwwMDAwMDAwMGRmNjBmOTZlNGQxMTg4MTI0ZWQwZWExN2QyOTdiYTZl`

@@ -4,12 +4,13 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-76 songs - 4 hr 4 min
+77 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Certain Smile](https://open.spotify.com/track/3S2CLXMqZvrikqslQ0Zca2) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:22 | 2022-10-13 |  |
 | [After The Rain](https://open.spotify.com/track/5VLNiOFRm9ZtMojrjS5faz) | [Edgar Finnegan](https://open.spotify.com/artist/15iw6gErDKXlPsa961xmHK) | [After The Rain](https://open.spotify.com/album/5IJekJTt2i6tL1BQDO3odQ) | 2:47 | 2022-10-13 |  |
+| [Afternoon In Paris](https://open.spotify.com/track/4Jj5FKnlYBNhbSyySVNutN) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [Afternoon In Paris](https://open.spotify.com/album/2YN0PxDGs7e0VzNDU2vDCD) | 2:11 | 2023-03-02 |  |
 | [Alone Together](https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Alone Together](https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm) | 2:09 | 2022-12-15 |  |
 | [And I Love Her](https://open.spotify.com/track/6ITNRagpLcw79jH8gkiyBS) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [What's It All About](https://open.spotify.com/album/1PFk7YXdSPenmhnsy85qN0) | 4:22 | 2022-10-13 |  |
 | [Ask Me Now](https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre) | [Teemu Viinikainen](https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR) | [Ask Me Now](https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf) | 2:30 | 2022-10-13 |  |
@@ -64,7 +65,7 @@
 | [Red Sails in the Sunset](https://open.spotify.com/track/04ri8jkQTdZu3zu8ZbKZE8) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf), [John Pizzarelli Trio](https://open.spotify.com/artist/11elWakIc74gxcI5tftMKc) | [For Centennial Reasons: 100 Year Salute to Nat King Cole](https://open.spotify.com/album/0w7OS1dHGc86hVVuVC5y0S) | 3:20 | 2022-10-13 |  |
 | [Responsibilities](https://open.spotify.com/track/1Dx14n9PXzZ94BdZ8EUuHR) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 4:26 | 2022-10-13 |  |
 | [Satin Doll](https://open.spotify.com/track/2gLre4glCEpcNC0jxQzGaX) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Satin Doll](https://open.spotify.com/album/6NmACvVbLu1hgvQcaFiW2V) | 2:14 | 2022-12-29 |  |
-| [Send In The Clowns](https://open.spotify.com/track/3kdtKIAtbPAxQvalOD7kO6) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 2:46 | 2022-10-13 |  |
+| [Send In The Clowns](https://open.spotify.com/track/3kdtKIAtbPAxQvalOD7kO6) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 2:46 | 2022-10-13 | 2023-03-03 |
 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 | 2022-10-13 |  |
 | [Shenandoah](https://open.spotify.com/track/1jzpB4HeNMkAgb2SjJbE5B) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Best Jazz Guitarists](https://open.spotify.com/album/4ahmB62pU2kxrpiMvOUhjz) | 1:46 | 2022-10-13 |  |
 | [Someday My Prince Will Come](https://open.spotify.com/track/3WoSrYUi2UoF321UCXE6UO) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Someday My Prince Will Come](https://open.spotify.com/album/3me7OLET9zLwToQ2TOk5yh) | 2:35 | 2022-10-27 |  |

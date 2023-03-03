@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 185200,
       "name": "Everything We Need",
       "url": "https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p"
@@ -1278,6 +1278,24 @@
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "album": {
+        "name": "Evil",
+        "url": "https://open.spotify.com/album/5EdJlD6ASMACKDLhczcwhb"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163279,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/2huOPxihus7AAslKHs3mGc"
     },
     {
       "album": {
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 187283,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/3wWOrHzqyVYQRIXULQ1NGo"
@@ -3826,6 +3844,24 @@
       "duration_ms": 198849,
       "name": "Will Of The People",
       "url": "https://open.spotify.com/track/3EDKy3jIiw1OJqqZcdOCxm"
+    },
+    {
+      "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/5Vm1tsyBk4dH1ZoBE7SeBw"
+      },
+      "artists": [
+        {
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200228,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/3VBUIYlQkfXWIEgmWUkAt0"
     },
     {
       "album": {

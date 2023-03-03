@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,261 likes - 200 songs - 12 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,648 likes - 200 songs - 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 | 199 | [3分29秒](https://open.spotify.com/track/04rQMy0kPLdMyIeK5oyg1g) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [3分29秒](https://open.spotify.com/album/0l0hLJxGeK6iCufmS9UQi3) | 3:30 |
 | 200 | [I Wanna Be...](https://open.spotify.com/track/4Dygh4Ef0TFQQOvKbLGbXf) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍\~Wadachi\~](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:55 |
 
-Snapshot ID: `MTY3Njg4ODM5NCwwMDAwMDAwMGZiMWQzYmY4MWY1ZGFhOGJkYTgxMDcxOGZhOThlNTEz`
+Snapshot ID: `MTY3Njg4ODM5NCwwMDAwMDAwMDNhMmE5YjU1MGQ5MjU0YmI1MGQ4OGUzNjBkN2EyNjhj`

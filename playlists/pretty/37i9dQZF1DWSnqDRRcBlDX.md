@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,076 likes - 51 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,174 likes - 51 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 50 | [Get Dirty](https://open.spotify.com/track/7s0FvUlUvRXwKkAuEet9ri) | [Julian Muller](https://open.spotify.com/artist/5UWmNXxqHIUcpHEJCxDojK), [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [To My Side](https://open.spotify.com/album/0B7Z917Qc6OFI1fYjfr0I5) | 5:47 |
 | 51 | [Police Brutality](https://open.spotify.com/track/2xJfLMmhopHaPis1pd9CJR) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Historia](https://open.spotify.com/album/56tITXyE0RcImU43s2OL7j) | 6:13 |
 
-Snapshot ID: `MTY3NjAyNTY1MSwwMDAwMDAwMGFmZjU2NTZhOGU2ZGUxODMzZWM3NGY5MTMwOGZhNjIw`
+Snapshot ID: `MTY3NjAyNTY1MSwwMDAwMDAwMDk5ZjgxMzAzNjk0NzdhNGQ0ZDlkYjIwY2M0YjQ4Zjlh`

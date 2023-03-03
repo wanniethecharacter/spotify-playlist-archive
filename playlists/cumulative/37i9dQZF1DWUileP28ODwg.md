@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys
 
-260 songs - 16 hr 11 min
+261 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Glory I Couldn't See \- Radio Version](https://open.spotify.com/track/0v95ozLbUJraCb21fP1xqk) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Glory I Couldn't See \(Radio Version\)](https://open.spotify.com/album/62xhvQKQ0EGAKgswlJPHL1) | 3:40 | 2022-04-22 | 2022-07-29 |
 | [Glory I Couldn't See \- Radio Version](https://open.spotify.com/track/6i2ERbUNohRhaLvD9AVdfo) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Glory I Couldn't See \(Radio Version\)](https://open.spotify.com/album/3P6hGGLV83JnATBrjb1Gbu) | 3:40 | 2022-07-08 |  |
 | [God Is Good](https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [God Is Good](https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0) | 3:17 | 2022-02-25 |  |
-| [God Is In This Story](https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [God Is In This Story](https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3) | 3:27 | 2022-06-10 |  |
+| [God Is In This Story](https://open.spotify.com/track/33aQwepAntQvwsIk8rFiB4) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:27 | 2022-10-01 |  |
+| [God Is In This Story](https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [God Is In This Story](https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3) | 3:27 | 2022-06-10 | 2023-03-03 |
 | [God Really Loves Us](https://open.spotify.com/track/6SoXCKgKyM8sAn246k1m6E) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [The Kindness Of The Cross](https://open.spotify.com/album/1ry4KqnjXvicjKN5pjN7Pm) | 4:46 | 2022-06-10 |  |
 | [God So Loved \- Live](https://open.spotify.com/track/0Jwf9brF7OlBaVaeGHcB0y) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [God So Loved \(Live\)](https://open.spotify.com/album/2Ds1jNOWJ4dZFxe91Sw0fz) | 5:55 | 2022-02-25 | 2022-05-29 |
 | [God Who Saves](https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Valley](https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H) | 4:39 | 2022-02-25 | 2022-04-23 |

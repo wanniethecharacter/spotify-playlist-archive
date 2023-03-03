@@ -1,44 +1,28 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 116982,
+  "num_followers": 117012,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE2ODAwMCwwMDAwMDAwMDNkMjJmMGY2OTk2NmViOTQ1NWNjY2QzNGEzNDE5Mzg0",
+  "snapshot_id": "MTY3Nzc3MjgwMCwwMDAwMDAwMDY2YTdmMTIyMGJjYmVjZmU0MWJmODhiMDNjZDkyMTQy",
   "tracks": [
     {
-      "added_at": "2023-02-23 16:00:00",
+      "added_at": "2023-03-02 16:00:00",
       "album": {
-        "name": "MORE\u80e1\u590f",
-        "url": "https://open.spotify.com/album/6Oj2SNfLcEJ36Yzullx5g5"
+        "name": "\u71e6\u721b\u7684\u4f60 (\u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/2kC7kZrH85IxTVS8cB6gLH"
       },
       "artists": [
         {
-          "name": "Hu Xia",
-          "url": "https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR"
+          "name": "Xian Zi",
+          "url": "https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ"
         }
       ],
-      "duration_ms": 255570,
-      "name": "\u56de\u61b6\u6709\u98a8",
-      "url": "https://open.spotify.com/track/6GhERntqhrsw0r3HYmMa7X"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
-        "name": "So Far",
-        "url": "https://open.spotify.com/album/0cApqoIW6AC4GsHdTMIeNV"
-      },
-      "artists": [
-        {
-          "name": "SoulFa \u9748\u9b42\u6c99\u767c",
-          "url": "https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY"
-        }
-      ],
-      "duration_ms": 260307,
-      "name": "\u6c99\u767c\u4e0a\u7684\u767d\u65e5\u5922 - Acoustic Version",
-      "url": "https://open.spotify.com/track/1pZWDGtTfWeU7LwwEzld5n"
+      "duration_ms": 247460,
+      "name": "\u71e6\u721b\u7684\u4f60 - \u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/54fZmclT0FbBLabQm1leVm"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -55,6 +39,22 @@
       "duration_ms": 240753,
       "name": "\u4e0d\u662f\u56e0\u70ba\u5929\u6c23\u6674\u6717\u624d\u611b\u4f60",
       "url": "https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm"
+    },
+    {
+      "added_at": "2023-03-02 16:00:00",
+      "album": {
+        "name": "\u5f85\u5728\u6211\u8eab\u8fb9",
+        "url": "https://open.spotify.com/album/25yKpcPq9SlaiPiwsGuOgK"
+      },
+      "artists": [
+        {
+          "name": "Stephie\u6167\u4eea",
+          "url": "https://open.spotify.com/artist/78N8pwmz1BMP2tUbnT433O"
+        }
+      ],
+      "duration_ms": 236977,
+      "name": "\u5f85\u5728\u6211\u8eab\u8fb9",
+      "url": "https://open.spotify.com/track/3neQDftDB6rG2LBnNtUMyv"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -75,38 +75,6 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "\u4e00\u4e16\u7eaa\u76f8\u7231",
-        "url": "https://open.spotify.com/album/4SlCsA7luI7antwWX6625k"
-      },
-      "artists": [
-        {
-          "name": "Anjie Lee",
-          "url": "https://open.spotify.com/artist/0f6uqts7zv87P3xQbF2HMu"
-        }
-      ],
-      "duration_ms": 184499,
-      "name": "\u4e00\u4e16\u7eaa\u76f8\u7231",
-      "url": "https://open.spotify.com/track/2KdBl3cDs1zK0agPLXM9xu"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
-        "name": "\u7562\u696d\u6050\u614c\u75c7",
-        "url": "https://open.spotify.com/album/6BnEBYBWFnydax5Hzace4L"
-      },
-      "artists": [
-        {
-          "name": "\u738b\u4ee5\u7ae5",
-          "url": "https://open.spotify.com/artist/1CKaCQ46AaqfVHz1r1Vqta"
-        }
-      ],
-      "duration_ms": 175041,
-      "name": "\u7562\u696d\u6050\u614c\u75c7",
-      "url": "https://open.spotify.com/track/2akao7MAdkgxIi4wnxW605"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
         "name": "\u5e95\u7247\u88e1\u7684\u590f\u5361\u723e",
         "url": "https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4"
       },
@@ -119,6 +87,22 @@
       "duration_ms": 300215,
       "name": "\u7fd2\u6163\u4e0d\u7fd2\u6163",
       "url": "https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
+        "name": "MORE\u80e1\u590f",
+        "url": "https://open.spotify.com/album/6Oj2SNfLcEJ36Yzullx5g5"
+      },
+      "artists": [
+        {
+          "name": "Hu Xia",
+          "url": "https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR"
+        }
+      ],
+      "duration_ms": 255570,
+      "name": "\u56de\u61b6\u6709\u98a8",
+      "url": "https://open.spotify.com/track/6GhERntqhrsw0r3HYmMa7X"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -139,18 +123,18 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
-        "name": "MORE\u80e1\u590f",
-        "url": "https://open.spotify.com/album/6Oj2SNfLcEJ36Yzullx5g5"
+        "name": "So Far",
+        "url": "https://open.spotify.com/album/0cApqoIW6AC4GsHdTMIeNV"
       },
       "artists": [
         {
-          "name": "Hu Xia",
-          "url": "https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR"
+          "name": "SoulFa \u9748\u9b42\u6c99\u767c",
+          "url": "https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY"
         }
       ],
-      "duration_ms": 288751,
-      "name": "\u4f60\u7d66\u7684\u5929\u7a7a",
-      "url": "https://open.spotify.com/track/2nWe3ZSbaCHmposW3T8EoX"
+      "duration_ms": 260307,
+      "name": "\u6c99\u767c\u4e0a\u7684\u767d\u65e5\u5922 - Acoustic Version",
+      "url": "https://open.spotify.com/track/1pZWDGtTfWeU7LwwEzld5n"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -171,6 +155,22 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
+        "name": "\u4e00\u4e16\u7eaa\u76f8\u7231",
+        "url": "https://open.spotify.com/album/4SlCsA7luI7antwWX6625k"
+      },
+      "artists": [
+        {
+          "name": "Anjie Lee",
+          "url": "https://open.spotify.com/artist/0f6uqts7zv87P3xQbF2HMu"
+        }
+      ],
+      "duration_ms": 184499,
+      "name": "\u4e00\u4e16\u7eaa\u76f8\u7231",
+      "url": "https://open.spotify.com/track/2KdBl3cDs1zK0agPLXM9xu"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
         "name": "\u4f60\u8981\u7684\u611b (\u5fc3\u52d5\u7248)",
         "url": "https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a"
       },
@@ -183,6 +183,22 @@
       "duration_ms": 235743,
       "name": "\u4f60\u8981\u7684\u611b - \u5fc3\u52d5\u7248",
       "url": "https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
+        "name": "\u7562\u696d\u6050\u614c\u75c7",
+        "url": "https://open.spotify.com/album/6BnEBYBWFnydax5Hzace4L"
+      },
+      "artists": [
+        {
+          "name": "\u738b\u4ee5\u7ae5",
+          "url": "https://open.spotify.com/artist/1CKaCQ46AaqfVHz1r1Vqta"
+        }
+      ],
+      "duration_ms": 175041,
+      "name": "\u7562\u696d\u6050\u614c\u75c7",
+      "url": "https://open.spotify.com/track/2akao7MAdkgxIi4wnxW605"
     },
     {
       "added_at": "2023-02-23 16:00:00",
@@ -219,6 +235,22 @@
     {
       "added_at": "2023-02-23 16:00:00",
       "album": {
+        "name": "MORE\u80e1\u590f",
+        "url": "https://open.spotify.com/album/6Oj2SNfLcEJ36Yzullx5g5"
+      },
+      "artists": [
+        {
+          "name": "Hu Xia",
+          "url": "https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR"
+        }
+      ],
+      "duration_ms": 288751,
+      "name": "\u4f60\u7d66\u7684\u5929\u7a7a",
+      "url": "https://open.spotify.com/track/2nWe3ZSbaCHmposW3T8EoX"
+    },
+    {
+      "added_at": "2023-02-23 16:00:00",
+      "album": {
         "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
         "url": "https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK"
       },
@@ -231,38 +263,6 @@
       "duration_ms": 200287,
       "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
       "url": "https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
-        "name": "\u60f3\u898b\u5c31\u80fd\u76f8\u898b (Live \u7248)",
-        "url": "https://open.spotify.com/album/7tKrxlXdVdep0w6dHibgMO"
-      },
-      "artists": [
-        {
-          "name": "Leehom Wang",
-          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
-        }
-      ],
-      "duration_ms": 304388,
-      "name": "\u60f3\u898b\u5c31\u80fd\u76f8\u898b - Live \u7248",
-      "url": "https://open.spotify.com/track/46hRFXILthnANbKUrbGWtb"
-    },
-    {
-      "added_at": "2023-02-23 16:00:00",
-      "album": {
-        "name": "\u4e00\u4e8c\u4e09\u4e00\u4e8c\u4e09",
-        "url": "https://open.spotify.com/album/7wkU8wHeYnWMyqYEc4GTh2"
-      },
-      "artists": [
-        {
-          "name": "\u66fe\u4e00\u8ecd",
-          "url": "https://open.spotify.com/artist/26asCxojoHjMQusky3AAVT"
-        }
-      ],
-      "duration_ms": 297352,
-      "name": "\u4e00\u4e8c\u4e09\u4e00\u4e8c\u4e09",
-      "url": "https://open.spotify.com/track/0OZdSwCnNFXAgpeONjK9gs"
     },
     {
       "added_at": "2023-02-23 16:00:00",

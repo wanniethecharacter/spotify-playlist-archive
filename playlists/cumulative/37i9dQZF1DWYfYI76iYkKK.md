@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-219 songs - 14 hr 46 min
+221 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [What if..?](https://open.spotify.com/track/4Bia9GoL6kHh0By80gxB6k) | [MiLK](https://open.spotify.com/artist/0NgRZYjBqL5GG9NVxiYLKS) | [What if..? \(Side A\)](https://open.spotify.com/album/7G6FUjpT0xLFIaiZHLQR63) | 5:15 | 2022-07-15 | 2022-07-21 |
 | [Wonder \- Radio Edit](https://open.spotify.com/track/0lHzdjaWiKlodjIkjpWNl8) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [Wonder \(Radio Edit\)](https://open.spotify.com/album/2BDFbrcws9Fwb0NnXXGVX3) | 2:11 | 2023-01-12 | 2023-01-27 |
 | [一世纪相爱](https://open.spotify.com/track/2KdBl3cDs1zK0agPLXM9xu) | [Anjie Lee](https://open.spotify.com/artist/0f6uqts7zv87P3xQbF2HMu) | [一世纪相爱](https://open.spotify.com/album/4SlCsA7luI7antwWX6625k) | 3:04 | 2023-02-23 |  |
-| [一二三一二三](https://open.spotify.com/track/0OZdSwCnNFXAgpeONjK9gs) | [曾一軍](https://open.spotify.com/artist/26asCxojoHjMQusky3AAVT) | [一二三一二三](https://open.spotify.com/album/7wkU8wHeYnWMyqYEc4GTh2) | 4:57 | 2023-02-16 |  |
+| [一二三一二三](https://open.spotify.com/track/0OZdSwCnNFXAgpeONjK9gs) | [曾一軍](https://open.spotify.com/artist/26asCxojoHjMQusky3AAVT) | [一二三一二三](https://open.spotify.com/album/7wkU8wHeYnWMyqYEc4GTh2) | 4:57 | 2023-02-16 | 2023-03-03 |
 | [一年後的故事](https://open.spotify.com/track/0Cr52aceiNO1ssiC3v1PMx) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [Present](https://open.spotify.com/album/4K9vimMcfuuVIK9aMVIQKr) | 4:22 | 2022-06-02 | 2022-07-08 |
 | [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 | 2022-06-10 | 2023-02-10 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2022-07-28 |  |
@@ -108,6 +108,7 @@
 | [年輪說](https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [冊葉一:一與一](https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG) | 4:55 | 2022-06-02 |  |
 | [当全世界忘了我](https://open.spotify.com/track/19FOWxZzrcErmF5P95vPqu) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [希忘Hope](https://open.spotify.com/album/3UEMDGalqaizcZmVkLdV51) | 5:22 | 2023-01-26 | 2023-02-03 |
 | [当全世界忘了我](https://open.spotify.com/track/2wvoqZC0fvJV4L7rLkAFLp) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [当全世界忘了我](https://open.spotify.com/album/2rMck4VJ3rxG5g9XtkXZeu) | 5:22 | 2023-01-19 | 2023-02-01 |
+| [待在我身边](https://open.spotify.com/track/3neQDftDB6rG2LBnNtUMyv) | [Stephie慧仪](https://open.spotify.com/artist/78N8pwmz1BMP2tUbnT433O) | [待在我身边](https://open.spotify.com/album/25yKpcPq9SlaiPiwsGuOgK) | 3:56 | 2023-03-02 |  |
 | [微笑分手](https://open.spotify.com/track/0bwSgYnYeDKu5fhJ7y63rg) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [微笑分手](https://open.spotify.com/album/0vDcTUTmDEY8ryGNVKJlsi) | 4:21 | 2022-06-30 | 2022-07-11 |
 | [怎麼能這樣](https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [謎之音](https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp) | 5:01 | 2022-06-02 |  |
 | [思念的週期](https://open.spotify.com/track/5mcNY4fwlbXwoNjYBHcErx) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [思念的週期](https://open.spotify.com/album/1itKUqsMVPoK9aweQLW3rw) | 3:25 | 2022-06-02 | 2022-07-28 |
@@ -117,7 +118,7 @@
 | [想和你一起 \(feat\. 洪安妮\)](https://open.spotify.com/track/3m51Vc66fUIorBDsck4LwC) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [想和你一起 \(feat\. 洪安妮\)](https://open.spotify.com/album/79uriKWKqmAdmFaSed84rV) | 3:52 | 2022-06-23 | 2022-07-12 |
 | [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 | 2022-06-02 |  |
 | [想把空白的日子留给你](https://open.spotify.com/track/4Mw26chMpfO6JvbFgFpKUF) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [想把空白的日子留给你](https://open.spotify.com/album/0yMMA9HWHFVFGkkOs8nxSI) | 4:19 | 2022-06-02 | 2022-07-29 |
-| [想見就能相見 \- Live 版](https://open.spotify.com/track/46hRFXILthnANbKUrbGWtb) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [想見就能相見 \(Live 版\)](https://open.spotify.com/album/7tKrxlXdVdep0w6dHibgMO) | 5:04 | 2023-02-16 |  |
+| [想見就能相見 \- Live 版](https://open.spotify.com/track/46hRFXILthnANbKUrbGWtb) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [想見就能相見 \(Live 版\)](https://open.spotify.com/album/7tKrxlXdVdep0w6dHibgMO) | 5:04 | 2023-02-16 | 2023-03-03 |
 | [愛你\-十周年版](https://open.spotify.com/track/4l6MkYf4FSw9kFQqSUktx5) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [愛你\-十周年版](https://open.spotify.com/album/6ZEYMuyw0GYjJg6GgjS31O) | 3:29 | 2022-07-21 | 2022-07-27 |
 | [愛在黎明破曉時](https://open.spotify.com/track/5t43GhQjOmgb7w87aB2PAY) | [郭蘅祈](https://open.spotify.com/artist/4MgyXYuewRjb1b6ennlLMo) | [愛在黎明破曉時](https://open.spotify.com/album/6AOX0LUghg1RAjgdwaNzxl) | 4:30 | 2022-06-30 | 2022-07-09 |
 | [愛是](https://open.spotify.com/track/6zj8RUbkn76M5wFiVzOfrZ) | [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [愛是](https://open.spotify.com/album/6RRhzPs3LypG2UscfMvh3n) | 4:37 | 2022-09-15 | 2022-09-23 |
@@ -172,6 +173,7 @@
 | [為什麼只留下我一個](https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [為什麼只留下我一個](https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL) | 3:46 | 2022-07-28 |  |
 | [無意 \- Live Session](https://open.spotify.com/track/0EjyhLHd0ajxqaQAPiQKO1) | [So\-So Heroes 瘦瘦英雄](https://open.spotify.com/artist/2N9RYbFNaumoJTEw67qsBt) | [無意 \(Live Session\)](https://open.spotify.com/album/7geWheVQ57ZQ6xZaV9yk0b) | 4:12 | 2022-12-01 | 2022-12-16 |
 | [無聲](https://open.spotify.com/track/6YII3Wh4saWJF3qR72257l) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [DEEP AWAKENING 見過深淵的人](https://open.spotify.com/album/1I4cU2BxFEYHT4FcgaUObO) | 4:54 | 2022-12-22 | 2023-01-06 |
+| [燦爛的你 \- 《不二兄弟》電影片尾曲](https://open.spotify.com/track/54fZmclT0FbBLabQm1leVm) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [燦爛的你 \(《不二兄弟》電影片尾曲\)](https://open.spotify.com/album/2kC7kZrH85IxTVS8cB6gLH) | 4:07 | 2023-03-02 |  |
 | [現在是什麼時辰了](https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [現在是什麼時辰了](https://open.spotify.com/album/087F57aCMcaiIh4HUX9GcE) | 3:59 | 2022-06-02 | 2023-01-01 |
 | [生日快乐](https://open.spotify.com/track/6XrYTSFTArO15cBUHWgPYE) | [房东的猫](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [生日快乐](https://open.spotify.com/album/5LBtkZCuAlDf44QDz52ac9) | 4:32 | 2022-12-15 | 2022-12-24 |
 | [畢業恐慌症](https://open.spotify.com/track/2akao7MAdkgxIi4wnxW605) | [王以童](https://open.spotify.com/artist/1CKaCQ46AaqfVHz1r1Vqta) | [畢業恐慌症](https://open.spotify.com/album/6BnEBYBWFnydax5Hzace4L) | 2:55 | 2023-02-23 |  |

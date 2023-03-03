@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: SINDOSI:22\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,339 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,485 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 99 | [Koalified](https://open.spotify.com/track/0ZsMOhMKDO0JDttwfPY7CM) | [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Koalified](https://open.spotify.com/album/4PFooguSM49DOGmqLQEadi) | 2:56 |
 | 100 | [Tasty x Tasty](https://open.spotify.com/track/6ubzgznl4lqaCYV2kd7ewv) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Tasty x Tasty](https://open.spotify.com/album/0edv4ueAsyeQ7uYnIG6ddF) | 2:49 |
 
-Snapshot ID: `MTY3NzY2MDMzNSwwMDAwMDAwMDQ5NTU4MjEwYjNkZjI1MTQ3NzdkYWIzMGI3MzBiODYx`
+Snapshot ID: `MTY3NzY2MDMzNSwwMDAwMDAwMDVjMTI5MDc5YTUzZTAzNWY4YTljODFlYzJmNDFjZjNl`

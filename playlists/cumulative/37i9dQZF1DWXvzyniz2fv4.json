@@ -734,7 +734,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 242526,
       "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
       "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 186153,
       "name": "Fabricada pela Nike",
       "url": "https://open.spotify.com/track/6eCFU97BfE4qUQYxE648p5"
@@ -1401,6 +1401,36 @@
     },
     {
       "album": {
+        "name": "Melhor Dia 10 - A Rua Ensina",
+        "url": "https://open.spotify.com/album/4ywpPfbLWlsNlDnJ3olYPW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Baroni",
+          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
+        },
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280500,
+      "name": "Melhor Dia 10 - A Rua Ensina",
+      "url": "https://open.spotify.com/track/0IL7SqCFvxdDXxiAu55isz"
+    },
+    {
+      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
       },
@@ -1520,6 +1550,24 @@
       "duration_ms": 197333,
       "name": "Neon",
       "url": "https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM"
+    },
+    {
+      "album": {
+        "name": "NICOTINA",
+        "url": "https://open.spotify.com/album/59klxwihltaBqmAxT1VVpa"
+      },
+      "artists": [
+        {
+          "name": "JOTTAH",
+          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166572,
+      "name": "NICOTINA",
+      "url": "https://open.spotify.com/track/0DAlcobbaCqmYkMPYKttkk"
     },
     {
       "album": {

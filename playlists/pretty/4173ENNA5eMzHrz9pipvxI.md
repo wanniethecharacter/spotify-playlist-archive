@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Alle Farben &amp; Maurice Lessing
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  LUM!X x Gabry Ponte x Alida
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,121 likes - 23 songs - 1 hr 6 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,124 likes - 23 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 22 | [Rock Skeeping](https://open.spotify.com/track/1tL7drK2ROMjipcAyATRa5) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Rock Skeeping](https://open.spotify.com/album/6fwC1uJsiIQEPjd7ewfRgH) | 2:59 |
 | 23 | [After Midnight \(feat\. Xoro\) \[VINNE Remix\]](https://open.spotify.com/track/6FiyfXilKoVCqZx7ZYSXkY) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf) | [After Midnight \(feat\. Xoro\) \[VINNE Remix\]](https://open.spotify.com/album/7qLBMzNsEg5xZ6qPzlzxx7) | 3:01 |
 
-Snapshot ID: `NjQzMyxmZDAyMTE0ZDNiYjZkM2Y0ZWE1YzY1YjcxMjQxNzk4ZTdkMWUyZDhm`
+Snapshot ID: `NjQzNSw1OThjMmM2MTQwOTc3MThiOWQwOTJhYWFmNTZlODA0NzE3ODVkM2I0`

@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 214881,
       "name": "Deseos de cosas imposibles",
       "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 210400,
       "name": "El Arriero",
       "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
@@ -2031,6 +2031,28 @@
     },
     {
       "album": {
+        "name": "Las Cosas Que Importan",
+        "url": "https://open.spotify.com/album/2rU1GNyezdNR2Jz615bUfB"
+      },
+      "artists": [
+        {
+          "name": "Hirahi Afonso",
+          "url": "https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh"
+        },
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214711,
+      "name": "Las Cosas Que Importan",
+      "url": "https://open.spotify.com/track/1run10IgaZy4iaHhD45Egh"
+    },
+    {
+      "album": {
         "name": "Auterretratos",
         "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
@@ -2208,7 +2230,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 232080,
       "name": "Mar\u00eda la portuguesa",
       "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
@@ -2693,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Nombrar es imposible (Mov.5: Renacimiento)",
+        "url": "https://open.spotify.com/album/3JEgGI1cVEnZ1Xq1yXRS9G"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274739,
+      "name": "Nombrar es imposible - Mov.5: Renacimiento",
+      "url": "https://open.spotify.com/track/6FAIviRmwPgbYZndPaACqC"
+    },
+    {
+      "album": {
         "name": "Nunha Estrela",
         "url": "https://open.spotify.com/album/4SjlQBmPjaKl2PS5TXxpWG"
       },
@@ -2922,7 +2962,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 172000,
       "name": "Pasaba por Aqui",
       "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"

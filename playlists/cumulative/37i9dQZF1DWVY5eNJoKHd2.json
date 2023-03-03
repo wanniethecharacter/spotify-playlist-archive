@@ -316,7 +316,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 265480,
       "name": "ARE WE STILL FRIENDS?",
       "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai"
@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
@@ -2194,6 +2194,24 @@
       "duration_ms": 150182,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/1iSOrS6dfgPvENu0G4WhAd"
+    },
+    {
+      "album": {
+        "name": "Idaho Alien",
+        "url": "https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203166,
+      "name": "Idaho Alien",
+      "url": "https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP"
     },
     {
       "album": {
@@ -3010,7 +3028,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 233866,
       "name": "On Melancholy Hill",
       "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"

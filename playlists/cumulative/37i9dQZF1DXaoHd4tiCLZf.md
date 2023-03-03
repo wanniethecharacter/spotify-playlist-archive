@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-223 songs - 13 hr 12 min
+224 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [Rouge soleil](https://open.spotify.com/track/2BtrTeyutZQSPdpBfZTTxr) | [Ravages](https://open.spotify.com/artist/2CiP8cuzWyheJHIBTooapR) | [Abraxas](https://open.spotify.com/album/7GmFk4xUZLM9VIcNYfHBb4) | 3:41 | 2022-05-20 |  |
 | [Sans lendemain](https://open.spotify.com/track/74DyanDw6n8OiyiV5iDcoZ) | [La Riviera](https://open.spotify.com/artist/0ZWNl9OR9Z7s4nNt12PxPl) | [Sans lendemain](https://open.spotify.com/album/0bkpzXsHXlQzs0XztMENwB) | 7:34 | 2022-05-20 |  |
 | [SAUDADE](https://open.spotify.com/track/514vU3L7reqmF1TbRW4GQD) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [SAUDADE](https://open.spotify.com/album/4XAR0IOxfXxwwd8IzK69j9) | 3:16 | 2022-05-20 |  |
-| [scared](https://open.spotify.com/track/7q5kKe4RyUFSGlxX0PKXaN) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [scared](https://open.spotify.com/album/2ghWrNy09Smk2if26srIGz) | 4:16 | 2022-05-20 |  |
+| [scared](https://open.spotify.com/track/5K3slIpm5CuEOWBbWsCIKA) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [scared](https://open.spotify.com/album/05bTOQaNIDXUtitz6e9m1N) | 4:16 | 2022-12-21 |  |
+| [scared](https://open.spotify.com/track/7q5kKe4RyUFSGlxX0PKXaN) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [scared](https://open.spotify.com/album/2ghWrNy09Smk2if26srIGz) | 4:16 | 2022-05-20 | 2023-03-03 |
 | [Seize The Day](https://open.spotify.com/track/04rz2UaJqbK4aUs7TSk7Sw) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG), [Charlotte Savary](https://open.spotify.com/artist/00iD8QRcuTSSKAhaFU1MOp) | [Seize The Day](https://open.spotify.com/album/56uC55DMbvL9l8dQAoszp5) | 2:41 | 2022-05-20 |  |
 | [Seuls à vivre](https://open.spotify.com/track/758BLo5nrttAkUC9oPHd9g) | [Noroy](https://open.spotify.com/artist/0FCAKInZeSi1on1FlSPoxt) | [Gata](https://open.spotify.com/album/1PC95syIpEY0RTDxDGzdtr) | 2:56 | 2022-12-21 |  |
 | [Sexy](https://open.spotify.com/track/7H6prnTv8tLlZQSW3c50Q4) | [Blanche](https://open.spotify.com/artist/7r9SvYfMdBZECjHhwS9AmQ) | [Sexy](https://open.spotify.com/album/2CQFr1P0ullkVZiK3rUei3) | 2:33 | 2022-12-21 |  |

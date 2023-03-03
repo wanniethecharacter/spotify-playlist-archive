@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Foggieraw, artwork by Ian Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,177 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,309 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [Emmanuel](https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Denise Bamfo](https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO) | [Emmanuel](https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0) | 2:56 |
 | 80 | [IF I RAN AWAY](https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [IF I RAN AWAY](https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV) | 2:33 |
 
-Snapshot ID: `MTY3NzI4MTM2MCwwMDAwMDAwMDE0ZjNhNjgxMmRkMTA0NmNiNTY3ZDhjY2U5Y2NkMTAw`
+Snapshot ID: `MTY3NzI4MTM2MCwwMDAwMDAwMDczZmI1OGJjNDgwNzBlNjk1YWQ4NzY4NDViZWYzNmVm`

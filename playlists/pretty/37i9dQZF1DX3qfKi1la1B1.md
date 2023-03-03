@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,669 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,716 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 38 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
 | 39 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
 | 40 | [Same Problems?](https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Same Problems?](https://open.spotify.com/album/3MwuzX0j37H9SYVH78Oavt) | 4:22 |
-| 41 | [Voiceless](https://open.spotify.com/track/7nN1LUAJUDuGJyDawcok6v) | [Funny Factures](https://open.spotify.com/artist/38mbcqDg0k0gQcoQNCUJYx), [Wuinguin](https://open.spotify.com/artist/00N3aCj3lIPQW8hcPNFjRO) | [Voiceless](https://open.spotify.com/album/3dic6PtEjCZw5vDunj1fgY) | 3:21 |
+| 41 | [Look Up](https://open.spotify.com/track/3l6az657MkmH2TGq0ubPVv) | [Stwo](https://open.spotify.com/artist/5WQxQAu4xmUwCzxPw3GiB4) | [Prove](https://open.spotify.com/album/35aWdwTFrxyR7WmuvShMWP) | 3:41 |
 | 42 | [View 4](https://open.spotify.com/track/1yaOmrXya2YvrVk6ypnnlW) | [COMPUMA](https://open.spotify.com/artist/3FoF5nY23QZfvFlrOAmb5f) | [A View](https://open.spotify.com/album/6zWAv8ROkziYVAbhCSiTiR) | 4:34 |
 | 43 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
 | 44 | [Take me home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 59 | [She’s A 10 But… \(Remix\) \(feat\. Yung Gravy\)](https://open.spotify.com/track/0aywJ1yyg6OzgFCxrrUd7R) | [ARTAN](https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [She’s A 10 But… \(Remix\) \(feat\. Yung Gravy\)](https://open.spotify.com/album/2u8rAuKa6ExX03BLWWkN77) | 2:49 |
 | 60 | [always](https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:52 |
 
-Snapshot ID: `MTY3NzY3ODkzNSwwMDAwMDAwMGI1M2RiMWNlNDVkOTZjOWVkMGU4MzJiYzRiYjY3MTAz`
+Snapshot ID: `MTY3Nzc2OTIwMCwwMDAwMDAwMDJjM2UxYjMxMmJkMjAyY2RhNzk5NmQ0OWI3M2VmNWJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Anuel AA & Messiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520,879 likes - 101 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,520,942 likes - 101 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 100 | [Estrella](https://open.spotify.com/track/6TDFhRDBWSUk5dKMENnzUq) | [Yampi](https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Estrella](https://open.spotify.com/album/7ixVzVqkvyV5bShelCzqfB) | 2:50 |
 | 101 | [Bentley](https://open.spotify.com/track/0Pk6ZwGewYIwPvaYubqybf) | [Knav](https://open.spotify.com/artist/0a8uZThduDjiT70rygrrQ1) | [Bentley](https://open.spotify.com/album/0ei2RpOPbnwVMR6DGnUkCi) | 2:45 |
 
-Snapshot ID: `MTY3NzI1OTgzNCwwMDAwMDAwMGE4OTU1ZTIyYjg2ZDVlODVhMjM5MzNlOThkMzY4NGVl`
+Snapshot ID: `MTY3NzI1OTgzNCwwMDAwMDAwMDJiNGYwOWIzN2JhNzMxZGZhZDc0ODFmY2YxMWZmMDVj`

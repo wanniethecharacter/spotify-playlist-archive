@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,126 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,131 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Too Close](https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT), [Dan Talevski](https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH) | [Too Close](https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE) | 2:27 |
 | 80 | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs) | [Pelago](https://open.spotify.com/artist/5kgwb87hriOMQstPRdvInn), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/album/5GyFeddVWHPmY3ETkD7e4T) | 3:09 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDFkZmM0ZDI0MThkYTY4NmMwNmNhNmQwYTgwOWE4MjI1`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDc5OTYwMTEwMTAxZmQ2ZjMyNzk5MDdlZmY5NTJjMWQy`

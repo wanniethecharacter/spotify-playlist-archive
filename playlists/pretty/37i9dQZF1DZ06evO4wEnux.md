@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 
 > This is Fatherson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 583 likes - 25 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 | 24 | [Honest To God](https://open.spotify.com/track/5ZTCrAYPecQ2zjt7lmwNYw) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 |
 | 25 | [First Born](https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [First Born](https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66) | 3:14 |
 
-Snapshot ID: `Mjc5NjEyNjUsMDAwMDAwMDBiMGM0MDBkODJjN2MzYzBiMjU2NTBlM2E3NmQ1YmE1NQ==`
+Snapshot ID: `Mjc5NjI5NjcsMDAwMDAwMDBmY2YyMGQxZjM1ODAzZDRiZjM3OWQ4MWFkNzM0Y2Q2MQ==`

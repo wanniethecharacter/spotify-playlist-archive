@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,966 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,068 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Drink Azul](https://open.spotify.com/track/6Bfk5Zu1FvwmCVx9QiTUOh) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87), [Jonis](https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn), [Daja](https://open.spotify.com/artist/1oNNEMmzYREXntCGm4kHy9) | [Drink Azul](https://open.spotify.com/album/5t4q2IxXCgVUcFhb8IUg9l) | 2:45 |
 | 60 | [Vírgula](https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:11 |
 
-Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMGFmY2U2MDY0ZGJhMTRlMWIzZDI4YTMzYzVhMTQ2MmUx`
+Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMDEyZjM1ODI4YTIyM2Y4ZmI2YTRjY2I2YWQ0ZmM1MzVi`

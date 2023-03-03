@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-112 songs - 3 hr 21 min
+113 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Maanaadu Theme](https://open.spotify.com/track/6mCBXs5VNOS3OuiKrtyWxT) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 2:19 | 2021-11-27 |  |
 | [Maara Theme \(Tamil\)](https://open.spotify.com/track/6yxXPjFdAGOhv0diL81YLu) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Suriya](https://open.spotify.com/artist/5jyOS8L5CughATUjhDX8GP) | [Soorarai Pottru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YXlDrh64M5ttCaRXn7fp5) | 1:10 | 2021-11-01 |  |
 | [Maaran \- Motion Poster Theme](https://open.spotify.com/track/6Yx0t6gQsokYuTlrUXtoc2) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Maaran \- Motion Poster Theme](https://open.spotify.com/album/2w7PzPw9uy7699CjWv2amy) | 1:03 | 2022-01-16 | 2023-02-14 |
-| [Maaveeran Theme](https://open.spotify.com/track/1bKoL7ah6R0ztoFK76UTLd) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54) | [Maaveeran Theme \(From "Maaveeran"\)](https://open.spotify.com/album/6ONnbDDAVvMFbrtVmUbz8j) | 2:10 | 2023-03-02 |  |
+| [Maaveeran Theme](https://open.spotify.com/track/1bKoL7ah6R0ztoFK76UTLd) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54) | [Maaveeran Theme \(From "Maaveeran"\)](https://open.spotify.com/album/6ONnbDDAVvMFbrtVmUbz8j) | 2:10 | 2023-03-02 | 2023-03-03 |
+| [Maaveeran Theme \(From "Maaveeran"\)](https://open.spotify.com/track/1KnfuPUC6vmwhBeCilZ7IA) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54) | [Maaveeran Theme \(From "Maaveeran"\) \- Single](https://open.spotify.com/album/1B9Gu6Tt552NeXkdM4ckXy) | 2:10 | 2023-03-03 |  |
 | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/track/5QNBsU077byAbXLLwXBCo5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/album/2j9Fx8Mi6VnW1csBunbFXh) | 1:10 | 2021-11-01 |  |
 | [Mankatha Theme Music](https://open.spotify.com/track/1A1YlVucS5hugYaeWXfCA8) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Mankatha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SV5Wjj3CH23kMOg4VrO33) | 3:04 | 2021-11-01 |  |
 | [Manmadhan Theme Music](https://open.spotify.com/track/5Q0ffIynfGqumKoJuqjlEC) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\) \- Bonus Tracks](https://open.spotify.com/album/6k25DINuCoGsG1rayjLqSt) | 1:23 | 2021-11-01 | 2022-07-29 |

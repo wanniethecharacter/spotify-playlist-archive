@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,444 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,597 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 99 | [Monstruo Japonés](https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP) | 4:10 |
 | 100 | [CHERRY BLOSSOMS](https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [SOUL MATES](https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C) | 2:29 |
 
-Snapshot ID: `MTY2NzU0MDI1MCwwMDAwMDAwMDdkOTUyZmJhN2YxOGU5OGE4ZjczODE3MjhkNjA5OTM2`
+Snapshot ID: `MTY2NzU0MDI1MCwwMDAwMDAwMGQxMDVlOGM1ODYyZmEzZTNjYWYzZTJmMDYzN2E3YzRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 
 > Enjoy a break with some relaxing soft songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,380 likes - 250 songs - 14 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,515 likes - 250 songs - 14 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 249 | [Sorry Would Go A Long Way](https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sorry Would Go A Long Way](https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc) | 3:11 |
 | 250 | [Landslide](https://open.spotify.com/track/4R33piRpHBFZ92ZLL5lCah) | [Jordan Doww](https://open.spotify.com/artist/3M9P7WlQrG5BKcxkFiXM3Z) | [Landslide](https://open.spotify.com/album/0CzuUvjCQNve6PhOiVwcta) | 2:56 |
 
-Snapshot ID: `MTY3NzQ5NzM2MywwMDAwMDAwMGUwMTA0NzRlNGRlYmE1NDczYTFjYmE4MmI3OTA4ZjI3`
+Snapshot ID: `MTY3NzQ5NzM2MywwMDAwMDAwMDMwNzI4ZGU2MGI4MDg4ODI0ZmMzMWRhYTE4NTljNTU3`

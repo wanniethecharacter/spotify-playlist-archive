@@ -2,9 +2,9 @@
 
 ### [sanguegiovane](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> 🎸 canzoni da gridare e in cover simone panetti 🎸
+> 🎸 canzoni da gridare e in cover nessa barrett 🎸
 
-408 songs - 18 hr 48 min
+411 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Che pace // Che palle](https://open.spotify.com/track/2Z4jER1WEKoy0tcmJCVb0X) | [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d), [MATA](https://open.spotify.com/artist/4jh2kCacRBgKhCGF1Vcx5L) | [Che pace // Che palle](https://open.spotify.com/album/3FUUCdMCilMdLeXPKoIAaR) | 2:37 | 2022-05-06 | 2022-07-29 |
 | [Che pace // Che palle](https://open.spotify.com/track/6hjyCxuLCpBtCITorSDUTY) | [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d), [MATA](https://open.spotify.com/artist/4jh2kCacRBgKhCGF1Vcx5L) | [Che pace // Che palle](https://open.spotify.com/album/0Sq7QD3WdudEhy0y22MAZz) | 2:37 | 2022-07-28 | 2022-12-24 |
 | [CI BERREMO SOPRA](https://open.spotify.com/track/14MPHzoxuguLWUfRvuirNo) | [treDiCuori](https://open.spotify.com/artist/5urMNWGVpr57ON72Xo6rpR), [Polly](https://open.spotify.com/artist/0x3VDd0WGoNLhMTd4hgxIA) | [FALSO NUEVE](https://open.spotify.com/album/2WSTRYVg6eFuer1IIRr7Tr) | 2:26 | 2022-05-06 | 2022-06-17 |
+| [Cicatrici](https://open.spotify.com/track/1i96SWXRNE5pTkyfkCeR0w) | [v!ktoria](https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu) | [Cicatrici](https://open.spotify.com/album/1Ql5u8c69pjlsX3HdOvIDH) | 3:00 | 2023-03-02 |  |
 | [CIELO DRIVE](https://open.spotify.com/track/4QXnwCNswo3RzJzAr1EjWP) | [PAULO](https://open.spotify.com/artist/6ZyBrWgVAZXWCqTXTFaY5p) | [CIELO DRIVE](https://open.spotify.com/album/56Luh3qipxzWTZhCQhOGJc) | 2:23 | 2022-05-06 | 2022-05-20 |
 | [CLIPPER 2](https://open.spotify.com/track/2mDyIoEI1sGscOwxA6fW4A) | [Libra](https://open.spotify.com/artist/6J4iZljarXRZDaza6yoNG5) | [CLIPPER 2](https://open.spotify.com/album/13tj7TCONe6oeK2xCV71dl) | 2:23 | 2023-01-19 |  |
 | [CLIPPER 2](https://open.spotify.com/track/4ule3ITCm7kCwq21ld05SH) | [Libra](https://open.spotify.com/artist/6J4iZljarXRZDaza6yoNG5) | [HYBRIS](https://open.spotify.com/album/31pvoj49M66S7erwR0suZd) | 2:23 | 2023-01-12 | 2023-01-20 |
@@ -150,6 +151,7 @@
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-09 | 2022-07-01 |
 | [Giro Di Notte](https://open.spotify.com/track/0Ah4GcfhnjzbVwbz02DOz3) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Giro Di Notte](https://open.spotify.com/album/6tnD3idVgdhI193PYFTNJe) | 3:07 | 2022-09-08 | 2023-01-06 |
 | [giuda](https://open.spotify.com/track/4GVmQZo4uLyJQQYwaXQOW8) | [mich<3](https://open.spotify.com/artist/60TrKa4pL7M9VGcFqa1n9F) | [giuda](https://open.spotify.com/album/7eTH5mBZOPHMhMm5X5RDNH) | 2:28 | 2023-01-19 |  |
+| [Giù all' inferno](https://open.spotify.com/track/2t8diydzCcydsIOBvu5K0W) | [Selene Ice](https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i) | [Giù all' inferno](https://open.spotify.com/album/69fVgUlvDh4ljavTRKdVwY) | 2:24 | 2023-03-02 |  |
 | [GLI ANNI MIGLIORI](https://open.spotify.com/track/09SjR6PZI4nRoPjdguS6vu) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0eqtPtuyfh2prrAWApMCgK) | 2:53 | 2022-11-24 | 2023-02-17 |
 | [Gocce](https://open.spotify.com/track/0xx7Ww8qTrthwoOqfepMcG) | [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO) | [Amaranto](https://open.spotify.com/album/6u428KL8ujONkv4bJ2dzoV) | 3:16 | 2022-05-06 | 2022-06-10 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-06-27 | 2022-09-09 |
@@ -289,6 +291,7 @@
 | [Quanto ti vorrei](https://open.spotify.com/track/2KdcUxAJWAARnGTWmSWxwu) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [OCEANO PARADISO](https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m) | 3:00 | 2022-06-27 | 2022-12-24 |
 | [QUELLE PAROLE](https://open.spotify.com/track/44FeZREhPwoT8lYNImkVV6) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 2:38 | 2022-05-26 | 2022-08-05 |
 | [Questa tua fottuta negatività](https://open.spotify.com/track/4qaoYHNEeEEFNcYnjSPCCy) | [Redd](https://open.spotify.com/artist/7I5vEYDtuS7TwfVAhBWeLk) | [Questa tua fottuta negatività](https://open.spotify.com/album/31zbrJQzG2tEzwaNrV6kDr) | 2:36 | 2022-07-14 |  |
+| [Ragazzi Fuori](https://open.spotify.com/track/1URSGryUXiYhr3StdCCKZw) | [7 Giorni](https://open.spotify.com/artist/2gKp9MmLyGNtwTI5qCj3qz) | [Ragazzi Fuori](https://open.spotify.com/album/0MDH9w5buwGrFj11nKwfgt) | 2:47 | 2023-03-02 |  |
 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 | 2022-10-27 | 2023-01-13 |
 | [Rich Kids Ruin Everything](https://open.spotify.com/track/4ANzvISz338P5mRff2m63x) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Rich Kids Ruin Everything](https://open.spotify.com/album/0uNDijaQlIxf11ygtq6PCR) | 2:36 | 2022-05-12 | 2022-05-27 |
 | [rituale](https://open.spotify.com/track/0YAKQqUzN083tPnjJnI1ui) | [dolcedormire](https://open.spotify.com/artist/7EO6Zql69u4pT8omeANVcP) | [rituale](https://open.spotify.com/album/1hLXOwH9aQ0UqSuCUDDJDY) | 2:54 | 2022-08-25 | 2022-09-20 |

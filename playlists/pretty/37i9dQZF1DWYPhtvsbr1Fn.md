@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 
 > resurging tracks coming in hot\. cover: Sure Thing era Miguel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,595 likes - 77 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,888 likes - 77 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 | 76 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
 | 77 | [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 |
 
-Snapshot ID: `MTY3NzUzMDg0NywwMDAwMDAwMDU1Zjg1MTc0YTA0MzNkYjJiMTAyYzMxMzRlOTM3YTky`
+Snapshot ID: `MTY3NzUzMDg0NywwMDAwMDAwMDkwN2QxODJkYzExYmM0YTAxYzY4ZjQyZDk2Yzc2MjFk`

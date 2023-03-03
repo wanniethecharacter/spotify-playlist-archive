@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de febrero 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,514,550 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,514,658 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [BENDITA POBREZA](https://open.spotify.com/track/4GBvsITxjZDOQvEtwpcR4c) | [Omar K11](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy) | [BENDITA POBREZA](https://open.spotify.com/album/0eYagb7OuTbMsJ0ahFOJU5) | 2:49 |
 | 50 | [Mi otra mitad](https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi otra mitad](https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB) | 3:49 |
 
-Snapshot ID: `MTY3NzE2MTkxNCwwMDAwMDAwMDZiNmQ0Y2JkOGE1ZTlkZTBjZjkyYTBkODBmNDQxOWE2`
+Snapshot ID: `MTY3NzE2MTkxNCwwMDAwMDAwMGMyZmNmZmQwOTg3ZjE2YWI5MGFjMjU0ZWY5NzI4MGFh`

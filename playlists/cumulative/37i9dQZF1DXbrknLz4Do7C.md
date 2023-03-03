@@ -4,7 +4,7 @@
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music \#SpotifyWrapped
 
-169 songs - 12 hr 9 min
+170 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Getsemaní](https://open.spotify.com/track/3uXq732CuFiCGPu5U2SY9N) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1), [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Getsemaní](https://open.spotify.com/album/7ApWn8AtBatI4pU6tQrJ4Q) | 4:08 | 2022-12-01 |  |
 | [Glory](https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Glory](https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC) | 2:30 | 2022-12-01 |  |
 | [Glory On Me](https://open.spotify.com/track/5AZppquII76qli3EUyUy8M) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [Glory On Me](https://open.spotify.com/album/2sPr44v1gGuL9vFxhCcAqJ) | 3:28 | 2021-12-01 | 2022-12-01 |
-| [God Is In This Story](https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [God Is In This Story](https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3) | 3:27 | 2022-12-01 |  |
+| [God Is In This Story](https://open.spotify.com/track/33aQwepAntQvwsIk8rFiB4) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:27 | 2022-12-01 |  |
+| [God Is In This Story](https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [God Is In This Story](https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3) | 3:27 | 2022-12-01 | 2023-03-03 |
 | [God's Got Us \(feat\. Chandler Moore\)](https://open.spotify.com/track/5KmQTbZx32wyekcRD0pllw) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh) | 4:28 | 2022-12-01 |  |
 | [Good God Almighty](https://open.spotify.com/track/4Wea9K8KRTsrlfIks5yepP) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 3:11 | 2021-12-01 | 2022-12-01 |
 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 | 2022-12-01 |  |

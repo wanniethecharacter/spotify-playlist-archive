@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: John Legend
 
-385 songs - 22 hr 6 min
+386 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,8 @@
 | [Why Georgia \(RAWsession\) \[originally by John Mayer\]](https://open.spotify.com/track/2rraSZfmRIIU5na1OH7L0q) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [Jess Delgado RAWsession \- 5.25.10](https://open.spotify.com/album/0ECa20b3UM57SWWLc9MTLV) | 4:26 | 2021-12-17 | 2022-05-02 |
 | [Wildest Dreams](https://open.spotify.com/track/5rFLTwJtU2C2kBWGV7y1Q2) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/46vRUQqeMdCC5Dpz5Qza74) | 3:32 | 2021-12-17 | 2022-07-29 |
 | [Wildest Dreams](https://open.spotify.com/track/7AgpN0aQSjp1rjWafXn8Xu) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/3gQrQ8BQNEtaUXbr7vx9ss) | 3:32 | 2022-07-08 | 2022-12-30 |
-| [Wouldn't It Be Nice](https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf) | 2:32 | 2022-11-18 |  |
+| [Wouldn't It Be Nice](https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0) | 2:32 | 2023-02-24 |  |
+| [Wouldn't It Be Nice](https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf) | 2:32 | 2022-11-18 | 2023-03-03 |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW) | 2:32 | 2021-12-17 | 2022-11-21 |
 | [Wrecking Ball](https://open.spotify.com/track/3pSDivrOqyWq0ixSSgKW1g) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Thank You to the Flowers](https://open.spotify.com/album/6mGDqp7YxF3Cs6binUf8Fb) | 3:36 | 2021-12-17 | 2022-05-02 |
 | [Wrecking Ball](https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Wrecking Ball](https://open.spotify.com/album/3j2WcjsXEb4wMJqUFSfW95) | 3:33 | 2022-02-18 |  |

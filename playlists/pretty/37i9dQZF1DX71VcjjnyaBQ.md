@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,199 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,264 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Queen Of The South](https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Queen Of The South](https://open.spotify.com/album/14eu3scYNCK8QwPNqwYelY) | 4:20 |
 | 100 | [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 |
 
-Snapshot ID: `MTY3NzU5OTY0MCwwMDAwMDAwMGQwYWFjYmRhMWNiZmYwMWMyZGI2ZDllOWE3MGY3OGIz`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDlkMWQ1ZTBmZjk5OGZiNzE0NzM1MWQyM2RkOTk1Njc0`

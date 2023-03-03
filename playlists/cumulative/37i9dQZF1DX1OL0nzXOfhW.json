@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "g\u00f6mb\u00f6c",
+        "url": "https://open.spotify.com/album/3ynKmPgPzFzTT8krlAXBen"
+      },
+      "artists": [
+        {
+          "name": "hirsk",
+          "url": "https://open.spotify.com/artist/1WxYe59SGsEY1e6fLII0hB"
+        },
+        {
+          "name": "CHANKA",
+          "url": "https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149560,
+      "name": "g\u00f6mb\u00f6c",
+      "url": "https://open.spotify.com/track/3BzCye7qSkPzUvjITcgR6Y"
+    },
+    {
+      "album": {
         "name": "Heliophilia",
         "url": "https://open.spotify.com/album/7cfWi1DBMfXFsRhCKLVRI5"
       },
@@ -764,6 +786,24 @@
       "duration_ms": 252000,
       "name": "Someday My Prince Will Come",
       "url": "https://open.spotify.com/track/66TcAzggm7K6qGrp5e82c3"
+    },
+    {
+      "album": {
+        "name": "Sponsor Me",
+        "url": "https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb"
+      },
+      "artists": [
+        {
+          "name": "hisbbuR",
+          "url": "https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220285,
+      "name": "Sponsor Me",
+      "url": "https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7"
     },
     {
       "album": {

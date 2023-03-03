@@ -2,9 +2,9 @@
 
 ### [Boom Rap](https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q)
 
-> Tem rap nacional tem boom bap na área\. Foto: Kamau
+> Tem rap nacional tem boom bap na área\. Foto: Febre 90's
 
-257 songs - 14 hr 24 min
+259 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Sincronicidade](https://open.spotify.com/track/3q6rfZcfAalfBhVVQqH3qE) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [lucasbin](https://open.spotify.com/artist/7KYrffinPH0x6rrRIqIBid) | [Sincronicidade](https://open.spotify.com/album/2CUSX546YP2f11Br4R9bwg) | 2:32 | 2022-03-18 | 2022-09-03 |
 | [Sinto Falta Dos Amigos Que Se Foram](https://open.spotify.com/track/6HIphOXrFhWzLQ3t9boOnl) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Dom Coelho](https://open.spotify.com/artist/6RP591WT2a5wNuK2Thbsxm) | [Sinto Falta Dos Amigos Que Se Foram](https://open.spotify.com/album/2x4Og5icyaJ3Gy7JcUqVWN) | 3:26 | 2022-03-18 | 2022-07-23 |
 | [Sobre mim](https://open.spotify.com/track/4qaOtwB4LjQv2U3UAJN5a1) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Sobre mim](https://open.spotify.com/album/6JTFaHvi9gXwJchaSRP9BK) | 3:28 | 2022-05-06 |  |
+| [Soldado sem Coração](https://open.spotify.com/track/2NzxxgUanq360r29LzuDQM) | [Boaventura](https://open.spotify.com/artist/5jclJvn6eulBAXMjqrprO8), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Soldado sem Coração](https://open.spotify.com/album/6ocAO0JnWL8I9Nup1s7XEJ) | 2:20 | 2023-03-03 |  |
 | [SOLTO](https://open.spotify.com/track/5MjB4phpJsKhm8yCXdTIDN) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:39 | 2022-07-22 |  |
 | [SOLTO](https://open.spotify.com/track/0pmHuWQ6n8zYdAjcG85zKA) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Hot](https://open.spotify.com/artist/2y9NHQDJMsOMIVY5dECoWe) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/4mgTW0NU3fjNBxHdKOJoRr) | 3:39 | 2022-03-18 | 2022-07-29 |
 | [Som Que Vem Da Alma](https://open.spotify.com/track/3RbuPSW2qQx7Xio3bnInUG) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Som Que Vem Da Alma](https://open.spotify.com/album/2lEQ1PwBQyErU6qfuLP5h9) | 2:42 | 2022-03-18 | 2022-03-26 |
@@ -253,6 +254,7 @@
 | [Vinho das Almas](https://open.spotify.com/track/5O2mnJo3RfnLjFVOkNyKux) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Vinho das Almas](https://open.spotify.com/album/6lAAJaL2C4WBrHpovlRWdf) | 3:23 | 2022-03-18 | 2022-04-02 |
 | [Vitória](https://open.spotify.com/track/3dbUNFPVonArFanzvuxK1J) | [DJ Tripa](https://open.spotify.com/artist/2qG2PRq86qcsZT47eZG7xR), [Mc Pereira](https://open.spotify.com/artist/27j20QCLMjp6oOvlXvJ8Uc) | [Vitória](https://open.spotify.com/album/4MGkPPp8UQPWRfcui1DDpt) | 2:39 | 2022-06-03 | 2022-06-11 |
 | [Viver Tá Osso](https://open.spotify.com/track/63WtsqSUUR75iWvGyBwnIw) | [Cronicas de Um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Viver Tá Osso](https://open.spotify.com/album/37sqcLKyDMdHdDgGWd0spl) | 3:35 | 2022-08-26 |  |
+| [Você Está Com Febre?](https://open.spotify.com/track/6hC66C3uYkWWqCXBmyLpLd) | [Febre90s](https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Você Está Com Febre?](https://open.spotify.com/album/7l5juy0pUDeyF9sKXt8mkL) | 2:45 | 2023-03-03 |  |
 | [Você Não É Mais Criança](https://open.spotify.com/track/5T4sMKJyVMs0CH1f3iIYLv) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [lucasbin](https://open.spotify.com/artist/7KYrffinPH0x6rrRIqIBid), [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu) | [Você Não É Mais Criança](https://open.spotify.com/album/0T73ivIvZRrQlh9wxCvDuS) | 1:54 | 2023-01-14 |  |
 | [Você Sabe Bem](https://open.spotify.com/track/6eI7gkkXywos8LniR6FKA9) | [Rafinha No Beat](https://open.spotify.com/artist/6zM44V7R04R6uVZFvUkWWG), [LEIROZ](https://open.spotify.com/artist/5cRriQJijsudb4UimiqQxU), [Muzzike](https://open.spotify.com/artist/2XTtA7Pvl5vucL3oFXlMyT) | [Você Sabe Bem](https://open.spotify.com/album/3zRJwZMHrpSrza1H0IsGCV) | 2:22 | 2022-11-25 | 2023-01-14 |
 | [Vou para Longe](https://open.spotify.com/track/53CpCzM9bwyXFEdu09frBr) | [KXA](https://open.spotify.com/artist/66ZwZ4i4a3BbToMA7KctRO), [Lado Sujo da Frequência](https://open.spotify.com/artist/6aPW50hBX6ZLc5QTgor7Wh) | [Vou para Longe](https://open.spotify.com/album/09ODtaGoF66SqTUjVkbrCl) | 3:37 | 2023-01-14 |  |

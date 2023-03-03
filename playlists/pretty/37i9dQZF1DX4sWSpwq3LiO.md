@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,913,823 likes - 312 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,915,992 likes - 312 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -321,4 +321,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 311 | [A Gentle Sunlight](https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [A Gentle Sunlight](https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF) | 1:57 |
 | 312 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
 
-Snapshot ID: `MTY3NzQ5Njk5NCwwMDAwMDAwMDA0NzY4MDIzZDZlMjdmM2UzYzU0MDdiYjdkYzEwNDRk`
+Snapshot ID: `MTY3NzQ5Njk5NCwwMDAwMDAwMDljYWU3ZTdiZGM0NzdjN2NkYzQwMmU4ZDA2YzhhMGM5`

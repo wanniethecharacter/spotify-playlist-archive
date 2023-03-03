@@ -4,7 +4,7 @@
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: AKA AFK
 
-151 songs - 7 hr 8 min
+152 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Revolta](https://open.spotify.com/track/1338yPBS9EvfuPW5wgKwrs) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Revolta](https://open.spotify.com/album/67kCjJrSahL0q8BpfGZmHC) | 3:16 | 2022-03-18 |  |
 | [Rico no Rio](https://open.spotify.com/track/6NXMEsY4Ivqm722zmI5kgG) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Dj DM](https://open.spotify.com/artist/686Cz1vrD1XO5CPJC0ZiAt), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Rico no Rio](https://open.spotify.com/album/7mXrQh7smoIFCbHfUMJGa0) | 3:07 | 2022-06-03 |  |
 | [Ruas](https://open.spotify.com/track/2fb6Unnl2Klg5GijDEeuMA) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0) | [Ruas](https://open.spotify.com/album/1vcvP2HPCZY0xq0FuEzCEz) | 2:26 | 2022-03-18 |  |
-| [Sabe Quem Sou](https://open.spotify.com/track/6OTrz742PNDwQli7oPSCvQ) | [Raul Conrado](https://open.spotify.com/artist/1kgJFO4V7zbKNadlpeifdh), [MGO](https://open.spotify.com/artist/1lNqWxcJuAOcggIzO7RyIP), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Sabe Quem Sou](https://open.spotify.com/album/2qA7qw0z0I27MzkIdglpIW) | 3:29 | 2023-01-27 |  |
+| [Sabe Quem Sou](https://open.spotify.com/track/6OTrz742PNDwQli7oPSCvQ) | [Raul Conrado](https://open.spotify.com/artist/1kgJFO4V7zbKNadlpeifdh), [MGO](https://open.spotify.com/artist/1lNqWxcJuAOcggIzO7RyIP), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Sabe Quem Sou](https://open.spotify.com/album/2qA7qw0z0I27MzkIdglpIW) | 3:29 | 2023-01-27 | 2023-03-03 |
+| [Saitama](https://open.spotify.com/track/4WYPecFmvRVvMfXTnQ8VJR) | [Leo Falcon](https://open.spotify.com/artist/00a4YwjmqjZcWMXlz1C6I2), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Saitama](https://open.spotify.com/album/5zLsV9jRXXq3QWykPG5GLi) | 3:04 | 2023-03-03 |  |
 | [Shake](https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Aguida Beats](https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1) | [Shake](https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC) | 2:34 | 2022-03-18 |  |
 | [Sigo Frio](https://open.spotify.com/track/58rixyMbSeAoOqdYXu19Fw) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [Sigo Frio](https://open.spotify.com/album/5oUDoKblGrcr5STXUGkJB1) | 3:38 | 2022-11-18 | 2023-02-03 |
 | [Sigo Frio](https://open.spotify.com/track/5fcwXqL0nB4OIx5VRXEKAD) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [Rock Danger Worldwide/Chile](https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o) | 3:38 | 2023-01-27 |  |

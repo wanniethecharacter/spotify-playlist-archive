@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,047 likes - 162 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,090 likes - 162 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 161 | [Little Vibey Thing](https://open.spotify.com/track/2ESLxzqj6HB6QGdCoEJbNK) | [Conrad Subs](https://open.spotify.com/artist/62Vn4DolLwSkkSS4fEXKLH) | [Tides LP](https://open.spotify.com/album/5UVRNQrXNRJz8P4VJIpdOW) | 4:46 |
 | 162 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 
-Snapshot ID: `MTY3MDI1MTYxMCwwMDAwMDAwMGUwNWNmZDVjOWQ5NjcxMWU0ZWI4ZmJjYzZhNzBlZDZm`
+Snapshot ID: `MTY3MDI1MTYxMCwwMDAwMDAwMDJmZjNiNGQ2YjFlMDgwMGFhMDI0ZjA4MDUxY2E5YmZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from KAROL G & Shakira, Don Toliver, Jonas Brothers, Halsey and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,066,215 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,066,921 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Creek Will Rise](https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise](https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx) | 2:49 |
 | 100 | [Thunderhead](https://open.spotify.com/track/3woo6ubZdBV8T1bnGJo88Z) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Thunderhead](https://open.spotify.com/album/48gkRDpI0se4nXmqxjT4Kp) | 4:33 |
 
-Snapshot ID: `MTY3NzIxNTI2OSwwMDAwMDAwMGQ3MjQ0NTNhMThjM2E5YWEzMzBiZDMzZmY2YzIzMWE4`
+Snapshot ID: `MTY3NzIxNTI2OSwwMDAwMDAwMGQzNGUyNTc4NDYyODFiMjkzNWNhZjc3ZDc0YjVlZjM2`

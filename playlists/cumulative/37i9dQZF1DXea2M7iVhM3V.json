@@ -126,24 +126,6 @@
     {
       "album": {
         "name": "Sleeping in Class",
-        "url": "https://open.spotify.com/album/3CIpXTyBrGzNHEAzPpt3M6"
-      },
-      "artists": [
-        {
-          "name": "Casey Veggies",
-          "url": "https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy"
-        }
-      ],
-      "date_added": "2015-04-07",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 237365,
-      "name": "Can I Live feat. Mac Miller",
-      "url": "https://open.spotify.com/track/4anKjaXJyygQT6laJuxEhu"
-    },
-    {
-      "album": {
-        "name": "Sleeping in Class",
         "url": "https://open.spotify.com/album/5VQnHe5Wcji6wNbiAnMQ21"
       },
       "artists": [
@@ -160,8 +142,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 237365,
-      "name": "Can I Live feat. Mac Miller",
+      "name": "Can I Live",
       "url": "https://open.spotify.com/track/4gX5wWBuArhoyV17bVPeBb"
+    },
+    {
+      "album": {
+        "name": "Sleeping in Class",
+        "url": "https://open.spotify.com/album/3CIpXTyBrGzNHEAzPpt3M6"
+      },
+      "artists": [
+        {
+          "name": "Casey Veggies",
+          "url": "https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy"
+        }
+      ],
+      "date_added": "2015-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237365,
+      "name": "Can I Live feat. Mac Miller",
+      "url": "https://open.spotify.com/track/4anKjaXJyygQT6laJuxEhu"
     },
     {
       "album": {

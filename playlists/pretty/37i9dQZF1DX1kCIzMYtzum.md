@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > Home is where the main stage is\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,223 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,424 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 99 | [Mission Control](https://open.spotify.com/track/45lGbfYeIdseB3N8FSR9HG) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Mission Control](https://open.spotify.com/album/0TFqyokddXotEBOWcKYsdo) | 2:16 |
 | 100 | [Atlantis](https://open.spotify.com/track/3dqIIPHyhVVbN1mnShVAhT) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Atlantis](https://open.spotify.com/album/6I0cW7R6h13OxfoDCnvW35) | 3:18 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDRkNTc5N2VlYmMxMTVkOGYzNjg2NzZhNzdmZDFhZWFh`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDExYjIwZTU0MWVjZDMyNDkxMTY2ODUzZjY3ZTc4NTZj`

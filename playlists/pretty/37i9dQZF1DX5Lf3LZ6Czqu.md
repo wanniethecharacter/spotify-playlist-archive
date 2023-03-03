@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Covet
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,967 likes - 97 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,044 likes - 97 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 96 | [Riverside Cake](https://open.spotify.com/track/2srAO5RpA2itSztEfbhRsR) | [Keanu Ienco](https://open.spotify.com/artist/13kGFdMMZXBatYiqXx2Wuw) | [Celestial Desire](https://open.spotify.com/album/6yHsXLT981Lxq675nClwrJ) | 5:05 |
 | 97 | [Elysium](https://open.spotify.com/track/2QSPTVVCczdil3ixvn7OvR) | [Al Joseph](https://open.spotify.com/artist/21PirAYDy86Fxofydxphxu) | [All of Creation](https://open.spotify.com/album/4JnTiM4k8PskSpoT1ORTIa) | 4:38 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDQ3N2M5MWIzOWY4YzFhMzQ5NjI5M2VhOGZjM2M2NGQ0`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDY5YmFlODc4ZGQyYTYxZjJlMDBkY2Q2OTM5YmVmOGE2`

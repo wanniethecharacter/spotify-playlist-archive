@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Kassi Ashton
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,449 likes - 152 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,558 likes - 152 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 69 | [a hundred years old](https://open.spotify.com/track/1c65uHCpB1cJNh4wvlZTrB) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [if i ever get there: a day at blackbird studio](https://open.spotify.com/album/4N6uVFBQiz6x4UqRmClANc) | 3:56 |
 | 70 | [Already Yours](https://open.spotify.com/track/7Ifip9SzTWwQ7Z1qzM3Bem) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [Already Yours](https://open.spotify.com/album/7DXYYcnjNtds0rG8N46M6l) | 3:14 |
 | 71 | [Mess Me Up](https://open.spotify.com/track/1sti7HnuhNSswPJu8dvMu3) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Mess Me Up](https://open.spotify.com/album/5zWDAWcCb39QFzrMvoKJpq) | 2:46 |
-| 72 | [Settle Up](https://open.spotify.com/track/5lkdtsMTVc0pRZOVl3PhFg) | [Spencer Burns](https://open.spotify.com/artist/7wgrl0tqd33delbiGKendC) | [Settle Up](https://open.spotify.com/album/4DGjQyPDldI0CeRCadyxvd) | 2:47 |
+| 72 | [Settle Up](https://open.spotify.com/track/5lkdtsMTVc0pRZOVl3PhFg) | [Spencer Burns](https://open.spotify.com/artist/4NmjSQ0m4Z3vtiz08n2o08) | [Settle Up](https://open.spotify.com/album/4DGjQyPDldI0CeRCadyxvd) | 2:47 |
 | 73 | [Little Bit](https://open.spotify.com/track/026r3p9a0dt7RWZZU4SZKo) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party \(Deluxe\)](https://open.spotify.com/album/4kFbZ2kjG26kkUifzKfy7L) | 3:19 |
 | 74 | [Bench Seat](https://open.spotify.com/track/74SH9FrC7nDtf8sxAaMYEI) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/3Op5gWQhEgVB3x2H4OHDvV) | 4:02 |
 | 75 | [Make You Rich](https://open.spotify.com/track/5VLcERquOVrNKlBrCqdupj) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Make You Rich](https://open.spotify.com/album/6qTttEFOPrboFLjAptT6ZJ) | 3:35 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 151 | [Howdy Howdy Howdy](https://open.spotify.com/track/5nfueskTryDjBrdTsex5fr) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Howdy Howdy Howdy](https://open.spotify.com/album/40P6FRU7yKMatNchYEaSRm) | 3:04 |
 | 152 | [Just Being Honest](https://open.spotify.com/track/7IHcCpSyRjHr9R5OPbnrUH) | [Kacy Moon](https://open.spotify.com/artist/4yCDlGLH4zfJHp400hMAwg) | [Just Being Honest](https://open.spotify.com/album/49HuoGgtwt1eSaHtifGCpc) | 3:30 |
 
-Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMGYxMTBiZjRjNjY0NmZiNjU2ZjAyMmY2ZjhlZDczMGJh`
+Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMDU5NzY5NjdlZDFhZmZhNmUzNDE2YWNkNDUwZDFjM2Nm`

@@ -4,7 +4,7 @@
 
 > 
 
-118 songs - 8 hr 31 min
+119 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [I Do Wonder](https://open.spotify.com/track/3gIrjqnZpDkChCsPqTLHF9) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Sun Songs](https://open.spotify.com/album/1rU8DsYxX6rWjqhBUqXDBK) | 2:27 | 2022-11-04 | 2023-02-08 |
 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 | 2022-09-20 |  |
 | [I Just Want To Love You \- Club Version](https://open.spotify.com/track/4e3Qn7ZlJsaRKUOJwzGVzk) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You \(Club Version\)](https://open.spotify.com/album/3S948ScIz3AJ0QvPcXF9C6) | 5:04 | 2022-12-08 |  |
-| [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 | 2023-02-10 |  |
+| [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 | 2023-02-10 | 2023-03-03 |
 | [I Love The Drive](https://open.spotify.com/track/1LpkTDHQkQ02lL3RnZYYCy) | [Kiss Nuka](https://open.spotify.com/artist/3VXmLRdy5ho8J1Btv7zffg) | [I Love The Drive](https://open.spotify.com/album/0XzTYBWfL8T431l7kb3ObF) | 5:28 | 2022-09-29 | 2022-11-18 |
 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-10 | 2022-07-15 |
 | [I Saw](https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [I Saw](https://open.spotify.com/album/5dYFkoGHXg0xjjtXEqZkwV) | 3:27 | 2022-10-20 |  |
@@ -114,6 +114,7 @@
 | [Time Glide](https://open.spotify.com/track/0NlzQhUzaV2jaswePcQp0s) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Infinite Window](https://open.spotify.com/album/53VgkRoJgtIKjXTFqpc8gR) | 2:54 | 2022-08-01 | 2022-11-15 |
 | [Time I Leave](https://open.spotify.com/track/3EiSDHIgsCc6BAW8WLLiN5) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM) | [Time I Leave](https://open.spotify.com/album/0ChcBQIXKoQe3e2VifHZqB) | 3:35 | 2023-03-01 |  |
 | [TO FIND LOVE IS TO SEEK THE END \- Ivy Lab Remix](https://open.spotify.com/track/0c2NAdPReN7SUNR809lkVR) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [TO FIND LOVE IS TO SEEK THE END \(Ivy Lab Remix\)](https://open.spotify.com/album/6G9cHPZ03iG8q1749C4PJt) | 3:42 | 2022-04-13 | 2022-08-03 |
+| [To Tell How I Adore You](https://open.spotify.com/track/3GifKPu6oZZ4v343tqe2x0) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [To Tell How I Adore You](https://open.spotify.com/album/5Zc4pfRszEBd0oOPq5XZWM) | 2:01 | 2023-03-03 |  |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-07-13 | 2022-09-30 |
 | [Treetop](https://open.spotify.com/track/1ByVcp77Vftr2riEwpbyXF) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Treetop](https://open.spotify.com/album/5OT7OHLukEWenm3TntjvhS) | 4:32 | 2021-11-23 | 2022-07-13 |
 | [Troopa](https://open.spotify.com/track/0wrBjtMrRznJgK92WFsA7e) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Shimmer](https://open.spotify.com/album/5J9PhCTsvguuCAEMnxlagY) | 5:20 | 2022-10-21 | 2023-01-10 |

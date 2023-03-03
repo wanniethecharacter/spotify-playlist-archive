@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,187 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,268 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 59 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
 | 60 | [Justice 2020](https://open.spotify.com/track/20Cq38WdpKCscYtTPTZy0J) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Chali 2na](https://open.spotify.com/artist/1ZJlXFkFDBsjSuYyjVcMkk), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 4:53 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDE0ZTc2ODFjNDNiNDcxOWNmNGU5OGUyNmNkYWNhZTE2`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDcyNTI0NTFlZDA5MWY1ZjJjNmY2MDQ4NzRmNjUxZjEw`

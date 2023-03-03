@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: ProdiG
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: CHANKA & hirsk
 
-433 songs - 1 day 0 hr 37 min
+439 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Give It Up \- Live](https://open.spotify.com/track/4omJ7cFiuK8I8tTbdnalEh) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Give It Up \(Live\)](https://open.spotify.com/album/7mOFUTdjtYNv8AkBmV1ZxI) | 3:36 | 2022-12-15 | 2023-01-06 |
 | [Goodbye](https://open.spotify.com/track/0aNKJq3HKyHtC0XTadVJm6) | [Eagle Chan](https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D) | [日曜日](https://open.spotify.com/album/5wuSotju31MyCj12UnI8iD) | 3:57 | 2022-09-01 | 2023-01-06 |
 | [Guaranteed](https://open.spotify.com/track/7Fu0tzqKMEZPgogTkfY9aF) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Guaranteed](https://open.spotify.com/album/4bjBunt43qGNuRyhGysUaV) | 2:55 | 2023-02-23 |  |
+| [gömböc](https://open.spotify.com/track/3BzCye7qSkPzUvjITcgR6Y) | [hirsk](https://open.spotify.com/artist/1WxYe59SGsEY1e6fLII0hB), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [gömböc](https://open.spotify.com/album/3ynKmPgPzFzTT8krlAXBen) | 2:29 | 2023-03-02 |  |
 | [Hang你老母 MeowMeow](https://open.spotify.com/track/42GaSRx19HNDyRBntX48Ux) | [Chrisok](https://open.spotify.com/artist/1DixYkPHal3npqnOSLyZaA) | [Hang你老母 MeowMeow](https://open.spotify.com/album/6xSiSkRW0zPgkF6r5P8F9J) | 1:52 | 2022-06-30 | 2022-09-09 |
 | [Harbor](https://open.spotify.com/track/49ZfLsBNfvKMu7J8Vqm9VE) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Synthetic](https://open.spotify.com/album/07wiHViuoo1UnSl1AjKjFk) | 2:30 | 2022-09-15 |  |
 | [Haze](https://open.spotify.com/track/0JNE7FY4YAaabbvtnH2Anw) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Haze](https://open.spotify.com/album/3Wb8cdmD4QrVJBkAVFmjsk) | 3:32 | 2022-09-29 | 2023-02-03 |
@@ -132,6 +133,7 @@
 | [INSECURE](https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [INSECURE](https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8) | 3:01 | 2022-09-22 |  |
 | [Josh Groove](https://open.spotify.com/track/6a1YjzaPhDWqdAp4KUPkXt) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt), [Bella World](https://open.spotify.com/artist/3XUDJGDts81L0k83qK4Zft) | [Josh Groove](https://open.spotify.com/album/5kCtNE3X8U3OFFHgujnmK9) | 3:46 | 2023-01-19 |  |
 | [june \(february’s not long ahead\)](https://open.spotify.com/track/1MKkSOM3kebfkMT6lKLwZc) | [loegunn](https://open.spotify.com/artist/4RjEsC8wfSLI9V86HJsLQn) | [june \(february’s not long ahead\)](https://open.spotify.com/album/0xB5mmnFwgW0J5irnKzFqT) | 1:39 | 2022-11-24 | 2023-02-03 |
+| [Kowloon Cowboy Theme](https://open.spotify.com/track/6HmJ7v6gGkiZ8RFyfBmxEx) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [Kowloon Cowboy Theme](https://open.spotify.com/album/4Op3cpQTauXzROMdyhQNqH) | 3:12 | 2023-03-02 |  |
 | [Kowloon 九龍](https://open.spotify.com/track/0XLcxPWoiIPPmcU1kEpDc0) | [Hallex M](https://open.spotify.com/artist/0f270Jn8Iq2r631GA5429f) | [Kowloon 九龍](https://open.spotify.com/album/0Et4ZqBmHGbwRnRvJH6JEd) | 6:40 | 2022-07-28 | 2022-09-09 |
 | [L.over Remix](https://open.spotify.com/track/5WTAyEu3w3YIjHN2q8eb61) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [L.over Remix](https://open.spotify.com/album/6gBgfP26HuP5JE2SjFZ0uc) | 3:18 | 2022-05-26 | 2022-07-29 |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-05-26 | 2022-07-29 |
@@ -198,6 +200,7 @@
 | [Rain On Me](https://open.spotify.com/track/2Ha5WK1UecSA134oD4itZN) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Rain On Me](https://open.spotify.com/album/3Jvo1WUkRmZTZP0mgsQwbN) | 3:33 | 2022-12-01 |  |
 | [Rari](https://open.spotify.com/track/4Dt9J1ac16L4XV7jRs7E6L) | [Ethan Chu](https://open.spotify.com/artist/4GAxH0WL7ChoWWdpGw6PZq) | [Rari](https://open.spotify.com/album/1q9G3PA0UMdrDifhGmRyw5) | 2:17 | 2022-08-18 | 2022-11-04 |
 | [REAL](https://open.spotify.com/track/3X3xIOH6BYOxt6UoZWbuIY) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [REAL](https://open.spotify.com/album/11zwue1tQvvXTkJb9qOzqT) | 3:48 | 2022-06-02 | 2022-09-09 |
+| [RED](https://open.spotify.com/track/19K0OIFCngMctZewUmkl9U) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ) | [RED](https://open.spotify.com/album/6JUJOejhs4UqdJ24idnPg2) | 3:58 | 2023-03-02 |  |
 | [red & gold](https://open.spotify.com/track/6Ag0kjU5LUCRCHUiXNwycg) | [cornelia](https://open.spotify.com/artist/6gDLZVjPZvyKYHYujcrNdO) | [red & gold](https://open.spotify.com/album/5YvfeqgciOc85XlTFn72r1) | 4:27 | 2022-12-01 | 2023-02-03 |
 | [Rosemary](https://open.spotify.com/track/2SVZHdvZX6wLCufft9ybBZ) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [Rosemary](https://open.spotify.com/album/2YTZ1JrnsiUwlXArIQYMje) | 4:06 | 2022-12-29 |  |
 | [S.H.I.T](https://open.spotify.com/track/0CtiGcW3OyABsFA7jmryFM) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [S.H.I.T](https://open.spotify.com/album/27pguvAfmV3j5kDAc07XqU) | 2:22 | 2022-05-26 | 2022-07-29 |
@@ -210,6 +213,7 @@
 | [Sick And Tired](https://open.spotify.com/track/2Df1Lx1Ahk7G9eTGlEVCxg) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Sick And Tired](https://open.spotify.com/album/6mO84EaybYVN9XlkSHPQOb) | 2:59 | 2022-10-20 |  |
 | [Sin Trigger](https://open.spotify.com/track/1b8ysxE26bqztpEAVaGrfT) | [Hong Kong Express](https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf) | [Sin Trigger](https://open.spotify.com/album/3WxaGezM6hZS2bdSQnxWt5) | 4:49 | 2022-11-03 | 2023-02-03 |
 | [Skin](https://open.spotify.com/track/6QQ8Kh5B0p6ynMyQ85twG1) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Skin](https://open.spotify.com/album/0T51lum2NzhPi5aVbPCE3Z) | 3:48 | 2022-11-17 |  |
+| [smth2feel](https://open.spotify.com/track/0uDndj1OaoLDqfIujh5XeQ) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [smth2feel](https://open.spotify.com/album/1Yi2QFQsvFDlQMjTS1IoMh) | 2:28 | 2023-03-02 |  |
 | [Snow](https://open.spotify.com/track/1CwgcuwoetZAczJIeIcvIJ) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Rainy Days in the Blue Whale](https://open.spotify.com/album/477KtPkwvfcOTAzHs9pf7q) | 4:03 | 2022-12-29 |  |
 | [So Deep!](https://open.spotify.com/track/6pcFkRhg2X2nr4Wpexo02r) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [So Deep!](https://open.spotify.com/album/3yOeb9vjEp2rF4Ea9hiYwE) | 3:50 | 2022-06-02 | 2022-09-09 |
 | [So Far Away](https://open.spotify.com/track/21kQdblL7CTYzOjlFlD3lV) | [ANDREAH](https://open.spotify.com/artist/02yssJvjMJdJ3nueVhig4j) | [So Far Away](https://open.spotify.com/album/0TVRdGCGcyJ1Uj34ZdEmEO) | 4:03 | 2022-09-22 | 2023-01-06 |
@@ -218,6 +222,7 @@
 | [SOUL \(feat\. sunshine blvd.\)](https://open.spotify.com/track/7BCMGPexL5U99IY3pBrxog) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71), [sunshine blvd.](https://open.spotify.com/artist/0hqb9YnV2YAr2lPHwn5rKe) | [SOUL \(feat\. sunshine blvd.\)](https://open.spotify.com/album/3HGos1wXHhSXT4Vq5okUa6) | 2:53 | 2022-05-26 | 2022-07-29 |
 | [Spaceship](https://open.spotify.com/track/3w6VSyZ1isHJ53YHDdT2CE) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/7qXjSLSvngusEgkvX7m5uU) | 3:23 | 2022-10-13 | 2022-11-04 |
 | [Spaceship](https://open.spotify.com/track/7Kz8jS0iJ07JjWkN6gY0S6) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/4wc8biQw9TsUg8DdH6IU4s) | 3:23 | 2022-07-07 | 2022-10-19 |
+| [Sponsor Me](https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7) | [hisbbuR](https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa) | [Sponsor Me](https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb) | 3:40 | 2023-03-02 |  |
 | [Stay](https://open.spotify.com/track/0kOBbEfT0pdghV2SvfkngL) | [Hzzi](https://open.spotify.com/artist/6ylNoo2bvpX3xCmlZKIIGm) | [Stay](https://open.spotify.com/album/0batzFZ3TrD3ZQs78hWHef) | 2:33 | 2023-02-02 |  |
 | [STORM IS COMING](https://open.spotify.com/track/7oZdECdOcQPL4Un0G4ss2X) | [Shingaling](https://open.spotify.com/artist/0jNdqxqzGbd6Mbwr75FOlF) | [STORM IS COMING !!!](https://open.spotify.com/album/2GjANqBhBhgqxpqjM8ogyq) | 3:55 | 2022-05-26 | 2022-09-09 |
 | [Stuck in my dream](https://open.spotify.com/track/6FRQGRaRgCBMiV1od1ZJAG) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Noodles](https://open.spotify.com/album/1ExTXmIeooEWgFxQoiFCka) | 3:44 | 2022-07-07 | 2022-11-04 |
@@ -265,6 +270,7 @@
 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 | 2023-02-23 |  |
 | [Way Home 回家](https://open.spotify.com/track/5Kpx8pcbQVVJnY5qJECOgJ) | [Sea Island & Ferry 海島小輪](https://open.spotify.com/artist/0B7YKBxPz9JuT9b7azRx55) | [As if \- II\. The Deep End 往深](https://open.spotify.com/album/0YVzlKAxl14t6UNy7KU5Ur) | 5:00 | 2022-09-29 |  |
 | [We Don't Talk 'Bout Love](https://open.spotify.com/track/0f1vhVkouckNqcwQJCpyEv) | [Pabylon](https://open.spotify.com/artist/1Bw6PlMIF1Vm2suJcgyA8E) | [Intoxicated By...](https://open.spotify.com/album/1sAU95jxiDP5pAQXZ02Vnu) | 3:52 | 2022-09-22 | 2023-01-06 |
+| [we know it's not, babe](https://open.spotify.com/track/73EcV0W0GZG2o8FjiRdEZ3) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [we know it's not, babe](https://open.spotify.com/album/4I3AjlGjqinI8xpkuQCVDw) | 3:33 | 2023-03-02 |  |
 | [we'll meet again someday](https://open.spotify.com/track/2MhmZKLUVGIeR5isxJBIqF) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [NIRVANA](https://open.spotify.com/album/14qA3m1Opr9rumuMx6ZJ9x) | 0:53 | 2022-06-16 | 2022-09-09 |
 | [welcome to my humble abode](https://open.spotify.com/track/1iIbrUq0rka8fwNFC7O7rO) | [loegunn](https://open.spotify.com/artist/4RjEsC8wfSLI9V86HJsLQn) | [heart is a home](https://open.spotify.com/album/3RcwzyErDjclY6lAuZzdlw) | 3:13 | 2023-02-16 |  |
 | [what would you say to your lost self](https://open.spotify.com/track/07jgeBRRxIA2FICXUouW5v) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [DVRLENE](https://open.spotify.com/artist/1Rc0NV88mREBY1ZOP2lYq1) | [what would you say to your lost self](https://open.spotify.com/album/6qOGpqm3j0NzEhtHCJ9Law) | 2:50 | 2022-08-25 | 2022-11-04 |

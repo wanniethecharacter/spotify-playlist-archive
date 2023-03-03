@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,756 likes - 174 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,209 likes - 174 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 54 | [53 Years](https://open.spotify.com/track/11mkerV8covWqvARfUjMnH) | [Shawn Lee & The Soul Surfers](https://open.spotify.com/artist/7gTsuERz8GUn9ZL1CRCNHF) | [Shawn Lee & The Soul Surfers](https://open.spotify.com/album/7kyoHgCWpg45Nmj6Q7AUuS) | 3:30 |
 | 55 | [Blood on the Tracks](https://open.spotify.com/track/43IeRAT5dVou9QAjVqsGCM) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:58 |
 | 56 | [Can't Fool With Me](https://open.spotify.com/track/5VQe4YIBhwcs7XsiHond9O) | [The Spaceshits](https://open.spotify.com/artist/3syYIJ8mAG9T477ItqEOGA) | [Misbehavin'](https://open.spotify.com/album/6lBeOZuJYpZLOY7fGwZJ7k) | 2:53 |
-| 57 | [Out on the Weekend \- Lyric Video](https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:02 |
+| 57 | [Out on the Weekend](https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:02 |
 | 58 | [Young Lovers Do](https://open.spotify.com/track/7fx1Uu6Y7HHVK4qmnUtYlu) | [Tilly VW](https://open.spotify.com/artist/3k1wzoa766QdroI9rsVCBU) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:54 |
 | 59 | [When the Lights Are Low](https://open.spotify.com/track/5dfQhcik87RMJAvVs7xW95) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 3:04 |
 | 60 | [Heaven on the Beach With You](https://open.spotify.com/track/1aYDZpNwbkWa2ci01qbReB) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Ode to a Rainy Day: Archives 1972\-1975](https://open.spotify.com/album/7be9L5bnrienOBoWnPt1lz) | 2:02 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 173 | [Never Gonna Let You Go](https://open.spotify.com/track/5LDysQO7wtl5rTdgCggcfj) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Never Gonna Let You Go b/w Everytime It Rains](https://open.spotify.com/album/3YZTPPJrD1pj8tg43O6n1a) | 2:31 |
 | 174 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MTY3NzY5OTUxNiwwMDAwMDAwMGQyNTEzMzE4ZTUxMmI1YTdlNjhjMzFlODk2OTFjNzAy`
+Snapshot ID: `MTY3NzY5OTUxNiwwMDAwMDAwMDMyZTNhMzBkZjQ1MDFkNThjYjY1NDY0NDA5ZGQwZTQ1`

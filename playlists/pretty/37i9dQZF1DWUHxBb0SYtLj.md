@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Una speciale selezione curata insieme a Emma per la Giornata Internazionale della Donna! \#IWD
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,565 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,584 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,28 +34,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 24 | [Killshot](https://open.spotify.com/track/7MvItCGlJ217NPmGUZv0Yd) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx) | [Killshot](https://open.spotify.com/album/4oLnUt41zlJjNA3wRJzX8n) | 2:05 |
 | 25 | [COLLANE](https://open.spotify.com/track/0fSpIhDmGgXIWYkaaNsw0t) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [COLLANE](https://open.spotify.com/album/1P8Xp6rAlMzJGYGhdNKzjl) | 2:33 |
 | 26 | [Globo](https://open.spotify.com/track/00MY44klAVxIdtmUZrlwK7) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Globo](https://open.spotify.com/album/7muqqx18joxBwnxAwHthXF) | 2:58 |
-| 27 | [Essenza blu](https://open.spotify.com/track/0x9XvxqYX6fE9AX7lFLH9J) | [Giulia Malavasi](https://open.spotify.com/artist/0Hx96SC5Ez0TKdTJy5WT5L) | [Essenza blu](https://open.spotify.com/album/1NEuRvZyIBEf1A39CDe0GX) | 2:35 |
-| 28 | [Home to Me](https://open.spotify.com/track/1WY8mEupCbjNIZp4q3jmhk) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Home to Me](https://open.spotify.com/album/1oXsApyn1b19ACBW7NkY11) | 2:43 |
-| 29 | [Your Name on It](https://open.spotify.com/track/2M1YP2tCLehFHwZ6WasfrE) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Your Name on It](https://open.spotify.com/album/4w6oNmCWrpdMwHJE5WMlth) | 2:17 |
-| 30 | [Eclissi](https://open.spotify.com/track/72HI1aZn1i1eoTpuVQtcKn) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Eclissi](https://open.spotify.com/album/2DZNZYc4ZanD5PrNlSsmuo) | 3:49 |
-| 31 | [BRAD PITT](https://open.spotify.com/track/76g2FxkcYfBJe1ZM7kuaiW) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [BRAD PITT](https://open.spotify.com/album/28FDZasUAgflAb3HKhrhYg) | 3:01 |
-| 32 | [Honda](https://open.spotify.com/track/7n2me573c41rLX6cuOWEJy) | [SVD](https://open.spotify.com/artist/59HFEHwA26XemIL3Xh9X4p) | [Honda](https://open.spotify.com/album/4zTkmdf03VuKmR1cjYhsqL) | 3:29 |
-| 33 | [morsodelcobra](https://open.spotify.com/track/5279a5e5dwqXBO3oXvpLZ5) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [morsodelcobra](https://open.spotify.com/album/34mLaLlrMmfIbB162LOVEO) | 2:54 |
-| 34 | [N.M.W.](https://open.spotify.com/track/7DoPIA4uhxPXycGwKxleRk) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [N.M.W.](https://open.spotify.com/album/0vwlRoCO1yN1H11f6Ixxhk) | 3:02 |
-| 35 | [RICORDI \(?\)](https://open.spotify.com/track/3PNdQmkF5Z7UopHJII0tn5) | [Sbazzee](https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8) | [RICORDI \(?\)](https://open.spotify.com/album/5J9Y597V7UTIN1l1UGUaaj) | 2:20 |
-| 36 | [Effetti speciali](https://open.spotify.com/track/5mHs2mCbWHytdKgNdBL7jI) | [DESÈ](https://open.spotify.com/artist/5ZGM7ZcrSoxIYIv7fPxyZt) | [Effetti speciali](https://open.spotify.com/album/5FiNwonaFjLuuSLQSueQvZ) | 3:07 |
-| 37 | [Vitale](https://open.spotify.com/track/6UBIZE6kokTCpScOUnkvEC) | [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [Vitale](https://open.spotify.com/album/2gdcn5vwY00SqfhxQRpsEG) | 2:08 |
-| 38 | [Altalene](https://open.spotify.com/track/4YkPqYmsEwKoLGmEtxE5cR) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe) | [Altalene](https://open.spotify.com/album/35hPuOluggIkzML91CWZwv) | 2:51 |
-| 39 | [SHANGAI](https://open.spotify.com/track/2MY2QPbBFqFAASLFP3dwpb) | [iosonogiuls](https://open.spotify.com/artist/6ByhcuzYqIBNL68NNpIO6T) | [SHANGAI](https://open.spotify.com/album/4zy8ZdvyFT4TemlmwjYtwL) | 2:52 |
-| 40 | [Immortali](https://open.spotify.com/track/449RN1qJP2uMTJGP5yQW6s) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Immortali](https://open.spotify.com/album/68foSZEghjbhdyo8Q0tL5H) | 2:52 |
-| 41 | [Guardi me](https://open.spotify.com/track/2rhgFnHPj3MsLYRjDg1b64) | [LOU](https://open.spotify.com/artist/2ab5JYkftADf7SU0ACBB2I) | [Guardi me](https://open.spotify.com/album/53uozwEfhbrBMv4taVIYCM) | 2:53 |
-| 42 | [Bologna](https://open.spotify.com/track/71uQGQhBHe2G4waT2jNeDD) | [maniviola](https://open.spotify.com/artist/1CCy3YNgISLMizVv56lW7i) | [Bologna](https://open.spotify.com/album/2urphB9RKJGKO8a0Z8Au05) | 3:14 |
-| 43 | [ORDINARY LOVE](https://open.spotify.com/track/2KtF3IKEF3YBGuH5hlJjro) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [ORDINARY LOVE](https://open.spotify.com/album/3ElxjiZNSxLc81Xs6kwhTS) | 2:50 |
-| 44 | [lucciole](https://open.spotify.com/track/02Mbc3Phko6FVqCQCRlglb) | [Bordeaux](https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V) | [PRISMA](https://open.spotify.com/album/2Iq8SZgrLrNAS8YEcbwhXw) | 2:45 |
-| 45 | [tu.](https://open.spotify.com/track/4onStwuP849eGEa8SY5ebV) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM), [Noia](https://open.spotify.com/artist/2juG6RJqgbhPLJvHWOjEMM) | [tu.](https://open.spotify.com/album/2pPP9UcdAcHwqHXkJ6XljT) | 3:27 |
-| 46 | [Egoista](https://open.spotify.com/track/1tLF8UaFMkT28AUCOO2ccd) | [Shari](https://open.spotify.com/artist/3X9nkz31tAOM25rdtzfi60) | [Egoista](https://open.spotify.com/album/59N9BoP9P35nwB7j7pYVHX) | 2:53 |
-| 47 | [Pretty Girls](https://open.spotify.com/track/6sBOgjocWXDfpfJAdabUqm) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Shattered but Still Cool](https://open.spotify.com/album/40XMMV5EaE9RSVhNS1HXGw) | 2:56 |
-| 48 | [The Waves Are Calling Us](https://open.spotify.com/track/2WxnZWGdkGZNSaSRwIB9xA) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [The Waves Are Calling Us](https://open.spotify.com/album/7Ac7px1tf2hVYgCy5kIDLt) | 3:12 |
-| 49 | [Sali \(Canto dell'anima\)](https://open.spotify.com/track/2jeeJUdskWxxB8ivvTk0Z5) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN) | [Sali \(Canto dell'anima\)](https://open.spotify.com/album/1QrP5ZqxdIeeUVbVOH5CpV) | 4:12 |
+| 27 | [Lalala](https://open.spotify.com/track/2wdDtaUDH2okKZhB89qKtS) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Lalala](https://open.spotify.com/album/6l3wtti5FvkeiUpjgVyqy9) | 2:51 |
+| 28 | [Essenza blu](https://open.spotify.com/track/0x9XvxqYX6fE9AX7lFLH9J) | [Giulia Malavasi](https://open.spotify.com/artist/0Hx96SC5Ez0TKdTJy5WT5L) | [Essenza blu](https://open.spotify.com/album/1NEuRvZyIBEf1A39CDe0GX) | 2:35 |
+| 29 | [Home to Me](https://open.spotify.com/track/1WY8mEupCbjNIZp4q3jmhk) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Home to Me](https://open.spotify.com/album/1oXsApyn1b19ACBW7NkY11) | 2:43 |
+| 30 | [Your Name on It](https://open.spotify.com/track/2M1YP2tCLehFHwZ6WasfrE) | [Lilla Shy](https://open.spotify.com/artist/4bpm0dwCqIbfjsvqW716Qh) | [Your Name on It](https://open.spotify.com/album/4w6oNmCWrpdMwHJE5WMlth) | 2:17 |
+| 31 | [Eclissi](https://open.spotify.com/track/72HI1aZn1i1eoTpuVQtcKn) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Eclissi](https://open.spotify.com/album/2DZNZYc4ZanD5PrNlSsmuo) | 3:49 |
+| 32 | [BRAD PITT](https://open.spotify.com/track/76g2FxkcYfBJe1ZM7kuaiW) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [BRAD PITT](https://open.spotify.com/album/28FDZasUAgflAb3HKhrhYg) | 3:01 |
+| 33 | [Honda](https://open.spotify.com/track/7n2me573c41rLX6cuOWEJy) | [SVD](https://open.spotify.com/artist/59HFEHwA26XemIL3Xh9X4p) | [Honda](https://open.spotify.com/album/4zTkmdf03VuKmR1cjYhsqL) | 3:29 |
+| 34 | [morsodelcobra](https://open.spotify.com/track/5279a5e5dwqXBO3oXvpLZ5) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [morsodelcobra](https://open.spotify.com/album/34mLaLlrMmfIbB162LOVEO) | 2:54 |
+| 35 | [N.M.W.](https://open.spotify.com/track/7DoPIA4uhxPXycGwKxleRk) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [N.M.W.](https://open.spotify.com/album/0vwlRoCO1yN1H11f6Ixxhk) | 3:02 |
+| 36 | [RICORDI \(?\)](https://open.spotify.com/track/3PNdQmkF5Z7UopHJII0tn5) | [Sbazzee](https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8) | [RICORDI \(?\)](https://open.spotify.com/album/5J9Y597V7UTIN1l1UGUaaj) | 2:20 |
+| 37 | [Effetti speciali](https://open.spotify.com/track/5mHs2mCbWHytdKgNdBL7jI) | [DESÈ](https://open.spotify.com/artist/5ZGM7ZcrSoxIYIv7fPxyZt) | [Effetti speciali](https://open.spotify.com/album/5FiNwonaFjLuuSLQSueQvZ) | 3:07 |
+| 38 | [Vitale](https://open.spotify.com/track/6UBIZE6kokTCpScOUnkvEC) | [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [Vitale](https://open.spotify.com/album/2gdcn5vwY00SqfhxQRpsEG) | 2:08 |
+| 39 | [Altalene](https://open.spotify.com/track/4YkPqYmsEwKoLGmEtxE5cR) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe) | [Altalene](https://open.spotify.com/album/35hPuOluggIkzML91CWZwv) | 2:51 |
+| 40 | [SHANGAI](https://open.spotify.com/track/2MY2QPbBFqFAASLFP3dwpb) | [iosonogiuls](https://open.spotify.com/artist/6ByhcuzYqIBNL68NNpIO6T) | [SHANGAI](https://open.spotify.com/album/4zy8ZdvyFT4TemlmwjYtwL) | 2:52 |
+| 41 | [Immortali](https://open.spotify.com/track/449RN1qJP2uMTJGP5yQW6s) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Immortali](https://open.spotify.com/album/68foSZEghjbhdyo8Q0tL5H) | 2:52 |
+| 42 | [Guardi me](https://open.spotify.com/track/2rhgFnHPj3MsLYRjDg1b64) | [LOU](https://open.spotify.com/artist/2ab5JYkftADf7SU0ACBB2I) | [Guardi me](https://open.spotify.com/album/53uozwEfhbrBMv4taVIYCM) | 2:53 |
+| 43 | [Bologna](https://open.spotify.com/track/71uQGQhBHe2G4waT2jNeDD) | [maniviola](https://open.spotify.com/artist/1CCy3YNgISLMizVv56lW7i) | [Bologna](https://open.spotify.com/album/2urphB9RKJGKO8a0Z8Au05) | 3:14 |
+| 44 | [ORDINARY LOVE](https://open.spotify.com/track/2KtF3IKEF3YBGuH5hlJjro) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [ORDINARY LOVE](https://open.spotify.com/album/3ElxjiZNSxLc81Xs6kwhTS) | 2:50 |
+| 45 | [lucciole](https://open.spotify.com/track/02Mbc3Phko6FVqCQCRlglb) | [Bordeaux](https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V) | [PRISMA](https://open.spotify.com/album/2Iq8SZgrLrNAS8YEcbwhXw) | 2:45 |
+| 46 | [tu.](https://open.spotify.com/track/4onStwuP849eGEa8SY5ebV) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM), [Noia](https://open.spotify.com/artist/2juG6RJqgbhPLJvHWOjEMM) | [tu.](https://open.spotify.com/album/2pPP9UcdAcHwqHXkJ6XljT) | 3:27 |
+| 47 | [Egoista](https://open.spotify.com/track/1tLF8UaFMkT28AUCOO2ccd) | [Shari](https://open.spotify.com/artist/3X9nkz31tAOM25rdtzfi60) | [Egoista](https://open.spotify.com/album/59N9BoP9P35nwB7j7pYVHX) | 2:53 |
+| 48 | [Pretty Girls](https://open.spotify.com/track/6sBOgjocWXDfpfJAdabUqm) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Shattered but Still Cool](https://open.spotify.com/album/40XMMV5EaE9RSVhNS1HXGw) | 2:56 |
+| 49 | [The Waves Are Calling Us](https://open.spotify.com/track/2WxnZWGdkGZNSaSRwIB9xA) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [The Waves Are Calling Us](https://open.spotify.com/album/7Ac7px1tf2hVYgCy5kIDLt) | 3:12 |
+| 50 | [Sali \(Canto dell'anima\)](https://open.spotify.com/track/2jeeJUdskWxxB8ivvTk0Z5) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN) | [Sali \(Canto dell'anima\)](https://open.spotify.com/album/1QrP5ZqxdIeeUVbVOH5CpV) | 4:12 |
 
-Snapshot ID: `MTY3NzYyNTI2MCwwMDAwMDAwMDI2OWNlYWYzY2I4NTM3YjUzNjQ5MTAxNzdjZGVmZjg4`
+Snapshot ID: `MTY3NzYyNTI2MCwwMDAwMDAwMGU0OWQ2YTBmNDg1YTAyYTg1NTg3OTZkODI2NjVmODk1`

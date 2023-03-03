@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,231 likes - 31 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,269 likes - 30 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 26 | [Fly](https://open.spotify.com/track/2laHHuyz8Pt5syFk7aXP5R) | [Chris Adams](https://open.spotify.com/artist/2aTr5YBE3BLn7KlHqExc8v), [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Beyond All Reasonable Doubt](https://open.spotify.com/album/4xQxAwjX8qceJNktf58itw) | 3:19 |
 | 27 | [Blues Run The Game](https://open.spotify.com/track/2x0iOnnRsVQDY4C8Pg7XoU) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 2:24 |
 | 28 | [Fruit Tree \(Fame II\)](https://open.spotify.com/track/6k7hehzabvszVaK30kQDUC) | [Noah23](https://open.spotify.com/artist/4cJkQsiJJMrkZkMGmmeACL), [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Alchemical Crow](https://open.spotify.com/album/6pLLV1CY6DVSXW6RCjNKSC) | 2:30 |
-| 29 | [Sketch 1](https://open.spotify.com/track/4ioMdV2VHZme6Qs6ecGyPo) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 1:00 |
-| 30 | [Been Smoking Too Long](https://open.spotify.com/track/0mpy4rRJcHILTMdnPatza8) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 2:13 |
-| 31 | [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/4kBpRGDsUpGwkyu0q6kQQJ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 0:32 |
+| 29 | [Been Smoking Too Long](https://open.spotify.com/track/0mpy4rRJcHILTMdnPatza8) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 2:13 |
+| 30 | [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/4kBpRGDsUpGwkyu0q6kQQJ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 0:32 |
 
-Snapshot ID: `Mjc5NjEyNjUsMDAwMDAwMDA3ZDVkNzYwNTY3MWJiZTQ2M2YzZWYzYjQwNzc0MzMwMQ==`
+Snapshot ID: `Mjc5NjI5NjcsMDAwMDAwMDAyMmE0ODQ1OTFmODlhYzQ5M2UyYzI3ZjY4ODZlNWJiNQ==`

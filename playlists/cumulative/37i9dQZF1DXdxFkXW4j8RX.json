@@ -602,10 +602,40 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 227727,
       "name": "Definitiva-Mente",
       "url": "https://open.spotify.com/track/0w3oeTJ9Okh7Uica3f76ou"
+    },
+    {
+      "album": {
+        "name": "Definitiva-Mente",
+        "url": "https://open.spotify.com/album/2GLYZfiTdRreUytKUPxZqH"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
+        {
+          "name": "James Pro",
+          "url": "https://open.spotify.com/artist/48EJlskgXoFhOttoYbf8r1"
+        },
+        {
+          "name": "Bigyei",
+          "url": "https://open.spotify.com/artist/3hjLLcxKALd3aHgWvX47d1"
+        },
+        {
+          "name": "San Clemente",
+          "url": "https://open.spotify.com/artist/6L14s6AHxtqHWuKtTdvqPP"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227727,
+      "name": "Definitiva-Mente",
+      "url": "https://open.spotify.com/track/4MowkQMmyvH83UBYH3u2iw"
     },
     {
       "album": {
@@ -1042,6 +1072,28 @@
     {
       "album": {
         "name": "Felicidad",
+        "url": "https://open.spotify.com/album/5XwQSw2yYaq8katQCdUl33"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192592,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/23OrSfz5ApfD5cgDtGllLv"
+    },
+    {
+      "album": {
+        "name": "Felicidad",
         "url": "https://open.spotify.com/album/1m1P7pLonemnIDnX9giX54"
       },
       "artists": [
@@ -1056,7 +1108,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 192592,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/2FaphIbul1kUk9OwyIwaLy"

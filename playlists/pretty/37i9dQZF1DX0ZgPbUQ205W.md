@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,650 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,739 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 99 | [Stream](https://open.spotify.com/track/4fSd7w77XMrJhz1C5VOscJ) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 7:03 |
 | 100 | [For L.R.P.](https://open.spotify.com/track/0m7znBzP0zJP5J6DomAfkg) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Eva](https://open.spotify.com/album/6tSaqXyuMecjyWMqqxundn) | 3:55 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDhlYjBjNjU2YTNjMDFjNDRiOTZjOWFjNmJjYTg1YzQw`
+Snapshot ID: `MTY3Nzc0NDk4MywwMDAwMDAwMGQ0MzlmNjc1Yjg2N2NkOTQyYTgxN2Q4YTIzZWM1NDk2`

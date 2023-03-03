@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 > Solo éxitos locales pasados, chapados en oro\. Cartel de Santa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,409 likes - 61 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,094 likes - 61 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 | 60 | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/track/1I6aiLIGgrx7uEqausJgx5) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/album/3DAo1WHerGAEI29u14o8dD) | 4:00 |
 | 61 | [Roberto Gómez Bolaños](https://open.spotify.com/track/7pXwx7adDm53P1mHDcz21Y) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Etcé7era](https://open.spotify.com/album/4Utf7ULgj1YcwSbLY70Gmm) | 4:20 |
 
-Snapshot ID: `MTY3NjY1OTg0NCwwMDAwMDAwMDc2ZTkyMmQyZDVmZDc2YWE1NDk5OWQ1OWQ1NWRjODBm`
+Snapshot ID: `MTY3NjY1OTg0NCwwMDAwMDAwMDZhZDM2YjIzYTQ5M2FlMDM1YjQxMzc1NGUwYWI4YWQ2`

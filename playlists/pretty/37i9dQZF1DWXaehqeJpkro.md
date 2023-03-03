@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > Fancy belting out your favourite Korean songs? \(Cover: Tei\(테이\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,974 likes - 163 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,970 likes - 163 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 131 | [Every moment of you 너의 모든 순간](https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star 별에서 온 그대 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV) | 4:03 |
 | 132 | [The Lonely Bloom Stands Alone](https://open.spotify.com/track/6ylw0U4J3RFj0NoVCMZj93) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Lonely Bloom Stands Alone](https://open.spotify.com/album/0r2zfboB7deSVphi3HGk8Z) | 3:19 |
 | 133 | [For You](https://open.spotify.com/track/5naRxCy1t1RiNNmkthetWk) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Free](https://open.spotify.com/album/6VYZQTlCySwTLmP2w1Ua7O) | 4:05 |
-| 134 | [다시는 사랑하지 않고, 이별에 아파하기 싫어](https://open.spotify.com/track/3tfbmc7CnKpxjYxRzw578H) | [Baek Jiyoung](https://open.spotify.com/artist/6wuXpPyCkN6CGUTwRWwsj3) | [다시는 사랑하지 않고, 이별에 아파하기 싫어](https://open.spotify.com/album/3RZW3LGXITrs99vsrzHJQ2) | 3:30 |
+| 134 | [다시는 사랑하지 않고, 이별에 아파하기 싫어](https://open.spotify.com/track/3tfbmc7CnKpxjYxRzw578H) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [다시는 사랑하지 않고, 이별에 아파하기 싫어](https://open.spotify.com/album/3RZW3LGXITrs99vsrzHJQ2) | 3:30 |
 | 135 | [Destiny](https://open.spotify.com/track/2FPUCbxMXpyvQxORsq2zAD) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [puberty](https://open.spotify.com/album/3CBSSb5UntgYQxHzcnMe6u) | 4:24 |
 | 136 | [I Don't Love You](https://open.spotify.com/track/7neOIVKDsLaUXV5y84jGuY) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [STILL](https://open.spotify.com/album/58TmgciyuB1FVBk6pP18ZU) | 4:14 |
 | 137 | [My Way](https://open.spotify.com/track/4fOfwLHQJz49Q8T1jrz54I) | [Lee Soo](https://open.spotify.com/artist/0wJ9JgzAlq9nif4ye4WrAR) | [돈꽃 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/3mZ0f6rcDBYhQAFfNMCNH3) | 4:38 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 162 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 |
 | 163 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 |
 
-Snapshot ID: `MTY3NjUzMjU3MCwwMDAwMDAwMDJmZDZkYWY5ZDdmNWI0NjNjM2Y4OThkZTczYmZjMjVj`
+Snapshot ID: `MTY3NjUzMjU3MCwwMDAwMDAwMDg2NWZhMGQ4ZDMwNDRlOThiY2ViNzg4YTIxYzU2ODA3`

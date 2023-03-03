@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,393 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,484 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Ani Kuni \- Edit](https://open.spotify.com/track/6BhwbBtaXivvPHmHCZmxkT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ani Kuni](https://open.spotify.com/album/225g0HM8FJAep14tN7H7aA) | 2:49 |
 | 60 | [Teenage Heart](https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Teenage Heart](https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX) | 4:03 |
 
-Snapshot ID: `MTY3NDgzMzQwMCwwMDAwMDAwMDYzMDEwNzgyMzlmN2Y1MzU1ODkyZGI5NGM5MTc2YTNj`
+Snapshot ID: `MTY3NDgzMzQwMCwwMDAwMDAwMGJhOTFjNzMwM2NkNGEwMmNjNGQ0NDg0MzQ1YjA4YTQ1`

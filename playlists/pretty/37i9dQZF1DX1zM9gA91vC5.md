@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,478 likes - 250 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,534 likes - 250 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 249 | [Lavendel](https://open.spotify.com/track/3cWSAOchf5q8dQ7ohaGV2n) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Lavendel](https://open.spotify.com/album/7rdBgstRz5NnrVzpneea7F) | 3:07 |
 | 250 | [Le soleil printanier](https://open.spotify.com/track/1k1BWZh9UpPcf3rDHUl0Ly) | [Charlot Bélair](https://open.spotify.com/artist/33MLQAjjWBxjLKXjsK7Nmd) | [Le soleil printanier](https://open.spotify.com/album/6UpR7OvugbL76JUpTxUzOO) | 2:41 |
 
-Snapshot ID: `MTY3NzY4NTAwNywwMDAwMDAwMGJiYjk4ZDMyZTIwNGY4Y2Y0Y2FkY2RiNDhlMDcyYmM5`
+Snapshot ID: `MTY3NzY4NTAwNywwMDAwMDAwMDEyYmJlNTA3NzA1MDIwZjMzNmY1NWFkNDUzZWI2MGYz`

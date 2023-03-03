@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: WOODZ
+> Future K\-Pop hits! Cover: Minhyun
 
-745 songs - 1 day 17 hr 26 min
+747 songs - 1 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-07-01 | 2021-09-07 |
 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 | 2021-02-22 | 2021-03-01 |
 | [HEYDAY \(Prod\. Czaer\)](https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 2:24 | 2022-09-22 |  |
+| [Hidden Side](https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh) | [Minhyun](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | ['Truth or Lie' \- 1st MINI ALBUM](https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB) | 2:57 | 2023-03-02 |  |
 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-17 |  |
 | [Hit The Bass](https://open.spotify.com/track/1NP5DSaxtvH6iAIOpXHdf2) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [WIN\-DOW](https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2) | 3:30 | 2022-07-25 | 2022-09-02 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-27 | 2022-09-09 |
@@ -530,6 +531,7 @@
 | [Ring Ring](https://open.spotify.com/track/1LmAeYKwK2BA2FFUMyTXD2) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [Ring Ring](https://open.spotify.com/album/1IFwB37JXLhIh53bSBBMbI) | 3:02 | 2021-05-18 | 2021-07-28 |
 | [Ring The Alarm](https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 5th Mini Album 'Re:'](https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl) | 3:05 | 2022-06-23 | 2022-11-11 |
 | [RING X RING](https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception : chapter one](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) | 3:20 | 2021-11-17 | 2022-01-20 |
+| [Rising](https://open.spotify.com/track/6QCPweR3aP6nj7P43WpiZs) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [ASSEMBLE](https://open.spotify.com/album/6ArYgWdHk7mcG4knENgPN5) | 2:39 | 2023-03-02 |  |
 | [Road](https://open.spotify.com/track/1zvYrvy4ucwfPlBr2RLUif) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus Pt\. 1: Kaleidoscope](https://open.spotify.com/album/7htimrPXHpXUEehmi902CA) | 4:00 | 2022-07-29 | 2022-09-09 |
 | [Roller Coaster](https://open.spotify.com/track/6Y8iUOQbIwQaYzEYs0r9ZV) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Where is my Garden!](https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR) | 3:03 | 2022-05-13 | 2022-07-26 |
 | [Rollercoaster](https://open.spotify.com/track/7uwNVnaOswnVGJ5v8e2bQk) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Pit\-a\-Pat](https://open.spotify.com/album/4ivrWy4dTl3eOAEOfFXnM0) | 3:14 | 2022-11-18 | 2023-02-18 |
@@ -546,7 +548,7 @@
 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2022-09-24 | 2022-11-19 |
 | [Sacrifice](https://open.spotify.com/track/7sbNbeqpYvXJW38ILRObkm) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [Fame](https://open.spotify.com/album/75CKaNcbDZ7su55IJexkdS) | 3:14 | 2020-10-13\* | 2021-01-11 |
 | [SALUTE](https://open.spotify.com/track/6dZjwys4OGDogFFVh89MBY) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE](https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO) | 3:08 | 2020-11-03 | 2021-03-10 |
-| [Same Scent](https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [MALUS](https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp) | 3:12 | 2022-09-12 |  |
+| [Same Scent](https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [MALUS](https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp) | 3:12 | 2022-09-12 | 2023-03-03 |
 | [Sand Castle](https://open.spotify.com/track/2G19DMmKrSa1IgZrY7gVZo) | [UNVS](https://open.spotify.com/artist/026a7U6QVOMT4LRfaaNhQX) | [Sand Castle](https://open.spotify.com/album/0Vbt4yHVhxAPCKAPtj6Lc0) | 3:34 | 2020-10-13\* | 2021-01-11 |
 | [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 | 2021-11-27 | 2022-01-04 |
 | [Satellite](https://open.spotify.com/track/7iD5HEWfQuOS9iC6IaNwu7) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Satellite](https://open.spotify.com/album/1l6LyCeXhE2eyAqHIk73Sj) | 3:44 | 2022-02-17 | 2022-04-18 |
@@ -568,7 +570,7 @@
 | [Shark](https://open.spotify.com/track/76XT86YEJq9vGQljItY6gw) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Shark](https://open.spotify.com/album/104jjlIreYgxI8FofxpaFz) | 3:23 | 2021-12-24 | 2022-01-20 |
 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 | 2022-10-12 | 2022-11-25 |
 | [Shine Together](https://open.spotify.com/track/6Bj8o5vulKzrYmmaeCcBEe) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SPECIAL HISTORY BOOK](https://open.spotify.com/album/3XByrdCCU42SI5I9nxoA10) | 3:30 | 2020-10-13\* | 2020-11-16 |
-| [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-09 |  |
+| [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-09 | 2023-03-03 |
 | [Shut Up 받고 Crazy Hot!](https://open.spotify.com/track/1z7QyEi7KWDgqKr4MtnmAm) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [ONEUS THEATRE : Shut Up 받고 Crazy Hot!](https://open.spotify.com/album/0UXupM1TaPLQSTMkKwYEqQ) | 3:45 | 2021-08-11 | 2021-09-18 |
 | [Shutdown \(Feat.Seori\)](https://open.spotify.com/track/69790X4RDQIKwcxltIMHvU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Shutdown \(Feat\. Seori\)](https://open.spotify.com/album/3qGgRGX3KHbwph4AzWVko1) | 3:21 | 2022-01-06 | 2022-03-22 |
 | [Side By Side \- Korean Version](https://open.spotify.com/track/4FXKLGkXw4v5Kw3pEWCTYV) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Side By Side](https://open.spotify.com/album/2icreg0F2hBSb6JGpTeOYA) | 2:59 | 2021-04-15 | 2021-06-25 |

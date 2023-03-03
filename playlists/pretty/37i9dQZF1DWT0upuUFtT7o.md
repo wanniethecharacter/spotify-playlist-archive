@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Noah Pope
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,039 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,193 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Light of Becoming](https://open.spotify.com/track/7dQvpOuL99tcQXw4sDj8sX) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Light of Becoming](https://open.spotify.com/album/58TyJvSsMbRZZttet57iPG) | 3:41 |
 | 100 | [Hey Blondie!](https://open.spotify.com/track/0irGnzInPv57seBCyC9JGk) | [Taletta](https://open.spotify.com/artist/6x1ce1K5GZWggCkYDVTZwP) | [Hey Blondie!](https://open.spotify.com/album/6PFElqpDaPzbR0gYsNbq8a) | 3:08 |
 
-Snapshot ID: `MTY3NzY5NjI4NiwwMDAwMDAwMDdiYjExMzgxNzE4ZDU1NGEzNDcwYjBmNDI5ZGYyNTNm`
+Snapshot ID: `MTY3NzY5NjI4NiwwMDAwMDAwMGZiOTU5ZjA1MTYzNGRjNzg4Y2Y0MjAxN2U2N2YyNDYw`

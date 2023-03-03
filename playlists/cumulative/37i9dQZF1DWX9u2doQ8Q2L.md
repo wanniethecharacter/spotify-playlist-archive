@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-603 songs - 1 day 13 hr 47 min
+604 songs - 1 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [BOUNCE DANCE \(Ill Japonia remix\)](https://open.spotify.com/track/6yEAhzjwBJHdOwZDUAAAK0) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Ill Japonia](https://open.spotify.com/artist/1cxPTyMdKqbPQBWhsZB8cT) | [BOUNCE DANCE \(Ill Japonia remix\)](https://open.spotify.com/album/4vDKz1QWLWg5wo3jRPLhiR) | 3:13 | 2022-10-11 | 2022-10-21 |
 | [Boys, be ambitious](https://open.spotify.com/track/4vcHIzIDBsUllvqneWA6kD) | [TOKYO SHIOKOUJI](https://open.spotify.com/artist/0bnrNhhm8syLjMDOzqO0BL), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Boys, be ambitious](https://open.spotify.com/album/6aGMeoHhzvc5VIPtu3evWW) | 4:16 | 2023-01-17 | 2023-01-23 |
 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 | 2022-09-13 |  |
-| [brownie](https://open.spotify.com/track/0s2tWUZc1jyVEqAyr4QjsQ) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [brownie](https://open.spotify.com/album/0468hr7iadSW5ClfV2VrH4) | 2:32 | 2023-02-21 |  |
+| [brownie](https://open.spotify.com/track/0s2tWUZc1jyVEqAyr4QjsQ) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [brownie](https://open.spotify.com/album/0468hr7iadSW5ClfV2VrH4) | 2:32 | 2023-02-21 | 2023-03-03 |
 | [Butter \- Hidden Spheres Remix](https://open.spotify.com/track/30WL8qJoF0RUOOwmkALa7T) | [Nariaki Obukuro](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Strides Remixes](https://open.spotify.com/album/41gXeGhbitx4bPs69Epqof) | 3:54 | 2022-11-17 | 2022-11-30 |
 | [BYE BYE](https://open.spotify.com/track/2x7yirzFtKkatyq3MiGNk0) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [BYE BYE](https://open.spotify.com/album/5QqEam7ebMRqT4Mf0xO0h0) | 3:41 | 2022-08-25 | 2022-08-27 |
 | [Bye Bye](https://open.spotify.com/track/3hPTqw8pMF7SQpxaWngBOM) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Bye Bye](https://open.spotify.com/album/2oaPQosRx7EHt403lUQu07) | 3:41 | 2022-08-25 | 2022-10-25 |
@@ -429,6 +429,7 @@
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-02-07 |  |
 | [Two Of Us](https://open.spotify.com/track/6V1YfiwX4NJ2BJR5lVhvXP) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [ANPYO](https://open.spotify.com/artist/42OaUjnLIdRnlCRH7Dczb7), [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [Two Of Us](https://open.spotify.com/album/4eTU5FJbdq9J2YyqL4oFUW) | 3:20 | 2023-02-21 | 2023-02-23 |
 | [Two Of Us](https://open.spotify.com/track/7qszjOZgNYdkfXB2NwHzWY) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [ANPYO](https://open.spotify.com/artist/42OaUjnLIdRnlCRH7Dczb7), [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [Two Of Us](https://open.spotify.com/album/1GhoFqozrEhPWZTD7BdlIP) | 3:20 | 2023-02-21 | 2023-03-01 |
+| [TYO \- NYC \- feat\. Kazuo](https://open.spotify.com/track/1jUHVRa2tBgngM9O9UsSVT) | [RHYME SO](https://open.spotify.com/artist/7dtbEudF1BHLVrVtwxxKgm), [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [TYO \- NYC \(feat\. Kazuo\)](https://open.spotify.com/album/2uweiXnfAt8GfPputFp5Zb) | 3:23 | 2023-03-02 |  |
 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-09-27 |  |
 | [U.F.O](https://open.spotify.com/track/1z43YoQTKU3LfOqiMCwvWo) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/7uuke3GUh1KabuRDyoHEe0) | 3:50 | 2022-09-27 | 2022-09-29 |
 | [Utopia](https://open.spotify.com/track/3T0M0Q9hf9zwDtxICrnnHF) | [Group2](https://open.spotify.com/artist/6V7rXqQ6eNhJArV5K6RCMp) | [Utopia](https://open.spotify.com/album/30iuWckM7sIRzKGkQ6iWDZ) | 2:53 | 2022-08-18 | 2022-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 
 > Experimental electronic beyond the borders of tradition.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,516 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,521 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 74 | [I'll be 20 when I'm 40](https://open.spotify.com/track/4x47gRjGYRRiDGhbdtpnCs) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Patrimony](https://open.spotify.com/album/7olQu6AkixLOum1nfMkZvf) | 5:13 |
 | 75 | [Those Tears of Hutton](https://open.spotify.com/track/49WbV4XtJ5QWJd2m5UrwSg) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [This Moment of Silence](https://open.spotify.com/album/6Zj6qfpTfQCmlyajevOM8z) | 6:15 |
 
-Snapshot ID: `MTY1NTIwNzU2OSwwMDAwMDAwMDM0NTM0OGI0YzUwNzVlNzgwN2U3MzFiZjJlNGVhM2Vm`
+Snapshot ID: `MTY1NTIwNzU2OSwwMDAwMDAwMDdjOTk2NTE1NTU4NmE5Y2NlYmQ5NTBiNzU5Njk3ODk2`

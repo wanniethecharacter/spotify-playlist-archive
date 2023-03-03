@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Ken Carson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,306,778 likes - 90 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,307,732 likes - 90 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 3 | [NEVEREVER](https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 2:24 |
 | 4 | [WALKED IN](https://open.spotify.com/track/4TtwfNpekE33a0Uo5sIMLF) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [WALKED IN](https://open.spotify.com/album/20yPX27SdWr1hc5aZQAOsn) | 2:22 |
 | 5 | [Out On Bond](https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Out On Bond](https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi) | 1:20 |
-| 6 | [Tru Tru](https://open.spotify.com/track/5INKRQu8tEdsrogxlFpHUW) | [MVW](https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Tru Tru](https://open.spotify.com/album/3dxKl7mGJbsjhpHoiFl2ha) | 2:47 |
+| 6 | [Tru Tru](https://open.spotify.com/track/5INKRQu8tEdsrogxlFpHUW) | [MVW](https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Tru Tru](https://open.spotify.com/album/3dxKl7mGJbsjhpHoiFl2ha) | 2:47 |
 | 7 | [Tally \(with Denzel Curry\)](https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tally \(with Denzel Curry\)](https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq) | 2:27 |
 | 8 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 |
 | 9 | [friday](https://open.spotify.com/track/0pk6N8dYtK9R4O2k5aazfl) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [friday](https://open.spotify.com/album/4z5KIWcXYnsXVQm08XnIHr) | 2:25 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 89 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 |
 | 90 | [COINCIDENCE](https://open.spotify.com/track/4Y3E5Y3kaBJqFc1vmSyg7V) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [FLAWLESS LIKE ME](https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS) | 2:03 |
 
-Snapshot ID: `MTY3NzY5MjMxOCwwMDAwMDAwMGM2NzQ3NjI5ZGZkMWU2NGE5ODkwNzc1OTk2ZDc1YmQ5`
+Snapshot ID: `MTY3NzY5MjMxOCwwMDAwMDAwMGJkZTJjODYwMjdmNTEzZTdhODBhYzhmYzA1MjMwMWRm`

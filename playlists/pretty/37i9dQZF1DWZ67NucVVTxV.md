@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,606 likes - 78 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,614 likes - 78 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 77 | [First Sermon](https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [First Sermon](https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC) | 3:05 |
 | 78 | [o'dun](https://open.spotify.com/track/738fvtQnIL1V5WyAm2zuQw) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [o'dun](https://open.spotify.com/album/4Qg5ssmmJ0vjIH16E63Jkc) | 2:35 |
 
-Snapshot ID: `MTY3NzE5MzEyMCwwMDAwMDAwMDZjZTZlZjlmNTNiY2FkYjkxYzY0NDJiMzY2OGQ1ODlm`
+Snapshot ID: `MTY3NzE5MzEyMCwwMDAwMDAwMGFiZmE3OWJhZWNhNTRlMjU4MGZkYTE3NWEwM2RkZGVk`

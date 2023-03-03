@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,505 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,547 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 99 | [Sawgrass](https://open.spotify.com/track/3cIdjOzrKdso72bHfEIayE) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Sawgrass / For Your Soul](https://open.spotify.com/album/7l2Z5C2MAkfKlU9xs3uNph) | 4:32 |
 | 100 | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa) | 3:19 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDk2Y2RmNmM2ZWNlMzlmMDk1NjkxYzZmMzdkZmI2YmY3`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDJlMzQwZDMzZGUzZmU4OGM4YjBhNzUwMWI2Y2NkYTUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Ruby Red makes anti pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,099 likes - 85 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,240 likes - 85 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 84 | [Suburbia](https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Suburbia](https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB) | 2:59 |
 | 85 | [Off The Drugs](https://open.spotify.com/track/3mal4dMlkVy42F7bEjU3Jy) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Off The Drugs](https://open.spotify.com/album/1NjXy9akXwlUfk74r2owE1) | 2:57 |
 
-Snapshot ID: `MTY3NzcxMzc1OSwwMDAwMDAwMDIzMjQwM2MyYTUxMzllNjk1OWY3ZWFiZjE5ZjMzNDgx`
+Snapshot ID: `MTY3NzcxMzc1OSwwMDAwMDAwMGRlNzg5MTVkMDAxODZhMGQ4NjlhMTU3MGJhMWRjMTY5`

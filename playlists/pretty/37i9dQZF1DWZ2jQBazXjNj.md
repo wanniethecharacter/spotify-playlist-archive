@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 
 > Corridos + Perreo para las bichotas y buchonas 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,006 likes - 134 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,067 likes - 134 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 133 | [Denver Ruleteamos](https://open.spotify.com/track/0uJ9kGk1Pf5Nv2mbojVdkN) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [Denver Ruleteamos](https://open.spotify.com/album/47KjLcIoLIn0g6yAIFSjBY) | 3:32 |
 | 134 | [Yo Fui El Elegante](https://open.spotify.com/track/6dJJT9h7FzjenIaa31bw8p) | [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [Yo Fui El Elegante](https://open.spotify.com/album/17omlxcfJTA2Ep7gadbOZX) | 2:26 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDg4ZWRlMWIxNzk4YzRlMWIwMTJiNzc5YzI4MWY1MWM0`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDBmMWFjYjMwN2MzODI0NGMwNDA5YTA0ZWY4NTlkY2I1`

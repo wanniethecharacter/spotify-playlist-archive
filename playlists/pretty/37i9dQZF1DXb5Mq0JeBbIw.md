@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,448 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,486 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [If I Were You](https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [If I Were You](https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R) | 3:12 |
 | 100 | [I Will Wait](https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Will Wait](https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX) | 3:36 |
 
-Snapshot ID: `MTY3NzIzNjc2MCwwMDAwMDAwMGIyZWU2Mzk4YzIwNDdiZWJlMDQwODQ1NmYxZDcyN2Y2`
+Snapshot ID: `MTY3NzIzNjc2MCwwMDAwMDAwMDJhZjk4ZDdiMTYyNjUyMDNkZTMwY2Q2Nzk0YTI1NTg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,395 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,405 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 44 | [Let's Dance to Joy Division](https://open.spotify.com/track/60Ih7J2Q1o9shvMC2OAALu) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:11 |
 | 45 | [Jonny Boy](https://open.spotify.com/track/1TWtyAi8boF1JbzWpFMChL) | [Kite](https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW) | [III](https://open.spotify.com/album/566D06wiMbyLObuhYOPFM5) | 3:25 |
 
-Snapshot ID: `MTYyMzc0OTEwNSwwMDAwMDAwMDU5ZWE2ZjI5ZWIxNGE2NTZmNTkwZGMxZTg2YzM5Zjlj`
+Snapshot ID: `MTYyMzc0OTEwNSwwMDAwMDAwMDBiODI3MzY1ZjI5M2I0ZmI0ODc1NjYzMTZmY2IxNDY3`

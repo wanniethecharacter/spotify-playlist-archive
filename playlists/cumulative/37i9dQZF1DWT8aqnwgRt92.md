@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-536 songs - 1 day 10 hr 15 min
+537 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Deneb and Spica](https://open.spotify.com/track/4mo9mGSuE5qIllkMJWBiR3) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Deneb and Spica](https://open.spotify.com/album/2ZG53H9J7evAJyu9jqdQ7g) | 4:27 | 2022-07-28 | 2022-09-21 |
 | [DING DONG](https://open.spotify.com/track/1ZhF6KKByVAwx5oratB8M9) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0) | [DING DONG](https://open.spotify.com/album/6B00Xs16IeBA6PYMUoo5aC) | 3:54 | 2022-07-28 | 2022-08-03 |
 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 | 2022-12-13 | 2023-01-11 |
-| [DownTimer](https://open.spotify.com/track/6occpeuCkcU3HlnPL5rE6r) | [RetBear \(unknown Vo:O2\)](https://open.spotify.com/artist/0JCG5k6oSPaafCB8PFLFOh) | [DownTimer](https://open.spotify.com/album/1YUoDBtPxU6MscbdMcdNGq) | 3:28 | 2023-01-05 |  |
+| [DownTimer \(unknown Vo:O2\)](https://open.spotify.com/track/6occpeuCkcU3HlnPL5rE6r) | [レトベア](https://open.spotify.com/artist/3rtNjlT8krol2X6iAuelYA) | [DownTimer \(unknown Vo:O2\)](https://open.spotify.com/album/1YUoDBtPxU6MscbdMcdNGq) | 3:28 | 2023-01-05 |  |
 | [DREAMER](https://open.spotify.com/track/7yKbjz9hzbUY6zmIJ8nDDL) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [パリピ孔明 VOCAL COLLECTION MEGAMORI!!](https://open.spotify.com/album/1i9R3CdEU23BRYGaMkpSEC) | 4:49 | 2022-07-28 | 2022-09-21 |
 | [Dried Up Youthful Fame \- Version:Free](https://open.spotify.com/track/1p4caO5oJVVFjwtpuQep7N) | [OLDCODEX](https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq) | [『劇場版 Free!\-the Final Stroke\-』後編オリジナルサウンドトラック「Never Ending Blue」](https://open.spotify.com/album/3dysUUTUGwxrzMJAZ9AHMi) | 3:37 | 2022-05-28 | 2022-06-08 |
 | [eclatante](https://open.spotify.com/track/112WDXECopsAdtn7SsMP0x) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [eclatante](https://open.spotify.com/album/5hKIOSEGI4lWBtgh8by38x) | 4:21 | 2022-07-12 | 2022-08-17 |
@@ -170,7 +170,7 @@
 | [Ladder](https://open.spotify.com/track/6gZzyh7mytbxOTX0qWxbhx) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [Ladder](https://open.spotify.com/album/17MpD6N5nkhHHatcIckvNa) | 3:40 | 2022-11-02 | 2023-01-13 |
 | [LEATHER COVER](https://open.spotify.com/track/33AG9O2QUCfYup79rfz7qi) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [ENGING THEME SONG FROM TV SERIES ”PRINCESS OF THE BIBLIOPHILE”](https://open.spotify.com/album/720ybDM2QcbIIgt5DyVJVg) | 4:23 | 2022-11-02 | 2022-11-25 |
 | [Let it snow, Let it snow, Let it snow](https://open.spotify.com/track/003IincqbYZ9SZEpllxioR) | [アオペラ \-aoppella!?\-](https://open.spotify.com/artist/7d0VsdNnoJIRVnkiVzNjXz), [FYA'M'](https://open.spotify.com/artist/5NPcDFXZyCEtB0JLztECWs) | [Let it snow, Let it snow, Let it snow](https://open.spotify.com/album/6ifpkHqvOBWrRzTke7mNAZ) | 3:25 | 2022-05-28 | 2022-07-06 |
-| [lol](https://open.spotify.com/track/0Y0VtmNYHUMdk9cv1HKWPj) | [GANG PARADE](https://open.spotify.com/artist/221zNlzeMJxLOPMYUIAaLx) | [lol](https://open.spotify.com/album/6hvyEYVC33cce07AcK2mTr) | 2:53 | 2023-01-03 |  |
+| [lol](https://open.spotify.com/track/0Y0VtmNYHUMdk9cv1HKWPj) | [GANG PARADE](https://open.spotify.com/artist/221zNlzeMJxLOPMYUIAaLx) | [lol](https://open.spotify.com/album/6hvyEYVC33cce07AcK2mTr) | 2:53 | 2023-01-03 | 2023-03-03 |
 | [Loud Hailer](https://open.spotify.com/track/11GJvyy9G8hz6AyeCbmS2o) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Loud Hailer](https://open.spotify.com/album/3wXyNa8fg2M7El6ZO59hhM) | 3:48 | 2023-01-26 |  |
 | [Loud Hailer](https://open.spotify.com/track/7AhQukb7kW2rbAKPKBc7tC) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Loud Hailer](https://open.spotify.com/album/4JFBN5yf2FzlVqXs076oC6) | 3:48 | 2023-01-05 | 2023-01-28 |
 | [Love Birds](https://open.spotify.com/track/2TDtrTlftOMY2GlU8aMtMb) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ), [琴音](https://open.spotify.com/artist/0vmDmyY6q6ALXjlONSf7kO) | [\[Kin no Kuni Mizu no Kuni\] Original Sound Track](https://open.spotify.com/album/5BWOI876SLfTD2yz4Nom0u) | 2:33 | 2023-01-24 |  |
@@ -220,6 +220,7 @@
 | [OUTSIDERS](https://open.spotify.com/track/2p8RSh9uibR5I17T6z5XGY) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [河野純喜 \(JO1\)](https://open.spotify.com/artist/0a8JF5VNmJZhkLmSbfCFnQ), [與那城奨 \(JO1\)](https://open.spotify.com/artist/2iqvC0dewDnljdNTF4sSSp) | [OUTSIDERS](https://open.spotify.com/album/3kdvGxfmWPU7OV8qPhbbmI) | 2:51 | 2022-05-28 | 2022-07-06 |
 | [OveR](https://open.spotify.com/track/1HIyf8vbVjdKMAvz2iU3dU) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [OveR](https://open.spotify.com/album/5zl60jmeD0n8kmMnElcH3L) | 4:06 | 2022-05-28 | 2022-06-03 |
 | [Paper Bouquet](https://open.spotify.com/track/4rkcFNlUtrTidZO9AmWWUt) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Paper Bouquet](https://open.spotify.com/album/14p81Xh8T5AHUmguXhMVir) | 3:28 | 2022-05-28 | 2022-06-24 |
+| [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 | 2023-03-02 |  |
 | [Paranoid](https://open.spotify.com/track/75fvRZNH5rZ7z99ib3hAHu) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [Paranoid](https://open.spotify.com/album/6yThhWIqcbhAhxMihzSBUS) | 3:31 | 2023-01-19 | 2023-02-15 |
 | [Platina\- from CrosSing](https://open.spotify.com/track/6dNi50ClKP3kPKWKB7hbHK) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Platina\- from CrosSing](https://open.spotify.com/album/0lUgiDZkZl9gIbDpysJvr2) | 4:09 | 2022-08-23 | 2022-09-16 |
 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 | 2022-07-28 | 2022-09-30 |

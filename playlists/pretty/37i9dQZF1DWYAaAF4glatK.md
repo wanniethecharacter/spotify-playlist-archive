@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > Plus que 16 semaines avant l'été ! 😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,770 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,784 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 59 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 |
 | 60 | [Vamos](https://open.spotify.com/track/5QowMIujytktMDC8pktNXH) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [La TN \(Team Naps\)](https://open.spotify.com/album/7MNbcWeCe5gCt3PdMXFXeI) | 4:01 |
 
-Snapshot ID: `MTY3NzQ1MjQwMCwwMDAwMDAwMGQwNGViY2IzMzZlNTFhZDgzMmI0NjZiZjcyYTMxMDI1`
+Snapshot ID: `MTY3NzQ1MjQwMCwwMDAwMDAwMDZmZTZkMWI5OWI4ZmJkNzhhZmIxOTI4Yzg5OWJkNzkz`

@@ -2,7 +2,7 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Cause
+> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
 
 109 songs - 7 hr 26 min
 

@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-659 songs - 1 day 11 hr 35 min
+663 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2020-10-15 |  |
 | [Driveway](https://open.spotify.com/track/31kjORmT1nNkMjqaZp8ATH) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh), [Courtney Drummey](https://open.spotify.com/artist/4sF2Kkq3hn0yTEGTNfanGl) | [Driveway](https://open.spotify.com/album/1PQvSiT0XqpDKDJm8yZNUK) | 2:25 | 2021-04-13 |  |
 | [DRIVING](https://open.spotify.com/track/7GT3vqR1ClCIgsOUtegETd) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [DRIVING](https://open.spotify.com/album/3wDpJ2oaji80033791QTSp) | 2:39 | 2022-11-11 |  |
+| [DRIVING 2.0 \(feat\. Charlie Burg\)](https://open.spotify.com/track/09LmnNJaVxBUKg5PkWvry3) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6), [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [DRIVING 2.0 \(feat\. Charlie Burg\)](https://open.spotify.com/album/4xbVJbgvSEEXwEHUFga6qp) | 2:39 | 2023-03-03 |  |
 | [Drunk Talk](https://open.spotify.com/track/36FYP4AmrrnRi5ytvPMyGB) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Drunk Talk](https://open.spotify.com/album/7cwmLDx2MjQiTGFRvbYXzj) | 3:29 | 2019-08-27\* | 2019-11-11 |
 | [Dum Dum Dum \- Stripped Down Remix](https://open.spotify.com/track/6cngLez2baDrhqmijvZt69) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm) | [Dum Dum Dum \(Stripped Down Remix\)](https://open.spotify.com/album/41nEpQq5Sff1nt5nOCxTeP) | 2:59 | 2020-12-18 | 2021-05-12 |
 | [dumbass](https://open.spotify.com/track/61vyrw41EkR5koGRjKMFkz) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [dumbass](https://open.spotify.com/album/5eYuByaxRTwzGPoW7rEiiP) | 2:42 | 2020-01-31 | 2020-05-19 |
@@ -255,6 +256,7 @@
 | [Homecoming Queen](https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:51 | 2019-12-10 | 2021-05-12 |
 | [Honesty \(Remix\) \[feat\. Jessie Reyez\]](https://open.spotify.com/track/47r6MeqPoeQgCsa5vOQxoo) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Honesty \(Remix\) \[feat\. Jessie Reyez\]](https://open.spotify.com/album/44PYSauexmFDmMYYW0mB7r) | 3:07 | 2019-11-08 | 2020-02-12 |
 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 | 2020-05-19 | 2021-05-12 |
+| [Horizons](https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Horizons](https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D) | 3:03 | 2023-03-03 |  |
 | [How Can I Resist Her](https://open.spotify.com/track/5PA4tvCooGCZPDdStLi13p) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [How Can I Resist Her](https://open.spotify.com/album/5uwo6JqdPLjz34KJZCLcx5) | 2:39 | 2021-01-15 |  |
 | [How It Feels](https://open.spotify.com/track/3OR1VNScIin6sbx7ZXhXYy) | [Hartley](https://open.spotify.com/artist/7DpaPZ3DnHnTUl5mtFKv4U) | [How It Feels](https://open.spotify.com/album/6G5UeU7sFkav4sRc1NG5N3) | 3:09 | 2020-01-28 | 2021-05-12 |
 | [How Many Times Can a Heart Break](https://open.spotify.com/track/6G2m5gmOsd9mCB1yTEiUUp) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [How Many Times Can a Heart Break](https://open.spotify.com/album/5bj3BHkwNYogK8V3XXOPJF) | 3:05 | 2020-10-09 | 2021-05-12 |
@@ -557,6 +559,7 @@
 | [Straight To You](https://open.spotify.com/track/58bpEULoDFAMC9CBuRKYaA) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Straight To You](https://open.spotify.com/album/1JtWFoRkVontcgz0ycpFym) | 2:45 | 2020-04-24 | 2021-05-12 |
 | [Stronger](https://open.spotify.com/track/4ARjCGggd0yAjlXd2vmx5D) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Stronger](https://open.spotify.com/album/1rD8ALkiUVpxWmxSZPIVU8) | 3:18 | 2020-05-01 | 2021-05-12 |
 | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/track/6LBvil8ZDD2nktYSmKkHIy) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning](https://open.spotify.com/album/4kR8SzUJ4F1f7ippLeOARL) | 2:34 | 2021-08-07 |  |
+| [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-03 |  |
 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 | 2020-05-15 | 2021-05-12 |
 | [Sunset Dream](https://open.spotify.com/track/0L1FtaRjfRZTIrenNbsFIa) | [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Sunset Dream](https://open.spotify.com/album/0zP5kga1QrhHeXNIRfmdpR) | 3:26 | 2021-05-14 |  |
 | [Sweet Insomnia \(feat\. 6LACK\)](https://open.spotify.com/track/57vONmoD0vJTTTwW10ofrZ) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 2:43 | 2019-10-25 | 2020-04-06 |
@@ -660,6 +663,7 @@
 | [Yayo](https://open.spotify.com/track/7nHEmkpURecKykfN53r9F5) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M) | 2:37 | 2022-10-21 | 2022-11-14 |
 | [Yes I Do](https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 5:10 | 2022-09-27 |  |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-26 |  |
+| [You & Me](https://open.spotify.com/track/1qXvOWQgDGwvIGIP4qVQY3) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [You & Me](https://open.spotify.com/album/1Z1JeFFAZ1mNdsMUPPFsgs) | 2:55 | 2023-03-03 |  |
 | [YOU \(feat\. New Zealand Symphony Orchestra\)](https://open.spotify.com/track/6UqVebsCryLzb2JNzTZ1xy) | [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM) | [Coming In From The Dark](https://open.spotify.com/album/0tjAAn3o0FPW3Fmqxf8ogq) | 4:44 | 2021-10-22 |  |
 | [You Can Run](https://open.spotify.com/track/14q8xNdQVRRjdUD9dmhNqu) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [You Can Run](https://open.spotify.com/album/2YK4GAgsaSuIPVYkIMuPh2) | 2:41 | 2022-08-12 |  |
 | [You Know Wassup](https://open.spotify.com/track/6HUO25AttZZCoKAY0vUVtc) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [You Know Wassup](https://open.spotify.com/album/5PdJ9s1UhLttMDmAMyMdtt) | 3:21 | 2019-11-25 | 2020-03-25 |

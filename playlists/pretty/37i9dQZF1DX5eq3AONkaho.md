@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,546 likes - 200 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,593 likes - 200 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 | 199 | [Galaxy 우주를 줄게](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
 | 200 | [You Calling My Name](https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) | 3:14 |
 
-Snapshot ID: `MTY3NDcyNzQ3NCwwMDAwMDAwMDMyYmQ5ZjA5Yjg2ZGQxNGQ0MGQzZTNkN2Q2NmViNjJh`
+Snapshot ID: `MTY3NDcyNzQ3NCwwMDAwMDAwMDQyNWFjMDk1MjkzYjI3MmM5NjIxZjhjOWRiMDRkZWQ2`

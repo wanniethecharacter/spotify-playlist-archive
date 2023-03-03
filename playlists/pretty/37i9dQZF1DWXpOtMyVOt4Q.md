@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,361 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,422 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [Fast Coupe](https://open.spotify.com/track/6tc7zWJVIIriVePVQNtLxA) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Fast Coupe](https://open.spotify.com/album/6sAtDkgwuXjdoyg3cyYE9f) | 2:14 |
 | 50 | [heart cocktail](https://open.spotify.com/track/6cer5UGwSk3DT6774RxEXT) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9), [Alice333](https://open.spotify.com/artist/4RleTopZn6FPgixOm9Xkl3) | [heart cocktail](https://open.spotify.com/album/53XOdPgOyVUx1HDvwzb1Uz) | 2:56 |
 
-Snapshot ID: `MTY3NzUzMTM3OSwwMDAwMDAwMGU2MGMyMTk3YjA1ZTRiYmE0ZjU2N2EzYzg5ZjhlYmZj`
+Snapshot ID: `MTY3NzUzMTM3OSwwMDAwMDAwMDRhM2MyMDU5MjU3MzQzNDc3M2MxODUyYTUzYjA1ZGQ0`

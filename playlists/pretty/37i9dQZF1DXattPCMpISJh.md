@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jake Shears
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,802 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,902 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/track/7eiElj5joARyuFX5We14Gr) | [Delia Dane](https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x), [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/album/2eXBDhdo7LsJL7PH5tDUiK) | 3:41 |
 | 100 | [I Won't Walk Away](https://open.spotify.com/track/1s3v94X2Y4GSAetgiWZxx4) | [Samantha LaPorta](https://open.spotify.com/artist/0PT3uYshYiUCfK0jxYKMqb) | [I Won't Walk Away](https://open.spotify.com/album/24ntKGAFS4II7wLzkhrIba) | 3:03 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDg3YTEzODE1MjVmMGJhODhkMGRmNzU5ZTc3ZmY3NTYz`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDQ3MThjZjAwYjc3MjlkM2Q0MGRmNDk2ZTAwYzA0YzU2`

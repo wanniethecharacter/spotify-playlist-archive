@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,654 likes - 60 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,690 likes - 60 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 59 | [Wrap Myself Up in Your Love](https://open.spotify.com/track/0KTXXNWZOVyibdEikDN88T) | [Jim Spencer](https://open.spotify.com/artist/4eC6NhKPxEjd9a9vssqHz4) | [Wrap Myself Up In Your Love](https://open.spotify.com/album/2E8CiruRBvyHsIA88SPfht) | 4:06 |
 | 60 | [Everybody Get Dancin'](https://open.spotify.com/track/3ZQcIJ9p2FW1f60tQarbOG) | [Bombers](https://open.spotify.com/artist/0B8DukBzbrLO5yDtRp8fBP) | [Bombers 2](https://open.spotify.com/album/4uSDBHHQ4OiRTExvzQXXks) | 9:28 |
 
-Snapshot ID: `MTY2OTAyMjMyNSwwMDAwMDAwMGJlMTlhNjc3NjJmMmVjZDI1NmZjOTE4ODI0YjM3MTRj`
+Snapshot ID: `MTY2OTAyMjMyNSwwMDAwMDAwMDgwMGYyZTE2NGYwMWY5MjgxMWU3YjMwMGM4Y2NlYjJh`

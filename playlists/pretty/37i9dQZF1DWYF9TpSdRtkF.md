@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,786 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,815 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [Criminally Dinner \~正餐とイーヴルナイフ\~](https://open.spotify.com/track/20L6HYbRFA7jHYC3GacEp0) | [星井美希 \(CV.長谷川明子\)](https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi), [舞浜 歩 \(CV.戸田めぐみ\)](https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF), [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH), [篠宮可憐 \(CV.近藤 唯\)](https://open.spotify.com/artist/1sRDMoEgLsGqFABNV67q7z), [中谷 育 \(CV.原嶋あかり\)](https://open.spotify.com/artist/5FB5Wm8kE5bIEOea6Mb3Dl) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6) | 3:29 |
 | 75 | [紙・心・ペン・心 \- SHISHINPENSHIN \-](https://open.spotify.com/track/2Utvk0X0sJPcrAltf1m5Ya) | [福田のり子 \(CV.浜崎奈々\)](https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo), [松田亜利沙 \(CV.村川梨衣\)](https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV), [如月千早 \(CV.今井麻美\)](https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g), [北上麗花 \(CV.平山笑美\)](https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE), [高山紗代子 \(CV.駒形友梨\)](https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/64joBVtf8tyQcjA4OqKmKZ) | 3:47 |
 
-Snapshot ID: `MTY3MzU4MzczNywwMDAwMDAwMGQyYjhhZGM5MWUzMDExNmY5YTJlM2QwOGQ4ZTVlNjlh`
+Snapshot ID: `MTY3MzU4MzczNywwMDAwMDAwMGExZWQxZDgwNWE2OTJlYjcwNGZlN2NmMmIzOTk0MjQy`

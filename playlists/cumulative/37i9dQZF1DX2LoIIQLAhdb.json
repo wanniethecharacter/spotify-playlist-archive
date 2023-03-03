@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Zaho",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Nej'",
   "name": "R&Bae",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 200470,
       "name": "Chic",
       "url": "https://open.spotify.com/track/38sPQGVoRnzlF4VBr71fln"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 137807,
       "name": "Dangereuse",
       "url": "https://open.spotify.com/track/1Xbhl1jCBvOP8APtVW3Qlp"
@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "GINGER LOVE",
+        "url": "https://open.spotify.com/album/1XqTyJRbyNXr7cAs3Syc96"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164279,
+      "name": "Full White",
+      "url": "https://open.spotify.com/track/2EHkxEurRIbNSObtj2DwLA"
+    },
+    {
+      "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/28wcW4kLHOwwRuiszCcNia"
       },
@@ -542,6 +560,46 @@
       "duration_ms": 164470,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/3bdhFhYjPX3n0IwFquNYLB"
+    },
+    {
+      "album": {
+        "name": "SUAVE Tome 1",
+        "url": "https://open.spotify.com/album/5NBBTPy9RGlpeev6iXEuXI"
+      },
+      "artists": [
+        {
+          "name": "Davy One",
+          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189299,
+      "name": "GUEST LIST",
+      "url": "https://open.spotify.com/track/5vEvOtrShrpAUcDsv8WxjA"
+    },
+    {
+      "album": {
+        "name": "Foetus",
+        "url": "https://open.spotify.com/album/5vdmZNEqPB9a69Hel2Z8J1"
+      },
+      "artists": [
+        {
+          "name": "C-lina",
+          "url": "https://open.spotify.com/artist/4UkywnuqJOUz6YuvuCEyLm"
+        },
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160406,
+      "name": "Hayati",
+      "url": "https://open.spotify.com/track/17OnTVsTqTEGdinkMfEhPD"
     },
     {
       "album": {
@@ -1430,7 +1488,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 199111,
       "name": "SENTIMENTS MOKO",
       "url": "https://open.spotify.com/track/37HNgVH6BvqjlfC7HLiqjD"

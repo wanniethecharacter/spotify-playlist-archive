@@ -4,7 +4,7 @@
 
 > Funk favorites from 2022\. Cover: Cory Henry \#SpotifyWrapped
 
-75 songs - 4 hr 27 min
+76 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Gucci Shoes](https://open.spotify.com/track/2UIBN3TFpOcLzLzh5SjaaV) | [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH) | [Gucci Shoes](https://open.spotify.com/album/4QyoHSymwpjMRONWFHYBX8) | 3:01 | 2022-11-30 |  |
 | [Heartbeat](https://open.spotify.com/track/1sDuoXz1FxkzA9o6IHJLK8) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Heartbeat](https://open.spotify.com/album/2slGdJqZbiCstg2fNNbNtC) | 4:06 | 2022-11-30 |  |
 | [henny & patron](https://open.spotify.com/track/3TCrLsQPIJIxaZspjrt4RJ) | [Ben Yen](https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ) | [terry coats & hot tub boats](https://open.spotify.com/album/1IimR8Wpa6tIqcqWB7LoCY) | 2:18 | 2022-11-30 |  |
-| [Here You Are](https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/5FLfZyi6mP2tvQJjmcSqpL) | 3:08 | 2022-11-30 |  |
+| [Here You Are](https://open.spotify.com/track/0ihNcF29gXIVvzknTpuvZl) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/0l4MKvhtXCavnpHgUROcLh) | 3:08 | 2022-11-30 |  |
+| [Here You Are](https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/5FLfZyi6mP2tvQJjmcSqpL) | 3:08 | 2022-11-30 | 2023-03-03 |
 | [HIT 'EM WITH THE FUNK](https://open.spotify.com/track/7vV2VCij2IyCc6o2v8tNKG) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [HIT 'EM WITH THE FUNK](https://open.spotify.com/album/4wcUsSOAYh7RPG7aRNWfem) | 3:56 | 2022-11-30 |  |
 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 | 2022-11-30 |  |
 | [How Hard](https://open.spotify.com/track/4Hx14U4LJf2Y9FMSRwjfK1) | [Zenizen](https://open.spotify.com/artist/1MaWvJ5Y0Na24KMG79WxDU) | [P.O.C \(Proof of Concept\)](https://open.spotify.com/album/2OkzaBfQGOkRJoVMJfRuaj) | 4:11 | 2022-11-30 |  |

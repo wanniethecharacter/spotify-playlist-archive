@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Conner Smith, Dierks Bentley, Ashley McBryde and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,535 likes - 78 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,837 likes - 78 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 77 | [Crazy Over You](https://open.spotify.com/track/1woOFUtnnlhkoUjaPO2bqf) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Dead Man](https://open.spotify.com/album/24ZU9yEJ7eHsXG6Tht1dyb) | 3:02 |
 | 78 | [Winesburg](https://open.spotify.com/track/7aiUmRRzvsUZWetTJLBFXF) | [Low Gap](https://open.spotify.com/artist/4OylEA2mggFkZ63eIVFNio) | [Winesburg](https://open.spotify.com/album/6SvMVfhNJWaX1xHSjFiNw1) | 4:11 |
 
-Snapshot ID: `MTY3NzQ3MjMxMSwwMDAwMDAwMDAxNjA0ODM0Y2M5OTJmZTI3NDI5NzI5ZmVmNzM2NmM2`
+Snapshot ID: `MTY3NzQ3MjMxMSwwMDAwMDAwMGEzODllMGUxMDcyZDE0YzA1ZjlhNDcxNGM4MDgzZTQ1`

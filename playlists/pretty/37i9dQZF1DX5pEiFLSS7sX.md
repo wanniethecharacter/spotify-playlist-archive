@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,373 likes - 100 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,477 likes - 100 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Not Afraid \- Live](https://open.spotify.com/track/5GY6JKRXebctv4T8dgEzGq) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 7:25 |
 | 100 | [You Satisfy \(feat\. Elyssa Smith\)](https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Elyssa Smith](https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 4:56 |
 
-Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDlkNjZiYjY1OGE0ZWMwZTgzMGIyMDJhNmUyNmU5ODI2`
+Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMGIxYWVjZmI2ZTJmMjI0YzI5ZjY1Y2NlMjEzMzY5OGIx`

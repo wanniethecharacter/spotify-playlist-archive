@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg?si=6odau6YDS9Sxgdo\-Vrpgsw"> Lindsey Abudei</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,987 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,991 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Memories \- Remix](https://open.spotify.com/track/2HNVCgBarGerVr2NhfYIVl) | [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Remix Tape](https://open.spotify.com/album/5p7mlL4Sx5QaOmPFL0Lyxu) | 3:00 |
 | 50 | [Jungle](https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Jungle](https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx) | 3:24 |
 
-Snapshot ID: `MTY3NjU4ODQwMCwwMDAwMDAwMDJlZThkZGViNDYzYjA1NDcxZTdiMTEzMmRjYmE3N2M3`
+Snapshot ID: `MTY3NjU4ODQwMCwwMDAwMDAwMDM3NjJjNjczMTY4MjdjMWE4ZDNhYTk3MzRkMGYzNmVl`

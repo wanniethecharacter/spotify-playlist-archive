@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Agnes Nunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,466 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,518 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 79 | [Brisa Boa](https://open.spotify.com/track/7N2Rw3NC0GhH4AlyZS7xJw) | [Biollo](https://open.spotify.com/artist/2fkazGgn5K5YNPRztNR4pF) | [Brisa Boa](https://open.spotify.com/album/53cd6HI4HCXmHxpcXQhtNq) | 2:42 |
 | 80 | [Eu e Você](https://open.spotify.com/track/3151w9snyt1Hvsm14whS4p) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Eu e Você](https://open.spotify.com/album/0R8hpT9SvreIeMmXLJHh5R) | 2:40 |
 
-Snapshot ID: `MTY3NzUwNjk5NSwwMDAwMDAwMDg0YzIxY2FkMDc4M2YyNmJjNGE3ZTJhYWQ0MmU1NjBl`
+Snapshot ID: `MTY3NzUwNjk5NSwwMDAwMDAwMDA5OWMxM2RjODQ0YTk5MzRmZjQ0OTYyM2UyZTMxODg2`

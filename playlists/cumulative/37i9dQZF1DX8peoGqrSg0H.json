@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: bamm",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BRIGHT",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 188750,
       "name": "\u0e15\u0e31\u0e27\u0e15\u0e36\u0e07 (No.1) Feat.1Life",
       "url": "https://open.spotify.com/track/6nVi2WZlOE1XYhtYF4iAiQ"
@@ -2318,7 +2318,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 204774,
       "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e01\u0e25 (Moon to Mars)",
       "url": "https://open.spotify.com/track/5GFLKQNrG9WULCp3AxDXyo"
@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 216610,
       "name": "\u0e1b\u0e35\u0e19\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 - From Future \u0e27\u0e34\u0e28\u0e27\u0e30\u0e2a\u0e38\u0e14\u0e2b\u0e25\u0e48\u0e2d\u0e01\u0e31\u0e1a\u0e04\u0e38\u0e13\u0e2b\u0e21\u0e2d\u0e02\u0e2d\u0e07\u0e1c\u0e21",
       "url": "https://open.spotify.com/track/4afl2R8ZC6lk3CUKkhD6dm"
@@ -2930,7 +2930,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 242727,
       "name": "\u0e1e\u0e34\u0e07 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32",
       "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
@@ -2988,6 +2988,24 @@
       "duration_ms": 219740,
       "name": "\u0e1e\u0e35\u0e48\u0e46 \u0e15\u0e31\u0e14\u0e41\u0e27\u0e48\u0e19\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/5ozsFNcATFgJUXSdi6fxrf"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
+        "url": "https://open.spotify.com/album/2U1hTTT8zpG58iAlcjCPGg"
+      },
+      "artists": [
+        {
+          "name": "Fourth Nattawat",
+          "url": "https://open.spotify.com/artist/1O48F7zasjWhc5GodGPJEO"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209230,
+      "name": "\u0e1e\u0e39\u0e14\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Let Me Tell You) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
+      "url": "https://open.spotify.com/track/3RBEKEeZWt3iCsuh4bvZpl"
     },
     {
       "album": {
@@ -4028,7 +4046,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 215485,
       "name": "\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23 (IF YOU LOVE)",
       "url": "https://open.spotify.com/track/08OtCoRVu0sHp8dmCddtvg"
@@ -4226,7 +4244,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 178909,
       "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
       "url": "https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU"
@@ -4482,6 +4500,28 @@
       "duration_ms": 186156,
       "name": "\u0e40\u0e14\u0e32\u0e44\u0e21\u0e48\u0e40\u0e01\u0e48\u0e07",
       "url": "https://open.spotify.com/track/0FQuyJ6MTsvGcXQur2EPgk"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e16\u0e35\u0e22\u0e07\u0e40\u0e01\u0e48\u0e07 (Bad Mouth) [feat. UrboyTJ]",
+        "url": "https://open.spotify.com/album/1RwPXnOxs97fKVZy572vvo"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        },
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217016,
+      "name": "\u0e40\u0e16\u0e35\u0e22\u0e07\u0e40\u0e01\u0e48\u0e07 (Bad Mouth)",
+      "url": "https://open.spotify.com/track/5yvRKTDlHFLjAJ34TlazlN"
     },
     {
       "album": {
@@ -5780,7 +5820,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 199130,
       "name": "\u0e44\u0e2b\u0e25\u0e48\u0e40\u0e18\u0e2d (You\u2019ve Got Ma Back) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
       "url": "https://open.spotify.com/track/55tvHtkqTwGaQtN44CFLV6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,630 likes - 82 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,649 likes - 82 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [Evenfall](https://open.spotify.com/track/00OJTs80tu6DWWkcYJSkFg) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Evenfall](https://open.spotify.com/album/6gWZNNi5YDnUKclfDRY4H0) | 2:32 |
 | 82 | [High Grade](https://open.spotify.com/track/148fw8hR1GJWy8Wv8Njmae) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64), [Dylan Jones](https://open.spotify.com/artist/6I27Pm1RWzs9IJzB9KlKhN) | [Vibrations](https://open.spotify.com/album/3rscuOtVUHLjqiHSDxdqrc) | 3:53 |
 
-Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMGFmNTgyZjFlNmMyZDFiNTE0ODA2MTkyZTUzMDFkY2Vm`
+Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMGQ5N2Q3OGY4NzZkYjM5MjI5M2I0ZjhmYjlmMWI2ZWQy`

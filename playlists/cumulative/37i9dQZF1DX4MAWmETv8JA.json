@@ -641,6 +641,28 @@
     },
     {
       "album": {
+        "name": "Indiana",
+        "url": "https://open.spotify.com/album/6U9Et34Cp9IJNN6PXUfca5"
+      },
+      "artists": [
+        {
+          "name": "Chapeleiro",
+          "url": "https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH"
+        },
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251204,
+      "name": "Indiana",
+      "url": "https://open.spotify.com/track/1Wh8Jns8gltjaf964MkGqV"
+    },
+    {
+      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/6teK4qQcl42SrpiSPrntEs"
       },
@@ -812,7 +834,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 356571,
       "name": "Lokura",
       "url": "https://open.spotify.com/track/70lb6njaDkc8HUvtJHIP0w"
@@ -1050,7 +1072,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 369071,
       "name": "M\u00e3e das \u00c1guas",
       "url": "https://open.spotify.com/track/3MjO6gtBhPdK4dWemp8YkW"
@@ -1178,6 +1200,28 @@
       "duration_ms": 401959,
       "name": "Pina Colada",
       "url": "https://open.spotify.com/track/1921iEr6Xx017QU7WVcB5C"
+    },
+    {
+      "album": {
+        "name": "PRA!",
+        "url": "https://open.spotify.com/album/2g7gACbuQsq9TUFhvpbYqM"
+      },
+      "artists": [
+        {
+          "name": "Gonzi",
+          "url": "https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe"
+        },
+        {
+          "name": "Boot Sequence",
+          "url": "https://open.spotify.com/artist/3snzAs1JCZ92tLSnWaaXWT"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270845,
+      "name": "PRA!",
+      "url": "https://open.spotify.com/track/2rSiaVJRP93bTgEbWWn4ms"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,924 likes - 150 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,170 likes - 150 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 149 | [Solar Flare Homicide](https://open.spotify.com/track/6pCkJ0r6WEyz5ASErk5ezS) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Speaker Of The Dead](https://open.spotify.com/album/4BcTytmn7rMtxg2mESczbQ) | 3:50 |
 | 150 | [Road of Resistance](https://open.spotify.com/track/4f5Glh6TkdXN2osSIpVBNI) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [BABYMETAL](https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI) | 5:18 |
 
-Snapshot ID: `MTY3NTAzMjY1NiwwMDAwMDAwMGY5N2Y2NTEwMmRkMjE2MGM5NDk3YzNjZDU2MzQ2NjRj`
+Snapshot ID: `MTY3NTAzMjY1NiwwMDAwMDAwMGRmMDFiYjQ3NjA4M2FhMmVhMDNkY2RhOWJkNjM3YTM4`

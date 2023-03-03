@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Edición Especial & Hans El Oso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,191 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,654 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Malaco](https://open.spotify.com/track/74GetRMsht7rOBexp5HNWB) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Malaco](https://open.spotify.com/album/2Vv23m5o3hm9ztGpVu9RuE) | 3:42 |
 | 75 | [Oro Negro](https://open.spotify.com/track/627JaIxyG2KyF2BKRMOPhK) | [Los De La 21](https://open.spotify.com/artist/1BGwlfPEZp2S4eBxOclgaE) | [Oro Negro](https://open.spotify.com/album/6QeXTk5uTSARcSO6NR7OJF) | 3:41 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDliNWU4M2RlMmFjN2NmNDQ1NDRmMDc0NTdlMjFlMWE5`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMGU5OWMxZjFiN2E3ZjYxMWFjZjFkMjI5YjBhMjFlZGZm`

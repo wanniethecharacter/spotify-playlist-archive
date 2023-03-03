@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,132 likes - 100 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,183 likes - 100 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [Blodspredikan](https://open.spotify.com/track/53S5imgb3cHA3i19m2EuLP) | [Håvard Stubø Quartet](https://open.spotify.com/artist/7dmLpbha17tADigq4qlGvd) | [Kautokeino Undercover](https://open.spotify.com/album/6ihQPS7ppBCJwyXiQrFXrB) | 6:28 |
 | 100 | [9](https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu) | [Agnas Bros](https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp) | [Lycka till med musiken](https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL) | 9:04 |
 
-Snapshot ID: `MTY3NzE0ODU0NiwwMDAwMDAwMGVhNDVmMjE2OWM2Y2VkODQ5ZDI0Y2VmMzRmYjA3MWJi`
+Snapshot ID: `MTY3NzE0ODU0NiwwMDAwMDAwMDEzYmMzMWMyODQ2N2M2NTc4YmE5MjAwNTRkMGU0OWRj`

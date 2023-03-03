@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,871 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,926 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 | 99 | [Here Come the Good Times](https://open.spotify.com/track/5KRNa3Vk8uyHMS2coxs7Vx) | [A House](https://open.spotify.com/artist/53YkKjHFfjYq6dtcLiQ8NO) | [Wide Eyed and Ignorant](https://open.spotify.com/album/1wRgtTXAhKz4fsTu8y5x1E) | 3:33 |
 | 100 | [Nothing Compares 2 U \- Live](https://open.spotify.com/track/0s4iYgAV4SZF1Xli9PmE74) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [¡Released! The Human Rights Concerts \- An Embrace Of Hope](https://open.spotify.com/album/19JdXPQrKwjmL2rH2AfFs7) | 5:30 |
 
-Snapshot ID: `MTY0NzAxODI3NywwMDAwMDAwMDZkMTE3MTdkZmNiNTJiNzU1ZDdmZmY2NzgwMTJmOWE2`
+Snapshot ID: `MTY0NzAxODI3NywwMDAwMDAwMGIxNDExMzBlZGIwMjQ3YmQ4ODRhNmQzMmYzMzhjYmUz`

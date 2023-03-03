@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Phillip\-Michael Scales
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,809 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,943 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [Seasons of Trouble](https://open.spotify.com/track/2J4arL11h4pQBCi4HvzcNY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Operator, Please / Seasons of Trouble](https://open.spotify.com/album/78iOU4PyWExwlwiTrvzyJF) | 4:52 |
 | 100 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGNmNTA4Mzg1MjlmZGI4OTg3MWMxZTE0NTJjYmViYmIw`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGUwZjQ4OGRmYjk4MTdkMmFmYmMxYmEyNWVlMDE0YWY2`

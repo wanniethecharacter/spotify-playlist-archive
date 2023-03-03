@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,534 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,582 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 99 | [What?](https://open.spotify.com/track/2nrolTBT7lRPdaFnfWxaKr) | [Big Mountain County](https://open.spotify.com/artist/4DzWstaAmf3JWxAWt3THQm) | [What?](https://open.spotify.com/album/7Fz8X0lwUiiykWBsYooK0S) | 3:13 |
 | 100 | [Fireworks](https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu) | [Equipe de Foot](https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836) | [Chantal](https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W) | 4:13 |
 
-Snapshot ID: `MTY3NzUzMzE3OCwwMDAwMDAwMGYyZjVmMzJmOGI4MzgzNTRkM2M4YmRjMzc0OTIwZjEx`
+Snapshot ID: `MTY3NzUzMzE3OCwwMDAwMDAwMDAwMTMyYmU2Y2MxNDNhMTdjMGYyYTcxMDg1NzljZmFj`

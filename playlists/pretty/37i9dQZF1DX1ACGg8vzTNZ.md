@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,232 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,315 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 39 | [A Temporary Solution](https://open.spotify.com/track/5dWTt3ER2jN4hR34FF7ZEh) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:27 |
 | 40 | [Once in a Lifetime](https://open.spotify.com/track/00BHa28nUX4B9U8BGeacqx) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Once in a Lifetime](https://open.spotify.com/album/5oFBExdi3Xlfy4eMTdO9QE) | 2:37 |
 
-Snapshot ID: `MTY3NzY4NTQ5NywwMDAwMDAwMGEzMmU4YjU3ZjUzM2YxOTZmNGZkNTZlZjUzNjMwZWVi`
+Snapshot ID: `MTY3NzY4NTQ5NywwMDAwMDAwMDljMDRiYjQ4OTUzZmE5YWYwMGMzMWFjMGI1OTY1Y2Q0`

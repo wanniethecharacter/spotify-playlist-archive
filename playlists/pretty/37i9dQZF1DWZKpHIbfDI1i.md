@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Carlos Rivera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,097 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,842 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 74 | [Wapo y Mamón](https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE) | 2:16 |
 | 75 | [G Low Kitty](https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [G Low Kitty](https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN) | 3:34 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMGRiYTViMGViODAyNzY5ZmViMTY1NWM0MGVhZTJjYzY2`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDYzZWY2ZmU4ZGY4Y2MyMzA5MmQ4YzcwNDdmZmJkNGJk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Salim\-Sulaiman, Ayisha Abdul Basith, Salim Merchant
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,848 likes - 54 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,887 likes - 54 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 53 | [Dimming of the Day](https://open.spotify.com/track/4SWme0PjIFPTwXLyVWGgOI) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Acoustic Classics](https://open.spotify.com/album/0jCVyzxYUUOyKYYlBUjGV0) | 3:18 |
 | 54 | [Hum Allah Hum Allah Hum Allah](https://open.spotify.com/track/71DfiueMJMIs8D0djEgiyz) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Jewels Of Thought](https://open.spotify.com/album/4eqjbUVRGuA1iM9Gt1UhaV) | 15:10 |
 
-Snapshot ID: `MTY2NTA2MjU1MSwwMDAwMDAwMDFmOWFkM2E5YWM0MGQ2YTE0YWViNzYyOWQzM2U0MWJj`
+Snapshot ID: `MTY2NTA2MjU1MSwwMDAwMDAwMGQ0MzZmN2E4MzE5YTlkOTM1NzExYjQyZDJhMzNhMmMz`

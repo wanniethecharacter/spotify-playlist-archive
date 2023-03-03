@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,533 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,999 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 49 | [A Gente Fez Amor \- Ao Vivo](https://open.spotify.com/track/3tv697PZNnaQN0Mn2zGhS5) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 3:57 |
 | 50 | [Jeito De Mato](https://open.spotify.com/track/69Ui5HCL3ckbnnwtnZoGRo) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Almir Sater](https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP) | [Pássaro De Fogo](https://open.spotify.com/album/7p1ph1czkPiXYxLi7TBUe1) | 4:58 |
 
-Snapshot ID: `MTY3NjYwMjgwMCwwMDAwMDAwMDUwMzM4ODZiZWY0M2UxYzZlNDVmOTQwNWQyOWYwODYx`
+Snapshot ID: `MTY3NjYwMjgwMCwwMDAwMDAwMGY1N2IzODVlNWUzNzhhOTI0NGVjZjMzYTczZTc5MjIy`

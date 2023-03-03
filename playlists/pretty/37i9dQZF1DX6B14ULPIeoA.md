@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,095 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,190 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 99 | [Tragos Amargos](https://open.spotify.com/track/1jhaFZpN6grqcweo0kUElQ) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Tragos Amargos](https://open.spotify.com/album/4rTSPDvuo9XFaNn0SioHJl) | 2:45 |
 | 100 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/42jz4vxI3S9nZuYOEwCbAF) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/4o5FlDxD26wrLQ5C0kLCk5) | 3:06 |
 
-Snapshot ID: `MTY3NjMwMjY4MCwwMDAwMDAwMDliMWM2OWZiYjcyMGExYzQwODljOTk0ZTMzZjY0NjQ2`
+Snapshot ID: `MTY3NjMwMjY4MCwwMDAwMDAwMDk5ZDM1NDY4MjNlODg0ZTFmODU2YjE1ZTlhMDY2OTEx`

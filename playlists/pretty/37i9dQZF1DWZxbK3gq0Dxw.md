@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxbK3gq0Dxw.md) - [plain]
 
 > The Cracker Island experience, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,968 likes - 10 songs - 37 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 186,573 likes - 15 songs - 53 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,5 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxbK3gq0Dxw.md) - [plain]
 | 8 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 |
 | 9 | [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 |
 | 10 | [Possession Island \(feat\. Beck\)](https://open.spotify.com/track/0gclZ31Oo7rysAQDg7HguD) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:26 |
+| 11 | [Captain Chicken \(feat\. Del The Funky Homosapien\)](https://open.spotify.com/track/24LSAGp2LmT1Kd6y8PPFr2) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 1:51 |
+| 12 | [Controllah \(feat\. MC Bin Laden\)](https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 2:30 |
+| 13 | [Crocadillaz \(feat\. De La Soul and Dawn Penn\)](https://open.spotify.com/track/07bE8BmqXXMGUiAHcZwl2q) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 2:33 |
+| 14 | [Silent Running \(feat\. Adeleye Omotayo\) \[2D Piano Version\]](https://open.spotify.com/track/4zcXwePxXk3SkjaPwOZ3TO) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 4:23 |
+| 15 | [New Gold \(feat\. Tame Impala and Bootie Brown\) \- Dom Dolla Remix](https://open.spotify.com/track/49ozuucNvoHNstYChqEzPU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 4:34 |
 
-Snapshot ID: `MTY3NzE5NjgwMCwwMDAwMDAwMGUzNmIyODc1NjlhODUxNjgxM2VjM2E3ZmU4YTdjOThm`
+Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMGFhN2UyZTBkMzZmMWY3ZGI0MDg5ZDg1MjQ4M2VkODU1`

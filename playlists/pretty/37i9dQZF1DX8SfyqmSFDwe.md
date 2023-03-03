@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,816,327 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,817,445 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 99 | [Frikitona](https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Chosen Few El Documental II](https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe) | 3:03 |
 | 100 | [Ay Amor \- Reggaeton](https://open.spotify.com/track/4E1z3hsYE4bM1PNBvtAoZP) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Despecho Reggaetón](https://open.spotify.com/album/1clxM59p55Br14SInm4uSI) | 3:53 |
 
-Snapshot ID: `MTY3NDc5MzM5NywwMDAwMDAwMDZhOWE2MGFmNThjM2UyYTRiMDI5ZmY2YTk5MGI0ZTUx`
+Snapshot ID: `MTY3NDc5MzM5NywwMDAwMDAwMDNlM2JmMDdkMDAyYjI3MjhiM2IwZDFlZWQyOWE2NTdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. León Larregui en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,160 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,290 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 74 | [Muerte en el Jardín Botánico](https://open.spotify.com/track/4HJtmS8JXnrR521Szn3RUE) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Muerte en el Jardín Botánico](https://open.spotify.com/album/1xtbJb0nDQuoex12w7yILl) | 4:26 |
 | 75 | [Domingo](https://open.spotify.com/track/2v1Oi3AGWynVMJJLqUYte8) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/7HKY2rqTIBUBZAuFfDWcUv) | 3:32 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDAzNWZmOGI2NDRjODJhOWNhMzZlNjc1M2M3MDRkMmI3`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDI5NDQ4N2IyZDFmNTBhNjM3OWM4YWFmZjI3ODAwODBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=1252GMiNTcSeTiaGBAO4dQ"> Stonebwoy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,002 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,045 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 79 | [Midnight](https://open.spotify.com/track/43H88ZoZoU4jt9jIIjxe4b) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Midnight](https://open.spotify.com/album/4Ol9KKCihUw5uV7PTtStO9) | 2:10 |
 | 80 | [I Feel Nice](https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Group Chat](https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [I Feel Nice](https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk) | 2:40 |
 
-Snapshot ID: `MTY3NzE4OTc5NCwwMDAwMDAwMGJjMDk1OGM5MzIzMDA4ZGNhZDk0ODdmYWVmMWQ5MmZi`
+Snapshot ID: `MTY3NzE4OTc5NCwwMDAwMDAwMGZjYTUxMzdlOTY2YWJhYjllNDQxMzUxNGUwZGU3NTJi`

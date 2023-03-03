@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-123 songs - 7 hr 13 min
+124 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Ritual \(feat\. Wrabel\)](https://open.spotify.com/track/04AYgtKFrpldRXe5y0LNGQ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Ritual \(feat\. Wrabel\)](https://open.spotify.com/album/3mwc5RiHDXgirCArUrt7HH) | 3:57 | 2022-09-08 |  |
 | [Rose Gold](https://open.spotify.com/track/3sMsk0ZIBHEpLxPkCeoQWq) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Pentatonix \(Deluxe Version\)](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) | 3:43 | 2022-09-08 |  |
 | [Run to You](https://open.spotify.com/track/2SOUTN8rzGAkBr001HqAXe) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:37 | 2022-09-08 |  |
-| [sammy](https://open.spotify.com/track/2lGeTlcg6BwUd0N4fb6qhL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [sammy](https://open.spotify.com/album/0CXtcpl8TyuqUVNxHhTQ65) | 2:43 | 2022-09-08 |  |
+| [sammy](https://open.spotify.com/track/2lGeTlcg6BwUd0N4fb6qhL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [sammy](https://open.spotify.com/album/0CXtcpl8TyuqUVNxHhTQ65) | 2:43 | 2022-09-08 | 2023-03-03 |
+| [sammy](https://open.spotify.com/track/7Jyy8xo7YtHIvAugD2gtNV) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2023-03-02 |  |
 | [Scares Me](https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:02 | 2022-11-17 |  |
 | [Shine](https://open.spotify.com/track/5hmTQFtqfDapaSqWY3arU3) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Let The Music Play](https://open.spotify.com/album/7nCXhDHK9lBJ66TVu1F5Ao) | 3:48 | 2022-09-08 |  |
 | [Side](https://open.spotify.com/track/4gs5Xv10fgdkSO9Jrjq0rk) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Lucky Ones](https://open.spotify.com/album/6doKrVnhuZB7ajkdvCDvyC) | 3:27 | 2022-11-17 |  |

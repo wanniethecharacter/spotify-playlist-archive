@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,211 likes - 150 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,056 likes - 150 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 | 149 | [Seek Bromance \- Avicii Vocal Edit](https://open.spotify.com/track/7tSO7DrrYpiMXX3zM4b3oM) | [Tim Berg](https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Seek Bromance](https://open.spotify.com/album/45LS90ZFHzPbUECiK1JdtZ) | 3:20 |
 | 150 | [Bang Bang \- 3LAU Remix](https://open.spotify.com/track/4kXDTeaXTJGRlyGQ15fhvA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Bang Bang \(Remixes\)](https://open.spotify.com/album/3ONhXhn7uDBCAW3Jy6lQFX) | 3:06 |
 
-Snapshot ID: `MTY3NjI4NzcwNSwwMDAwMDAwMGI2Y2IxODY1ZjgzNjllOTFhNTA4ZTk2OWNhZTc0ZGM5`
+Snapshot ID: `MTY3NjI4NzcwNSwwMDAwMDAwMDZkM2QzN2EzN2ViODUxODY0MTgwYzI3NzE0MWJmMzM0`

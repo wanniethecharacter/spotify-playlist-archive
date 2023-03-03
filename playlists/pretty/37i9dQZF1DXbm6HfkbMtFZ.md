@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,508 likes - 115 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,707 likes - 115 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Always on My Mind \(Acoustic\)](https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my) | [Nané](https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7), [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Always on My Mind \(Acoustic\)](https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt) | 3:34 |
 | 115 | [King Prawn The 1st](https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Boys, B\-Sides & Rarities](https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U) | 2:36 |
 
-Snapshot ID: `MTY3NjI2NTI4NiwwMDAwMDAwMGY5Mzk2OTU3YTA2ZTkwNDM0MWViNTk0MWE4MGYxMzdm`
+Snapshot ID: `MTY3NjI2NTI4NiwwMDAwMDAwMDdmYjUwM2YxNDJmZTYyMmQ5NThhYjE5ZTg3ODMyZDlj`

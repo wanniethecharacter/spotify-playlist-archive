@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Carin Leon & Luis Mexia
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,679 likes - 56 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,741 likes - 56 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 55 | [El Son Del Tlacololero](https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [El Son Del Tlacololero](https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o) | 5:15 |
 | 56 | [El De Las Pastillas](https://open.spotify.com/track/0eVfSnw3IqOy6XjEQ3kzFM) | [Jasiel AB](https://open.spotify.com/artist/1hsZtqjs2Z7sInQ8x3oUEx) | [El De Las Pastillas](https://open.spotify.com/album/3Th36PqK7nJxypFpMZMNDz) | 2:52 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGZlZGFjY2RmZTk3MDIyYjhkNjMyMTkxYmRiNTgyY2Qy`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGZjOWJkMzI0Y2U0N2UzMjVkMmI5ZjFmMjVlY2RlMGI5`

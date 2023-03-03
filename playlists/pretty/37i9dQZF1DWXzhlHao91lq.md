@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,468 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,491 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 74 | [different...](https://open.spotify.com/track/5UsidyX3Wocveuplfzz9AK) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [different...](https://open.spotify.com/album/46leWH1QOXzyOFgJWOD5Ws) | 3:00 |
 | 75 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 |
 
-Snapshot ID: `MTY3NzQ5MDc3OCwwMDAwMDAwMDZjZmQyZjMyMDQzMDQ5MmYwNTE5NDMyNjM2MTI5ZWM1`
+Snapshot ID: `MTY3NzQ5MDc3OCwwMDAwMDAwMGZlYmU3MjQ3NWU2M2RjOGFlYjdiNGU5MWZjYmFiYzM3`

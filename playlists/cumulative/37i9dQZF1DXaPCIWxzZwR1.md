@@ -4,7 +4,7 @@
 
 > next gen pop cover: Halsey
 
-1,349 songs - 2 day 17 hr 38 min
+1,351 songs - 2 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Beginning Middle End \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/2kFHjWko1il6O9L3eK9IzG) | [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [Beginning Middle End \(From The Netflix Film "To All The Boys: Always and Forever"\)](https://open.spotify.com/album/4swfwUj2JmvWtXll9wtsjn) | 3:14 | 2021-02-16\* | 2021-04-17 |
 | [Ben & Jerry](https://open.spotify.com/track/2sg5fd4wF4r6NKMj9Zm3Rr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Ben & Jerry](https://open.spotify.com/album/1Hn5Rbk7431cLlGNQw32Cj) | 2:38 | 2021-08-21 | 2021-09-18 |
 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 | 2021-04-26 | 2021-05-19 |
-| [Best Friend Breakup](https://open.spotify.com/track/28a302Jx34OM1z5qG7ykMJ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL) | 2:21 | 2023-02-10 |  |
+| [Best Friend Breakup](https://open.spotify.com/track/28a302Jx34OM1z5qG7ykMJ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL) | 2:21 | 2023-02-10 | 2023-03-03 |
+| [Best Friend Breakup](https://open.spotify.com/track/5rKMN0bKdqcGWo1iLvv30Y) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/6mF1bVrioCxksnRBHUN7Ej) | 2:21 | 2023-02-24 |  |
 | [best friends](https://open.spotify.com/track/2ZQLEuaDw9rxJ5u5YR0KEw) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [best friends](https://open.spotify.com/album/2moiRsCEdQveKnCLL3EtYG) | 2:22 | 2021-12-19 | 2022-06-25 |
 | [Best Thing](https://open.spotify.com/track/4O7N7BLSnvItd2NecWsrV9) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Best Thing](https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs) | 2:36 | 2021-04-17 | 2021-04-30 |
 | [Better Alone](https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Better Alone](https://open.spotify.com/album/0vTZFLIIpFT4Zxwbt1dFFD) | 3:29 | 2022-07-22 | 2022-10-22 |
@@ -618,7 +619,8 @@
 | [ibtc](https://open.spotify.com/track/6QtBzhRBv5nrIDYIAiS2gh) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [ibtc](https://open.spotify.com/album/6c0qrNtQaaRbefPkSQIOvw) | 2:03 | 2021-07-08 | 2021-08-07 |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-03-18 | 2022-10-29 |
 | [IDWK](https://open.spotify.com/track/3awnZSyvKdi7rBLttHk36K) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [IDWK](https://open.spotify.com/album/6s7fnQZkQ6ZqmRxpJ22OjF) | 2:03 | 2021-02-16\* | 2021-03-19 |
-| [If I Died Last Night](https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [If I Died Last Night](https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5) | 2:44 | 2022-11-04 |  |
+| [If I Died Last Night](https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [If I Died Last Night](https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5) | 2:44 | 2022-11-04 | 2023-03-03 |
+| [If I Died Last Night](https://open.spotify.com/track/4NpFdj4CHgVSoQ32yHVmNL) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:44 | 2023-02-24 |  |
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-05-06 | 2022-10-22 |
 | [if jesus saves, she's my type](https://open.spotify.com/track/4OmmvUxdmeew6cIJCxd2VH) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [if jesus saves, she’s my type](https://open.spotify.com/album/31eBckdffuyRK8cKmZYhkH) | 3:37 | 2022-02-18 | 2022-03-12 |
 | [If Jesus Was A Rockstar](https://open.spotify.com/track/2FVxHTXY9Ns9RasjDXOYVq) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [If Jesus Was A Rockstar](https://open.spotify.com/album/7MFI6PLBQLdYZpHHokD6vL) | 2:50 | 2022-11-11 | 2022-11-19 |

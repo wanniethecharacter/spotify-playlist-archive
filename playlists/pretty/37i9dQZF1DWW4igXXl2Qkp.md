@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: BreezyLYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,846 likes - 65 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,912 likes - 65 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 64 | [Trippin For No Reason](https://open.spotify.com/track/3qNBU8uyznXSeYaKRBhrmA) | [Rallyb](https://open.spotify.com/artist/5HwdNPbGU9sjjR1Eu9QhJw), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Trippin For No Reason](https://open.spotify.com/album/19AZlqiXP3YjRqUaj9s3tT) | 2:19 |
 | 65 | [No Cap Pt\. 2 \(feat\. Fredo Bang\)](https://open.spotify.com/track/74kpb349Y0Rnu2U489O9e8) | [Shoebox Baby](https://open.spotify.com/artist/3GXyMzBhozW9CaHPg54y9f), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [It Aint Over](https://open.spotify.com/album/1qTOiYn4ynjph6yXJ7TeH4) | 2:37 |
 
-Snapshot ID: `MTY3NzY5MDAwMCwwMDAwMDAwMDdmZTMzN2E4NjI0NjY1OGM5Y2YwYTE4YjU0ZTBhZGE4`
+Snapshot ID: `MTY3NzY5MDAwMCwwMDAwMDAwMDg5OWIxNmMzMjA1MTI0NzQ3MDllZGZjZjk2NzNmOTM3`

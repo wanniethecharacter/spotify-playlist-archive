@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Missionário Shalom, Entretons
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,542 likes - 70 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,670 likes - 70 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Paciência](https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Paciência](https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL) | 4:28 |
 | 70 | [Confio em Ti](https://open.spotify.com/track/0S4O7XVa5ijA9jQXYcIZEA) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Confio em Ti](https://open.spotify.com/album/2U294zEFql410JNg2dVPf9) | 4:23 |
 
-Snapshot ID: `MTY3NzIzNzI4MSwwMDAwMDAwMGVjNjA1YTM0YzZiODhmZWZjNzFmMWY0NzBhMDM4YTNl`
+Snapshot ID: `MTY3NzIzNzI4MSwwMDAwMDAwMGZmZjI4Mjg2YmQxM2EyOWE0MWE1MTczYzRmMDI1NmY2`

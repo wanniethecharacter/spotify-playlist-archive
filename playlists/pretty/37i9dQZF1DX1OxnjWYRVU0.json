@@ -1,12 +1,12 @@
 {
   "description": "New takes on old classics!",
-  "num_followers": 359960,
+  "num_followers": 360192,
   "original_name": "Dance Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2NDIwMCwwMDAwMDAwMGI2NzM1ZTEwMzk0OGQzNDhiMjM3ODY3NDliZjgxZmM0",
+  "snapshot_id": "MTY3Mjc2NDIwMCwwMDAwMDAwMDAyNWQzYjM1N2E5NjM0ZDc4NTJmYzMxM2ZjNGVmMDQz",
   "tracks": [
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1572,6 +1572,10 @@
       },
       "artists": [
         {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
           "name": "Dimitri Vegas",
           "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
         },
@@ -1582,10 +1586,6 @@
         {
           "name": "Nicole Scherzinger",
           "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         }
       ],
       "duration_ms": 121987,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,605 likes - 84 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,634 likes - 84 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 83 | [I Love to Sing the Blues](https://open.spotify.com/track/5aBTkEM1vy7GaLeNH4ZBsq) | [Eb Davis Blues Band](https://open.spotify.com/artist/5EFzsijVGUq2VWklM2fxgK) | [Good Time Blues](https://open.spotify.com/album/0G4CO1qvIODlarbiaMOcEa) | 5:35 |
 | 84 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 |
 
-Snapshot ID: `MTY3NzI2NTkwNiwwMDAwMDAwMDdhNzRlMDNkNDI5NGM3NjY5NThiN2UyOWVkNjBmN2Yw`
+Snapshot ID: `MTY3NzI2NTkwNiwwMDAwMDAwMDk2Y2NhMGFkYzcxYjIxNTRlNDFmZjI0ZmU4Y2VmZWQx`

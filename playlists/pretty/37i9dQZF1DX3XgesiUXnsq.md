@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Larry June & The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,434 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,568 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Note To Self \(Feat\. Big Sean, Wale, Joey Bada$$ & Hitboy\)](https://open.spotify.com/track/5GSUrmDtxynQhBDLz7X2Mt) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [CHOMP 2](https://open.spotify.com/album/6a1EFm7L9Nl1wTm7JsrYBK) | 5:23 |
 | 100 | [Luchini AKA This Is It](https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4) | [Camp Lo](https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB) | [Uptown Saturday Night](https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E) | 4:00 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDJkZTk1MjYxMzFmZTFlNzI2NGFhODBhZWY4ODNjOTJm`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGYxYTdjMTQ0M2I1MjlkYWVmZWNmMzBlNzFhZmNlNjEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KItbiYYmAv.md) - [plain]
 
 > Hol dir dein Lieblingscafé nach Hause.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,183 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,286 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KItbiYYmAv.md) - [plain]
 | 149 | [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 150 | [Fallen so Young](https://open.spotify.com/track/3y4uSQwxHckyRcvafEilkN) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Fallen so Young](https://open.spotify.com/album/7BlVUDoAnsDbZHwIYT2S74) | 3:52 |
 
-Snapshot ID: `MTY3NDc0NDU3NywwMDAwMDAwMDE4MWE0MmI4ZThmZGFkMjg3ODkxYmNkNTYzODYyYzVk`
+Snapshot ID: `MTY3NDc0NDU3NywwMDAwMDAwMGUyY2E4NzYxOTA5YmU0ZGVkODhmYjRhNTY2ZmQ0OTA0`

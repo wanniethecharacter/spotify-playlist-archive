@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,333 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,363 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 59 | [I Love You Enough to Die Now](https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [I Love You Enough to Die Now](https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf) | 3:06 |
 | 60 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
 
-Snapshot ID: `MTY3NzIzNDg3MCwwMDAwMDAwMDk0YWNhNGUwZjZiNWZjODc2MjY1ZmJmNTFmYzFlODMx`
+Snapshot ID: `MTY3NzIzNDg3MCwwMDAwMDAwMDhmYjFjYTE3MWFlNWViZTA2YzU1OWU0ZGVjZGEwZmNm`

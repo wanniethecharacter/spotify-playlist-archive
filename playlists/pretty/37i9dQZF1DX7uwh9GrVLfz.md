@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ヤバイTシャツ屋さん \(Yabai T\-shirts yasan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,981 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,041 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 99 | [Don't Worry My Friend](https://open.spotify.com/track/5SkzagUXWlZVtUY4ogTHXh) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:02 |
 | 100 | [HOTARU NO HIKARI](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx), [AIR](https://open.spotify.com/artist/1tY72Ioe4SGlALcoIDlCa1) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 |
 
-Snapshot ID: `MTY3NzU5NjQwMCwwMDAwMDAwMDU2NjI1ZDA3ZTRmNDE0NmM0MzgzMTMzNzYzZDMxODU4`
+Snapshot ID: `MTY3NzU5NjQwMCwwMDAwMDAwMGM3OTQwYzg3MGJmOTI4ZGYyNGQ2Yjk3ODA5NjZiZTlj`

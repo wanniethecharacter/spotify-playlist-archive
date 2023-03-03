@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,459 likes - 180 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,821 likes - 180 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 179 | [Faust](https://open.spotify.com/track/6hGXKSiC1vB11654kyEI5Z) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Faust](https://open.spotify.com/album/4oxmPdY5YNv6BBIlsYZ4vo) | 2:18 |
 | 180 | [I Promise](https://open.spotify.com/track/1XH3miXC6EsroQKHct8ygN) | [Gary Koepp](https://open.spotify.com/artist/03b5zfYHJxK8v6IpTnVUlX) | [I Promise](https://open.spotify.com/album/2o2U7cZ6PCZMe1nGR6ZDH1) | 3:23 |
 
-Snapshot ID: `MTY3NzI4MzI2MCwwMDAwMDAwMGI1MmIyNzYzZWUyYTMwM2Y2OTU2YjNhNDYxZWZjZmY0`
+Snapshot ID: `MTY3NzI4MzI2MCwwMDAwMDAwMGNhMjIyY2YwYzVkMzljNjNmYTdjNWY0M2Q1MWZjODM4`

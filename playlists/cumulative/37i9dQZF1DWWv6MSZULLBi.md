@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Aisha Badru
 
-326 songs - 19 hr 33 min
+327 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Easy](https://open.spotify.com/track/2FAPyVLdvuNTnlEgTx9k78) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Easy](https://open.spotify.com/album/6wBxcddQvFejYqWw4LQXEI) | 4:21 | 2023-02-24 |  |
 | [Echo](https://open.spotify.com/track/0XuSeDzApPW3VEeMM2G4ei) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Echo](https://open.spotify.com/album/4IF5F9A68n96gZd9uJTY7A) | 2:34 | 2022-06-10 | 2022-08-27 |
 | [Echo Park](https://open.spotify.com/track/0oKMYyW7lQE1KQWCDyNobd) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Echo Park](https://open.spotify.com/album/3tlE6Sz6txgBWAy32hzc8N) | 3:30 | 2022-09-16 | 2023-02-18 |
-| [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-20 |  |
+| [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-20 | 2023-03-03 |
+| [Emily I'm Sorry](https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:34 | 2023-02-24 |  |
 | [EMPATHY 4 BETHANY](https://open.spotify.com/track/6Ly65M250uqDVZfj2Z0LdH) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [EMPATHY 4 BETHANY / GREEN APPLE \(EVERY NIGHT I RIDE NIGHT MARES\)](https://open.spotify.com/album/6sQW60NQvtOAjWhysIEO8q) | 4:54 | 2022-05-27 | 2022-09-03 |
 | [empty vessels](https://open.spotify.com/track/1Bg89AyZCtda4EKRTnsYQx) | [Lilli Furfaro](https://open.spotify.com/artist/7KE0s040V1NRQYHfj37mkW) | [empty vessels](https://open.spotify.com/album/0yqFdVCNyuwiIdSM61jsWe) | 4:16 | 2023-02-03 |  |
 | [Endless Time](https://open.spotify.com/track/1JS1QZwFXKVCdJPxoUAwrl) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [How Is It That I Should Look At The Stars](https://open.spotify.com/album/6GgHy26g1ILOtU9hkrHbLb) | 4:20 | 2022-05-13 | 2022-06-04 |

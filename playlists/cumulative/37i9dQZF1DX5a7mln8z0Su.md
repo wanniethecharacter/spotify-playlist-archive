@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#mood](https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [\#mood](https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk) | 3:01 | 2022-05-11 | 2023-03-02 |
+| [\#mood](https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [\#mood](https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk) | 3:01 | 2022-05-11 |  |
 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 | 2022-07-08 |  |
 | [20MIN](https://open.spotify.com/track/4jKgaXcTdOX1tzv7z7Vno1) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 2:56 | 2022-05-11 | 2022-06-19 |
 | [28 DREAM](https://open.spotify.com/track/7Jj4ro3G9jFZFfr2S3C4yW) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [28 DREAM](https://open.spotify.com/album/0i0pzQQFJt6WJBvhfIay6z) | 4:10 | 2022-08-08 | 2022-08-14 |
@@ -129,7 +129,7 @@
 | [Nemo](https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:55 | 2022-06-09 |  |
 | [Night](https://open.spotify.com/track/3SaxQJgFfFeFekLhN7b0Dz) | [PO.U.RYU](https://open.spotify.com/artist/6kYwRlB2k9l6BruOci7I7O) | [Night](https://open.spotify.com/album/37kB5XHm46l8uA56Y0NumP) | 3:42 | 2023-01-13 | 2023-01-29 |
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-08 | 2022-08-23 |
-| [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 | 2022-07-08 |  |
+| [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 | 2022-07-08 | 2023-03-03 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/1XI748LrBjy0ui2wEPqpEM) | 3:15 | 2022-06-09 | 2022-07-29 |
 | [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C) | [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/album/6VfDVxS4M3DJL7eIx1NZRl) | 4:13 | 2022-11-29 | 2023-01-26 |
 | [On the Move](https://open.spotify.com/track/67fJZxkkyzjDie41PzN2lg) | [MONA](https://open.spotify.com/artist/1cFDUoQ5wYnwrHsSkwvUHr) | [How](https://open.spotify.com/album/4coGyWNmRa8LQf3r1M2uAj) | 3:20 | 2022-05-11 | 2022-07-26 |

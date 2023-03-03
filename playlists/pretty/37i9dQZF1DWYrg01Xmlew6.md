@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Napoli e il meglio della scena campana\. Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,212 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,375 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [Duje Frat](https://open.spotify.com/track/18FjOEa8gQ7B2zZSxmyDgf) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [Duje Frat](https://open.spotify.com/album/7w7SAe84aiF4Q5BvPW27ej) | 2:41 |
 | 55 | [IL MIO VINO \(feat\. Speranza\)](https://open.spotify.com/track/4Ok2Kw1zqfD5N5h7IToYtl) | [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F) | [PIAZZA NOIA](https://open.spotify.com/album/1R5ZIS1zYkFptbn69V9vaa) | 3:28 |
 
-Snapshot ID: `MTY3NzE1MzEwOSwwMDAwMDAwMGQ3MDFjZTZmMGZmYTQwMWQyM2FhNzJjODljNjdlYzhj`
+Snapshot ID: `MTY3NzE1MzEwOSwwMDAwMDAwMGY1MTVmYTgzYzk4YTk3MDllM2ZmM2ZmZjYyNjhhNjdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Namora Aí e os funks mais 🔑 do Brasil\. Foto: MC Ryan SP
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,424,987 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,428,771 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Bruna, Tu Já Parou Pra Pensar](https://open.spotify.com/track/7qq40cRIYNKZCDt1STfBqt) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Bruna, Tu Já Parou Pra Pensar](https://open.spotify.com/album/2PdQFCLtjCFubVPrQ6QKUM) | 2:42 |
 | 50 | [Privilégio](https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [Mc Vitin do LJ](https://open.spotify.com/artist/4NYa9HEvARX9LXU4LRoGny), [MC Marley](https://open.spotify.com/artist/0f6Q3bpuXN7TfNxeJJBd3m) | [Privilégio](https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb) | 2:31 |
 
-Snapshot ID: `MTY3NzY5NTE1NiwwMDAwMDAwMDVmY2ZkYjc2MTY5ODVkMDcwMDk1NmZjYWQ3NDAzOTA2`
+Snapshot ID: `MTY3NzY5NTE1NiwwMDAwMDAwMGVjYWZhNGRiODY3NDBlZjU3ZmFjNjJjMzE2ZDdmYzhl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,701 likes - 80 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,788 likes - 80 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Aslan](https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x) | [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Alp Ersönmez](https://open.spotify.com/artist/2vnmgf7oe9T4gO2FACMrLH), [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso), [İzzet Kızıl](https://open.spotify.com/artist/1GZiLEPNYIJnGpx2gmrKEa) | [Aslan](https://open.spotify.com/album/6Ipqac2umFqtk6tp8TSLsT) | 6:18 |
 | 80 | [Goodbye for Now](https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe) | [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [The Description Is Not The Described](https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc) | 7:13 |
 
-Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDA4NmJmN2RiNTdmOGE3ZjcxYWY1ZWU0Mjc2YjhhMTMw`
+Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMGQ0MDUyNTQ5MzcxOThmOGQ2NDJiNmIxZmQwZGEzMGIw`

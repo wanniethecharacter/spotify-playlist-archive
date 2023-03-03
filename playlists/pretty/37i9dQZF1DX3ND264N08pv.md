@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,575 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,670 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Beyond Imagination \- Element Remix](https://open.spotify.com/track/4SXhmBta459ZhEXcOiN2rI) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Element](https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU) | [The Purge Remix EP](https://open.spotify.com/album/12bmNEbOlb1626H8XqXlaY) | 3:48 |
 | 100 | [Die For This](https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Die For This](https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1) | 4:00 |
 
-Snapshot ID: `MTY3NzUwMTc1NywwMDAwMDAwMGFlNDYyNjI5MDZiZDYwZmM5NjVmZjMyOTU5ZWNlMjJh`
+Snapshot ID: `MTY3NzUwMTc1NywwMDAwMDAwMGY5ZTQzNDA0ZTQwYTc0ZGRmZDU2ZGIyMTM0YmRjMDI0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Bintang Indrianto",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. ",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Fonk in the City",
+        "url": "https://open.spotify.com/album/5o5IiiD5liCqOuJe9ez356"
+      },
+      "artists": [
+        {
+          "name": "Saxx in the City",
+          "url": "https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250833,
+      "name": "Fonk in the City",
+      "url": "https://open.spotify.com/track/0QQKhBgzF6SLBgzWYeEgnm"
+    },
+    {
+      "album": {
         "name": "Miles to Go",
         "url": "https://open.spotify.com/album/6lkLDekAYpvRIlph4rOGEX"
       },
@@ -550,7 +568,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 201000,
       "name": "Gandrung Sewu",
       "url": "https://open.spotify.com/track/6Q1TzwYURf4BlagM63vekn"
@@ -670,6 +688,28 @@
       "duration_ms": 226502,
       "name": "I'm Not the Only One",
       "url": "https://open.spotify.com/track/4AKbie1DHQL98d3kRi5P00"
+    },
+    {
+      "album": {
+        "name": "In the Night",
+        "url": "https://open.spotify.com/album/3PBzXw12O4fygvwg6Ly68b"
+      },
+      "artists": [
+        {
+          "name": "Saxx in the City",
+          "url": "https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG"
+        },
+        {
+          "name": "Teza Sumendra",
+          "url": "https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245054,
+      "name": "In the Night",
+      "url": "https://open.spotify.com/track/1rdH5fBweoMY9TxYjlGh3c"
     },
     {
       "album": {
@@ -1488,7 +1528,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 215000,
       "name": "Suntatonic",
       "url": "https://open.spotify.com/track/4DswJxoBlUV0nWLvA16x0o"

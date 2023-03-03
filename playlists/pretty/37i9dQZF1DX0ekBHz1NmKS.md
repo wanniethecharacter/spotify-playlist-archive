@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,333 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,354 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Notre\-Dame](https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Notre\-Dame](https://open.spotify.com/album/4a5uM9yzhjfql6WW6NgIch) | 3:22 |
 | 100 | [Mamma](https://open.spotify.com/track/4UURbSqkM3F9Arv0yvamIQ) | [Rasmus Hultgren](https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW) | [Mamma](https://open.spotify.com/album/1hiGf2wre6njCrb9SiGbxv) | 2:20 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGQ5MTQ0MDUzZDUwOTVkZTBmMTViYmNlMmNiZjY1ODBl`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMGQ1ZTFmZGRkYzFmNDA4YWEyYWQ5ZTVhNWE1ODdiZTFj`

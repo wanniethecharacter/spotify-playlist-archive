@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,695 likes - 160 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,858 likes - 160 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 159 | [Love Me Like You Do](https://open.spotify.com/track/1nyxHNRjeyTlJQwsLMH7C0) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Anna Kitkowska](https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z) | 3:18 |
 | 160 | [Hallelujah](https://open.spotify.com/track/0pt4S6qXybR7reJW8AfEka) | [Eddy Tyler](https://open.spotify.com/artist/7KT0K9Jyst149sFJoP4s3D) | [Guitar Instrumental Covers](https://open.spotify.com/album/11AG80Bq1aK3OldgwCYw4g) | 5:01 |
 
-Snapshot ID: `MTY3NzIwMDQwMCwwMDAwMDAwMDA5MzllNzY0NjlmMmEyMGIyY2M1ZGMyMDliNjJiNjYz`
+Snapshot ID: `MTY3NzIwMDQwMCwwMDAwMDAwMGUwMjk5ZjAwY2YzYmUzY2U2ZTFiM2I5ZjFhZmEwN2Uz`

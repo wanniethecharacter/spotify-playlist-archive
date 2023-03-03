@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvVDEhwyL17.md) - [plain]
 
 > Cozy acoustic covers to accompany all your DIY, painting and creative crafts projects.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,968 likes - 77 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,026 likes - 77 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvVDEhwyL17.md) - [plain]
 | 15 | [Grow as We Go](https://open.spotify.com/track/5M6FVA0CEuN7iNqcq6LkG3) | [Finding Us](https://open.spotify.com/artist/3tuF9lI7xxtzNKt33uqxho), [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep) | [Grow as We Go](https://open.spotify.com/album/19VfOkSCXKOQM5yvYOiWCX) | 4:23 |
 | 16 | [Hang with Me \(Acoustic\)](https://open.spotify.com/track/0E9tvw1y0ljz0N4SFDT8R3) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Hang with Me \(Acoustic\)](https://open.spotify.com/album/7iOJTKZWjgHxUzGVsxAzbn) | 3:04 |
 | 17 | [Rise](https://open.spotify.com/track/1nsn93tZ1aUhsEbNETgkvH) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Rise](https://open.spotify.com/album/1751wnl8603VRyhfuLVw35) | 3:50 |
-| 18 | [Wouldn't It Be Nice](https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf) | 2:32 |
+| 18 | [Wouldn't It Be Nice](https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0) | 2:32 |
 | 19 | [Iris](https://open.spotify.com/track/3Ebx5xEUEoB6iod7vSak8R) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Iris](https://open.spotify.com/album/4qKG2mFsVCwHvIzLOVwVox) | 2:45 |
 | 20 | [Thunder](https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l) | [The Freed](https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8) | [Thunder](https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC) | 3:24 |
 | 21 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvVDEhwyL17.md) - [plain]
 | 76 | [Perfect](https://open.spotify.com/track/13j8NnWrcfmasCTBPc5ESv) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw), [Sad Boy](https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC) | [Covers EP](https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs) | 3:39 |
 | 77 | [u are my sunshine](https://open.spotify.com/track/69aQlycGbzRbcY2gPTSQsh) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [untrusted](https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [u are my sunshine](https://open.spotify.com/album/4xIKwtgVoRggtMXiv9ySOu) | 2:05 |
 
-Snapshot ID: `MTY3NDgyNjIxNywwMDAwMDAwMDA2Mjc3YzNkZDgwY2JiNjI2YzE2MThmZDgwNjQ5MDIw`
+Snapshot ID: `MTY3NDgyNjIxNywwMDAwMDAwMDRlNzU5Yjc2NzlhZWY5NjExZjJiN2E1ZmViNWE3Y2U3`

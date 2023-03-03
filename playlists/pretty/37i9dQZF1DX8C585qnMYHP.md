@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new Experimental by independent artists and labels, with Kate NV on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,450 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,512 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [the moment a zipper](https://open.spotify.com/track/5gZv0ObJ7rBIiNhde9ESR3) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [the moment a zipper](https://open.spotify.com/album/5QcBwD6HXVRHtPRwgCJtqc) | 5:21 |
 | 100 | [Leeches In The Mud](https://open.spotify.com/track/3QP6hVJrBAaHpYd88sRfg3) | [Early Fern](https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE) | [Leeches In The Mud](https://open.spotify.com/album/4D9MQsm9mw5Ysts19R4QS4) | 3:10 |
 
-Snapshot ID: `MTY3NzY4ODYxMiwwMDAwMDAwMGNhOWQ5MTcyMzMwOGIxMTE2NGNhNzVmYmVkMzM2NDM3`
+Snapshot ID: `MTY3NzY4ODYxMiwwMDAwMDAwMGVhYzU0OTVjMDFhYjIwNzRjN2FkMDA0YjBmYjJlNGEz`

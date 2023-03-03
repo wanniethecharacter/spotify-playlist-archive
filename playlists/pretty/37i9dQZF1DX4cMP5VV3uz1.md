@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,831 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,936 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Whippet](https://open.spotify.com/track/0iJRGATJdTzyahu6s4S1eY) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Whippet](https://open.spotify.com/album/2IWRdfMEjaA1RHBEtNdkSn) | 4:18 |
 | 75 | [Glitter](https://open.spotify.com/track/1AtifUJiEqzf1lHxxSKVEz) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Glitter](https://open.spotify.com/album/4xG9AXX6PJpzfVoqb5eqXh) | 2:59 |
 
-Snapshot ID: `MTY3NDY2MTA5NiwwMDAwMDAwMGY1M2ZjMzdjYzYyYmQ1YzMzMGIzNGYzMmY3YjAyNjI0`
+Snapshot ID: `MTY3NDY2MTA5NiwwMDAwMDAwMDZiNjY3MTJhMjdjODBlYzYzNzdiOGQ1MzEzOTY3OWJl`

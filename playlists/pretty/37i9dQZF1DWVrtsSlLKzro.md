@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,921 likes - 160 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,196 likes - 160 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 159 | [Alone](https://open.spotify.com/track/7Mle7Hl4xLcbaSOTNvKDrg) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Jon Becker](https://open.spotify.com/artist/5jRx3N76S5n2Wx9lU0g9Lr) | [Alone](https://open.spotify.com/album/5C0QX3dIaId5XpyL5nxh2h) | 2:51 |
 | 160 | [SOBER](https://open.spotify.com/track/6PPV3LHJvfYsRizfCEMLYj) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/4pFhXFulMduMOUGKSPVCnX) | 2:50 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDg2OTkzMTUyNDY2ZDYxMDg3ODRjZDk0YTU4ZWUxNjk1`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGIxYWU2OTdiODQ2MGIyZDMzYjIzMzNlZTNmMDM1MjVm`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Alikiba",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Zuchu",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -2600,10 +2600,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 240000,
       "name": "Naogopa",
       "url": "https://open.spotify.com/track/7dpCzGxbcTzSL3j6mKdSuG"
+    },
+    {
+      "album": {
+        "name": "Napambana",
+        "url": "https://open.spotify.com/album/4TyVZ4X2oEFC9xav9nUaLA"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178692,
+      "name": "Napambana",
+      "url": "https://open.spotify.com/track/6ARSJuBT3AHST84dvdKyZW"
     },
     {
       "album": {
@@ -2816,7 +2834,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 181276,
       "name": "Nidhibiti",
       "url": "https://open.spotify.com/track/6Zo7ymeK6BQOJ8Jf6gZeVJ"
@@ -3318,6 +3336,24 @@
       "duration_ms": 157853,
       "name": "Sasambu",
       "url": "https://open.spotify.com/track/6tfVC1Ghg5KvIh8NItSPQh"
+    },
+    {
+      "album": {
+        "name": "Sawa",
+        "url": "https://open.spotify.com/album/5UjFk656mvckQJGUhW1Bg8"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203541,
+      "name": "Sawa",
+      "url": "https://open.spotify.com/track/7Brx47p9jy0bF0NoZ6MYdB"
     },
     {
       "album": {

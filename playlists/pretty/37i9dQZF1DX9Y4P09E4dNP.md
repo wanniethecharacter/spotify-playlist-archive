@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,943 likes - 40 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,955 likes - 40 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 39 | [Medo](https://open.spotify.com/track/6dO8RYtvSOTr2VLXVEQRVu) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/2Bg6vk2wOHQj5HJtTulISZ) | [Yeesom Sika](https://open.spotify.com/album/1ZdQbM6DD603nNABFvAYJe) | 4:52 |
 | 40 | [Goodbye](https://open.spotify.com/track/7pU9YogbXoHZirg26M132Z) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Goodbye](https://open.spotify.com/album/2LWg8PF3z76jzhcPgFb8x1) | 4:24 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDJmZGFhZWZhYTYyOWE3YTQ0MmI1MGFlYTQxOGM1ZjVh`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGYzMmJmMGJkYzE1NTY1YWFlZmM1ZDg5N2YxYWY5NzI4`

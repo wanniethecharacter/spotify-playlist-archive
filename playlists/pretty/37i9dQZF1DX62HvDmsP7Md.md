@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 
 > Party like it's the early 2000s\. ✨  Cover: Puff Daddy, Lil' Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,578 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,002 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 78 | [Are You That Somebody](https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Are You That Somebody](https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD) | 4:25 |
 | 79 | [Bounce With Me \(feat\. Xscape\) \- Edited Album Version](https://open.spotify.com/track/5jZfGxZDayFA1HzYmyOG3a) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Beware Of Dog](https://open.spotify.com/album/5KATmrEcK3H89geDdPBzLO) | 2:55 |
 | 80 | [Big Pimpin'](https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Vol\. 3..\. Life And Times Of S\. Carter](https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ) | 4:43 |
-| 81 | [Move Bitch](https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu) | [Disturbing Tha Peace](https://open.spotify.com/artist/3FsQX7FsrZAzTU9ah45P7O), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 4:30 |
+| 81 | [Move Bitch](https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 4:30 |
 | 82 | [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 |
 | 83 | [Ugly](https://open.spotify.com/track/3ltqIDgVV4QSNDQPQ4y5kr) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Dark Days, Bright Nights](https://open.spotify.com/album/5k0DIwQUjfFWxxliiWVzxr) | 4:25 |
 | 84 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 99 | [Drop \(feat\. Fatman Scoop\)](https://open.spotify.com/track/5ra5c4NPCA4szK6hBbMs4u) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Magoo](https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Indecent Proposal](https://open.spotify.com/album/1CQyN4iheuFankpvxYuLPD) | 6:00 |
 | 100 | [You Owe Me \(feat\. Ginuwine\)](https://open.spotify.com/track/2VqjCBJ4AxpDTrNRKhL0Pw) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Nastradamus](https://open.spotify.com/album/0yv3K62ndWgrZ0bbAEMzj5) | 4:47 |
 
-Snapshot ID: `MTY3NzYzNzkzOSwwMDAwMDAwMDM1YzZjMDNlMzAyYzhlOWY5YmJkNGYzY2M4MzAzMjEz`
+Snapshot ID: `MTY3NzYzNzkzOSwwMDAwMDAwMGQyYjY5Y2U2MzZmNWMzYWI5YmQxNWM3ODViMzdjOWM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:5kxnZh8gXyXdIvCWbDMevT">Eem Triplin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,739,735 likes - 100 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,740,399 likes - 100 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Out of Time](https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [Out of Time](https://open.spotify.com/album/72SRRaSf8OEru4ewgAK0UM) | 1:57 |
 | 100 | [Pape Talk](https://open.spotify.com/track/1fInVZhQmpopTKTkZnLvwG) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Paint the City \(Gangsta Grillz\)](https://open.spotify.com/album/3M1RUPna1fFjxNd9I0Vo0l) | 2:09 |
 
-Snapshot ID: `MTY3NzI4NzM0NiwwMDAwMDAwMDkxYTc2OGNjZDBiZWJiNWI5MGU3ZThmNTg0MzAwNzRl`
+Snapshot ID: `MTY3NzI4NzM0NiwwMDAwMDAwMDgyMjRkMmEzZDFiNzEyNjBhYjY1NDgxOTgzZWMwM2Fm`

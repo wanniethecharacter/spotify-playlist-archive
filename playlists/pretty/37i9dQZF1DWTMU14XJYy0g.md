@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Eruca Sativa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,820 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,846 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [Amor en Pandemia](https://open.spotify.com/track/2MJGIie6rHtECQnhbFdnX7) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Amor en Pandemia](https://open.spotify.com/album/4l8e006uYJlLzgYLl1SUiJ) | 2:47 |
 | 100 | [Goodbye Adiós](https://open.spotify.com/track/60Cohjy8lgh1jIkTpGz9S1) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Goodbye Adiós](https://open.spotify.com/album/72kYZH666UwSHVBTw0zL8f) | 3:31 |
 
-Snapshot ID: `MTY3NDc4ODQwMCwwMDAwMDAwMDhkZWQ0MWM4ZjI4NTZjOWY3NjgyNjNjMWNmZjM3NmEx`
+Snapshot ID: `MTY3NDc4ODQwMCwwMDAwMDAwMDM2YWQ1MmUwNThlMjM0N2I2YmU1ZGRiZWU0NjQzODIz`

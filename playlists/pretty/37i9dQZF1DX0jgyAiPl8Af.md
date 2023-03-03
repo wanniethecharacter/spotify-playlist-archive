@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,959,417 likes - 288 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,959,636 likes - 288 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 287 | [Lola](https://open.spotify.com/track/1Oa5PbACgAPg0pS0l0SGTq) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Lola](https://open.spotify.com/album/0uEwBSSv1rpnE0LgMIb1xq) | 2:27 |
 | 288 | [Stando Solo](https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Stando Solo](https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1) | 2:36 |
 
-Snapshot ID: `MTY3NjA0MDIxNCwwMDAwMDAwMGNiYTVlYzA4NGNlZDRmMGNkMjE4NDkxODQ1NzVjMDli`
+Snapshot ID: `MTY3NjA0MDIxNCwwMDAwMDAwMGRhYTczMzczZGM3YWZkYzliMjUwYzUyNjM2ZjA3Mzlh`

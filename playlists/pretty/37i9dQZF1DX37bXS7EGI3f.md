@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: REXORIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,765 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,917 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Eternal Darkness](https://open.spotify.com/track/5KF33B01qnGgBYIp35LD6f) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Eternal Darkness](https://open.spotify.com/album/13G54l6oV3HKT4HaWsKDQB) | 5:46 |
 | 80 | [Breath](https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Breath](https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g) | 3:44 |
 
-Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDdiZjE4ZWYyZmRmODNlMTEyNWU0ODk4ZTk1YjY1OWM2`
+Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDViNWVhYzgzNDFhZTY0ZTVlOGM4OTMzMzMxM2FkODAz`

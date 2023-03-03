@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Valdes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,592 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,606 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [No Te Acerques Tanto a Mí](https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4) | [Margarita Pla](https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii) | [Respirar de Nuevo](https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On) | 4:33 |
 | 100 | [La Guarida](https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i) | [Julian Mourin](https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw), [Mei demayo](https://open.spotify.com/artist/57AQD7JCcN3jkv53aBCouV), [Juan ortiz](https://open.spotify.com/artist/0EByszn3Svvfw9xbDodioB), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [La Guarida](https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV) | 3:10 |
 
-Snapshot ID: `MTY2ODIwMjg5NCwwMDAwMDAwMGUwYzY5ZjI0MDI3MjY4NjkxY2FmNjZkMWI0NjMwOTVm`
+Snapshot ID: `MTY2ODIwMjg5NCwwMDAwMDAwMDJiYWM3MGQwNGZlOWJiMjExYjljMzViOTdhZDAzYTg2`

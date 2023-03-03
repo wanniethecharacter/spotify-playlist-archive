@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,131 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,316 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [Azusa](https://open.spotify.com/track/4K7SaRHg1R95srP3qkuIMc) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [KidViz](https://open.spotify.com/artist/0zdB6fxQincSsBOLaTmpEe), [NK4](https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc) | [Azusa](https://open.spotify.com/album/1rZSR3Wyyk7ZhCJLGbvjY9) | 3:16 |
 | 100 | [INSTAGRAM ISN'T GOD](https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [INSTAGRAM ISN'T GOD](https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh) | 3:07 |
 
-Snapshot ID: `MTY3NzIzODU3MiwwMDAwMDAwMDNlM2Q2ODk5Y2U1NGU2YzM5OGE2MmU2NDk4ZWZhY2Iw`
+Snapshot ID: `MTY3NzIzODU3MiwwMDAwMDAwMGQyZTZiNDNkMTE5YTU1ZWFiNWIwZmI1ZjM4ODQ4ZDdl`

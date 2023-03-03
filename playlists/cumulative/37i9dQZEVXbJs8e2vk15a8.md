@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-819 songs - 1 day 21 hr 0 min
+820 songs - 1 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [A I O](https://open.spotify.com/track/5imSFd0G9WtsEfYRpaKHUr) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [A I O](https://open.spotify.com/album/5082P5BtVaz97uET2hhEIM) | 2:58 | 2022-11-09 | 2022-12-01 |
 | [A Little More Love](https://open.spotify.com/track/2g5egJm0qwJPKgpblzIHlI) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Totally Hot](https://open.spotify.com/album/1ueVqnd8GuQ8qi2kyr2uCa) | 3:27 | 2022-08-11 | 2022-08-17 |
 | [A Man Without Love](https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:23 | 2022-04-21 | 2022-06-07 |
-| [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 | 2023-02-24 |  |
+| [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 | 2023-02-24 | 2023-03-03 |
 | [A Pearl](https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:36 | 2022-05-16 | 2022-05-18 |
 | [A POR TODO](https://open.spotify.com/track/5w8dx6u3KGawHWZAJoqyKM) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:46 | 2022-12-07 | 2022-12-14 |
 | [A Tu Lado](https://open.spotify.com/track/4JFQK4fLPGusx5I3fM22qi) | [Entremares](https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU) | [El Amor en 48 Compases](https://open.spotify.com/album/4IjgGpRs1qLHM0WoBDSPwt) | 2:14 | 2022-09-02 | 2022-09-28 |
@@ -133,6 +133,7 @@
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2022-07-28 | 2022-09-15 |
 | [CASE 143](https://open.spotify.com/track/1klq7dgG1Pz0ijci5Pmae1) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB) | 3:11 | 2022-11-01 | 2022-11-16 |
 | [Casi Amor De Verano](https://open.spotify.com/track/3HSVuIkPGY4rdtifvEU3xz) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Casi Amor De Verano](https://open.spotify.com/album/1wiaYWxg54mycc3A5cGRI0) | 3:30 | 2022-04-15 | 2022-04-20 |
+| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-03-02 |  |
 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 | 2022-11-12 | 2022-11-14 |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-04-15 | 2022-05-11 |
 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-05-03 | 2022-05-11 |
@@ -170,9 +171,9 @@
 | [DAME](https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:51 | 2023-02-14 | 2023-02-23 |
 | [Dance Dance Dance Merlina \- Remix](https://open.spotify.com/track/7zZwmQ7EavsTNNxOVmcwF3) | [Dj Bryan Amaya](https://open.spotify.com/artist/7eFK4r3B5nJfkcrZ2lwPlK) | [Dance Dance Dance Merlina \(Remix\)](https://open.spotify.com/album/4IJJGlEerUEw0BJVcibKvm) | 2:26 | 2023-01-24 | 2023-02-01 |
 | [Danza Kuduro \- remix](https://open.spotify.com/track/4u33ZtqKNgCjIx2o8B54PG) | [uinglehg](https://open.spotify.com/artist/0BvLHiztlCrVA69A1fEnLI) | [Danza Kuduro \(remix\)](https://open.spotify.com/album/3Rh56HVn4OIkOvnX6fB4Rn) | 3:35 | 2023-01-10 | 2023-01-22 |
-| [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 | 2022-12-13 |  |
+| [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 | 2022-12-13 | 2023-03-03 |
 | [De ti soy adicto](https://open.spotify.com/track/7kxlNiDNcGSYjXOfMg2uU8) | [FiltraDeusss](https://open.spotify.com/artist/59gWjVJzG3TD9DVJlwdjgV) | [De ti soy adicto](https://open.spotify.com/album/3TWh5oDCJK0iTs52b8anhc) | 3:22 | 2022-12-15 | 2023-02-10 |
-| [DEBI LLEVARTE FLORES](https://open.spotify.com/track/2sgRUvRB8dCGpqxmbOrsMO) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [THE LIFE OF XULO](https://open.spotify.com/album/1UOrzS8OYpnI6I1GYr9ICX) | 3:20 | 2023-01-10 | 2023-02-25 |
+| [DEBI LLEVARTE FLORES](https://open.spotify.com/track/2sgRUvRB8dCGpqxmbOrsMO) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [THE LIFE OF XULO](https://open.spotify.com/album/1UOrzS8OYpnI6I1GYr9ICX) | 3:20 | 2023-01-10 |  |
 | [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 | 2022-11-29 | 2022-12-21 |
 | [Dejame Solo \(Pablo Chile\)](https://open.spotify.com/track/1kosY1ulR7Xnn2q1AGJQhV) | [aa44aaa44aaa](https://open.spotify.com/artist/6bOjk2pxlG2m94yupuLYzx) | [Dejame Solo \(Pablo Chile\)](https://open.spotify.com/album/3bfikovvMEQWjFTCqraiTY) | 3:13 | 2022-04-16 | 2022-04-27 |
 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 | 2022-09-14 | 2022-09-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,276 likes - 38 songs - 2 hr 34 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,280 likes - 38 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 24 | [Sunshine and Laughter Ever After](https://open.spotify.com/track/6TleTGZLXR8fKNPimsBRpI) | [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6) | [The Almond & The Seahorse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0SvvHNQe3e5NFcKKJ0n0As) | 3:52 |
 | 25 | [Walking Through Morning Dew](https://open.spotify.com/track/3raWXOgKflgg36aHQHprjC) | [Shana Cleveland](https://open.spotify.com/artist/5E6dR5oDjhT39zr1YuXRq0) | [Walking Through Morning Dew](https://open.spotify.com/album/27XINFxRhPQDl13ASfltFr) | 4:06 |
 | 26 | [Slate](https://open.spotify.com/track/6wetsjxKwDWJ4Js5hwEgM0) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:23 |
-| 27 | [Casting No Light](https://open.spotify.com/track/3xfAnCcIgqUB6IYh2r7Xf2) | [Noble Rot](https://open.spotify.com/artist/6GzJ0KOAtwItxv4qwKrift), [Colin Newman](https://open.spotify.com/artist/7lm6HTAFVQjYvB0kniM6UN) | [Casting No Light](https://open.spotify.com/album/1pe7kdHiclhuJMywPo3bFf) | 3:39 |
+| 27 | [Casting No Light](https://open.spotify.com/track/3xfAnCcIgqUB6IYh2r7Xf2) | [Noble Rot](https://open.spotify.com/artist/6GzJ0KOAtwItxv4qwKrift), [Immersion](https://open.spotify.com/artist/70rsyhGzfQKX1k8QZDzK1d) | [Casting No Light](https://open.spotify.com/album/1pe7kdHiclhuJMywPo3bFf) | 3:39 |
 | 28 | [Avatars Of Love \(Lindstrøm Remix\)](https://open.spotify.com/track/4ACrGbpGj4LeWckF35Jnsq) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub), [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Avatars Of Love \(Lindstrøm Remix\)](https://open.spotify.com/album/3oY9YfKVsoxQoVKT4jqy6e) | 9:03 |
 | 29 | [New Order T\-Shirt](https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [New Order T\-Shirt](https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw) | 4:56 |
 | 30 | [Plumbers Unite!](https://open.spotify.com/track/5hOeUJK30975PrU6QBb65J) | [Foyer Red](https://open.spotify.com/artist/5wKmTXJpyfGPogzkoyrfGF) | [Plumbers Unite!](https://open.spotify.com/album/16kyQA8GPBrjcBi6gZQ4Jt) | 2:49 |

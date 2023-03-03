@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19?si=bWDtCPlxQWS9LwP2XRgBlw"> Bryann</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,855 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,872 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 69 | [Weird Space](https://open.spotify.com/track/0ZahurG13submevaayPoLL) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Weird Space](https://open.spotify.com/album/3OoNywIFSlXdYHDwANiVHk) | 2:46 |
 | 70 | [Hypnotized](https://open.spotify.com/track/33a48upmr4xnlU6FPPSPPs) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u) | [Feel Everything](https://open.spotify.com/album/2u68w7gKwmk7doL3JIhLif) | 2:26 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDIwMDZkMGQ4NzJkZDRjYzJmNDEyYzE4NjIwZDdlOTU2`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDQyYzVlZDlkM2IwM2E3YmI5NGM2Y2Q0NGNiMzBhNmJk`

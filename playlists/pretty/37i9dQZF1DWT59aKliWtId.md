@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. Jason Isbell and the 400 Unit
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,671 likes - 101 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,704 likes - 101 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 100 | [Getting It Right](https://open.spotify.com/track/7zNFIqmdezDsHbvyQz86Gd) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [CAZIMI](https://open.spotify.com/album/3ujHcA736Nx4Y0WyxEprm7) | 2:50 |
 | 101 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 |
 
-Snapshot ID: `MTY3NzU0NDUyNiwwMDAwMDAwMDQ1MTVlMWYwOWJhOTAyZmQxNjc0NWQ5ZTg3OWQyZTNj`
+Snapshot ID: `MTY3NzU0NDUyNiwwMDAwMDAwMDk1NGIxNzNhM2M5MTQ1Nzg2YjI5NDg5MDhkNzM4YWRm`

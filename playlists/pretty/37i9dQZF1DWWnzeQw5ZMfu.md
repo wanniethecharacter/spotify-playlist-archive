@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,844 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,898 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Maps \- Live In Manchester](https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 4:22 |
 | 100 | [The Power Of Love \- Live à Paris](https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Live à Paris](https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u) | 4:45 |
 
-Snapshot ID: `MTY3MDU4ODcwMCwwMDAwMDAwMGIxOGJhYmUxMjNiOTlmMWY3YjlkMzc3MDRiYzQwNzRm`
+Snapshot ID: `MTY3MDU4ODcwMCwwMDAwMDAwMDUxZGM5Yjc1OWRkOWIwYjU3MjZmZmRlMGZkY2YxZmJl`

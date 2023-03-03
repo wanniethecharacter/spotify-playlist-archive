@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,173 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,719 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 99 | [LăVĭNDŭR](https://open.spotify.com/track/5TfndFjdJY502LOhS4S9wX) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [TheKAMAUU\-CASSETTE: ŭRTH GōLD](https://open.spotify.com/album/4qxxcHeWbjCYTiXVTeHArq) | 4:00 |
 | 100 | [Do 2 Me](https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [Do 2 Me](https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf) | 3:20 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGM0ODBkZDk1N2MxMjcxNjhjOTAxMjBkMjU0NDY0YmU1`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDFiZmI2YjcwN2IyNjI2N2MzMmUyYzYyN2M3YTY4YjFm`

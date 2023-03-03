@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,761 likes - 94 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,794 likes - 94 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 93 | [Last Goodbye](https://open.spotify.com/track/0VnXemLs18D2jcH7wXaySJ) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Turn Around](https://open.spotify.com/album/2A7jWbq8sH2XFwXc9oCxWy) | 3:56 |
 | 94 | [Something To Lose](https://open.spotify.com/track/5f43xdMK3oxObiuFNZRkNq) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 4:48 |
 
-Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMDg2ZGUwNWE2NjcwZjNkMDBlMWZiNDk5NDFmOWEwYWFi`
+Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMGE4YzE5MWFkMDRkZjQzNjI0NDMzM2MzMDY5MzcwMmMx`

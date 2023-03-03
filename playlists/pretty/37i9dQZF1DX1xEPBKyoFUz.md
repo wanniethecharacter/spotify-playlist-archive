@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > The return of Kratos and Atreus has arrived! Listen to their playlist while playing God of War Ragnarök \(rated "M" for "mature".\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,437 likes - 72 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,567 likes - 72 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 71 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
 | 72 | [Rubycon](https://open.spotify.com/track/6oZO8pH4lTDQxjSsfosuDo) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [The Virgin Years: 1974\-1978](https://open.spotify.com/album/2vqzKJO8HeMffaSHxg74ln) | 3:08 |
 
-Snapshot ID: `MTY2ODQ2MjcwMCwwMDAwMDAwMDIzMmNkMDgzMGE3N2ZmN2M3YThhZjYyZDg5ZDFmMzU2`
+Snapshot ID: `MTY2ODQ2MjcwMCwwMDAwMDAwMGQwODMxMTk3NWRkMDU2OThmOTM4OWZmZTZhN2U4YjMx`

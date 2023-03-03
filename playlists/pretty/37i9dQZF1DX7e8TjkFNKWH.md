@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e8TjkFNKWH.md) - [plain]
 
 > The biggest party hits of the 2000s\. Cover: Shakira.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,014 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,294 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e8TjkFNKWH.md) - [plain]
 | 149 | [The Tide Is High \- Radio Mix](https://open.spotify.com/track/1QhSB9L9M5eZQhW4RNOhXK) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Feels So Good](https://open.spotify.com/album/10ZcEPnqq7VPUfGytiVTuw) | 3:26 |
 | 150 | [All Rise](https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:43 |
 
-Snapshot ID: `MTY2MTc4MzI0MCwwMDAwMDAwMDc3Y2M3NGM3MmUzZmUzNDRmNGJhMzhhZDdmNTk1ZmM3`
+Snapshot ID: `MTY3Nzc2MDQ3NCwwMDAwMDAwMDM4MGY0ODg5ODI3MjI0ODU5ZDA1N2ZiODIzYjk0ODZi`

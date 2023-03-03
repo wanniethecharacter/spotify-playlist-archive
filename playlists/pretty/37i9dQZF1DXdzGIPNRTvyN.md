@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,396 likes - 38 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,595 likes - 38 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 37 | [Countryside](https://open.spotify.com/track/1niV98qbCKuViXYebTlyEX) | [Noche Larga](https://open.spotify.com/artist/4QOp3aQnEKX1eFwZiT5U3I) | [Countryside](https://open.spotify.com/album/3P5GsO5dYCjBD7nLXMANPG) | 3:24 |
 | 38 | [The View & Sunday Mornings](https://open.spotify.com/track/4d7JV9GmoojG8Rz9qDMrxy) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XX](https://open.spotify.com/album/6xIXhRLZjOFKZjFknsfVtP) | 2:21 |
 
-Snapshot ID: `MTY3Njk4MjI4MCwwMDAwMDAwMDczMTgyMjFkYWM5NjcxNjE4YmQ3ZWRmZmQ4NmE1YzE5`
+Snapshot ID: `MTY3Njk4MjI4MCwwMDAwMDAwMGQxOTI5NGUyMGQwODAyNWE3NDNiOGU1N2E5OTlkMGNl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,923 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,899 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [O Come All Ye Faithful](https://open.spotify.com/track/3PJWrzeVy0zQIEN1WlyCxo) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [A Merrie Christmas to You](https://open.spotify.com/album/7smYi6E9oA91ZNKeQWZKai) | 3:43 |
 | 100 | [Don't You Know It's Christmas](https://open.spotify.com/track/4WZ51l7xdSwPLQcXeReBfG) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Don't You Know It's Christmas](https://open.spotify.com/album/2mxIzdveUmWmDNedhS7qh4) | 3:37 |
 
-Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMDcyYTRhNDQxNmRmOWNmMzU5ZTE2NjExODliOWIwYjQ5`
+Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMGRkOGU5ZGJlYTVlMzU5ZTQ1OWRiMGYxMjgxOTVkMzQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Digiannia\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,057 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,071 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Rey de la India](https://open.spotify.com/track/1aFe2l0eJVyYppuKG5nplO) | [Pablo Prisma y las Pirámides](https://open.spotify.com/artist/0YFQlX7xBX1SD9nJNbw9EL), [Gúdar](https://open.spotify.com/artist/3LqgCszyAUGMwBSlVO3KKM) | [Rey de la India](https://open.spotify.com/album/1YEWYM0AMugYzZ4ZSjpbGR) | 2:09 |
 | 50 | [Clase Turista](https://open.spotify.com/track/2m1HYnpusyGj81Zw0eAfqX) | [Almera](https://open.spotify.com/artist/5sIlYZFkKF7tZom5y5IrrZ), [El Santanás](https://open.spotify.com/artist/6rFCMzspkSijL5f49P7gyP) | [Clase Turista](https://open.spotify.com/album/2XMFEaurcpsP0FfXLYr9TS) | 3:09 |
 
-Snapshot ID: `MTY3NzY5MzYwMCwwMDAwMDAwMGNjYWY2OGQ1N2VjMTNlZmU5MWE5NjQ1OTE4ZGY0Njkx`
+Snapshot ID: `MTY3NzY5MzYwMCwwMDAwMDAwMGM5Njg2MDUzNTdlZTNjODI0ZjgxZmVlYzExNzJmMzE0`

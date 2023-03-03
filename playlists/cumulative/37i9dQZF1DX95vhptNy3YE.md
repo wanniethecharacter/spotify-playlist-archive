@@ -4,7 +4,7 @@
 
 > Orochi e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-259 songs - 14 hr 48 min
+260 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Clone](https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Clone](https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v) | 3:18 | 2022-08-08 | 2022-09-03 |
 | [Contagem](https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH) | [G.AZINN](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Contagem](https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA) | 3:29 | 2022-09-30 | 2023-02-25 |
 | [Contratempo / Ainda É Cedo Pra Dizer Bye Bye / Duvido \- Ao Vivo](https://open.spotify.com/track/5YOrWou8ElTsu0XzaUeuca) | [Matheusinho](https://open.spotify.com/artist/5fFaxiwdqZlsazN9qMyQMB), [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Rolezin Do Matheusinho \(Ao Vivo / Vol\. 2\)](https://open.spotify.com/album/1CBMT5KQIq9Sz5NUw6cDI7) | 4:59 | 2023-01-16 | 2023-02-11 |
+| [Controllah \(feat\. MC Bin Laden\)](https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 2:30 | 2023-03-02 |  |
 | [conversa com uma menina branca](https://open.spotify.com/track/47bTjCYOsrSZyP6tPbFRB6) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 1:40 | 2022-10-14 | 2022-11-15 |
 | [CPX Ta Tega](https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [CPX Ta Tega](https://open.spotify.com/album/5xMRRNucy1RGzuJwwJbCcG) | 2:22 | 2022-03-18 | 2022-07-27 |
 | [Criminal](https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:48 | 2023-01-09 | 2023-02-04 |
@@ -266,6 +267,6 @@
 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 | 2022-06-24 | 2022-12-03 |
 | [X1](https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:08 | 2022-06-24 | 2023-01-10 |
 | [X6](https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Buccy](https://open.spotify.com/artist/0j4YvpvQYySHXXpVgqyPqT) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:53 | 2023-01-16 |  |
-| [Ôa, Ôa / Eu e Ela \- Ao Vivo](https://open.spotify.com/track/3tGIecze8tsnyqFFYKQQ5w) | [Paulinho](https://open.spotify.com/artist/66WmQFOJlgpllywrKRV2w1) | [Quintal do Paulinho \(Ao Vivo\)](https://open.spotify.com/album/6dzclBldqxofNXRR759ILD) | 3:47 | 2023-02-14 |  |
+| [Ôa, Ôa / Eu e Ela \- Ao Vivo](https://open.spotify.com/track/3tGIecze8tsnyqFFYKQQ5w) | [Paulinho](https://open.spotify.com/artist/66WmQFOJlgpllywrKRV2w1) | [Quintal do Paulinho \(Ao Vivo\)](https://open.spotify.com/album/6dzclBldqxofNXRR759ILD) | 3:47 | 2023-02-14 | 2023-03-03 |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2324543,
+  "num_followers": 2325302,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDI5YmM3YWU0MDg4OWViY2I2Y2I1MTc4YWNmNzMwMDYw",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGZiN2Q4MWM2MGM4MGFmNDZmZTc1MzQwZTc3YjQ4MDY1",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -856,6 +856,10 @@
       },
       "artists": [
         {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
           "name": "Dimitri Vegas",
           "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
         },
@@ -866,10 +870,6 @@
         {
           "name": "Nicole Scherzinger",
           "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         }
       ],
       "duration_ms": 121987,

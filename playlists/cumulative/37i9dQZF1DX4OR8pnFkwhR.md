@@ -4,14 +4,14 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ヤングスキニー / <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-709 songs - 1 day 19 hr 59 min
+710 songs - 1 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#情とは](https://open.spotify.com/track/4Lf4diEdzh2jwa9TnXxxjE) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [\#情とは](https://open.spotify.com/album/6cC8UvmqdRY7BuTwsksak6) | 4:50 | 2023-02-28 |  |
 | [0927](https://open.spotify.com/track/2JcFTzarFRNj9BFdo0T2rW) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [夕暮れに歌う](https://open.spotify.com/album/7K1IgJV7PyhiFRNMzK0AmT) | 4:51 | 2022-10-04 | 2022-10-06 |
 | [0927](https://open.spotify.com/track/7wCH4EnCS0mafVPVDACOMG) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [Yugure ni Utau](https://open.spotify.com/album/3K1hdtnC3tvwEDoZQ4Y0mX) | 4:51 | 2022-10-04 | 2022-11-02 |
-| [1096](https://open.spotify.com/track/7Ld2efllkAfXdSOkAqPNwu) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [1096](https://open.spotify.com/album/2Cf2vmP3ffvd5n1Qo1UFNY) | 5:45 | 2023-02-01 |  |
+| [1096](https://open.spotify.com/track/7Ld2efllkAfXdSOkAqPNwu) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [1096](https://open.spotify.com/album/2Cf2vmP3ffvd5n1Qo1UFNY) | 5:45 | 2023-02-01 | 2023-03-03 |
 | [13度目のクリスマス](https://open.spotify.com/track/0aiUaGVbPcGhZ1cbRktDP8) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 3](https://open.spotify.com/album/5w9R0OwS9LWAHuGqUHOdPS) | 3:39 | 2022-02-17 | 2022-03-09 |
 | [14](https://open.spotify.com/track/4J7SimjJzZWLM6XFhsWNT3) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Born Again](https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc) | 3:21 | 2022-02-17 | 2022-03-09 |
 | [17](https://open.spotify.com/track/0ZfMlo2gcxF5NYmRQL8ajQ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [17](https://open.spotify.com/album/20tcwL8xq1cY2AjFfkA6v9) | 3:22 | 2022-10-25 | 2022-10-27 |
@@ -193,6 +193,7 @@
 | [kabin](https://open.spotify.com/track/4jUywzQdvP3CJjJ4BfeDif) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0iRuZp1ClTJ1HIKPihHv8s) | 3:27 | 2022-07-28 | 2023-02-02 |
 | [kaeruganaita](https://open.spotify.com/track/5bnapoAO0zeRr3PImFCywz) | [Ad balloon](https://open.spotify.com/artist/7bAPJzoHMgsEvbPRY0g35G) | [Eighteen](https://open.spotify.com/album/3ECzUzQZ8mjos4TW7ELL1T) | 7:37 | 2023-02-26 |  |
 | [KANDEN \(feat\. ゆるふわギャング\)](https://open.spotify.com/track/0PYB0GpSmN26QVXtvdzMv4) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [YC2.5](https://open.spotify.com/album/6Zn3tfvVOXgR7UoQodijM0) | 2:51 | 2022-08-07 | 2022-09-06 |
+| [Karenai](https://open.spotify.com/track/2WnLirfXdCS0tcSNoHUZKp) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Bandit](https://open.spotify.com/album/4kgeOVKTBb6Ng0Cz4ehinv) | 2:21 | 2023-03-02 |  |
 | [Katte ni Shiyagare!](https://open.spotify.com/track/6oflgnyu1822rgT6HxE6WC) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Katte ni Shiyagare!](https://open.spotify.com/album/4KwSJf3KTVSoksSYT1asB1) | 6:12 | 2022-07-28 | 2022-08-24 |
 | [Kawaiko Chan](https://open.spotify.com/track/1u4XelqBZV7Wco7VUZoi9U) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Takaramono](https://open.spotify.com/album/19KMuhlGVX3PTQPM1iqKFe) | 2:27 | 2023-02-07 | 2023-03-01 |
 | [Kid](https://open.spotify.com/track/5TljUbh99FhqjMn95ZKYro) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/59qykfEGbzmPotBj4HHH9L) | 3:30 | 2023-02-07 | 2023-02-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,119 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,085 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [Christmas in July](https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Christmas in July](https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2) | 3:59 |
 | 100 | [Silent Night](https://open.spotify.com/track/1yVqUIoimqzLXYALDLYpOt) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Silent Night](https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI) | 3:25 |
 
-Snapshot ID: `MTY3MzM2NDI1MywwMDAwMDAwMGY2MTQ2Y2QyYzI0M2E2NmQ3YzE4ZGMwNTVmZDJiYzcw`
+Snapshot ID: `MTY3MzM2NDI1MywwMDAwMDAwMGI3MzVhZTllYzZiMWNjZTdmOWY3OTllZTdkNjgzNGM5`

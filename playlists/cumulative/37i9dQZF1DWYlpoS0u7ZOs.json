@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The new wave of rock from the UK & Ireland. Cover: Hyphen",
+  "description": "The new wave of rock from the UK & Ireland. Cover: SPIDER",
   "name": "shockwave",
   "tracks": [
+    {
+      "album": {
+        "name": "3 Pints",
+        "url": "https://open.spotify.com/album/5lY91fkQLEuwoiHw3l2dbo"
+      },
+      "artists": [
+        {
+          "name": "the big sad",
+          "url": "https://open.spotify.com/artist/2xfAVL8ZxOxXdCeD4SrY3D"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "3 Pints",
+      "url": "https://open.spotify.com/track/4wGgBmAL1y5F2mnaogC3kB"
+    },
     {
       "album": {
         "name": "3AM",
@@ -41,6 +59,24 @@
     },
     {
       "album": {
+        "name": "AMERICA'S NEXT TOP MODEL",
+        "url": "https://open.spotify.com/album/5ikznb8ESMJCEskirCSFGl"
+      },
+      "artists": [
+        {
+          "name": "SPIDER",
+          "url": "https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175491,
+      "name": "AMERICA'S NEXT TOP MODEL",
+      "url": "https://open.spotify.com/track/2bZeCw3SEcY0uMq2bdhFGc"
+    },
+    {
+      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/5xAMwGNFraXPC04VF3PtRX"
       },
@@ -70,7 +106,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 117216,
       "name": "Anne-Marie",
       "url": "https://open.spotify.com/track/11YJcHoDWyNQHifnp4DPXs"
@@ -106,7 +142,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 181714,
       "name": "Back and Forth",
       "url": "https://open.spotify.com/track/5dn10JRAyRJQ4CwChvH36u"
@@ -311,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/37E7LCPfCt35D3pmJzSwIR"
+      },
+      "artists": [
+        {
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190813,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/754aVVHqjB1LywcCLaRoZP"
+    },
+    {
+      "album": {
         "name": "fall out",
         "url": "https://open.spotify.com/album/6TR6863vKfyOFsbiKjQtkG"
       },
@@ -419,6 +473,24 @@
     },
     {
       "album": {
+        "name": "fuzz",
+        "url": "https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166266,
+      "name": "fuzz",
+      "url": "https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG"
+    },
+    {
+      "album": {
         "name": "Commander Trainwreck",
         "url": "https://open.spotify.com/album/3pgkvZHrpEawDd8GKrG1xu"
       },
@@ -502,7 +574,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 251000,
       "name": "Great Grief",
       "url": "https://open.spotify.com/track/0mzrTxRfEN2jjP9CCHVY5A"
@@ -592,7 +664,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 157756,
       "name": "Hull Sky",
       "url": "https://open.spotify.com/track/3KTFknLMGHEH7yaxCjDrS7"
@@ -923,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/19fVAXhJh7V6M9u21CsGvM"
+      },
+      "artists": [
+        {
+          "name": "Hometruths",
+          "url": "https://open.spotify.com/artist/1gFSdRSFZ7W75S9S7CzCEB"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218499,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/0SCX0m4QOZtoBX1kmhrsR0"
+    },
+    {
+      "album": {
         "name": "Love Rush",
         "url": "https://open.spotify.com/album/72Q9DnfCrWdrY8A95mXXrr"
       },
@@ -956,6 +1046,42 @@
       "duration_ms": 240744,
       "name": "Lovedrunk",
       "url": "https://open.spotify.com/track/0oNTXmnhv5NFSScucHbki8"
+    },
+    {
+      "album": {
+        "name": "One Shade Darker",
+        "url": "https://open.spotify.com/album/5uc01QHmHEhlokwE2kYdDB"
+      },
+      "artists": [
+        {
+          "name": "Priestgate",
+          "url": "https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206360,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/45Nwq28AzOXpRve87hbDCk"
+    },
+    {
+      "album": {
+        "name": "Madman",
+        "url": "https://open.spotify.com/album/3z6fcOFkkVttWJO4urKHKY"
+      },
+      "artists": [
+        {
+          "name": "PENGSHUi",
+          "url": "https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232679,
+      "name": "Madman",
+      "url": "https://open.spotify.com/track/0claZhFBLs49ZIyzN9BovS"
     },
     {
       "album": {
@@ -1006,7 +1132,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 143576,
       "name": "Meal Deal",
       "url": "https://open.spotify.com/track/5qKqepzQPaif5QKoZNsiOU"
@@ -1049,7 +1175,7 @@
     },
     {
       "album": {
-        "name": "MOTION SICKNESS!",
+        "name": "MOTION SICKNESS!!",
         "url": "https://open.spotify.com/album/4OYBMMpF6R3OagG6vGcj5g"
       },
       "artists": [
@@ -1100,6 +1226,24 @@
       "duration_ms": 171010,
       "name": "Neighbours",
       "url": "https://open.spotify.com/track/6PpGAVANQ6CZ5OSIwA3oBj"
+    },
+    {
+      "album": {
+        "name": "No Constraint",
+        "url": "https://open.spotify.com/album/1asjlY8VeCEXNOuBHS3bhh"
+      },
+      "artists": [
+        {
+          "name": "Public Body",
+          "url": "https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182830,
+      "name": "No Constraint",
+      "url": "https://open.spotify.com/track/48x8I9dFZjWn7bJf5j2nnT"
     },
     {
       "album": {
@@ -1186,7 +1330,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 146865,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS"
@@ -1294,7 +1438,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 241473,
       "name": "Ruin Your Night",
       "url": "https://open.spotify.com/track/0gWPthWTDVcV4cBCyuaYxV"
@@ -1532,7 +1676,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 161702,
       "name": "Tell Me Where It Hurts",
       "url": "https://open.spotify.com/track/5XKoMPxmsPtmVnlzwMfsWa"
@@ -1684,6 +1828,24 @@
       "duration_ms": 209106,
       "name": "Unchained",
       "url": "https://open.spotify.com/track/2CBvjn9Nqxb2zjhKFz6cEV"
+    },
+    {
+      "album": {
+        "name": "Voice in Your Head",
+        "url": "https://open.spotify.com/album/0vnaNn4Yw8gTH8nwhUOreU"
+      },
+      "artists": [
+        {
+          "name": "Shit Present",
+          "url": "https://open.spotify.com/artist/29HZSUDm7U6n2QNMKQY73k"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "Voice in Your Head",
+      "url": "https://open.spotify.com/track/7z60kiKN6OTVTCXinnnXUD"
     },
     {
       "album": {
@@ -1842,7 +2004,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 191250,
       "name": "Worthless",
       "url": "https://open.spotify.com/track/7krNN0KhqMixmg6WtW7bJq"

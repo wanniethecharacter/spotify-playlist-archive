@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,452 likes - 80 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,758 likes - 80 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 79 | [Sunray Junonia](https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Kosie](https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [Sunray Junonia](https://open.spotify.com/album/6vJzBismVQ09YEfkGQg9k9) | 5:00 |
 | 80 | [Glide](https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Glide](https://open.spotify.com/album/4gKKENDoymYmpMqSNW18co) | 3:12 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDU2ZWJlOGQ4NjU1Y2VmYzMwYzg2Yjg2MDc2NTAxYTdl`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGM4Yjc3ODkyZGQyNjA0NjFlNzBjNjE1ZDAyYTc5NTY5`

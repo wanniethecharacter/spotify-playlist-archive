@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,370 likes - 114 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,375 likes - 114 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [How Would You Feel \(Paean\)](https://open.spotify.com/track/1lyNFzcCl9kXCof6GV32fV) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [How Would You Feel \(Paean\)](https://open.spotify.com/album/6m47Bv7lQlUWNZ5W6N4XjJ) | 4:40 |
 | 114 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
 
-Snapshot ID: `MTY3NjYzODcyNiwwMDAwMDAwMDVhMzI2ZmEwMTQ2MWIyMWY1YjdkYzBkNGZiNzgwYjA4`
+Snapshot ID: `MTY3NjYzODcyNiwwMDAwMDAwMGUwYTczMmEzMzMyNTQ5OGIwNWJkNmNlN2RkNTkzZTVh`

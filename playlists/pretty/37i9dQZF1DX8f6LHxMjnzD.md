@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,750 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,825 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Bella](https://open.spotify.com/track/3iSgrKma1x5hoMrY3HL4bY) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Bella](https://open.spotify.com/album/1Mvex53YBzYORFFs8dCF6N) | 1:44 |
 | 40 | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/track/50IvZsOmgJvxjpELTWFaMa) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/album/4zfoWbjbK5uWArDGCbElnp) | 3:10 |
 
-Snapshot ID: `MTY3NzUzNjIzNSwwMDAwMDAwMDRmNDVhYjYxZWE5OTFkZWY0ODJlMjU4N2ZiNWU3Yzhk`
+Snapshot ID: `MTY3NzUzNjIzNSwwMDAwMDAwMDgwNzA2ZjhlMDMyMmQ4MmVhY2M2ODYxNGVlMWRkMTk0`

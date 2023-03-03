@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Sweet Pill
 
-90 songs - 4 hr 50 min
+91 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Tommy's Car](https://open.spotify.com/track/5uDuc1fGIpT8I8tCOu8WS4) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [For Nasal Use Only](https://open.spotify.com/album/3mPS4bR33MhYjjYnGxK48o) | 3:23 | 2022-11-25 |  |
 | [Two Beers In](https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Those Days Are Gone](https://open.spotify.com/album/0yhwDk0EqhcbTE5k0cqs1K) | 2:15 | 2022-11-25 |  |
 | [Walk Over My Grave](https://open.spotify.com/track/4sK75yxCOj0K5NMijKgZCa) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [is this what i look like?](https://open.spotify.com/album/4u11pDt06OqbpvUoauvrSH) | 3:19 | 2022-11-25 |  |
+| [Wednesday, Forever???](https://open.spotify.com/track/1tQ6SShGUGtdj6dVh1jAiW) | [Fox Teeth](https://open.spotify.com/artist/76VMGsrr08CYw4BD3Vl4He) | [Wednesday, Forever???](https://open.spotify.com/album/0F1sRZIASVPx7RCXJHdZGS) | 3:15 | 2023-03-02 |  |
 | [What I'm Feeling](https://open.spotify.com/track/34A5x3oPuiysfF2DD2YAvy) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 4:02 | 2022-11-25 |  |
 | [Where You Been](https://open.spotify.com/track/0QpFMcUua64JDUl5QIh0NI) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Where You Been](https://open.spotify.com/album/27uhCm23rY7MEVQEfbLwKN) | 3:25 | 2022-11-25 | 2022-12-21 |
 | [White Trash Millionaire](https://open.spotify.com/track/4Vt4vfcqBtOT9MT9GtWiXP) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Sweet Tooth](https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL) | 2:38 | 2022-11-25 | 2023-02-12 |

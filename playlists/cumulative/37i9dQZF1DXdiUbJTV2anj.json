@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Addictions",
+        "url": "https://open.spotify.com/album/4Cfplm19oERf2huyJwaKGJ"
+      },
+      "artists": [
+        {
+          "name": "Evilgloom",
+          "url": "https://open.spotify.com/artist/1cJ8mgIFVHt86l9J90pkBa"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Anathema",
+      "url": "https://open.spotify.com/track/1oLHIkHzNipzkouaBClSdl"
+    },
+    {
+      "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/75ytZn0fccZEIZP7dY4csy"
       },
@@ -362,7 +380,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 207815,
       "name": "Burying Brightness",
       "url": "https://open.spotify.com/track/3nyfxtCg9RD30h3aTnbVFW"
@@ -460,7 +478,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 237640,
       "name": "Chlorine Tears",
       "url": "https://open.spotify.com/track/554OCcyd1Q3O7bDXNdRZjS"
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 284571,
       "name": "Gaddaar",
       "url": "https://open.spotify.com/track/3Kj2M9gRU1Lwf5eiNjBtBp"
@@ -1191,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Into My Ignorance",
+        "url": "https://open.spotify.com/album/5bsCD3espS9ASeKv1tiC4B"
+      },
+      "artists": [
+        {
+          "name": "Making Blind Eyes See",
+          "url": "https://open.spotify.com/artist/1K3FeAWa6Rp0ZJmNMceaqz"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "Into My Ignorance",
+      "url": "https://open.spotify.com/track/4jw0Zicq5fdRoPFHwg3Cog"
+    },
+    {
+      "album": {
         "name": "It's Art",
         "url": "https://open.spotify.com/album/3HB1H5mkWhIVBA4E5PBGgV"
       },
@@ -1242,6 +1278,24 @@
       "duration_ms": 195306,
       "name": "K.M.B.",
       "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
+    },
+    {
+      "album": {
+        "name": "Koaitra",
+        "url": "https://open.spotify.com/album/28QBnbAKQQnvYjE1leuV6n"
+      },
+      "artists": [
+        {
+          "name": "LohArano",
+          "url": "https://open.spotify.com/artist/1niZm9pb4k3oHZbKYyNYZP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171480,
+      "name": "Koaitra",
+      "url": "https://open.spotify.com/track/3uEGLg1TsIVvyzDQpuNkje"
     },
     {
       "album": {
@@ -1389,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Madman",
+        "url": "https://open.spotify.com/album/3z6fcOFkkVttWJO4urKHKY"
+      },
+      "artists": [
+        {
+          "name": "PENGSHUi",
+          "url": "https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232679,
+      "name": "Madman",
+      "url": "https://open.spotify.com/track/0claZhFBLs49ZIyzN9BovS"
+    },
+    {
+      "album": {
         "name": "MALIZIA",
         "url": "https://open.spotify.com/album/7rtrTAtDq8S4vlxL2FpQdv"
       },
@@ -1436,7 +1508,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 311249,
       "name": "Mirror Glue",
       "url": "https://open.spotify.com/track/0fEWlqJr3lJXEXmLk7KFOD"
@@ -1668,7 +1740,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 193976,
       "name": "Permanent Rebellion",
       "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
@@ -1758,7 +1830,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 207620,
       "name": "RATATATA",
       "url": "https://open.spotify.com/track/69MHdGzxzt4GMliiXqpWn4"
@@ -2108,7 +2180,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 224328,
       "name": "Still Sinking",
       "url": "https://open.spotify.com/track/2HwEi11MYPuQY1rXBrUb7n"
@@ -2126,7 +2198,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 160000,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/5L6GZ6mFm4q0ZM4hhE8JJt"
@@ -2252,7 +2324,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 236850,
       "name": "The Dearly Beloved",
       "url": "https://open.spotify.com/track/65ISG3z0biln1mB8wakFEi"
@@ -2677,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "Weaponize This",
+        "url": "https://open.spotify.com/album/6Ju8h0MO81dfkW43SO76Og"
+      },
+      "artists": [
+        {
+          "name": "DEAR-GOD",
+          "url": "https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160600,
+      "name": "Weaponize This",
+      "url": "https://open.spotify.com/track/5DLeSJtjxhoNQRUm2zCWyk"
+    },
+    {
+      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/38hr6lK2Up3QabqUEUEhKx"
       },
@@ -2692,6 +2782,24 @@
       "duration_ms": 211573,
       "name": "Why",
       "url": "https://open.spotify.com/track/4Dgro3nLadAhwTIgNsNt57"
+    },
+    {
+      "album": {
+        "name": "Why Do We Fall?",
+        "url": "https://open.spotify.com/album/0bOPfOC2jAWJnnyJmRKsCZ"
+      },
+      "artists": [
+        {
+          "name": "Ways.",
+          "url": "https://open.spotify.com/artist/1CMHBL8Fwery02fixGOUTf"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244785,
+      "name": "Why Do We Fall?",
+      "url": "https://open.spotify.com/track/4lTypHFJlOykJPbrHaMLSC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Daniel Leggs
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,765 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,785 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 49 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Emmeline Gracie](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 |
 | 50 | [Don't Tell My Mom](https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:09 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGFjOThmMjI4ZGIzYTg3NzNlZTZjMTEyODZkZTQ2Mjhm`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDQxOWFkZDdhYTU4ZGMxNmRhZDNmZGNiYTgzNzA1Y2Ex`

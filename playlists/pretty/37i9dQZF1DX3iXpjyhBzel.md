@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Julia Vitória
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,417 likes - 90 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,842 likes - 90 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 89 | [Meu Jesus \- Ao Vivo](https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Jesus \(Ao Vivo\)](https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu) | 8:40 |
 | 90 | [Canção do Céu \- Ao vivo](https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Canção do Céu \(Ao Vivo\)](https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS) | 8:19 |
 
-Snapshot ID: `MTY3NzI0MDE1NiwwMDAwMDAwMDgzNGNiNThiYTg1Y2FhMmQ1YWE5N2Q5NzBhNTYzNTVi`
+Snapshot ID: `MTY3NzI0MDE1NiwwMDAwMDAwMDJiNmU5ZGEwOWY0MWJjNTNmOWM5YTRlODFlMDA3ODFm`

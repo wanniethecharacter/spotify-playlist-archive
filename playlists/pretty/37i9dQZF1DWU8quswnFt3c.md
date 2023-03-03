@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Co\-curated by a number of our ambassadors for International Women’s Day\. Cover: Jamala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,277 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,575 likes - 81 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 78 | [¿Y Tú Qué Esperas?](https://open.spotify.com/track/3KtD9UUoMQx5K2tLmXnNSQ) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [¿Y Tú Qué Esperas?](https://open.spotify.com/album/75eQDaOHwg0zCmZwN9koDI) | 3:20 |
 | 79 | [Já Me Deixou](https://open.spotify.com/track/19MzA3RuQzw4GmAEPVhZbK) | [Beatriz Da Conceição](https://open.spotify.com/artist/65eHtjZey5UkRE7pNFJSTc) | [Estrelas da Música Portuguesa](https://open.spotify.com/album/43BNU5CRBFE4EKbM4Avzhd) | 3:08 |
 | 80 | [Solos](https://open.spotify.com/track/6wbq1d4rH4JgOpesSVofCQ) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Solos](https://open.spotify.com/album/5xRA95jI1g2qR8xTmlcN6D) | 3:34 |
+| 81 | [Things Aren't Nice In Paradise](https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz) | 3:11 |
 
-Snapshot ID: `MTY3NzcxNzI3NywwMDAwMDAwMDE1NDhmMzI4MThlYjA3Y2VjODFlNTA4NDIzZDIxZThm`
+Snapshot ID: `MTY3Nzc1MDkzNCwwMDAwMDAwMDg1ODhmYTllZTQ5ZjAzOWY1YWU5ZWE2NjIzMWRjZjZl`

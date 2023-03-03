@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,031 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,038 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [Come My Way](https://open.spotify.com/track/15rWCjxhuKiWgHLzuzduKn) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [Hopeless Romantic Riddim](https://open.spotify.com/album/49JiNiTZIyxzCeGhoc2yBs) | 3:04 |
 | 80 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 |
 
-Snapshot ID: `MTY3NjAzMDAxNCwwMDAwMDAwMDZiYzljZTE2NmQxNzEyOGQzMDQyYjA0NjM0MzcwNDM1`
+Snapshot ID: `MTY3NjAzMDAxNCwwMDAwMDAwMGM2MTI0YWEyM2IzYTk4MTg4MWUwOGNjMzNhN2Y5ZGMy`

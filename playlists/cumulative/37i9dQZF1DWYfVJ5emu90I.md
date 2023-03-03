@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-80 songs - 3 hr 48 min
+81 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [SPEED UP](https://open.spotify.com/track/5jAmU8qZIEU2U6nGpgKszx) | [Jimmy Johns](https://open.spotify.com/artist/39arl4QmjqYbuq7GzoaTLj), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Lil Cotetsu](https://open.spotify.com/artist/7jzZKM2YWqoqz9m593uDEj) | [Aliveness](https://open.spotify.com/album/22K0VLMEIUt3FOaKlfsJyM) | 2:11 | 2022-11-19 |  |
 | [Step Into The Arena](https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Step Into The Arena](https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec) | 3:46 | 2022-11-19 |  |
 | [Stoic](https://open.spotify.com/track/4cmqpvqVlJxPMPiQYLEQXX) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [Minchanbaby](https://open.spotify.com/artist/1gbTvzWZ32tJXVmjgYPK2f), [KLOOZ](https://open.spotify.com/artist/35uGJqYaiI3VvbKh5XeKx4), [BACHLOGIC](https://open.spotify.com/artist/2ywZEDFSCGI0zuycGdCwQ9) | [19](https://open.spotify.com/album/50eJphAb6hdTsV26JrjsGW) | 2:49 | 2022-11-19 |  |
+| [Suckerzzz](https://open.spotify.com/track/4BCiSi8MZuNBqKUGuaE6TW) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [PARALYZD](https://open.spotify.com/album/6Rjx1Cz64BL0DC6kSsgMqk) | 3:33 | 2023-03-02 |  |
 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 | 2022-12-06 |  |
 | [SUSUME](https://open.spotify.com/track/4s4PTfYrmItlGNVvZQNele) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SUSUME](https://open.spotify.com/album/3cnuslDMuQj8rnaeGMSOgr) | 3:18 | 2022-11-19 | 2022-12-12 |
 | [Swervin](https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Swervin](https://open.spotify.com/album/3lnRrmdoFss71XpNS5j6d9) | 2:51 | 2022-11-19 |  |

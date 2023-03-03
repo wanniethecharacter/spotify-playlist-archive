@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 153524,
       "name": "all we got",
       "url": "https://open.spotify.com/track/2PO1NahelfBM15cIqxOMHi"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 192133,
       "name": "Best Damn Day",
       "url": "https://open.spotify.com/track/0MgfP0e6VkyQXSvjfNZ7bM"
@@ -257,6 +257,28 @@
     },
     {
       "album": {
+        "name": "Burning Daylight",
+        "url": "https://open.spotify.com/album/5FdecV9YIP62njz9sgfyWK"
+      },
+      "artists": [
+        {
+          "name": "Mia Nicolai",
+          "url": "https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ"
+        },
+        {
+          "name": "Dion Cooper",
+          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Burning Daylight",
+      "url": "https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep"
+    },
+    {
+      "album": {
         "name": "Big Thing",
         "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
       },
@@ -322,7 +344,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 296000,
       "name": "Coyotes",
       "url": "https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm"
@@ -614,7 +636,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 162078,
       "name": "Hang On",
       "url": "https://open.spotify.com/track/28PvEJuegs01Cs1zElNScW"
@@ -867,6 +889,24 @@
     },
     {
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248733,
+      "name": "Ice Cream Man.",
+      "url": "https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy"
+    },
+    {
+      "album": {
         "name": "Cuts & Bruises",
         "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
       },
@@ -1044,6 +1084,24 @@
       "duration_ms": 136084,
       "name": "Lost Love",
       "url": "https://open.spotify.com/track/10uL8zMFDZVfB9voq9PQPB"
+    },
+    {
+      "album": {
+        "name": "From Nothing To A Little Bit More",
+        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171280,
+      "name": "Lucky Bean",
+      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
     },
     {
       "album": {
@@ -1460,6 +1518,24 @@
       "duration_ms": 174748,
       "name": "Special (feat. SZA)",
       "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
+    },
+    {
+      "album": {
+        "name": "Spoiler Alert",
+        "url": "https://open.spotify.com/album/1IAHly3YU8Z1i9BOQyJPyA"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Crooner",
+          "url": "https://open.spotify.com/artist/3dsyPsXzfTDfXC3dUOw3xq"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226026,
+      "name": "Spoiler Alert",
+      "url": "https://open.spotify.com/track/14p2o2hh7wJuSoosGZsljx"
     },
     {
       "album": {

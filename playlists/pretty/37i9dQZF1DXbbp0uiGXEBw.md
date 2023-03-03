@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,139 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,218 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Yêu Thầm](https://open.spotify.com/track/7dJVE53hGAX9TcKH0abFic) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [TDK](https://open.spotify.com/artist/30x6rCQm4CuabePneJLGj7) | [Yêu Thầm](https://open.spotify.com/album/36CB3L3Wjw0VfgYx4xSqfa) | 4:12 |
 | 50 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 |
 
-Snapshot ID: `MTY3NzYwMzYwMCwwMDAwMDAwMDg3NTczMTY4MzQyNzBkOGRiMTI4YTBlMGE5ODIyMzVk`
+Snapshot ID: `MTY3NzYwMzYwMCwwMDAwMDAwMDM2OTZhYmMzODg2YmFkYjMwYzk0ZTNlY2ViODQwNWFl`

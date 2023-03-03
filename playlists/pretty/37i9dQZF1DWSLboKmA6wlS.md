@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: OABNITHI\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,528 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,526 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 79 | [GONE WRONG](https://open.spotify.com/track/0fMUKWa2f8k08C63fvgTS0) | [PANNAGUS](https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG) | [GONE WRONG](https://open.spotify.com/album/31ipuIIvVmKmatUi1toIPc) | 3:51 |
 | 80 | [เจอ เจ็บ จบ feat\. Chogun](https://open.spotify.com/track/6wGnte8IAtu9fxKcuVF2RP) | [SoulMade Sound](https://open.spotify.com/artist/27Yrj4QN7SEDL7mkrUPMVW), [Chogun](https://open.spotify.com/artist/6LXjIF1XHsFkB2bDfDsISG) | [เจอ เจ็บ จบ](https://open.spotify.com/album/3sh6h4nhXsd7IciQStpe7B) | 3:51 |
 
-Snapshot ID: `MTY3NzIzNDAwMiwwMDAwMDAwMGFhM2MyM2EzOTRjOGI0NWQ1MWMzYWQ0ZDg3ZDA5ZDhl`
+Snapshot ID: `MTY3NzIzNDAwMiwwMDAwMDAwMGY3NDk3YzdhZGYwNjE0N2MzMDJjMmU3NjE1N2RkY2U3`

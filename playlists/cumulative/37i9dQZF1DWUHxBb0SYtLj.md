@@ -4,7 +4,7 @@
 
 > Una speciale selezione curata insieme a Emma per la Giornata Internazionale della Donna! \#IWD
 
-512 songs - 1 day 2 hr 2 min
+513 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [La mia paranoia](https://open.spotify.com/track/59zTBgtr0HzpbjIvqICmrA) | [Femme](https://open.spotify.com/artist/1Wv02rPDQANubNqrSqNcZW) | [La mia paranoia](https://open.spotify.com/album/0frWjkqdhYENWkuQqDZFXF) | 2:46 | 2022-10-06 | 2022-12-01 |
 | [Lacreme](https://open.spotify.com/track/2u06zfITzLEtglB2Jkr2pa) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Lacreme](https://open.spotify.com/album/69MYsY05VjQEjxW14MJ7mM) | 3:07 | 2022-07-05 | 2022-08-03 |
 | [Ladro](https://open.spotify.com/track/2K6lcl1cqM1U1WvwTjb1Y3) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Nello spazio che resta](https://open.spotify.com/album/746EqxjUBO8HOB8ckvLDMU) | 3:06 | 2022-05-03 | 2022-06-03 |
+| [Lalala](https://open.spotify.com/track/2wdDtaUDH2okKZhB89qKtS) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Lalala](https://open.spotify.com/album/6l3wtti5FvkeiUpjgVyqy9) | 2:51 | 2023-02-28 |  |
 | [Lama d'argento](https://open.spotify.com/track/0Qy1P9wU4jbahp8v0X0Dmb) | [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Lama d'argento](https://open.spotify.com/album/5L7VlGYr1fxz3BNHvubzl2) | 3:29 | 2022-07-05 | 2022-09-07 |
 | [Le macchine](https://open.spotify.com/track/65X8Xiqfuh2JaWiEAUMfab) | [Martina Conti](https://open.spotify.com/artist/4zMn13NR1bFfh70QixTEvD) | [Le macchine](https://open.spotify.com/album/3UVVGqTTItQiH4LvIW9oju) | 3:10 | 2023-01-03 | 2023-02-09 |
 | [Leave Me!](https://open.spotify.com/track/7tksisk1ssSStbFblL2AKn) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Leave Me!](https://open.spotify.com/album/4wynn6RSL8CVbRBniEarXt) | 2:54 | 2022-02-02 | 2022-04-06 |

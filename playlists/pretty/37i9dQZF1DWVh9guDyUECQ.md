@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,235 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,361 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Fronteamos Con Amor](https://open.spotify.com/track/6wiYHlQnl1IBe0Djrg2B1c) | [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Fronteamos Con Amor \(Christian Ponce \- Odanis BSK \- Ander Bock\)](https://open.spotify.com/album/2Kk0D2bP1Xc7VZ8s3F4SP5) | 3:42 |
 | 100 | [Picheo](https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Picheo](https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul) | 4:00 |
 
-Snapshot ID: `MTY2MTU3NjY4NSwwMDAwMDAwMDA5YmMwNzg3ZmRhZTY1ZTNmZmYxY2Q1ZTRkN2IwN2Qy`
+Snapshot ID: `MTY2MTU3NjY4NSwwMDAwMDAwMGRkZDFjODFmNjU4MmE3NGYxMWY2NGE3NjYzNzY5Mjg4`

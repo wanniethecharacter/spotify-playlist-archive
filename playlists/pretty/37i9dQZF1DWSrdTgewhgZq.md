@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Only the best Hip\-hop, only non\-stop hits\. Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,629 likes - 91 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,595 likes - 91 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 | 90 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
 | 91 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 |
 
-Snapshot ID: `MTY3NzQ3NzIyNiwwMDAwMDAwMGJhNjUxOGI4MjRjNDEzNTg3OTM4OTI1NTQ0MmE1MDMy`
+Snapshot ID: `MTY3NzQ3NzIyNiwwMDAwMDAwMGVlNjRjZjZmODk1NWI4Mjk5MTM3MzRmNjU1NzRlYzky`

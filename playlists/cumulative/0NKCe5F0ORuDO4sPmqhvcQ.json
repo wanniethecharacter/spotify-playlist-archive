@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Baby from Atlanta",
+        "url": "https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc"
+      },
+      "artists": [
+        {
+          "name": "Jimi Somewhere",
+          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Baby from Atlanta",
+      "url": "https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq"
+    },
+    {
+      "album": {
         "name": "BACK ONLINE",
         "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
       },
@@ -2888,6 +2906,24 @@
       "duration_ms": 177637,
       "name": "Forget About Me",
       "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
+    },
+    {
+      "album": {
+        "name": "Four Tet Is My Godmother",
+        "url": "https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300200,
+      "name": "Four Tet Is My Godmother",
+      "url": "https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT"
     },
     {
       "album": {

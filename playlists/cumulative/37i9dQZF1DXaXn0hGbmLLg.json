@@ -2843,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "Smartlap Is Niet Dood",
+        "url": "https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174967,
+      "name": "De Vergiffenis",
+      "url": "https://open.spotify.com/track/112BxBbiiPs82A4B99v18s"
+    },
+    {
+      "album": {
         "name": "De Wereld Staat Stil",
         "url": "https://open.spotify.com/album/7mArfmPaRCM1T22PL1go4f"
       },

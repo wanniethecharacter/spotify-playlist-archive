@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Abhi The Nomad
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,165 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,259 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 38 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 |
 | 39 | [Pudgy \(with Lil Uzi Vert\)](https://open.spotify.com/track/4oebzB09U8UoYtNnS6vTjt) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:15 |
 | 40 | [Super Saiyan](https://open.spotify.com/track/2GkjleoffoARDsF0Wv7SS3) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 2:43 |
-| 41 | [Tru Tru](https://open.spotify.com/track/5INKRQu8tEdsrogxlFpHUW) | [MVW](https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Tru Tru](https://open.spotify.com/album/3dxKl7mGJbsjhpHoiFl2ha) | 2:47 |
+| 41 | [Tru Tru](https://open.spotify.com/track/5INKRQu8tEdsrogxlFpHUW) | [MVW](https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Tru Tru](https://open.spotify.com/album/3dxKl7mGJbsjhpHoiFl2ha) | 2:47 |
 | 42 | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/track/2qUPj0b3PYLJJoscQvhMUr) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/album/16yQV8L8zdacH4xEjbODda) | 3:12 |
 | 43 | [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 |
 | 44 | [Pay It No Mind](https://open.spotify.com/track/4sV3lFXdxg0xDtmt3IwRYr) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Pay It No Mind](https://open.spotify.com/album/6mFhdt0e4DjyQ9U7lLqvGV) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [MINUTE FOREVER](https://open.spotify.com/track/2TTowxYr4R1mapPbdZban7) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [RUFFS](https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh) | 2:46 |
 | 100 | [WASTE NO TIME](https://open.spotify.com/track/0jF9AZAaMv49jsy3InMUjQ) | [AJRadico](https://open.spotify.com/artist/6n7llPn2HLKS375ZyJQ2VR) | [WASTE NO TIME](https://open.spotify.com/album/6e5f6M6FQLhi8pSgxazQ1a) | 3:00 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGEzYzg5MGM1ZmYxOGRlMzFmYzEzNDQ1MDA0YmU3ZTJi`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGU0NDgwYWEyNzA4OWM5NzY3NWY0NzdjODBjYmEwMmZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > The best indie covers\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,011 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,035 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 74 | [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 |
 | 75 | [Just Like Heaven](https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 3:26 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDA2YmFkMDI1MDAyZmM4ZDVlZTU3ODlkOGJmYzQwNWVk`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGQyNGU2YWE4NmU4NjRmOTBmMzg0MjM3NDg0YjE2Mjg2`

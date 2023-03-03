@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,793 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,919 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 99 | [Fluid](https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Fluid](https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH) | 4:25 |
 | 100 | [What The Wind Knows](https://open.spotify.com/track/48aCBwMYM5rfUZlN26KVRF) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Unified](https://open.spotify.com/album/0TKu3C41fCcADO3eSVOtoR) | 3:34 |
 
-Snapshot ID: `MTY3NzU5NDk2MiwwMDAwMDAwMDBjZTQzZjAzYWU0YzY5NzNjNmVkYjA0OTM4NzcyZTk3`
+Snapshot ID: `MTY3NzU5NDk2MiwwMDAwMDAwMDIxNWY2ZjAyYzcxNzE0NmYwZmJmYWRiMDJhMjRhNmRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: MINOVA , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,553 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,770 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 23 | [Lola](https://open.spotify.com/track/7h3MyaF9PwcTRsoTugynP6) | [Albaitil Ashwai](https://open.spotify.com/artist/6Xb2llJHXVw4OBdXGcAfX7) | [Lola](https://open.spotify.com/album/3gjyvRAkNSf8u4eSBfCLmM) | 3:16 |
 | 24 | [Pears](https://open.spotify.com/track/3jETj9f1MNRF1Dsna9qfXj) | [Mission To The Moon](https://open.spotify.com/artist/6mPXYU5tU46bVYpiXYdxM7) | [Pears](https://open.spotify.com/album/7mYWOIIQ1n4Jzj5PRzno6x) | 3:36 |
 | 25 | [103](https://open.spotify.com/track/5zqSgg5YkPUdzE5BpZV4x1) | [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [103](https://open.spotify.com/album/0UmHC2jX7B5oIb64bDkPh0) | 1:46 |
-| 26 | [QAAR A](https://open.spotify.com/track/0ipud6EnSxKYX27PDU9lXM) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [QAAR A](https://open.spotify.com/album/0r0oe1UN516mz9vAh3uu5m) | 4:00 |
+| 26 | [QAAR A](https://open.spotify.com/track/0Eh0KuFNOQ0gPilhJzZRXz) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [QAAR A](https://open.spotify.com/album/6mCMQFns9e0g2civC8khcB) | 4:00 |
 | 27 | [Banda](https://open.spotify.com/track/1MPM80AcWKknvhIJL8nZON) | [DADO](https://open.spotify.com/artist/3JZEJB0wz9iw5yJGqfgKsg) | [Banda](https://open.spotify.com/album/2357p5LMBTSEQYjFdXshIn) | 2:15 |
 | 28 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [TheKiddEast](https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 |
 | 29 | [I DON'T MIND](https://open.spotify.com/track/2yeO5NYsvOJxMSpjpR6LwJ) | [Groovy Naj](https://open.spotify.com/artist/6d2Syl3W8TINc6MSCoQc0W) | [I DON'T MIND](https://open.spotify.com/album/2bMbRYeZN47qNdQy9ofTQk) | 3:19 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 50 | [Back to you](https://open.spotify.com/track/334zuvClv7JYENjupg71GT) | [THE SVNH](https://open.spotify.com/artist/5uPlfGiZu46QlnaDYkcbAm) | [Back to you](https://open.spotify.com/album/7umWTAON78uAbqlZlVLuFO) | 3:05 |
 | 51 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 |
 
-Snapshot ID: `MTY3NzcwMDY3OCwwMDAwMDAwMGQ4MjY2OWVmNWVmMmYwNzg5YjExNjg5ZTcwOWRiNTFl`
+Snapshot ID: `MTY3NzcwMDY3OCwwMDAwMDAwMDVjODYxNjBmYzA5MmZjZmM5MTUwY2M3MmI4ZTBlZGVi`

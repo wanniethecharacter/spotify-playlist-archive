@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 
 > Music to reduce insomnia and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,521 likes - 282 songs - 13 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,520 likes - 282 songs - 13 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -291,4 +291,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 | 281 | [Covering the Sun](https://open.spotify.com/track/1IUe9CBv83sg56rTorIVLp) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Ivory Clouds](https://open.spotify.com/album/4nYrgdNmIyEbayYyjdmppr) | 3:13 |
 | 282 | [Centered](https://open.spotify.com/track/2tSUPdYj7CcdiQHrHgqmjZ) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Centered](https://open.spotify.com/album/6EUZkB98CMFqyKQ1KsdJ8s) | 3:03 |
 
-Snapshot ID: `MTY3NzI2MTg4MiwwMDAwMDAwMGUwN2QxYTRhMGU0YjI0MjY0MDhhOTZjN2ZmOWM0MjI1`
+Snapshot ID: `MTY3NzI2MTg4MiwwMDAwMDAwMGVkMGNhM2NmYWZlYTJkNDk0MmQzNDU5MmY4ZWExNjY4`

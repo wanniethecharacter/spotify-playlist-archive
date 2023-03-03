@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,345 likes - 94 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,396 likes - 94 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [Slow](https://open.spotify.com/track/5QyHXXW3lUlVeoapWCXW2Y) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Slow](https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l) | 2:40 |
 | 94 | [Aint Nobody](https://open.spotify.com/track/6pgdA6IkrWeDL5A4RsgbZJ) | [EHI](https://open.spotify.com/artist/7MlrqHRXsNIKRC17Dv5a0v) | [Aint Nobody](https://open.spotify.com/album/3XZZMtIe6rGbp1SzK1NEBH) | 2:59 |
 
-Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMDIzNjU5OTA5YTc0NTg4MTliMDJjZmYxNzMyMmYzZTA0`
+Snapshot ID: `MTY3NTk4MzYwMCwwMDAwMDAwMDA0NzY0ZWFjZjFkZDc5ZmI3MmM2MjM3YTAyNjQyZWRl`

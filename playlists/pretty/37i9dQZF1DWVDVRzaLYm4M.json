@@ -1,12 +1,12 @@
 {
   "description": "The quiet Beatle. Listen to all his essential tracks.",
-  "num_followers": 183445,
+  "num_followers": 183506,
   "original_name": "This Is George Harrison",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUwNTgwNiwwMDAwMDAwMDVmZTk2YjkxYWJkOTQ2MjdhNDExMzlkMWI5NDk1Mzkx",
+  "snapshot_id": "MTY3NzUwNTgwNiwwMDAwMDAwMDQ0YjQ0MzY0Y2U3ZjcyZGRiZmQ5MzhjM2M5YmNlN2I2",
   "tracks": [
     {
       "added_at": "2021-06-11 17:37:33",
@@ -203,7 +203,7 @@
     {
       "added_at": "2021-06-11 17:37:33",
       "album": {
-        "name": "Living in the Material World (2014 Remaster)",
+        "name": "Living in the Material World",
         "url": "https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os"
       },
       "artists": [
@@ -213,7 +213,7 @@
         }
       ],
       "duration_ms": 215701,
-      "name": "Give Me Love (Give Me Peace on Earth) - 2014 Remaster",
+      "name": "Give Me Love (Give Me Peace on Earth)",
       "url": "https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk"
     },
     {
@@ -555,7 +555,7 @@
     {
       "added_at": "2021-06-11 17:37:33",
       "album": {
-        "name": "Living in the Material World (2014 Remaster)",
+        "name": "Living in the Material World",
         "url": "https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os"
       },
       "artists": [
@@ -565,13 +565,13 @@
         }
       ],
       "duration_ms": 330364,
-      "name": "Living in the Material World - 2014 Remaster",
+      "name": "Living in the Material World",
       "url": "https://open.spotify.com/track/0lkAVvpjQk9iTckvxRo4AV"
     },
     {
       "added_at": "2021-06-11 17:37:33",
       "album": {
-        "name": "Dark Horse (2014 Remaster)",
+        "name": "Dark Horse",
         "url": "https://open.spotify.com/album/4NnA3aRQY4dFLbhNV9LQAE"
       },
       "artists": [
@@ -581,7 +581,7 @@
         }
       ],
       "duration_ms": 233724,
-      "name": "Dark Horse - 2014 Remaster",
+      "name": "Dark Horse",
       "url": "https://open.spotify.com/track/5KezUBlM6tavamVSO4MTMN"
     },
     {
@@ -619,7 +619,7 @@
     {
       "added_at": "2021-06-11 17:37:33",
       "album": {
-        "name": "Extra Texture (2014 Remaster)",
+        "name": "Extra Texture",
         "url": "https://open.spotify.com/album/3Vfv1ycDVgpEf9S9vuXsyC"
       },
       "artists": [
@@ -629,7 +629,7 @@
         }
       ],
       "duration_ms": 223504,
-      "name": "You - 2014 Remaster",
+      "name": "You",
       "url": "https://open.spotify.com/track/6wADbpmrLxUWygJcJsbww8"
     },
     {
@@ -731,7 +731,7 @@
     {
       "added_at": "2021-06-11 17:37:33",
       "album": {
-        "name": "Extra Texture (2014 Remaster)",
+        "name": "Extra Texture",
         "url": "https://open.spotify.com/album/3Vfv1ycDVgpEf9S9vuXsyC"
       },
       "artists": [
@@ -741,7 +741,7 @@
         }
       ],
       "duration_ms": 272840,
-      "name": "Can't Stop Thinking About You - 2014 Remaster",
+      "name": "Can't Stop Thinking About You",
       "url": "https://open.spotify.com/track/3TxLHeMtU04LxaEIgyBoDk"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,140 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,276 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 99 | [Chuvas De Verão \- Remastered 2006](https://open.spotify.com/track/3qhFhiaQrfkejwjSFqjfmR) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetano Veloso \- 1969](https://open.spotify.com/album/1piwOhCQ92jysdChq3IRz9) | 2:48 |
 | 100 | [Eu Sambo Mesmo](https://open.spotify.com/track/3AqxAq1Z6lZ4BkdvFtEGDH) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: A Night of Music](https://open.spotify.com/album/0p1JYHX01uvOBF02nfYpy6) | 4:08 |
 
-Snapshot ID: `MTY2NTcxODA5MCwwMDAwMDAwMDgwMjVmMDE2ZGI1NmMzN2NlMDE5OTk4NDM5ZWU4ZTU5`
+Snapshot ID: `MTY2NTcxODA5MCwwMDAwMDAwMGFkZjJkMTgwYjQyZWQ5YzE5MjZjMTM1ZjRjMTBhZTNl`

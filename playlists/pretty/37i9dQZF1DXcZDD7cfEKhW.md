@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,376,301 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,376,803 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [Discoteca \(Deorro Remix\)](https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Discoteca \(Deorro Remix\)](https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj) | 3:10 |
 | 100 | [Turn Up The Sunshine \- PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/3wR5OccDugBm5Od2NYcMaO) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Turn Up The Sunshine \(PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/0TJtS7EZReyGKsyXn08eOc) | 3:40 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDU1ZTUwYTFlYTM1ZGNiYWJlZmE2MzdhMzBmZTc5NjZk`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGQ5MmM5MTZiZjZiMDNiNWU3ZTcxZTNiMDgzZTU1NjMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 
 > Classic drinking singalongs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,605 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,682 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 54 | [Weile Waila](https://open.spotify.com/track/64z9LKRYWUSO8JSrVDyyLY) | [Ronnie Drew](https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2) | [Definitivo Canzoni da Pub](https://open.spotify.com/album/3t2hKKngI5tbpFmO17h7ty) | 2:24 |
 | 55 | [Seven Old Ladies](https://open.spotify.com/track/1cd92x1tprkEPp1bxaLuCq) | [Foster & Allen](https://open.spotify.com/artist/53UCUopHRBowldiFYqYdzA) | [Irish Drinking Songs \- 50 Pub Favorites from Ireland](https://open.spotify.com/album/4Fvg4bfehK0QOsnHRkSMVQ) | 4:34 |
 
-Snapshot ID: `MTY0NzQ0MzI4NCwwMDAwMDAwMDJmMTFlZDBlOGY1ODIyNWU1MmUzM2I2NDNmYzljOGJi`
+Snapshot ID: `MTY0NzQ0MzI4NCwwMDAwMDAwMDQzNTdjMTc5NTU0NjNhNWVmMzQ3M2M0ZTEwM2VkM2Zi`

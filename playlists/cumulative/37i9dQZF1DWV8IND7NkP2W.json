@@ -3693,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "harukaze",
+        "url": "https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "harukaze",
+      "url": "https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK"
+    },
+    {
+      "album": {
         "name": "Here, There",
         "url": "https://open.spotify.com/album/3Nk7pV5iFdtLeplMvGe8dr"
       },
@@ -5776,6 +5794,24 @@
       "duration_ms": 152000,
       "name": "montage",
       "url": "https://open.spotify.com/track/1xnY2Avak2cLTJ0Zpyk1Qe"
+    },
+    {
+      "album": {
+        "name": "Mood Ring",
+        "url": "https://open.spotify.com/album/7sjSK2BzkjZphjdMmkhiYJ"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219840,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/1szbxIruSyCYMja99f2OGW"
     },
     {
       "album": {
@@ -8822,7 +8858,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 96000,
       "name": "Streets of Kyoto",
       "url": "https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ"
@@ -8840,7 +8876,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 125130,
       "name": "stricta",
       "url": "https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c"

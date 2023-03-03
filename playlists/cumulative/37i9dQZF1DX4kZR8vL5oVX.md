@@ -4,7 +4,7 @@
 
 > Les femmes montent le son : playlist réalisée en collaboration avec Jain \(Miley Cyrus, Nicki Minaj, Beyoncé, Dolly Parton & Kate Bush\), à l'occasion de la journée internationale des droits des femmes.
 
-699 songs - 1 day 12 hr 35 min
+700 songs - 1 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All I Want](https://open.spotify.com/track/4ULbFe9TkGcHbK8nkDnHL6) | [Roseland](https://open.spotify.com/artist/00D0fRKvSoYVOiyMwCfuZn) | [Unsaid Words](https://open.spotify.com/album/3RP3YVrZNX1aUaJzUttj1O) | 3:55 | 2022-04-05 | 2022-05-04 |
 | [Alma](https://open.spotify.com/track/5IiCvmwFpc192ptotRvWyz) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Alma](https://open.spotify.com/album/055WIVbb2nzpBl5JNZx9he) | 3:40 | 2022-04-05 | 2022-05-04 |
 | [Almodovar](https://open.spotify.com/track/6FJH3I476biUvEjQYsZbaY) | [SARA SOFIA](https://open.spotify.com/artist/1gpoxohUsapx6qpKkyOCWL) | [Almodovar](https://open.spotify.com/album/1X6JmfZc1G4H27JhmCCVlq) | 2:50 | 2022-10-04 | 2022-11-09 |
+| [Alors alors](https://open.spotify.com/track/0JlZavAbSw9EOtVKQL4WMz) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Alors alors](https://open.spotify.com/album/07XX7k8Hl8YiWJD3MywmnK) | 2:45 | 2023-02-28 |  |
 | [Altaïr](https://open.spotify.com/track/3MqUS4BDyK2p4L1ydqXRYT) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k) | [Altaïr](https://open.spotify.com/album/5GZSqUuKkETaKYOtEBSwD4) | 3:46 | 2022-10-04 | 2022-11-09 |
 | [Amore Amore](https://open.spotify.com/track/7LTTm6nsCntagnq476M9Kr) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Amore Amore](https://open.spotify.com/album/4bxhxooxxl1BqjmgNKNz2A) | 3:20 | 2022-01-05 | 2022-02-02 |
 | [Amour démoniaque](https://open.spotify.com/track/1Yku5BZem0tIlKOtlkaWac) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Amour démoniaque](https://open.spotify.com/album/4e9epNLQovzDZ6E5kmETAs) | 3:00 | 2022-03-07 | 2023-01-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,915 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,923 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 99 | [Naked \(Feat\. SINCE, Roh Yun Ha\)](https://open.spotify.com/track/20SnjTFsnEWVYtqUEB7EYx) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 4:04 |
 | 100 | [SLASH \(Feat\. BIGONE\)](https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud) | [DO HAN SE](https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [BLAZE](https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ) | 2:11 |
 
-Snapshot ID: `MTY3NzIyODY5NCwwMDAwMDAwMGEwZGYzNDcxNmM4MDIzMDYzZjI2MDQ3MzhkZTcxY2U2`
+Snapshot ID: `MTY3NzIyODY5NCwwMDAwMDAwMDExOGQwMzIzNzVhZjNjNWVjMTBkOWM4MTA0MDU4MDlj`

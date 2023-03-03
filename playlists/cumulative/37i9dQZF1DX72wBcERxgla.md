@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-245 songs - 14 hr 8 min
+252 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Evermore Street](https://open.spotify.com/track/4D5p92Sg5NATIW22l1msgN) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Evermore Street](https://open.spotify.com/album/1FOjdvtbdxKAAqB3FQ5Jg2) | 3:19 | 2023-02-02 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/6nDBKDiLUbrRFe2Wyghmrb) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Everything Happens To Me](https://open.spotify.com/album/7tr6GwglHf1iIz81pe1j8p) | 3:46 | 2022-04-12 | 2022-11-25 |
 | [Everything I Love](https://open.spotify.com/track/2AzamFQR3qc6SK12Dt97WD) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Everything I Love](https://open.spotify.com/album/20C4KS94fNfd8H1w0OWNek) | 2:28 | 2022-06-22 |  |
+| [Falling In Love With Love](https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [Falling In Love With Love](https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL) | 2:58 | 2023-03-02 |  |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2022-04-12 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 | 2022-12-01 |  |
 | [For All We Know](https://open.spotify.com/track/46YHnrTI0ZmXBOclUDsbI3) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:14 | 2023-01-05 |  |
@@ -84,9 +85,12 @@
 | [Good Night](https://open.spotify.com/track/2UatfwTngd99ugjekcg8Kw) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Good Night](https://open.spotify.com/album/0N3Zd0I4F8iTTzorbht0xH) | 2:15 | 2022-11-10 |  |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Midnight Solo Sessions](https://open.spotify.com/album/5G2e2LCTC6MFixt6amtciV) | 2:20 | 2022-04-12 |  |
 | [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-23 |  |
+| [Henry Street](https://open.spotify.com/track/2JIH2zpgozNspbN2vVva9G) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Henry Street](https://open.spotify.com/album/2zjI2uq9viHy7dx1m9VBez) | 2:22 | 2023-03-02 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/3DgjObIndXAIIsTM4YdroG) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 2:37 | 2022-04-12 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [How Long Has This Been Going On?](https://open.spotify.com/album/4enSlE24XGXXLkrGW7lxZ1) | 2:51 | 2022-06-22 |  |
+| [I Apologize](https://open.spotify.com/track/2QgJAZCJb9s1RxEybOaeYJ) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [If I Love Again](https://open.spotify.com/album/0J8hyD8Uc9tdHDgDiQwGxx) | 3:09 | 2023-03-02 |  |
 | [I Can't Get Started \(With You\)](https://open.spotify.com/track/0vpZnqfPR7ztK1iYUdRI4P) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [I Can't Get Started \(With You\)](https://open.spotify.com/album/61gEEgRzs3Rl0QB7X4lk7D) | 4:39 | 2022-08-10 |  |
+| [I Could Write A Book](https://open.spotify.com/track/66eaAKE675VWRnj8EVeDQk) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [I Could Write A Book](https://open.spotify.com/album/1Jn2DXdP0Ci1UBVjfFpZPF) | 3:16 | 2023-03-02 |  |
 | [I Cover the Waterfront](https://open.spotify.com/track/4nMtlRwN03BaHf7fhIk6Ne) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Someday My Prince Will Come](https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv) | 3:13 | 2022-06-14 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/0ZuEKQKcR0Zm53Bhb2wgLO) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [I Fall In Love Too Easily](https://open.spotify.com/album/5xh9QdbDD89FmJ44R1CA0e) | 2:27 | 2022-04-12 |  |
 | [I Get Along Without You Very Well](https://open.spotify.com/track/7k6uPozwxbT4juqC2ZOlOH) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [I Get Along Without You Very Well](https://open.spotify.com/album/6Eqs5mzsIjiZF8OQx7ufnB) | 3:05 | 2022-12-22 |  |
@@ -130,6 +134,8 @@
 | [Lover Man](https://open.spotify.com/track/57fzmVpvr8OGQ3BkfqUexq) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Steve Kuhn: Mostly Ballads](https://open.spotify.com/album/2xVes2Z1pyjUToAH1xFWdY) | 4:10 | 2022-04-12 | 2022-06-01 |
 | [Lovers](https://open.spotify.com/track/6flWLUPwiaN9FkPm6CVzZz) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Lovers](https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS) | 2:27 | 2022-12-01 |  |
 | [Maiden Voyage](https://open.spotify.com/track/6VOiZnNwb9ivWc4IkLpRNY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Maiden Voyage](https://open.spotify.com/album/5NsD5YrOufu6fD9Zxj4dsw) | 2:35 | 2022-04-26 | 2022-08-31 |
+| [Medium Rare](https://open.spotify.com/track/1mWMtQM3o3QG3xXedUagtM) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [Medium Rare](https://open.spotify.com/album/4L9BcTppmoi7AFbqUEfin5) | 2:59 | 2023-03-02 |  |
+| [Melancholia](https://open.spotify.com/track/6lMI9WKqbIwxnumenEI0Iz) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Melancholia](https://open.spotify.com/album/4qJEPS5KuL1a7ynbgifQXV) | 3:26 | 2023-03-02 |  |
 | [Memories of You](https://open.spotify.com/track/0eu43TeVxnxOqHj3nBVus2) | [Kay Lohman](https://open.spotify.com/artist/4RAH5bMhyvkgartz47YVcy) | [I Get Along Without You Very Well](https://open.spotify.com/album/3TA20v06xIbqbfTqIG48do) | 2:45 | 2022-04-12 |  |
 | [Misty](https://open.spotify.com/track/4Q7xH2yDR5grUNWulnE8U9) | [Melvin Brooke](https://open.spotify.com/artist/6xsdPHexcY4NhLtZ7colcq) | [Misty](https://open.spotify.com/album/6mSvYvkESutbofwdQ59pM3) | 2:44 | 2023-01-19 |  |
 | [Misty](https://open.spotify.com/track/12lnRDf58tQ4qvmaEROE5r) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:29 | 2022-04-12 | 2023-01-20 |
@@ -165,7 +171,7 @@
 | [Peace](https://open.spotify.com/track/5TbGgNC1yyV9NGEQqA9myW) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Peace](https://open.spotify.com/album/47srmsx8SpAb0YQhA9fLva) | 3:13 | 2022-04-12 |  |
 | [Pennies From Heaven](https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [Pennies From Heaven](https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0) | 4:29 | 2022-04-12 |  |
 | [Piece Peace](https://open.spotify.com/track/4q7cOAjvYHUTQGBf1RRuNE) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Piece Peace](https://open.spotify.com/album/3OMxn6aJ8hZhqecNYE9nkV) | 2:48 | 2023-01-12 |  |
-| [Playing for Keeps](https://open.spotify.com/track/7vKu6hdtAkVRMYCrTIlOwm) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [Playing for Keeps](https://open.spotify.com/album/7eL9bqXcG2pESJMAuwSulr) | 2:20 | 2022-04-12 |  |
+| [Playing for Keeps](https://open.spotify.com/track/7vKu6hdtAkVRMYCrTIlOwm) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [Playing for Keeps](https://open.spotify.com/album/7eL9bqXcG2pESJMAuwSulr) | 2:20 | 2022-04-12 | 2023-03-03 |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/6LP9BZW28pX0k7jimKZHwI) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Polka Dots And Moonbeams](https://open.spotify.com/album/40pHngJ4KeyHmdnvr7GV21) | 3:45 | 2022-04-12 | 2022-06-29 |
 | [Polka Dots and Moonbeams](https://open.spotify.com/track/7sVXqVvhTvRi8f9jdvh4Z0) | [Enzo Green](https://open.spotify.com/artist/5gP1SO0cGYBFIJZy7VG88p) | [I Fall in Love Too Easily](https://open.spotify.com/album/0RbnjRxCrpynyhiBsjf7Kj) | 4:08 | 2022-04-12 |  |
 | [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2022-04-12 |  |
@@ -200,6 +206,7 @@
 | [Star Eyes](https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Star Eyes](https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I) | 3:40 | 2022-09-29 |  |
 | [Stardust](https://open.spotify.com/track/4fX6BFRXtPC5knEwEIV4Zf) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [Stardust](https://open.spotify.com/album/6gFHzsqCH6ZJvGxHHnFeRL) | 5:03 | 2022-04-12 |  |
 | [Stars Fell On Alabama](https://open.spotify.com/track/509cZqCtvC6it9bKbuD0hP) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Stars Fell On Alabama](https://open.spotify.com/album/0K9xMpUcX0Yg3HAcb1IDLO) | 4:21 | 2022-06-28 | 2023-01-13 |
+| [Stay Here Tonight](https://open.spotify.com/track/1TBHU4rckRwhSTxklMUXhb) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Polka Dots and Moonbeams](https://open.spotify.com/album/609qfgCjjErut4a17FegjN) | 2:48 | 2023-03-02 |  |
 | [Stella By Starlight](https://open.spotify.com/track/3xQ8oqFUTLFQ9dNEq2SMOP) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Stella By Starlight](https://open.spotify.com/album/2XjCNA2ejNe4in6ynwcHQM) | 1:55 | 2022-09-06 |  |
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2022-04-12 |  |
 | [Tangerine](https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Tangerine](https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ) | 2:39 | 2023-01-05 |  |

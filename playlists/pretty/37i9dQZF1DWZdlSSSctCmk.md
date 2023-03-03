@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 
 > A mediterranean sundown soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,812 likes - 100 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,882 likes - 100 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 99 | [Mitamiyo](https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS) | [Mendes & Mendes](https://open.spotify.com/artist/4Bh3bsbrB7fnChSdZZEHvf) | [Mendes & Mendes](https://open.spotify.com/album/4UqjJ3DpAQRa78hPNJhqB4) | 5:29 |
 | 100 | [Through Your Hands Love Can Shine \- Turbotito Remix](https://open.spotify.com/track/1GXk8hH4VHZcUlNx7PpVUv) | [Giorgio Tuma](https://open.spotify.com/artist/4JiOObzTWLYWJwH65qgfFK), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [Through Your Hands Love Can Shine \(Turbotito Remix\)](https://open.spotify.com/album/59LOmRApH3tOESVQc0GujE) | 5:49 |
 
-Snapshot ID: `MTY3NjY0MDQwNCwwMDAwMDAwMDNiNzczNzNmMzJjZTU2M2M0NDgzOWIwNDE5MzIxZDQ0`
+Snapshot ID: `MTY3NjY0MDQwNCwwMDAwMDAwMDY2N2UwZTM5YzMwNDQzMzUxOWI1NzRjYTk4NzI2ZDMx`

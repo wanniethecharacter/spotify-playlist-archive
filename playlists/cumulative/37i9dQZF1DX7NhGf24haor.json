@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Discover the newest Hardstyle tracks. Cover: Sound Rush",
+  "description": "Discover the newest Hardstyle tracks. Cover: Sub Zero Project",
   "name": "Hardstyle Adrenaline!",
   "tracks": [
+    {
+      "album": {
+        "name": "3x Boom",
+        "url": "https://open.spotify.com/album/4GbvcpJB4n0hXSSTpNsAp2"
+      },
+      "artists": [
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188515,
+      "name": "3x Boom",
+      "url": "https://open.spotify.com/track/6OYfbND22tUr1cD8YGXnk5"
+    },
     {
       "album": {
         "name": "Absolution",
@@ -134,6 +152,32 @@
       "duration_ms": 236963,
       "name": "Another Dimension",
       "url": "https://open.spotify.com/track/70W405l4nsAKg1Acd1P43o"
+    },
+    {
+      "album": {
+        "name": "Apologize",
+        "url": "https://open.spotify.com/album/2BIcvpImPWZgqa2mi791Ti"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "BassWar & CaoX",
+          "url": "https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX"
+        },
+        {
+          "name": "HARRY",
+          "url": "https://open.spotify.com/artist/3KlBgpZwfiteVPV1KHzcfw"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/5AdpdaoHXbQtV3kjWYUMe4"
     },
     {
       "album": {
@@ -783,6 +827,28 @@
     },
     {
       "album": {
+        "name": "Do Or Die (Refract Remix)",
+        "url": "https://open.spotify.com/album/0gjLOJHeQvXUKxOs47AYdr"
+      },
+      "artists": [
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        },
+        {
+          "name": "Refract",
+          "url": "https://open.spotify.com/artist/41lWiT1FGPMHKu8DEoOMGm"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189845,
+      "name": "Do Or Die - Refract Remix",
+      "url": "https://open.spotify.com/track/3jWSTMDUKMgnbSKmrb199T"
+    },
+    {
+      "album": {
         "name": "DONE B4 U BLINK",
         "url": "https://open.spotify.com/album/5Zmnr6DF2h6nPSTzM9NIZt"
       },
@@ -973,6 +1039,28 @@
     },
     {
       "album": {
+        "name": "Executioner Style (Vertile Remix)",
+        "url": "https://open.spotify.com/album/2fPXkXyxGIMB3at284UlBu"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179631,
+      "name": "Executioner Style - Vertile Remix",
+      "url": "https://open.spotify.com/track/3fFnDiT03PwYVTlWGOcTsY"
+    },
+    {
+      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/1cYXPySEhgusZvhAwRhfBr"
       },
@@ -1028,6 +1116,24 @@
       "duration_ms": 220645,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/3phSHfzvq5SnwwBoJ6DbpI"
+    },
+    {
+      "album": {
+        "name": "FEEL DA RHYTHM",
+        "url": "https://open.spotify.com/album/6gqeUEvINGiNdFa3HPxq0Y"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175343,
+      "name": "FEEL DA RHYTHM",
+      "url": "https://open.spotify.com/track/0EiNtlxdjsMQerpKoCc1mu"
     },
     {
       "album": {
@@ -2493,6 +2599,28 @@
     },
     {
       "album": {
+        "name": "Memory (feat. Justin J. Moore)",
+        "url": "https://open.spotify.com/album/4agBrxS1RJAARpQlwwdKeF"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225290,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/5EmCgQS7FJM4IcXla6IqDb"
+    },
+    {
+      "album": {
         "name": "Middle Of The Night",
         "url": "https://open.spotify.com/album/2poXFyU38a94TRDrzL7jgx"
       },
@@ -2697,6 +2825,24 @@
     },
     {
       "album": {
+        "name": "Nothing To Lose",
+        "url": "https://open.spotify.com/album/7kWLLzgXrt0YeyZh40lekj"
+      },
+      "artists": [
+        {
+          "name": "Crude Intentions",
+          "url": "https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Nothing To Lose",
+      "url": "https://open.spotify.com/track/3Q29TeMT3X5QJdhSnvKMXH"
+    },
+    {
+      "album": {
         "name": "NRG OVERLOAD",
         "url": "https://open.spotify.com/album/4xzs97Rgelf8TAec8xvoz5"
       },
@@ -2818,6 +2964,28 @@
       "duration_ms": 238621,
       "name": "Open Up Your Heart",
       "url": "https://open.spotify.com/track/2klFM38gNMzVJdgGGfskhE"
+    },
+    {
+      "album": {
+        "name": "Orkaan",
+        "url": "https://open.spotify.com/album/3hHBzAmWzlTk3r31AFJ3G0"
+      },
+      "artists": [
+        {
+          "name": "Hans Glock",
+          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
+        },
+        {
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234330,
+      "name": "Orkaan",
+      "url": "https://open.spotify.com/track/5vkpDNHxBCfczedfVx3g0t"
     },
     {
       "album": {
@@ -3188,6 +3356,28 @@
       "duration_ms": 171428,
       "name": "Rock Tha Party",
       "url": "https://open.spotify.com/track/2y4MGW3z5eMAZTXm7Q0T7V"
+    },
+    {
+      "album": {
+        "name": "Rock Ya Body",
+        "url": "https://open.spotify.com/album/4v049zLFBybwgXuzmbDEWo"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Demi Kanon",
+          "url": "https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157554,
+      "name": "Rock Ya Body",
+      "url": "https://open.spotify.com/track/32i7TSghFHjonoXfKPNRZ7"
     },
     {
       "album": {
@@ -4333,6 +4523,28 @@
     },
     {
       "album": {
+        "name": "Two of Us",
+        "url": "https://open.spotify.com/album/0QQSbg8tyNaIAPkJ61qbf1"
+      },
+      "artists": [
+        {
+          "name": "Naptone",
+          "url": "https://open.spotify.com/artist/3xsCnJtrIt8poPkwBx2tAR"
+        },
+        {
+          "name": "Basslovers United",
+          "url": "https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227612,
+      "name": "Two of Us",
+      "url": "https://open.spotify.com/track/7MxkhCUhT1xyCcQUbUuXBG"
+    },
+    {
+      "album": {
         "name": "U x I",
         "url": "https://open.spotify.com/album/4ydlqRj7SfyatsFsMp69sS"
       },
@@ -4502,6 +4714,28 @@
       "duration_ms": 188820,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/5Cv53NmsFDpg0KWjaU5dCf"
+    },
+    {
+      "album": {
+        "name": "Use Somebody",
+        "url": "https://open.spotify.com/album/092vyskf9htiWRdTiGtTel"
+      },
+      "artists": [
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        },
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"
     },
     {
       "album": {

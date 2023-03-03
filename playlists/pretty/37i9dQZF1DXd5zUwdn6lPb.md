@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 
 > Enhance your focus with classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,860 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,049 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 | 99 | [Lute Suite in E Minor, BWV 996: III\. Courante \- Arr\. for Harp](https://open.spotify.com/track/0DqjFJY7PF2f7lwO4n5pE3) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Isabelle Perrin](https://open.spotify.com/artist/6I57k3VAHWPm8e7TD7Nxp3) | [Bach: Isabelle Perrin & Shigenori Kudo](https://open.spotify.com/album/0uXYCRIhNHLApjONURxZC9) | 2:27 |
 | 100 | [Bunte Reihe, S484/R149: Gondellied in F Major](https://open.spotify.com/track/13V9EABmO5Z1d4GAKBm2a7) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Valerie Tryon](https://open.spotify.com/artist/5QAb81QLlETPYzwp9DnZsX) | [Liszt: Bunte Reihe](https://open.spotify.com/album/312vjNz7O6PgDaA1x4zsPt) | 3:26 |
 
-Snapshot ID: `MTY3NTM5NjgwMCwwMDAwMDAwMGZmMDA3OTQ5MzljOGJkYzhhZjNjYjlhYTg5Zjc2YTBh`
+Snapshot ID: `MTY3NTM5NjgwMCwwMDAwMDAwMGU3MjRkNDJjZDlkOGUwMmYyMDY2MmE2ZTVmZWMxYzdk`

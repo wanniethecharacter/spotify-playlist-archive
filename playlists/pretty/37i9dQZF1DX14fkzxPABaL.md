@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,369 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,596 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 99 | [Dos Extraños](https://open.spotify.com/track/0W8RPldmytO1ETl5OnuJjw) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Dos Extraños](https://open.spotify.com/album/1R7O40i07tOHZMcQ2hF3Fk) | 2:47 |
 | 100 | [Muy lejos de mi](https://open.spotify.com/track/2Im5YevActjkNb19FgcGkE) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Muy lejos de mi](https://open.spotify.com/album/6MaeCEK3zDlWHrhrOb3zUd) | 3:15 |
 
-Snapshot ID: `MTY3NjYwMjgwMCwwMDAwMDAwMGEzYTE1ZmNkMDBlNDE3Y2M0Yzg1NWEzNzMyNTQ3MGVj`
+Snapshot ID: `MTY3NjYwMjgwMCwwMDAwMDAwMDY4ODA0Y2ZlOGQxN2U0ZTEzYjUxMzZkY2M2ZTgwNzI0`

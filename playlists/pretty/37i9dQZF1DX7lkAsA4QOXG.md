@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,136 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,442 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 99 | [One Flight Down](https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again EP](https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK) | 3:07 |
 | 100 | [Imagine](https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [My Working Class Hero](https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf) | 4:42 |
 
-Snapshot ID: `MTY3NzY1Njc3NSwwMDAwMDAwMGEwMmU2NjI2ODcxOWMyNzk2ZjAzNzExMjE2ODMwNjA0`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMGIwMmE2MDU5NjhkMTlhZTMzZDI1YmQ2NWVhNjgzYWQz`

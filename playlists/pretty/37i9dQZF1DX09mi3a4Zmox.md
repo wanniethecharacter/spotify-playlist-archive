@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 
 > Música para enamorarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,038,574 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,039,218 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 99 | [Por el Resto de Mi Vida](https://open.spotify.com/track/0gjhhuqKxswtR1KzYSpSfd) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Mil Ciudades](https://open.spotify.com/album/1SXUz690tncddHzbcj4wPT) | 3:45 |
 | 100 | [Amo](https://open.spotify.com/track/4IDp1zu5LGwVzrp9j9WjHW) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Amo](https://open.spotify.com/album/4RU6LeSHI15XPpGykpSM65) | 3:33 |
 
-Snapshot ID: `MTY3NzcwMjcxNSwwMDAwMDAwMGM5YzQ5YjFmMGU2NjhiYTdhNTk1ZWY1MzdiNWU3Y2Vj`
+Snapshot ID: `MTY3NzcwMjcxNSwwMDAwMDAwMDM5MGMwNmUyZTVmNDk3ZWVjMTg4ZWEwMTUxODY3ZjQy`

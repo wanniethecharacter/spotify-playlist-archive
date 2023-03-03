@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,144 likes - 62 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,174 likes - 62 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 61 | [WORLD CITIZEN \-I won't be disappointed\- \- short version](https://open.spotify.com/track/5YeWWr0tzI9hzhLPE2PMjd) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [WORLD CITIZEN \-I won't be disappointed\-](https://open.spotify.com/album/5fSg0GYR6LRi33k9eg0iUM) | 3:47 |
 | 62 | [oxygen \- from "Exception" Soundtrack](https://open.spotify.com/track/3EhgZBz3LPFtR8L6pSKPvK) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Exception \(Soundtrack from the Netflix Anime Series\)](https://open.spotify.com/album/4ToOQ4ZlOLxWKPHqDg3WlJ) | 3:48 |
 
-Snapshot ID: `MTY3Mzk2ODE4OSwwMDAwMDAwMGFjNTgyMDdmNjZiMDdjZDFlNTBlMzZjNzc1ZTkyNjAz`
+Snapshot ID: `MTY3Mzk2ODE4OSwwMDAwMDAwMDYzZDdkYWUwMzY0OGM3MjE5OTljYjg4NjQwNzJhZDkw`

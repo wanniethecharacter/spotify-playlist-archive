@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,219 likes - 90 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,266 likes - 90 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [Turn Me Up \- ViP Mix](https://open.spotify.com/track/4VO1K5TsBbx8Zzu8052slF) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Nabiha](https://open.spotify.com/artist/0nYStwwY321ISCu6BGJq98) | [Turn Me Up \(ViP Mix\)](https://open.spotify.com/album/4Tfc2KHRIGjni2b18RgkM7) | 4:11 |
 | 90 | [Sweet Potato](https://open.spotify.com/track/37Irxjh40DtOug3lCHIwIa) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/5CAbEja62qpe4nzETlwQhg) | 2:46 |
 
-Snapshot ID: `MTY3MzA2Mjg5MSwwMDAwMDAwMDgwMjk5NWZiN2NkMzM5YTdmMTBjYTFlOTA1ZTgzNjkx`
+Snapshot ID: `MTY3MzA2Mjg5MSwwMDAwMDAwMDQ3ZDA3ODlkNjllYWYyNGI5YzZlYTUxMzA4NGMwNmY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,870 likes - 106 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,918 likes - 106 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 | 105 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 |
 | 106 | [Surficial](https://open.spotify.com/track/3Yf1WOs2Qmp26M0h81gJVr) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Surficial](https://open.spotify.com/album/06LUgatj9BWv7fuaGAGYjJ) | 2:34 |
 
-Snapshot ID: `MTY3NzI2MjMwMywwMDAwMDAwMDY5OTUxMDAzMjgwYzZhMDgwZjQ1MjQwNWUzY2Q1M2Zk`
+Snapshot ID: `MTY3NzI2MjMwMywwMDAwMDAwMDRmOTQxYzI3MjE2YTMzY2U4MWJhZDc1ZTIyMzFiNmQ1`

@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 161917,
       "name": "deathmatch",
       "url": "https://open.spotify.com/track/6cDfk6xwxZ5GlXPjLlYcKy"
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
@@ -2563,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "Eulogy",
+        "url": "https://open.spotify.com/album/1yoLIxqTVxN9O5U5KmwIIj"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141654,
+      "name": "Eulogy",
+      "url": "https://open.spotify.com/track/4JfMlJsDGIu1bVOYUnUYYH"
+    },
+    {
+      "album": {
         "name": "Even When I\u2019m Not With You",
         "url": "https://open.spotify.com/album/38nUbLUn1QQvxiYOSezqJU"
       },
@@ -2801,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
+      },
+      "artists": [
+        {
+          "name": "Phoneboy",
+          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
+    },
+    {
+      "album": {
         "name": "Flames (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/3woElJWz4XHbRXbKm9kKgH"
       },
@@ -2922,6 +2958,24 @@
       "duration_ms": 139713,
       "name": "FRIDAY (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/6IRtUdofXMANdsFYnJZ9WT"
+    },
+    {
+      "album": {
+        "name": "Friends With Benefits",
+        "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187322,
+      "name": "Friends With Benefits",
+      "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
     },
     {
       "album": {
@@ -3678,7 +3732,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 143357,
       "name": "hover like a GODDESS",
       "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
@@ -3744,7 +3798,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 164533,
       "name": "hurricane",
       "url": "https://open.spotify.com/track/7rBZUdVNrNxucV0E3bjgec"
@@ -4039,6 +4093,24 @@
     },
     {
       "album": {
+        "name": "I Wish A Bitch Would",
+        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206617,
+      "name": "I Wish A Bitch Would",
+      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
+    },
+    {
+      "album": {
         "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
         "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
       },
@@ -4054,6 +4126,24 @@
       "duration_ms": 197640,
       "name": "I'd Do Anything",
       "url": "https://open.spotify.com/track/4uVjbl6daCwjhDur7qLddu"
+    },
+    {
+      "album": {
+        "name": "I'm Bored",
+        "url": "https://open.spotify.com/album/31GcwxscE4bqvmVsXHXsM0"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128998,
+      "name": "I'm Bored",
+      "url": "https://open.spotify.com/track/3ivQ5nru2jY2vLhGy1f78a"
     },
     {
       "album": {
@@ -5113,6 +5203,42 @@
     },
     {
       "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/1eUSbAtW5RZmiuWEDmCxYe"
+      },
+      "artists": [
+        {
+          "name": "Elijah Miller",
+          "url": "https://open.spotify.com/artist/5EiOwophtTAR0ZaPfXuK5a"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172120,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3"
+    },
+    {
+      "album": {
+        "name": "MOTION SICKNESS!!",
+        "url": "https://open.spotify.com/album/691SIoZqqRX7RqgpZIcdmt"
+      },
+      "artists": [
+        {
+          "name": "Abi Rose Kelly",
+          "url": "https://open.spotify.com/artist/3K9fu0H0EZDRjNg9TKXWQ6"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137837,
+      "name": "MOTION SICKNESS!!",
+      "url": "https://open.spotify.com/track/0g5P7TjeGuIjNv308nX1PW"
+    },
+    {
+      "album": {
         "name": "Move Along",
         "url": "https://open.spotify.com/album/6yXUJ2Lz7c9UA688GVvOYD"
       },
@@ -5326,7 +5452,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 129812,
       "name": "Next Ex",
       "url": "https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn"
@@ -6246,7 +6372,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 157053,
       "name": "SELF-SABOTAGE",
       "url": "https://open.spotify.com/track/34KYsYoTRXMU0MBcfBvJha"
@@ -6304,10 +6430,28 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 158856,
       "name": "SEXOXO (feat. Charlotte Sands)",
       "url": "https://open.spotify.com/track/14jOp5iY2t2I9r6wEhJxh7"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1orita Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158478,
+      "name": "Se\u00f1orita Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
     },
     {
       "album": {
@@ -6730,7 +6874,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 152375,
       "name": "Sober",
       "url": "https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2"
@@ -6800,7 +6944,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 149627,
       "name": "sos",
       "url": "https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u"
@@ -6836,7 +6980,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"

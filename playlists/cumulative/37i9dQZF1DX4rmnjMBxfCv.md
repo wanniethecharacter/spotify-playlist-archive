@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Obeidmusic, Pamela Antoun.
 
-99 songs - 6 hr 37 min
+100 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Matwasouneesh](https://open.spotify.com/track/6s3phzT9lHW1viznchr3lu) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [Matwasouneesh](https://open.spotify.com/album/1kfpSqYp8c4zttZGgExC8z) | 4:42 | 2022-03-30 | 2022-08-23 |
 | [Mawjou3 Galbi](https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Mawjou3 Galbi](https://open.spotify.com/album/450bx2egvP32rGdLekadr0) | 3:18 | 2022-03-30 |  |
 | [Mn Alby Baghany](https://open.spotify.com/track/4zViTBjVXkd5eaUsSjrhHv) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:50 | 2022-03-30 |  |
+| [Mogador](https://open.spotify.com/track/2FBUQ0rB58kVxpR1xicpJs) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Mogador](https://open.spotify.com/album/05yz2wpMI4wJiBwyj7fvQj) | 2:30 | 2023-03-02 |  |
 | [Moulayiten](https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr) | [Moulayiten](https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa) | 4:57 | 2022-08-22 |  |
 | [Mulajia \- Live Album](https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:23 | 2022-05-19 |  |
 | [Nagham](https://open.spotify.com/track/2X3XbK8XGq6kDjhEYu3gxF) | [Said Mrad](https://open.spotify.com/artist/7IrQY3CFcNbiiRgnhyA9rg), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Nagham](https://open.spotify.com/album/1WtsKi9pzRU5Ykx6womfzR) | 9:15 | 2023-02-01 | 2023-02-03 |

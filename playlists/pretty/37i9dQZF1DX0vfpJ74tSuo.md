@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,434 likes - 120 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,503 likes - 120 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 119 | [North Carolina Bound \(Acoustic Duo\)](https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm) | [Lil Ed Williams](https://open.spotify.com/artist/6TyJ3ZMyiax8OoqfqBTKEP) | [Keep On Walkin'](https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu) | 4:59 |
 | 120 | [Didn't Know What I'm Gonna Do](https://open.spotify.com/track/3IzpmJtlrpaYQeQqCRKQZg) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Smokey Wilson](https://open.spotify.com/artist/3E97jAjfJGnYdY2ZNQxMsy) | [Bob Corritore & Friends: Down Home Blues Revue](https://open.spotify.com/album/4kwuIj7SYemazu9mNv85ta) | 4:00 |
 
-Snapshot ID: `MTY3NzI1OTUxOCwwMDAwMDAwMGY5MTc5ZDRjMjlmMTgzY2FmNzY4ZDkwN2UwZWU0NDM2`
+Snapshot ID: `MTY3NzI1OTUxOCwwMDAwMDAwMDQ0Zjc0NGI2ZjhjYjhjN2U4ZmUyMDA2YzA3OGFlYzhl`

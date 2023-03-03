@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > House music lives here\. United under one roof, featuring The Blessed Madonna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,777,528 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,778,120 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 99 | [Love Again](https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Love Again](https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg) | 3:10 |
 | 100 | [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDZhYzY5NmI4NzFmNTgzMDc5OWYyYjQ2ODZjYjQwY2Vm`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDYzOThmODY0Y2RmODQ3YjQ3ODJhNTM3MjdmNDBkYmFk`

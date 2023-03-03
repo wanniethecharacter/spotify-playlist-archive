@@ -4,7 +4,7 @@
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-130 songs - 8 hr 26 min
+131 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Diversity](https://open.spotify.com/track/7IRd3PBKmY3GWxhNNBstql) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:40 | 2021-02-12 |  |
 | [Don't Let It Get You Down](https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heart Beats](https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza) | 3:20 | 2021-02-12 |  |
 | [Don't Let It Get You Down](https://open.spotify.com/track/72BlyfR0zO3NWcLZQ1ARcK) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heart Beats](https://open.spotify.com/album/0y15X0ndhcjtGZQmr4apR6) | 3:20 | 2021-02-12 | 2022-07-29 |
-| [Easy To Love](https://open.spotify.com/track/0El2kYoxWlzQKx0BkWSfJC) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [All The Times We Had](https://open.spotify.com/album/0jzTdtbn35qUvZhDJug39x) | 3:36 | 2021-02-12 |  |
+| [Easy To Love](https://open.spotify.com/track/0El2kYoxWlzQKx0BkWSfJC) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [All The Times We Had](https://open.spotify.com/album/0jzTdtbn35qUvZhDJug39x) | 3:36 | 2021-02-12 | 2023-03-03 |
 | [Easy to Love](https://open.spotify.com/track/7H3sINklvoP3SOX1O6oAFh) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [All the Times We Had](https://open.spotify.com/album/3AOllYYeOouBgOBwnCnmqD) | 3:36 | 2021-02-12 | 2022-07-29 |
+| [Easy to Love](https://open.spotify.com/track/3WPs9eLOnkdj5X7Pxrq8XS) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [All the Times We Had](https://open.spotify.com/album/1JRjLshwmFs5WNb22MjsVI) | 3:44 | 2022-09-21 |  |
 | [Everything You Need](https://open.spotify.com/track/1X4okn3iYFuvrqziSqTXpW) | [The Lonely Wild](https://open.spotify.com/artist/7uG1pvcReIxuBhvpabjdom) | [The Sun as It Comes](https://open.spotify.com/album/6QhBP3TaVPhzhHbEUUV1nS) | 4:35 | 2021-02-12 |  |
 | [Everything You Need](https://open.spotify.com/track/6EgnLziIiDWasLumYk2Cwa) | [The Lonely Wild](https://open.spotify.com/artist/7uG1pvcReIxuBhvpabjdom) | [The Sun as It Comes](https://open.spotify.com/album/4VUuZNfqVeseL3DzEfHrfs) | 4:37 | 2021-02-12 | 2022-07-29 |
 | [First Time](https://open.spotify.com/track/2qEv3RLo2KTgjP844901gV) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:44 | 2021-02-12 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Carminho, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,722 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,726 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 48 | [Grog d'Pilha](https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Grog d'Pilha](https://open.spotify.com/album/1FUTIJ9OdcQ86eiSW4FUxo) | 3:08 |
 | 49 | [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 |
 
-Snapshot ID: `MTY3NzY2MTkxMCwwMDAwMDAwMGM4NTk1MDMzY2EzMjlkNTdkN2NiZGE3MzA1MjliZGYz`
+Snapshot ID: `MTY3NzY2MTkxMCwwMDAwMDAwMGI2YzlkNTM3MjZkOTEzMGQzZGZmZDgzMzA2NmUzYjMx`

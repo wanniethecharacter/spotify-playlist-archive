@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,055 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,074 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 49 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4gj3E6oY45dzFsZpUA9Dnn) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [S.O.S\. Sos Una Rica Banana \- Serie Libre Acceso](https://open.spotify.com/album/0qTnzXJEpAq4vE8EfQadWO) | 2:22 |
 | 50 | [Viajando Hacia el Este](https://open.spotify.com/track/30hedgQCyR9YG9VIuf970W) | [Sobrecarga](https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD) | [Sentidos Congelados](https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ) | 4:41 |
 
-Snapshot ID: `MTU4NDM3NTE2MiwwMDAwMDAwMDUxYTZmMGJiMzQyM2QzNTFmZGMzYTBkZDVmYjJiMTdh`
+Snapshot ID: `MTU4NDM3NTE2MiwwMDAwMDAwMDBiYzYzZThmYzgwYmE2ZDdhZDRlNWE5Mjc1MzBmMGZk`

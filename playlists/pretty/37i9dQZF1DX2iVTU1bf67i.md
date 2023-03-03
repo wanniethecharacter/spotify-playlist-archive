@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,139 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,215 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 99 | [Time And Again](https://open.spotify.com/track/18epPmynZUEZcGSUhTxK2t) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson For Lovers \(Deluxe Edition\)](https://open.spotify.com/album/7qcSO0ylHCDZNFClhnbqHv) | 4:40 |
 | 100 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [There's Only One...](https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8) | 5:12 |
 
-Snapshot ID: `MTY3NzE0Mzc5OSwwMDAwMDAwMGFkYWFhOGFhYWQ0MzgzZjZlMTk0N2JiMGFjMTBmNzgw`
+Snapshot ID: `MTY3Nzc0NjI0NiwwMDAwMDAwMGVkZDgyNjViNTFlNjliNDJjZWM1NDM4NGQzZTFhYmQ4`

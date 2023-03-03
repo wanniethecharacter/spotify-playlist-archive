@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,204 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,306 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 99 | [Taxi driver](https://open.spotify.com/track/081aH87V7FfLfGoenHYBQE) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Taxi driver](https://open.spotify.com/album/1JBnoKEtIT5Fc3gJbsiZ5c) | 3:49 |
 | 100 | [メモリアフロア](https://open.spotify.com/track/56UpxpbqRT8I6vBAMo3BIu) | [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [メモリアフロア](https://open.spotify.com/album/72XokMMY8qOas8X3zoaySq) | 3:14 |
 
-Snapshot ID: `MTY3NzU5NjQwMCwwMDAwMDAwMGU1NDU5YTUwNmRkMzk0MjFlMTE1ZjQyYzRkMTBmMzk5`
+Snapshot ID: `MTY3NzU5NjQwMCwwMDAwMDAwMDIyNmIwNTQzN2U4Y2I3NjkzYzRiMjljNGVlY2EwYWM0`

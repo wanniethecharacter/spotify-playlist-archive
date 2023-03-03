@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPYzOAWX8Wm.md) - [plain]
 
 > A look back at tracks from over the past four years\. A mixtape of music made for the Class of 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,648 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,701 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPYzOAWX8Wm.md) - [plain]
 | 149 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 |
 | 150 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |
 
-Snapshot ID: `MTY3NTgwMzExNywwMDAwMDAwMDc1YjUzZTZkNThiOTMwMjhlYTYzNTZiZGI3ODVjYWRl`
+Snapshot ID: `MTY3NTgwMzExNywwMDAwMDAwMDdlNTMwZTdjMDJjZmVlNWMxOThiMzgwMmIwYTYxYzky`

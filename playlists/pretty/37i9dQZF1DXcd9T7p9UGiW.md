@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl?si=BviskDqxQW\-iSertWWgiVA"> Kuami Eugene</a>  and  <a href="https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf?si=mhjY\-We8Rhe89DSFpam0KA"> Rotimi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,935 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,938 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [Damn \(feat\. 6lack\)](https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Damn \(feat\. 6lack\)](https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi) | 2:39 |
 | 80 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDRmOTZiOTg0YjcwODgzYjkxZTFmZDBiMjYwYzkwNDU2`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDZhZTAyM2E2NzIyZDFmY2YxOTQyNzJkZTE4NTE0NGJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les dernières nouveautés francophones avec Lost et Negrito, La Zarra, Robert Robert et Ingrid St\-Pierre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,056 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,060 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Désordre insensé](https://open.spotify.com/track/0LG9F3iWjlzR6q6RpbyJNS) | [Désirée](https://open.spotify.com/artist/7igTH5z3uoVbKRvQ3M10fG) | [Les souvenirs flous](https://open.spotify.com/album/2qiD7xcB164I74T1fzHb6c) | 3:30 |
 | 50 | [Froid](https://open.spotify.com/track/7xdBeATvkJWIEsh60xc2GZ) | [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg) | [Froid](https://open.spotify.com/album/5jKAgilOampSvGsOpYHRhG) | 3:25 |
 
-Snapshot ID: `MTY3NzI2OTA5MywwMDAwMDAwMDYxNWMwZjQwYjAwZjdkYTZiZWRlYTM4MjhhMDBkODQ1`
+Snapshot ID: `MTY3NzI2OTA5MywwMDAwMDAwMGMwYzBiNzI1ZTBiMDI1MjIzZGNiMDEwZTMwNTM4ZWVh`

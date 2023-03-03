@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IlPkA8ovHw.md) - [plain]
 
 > The best of the Fab Four and their post\-Beatles ventures and solo albums.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,949 likes - 124 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,986 likes - 124 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IlPkA8ovHw.md) - [plain]
 | 32 | [Let It Be \- 2021 Mix](https://open.spotify.com/track/4r797jYkY09ilTg5SMCTnu) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Super Deluxe\)](https://open.spotify.com/album/1BdxbYp1FaNejpDgtDo25V) | 4:03 |
 | 33 | [End Of The Line](https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [The Traveling Wilburys, Vol\. 1](https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi) | 3:29 |
 | 34 | [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:25 |
-| 35 | [Give Me Love \(Give Me Peace on Earth\) \- 2014 Remaster](https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living in the Material World \(2014 Remaster\)](https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os) | 3:35 |
+| 35 | [Give Me Love \(Give Me Peace on Earth\)](https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living in the Material World](https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os) | 3:35 |
 | 36 | [Norwegian Wood \(This Bird Has Flown\) \- Remastered 2009](https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:04 |
 | 37 | [Come On To Me](https://open.spotify.com/track/4s5yT9UpT01SQosyMM777r) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station](https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5) | 4:10 |
 | 38 | [Dig A Pony \- Rooftop Performance](https://open.spotify.com/track/1miMoESDA7rXcNIyiiTeaF) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Get Back \(Rooftop Performance\)](https://open.spotify.com/album/6emgUTDksZyhhWmtjM9FCs) | 5:52 |
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IlPkA8ovHw.md) - [plain]
 | 109 | [Nowhere Man \- Remastered 2009](https://open.spotify.com/track/5SUlhldQJtOhUr2GzH5RI7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:43 |
 | 110 | [No More Lonely Nights \(Ballad\) \- Remastered 1993](https://open.spotify.com/track/3CCBwpqjdar1PG6HHulmD0) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Give My Regards To Broad Street](https://open.spotify.com/album/2AtvtW3U8dv9C61S88M2w8) | 5:12 |
 | 111 | [You've Got To Hide Your Love Away \- Remastered 2009](https://open.spotify.com/track/4F1AgKpuFRMLEgtPETVwZk) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:09 |
-| 112 | [Dark Horse \- 2014 Remaster](https://open.spotify.com/track/5KezUBlM6tavamVSO4MTMN) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Dark Horse \(2014 Remaster\)](https://open.spotify.com/album/4NnA3aRQY4dFLbhNV9LQAE) | 3:53 |
+| 112 | [Dark Horse](https://open.spotify.com/track/5KezUBlM6tavamVSO4MTMN) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Dark Horse](https://open.spotify.com/album/4NnA3aRQY4dFLbhNV9LQAE) | 3:53 |
 | 113 | [Things We Said Today \- Remastered 2009](https://open.spotify.com/track/0voUr8lubIafUVJlauJxYF) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:35 |
 | 114 | [With A Little Luck \- Remastered 1993](https://open.spotify.com/track/0wLpW3AwfNicWHef8joJLb) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [London Town \(Expanded Edition\)](https://open.spotify.com/album/5ye0I2FTRyBCNSbxk5KsTk) | 5:44 |
 | 115 | [Do You Want To Know A Secret \- Remastered 2009](https://open.spotify.com/track/7Aobt67JnaF7qN8jCCKvHq) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 1:57 |
@@ -128,9 +128,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IlPkA8ovHw.md) - [plain]
 | 118 | [Girl \- Remastered 2009](https://open.spotify.com/track/6tQvjqDIK9GXWIC6mejms8) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:31 |
 | 119 | [Let 'Em In \- 2014 Remaster](https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:11 |
 | 120 | [Yellow Submarine](https://open.spotify.com/track/1tdltVUBkiBCW1C3yB4zyD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Yellow Submarine Songtrack](https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE) | 2:39 |
-| 121 | [You \- 2014 Remaster](https://open.spotify.com/track/6wADbpmrLxUWygJcJsbww8) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Extra Texture \(2014 Remaster\)](https://open.spotify.com/album/3Vfv1ycDVgpEf9S9vuXsyC) | 3:43 |
+| 121 | [You](https://open.spotify.com/track/6wADbpmrLxUWygJcJsbww8) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Extra Texture](https://open.spotify.com/album/3Vfv1ycDVgpEf9S9vuXsyC) | 3:43 |
 | 122 | [Golden Slumbers \- Remastered 2009](https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 1:31 |
 | 123 | [Say Say Say \- Remastered 2015](https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Pipes Of Peace](https://open.spotify.com/album/6zlKkX99NhLW8IRy77bYmb) | 3:55 |
 | 124 | [The End \- Remastered 2009](https://open.spotify.com/track/5aHHf6jrqDRb1fcBmue2kn) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 2:21 |
 
-Snapshot ID: `MTY0MzM0NjA2MCwwMDAwMDAwMGNjMGUwZDE5M2RkMzgwY2Y1MzdmYWJiNTQyZjE1YmI2`
+Snapshot ID: `MTY0MzM0NjA2MCwwMDAwMDAwMDFiYzRmM2QxN2FmMGQ0YWYwZWNkNGQzYmQyYzhhZDUy`

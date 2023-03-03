@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: MAUIMØON\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,708 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,805 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 124 | [BE FREE](https://open.spotify.com/track/4exp12So2KjvsPwmN2L7r8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [PDF/BE FREE](https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1) | 3:23 |
 | 125 | [What to Do](https://open.spotify.com/track/62CSQmNkGVUG23BDiisrm8) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [Just Two](https://open.spotify.com/album/0KGn8aKfAO6vSRDfFr6XtU) | 2:27 |
 
-Snapshot ID: `MTY3NzA4Njc3MSwwMDAwMDAwMDM2ODE2YTEyZDAwOWM1YTZlNzJhNzFmYmZkOTVjNmQz`
+Snapshot ID: `MTY3NzA4Njc3MSwwMDAwMDAwMDRiMzVmNGZkMjE2ODVkMTkyZDgyOGRiNjg4MTQ0YTRk`

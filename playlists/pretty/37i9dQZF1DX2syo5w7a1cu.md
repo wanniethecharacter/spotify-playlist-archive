@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 
 > Cover: <a href="spotify:artist:0Ty63ceoRnnJKVEYP0VQpk">Sting</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,792 likes - 200 songs - 15 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,650 likes - 200 songs - 15 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 199 | [I Will Remember](https://open.spotify.com/track/1MzFmVDSl7Vm00f3Hw4Xfx) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Tambu](https://open.spotify.com/album/6euMPZz8wRBQBf9U2W91Xw) | 6:06 |
 | 200 | [Streets of Philadelphia](https://open.spotify.com/track/5Nj8kBJdpJJ4I9wxQyp8JH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [PHILADELPHIA \- Music From The Motion Picture](https://open.spotify.com/album/7EpzUNDXiDs0OJT4JERRYa) | 4:12 |
 
-Snapshot ID: `MTY3NzYyODgwMCwwMDAwMDAwMDNmZTk0NmUyNWUxZGRiYWQyYjQ1MWIxMTA4MjZjNmI3`
+Snapshot ID: `MTY3NzYyODgwMCwwMDAwMDAwMGVjOGJkZDk5NGU3YTA4ZjIzNzdkYzY3YmRkZWM2NDdm`

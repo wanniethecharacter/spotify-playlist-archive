@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: YAOUNDÉBOXINGCLUB
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,407 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,415 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Only For The Night](https://open.spotify.com/track/25QtoBNsZKwno1zZUg3QWi) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Maybe This Is Me Growing Up](https://open.spotify.com/album/5kKwMaWULDEdn07Fba7DlM) | 3:21 |
 | 80 | [ghost](https://open.spotify.com/track/19OdoWuVBsvKspFhF9tmAP) | [bathhat](https://open.spotify.com/artist/2xNyA9koSMPLamMdcYvzfh) | [half the time](https://open.spotify.com/album/2e4z1IT4PcNPJU0jKQJEvV) | 1:44 |
 
-Snapshot ID: `MTY3NzY4MzYyNSwwMDAwMDAwMDZlODk4NTYyOTg1MmRiYzVhOWVkMzU4ZjIyMDIxOWQ2`
+Snapshot ID: `MTY3NzY4MzYyNSwwMDAwMDAwMDI5OTgwOTczYzk2Njc3M2IyY2Q5MTc2YWVjZmJmYTlk`

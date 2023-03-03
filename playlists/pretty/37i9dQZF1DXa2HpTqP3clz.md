@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Trampled by Turtles
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,380 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,423 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [Maybelle](https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Up All Night](https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ) | 2:19 |
 | 100 | [Squirrel Hunters](https://open.spotify.com/track/5Tu8iwoMgiz3MQJui9OFt9) | [Special Consensus](https://open.spotify.com/artist/1cKp8EUuOryR1PEOAnGWNt), [10 String Symphony](https://open.spotify.com/artist/5XnIs71alIkgnppdguHNEz), [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK), [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [Rivers And Roads](https://open.spotify.com/album/7tPitSQcPX2drfsf4Uuw7F) | 4:08 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGY2YWMyODhjZWRkMDUwMTExMjQyYzI1ZGRhZmQyMTE2`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGQxY2U3YjE2NGE5YTQ2MzViYTg1YWVjMTdiMjU2YWY4`

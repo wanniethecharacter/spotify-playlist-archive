@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Felipe Vilela
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,358 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,406 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 79 | [Amor de Pai](https://open.spotify.com/track/2zvuGj62W1rYAmotN7H8nE) | [Jessé Lucas](https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL) | [Amor de Pai](https://open.spotify.com/album/7zFp6VVBpVZyGWatYgtwE2) | 3:49 |
 | 80 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 |
 
-Snapshot ID: `MTY3NzIzNzc0MiwwMDAwMDAwMDZmMjBjMDJkMmQ0MDUyYTFkYzgxYmZhMGUwZTU1ZTUx`
+Snapshot ID: `MTY3NzIzNzc0MiwwMDAwMDAwMGIyMjgxZmFkNGIwYzQ1NWRhOThjOTcwZTk0MjI2ODdj`

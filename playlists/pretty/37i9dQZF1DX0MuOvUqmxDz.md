@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,220 likes - 160 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,169 likes - 160 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 150 | [First Christmas in Love](https://open.spotify.com/track/03aSqyjgywULukp5RY0ToM) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [First Christmas in Love](https://open.spotify.com/album/7lqqphThfxWCfj7veofQPe) | 3:38 |
 | 151 | [Run Run Rudolph](https://open.spotify.com/track/7ofXbc0asuxuugDOccio38) | [Grace Leer](https://open.spotify.com/artist/2zaXxMpZKyNK075LXZ3wDG) | [Run Run Rudolph](https://open.spotify.com/album/1h07CnIhc5WrF5LNi4jr9W) | 3:19 |
 | 152 | [I'll Be Your Santa Tonight](https://open.spotify.com/track/3r0jsVshXfshN5B3NszJAc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [I'll Be Your Santa Tonight](https://open.spotify.com/album/5slwTSm2C7fPlwU2d9wqPS) | 4:24 |
-| 153 | [Jingle Bells](https://open.spotify.com/track/4ShMpmLtZBFVOaqjHXVWZ6) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Jingle Bells](https://open.spotify.com/album/2EUjvWNXPiSWbk9C0PdVFM) | 1:30 |
+| 153 | [Jingle Bells](https://open.spotify.com/track/69PJKHayMtQXLiZttWz8Ko) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Jingle Bells](https://open.spotify.com/album/3QfQJ9kOa8suH1APzmYLkl) | 1:30 |
 | 154 | [New Baby for Christmas](https://open.spotify.com/track/7gYt5HLSsPAk3mRIlm5oNF) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [New Baby for Christmas](https://open.spotify.com/album/4V25h5GQ0rrufeCxCG0hTd) | 2:46 |
 | 155 | [Meet Me Under the Mistletoe](https://open.spotify.com/track/2P5G4Z0LEaZeuKyAIdoab0) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Meet Me Under the Mistletoe](https://open.spotify.com/album/2EGPFLNRc3M1IJX1q2sqdE) | 2:53 |
 | 156 | [Happy Holiday With Me](https://open.spotify.com/track/3bCxSYyw6x9q6ooG0SB3SK) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [O.N.E Very Merry Christmas](https://open.spotify.com/album/6hp4z5Z80cAUCdioFrptuh) | 2:40 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 159 | [A Winter Wonderland](https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl) | 3:47 |
 | 160 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 |
 
-Snapshot ID: `MTY3MTE2Nzc4NSwwMDAwMDAwMGY5ZjhlMTI3NzBhYzI0ZTg2ZmFmNGE2MjZmYWM3OWNh`
+Snapshot ID: `MTY3MTE2Nzc4NSwwMDAwMDAwMGNkNTc5NmY5OTZiNWI5MjJlMjhiODU1ZTRlMDU0ZGJj`

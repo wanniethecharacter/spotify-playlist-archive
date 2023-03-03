@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,619 likes - 70 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,688 likes - 70 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Eyes Alive](https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Eyes Alive](https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5) | 6:05 |
 | 70 | [Dancer In The Dark](https://open.spotify.com/track/3pYyBOW5DEfM5CjNLknnRZ) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Together \- Part One](https://open.spotify.com/album/2OyCp5DyvzRA35ZBssD2xg) | 5:05 |
 
-Snapshot ID: `MTY3NjY0NDIwMCwwMDAwMDAwMGY0Y2EzMWNhMjdhNThiMWE5Njg3NTE1OWM0MTZhYjY1`
+Snapshot ID: `MTY3NjY0NDIwMCwwMDAwMDAwMGRmZjVlODliNTY2NzY5NjMxM2IyN2I0NGEzN2QyYzZi`

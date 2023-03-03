@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Co\-curated by The Blessed Madonna for International Women’s Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,398 likes - 47 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,407 likes - 47 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 46 | [tarde](https://open.spotify.com/track/5LrkoYgRaJlKpTQdo2E53X) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [tarde](https://open.spotify.com/album/0TxChFGfPF0i3lieCwXCVI) | 5:33 |
 | 47 | [Fool](https://open.spotify.com/track/5JbT1O4xgaupqbsd2mwZKY) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Fool](https://open.spotify.com/album/2rSsXi6ei1jVv7rSIndXyO) | 2:41 |
 
-Snapshot ID: `MTY3NzY5NzY5NSwwMDAwMDAwMDY5NzYxODBkOWZjNjM3ZjY2N2I1MTMwNTlkYzkzZmQw`
+Snapshot ID: `MTY3NzY5NzY5NSwwMDAwMDAwMDdmY2RjMzg2ZjNlNWM1NjI3Y2EzNDE0N2MxNGZjNDE4`

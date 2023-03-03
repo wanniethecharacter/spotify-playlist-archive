@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,146 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,219 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 |
 | 50 | [ヒトサマアレルギー](https://open.spotify.com/track/781eCm44DxjVZiln6OjN9G) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [一期一会](https://open.spotify.com/album/0AwjkkarpsHafMLm4om94j) | 3:18 |
 
-Snapshot ID: `MTY3NzYwMDY2NiwwMDAwMDAwMGY5NmMzOTFhNzNhMTE2NjUyNTBlMTRkMDNlNDRjYWI1`
+Snapshot ID: `MTY3NzYwMDY2NiwwMDAwMDAwMDkyMzVhOGFkYzE0YWJiYjU4MGE2ZjZkNWU3NjJmNTFk`

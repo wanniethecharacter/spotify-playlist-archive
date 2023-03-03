@@ -4,7 +4,7 @@
 
 > Did you hear that?
 
-91 songs - 6 hr 0 min
+92 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [House of the Rising Sun](https://open.spotify.com/track/2tB5sTm4Lb8e6U0dNGuqtz) | [Lauren O'Connell](https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns) | [Covers](https://open.spotify.com/album/0ZuL0j8jVfNydM5P4Zzxix) | 3:05 | 2022-09-23 |  |
 | [HUSHH](https://open.spotify.com/track/0K4pg20qcHoN8A1eWbwiOj) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [VOLUME I](https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO) | 3:00 | 2022-09-23 |  |
 | [I Will Do These Things](https://open.spotify.com/track/7avFKB5LUwEDXlIG5haiAk) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [November](https://open.spotify.com/album/7qMGPOQMKvwqUL3XgHxqNd) | 4:10 | 2022-09-23 |  |
-| [If I Had A Heart](https://open.spotify.com/track/1we2UifyzGe2tgvTVFTwD4) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Fever Ray](https://open.spotify.com/album/4vOREA0zA9Ym705rpaXBc1) | 3:47 | 2022-09-23 |  |
+| [If I Had A Heart](https://open.spotify.com/track/1we2UifyzGe2tgvTVFTwD4) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Fever Ray](https://open.spotify.com/album/4vOREA0zA9Ym705rpaXBc1) | 3:47 | 2022-09-23 | 2023-03-03 |
+| [If I Had a Heart](https://open.spotify.com/track/3eJyXwiYepWvEDKABhm7lL) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Fever Ray](https://open.spotify.com/album/019nA7vSKz0dD5yRKYRpbM) | 3:49 | 2022-09-23 |  |
 | [In Your Likeness](https://open.spotify.com/track/3LSkTAKsYieAAPqRc2xUMI) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [S16](https://open.spotify.com/album/70CSmAPltPQxbGksAEZlgQ) | 5:57 | 2022-09-23 |  |
 | [Jupiter 4](https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 5:14 | 2022-09-23 |  |
 | [Love Is to Die](https://open.spotify.com/track/2RAXAF7qjvn0FsRuMMTlBx) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Warpaint](https://open.spotify.com/album/01bpErHrPxAZVPoZV7yVhk) | 4:51 | 2022-09-23 |  |

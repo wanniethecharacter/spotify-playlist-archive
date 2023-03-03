@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: Aini Mazalan. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: hongjoin. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "BUBBLY",
+        "url": "https://open.spotify.com/album/4vIEdzVa15kQvoalvxPIz5"
+      },
+      "artists": [
+        {
+          "name": "Ethan Low",
+          "url": "https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "BUBBLY",
+      "url": "https://open.spotify.com/track/1YxMfqTpk22khi8ZfmSK0G"
+    },
+    {
+      "album": {
         "name": "Busybody",
         "url": "https://open.spotify.com/album/3pI2WoMOqoLxy7OoRlk552"
       },
@@ -1258,6 +1276,24 @@
       "duration_ms": 192258,
       "name": "dancing alone",
       "url": "https://open.spotify.com/track/1gJEO24HSXKZUa8Txw1pYX"
+    },
+    {
+      "album": {
+        "name": "Dancing With The Moon (English Version)",
+        "url": "https://open.spotify.com/album/1ONwjrTHaZ04SBYTPXQSPC"
+      },
+      "artists": [
+        {
+          "name": "Alfred Sun",
+          "url": "https://open.spotify.com/artist/4HnjYY4OILxDwX93n0KUHB"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172758,
+      "name": "Dancing With The Moon - English Version",
+      "url": "https://open.spotify.com/track/27lzwQmfUvdLkuhXW1CEMC"
     },
     {
       "album": {
@@ -2013,6 +2049,24 @@
     },
     {
       "album": {
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM"
+      },
+      "artists": [
+        {
+          "name": "Abby Simone",
+          "url": "https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/55aAg3WavEg2F70ha4kWi9"
+    },
+    {
+      "album": {
         "name": "Games",
         "url": "https://open.spotify.com/album/4X1sSm0CC4Khi8WwO6OTky"
       },
@@ -2144,6 +2198,28 @@
       "duration_ms": 251585,
       "name": "gotta swim",
       "url": "https://open.spotify.com/track/7FKRSuXtdSvy62jjFzKYsb"
+    },
+    {
+      "album": {
+        "name": "GROOVE",
+        "url": "https://open.spotify.com/album/5SyJszorUWOp0AK2atKngJ"
+      },
+      "artists": [
+        {
+          "name": "Muratone",
+          "url": "https://open.spotify.com/artist/05d3FO1h0tnn4G8yRw3bzp"
+        },
+        {
+          "name": "Brendonse7an",
+          "url": "https://open.spotify.com/artist/65T1SQqoFSFXgUZxSWfpMN"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "GROOVE",
+      "url": "https://open.spotify.com/track/5vYQvFiar2FAKb7Yl5SER6"
     },
     {
       "album": {
@@ -3383,6 +3459,28 @@
     },
     {
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/0nFg4crU27OsnuSNdV23vU"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        },
+        {
+          "name": "zzzat",
+          "url": "https://open.spotify.com/artist/3W6BvLPOTt4A9O9EsHWf2M"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229230,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/3DlcNgTGhDX99Xb0mDl5gy"
+    },
+    {
+      "album": {
         "name": "Looking For You",
         "url": "https://open.spotify.com/album/3cD6A9MG6WW99dPmCYZBpx"
       },
@@ -4173,6 +4271,28 @@
     },
     {
       "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2UOPEY2WYSS7UBqOlFskb3"
+      },
+      "artists": [
+        {
+          "name": "FARIS Z",
+          "url": "https://open.spotify.com/artist/76LDoX8rLTMv5CpaBUOKoa"
+        },
+        {
+          "name": "Nik Qistina",
+          "url": "https://open.spotify.com/artist/03efOnpjBbPqls3v5R0SBk"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194450,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/5CpwqX9hhBfc9OZervbfV8"
+    },
+    {
+      "album": {
         "name": "NOT A CRIMINAL",
         "url": "https://open.spotify.com/album/0q6EVqPENcE3wMo4zwWvuH"
       },
@@ -4332,6 +4452,24 @@
       "duration_ms": 146400,
       "name": "OK",
       "url": "https://open.spotify.com/track/6tIZqygSTNRyGn9WSIQxrl"
+    },
+    {
+      "album": {
+        "name": "Old News (Killing Me Softly)",
+        "url": "https://open.spotify.com/album/4Vx66vf6tXpyIqxQZp6KVV"
+      },
+      "artists": [
+        {
+          "name": "SATINA",
+          "url": "https://open.spotify.com/artist/2XyAeS3sKheHLul4sxHzt0"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166396,
+      "name": "Old News (Killing Me Softly)",
+      "url": "https://open.spotify.com/track/0ccpZnh7XcFvb9iCAfsFP4"
     },
     {
       "album": {
@@ -6311,6 +6449,24 @@
     },
     {
       "album": {
+        "name": "Walking Down",
+        "url": "https://open.spotify.com/album/0wspd7AEkMCOAqJkIJ6QbK"
+      },
+      "artists": [
+        {
+          "name": "Shahrizal",
+          "url": "https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157919,
+      "name": "Walking Down",
+      "url": "https://open.spotify.com/track/0qRGNQCud0jwmz9od4Tc1A"
+    },
+    {
+      "album": {
         "name": "METADRAMATIC",
         "url": "https://open.spotify.com/album/2hwcTP5vjAZJfULKrRWGv8"
       },
@@ -6920,6 +7076,24 @@
       "duration_ms": 120000,
       "name": "YOU AND ME",
       "url": "https://open.spotify.com/track/2MFqiHPj4gomxKEF3ivGTK"
+    },
+    {
+      "album": {
+        "name": "you didn\u2019t",
+        "url": "https://open.spotify.com/album/31UwN6tODIwhVwcfBdw0XP"
+      },
+      "artists": [
+        {
+          "name": "Jenaine",
+          "url": "https://open.spotify.com/artist/1TumIwTtiH0pqf8tBvuZpI"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153343,
+      "name": "you didn\u2019t",
+      "url": "https://open.spotify.com/track/5a9cvQ2osId4cQJN4WC1Ph"
     },
     {
       "album": {

@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 240298,
       "name": "Cad\u00e1ver",
       "url": "https://open.spotify.com/track/6zaozdqUEfE86imEE4mfue"
@@ -808,6 +808,28 @@
       "duration_ms": 237722,
       "name": "CARO",
       "url": "https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD"
+    },
+    {
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/6sA3Dj0tNkOJd8l8igV4RQ"
+      },
+      "artists": [
+        {
+          "name": "Rapaz 100 Juiz",
+          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
+        },
+        {
+          "name": "Maura Delgado",
+          "url": "https://open.spotify.com/artist/4aLDuAbkEccl1k0h3oZpkc"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/73ff7ZfBrSYRue9IYa2I2C"
     },
     {
       "album": {
@@ -1653,6 +1675,28 @@
     },
     {
       "album": {
+        "name": "Gloss",
+        "url": "https://open.spotify.com/album/7KmJth0jOfGllWzKPDOEwp"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210309,
+      "name": "Gloss",
+      "url": "https://open.spotify.com/track/2HxXsZGRITgwkos69ZZtUe"
+    },
+    {
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/6SHG5fLpeFLKiMERSwkSWu"
       },
@@ -2160,7 +2204,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 192000,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/6J6DcdqOLCCA3VZ9mr6VPD"
@@ -2726,7 +2770,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 216666,
       "name": "Nu Bem Di Nada",
       "url": "https://open.spotify.com/track/5JsTrli2m95rnBIro7ZVvY"
@@ -3516,7 +3560,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 235199,
       "name": "Sabe a Pouco",
       "url": "https://open.spotify.com/track/5AN71cVGPu9ZrRow7QIjnU"
@@ -4350,6 +4394,46 @@
       "duration_ms": 249078,
       "name": "\u00c9 ASSIM",
       "url": "https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Verdade",
+        "url": "https://open.spotify.com/album/4sPk4ZLCKNjScABbBrTYFw"
+      },
+      "artists": [
+        {
+          "name": "9 Miller",
+          "url": "https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX"
+        },
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "\u00c9 Verdade",
+      "url": "https://open.spotify.com/track/3pnhXjwXLLMfNrS9k9HbKh"
+    },
+    {
+      "album": {
+        "name": "\u00daltima Dan\u00e7a",
+        "url": "https://open.spotify.com/album/1isrIpzfyNisCx6ImFOdVq"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192032,
+      "name": "\u00daltima Dan\u00e7a",
+      "url": "https://open.spotify.com/track/6lLgpFIJPvP1icvdDjp8Tx"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Estos son los hits de la electr\u00f3nica en el 2023!",
-  "num_followers": 194220,
+  "num_followers": 195232,
   "original_name": "Electr\u00f3nica & Dance Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMyNTE3OSwwMDAwMDAwMDRmNjhlMzk1MGY2ZTg3YTI2YjRlNDRmZjc0OWE2ZWFm",
+  "snapshot_id": "MTY3NjMyNTE3OSwwMDAwMDAwMGUwOGU1MDdiOTNkM2M0ZTAzNmE4MDhjODlkYTNkMGQz",
   "tracks": [
     {
       "added_at": "2023-02-13 21:52:58",
@@ -904,6 +904,10 @@
       },
       "artists": [
         {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
           "name": "Dimitri Vegas",
           "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
         },
@@ -914,10 +918,6 @@
         {
           "name": "Nicole Scherzinger",
           "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         }
       ],
       "duration_ms": 121987,

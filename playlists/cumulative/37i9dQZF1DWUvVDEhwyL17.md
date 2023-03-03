@@ -4,7 +4,7 @@
 
 > Cozy acoustic covers to accompany all your DIY, painting and creative crafts projects.
 
-77 songs - 4 hr 10 min
+78 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [What Makes You Beautiful](https://open.spotify.com/track/1H42VdCQ97or9QjnH5tlXf) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [What Makes You Beautiful](https://open.spotify.com/album/4iW9eYGpYhIQ1p4QC05ihN) | 2:48 | 2023-01-27 |  |
 | [Wherever You Will Go](https://open.spotify.com/track/2JrSlOdxkzlJEAOPgIUhAj) | [Le Vitates](https://open.spotify.com/artist/5ao5cOf9lGP6pyIESuiaf1), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Wherever You Will Go](https://open.spotify.com/album/59MYGCo3YrAhdNkOomscha) | 3:43 | 2023-01-27 |  |
 | [With or Without You](https://open.spotify.com/track/1iQ1BpOGF1Umd3lpTV4OPO) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [With or Without You](https://open.spotify.com/album/5sz0mBDcUAj1TAqlHEfZQ0) | 2:46 | 2023-01-27 |  |
-| [Wouldn't It Be Nice](https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf) | 2:32 | 2023-01-27 |  |
+| [Wouldn't It Be Nice](https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0) | 2:32 | 2023-01-27 |  |
+| [Wouldn't It Be Nice](https://open.spotify.com/track/5MtSb6IQmKpqWWfW1WUrSY) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/10qT1C2c9n06qNAnl3OKrf) | 2:32 | 2023-01-27 | 2023-03-03 |
 
 \*This playlist was first scraped on 2023-02-18. Prior content cannot be recovered.

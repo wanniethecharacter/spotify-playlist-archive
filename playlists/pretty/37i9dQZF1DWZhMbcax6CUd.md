@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhMbcax6CUd.md) - [plain]
 
 > Explore the great works of Maurice Ravel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,180 likes - 69 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,201 likes - 69 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhMbcax6CUd.md) - [plain]
 | 68 | [Valses nobles et sentimentales: IV\. Assez animé](https://open.spotify.com/track/6Pr12xNRbrKJkLWbKVqu81) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Alexandre Tharaud\. "Voyage en France"](https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE) | 1:07 |
 | 69 | [Piano Concerto for the Left Hand in D Major, M\. 82: III\. Tempo I](https://open.spotify.com/track/6p4nfsao6pTiZQrkhB71VE) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Yuja Wang](https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w), [Tonhalle\-Orchester Zürich](https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg), [Lionel Bringuier](https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB) | [Ravel](https://open.spotify.com/album/7whP0NhvOkitAntffyJHeL) | 4:56 |
 
-Snapshot ID: `MTY1NjMyMzY2MywwMDAwMDAwMDBhYzRhMjJiMDliNzg3NGU0YjRlN2ZkYmI3YmU2MGJl`
+Snapshot ID: `MTY1NjMyMzY2MywwMDAwMDAwMDA3MTM5MjdlNDcwNjA1NTFjMzZjNzcwNWZkNGRkZjQ4`

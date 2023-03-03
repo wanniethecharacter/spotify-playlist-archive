@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Tigercub
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,654 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,860 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Don't Follow Me Down](https://open.spotify.com/track/4DPtu1dnfsPUN8HH9ppwbM) | [Liam Fender](https://open.spotify.com/artist/32F0MPkMvvQEeYt4IqFdW6) | [Don't Follow Me Down](https://open.spotify.com/album/3QKUZXcLdxFz1HV4mI8CpG) | 3:52 |
 | 50 | [Dead on Tuesday](https://open.spotify.com/track/4runswQ9oPzBhfV3nAjWpT) | [Paddang](https://open.spotify.com/artist/4dDpKAJfKQX4E7IG1hJExV) | [Dead on Tuesday](https://open.spotify.com/album/2SVokGlQGYCMcnIklej2Ae) | 4:20 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGRmNDBlNjljZGVlYWRmMzU1NmYzOTVhODk1OWU4NGFi`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDE1NDBlZGM4NmMwZjc5NjU4NDI5MTFjMTM4NjZjMDll`

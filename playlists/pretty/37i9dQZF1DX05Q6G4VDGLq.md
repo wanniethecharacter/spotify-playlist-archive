@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,290 likes - 200 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,289 likes - 200 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 | 199 | [Independence Road](https://open.spotify.com/track/5N0y8OEkKUkiC8IhAWsFpm) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:02 |
 | 200 | [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDVjZGRkYzhlODc2YTBiOThkNjU1YWFmNjdhZmMzMjU0`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDViOGNjMzczZDM0N2NmMjgxOGM0NzkyMzVmNWJmNWQ0`

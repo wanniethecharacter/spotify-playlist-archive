@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-770 songs - 1 day 18 hr 46 min
+771 songs - 1 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Minecraft Pigstep \- Remix](https://open.spotify.com/track/2rUHJ1o9qj44fR0vTugDAx) | [FlyxTheKid](https://open.spotify.com/artist/5xKVOc3OIhyBDsw2rYpN3R) | [Minecraft Pigstep \(Remix\)](https://open.spotify.com/album/0khRUZ8VaLXc3L2dJRP7gu) | 2:37 | 2022-04-13 | 2022-05-07 |
 | [MJ](https://open.spotify.com/track/4pk6I8l87QhPwvWT5Wan0Q) | [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [Saved](https://open.spotify.com/album/2omSHllc8JtVw7CqyMvVOr) | 3:52 | 2021-03-14 | 2021-05-24 |
 | [Money Callin](https://open.spotify.com/track/3cy7twkmahc1oo1KLzIbB9) | [iivrson](https://open.spotify.com/artist/7jsiVHCNUT0PsO9fIskEXC) | [Money Callin](https://open.spotify.com/album/0nGgFuiHKhi3ctm7XRtRWw) | 2:03 | 2021-04-21 | 2021-08-10 |
+| [Monkeys](https://open.spotify.com/track/4mPAxO918YuLgviTMMqw8P) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Monkeys](https://open.spotify.com/album/6rgFsAR7t0fOKI5wWSQrSC) | 2:37 | 2023-03-02 |  |
 | [Moon Over the Castle \- from GRAN TURISMO 7](https://open.spotify.com/track/42xYFBO1ahIWyisI7VVVEh) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Moon Over the Castle \(from GRAN TURISMO 7\)](https://open.spotify.com/album/3ZgYohcrHNEN6kEDRhUmya) | 3:07 | 2022-01-28 |  |
 | [Morrow](https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 4:06 | 2021-05-23 | 2021-12-11 |
 | [Motion](https://open.spotify.com/track/7lOlKhTXmv4sMxyhjsWwn8) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Motion](https://open.spotify.com/album/1sC4LCKQUnTCz0fyBLBQ9L) | 3:29 | 2021-10-09 | 2022-07-06 |

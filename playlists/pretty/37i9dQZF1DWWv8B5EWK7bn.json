@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 140397,
+  "num_followers": 140717,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMxNjAwNiwwMDAwMDAwMDA4MTg1MWVkYmMzY2ZmZjNkYjcyMWNmMTkzNjFjNDA3",
+  "snapshot_id": "MTY3NjMxNjAwNiwwMDAwMDAwMGE4ZmNkMTMwNDUyOTkyOTgyYWVhOTcwNzgwNzQ3N2Jl",
   "tracks": [
     {
       "added_at": "2023-01-20 04:21:17",
@@ -155,30 +155,6 @@
       "duration_ms": 188560,
       "name": "I Wanna Be Your Dog",
       "url": "https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g"
-    },
-    {
-      "added_at": "2023-03-02 01:08:55",
-      "album": {
-        "name": "Invierno (Remix)",
-        "url": "https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        },
-        {
-          "name": "Techno Para Dos",
-          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
-        },
-        {
-          "name": "Alondra M\u00e1ynez",
-          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Invierno (Remix)",
-      "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -393,22 +369,6 @@
       "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
     },
     {
-      "added_at": "2022-09-07 01:02:18",
-      "album": {
-        "name": "Fairy Rust",
-        "url": "https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7"
-      },
-      "artists": [
-        {
-          "name": "Wombo",
-          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
-        }
-      ],
-      "duration_ms": 157179,
-      "name": "Sour Sun",
-      "url": "https://open.spotify.com/track/3OjsDgh6zdsi1PbYfOkgt6"
-    },
-    {
       "added_at": "2023-01-03 03:58:37",
       "album": {
         "name": "I Love You Jennifer B",
@@ -423,6 +383,22 @@
       "duration_ms": 372800,
       "name": "Concrete Over Water",
       "url": "https://open.spotify.com/track/4yBkKSNDihdHWcFQuSRkKV"
+    },
+    {
+      "added_at": "2022-09-07 01:02:18",
+      "album": {
+        "name": "Fairy Rust",
+        "url": "https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7"
+      },
+      "artists": [
+        {
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
+        }
+      ],
+      "duration_ms": 157179,
+      "name": "Sour Sun",
+      "url": "https://open.spotify.com/track/3OjsDgh6zdsi1PbYfOkgt6"
     },
     {
       "added_at": "2023-01-07 02:35:25",
@@ -547,6 +523,26 @@
     {
       "added_at": "2023-01-20 04:21:17",
       "album": {
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 420080,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
+    },
+    {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
         "name": "Tell Somebody",
         "url": "https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO"
       },
@@ -607,26 +603,6 @@
       "duration_ms": 215583,
       "name": "Garter Snake",
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
-    },
-    {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 420080,
-      "name": "MERCY",
-      "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
     },
     {
       "added_at": "2022-09-29 00:42:15",
@@ -709,6 +685,26 @@
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "duration_ms": 315213,
+      "name": "I KNOW YOU'RE HAPPY",
+      "url": "https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr"
+    },
+    {
       "added_at": "2022-09-21 00:47:37",
       "album": {
         "name": "The world within our bedrooms",
@@ -767,26 +763,6 @@
       "duration_ms": 221379,
       "name": "Loba",
       "url": "https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B"
-    },
-    {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        }
-      ],
-      "duration_ms": 315213,
-      "name": "I KNOW YOU'RE HAPPY",
-      "url": "https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -863,6 +839,22 @@
       "duration_ms": 369231,
       "name": "Unpeopled Space",
       "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
+    },
+    {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 331266,
+      "name": "MOONSTRUCK (Nico's Song)",
+      "url": "https://open.spotify.com/track/34IYD8wQPrKsOcZgUS39Td"
     },
     {
       "added_at": "2022-09-06 17:57:02",
@@ -949,22 +941,6 @@
       "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 331266,
-      "name": "MOONSTRUCK (Nico's Song)",
-      "url": "https://open.spotify.com/track/34IYD8wQPrKsOcZgUS39Td"
-    },
-    {
       "added_at": "2022-08-31 04:38:50",
       "album": {
         "name": "Unfold",
@@ -997,22 +973,6 @@
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
-      "added_at": "2022-07-15 05:42:57",
-      "album": {
-        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
-        "url": "https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 176952,
-      "name": "Robot Riot",
-      "url": "https://open.spotify.com/track/0dG7GoHWWqJQc9wiYuPt2A"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -1031,6 +991,22 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
+    },
+    {
+      "added_at": "2022-07-15 05:42:57",
+      "album": {
+        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
+        "url": "https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 176952,
+      "name": "Robot Riot",
+      "url": "https://open.spotify.com/track/0dG7GoHWWqJQc9wiYuPt2A"
     },
     {
       "added_at": "2022-03-16 16:59:09",
@@ -1207,6 +1183,30 @@
       "duration_ms": 213159,
       "name": "Crime Seed",
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
+    },
+    {
+      "added_at": "2023-03-03 03:00:26",
+      "album": {
+        "name": "Invierno (Remix)",
+        "url": "https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        },
+        {
+          "name": "Techno Para Dos",
+          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
+        },
+        {
+          "name": "Alondra M\u00e1ynez",
+          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Invierno (Remix)",
+      "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
     },
     {
       "added_at": "2021-10-06 20:23:10",

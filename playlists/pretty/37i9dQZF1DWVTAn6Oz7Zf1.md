@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 
 > In cerca di energie? Prova con la nostra playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,533 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,543 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 79 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 |
 | 80 | [Can't Come To The Phone](https://open.spotify.com/track/0I5pVidtNjNXeaqHnwhrva) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf), [N.F.I](https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd) | [Can't Come To The Phone](https://open.spotify.com/album/1ABAfouWvWYsUinSXR2B6H) | 2:55 |
 
-Snapshot ID: `MTY3NDQ4OTg3NywwMDAwMDAwMDUzMjZhMTY4NTQ0YTk1ODlmNjU5NDcwODc5NDQ2MTMx`
+Snapshot ID: `MTY3NDQ4OTg3NywwMDAwMDAwMDkyNmJiYjYyZWIyZjk5ZGZjYzk0ZGYyZjMwZTA0M2M3`

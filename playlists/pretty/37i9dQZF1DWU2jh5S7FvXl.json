@@ -1,12 +1,12 @@
 {
   "description": "Just try not to move to this mix of recent hits. Cover: Kx5",
-  "num_followers": 71615,
+  "num_followers": 71640,
   "original_name": "Dance Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzM3MzIzNiwwMDAwMDAwMDFhM2FjY2NhZmZjMmFkMzA2YzYyZDc0Zjc1YTQ1Mjlk",
+  "snapshot_id": "MTY3NzM3MzIzNiwwMDAwMDAwMDE0YWZiYjI5NjlkYmM5Njc4MjA4YmUxMWYyOGQyNzYx",
   "tracks": [
     {
       "added_at": "2023-02-26 01:00:36",
@@ -1532,6 +1532,10 @@
       },
       "artists": [
         {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
           "name": "Dimitri Vegas",
           "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
         },
@@ -1542,10 +1546,6 @@
         {
           "name": "Nicole Scherzinger",
           "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         }
       ],
       "duration_ms": 121987,

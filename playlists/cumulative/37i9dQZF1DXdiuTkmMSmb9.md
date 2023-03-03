@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Libianca
 
-232 songs - 12 hr 10 min
+234 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-08-25 | 2022-09-09 |
 | [NOBODY ELSE](https://open.spotify.com/track/2bnNuJb9pvIJGbeXsJ8A8S) | [Adrian Dzvuke](https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go), [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [NOBODY ELSE](https://open.spotify.com/album/6cRQwq6B93zOqb6zu6lfAw) | 3:18 | 2023-02-09 |  |
 | [o'dun](https://open.spotify.com/track/5e6Em24aptMFZaDCsvBJpu) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [God's Timing’s the Best](https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7) | 2:35 | 2022-07-18 | 2022-11-18 |
+| [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 | 2023-03-02 |  |
 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 | 2022-08-25 | 2022-09-09 |
 | [Okay](https://open.spotify.com/track/5DXRCUXssxlsM8mHQpT4Ej) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Okay](https://open.spotify.com/album/4lcZJepsDpN3YmtJidQwQp) | 2:48 | 2022-09-05 | 2022-09-09 |
 | [On Di Low](https://open.spotify.com/track/4bcpjP8x9RovEBXVZwqZeB) | [Alutondo](https://open.spotify.com/artist/0vuNvwaPfkZ3YvGR8pQvwa), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [On Di Low](https://open.spotify.com/album/2gtTIIBEINcTUUFIHv7Mm5) | 3:39 | 2022-08-25 | 2023-01-13 |
@@ -206,6 +207,7 @@
 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 | 2022-07-18 | 2022-07-22 |
 | [Sweet One](https://open.spotify.com/track/1IJr2iSVIayK6coEJRUPUO) | [Elie G](https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd), [Verbb](https://open.spotify.com/artist/5W54k3Jf0X9uBRCdW8EEXO) | [Sweet One](https://open.spotify.com/album/78y891HPIrNnSixK5sPQtD) | 3:27 | 2022-08-19 | 2022-08-26 |
 | [Sweet One](https://open.spotify.com/track/5FgdsVE0cRgtmvhVo5E5dy) | [Elie G](https://open.spotify.com/artist/6KKIDnWEYeBvdIHzZGaXJd), [Verbb](https://open.spotify.com/artist/5W54k3Jf0X9uBRCdW8EEXO) | [Sweet One](https://open.spotify.com/album/0Zs9cCVItyv2Rk5RpJ3KAz) | 3:27 | 2022-09-08 | 2023-02-10 |
+| [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-03-02 |  |
 | [Talk That Talk](https://open.spotify.com/track/4velCw4NS8gCmeni5PUg1P) | [Temgazi](https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA) | [Talk That Talk](https://open.spotify.com/album/3ZjC2K1IHqrtD97yUxtxvf) | 2:56 | 2022-08-25 | 2022-09-09 |
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-08-25 | 2022-09-09 |
 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 | 2022-07-18 | 2022-11-18 |

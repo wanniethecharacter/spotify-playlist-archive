@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with ROSSY & Pauline Herr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,401 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,570 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 149 | [Right Here, Right Now](https://open.spotify.com/track/3KaTWZkjFjubYQv0SGTUDH) | [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ) | [Right Here, Right Now](https://open.spotify.com/album/6arQs3RxEQFmTX8UrqJjv0) | 4:24 |
 | 150 | [Error Sound](https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1) | [SO\-SO](https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW) | [Error Sound](https://open.spotify.com/album/6SHBQsvgVsvadUIDdtbPal) | 2:50 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDYzZmZlODVkMmY1ZjAwN2ZkZTJiYjI4NDIwZGY5M2Ri`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGY5NmJlZjA3NWViZTIxYTlkMjg4NDc3OTJlMTYxNjZm`

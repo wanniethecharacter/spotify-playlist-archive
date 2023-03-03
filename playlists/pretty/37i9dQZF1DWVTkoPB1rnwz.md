@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,885 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,946 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 99 | [Circular Wave Forms.](https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Circular Wave Forms.](https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla) | 3:00 |
 | 100 | [Twilight Sea](https://open.spotify.com/track/6dO87KnbWYhBaLF4gkRzkf) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Twilight Sea](https://open.spotify.com/album/1EK0o47MPbqz6khTEN4u64) | 6:05 |
 
-Snapshot ID: `MTY3NzUyMzIyMSwwMDAwMDAwMDA5ZmY4ZjkwNWQ1ZGFkYzIzY2U5YWMwM2E2MGQwNWVh`
+Snapshot ID: `MTY3NzUyMzIyMSwwMDAwMDAwMGZjMjZlNTY3NjQxOTk1YmZmMzRjNGRhZTQyZGVlNzJh`

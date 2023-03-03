@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Jayda G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,633 likes - 102 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,697 likes - 102 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 101 | [Level Up](https://open.spotify.com/track/1ncgTHTXCXKfNyC4s9d2RJ) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Phantasy EP](https://open.spotify.com/album/0qG4V3hglTovYhBNZ3Pdnn) | 3:54 |
 | 102 | [PRESSURE](https://open.spotify.com/track/7iEeCvmdE9HZ1ux9NhQgqo) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [PRESSURE](https://open.spotify.com/album/01bsqoWaI0TCuRXhPm2wLV) | 3:58 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDM5MjlhNjg3NTMwY2U2YTAwNWU3Y2RkMDY2Mzg3ZjRi`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDdjNWJkMzY2NTE4YWJhYTc2YWZmMjQ1MzkwOGI2NmMy`

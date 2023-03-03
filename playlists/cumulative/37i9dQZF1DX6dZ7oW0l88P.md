@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-108 songs - 5 hr 29 min
+109 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [We Wave From Our Boats](https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 3:50 | 2023-02-10 |  |
 | [We Wave From Our Boats](https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [We Wave From Our Boats](https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj) | 3:50 | 2022-05-11 | 2023-02-18 |
 | [Without me](https://open.spotify.com/track/5GeGVfKzixdHU91E03x4bb) | [Mia Zand](https://open.spotify.com/artist/7oA0yR25YU6LLZYg4Eur1n) | [Mia Zand](https://open.spotify.com/album/5k7rzNbcEUcrGUVw1gPOU8) | 1:55 | 2022-05-11 |  |
-| [Written on the Sky](https://open.spotify.com/track/0TqOzCvSGxVpQzCMgNMrcD) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Written on the Sky](https://open.spotify.com/album/281bvdsQgskz3mvvjqa67x) | 2:02 | 2023-02-10 |  |
+| [Written on the Sky](https://open.spotify.com/track/0I6Pbgf7fjPMqu3Ah9jOhI) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Actus Tragicus](https://open.spotify.com/album/5y3BawuYMUk0iOdKsAepdr) | 2:02 | 2023-02-10 |  |
+| [Written on the Sky](https://open.spotify.com/track/0TqOzCvSGxVpQzCMgNMrcD) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Written on the Sky](https://open.spotify.com/album/281bvdsQgskz3mvvjqa67x) | 2:02 | 2023-02-10 | 2023-03-03 |
 
 \*This playlist was first scraped on 2022-06-20. Prior content cannot be recovered.

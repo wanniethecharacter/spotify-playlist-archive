@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,733 likes - 60 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,750 likes - 60 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 59 | [Shelter](https://open.spotify.com/track/0InSfY3vAN0dcy7MiyxdSM) | [Yohana](https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG) | [Shelter](https://open.spotify.com/album/5gbL8MJfWftKPNW4JfXp2P) | 4:19 |
 | 60 | [Welday Weni](https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz) | [Liham Melody](https://open.spotify.com/artist/4mgP2hXsnULBqWou6ld9rQ) | [Welday Weni](https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z) | 4:25 |
 
-Snapshot ID: `MTY3MDg1MDQ5OSwwMDAwMDAwMGFjNGQ5OWNjOWQxMTBlODQ5ZGJlZTcxMjRiY2ZiNGM4`
+Snapshot ID: `MTY3MDg1MDQ5OSwwMDAwMDAwMDY1NjFlZjMzOTBiNGQwYWFkNjc4NDQxNDkxYTI1MmRk`

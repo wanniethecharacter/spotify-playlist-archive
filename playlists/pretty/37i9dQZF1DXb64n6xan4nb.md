@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,205 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,225 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 99 | [여자](https://open.spotify.com/track/4rbMCf0AKkx2QaarW4COPD) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [It's Unique](https://open.spotify.com/album/38nBVXCPRp1GS5mRu8MabS) | 4:37 |
 | 100 | [몽환의 숲 \(feat\. 이루마\)](https://open.spotify.com/track/3rQRx89A7kGuyXMbE72WCa) | [키네틱 플로우](https://open.spotify.com/artist/6jwOTzRHjVH3uDjTfKCS2x), [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Challenge 4Da Change](https://open.spotify.com/album/6oNrmkWeMZZeRuMxjK4PMT) | 4:04 |
 
-Snapshot ID: `MTY1NTEyNjU2NiwwMDAwMDAwMGFjMzRlYWNjZjMyNWRlMWQ2ZDUwNDZjOGQwNzhhYWY0`
+Snapshot ID: `MTY1NTEyNjU2NiwwMDAwMDAwMGNmMjYxMjVhM2FmZTNiZmVmMTFmOTU2NDNiZjY0MWNk`

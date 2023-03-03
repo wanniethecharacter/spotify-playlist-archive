@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Wyatt Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,183 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,412 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 149 | [Stubborn Pride](https://open.spotify.com/track/49ExSGKErkQHeqxPnanEcO) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Comeback \(Deluxe\)](https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J) | 7:09 |
 | 150 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDQ3NzdlYjk0YTc1OTYzNTU4ZGU4MDIzMDFlYmIzMzE2`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDM1M2E1NGZjODUwN2RkMTU3NzNjOTkxYTBlYWQ3Njk2`

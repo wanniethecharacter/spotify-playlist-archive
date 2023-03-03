@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 
 > Close the curtains, it's time for some leftfield gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,837 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,871 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 59 | [Moments](https://open.spotify.com/track/30YAjV3UwFbCwYaYzTqHyE) | [Kid Kun](https://open.spotify.com/artist/4rQ2NFicaqDkXbmATxbReQ) | [Lost City Archives, Vol\. 6](https://open.spotify.com/album/564WpzxRdvGxi2QW3px5QM) | 4:42 |
 | 60 | [Easy](https://open.spotify.com/track/34PeugGdjObVPu5esGnFze) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Easy](https://open.spotify.com/album/6UPK49opmChSeYNBfUHpHl) | 5:43 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDg0MTc5Mzk1MjE5NDcyZTQ0MTMwOTE1OGM0MTNkOGQ2`
+Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDJiNTNkY2FjNzM2MTVmNGE3YTBiZTY1ZTRjNmM1MWFk`

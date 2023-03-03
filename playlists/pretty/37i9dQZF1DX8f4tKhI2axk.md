@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 
 > Island vibes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,908 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,022 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 39 | [Put a Little Love](https://open.spotify.com/track/0yQLIH6DH7Hop9K1eHLzVL) | [Natural Vibrations](https://open.spotify.com/artist/2u0CzUCFU8OEoIFORUq6wJ) | [All Natural](https://open.spotify.com/album/3pwOfQqtWgH4duJxZm5pax) | 4:24 |
 | 40 | [Animal \- Mark Ronson Remix](https://open.spotify.com/track/1jsdtlKxAPYSVKwqsIJGLb) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Animal Remixes](https://open.spotify.com/album/1QR3ok2BgBhCicv4DQOhuH) | 4:31 |
 
-Snapshot ID: `MTY0OTc5NjQzOCwwMDAwMDAwMGQ1YTYxMWFkYWM5ZmQ5MDlmMjRhYTg1NTU4OTY5MTM5`
+Snapshot ID: `MTY0OTc5NjQzOCwwMDAwMDAwMDczMmE5MDIzMmQ1M2ZjOTVmNDcxNmZkOWYxYjY4NzI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Kelsy Karter
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,832 likes - 125 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,920 likes - 125 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 100 | [O'Neal](https://open.spotify.com/track/2jsWHmKnCpwKeDEBmJ1Cr3) | [VIOLITT](https://open.spotify.com/artist/3EVUE7tuYJGfHaQ0kVEDjV) | [O'Neal](https://open.spotify.com/album/0pn8DQMOFiMaiE62wWyosn) | 7:01 |
 | 101 | [AHHHH!](https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [AHHHH!](https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F) | 2:24 |
 | 102 | [No One Listened](https://open.spotify.com/track/0V6KiCw0Wp44f2ftDW4ehI) | [Starbenders](https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u) | [No One Listened](https://open.spotify.com/album/7hhE1HmpApASso39JmNnIb) | 3:11 |
-| 103 | [She Loves Me Not](https://open.spotify.com/track/2NqRNsah7TakalaozEJUkB) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/7vPYFd75wPqJn9UjIfFkhY) | 2:38 |
+| 103 | [She Loves Me Not](https://open.spotify.com/track/755WRwt062G6jEmSpXU7xo) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/02kcToJzOaPStaqqtrK6Rz) | 2:38 |
 | 104 | [Summer Never Dies](https://open.spotify.com/track/7ppyG40pUDh915fSp4qqBo) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Summer Never Dies](https://open.spotify.com/album/6xy0ww0FjRTIVSxwOSrPid) | 3:01 |
 | 105 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 |
 | 106 | [Charmer And The Snake](https://open.spotify.com/track/0VnKOTCpqOzTG8BXkiyQEe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:49 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 124 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 | 125 | [IH8EVERY1](https://open.spotify.com/track/41pILuwCEPKC8RLLR9XGT1) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [IH8EVERY1](https://open.spotify.com/album/1Kd1SH6GxOvyEhyH501d3h) | 2:47 |
 
-Snapshot ID: `MTY3MTczMzQzMywwMDAwMDAwMGE2MzdlZjEyYThiZmNjYjc3YWU4NzlhNTU2MmJkYzVk`
+Snapshot ID: `MTY3MTczMzQzMywwMDAwMDAwMGExNDMwZTQ0NTgwNmU3YTRjNjY4NmI1ODI4NjRlMDU3`

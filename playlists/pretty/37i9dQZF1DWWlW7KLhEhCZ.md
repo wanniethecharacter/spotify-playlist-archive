@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Azzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,221 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,259 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Paraíso Periférico](https://open.spotify.com/track/0piW8h3hjHkKfEJu6LzU7j) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Paraíso Periférico](https://open.spotify.com/album/1TQdoLB4Ys0i4qCw693kZR) | 2:51 |
 | 75 | [Senta](https://open.spotify.com/track/7iIPFHWNQsPiefonUwoI3k) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [Dababi](https://open.spotify.com/artist/54UvxZkNZlwt4Gm8JYMg0b) | [Senta](https://open.spotify.com/album/5AYk5IV25N14Qj4FUvxuYu) | 3:16 |
 
-Snapshot ID: `MTY3NzIwNzY2MCwwMDAwMDAwMDk2ZjRjMTc1MDY3NWNjYTcwNjkwYzhlMGYyZmE2YjU0`
+Snapshot ID: `MTY3NzIwNzY2MCwwMDAwMDAwMDc0ZTllM2RiOGY2NTBlNmE4ZmQ4NmQxOGFiZjA4Y2Q1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,777 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,885 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 99 | [Oh Frustration](https://open.spotify.com/track/1syOr9ak9ckiuzdENFViux) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Oh Frustration](https://open.spotify.com/album/4bSQ3ONJO8TPrjFMjMmDJu) | 3:46 |
 | 100 | [Get These Blues Off Me](https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [One Kind Favor \(Deluxe\)](https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV) | 4:28 |
 
-Snapshot ID: `MTY3NzI1OTY2MiwwMDAwMDAwMDE0MWViODdlZGQ2YTBhYjY5M2NlODIxZjcxM2VkZDYx`
+Snapshot ID: `MTY3NzI1OTY2MiwwMDAwMDAwMGMzNzVhMTgwNzhmMmEzMTRmODZlMmFlNTk2OGQ1ZTA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKXFmhEN5MF.md) - [plain]
 
 > Songs to make your Zumba workout extra fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,584 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,613 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKXFmhEN5MF.md) - [plain]
 | 49 | [Proper Patola](https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Namaste England \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB) | 2:58 |
 | 50 | [Ooh La La](https://open.spotify.com/track/77QLO6fafn5BGev2ADuFKz) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [The Dirty Picture](https://open.spotify.com/album/2u6skpG85FhJuV5AGvvSAO) | 4:16 |
 
-Snapshot ID: `MTY3NDQ1OTE0MSwwMDAwMDAwMGY0NjI5YzRiZmRkNTc2NzVlZmVhMjFmYjQ0Yjc5NWY3`
+Snapshot ID: `MTY3NDQ1OTE0MSwwMDAwMDAwMGJkOTg3YmU2YjAyZTlhODk5OTJlZDczMDBmOTUyNTYy`

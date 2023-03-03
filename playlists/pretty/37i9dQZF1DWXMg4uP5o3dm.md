@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: Grabbitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,970 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,042 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 99 | [Back In My Head Again](https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Back In My Head Again](https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge) | 2:54 |
 | 100 | [We Are Who We Are](https://open.spotify.com/track/5iiQBSPpoo0lIgKeskmLqe) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [VILLAIN](https://open.spotify.com/album/3tRgsk5EB57gjYzb1c90TF) | 3:33 |
 
-Snapshot ID: `MTY3NTYxNTA5MiwwMDAwMDAwMDM1MGNlNTMzZWE2YjdhZWExYTc1MTcwZDdjZTg4ZDdl`
+Snapshot ID: `MTY3NTYxNTA5MiwwMDAwMDAwMGYzYmUwM2VkZWRhOGY0YTcxZTIyZTBjOWYwZTVkNjAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,575 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,587 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 49 | [K.I.S.S\. \- Remix](https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [Citizens of Boomtown \(Deluxe\)](https://open.spotify.com/album/5twg48xOlAZwZsoPUxbyGm) | 6:01 |
 | 50 | [Love Me \- KR3TURE Remix](https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S) | [DJ Taz Rashid](https://open.spotify.com/artist/2XvQyfssNbXYWcOkKaWYlx), [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu) | [High Vibe Remixes, Vol\. 1](https://open.spotify.com/album/3NlmTWejiSpfgnxD7CiVzt) | 3:49 |
 
-Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMDRhMDM0ZTU4YzQyOWIxYjIwMmU3MzY2MzMwZjMwNTNl`
+Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMDUzNTkwNjQ5ZGNmNDEyYzc3MDZjNjQxOWNhMzlkNzNj`

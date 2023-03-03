@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,227 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,256 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 49 | [Papa Chajes](https://open.spotify.com/track/0xW2mOUr00euj1d3hxW0lM) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Katla](https://open.spotify.com/album/5B59wDL9L6PQxsWWnYtrk9) | 3:09 |
 | 50 | [Misourlou](https://open.spotify.com/track/5oxVimkWhxcePBKHoLGGLz) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Klezmerson](https://open.spotify.com/album/3CnREo12brFqZFotExitha) | 6:57 |
 
-Snapshot ID: `MTY3Njk0NTE4MiwwMDAwMDAwMDBjMzQ0MjcxZGIwZDU4NjY0ZmY0ZDcyNTNjYTE3ODI2`
+Snapshot ID: `MTY3Njk0NTE4MiwwMDAwMDAwMGM5M2JmNjkyZDgyZmNmN2YxNGIzNDMzYTVkNTk5ZDJi`

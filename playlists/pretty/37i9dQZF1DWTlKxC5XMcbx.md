@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,945 likes - 75 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,952 likes - 75 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 74 | [Easy Living](https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Memorial Album \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ) | 3:44 |
 | 75 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 |
 
-Snapshot ID: `MTY3NzY1NjMzNywwMDAwMDAwMGFmZGIwZWNkMjlhNGM1MzZkNDMxZmM3NjAzNDFiMjQ1`
+Snapshot ID: `MTY3NzY1NjMzNywwMDAwMDAwMDJhMTg3YjIwZjZkMDkyYjZjNWZhYjdmMmRmNWZiNmY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,966 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,969 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 99 | [Floating Like](https://open.spotify.com/track/4MDPyqKZLDYd1PsGGYMThw) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Blink Twice](https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe) | 3:04 |
 | 100 | [Keeping You](https://open.spotify.com/track/7rgbpvuPWpy0o3fyvb3Sop) | [Mindy](https://open.spotify.com/artist/4IVRW82OzrZZ4qZSf0xYJF), [whereisluna](https://open.spotify.com/artist/4eWPaOqG36uS4H7uTuPnFn), [Whensday](https://open.spotify.com/artist/5kGJj49tILjz1N5FHt77fm) | [Keeping You](https://open.spotify.com/album/2QV8qGa4SbBkCWWjmZWWmg) | 3:03 |
 
-Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMGFhNTQwNjM5MTk5YWMzM2ZmMWRjNTczOWYyMTVjNjFk`
+Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDFjNGVhMmZkYWEyZDRiNjNhYzU5NDYyOTM0NWZkYWE1`

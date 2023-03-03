@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,371 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,469 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 99 | [Dots](https://open.spotify.com/track/0vaI72djhPZn4qH2zjZNmL) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:05 |
 | 100 | [nine\-sum sorcery A](https://open.spotify.com/track/6yn5KVRcL1miUzXnysQJc2) | [LABOUR](https://open.spotify.com/artist/7JKGENPLlNWqBwV1pKQA8v), [Hani Mojtahedy](https://open.spotify.com/artist/4u6WezeJnoWI28umFSAU1M) | [nine\-sum sorcery](https://open.spotify.com/album/34qMEi2AKlTcYHIDLX5KQ4) | 14:21 |
 
-Snapshot ID: `MTY3NjYzNTg2MiwwMDAwMDAwMDc5YjA1MTljMmJiYTMwMjRhYmQ4YzU2OWEyY2M0Njg1`
+Snapshot ID: `MTY3NjYzNTg2MiwwMDAwMDAwMGZmYjE2ZWViN2FjZTM3YjhjN2ZiMzNlY2NhOGJlMzU1`

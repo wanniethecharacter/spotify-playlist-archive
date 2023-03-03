@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Ana Bárbara, Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,767 likes - 109 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,796 likes - 109 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 108 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/32DXk0Fv6kWkQRo2DTGm0W) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:48 |
 | 109 | [Peca de Bonita](https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Peca de Bonita](https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW) | 2:27 |
 
-Snapshot ID: `MTY3NjYxNzQ0MSwwMDAwMDAwMGEzZmQ5NzIzNTIwNjgzYjAwYTRiY2QyY2ZiMWJhNmJk`
+Snapshot ID: `MTY3NjYxNzQ0MSwwMDAwMDAwMDdkMjc5Y2M4MTdhYmVmZmJmZGRkODdhMjA2N2ZjNDFh`

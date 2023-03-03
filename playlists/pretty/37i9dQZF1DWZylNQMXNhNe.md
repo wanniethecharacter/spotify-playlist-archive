@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Jotta A
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,787 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,791 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 49 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 |
 | 50 | [Lovezinho \- Ao Vivo](https://open.spotify.com/track/0UHnBCzJ7EYsdkApglyqf6) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:15 |
 
-Snapshot ID: `MTY3NjA1MDk2OCwwMDAwMDAwMDBiZWQ2ZDNmYWQ2MGM2NWY5MGFhMjNjMzZlNzZiMjBl`
+Snapshot ID: `MTY3NjA1MDk2OCwwMDAwMDAwMDBhNWFkNjBkNDlhOGQyZjE3MTExMTRjNDY0ZGY5ODA1`

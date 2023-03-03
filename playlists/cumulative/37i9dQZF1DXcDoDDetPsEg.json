@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 207603,
       "name": "16CHOPPA (feat. Nardo Wick)",
       "url": "https://open.spotify.com/track/0QyisrAtBYGswf8KTJkkFV"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 188940,
       "name": "Blame Brexit",
       "url": "https://open.spotify.com/track/6SvG9RqYVvdvj14vVH8d4F"
@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/2m5rzib7yidaLv2vsFift9"
+      },
+      "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151741,
+      "name": "Carpe Diem",
+      "url": "https://open.spotify.com/track/5mwe2MGlVC6GS4MSDjlKgQ"
+    },
+    {
+      "album": {
         "name": "Changed",
         "url": "https://open.spotify.com/album/50AdhgOPWfkkzwXStLOCz9"
       },
@@ -1873,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "Conspiracy Charges",
+        "url": "https://open.spotify.com/album/30ulxIczvXwlfqNHHjiX7s"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162741,
+      "name": "Conspiracy Charges",
+      "url": "https://open.spotify.com/track/6s38qYrzCcjicnzBuMYwrB"
+    },
+    {
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -1950,7 +1986,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 147512,
       "name": "Covering My Ears (feat. Naughty Boy & wewantwraiths)",
       "url": "https://open.spotify.com/track/1M3VBabFRFPZnO3FB0P4JA"
@@ -5643,6 +5679,60 @@
     },
     {
       "album": {
+        "name": "Mobb Mentality",
+        "url": "https://open.spotify.com/album/7oPwu31zSQKEkJx25dMLNN"
+      },
+      "artists": [
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        },
+        {
+          "name": "Jus Jammin",
+          "url": "https://open.spotify.com/artist/44QcOr1krKgXeXbJGx5h3c"
+        },
+        {
+          "name": "Off Endz",
+          "url": "https://open.spotify.com/artist/3RT7TqiP2ItbSrnVomTgAL"
+        },
+        {
+          "name": "Smila",
+          "url": "https://open.spotify.com/artist/7ceegIQiAYyIsHczx0BBkO"
+        },
+        {
+          "name": "Lay-Z",
+          "url": "https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh"
+        },
+        {
+          "name": "Blittz",
+          "url": "https://open.spotify.com/artist/5wh8Pzrj67NfBOA5t8GBE5"
+        },
+        {
+          "name": "Jammer",
+          "url": "https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw"
+        },
+        {
+          "name": "Shorty",
+          "url": "https://open.spotify.com/artist/4vAQghcnpz5V7zsPKy9Jpy"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Mobb Mentality",
+      "url": "https://open.spotify.com/track/5GSU7lZscTRnRBx1KvvESu"
+    },
+    {
+      "album": {
         "name": "Monalisa",
         "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
       },
@@ -5852,7 +5942,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 169917,
       "name": "Nack",
       "url": "https://open.spotify.com/track/2o8AVV8YssDJKN6zqG20p1"
@@ -6499,6 +6589,24 @@
     },
     {
       "album": {
+        "name": "Out The Blue",
+        "url": "https://open.spotify.com/album/1XhSxMwBS4NWv7nKwGAXG7"
+      },
+      "artists": [
+        {
+          "name": "Che Lingo",
+          "url": "https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209607,
+      "name": "Out The Blue",
+      "url": "https://open.spotify.com/track/7An0jm0ELhysPt5wdqPJkR"
+    },
+    {
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
       },
@@ -6605,6 +6713,24 @@
     },
     {
       "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/1XciNWcYMtjVEjgEQXXxSN"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122070,
+      "name": "Painting Pictures",
+      "url": "https://open.spotify.com/track/2OgIbXHmuRJowDwtmezcio"
+    },
+    {
+      "album": {
         "name": "Pandemonium",
         "url": "https://open.spotify.com/album/1ddj8rCLKhgU55oBPZX1gN"
       },
@@ -6664,7 +6790,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -7275,6 +7401,28 @@
     },
     {
       "album": {
+        "name": "Right Hand",
+        "url": "https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165067,
+      "name": "Right Hand",
+      "url": "https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm"
+    },
+    {
+      "album": {
         "name": "Roadblock",
         "url": "https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS"
       },
@@ -7666,6 +7814,24 @@
       "duration_ms": 145945,
       "name": "Siamese",
       "url": "https://open.spotify.com/track/4q95kxovp19eykdClH3A76"
+    },
+    {
+      "album": {
+        "name": "Single Player",
+        "url": "https://open.spotify.com/album/1GneUvQfEE0xn4z2UCNjQr"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175068,
+      "name": "Single Player",
+      "url": "https://open.spotify.com/track/3eKIv8Unt9jWpDYgVbVYIx"
     },
     {
       "album": {
@@ -8086,7 +8252,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
@@ -9148,7 +9314,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 190476,
       "name": "Winning Team",
       "url": "https://open.spotify.com/track/3SHvKUgmbz7jwf8laSwnrb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,824 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,946 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [Ascend](https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [KDNS](https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0) | [Ascend](https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN) | 3:18 |
 | 100 | [Hold Me Back](https://open.spotify.com/track/1ahWWaHuP2LtyLfoB1g9By) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Hold Me Back](https://open.spotify.com/album/4D5iRWNKdcqfryA717B96y) | 2:18 |
 
-Snapshot ID: `MTY3NjY5OTkyMSwwMDAwMDAwMDMyNmRmZTk1ZWY4MGNjMjhjMTIxZTNiZGM4MmRiOGQy`
+Snapshot ID: `MTY3NjY5OTkyMSwwMDAwMDAwMGE4OTA5OGI1YWE5NWQwOWQ5MGZiN2FhOGNlYTMwODhl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 
 > The best Blues for a long trip behind the wheel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,664 likes - 118 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,710 likes - 118 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 117 | [It's Ok with Me Baby \(Bonus Track\)](https://open.spotify.com/track/4xl4cbwWacZi4QDUWBA5CA) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [40 Blue Fingers Freshly Packed & Ready to Serve](https://open.spotify.com/album/0KCRjNAQbHVTGACph3lXxV) | 2:39 |
 | 118 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
 
-Snapshot ID: `MTY3NDgzNzI1NiwwMDAwMDAwMDBlM2ZlYzc2ODZmMGFhNzU4ODI0ZGY4Y2JiNmUwNjZl`
+Snapshot ID: `MTY3NDgzNzI1NiwwMDAwMDAwMGQwYjY2MWYwYjhhYWYxZTRhY2YzN2ZkZjQ3NDE1MjJm`

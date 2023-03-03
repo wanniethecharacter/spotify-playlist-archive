@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 263280,
       "name": "(En) El S\u00e9ptimo D\u00eda - Remasterizado 2007",
       "url": "https://open.spotify.com/track/4xVZmLJtBTedcXbDB3qYdX"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 266992,
       "name": "Azu\u0301car Impalpable",
       "url": "https://open.spotify.com/track/48nLgkR14oklsdfjN6wGsl"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 162322,
       "name": "Con Vos",
       "url": "https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 267440,
       "name": "En Redondel",
       "url": "https://open.spotify.com/track/2bvP9MboEyUadosZOYC93K"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 259680,
       "name": "Enamorado tuyo",
       "url": "https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF"
@@ -1286,7 +1286,7 @@
       },
       "artists": [
         {
-          "name": "Indio Solari y los Fundamentalistas del Aire Acondicionado",
+          "name": "Indio Solari",
           "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
         },
         {
@@ -1296,9 +1296,9 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213681,
-      "name": "Encuentro Con un \u00c1ngel Amateur (En Vivo)",
+      "name": "Encuentro Con un \u00c1ngel Amateur - En Vivo",
       "url": "https://open.spotify.com/track/0tyUt9J9teuyBsuZqaeKWh"
     },
     {
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 327739,
       "name": "La Noche Eterna",
       "url": "https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh"
@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 242120,
       "name": "Lo malo de ser bueno",
       "url": "https://open.spotify.com/track/7xB3hSztVbX6xFvQqEGKud"
@@ -2407,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "La Dinast\u00eda Scorpio",
+        "url": "https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253520,
+      "name": "Mas o Menos Bien",
+      "url": "https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X"
+    },
+    {
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW"
       },
@@ -2472,7 +2490,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 192880,
       "name": "Mi Fiesta",
       "url": "https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK"
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 168344,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/7JEnT0uFWcwZqNZWv7hC9N"
@@ -3343,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Somos",
+        "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191530,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
+    },
+    {
+      "album": {
         "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
         "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
@@ -3840,7 +3876,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"
@@ -4082,7 +4118,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 202376,
       "name": "Venganza",
       "url": "https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7"

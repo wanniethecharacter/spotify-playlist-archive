@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Photo : Jon Batiste",
+  "description": "The best jazz new releases. Photo : Robin Mckelle",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "Aged Eyes",
+        "url": "https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Kaya Thomas-Dyke",
+          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "Aged Eyes",
+      "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
+    },
+    {
+      "album": {
         "name": "Oan Kim & the Dirty Jazz",
         "url": "https://open.spotify.com/album/2JdcIcXxMhbqCP0foDe6ws"
       },
@@ -269,6 +291,36 @@
     },
     {
       "album": {
+        "name": "ASTA 2",
+        "url": "https://open.spotify.com/album/54ew3n9npGAcqI9GtBBTpo"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ceccarelli",
+          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
+        },
+        {
+          "name": "Sylvain Beuf",
+          "url": "https://open.spotify.com/artist/0T3LDHnKTHrfICsXP6bzZz"
+        },
+        {
+          "name": "Thomas Bramerie",
+          "url": "https://open.spotify.com/artist/0wDzOYze3ix7yh8brXMZBq"
+        },
+        {
+          "name": "Antonio Fara\u00f2",
+          "url": "https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309360,
+      "name": "Asta",
+      "url": "https://open.spotify.com/track/7Bd5QBn1WRxcDXXzCS1DSB"
+    },
+    {
+      "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/6XqU4wmYLO897De94LOeNI"
       },
@@ -316,7 +368,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 218680,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
@@ -392,6 +444,24 @@
       "duration_ms": 333979,
       "name": "Bet",
       "url": "https://open.spotify.com/track/7pnM9gB0aO7WrIYqjeZaPX"
+    },
+    {
+      "album": {
+        "name": "Bird of Beauty",
+        "url": "https://open.spotify.com/album/2VKy0JyPz1r9LTmaHIoBej"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295739,
+      "name": "Bird of Beauty",
+      "url": "https://open.spotify.com/track/1nJ1e4KA6flzNjWnkH8O5i"
     },
     {
       "album": {
@@ -588,6 +658,24 @@
       "duration_ms": 206291,
       "name": "Cheek To Cheek - Live",
       "url": "https://open.spotify.com/track/2La0saPUOcHbSuiF8ubrkx"
+    },
+    {
+      "album": {
+        "name": "Sound of Eymet",
+        "url": "https://open.spotify.com/album/0h5gvS1eJnvhvQ6ldWuIcs"
+      },
+      "artists": [
+        {
+          "name": "Adrien Chicot",
+          "url": "https://open.spotify.com/artist/0iFZH92kPAdNvwU9nENIzk"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360093,
+      "name": "Chic O'Clock",
+      "url": "https://open.spotify.com/track/5823hf55oABckejkndnNXR"
     },
     {
       "album": {
@@ -802,6 +890,28 @@
       "duration_ms": 254930,
       "name": "Common Ground",
       "url": "https://open.spotify.com/track/7arEDlCpggFCaKMv36K6Xq"
+    },
+    {
+      "album": {
+        "name": "constellations",
+        "url": "https://open.spotify.com/album/3tXcqoG6fMJQciSTv0wGGC"
+      },
+      "artists": [
+        {
+          "name": "JaRon Marshall",
+          "url": "https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211395,
+      "name": "constellations",
+      "url": "https://open.spotify.com/track/1GCJZ0gIDc4XtWco9Jp9fA"
     },
     {
       "album": {
@@ -1726,7 +1836,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 140117,
       "name": "I'm Coming Home",
       "url": "https://open.spotify.com/track/5af00WOT3Ll62csxZ8qRrz"
@@ -1958,7 +2068,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 229103,
       "name": "Just Believe",
       "url": "https://open.spotify.com/track/4K6JJAUsD4VeTU5mZ7viBk"
@@ -2548,7 +2658,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 294960,
       "name": "Minor Steps",
       "url": "https://open.spotify.com/track/4Fp9AjTum16YyfrIj7KTPR"
@@ -2614,7 +2724,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 235004,
       "name": "Moonlight - Live at The Pool",
       "url": "https://open.spotify.com/track/0AI8ybSIh5HGcxtKPlePNr"
@@ -2720,6 +2830,24 @@
       "duration_ms": 246760,
       "name": "Not Time Yet",
       "url": "https://open.spotify.com/track/3uLk6WdVQnniPupmUkEBsW"
+    },
+    {
+      "album": {
+        "name": "Offering - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7jPjIloCzLLfYAgao6gf3a"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188905,
+      "name": "Offering - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0kxDdCDxMbpNkdpw7AtajU"
     },
     {
       "album": {
@@ -3204,6 +3332,24 @@
       "duration_ms": 180323,
       "name": "Rondo Arm\u00e9nien",
       "url": "https://open.spotify.com/track/32kaDw2jHXYRv6kzdO04fP"
+    },
+    {
+      "album": {
+        "name": "Route de nuit",
+        "url": "https://open.spotify.com/album/056ScEAKzcIJ3BeDXxdevJ"
+      },
+      "artists": [
+        {
+          "name": "Erik Truffaz",
+          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218706,
+      "name": "Route de nuit",
+      "url": "https://open.spotify.com/track/3aJ4NTA6ZN58RxzlT8MFHu"
     },
     {
       "album": {
@@ -4136,7 +4282,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 238826,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/6G6XGVNCOV2tfwv3r2QlhY"
@@ -4544,7 +4690,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 357946,
       "name": "What Are U Doing?",
       "url": "https://open.spotify.com/track/77kTVlyisKD6n7wkqWElHj"

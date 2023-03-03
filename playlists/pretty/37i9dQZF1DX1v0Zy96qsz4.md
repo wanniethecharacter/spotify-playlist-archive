@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/skylardigginssmith/">Skylar Diggins\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,134 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,148 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 | 49 | [Right Here](https://open.spotify.com/track/3UD1XZiA0iP29KI3FuK5Xw) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:38 |
 | 50 | [Who Am I \(What's My Name\)](https://open.spotify.com/track/1csGNtAIZYcLxhA68Y5jTc) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Best of Old School Hip\-Hop, Vol\. 1](https://open.spotify.com/album/1BfzKtCK9WVOl1Isxl4DL9) | 4:23 |
 
-Snapshot ID: `MTY2NDY3NjMxOSwwMDAwMDAwMGFlNmJkNThhNDI3NzA4ZTliNzRjM2I5NzU4NWMyNjQ2`
+Snapshot ID: `MTY2NDY3NjMxOSwwMDAwMDAwMGU0ZGViMWIzODQyZDZhZGJiNTY3NmY2NGZkZDlmMjY4`

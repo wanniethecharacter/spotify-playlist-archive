@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,806 likes - 150 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,787 likes - 150 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [We Need Emmanuel](https://open.spotify.com/track/7ugp3qjriKzWj1Kluj0Awc) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [We Need Emmanuel](https://open.spotify.com/album/1iagly9M3C91gzkNAJSWZz) | 3:48 |
 | 150 | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/track/0xjCdmZQQQAY3lrvPEaZRS) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/album/16IA6igILbx316CPY6CwjP) | 5:12 |
 
-Snapshot ID: `MTY3MDcyMzE5NSwwMDAwMDAwMDIwMTg1Nzc3Yjc2OTdkYjEyMmJkNzVkOTk4ZDI1YTcz`
+Snapshot ID: `MTY3MDcyMzE5NSwwMDAwMDAwMGMxNDdiYmIwNTIxYTI2MDMyNzZmNjY5Mjk1ZDU3OTk5`

@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 27172,
+  "num_followers": 27239,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE0ODQ2NywwMDAwMDAwMGM4YTM2ZThlN2I0YTY1MjBjMWI5NzMyYTcwNDExZmNk",
+  "snapshot_id": "MTY3NzE0ODQ2NywwMDAwMDAwMGM5MTM3NmFhNmI3MGRhNjEyOTZhZjA2Njk5MmEwMmE0",
   "tracks": [
     {
       "added_at": "2023-02-10 09:01:50",
@@ -814,6 +814,10 @@
         {
           "name": "Arve Henriksen",
           "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
         }
       ],
       "duration_ms": 341613,

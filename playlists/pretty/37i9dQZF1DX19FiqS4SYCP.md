@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,547 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,561 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 49 | [Entre El Frio Y El Calor](https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e) | [Andie](https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT) | [Entre El Frio Y El Calor](https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb) | 3:35 |
 | 50 | [Trampa De Amor](https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr) | [VIRGINIA Y VALOR](https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u) | [Trampa De Amor](https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6) | 2:41 |
 
-Snapshot ID: `MTY3NDg0MTIwMSwwMDAwMDAwMDRjMDI3Y2NiMmIzZGJiZTFjNmEyM2VmZWEyN2E0YzYw`
+Snapshot ID: `MTY3NDg0MTIwMSwwMDAwMDAwMDY1YjE4NWI0MGJhMjgyNGU2OTU5Zjk5MjY3MzQ2Y2I4`

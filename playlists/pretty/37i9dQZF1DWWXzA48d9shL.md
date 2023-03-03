@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$ & Shakewell
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,647 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,087 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [10 FOOT TALL](https://open.spotify.com/track/3hyxHwYJOqSHGRDxwO7OUm) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [10 FOOT TALL](https://open.spotify.com/album/4yr5Yn1U79i2HikJSA0lrU) | 2:46 |
 | 100 | [Dorohedorohe Drip](https://open.spotify.com/track/2lcRTWOwCNffdwCs8zEDo7) | [Faceless 1\-7](https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV), [TrippyThaKid](https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz) | [Dorohedorohe Drip](https://open.spotify.com/album/1Uge5Im3luXyVeBvWUeEqW) | 2:06 |
 
-Snapshot ID: `MTY3NzcwNDkxOCwwMDAwMDAwMDEyYTUzZGYzMjljY2ViOTJjYTUwMGEzZmQ5NmMwOWRk`
+Snapshot ID: `MTY3NzcwNDkxOCwwMDAwMDAwMDZhMDMyYjI2M2FkZThmYzcyNGFlNTNiYmZkODZmZjE0`

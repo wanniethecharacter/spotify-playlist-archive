@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,364 likes - 80 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,463 likes - 80 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 79 | [Heading North](https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Flu](https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi) | [Endless Sacrifice](https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J) | 7:17 |
 | 80 | [Hawkmoth](https://open.spotify.com/track/0LQwjyPTElZ4rKxJXEPFnq) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Reachy Prints](https://open.spotify.com/album/1gEUsLhMFziQj29kuo65hk) | 4:48 |
 
-Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMGQzOTdjYWJjNjYxZWZiMTdlMmUyYjZmODYzZDc5YTgy`
+Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMDllMTY4NmFlNzhiMDk1NGU3ODQzOTQ1ZDY3N2RmNGU2`

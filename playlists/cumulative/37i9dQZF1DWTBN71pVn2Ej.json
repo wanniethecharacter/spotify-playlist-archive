@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172867,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
+    },
+    {
+      "album": {
         "name": "Bash Out",
         "url": "https://open.spotify.com/album/1PpJI2AhT8IXSOmI98YF4d"
       },
@@ -794,7 +812,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 238563,
       "name": "Can't Deny It",
       "url": "https://open.spotify.com/track/0tgTrj69uTFZaRK669acBF"
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 243106,
       "name": "Corners Peeling",
       "url": "https://open.spotify.com/track/4xsnwt1XXsIhlH71cbgto9"
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 183735,
       "name": "Failing Grace",
       "url": "https://open.spotify.com/track/2VTmB41ZgW8Ecm8rZ7YBqc"
@@ -2124,7 +2142,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 260131,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4vSnZR2POAHKIbE7B362Wd"
@@ -2268,7 +2286,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 312610,
       "name": "Heavy Is The Ocean",
       "url": "https://open.spotify.com/track/4ud1E56t24ktCa6r1aGvKl"
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 141265,
       "name": "I Let Go",
       "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
@@ -3007,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "Luddite",
+        "url": "https://open.spotify.com/album/0ux250DqqYVJwQ3jJTqG8N"
+      },
+      "artists": [
+        {
+          "name": "Attendant",
+          "url": "https://open.spotify.com/artist/2armY1pDin1spLqVtTGOVV"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241856,
+      "name": "Luddite",
+      "url": "https://open.spotify.com/track/0BTLSHxSjeA7UAQ9sTxXXz"
+    },
+    {
+      "album": {
         "name": "Magic Medicine",
         "url": "https://open.spotify.com/album/1c5xKAOxCi9Q6XHsPzebiE"
       },
@@ -3076,6 +3112,24 @@
       "duration_ms": 168133,
       "name": "Me and My Brain",
       "url": "https://open.spotify.com/track/1DDStYLixIqRISehWb3fci"
+    },
+    {
+      "album": {
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142760,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "album": {
@@ -3188,6 +3242,24 @@
     {
       "album": {
         "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230935,
+      "name": "Moments of Clarity",
+      "url": "https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1"
+    },
+    {
+      "album": {
+        "name": "Moments of Clarity",
         "url": "https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ"
       },
       "artists": [
@@ -3274,6 +3346,24 @@
       "duration_ms": 214549,
       "name": "MURDER ME",
       "url": "https://open.spotify.com/track/7bHnDPNl7KQTtupTppd3oR"
+    },
+    {
+      "album": {
+        "name": "Myopic",
+        "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Myopic",
+      "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
     },
     {
       "album": {
@@ -3404,6 +3494,24 @@
       "duration_ms": 160750,
       "name": "No Future? No Thanks!",
       "url": "https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A"
+    },
+    {
+      "album": {
+        "name": "no one is truly cool",
+        "url": "https://open.spotify.com/album/1kor0saoI4U16mP7LDzdan"
+      },
+      "artists": [
+        {
+          "name": "snake eyes",
+          "url": "https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136288,
+      "name": "no one is truly cool",
+      "url": "https://open.spotify.com/track/3Wuvh6YDTQE1vsOCiHOkxQ"
     },
     {
       "album": {
@@ -3800,6 +3908,24 @@
       "duration_ms": 220708,
       "name": "Personal Space",
       "url": "https://open.spotify.com/track/4QOTnsKNWG86hTp3AeFHsG"
+    },
+    {
+      "album": {
+        "name": "Play My Favourite Song",
+        "url": "https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155603,
+      "name": "Play My Favourite Song",
+      "url": "https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV"
     },
     {
       "album": {
@@ -4498,7 +4624,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 198508,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU"
@@ -4902,7 +5028,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 220862,
       "name": "The Perfume of Decay",
       "url": "https://open.spotify.com/track/7cGKdI3BvJOKYzs9dRdvFj"
@@ -4986,6 +5112,24 @@
       "duration_ms": 223500,
       "name": "This Part of Me",
       "url": "https://open.spotify.com/track/1aEoyo49oGyAv47gVqvvSe"
+    },
+    {
+      "album": {
+        "name": "thoughts",
+        "url": "https://open.spotify.com/album/2wcdpxNc6vzFcL3FedKi9f"
+      },
+      "artists": [
+        {
+          "name": "guessing",
+          "url": "https://open.spotify.com/artist/6EiUsyrZU50GTbJzhH8CJQ"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "thoughts",
+      "url": "https://open.spotify.com/track/5omnAwQmmDlJ4DOXlZWMVO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Ridi, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,294 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,308 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Zara Bhi](https://open.spotify.com/track/1mZJGAkPkyLYr0S88ysNzW) | [Neel Chhabra](https://open.spotify.com/artist/0s1CMA4Jfj8dXPcrZ3v6CX), [Vibhor](https://open.spotify.com/artist/5T92MmjKDVV1SvzuC4L3ou) | [Zara Bhi](https://open.spotify.com/album/5lO9HsHE21w5cPST8oBaqc) | 3:02 |
 | 100 | [Courtyards](https://open.spotify.com/track/5LGs8mMpSyzQqgaWWEOJMV) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS), [Varun Rajput](https://open.spotify.com/artist/5XoXIVEIaJcT3UUzhpzIlG), [Rini Rajput](https://open.spotify.com/artist/6ULk3EPG61JmA3JN7s5468) | [Courtyards](https://open.spotify.com/album/3UKC4HBpcljGjGFxkkumCx) | 4:10 |
 
-Snapshot ID: `MTY3NzY3MjAwMCwwMDAwMDAwMDgxNWExOTM2NDA3Y2VmYjM5MGZlMWEyZDlkODIyNWYw`
+Snapshot ID: `MTY3NzY3MjAwMCwwMDAwMDAwMDA3ZmE0OWY0ODFhYWEzY2Y0N2U4YTI5MDBjYWY3ZWI4`

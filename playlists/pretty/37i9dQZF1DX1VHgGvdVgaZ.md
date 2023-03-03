@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,033 likes - 75 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,057 likes - 75 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 74 | [Vallabha Nayakasya \- Raga Begada](https://open.spotify.com/track/4kc3xF1SKMHUsrexy73MPj) | [N\. Ravikiran](https://open.spotify.com/artist/1hLUGkZvkUxmwCNpPJg9w5) | [Dikshitar Masterpieces](https://open.spotify.com/album/0al0UjnQ78WIhshfdmxUBv) | 6:14 |
 | 75 | [Chitrambari](https://open.spotify.com/track/4VYbr6sPJzlQ3CNlHbBa4t) | [Jeyaraaj & Jaysri](https://open.spotify.com/artist/1uVPDLCAkdOLoA3Kqsy3uL) | [Anandam Anantam \- A journey into Tanam \- Veena](https://open.spotify.com/album/1qAbDGgwXZyz4bA4xAbys3) | 7:23 |
 
-Snapshot ID: `MTY3NzI0NDQ4OCwwMDAwMDAwMDNiMjUxYWU1NDY3Nzc1ZjcwZjI0NDYxZjg3ODViYzlj`
+Snapshot ID: `MTY3NzI0NDQ4OCwwMDAwMDAwMDRmZGJlOTg4MWZhYTMyY2E3MjQ2NjdmYjJiNDc2NjUw`

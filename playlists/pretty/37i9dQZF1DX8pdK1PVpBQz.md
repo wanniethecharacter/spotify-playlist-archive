@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: GLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,056 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,063 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 40 | [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 |
 | 41 | [Memento Mori](https://open.spotify.com/track/3qE9AyU2J11UeBYJxY9E0e) | [Mikey G](https://open.spotify.com/artist/25niOfSoj3aza7VTVAvpvb) | [Memento Mori](https://open.spotify.com/album/6dafI2fhPqhA3YcEPO8hpO) | 3:17 |
 | 42 | [Soul](https://open.spotify.com/track/3Wy8DaePONGVGPCaG5csPw) | [DANNY LANKE](https://open.spotify.com/artist/72jomA4QZXljUKTgZrnOSN) | [Soul](https://open.spotify.com/album/45XIrrx4YVFOFInLo7ZK9v) | 3:12 |
-| 43 | [If U See Kate](https://open.spotify.com/track/7xCe8Ao7u6rKd8mBwXLzNO) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [if u see kate](https://open.spotify.com/album/48p2yEieUGPxQmlgpA2Ujt) | 3:06 |
+| 43 | [if u see kate](https://open.spotify.com/track/7xCe8Ao7u6rKd8mBwXLzNO) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [if u see kate](https://open.spotify.com/album/48p2yEieUGPxQmlgpA2Ujt) | 3:06 |
 | 44 | [Ahhh](https://open.spotify.com/track/1CxqGW6dmzL0YmnVdDQFb0) | [Asta](https://open.spotify.com/artist/3cmUhYaAl8ZVz3coS1T3VC) | [Ahhh](https://open.spotify.com/album/1kzd5L9Zcz0pTDQCNy2IFs) | 3:20 |
 | 45 | [Crucified By U](https://open.spotify.com/track/4cyQBul9ZbdsWRAY3DCgVl) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Crucified By U](https://open.spotify.com/album/4U7mRgkxDABQWnexnzPZc0) | 2:02 |
 | 46 | [ONLY YOU](https://open.spotify.com/track/0HP9SxexkUAX9SNhSxcW6T) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [ONLY YOU](https://open.spotify.com/album/6JObmUc8uNzx4D4gOz2yIL) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Show I Care](https://open.spotify.com/track/0G8ptvRO6eIUD6O8rr2nEV) | [Good Lekker](https://open.spotify.com/artist/0N8baTywD0HTek7BvdMIv5) | [Show I Care](https://open.spotify.com/album/061t56CtqnzJSw0wnvq7Em) | 2:51 |
 | 100 | [Something New](https://open.spotify.com/track/1TWBsQA0pQqV5dPEu83yv9) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Something New](https://open.spotify.com/album/1F3OffAbOInLUHAmFYBCNY) | 2:46 |
 
-Snapshot ID: `MTY3NzY1NTM5MiwwMDAwMDAwMDI2YTEyOWU1MDliN2M1MGMzM2MxZDg5NjZjMDA2MzI0`
+Snapshot ID: `MTY3NzY1NTM5MiwwMDAwMDAwMDIyY2VkMmIyMGE3NmY4YWU4MmU0NmUzOWRkYTk3YTQ5`

@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-211 songs - 9 hr 36 min
+212 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Eva](https://open.spotify.com/track/14lhsByYFtQn3tPS5TjLFT) | [Mario Quiñones](https://open.spotify.com/artist/1AFdYdurmNpI4H2dJe7iJI) | [Eva](https://open.spotify.com/album/5bXkAbd4bxydQpgxG26mHX) | 2:35 | 2022-10-14 |  |
 | [Fawns in Spring](https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Fawns in Spring](https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr) | 2:39 | 2023-01-20 |  |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-06-17 |  |
-| [Flamenkito](https://open.spotify.com/track/4iI9eIAd3kZGB3dCEc3PxK) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS) | [Flamenkito](https://open.spotify.com/album/1fBj5GesrEQR2IfVUbaPKh) | 1:46 | 2022-10-14 |  |
+| [Flamenkito](https://open.spotify.com/track/4iI9eIAd3kZGB3dCEc3PxK) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS) | [Flamenkito](https://open.spotify.com/album/1fBj5GesrEQR2IfVUbaPKh) | 1:46 | 2022-10-14 | 2023-03-03 |
+| [Flamenkito](https://open.spotify.com/track/2gZWsOLfX0W1Fu57qgFMQM) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Flamenkito](https://open.spotify.com/album/6JWc5p5djyJLBKz9hdZnvk) | 1:46 | 2023-02-24 |  |
 | [Flowers of Genzano](https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/3HONE0pDNjCMtRwA5lZU9M) | 3:32 | 2022-07-08 |  |
 | [Forever And Always](https://open.spotify.com/track/1ybsrtBpxxFJOG1VKG5wXE) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Forever And Always](https://open.spotify.com/album/5Gdti3kn7qfeuqm5mV4csY) | 2:23 | 2022-06-17 |  |
 | [Further Away](https://open.spotify.com/track/75BUjj5tFSQEAVAlTPaeeD) | [Elmer Soulé](https://open.spotify.com/artist/4lpow0wYafRp1sMMyCbOe2) | [Further Away](https://open.spotify.com/album/6JgRj4KOeW4alRAiQix6Lm) | 1:38 | 2023-02-24 |  |

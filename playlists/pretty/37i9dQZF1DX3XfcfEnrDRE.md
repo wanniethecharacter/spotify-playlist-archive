@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Gable Price and Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,680 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,763 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 99 | [DANGEROUS](https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l) | [Anchor & Braille](https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM) | [DANGEROUS](https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G) | 3:42 |
 | 100 | [W O U N D E D H E A R T](https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5) | [W O U N D E D H E A R T](https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ) | 2:46 |
 
-Snapshot ID: `MTY3MTE2NjkyMCwwMDAwMDAwMDQyMGZjNzE3NzkxYzFlYzU4ZTI4ZTA2MjM2OTgyZmY0`
+Snapshot ID: `MTY3MTE2NjkyMCwwMDAwMDAwMDJmNjY4YTFlM2M4NmJmNjc3NTRhMzI1MTQ5N2EwYzM3`

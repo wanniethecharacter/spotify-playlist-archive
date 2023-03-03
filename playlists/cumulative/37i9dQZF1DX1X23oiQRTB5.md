@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Hamza & Offset au top de la première playlist de rap français !
+> Werenoi & Ninho au top de la première playlist de rap français !
 
 146 songs - 7 hr 30 min
 

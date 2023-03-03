@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Alors alors",
+        "url": "https://open.spotify.com/album/07XX7k8Hl8YiWJD3MywmnK"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165559,
+      "name": "Alors alors",
+      "url": "https://open.spotify.com/track/0JlZavAbSw9EOtVKQL4WMz"
+    },
+    {
+      "album": {
         "name": "Alta\u00efr",
         "url": "https://open.spotify.com/album/5GZSqUuKkETaKYOtEBSwD4"
       },

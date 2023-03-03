@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: MINOVA , Artwork: Isu Kim
 
-134 songs - 7 hr 41 min
+135 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Pears](https://open.spotify.com/track/3jETj9f1MNRF1Dsna9qfXj) | [Mission To The Moon](https://open.spotify.com/artist/6mPXYU5tU46bVYpiXYdxM7) | [Pears](https://open.spotify.com/album/7mYWOIIQ1n4Jzj5PRzno6x) | 3:36 | 2023-01-17 |  |
 | [Pura Vida](https://open.spotify.com/track/5UVeoZzAMgosQFFdsfGbBM) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Nader Khalil 2](https://open.spotify.com/album/4LZsJJZQ6SqqxGp5ukMnEj) | 2:13 | 2022-09-20 | 2022-10-12 |
 | [Purity](https://open.spotify.com/track/5DR6vuwwCEBg9kAgJB2zG8) | [Nour](https://open.spotify.com/artist/5Sn6yiM4zeSnszRUMQxfo0) | [Purity](https://open.spotify.com/album/2tHTsIjHACxiXGtN7Hi2aC) | 7:54 | 2022-10-04 | 2022-12-14 |
-| [QAAR A](https://open.spotify.com/track/0ipud6EnSxKYX27PDU9lXM) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [QAAR A](https://open.spotify.com/album/0r0oe1UN516mz9vAh3uu5m) | 4:00 | 2023-01-17 |  |
+| [QAAR A](https://open.spotify.com/track/0Eh0KuFNOQ0gPilhJzZRXz) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [QAAR A](https://open.spotify.com/album/6mCMQFns9e0g2civC8khcB) | 4:00 | 2023-03-01 |  |
+| [QAAR A](https://open.spotify.com/track/0ipud6EnSxKYX27PDU9lXM) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [QAAR A](https://open.spotify.com/album/0r0oe1UN516mz9vAh3uu5m) | 4:00 | 2023-01-17 | 2023-03-03 |
 | [Sabba7 Sabba7 \- صبح صبح](https://open.spotify.com/track/7sMJXgBb0ArDsXNIwTkO0t) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP), [Mahib Sleat](https://open.spotify.com/artist/6MmPo4vru1QVS2uWhTQHT4) | [Sabba7 Sabba7 \(صبح صبح\)](https://open.spotify.com/album/0NGKUsDTyyoBnwGJNk9UVp) | 2:29 | 2022-11-01 | 2023-01-18 |
 | [Sami Khedira](https://open.spotify.com/track/4HcVDgbzBtzrvzDFaui3Op) | [El Batsh](https://open.spotify.com/artist/0bDjrJ7Jy8Dx0vumq98wTk), [8ight](https://open.spotify.com/artist/0R6EyWUEFnAzrWvDat1mgO) | [3al Zamer](https://open.spotify.com/album/3RtcEf9VR0A2HYOdMSAa5g) | 3:30 | 2022-09-20 | 2022-11-16 |
 | [Self Love ///](https://open.spotify.com/track/5sUuqMLhZA7TzoqyVCaz5h) | [Hadi](https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa) | [Self Love ///](https://open.spotify.com/album/2qbhjnZgeJGJavfiqhDNnE) | 2:20 | 2022-09-20 | 2022-09-28 |

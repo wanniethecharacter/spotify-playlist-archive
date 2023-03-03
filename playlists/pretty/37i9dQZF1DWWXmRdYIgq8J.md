@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,130 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,135 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chutney](https://open.spotify.com/track/6ipW3uRbbsH672TQZZWwMF) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Drupatee Ramgoonai](https://open.spotify.com/album/2FXMAs4LSzuJKBO7JkHdlz) | 5:10 |
-| 2 | [Radica](https://open.spotify.com/track/15D65PvgOtMSNCNsPWNZUU) | [Kenneth Salick](https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r) | [Radica](https://open.spotify.com/album/3YfmVhke219CS6MGDYjnKt) | 4:24 |
-| 3 | [Bread](https://open.spotify.com/track/5AGqmpRFDY5cD1LftIoa2X) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bread](https://open.spotify.com/album/4Fz4hTJSQHTJmTozmkvCN5) | 3:47 |
-| 4 | [Bhalay Ki \- Sohar](https://open.spotify.com/track/5Nf9dZNAXTBZsEegeIfnxE) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 3:54 |
+| 1 | [Radica](https://open.spotify.com/track/15D65PvgOtMSNCNsPWNZUU) | [Kenneth Salick](https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r) | [Radica](https://open.spotify.com/album/3YfmVhke219CS6MGDYjnKt) | 4:24 |
+| 2 | [Bread](https://open.spotify.com/track/5AGqmpRFDY5cD1LftIoa2X) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bread](https://open.spotify.com/album/4Fz4hTJSQHTJmTozmkvCN5) | 3:47 |
+| 3 | [Bhalay Ki \- Sohar](https://open.spotify.com/track/5Nf9dZNAXTBZsEegeIfnxE) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 3:54 |
+| 4 | [Chataniya](https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Chataniya](https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU) | 3:45 |
 | 5 | [Ab Na Jaibe](https://open.spotify.com/track/42jxQLPSuH6OMrkDhPiWkE) | [Kanchan](https://open.spotify.com/artist/20LxVmOnMzPm716JTA7XKi) | [Ab Na Jaibe](https://open.spotify.com/album/2n5A0bEoYkn8q3wm6cc75q) | 3:42 |
-| 6 | [Naina Bandh](https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 5:23 |
-| 7 | [Radica](https://open.spotify.com/track/15D65PvgOtMSNCNsPWNZUU) | [Kenneth Salick](https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r) | [Radica](https://open.spotify.com/album/3YfmVhke219CS6MGDYjnKt) | 4:24 |
-| 8 | [Chataniya](https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Chataniya](https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU) | 3:45 |
-| 9 | [Aur Chale \(feat\. Dil\-E\-Nadan\)](https://open.spotify.com/track/0rqf6vbpvLhynNJz6ya5zG) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Dil\-E\-Nadan](https://open.spotify.com/artist/34B244yve10xAS2LK6VknY) | [Independent Lady](https://open.spotify.com/album/5MX7SERtmC5ObbiWxgVhKb) | 3:24 |
-| 10 | [Butterfly](https://open.spotify.com/track/6Xz4fhzvk63Dq9E9DYV8rP) | [Boyie Basdeo](https://open.spotify.com/artist/0pvWvE1P4HYC578HJaF50c) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:55 |
-| 11 | [Barman](https://open.spotify.com/track/4luG5N7yt5gV41Z2pzgtsu) | [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:53 |
-| 12 | [Nana & Nani](https://open.spotify.com/track/6KCWJcmmtYMjZMgi4kAiyD) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [The Ultimate Sundar Popo](https://open.spotify.com/album/4LIBROVNLxLDZo4s32GiEC) | 5:54 |
-| 13 | [Bhaio Bhin](https://open.spotify.com/track/0FNWncnBxzqcxMlpGCf6mI) | [Sarah](https://open.spotify.com/artist/33Gx2JOUU4jrmRhjxwaOxb), [Sally Sagram](https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 3:51 |
-| 14 | [Yard Fowl](https://open.spotify.com/track/0ig6iNhu240WdlFNdEO8z6) | [Kenneth Salick](https://open.spotify.com/artist/6SmabcvkBcB2lpaQn3EdN6), [Raymond Ramnarine](https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI) | [Yard Fowl](https://open.spotify.com/album/5HZXzchA8gyOYaCujmpxTd) | 3:58 |
-| 15 | [Jhulai Kai Jhulaneeya](https://open.spotify.com/track/4T2RNha3216ColKhrewoRe) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i), [Devanand Gattoo](https://open.spotify.com/artist/6YJbkTQjvcQIlMgs6B0gUf) | [Jhulai Kai Jhulaneeya](https://open.spotify.com/album/1J3jCiMaCw6vONtH5dD5CJ) | 3:53 |
+| 6 | [Nana & Nani](https://open.spotify.com/track/6KCWJcmmtYMjZMgi4kAiyD) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [The Ultimate Sundar Popo](https://open.spotify.com/album/4LIBROVNLxLDZo4s32GiEC) | 5:54 |
+| 7 | [Jhulai Kai Jhulaneeya](https://open.spotify.com/track/4T2RNha3216ColKhrewoRe) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i), [Devanand Gattoo](https://open.spotify.com/artist/6YJbkTQjvcQIlMgs6B0gUf) | [Jhulai Kai Jhulaneeya](https://open.spotify.com/album/1J3jCiMaCw6vONtH5dD5CJ) | 3:53 |
+| 8 | [Naina Bandh](https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 5:23 |
+| 9 | [Chutney](https://open.spotify.com/track/6ipW3uRbbsH672TQZZWwMF) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Drupatee Ramgoonai](https://open.spotify.com/album/2FXMAs4LSzuJKBO7JkHdlz) | 5:10 |
+| 10 | [Radica](https://open.spotify.com/track/15D65PvgOtMSNCNsPWNZUU) | [Kenneth Salick](https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r) | [Radica](https://open.spotify.com/album/3YfmVhke219CS6MGDYjnKt) | 4:24 |
+| 11 | [Aur Chale \(feat\. Dil\-E\-Nadan\)](https://open.spotify.com/track/0rqf6vbpvLhynNJz6ya5zG) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Dil\-E\-Nadan](https://open.spotify.com/artist/34B244yve10xAS2LK6VknY) | [Independent Lady](https://open.spotify.com/album/5MX7SERtmC5ObbiWxgVhKb) | 3:24 |
+| 12 | [Butterfly](https://open.spotify.com/track/6Xz4fhzvk63Dq9E9DYV8rP) | [Boyie Basdeo](https://open.spotify.com/artist/0pvWvE1P4HYC578HJaF50c) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:55 |
+| 13 | [Barman](https://open.spotify.com/track/4luG5N7yt5gV41Z2pzgtsu) | [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:53 |
+| 14 | [Bhaio Bhin](https://open.spotify.com/track/0FNWncnBxzqcxMlpGCf6mI) | [Sarah](https://open.spotify.com/artist/33Gx2JOUU4jrmRhjxwaOxb), [Sally Sagram](https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 3:51 |
+| 15 | [Yard Fowl](https://open.spotify.com/track/0ig6iNhu240WdlFNdEO8z6) | [Kenneth Salick](https://open.spotify.com/artist/6SmabcvkBcB2lpaQn3EdN6), [Raymond Ramnarine](https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI) | [Yard Fowl](https://open.spotify.com/album/5HZXzchA8gyOYaCujmpxTd) | 3:58 |
 | 16 | [Ho More Raja](https://open.spotify.com/track/4du8jzQa9JHA2BB9IVprmc) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 4:56 |
 | 17 | [Kariaiyan Na Toro](https://open.spotify.com/track/63dPUEVIPdpwhML1EVS4CX) | [Ameena Ramsaran](https://open.spotify.com/artist/13oaDW0k8DbnU6HJ4n7I3v) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:39 |
 | 18 | [Dhobinya Kay Maar](https://open.spotify.com/track/2b8Rf3fWIDZJCpJ1bm67xz) | [Rasika Dindial](https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ) | [Dance D'Chatanie with D'Ranie](https://open.spotify.com/album/5h7NSzWa3UkoyXWEKDy8x5) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 49 | [Balkissoon](https://open.spotify.com/track/4dbTsPxGxBKxVfF6ME1YWE) | [Omardath Maharaj](https://open.spotify.com/artist/2ucwlWOsuVNoYQbVswk9Sz), [Raymond Ramnarine](https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI) | [Balkissoon](https://open.spotify.com/album/0sfSf7YckGZfACxpowk1vG) | 3:44 |
 | 50 | [Ah Drinka](https://open.spotify.com/track/5wIyeEZbS6mufivybplOEw) | [Ravi B & Problem Child](https://open.spotify.com/artist/4bdt4Twty5nZAjR3WsnzNg) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:25 |
 
-Snapshot ID: `MTY3NTY3NjQ2MSwwMDAwMDAwMGMzZDQxOGUxYmM3ZWYwYTQ2ODRlNTc5NmE2ZDQzNjAy`
+Snapshot ID: `MTY3Nzc0OTk5NSwwMDAwMDAwMGI3MDhiNGNhOTZiZGNlZDYyZjk4YWJmZDkzYTViYmVi`

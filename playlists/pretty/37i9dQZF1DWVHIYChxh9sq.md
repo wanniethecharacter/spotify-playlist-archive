@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Luis Alfonso Partida El Yaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,808 likes - 150 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,837 likes - 150 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 149 | [Peleando La Ciudad \(En Vivo\)](https://open.spotify.com/track/1xEii4pWw0awhAmkYO7Rap) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Peleando La Ciudad \(En Vivo\)](https://open.spotify.com/album/4B95B43CS1GoJpYEnpCae9) | 3:27 |
 | 150 | [Besos Y Copas \(En Vivo\)](https://open.spotify.com/track/0xHedGzkiufKRHj2S1hdSf) | [Los Cuates de Sinaloa](https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7) | [Besos Y Copas \(En Vivo\)](https://open.spotify.com/album/46Y1UoLLf7GBVSwwR1jxKJ) | 3:07 |
 
-Snapshot ID: `MTY3NDg0MTIyMywwMDAwMDAwMGIxODgzNDczNjUzZjRjMjk0MzQwNzViMjcwNmU5NWE0`
+Snapshot ID: `MTY3NDg0MTIyMywwMDAwMDAwMDI0YzlkMThmMjQ3YjVhN2Y2ZjU2OTI4NDBmYzAwZTNk`

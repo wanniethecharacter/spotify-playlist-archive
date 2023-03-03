@@ -2,9 +2,9 @@
 
 ### [Só as Minas](https://open.spotify.com/playlist/37i9dQZF1DXe4mpNXfrVqx)
 
-> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Hyperanhas, Tammy
+> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
 
-124 songs - 5 hr 33 min
+125 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 | 2022-03-18 |  |
 | [Baby Prince$$](https://open.spotify.com/track/3MebYuT8I3DY4EMCcbinzy) | [Nic Dias](https://open.spotify.com/artist/4Si7TiXmSA3LaESL8YIdaM) | [Baby Prince$$](https://open.spotify.com/album/136I42oMuE4sPEuIouaRqF) | 2:15 | 2022-03-18 | 2022-07-09 |
 | [Bahamas](https://open.spotify.com/track/7HfiOshF1YAe7rDF7e47XW) | [honeyyvm](https://open.spotify.com/artist/6FRAAq4oJpZ8MVmnzc9Qvw), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh) | [Bahamas](https://open.spotify.com/album/5rEUBcuC0pMEaGcH0J5oQ9) | 2:27 | 2022-09-02 |  |
-| [Big Mac](https://open.spotify.com/track/6G5ggFv65KKrvb2rXAuNfM) | [Og Nina](https://open.spotify.com/artist/2yurgiGE67rGV8Ra5Qqkso), [SHOTBYBZK](https://open.spotify.com/artist/6ykNXCV6SmYveaTjjHUekm) | [Big Mac](https://open.spotify.com/album/6k1bWLpxlLeKMcIPTfyuwo) | 2:47 | 2022-12-02 |  |
+| [Big Mac](https://open.spotify.com/track/6G5ggFv65KKrvb2rXAuNfM) | [Og Nina](https://open.spotify.com/artist/2yurgiGE67rGV8Ra5Qqkso), [SHOTBYBZK](https://open.spotify.com/artist/6ykNXCV6SmYveaTjjHUekm) | [Big Mac](https://open.spotify.com/album/6k1bWLpxlLeKMcIPTfyuwo) | 2:47 | 2022-12-02 | 2023-03-03 |
 | [BNTA](https://open.spotify.com/track/1dUA1RZRJtTKYATLHuxsbS) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [BNTA](https://open.spotify.com/album/0ukdEskm3LHXFYBvYwsCOk) | 3:57 | 2022-03-18 | 2023-02-09 |
 | [BNTA](https://open.spotify.com/track/3PTpIE4GrelEc4iS0qV2Jo) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [BNTA](https://open.spotify.com/album/1EnyVlubYvfVsiMVEHN4VQ) | 3:57 | 2023-02-03 |  |
 | [Braba](https://open.spotify.com/track/2S9eAfAmIExYjbpclUpqEv) | [Camilli Miranda](https://open.spotify.com/artist/7fLjiciAnNIg6r6YdYOjvW), [Dj Tom Rc](https://open.spotify.com/artist/0gNoMkZ14tXJmgyPBIIq4N) | [Braba](https://open.spotify.com/album/0pUKN9S8Z1JxZJSbarZbWH) | 2:01 | 2022-03-18 | 2022-08-13 |
@@ -122,6 +122,7 @@
 | [Só Para Você](https://open.spotify.com/track/7dqHd6Sc9TbRmmSnU7z4Ro) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Só Para Você](https://open.spotify.com/album/78c8qIT7DWLFDGRB7vdU8u) | 2:15 | 2022-03-18 | 2022-04-16 |
 | [Só Você](https://open.spotify.com/track/3OPtaoYm5WKIwzpZ5rJKwU) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [Aloizio](https://open.spotify.com/artist/5vC11pPaZkV4ydnM4kRo91) | [Nunchi](https://open.spotify.com/album/1Jyyxrx1LEpuPKwf1r2nlx) | 2:50 | 2022-03-18 | 2022-05-28 |
 | [Território Latino](https://open.spotify.com/track/4j4e7eyjnr8o7rbNnSSvpU) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Território Latino](https://open.spotify.com/album/5TQSuXBvBN0oHJYppBeKIH) | 2:04 | 2022-03-18 |  |
+| [Tira Uma Foto](https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Tira Uma Foto](https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1) | 2:09 | 2023-03-03 |  |
 | [Toma Cuidado](https://open.spotify.com/track/6NXcJBwuVHkXklcJnZPf7X) | [A Pitbull](https://open.spotify.com/artist/60lg8oWzcNfWXdD1zidOI3), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Toma Cuidado](https://open.spotify.com/album/4bREUNf7QrzXeMjUOp6sp6) | 2:01 | 2022-03-18 | 2022-06-25 |
 | [Tormento](https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Tormento](https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI) | 3:18 | 2022-03-18 |  |
 | [Tô Um Nojo](https://open.spotify.com/track/5z6ndjKq0MRBT4TBiDA382) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Tô Um Nojo](https://open.spotify.com/album/2hMkMV1A949CKqeDbAqAwR) | 1:54 | 2022-03-18 | 2022-10-01 |

@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21091,
+  "num_followers": 21089,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAyMzUsNDIyOWY5NjNjNGVlMWM5NTA2NzVlM2E3MzRmNzc4ZTg4YzljOGIwNA==",
+  "snapshot_id": "MTAyMzcsYjg5MGNlZWVkM2IxYzM5ODIyZDA1ZTQ1YjMwNmQ5MzE1ODc4YTU3MA==",
   "tracks": [
     {
       "added_at": "2023-02-22 21:57:47",
@@ -2339,6 +2339,38 @@
       "duration_ms": 147042,
       "name": "Only 1 Trying",
       "url": "https://open.spotify.com/track/0BSHtzrgWBgw19hgZncNEl"
+    },
+    {
+      "added_at": "2023-03-02 01:54:49",
+      "album": {
+        "name": "Four Tet Is My Godmother",
+        "url": "https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 300200,
+      "name": "Four Tet Is My Godmother",
+      "url": "https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT"
+    },
+    {
+      "added_at": "2023-03-02 18:20:22",
+      "album": {
+        "name": "Baby from Atlanta",
+        "url": "https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc"
+      },
+      "artists": [
+        {
+          "name": "Jimi Somewhere",
+          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Baby from Atlanta",
+      "url": "https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq"
     }
   ],
   "unique_name": "Moving Castle Monthly",

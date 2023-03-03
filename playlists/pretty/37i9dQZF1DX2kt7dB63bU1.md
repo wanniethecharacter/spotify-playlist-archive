@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,177 likes - 98 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,279 likes - 98 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 97 | [Lonely House](https://open.spotify.com/track/39htlA0YRdydszy3Hnhjrt) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Lonely House](https://open.spotify.com/album/1cNGkicH5SdIilQ7ZFbi2h) | 4:45 |
 | 98 | [That's All](https://open.spotify.com/track/3itB2xTfBKKuYFMXCNPRuq) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | [That's All](https://open.spotify.com/album/2ytd2pxd1DDjiDNbqqJPaY) | 2:13 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDlhNDg0M2RjMGIxNTY5NWViYzZjZmY2M2M2NmVkYzM0`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDllYmRiN2IxNzU0ZDQ4ZjVlYWE3NWVmZDdiNDNiYjE4`

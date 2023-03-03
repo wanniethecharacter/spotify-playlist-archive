@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: RAAHiiM
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,742 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,739 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Vis ou meurs](https://open.spotify.com/track/1JtaKUwjMC0joaRUJ5eBhS) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [Vis ou meurs](https://open.spotify.com/album/0rEUHdwyYYAEg6u74eev2E) | 2:41 |
 | 50 | [Out of Body](https://open.spotify.com/track/7jMnEpPgvHmFBdLuDnQqVl) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Out of Body](https://open.spotify.com/album/777GvXKChmKi4NWTLyis2O) | 1:54 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDc2ZGMzNGFkOGMyNjkyOWVmNWE2ZjQ0NDY3OWNhMGJl`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDBhM2FlODNlNTkxOTRiYTdiYWRlMDU5MWEwMjkzNWVm`

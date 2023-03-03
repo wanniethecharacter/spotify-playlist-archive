@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > Dinner with Friends? Here's the perfect playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,535,469 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,535,662 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 99 | [Blackbird](https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Blackbird](https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4) | 3:03 |
 | 100 | [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 |
 
-Snapshot ID: `MTY3NjAzNzI1NiwwMDAwMDAwMGU0M2YyMjQ5MTVkZjIyYTg1NTRkYjM4MjM3NDc0MzAw`
+Snapshot ID: `MTY3NjAzNzI1NiwwMDAwMDAwMGY5YzJkNTE1NGZhMDVhODdiMjcxYWVlODgwM2MyYjE3`

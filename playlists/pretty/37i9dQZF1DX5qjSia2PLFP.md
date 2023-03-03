@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover, Yoza
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,581 likes - 51 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,600 likes - 51 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 50 | [Creme Brulee](https://open.spotify.com/track/3jvrZ6mIhVEH4XMpmqSTRI) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Creme Brulee](https://open.spotify.com/album/5zQXPoLBDFCFGN4IPu14VG) | 1:52 |
 | 51 | [Here I Come](https://open.spotify.com/track/24JTap3Y2LHb3icc5iIkNj) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Here I Come](https://open.spotify.com/album/5yEN89IGBwa3y0tP2qWAnK) | 1:48 |
 
-Snapshot ID: `MTY3NzIwODcwMSwwMDAwMDAwMDQxZmMyNTEzNWFiNWYxYzZmMTU3N2QyZTU2ZWU2MDBj`
+Snapshot ID: `MTY3NzIwODcwMSwwMDAwMDAwMGNmZDBmY2RhODgzZjdhMjk3MDgwNmNjNDk4ZjU2Y2Jl`

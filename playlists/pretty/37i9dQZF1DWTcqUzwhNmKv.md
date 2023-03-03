@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Lamb Of God on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,381,638 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,382,071 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 59 | [So Called Life](https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:26 |
 | 60 | [Silver Tongue](https://open.spotify.com/track/7l3WTEY9owUL3kRgna75Bd) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Silver Tongue](https://open.spotify.com/album/60gDJXh5wx8VyyvFkt7fbf) | 4:18 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDMwYWUyYjEzZjI0OGVhNGZhOWUxYWQzYmYxZGY1MDBh`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDljYTU1ZDRmODM2M2Y1NzM4ZDFlZmQ3OGQyODhhMjYx`

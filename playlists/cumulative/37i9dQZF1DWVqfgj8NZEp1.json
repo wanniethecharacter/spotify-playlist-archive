@@ -633,6 +633,36 @@
     },
     {
       "album": {
+        "name": "ASTA 2",
+        "url": "https://open.spotify.com/album/54ew3n9npGAcqI9GtBBTpo"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ceccarelli",
+          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
+        },
+        {
+          "name": "Sylvain Beuf",
+          "url": "https://open.spotify.com/artist/0T3LDHnKTHrfICsXP6bzZz"
+        },
+        {
+          "name": "Thomas Bramerie",
+          "url": "https://open.spotify.com/artist/0wDzOYze3ix7yh8brXMZBq"
+        },
+        {
+          "name": "Antonio Fara\u00f2",
+          "url": "https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149853,
+      "name": "Balkis",
+      "url": "https://open.spotify.com/track/50r8xQYk7Gyo4N9mnguBWJ"
+    },
+    {
+      "album": {
         "name": "Trying to Figure It Out",
         "url": "https://open.spotify.com/album/0bdzkLwOBum4GKlrVnOfAE"
       },
@@ -2851,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/3QItkNHdOvWF0nU9QX2ELQ"
+      },
+      "artists": [
+        {
+          "name": "Donatas Petreikis",
+          "url": "https://open.spotify.com/artist/2GohawNLmXECVv5UOhQYM2"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350322,
+      "name": "Lost Souls",
+      "url": "https://open.spotify.com/track/08M4RqR7inoJHlarJHv3nY"
+    },
+    {
+      "album": {
         "name": "Love & Peace",
         "url": "https://open.spotify.com/album/7LhEJGta4uIPtAMC5AQm5n"
       },
@@ -3984,6 +4032,24 @@
       "duration_ms": 311480,
       "name": "Romaria",
       "url": "https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0"
+    },
+    {
+      "album": {
+        "name": "Round Midnight",
+        "url": "https://open.spotify.com/album/4LgeBu2FmDL9nakgrReCuH"
+      },
+      "artists": [
+        {
+          "name": "The Mellowtones",
+          "url": "https://open.spotify.com/artist/00Riinu1dD4y04vDPULBE6"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301109,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/5DlGJh3S6jYf0wZAiESvwA"
     },
     {
       "album": {

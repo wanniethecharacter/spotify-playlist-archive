@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. cassyette",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. lvra",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -186,6 +186,24 @@
       "duration_ms": 140693,
       "name": "Alter Ego",
       "url": "https://open.spotify.com/track/1miBcqjGpcoTBcdjnFjJrG"
+    },
+    {
+      "album": {
+        "name": "AMERICA'S NEXT TOP MODEL",
+        "url": "https://open.spotify.com/album/5ikznb8ESMJCEskirCSFGl"
+      },
+      "artists": [
+        {
+          "name": "SPIDER",
+          "url": "https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175491,
+      "name": "AMERICA'S NEXT TOP MODEL",
+      "url": "https://open.spotify.com/track/2bZeCw3SEcY0uMq2bdhFGc"
     },
     {
       "album": {
@@ -572,7 +590,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 319025,
       "name": "Battery Acid",
       "url": "https://open.spotify.com/track/4PmaAXwZN8DrgnnJgyiiY3"
@@ -916,7 +934,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 266160,
       "name": "Boohoo Baby",
       "url": "https://open.spotify.com/track/0EAGLQH0rTEL8EBCMg7DDn"
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 133305,
       "name": "Cdbaby<3 - underscores remix",
       "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 132631,
       "name": "complicated",
       "url": "https://open.spotify.com/track/4J65QmTZvsq9SCvuY8ej3W"
@@ -1482,10 +1500,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 159110,
       "name": "Count of three (You can eat $#@!)",
       "url": "https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS"
+    },
+    {
+      "album": {
+        "name": "Count of three (You can eat $#@!) \u2013 Nightcore \u2018Sped-up\u2019 Version",
+        "url": "https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159110,
+      "name": "Count of three (You can eat $#@!)",
+      "url": "https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu"
     },
     {
       "album": {
@@ -1500,7 +1536,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 126857,
       "name": "COZ I'M THAT MOTHERF*CKIN",
       "url": "https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt"
@@ -1822,7 +1858,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 182760,
       "name": "Destroy Me",
       "url": "https://open.spotify.com/track/2mlgv5IPl77e37iGFMwNhv"
@@ -3224,7 +3260,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 142099,
       "name": "Happy Kid",
       "url": "https://open.spotify.com/track/0wtKHFtA9WC8if4CMZMqT4"
@@ -3380,6 +3416,24 @@
       "duration_ms": 111875,
       "name": "heather",
       "url": "https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX"
+    },
+    {
+      "album": {
+        "name": "Heaven Surrounds Us Like a Hood",
+        "url": "https://open.spotify.com/album/5t7N8dFT1XvMnDekrjfHkb"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "Heaven Surrounds Us Like a Hood",
+      "url": "https://open.spotify.com/track/3nEGqUkkHyrDE9od2Uh2FM"
     },
     {
       "album": {
@@ -3846,10 +3900,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 165354,
       "name": "I Want Attention",
       "url": "https://open.spotify.com/track/3TpiQEymyuGx4BBZAuAwnv"
+    },
+    {
+      "album": {
+        "name": "I Want Attention",
+        "url": "https://open.spotify.com/album/1H3SqVXlAOxhEf1RrU4gJf"
+      },
+      "artists": [
+        {
+          "name": "ZELA",
+          "url": "https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165354,
+      "name": "I Want Attention",
+      "url": "https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF"
     },
     {
       "album": {
@@ -3922,7 +3994,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 160592,
       "name": "i wrote this song for you",
       "url": "https://open.spotify.com/track/6SI6iZF77D0ODO4btUgsmm"
@@ -4154,7 +4226,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 158478,
       "name": "Internetgf",
       "url": "https://open.spotify.com/track/62Nr3aP2VXVmNySZmiJyOY"
@@ -4248,7 +4320,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 322444,
       "name": "IVE OFFICIALLY LOST ViSiON!!!!",
       "url": "https://open.spotify.com/track/4PXuZYWhkyGXQzfSRy2PW1"
@@ -6210,7 +6282,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 186005,
       "name": "portal",
       "url": "https://open.spotify.com/track/5jdUVh8cPAZxEAL8d4D1KY"
@@ -6308,7 +6380,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 136600,
       "name": "PRINCESS CHARMING",
       "url": "https://open.spotify.com/track/2nbgP5RRvwoNYxdOBx3lXA"
@@ -6482,7 +6554,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 184840,
       "name": "REB00T MYSELF (feat. Tired Violence)",
       "url": "https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG"
@@ -7852,7 +7924,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 269056,
       "name": "to breed",
       "url": "https://open.spotify.com/track/19fwvJDJAITeSDxZBpBeAP"
@@ -8240,7 +8312,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 175200,
       "name": "WARNING LABEL",
       "url": "https://open.spotify.com/track/57HGmkFTWz7U0iNvKpgxMJ"
@@ -8302,6 +8374,24 @@
       "duration_ms": 202573,
       "name": "We're All Going To Die",
       "url": "https://open.spotify.com/track/6jQmhIdemWV7Sp9STU55Fp"
+    },
+    {
+      "album": {
+        "name": "Weaponize This",
+        "url": "https://open.spotify.com/album/6Ju8h0MO81dfkW43SO76Og"
+      },
+      "artists": [
+        {
+          "name": "DEAR-GOD",
+          "url": "https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160600,
+      "name": "Weaponize This",
+      "url": "https://open.spotify.com/track/5DLeSJtjxhoNQRUm2zCWyk"
     },
     {
       "album": {
@@ -8525,6 +8615,24 @@
     },
     {
       "album": {
+        "name": "Worms",
+        "url": "https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148690,
+      "name": "Worms",
+      "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"
+    },
+    {
+      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/7c2tn9kdsI0FlJHJBQH2kI"
       },
@@ -8594,6 +8702,24 @@
       "duration_ms": 211200,
       "name": "yeR sTupiD NighTmaRe (mAd wOrLd)",
       "url": "https://open.spotify.com/track/1GyNFQ9q61xNcIEF9zfpYy"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/6IVg6Cvr9dHktpmkFjOpT6"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114342,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/5yxXbY0npSW5ddLAtxCV83"
     },
     {
       "album": {

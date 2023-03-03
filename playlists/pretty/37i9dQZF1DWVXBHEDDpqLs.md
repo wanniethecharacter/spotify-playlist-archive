@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > Take a world tour on the club floor\. <br/>Cover: DJ Swisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,572 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,586 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 99 | [Jump Out](https://open.spotify.com/track/7oJfSplYb4omWhFM5ttmcf) | [Big Dope P](https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Jump Out](https://open.spotify.com/album/6L24he0bjg76mBaETv1zM3) | 3:05 |
 | 100 | [Alone Again](https://open.spotify.com/track/6dyYYx3awmMWPYvscFZkEU) | [Funky Craig](https://open.spotify.com/artist/2yKm5l8fjv7wjP4xFbVbjE) | [Alone Again](https://open.spotify.com/album/14RQ2XILeCYCowPJgwdvfh) | 3:15 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGY3MDdiODdjOWE2NzlhMzgxNGViNWNhN2ZjZGVlOTYw`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDJiN2E4MTZlNTUyZWRlZWYwYWZmMzhhNDY2MDJlZTAy`

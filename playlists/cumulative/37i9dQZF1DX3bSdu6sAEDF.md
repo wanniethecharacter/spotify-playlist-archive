@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-280 songs - 15 hr 49 min
+282 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 | 2022-04-22 |  |
 | [Another Broken Heart](https://open.spotify.com/track/7MGEno7KAP4QgcBMGZzusR) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4) | 2:47 | 2022-09-02 |  |
 | [Another Day Down](https://open.spotify.com/track/3Iuo5WhKzkaTTkOzVhg1Ei) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Another Day Down](https://open.spotify.com/album/253qdf33LlE8VpEnmg0KO8) | 3:37 | 2022-01-19 | 2022-05-11 |
-| [Another Day Down](https://open.spotify.com/track/78tGXzeoBXa1bJ5lnxiFl5) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 3:37 | 2022-01-21 |  |
+| [Another Day Down](https://open.spotify.com/track/3Tp5o72A1T75oaKgajqd8e) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 3:37 | 2022-01-21 |  |
+| [Another Day Down](https://open.spotify.com/track/78tGXzeoBXa1bJ5lnxiFl5) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 3:37 | 2022-01-21 | 2023-03-03 |
 | [Arizona](https://open.spotify.com/track/5G8SKxTc9IyEztS6moUTo0) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Arizona](https://open.spotify.com/album/6xOFtVaRYtNRk3EktrbjNo) | 2:11 | 2022-09-16 |  |
 | [Arizona](https://open.spotify.com/track/63nK13LZrRDdKpLRSj4uca) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Arizona](https://open.spotify.com/album/5mIY4ShCactjPKntsiRcHZ) | 2:11 | 2022-09-09 | 2022-09-17 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-01 |  |
@@ -116,7 +117,8 @@
 | [Heartbeat Changes](https://open.spotify.com/track/5fcMjLsEtBOJLk1kRv2j9W) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/1Utcb3SXIeR6ESyIxjCP01) | 3:08 | 2022-06-10 |  |
 | [Hearts on Fire](https://open.spotify.com/track/5HkslahmVaoXXjbphnlYmZ) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:48 | 2022-09-16 | 2022-10-01 |
 | [Her Body Is Bible](https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Her Body Is Bible](https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D) | 2:57 | 2022-06-24 | 2022-09-28 |
-| [Here You Are](https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/5FLfZyi6mP2tvQJjmcSqpL) | 3:08 | 2022-01-28 |  |
+| [Here You Are](https://open.spotify.com/track/0ihNcF29gXIVvzknTpuvZl) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/0l4MKvhtXCavnpHgUROcLh) | 3:08 | 2022-02-04 |  |
+| [Here You Are](https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/5FLfZyi6mP2tvQJjmcSqpL) | 3:08 | 2022-01-28 | 2023-03-03 |
 | [High No More](https://open.spotify.com/track/71p2ub5QJhJTzfvXbXaUXd) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [High No More](https://open.spotify.com/album/2NEmopTAPp4ZmqRRJ6wTdB) | 3:18 | 2022-01-19 |  |
 | [High Water](https://open.spotify.com/track/0ZrHaA9ei55Km65yBodElf) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [High Water / Art of Survival](https://open.spotify.com/album/35Wec8JgWduyeZnMsvPpym) | 3:09 | 2022-04-08 |  |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2022-01-19 |  |

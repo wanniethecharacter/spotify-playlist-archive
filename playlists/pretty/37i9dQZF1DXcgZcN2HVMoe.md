@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,049 likes - 200 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,186 likes - 200 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 199 | [Microdose](https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD) | 5:35 |
 | 200 | [Learn To Be Still](https://open.spotify.com/track/5POu9RspR7sR9zD5m6ZZkJ) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hell Freezes Over \(Remaster 2018\)](https://open.spotify.com/album/2Tz88LCwtg5sli8x2YjJyF) | 4:28 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDJiNzdhNWQ3MDU2YzM3ZGYxNzE5NDFmYzk4Mjc1MjQ4`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMGU2ZjgyZDI5MjFlZmU5NWJiMGM0OTcyZmI4MjY4YmIw`

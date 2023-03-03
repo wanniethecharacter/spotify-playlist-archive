@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,651 likes - 120 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,737 likes - 120 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 119 | [Baby Back to Me](https://open.spotify.com/track/4JNwX5jryAvLWcB38Kriyh) | [Mongarfield](https://open.spotify.com/artist/0RiXHV3CODQwPjdM79ntEX) | [Top Jazz Blues Festival 1964](https://open.spotify.com/album/68AAzzir4EMjSEZYDvbDM0) | 3:22 |
 | 120 | [Lee’s Blues](https://open.spotify.com/track/5JgTwbPuqCCKV6wfTeNT2L) | [Oliver Darling](https://open.spotify.com/artist/5wU74VdLtnvreTbydFZg6f) | [Lee's Blues](https://open.spotify.com/album/1nGxSeKWJlbUgOERip9lIA) | 2:54 |
 
-Snapshot ID: `MTY3NzI1OTYzNiwwMDAwMDAwMGEzN2JmMjI3MjcyMzQzNGE4MmMxNTJiNmM5MmY3NDQ4`
+Snapshot ID: `MTY3NzI1OTYzNiwwMDAwMDAwMDllMDg1MjEyY2JkNWFlZWJhNjdhNTA1OThkMzM3MmNj`

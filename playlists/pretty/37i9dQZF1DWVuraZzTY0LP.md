@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Escucha la selección que Señoras Punk hicieron para Mamá Cool\. 🤘🏼🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,557 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,607 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 99 | [Todos Mis Amigos Tienen Covid](https://open.spotify.com/track/67n0eh73NUPu8X3y042g4m) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Lo Que Te Pide el Cuerpo](https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m) | 2:43 |
 | 100 | [Falso Verano](https://open.spotify.com/track/7GKmwwvAcOoxZBIAs2KyyP) | [Srta\. Trueno Negro](https://open.spotify.com/artist/5hVTdFTyOgwBKn5CWKnwrQ) | [Sonido Donosti](https://open.spotify.com/album/5pswLcxKjBAaCU7KsDB7eJ) | 3:10 |
 
-Snapshot ID: `MTY3NjkxNzA5MiwwMDAwMDAwMDdiZWQ1NzJjODdiMzk2YTI2ZTFiMTM0YTdiNjhkOGFh`
+Snapshot ID: `MTY3NjkxNzA5MiwwMDAwMDAwMDljZDg4MjZlNzE3YjQ2OGUyYjM4YmM2MzEzZjRkYWY2`

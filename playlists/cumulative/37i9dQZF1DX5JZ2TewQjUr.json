@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: ProdiG",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: CHANKA & hirsk",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -1749,6 +1749,28 @@
     },
     {
       "album": {
+        "name": "g\u00f6mb\u00f6c",
+        "url": "https://open.spotify.com/album/3ynKmPgPzFzTT8krlAXBen"
+      },
+      "artists": [
+        {
+          "name": "hirsk",
+          "url": "https://open.spotify.com/artist/1WxYe59SGsEY1e6fLII0hB"
+        },
+        {
+          "name": "CHANKA",
+          "url": "https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149560,
+      "name": "g\u00f6mb\u00f6c",
+      "url": "https://open.spotify.com/track/3BzCye7qSkPzUvjITcgR6Y"
+    },
+    {
+      "album": {
         "name": "Hang\u4f60\u8001\u6bcd MeowMeow",
         "url": "https://open.spotify.com/album/6xSiSkRW0zPgkF6r5P8F9J"
       },
@@ -2346,6 +2368,24 @@
       "duration_ms": 99056,
       "name": "june (february\u2019s not long ahead)",
       "url": "https://open.spotify.com/track/1MKkSOM3kebfkMT6lKLwZc"
+    },
+    {
+      "album": {
+        "name": "Kowloon Cowboy Theme",
+        "url": "https://open.spotify.com/album/4Op3cpQTauXzROMdyhQNqH"
+      },
+      "artists": [
+        {
+          "name": "Kowloon Cowboy",
+          "url": "https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Kowloon Cowboy Theme",
+      "url": "https://open.spotify.com/track/6HmJ7v6gGkiZ8RFyfBmxEx"
     },
     {
       "album": {
@@ -3617,6 +3657,24 @@
     },
     {
       "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/6JUJOejhs4UqdJ24idnPg2"
+      },
+      "artists": [
+        {
+          "name": "Virgin Vacation",
+          "url": "https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238096,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/19K0OIFCngMctZewUmkl9U"
+    },
+    {
+      "album": {
         "name": "red & gold",
         "url": "https://open.spotify.com/album/5YvfeqgciOc85XlTFn72r1"
       },
@@ -3837,6 +3895,24 @@
     },
     {
       "album": {
+        "name": "smth2feel",
+        "url": "https://open.spotify.com/album/1Yi2QFQsvFDlQMjTS1IoMh"
+      },
+      "artists": [
+        {
+          "name": "sanjay.",
+          "url": "https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "smth2feel",
+      "url": "https://open.spotify.com/track/0uDndj1OaoLDqfIujh5XeQ"
+    },
+    {
+      "album": {
         "name": "Rainy Days in the Blue Whale",
         "url": "https://open.spotify.com/album/477KtPkwvfcOTAzHs9pf7q"
       },
@@ -3986,6 +4062,24 @@
       "duration_ms": 203960,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/7Kz8jS0iJ07JjWkN6gY0S6"
+    },
+    {
+      "album": {
+        "name": "Sponsor Me",
+        "url": "https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb"
+      },
+      "artists": [
+        {
+          "name": "hisbbuR",
+          "url": "https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220285,
+      "name": "Sponsor Me",
+      "url": "https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7"
     },
     {
       "album": {
@@ -4876,6 +4970,24 @@
       "duration_ms": 232340,
       "name": "We Don't Talk 'Bout Love",
       "url": "https://open.spotify.com/track/0f1vhVkouckNqcwQJCpyEv"
+    },
+    {
+      "album": {
+        "name": "we know it's not, babe",
+        "url": "https://open.spotify.com/album/4I3AjlGjqinI8xpkuQCVDw"
+      },
+      "artists": [
+        {
+          "name": "melatonin boy",
+          "url": "https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "we know it's not, babe",
+      "url": "https://open.spotify.com/track/73EcV0W0GZG2o8FjiRdEZ3"
     },
     {
       "album": {

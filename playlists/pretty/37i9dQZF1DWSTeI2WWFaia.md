@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Ab\-Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,602,825 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,602,997 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Flowers \(feat\. MAVI\)](https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Flowers \(feat\. MAVI\)](https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD) | 3:02 |
 | 50 | [No Save Point \- From "Cyberpunk 2077"](https://open.spotify.com/track/27SjutLnh1PXRYDjmSDs78) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [No Save Point \(From "Cyberpunk 2077"\)](https://open.spotify.com/album/0AeuKmOe7czsrYwwovI3qu) | 3:15 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDA0MTA3MGI1MjZhMzM2MDI1YTk4ODg5N2MxZmEzMmYz`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDNhYWRjNjllZjVhMTdlNDA4ZDBiMjU5MDJkNDgzMzYy`

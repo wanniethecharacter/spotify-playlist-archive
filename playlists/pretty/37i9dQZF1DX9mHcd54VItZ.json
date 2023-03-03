@@ -1,13 +1,81 @@
 {
   "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS?si=LsiXeXHtRJKZdTacWbURoA\">Gevoel van Veiligheid</a>",
-  "num_followers": 12214,
+  "num_followers": 12224,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE4OTU0MCwwMDAwMDAwMGJiZTlhMmYwMmY0NjAwMmU2N2JhZTk0ZDIwMmRjMmZl",
+  "snapshot_id": "MTY3Nzc5NDM0MCwwMDAwMDAwMDJkZGUxMWUxODg3M2YyNGY1NTYxZDkxNjVkZmFiMWFj",
   "tracks": [
+    {
+      "added_at": "2023-02-16 21:59:00",
+      "album": {
+        "name": "Toe Roep Ek Jou Naam Velvet Blohm",
+        "url": "https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi"
+      },
+      "artists": [
+        {
+          "name": "Jan Blohm",
+          "url": "https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW"
+        },
+        {
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "Toe Roep Ek Jou Naam",
+      "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
+    },
+    {
+      "added_at": "2023-02-16 21:59:00",
+      "album": {
+        "name": "Bittersomerson",
+        "url": "https://open.spotify.com/album/4nBvLruXuk9NGPo8EeUwPt"
+      },
+      "artists": [
+        {
+          "name": "Gevoel van Veiligheid",
+          "url": "https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS"
+        }
+      ],
+      "duration_ms": 181728,
+      "name": "Bittersomerson",
+      "url": "https://open.spotify.com/track/7lC9qPhTnfYYjXqeSKun7y"
+    },
+    {
+      "added_at": "2023-02-16 21:59:00",
+      "album": {
+        "name": "Nameless Days",
+        "url": "https://open.spotify.com/album/5qKOPF5c7lRbycEM4lZf7n"
+      },
+      "artists": [
+        {
+          "name": "Brynn",
+          "url": "https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n"
+        }
+      ],
+      "duration_ms": 251189,
+      "name": "Nameless Days",
+      "url": "https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j"
+    },
+    {
+      "added_at": "2023-03-02 21:59:00",
+      "album": {
+        "name": "In My mind",
+        "url": "https://open.spotify.com/album/6t2MjbEdLrdir2i4bIN0kL"
+      },
+      "artists": [
+        {
+          "name": "The Tazers",
+          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/4QIujxtLqnP1AGndp7fNlR"
+    },
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
@@ -29,36 +97,20 @@
       "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
+      "added_at": "2023-03-02 21:59:00",
       "album": {
-        "name": "Nameless Days",
-        "url": "https://open.spotify.com/album/5qKOPF5c7lRbycEM4lZf7n"
+        "name": "Would you ring me",
+        "url": "https://open.spotify.com/album/1Mp1dAxbCYUoRVmoHAHbbd"
       },
       "artists": [
         {
-          "name": "Brynn",
-          "url": "https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n"
+          "name": "Gangsterdam",
+          "url": "https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS"
         }
       ],
-      "duration_ms": 251189,
-      "name": "Nameless Days",
-      "url": "https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Bittersomerson",
-        "url": "https://open.spotify.com/album/4nBvLruXuk9NGPo8EeUwPt"
-      },
-      "artists": [
-        {
-          "name": "Gevoel van Veiligheid",
-          "url": "https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS"
-        }
-      ],
-      "duration_ms": 181728,
-      "name": "Bittersomerson",
-      "url": "https://open.spotify.com/track/7lC9qPhTnfYYjXqeSKun7y"
+      "duration_ms": 165746,
+      "name": "Would you ring me",
+      "url": "https://open.spotify.com/track/67u6GPGmrgkn6J6lRGb3PB"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -75,26 +127,6 @@
       "duration_ms": 206772,
       "name": "Caravan In The Mist",
       "url": "https://open.spotify.com/track/6raknpOUrMns81fs28m5xl"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Toe Roep Ek Jou Naam Velvet Blohm",
-        "url": "https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi"
-      },
-      "artists": [
-        {
-          "name": "Jan Blohm",
-          "url": "https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW"
-        },
-        {
-          "name": "Ryno Velvet",
-          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "Toe Roep Ek Jou Naam",
-      "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
     },
     {
       "added_at": "2023-02-21 08:56:24",
@@ -145,6 +177,22 @@
       "url": "https://open.spotify.com/track/1HitnCS6sx1ffnsZkFiZky"
     },
     {
+      "added_at": "2023-03-02 21:59:00",
+      "album": {
+        "name": "Theory of Emotion",
+        "url": "https://open.spotify.com/album/4BznP0N1xfGkGR0aWspdvE"
+      },
+      "artists": [
+        {
+          "name": "Indie Dog",
+          "url": "https://open.spotify.com/artist/3RXbBpqUbS5sBzgyWgkotn"
+        }
+      ],
+      "duration_ms": 288624,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/41HTRLeK7GD9251tiuX1vX"
+    },
+    {
       "added_at": "2023-02-16 21:59:00",
       "album": {
         "name": "CUPID",
@@ -179,6 +227,22 @@
       "duration_ms": 273475,
       "name": "Erika Way",
       "url": "https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7"
+    },
+    {
+      "added_at": "2023-03-02 21:59:00",
+      "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/1d5hvQ7OYkZmpVfMLf9Vqj"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1os",
+          "url": "https://open.spotify.com/artist/3AOLvJjBisGaLoFRWsVOPL"
+        }
+      ],
+      "duration_ms": 322500,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/4Qyg5bCO8wA2K5KB3iZf7D"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -229,6 +293,26 @@
       "url": "https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO"
     },
     {
+      "added_at": "2023-03-02 21:59:00",
+      "album": {
+        "name": "The Leviathan",
+        "url": "https://open.spotify.com/album/6Gf7nvDafo6q32o5fnGKiZ"
+      },
+      "artists": [
+        {
+          "name": "Punkfontein",
+          "url": "https://open.spotify.com/artist/45RbBX6HK79QQlhywGeh2v"
+        },
+        {
+          "name": "Meel Vignetting",
+          "url": "https://open.spotify.com/artist/41DpVSJ3Inz1K29pucUz4d"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "The Leviathan",
+      "url": "https://open.spotify.com/track/5ww5VmYgYGQtGMJiz2tDTQ"
+    },
+    {
       "added_at": "2023-02-16 21:59:00",
       "album": {
         "name": "A Million Ways to Die",
@@ -243,6 +327,26 @@
       "duration_ms": 361839,
       "name": "Cat People (Putting out Fire)",
       "url": "https://open.spotify.com/track/235kuiRl7LYWJuJ0JnDw1j"
+    },
+    {
+      "added_at": "2023-03-02 21:59:00",
+      "album": {
+        "name": "Hoer In Beton",
+        "url": "https://open.spotify.com/album/6NwMydQDPSmxYq4OgZ9uPh"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/3GhHWHWIAs0uWCawtI3v4t"
+        },
+        {
+          "name": "Koos Kombuis",
+          "url": "https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ"
+        }
+      ],
+      "duration_ms": 280248,
+      "name": "Hoer In Beton",
+      "url": "https://open.spotify.com/track/4fnZUb6KEtgcGIx3eWgJi0"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -563,22 +667,6 @@
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
-        "name": "Coming in Hot",
-        "url": "https://open.spotify.com/album/6NRTD0I4d75b9byRFw67Sd"
-      },
-      "artists": [
-        {
-          "name": "The Incidentals",
-          "url": "https://open.spotify.com/artist/5eTPQQeM4ggfNxQ9m4dDfS"
-        }
-      ],
-      "duration_ms": 230604,
-      "name": "Coming in Hot",
-      "url": "https://open.spotify.com/track/0C5VbQrV3LDqPue7LNRhTo"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
         "name": "No One Else Will",
         "url": "https://open.spotify.com/album/3xq4IJTrAK1atE6FVsBY98"
       },
@@ -611,22 +699,6 @@
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
-        "name": "Gods Gift",
-        "url": "https://open.spotify.com/album/2gQmIomnl7SgDVZyvqxMBi"
-      },
-      "artists": [
-        {
-          "name": "Beyond Rebellion",
-          "url": "https://open.spotify.com/artist/4Xl49RTIZKi3DYvoC1AkXe"
-        }
-      ],
-      "duration_ms": 196753,
-      "name": "Gods Gift",
-      "url": "https://open.spotify.com/track/5APaebgO8j2iv9948t0s4N"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
         "name": "Heaving",
         "url": "https://open.spotify.com/album/4vVdnV7qeVHfw6eXvsuAHj"
       },
@@ -639,38 +711,6 @@
       "duration_ms": 206840,
       "name": "Heaving",
       "url": "https://open.spotify.com/track/0sYJEJYGBKaiTcHdAcMAUP"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Laatnag-sonop-koebaai",
-        "url": "https://open.spotify.com/album/6gvpn8iBbVXJEbmWt3sLVN"
-      },
-      "artists": [
-        {
-          "name": "Posduif",
-          "url": "https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349"
-        }
-      ],
-      "duration_ms": 229561,
-      "name": "Laatnag-sonop-koebaai",
-      "url": "https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Briewe Uit Die Argiewe",
-        "url": "https://open.spotify.com/album/0S5HPecNnxsYdKnQXPVdcG"
-      },
-      "artists": [
-        {
-          "name": "Bouwer Bosch",
-          "url": "https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te"
-        }
-      ],
-      "duration_ms": 225911,
-      "name": "Skemer",
-      "url": "https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -739,22 +779,6 @@
     {
       "added_at": "2023-02-16 21:59:00",
       "album": {
-        "name": "Chapter II",
-        "url": "https://open.spotify.com/album/7AkMozqHXDF5OtauzP2ZQI"
-      },
-      "artists": [
-        {
-          "name": "Ross Harding",
-          "url": "https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA"
-        }
-      ],
-      "duration_ms": 282240,
-      "name": "Black Sun Blues",
-      "url": "https://open.spotify.com/track/4rBXj6zG73kTuhdZGmSMHR"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
         "name": "As I Turn Away",
         "url": "https://open.spotify.com/album/62Ho9iSsrb6yX7lLMx36FS"
       },
@@ -815,22 +839,6 @@
       "duration_ms": 214266,
       "name": "Die Son",
       "url": "https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/64Na1iGg8petII9jhmDNf3"
-      },
-      "artists": [
-        {
-          "name": "aboynamedblu",
-          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
-        }
-      ],
-      "duration_ms": 145907,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/4QOGyHQHQBh8Legq1hrOcE"
     },
     {
       "added_at": "2023-02-16 21:59:00",

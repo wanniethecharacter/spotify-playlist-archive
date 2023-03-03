@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,638 likes - 75 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,706 likes - 75 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 74 | [Liquid Planta Seeds](https://open.spotify.com/track/0EHxTCvQpFpXkiyx0FwBRq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Liquid Planta Seeds](https://open.spotify.com/album/2qobaujPblxqumcde6yjVY) | 3:24 |
 | 75 | [Approximate Bermeja](https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk) | [Andrew Pekler](https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J) | [Sounds From Phantom Islands](https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI) | 3:09 |
 
-Snapshot ID: `MTY2NDg5Mjg2OCwwMDAwMDAwMDdiMTFlMjBmZGFlODkzMDVjY2ExYTVhZDUzY2VjZTBk`
+Snapshot ID: `MTY2NDg5Mjg2OCwwMDAwMDAwMDhmYTYxMDI4NzE2ZTk1MjA3YWU2M2Y2MjdlZDI2ZTVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,364 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,503 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [Close To Me \(with Diplo\) \(feat\. Swae Lee\) \- Felix Cartal Remix](https://open.spotify.com/track/5mYNWSc1AE7pWS3Ax4e8Dl) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Close To Me \(Remixes\)](https://open.spotify.com/album/2tRRqWb7Zfodd3bO0cTDwc) | 3:43 |
 | 50 | [Family \- Frank Walker Remix](https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Family \(Remixes\)](https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C) | 3:05 |
 
-Snapshot ID: `MTY3NjAzMzcxNCwwMDAwMDAwMDBjMzk4YzFlZTZhMzBhOTBiYmY0MDgzZGZlODg4YjRh`
+Snapshot ID: `MTY3NjAzMzcxNCwwMDAwMDAwMDRlYWQxMzQ2OTk4NDdmMDkxODczZjJmZjBkYjg1MzM1`

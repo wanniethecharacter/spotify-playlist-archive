@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,733 likes - 60 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,777 likes - 60 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 59 | [Living](https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu) | [Eugene Bridges](https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR) | [Jump the Joint](https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ) | 6:29 |
 | 60 | [Hold On](https://open.spotify.com/track/6hvJliJvOMHiKSXjPyUoZf) | [Carl Weathersby](https://open.spotify.com/artist/2Qs4vDt8kbXB2sZUDisXPw) | [Hold On](https://open.spotify.com/album/0JBRVO8stjOO9JF4UnrWSv) | 4:24 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMGY4ZjUzMWUzNmJiNDRjZDE5ZWE5M2VkMmNiN2VkYjcw`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDdmODliYzE4MWNlM2UxNTJkOWI3MWE4NjYwN2FlODll`

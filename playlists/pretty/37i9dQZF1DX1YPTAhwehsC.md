@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Bizzy Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,723 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,857 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Killer Bs](https://open.spotify.com/track/0Lm1lIulmYFTbom8IawHP1) | [Fedd the God](https://open.spotify.com/artist/23tQKPyz9GU1ZuCjH7X9Hw), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT) | [3Peat](https://open.spotify.com/album/5kkvz7fNonOAM83ZjaR0GX) | 3:15 |
 | 100 | [Up All Night](https://open.spotify.com/track/2KF1l4TqQ1e6NiblLyrnWC) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Up All Night](https://open.spotify.com/album/437kvwYTzkpwEnWe0ev5wc) | 3:09 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDQ3ZjM1MGRlMDM4MGIyYjY3YjdmYWZhY2I4OWM4ZmI4`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDNhOWZhYzZlYjZjMDY4YjA3Njc2OGNhNjFhN2M2MWUx`

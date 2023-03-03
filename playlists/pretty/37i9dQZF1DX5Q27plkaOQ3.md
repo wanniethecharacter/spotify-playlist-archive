@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Jessica Audiffred
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,132 likes - 125 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,186 likes - 125 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 124 | [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 |
 | 125 | [LOST IN YOU](https://open.spotify.com/track/4TMtydweRFufJuukwDH48j) | [Monxx](https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0) | [LOST IN YOU](https://open.spotify.com/album/5IAPB5SzAZOZkYFOXGEA4C) | 3:34 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDY1MmIxYmZhMDFiODQzZTVkOWMzYWZhZTM0NDUyZjI3`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGM5NWIyYjg1NDViZTg2YWJmZDZmY2FiMGNhYTVmYjY3`

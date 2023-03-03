@@ -745,6 +745,36 @@
     },
     {
       "album": {
+        "name": "Bola do Olho",
+        "url": "https://open.spotify.com/album/30YZaQriDX8QnCFjzCFZqG"
+      },
+      "artists": [
+        {
+          "name": "NN3RD",
+          "url": "https://open.spotify.com/artist/1Z03arRtzZ9BC49yiCQ839"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        },
+        {
+          "name": "D3cker",
+          "url": "https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160597,
+      "name": "Bola do Olho",
+      "url": "https://open.spotify.com/track/7qYBvQ6BjDcOJGLWRk8DLz"
+    },
+    {
+      "album": {
         "name": "Bola Outro",
         "url": "https://open.spotify.com/album/02eiESoDXSLUznRx3Pz9OK"
       },
@@ -2214,7 +2244,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 205241,
       "name": "Jhony Convida #4 - Se Quiser Falar de Amor",
       "url": "https://open.spotify.com/track/0V9FtpyDuKBWhOQ9D6n66J"
@@ -2390,6 +2420,32 @@
       "duration_ms": 185739,
       "name": "Lua",
       "url": "https://open.spotify.com/track/6dv0kYjuj6YjSHm4y1GPYU"
+    },
+    {
+      "album": {
+        "name": "Mais Um Trago",
+        "url": "https://open.spotify.com/album/1F3GjKuEB5kVwIlBgJQ9li"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172029,
+      "name": "Mais Um Trago",
+      "url": "https://open.spotify.com/track/38Ykj18FJ3YyyyVRIAFaxO"
     },
     {
       "album": {
@@ -3610,7 +3666,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 202895,
       "name": "Porcelana",
       "url": "https://open.spotify.com/track/7KF5WHohqVUMp0u2YERAxC"
@@ -4044,7 +4100,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 139103,
       "name": "Sentimento Ardente",
       "url": "https://open.spotify.com/track/3tnD41SFomx83APz4KijCO"
@@ -4632,6 +4688,28 @@
       "duration_ms": 217539,
       "name": "VALHO NADA",
       "url": "https://open.spotify.com/track/18XOY618zQH4bFw3TgVT9L"
+    },
+    {
+      "album": {
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "album": {

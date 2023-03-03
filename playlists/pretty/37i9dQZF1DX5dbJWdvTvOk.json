@@ -1,12 +1,12 @@
 {
   "description": "Canciones instrumentales de guitarra.",
-  "num_followers": 118825,
+  "num_followers": 118921,
   "original_name": "Guitarra Tranquila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzMjk0NCwwMDAwMDAwMGM3OWY0MzliYTRkMTMwNDQ2MDI0MmI4NmEyZTQ2ZDdj",
+  "snapshot_id": "MTY3NzIzMjk0NCwwMDAwMDAwMDJhNmE4YzA3ZjFhNTgxYzU5YTE1NTM1OTE5OGFkNDcw",
   "tracks": [
     {
       "added_at": "2023-02-24 10:02:24",
@@ -2056,17 +2056,21 @@
       "added_at": "2023-02-24 10:02:24",
       "album": {
         "name": "Flamenkito",
-        "url": "https://open.spotify.com/album/1fBj5GesrEQR2IfVUbaPKh"
+        "url": "https://open.spotify.com/album/6JWc5p5djyJLBKz9hdZnvk"
       },
       "artists": [
         {
           "name": "Simbad \"El nano\"",
           "url": "https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS"
+        },
+        {
+          "name": "Factoria Chakataga",
+          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
         }
       ],
       "duration_ms": 106992,
       "name": "Flamenkito",
-      "url": "https://open.spotify.com/track/4iI9eIAd3kZGB3dCEc3PxK"
+      "url": "https://open.spotify.com/track/2gZWsOLfX0W1Fu57qgFMQM"
     },
     {
       "added_at": "2023-02-24 10:02:24",

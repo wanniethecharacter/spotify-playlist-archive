@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,654,918 likes - 99 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,655,460 likes - 99 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 98 | [Dead Shot \(with Lil Uzi Vert\)](https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:01 |
 | 99 | [Vanish Mode](https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Where The Shooters Be](https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z) | 1:57 |
 
-Snapshot ID: `MTY3NzIxNDkyMCwwMDAwMDAwMGZiMjc4N2ZmNDRlOGI4MjY4ZmVhNzBlMmRiNmQ3MGM5`
+Snapshot ID: `MTY3NzIxNDkyMCwwMDAwMDAwMDRjYzAxZThkNTM0ZDRmMmFmNTVlYTAwYjk5NDc1ZDk0`

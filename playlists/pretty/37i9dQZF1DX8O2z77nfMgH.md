@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Karol G y Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,004 likes - 61 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,409 likes - 61 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 60 | [Reverse](https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Reverse](https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D) | 2:13 |
 | 61 | [De Atual Pra Ex \- Ao Vivo](https://open.spotify.com/track/2l2O7UZFJjWjvCIlF2crws) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diferentão \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/3wEWZruVritF6G5aKFQblY) | 3:24 |
 
-Snapshot ID: `MTY3NzI2NzM4NywwMDAwMDAwMDU2MTcyMmZmODEyNDQ4Yjc0ZjUzMzgzYjIwYjNiYjI0`
+Snapshot ID: `MTY3NzI2NzM4NywwMDAwMDAwMGY1MjA0YmM1ZjNmZjFjOGIyZTQwYzJkMGZhMzkxMzQw`

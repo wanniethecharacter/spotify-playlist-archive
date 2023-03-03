@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Lavi$h.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,361 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,453 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Paradise](https://open.spotify.com/track/4R3WUzM7xXAIzT5HhH1DDw) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/2vbt2pexKBrcNcEOZ2ObA2) | 3:22 |
 | 100 | [Queen St](https://open.spotify.com/track/3y5kablQcdGYEmLHkTHvIF) | [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [Queen St](https://open.spotify.com/album/64uOosOXFR6OL8AGnSsOls) | 3:04 |
 
-Snapshot ID: `MTY3NzI2NzQ1MSwwMDAwMDAwMDUxNTQzNGU3NjJhOTJmZDJmOTA3ODQ4OGNmNzg0OGU4`
+Snapshot ID: `MTY3NzI2NzQ1MSwwMDAwMDAwMDMzNGZlZTgzMTg2YTMwZWUwZWYxMzFlNDRlMzE3ODc5`

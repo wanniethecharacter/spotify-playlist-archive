@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Kamau",
+  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Febre 90's",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -4997,6 +4997,28 @@
     },
     {
       "album": {
+        "name": "Soldado sem Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6ocAO0JnWL8I9Nup1s7XEJ"
+      },
+      "artists": [
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/5jclJvn6eulBAXMjqrprO8"
+        },
+        {
+          "name": "Xavier2bit",
+          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140515,
+      "name": "Soldado sem Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2NzxxgUanq360r29LzuDQM"
+    },
+    {
+      "album": {
         "name": "O MENINO QUE QUERIA SER DEUS",
         "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
       },
@@ -5828,6 +5850,32 @@
       "duration_ms": 215730,
       "name": "Viver T\u00e1 Osso",
       "url": "https://open.spotify.com/track/63WtsqSUUR75iWvGyBwnIw"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Est\u00e1 Com Febre?",
+        "url": "https://open.spotify.com/album/7l5juy0pUDeyF9sKXt8mkL"
+      },
+      "artists": [
+        {
+          "name": "Febre90s",
+          "url": "https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku"
+        },
+        {
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
+        },
+        {
+          "name": "SonoTWS",
+          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165473,
+      "name": "Voc\u00ea Est\u00e1 Com Febre?",
+      "url": "https://open.spotify.com/track/6hC66C3uYkWWqCXBmyLpLd"
     },
     {
       "album": {

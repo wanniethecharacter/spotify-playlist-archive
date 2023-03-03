@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,437 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,582 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 99 | [Armadillo Shuffle](https://open.spotify.com/track/3cFsDWxEXUxtgUvOONu9qw) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Larry Luddecke](https://open.spotify.com/artist/4i6n9Ol2aduAd7XVCnaYOx) | [Moods 'n' Blues](https://open.spotify.com/album/40EXF4rP2AjiIPTnbRZvtU) | 2:01 |
 | 100 | [Like a Ship](https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [Keep on Lovin' the Blues](https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm) | 4:23 |
 
-Snapshot ID: `MTY3NzI1OTQ3OCwwMDAwMDAwMGJhMTIyNWE5NmNlODYyMDQzNWU2ZGE5ZjBmZmYxODk4`
+Snapshot ID: `MTY3NzI1OTQ3OCwwMDAwMDAwMDIyN2IwMTRjOGYyYzBjZGZmN2NiZjgzMzgzMDY0MjE3`

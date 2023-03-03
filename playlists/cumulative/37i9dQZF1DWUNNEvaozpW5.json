@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "INCONTROLABLE",
+        "url": "https://open.spotify.com/album/0AOsTlwaNyRYbf4p80nygq"
+      },
+      "artists": [
+        {
+          "name": "30s40s50s",
+          "url": "https://open.spotify.com/artist/0Gmn8HDAKgkkvxdsAiwzve"
+        },
+        {
+          "name": "Bely Basarte",
+          "url": "https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I"
+        },
+        {
+          "name": "David Otero",
+          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156235,
+      "name": "(incontrolable)",
+      "url": "https://open.spotify.com/track/5fpiMcL81I9166vrKkKTBJ"
+    },
+    {
+      "album": {
         "name": "Nos Vemos En Los Bares",
         "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
       },
@@ -414,7 +440,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 190800,
       "name": "Aunque el Infierno Se Congele",
       "url": "https://open.spotify.com/track/0H7HxKm2szWXhI3JBWATta"
@@ -962,7 +988,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 279613,
       "name": "Creo que me he perdido algo",
       "url": "https://open.spotify.com/track/75DOPnTP5GWEw2Xn9QaCe9"
@@ -1226,7 +1252,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 213888,
       "name": "Dime Que Me Quieres - Versi\u00f3n 2023",
       "url": "https://open.spotify.com/track/4M0QpqN0H0ZY9PbxqiqeLk"
@@ -1920,7 +1946,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 262626,
       "name": "Flojos de pantal\u00f3n",
       "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
@@ -2354,6 +2380,24 @@
       "duration_ms": 184253,
       "name": "La quiero a morir - Versi\u00f3n de Francis Cabrel",
       "url": "https://open.spotify.com/track/3bI6Y5gC4Ys3KzU6wtMcIp"
+    },
+    {
+      "album": {
+        "name": "La Reina del Adi\u00f3s",
+        "url": "https://open.spotify.com/album/6TsyDPALmP9g3ell95u861"
+      },
+      "artists": [
+        {
+          "name": "Los DelTonos",
+          "url": "https://open.spotify.com/artist/0ep7WDZsYAGAQPnpwe7dWt"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212019,
+      "name": "La Reina del Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0Kxc35nEHZ4G42YFcvvzL1"
     },
     {
       "album": {
@@ -3465,6 +3509,28 @@
     },
     {
       "album": {
+        "name": "P\u00e1jaros de Desv\u00e1n",
+        "url": "https://open.spotify.com/album/6rSWAtvFcpGfUtvnYzc6S4"
+      },
+      "artists": [
+        {
+          "name": "Litus",
+          "url": "https://open.spotify.com/artist/6Xq1CkD3KKbhK5DF1uzDBo"
+        },
+        {
+          "name": "M-Clan",
+          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215831,
+      "name": "P\u00e1jaros de Desv\u00e1n",
+      "url": "https://open.spotify.com/track/3zCKtvltc5c52y7ARFSJ2N"
+    },
+    {
+      "album": {
         "name": "Burning (Singles Collection)",
         "url": "https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN"
       },
@@ -3932,7 +3998,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 385933,
       "name": "Te busqu\u00e9 - En vivo El Sol 2, abril 1998",
       "url": "https://open.spotify.com/track/7aTr5pLgDf1DxeZYZjbxwy"

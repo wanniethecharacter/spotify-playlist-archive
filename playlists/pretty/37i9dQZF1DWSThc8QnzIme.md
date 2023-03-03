@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 
 > Breeze through your commute with these pop favorites\. Cover: Lizzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,701 likes - 136 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,771 likes - 136 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 | 135 | [Dandelions](https://open.spotify.com/track/2h5cjNTM2gKzWc0d6WXhSr) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Dandelions](https://open.spotify.com/album/2oWeZcGc1X0yRLt8UvEpLU) | 3:53 |
 | 136 | [Without Me](https://open.spotify.com/track/5Oows4h53UGeAvJFyCMseY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:21 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDVmOWMzYjZiNmJiZWU2MWJlYTZmYjA2NTZhOWM3Mzcx`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDQ1M2Q5N2U3MGZmZGY3ODZlNzIzMTMwZTk2MTI2Njg2`

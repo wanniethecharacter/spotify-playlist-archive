@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con Big Soto.
 
-432 songs - 23 hr 53 min
+433 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Rebotando](https://open.spotify.com/track/1mdeAYnMYmXMw4fFSo5pdH) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Rebotando](https://open.spotify.com/album/0gUcZrn66ERS3JahEC6XXu) | 3:37 | 2021-12-24 | 2022-01-29 |
 | [Regresé](https://open.spotify.com/track/7mftg8God1V8NdHIukbGgx) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Regresé](https://open.spotify.com/album/1IvX6AN3z7OH8iXKRw3rXw) | 3:15 | 2022-01-14 | 2022-08-05 |
 | [Resaca](https://open.spotify.com/track/5O9qe3x4QUi7OCmkepWJat) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Resaca](https://open.spotify.com/album/2SxzHKPlWLNmGgtLK9cZD2) | 2:57 | 2021-12-24 | 2022-05-13 |
+| [REÑACA](https://open.spotify.com/track/3MioiUQSZ9rUWHhIxypQQH) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [REÑACA](https://open.spotify.com/album/5iIWwuo2KhzxryAKUuCaOR) | 2:53 | 2023-03-02 |  |
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-03-25 | 2022-10-08 |
 | [Rápida](https://open.spotify.com/track/5pT18RURgqt8faD9lvlNEY) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Rápida](https://open.spotify.com/album/3fzjwVxLeyfe0j2dVEFUos) | 3:11 | 2022-09-02 | 2022-11-05 |
 | [S.E.X.O](https://open.spotify.com/track/48UX3JH23V6syy4kAkGfhn) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [S.E.X.O](https://open.spotify.com/album/61iRLkyYf1DdGkGkNvqd2K) | 3:33 | 2023-02-10 |  |
@@ -439,6 +440,6 @@
 | [Yo Quiero](https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Yo Quiero](https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528) | 3:29 | 2022-05-06 | 2022-10-28 |
 | [ZAZA](https://open.spotify.com/track/5AxYNbBJFPUQyANSrSyL0I) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [ZAZA](https://open.spotify.com/album/68gNfeJwYo79JVUlDXj7v8) | 3:27 | 2022-08-19 | 2022-11-05 |
 | [ZUKI](https://open.spotify.com/track/7hjxyhtPLLxhRNDw848J7i) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [ZUKI](https://open.spotify.com/album/3kNl5hjs1uTY7XJEaN8Vrg) | 2:58 | 2022-05-20 | 2022-07-23 |
-| [¿QUE ESPERAS BEBE? REMIX](https://open.spotify.com/track/6ogIYv17rOnf1zu6Ie0Odv) | [Seppe & Gama](https://open.spotify.com/artist/0F5CR3Pa9bThSXd4kyedcg), [Joyd](https://open.spotify.com/artist/5CLtWf7QAZqYH07dXvgIJY) | [¿QUE ESPERAS BEBE? REMIX](https://open.spotify.com/album/2nyjQ7KBcEPyMFmNhiJ6Tk) | 3:04 | 2023-01-20 |  |
+| [¿QUE ESPERAS BEBE? REMIX](https://open.spotify.com/track/6ogIYv17rOnf1zu6Ie0Odv) | [Seppe & Gama](https://open.spotify.com/artist/0F5CR3Pa9bThSXd4kyedcg), [Joyd](https://open.spotify.com/artist/5CLtWf7QAZqYH07dXvgIJY) | [¿QUE ESPERAS BEBE? REMIX](https://open.spotify.com/album/2nyjQ7KBcEPyMFmNhiJ6Tk) | 3:04 | 2023-01-20 | 2023-03-03 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

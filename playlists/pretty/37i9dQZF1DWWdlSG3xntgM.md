@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những nhạc phẩm đi vào lòng người từ nhiều thế hệ\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,429 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,442 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Hoa Trinh Nữ](https://open.spotify.com/track/2w7ozeoqAPTB0CPsMu4fPp) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Hoa Trinh Nữ \(The Best Of Chế Linh 1\)](https://open.spotify.com/album/2LAGCevpiBk3XbgPvyROS0) | 5:29 |
 | 50 | [Lk Trúc Phương: Nửa Đêm Ngoài Phố](https://open.spotify.com/track/6ZnNBBTStM6N7cMqDEvqSX) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Phi Nhung](https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF) | [Những Bài Hát Hay Nhất](https://open.spotify.com/album/0LFvyee8f0YmktL85eszgR) | 5:39 |
 
-Snapshot ID: `MTY3NDEwMDk2NywwMDAwMDAwMDQ0NDFiZjZlMjU1Y2M0NzU4NzU0ZjM2M2FmNzYyMGFl`
+Snapshot ID: `MTY3NDEwMDk2NywwMDAwMDAwMDdlMjZmYjM2MGFiZGZhMWViOGVmNTlmYjVmM2IxYzQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,699,526 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,699,962 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 |
 | 50 | [WOW \(feat\. ÁSDÍS\)](https://open.spotify.com/track/318quSv1UJeamoAkEDjAuY) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [WOW \(feat\. ÁSDÍS\)](https://open.spotify.com/album/5wGgVYOO2isbGL0WA5fs2Q) | 2:23 |
 
-Snapshot ID: `MTY3NzY5MjI4NywwMDAwMDAwMDcwMDNhODQzM2NiZjAyYTA4ZmJjY2YzNjhmMTJjM2Ew`
+Snapshot ID: `MTY3NzY5MjI4NywwMDAwMDAwMGM3NDBjZWMyNmQ3NGU1Yjg2NjIzYzA0ZjEzZDBmODhk`

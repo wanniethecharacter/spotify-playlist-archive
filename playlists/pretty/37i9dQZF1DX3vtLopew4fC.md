@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume – co\-curated by LU KALA for International Women's Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,529 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,536 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 21 | [Aquarius](https://open.spotify.com/track/6k783wDpox9VmRN7BRmoiL) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Aquarius](https://open.spotify.com/album/0AxCatuUj3ixpetylkTyu3) | 3:07 |
 | 22 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
 | 23 | [Five Years](https://open.spotify.com/track/1Sz7AlQskzUlFOCg777Blx) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Five Years](https://open.spotify.com/album/6nIKvEnR5atH4nZjQ6adFE) | 3:08 |
-| 24 | [Best Friend Breakup](https://open.spotify.com/track/28a302Jx34OM1z5qG7ykMJ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL) | 2:21 |
+| 24 | [Best Friend Breakup](https://open.spotify.com/track/5rKMN0bKdqcGWo1iLvv30Y) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/6mF1bVrioCxksnRBHUN7Ej) | 2:21 |
 | 25 | [25](https://open.spotify.com/track/5MqU9NhTlMa3DxwEhE6z9J) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [25](https://open.spotify.com/album/2IAppLYgcRpa7FC6oNFbOV) | 2:41 |
 | 26 | [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 |
 | 27 | [Car Accident](https://open.spotify.com/track/0fOwJiPxWs5Wp8IggTSYAE) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [Never Be Yours](https://open.spotify.com/track/5lSFXnuWpDpOv9unx2gwFr) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Never Be Yours](https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ) | 3:07 |
 | 50 | [Moonlight](https://open.spotify.com/track/4TCWeqUkZ8u7nlvAqwpA1y) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Moonlight](https://open.spotify.com/album/7eWNIAtdsddOL7t8zsRTPv) | 3:30 |
 
-Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMDdkZDZkODc0MDNhNzVlYjY1MmEyMzJhN2ZjYjMyOGE3`
+Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMDQxM2UzMzI5ZjFiYmFhNzdhYjljOTVkN2NiMTg1Yzcx`

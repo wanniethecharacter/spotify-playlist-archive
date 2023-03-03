@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,762,318 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,763,423 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [F.N.F \(Let's Go\) \- Remix](https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [F.N.F\. \(Let's Go\) \[Remix\]](https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh) | 4:07 |
 | 50 | [Against The Law \(feat\. KenTheMan\)](https://open.spotify.com/track/0DI6obJSPoev6ryG0NIsYC) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [No Luv](https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7) | 2:46 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDVmZDNhZGQ2MGJjNGI1MWM4OTgzNDFmMzhjMzAyYTZk`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDBjNWRiMTI5NjJjNTMzZTUzOWY2Y2YxOTQwODgxZjVl`

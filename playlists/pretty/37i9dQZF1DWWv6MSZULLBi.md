@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Aisha Badru
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,747 likes - 103 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,741 likes - 103 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 40 | [Sick](https://open.spotify.com/track/3Q892H3lMgoxbrlovHmTsV) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Sick](https://open.spotify.com/album/61nmrelAR4IgDeyt5NdFdm) | 4:10 |
 | 41 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
 | 42 | [New Life](https://open.spotify.com/track/6dd4Kc5Lu4BLK2ijAeiH0t) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [New Life](https://open.spotify.com/album/4As21UhIgvbFND0OmzCFKB) | 3:10 |
-| 43 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 |
+| 43 | [Emily I'm Sorry](https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:34 |
 | 44 | [empty vessels](https://open.spotify.com/track/1Bg89AyZCtda4EKRTnsYQx) | [Lilli Furfaro](https://open.spotify.com/artist/7KE0s040V1NRQYHfj37mkW) | [empty vessels](https://open.spotify.com/album/0yqFdVCNyuwiIdSM61jsWe) | 4:16 |
 | 45 | [You’d Like to Believe](https://open.spotify.com/track/6yEMIk1gWqatcZm2bSGEeM) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [You'd Like to Believe](https://open.spotify.com/album/6jAsIfTjQWYzrDHab7f1Eb) | 3:15 |
 | 46 | [Devil Does](https://open.spotify.com/track/4qBElpjcT3DB8txnI43Jw5) | [Cots](https://open.spotify.com/artist/5EZlQ47wNa2EJ1lojsKAbv) | [Moonlit Building](https://open.spotify.com/album/0szTemR8lk9moDRoIu2C79) | 2:37 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 102 | [Mother Love](https://open.spotify.com/track/6h5oSSJXgIyXHxJm256HWP) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu) | [Mother Love](https://open.spotify.com/album/7dKPc0Mj8iVLpaVvby2NSf) | 4:28 |
 | 103 | [No Body](https://open.spotify.com/track/2T9s8CK07B6dElJ6fmHeyt) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Someday is Today](https://open.spotify.com/album/5CnTQkaRdKn8NQ29Ig9gKe) | 4:33 |
 
-Snapshot ID: `MTY3NzI1MjQ0MywwMDAwMDAwMGVkNzNjOTViNGM0ZDYwNDgwOTE2MDY5YTk3MzdkNzQy`
+Snapshot ID: `MTY3NzI1MjQ0MywwMDAwMDAwMDRhMzQ3ZWE5ODEyMDA3MjI5ZTAxNWEzZDMxODU4NzY2`

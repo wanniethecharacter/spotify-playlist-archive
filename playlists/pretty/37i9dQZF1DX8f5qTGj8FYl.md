@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,301 likes - 80 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,483 likes - 80 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Funkafized](https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0) | [Boston Horns](https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd) | [Funkafized Plus](https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f) | 4:59 |
 | 80 | [Hot Chicken](https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ) | [DLG 3](https://open.spotify.com/artist/2aibOlbkbZ3Wzu9pw7uT1I) | [Hot Chicken](https://open.spotify.com/album/5D7hc9k3V0WKdU754REsIk) | 4:01 |
 
-Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMGViYjc0YTkwOTkyOTM5M2Y2ZjAyMmUxZDNiNDkwMWQ1`
+Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMDU3NTFiYzQxMGExNzViYzhiZTJjNWUwMGUzYWU4N2I4`

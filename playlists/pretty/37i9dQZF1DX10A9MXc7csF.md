@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: juanitoo2x
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,787 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,810 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [El Chiste](https://open.spotify.com/track/03AGRk4RHSpOEwU00Smwvm) | [JR NUÑEZ](https://open.spotify.com/artist/7kyrlDk15k86Yt4IkF1D4M) | [El Chiste](https://open.spotify.com/album/1H0nf93rr0nrdT8Z1sAn5B) | 2:58 |
 | 100 | [Poder Sangriento](https://open.spotify.com/track/1ywZ5YvDT4hbGk1Dg31cEf) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z), [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [Poder Sangriento](https://open.spotify.com/album/5JBsJBLvGoQ9m4hnHcMVao) | 3:49 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDQzMDE3YTZhNjgxODdiZGY3MmQ2ZTUwN2VhNGM3NTA2`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDYwMGQzMjg0OTczYmRhZTE4OTdkNDc5ZmIxMWZkYzkx`

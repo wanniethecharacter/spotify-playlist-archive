@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > cool tunes for walking, driving, running, flying, etc
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,004 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,172 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 29 | [Malibu](https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Malibu](https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc) | 1:32 |
 | 30 | [Psychics in LA](https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends \(Deluxe\)](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w) | 3:26 |
 
-Snapshot ID: `MTY3NTM1MzUwNSwwMDAwMDAwMGE0YjVhNTM5ZDk2MDMwNTlmNDQ5ZmE4MDQ4ZGI1ZjM0`
+Snapshot ID: `MTY3NTM1MzUwNSwwMDAwMDAwMGQ1NTFiMzQ1ZjRkYTI0NjUyNTVhMjI0NmZjNjQyYjJi`

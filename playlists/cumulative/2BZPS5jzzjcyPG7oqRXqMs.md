@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-176 songs - 11 hr 16 min
+178 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Home](https://open.spotify.com/track/3r7uT8Xj3LUEAGccZ0exEq) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Home](https://open.spotify.com/album/2IQJg6KzupWW0n60NT6wSO) | 3:21 | 2022-02-17 | 2022-08-27 |
 | [Honey In The Rock \- Live](https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 4:43 | 2022-02-25 |  |
 | [Hurts For You](https://open.spotify.com/track/7btNwNEh5X0noAtcXKQ5rO) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Hurts For You](https://open.spotify.com/album/3iy5ol9eyYY6W6XglMdGme) | 4:08 | 2022-02-17 | 2022-08-27 |
+| [I Am Not My Own \- Live](https://open.spotify.com/track/00YlUQ5LoLXX5qY5Tiii7j) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [I Am Not My Own \(Live\)](https://open.spotify.com/album/15xnklvOU7QJNFL0jDNho0) | 4:03 | 2023-03-02 |  |
 | [I just need U.](https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 3:43 | 2022-07-01 |  |
 | [I Know You Better](https://open.spotify.com/track/7aU3ETkQdNCMNfaMm41c6W) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [I Know You Better](https://open.spotify.com/album/2f6XRWYjtg30AtY09KMaYm) | 6:20 | 2022-03-11 |  |
 | [I See You](https://open.spotify.com/track/2SXrg51ciQMurVKgwTpatg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [I See You](https://open.spotify.com/album/4ZLqUbhVPHmY5QD1gbYEij) | 3:48 | 2022-02-17 | 2022-08-27 |
@@ -164,6 +165,7 @@
 | [The Goodness \(feat\. Blessing Offor\)](https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Goodness](https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR) | 3:45 | 2022-06-03 |  |
 | [The Greatest](https://open.spotify.com/track/7egaSn0ILHiB2ULah0i0UW) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [The Greatest](https://open.spotify.com/album/7xXyEzdawnwduIZDPw4Bxh) | 2:52 | 2022-02-17 | 2022-07-02 |
 | [The Table](https://open.spotify.com/track/6YkYoeZXZUK5SP8EReOOQI) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [The Table](https://open.spotify.com/album/5V23DdCgKh1j2fNP340qdB) | 4:20 | 2022-02-17 | 2022-08-27 |
+| [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP) | 3:42 | 2023-03-02 |  |
 | [This Is How I Thank The Lord](https://open.spotify.com/track/2XrI8fJ93XibAXDtlAWZpl) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [This Is How I Thank The Lord](https://open.spotify.com/album/2vbbNQNBVcUAO2X9H7aeU9) | 3:10 | 2022-04-08 |  |
 | [This Is Living](https://open.spotify.com/track/6TCk1yecQRDU5sXG3vjTYj) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [This Is Living](https://open.spotify.com/album/7h7W5MDYWmSYGSAag53umc) | 3:30 | 2022-07-01 |  |
 | [Too Many Times](https://open.spotify.com/track/30IZvy8ndqVCUMohvLhcQu) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Too Many Times](https://open.spotify.com/album/3Pj5a3zsv1vJF9TYmXpUQR) | 3:25 | 2022-02-17 | 2022-08-27 |

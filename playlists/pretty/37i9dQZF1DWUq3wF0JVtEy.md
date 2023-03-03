@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,700 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 896,997 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Direct Me](https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Direct Me](https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy) | 3:52 |
 | 100 | [Banga](https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw) | 2:21 |
 
-Snapshot ID: `MTY3NzI1ODAwMCwwMDAwMDAwMDE4NzQ5OWNiYjEyZjZhNjJhYjczZjJkOTcxMmUwNTUw`
+Snapshot ID: `MTY3NzI1ODAwMCwwMDAwMDAwMGQ5MDUyOTZmN2Q4ODdkMGI5MTM5NDE4NjA2YjNkM2Zi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaZLGlN26y.md) - [plain]
 
 > Songs for lovers like you've never heard before\. Cover: Muni Long
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,630 likes - 125 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,629 likes - 125 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaZLGlN26y.md) - [plain]
 | 124 | [Better Place \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:15 |
 | 125 | [Fear Of Being Alone \- Alternate Version](https://open.spotify.com/track/7aNtmcPpreJpoSpLWwa5Ef) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 2:38 |
 
-Snapshot ID: `MTY3NTEwNDY0OSwwMDAwMDAwMGQzYTRjMjk3ZTNlMzhhYzE4ZWJlZTZmMmUyN2MzYmVk`
+Snapshot ID: `MTY3NTEwNDY0OSwwMDAwMDAwMGYzODExZjE0MDVmMTMxOTcyNDI3NmRmYTU0NjA5OGFk`

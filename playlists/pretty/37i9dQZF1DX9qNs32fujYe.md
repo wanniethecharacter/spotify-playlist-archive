@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: In Flames
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,056,665 likes - 150 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,057,247 likes - 150 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 149 | [Princess of the Night \- 2009 Remastered Version](https://open.spotify.com/track/2QpP8SyXrumYR5BlcdJgTV) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather \(2009 Remastered Version\)](https://open.spotify.com/album/0KtDv1SIDSdJWDpjHBLJad) | 4:02 |
 | 150 | [The Book of Heavy Metal \(March of the Metallians\)](https://open.spotify.com/track/07Vk1JPd5MgBJxdrMpnLNh) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [The Book of Heavy Metal](https://open.spotify.com/album/6ZWMfxSgjm7dlS6jbypNDW) | 5:25 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDExZGIyZTBlYjgxMzdiZTgyZWY4Y2QxODgxNmJlYzI3`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDZhZDhkMTJmYjk2YjljYzcwZjA1MTcwMzRjNmY3M2I3`

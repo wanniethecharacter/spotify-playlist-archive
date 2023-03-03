@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,993 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,282 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [What Would I Gain?](https://open.spotify.com/track/10tkcAcUnlENPwDbnIaD5p) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [What Would I Gain?](https://open.spotify.com/album/1O5hJ19jwKmEjqkQHFgYjD) | 3:54 |
 | 100 | [Go to Waste](https://open.spotify.com/track/61iVVjI1gLKNYVBOQpuA9L) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Go to Waste](https://open.spotify.com/album/7fymgd0rZf4nZrZNPESyHW) | 2:27 |
 
-Snapshot ID: `MTY3NDIwNjQzOSwwMDAwMDAwMDYzOTBmYzhjNThjZTVhZjIyNmY2MzlhMjE1YWNkN2Y5`
+Snapshot ID: `MTY3NDIwNjQzOSwwMDAwMDAwMDQxZTIwNTQyY2Q5NDVhMjk5MWZiNzEyYjdkOWVhOGU2`

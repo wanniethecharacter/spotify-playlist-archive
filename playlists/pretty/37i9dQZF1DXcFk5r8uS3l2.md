@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,270 likes - 120 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,338 likes - 120 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 119 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd) | 4:03 |
 | 120 | [Throw That Stone](https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Throw That Stone](https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV) | 2:58 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDdiOWY1OTVmMDM1MWFhNTI5MTUwOTU5MjQwY2E0NWU4`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGQ3N2IwMmI0OWIwZWMzMDlkN2Y1M2I4MzA2MjhkYmI3`

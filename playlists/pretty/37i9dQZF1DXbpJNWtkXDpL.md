@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Presentamos a nuestros artista Radar México 2022!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,717 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,737 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Uh La La](https://open.spotify.com/track/238haksMvqT5hcKtznBLop) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Uh La La](https://open.spotify.com/album/37E856Cum11u0LJognB6Xp) | 3:30 |
 | 50 | [Empty Process](https://open.spotify.com/track/3nV6TxijHm8BJwZl7wjck8) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Glommy Afternoon](https://open.spotify.com/album/4k34ZmgvcK8b1ljA27Uu4d) | 2:56 |
 
-Snapshot ID: `MTY3MzQxNjgwMCwwMDAwMDAwMDlmNzhmNjhjYjNkNWZjMjQzMzE1NGI2MmE5NzM4OTMy`
+Snapshot ID: `MTY3MzQxNjgwMCwwMDAwMDAwMDI4NGI2Nzc0NDk1Mjk5MGM1OGZlNTk2MDc2ZjgyYTg5`

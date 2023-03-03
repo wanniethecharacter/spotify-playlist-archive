@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,534 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,660 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 99 | [Ice\-free](https://open.spotify.com/track/60xyKm58pAqYg5HJ5pApWJ) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS), [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Helge Norbakken](https://open.spotify.com/artist/330550E6AXRr7jHSLX1GPd) | [Harbour](https://open.spotify.com/album/7rzUSG7h8pGwMOCvXAiGai) | 3:08 |
 | 100 | [Interi Ora](https://open.spotify.com/track/53wAULtuelcWs25MIVcF8Q) | [Bo!led](https://open.spotify.com/artist/0K3YAo5FxYuA2ZW2L3Hdzs) | [Different, Us](https://open.spotify.com/album/4wPFAEDNvZIxYT7DzUsaPw) | 4:40 |
 
-Snapshot ID: `MTY3NzY4MDcyNywwMDAwMDAwMDk4NDdkN2M1YTBhMjFiYTkxYjQ1NjI2OTIwYWMwZjJk`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMGM1MTkwYzdmZTE0ZWY0MzkwNjk2YzZjNzJhNTk5ZmRh`

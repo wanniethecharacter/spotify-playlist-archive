@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,594,295 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,595,311 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 50 | [My Radio](https://open.spotify.com/track/4vdFjNRT82GDyclhl2m1kZ) | [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez), [Roger Taylor](https://open.spotify.com/artist/2PZEd7yktruWruOqORRChA), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [My Radio](https://open.spotify.com/album/1y4xzHozevF6gHMZTmRy32) | 3:04 |
 | 51 | [One Year Of Love \- Remastered 2011](https://open.spotify.com/track/1SvX2R7kPc0JsGnJaJVzZO) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:27 |
 
-Snapshot ID: `Mjc5NjEyNjUsMDAwMDAwMDAxYTlhZDI4ZGZiNzNmOGY3ZDM5NTk5ZjkwNWQyYzQwMw==`
+Snapshot ID: `Mjc5NjI5NjcsMDAwMDAwMDAzNzBmOTAwZDI2NWI5ODBjMDU4NGU3MTUzYzY1NGE0OQ==`

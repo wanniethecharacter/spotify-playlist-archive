@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Brandee Younger
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,089 likes - 100 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,206 likes - 100 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Al Fondo](https://open.spotify.com/track/6o6bOvShfv58r6W9EGnDCo) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Al Fondo](https://open.spotify.com/album/5jv8rZ3CmKSjBtWs6B3mia) | 2:27 |
 | 100 | [Every Good Thing \~Four Seasons of SAKURA MACHI\~](https://open.spotify.com/track/0mlnxPCdytBO1j1dNu2im9) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Every Good Thing \~Four Seasons of SAKURA MACHI\~](https://open.spotify.com/album/6EszsICeJCFEO0liYghkBi) | 4:02 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDEzMThiNWUxNWNkZDQ3YzYyOGRiM2I3OTUyODQxZGE3`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDBhMThhOTY4ODI3YjA5NTQ4ZmI1MWQ4ZGYxZWQ4Y2Iy`

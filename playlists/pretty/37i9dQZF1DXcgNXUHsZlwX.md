@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,523 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,553 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [Mille et un](https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR) | 3:34 |
 | 100 | [Grande ivresse](https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:15 |
 
-Snapshot ID: `MTY3NzY4OTkxOSwwMDAwMDAwMGUyOTllNmZlZmFiYjkyMmZkMTBhMGM5MjRmOWU4ZGFj`
+Snapshot ID: `MTY3NzY4OTkxOSwwMDAwMDAwMDFjNTdiZmQ1MDFjNjExZTc5MzMxZjM2MDFiYmZhYTZh`

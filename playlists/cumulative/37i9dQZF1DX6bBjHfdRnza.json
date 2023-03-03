@@ -10560,10 +10560,28 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 194500,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/2jgKha9I5qCad54ny8fPed"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4pIj38qr2zj6m6F3GdzqVR"
+      },
+      "artists": [
+        {
+          "name": "GURPAAL",
+          "url": "https://open.spotify.com/artist/5cSb2xI75Xj5x2dsyzkoGD"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/5fZgbUfU6Qd7tBFumHPBLZ"
     },
     {
       "album": {

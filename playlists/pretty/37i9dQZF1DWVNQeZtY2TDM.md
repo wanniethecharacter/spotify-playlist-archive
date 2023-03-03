@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: GorDoN \(國蛋\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,234 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,239 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 79 | [流水帳](https://open.spotify.com/track/56YIWZsOOfZ1s9JlHzWX1C) | [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X) | [流水帳](https://open.spotify.com/album/3JEDmspsXFSxbjFC4xPBJB) | 3:50 |
 | 80 | [我們不結婚 feat\. 伍悅](https://open.spotify.com/track/1Im8GWZIOwj0I2vVWtwRIz) | [Xiao Ren](https://open.spotify.com/artist/6Mp1qMoH5cSd8Xw3R1Njpm), [feat\. 伍悅](https://open.spotify.com/artist/5Ldcnms7LBwe9EC9k53Uxu) | [我們不結婚 feat\. 伍悅](https://open.spotify.com/album/0v542hHeApOOKLRDSjYT1P) | 2:57 |
 
-Snapshot ID: `MTY3NzQ3MDQwMCwwMDAwMDAwMGE0OTI1NTg5Yjc2MjJjZTY4YTA3MWVjNzBkMjRmOTAw`
+Snapshot ID: `MTY3NzQ3MDQwMCwwMDAwMDAwMDk2ZDY0YzdkNjBmOWZlZWZiYjBkZjhhY2RjMWQ3ZGMx`

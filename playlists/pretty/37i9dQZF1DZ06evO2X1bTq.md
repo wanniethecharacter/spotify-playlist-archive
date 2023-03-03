@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,440 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,740 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [Invisible \- \(RED\) Edit](https://open.spotify.com/track/1zU1hssVqbyepuLza1qmgO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Invisible \- \(RED\) Edit](https://open.spotify.com/album/6aGUWIKg6BA37SB3gwOAUZ) | 3:46 |
 | 50 | [Lights Of Home](https://open.spotify.com/track/2pguQFntKxYZNGvXvZVWDp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:16 |
 
-Snapshot ID: `Mjc5NjEyNjUsMDAwMDAwMDBhMWI0ZjY3Njk5ZTY1ZTIxZWRhMTM4ZjA0ZTE4NjM1ZQ==`
+Snapshot ID: `Mjc5NjI5NjcsMDAwMDAwMDA1MmZlZjFhYmJkYjcyMmZjOGI4YjlhOTYzNzI4MmUwZQ==`

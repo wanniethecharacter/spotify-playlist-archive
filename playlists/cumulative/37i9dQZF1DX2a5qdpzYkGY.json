@@ -518,7 +518,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 161971,
       "name": "Black Balloons Reprise - Instrumental",
       "url": "https://open.spotify.com/track/5QGMMjoliLdy9OTybrG6rV"
@@ -576,6 +576,24 @@
       "duration_ms": 358560,
       "name": "Bloodflow",
       "url": "https://open.spotify.com/track/4ygSSIuPuM0EYu22s8YF4t"
+    },
+    {
+      "album": {
+        "name": "Blu",
+        "url": "https://open.spotify.com/album/5iFkm03yewpa3p32Y9TIRN"
+      },
+      "artists": [
+        {
+          "name": "Ai!",
+          "url": "https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352000,
+      "name": "Blu",
+      "url": "https://open.spotify.com/track/5PCbxCkhMo1ziSbfri5pNY"
     },
     {
       "album": {
@@ -764,7 +782,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 299821,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/5Ib3iCORnC0QBjNpkVnUva"
@@ -1430,7 +1448,7 @@
           "url": "https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa"
         }
       ],
-      "date_added": "2023-02-28",
+      "date_added": "2023-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 313600,
@@ -2314,6 +2332,24 @@
       "duration_ms": 519893,
       "name": "Management Of Sorrows",
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
+    },
+    {
+      "album": {
+        "name": "Manuale Illusione",
+        "url": "https://open.spotify.com/album/05ALsLSyP3uHJP8e9MxAJ5"
+      },
+      "artists": [
+        {
+          "name": "Ai!",
+          "url": "https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238250,
+      "name": "Manuale Illusione",
+      "url": "https://open.spotify.com/track/6tWdTaIH49W7Zmy2kyyHkQ"
     },
     {
       "album": {

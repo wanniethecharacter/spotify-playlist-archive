@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,806 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,814 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 74 | [Redneck Rich](https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi) | [Cody Parks and The Dirty South](https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk) | [Redneck Rich](https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q) | 4:42 |
 | 75 | [Mustang on Mud Tires](https://open.spotify.com/track/3QkxCzzUXEGjqNlXeB0fMy) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Nate Kenyon](https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4) | [Mustang on Mud Tires](https://open.spotify.com/album/1wS58BaXXAfljI25qgTR4D) | 3:40 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDI0ZWViMmU0MzM0ZDY4NzI3ZTI1OTAyYTU1MzczMzVk`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGVjYzNkYmVjZTM2NzRjYmViNDkwNTIyN2Y1ZjM5NTBi`

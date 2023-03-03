@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: U.S\. Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,293 likes - 173 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,347 likes - 173 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,14 +164,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 154 | [4th of July](https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [4th of July](https://open.spotify.com/album/38MzZWn8pU4IA8pSAdRgA0) | 2:56 |
 | 155 | [Waking Up 2 A Heartbreak](https://open.spotify.com/track/7CrP18CRBQjKIfr6R68zAJ) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [Waking Up 2 A Heartbreak](https://open.spotify.com/album/1eY6U2NnpeAvh1lPz6PG0L) | 2:22 |
 | 156 | [Clara's Mouth](https://open.spotify.com/track/2h6dfUB7hXAYnxr0ftHmDa) | [Bedridden](https://open.spotify.com/artist/60aV5uqvJL1hzJjuZrwPZn) | [Clara's Mouth](https://open.spotify.com/album/4pay2neWPMmZgzlktfAU53) | 3:49 |
-| 157 | [True Blue](https://open.spotify.com/track/2NS5hylxl4QNQcD6Vjmtpj) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 4:56 |
+| 157 | [True Blue](https://open.spotify.com/track/0q7lFwAB16sO7zgNdG4Wkl) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 4:56 |
 | 158 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
 | 159 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 |
 | 160 | [Chosen to Deserve](https://open.spotify.com/track/4Qw9BVghOFfjUyVWV26m2Q) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Chosen to Deserve](https://open.spotify.com/album/7geMCLNLhOhoutnVYES6t9) | 5:32 |
 | 161 | [Your Love](https://open.spotify.com/track/1d9NEfD71ZmPWEVy2AwmHD) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Your Love](https://open.spotify.com/album/42R0x8BUI7OPVA7iN3az1r) | 4:15 |
 | 162 | [Lifeline](https://open.spotify.com/track/78dm8zrEiJ1d0G6IBuiN7m) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Lifeline](https://open.spotify.com/album/0iAfdMQLxhqNyO2bZ7aTLL) | 3:22 |
 | 163 | [Rockaway](https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Five Easy Hot Dogs](https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK) | 2:06 |
-| 164 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 |
+| 164 | [Emily I'm Sorry](https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:34 |
 | 165 | [Telephone](https://open.spotify.com/track/6kmeI9upOHk6TRSi2StNlr) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 3:42 |
 | 166 | [Let Go of the Myth](https://open.spotify.com/track/61KPTGdmcm1PO88DER3OPz) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Let Go of the Myth](https://open.spotify.com/album/4VSYheyF1IVK4x2SiDUmPi) | 2:45 |
 | 167 | [Wiggy](https://open.spotify.com/track/6rydH51WZy57dxUBdHyUU1) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Wiggy](https://open.spotify.com/album/7I2nm8uXW9PjIW4EICNb22) | 3:35 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 172 | [In the Dark](https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Bubblegum](https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb) | 2:19 |
 | 173 | [I KNOW YOU'RE HAPPY](https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [MERCY](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0) | 5:15 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDkwNjZjNDIyMGU3ZGZkZDY4N2U2MGRlOTFlMDg1NjY3`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGJiMzYxZTQ0Mjg4OGFmNWEzZDZhNGJiYzc5ZGJjZGUw`

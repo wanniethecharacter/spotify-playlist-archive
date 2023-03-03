@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,375 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,402 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 59 | [Pause](https://open.spotify.com/track/7g3L86HLw2p9jXb3NPpMzD) | [Negâr Boubân](https://open.spotify.com/artist/16Tps1ORce0JdjrXbSx9mp) | [In Turn](https://open.spotify.com/album/6mxR9rdf3iF7HzTF6tsrPe) | 4:46 |
 | 60 | [Ikarus' Dream](https://open.spotify.com/track/4rgIn7tE7ZyC9HrxPYrQAz) | [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow) | [Flying Carpet](https://open.spotify.com/album/1Vep08NRl8GxaFy2BZrYxm) | 3:43 |
 
-Snapshot ID: `MTY3MDgzMTU4NCwwMDAwMDAwMDY1MjliNjAxNzExMTAzMTVhOGY4NDc2YmZhNjY1YmE5`
+Snapshot ID: `MTY3MDgzMTU4NCwwMDAwMDAwMGU4MzA3ZDJhNWQwOWYxYmFmZjhmNzIwMmM2NDUxOGIx`

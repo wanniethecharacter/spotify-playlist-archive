@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,719 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,700 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 99 | [Ruffling inside a bag](https://open.spotify.com/track/4imgGRRTEynz9wqzuZloKz) | [CharlotteK AMSR](https://open.spotify.com/artist/30cXaPAKlzmEAOzH6kCmia) | [Everyday Triggers](https://open.spotify.com/album/6M9RTs20lT9kfyCvPrmUBn) | 1:46 |
 | 100 | [We Taped Microphones on Her Face, Pt\. 2](https://open.spotify.com/track/2KlmTjyXISEq11QbfNYPZW) | [Relax Academy ASMR](https://open.spotify.com/artist/36Kz9Uv48lAjIm5F2dbd0k) | [We Taped Microphones on Her Face](https://open.spotify.com/album/1KZrHGA1WQ8a3bweqDZe2t) | 2:50 |
 
-Snapshot ID: `MTY3NTM0NTY1NSwwMDAwMDAwMGVkMjEyNTY1NzQyYjQyZjZjNTZlYzEwMjBhYTk2ZjMx`
+Snapshot ID: `MTY3NTM0NTY1NSwwMDAwMDAwMDE5NGNiNDFmYWNlNTBmZTA5ZWY4NmFhMTFiMzc5YTNm`

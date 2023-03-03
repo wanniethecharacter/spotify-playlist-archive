@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,867 likes - 120 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,319 likes - 120 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 119 | [All Hail the Void](https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A) | [Enabler](https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI) | [All Hail The Void](https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM) | 3:36 |
 | 120 | [Too Far From That](https://open.spotify.com/track/5GHKtIzMv58arYqe6BUFHT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:25 |
 
-Snapshot ID: `MTY3NjAzNjMzMSwwMDAwMDAwMDJmYzMzYTgyYWFlMDI5Mjk4OTUxZjVlM2Y2ZDUwMjE0`
+Snapshot ID: `MTY3NjAzNjMzMSwwMDAwMDAwMDJlYzY2YjRlMzM5OGY4OWI3ODBlYjQ0YjYwZjFkMmY0`

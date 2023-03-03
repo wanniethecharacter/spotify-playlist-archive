@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Eric Bibb
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,013 likes - 88 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,056 likes - 88 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 87 | [Love on the Rocks](https://open.spotify.com/track/6paMAWG7CCn967OkrIILty) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q) | 3:42 |
 | 88 | [Control](https://open.spotify.com/track/0AchHP2MSvRlL3iKh6kfdt) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Control](https://open.spotify.com/album/1yj4EQuTKMf8VBz1wTAj0D) | 3:23 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGZlZTk3MjgzY2ViMjMwNTU1OGFkOGRmZjJiNjViMDc5`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGM1OTNjNTRhYzNlYTA3MWYwZDkwZDgzZmU5NmM1N2Nk`

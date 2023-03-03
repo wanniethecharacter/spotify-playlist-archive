@@ -2,9 +2,9 @@
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Niniola
+> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Lojay
 
-329 songs - 16 hr 42 min
+331 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Good Feeling](https://open.spotify.com/track/212rCbal62ojfnicncYoqN) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Good Feeling](https://open.spotify.com/album/3405tT9Nofg398hqq196aA) | 2:39 | 2021-12-16 | 2022-01-12 |
 | [Goodbye](https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodbye](https://open.spotify.com/album/7ghHUmv50N6eSegtCyCqnZ) | 3:44 | 2022-03-18 | 2022-07-29 |
 | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 | 2022-09-01 |  |
-| [Healing](https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Healing](https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG) | 2:59 | 2023-02-23 |  |
+| [Healing](https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Healing](https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG) | 2:59 | 2023-02-23 | 2023-03-03 |
 | [Here I Stand](https://open.spotify.com/track/6p5SGpqNHHX9r2RcSpGax4) | [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [Here I Stand](https://open.spotify.com/album/0SMjKGc2Hq9NpmmZK3aqaR) | 3:08 | 2022-05-26 | 2022-07-15 |
 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 | 2021-10-14 | 2022-12-19 |
 | [High Spirit](https://open.spotify.com/track/4qqOyc8ioVm5kvCYdgS2TO) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Signs](https://open.spotify.com/album/6BK6S6VtshawDNE1MGT3eK) | 3:42 | 2022-12-18 | 2023-02-17 |
@@ -157,6 +157,7 @@
 | [Is It Love?](https://open.spotify.com/track/2Lbfend8u6ccFu2zMFpPxF) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Is It Love?](https://open.spotify.com/album/4MgeGr34ni6NO5MEPAQ0Tz) | 3:27 | 2022-04-28 | 2022-07-10 |
 | [It Is What It Is](https://open.spotify.com/track/1Gm3jwEy0cx0souTcRGEby) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [It Is What It Is](https://open.spotify.com/album/0iQ6qfTr8QTT2w05C7CmuV) | 2:54 | 2021-10-14 |  |
 | [It's Okay to Cry](https://open.spotify.com/track/5X99Res0qG01SxTy5puWFU) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [It's Okay to Cry](https://open.spotify.com/album/1HuqJPQqxMpyWLwzVir5QB) | 3:33 | 2021-10-14 | 2022-07-28 |
+| [IYD](https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 | 2023-03-02 |  |
 | [i’m a mess](https://open.spotify.com/track/1muOmaGrLHPU86XiE8pLgJ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:33 | 2022-07-14 | 2022-07-29 |
 | [Jahera](https://open.spotify.com/track/3a0RyTh7kp57YxE4BtjpFV) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Jahera](https://open.spotify.com/album/0tYZ0bfXtTBzDFjMr2qqAk) | 3:07 | 2022-02-10 | 2022-02-17 |
 | [Journey Back Home](https://open.spotify.com/track/3YoHYLrPxsEyOPtnzZso0n) | [Bankulli](https://open.spotify.com/artist/5vaAZTnLCHp0garbEDlorS), [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Journey Back Home](https://open.spotify.com/album/2Had8Ig2siiYE7PYVYv4iS) | 3:44 | 2021-11-25 | 2022-02-18 |
@@ -233,6 +234,7 @@
 | [Paralysed](https://open.spotify.com/track/0xj0FbSGbOmSsryG7K5beu) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Paralysed](https://open.spotify.com/album/0dL3l4iXTpt1eQA6mFFAMG) | 4:09 | 2021-10-14 | 2022-02-07 |
 | [Peace of Mind](https://open.spotify.com/track/6NtOTnvDhbzaxpxkjBEx8x) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Peace of Mind](https://open.spotify.com/album/0RioIfaQpJxkbm9USMJ1fU) | 2:02 | 2021-10-14 | 2022-03-22 |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2022-12-13 |  |
+| [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(feat\. Ayra Starr & Omah Lay\) \[Remix\]](https://open.spotify.com/album/689njStjzEujqVZtSDlpha) | 3:04 | 2023-03-02 |  |
 | [Personal](https://open.spotify.com/track/5ssk3dDkHdrwmPveDQivd7) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [Personal](https://open.spotify.com/album/2E7XGBsMRwSvpvY2O6OuPB) | 2:47 | 2022-02-10 | 2022-02-14 |
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-05 | 2022-09-24 |
 | [Pheelz Like Summer](https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:50 | 2023-02-09 |  |
@@ -282,7 +284,7 @@
 | [STONES](https://open.spotify.com/track/00ti8nTfpzn8rGt9tqBfTI) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Love & Isolation](https://open.spotify.com/album/4sMkAZXTXdtFikLhLqviyZ) | 2:47 | 2021-10-14 | 2022-03-04 |
 | [Summer in the Ends \- Juls Zikomo Remix](https://open.spotify.com/track/53Skuiqa6vxJkllH99ajXn) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Zikomo](https://open.spotify.com/artist/1dAZApOwTI2FsXbgfmfrmm), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Summer in the Ends \(Juls Zikomo Remix\)](https://open.spotify.com/album/7y8luOJivmYwb7CaniGjnJ) | 3:45 | 2022-02-10 | 2022-03-12 |
 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 | 2021-11-04 | 2022-02-09 |
-| [Sundress](https://open.spotify.com/track/4gnAPznsSqXMqGfAFylZqK) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Bully Season Vol.1](https://open.spotify.com/album/5IBQ5q44YO63IlQYgeD2HE) | 2:35 | 2023-02-24 |  |
+| [Sundress](https://open.spotify.com/track/4gnAPznsSqXMqGfAFylZqK) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Bully Season Vol.1](https://open.spotify.com/album/5IBQ5q44YO63IlQYgeD2HE) | 2:35 | 2023-02-24 | 2023-03-03 |
 | [SuperSonic](https://open.spotify.com/track/0tLIjCdtDDyyUeDGZ8iuwM) | [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [SuperSonic](https://open.spotify.com/album/4uekHrCeSWwBHoyv1vcl5e) | 3:59 | 2021-12-09 | 2022-02-11 |
 | [Sweet Adetola](https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:46 | 2021-11-11 | 2022-03-02 |
 | [Sweet Escape](https://open.spotify.com/track/5DXaZRgFKse2nj0Y3ixOSy) | [Mizzle](https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd) | [In The Dark](https://open.spotify.com/album/1E6Z7ne0iV3tmttC7OuuGW) | 2:48 | 2021-10-14 | 2022-10-21 |

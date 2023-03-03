@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: MAVE:
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,592 likes - 64 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,933 likes - 64 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 63 | [Fxxxnds \(Feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fxxxnds](https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH) | 3:29 |
 | 64 | [Trippy](https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Trippy](https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5) | 3:27 |
 
-Snapshot ID: `MTY3NzU3MzEzOCwwMDAwMDAwMGE4MDJkOGY1OWI3OTE2ZDEwODRjODNkZmQ3MDJlMjk4`
+Snapshot ID: `MTY3NzU3MzEzOCwwMDAwMDAwMDVkYTI2M2E3M2FhY2MwNGY2MThjYWFiZDkwM2U0MjE1`

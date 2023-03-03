@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,509 likes - 97 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,240 likes - 97 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 96 | [Fundamental Balance 528Hz](https://open.spotify.com/track/4wBolRa7DIRoxHLKHmSfDc) | [Transcendent Solfeggio Frequencies](https://open.spotify.com/artist/4GUZWtXoW9tKcogKvdspjK) | [Fundamental Balance 528Hz](https://open.spotify.com/album/3jMtxmg0gPjsASjVDjrM6U) | 3:29 |
 | 97 | [Distant Shores](https://open.spotify.com/track/7g6FnYrGcwTSSlTVLA0gFh) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Solar Wind](https://open.spotify.com/album/16wm7HaUsJXzFIbW2yTTfi) | 2:57 |
 
-Snapshot ID: `MTY3Njk4MzA3NywwMDAwMDAwMDNjNWFhOTkyNzYzZjJhM2FmNzQ2YWFkNGY4MTcxM2Ew`
+Snapshot ID: `MTY3Njk4MzA3NywwMDAwMDAwMDAxZDhiNTE0ZWUwYWQ2ZDI3MTM1MTJlMTYwYzhjZTg3`

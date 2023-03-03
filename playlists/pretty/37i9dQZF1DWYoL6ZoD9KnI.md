@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,295 likes - 64 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,352 likes - 64 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 | 63 | [でしょましょ](https://open.spotify.com/track/0crXUgfQlDabooRgYlk6pO) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [馬と鹿](https://open.spotify.com/album/0qQBqfFObMOxLmumCLDjiw) | 2:52 |
 | 64 | [fogbound \( + 池田エライザ \)](https://open.spotify.com/track/7N3SyH4n4kjbMl8gYNs63K) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [池田 エライザ](https://open.spotify.com/artist/5M2zpiu3UmpkILAzG32bCP) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 4:15 |
 
-Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMGU0MjA3NWU0OGNhYTQ2OTU2ZDBkMTE4Yjk4YmQzNDk5`
+Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMDJjODE5ZWEzMjQ5MDljOWNiMzAxNmNlNDJkYjIyZjYx`

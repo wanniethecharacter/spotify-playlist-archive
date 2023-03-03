@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,415 likes - 100 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,930 likes - 100 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 99 | [Deus Vai Fazer \(feat\. Damaris Brandão\)](https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Damaris Brandão](https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:35 |
 | 100 | [Eu Sei](https://open.spotify.com/track/0IQPqr6gEgoG5Oe6c5vYDI) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ) | [Eu Sei](https://open.spotify.com/album/6fPFKEvTXKwlFcf8x2JbWB) | 9:05 |
 
-Snapshot ID: `MTY3NzIzNTgzNSwwMDAwMDAwMGIyMGI3MmU3NDU1ZmVjZDg4YjNjZjAwNDU2MGQyZjNl`
+Snapshot ID: `MTY3NzIzNTgzNSwwMDAwMDAwMDE3MjgxOTdjOGNhZWRjMTVlYjU5M2QwMzFlMTkzNTQ2`

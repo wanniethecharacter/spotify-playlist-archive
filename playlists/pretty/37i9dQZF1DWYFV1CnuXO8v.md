@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حاله حب 🫶
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,018 likes - 130 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,094 likes - 130 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 129 | [هنرقص الأيام](https://open.spotify.com/track/0v2hbpxiOMvvpib4VZB1eU) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [هنرقص الأيام](https://open.spotify.com/album/6KG9i8kep5W6akgPNCh4Hm) | 3:32 |
 | 130 | [يوم ما جاني](https://open.spotify.com/track/0APfVkcFTt08Beh57ILcdo) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [يوم ما جاني](https://open.spotify.com/album/7ePGgpsRB1l33EsZaNQGYX) | 3:10 |
 
-Snapshot ID: `MTY3NzQ4NTA3OSwwMDAwMDAwMDljNGVlZjlmZGMyZmNjNDFmZWI4ZTRjNGU3MzM5NDE5`
+Snapshot ID: `MTY3NzQ4NTA3OSwwMDAwMDAwMDUzMGQ5ZjU3NzJmYzkyMTg0Y2QzNTFkNDA0MTcyMTRi`

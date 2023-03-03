@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Captaine Roshi",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : joysad",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 181437,
       "name": "Aimons-nous vivants",
       "url": "https://open.spotify.com/track/6tkYlbsNN6crQj12xjSHdH"
@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Boulevard des Belges",
+        "url": "https://open.spotify.com/album/4k6uAkPyFAcOAWIhRdgwUM"
+      },
+      "artists": [
+        {
+          "name": "Rifa",
+          "url": "https://open.spotify.com/artist/7syrxKncMH592h3hwq0elv"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Boulevard des Belges",
+      "url": "https://open.spotify.com/track/7KFpc05eZ24c3DTDwY8ER4"
+    },
+    {
+      "album": {
         "name": "Boyka",
         "url": "https://open.spotify.com/album/652TTQxvvWs3BIOUGY5q4d"
       },
@@ -460,7 +478,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 270613,
       "name": "Cali",
       "url": "https://open.spotify.com/track/3kGMQAKHYYRTKBHnTKC63C"
@@ -597,6 +615,24 @@
     },
     {
       "album": {
+        "name": "COMPTER",
+        "url": "https://open.spotify.com/album/2ryLFyVpC5O6NPvfJy6P0S"
+      },
+      "artists": [
+        {
+          "name": "L\u2019As",
+          "url": "https://open.spotify.com/artist/3VTjgKLiBLDXWCigMpjFan"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "COMPTER",
+      "url": "https://open.spotify.com/track/0U2vjRDorfKwjoTFcr9BBP"
+    },
+    {
+      "album": {
         "name": "COUP\u00c9",
         "url": "https://open.spotify.com/album/2LNG7f47uJJAZcgiVZlHEY"
       },
@@ -652,7 +688,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 237639,
       "name": "Dennis Rodman (feat. Laylow)",
       "url": "https://open.spotify.com/track/4Sg6iFX0yKvTO1aGKB8sWL"
@@ -678,6 +714,24 @@
       "duration_ms": 210000,
       "name": "Dernier Etage",
       "url": "https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH"
+    },
+    {
+      "album": {
+        "name": "Donatello",
+        "url": "https://open.spotify.com/album/3TRViBXHtceMD2nqlJkyL7"
+      },
+      "artists": [
+        {
+          "name": "USKY",
+          "url": "https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156592,
+      "name": "Donatello",
+      "url": "https://open.spotify.com/track/751GmCqzetFYzJ7b3b0AZR"
     },
     {
       "album": {
@@ -848,6 +902,24 @@
       "duration_ms": 203557,
       "name": "Exit #04 - Stamina",
       "url": "https://open.spotify.com/track/12ToBtXfEzb2rynwmEF7qF"
+    },
+    {
+      "album": {
+        "name": "Rosa Nera",
+        "url": "https://open.spotify.com/album/2XKWzcLBAFZREXmcvlMNb7"
+      },
+      "artists": [
+        {
+          "name": "Ben\u00e9",
+          "url": "https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219661,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/1bKWOseEU3s1CytXqsKVgQ"
     },
     {
       "album": {
@@ -1294,6 +1366,24 @@
       "duration_ms": 167746,
       "name": "J'arr\u00eate",
       "url": "https://open.spotify.com/track/4DBqYAG3eXWFulEs7FR8WN"
+    },
+    {
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147986,
+      "name": "J'connais",
+      "url": "https://open.spotify.com/track/0qXimz42wMirNPwbOuXPuN"
     },
     {
       "album": {
@@ -2335,6 +2425,28 @@
     },
     {
       "album": {
+        "name": "Rem\u00e8de",
+        "url": "https://open.spotify.com/album/5xAq29Ub5l00PDHjGakITD"
+      },
+      "artists": [
+        {
+          "name": "joysad",
+          "url": "https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z"
+        },
+        {
+          "name": "LVZ",
+          "url": "https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Rem\u00e8de",
+      "url": "https://open.spotify.com/track/7faltIY2L3Vce9l569cltM"
+    },
+    {
+      "album": {
         "name": "Rendez-vous",
         "url": "https://open.spotify.com/album/5mff2GrlOKdnWsGyaPsokb"
       },
@@ -2650,7 +2762,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 140135,
       "name": "Sorcellerie",
       "url": "https://open.spotify.com/track/0tE3YgjdLTsyHXqVDMQRup"
@@ -2765,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ym3PUxJ1ZMGwj6rnK71R2"
+      },
+      "artists": [
+        {
+          "name": "Softo",
+          "url": "https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Tu sais pas",
+      "url": "https://open.spotify.com/track/3f4pUO4jY4myuGsPtkwR6Q"
+    },
+    {
+      "album": {
         "name": "UBER",
         "url": "https://open.spotify.com/album/3jXGdIm7ZG30nb7fNxeQ3J"
       },
@@ -2812,7 +2942,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 175720,
       "name": "Venom",
       "url": "https://open.spotify.com/track/4ko3pKC9xAtGh2pSRLn5ct"
@@ -2830,7 +2960,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 194181,
       "name": "Warzone",
       "url": "https://open.spotify.com/track/3vAh3mE2xDccKEArGslrZ1"
@@ -2888,7 +3018,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 192120,
       "name": "\u00c2mes perdues",
       "url": "https://open.spotify.com/track/7zUgId6sQBSyaaBXbbiIf3"

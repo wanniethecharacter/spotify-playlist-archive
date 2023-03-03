@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,159,830 likes - 60 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,160,770 likes - 60 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 10 | [Follow](https://open.spotify.com/track/4WvfqOcx8jQEeJVKnZ9KgG) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Follow](https://open.spotify.com/album/7CB2cNckoeR1JcBvEBdc4u) | 5:42 |
 | 11 | [Silence](https://open.spotify.com/track/6Rh7Z7HgjzxouMzlXMN75U) | [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg), [HLGRMS](https://open.spotify.com/artist/1EtIq8lnoAOKoVf8ryhcmQ) | [Silence](https://open.spotify.com/album/2gwA0bOrpxqNwx8zI9PzRT) | 6:23 |
 | 12 | [Pulchra](https://open.spotify.com/track/63mFPNs3UaFmBB55YiW0it) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Pulchra](https://open.spotify.com/album/0ihSHBFI9OEuwPg4dqyi14) | 4:14 |
-| 13 | [Eckstein Eckstein](https://open.spotify.com/track/2EMukdf4zK0H27I35Vvpmi) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/5I3OPusWIHYX9AKpNJjSaN) | 3:07 |
+| 13 | [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 |
 | 14 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 |
 | 15 | [Phantasy](https://open.spotify.com/track/5uEW8Kp1dM8UbotWxieU9c) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Phantasy](https://open.spotify.com/album/2w9JaI4kPmMHweV6ComleZ) | 4:00 |
 | 16 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Lonely Traveller](https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Lonely Traveller](https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit) | 6:06 |
 | 60 | [Rosso Profondo](https://open.spotify.com/track/0Regj8wXZsDesHK6DrWaDg) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Rosso Profondo](https://open.spotify.com/album/5yaUSupnWkaCaVqSlbubbk) | 5:33 |
 
-Snapshot ID: `MTY3NzIzNzAwMiwwMDAwMDAwMGI3ZmExMmQ3Mzg4MTliMDg1Nzg1NjBjMjg5NTY1MzFm`
+Snapshot ID: `MTY3NzIzNzAwMiwwMDAwMDAwMGMxNmIwYTU1ZjcxNTM4YTM0MzUyMzliNzU0Nzk2NTNk`

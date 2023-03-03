@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,297 likes - 162 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,517 likes - 162 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 3 | [Mist](https://open.spotify.com/track/4H9EiDGFwfih6XnnSaObLo) | [Sven Nordberg](https://open.spotify.com/artist/7p15Zunic1ShfO2hBA7QOD) | [Timbre](https://open.spotify.com/album/6NtSxBeGJ67uWeCOGP3YJW) | 2:09 |
 | 4 | [Deeper](https://open.spotify.com/track/7iH6zlWiaIJFcAnMG0k6kE) | [Lárus Jacinda](https://open.spotify.com/artist/5Erm6RBvYLKo4Wm6okqRJs) | [Deeper](https://open.spotify.com/album/5TQLX18OrELQ5Ps9xidigz) | 2:40 |
 | 5 | [El Sabio](https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [El Sabio](https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n) | 2:06 |
-| 6 | [Flamenkito](https://open.spotify.com/track/4iI9eIAd3kZGB3dCEc3PxK) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS) | [Flamenkito](https://open.spotify.com/album/1fBj5GesrEQR2IfVUbaPKh) | 1:46 |
+| 6 | [Flamenkito](https://open.spotify.com/track/2gZWsOLfX0W1Fu57qgFMQM) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Flamenkito](https://open.spotify.com/album/6JWc5p5djyJLBKz9hdZnvk) | 1:46 |
 | 7 | [It Started With A Simple Hello](https://open.spotify.com/track/2GFdkqyE2bUWo55W3BxiPe) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [It Started With A Simple Hello](https://open.spotify.com/album/3mb2nHbWyloy0dzdjlm3Fd) | 2:48 |
 | 8 | [Tahmina](https://open.spotify.com/track/4mNxFvcJoW90QeKkxQkmfW) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Tahmina](https://open.spotify.com/album/59VV54issBKB9UgscAGq8x) | 3:32 |
 | 9 | [Rêvant de qui nous étions](https://open.spotify.com/track/6eC8cmEgLmoNEL9MkLZYDr) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Rêvant de qui nous étions](https://open.spotify.com/album/6rCxZZio0rQLHSWoJ5NJp7) | 2:30 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 161 | [wolkenlos](https://open.spotify.com/track/1GtvNtOFcgyapayFKdEPfn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Waldspaziergang](https://open.spotify.com/album/12zVtMVg3VOEsVZ3nA4BdB) | 3:36 |
 | 162 | [Spanish Ballad](https://open.spotify.com/track/0pdKzWmhMFWcC2UQiFz2gY) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC) | [Spanish Ballad](https://open.spotify.com/album/6KiDH7Wp4lrFqiY8nnWFSz) | 2:58 |
 
-Snapshot ID: `MTY3NzIzMTk4NywwMDAwMDAwMDk3MDg2MDFlODI4NjlhMDEwMjg0Yjg1NTMzMmY2NTI0`
+Snapshot ID: `MTY3NzIzMTk4NywwMDAwMDAwMDEzODNjMTIxYmU2YzlhOTg5N2RjMjk0ZTE0MmJhNzAz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2H7rfzRpsqXkc2FPOlv123">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 63 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 382 likes - 63 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 36 | [It Will Never Be Over](https://open.spotify.com/track/2qjxsqWn39qiIAdMeBnZF2) | [CAGGIE](https://open.spotify.com/artist/1heHpKKrCRibu4H4CjNjAD) | [It Will Never Be Over](https://open.spotify.com/album/6YHTdr373eX4wZQjDSonNS) | 3:11 |
 | 37 | [I Need a Night Out](https://open.spotify.com/track/0desJH8bu68LRIzBCe3Cnv) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [I Need a Night Out](https://open.spotify.com/album/0HhYDwhESPSeuyDjVxGRBV) | 3:20 |
 | 38 | [Shame on You](https://open.spotify.com/track/5lt7oJ8gR64dbPSlptVOqb) | [Claire Richards](https://open.spotify.com/artist/2YoYDF80se1baOnPA7T6Pm) | [My Wildest Dreams \(Deluxe\)](https://open.spotify.com/album/3r7DvhjGgF3Wwkp3QZ1njf) | 3:32 |
-| 39 | [Tryna Not Fall in Love](https://open.spotify.com/track/7Haes1NHgFQ4DkVjtbHUzd) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Tryna Not Fall in Love](https://open.spotify.com/album/1qT5T3OVuOAIQxTwvm0QY7) | 3:34 |
-| 40 | [agit](https://open.spotify.com/track/7KFvcwUv0UYWD7gLS78Cbb) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) | 2:46 |
+| 39 | [agit](https://open.spotify.com/track/7KFvcwUv0UYWD7gLS78Cbb) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) | 2:46 |
+| 40 | [Tryna Not Fall in Love](https://open.spotify.com/track/7Haes1NHgFQ4DkVjtbHUzd) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Tryna Not Fall in Love](https://open.spotify.com/album/1qT5T3OVuOAIQxTwvm0QY7) | 3:34 |
 | 41 | [Where Do We Go from Here](https://open.spotify.com/track/0BH0lfTcEUUlTf9GjuS2MF) | [Malte Castro](https://open.spotify.com/artist/2lPlzhzb48iN2IMxmjMPZ8) | [Where Do We Go from Here](https://open.spotify.com/album/6D8nN0cdKR6Ds9tyKHdNVw) | 3:42 |
 | 42 | [Ocean](https://open.spotify.com/track/2bHxKHKbxE3EqooAFKdeeZ) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/72HIHxLnpFuAUWkBK81gyi) | 3:00 |
 | 43 | [Time to Talk](https://open.spotify.com/track/3DnDAM5WZoGSiRgWfRbuAh) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Time to Talk](https://open.spotify.com/album/3rKYywObSNQIhq4nulJld4) | 3:24 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 62 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
 | 63 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
 
-Snapshot ID: `Mjc5NjE5MjEsMDAwMDAwMDAwNTA1YjM3YzJmNTViYjliZjRmOTkwMmRjMTE2NThmNg==`
+Snapshot ID: `Mjc5NjM1NDEsMDAwMDAwMDBiOWRlZDliN2FmMzBlZDFmZTA1MjM1YzcxMzcyYTlmYQ==`

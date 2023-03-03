@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Adriana Calcanhotto
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,856 likes - 99 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,909 likes - 99 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 98 | [O futuro é mais bonito](https://open.spotify.com/track/78rQDtMIMwMT9KGxGX4CmS) | [Anna Setton](https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L) | [O Futuro é Mais Bonito](https://open.spotify.com/album/37jrPNa128mZXr7XpnY7Lo) | 2:47 |
 | 99 | [Banho de Cheiro](https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 3:13 |
 
-Snapshot ID: `MTY3NzA5NDExNywwMDAwMDAwMDZmZDAxOWU3YzZmMGQ3ZTQ4MTdmYThhNGU0OTViMzA0`
+Snapshot ID: `MTY3NzA5NDExNywwMDAwMDAwMDY2MTM1ZGFlNjFiZmM2MjA0ZGNlMTkzY2JhOWMxNjJj`

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/1d5hvQ7OYkZmpVfMLf9Vqj"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1os",
+          "url": "https://open.spotify.com/artist/3AOLvJjBisGaLoFRWsVOPL"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322500,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/4Qyg5bCO8wA2K5KB3iZf7D"
+    },
+    {
+      "album": {
         "name": "Anker",
         "url": "https://open.spotify.com/album/1Viibdh9TgQh4TGpkmnLth"
       },
@@ -394,7 +412,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 282240,
       "name": "Black Sun Blues",
       "url": "https://open.spotify.com/track/4rBXj6zG73kTuhdZGmSMHR"
@@ -672,7 +690,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 230604,
       "name": "Coming in Hot",
       "url": "https://open.spotify.com/track/0C5VbQrV3LDqPue7LNRhTo"
@@ -868,6 +886,24 @@
       "duration_ms": 125142,
       "name": "Demons",
       "url": "https://open.spotify.com/track/1ks9wTTBtoKDviVn0UzU0e"
+    },
+    {
+      "album": {
+        "name": "Theory of Emotion",
+        "url": "https://open.spotify.com/album/4BznP0N1xfGkGR0aWspdvE"
+      },
+      "artists": [
+        {
+          "name": "Indie Dog",
+          "url": "https://open.spotify.com/artist/3RXbBpqUbS5sBzgyWgkotn"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288624,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/41HTRLeK7GD9251tiuX1vX"
     },
     {
       "album": {
@@ -1448,7 +1484,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 196753,
       "name": "Gods Gift",
       "url": "https://open.spotify.com/track/5APaebgO8j2iv9948t0s4N"
@@ -1492,6 +1528,28 @@
       "duration_ms": 206840,
       "name": "Heaving",
       "url": "https://open.spotify.com/track/0sYJEJYGBKaiTcHdAcMAUP"
+    },
+    {
+      "album": {
+        "name": "Hoer In Beton",
+        "url": "https://open.spotify.com/album/6NwMydQDPSmxYq4OgZ9uPh"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/3GhHWHWIAs0uWCawtI3v4t"
+        },
+        {
+          "name": "Koos Kombuis",
+          "url": "https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280248,
+      "name": "Hoer In Beton",
+      "url": "https://open.spotify.com/track/4fnZUb6KEtgcGIx3eWgJi0"
     },
     {
       "album": {
@@ -1622,6 +1680,24 @@
       "duration_ms": 225000,
       "name": "In Die Son",
       "url": "https://open.spotify.com/track/3FWouV30HIUtD9cs89Aiou"
+    },
+    {
+      "album": {
+        "name": "In My mind",
+        "url": "https://open.spotify.com/album/6t2MjbEdLrdir2i4bIN0kL"
+      },
+      "artists": [
+        {
+          "name": "The Tazers",
+          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/4QIujxtLqnP1AGndp7fNlR"
     },
     {
       "album": {
@@ -1842,7 +1918,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 229561,
       "name": "Laatnag-sonop-koebaai",
       "url": "https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ"
@@ -2276,7 +2352,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 145907,
       "name": "Oh No!",
       "url": "https://open.spotify.com/track/4QOGyHQHQBh8Legq1hrOcE"
@@ -2848,7 +2924,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 225911,
       "name": "Skemer",
       "url": "https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA"
@@ -3212,6 +3288,28 @@
       "duration_ms": 173892,
       "name": "The Kid",
       "url": "https://open.spotify.com/track/30E5yBOsMJ14qYzBbLY9Xo"
+    },
+    {
+      "album": {
+        "name": "The Leviathan",
+        "url": "https://open.spotify.com/album/6Gf7nvDafo6q32o5fnGKiZ"
+      },
+      "artists": [
+        {
+          "name": "Punkfontein",
+          "url": "https://open.spotify.com/artist/45RbBX6HK79QQlhywGeh2v"
+        },
+        {
+          "name": "Meel Vignetting",
+          "url": "https://open.spotify.com/artist/41DpVSJ3Inz1K29pucUz4d"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "The Leviathan",
+      "url": "https://open.spotify.com/track/5ww5VmYgYGQtGMJiz2tDTQ"
     },
     {
       "album": {
@@ -3672,6 +3770,24 @@
       "duration_ms": 193542,
       "name": "Woman of My Own Damn Mind",
       "url": "https://open.spotify.com/track/6F6gMyGT1L3uCEgaIIT8Nl"
+    },
+    {
+      "album": {
+        "name": "Would you ring me",
+        "url": "https://open.spotify.com/album/1Mp1dAxbCYUoRVmoHAHbbd"
+      },
+      "artists": [
+        {
+          "name": "Gangsterdam",
+          "url": "https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165746,
+      "name": "Would you ring me",
+      "url": "https://open.spotify.com/track/67u6GPGmrgkn6J6lRGb3PB"
     },
     {
       "album": {

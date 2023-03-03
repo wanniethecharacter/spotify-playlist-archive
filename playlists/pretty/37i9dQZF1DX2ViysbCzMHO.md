@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,272 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,393 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [What If I Never Get Over You \- Piano Version](https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What If I Never Get Over You \(Piano Version\)](https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib) | 3:24 |
 | 100 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGJjMmE4NmI2Y2Q2OGI1NzFhNDY5NDBhZjc2MjY1OTE0`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDA1YjI0NDU3YmVlY2NkNzEwMjliNmVhZmNmYzEwMjVl`

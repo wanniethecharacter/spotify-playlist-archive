@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,870 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,946 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 99 | [Aquí No Pasa Nada](https://open.spotify.com/track/5RhOaCAmJUlV8N6SCZPLqP) | [Julian Maraboto](https://open.spotify.com/artist/4p4evBfuUus97qYOm2djL0) | [Aquí No Pasa Nada](https://open.spotify.com/album/3e8LZqHQkL6pbWLTCdhPRS) | 2:28 |
 | 100 | [Mis Muertos](https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em) | 2:21 |
 
-Snapshot ID: `MTY3NzA4Mzc3OSwwMDAwMDAwMDdkNTNkNjYwNzkxNTg4NjNhNDcwNzhkNDAzMWE0OTlm`
+Snapshot ID: `MTY3NzA4Mzc3OSwwMDAwMDAwMGE0YjQxM2EwZWQ1NGFhOGVkOTVhNDY5YjIwZGM4OWM0`

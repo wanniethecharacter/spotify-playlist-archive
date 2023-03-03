@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0627\u0643\u062a\u0634\u0641\u0648\u0627 \u0623\u0641\u0636\u0644 \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629 \n\u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0627\u064a\u0636 ",
+  "description": "\u0627\u0643\u062a\u0634\u0641\u0648\u0627 \u0623\u0641\u0636\u0644 \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629 \n\u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u0644\u0642\u064a\u0633 ",
   "name": "Hits \u062e\u0644\u064a\u062c\u064a",
   "tracks": [
     {
@@ -190,24 +190,6 @@
       "duration_ms": 272255,
       "name": "Bahjat ALkhater",
       "url": "https://open.spotify.com/track/3eReZhyR5JIDiRN1kxxHOl"
-    },
-    {
-      "album": {
-        "name": "Turki - Tarek Mohammed",
-        "url": "https://open.spotify.com/album/5sZ2lDQNAQHKEFUVXXanVL"
-      },
-      "artists": [
-        {
-          "name": "Oumaima Taleb",
-          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
-        }
-      ],
-      "date_added": "2023-01-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220370,
-      "name": "Bterjaa",
-      "url": "https://open.spotify.com/track/0sWkcDktCKYnD47wq1aeto"
     },
     {
       "album": {
@@ -490,24 +472,6 @@
       "duration_ms": 257923,
       "name": "Hack Hack",
       "url": "https://open.spotify.com/track/27JHTW5VmpCueQEwmDyDlH"
-    },
-    {
-      "album": {
-        "name": "Rabeh Saqer 2022",
-        "url": "https://open.spotify.com/album/1S54dgimOLppLTB38OokOW"
-      },
-      "artists": [
-        {
-          "name": "Rabeh Saqer",
-          "url": "https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2"
-        }
-      ],
-      "date_added": "2023-01-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 292057,
-      "name": "Haddy Nafsak",
-      "url": "https://open.spotify.com/track/5EeZSRaCnXiLPaxlAKXyAN"
     },
     {
       "album": {
@@ -1121,24 +1085,6 @@
     },
     {
       "album": {
-        "name": "Wainah",
-        "url": "https://open.spotify.com/album/5onbD11TjYBvvotTzH1XQj"
-      },
-      "artists": [
-        {
-          "name": "Rashed Al-Majed",
-          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
-        }
-      ],
-      "date_added": "2023-02-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 306573,
-      "name": "Wainah",
-      "url": "https://open.spotify.com/track/5wglb4bSdNs2bdPqCRq0iZ"
-    },
-    {
-      "album": {
         "name": "Wesh Yes3edk",
         "url": "https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos"
       },
@@ -1424,6 +1370,24 @@
       "duration_ms": 225776,
       "name": "\u0627\u064a\u0627\u0645\u064a \u0628\u062f\u0648\u0646\u0643",
       "url": "https://open.spotify.com/track/7b6blgIv6cMRAXu8sBnWJf"
+    },
+    {
+      "album": {
+        "name": "\u062a\u0631\u0643\u064a - \u0637\u0627\u0631\u0642 \u0645\u062d\u0645\u062f",
+        "url": "https://open.spotify.com/album/5sZ2lDQNAQHKEFUVXXanVL"
+      },
+      "artists": [
+        {
+          "name": "Oumaima Taleb",
+          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220370,
+      "name": "\u0628\u062a\u0631\u062c\u0639",
+      "url": "https://open.spotify.com/track/0sWkcDktCKYnD47wq1aeto"
     },
     {
       "album": {
@@ -1861,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "\u0631\u0627\u0628\u062d \u0635\u0642\u0631 \u0662\u0660\u0662\u0662",
+        "url": "https://open.spotify.com/album/1S54dgimOLppLTB38OokOW"
+      },
+      "artists": [
+        {
+          "name": "Rabeh Saqer",
+          "url": "https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292057,
+      "name": "\u0647\u062f\u064a \u0646\u0641\u0633\u0643",
+      "url": "https://open.spotify.com/track/5EeZSRaCnXiLPaxlAKXyAN"
+    },
+    {
+      "album": {
         "name": "\u0647\u0648\u064a\u062a\u0643",
         "url": "https://open.spotify.com/album/2OX0k9xbA3TaBCL5NWl3mN"
       },
@@ -1960,6 +1942,24 @@
       "duration_ms": 275306,
       "name": "\u0648\u0644\u0627 \u063a\u0644\u0637\u0629",
       "url": "https://open.spotify.com/track/1Htw7lMJaoL7Wg1o1oh3rK"
+    },
+    {
+      "album": {
+        "name": "\u0648\u064a\u0646\u0647",
+        "url": "https://open.spotify.com/album/5onbD11TjYBvvotTzH1XQj"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306573,
+      "name": "\u0648\u064a\u0646\u0647",
+      "url": "https://open.spotify.com/track/5wglb4bSdNs2bdPqCRq0iZ"
     },
     {
       "album": {

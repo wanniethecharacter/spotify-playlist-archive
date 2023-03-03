@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Cookiee Kawaii
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,659 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,835 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 49 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 |
 | 50 | [Look Back It \(Club Mix\)](https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa) | [Ziggy](https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG) | [Ziggy Reloaded II](https://open.spotify.com/album/69j9CVp7HejIYEcMy2Gsil) | 1:42 |
 
-Snapshot ID: `MTY3NzI0Nzk5MCwwMDAwMDAwMGRmMTdjMmEwNDZmMTYxZjc4Y2ZlZjAwZGFjZmMxZTI1`
+Snapshot ID: `MTY3NzI0Nzk5MCwwMDAwMDAwMDhlNWZkYjc2MTljNTM0NmEyMTgyOTU3ZWVkODE4YjQx`

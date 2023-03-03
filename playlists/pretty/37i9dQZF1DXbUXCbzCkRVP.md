@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,231 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,284 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 79 | [The Clock Strikes Twelve](https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Go Bo Diddley](https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe) | 2:57 |
 | 80 | [Ain't That Dandy](https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Peacock Recordings: 1949\-1959](https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV) | 2:53 |
 
-Snapshot ID: `MTY3NzI1OTY3MCwwMDAwMDAwMDMzZGNkOTc0OTJmNjM0MjFhZWVmMTIxY2U5MGRmOGUy`
+Snapshot ID: `MTY3NzI1OTY3MCwwMDAwMDAwMGIwNzFjM2JjNGU2NjFiZTkzYmE3NGVkNmFmZGE3YjE0`

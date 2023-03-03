@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,188 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,182 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 99 | [Halls Of Heaven \- Live](https://open.spotify.com/track/70TzqOqUzJsZTLilqh9LzX) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Love Has A Name \(Deluxe/Live\)](https://open.spotify.com/album/5acKLBGuSEu7LkrXdG41PA) | 5:06 |
 | 100 | [Endlessly](https://open.spotify.com/track/3JrygX9aQ8rAHoQ0Tsm3cq) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 4:35 |
 
-Snapshot ID: `MTY3NjY5OTcxOSwwMDAwMDAwMDE4MjFlM2E5ZWE0MzUzZmFlNTZiYzViZDA5NzM2OGQ4`
+Snapshot ID: `MTY3NjY5OTcxOSwwMDAwMDAwMGVkNzEzY2RiMDA4ZGJjOTQ5M2Q5ZWU5NDI1Y2JmNDQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Parker McCollum
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,037 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,090 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [With You](https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6) | 4:26 |
 | 100 | [You Ain't No Cowboy](https://open.spotify.com/track/6JVlshaVI7xO3C9o57eMOj) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [You Ain't No Cowboy](https://open.spotify.com/album/6hNyzOd9PDGjkzooGPJRXd) | 3:28 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGI4ZmU4MzE0MDFjNGEzMWYzYWFjMThiYzU0NDE4NjA3`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGU2YzNjNDg3ZDEzYmQyOWMwYzE4YzY1NmQ4ZDk1ZmJj`

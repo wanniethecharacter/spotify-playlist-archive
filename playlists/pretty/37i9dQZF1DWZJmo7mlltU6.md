@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: BoyWithUke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,125 likes - 103 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,282 likes - 103 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 102 | [Empty Head](https://open.spotify.com/track/54DjNRB4TFeXOpRMBJyNv3) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 5:13 |
 | 103 | [El valle de las muñecas](https://open.spotify.com/track/34OHLXoeVbUOuNmSHolOtj) | [Juan Azul](https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw) | [Los mejores días ya han pasado](https://open.spotify.com/album/24AR0hGrrhMHMRUXJ2FFb5) | 3:57 |
 
-Snapshot ID: `MTY3NjA0MDE2MywwMDAwMDAwMDQ1MTNiMzU5YWZhYTdjNTBkYTI3MjM5MmE1NDAyYjI3`
+Snapshot ID: `MTY3NjA0MDE2MywwMDAwMDAwMDZlZTQ1ZTdiM2Y0ZWEyM2I0NjA5Zjg1YzcxNTFjZjY5`

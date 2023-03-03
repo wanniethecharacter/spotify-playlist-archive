@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,151,049 likes - 208 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,151,461 likes - 208 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 207 | [Wherever You Go](https://open.spotify.com/track/7eGesoKVNP8jJig7xgmk3t) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [Distance](https://open.spotify.com/album/4LoqJkatX8j9Xtrj3moCE1) | 2:44 |
 | 208 | [Addicted](https://open.spotify.com/track/6QLcgTd4x8YsrVzo7txqzT) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [Addicted](https://open.spotify.com/album/2pSM1LqPLkoYE1UIBpJWbz) | 2:44 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDM4ODgwODYyYmI2ZmY3NjMxYjk3ZjdhNzkzMmI2Zjc5`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDM2M2I3OThlYzgyMGVjNmJiNzdhMGRiNTI0YmUyODM2`

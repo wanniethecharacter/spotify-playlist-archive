@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp?si=PR3NDmcERxS43WJOhOizBA"> SUPERJAZZCLUB</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,074 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,124 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Yao](https://open.spotify.com/track/2BesSwK9iYOTFMQytlf79Q) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Yao](https://open.spotify.com/album/1iIMteZmsQjzajs83RFmgQ) | 3:29 |
 | 80 | [Monsta Alta](https://open.spotify.com/track/4CzjRsUOISdhNlpB09rIz6) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Monsta Alta & Chérie](https://open.spotify.com/album/5RhWRWtO6UuunZaznnyDce) | 2:50 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGY5MGZhNmIyMTBlMjFiNDczNjQ4YzFmODU2MjU0Nzkw`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGMxNTUyOWJjODgyZmIwYTIxYjkwNTg4Y2MxODU2MDBh`

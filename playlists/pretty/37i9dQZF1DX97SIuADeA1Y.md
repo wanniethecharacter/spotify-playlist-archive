@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > When the bassline slaps.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,622 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,729 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [SØLO](https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
 | 60 | [Who U Gonna Love \(feat\. Amber Van Day\)](https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Y3LLO KOALA](https://open.spotify.com/artist/7wSw5WtitICEfxFIbK501i), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Who U Gonna Love \(feat\. Amber Van Day\)](https://open.spotify.com/album/0yzEsLH4U52Qd9cTB3W3Rt) | 2:59 |
 
-Snapshot ID: `MTY3NjYzMzQwMCwwMDAwMDAwMGM1ODk1MGE4YmViMzhlMzFiNTlmMTBjMDQ5YWNkOTNk`
+Snapshot ID: `MTY3NjYzMzQwMCwwMDAwMDAwMDMwMmRiNmM5N2ZlMjVkNGRkMjBhYmRjZDNiYWUwMTJl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ben Fero",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Batuflex",
   "name": "NKVT",
   "tracks": [
     {
@@ -343,6 +343,28 @@
     },
     {
       "album": {
+        "name": "GHETTOMAN",
+        "url": "https://open.spotify.com/album/0LZhkLhHJIPopDt0NjEF2M"
+      },
+      "artists": [
+        {
+          "name": "Critical",
+          "url": "https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO"
+        },
+        {
+          "name": "Heijan",
+          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "GHETTOMAN",
+      "url": "https://open.spotify.com/track/3hbWiGDEItdBZLtTCueewe"
+    },
+    {
+      "album": {
         "name": "Gitme Beb\u00e9",
         "url": "https://open.spotify.com/album/7pqk9NL58kPzkX1tayqO4G"
       },
@@ -358,6 +380,24 @@
       "duration_ms": 156000,
       "name": "Gitme Beb\u00e9",
       "url": "https://open.spotify.com/track/6hCQeXoFDXvYZ0pu2MDM0h"
+    },
+    {
+      "album": {
+        "name": "g\u00f6zlerindeki ay",
+        "url": "https://open.spotify.com/album/3TMj9dY2lRO6TriDsDQWr6"
+      },
+      "artists": [
+        {
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "g\u00f6zlerindeki ay",
+      "url": "https://open.spotify.com/track/5Ll8YoELGiZ3jeoaY3TABg"
     },
     {
       "album": {
@@ -532,7 +572,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 129354,
       "name": "\u0130NATLA",
       "url": "https://open.spotify.com/track/5d1eOk5l7IRRLcvupApHi1"
@@ -572,7 +612,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 201290,
       "name": "Jurassic Park",
       "url": "https://open.spotify.com/track/3xWQkZCyuRyo8s1QGUon0b"
@@ -953,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Randuman / Ring Ring Ring",
+        "url": "https://open.spotify.com/album/2E0ZtQyUtB3Owq2GPTm9xo"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119230,
+      "name": "Randuman / Ring Ring Ring",
+      "url": "https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu"
+    },
+    {
+      "album": {
         "name": "EL CHAVO",
         "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
       },
@@ -1150,7 +1208,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 160460,
       "name": "Vicdan\u0131m Kay\u0131p",
       "url": "https://open.spotify.com/track/0957zCB7svwHxXufWRs6so"
@@ -1266,7 +1324,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 138017,
       "name": "Y\u0131ld\u0131zlar",
       "url": "https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI"

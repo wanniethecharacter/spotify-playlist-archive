@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,255 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,660 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [Good Vibrations](https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg) | [Freekind.](https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV) | [Good Vibrations](https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit) | 3:36 |
 | 100 | [Get Lost](https://open.spotify.com/track/6ITSh7MTLHFFtqJKKZgUA4) | [JuJu Rogers](https://open.spotify.com/artist/2PC54ZJmhrs4XtbLRaE6MA), [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Regis Molina](https://open.spotify.com/artist/5IHvNCXmpIHeBZkSWulM3i) | [Lost in Translation](https://open.spotify.com/album/7h97NFfY3hDw2kLq0ztbf1) | 4:57 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDZiZTA4ZTU0YmE2MmM4MmViM2FjOTk5N2Q0ZmE3OTYy`
+Snapshot ID: `MTY3Nzc2NzY5MCwwMDAwMDAwMGMyYTc1MTI4NmUyODZjODVlNmRhZTI3YWVhMWNkMmI0`

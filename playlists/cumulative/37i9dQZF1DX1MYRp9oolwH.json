@@ -31,6 +31,32 @@
     },
     {
       "album": {
+        "name": "Adavilona Aadapilla (From \"Rebels of Thupakulagudem\") - Single",
+        "url": "https://open.spotify.com/album/4L0loyRvCzlxz7nrJrXUJN"
+      },
+      "artists": [
+        {
+          "name": "Dhanunjay Seepana",
+          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
+        },
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Jaideep Vishnu",
+          "url": "https://open.spotify.com/artist/3rUxrdFuzlGMEeqB5ObIRM"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Adavilona Aadapilla (From \"Rebels of Thupakulagudem\")",
+      "url": "https://open.spotify.com/track/1NQ3HJq5RklgerKBPW5RF4"
+    },
+    {
+      "album": {
         "name": "Macherla Niyojakavargam",
         "url": "https://open.spotify.com/album/110jRnDnxi80jTtWbKT2Kz"
       },

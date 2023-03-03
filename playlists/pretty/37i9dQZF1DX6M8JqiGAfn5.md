@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6M8JqiGAfn5.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,823 likes - 52 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,121 likes - 52 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6M8JqiGAfn5.md) - [plain]
 | 51 | [Kissing Strangers](https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Kissing Strangers](https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R) | 3:22 |
 | 52 | [TROLLZ \(with Nicki Minaj\)](https://open.spotify.com/track/3JwxpSpGaXmGqLwWN6D6eC) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [TattleTales](https://open.spotify.com/album/6q8AAimjVfKuv9PrI5xto9) | 3:22 |
 
-Snapshot ID: `MTY2MzA4MjQzMiwwMDAwMDAwMGRmNjY4NTJjMDljMWMyNDFhNzYwZWY3NTMzMmJmMWQ2`
+Snapshot ID: `MTY2MzA4MjQzMiwwMDAwMDAwMDgxYmJkM2Q3YjJmZWVlZjZhZDY5YTJmM2U2ZTI1NTM1`

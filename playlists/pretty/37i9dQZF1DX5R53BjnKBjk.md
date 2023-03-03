@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer!  Foto: THAIS / Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,495 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,516 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 79 | [Fugitivos](https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Fugitivos](https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9) | 3:29 |
 | 80 | [Nada \(Além de Você\)](https://open.spotify.com/track/0G14NxlIvaxlCszVZOimOc) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6eh8PdDo6Wv9lTLiGqO1JH) | 2:09 |
 
-Snapshot ID: `MTY3NjMxMTI1OCwwMDAwMDAwMDViNzU0MDMxODhjNzRhYmU4NDI5ZjU0NjViNjU5Y2Y5`
+Snapshot ID: `MTY3NjMxMTI1OCwwMDAwMDAwMGQ2YjE0ZDZiNjZkN2RlMWY3MzdlNWIwZWRjNWQwOGI2`

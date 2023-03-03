@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,468 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,498 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [Ojitos Lindos](https://open.spotify.com/track/6amvGlc634QuohaW2vNeIv) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Ojitos Lindos](https://open.spotify.com/album/3go3FqLGKpSSqiYkrPTUP0) | 3:10 |
 | 75 | [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 |
 
-Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMDkyZDEyOGMzYTZlZmY3ZjAzYjQyMmM5NGVmODcxZTg0`
+Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMDdlMmM4N2I2YzcyNjE2Y2VmNDg5NTVmOTRiM2UzM2U1`

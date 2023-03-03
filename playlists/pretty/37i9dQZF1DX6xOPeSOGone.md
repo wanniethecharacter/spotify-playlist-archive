@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > The great masterpieces of the genre\. Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,558,106 likes - 150 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,559,191 likes - 150 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 149 | [The Flame](https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 5:38 |
 | 150 | [Come As You Are](https://open.spotify.com/track/3sYWyVGfPuit80szWXhrRA) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:13 |
 
-Snapshot ID: `MTY3NDA3ODY2NSwwMDAwMDAwMGMxY2NmNjRmMmRkMjhkYTk5MDVkNTMyNzc3NWMxZWFl`
+Snapshot ID: `MTY3NDA3ODY2NSwwMDAwMDAwMDQ5MmMxOWIzY2QyOGRiMGVjYjkyNjEwMTUzYzExNmU0`

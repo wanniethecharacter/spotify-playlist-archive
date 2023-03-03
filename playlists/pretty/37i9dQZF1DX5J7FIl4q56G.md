@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Archetypes Collide
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,287 likes - 53 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,470 likes - 53 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 52 | [Somos Negocio](https://open.spotify.com/track/7Dtbv6pChk6Qdyxy5BJJJb) | [DELICTIVO](https://open.spotify.com/artist/1G8OSVGFYiuCJSMySDPCbE), [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [Somos Negocio](https://open.spotify.com/album/5HjAP8qa3lBJ7pBIvgP4Ci) | 2:33 |
 | 53 | [Infernal Requiem](https://open.spotify.com/track/2FsQAWJewoJRGJ9M2Ac97Y) | [Draconian Reign](https://open.spotify.com/artist/0SQfK35YYjN6hqkoYvxOkM) | [Infernal Requiem](https://open.spotify.com/album/5E55xNKv2TxDqYUiirjMhN) | 5:24 |
 
-Snapshot ID: `MTY3NzUyNDI2MSwwMDAwMDAwMGZjOTRkZGVlY2E4MTE5MDJkNDEwNmJhODBhN2I0NTBh`
+Snapshot ID: `MTY3NzUyNDI2MSwwMDAwMDAwMDkzZTBhMDJmYWM3ZDFhOTY5MmYzNDBmZTdjNjQ0ZjY0`

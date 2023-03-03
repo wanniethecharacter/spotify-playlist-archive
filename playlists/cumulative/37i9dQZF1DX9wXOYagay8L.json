@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi?si=6ktild1hQoCw3KMUzfFQ8A\">Aubrey Qwana</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=Jxo12rkVRJmeBp-BEV8i6g\">Bongeziwe Mabandla</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 315428,
       "name": "Akathintwa",
       "url": "https://open.spotify.com/track/3vT35rhGVQZVBMQODC0ora"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 184219,
       "name": "Enza Kwenzeke",
       "url": "https://open.spotify.com/track/5LMpwITEAKoC4OhzkM0vr0"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 224415,
       "name": "Hlala Nam",
       "url": "https://open.spotify.com/track/4bGArN6QtBVHlbu95ylpSL"
@@ -3319,6 +3319,32 @@
     },
     {
       "album": {
+        "name": "Loadshedding",
+        "url": "https://open.spotify.com/album/1TaufpxojdcNP4BnqmNZQe"
+      },
+      "artists": [
+        {
+          "name": "Dr Malinga",
+          "url": "https://open.spotify.com/artist/1PPLLXnpoIzsgpH1fu0Gu7"
+        },
+        {
+          "name": "LTD Muzika",
+          "url": "https://open.spotify.com/artist/3mZLLkkGagGSWhEZCt7MbD"
+        },
+        {
+          "name": "Madlisa 808",
+          "url": "https://open.spotify.com/artist/3PUGecyFzyrmx345GXYdUb"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246437,
+      "name": "Loadshedding",
+      "url": "https://open.spotify.com/track/60JKdpmIWs65lPxIKRlocx"
+    },
+    {
+      "album": {
         "name": "Idwala",
         "url": "https://open.spotify.com/album/2nBnaZl4NHAOZWjB1V5GbS"
       },
@@ -3851,6 +3877,28 @@
     },
     {
       "album": {
+        "name": "Ndi a Ni Funa",
+        "url": "https://open.spotify.com/album/1u5Wl8S3EuGd0woWFeJ68I"
+      },
+      "artists": [
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        },
+        {
+          "name": "Kozo Zwane",
+          "url": "https://open.spotify.com/artist/0Sa8nh1qc2jZhlqddED69k"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Ndi a Ni Funa",
+      "url": "https://open.spotify.com/track/2N1TKyUtiutH2AqBpF98t1"
+    },
+    {
+      "album": {
         "name": "Ndi Linde",
         "url": "https://open.spotify.com/album/7gwxQBsXWcWeRgWRgXRtkm"
       },
@@ -4044,6 +4092,28 @@
       "duration_ms": 227868,
       "name": "next2me",
       "url": "https://open.spotify.com/track/1kPxq5oUjWrPiAnHqjq38H"
+    },
+    {
+      "album": {
+        "name": "Ng'cabanga Ngawe",
+        "url": "https://open.spotify.com/album/1jqOUDSmXLCNmIxhzI1iTk"
+      },
+      "artists": [
+        {
+          "name": "Valee Music",
+          "url": "https://open.spotify.com/artist/780ChRgKqguVRixxZ0hrEB"
+        },
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229894,
+      "name": "Ng'cabanga Ngawe",
+      "url": "https://open.spotify.com/track/2NWD2G5xvu5ZMMv9bHSHuP"
     },
     {
       "album": {
@@ -6006,7 +6076,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 252000,
       "name": "Thixo",
       "url": "https://open.spotify.com/track/0oNkR5J4qmQxNVwLeA55y7"
@@ -6120,6 +6190,32 @@
       "duration_ms": 285283,
       "name": "Tshwara fase",
       "url": "https://open.spotify.com/track/0Pwb7370gQ8tkZ12z0uCUW"
+    },
+    {
+      "album": {
+        "name": "Tsini Tsini",
+        "url": "https://open.spotify.com/album/4sB8eBXQqaOaev9WdDz2VV"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "Fortunator",
+          "url": "https://open.spotify.com/artist/6StnELGS6xp40SAbMotvwk"
+        },
+        {
+          "name": "Mash K",
+          "url": "https://open.spotify.com/artist/2C2OAUQIUAMDm4mdfpQo0X"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284995,
+      "name": "Tsini Tsini",
+      "url": "https://open.spotify.com/track/3inJEriFZwbiyQLLmG2Ai3"
     },
     {
       "album": {
@@ -6334,6 +6430,24 @@
       "duration_ms": 223520,
       "name": "Ukukhanya",
       "url": "https://open.spotify.com/track/21zXbMOdDs7BterIteBmvU"
+    },
+    {
+      "album": {
+        "name": "ukuthanda wena",
+        "url": "https://open.spotify.com/album/34EfitSWSsf04PbFF4qE39"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247879,
+      "name": "ukuthanda wena",
+      "url": "https://open.spotify.com/track/6z4w4hAbwUm5nGz03AuiVd"
     },
     {
       "album": {
@@ -7226,7 +7340,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 291573,
       "name": "Zwafhela Zwofhela",
       "url": "https://open.spotify.com/track/6xAOVKfp6ffBwWRUtpKSlL"

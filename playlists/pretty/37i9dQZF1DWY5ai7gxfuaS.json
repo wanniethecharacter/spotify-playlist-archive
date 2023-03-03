@@ -1,12 +1,12 @@
 {
-  "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 220402,
+  "description": "The most innovative and forward thinking metal right now. Cover: Dope",
+  "num_followers": 220753,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk3Mjc2OCwwMDAwMDAwMDVlNmFkNzhkMWU0OGZkMzY4ZmVkMjk5ODllZTJjNzY3",
+  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDIyNTIwNjEzNmFjNjY4MzQzNmE0ZGEzYjRmNzgwMWEz",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/3DW6GVr7RVyfvo4NBRvZIZ"
     },
     {
-      "added_at": "2023-02-09 19:59:28",
+      "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Watch The World Burn",
-        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
+        "name": "Dead World",
+        "url": "https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF"
       },
       "artists": [
         {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
         }
       ],
-      "duration_ms": 203948,
-      "name": "Watch The World Burn",
-      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
+      "duration_ms": 276764,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2zdtGFbUCmv0PhkylSQiHu"
     },
     {
       "added_at": "2023-02-09 19:59:28",
@@ -55,6 +55,22 @@
       "duration_ms": 243343,
       "name": "Terrible Lie",
       "url": "https://open.spotify.com/track/2e2aWPBaVWrNMngz5ftWPv"
+    },
+    {
+      "added_at": "2023-02-09 19:59:28",
+      "album": {
+        "name": "Watch The World Burn",
+        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 203948,
+      "name": "Watch The World Burn",
+      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -125,6 +141,22 @@
       "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
     },
     {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "FLATLINE",
+        "url": "https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 172067,
+      "name": "FLATLINE",
+      "url": "https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ"
+    },
+    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "Paranoid (Crash & Burn)",
@@ -139,22 +171,6 @@
       "duration_ms": 235736,
       "name": "Paranoid (Crash & Burn)",
       "url": "https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Bimbocore",
-        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 118863,
-      "name": "Pink Rover",
-      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -203,6 +219,38 @@
       "duration_ms": 168800,
       "name": "DOMINATION",
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Light and Darkness",
+        "url": "https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
     },
     {
       "added_at": "2023-02-09 19:59:28",
@@ -293,6 +341,22 @@
       "url": "https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS"
     },
     {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Handshakes With Snakes",
+        "url": "https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "duration_ms": 117857,
+      "name": "Handshakes With Snakes",
+      "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
+    },
+    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "I Wish A Bitch Would",
@@ -307,6 +371,22 @@
       "duration_ms": 206617,
       "name": "I Wish A Bitch Would",
       "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/0IyXHRcQxesZtc09HdKCyv"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 174758,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -343,6 +423,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "FAIRY METAL",
+        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 161318,
+      "name": "FAIRY METAL",
+      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "I Spit On Your Grave",
         "url": "https://open.spotify.com/album/7MqqZttKOfY4VvN77e6Mv4"
       },
@@ -371,22 +467,6 @@
       "duration_ms": 208360,
       "name": "Gatekeepers",
       "url": "https://open.spotify.com/track/63pBzNTtzByif59lsK3dou"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "FAIRY METAL",
-        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 161318,
-      "name": "FAIRY METAL",
-      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -479,22 +559,6 @@
       "duration_ms": 288002,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Dead World",
-        "url": "https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 276764,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2zdtGFbUCmv0PhkylSQiHu"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -851,6 +915,26 @@
       "duration_ms": 491180,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "DODGE A BULLET",
+        "url": "https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M"
+      },
+      "artists": [
+        {
+          "name": "Philip Solo",
+          "url": "https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI"
+        },
+        {
+          "name": "ONI INC.",
+          "url": "https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4"
+        }
+      ],
+      "duration_ms": 166504,
+      "name": "DODGE A BULLET",
+      "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1275,86 +1359,6 @@
       "duration_ms": 277024,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/750uSPGwf5jqU1teWD5cdO"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "open water",
-        "url": "https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT"
-      },
-      "artists": [
-        {
-          "name": "rouri404",
-          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
-        }
-      ],
-      "duration_ms": 126912,
-      "name": "open water",
-      "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Demon Supreme",
-        "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
-      },
-      "artists": [
-        {
-          "name": "Lordi",
-          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
-        }
-      ],
-      "duration_ms": 211759,
-      "name": "Demon Supreme",
-      "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "DIVINE DISINTEGRATION",
-        "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
-      },
-      "artists": [
-        {
-          "name": "ghostofblu",
-          "url": "https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "DIVINE DISINTEGRATION",
-      "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Dr\u00fdsill",
-        "url": "https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3lstafir",
-          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
-        }
-      ],
-      "duration_ms": 532351,
-      "name": "Dr\u00fdsill",
-      "url": "https://open.spotify.com/track/5pYsByOqa325t7t46xudFx"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "On Circles",
-        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
-      },
-      "artists": [
-        {
-          "name": "Caspian",
-          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
-        }
-      ],
-      "duration_ms": 413400,
-      "name": "Wildblood",
-      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
     }
   ],
   "unique_name": "Alternative Metal",

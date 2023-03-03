@@ -2,9 +2,9 @@
 
 ### [Radici Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk)
 
-> Beat e rime, oggi come una volta\. Mezzosangue in cover.
+> Beat e rime, oggi come una volta\. Egreen in cover.
 
-254 songs - 15 hr 18 min
+255 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bastavano Le Briciole](https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Marracash](https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B) | 3:53 | 2022-07-28 |  |
 | [Beatrice](https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Michele Venanzoni \(TMHH\)](https://open.spotify.com/artist/3yTFQgU4MOiIvSCgcMqAHQ) | [Infernum](https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9) | 3:00 | 2022-07-28 |  |
 | [Beatrice](https://open.spotify.com/track/2V1O4ctZBTx9yp9ngLZ0Sz) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Beatrice](https://open.spotify.com/album/02uYU339HBVHsNlzIpbhiw) | 3:00 | 2022-05-05 | 2022-07-29 |
+| [Bellissimo](https://open.spotify.com/track/0OR6yQeHG1OH1vCtDZsPw0) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Bellissimo](https://open.spotify.com/album/1aFG5BkuyC5l0JSZG4RaLH) | 2:55 | 2023-03-02 |  |
 | [Birre in lattina](https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [Ci sentiamo poi](https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G) | 3:11 | 2022-05-05 |  |
 | [Black Market \- St Luca Spenish Remix](https://open.spotify.com/track/4Y5iO8sENPmNlbE7zsBAr3) | [Nex Cassel](https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [St Luca Spenish](https://open.spotify.com/artist/3uPB5v8cgvDpoFySvjyMAx) | [Black Market \(St Luca Spenish Remix\)](https://open.spotify.com/album/4jvApUPxBom7MVqP6rJ3xC) | 3:23 | 2022-07-14 | 2022-10-22 |
 | [Black Rain](https://open.spotify.com/track/555Ssjw9HartOGIrRaJ1LH) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [Black Rain](https://open.spotify.com/album/642S6c6lLkWN63kZY0m4hN) | 4:13 | 2022-05-05 | 2022-08-19 |
@@ -40,7 +41,7 @@
 | [Casse rotte \(feat\. Brokenspeakers\)](https://open.spotify.com/track/3jmjTGbN86A2DcZIEulmvM) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Brokenspeakers](https://open.spotify.com/artist/4Ttq7tTGmx28IM7sN0nEMa) | [Volare](https://open.spotify.com/album/1mduA9KWQcE64fHeH8U17C) | 4:02 | 2022-05-12 | 2022-07-29 |
 | [CHE COSA ASPETTI \(feat\. Moder & DJ 5L\)](https://open.spotify.com/track/5PN4LcS8QNwGM6hy0MGUJA) | [MACK](https://open.spotify.com/artist/5wcs9FAxgMQEfZNsqJFMmM), [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ), [DJ 5L](https://open.spotify.com/artist/7368E7lI1AdJpBQfLEgZmv) | [CHE COSA ASPETTI \(feat\. Moder & DJ 5L\)](https://open.spotify.com/album/4YkQGIotWBXezBU2Va1XTD) | 3:38 | 2022-05-12 | 2022-05-28 |
 | [Che nessuno si muova](https://open.spotify.com/track/58DcYPv6jTVD6BeYsiPfSn) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Deleterio](https://open.spotify.com/artist/7b4WvxNQtqlXbprLRUyxt6), [Vincenzo Da Via Anfossi](https://open.spotify.com/artist/3fe7sEsyZiMKV8T2vW3EoA), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Hashishinz Sound, Vol\. 1](https://open.spotify.com/album/686o277ou2T3uWQ2LBiJAP) | 4:00 | 2022-05-12 | 2022-07-28 |
-| [Chi more pe' mme](https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:43 | 2022-05-12 |  |
+| [Chi more pe' mme](https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:43 | 2022-05-12 | 2023-03-03 |
 | [Chi Paga](https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa) | [OneMic](https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25) | [Promo EP](https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n) | 4:35 | 2022-06-16 | 2022-07-20 |
 | [Chiedi Alla Polvere 2008](https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Marracash](https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B) | 4:25 | 2022-07-28 |  |
 | [Chiudi Gli Occhi](https://open.spotify.com/track/7Iq93UBQAA4zSYVkbKDJBO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:02 | 2023-01-13 |  |

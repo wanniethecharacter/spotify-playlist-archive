@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - USA.",
-  "num_followers": 365609,
+  "num_followers": 365612,
   "original_name": "Viral 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzMwOTg1MDkwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzMxMDg4ODIyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/1XciNWcYMtjVEjgEQXXxSN"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2OgIbXHmuRJowDwtmezcio"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Melodramatic",
         "url": "https://open.spotify.com/album/68QwVLwpCilgbZorXibyd2"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5jikmrFL7wzkaCvdUSePkB"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "rockhardt",
         "url": "https://open.spotify.com/album/193IYs1YZemD7CXQCSyXfc"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2DcwwZtauRU5s2ZxzGRJQi"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "In This Darkness",
         "url": "https://open.spotify.com/album/1oWMwzvnFWUv9NsSkQPKRT"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/6qrcJkIpuWpxH0ruS8WVAy"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "El Gordo Trae El Mando",
         "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
@@ -109,23 +109,7 @@
       "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
-      "album": {
-        "name": "Let U Go",
-        "url": "https://open.spotify.com/album/4WzPhDgw6vO5Jq0m9VmN72"
-      },
-      "artists": [
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        }
-      ],
-      "duration_ms": 128004,
-      "name": "Let U Go",
-      "url": "https://open.spotify.com/track/29pUhY4WylF02TuUiPUYYV"
-    },
-    {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "3 Songs At A Time Sampler",
         "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
@@ -141,7 +125,7 @@
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Fact (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/4lpOnXYfA4BRnZzx54EhqX"
@@ -161,7 +145,7 @@
       "url": "https://open.spotify.com/track/5ht9obvnnWeW4eoRtPAoQD"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "The Summoning",
         "url": "https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX"
@@ -177,7 +161,23 @@
       "url": "https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
+      "album": {
+        "name": "Let U Go",
+        "url": "https://open.spotify.com/album/4WzPhDgw6vO5Jq0m9VmN72"
+      },
+      "artists": [
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        }
+      ],
+      "duration_ms": 128004,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/29pUhY4WylF02TuUiPUYYV"
+    },
+    {
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Watch The World Burn",
         "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
@@ -193,23 +193,7 @@
       "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
-      "album": {
-        "name": "If Looks Could Kill",
-        "url": "https://open.spotify.com/album/0NlzWMwEDGDXP5KpUuMmjU"
-      },
-      "artists": [
-        {
-          "name": "shadow nightcore",
-          "url": "https://open.spotify.com/artist/5M0J8qPCNZevlbPqHbzxqP"
-        }
-      ],
-      "duration_ms": 161425,
-      "name": "If Looks Could Kill",
-      "url": "https://open.spotify.com/track/0dGw3ozTMBrOrRqBw0JpqI"
-    },
-    {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "SMOKE IT OFF!",
         "url": "https://open.spotify.com/album/59i6c9Y4NtR28gdkQ4Bg0S"
@@ -229,7 +213,7 @@
       "url": "https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Attack of the Killer Beast (Phonk)",
         "url": "https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3"
@@ -245,7 +229,23 @@
       "url": "https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
+      "album": {
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/0NlzWMwEDGDXP5KpUuMmjU"
+      },
+      "artists": [
+        {
+          "name": "shadow nightcore",
+          "url": "https://open.spotify.com/artist/5M0J8qPCNZevlbPqHbzxqP"
+        }
+      ],
+      "duration_ms": 161425,
+      "name": "If Looks Could Kill",
+      "url": "https://open.spotify.com/track/0dGw3ozTMBrOrRqBw0JpqI"
+    },
+    {
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "SHOOTING STAR",
         "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
@@ -285,55 +285,7 @@
       "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
-      "album": {
-        "name": "SHOOTING STAR",
-        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 203556,
-      "name": "SHOOTING STAR",
-      "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
-    },
-    {
-      "added_at": "2023-03-01 11:24:50",
-      "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo"
-      },
-      "artists": [
-        {
-          "name": "Sparky Deathcap",
-          "url": "https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR"
-        }
-      ],
-      "duration_ms": 189681,
-      "name": "September",
-      "url": "https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk"
-    },
-    {
-      "added_at": "2023-03-01 11:24:50",
-      "album": {
-        "name": "PANDORA'S BOX",
-        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
-      },
-      "artists": [
-        {
-          "name": "MAVE:",
-          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "PANDORA",
-      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
-    },
-    {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
@@ -349,26 +301,58 @@
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
-        "name": "Once Upon a Mind",
-        "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
+        "name": "SHOOTING STAR",
+        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
       },
       "artists": [
         {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 259991,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP"
+      "duration_ms": 203556,
+      "name": "SHOOTING STAR",
+      "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
-        "name": "Past Lives - Sapientdreams Remix",
-        "url": "https://open.spotify.com/album/6hUXjk7tGsBWvSYKKgbtiF"
+        "name": "September",
+        "url": "https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo"
+      },
+      "artists": [
+        {
+          "name": "Sparky Deathcap",
+          "url": "https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR"
+        }
+      ],
+      "duration_ms": 189681,
+      "name": "September",
+      "url": "https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk"
+    },
+    {
+      "added_at": "2023-03-02 16:13:42",
+      "album": {
+        "name": "PANDORA'S BOX",
+        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
+      },
+      "artists": [
+        {
+          "name": "MAVE:",
+          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "PANDORA",
+      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
+    },
+    {
+      "added_at": "2023-03-02 16:13:42",
+      "album": {
+        "name": "Past Lives (Sapientdreams Remix)",
+        "url": "https://open.spotify.com/album/65E47oz7ARX7uXdLT988tu"
       },
       "artists": [
         {
@@ -378,10 +362,10 @@
       ],
       "duration_ms": 154895,
       "name": "Past Lives - Sapientdreams Remix",
-      "url": "https://open.spotify.com/track/58TzcSnsgTBVN0jytVskgn"
+      "url": "https://open.spotify.com/track/6BU4Xd49WEr8AXI7M2LMEw"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "BSS 1st Single Album 'SECOND WIND'",
         "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
@@ -401,7 +385,7 @@
       "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Beautiful Day (Thank You for Sunshine)",
         "url": "https://open.spotify.com/album/56ogHhOqlsBAiou1pQWSyB"
@@ -425,23 +409,7 @@
       "url": "https://open.spotify.com/track/1wNlxeNoKgMK3pAuZCHDcJ"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
-      "album": {
-        "name": "Death of a Party Girl",
-        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Blue Hair",
-      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
-    },
-    {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "no longer bound",
         "url": "https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A"
@@ -461,39 +429,7 @@
       "url": "https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
-      "album": {
-        "name": "Pop Ya Shit (Freestyle)",
-        "url": "https://open.spotify.com/album/2Z8qn8JdWL7AWdwvwLIGhc"
-      },
-      "artists": [
-        {
-          "name": "Lady London",
-          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
-        }
-      ],
-      "duration_ms": 98533,
-      "name": "Pop Ya Shit (Freestyle)",
-      "url": "https://open.spotify.com/track/26JsQSJmZPZb0XpNqaGUht"
-    },
-    {
-      "added_at": "2023-03-01 11:24:50",
-      "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
-    },
-    {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "LPM",
         "url": "https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76"
@@ -509,7 +445,39 @@
       "url": "https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
+    },
+    {
+      "added_at": "2023-03-02 16:13:42",
+      "album": {
+        "name": "Once Upon a Mind",
+        "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 259991,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP"
+    },
+    {
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
@@ -529,7 +497,39 @@
       "url": "https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
+      "album": {
+        "name": "Death of a Party Girl",
+        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Blue Hair",
+      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
+    },
+    {
+      "added_at": "2023-03-02 16:13:42",
+      "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 233685,
+      "name": "February 28, 2016",
+      "url": "https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk"
+    },
+    {
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Granite",
         "url": "https://open.spotify.com/album/35zx0t2picyGskSU3QceVr"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Underrated",
         "url": "https://open.spotify.com/album/4ENTdxCVdDwfNw2c9TVvUW"
@@ -597,23 +597,7 @@
       "url": "https://open.spotify.com/track/7x68OKWmVySSU51vSqHR5x"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
-      "album": {
-        "name": "In Ha Mood",
-        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 129360,
-      "name": "In Ha Mood",
-      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
-    },
-    {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
@@ -629,7 +613,43 @@
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
+      "album": {
+        "name": "In Ha Mood",
+        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129360,
+      "name": "In Ha Mood",
+      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
+    },
+    {
+      "added_at": "2023-03-02 16:13:42",
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Adeleye Omotayo",
+          "url": "https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT"
+        }
+      ],
+      "duration_ms": 266338,
+      "name": "Silent Running (feat. Adeleye Omotayo)",
+      "url": "https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1"
+    },
+    {
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Beautiful Day (Thank You for Sunshine)",
         "url": "https://open.spotify.com/album/015qoIa2tAE8CETpsNIpqv"
@@ -653,7 +673,7 @@
       "url": "https://open.spotify.com/track/1z5r6Rpcc1BreRtYALBncX"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Ron Artest",
         "url": "https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ"
@@ -673,47 +693,7 @@
       "url": "https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
-      "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Adeleye Omotayo",
-          "url": "https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT"
-        }
-      ],
-      "duration_ms": 266338,
-      "name": "Silent Running (feat. Adeleye Omotayo)",
-      "url": "https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1"
-    },
-    {
-      "added_at": "2023-03-01 11:24:50",
-      "album": {
-        "name": "GEEKALEEK (feat. Cash Kidd)",
-        "url": "https://open.spotify.com/album/37Vw00Rrpb0klzR4Tez4bo"
-      },
-      "artists": [
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "Cash Kidd",
-          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
-        }
-      ],
-      "duration_ms": 146285,
-      "name": "GEEKALEEK (feat. Cash Kidd)",
-      "url": "https://open.spotify.com/track/2f9JzwRy6Ofr5ixvN0ojKt"
-    },
-    {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Aqua Regia",
         "url": "https://open.spotify.com/album/2SJaa2gUbnyk66sNqB5Y5p"
@@ -729,7 +709,7 @@
       "url": "https://open.spotify.com/track/5VwEIEUmwHZpXMHxMHxlJp"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
@@ -749,7 +729,27 @@
       "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
+      "album": {
+        "name": "GEEKALEEK (feat. Cash Kidd)",
+        "url": "https://open.spotify.com/album/37Vw00Rrpb0klzR4Tez4bo"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
+        }
+      ],
+      "duration_ms": 146285,
+      "name": "GEEKALEEK (feat. Cash Kidd)",
+      "url": "https://open.spotify.com/track/2f9JzwRy6Ofr5ixvN0ojKt"
+    },
+    {
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Dawns (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
@@ -769,23 +769,7 @@
       "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
-      "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 233685,
-      "name": "February 28, 2016",
-      "url": "https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk"
-    },
-    {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "The Wonder Years",
         "url": "https://open.spotify.com/album/0UNkEtrX0bVpMqzvclY0oD"
@@ -801,7 +785,23 @@
       "url": "https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
+      "album": {
+        "name": "Regret Me",
+        "url": "https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "duration_ms": 196085,
+      "name": "Regret Me",
+      "url": "https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK"
+    },
+    {
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "How to: Friend, Love, Freefall",
         "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Slut Me Out",
         "url": "https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ"
@@ -857,23 +857,7 @@
       "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
     },
     {
-      "added_at": "2023-03-01 11:24:50",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-03-01 11:24:50",
+      "added_at": "2023-03-02 16:13:42",
       "album": {
         "name": "Let\u2019s Start Here.",
         "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
@@ -887,6 +871,22 @@
       "duration_ms": 229804,
       "name": "drive ME crazy!",
       "url": "https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12"
+    },
+    {
+      "added_at": "2023-03-02 16:13:42",
+      "album": {
+        "name": "Divine Failure",
+        "url": "https://open.spotify.com/album/2TRBnifkQ0k91GSiib6jcY"
+      },
+      "artists": [
+        {
+          "name": "Lrama",
+          "url": "https://open.spotify.com/artist/5vfVtitYCjQMMOONp7V2H8"
+        }
+      ],
+      "duration_ms": 180744,
+      "name": "Divine Failure",
+      "url": "https://open.spotify.com/track/3kusSDhOsjYUM5WhDlDK1S"
     }
   ],
   "unique_name": "Viral 50 - USA",

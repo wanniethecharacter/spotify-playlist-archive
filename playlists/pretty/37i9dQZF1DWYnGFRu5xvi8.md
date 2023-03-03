@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,886 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,923 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [「Battle at the Big Bridge \- arrange \-」 from FINAL FANTASY V](https://open.spotify.com/track/4mhti55dmnpfcWliFxwyOV) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:29 |
 | 100 | [Penelo's Theme](https://open.spotify.com/track/3JOMe1Euw73kqH2qb4dRJX) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 2:56 |
 
-Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDZlY2M1NDRiZDAzYjFiYWZjMmU0YzU0YTJlMDIzNzNj`
+Snapshot ID: `MTY3NjU1OTYwMCwwMDAwMDAwMDYwZjkzMjg0YmY5ODEyODNiMGU0ZjBhYmFlOTZlYzgy`

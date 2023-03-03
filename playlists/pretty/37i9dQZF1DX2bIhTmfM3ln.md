@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > West African love stories wrapped up in song
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,132 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,144 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 79 | [See Finish](https://open.spotify.com/track/5ydzXyCRG9AUq9w8pIf0Uc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [See Finish](https://open.spotify.com/album/2f3gCbx2qefdq823voOXuh) | 3:00 |
 | 80 | [Mercedes](https://open.spotify.com/track/5yddpYI7Hwe7fQv2NLg7l1) | [Samba Peuzzi](https://open.spotify.com/artist/4jXLwmp2AhoxoaPr14fagb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Mercedes](https://open.spotify.com/album/3qZWv38DiTCaImDx6ylRed) | 3:22 |
 
-Snapshot ID: `MTY3NzIyNDAzNiwwMDAwMDAwMGYzZDFhYWVlYWQ0ODc3MDQ0YTk4ZGY4NTM0NWUxZjIy`
+Snapshot ID: `MTY3NzIyNDAzNiwwMDAwMDAwMDBhZjQ0NDE2MDNiNWVmNjZjOWJmNmM5OGQxZTAzMjA3`

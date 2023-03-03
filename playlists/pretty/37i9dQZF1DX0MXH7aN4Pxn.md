@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 
 > Turn the energy levels up and join the party wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,115 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,118 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 99 | [Anything](https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Anything](https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL) | 3:46 |
 | 100 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 |
 
-Snapshot ID: `MTY3MjUwMTg5NiwwMDAwMDAwMDUyOTcxNjE4OTVjNDNiMmI4MTBjNzBmMmIwZjA5NzAw`
+Snapshot ID: `MTY3MjUwMTg5NiwwMDAwMDAwMGM2ODY3ODQ4N2QzN2UyMTA3OTJhNDk2OTI3MmIwNDE0`

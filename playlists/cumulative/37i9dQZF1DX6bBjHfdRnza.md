@@ -4,7 +4,7 @@
 
 > The best new dance & electronic by independent artists and labels\. Cover: Surusinghe\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-1,084 songs - 3 day 4 hr 29 min
+1,085 songs - 3 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,7 +566,8 @@
 | [LESSONS](https://open.spotify.com/track/2pj4tCWWVNDaVIxIMgeodu) | [Ben Miller \(Aus\)](https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J) | [LESSONS EP](https://open.spotify.com/album/6GPIGLJpfqKexjiq9MG9VP) | 3:52 | 2022-03-02 | 2022-03-24 |
 | [Lessons of Arp](https://open.spotify.com/track/5TAbNMGgKlMqtpxp2jXyfZ) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Connections](https://open.spotify.com/album/0FebxrGjLrrLPZXWxZTLJo) | 3:47 | 2022-09-14 | 2022-10-20 |
 | [Let It Go](https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i) | [KITTENS](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM) | [Let It Go](https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ) | 3:07 | 2022-06-10 | 2022-08-11 |
-| [Let Me Go](https://open.spotify.com/track/2jgKha9I5qCad54ny8fPed) | [GURPAAL](https://open.spotify.com/artist/5cSb2xI75Xj5x2dsyzkoGD) | [Let Me Go](https://open.spotify.com/album/45bvZdQXCt6QjRukFtOQmM) | 3:14 | 2023-02-15 |  |
+| [Let Me Go](https://open.spotify.com/track/2jgKha9I5qCad54ny8fPed) | [GURPAAL](https://open.spotify.com/artist/5cSb2xI75Xj5x2dsyzkoGD) | [Let Me Go](https://open.spotify.com/album/45bvZdQXCt6QjRukFtOQmM) | 3:14 | 2023-02-15 | 2023-03-03 |
+| [Let Me Go](https://open.spotify.com/track/5fZgbUfU6Qd7tBFumHPBLZ) | [GURPAAL](https://open.spotify.com/artist/5cSb2xI75Xj5x2dsyzkoGD) | [Let Me Go](https://open.spotify.com/album/4pIj38qr2zj6m6F3GdzqVR) | 3:14 | 2023-02-15 |  |
 | [Let You Go](https://open.spotify.com/track/6xEXT1rMxttHF11rbaYqsV) | [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [Let You Go](https://open.spotify.com/album/2Xb0CmophLtOKaijEFyuKg) | 2:30 | 2022-05-11 | 2022-07-07 |
 | [Letting Go](https://open.spotify.com/track/7xGvSmXj5IbeZUn69nJKNl) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Motions](https://open.spotify.com/album/7J3dsYgtL3FJBpvh8kuJpm) | 3:15 | 2022-11-09 | 2022-12-01 |
 | [Life Window](https://open.spotify.com/track/2KM0Fxre2A4V97Yq8W0AQS) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Life Window](https://open.spotify.com/album/0EnUlTPW784TP5qMnad7nB) | 3:55 | 2023-01-18 | 2023-02-09 |

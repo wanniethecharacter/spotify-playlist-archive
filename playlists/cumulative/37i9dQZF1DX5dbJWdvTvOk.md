@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-202 songs - 9 hr 21 min
+203 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-02-24 |  |
 | [Fawns in Spring](https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Fawns in Spring](https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr) | 2:39 | 2023-01-20 |  |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-07-15 |  |
-| [Flamenkito](https://open.spotify.com/track/4iI9eIAd3kZGB3dCEc3PxK) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS) | [Flamenkito](https://open.spotify.com/album/1fBj5GesrEQR2IfVUbaPKh) | 1:46 | 2022-10-14 |  |
+| [Flamenkito](https://open.spotify.com/track/4iI9eIAd3kZGB3dCEc3PxK) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS) | [Flamenkito](https://open.spotify.com/album/1fBj5GesrEQR2IfVUbaPKh) | 1:46 | 2022-10-14 | 2023-03-03 |
+| [Flamenkito](https://open.spotify.com/track/2gZWsOLfX0W1Fu57qgFMQM) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Flamenkito](https://open.spotify.com/album/6JWc5p5djyJLBKz9hdZnvk) | 1:46 | 2023-02-24 |  |
 | [Footsteps In Palermo](https://open.spotify.com/track/2fQ3bSiaQNeSn7ZoCHGfNJ) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Footsteps In Palermo](https://open.spotify.com/album/2tFW9cguDkRu3OXR4Zbc3V) | 3:15 | 2022-07-15 | 2023-02-25 |
 | [Frozen Caipirinha](https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Frozen Caipirinha](https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4) | 3:11 | 2022-07-15 |  |
 | [Fáilte](https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Fáilte](https://open.spotify.com/album/1Whcn3o7IpIoJtQXEBq6TZ) | 1:44 | 2023-02-24 |  |

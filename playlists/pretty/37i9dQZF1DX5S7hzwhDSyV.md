@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,629 likes - 100 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,796 likes - 100 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 99 | [On Green Dolphin Street](https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [On Impulse!](https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw) | 7:07 |
 | 100 | [Almost Like Being In Love](https://open.spotify.com/track/4wUYuo0KGplgiav1AzY1RV) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO) | [Konitz Meets Mulligan](https://open.spotify.com/album/7yXH6IIoz1egpOdG62fiMh) | 2:58 |
 
-Snapshot ID: `MTY3NzEzNjU3MiwwMDAwMDAwMDYxYmFjMzBkYzhhNGRmMTAyZjlmYWE5YzE1YTRiZWNi`
+Snapshot ID: `MTY3NzEzNjU3MiwwMDAwMDAwMDQ4NjE5NTVjMDRmOTY1NWYwNzA1ODQyZmIzMjEwNmY4`

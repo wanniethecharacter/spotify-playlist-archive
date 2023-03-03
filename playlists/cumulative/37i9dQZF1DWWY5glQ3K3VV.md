@@ -4,7 +4,7 @@
 
 > Canzoni rap per party fino al mattino! Cover: Guè, ANNA, Sfera Ebbasta
 
-192 songs - 9 hr 44 min
+193 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Hasta la vista \(feat\. ANNA\) \- Remix](https://open.spotify.com/track/4VNYRuTv8dCN0UUNJj6P4K) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DNA](https://open.spotify.com/album/4P0hxsoJsKyJRcLcQ1aGG1) | 2:25 | 2022-05-01 | 2022-07-28 |
 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU) | 2:55 | 2022-05-01 |  |
 | [HO PAURA DI USCIRE 2 \- prod\. Mace](https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [MACHETE MIXTAPE 4](https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz) | 2:57 | 2022-05-01 |  |
+| [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 | 2023-03-02 |  |
 | [HOLA](https://open.spotify.com/track/1ORbOadvMHNqKlS1xnJdsQ) | [GRIZZLY](https://open.spotify.com/artist/16Y59NBjDPuHryezTmuwhV), [NoSaintz](https://open.spotify.com/artist/3odBaKXT6SGHGqjFUBeXkY) | [HOLA](https://open.spotify.com/album/0BJGDsEgUw0aHaIT7tcqYq) | 2:15 | 2022-05-12 | 2022-07-21 |
 | [Hollywood \(feat\. Diplo\)](https://open.spotify.com/track/1gnKOz6FFFOcP3DqvDz0Rt) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 3:11 | 2022-08-04 |  |
 | [Hollywood \(feat\. Diplo\)](https://open.spotify.com/track/4CvW0iHAs7yJhbpnJ3NSnS) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Famoso](https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT) | 3:11 | 2022-05-01 | 2022-07-29 |
@@ -128,7 +129,7 @@
 | [Massive](https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:36 | 2022-12-30 | 2023-01-11 |
 | [Master Groove](https://open.spotify.com/track/6NynQjhojcFZ9iYhuezO6B) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Master Groove](https://open.spotify.com/album/6533uOhO0WDdMzgsd8LWyK) | 2:59 | 2022-12-30 | 2023-01-11 |
 | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/track/69ECulmgzH6xt9pZH7bIYz) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/album/0kQpqZ5BSPyA2JF6payfYS) | 2:53 | 2022-07-07 | 2022-08-27 |
-| [Medellin \(feat\. Lazza\)](https://open.spotify.com/track/1hqV0kb6c8Rp9jvJRPcDy7) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:15 | 2022-05-01 |  |
+| [Medellin \(feat\. Lazza\)](https://open.spotify.com/track/1hqV0kb6c8Rp9jvJRPcDy7) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:15 | 2022-05-01 | 2023-03-03 |
 | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H) | 2:25 | 2022-05-01 | 2022-11-14 |
 | [MI FAI IMPAZZIRE](https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MI FAI IMPAZZIRE](https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS) | 3:40 | 2022-12-30 | 2023-01-11 |
 | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5) | 3:00 | 2022-05-26 |  |

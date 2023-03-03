@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Indigo De Souza",
-  "num_followers": 61193,
+  "num_followers": 61244,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGUyOWRkYmI3MGFkYTFmMmM2N2Q4NWFlNzMwMDhmMjIz",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGVkZWNkNDRlODJhY2MzODBjZTNhM2JlMzc3NmUxZjBi",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -75,30 +75,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 214866,
-      "name": "Emily I'm Sorry",
-      "url": "https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9"
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -211,18 +199,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
         }
       ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+      "duration_ms": 228459,
+      "name": "The Bug Collector",
+      "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -303,22 +291,6 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 228459,
-      "name": "The Bug Collector",
-      "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -435,22 +407,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "To the Mountains",
-      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "In Two",
         "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
       },
@@ -467,18 +423,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
       "artists": [
         {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -495,6 +451,22 @@
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -747,22 +719,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Mess Esque",
-        "url": "https://open.spotify.com/album/3FxizRBHvFR28BC4yYGMih"
-      },
-      "artists": [
-        {
-          "name": "Mess Esque",
-          "url": "https://open.spotify.com/artist/52o8MHT44vLaGDarbic1zq"
-        }
-      ],
-      "duration_ms": 477019,
-      "name": "Sweetspot",
-      "url": "https://open.spotify.com/track/6gJIgCURxpAOG61j5Q9LVx"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -775,6 +731,22 @@
       "duration_ms": 210333,
       "name": "This Is A Photograph",
       "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Mess Esque",
+        "url": "https://open.spotify.com/album/3FxizRBHvFR28BC4yYGMih"
+      },
+      "artists": [
+        {
+          "name": "Mess Esque",
+          "url": "https://open.spotify.com/artist/52o8MHT44vLaGDarbic1zq"
+        }
+      ],
+      "duration_ms": 477019,
+      "name": "Sweetspot",
+      "url": "https://open.spotify.com/track/6gJIgCURxpAOG61j5Q9LVx"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1467,22 +1439,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Let It Be",
-        "url": "https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Gossamer",
         "url": "https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z"
       },
@@ -1495,6 +1451,22 @@
       "duration_ms": 235587,
       "name": "Gossamer",
       "url": "https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1579,22 +1551,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Serpentine Prison (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "Distant Axis",
-      "url": "https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "i only sing about food",
         "url": "https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa"
       },
@@ -1607,6 +1563,22 @@
       "duration_ms": 144586,
       "name": "i only sing about food",
       "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Serpentine Prison (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "Distant Axis",
+      "url": "https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2059,6 +2031,22 @@
       "duration_ms": 247756,
       "name": "Pareidolia",
       "url": "https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Red Bird Pt. 2 (Morning)",
+        "url": "https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/23W60m1igNcv0DUov523DO"
     }
   ],
   "unique_name": "Folk Arc",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in Ambient, Atmospheric and Neo\-Classical\. Moby on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,803 likes - 300 songs - 23 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,934 likes - 300 songs - 23 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 299 | [Mandeville](https://open.spotify.com/track/1Y5pSStG7rTChlIxvJQevE) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Mandeville](https://open.spotify.com/album/42VIGUXABUxPpBl2dApUsc) | 1:45 |
 | 300 | [Cloud Hands](https://open.spotify.com/track/2ehqVRNX0DcWL7YZfcTsve) | [Daniel O'Rhys](https://open.spotify.com/artist/4eb20k06iiAcR95q6sp8RD) | [Cloud Hands](https://open.spotify.com/album/4TF5moCGGyALTWn8ZqrIH4) | 4:07 |
 
-Snapshot ID: `MTY3NDgzNzA4NCwwMDAwMDAwMDMyMzE3NDhjODNkYmQzYTliNjk5ZDEyZTIyZTFkZjcx`
+Snapshot ID: `MTY3NDgzNzA4NCwwMDAwMDAwMDAwYzMxZGIyODMzMzE4MjdlZjk3NGUwYTFhZjQzZTc5`

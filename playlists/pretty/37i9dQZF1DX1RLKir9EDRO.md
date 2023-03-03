@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Efza  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,412 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,405 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Çilehane](https://open.spotify.com/track/2dxALETfKISmxQaLeZe8Mc) | [H\. Mücahit Pehlivan](https://open.spotify.com/artist/4u76tO2Z2kYuhMF0M2JV2q) | [Çilehane](https://open.spotify.com/album/1JscprvxhMRCWKLnqpZS0X) | 3:09 |
 | 75 | [Karanlık Felsefe](https://open.spotify.com/track/5yaEGQHTyr589gxkpxEn62) | [Özgen](https://open.spotify.com/artist/6Yn48YLL8D6ia39zIUtPGE) | [Karanlık Felsefe](https://open.spotify.com/album/27zepuu8O1XRQAzXcOEXs0) | 2:26 |
 
-Snapshot ID: `MTY3NzYxODAwMCwwMDAwMDAwMDY0ZGY5ODQ2NGQwODhhNzI3ZTBiYTQ1ZTUxMWE3Zjcx`
+Snapshot ID: `MTY3NzYxODAwMCwwMDAwMDAwMDgzYjg4OTgwNzFkMDAyMTU0NWQyN2E4YTc4MmJjMGNh`

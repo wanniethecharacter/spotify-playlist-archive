@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from Lil Wayne & 🕊 DMX, Don Toliver, Quavo, Freddie Dredd, and Jim Jones is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,463 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,492 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [One of a Kind](https://open.spotify.com/track/4SbhFbZdJMEPHABg4igsLn) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [One of a Kind](https://open.spotify.com/album/1dIp8QkzrM97K9JHaTTjnQ) | 2:45 |
 | 75 | [Bamba \(feat\. Aitch & BIA\)](https://open.spotify.com/track/7nFJSfGvvV0WjatTZN6QYi) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bamba \(feat\. Aitch & BIA\)](https://open.spotify.com/album/3cOBmVLauHdg4S3F7sJHyF) | 3:23 |
 
-Snapshot ID: `MTY3NzI2NzE3NSwwMDAwMDAwMDAxODNiNTcxMWY1NzNhMzQyYTVmZjQ0NDJkYzZhYjE3`
+Snapshot ID: `MTY3NzI2NzE3NSwwMDAwMDAwMGNjMzc4NjEzZDRjM2Q5ZGFjYTVlNzVjNDc1NTA5NWE3`

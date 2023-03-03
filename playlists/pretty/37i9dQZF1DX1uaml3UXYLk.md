@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,509 likes - 154 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,594 likes - 154 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 153 | [Tropicae](https://open.spotify.com/track/0rexhQFkP4bgMSLeSyZjpH) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Secrets](https://open.spotify.com/album/5tN8Lg9AXBSO4Q5ELOM4Fs) | 4:19 |
 | 154 | [No Stampede](https://open.spotify.com/track/45Hz6R4BU9C0gc4Dee48Eg) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Bitter Move](https://open.spotify.com/album/0g3AJoh2B1iUhmO30POzLz) | 4:02 |
 
-Snapshot ID: `MTY3NzI2NTgyMiwwMDAwMDAwMDg0ZTY2OTNjZGQxMjZhN2E4YTE5MDAyNzgxMjk3NGQ1`
+Snapshot ID: `MTY3NzI2NTgyMiwwMDAwMDAwMGVkNWJhNDlkOTZlYmM3NmI3ODNlYTJmNWQzZjU3NDRm`

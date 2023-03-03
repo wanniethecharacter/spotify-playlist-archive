@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,593 likes - 85 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,693 likes - 85 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 47 | [Stand By Me](https://open.spotify.com/track/0s6Boq6VBwpDs0v9203uXQ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Vendhu Thanindhathu Kaadu \(Original Score\)](https://open.spotify.com/album/5N3d00pvonn9vvse6TI42m) | 2:00 |
 | 48 | [Assault Sethu](https://open.spotify.com/track/7sdNy3umnmbvvCzppFl2hA) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2FMT61FTidaWFISp0xuVr9) | 1:06 |
 | 49 | [Veeram \(From "Veeram"\)](https://open.spotify.com/track/1J6ikQBFwj7AzqHc6FbBXv) | [Anand](https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6), [Koushik](https://open.spotify.com/artist/7v78lEL8XMOgWod6Cp5Jya), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Jagadish](https://open.spotify.com/artist/5tUZe5gKJc12KkH5MZHnoE), [Santhosh](https://open.spotify.com/artist/1iZxszouU60Y4iU7STKgkj), [Senbagaraj](https://open.spotify.com/artist/6s9TSMCK36wxGo9CuJnhPu) | [D.S.P Rocks](https://open.spotify.com/album/1uMnKxMY7Ax2siVcySsFgK) | 2:47 |
-| 50 | [Maaveeran Theme](https://open.spotify.com/track/1bKoL7ah6R0ztoFK76UTLd) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54) | [Maaveeran Theme \(From "Maaveeran"\)](https://open.spotify.com/album/6ONnbDDAVvMFbrtVmUbz8j) | 2:10 |
+| 50 | [Maaveeran Theme \(From "Maaveeran"\)](https://open.spotify.com/track/1KnfuPUC6vmwhBeCilZ7IA) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54) | [Maaveeran Theme \(From "Maaveeran"\) \- Single](https://open.spotify.com/album/1B9Gu6Tt552NeXkdM4ckXy) | 2:10 |
 | 51 | [Army of Slaves](https://open.spotify.com/track/5Jqob9lWkBm4W0xFek8bMv) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Kochadaiiyaan \(Original Score\)](https://open.spotify.com/album/7eBKHNP3IAPfqvZP7CE1t4) | 3:50 |
 | 52 | [Rolex Theme \- Background Score](https://open.spotify.com/track/3Vb8KkT6Ub5fFGPYJCJyLh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:53 |
 | 53 | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/track/6GFtWQYco30oKpMr5xJwy2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Niranjana Ramanan](https://open.spotify.com/artist/3GB9ulskXfPOQCzw0SNEDx) | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/album/2ftkMy4ttkkdjFsFReYdWg) | 1:03 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 84 | [Bad Eyes… Villain Theme](https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 1:27 |
 | 85 | [Manmadhan Theme Music](https://open.spotify.com/track/3v3a6pzDuXm1FBvbEf0XgL) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xAqOpePLMt4LOwoS41dBl) | 1:23 |
 
-Snapshot ID: `MTY3NzY2NjQ1NiwwMDAwMDAwMDNiMmJiYjE5NGJkNDYxMTYyNTRiZjZjNWI1NzA0YTY2`
+Snapshot ID: `MTY3NzY2NjQ1NiwwMDAwMDAwMGJiZGViMWNhZjBmNjgzYWI5ZTg4MmU4N2FhMGVhOGQz`

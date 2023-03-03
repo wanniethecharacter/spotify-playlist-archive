@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,471 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,527 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [British Summertime](https://open.spotify.com/track/6AWElb3A8ZE1iZe8PjuWix) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [From the Vaults 1998\-2006 Vol.2](https://open.spotify.com/album/33lBpS0mVv49w7EDw5BRiX) | 4:38 |
 | 50 | [Obvs](https://open.spotify.com/track/7HTnBZgjsp1T9uF286kQ7o) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 3:51 |
 
-Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMGQyYWRlYThhMDgxNmYxZmNjY2NjODk3YmZlMWFhZmZl`
+Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMGM1ZjA4OGFjNmQxNGMxNWEwYjgyNjQ2NDIwNjZjNWE1`

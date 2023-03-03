@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,569 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,566 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [Viciado em Você](https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Viciado em Você](https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb) | 2:27 |
 | 60 | [De Novo](https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Luísa Nascim](https://open.spotify.com/artist/5j1I6HLmRd52lplPaEl6uU), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH), [Tombc](https://open.spotify.com/artist/6xWZS3GMWCdADhHYLW2gb6) | [De Novo](https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ) | 2:15 |
 
-Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMDEyZmM4ZjZjYzVmZTNkMWViZjE4MGYxMDk2ZWE4Njhj`
+Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMDkwZDdmMjVhMzU3ZGNmYTQwNTc2NTUwN2VhMzIzZWQ2`

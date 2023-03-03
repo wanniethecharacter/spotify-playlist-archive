@@ -2,9 +2,9 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Nielson op de cover van dé Nederpop playlist
+> Numidia & Bilal Wahib op de cover van dé Nederpop playlist
 
-110 songs - 5 hr 21 min
+117 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dansen Met Het Licht Uit](https://open.spotify.com/track/7E3Lo5lZo50eddRleg6y6Q) | [Jerry Island](https://open.spotify.com/artist/46tAkwcuqLpuqBMC1V1fp1) | [Dansen Met Het Licht Uit](https://open.spotify.com/album/4XHHeomMEP8WpdkyRbjldH) | 2:57 | 2023-02-23 |  |
 | [De Helft Van Je Hart](https://open.spotify.com/track/6ci2soUdoTPdn0ytw99LjN) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als Je Voor Me Staat](https://open.spotify.com/album/2P6oEIpeCgngnghCvzO4T3) | 3:32 | 2023-02-23 |  |
 | [De Pijp](https://open.spotify.com/track/3vXN6XJlyu2iCxBJr79oyU) | [STEFF](https://open.spotify.com/artist/1ngLK13t5KqbnQh8pN0k9i) | [De Pijp](https://open.spotify.com/album/4dDuG6FwR0vyX2ggIFZH0V) | 2:38 | 2023-02-23 |  |
+| [De Vergiffenis](https://open.spotify.com/track/112BxBbiiPs82A4B99v18s) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 2:54 | 2023-03-02 |  |
 | [De Weg](https://open.spotify.com/track/3UY1sWsqEYx7fgRBU0ItF7) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [De Weg](https://open.spotify.com/album/7n9NfMSnYi59u7vGSelWAn) | 3:19 | 2023-02-23 |  |
 | [Der Af \(Oya Lélé\)](https://open.spotify.com/track/443rDqZIaqvZzJ1DgdJNgr) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Der Af \(Oya Lélé\)](https://open.spotify.com/album/6AAEje0hsC6HnJy5SsMiYD) | 2:26 | 2023-02-23 |  |
 | [Dief In De Nacht](https://open.spotify.com/track/2tT91bCBuWgFiolKC7TqH5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Dief In De Nacht](https://open.spotify.com/album/6CKCaxPcC6GDQsNawO1GHZ) | 2:10 | 2023-02-23 |  |
@@ -63,9 +64,11 @@
 | [Jouw Love](https://open.spotify.com/track/1y0SJhnwKGEGZbH9OmrqyN) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Jouw Love](https://open.spotify.com/album/7s1jQ9f82JwSBC14Z1tvHH) | 2:56 | 2023-02-23 |  |
 | [Kansen](https://open.spotify.com/track/7Mw4F5tnXF5D52dghmzbLQ) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Kansen](https://open.spotify.com/album/7Jk5bj58KHAdhERKgUqgET) | 2:50 | 2023-02-23 |  |
 | [Koffie Of Thee](https://open.spotify.com/track/14kD5P9OI8PRa4mhaCh0vL) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Koffie Of Thee](https://open.spotify.com/album/4qAwTxhcOUGC6tWmmHmQzf) | 2:42 | 2023-02-23 |  |
+| [Kom Jij Weer Voorbij](https://open.spotify.com/track/6saNAXWMY0gqpNMwnFG34a) | [Luminar](https://open.spotify.com/artist/4XVWcEp6zOQScLQZl4fCsT) | [Kom Jij Weer Voorbij](https://open.spotify.com/album/67RWbCJmi16DnublyBoNvC) | 3:33 | 2023-03-02 |  |
 | [Laat Het Effe](https://open.spotify.com/track/2TpYFSFsDLK0Sd0QwoV7zV) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Laat Het Effe](https://open.spotify.com/album/6YW7e4vC5ytXUDG2IDoWUt) | 3:23 | 2023-02-23 |  |
 | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2023-02-23 |  |
 | [Later Als Ik Groot Ben](https://open.spotify.com/track/2izndz00zguhQQJ06MhMzA) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Later Als Ik Groot Ben](https://open.spotify.com/album/6ffWQnfFXStzKOAk6RXjQ4) | 3:26 | 2023-02-23 |  |
+| [Lentesneeuw](https://open.spotify.com/track/5W7WdKoJHZC6fGWbt0YWd7) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Lentesneeuw](https://open.spotify.com/album/4TTe9Cik1Vu39LxoVUAONF) | 2:53 | 2023-03-02 |  |
 | [Liever Leven](https://open.spotify.com/track/7LykDowuuZgfTjDlVqUIGT) | [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Gewoon Willem](https://open.spotify.com/album/5IOhdflOGOIy28OGwCzw5h) | 2:48 | 2023-02-23 |  |
 | [Love Song](https://open.spotify.com/track/65PPYvLLxqXwYEIdpW8fy6) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Love Song](https://open.spotify.com/album/5gSWvabgQgkAa7whhV3jA7) | 3:01 | 2023-02-23 |  |
 | [Mens](https://open.spotify.com/track/17bVqSvBXixR9bo2YsG8nk) | [Charine Eyny](https://open.spotify.com/artist/21VPJzOjvWjxjkaMsnE42x), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW), [Charly Luske](https://open.spotify.com/artist/3ywMhp8487caLDqLh6fGOl), [Ewald Gomez](https://open.spotify.com/artist/0UBRIuLUBnpr5dopW2vZjX) | [Mens](https://open.spotify.com/album/1I05faSGCNjViztAEPPgac) | 3:27 | 2023-02-23 |  |
@@ -112,11 +115,15 @@
 | [Van Goed Naar Beter](https://open.spotify.com/track/0nfFsJLVTNTNFAPn7L8THP) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Nu Of Ooit](https://open.spotify.com/album/0LgIADRXaWlGGorozeFfNR) | 2:51 | 2023-02-23 |  |
 | [Ver Van Huis](https://open.spotify.com/track/1RkGMhN4VLb0fiytr7EodW) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD), [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Ver Van Huis](https://open.spotify.com/album/2pXbiUAJ6gbNNjHOy7qFcM) | 3:21 | 2023-02-23 |  |
 | [Vervloekt](https://open.spotify.com/track/2fLTwHxKyC7D4O4ekCGjhi) | [Zeno](https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8) | [Aan De Rand Van Het Ravijn Bloeien De Mooiste Bloemen](https://open.spotify.com/album/7vcodonZM5pAQ1NZ1HIJhS) | 2:32 | 2023-02-23 |  |
+| [Vliegen](https://open.spotify.com/track/2tnv26XNloxZMK1usRktqa) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Vliegen](https://open.spotify.com/album/3VDVZIdLTmS21GbNVyYeBL) | 2:46 | 2023-03-02 |  |
+| [Vlinder](https://open.spotify.com/track/07anqvcBCZVR8AKn4RZEw1) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Vlinder](https://open.spotify.com/album/7oxJp1V8RBoIjXHx9x9dyi) | 3:15 | 2023-03-02 |  |
 | [Voor De Gek](https://open.spotify.com/track/6BXVmVTRyEnTcJHjmy8kCg) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Voor De Gek](https://open.spotify.com/album/5GgAB0RzMQ8gtszcfpUO0a) | 3:03 | 2023-02-23 |  |
 | [Vuur = Blauw](https://open.spotify.com/track/3IVW3imj7fGBxLDXEU3uNZ) | [VanVelzen](https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Vuur = Blauw](https://open.spotify.com/album/2i2xHpgNQfsGHWBuBfgpVP) | 3:10 | 2023-02-23 |  |
 | [Wat Doe Je Nou](https://open.spotify.com/track/2U1cBksfUvDB5YoVj0gdms) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Wat Doe Je Nou](https://open.spotify.com/album/34LFiUIgmU2Bp4YfF9CjI4) | 2:36 | 2023-02-23 |  |
+| [Wat Is Er Gebeurd](https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Wat Is Er Gebeurd](https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7) | 2:35 | 2023-03-02 |  |
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/5kUWt2aSUlU911bG7oqkqh) | 3:19 | 2023-02-23 |  |
 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 | 2023-02-23 |  |
 | [Wild Wild West](https://open.spotify.com/track/4pGud1eTrk6mWSOUw33u9o) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [Wild Wild West](https://open.spotify.com/album/3ifeNIgF6ce5nNDW9uKlR9) | 2:56 | 2023-02-23 |  |
+| [Zwakke Plekken](https://open.spotify.com/track/7v9maReQ2LdCDXMeHePWfE) | [STEFF](https://open.spotify.com/artist/1ngLK13t5KqbnQh8pN0k9i) | [Zwakke Plekken](https://open.spotify.com/album/4NOl6sDrzhDNeC9kDtHOHD) | 2:34 | 2023-03-02 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

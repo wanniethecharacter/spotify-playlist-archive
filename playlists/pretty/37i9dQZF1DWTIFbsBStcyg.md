@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIFbsBStcyg.md) - [plain]
 
 > Music From "BEASTARS"! 主題歌、挿入歌、サントラで辿る「BEASTARS」の世界! \(C\) 板垣巴留（秋田書店）／BEASTARS製作委員
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,565 likes - 85 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,577 likes - 85 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIFbsBStcyg.md) - [plain]
 | 84 | [JUNO is in love \-adult\-](https://open.spotify.com/track/6zLoNA6o0D96BEf9KYO8ix) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 0:54 |
 | 85 | [BEASTARS \-wolf and rabbit\-](https://open.spotify.com/track/65AwCdeFJe1ysdBgyjkYC0) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 3:54 |
 
-Snapshot ID: `MTY0MjQ2MTgyNiwwMDAwMDAwMDkzMGI3ZjViODQzNTkyYzMwM2QzN2I2YTliMjBjY2Fk`
+Snapshot ID: `MTY0MjQ2MTgyNiwwMDAwMDAwMGI1MDk3M2M3MmE4YjNkZDNkNGE1OGY1YzkxNzAzODAw`

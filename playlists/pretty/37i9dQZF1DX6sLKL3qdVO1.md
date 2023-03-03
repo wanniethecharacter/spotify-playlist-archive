@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Si hoy le das flow a tu vida y Mañana Será Bonito\. Si KAROL G, lo dice, es porque es verdad.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,823 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,974 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 100 | [Tus Labios](https://open.spotify.com/track/0EI0p6kX1Ds9bnSnEuUVb6) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Tus Labios](https://open.spotify.com/album/3rRg3xAbZrqoLQCIUBk0MR) | 3:38 |
 | 101 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 |
 
-Snapshot ID: `MTY3NzI1NTk0MiwwMDAwMDAwMDM2OWIyOWM2YmJkNjdjMGViNzA4ZjY5ODM0NmIwMDJm`
+Snapshot ID: `MTY3NzI1NTk0MiwwMDAwMDAwMDBlMTFlN2U3ODdkMzRiYzA2ZWRiYmY1ZmIxMWY0MmI4`

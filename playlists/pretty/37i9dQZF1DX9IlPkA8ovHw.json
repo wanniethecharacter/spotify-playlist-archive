@@ -1,12 +1,12 @@
 {
   "description": "The best of the Fab Four and their post-Beatles ventures and solo albums.",
-  "num_followers": 17949,
+  "num_followers": 17986,
   "original_name": "The Beatles & Beyond",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjA2MCwwMDAwMDAwMGNjMGUwZDE5M2RkMzgwY2Y1MzdmYWJiNTQyZjE1YmI2",
+  "snapshot_id": "MTY0MzM0NjA2MCwwMDAwMDAwMDFiYzRmM2QxN2FmMGQ0YWYwZWNkNGQzYmQyYzhhZDUy",
   "tracks": [
     {
       "added_at": "2022-01-28 05:01:00",
@@ -563,7 +563,7 @@
     {
       "added_at": "2021-09-17 15:58:01",
       "album": {
-        "name": "Living in the Material World (2014 Remaster)",
+        "name": "Living in the Material World",
         "url": "https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os"
       },
       "artists": [
@@ -573,7 +573,7 @@
         }
       ],
       "duration_ms": 215701,
-      "name": "Give Me Love (Give Me Peace on Earth) - 2014 Remaster",
+      "name": "Give Me Love (Give Me Peace on Earth)",
       "url": "https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk"
     },
     {
@@ -1807,7 +1807,7 @@
     {
       "added_at": "2021-09-17 15:58:01",
       "album": {
-        "name": "Dark Horse (2014 Remaster)",
+        "name": "Dark Horse",
         "url": "https://open.spotify.com/album/4NnA3aRQY4dFLbhNV9LQAE"
       },
       "artists": [
@@ -1817,7 +1817,7 @@
         }
       ],
       "duration_ms": 233724,
-      "name": "Dark Horse - 2014 Remaster",
+      "name": "Dark Horse",
       "url": "https://open.spotify.com/track/5KezUBlM6tavamVSO4MTMN"
     },
     {
@@ -1951,7 +1951,7 @@
     {
       "added_at": "2021-09-17 15:58:01",
       "album": {
-        "name": "Extra Texture (2014 Remaster)",
+        "name": "Extra Texture",
         "url": "https://open.spotify.com/album/3Vfv1ycDVgpEf9S9vuXsyC"
       },
       "artists": [
@@ -1961,7 +1961,7 @@
         }
       ],
       "duration_ms": 223504,
-      "name": "You - 2014 Remaster",
+      "name": "You",
       "url": "https://open.spotify.com/track/6wADbpmrLxUWygJcJsbww8"
     },
     {

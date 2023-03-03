@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: beabadoobee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,156 likes - 150 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,273 likes - 150 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 149 | [Smile](https://open.spotify.com/track/00wD7fpI1sOZsaDGDng5U1) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Smile](https://open.spotify.com/album/3Ts0nEHoi39Pi10zgWpAV8) | 2:18 |
 | 150 | [holly's ego](https://open.spotify.com/track/4Xu8VjkVCix7ypRJWW5OQZ) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [blood lotus diary](https://open.spotify.com/album/4T5JLOW9gRpehumgIQfzRK) | 3:16 |
 
-Snapshot ID: `MTY3NzI2MjY2MiwwMDAwMDAwMDhiNmEwMjUxODUzODQ5ZDkyY2FhMzFhMDczNmIwZGMw`
+Snapshot ID: `MTY3NzI2MjY2MiwwMDAwMDAwMDU3Nzc3YTU1ZDFiOTFlZWIzNDczNDk4Y2ZlYTU3M2U0`

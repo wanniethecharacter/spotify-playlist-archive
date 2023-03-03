@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,160 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,177 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [親愛的對象 \- 《關於我和鬼變成家人的那件事》電影主題曲](https://open.spotify.com/track/70ywpHtaToCmnULRT9Vu4p) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [親愛的對象 \(《關於我和鬼變成家人的那件事》電影主題曲\)](https://open.spotify.com/album/6ohthacCclaqEnO1xfEUu6) | 4:54 |
 | 100 | [咖啡+交換餘生](https://open.spotify.com/track/5ef00eVVP4Sson4BbCEPx8) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [JJ的咖啡調調, Vol.1](https://open.spotify.com/album/6MO9osXm49WjTRkjDJh3PJ) | 3:34 |
 
-Snapshot ID: `MTY3NzQ5MTY2MCwwMDAwMDAwMGVlNzY0NTRkZGY4ZmU4NmUyZGYyYTMxNjc4ODI0MTll`
+Snapshot ID: `MTY3NzQ5MTY2MCwwMDAwMDAwMGIxYzhhZDk2NGE2YjY3NDA2YzYzMDM2MzY0ODRiZTll`

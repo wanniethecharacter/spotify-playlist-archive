@@ -4,7 +4,7 @@
 
 > Sarapan sesuap semangat bersama lagu\-lagu dari Spotify.
 
-76 songs - 4 hr 45 min
+77 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Terbanglah Lepas](https://open.spotify.com/track/0mLvVZ14uhcPI7dbOJ69Un) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf), [Parlemen Pop](https://open.spotify.com/artist/4GPfmTXPBtz1eIdrdNOB3e) | [Lagu Baru Dari Masa Lalu, Vol\. 1](https://open.spotify.com/album/5b2swSWZfAc8EZ5v0VTzSi) | 4:53 | 2022-12-13 |  |
 | [Terdiam](https://open.spotify.com/track/3eEC4ad1GlR6eOiU06Hcuu) | [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q), [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Terdiam](https://open.spotify.com/album/68PWcMgXQ3nV0rHPk6GbLt) | 3:06 | 2022-12-13 |  |
 | [Terlukis Indah](https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Terlukis Indah](https://open.spotify.com/album/5Qk3VFJJ4CKS3zcBNp2YRs) | 3:47 | 2022-12-13 |  |
+| [The One](https://open.spotify.com/track/7AIXWUhYM5i1MrHOL28ef5) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs), [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [The One](https://open.spotify.com/album/3vxu37rHw5dnzi5Vb0I3jQ) | 3:46 | 2023-03-02 |  |
 | [There's a Light at the End of the Tunnel](https://open.spotify.com/track/1KtBupQOZA11CAiwl2VfoF) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ), [Rekti Yoewono](https://open.spotify.com/artist/5wg7167xaH0ILxlcDymFlM) | [Day by Day](https://open.spotify.com/album/3Fxba1JUppkx30LoFcWuz7) | 3:24 | 2022-12-13 |  |
 | [Timur](https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Agterplaas](https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3) | 4:59 | 2022-12-13 |  |
 | [Tujuh Belas](https://open.spotify.com/track/5TReP8XK4aTOe2m44ZjQqz) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:14 | 2022-12-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5jSM6lE56BKLKRiavRO4Aw.md) - [plain]
 
 > 
 
-[phaskh](https://open.spotify.com/user/phaskh) - 33,915 likes - 110 songs - 6 hr 53 min
+[phaskh](https://open.spotify.com/user/phaskh) - 33,910 likes - 110 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

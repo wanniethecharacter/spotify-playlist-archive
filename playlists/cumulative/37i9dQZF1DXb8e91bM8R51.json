@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 309570,
       "name": "AMERICAN HORROR STORY",
       "url": "https://open.spotify.com/track/35Bkow2JhxNfky5YplfMWo"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 144978,
       "name": "Bad For Me",
       "url": "https://open.spotify.com/track/5igBmMvQ0kJ6rShqSUAIHq"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 247458,
       "name": "Big 14 (feat. Offset & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/7rQ84WsT2Wcnrz5gTmbGmw"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 163499,
       "name": "Blacc Tarantino",
       "url": "https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR"
@@ -1112,10 +1112,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 156627,
       "name": "CAP",
       "url": "https://open.spotify.com/track/58Wf7PV3D0ZP7Z3raGXLa2"
+    },
+    {
+      "album": {
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111066,
+      "name": "Captain Chicken (feat. Del The Funky Homosapien)",
+      "url": "https://open.spotify.com/track/24LSAGp2LmT1Kd6y8PPFr2"
     },
     {
       "album": {
@@ -1278,7 +1300,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 219464,
       "name": "Cold (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/5wMh9hhqKQ4JfqLuvqAC7s"
@@ -1344,7 +1366,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 155200,
       "name": "COUNT ON ME",
       "url": "https://open.spotify.com/track/1kdixtbMh0JUWlvSDmfM9I"
@@ -1366,6 +1388,32 @@
       "duration_ms": 134116,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
+    },
+    {
+      "album": {
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Dawn Penn",
+          "url": "https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153264,
+      "name": "Crocadillaz (feat. De La Soul and Dawn Penn)",
+      "url": "https://open.spotify.com/track/07bE8BmqXXMGUiAHcZwl2q"
     },
     {
       "album": {
@@ -3242,7 +3290,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 202331,
       "name": "Lay Wit Ya (feat. Duke Deuce)",
       "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
@@ -3402,7 +3450,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 135929,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l"
@@ -5100,7 +5148,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 233090,
       "name": "RUN [Feat. Young Thug]",
       "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
@@ -5484,7 +5532,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 198274,
       "name": "SPEND IT",
       "url": "https://open.spotify.com/track/15CaM867TKXMlgiU1wHH62"
@@ -5616,7 +5664,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 320000,
       "name": "Stressed (with Wallo267)",
       "url": "https://open.spotify.com/track/5M6ow9HqYJhIL3FOt8QlCb"
@@ -5780,7 +5828,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
@@ -5854,7 +5902,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 193293,
       "name": "Tequila Shots",
       "url": "https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a"
@@ -6222,7 +6270,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-18",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Troubles [Feat. T-Pain]",
       "url": "https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO"
@@ -6762,7 +6810,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 251040,
       "name": "Wouldn't Get Far",
       "url": "https://open.spotify.com/track/39yRhjDdSTP4A7VehxBXDb"

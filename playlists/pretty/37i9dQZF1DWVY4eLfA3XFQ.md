@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Noizu & Westend
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,617 likes - 125 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,719 likes - 125 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Blow Up](https://open.spotify.com/track/70U9s6WTk47vHL2Wo6CE6G) | [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Blow Up](https://open.spotify.com/album/4eufwrLtfhsEBtjDiLUKaB) | 3:34 |
 | 125 | [Sleep Alone](https://open.spotify.com/track/0qAXESAKhPGY9wcON9vzqu) | [Ander Huang](https://open.spotify.com/artist/1mAjrDuYNJU2ilt49OITNK) | [Sleep Alone](https://open.spotify.com/album/698xAEjzQVWB3yuPvkSpRY) | 3:13 |
 
-Snapshot ID: `MTY3NzUwOTU2NywwMDAwMDAwMGI4Zjg0ZDRlZjY2MzcxMDJmYWQxOGY1YThlODQ0YWI0`
+Snapshot ID: `MTY3NzUwOTU2NywwMDAwMDAwMDMxNWI1ZWQyMWFlMWIwMzgyMmM0MTY1YWI5NTgxOGU2`

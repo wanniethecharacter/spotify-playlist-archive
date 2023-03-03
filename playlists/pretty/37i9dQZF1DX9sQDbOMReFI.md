@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Mount Westmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,542 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,070 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Late Night Hype](https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [It's A Compton Thang!](https://open.spotify.com/album/53AUJ8HnXA7i8PrC8maxTY) | 4:54 |
 | 50 | [Mistadobalina](https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Wish My Brother George Was Here](https://open.spotify.com/album/0AK7woKmcPwiCyv3SDiKor) | 4:13 |
 
-Snapshot ID: `MTY3NzQ5NDQwMCwwMDAwMDAwMDg3Y2E3Mzk3ZmEwNGNjZTEzMTIzY2MwM2I1NWY0MTI1`
+Snapshot ID: `MTY3NzQ5NDQwMCwwMDAwMDAwMDJjMzM1MjYwMzllZmMxNDNjMTI4MjNkZDU4NjI2NTkx`

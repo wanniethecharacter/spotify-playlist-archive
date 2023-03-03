@@ -1,12 +1,12 @@
 {
   "description": "Una speciale selezione curata insieme a Emma per la Giornata Internazionale della Donna! #IWD",
-  "num_followers": 17565,
+  "num_followers": 17584,
   "original_name": "EQUAL Italia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzYyNTI2MCwwMDAwMDAwMDI2OWNlYWYzY2I4NTM3YjUzNjQ5MTAxNzdjZGVmZjg4",
+  "snapshot_id": "MTY3NzYyNTI2MCwwMDAwMDAwMGU0OWQ2YTBmNDg1YTAyYTg1NTg3OTZkODI2NjVmODk1",
   "tracks": [
     {
       "added_at": "2023-02-28 23:01:00",
@@ -443,6 +443,22 @@
       "duration_ms": 178081,
       "name": "Globo",
       "url": "https://open.spotify.com/track/00MY44klAVxIdtmUZrlwK7"
+    },
+    {
+      "added_at": "2023-02-28 23:01:00",
+      "album": {
+        "name": "Lalala",
+        "url": "https://open.spotify.com/album/6l3wtti5FvkeiUpjgVyqy9"
+      },
+      "artists": [
+        {
+          "name": "Schiuma",
+          "url": "https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD"
+        }
+      ],
+      "duration_ms": 171641,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/2wdDtaUDH2okKZhB89qKtS"
     },
     {
       "added_at": "2023-02-28 23:01:00",

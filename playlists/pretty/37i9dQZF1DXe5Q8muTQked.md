@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 
 > Kick back with the perfect mix of covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,386 likes - 250 songs - 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,658 likes - 250 songs - 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 | 249 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 250 | [Maps \- Single Version](https://open.spotify.com/track/2qStTBpso4X9ATqSpdMjq9) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Maps](https://open.spotify.com/album/0IZHHji7czzU5PpMRdDTvp) | 2:29 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDJhMWExODc3MWFlN2E0YzFkNDdkOTcxZjgzMTViZjhk`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDFlNGYwMzYwZjhlNTAwZGJlNmEwYWI0ZDY4YjBmOTM2`

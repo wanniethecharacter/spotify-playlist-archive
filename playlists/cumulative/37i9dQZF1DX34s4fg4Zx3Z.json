@@ -2642,7 +2642,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 205442,
       "name": "Ch\u01b0a t\u1eebng l\u1edbn",
       "url": "https://open.spotify.com/track/3BhplNaW7h0iQmxYnZYq5W"
@@ -9932,7 +9932,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 236600,
       "name": "N\u01a1i C\u00f3 Ch\u00fang Ta",
       "url": "https://open.spotify.com/track/6t5iuTRg9MCMeaMe8B3dBU"
@@ -10502,7 +10502,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 195380,
       "name": "Ph\u00e2n T\u00e2m 1 Ch\u00fat",
       "url": "https://open.spotify.com/track/3vn4G4opWZHL4goYKc7bY1"
@@ -11683,6 +11683,28 @@
     },
     {
       "album": {
+        "name": "Suy V\u00ec Drill",
+        "url": "https://open.spotify.com/album/7arJd23aybuKFUCYj9aNEx"
+      },
+      "artists": [
+        {
+          "name": "FSRio",
+          "url": "https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY"
+        },
+        {
+          "name": "2Hoang",
+          "url": "https://open.spotify.com/artist/01WAgDamuRnJyTMnRXbSfB"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211528,
+      "name": "Suy V\u00ec Drill",
+      "url": "https://open.spotify.com/track/1YGYJ0jcpDfP0ufFJAUuQf"
+    },
+    {
+      "album": {
         "name": "Sweety",
         "url": "https://open.spotify.com/album/2E5rjkr6YXUgf1E69AvHw2"
       },
@@ -12532,6 +12554,24 @@
       "duration_ms": 218424,
       "name": "Th\u1eadt May Em \u0110\u00e3 \u0110\u1ed3ng \u00dd",
       "url": "https://open.spotify.com/track/5Z8bXAPnzowqaPWOgbATUf"
+    },
+    {
+      "album": {
+        "name": "Th\u1eadt Xin L\u1ed7i V\u00ec N\u00f3i Th\u01b0\u01a1ng Anh",
+        "url": "https://open.spotify.com/album/4OPNIuf0qD1q2XaaO7r2IB"
+      },
+      "artists": [
+        {
+          "name": "Phan Y\u1ebfn Nhi",
+          "url": "https://open.spotify.com/artist/4GFQ39C6ZEaqEsyGJggcVW"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240256,
+      "name": "Th\u1eadt Xin L\u1ed7i V\u00ec N\u00f3i Th\u01b0\u01a1ng Anh",
+      "url": "https://open.spotify.com/track/5bVHDQzLaHSmPolTFHiJgx"
     },
     {
       "album": {

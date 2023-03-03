@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,853 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,836 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 99 | [Winter Wonderland](https://open.spotify.com/track/0mEVR7fOrIeOtLXP1DLuAx) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Winter Wonderland](https://open.spotify.com/album/1X8tQ76K8lWa5hC5Ebtpek) | 2:31 |
 | 100 | [Rejoice](https://open.spotify.com/track/3vUVSo09281qRWPabnsIMy) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Rejoice](https://open.spotify.com/album/7FlCM63Q0pIap1Ofg3uwSK) | 3:12 |
 
-Snapshot ID: `MTY3MDcyMjA2MywwMDAwMDAwMDM3ODg3MTFmYTYxOWQ5Yjk4ODFmY2YyZTA4YWJmM2E4`
+Snapshot ID: `MTY3MDcyMjA2MywwMDAwMDAwMDhmNzI2MTM2ZmNhOGU5Yjg0NWQxZDE2ZDE1YWZhZWRj`

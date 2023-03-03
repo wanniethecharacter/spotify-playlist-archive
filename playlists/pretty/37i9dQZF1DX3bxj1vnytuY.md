@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,497 likes - 127 songs - 13 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,569 likes - 127 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 126 | [Ardha Nari Feat\. Sazin](https://open.spotify.com/track/5b8evReWT6yU8Lr6UG70Wx) | [Dizharmonia](https://open.spotify.com/artist/6XJbAjen3yFjZ5NTmDC83h), [Sazin](https://open.spotify.com/artist/7tdcJ2v8H2RG2LCCuQ4gy0) | [Ardha Nari Feat\. Sazin](https://open.spotify.com/album/15uPuwya3uoWhTISJiFQQ0) | 6:02 |
 | 127 | [Yakar](https://open.spotify.com/track/2QgkP1kZPhav58whMHBOIr) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Lass](https://open.spotify.com/artist/3MRiVXzyKKIlt0WyYEQAkh) | [Yakar EP](https://open.spotify.com/album/3FTv2v8THnTT4IdmGC33cH) | 7:03 |
 
-Snapshot ID: `MTY3NzY3MDQyMSwwMDAwMDAwMDhiOTdhY2QwYTRkNWViMmY2YTk5MzUzMzA2NzE3Nzll`
+Snapshot ID: `MTY3NzY3MDQyMSwwMDAwMDAwMDk2YTljMTNmZTJkY2Y2OWJiNzYyNDJhYjU0N2NmZmU5`

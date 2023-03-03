@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 
 > alternative hits of today, tomorrow, and then some\. Cover: Bea Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,310 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,355 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 | 99 | [Jealousy](https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Jealousy](https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav) | 3:12 |
 | 100 | [3am in nyc](https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine](https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq) | 3:09 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGYzODUyYmViNjY3NTgyZWJlNjExYTJkZWI5MzdlMzIy`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMGY0ZWIzM2EzYjE2NmYyNjUxZDRhMjM4MGM1ZGE4MTM2`

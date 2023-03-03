@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,068 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,185 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Cómo Fue](https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn) | [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [The Best Of Paquito D'Rivera](https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F) | 4:51 |
 | 100 | [Mercy, Mercy, Mercy](https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Talkin' Verve](https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU) | 2:36 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDcyZWVmZTQ4ZDc0YTAxN2MwOTBmZmIzYjUyMTNmNjJi`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDViYTM0ZWU4ZTQyZGY1MzU0YmQwYmIwMTJlYjIzMGQw`

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Move</a> your feet!",
-  "num_followers": 4958930,
+  "num_followers": 4958695,
   "original_name": "Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDA4Nzg4YTZmM2U4MTIzZDE2NmM2MzMyMTRjZTA3MGM4",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDUwNWQ0OGVlNzIwMzJmNzk3M2NiY2ZjZjNlYzg2ZWMx",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1636,6 +1636,10 @@
       },
       "artists": [
         {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
           "name": "Dimitri Vegas",
           "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
         },
@@ -1646,10 +1650,6 @@
         {
           "name": "Nicole Scherzinger",
           "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         }
       ],
       "duration_ms": 121987,

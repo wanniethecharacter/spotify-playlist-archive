@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,045 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,047 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 99 | [En Lo Correcto](https://open.spotify.com/track/2ntKQlw7u1UrldD4Y3A9VD) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 2:18 |
 | 100 | [Arrullo De Estrellas](https://open.spotify.com/track/4yalDD5kuqKZKI3z1rfWqD) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Arrullo De Estrellas](https://open.spotify.com/album/3WpXOKVAbbFLVD2OK7QALS) | 3:25 |
 
-Snapshot ID: `MTY1ODQ5MjIyOSwwMDAwMDAwMGQ1MGRiYmI3ZmEzZTMwNTQzMGU5MGNjZjg3NjgzMDRm`
+Snapshot ID: `MTY1ODQ5MjIyOSwwMDAwMDAwMDM3Zjc1ZmZhODc3Njg0ZWM3ZjkwZjRiZTQwZDliZTA3`

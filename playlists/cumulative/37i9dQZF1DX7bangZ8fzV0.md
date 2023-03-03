@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=LYDMnwDcQpKIGaSI1hvkeA">Brendan Peyper</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU?si=e8cd7Gk0S7mpByE8y5qgXA">Elizma Theron</a>
 
-99 songs - 5 hr 35 min
+101 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Jona](https://open.spotify.com/track/1ayD1GOwLOYuagWkMKMhnB) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/4csicD8Mqlrxx8vgvUnXGi) | 3:02 | 2022-04-14 | 2022-11-25 |
 | [Kaap](https://open.spotify.com/track/1EYLPim5kBNKwDCrG48sNW) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Kaap](https://open.spotify.com/album/6Tn9J9QxGzgktcULy6CWLF) | 3:56 | 2022-09-22 |  |
 | [Kannie Sonder Jou Nie](https://open.spotify.com/track/1J0nJQxgno6jiHKAhdAO2G) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Jy Ken My Naam](https://open.spotify.com/album/5qKLrFVXNqfps1WvLPF4wF) | 3:26 | 2021-12-02 | 2022-12-24 |
-| [Klippe Kou](https://open.spotify.com/track/0taToNW3mX3M7VflfH6J8V) | [Jack and June](https://open.spotify.com/artist/71XakIJCef4xN3Q1r1DCqq) | [Klippe Kou](https://open.spotify.com/album/0V75WhtPM8xVKoeBmfoTp3) | 2:58 | 2022-10-13 |  |
+| [Klippe Kou](https://open.spotify.com/track/0taToNW3mX3M7VflfH6J8V) | [Jack and June](https://open.spotify.com/artist/71XakIJCef4xN3Q1r1DCqq) | [Klippe Kou](https://open.spotify.com/album/0V75WhtPM8xVKoeBmfoTp3) | 2:58 | 2022-10-13 | 2023-03-03 |
 | [Koue Pizza](https://open.spotify.com/track/1fEZOVHd17gcqv0ND1fpcV) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Koue Pizza](https://open.spotify.com/album/0UE7Fs2XSTfjAtcwNKe439) | 3:01 | 2022-10-20 | 2022-11-11 |
 | [Kwaaitjie](https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Kwaaitjie](https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z) | 3:08 | 2022-08-04 |  |
 | [Lentekind \- Dans Remix](https://open.spotify.com/track/3jp5MWHkhUMNKvTcKoEC21) | [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [Lentekind \(Dans Remix\)](https://open.spotify.com/album/29N4DMheHAM04FlffYEAoq) | 2:37 | 2022-09-01 | 2022-10-29 |
@@ -61,6 +61,7 @@
 | [Lieflik](https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Lieflik](https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8) | 4:04 | 2022-08-04 |  |
 | [Lyfie](https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3) | 3:28 | 2022-10-13 | 2022-12-09 |
 | [Maak 'n Plan](https://open.spotify.com/track/5q5fkffY4JxRlb5zpl92kq) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Maak 'n Plan](https://open.spotify.com/album/0f8TL15rhE8ejfouXHDBxs) | 3:08 | 2022-03-17 | 2022-10-29 |
+| [Man so na my hart](https://open.spotify.com/track/5U6cE7kIhPe69nQuEG90CL) | [Elizma Theron](https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU) | [Man so na my hart](https://open.spotify.com/album/5R7biF12QJgeuIpZzqVc3C) | 3:17 | 2023-03-03 |  |
 | [Marie](https://open.spotify.com/track/2jVwAnPHfeVeUyEEk4ERFU) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [Marie](https://open.spotify.com/album/3GOXoNZKODuAhlhXBVAQHy) | 3:21 | 2022-09-08 | 2022-10-14 |
 | [Meisies Soos Jy](https://open.spotify.com/track/67N0nsJvvBnvDYzh9ajNWF) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Meisies Soos Jy](https://open.spotify.com/album/164AAP3cVdfP6Wt1nDNPla) | 4:10 | 2022-04-22 | 2022-11-25 |
 | [My Nannas](https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [My Nannas](https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc) | 3:17 | 2022-10-13 |  |
@@ -79,7 +80,7 @@
 | [Plaaslewe](https://open.spotify.com/track/45dV2UvbpsG4pvWqzNLHOL) | [Anlia Star](https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm) | [Plaaslewe](https://open.spotify.com/album/6TO27C8sqynfu2ymExD6Kf) | 3:03 | 2022-10-13 |  |
 | [Plathond](https://open.spotify.com/track/4lVzLsiJSMVeEzd94JSjRk) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Plathond](https://open.spotify.com/album/3yYGQg48xSnd5jTpYA8hcD) | 2:50 | 2022-08-04 | 2023-02-03 |
 | [Plett My Net](https://open.spotify.com/track/1PGWHOYPHxed0rl9JAWk5v) | [Mionette](https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu) | [Plett My Net](https://open.spotify.com/album/0LhQ4Tkw4D4GzcmrbPa66Z) | 3:23 | 2022-11-17 | 2023-01-28 |
-| [Ploeg Jy?](https://open.spotify.com/track/2rLRZ848llZCkbxLV0VhUo) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Ploeg Jy](https://open.spotify.com/album/4ab69ZYCFbLWrmDCmDFkyK) | 3:37 | 2021-09-23 |  |
+| [Ploeg Jy?](https://open.spotify.com/track/2rLRZ848llZCkbxLV0VhUo) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Ploeg Jy](https://open.spotify.com/album/4ab69ZYCFbLWrmDCmDFkyK) | 3:37 | 2021-09-23 | 2023-03-03 |
 | [Ploeg Jy?](https://open.spotify.com/track/769iPvJtZt4nkdV7FKqvHS) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:37 | 2021-09-23 | 2022-11-13 |
 | [Rowwe Bliksem](https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Rowwe Bliksem](https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS) | 3:03 | 2022-01-27 |  |
 | [Sal Jy Vir My Wag](https://open.spotify.com/track/0iNTHA6vIhJN671nqIFISV) | [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Sal Jy Vir My Wag](https://open.spotify.com/album/670sMqYDZMP8arGh5jH5mJ) | 3:07 | 2022-09-01 | 2022-11-11 |
@@ -101,6 +102,7 @@
 | [Vat Die Cruiser](https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jacques Du Plessis](https://open.spotify.com/artist/1JACnZftdau4Kpt0I8kvTA) | [Vat Die Cruiser](https://open.spotify.com/album/1kfAKry5OJsrxRQsKBX5s1) | 3:00 | 2022-12-08 |  |
 | [Vegter](https://open.spotify.com/track/1KK0U3XmxHyj5WYjARSxkv) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Vegter](https://open.spotify.com/album/1c7lGU1cP8l04hmOSAbCOC) | 3:46 | 2022-06-09 | 2022-10-07 |
 | [Vir Jou Geval](https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw) | [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE) | [Vir Jou Geval](https://open.spotify.com/album/3XWL5eNy3Q2bSOjk9Pwfwx) | 4:02 | 2022-12-29 |  |
+| [Vleisvreters](https://open.spotify.com/track/63RtO5V94GhSGYvZEucg4h) | [Neil Somers](https://open.spotify.com/artist/1jO22tNfag5lkLQboj0npK), [Adam Tas](https://open.spotify.com/artist/011KRXCsnsSuCGsY0Enq5r) | [Vleisvreters](https://open.spotify.com/album/6wWrTYihuyhLCpz8C4OLxQ) | 3:07 | 2023-03-03 |  |
 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 | 2023-01-05 |  |
 | [Wanneer Laas](https://open.spotify.com/track/1oLfVuGQBnWcoBZWD2Xe8W) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Wanneer Laas](https://open.spotify.com/album/5rF1zihcBSMixLjYiOChxL) | 2:42 | 2022-11-03 | 2022-11-18 |
 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 | 2022-09-08 | 2022-12-02 |

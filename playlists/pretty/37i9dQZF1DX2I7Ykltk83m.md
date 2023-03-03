@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Madison Cunningham
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,147 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,216 likes - 125 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 124 | [Sucker](https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker's Lunch](https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ) | 4:43 |
 | 125 | [That's Life Honey](https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [Wayfinder](https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN) | 3:02 |
 
-Snapshot ID: `MTY3NzAwMjg0NSwwMDAwMDAwMDlhMTA2NzI3MWI4NzRmMzdhMzM2ZTBjYzljMmRmYjRm`
+Snapshot ID: `MTY3NzAwMjg0NSwwMDAwMDAwMDM5NjJmNWIxNWZiMzJkYmRlZDczMTY5YjMwMGZiZDNh`

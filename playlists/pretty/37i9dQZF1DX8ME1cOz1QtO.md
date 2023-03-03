@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,678 likes - 100 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,801 likes - 100 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Elysian E](https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq) | 9:13 |
 | 100 | [Mirador](https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 15:36 |
 
-Snapshot ID: `MTY2NDg4Njk1OCwwMDAwMDAwMGIyNTQ1NzQyNzEzOGI4MDI5Yjg2OTU3OTMwYmIxNWU2`
+Snapshot ID: `MTY2NDg4Njk1OCwwMDAwMDAwMDNmY2ZmMmJjNGI3NWQ2MDBmNjA4NjVlMjJmNmIxMDU2`

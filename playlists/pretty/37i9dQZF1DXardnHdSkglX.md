@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,628 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,810 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 149 | [Shape of You](https://open.spotify.com/track/3FGjZhoaqR83UViLXk4boR) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 3:34 |
 | 150 | [Señorita](https://open.spotify.com/track/7oJXhK3Dq8VpiOoRxWxpD0) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Señorita](https://open.spotify.com/album/7Gw6zmZWTTfLZ4TG9BcyGi) | 3:10 |
 
-Snapshot ID: `MTY3Njg1NDgwMCwwMDAwMDAwMDgyOWJhZTMxNThmNzNjNzFiOTYyZWRkMDU2MDgzN2Zj`
+Snapshot ID: `MTY3Njg1NDgwMCwwMDAwMDAwMGJkYmQwNzY5ZWRiYzgzMDBkMDFhYmMxYWJlZGYwZTk2`

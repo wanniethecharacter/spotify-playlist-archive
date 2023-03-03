@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,131 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,150 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 76 | [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 |
 | 77 | [La Luna](https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 3:43 |
 | 78 | [Quien](https://open.spotify.com/track/4Yggxw9G0xi3GgHrCuvAJs) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Una Linterna](https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO) | 2:42 |
-| 79 | [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 |
-| 80 | [Casi Extraños](https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC) | 3:47 |
+| 79 | [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 |
+| 80 | [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 |
 
-Snapshot ID: `MTY3NjYwMjgwMCwwMDAwMDAwMGIyODQyZTY2MmViYmFhZWQ1YzE5YTQ4ZWRhZWQ2MjMy`
+Snapshot ID: `MTY3NzgxMjQwMCwwMDAwMDAwMDNjODhkYjljMzc2OGU5NTAzMmFjM2NmYzI3YzBlOGQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,107 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,117 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [Never Give Up Ⅱ \(Feat\. 손박사, 오전도사, DJ Uzi, Rich\)](https://open.spotify.com/track/2E84dE2xWHEMKIBofKogIE) | [ZoPD](https://open.spotify.com/artist/1JIlqu7XZniSF86iMlgKHR), [Rich](https://open.spotify.com/artist/0OAPcmruJr93HIMyFgFjoP), [손박사](https://open.spotify.com/artist/7IQBTbw1x949fH2KfbHi1d), [오전도사](https://open.spotify.com/artist/1jy9lnMScttgD1RbRtKk2h), [DJ Uzi](https://open.spotify.com/artist/7tSx5FV8Ku05I1LEFDWXh7) | [조PD\. Net / Best In East](https://open.spotify.com/album/1WmWpvspnZ2DQGL4dsbdWR) | 4:16 |
 | 100 | [Underground](https://open.spotify.com/track/2MZLnU6nsGjB9qemy0SIZB) | [Garion](https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp) | [MP Hip Hop 2000 CHO \(Remastered\)](https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n) | 4:08 |
 
-Snapshot ID: `MTYyOTI2MTY0MCwwMDAwMDAwMDc0MTNlNWRhYTJmNzAyZjU4YzFkOWRiYTFkMGEyNmVi`
+Snapshot ID: `MTYyOTI2MTY0MCwwMDAwMDAwMDgyYzQ3NmM1NzQ3ZTVkYmYzYjY0ZTc4MTdlYWFjZmVh`

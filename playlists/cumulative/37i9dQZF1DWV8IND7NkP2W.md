@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-556 songs - 1 day 0 hr 50 min
+558 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [HANABI](https://open.spotify.com/track/6sRHCRBuZIRGJtdwXDk2Mc) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [HANABI](https://open.spotify.com/album/3JnH9rEoWKbQSzjebIU5ZP) | 2:22 | 2022-07-07 | 2022-07-23 |
 | [Hapuna](https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Hapuna](https://open.spotify.com/album/1Y1xcpOvUfv6jWhxoQGmmw) | 2:58 | 2022-05-19 |  |
 | [hario island](https://open.spotify.com/track/4pwrnZ6t6KwUgUoQiBe70M) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [hario island](https://open.spotify.com/album/6t6geCz3BtiM0WXFNeWGyY) | 2:36 | 2023-01-19 | 2023-02-05 |
+| [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 | 2023-03-02 |  |
 | [Here, There](https://open.spotify.com/track/1sLOKhpRCBg9FUEsIybTc4) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Here, There](https://open.spotify.com/album/3Nk7pV5iFdtLeplMvGe8dr) | 1:24 | 2022-02-10 | 2022-07-25 |
 | [Hey](https://open.spotify.com/track/2kZtgM0bQyHLfYGeUYno3L) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Hey](https://open.spotify.com/album/7E4h5wksCrCWrvdZlzdnRV) | 2:09 | 2022-01-06 | 2022-07-29 |
 | [Hey](https://open.spotify.com/track/3DP1ar30GyW0PzMs5ZNzVl) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Hey](https://open.spotify.com/album/4oe6eDcPo0sLyEpnyXEeRx) | 2:09 | 2022-07-28 |  |
@@ -309,6 +310,7 @@
 | [Monday Rain](https://open.spotify.com/track/3SzU65XEzAiLTjrH1x6juG) | [Urahbeats](https://open.spotify.com/artist/6LdQnk2IGCl15Mpigg3vTu) | [Monday Rain \(Original Mix\)](https://open.spotify.com/album/3iD1poELCzqfIHvX4lzjc2) | 2:12 | 2021-12-23 | 2022-07-27 |
 | [montage](https://open.spotify.com/track/00KxObzgR4sppNsPoSFBar) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [montage](https://open.spotify.com/album/5iaMyOoyPPo1OTKf7K85mF) | 2:32 | 2022-07-28 | 2022-08-01 |
 | [montage](https://open.spotify.com/track/1xnY2Avak2cLTJ0Zpyk1Qe) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [montage](https://open.spotify.com/album/4gtPolrbZbtXKeDxYZJa1s) | 2:32 | 2022-06-23 | 2022-07-29 |
+| [Mood Ring](https://open.spotify.com/track/1szbxIruSyCYMja99f2OGW) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Mood Ring](https://open.spotify.com/album/7sjSK2BzkjZphjdMmkhiYJ) | 3:39 | 2023-03-02 |  |
 | [Moon Gazing](https://open.spotify.com/track/3trUWQLZYKSxZPwqhozd4d) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU), [Hanae Sakuyama](https://open.spotify.com/artist/0rg9I9507vQXmmfZquZ7oG) | [Moon Gazing](https://open.spotify.com/album/2zrgZOi7EUgwmmC8G2ee5G) | 4:14 | 2021-12-23 | 2022-01-28 |
 | [Moon Prairie](https://open.spotify.com/track/4kMctvfN5UZ3Krn8MZWIx0) | [Shimo](https://open.spotify.com/artist/54yxEyTmJQaDLfTcICtvum) | [Moon Prairie](https://open.spotify.com/album/11eDwqkFL0KgMM3GMvc46a) | 1:31 | 2022-02-17 |  |
 | [MOON WAVE](https://open.spotify.com/track/3frTPQMP9mhtUcYhxYPOGO) | [TOMMY HONDA](https://open.spotify.com/artist/2sHNt94yiTqGXeQEKUDX5n) | [MOON WAVE](https://open.spotify.com/album/4lKMUnLY2dTRV4IzKEpI4B) | 2:57 | 2021-12-23 | 2022-07-20 |
@@ -467,8 +469,8 @@
 | [Still Rivers](https://open.spotify.com/track/2aocpfQKBhTKhI8KcpwkQ5) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Still Rivers](https://open.spotify.com/album/2sR542VVLs1dchuyMOMdAA) | 2:18 | 2022-01-13 | 2022-04-20 |
 | [Stingless Bee](https://open.spotify.com/track/24xYIwF42jBy7Jwux9cEoJ) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [Nostalgic Fantasy Soul](https://open.spotify.com/album/2HoyEuMjNgPocFWpUj5hLd) | 1:27 | 2021-12-23 | 2022-07-29 |
 | [Streets of Kyoto](https://open.spotify.com/track/6NRRbRKPVZOZKVtGIDiVVe) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l) | [Streets of Kyoto](https://open.spotify.com/album/7zqqLokT18SEG7y7AZ576V) | 1:36 | 2022-01-13 | 2022-04-16 |
-| [Streets of Kyoto](https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Streets of Kyoto](https://open.spotify.com/album/5cj8lMDcvX5kOOxFrDP5SY) | 1:36 | 2022-07-28 |  |
-| [stricta](https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi) | [TOPANGA](https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA) | 2:05 | 2022-05-26 |  |
+| [Streets of Kyoto](https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Streets of Kyoto](https://open.spotify.com/album/5cj8lMDcvX5kOOxFrDP5SY) | 1:36 | 2022-07-28 | 2023-03-03 |
+| [stricta](https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi) | [TOPANGA](https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA) | 2:05 | 2022-05-26 | 2023-03-03 |
 | [Sudachi](https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Koza](https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Sudachi](https://open.spotify.com/album/3loyhogYQD9GMco9mhlKEn) | 2:18 | 2021-12-23 | 2023-01-02 |
 | [Summer](https://open.spotify.com/track/3I5wS79HgXwg91FSI4XeE8) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/3zaR1622H1nFZbyLrIWfSZ) | 2:50 | 2022-08-25 | 2022-08-27 |
 | [Summer](https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:50 | 2022-11-10 |  |

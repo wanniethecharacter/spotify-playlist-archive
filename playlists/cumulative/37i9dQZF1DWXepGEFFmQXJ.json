@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Brad Cox",
+  "description": "The cream of today's Country crop. Cover: Morgan Wallen",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 193928,
       "name": "All We'll Ever Be",
       "url": "https://open.spotify.com/track/2xbI4Uh1ExxhHJQbklARMs"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 179946,
       "name": "Drinking For Free",
       "url": "https://open.spotify.com/track/4Y85ZL227rHUjq1e1okpao"
@@ -1410,6 +1410,24 @@
       "duration_ms": 202965,
       "name": "Dumb Decisions",
       "url": "https://open.spotify.com/track/18xKANAGiaYX5m0V79IoaJ"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Dying Man",
+      "url": "https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu"
     },
     {
       "album": {
@@ -2114,6 +2132,24 @@
       "duration_ms": 196746,
       "name": "Hard Place",
       "url": "https://open.spotify.com/track/3MxubYzTgvDuT9fUVzrVTj"
+    },
+    {
+      "album": {
+        "name": "Fantasy Island",
+        "url": "https://open.spotify.com/album/30jLEnJpFOR8NQzDLn2rbc"
+      },
+      "artists": [
+        {
+          "name": "Nikita Karmen",
+          "url": "https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199505,
+      "name": "Hate Hate Hate",
+      "url": "https://open.spotify.com/track/0scLx5J7ckwdhuPIRZgN3P"
     },
     {
       "album": {
@@ -3200,7 +3236,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 169589,
       "name": "Mr I Don't Care",
       "url": "https://open.spotify.com/track/2C5mtY0lQK9qyX8fJx6rOw"
@@ -4780,7 +4816,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 177657,
       "name": "THE LITTLE THINGS",
       "url": "https://open.spotify.com/track/72Z98wFFZyZjwc3D6thXtf"

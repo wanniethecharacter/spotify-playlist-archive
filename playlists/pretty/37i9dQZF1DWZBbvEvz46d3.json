@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 54426,
+  "num_followers": 54462,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMGQzNjZjM2VhMWRlNDdmYjE1NTNmMGM5ZDVlZDEyYzlj",
+  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMGM5MjQ3ZGExNjY3MmIwMjQzOTIwMTJkN2ZmYzM1ODc2",
   "tracks": [
     {
       "added_at": "2023-02-03 16:31:51",
@@ -75,18 +75,18 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "The Best Of Kora & Maanam Volume II",
-        "url": "https://open.spotify.com/album/2FcPs0C8LOzivVD5ISGe0w"
+        "name": "O nich, o Tobie",
+        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
       },
       "artists": [
         {
-          "name": "Maanam",
-          "url": "https://open.spotify.com/artist/4MiKufcWLuX6KDLzqhUgQD"
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
         }
       ],
-      "duration_ms": 294026,
-      "name": "Kocham Ci\u0119, Kochanie Moje",
-      "url": "https://open.spotify.com/track/6CwbrtZnJNqef5CqSLqPdX"
+      "duration_ms": 147417,
+      "name": "O nich, o Tobie",
+      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -107,50 +107,58 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "O nich, o Tobie",
-        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
+        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
+        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
       },
       "artists": [
         {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
         }
       ],
-      "duration_ms": 147417,
-      "name": "O nich, o Tobie",
-      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
+      "duration_ms": 251053,
+      "name": "Dlugo\u015b\u0107 d\u017awi\u0119ku samotno\u015bci",
+      "url": "https://open.spotify.com/track/5ytkHKps6RVVDFZwAqVDCB"
     },
     {
-      "added_at": "2023-03-02 01:18:28",
+      "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "ENT",
-        "url": "https://open.spotify.com/album/0PClVbELnvZL2fnAVeJlWt"
+        "name": "Wszystko jedno",
+        "url": "https://open.spotify.com/album/6TOdt5yYuI7ympn1TmYiZr"
       },
       "artists": [
         {
-          "name": "Varius Manx / Kasia Stankiewicz",
-          "url": "https://open.spotify.com/artist/1B3OoaIxfCpdui7lvW2Yu2"
+          "name": "Happysad",
+          "url": "https://open.spotify.com/artist/4NkE5k5xSRm6eVE7vMhqD6"
         }
       ],
-      "duration_ms": 241314,
-      "name": "Piosenka ksi\u0119\u017cycowa (Acoustic Version)",
-      "url": "https://open.spotify.com/track/05NKgpBkS8YiN1bqNfFwSW"
+      "duration_ms": 253133,
+      "name": "Zanim p\u00f3jd\u0119",
+      "url": "https://open.spotify.com/track/6LuOCaMHFBfaR1MLKNHhMA"
     },
     {
-      "added_at": "2023-03-02 01:18:28",
+      "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Osobista kolekcja 2",
-        "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
+        "name": "Ostatni (Rojst '97 | Netflix)",
+        "url": "https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ"
       },
       "artists": [
         {
-          "name": "Krystyna Pro\u0144ko",
-          "url": "https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y"
+          "name": "Tymek",
+          "url": "https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh"
+        },
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        },
+        {
+          "name": "Urbanski",
+          "url": "https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE"
         }
       ],
-      "duration_ms": 280737,
-      "name": "Jeste\u015b lekiem na ca\u0142e z\u0142o - 1994",
-      "url": "https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs"
+      "duration_ms": 219546,
+      "name": "Ostatni (Rojst '97 | Netflix)",
+      "url": "https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -203,62 +211,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Wszystko jedno",
-        "url": "https://open.spotify.com/album/6TOdt5yYuI7ympn1TmYiZr"
-      },
-      "artists": [
-        {
-          "name": "Happysad",
-          "url": "https://open.spotify.com/artist/4NkE5k5xSRm6eVE7vMhqD6"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "Zanim p\u00f3jd\u0119",
-      "url": "https://open.spotify.com/track/6LuOCaMHFBfaR1MLKNHhMA"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Kawalerka",
-        "url": "https://open.spotify.com/album/6cIh3MgxY65lqwAjiXGU5h"
-      },
-      "artists": [
-        {
-          "name": "Bitamina",
-          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "Dom",
-      "url": "https://open.spotify.com/track/2GUF1UURIjLPGJtZxCXEEb"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Ostatni (Rojst '97 | Netflix)",
-        "url": "https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ"
-      },
-      "artists": [
-        {
-          "name": "Tymek",
-          "url": "https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh"
-        },
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        },
-        {
-          "name": "Urbanski",
-          "url": "https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE"
-        }
-      ],
-      "duration_ms": 219546,
-      "name": "Ostatni (Rojst '97 | Netflix)",
-      "url": "https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Zawsze tam gdzie Ty",
         "url": "https://open.spotify.com/album/4nvLyoLUbyrn0kB0sNzxIu"
       },
@@ -271,6 +223,58 @@
       "duration_ms": 258586,
       "name": "Zawsze tam gdzie Ty",
       "url": "https://open.spotify.com/track/1f3C0tSFKsjcflvMCa3X27"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Ale jazz!",
+        "url": "https://open.spotify.com/album/76LTor7lkmS5TndjKVxjEc"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "duration_ms": 187545,
+      "name": "Ale jazz!",
+      "url": "https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Never Ending Sorry",
+        "url": "https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe"
+      },
+      "artists": [
+        {
+          "name": "Agnieszka Chyli\u0144ska",
+          "url": "https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Kiedy\u015b do Ciebie wr\u00f3c\u0119",
+      "url": "https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Autobiografia (The Best)",
+        "url": "https://open.spotify.com/album/6fB3GtVrGwdfYvRHQIdVf8"
+      },
+      "artists": [
+        {
+          "name": "Perfect",
+          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "Ko\u0142ysanka dla nieznajomej",
+      "url": "https://open.spotify.com/track/4oLgclTNif24XEFC7O7we4"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -335,18 +339,18 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
-        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
+        "name": "Lady Pank",
+        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
       },
       "artists": [
         {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+          "name": "Lady Pank",
+          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
         }
       ],
-      "duration_ms": 251053,
-      "name": "Dlugo\u015b\u0107 d\u017awi\u0119ku samotno\u015bci",
-      "url": "https://open.spotify.com/track/5ytkHKps6RVVDFZwAqVDCB"
+      "duration_ms": 240080,
+      "name": "Kryzysowa narzeczona",
+      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -371,54 +375,50 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Ale jazz!",
-        "url": "https://open.spotify.com/album/76LTor7lkmS5TndjKVxjEc"
+        "name": "Ma\u0142omiasteczkowy",
+        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Nie K\u0142ami",
+      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Kr\u00f3lowa dram",
+        "url": "https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya"
       },
       "artists": [
         {
           "name": "sanah",
           "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        },
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
         }
       ],
-      "duration_ms": 187545,
-      "name": "Ale jazz!",
-      "url": "https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE"
+      "duration_ms": 183339,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW"
     },
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Never Ending Sorry",
-        "url": "https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe"
+        "name": "Milosc",
+        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
       },
       "artists": [
         {
-          "name": "Agnieszka Chyli\u0144ska",
-          "url": "https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO"
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
         }
       ],
-      "duration_ms": 229880,
-      "name": "Kiedy\u015b do Ciebie wr\u00f3c\u0119",
-      "url": "https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Lady Pank",
-        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
-      },
-      "artists": [
-        {
-          "name": "Lady Pank",
-          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Kryzysowa narzeczona",
-      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
+      "duration_ms": 195040,
+      "name": "Peron",
+      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
+        "name": "Zacznij od Bacha (The Best)",
+        "url": "https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo"
+      },
+      "artists": [
+        {
+          "name": "Zbigniew Wodecki",
+          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
+        }
+      ],
+      "duration_ms": 262293,
+      "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
+      "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
         "name": "Ma\u0142omiasteczkowy",
         "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
       },
@@ -468,15 +484,15 @@
           "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
         }
       ],
-      "duration_ms": 195666,
-      "name": "Nie K\u0142ami",
-      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
+      "duration_ms": 229666,
+      "name": "Najnowszy Klip",
+      "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
     },
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Autobiografia (The Best)",
-        "url": "https://open.spotify.com/album/6fB3GtVrGwdfYvRHQIdVf8"
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8"
       },
       "artists": [
         {
@@ -484,41 +500,25 @@
           "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
         }
       ],
-      "duration_ms": 214893,
-      "name": "Ko\u0142ysanka dla nieznajomej",
-      "url": "https://open.spotify.com/track/4oLgclTNif24XEFC7O7we4"
+      "duration_ms": 342000,
+      "name": "Nie P\u0142acz Ewka",
+      "url": "https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm"
     },
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Kr\u00f3lowa dram",
-        "url": "https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya"
+        "name": "Momenty",
+        "url": "https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr"
       },
       "artists": [
         {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+          "name": "Grzegorz Hy\u017cy",
+          "url": "https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm"
         }
       ],
-      "duration_ms": 183339,
-      "name": "Melodia",
-      "url": "https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Milosc",
-        "url": "https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB"
-      },
-      "artists": [
-        {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Peron",
-      "url": "https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d"
+      "duration_ms": 178893,
+      "name": "O Pani!",
+      "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -543,70 +543,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Revolving Door",
-        "url": "https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88"
-      },
-      "artists": [
-        {
-          "name": "Piotr Zio\u0142a",
-          "url": "https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Ma\u0142omiasteczkowy",
-        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Najnowszy Klip",
-      "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Zacznij od Bacha (The Best)",
-        "url": "https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo"
-      },
-      "artists": [
-        {
-          "name": "Zbigniew Wodecki",
-          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
-        }
-      ],
-      "duration_ms": 262293,
-      "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
-      "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Momenty",
-        "url": "https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr"
-      },
-      "artists": [
-        {
-          "name": "Grzegorz Hy\u017cy",
-          "url": "https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "O Pani!",
-      "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Ania Karwan",
         "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
       },
@@ -619,22 +555,6 @@
       "duration_ms": 197764,
       "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
       "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8"
-      },
-      "artists": [
-        {
-          "name": "Perfect",
-          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Nie P\u0142acz Ewka",
-      "url": "https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -879,6 +799,22 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
+        "name": "Kawalerka",
+        "url": "https://open.spotify.com/album/6cIh3MgxY65lqwAjiXGU5h"
+      },
+      "artists": [
+        {
+          "name": "Bitamina",
+          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/2GUF1UURIjLPGJtZxCXEEb"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
         "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
         "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
       },
@@ -935,22 +871,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
-        "url": "https://open.spotify.com/album/0Q3TBllCSiPaWH6VBITiP0"
-      },
-      "artists": [
-        {
-          "name": "Ania D\u0105browska",
-          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
-      "url": "https://open.spotify.com/track/4SDTgdnpGs2CH27ECddcAu"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Sk\u0142adam si\u0119 z ci\u0105g\u0142ych powt\u00f3rze\u0144",
         "url": "https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3"
       },
@@ -983,6 +903,22 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
+        "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
+        "url": "https://open.spotify.com/album/0Q3TBllCSiPaWH6VBITiP0"
+      },
+      "artists": [
+        {
+          "name": "Ania D\u0105browska",
+          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
+      "url": "https://open.spotify.com/track/4SDTgdnpGs2CH27ECddcAu"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
         "name": "Album",
         "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
       },
@@ -995,6 +931,22 @@
       "duration_ms": 209213,
       "name": "Miales Byc",
       "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "The Best Of Kora & Maanam Volume II",
+        "url": "https://open.spotify.com/album/2FcPs0C8LOzivVD5ISGe0w"
+      },
+      "artists": [
+        {
+          "name": "Maanam",
+          "url": "https://open.spotify.com/artist/4MiKufcWLuX6KDLzqhUgQD"
+        }
+      ],
+      "duration_ms": 294026,
+      "name": "Kocham Ci\u0119, Kochanie Moje",
+      "url": "https://open.spotify.com/track/6CwbrtZnJNqef5CqSLqPdX"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1077,7 +1029,23 @@
       "url": "https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1"
     },
     {
-      "added_at": "2023-03-02 01:18:28",
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Moje piosenki edycja zwykla",
+        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "Znam cie na pamiec",
+      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
+    },
+    {
+      "added_at": "2023-03-03 03:04:32",
       "album": {
         "name": "Nie zrozumie nas - z filmu \u201eJohnny\u201d",
         "url": "https://open.spotify.com/album/1ps4zilmJwT8YRPfIrmv30"
@@ -1147,18 +1115,18 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Moje piosenki edycja zwykla",
-        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
+        "name": "Revolving Door",
+        "url": "https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88"
       },
       "artists": [
         {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+          "name": "Piotr Zio\u0142a",
+          "url": "https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB"
         }
       ],
-      "duration_ms": 203480,
-      "name": "Znam cie na pamiec",
-      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
+      "duration_ms": 216706,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1179,6 +1147,22 @@
       "duration_ms": 181243,
       "name": "P\u00f3\u017ane godziny",
       "url": "https://open.spotify.com/track/3LT2xvnrLzjj442HEBBy1w"
+    },
+    {
+      "added_at": "2023-03-03 03:04:32",
+      "album": {
+        "name": "Osobista kolekcja 2",
+        "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
+      },
+      "artists": [
+        {
+          "name": "Krystyna Pro\u0144ko",
+          "url": "https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y"
+        }
+      ],
+      "duration_ms": 280737,
+      "name": "Jeste\u015b lekiem na ca\u0142e z\u0142o - 1994",
+      "url": "https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1295,6 +1279,26 @@
       "duration_ms": 290481,
       "name": "List",
       "url": "https://open.spotify.com/track/427wJVMJuEPYdxjwDhFiBY"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Omamy",
+        "url": "https://open.spotify.com/album/4izFXcjIxPzX86R1hRAUbD"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        },
+        {
+          "name": "Kuba Kara\u015b",
+          "url": "https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I"
+        }
+      ],
+      "duration_ms": 230826,
+      "name": "Nie mam dla Ciebie mi\u0142o\u015bci - Kayax XX Rework",
+      "url": "https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

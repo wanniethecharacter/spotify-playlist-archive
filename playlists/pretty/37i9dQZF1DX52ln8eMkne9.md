@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,028 likes - 150 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,138 likes - 150 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 149 | [Something Cool](https://open.spotify.com/track/1UijIdqBv8hJEw6BWk1wE8) | [María Esteban Quintet](https://open.spotify.com/artist/2sZxjmgR2KmuFB54tvc9YY), [María Esteban](https://open.spotify.com/artist/2IGB5nA5VbGU7bKSoJMqMN), [Edu Cabello](https://open.spotify.com/artist/0THtNsDRswHw7gbFaPrVU9), [Rai Paz](https://open.spotify.com/artist/7fyYCDMJffGkMcoatNcKHk), [Xavi Castillo](https://open.spotify.com/artist/5dC65gJBz1D1xqPE4PnKDp), [Santi Colomer](https://open.spotify.com/artist/39eWTAyXJRsLxEvTjJPvwa) | [Something Cool](https://open.spotify.com/album/4jEw3uFBNJqFZz43DDTbgQ) | 5:12 |
 | 150 | [Dear December](https://open.spotify.com/track/5BfkVCI8z3idTK0IDjaW9u) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Cecilia Persson](https://open.spotify.com/artist/3iRDzd9nJKqwfzMggbpCRv) | [Dear December](https://open.spotify.com/album/2qcJbRNeqt3GBJU7NebTl7) | 2:58 |
 
-Snapshot ID: `MTY3NzY2MjA3NCwwMDAwMDAwMDQ1YjFiOTNjYTM1ZDJmZTIzODc4Y2M3N2I4Yzk0NTJk`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMGQ0YzRjZDBiODA0ZWZjOTM4Y2IzMzM5NTk4YTg3ZDA1`

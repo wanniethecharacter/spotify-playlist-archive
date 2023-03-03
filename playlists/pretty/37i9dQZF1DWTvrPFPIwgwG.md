@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kemilly Santos, Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,351 likes - 85 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,527 likes - 85 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Senhor do Tempo](https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Senhor do Tempo](https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE) | 4:34 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MTY3NzIzNzA2NywwMDAwMDAwMDgxNDQ2N2NmYTgzYzcyMDhkYzMwYTJhMWQzNWU0ODhk`
+Snapshot ID: `MTY3NzIzNzA2NywwMDAwMDAwMGRiZDVkZTk4MzkyNWU2NDliNTNjYzY5MmVhNGE0MDQz`

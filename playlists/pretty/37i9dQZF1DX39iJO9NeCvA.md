@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 
 > Listen to soundtracks from SF anime series "TRIGUN".「トライガン」シリーズの楽曲を1つのプレイリストで。© 2023 内藤泰弘・少年画報社／「TRIGUN STAMPEDE」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,146 likes - 38 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,236 likes - 38 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 | 37 | [get even](https://open.spotify.com/track/6f4G8cwwKtbURYV4P6eWEU) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 2:26 |
 | 38 | [snatch!snatch!snatch!](https://open.spotify.com/track/7KG0iTQojPBMdi0ZgSM2Lx) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 2:16 |
 
-Snapshot ID: `MTY3NzI1NDUwOSwwMDAwMDAwMGNhZDAwODBlNjM0MTQxY2I5ZThmMjY1YmY4YmE0ODI5`
+Snapshot ID: `MTY3NzI1NDUwOSwwMDAwMDAwMDgxOWIzZTQxZDExNjU0MTAyZWRjMzU5YjBhZDlhZDU2`

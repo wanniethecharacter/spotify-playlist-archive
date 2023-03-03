@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,263 likes - 100 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,405 likes - 100 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 99 | [Dukes Place](https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Tell It The Way It Is](https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi) | 5:28 |
 | 100 | [Blight of the Fumble Bee](https://open.spotify.com/track/7GKJ9q5mCCFhTFEHTjDe9O) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 6:35 |
 
-Snapshot ID: `MTY3NzE0NDIzMywwMDAwMDAwMDQ5OWZjODAzYTk1ZDJkYmYwNWNkNWJiZWI4MTBlMjdi`
+Snapshot ID: `MTY3NzE0NDIzMywwMDAwMDAwMDI5YmE4ZWE5ZTgxMzZiNzBlODZmMDk2NWI3ZDdlY2Nh`

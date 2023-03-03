@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Oruam, Borges, Chefin
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,633 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,802 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Dores](https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Dores](https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n) | 3:15 |
 | 50 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
 
-Snapshot ID: `MTY3NzYxNzA4NSwwMDAwMDAwMDVjM2YwYjc4ZDQxNWVhMDJjZGQ0MDdiNzk1NWIzODZi`
+Snapshot ID: `MTY3NzYxNzA4NSwwMDAwMDAwMGQwYjAwY2Y0YmY3YWQ3NTY3ZDFmNTE2ZGRkOTE0MDI0`

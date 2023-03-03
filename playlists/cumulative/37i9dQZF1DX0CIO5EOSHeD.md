@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: d4vd
 
-338 songs - 18 hr 7 min
+339 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [No Emotion](https://open.spotify.com/track/38a35dNALuJ3KGJ78lPXnz) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [No Emotion](https://open.spotify.com/album/205rzsc3VKhbpwTZHcexJH) | 2:55 | 2021-01-12 | 2021-02-26 |
 | [No Other Like You](https://open.spotify.com/track/0jwx104ASJH2nhF0RYTP55) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [No Other Like You](https://open.spotify.com/album/6kCIF9VWB5bJXQZpZlDv8e) | 3:28 | 2020-10-27\* | 2021-02-06 |
 | [No Smoke](https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [No Smoke](https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa) | 4:12 | 2021-08-14 | 2023-01-15 |
+| [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 | 2023-03-02 |  |
 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 | 2022-03-17 |  |
 | [Obsessed](https://open.spotify.com/track/2OIIhZsJps4wpv1ob4AtDH) | [Joss Mogli](https://open.spotify.com/artist/1m8ckDOsejA9s7GN9Y6N8q) | [Obsessed](https://open.spotify.com/album/3gCG7pVXTL4avBjoEOD41V) | 2:50 | 2021-09-25 | 2022-07-26 |
 | [obvious](https://open.spotify.com/track/4CsSN0KzU3bqhkrA7P3kIw) | [tøm hughes](https://open.spotify.com/artist/336D2sdfb7SeACYYG8TNWf) | [obvious](https://open.spotify.com/album/6NvlVbfUaUyOgZEfvSXHcm) | 3:09 | 2020-11-27 | 2022-07-16 |
@@ -251,7 +252,7 @@
 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 | 2020-10-27\* |  |
 | [Raw](https://open.spotify.com/track/4Ot0dM7CB4gr9hVu6Hos3Z) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Raw](https://open.spotify.com/album/4AICfwXPPvRKBzEaUuO32e) | 3:37 | 2021-04-02 | 2022-07-12 |
 | [Real](https://open.spotify.com/track/6JA93Y4aUHtzZyuxCGOhSm) | [Chelou](https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq) | [Real](https://open.spotify.com/album/3LDD22obHHlYlxtBlUnj2h) | 3:46 | 2020-10-27\* | 2022-07-29 |
-| [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 | 2022-09-13 |  |
+| [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 | 2022-09-13 | 2023-03-03 |
 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 | 2020-12-11 | 2022-07-27 |
 | [Red Rag To A Bull](https://open.spotify.com/track/3v9dcSB3xTGLoQ7vwdr3I5) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [Red Rag To A Bull](https://open.spotify.com/album/7gh3pCCd0TDhLm25VAKlIN) | 2:36 | 2021-10-11 | 2022-04-20 |
 | [Red Stone](https://open.spotify.com/track/68uXJTiiZfSKL2KQrowXAL) | [Ed Dowie](https://open.spotify.com/artist/5fVWsyYSseyTctaZKbzYb5) | [Red Stone](https://open.spotify.com/album/1pLCw41U8oSFSIC37fsi00) | 4:14 | 2021-03-06 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > Royel Otis are our new RADAR artist to watch!
 
-212 songs - 10 hr 59 min
+214 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Smashmouth](https://open.spotify.com/track/0hqiP6ZADTynI136orAUpb) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Smashmouth](https://open.spotify.com/album/46WIzWMx67YUpASEdMTgVc) | 3:12 | 2021-10-15 | 2022-08-16 |
 | [Smashmouth](https://open.spotify.com/track/4cHSvShogdjsAdT50ysxds) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Smashmouth](https://open.spotify.com/album/5r27LuZamggikuwdMeKpuQ) | 3:12 | 2021-10-15 | 2022-07-29 |
 | [smb2l](https://open.spotify.com/track/44dlDthpDSiplvoFGwD2AA) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [shapeless](https://open.spotify.com/album/2yJtn1NTEXnj5tM3B2NGyf) | 2:46 | 2023-03-02 |  |
-| [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 | 2023-03-02 |  |
+| [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-02 |  |
+| [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 | 2023-03-02 | 2023-03-03 |
 | [Soft Rock](https://open.spotify.com/track/7kNJ8lNMJ2cnNwSloYt3Ph) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Soft Rock](https://open.spotify.com/album/11oyqQEM0Cg679CH7XH15C) | 2:31 | 2021-10-15 | 2022-08-16 |
 | [Some Other Time \(feat\. Arz\)](https://open.spotify.com/track/2RP9qWN4MpSLHAlskIlV1t) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Some Other Time \(feat\. Arz\)](https://open.spotify.com/album/1ARzgmtTR8Zpq8LctI8sZh) | 3:19 | 2022-08-15 | 2022-11-11 |
 | [SOMEONE ELSE'S PROBLEM](https://open.spotify.com/track/3yaLVo3UBWXEy9FcHl8kOb) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [SOMEONE ELSE'S PROBLEM](https://open.spotify.com/album/7yq3G4VS4hSqfSgV4bfWHb) | 2:40 | 2022-11-10 | 2023-03-02 |
@@ -190,6 +191,7 @@
 | [The City](https://open.spotify.com/track/1GNU5GDMAP2xTlLa7qN18k) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [The City](https://open.spotify.com/album/0gsbIh3mdGUbtHZ0sXOlhO) | 3:02 | 2023-03-02 |  |
 | [The Morning](https://open.spotify.com/track/6SS1m6gUnH6LhB2eOtBDFM) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [The Morning](https://open.spotify.com/album/1Pmmu2U0fv00xXxmZeNBT5) | 2:57 | 2022-11-10 | 2023-03-02 |
 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 | 2023-03-02 |  |
+| [Things Aren't Nice In Paradise](https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz) | 3:11 | 2023-03-02 |  |
 | [This Enchanted \- Edit](https://open.spotify.com/track/0t0lC8avHPxxf9VqiItfj6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [This Enchanted](https://open.spotify.com/album/5DU1S08aBz1JPVN6Q2hIWj) | 3:07 | 2021-10-15 | 2022-07-29 |
 | [This Enchanted \- Edit](https://open.spotify.com/track/3Y4bQtUuAPjfNCx5k1OcA9) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [This Enchanted](https://open.spotify.com/album/19rbfCDAnOxvNajKvDbhiu) | 3:07 | 2021-10-15 | 2022-08-16 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-08-15 | 2023-03-02 |

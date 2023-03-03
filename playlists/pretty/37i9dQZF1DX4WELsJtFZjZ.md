@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,174 likes - 150 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,725 likes - 150 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 149 | [All This Time](https://open.spotify.com/track/5jzDnEoTtwzvJfvVx52rDC) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [Hold An Old Friend's Hand](https://open.spotify.com/album/1DAE5K7Rv0H1JZkJaLcV9x) | 4:21 |
 | 150 | [Endless Love \- From "The Endless Love" Soundtrack](https://open.spotify.com/track/0rt0dZ11FVsvprbarag5tk) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:28 |
 
-Snapshot ID: `MTY3NDYwMTIwMCwwMDAwMDAwMDk4MjVkZGMyYjc5NjcxYWJhMThhZDYyZWE2N2EwOTgw`
+Snapshot ID: `MTY3NDYwMTIwMCwwMDAwMDAwMDMxYjhhMTIyNGRiNjlmYTJkZjUyNWI5N2FiMjIxNjk4`

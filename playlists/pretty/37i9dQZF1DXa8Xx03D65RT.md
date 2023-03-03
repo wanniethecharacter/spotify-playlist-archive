@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 
 > La sutileza del piano para enriquecer tu espacio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,522 likes - 250 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,505 likes - 250 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 | 249 | [Parisian Walkways](https://open.spotify.com/track/0Iv417JLAl33iLcVvfnkul) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Parisian Walkways](https://open.spotify.com/album/1prLAGlb3KejKZWjOMWUIN) | 3:50 |
 | 250 | [Undulations](https://open.spotify.com/track/53FjteGUXpjef8J3SD7HoP) | [Vittoriano di Grazia](https://open.spotify.com/artist/68dOCHt1KCAYTYsiFNxRsI) | [Undulations](https://open.spotify.com/album/1Ua1JPkMvE0Quzllx33hyi) | 3:05 |
 
-Snapshot ID: `MTY3NzUwNzAwMywwMDAwMDAwMGZhN2FkMTI1NWRjYmEwMzhmNjAxZWFmOTEwYjFiN2U5`
+Snapshot ID: `MTY3NzUwNzAwMywwMDAwMDAwMDk1Y2RlODhlMjJlMGZhNDc1YWU4Njc0OWM4NDkwZWE5`

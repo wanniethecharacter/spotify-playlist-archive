@@ -686,7 +686,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 297352,
       "name": "\u4e00\u4e8c\u4e09\u4e00\u4e8c\u4e09",
       "url": "https://open.spotify.com/track/0OZdSwCnNFXAgpeONjK9gs"
@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "\u5f85\u5728\u6211\u8eab\u8fb9",
+        "url": "https://open.spotify.com/album/25yKpcPq9SlaiPiwsGuOgK"
+      },
+      "artists": [
+        {
+          "name": "Stephie\u6167\u4eea",
+          "url": "https://open.spotify.com/artist/78N8pwmz1BMP2tUbnT433O"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236977,
+      "name": "\u5f85\u5728\u6211\u8eab\u8fb9",
+      "url": "https://open.spotify.com/track/3neQDftDB6rG2LBnNtUMyv"
+    },
+    {
+      "album": {
         "name": "\u5fae\u7b11\u5206\u624b",
         "url": "https://open.spotify.com/album/0vDcTUTmDEY8ryGNVKJlsi"
       },
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 304388,
       "name": "\u60f3\u898b\u5c31\u80fd\u76f8\u898b - Live \u7248",
       "url": "https://open.spotify.com/track/46hRFXILthnANbKUrbGWtb"
@@ -2990,6 +3008,24 @@
       "duration_ms": 294264,
       "name": "\u7121\u8072",
       "url": "https://open.spotify.com/track/6YII3Wh4saWJF3qR72257l"
+    },
+    {
+      "album": {
+        "name": "\u71e6\u721b\u7684\u4f60 (\u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/2kC7kZrH85IxTVS8cB6gLH"
+      },
+      "artists": [
+        {
+          "name": "Xian Zi",
+          "url": "https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247460,
+      "name": "\u71e6\u721b\u7684\u4f60 - \u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/54fZmclT0FbBLabQm1leVm"
     },
     {
       "album": {

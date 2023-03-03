@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-346 songs - 20 hr 43 min
+349 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Dreaming](https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dreaming](https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty) | 3:07 | 2020-10-10\* | 2021-05-13 |
 | [Dregs of the Wine](https://open.spotify.com/track/1NLuc6L2PhmFiSJK1zoFb6) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Dregs of the Wine](https://open.spotify.com/album/7AqFnCeN3Q3wvSuw36cAfD) | 3:29 | 2022-09-09 |  |
 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 | 2021-01-21 | 2022-03-18 |
+| [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-03 |  |
 | [Dying To Believe](https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Dying To Believe](https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx) | 3:01 | 2021-10-29 |  |
 | [Ease My Mind](https://open.spotify.com/track/2pBRMZKqwdPrrMLZouj5yZ) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Ease My Mind](https://open.spotify.com/album/4bdJvHMmM4nZ5VClRTVdqa) | 3:25 | 2021-11-19 |  |
 | [Elaborate Attractions](https://open.spotify.com/track/0Ky4U5952pryWGyCgAnl6b) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [1/2](https://open.spotify.com/album/1gysbgJ8ZrAqrWEgKHl5uN) | 3:06 | 2020-10-10\* | 2021-05-13 |
@@ -161,6 +162,7 @@
 | [In The Light of Day](https://open.spotify.com/track/66zmIFmy6bfgBwld7FDpPF) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [In The Light of Day](https://open.spotify.com/album/57Zs0drMxzptJc9jEElQ3r) | 2:06 | 2020-10-10\* | 2021-02-25 |
 | [In This State](https://open.spotify.com/track/4WbOSFjZX7uPIYZS0dpl1s) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [In This State](https://open.spotify.com/album/6VOy3FS05qOf4D9jyWk8Vb) | 3:02 | 2020-10-10\* | 2021-05-13 |
 | [Initiation](https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Initiation / Protection](https://open.spotify.com/album/1L3sLTg8ElmheG3Ftu90Su) | 4:05 | 2022-03-18 |  |
+| [Insanity](https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [Insanity](https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm) | 3:03 | 2023-03-03 |  |
 | [Instant History \- Single Version](https://open.spotify.com/track/78Whqvk23AqxailSEMv83F) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Instant History](https://open.spotify.com/album/2zRS3sRmhixjg6MvO1yxh2) | 3:17 | 2020-10-10\* | 2022-03-18 |
 | [It Hurts](https://open.spotify.com/track/7ifjVxEB8dXO87GdLePzQn) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [It Hurts](https://open.spotify.com/album/5I67qMWdcDXUtWkHHPDkhd) | 3:18 | 2023-02-10 |  |
 | [It's Its Own Heart](https://open.spotify.com/track/0a5ekAz2dYv0mKTNPfNWae) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [It's Its Own Heart](https://open.spotify.com/album/0lJOmZQeDqP10muCJra8tF) | 2:53 | 2020-10-10\* | 2021-02-25 |
@@ -253,6 +255,7 @@
 | [Savage Lands](https://open.spotify.com/track/5nDrnOSq8NuwHJpwH6Zv0y) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 4:24 | 2021-10-29 |  |
 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/2Srbekd8waUUAr0gIMt5dg) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/album/0IZGnnl5a2wFGLsCYHJyQ6) | 3:30 | 2020-10-10\* | 2021-05-13 |
 | [Season 5 \(Break My Fall\)](https://open.spotify.com/track/0SfCryEa05GUIWP9DJEd7R) | [TOWNS](https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK) | [Season 5 \(Break My Fall\)](https://open.spotify.com/album/2Cew4ZRUkzcT9Dn8AlPMco) | 3:14 | 2022-05-20 |  |
+| [See You Tomorrow](https://open.spotify.com/track/5padbaZoTAOhuQS3ILPb9O) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [See You Tomorrow](https://open.spotify.com/album/43oTWFkoNJ6DZYaPddDavi) | 2:43 | 2023-03-03 |  |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 | 2022-07-08 | 2022-09-29 |
 | [SELF\-SABOTAGE \(feat\. Good Charlotte\)](https://open.spotify.com/track/0Xio3TJaKcH819kEPjjLyS) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [SELF\-SABOTAGE \(feat\. Good Charlotte\)](https://open.spotify.com/album/5a8LFWG62uq5jiigTMxW3W) | 2:37 | 2022-09-28 |  |
 | [Sex Magik](https://open.spotify.com/track/5QUfvTWB3lufXitDEbrcT7) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Sex Magik](https://open.spotify.com/album/1YiU1FtGcLU67uw0yI3MMU) | 3:26 | 2022-02-25 |  |

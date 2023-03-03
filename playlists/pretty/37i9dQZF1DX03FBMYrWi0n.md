@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle \- avec blesse, Sophia Bel, Corridor et bien plus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 711 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 720 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 74 | [Maladresses](https://open.spotify.com/track/3HLN74FVPGyvoep9o0HN4h) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [PISSENLIT](https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe) | 1:59 |
 | 75 | [Les murs](https://open.spotify.com/track/56cfcyfAcQJEUvKHOwjXuZ) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Les murs](https://open.spotify.com/album/6HW17MhlbFPAExlsGgW70n) | 3:40 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGI3NTE5NzRjNWI1N2YzNGM0NWVlMDM0ZTFhY2M5ZWUw`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDk0ZDBhZDkzMDg3MzlhNGQ5Y2I3NGM4NzUyYjBmNjQ1`

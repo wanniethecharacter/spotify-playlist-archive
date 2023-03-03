@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 
 > In loving memory of Marie Fredriksson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,062 likes - 52 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,202 likes - 52 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 | 51 | [She's Got Nothing on \(But the Radio\)](https://open.spotify.com/track/3GOgvkh0JfVo17FBiPUe87) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Charm School Revisited](https://open.spotify.com/album/1UFaRYryIZM1T3Dxgu2fEt) | 3:34 |
 | 52 | [Why Dontcha?](https://open.spotify.com/track/2XoC5eg7dngMTiySchGYFU) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 2:45 |
 
-Snapshot ID: `MTY3NjYzODY0MywwMDAwMDAwMDJjMmE5OWM2NzgzY2Q3OGE3MmE5NWRmNzZhNDE5NDA0`
+Snapshot ID: `MTY3NjYzODY0MywwMDAwMDAwMGY5N2U3ZjRiMmI0MDk1MGZiNmQ2ZTBlMTEzOTE0MTM3`

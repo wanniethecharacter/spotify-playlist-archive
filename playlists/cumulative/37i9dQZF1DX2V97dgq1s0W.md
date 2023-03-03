@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> Beautifully chilled vocals from around the world\. Cover: Tamera
+> Beautifully chilled vocals from around the world\. Cover: FLO
 
-62 songs - 3 hr 14 min
+68 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Dance Again](https://open.spotify.com/track/1Da22brPeT2yJYp8nWCduw) | [Hunnah](https://open.spotify.com/artist/5ALJQTH4K9eghzib4UhiqV) | [Dance Again](https://open.spotify.com/album/5KGdvqy1ARUVQ1lFW3Dw9N) | 1:24 | 2023-02-23 |  |
 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 | 2023-02-23 |  |
 | [Don't Prove Me Wrong](https://open.spotify.com/track/0uwFrfJ90Ghc5QcX8LbLe6) | [Meron Addis](https://open.spotify.com/artist/3rJPKKWZTceQMIRlMIHVBy) | [Don't Prove Me Wrong](https://open.spotify.com/album/1VEdGv1fDANC7945CwUqVk) | 3:56 | 2023-02-23 |  |
+| [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 | 2023-03-02 |  |
 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 | 2023-02-23 |  |
 | [Frozen](https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Frozen](https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH) | 2:58 | 2023-02-23 |  |
 | [Give Me A Break](https://open.spotify.com/track/0zwlOjltfwKfxjbK78Zcxc) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E) | [Give Me A Break](https://open.spotify.com/album/4RvSpLTOfAhKTEv3jJsWkF) | 2:34 | 2023-02-23 |  |
@@ -37,15 +38,19 @@
 | [Here With Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43VYKBAP5U88u4dkCxvTqV) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Good Morning Gorgeous](https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA) | 2:19 | 2023-02-23 |  |
 | [Home](https://open.spotify.com/track/0XK8bRXJfQpQHQZu5HrPB7) | [BHUMBLE](https://open.spotify.com/artist/1lLZSPeW3zUzXfHA3r8RzH) | [In Too Deep](https://open.spotify.com/album/51TdpTNVy6XhnfRt90nS1o) | 3:17 | 2023-02-23 |  |
 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 | 2023-02-23 |  |
+| [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 | 2023-03-02 |  |
 | [In The Moment](https://open.spotify.com/track/2Xc0ucl20Cf0gOnbsxlOAU) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 3:13 | 2023-02-23 |  |
 | [Indonesian Fantasies](https://open.spotify.com/track/3NktF1rRdORH8FH3p8wKp3) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:59 | 2023-02-23 |  |
+| [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 | 2023-03-02 |  |
 | [IT'S YOURS](https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:30 | 2023-02-23 |  |
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2023-02-23 |  |
 | [Khayaal](https://open.spotify.com/track/4Yf5yQGD3pMKhhQJn85kpR) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV) | [Khayaal](https://open.spotify.com/album/4OW44suWx0p3UR6n3QGTfm) | 2:39 | 2023-02-23 |  |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2023-02-23 |  |
 | [Look What You've Done](https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Look What You've Done](https://open.spotify.com/album/1lCjjuAzUoAxW9ATjqdFDc) | 5:12 | 2023-02-23 |  |
+| [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 | 2023-03-02 |  |
 | [Love Again](https://open.spotify.com/track/6ZwNOYjJ06J77YF1ggXtaT) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 2:34 | 2023-02-23 |  |
 | [Mary Jane](https://open.spotify.com/track/5iYfpZzt7llzz2clvkVlRP) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Black Am I](https://open.spotify.com/artist/4gGjGwAPoNq5UqUltcrSXN) | [The Kalling](https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9) | 4:19 | 2023-02-23 |  |
+| [Midnight Rose](https://open.spotify.com/track/4L57y0C9XnDb0xVI4qmLbp) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Midnight Rose](https://open.spotify.com/album/1thC1bczx2TczqxgRZEbJH) | 3:27 | 2023-03-02 |  |
 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 | 2023-02-23 |  |
 | [No Games](https://open.spotify.com/track/5AGhBP57akSYR9rW7NPsoy) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [No Games](https://open.spotify.com/album/0huBlSgNZ9DqOJvgyEz8Sm) | 2:56 | 2023-02-23 |  |
 | [Nothing](https://open.spotify.com/track/0Eto5S71KnEkPzmFGUM6TM) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Nothing](https://open.spotify.com/album/5tVG29NcCqvk0e1cQUbdKu) | 2:56 | 2023-02-23 |  |
@@ -53,6 +58,7 @@
 | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [O.M.L\. \(feat\. DESTIN CONRAD\)](https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0) | 2:45 | 2023-02-23 |  |
 | [our time](https://open.spotify.com/track/6WBacWkfkwZxteVJ7MMBLZ) | [AZA](https://open.spotify.com/artist/1TuDcLFLVVf4Acp0Ja5O9Z) | [introducing AZA](https://open.spotify.com/album/4mAejHwVXINF599ZZ9XPVo) | 3:23 | 2023-02-23 |  |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2023-02-23 |  |
+| [Out of Touch](https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Out of Touch](https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr) | 3:32 | 2023-03-02 |  |
 | [Overthinking](https://open.spotify.com/track/0l3Q2N0Rn1Gzqc38KQvToO) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Audacity, Vol\. 2](https://open.spotify.com/album/4NRKdfeSCptsxnmaKaDRVL) | 1:36 | 2023-02-23 |  |
 | [Patient](https://open.spotify.com/track/0EkFPnDsxNrEsXtQQp4lNv) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Libbie](https://open.spotify.com/album/6ujyqyNoZfQP70wHlPwNlE) | 1:25 | 2023-02-23 |  |
 | [Pressure](https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Pressure](https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO) | 2:38 | 2023-02-23 |  |

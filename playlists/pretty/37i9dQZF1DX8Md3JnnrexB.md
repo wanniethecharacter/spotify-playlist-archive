@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,198 likes - 150 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,225 likes - 150 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 149 | [Do It To Me](https://open.spotify.com/track/1tKxrKBYIIykuLvipSWfgy) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 6:03 |
 | 150 | [Valentine Love \(Slow Version\)](https://open.spotify.com/track/6YFG39GOXeyNleOaHBYoap) | [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K) | [The Best of Michael Henderson](https://open.spotify.com/album/6feal3fAi2Mr3FURLMpTfZ) | 3:58 |
 
-Snapshot ID: `MTY3Njk5MzE2OSwwMDAwMDAwMDEyZjVjYTIyODgxYzMzMTJmZmUzNmViNmJkYTg0NTAw`
+Snapshot ID: `MTY3Njk5MzE2OSwwMDAwMDAwMDQ3NzAyNDg4M2JjMjRiZjc4NjEzMGIyYWRmNDc4ZWU1`

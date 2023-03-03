@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,627 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,770 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 99 | [Morning Dancing](https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 9:52 |
 | 100 | [Sunflower, Raise Your Heavy Head and Face the Sun!](https://open.spotify.com/track/2mXwSbqPRfmiG2KcM81Y1j) | [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Greenhouse](https://open.spotify.com/album/7jprQbnbFyOAJL64Jc7HmU) | 1:44 |
 
-Snapshot ID: `MTY3NjM4NzI0MiwwMDAwMDAwMDZhYjdkZjE5MmE5ZTI2YWY1MDUxNzUyNGJlZTIwMzkx`
+Snapshot ID: `MTY3NjM4NzI0MiwwMDAwMDAwMGJjZDcwNDUzZGYxMjFlMTVjODFmYThkY2RkNGRkMjZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: PNG.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,875 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,876 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Não Maya](https://open.spotify.com/track/3qJxuThW0d1jkOsPerl7FG) | [Trx Music](https://open.spotify.com/artist/4ZOunshXOi8EEWkc32KKHD) | [Não Maya](https://open.spotify.com/album/1huj8L3Pd78dMrzZ1QIij7) | 5:09 |
 | 100 | [Outro Lado](https://open.spotify.com/track/2fgi0mopttzuF48jlFzM1A) | [Xuxu Bower](https://open.spotify.com/artist/5PLJ01HIqRRN5qTltrfPk7) | [Outro Lado](https://open.spotify.com/album/488SCUfGF0piVClmoSJd74) | 3:15 |
 
-Snapshot ID: `MTY3NzYwMzAwMSwwMDAwMDAwMGY3ZjAwMGM4ZGNiNTI2NTEzNDZhN2QyN2FiN2IxYmYx`
+Snapshot ID: `MTY3NzYwMzAwMSwwMDAwMDAwMDllZWE1NmIzMjg5ZjQ1MGRkMjk1OWIxYmE3YmQyODI3`

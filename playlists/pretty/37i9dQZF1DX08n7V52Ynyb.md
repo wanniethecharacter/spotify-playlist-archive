@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,259 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,340 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 99 | [City Garden](https://open.spotify.com/track/3aK6okIXyrM2nVDCSHB9v6) | [Katrine Madsen](https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [City Garden](https://open.spotify.com/album/2WF1uyK8XP5PEa1KbeZNC1) | 6:34 |
 | 100 | [I Can't Get Started](https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 5:12 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDk3MTdiMDU4NzQ5OTUyZmMxYjU3ZTJjY2Q2ODU0MDJh`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDkyZGRhMDZiZjliMTJmMGRiMjQ3NjA5MzE1OWFmNWFm`

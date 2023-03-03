@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTY2Nyw0NGM1NzUyN2JkNzNlMzVkYjExYWMzOWM0ZWUwN2NmM2U1MzVlMWI2",
+  "snapshot_id": "MTY3MCw3OTZiYTUzMmExY2ViODFlMTE4NzA2NDRmY2FhY2ZkODBkYWY4Mzlm",
   "tracks": [
     {
       "added_at": "2023-03-01 22:38:20",
@@ -39,6 +39,22 @@
       "duration_ms": 192440,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
+    },
+    {
+      "added_at": "2023-03-03 02:02:07",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 145093,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
     },
     {
       "added_at": "2023-03-01 22:38:20",
@@ -137,6 +153,22 @@
       "url": "https://open.spotify.com/track/3Bzw0mcFyIcVgQbLfxbDGt"
     },
     {
+      "added_at": "2023-03-03 02:31:15",
+      "album": {
+        "name": "See You Tomorrow",
+        "url": "https://open.spotify.com/album/43oTWFkoNJ6DZYaPddDavi"
+      },
+      "artists": [
+        {
+          "name": "Bad//Dreems",
+          "url": "https://open.spotify.com/artist/54f24706ua34STMhWSzPV7"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "See You Tomorrow",
+      "url": "https://open.spotify.com/track/5padbaZoTAOhuQS3ILPb9O"
+    },
+    {
       "added_at": "2023-03-01 22:38:20",
       "album": {
         "name": "FUCK ABOUT IT",
@@ -171,6 +203,26 @@
       "duration_ms": 149251,
       "name": "C\u2019est Comme \u00c7a",
       "url": "https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb"
+    },
+    {
+      "added_at": "2023-03-03 02:06:42",
+      "album": {
+        "name": "Insanity",
+        "url": "https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "American Teeth",
+          "url": "https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO"
+        }
+      ],
+      "duration_ms": 183132,
+      "name": "Insanity",
+      "url": "https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa"
     },
     {
       "added_at": "2023-03-01 22:38:20",

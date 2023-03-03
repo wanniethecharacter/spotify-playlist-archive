@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,705,904 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,706,423 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Monument](https://open.spotify.com/track/7iomG5R5mlZ9AxIVPHfh9M) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Monument](https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh) | 2:54 |
 | 100 | [Lost In Stereo](https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3) | [Sofachi](https://open.spotify.com/artist/0FebFOp1WFwL17NP2cC9hw) | [Lost In Stereo](https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5) | 2:38 |
 
-Snapshot ID: `MTY3NjY0MTMyNiwwMDAwMDAwMDY3MWNmMTBmOTM1NWNkOThmNTI1ODMwNGJkYjRmMzYz`
+Snapshot ID: `MTY3NjY0MTMyNiwwMDAwMDAwMGIyNWU3MDRjMGM0Mjk2OTBjNjA4ZTcwOTY2MGEzYzc3`

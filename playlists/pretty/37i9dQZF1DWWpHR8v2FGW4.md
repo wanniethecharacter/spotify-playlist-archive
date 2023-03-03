@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,635 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,064 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 49 | [If You Wanna](https://open.spotify.com/track/5BO9RCcQFzOcuweoahVaLZ) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Want U EP](https://open.spotify.com/album/3F501X0TTF56zKitLaTd5m) | 3:35 |
 | 50 | [HARDCORE](https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [HARDCORE](https://open.spotify.com/album/3ek1prKoU7k0Dl4ap5M67J) | 1:53 |
 
-Snapshot ID: `MTY3NjU4MTQyNywwMDAwMDAwMDAxNzIxOGQwNjJmMmRlYWEyNzIxMTRlOTdjYTk1M2Uy`
+Snapshot ID: `MTY3NjU4MTQyNywwMDAwMDAwMDA2YjA5YTlkZmNkNDIyYmY4M2NkZTliMTYzOWQ0OWJm`

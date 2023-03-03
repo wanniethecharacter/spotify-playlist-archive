@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله ال فروان و منصور الوايلي
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,512 likes - 59 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,571 likes - 59 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 58 | [من وين لك](https://open.spotify.com/track/3pmg5RPTBFLPHFE3LIAouB) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [من وين لك](https://open.spotify.com/album/6jTqc67zbsEmDuaGNjFmJ1) | 4:28 |
 | 59 | [ياعرب حنيت](https://open.spotify.com/track/1szjUAlwmyS5cCrz7yaoCf) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [ياعرب حنيت](https://open.spotify.com/album/4IcitKb3SkUlfaqGKEvO70) | 3:04 |
 
-Snapshot ID: `MTY3NzI4NzY3MiwwMDAwMDAwMDhkMTM5NTA5ZThmYWVmNzMwZTM4ZGMwYjQ1Y2MwYzc0`
+Snapshot ID: `MTY3NzI4NzY3MiwwMDAwMDAwMGY4ZTYxNDI4NWM0Mjc1NTQ3YTk3MWI5ZjAwOTJlOTZh`

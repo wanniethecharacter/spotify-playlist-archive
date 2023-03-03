@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,077 likes - 81 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,122 likes - 81 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 80 | [I Don't Want To](https://open.spotify.com/track/3Kg7a2RbwxaKhLtaa7PI0K) | [Mal Blum](https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX) | [Pity Boy](https://open.spotify.com/album/2RCB0j6tDvutjHGcSBeRK2) | 3:00 |
 | 81 | [Hire](https://open.spotify.com/track/6RiI88pDWXUBJcRPuNkjHK) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [What Chaos Is Imaginary](https://open.spotify.com/album/58HB0yjdQE2MH5MrfWt4EO) | 2:55 |
 
-Snapshot ID: `MTY3NjYwNDU4MywwMDAwMDAwMDZlNGRjNzlmOTQwYjZkNjZjNTU2OWY0NDAzNmVlMTM2`
+Snapshot ID: `MTY3NjYwNDU4MywwMDAwMDAwMDc3MjM4NGY2ZWQ0NzQyYmM0MjZiMzVmZDA0YmNkZDgz`

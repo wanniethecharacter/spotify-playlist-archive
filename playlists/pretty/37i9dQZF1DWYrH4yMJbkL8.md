@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators in Canada\. Currently curated by Northern Cree.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,067 likes - 31 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,076 likes - 31 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 30 | [37 Sat: Men's Traditional \- Live](https://open.spotify.com/track/06Pvgl2BW93vsHoGrc8ez7) | [Dakota Hotain](https://open.spotify.com/artist/4yVzpwytsks65kNviZtauD) | [Better Late Than Never \(Live at Sisseton\-Wahpeton Pow Wow\)](https://open.spotify.com/album/3x7Y4K5H2RyHX9Ejfh5WWD) | 4:35 |
 | 31 | [Lullaby](https://open.spotify.com/track/6nhb4fevnd4U1cYJsVPnGJ) | [Manitou Mkwa Singers](https://open.spotify.com/artist/5VgJyaV74oNDcabqbvHgVl) | [Manitou Mkwa Singers, Vol\. 2](https://open.spotify.com/album/6mMpYAXummetBYpxxtXqZV) | 4:25 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMGE3Y2QwNjc1YzE5N2VkZDUzOWExM2EyMTIwMjI5N2M5`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDk0ZTIxYTFkZjYzNzA3Yzc1ZDUwODliMGEyOTZhZGEz`

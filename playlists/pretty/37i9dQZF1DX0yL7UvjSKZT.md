@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,324 likes - 128 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,356 likes - 128 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 127 | [Don't Cry](https://open.spotify.com/track/2LciJyqCfI8mHGy1moiHZv) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 3:21 |
 | 128 | [Jenny Put the Kettle On](https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM) | 2:00 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGFiOTI2ZjkyYmZhZTZmOGQ5MWFkMGM5NmI3ZjJhMzYz`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGYwNDllZWRkOTA4YmVmMTUzNTA5ZDY3MjQ4MTk4YWUy`

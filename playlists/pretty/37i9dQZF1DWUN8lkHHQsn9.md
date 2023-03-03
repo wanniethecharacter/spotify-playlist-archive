@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: Izabela Zabielska
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,700 likes - 58 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,703 likes - 58 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 57 | [Organic Love](https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Organic Love](https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX) | 3:12 |
 | 58 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 |
 
-Snapshot ID: `MTY3NDU2ODgwMCwwMDAwMDAwMDUxMTA0MDMwYmIzZDllOTYwOGJiOGE3YWFmZDJlNmJm`
+Snapshot ID: `MTY3NDU2ODgwMCwwMDAwMDAwMGIxZTIwZThlZmM2MTRjNTI1Yjc1MjVkMWFkODQ0ODM0`

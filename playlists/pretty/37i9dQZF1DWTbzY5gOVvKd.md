@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,075 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,277 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [We'll Be Together Again](https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 3:54 |
 | 100 | [My Funny Valentine](https://open.spotify.com/track/5cp4r9yrUcvTVD6uzPHhhk) | [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [My Funny Valentine](https://open.spotify.com/album/5nmBotW3p1DH4yqeWcISlC) | 4:51 |
 
-Snapshot ID: `MTY3NzY1NjcyOSwwMDAwMDAwMDNjMGEwOTIzNDBkZjEzMzI3YjE0MWEyZWUyYjAzMTY0`
+Snapshot ID: `MTY3NzY1NjcyOSwwMDAwMDAwMGVmMWZkM2Y0OTE5OWMyNjUxZTNhMTdiMzI4ZWUwOTUx`

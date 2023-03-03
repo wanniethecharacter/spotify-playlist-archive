@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Acoustic and roots music gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,142,259 likes - 160 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,142,239 likes - 160 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 |
 | 160 | [Before You](https://open.spotify.com/track/6d8q33UrhmaumDVf0WaB9t) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Hold Fast](https://open.spotify.com/album/0MCYFxmEbnjXs8GduUuWtF) | 2:47 |
 
-Snapshot ID: `MTY3Njk5MDA0NywwMDAwMDAwMDU1ZmViNmI5YmRiYjhmMGYxYWQ2YWVhN2UxMmI0NzE4`
+Snapshot ID: `MTY3Njk5MDA0NywwMDAwMDAwMGU5NjNhOThlZWFhMDYwZTcxYmQxZThjZDRjZmNkZTY0`

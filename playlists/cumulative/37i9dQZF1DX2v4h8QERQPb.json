@@ -333,6 +333,28 @@
     },
     {
       "album": {
+        "name": "All Black",
+        "url": "https://open.spotify.com/album/5dIe8uCD707rNp7eVzkC55"
+      },
+      "artists": [
+        {
+          "name": "Lego Skillz",
+          "url": "https://open.spotify.com/artist/7jk87weJfexobhc1bJJt9M"
+        },
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161504,
+      "name": "All Black",
+      "url": "https://open.spotify.com/track/1A6CTLJKEHv92ECpwD81mS"
+    },
+    {
+      "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
       },
@@ -1316,7 +1338,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 315352,
       "name": "El Camino",
       "url": "https://open.spotify.com/track/6tKHO7Y06ZmJmYbcc1YS6q"
@@ -2549,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "MORNING",
+        "url": "https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123525,
+      "name": "MORNING",
+      "url": "https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh"
+    },
+    {
+      "album": {
         "name": "MUGRE",
         "url": "https://open.spotify.com/album/76U5G9L3YaFDkKGYXfl1Zb"
       },
@@ -2750,6 +2790,24 @@
       "duration_ms": 166500,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/7i1wr4Fzh4cOuhiRIIX3sD"
+    },
+    {
+      "album": {
+        "name": "Paquetes",
+        "url": "https://open.spotify.com/album/2yPAPnynCHDjYi69UF1UUI"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171266,
+      "name": "Paquetes",
+      "url": "https://open.spotify.com/track/63iJSDSeiTbJhDbo60jVOe"
     },
     {
       "album": {
@@ -3352,7 +3410,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 199376,
       "name": "SIEMPRE SALE EL SOL",
       "url": "https://open.spotify.com/track/1JvR9VeEE8c4Dd9bLXqpla"
@@ -3864,7 +3922,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 154816,
       "name": "Vueltas en el barrio",
       "url": "https://open.spotify.com/track/1mVSPOifn1tlbmRpjcTpzs"
@@ -3886,6 +3944,28 @@
       "duration_ms": 181000,
       "name": "Wapo Traketero",
       "url": "https://open.spotify.com/track/5ctNuquTVDsfMb9jKzsYu0"
+    },
+    {
+      "album": {
+        "name": "XL",
+        "url": "https://open.spotify.com/album/5DGbD9cul3TZcq8NPzhhbe"
+      },
+      "artists": [
+        {
+          "name": "Santoz",
+          "url": "https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx"
+        },
+        {
+          "name": "Brapis",
+          "url": "https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174365,
+      "name": "XL",
+      "url": "https://open.spotify.com/track/0cb9ckfF5AZQynYVTKg06v"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > 今週話題になった楽曲をまとめてチェック！Cover: 百足, 韻マン
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,791 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,799 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [LOVE RED](https://open.spotify.com/track/3bz0cr2GpD5i1GSsrydFLe) | [WOLF HOWL HARMONY](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [LOVE RED](https://open.spotify.com/album/4NK9eTDYlI29BZpH3wsFow) | 3:08 |
 | 50 | [boy \- feat\. asmi & imase](https://open.spotify.com/track/5ZpYanxEoJRJjfWJORq2Jf) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [boy \(feat\. asmi & imase\)](https://open.spotify.com/album/3hAkBmRP4YFi2wappHJ4ps) | 3:14 |
 
-Snapshot ID: `MTY3NzI1MDgwMCwwMDAwMDAwMDZiZjdiNGNlNWNkM2IwMjJkNGNlYTlkZmFjNjM0ZDRj`
+Snapshot ID: `MTY3NzI1MDgwMCwwMDAwMDAwMGVlYWUxYmUzNGQ2MzYzNjJlNGM0MjIzNDI5ZDg5M2M3`

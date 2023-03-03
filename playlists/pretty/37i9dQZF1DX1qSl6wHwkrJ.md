@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,659 likes - 83 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,656 likes - 83 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 82 | [Dirty Ol' Christmas Blues](https://open.spotify.com/track/0WE9iKOAPnnXnifXm5VXGJ) | [Yes Maam](https://open.spotify.com/artist/4PiCEcoo8d1Yf2Sjw3bDIl), [Blind Boy Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 3:06 |
 | 83 | [You're A Mean One Mr\. Grinch](https://open.spotify.com/track/5AyuHCOC5gmJ8DrPIqMoaZ) | [Shine Delphi](https://open.spotify.com/artist/4P5ULEfqCWkQD5fZ9YYWgv), [Blind Boy Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 3:56 |
 
-Snapshot ID: `MTY3NzA2NjQxNCwwMDAwMDAwMDY5NzgwNjVkMjlhZjZiYjc1N2M5NTdiYmY0MDk5YmZl`
+Snapshot ID: `MTY3NzA2NjQxNCwwMDAwMDAwMDM5YTAxZGMxZDliZWQyN2Y5YWYzZjhkM2E0YTk3MjFm`

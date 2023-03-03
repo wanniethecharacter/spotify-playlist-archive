@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,380 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,404 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 59 | [Holla Me](https://open.spotify.com/track/1cm9yon47bFgu1AtdGgXSR) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Holla Me](https://open.spotify.com/album/3uJtqxhQcql3XriYZdLfRy) | 2:14 |
 | 60 | [The Love Song \(feat\. Wande Coal\)](https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [The Guy](https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u) | 2:56 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDJhOTUyN2JmZWRkN2YyNjc1NDc3NThiMzM4OTM0NWJl`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGIwYjFlYzJiNjkwZjVkZTkzNDgxZWNiMjQ2ZTY2OTZh`

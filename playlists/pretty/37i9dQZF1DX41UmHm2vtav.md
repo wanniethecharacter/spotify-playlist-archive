@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,912 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,242 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Falling Like The Stars \- Madism Remix](https://open.spotify.com/track/0iHO8dmXhSYCgfow7ckt9W) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Falling Like The Stars \(Madism Remix\)](https://open.spotify.com/album/5NWay7oRQhrtMiLNgEOBTz) | 3:01 |
 | 70 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
 
-Snapshot ID: `MTY3NjYwMjg2MCwwMDAwMDAwMGQyZjJkMWIwMzZkNzQzNDVhMTg1NGJlZjZhZTBhNWFh`
+Snapshot ID: `MTY3NjYwMjg2MCwwMDAwMDAwMDQzMTkzNzkxYmQ0MWIwYTJjYmEwODY2MzNkNjA4MDI4`

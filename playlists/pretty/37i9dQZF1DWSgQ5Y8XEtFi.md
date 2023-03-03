@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,170 likes - 30 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,587 likes - 30 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 29 | [Dead Shot \(with Lil Uzi Vert\)](https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:01 |
 | 30 | [Stadiums](https://open.spotify.com/track/5Sqya98MFN0RHN2oglnTTX) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [Stadiums](https://open.spotify.com/album/40F5ywKIXAvpWHrsRc0Ufo) | 2:52 |
 
-Snapshot ID: `MTY3NzU0MDAwNCwwMDAwMDAwMDMzZjRmYzAzNDM3ZTUxNjgxMzliMTUwN2Q3Mjk4ZDcz`
+Snapshot ID: `MTY3NzU0MDAwNCwwMDAwMDAwMDk3MGYxZjNlZWI5MzA1NmVlNjQ5ZGJiMjc1M2NjYWNl`

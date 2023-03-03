@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: BigXthaplug
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,456 likes - 101 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,709 likes - 101 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 100 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 |
 | 101 | [Never Hating \(feat\. Young Thug\)](https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:40 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGJmMzNmODE3YTdkNGVkNDIxNWIzNmI4MjEyYmNkNjYz`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDgyODgxZjdhY2ZmMWQ2YmY5MDVlM2NjNGJlYTZlMjVk`

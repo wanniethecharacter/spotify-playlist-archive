@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,784 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,930 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 99 | [Obsessed \- Tiësto Remix](https://open.spotify.com/track/4918TwZfPrxk8vKhuaqIiq) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Obsessed \(Tiësto Remix\)](https://open.spotify.com/album/7KhkO46MV318xVAh7UbcUj) | 4:20 |
 | 100 | [Lullaby \- Calvo Remix](https://open.spotify.com/track/3mqvUmsGVshZSf5INiebzO) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [CALVO](https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv) | [Lullaby \(Remixes\)](https://open.spotify.com/album/0NxQ3gYxmhnjg0NFwO45KT) | 3:08 |
 
-Snapshot ID: `MTY3NjA0OTkxNCwwMDAwMDAwMDcxZWFmZDM2MzkxMmJjNzA3MTMyMDAzMWE2MTRmNjZm`
+Snapshot ID: `MTY3NjA0OTkxNCwwMDAwMDAwMDliMTBjNGU1NzUzOGVhNzMzZWY3MjFjMjA5YzU0MGY1`

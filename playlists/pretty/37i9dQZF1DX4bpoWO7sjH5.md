@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,320 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,309 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 99 | [Llegó Navidad](https://open.spotify.com/track/6u5Uau6qr8FIIPHKyWJ763) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [En Navidad](https://open.spotify.com/album/0ugGqIg0MlPul2TpV30jlp) | 4:06 |
 | 100 | [La Primera Navidad](https://open.spotify.com/track/27osO2mfyzZTawlXzm8o4L) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [La Primera Navidad](https://open.spotify.com/album/1wNflbPP9yy7JV8QVmIpnt) | 4:17 |
 
-Snapshot ID: `MTY3MDcxMzI3OCwwMDAwMDAwMDE3MDAwMDJlYTVhODViNWNmNjJlOTIzN2M5YmUyODEw`
+Snapshot ID: `MTY3MDcxMzI3OCwwMDAwMDAwMDE4ZmIxNTY2YzE3NTRlZmFkNTkzM2E1MzQ2OWQ2N2Q2`

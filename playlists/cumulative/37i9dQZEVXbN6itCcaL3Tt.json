@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
@@ -6306,7 +6306,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 282917,
       "name": "EXIT",
       "url": "https://open.spotify.com/track/79qk9XiwYlTfcgdptq6lH6"
@@ -7098,7 +7098,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
@@ -11609,6 +11609,24 @@
     },
     {
       "album": {
+        "name": "Witam Ci\u0119 2k23",
+        "url": "https://open.spotify.com/album/21OysLJieScHOwaSLGsM50"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126234,
+      "name": "Mateusz Jordan",
+      "url": "https://open.spotify.com/track/6x83W3Qa1IWKvZ8F1KSHeW"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -14408,7 +14426,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 225767,
       "name": "ostatnia nadzieja",
       "url": "https://open.spotify.com/track/2KTfSSKBBfMLXwDqrtoOE5"
@@ -16784,7 +16802,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 112938,
       "name": "Przynajmniej nie k\u0142ami\u0119",
       "url": "https://open.spotify.com/track/0xgjoNVg2yQ8ybTez85IqI"

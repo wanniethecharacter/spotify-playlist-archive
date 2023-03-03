@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,811 likes - 100 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,894 likes - 100 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 99 | [Summer Night](https://open.spotify.com/track/11AL6tbocPeqYeriqsjFEZ) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Bye Bye Blackbird](https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI) | 6:38 |
 | 100 | [Very Late](https://open.spotify.com/track/62nSghHUT2LHaMukgWuyCx) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:14 |
 
-Snapshot ID: `MTY3NzY3MzE0NSwwMDAwMDAwMGQyMTZjODFlNTYxNzM1ZDQ3NjkxZjA0ZDJkZDA4NGZj`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDBjNWZmOTRiYWZhNjUyNGFiZGE0YzA3MjczZmFkMGE4`

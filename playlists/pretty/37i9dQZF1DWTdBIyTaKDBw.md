@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,418 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,485 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 69 | [Back Home](https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc) | [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Light](https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta) | 3:48 |
 | 70 | [Thermometer \- ON Team Version](https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:17 |
 
-Snapshot ID: `MTY3NzIzNDkyOSwwMDAwMDAwMGM0NWY3MmMwMTIxNGRkZTA0MjUzOWEzMzE1OTZkMGNj`
+Snapshot ID: `MTY3NzIzNDkyOSwwMDAwMDAwMGQwZGRmZDBmNzA2MjhlMGFkNzNiODhiMGI3MDBjNTQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,762 likes - 80 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,826 likes - 80 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [I'll Find My Way Home \- Remastered](https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Friends Of Mister Cairo \(Remastered\)](https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB) | 4:30 |
 | 80 | [Everybody's Got To Learn Sometime](https://open.spotify.com/track/2PxyiPwogw6C9yu1jRgFiA) | [The Korgis](https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3) | [The Korgis Kollection](https://open.spotify.com/album/13sFIOMblyr8x7TwD546jN) | 4:11 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDY2YmU5YmZiYjIwOTZmNDJjMTA1YTYxZjJlYmNkMzI3`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDM2OWYwNDQ2Y2VkNmYxNGUyMjI0ZjBlOWY5ZjBmZjUz`

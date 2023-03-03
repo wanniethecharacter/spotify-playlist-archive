@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : DOUPI PAPILLON
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,291 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,356 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Coupé Décalé SuperSonic](https://open.spotify.com/track/3WaX1ciQMCAuI9kAD8xpTQ) | [David Tayorault](https://open.spotify.com/artist/5fGgmiJ78nMM0AnnbdqBcO), [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Coupé Décalé SuperSonic](https://open.spotify.com/album/2zj72TEqodhRAAPb4ngQ0q) | 3:26 |
 | 40 | [Commando](https://open.spotify.com/track/1FKK9VxAHmqPBXW6WRun5S) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Commando](https://open.spotify.com/album/34fhvumHC8dqlDhZBaWSXd) | 2:52 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDU1ZDQ1NjkxNGY2NGQ4YzVkNmQ3MmQwMzU3Yzk5YmIz`
+Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDI5NGE3OTFjYzFjMTNjYjU2NzZlNWZiNTdkMzMwMDMy`

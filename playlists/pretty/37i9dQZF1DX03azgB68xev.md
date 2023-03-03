@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,626 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,709 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 79 | [Stained Glass](https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It \(Deluxe Edition\)](https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz) | 3:16 |
 | 80 | [Little Seed \- Dance Mix](https://open.spotify.com/track/0aRkP3M32J0m3skYRHugrr) | [Kierre Bjorn](https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Little Seed \(Dance Mix\)](https://open.spotify.com/album/4AkT2i0W0a1vQyNCMF75JR) | 3:03 |
 
-Snapshot ID: `MTY3MzY0NjQxNiwwMDAwMDAwMGJiY2U2YjMwMmUzNDZjMmEyMDBhMTljMjdjZjE2NDJm`
+Snapshot ID: `MTY3MzY0NjQxNiwwMDAwMDAwMDNmNzk5MzgxNjIyNzhiYWQ1ZjRiMTIyYzAwYzBmNzIw`

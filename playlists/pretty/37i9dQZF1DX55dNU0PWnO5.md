@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,375 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,461 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 79 | [Neptune's Mood](https://open.spotify.com/track/1fG6lTlZzxK1Ljo6RkSh4r) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Still Flute](https://open.spotify.com/album/5YzXAdttew3nRAc1YPzP9t) | 4:49 |
 | 80 | [Bootyscoot](https://open.spotify.com/track/7nb8sYJDmnbEEEET8EZh59) | [The Polish Ambassador](https://open.spotify.com/artist/2dI9IuajQnLR5dLxHjTTqU), [Jesse Klein](https://open.spotify.com/artist/6EVgiuWVrdencro4gjLJKE), [Robin Jackson](https://open.spotify.com/artist/7E3Dm7icYWJNSN8pK57Ufy), [Ananda Vaughan](https://open.spotify.com/artist/5i1E5D2bW5VBtcIvi04S9V) | [Bootyscoot](https://open.spotify.com/album/57Re4Gq4x1NvimVAytLmKT) | 6:37 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDRhMzQ3ZDNmNThiNjJlYmUwYTU2ZGIyYzYzNDNlODdi`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGQ4MWE2ZmY0ZjM4ZWIxNDJiOTAxZWUxOGJjMTdhZTEz`

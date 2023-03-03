@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Cottonwood Firing Squad
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,110 likes - 99 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,203 likes - 99 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 98 | [Done With Bits](https://open.spotify.com/track/774M4GIZvPo7obQwAW4B8X) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [Done With Bits](https://open.spotify.com/album/0W6rOrXfNXH3h79NANKqvc) | 3:36 |
 | 99 | [Contingency Song](https://open.spotify.com/track/1P9hAqqF31tXHr58dwv860) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Contingency Song](https://open.spotify.com/album/2Vlh2FhevwagFT6TICYYmU) | 6:31 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGNlNzEwZWRmMjMzZjk1MzExMmFmODMxZjFjNzQ4NDU5`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGQ1ODVlMGI2MDc4YmU4YThjMjkxMWI4NjQxMTczNjc4`

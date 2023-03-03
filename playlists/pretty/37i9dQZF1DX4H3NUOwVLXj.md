@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 
 > Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076,359 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,651 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 | 53 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 |
 | 54 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 |
 
-Snapshot ID: `MTY3NzQ5NDU5MywwMDAwMDAwMDIxYzMzM2E0ZjI5NjBkODUwODQ5OGUyYmE1YjUzOGQ5`
+Snapshot ID: `MTY3NzQ5NDU5MywwMDAwMDAwMGY4OTRhYjU1ZGRmMTBmYzVhZmQ5ZjQ0MzAxMDcxMDFm`

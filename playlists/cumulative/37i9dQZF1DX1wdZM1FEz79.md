@@ -2,9 +2,9 @@
 
 ### [K\-Pop Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean acoustic tunes\. \(Cover: 10cm\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean acoustic tunes\. \(Cover: J.YUNA\(제이유나\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-450 songs - 1 day 2 hr 48 min
+451 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [I Wanna Fall in Love](https://open.spotify.com/track/1SitWmav8K9bEn1f23anqO) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Five Love Stories](https://open.spotify.com/album/7lBSwclU4wPfktweIkfQxH) | 5:05 | 2022-04-12 | 2022-04-15 |
 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 | 2021-12-10 | 2022-07-27 |
 | [I Want to Be A Pillow](https://open.spotify.com/track/0p2Rh63rx8xbxVPwol2EmA) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_i?](https://open.spotify.com/album/72uhm3L8qHUsKHneApbolo) | 3:43 | 2021-12-10 | 2022-07-29 |
-| [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 | 2022-07-08 |  |
+| [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 | 2022-07-08 | 2023-03-03 |
 | [I want to love](https://open.spotify.com/track/5D63fftBm3Haj5laapgWl2) | [Park Jaewoo](https://open.spotify.com/artist/2WIOofcSewAuVXBSMuQ2dD) | [I want to love](https://open.spotify.com/album/5K5TZWuzj0p4LJwH7jTFug) | 3:31 | 2022-08-18 | 2022-09-03 |
 | [I Will Remember](https://open.spotify.com/track/2FV04bwFqfJyOLDZL2vx7C) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Five Love Stories](https://open.spotify.com/album/7lBSwclU4wPfktweIkfQxH) | 3:08 | 2022-03-31 | 2022-04-07 |
 | [I Wonder](https://open.spotify.com/track/0WLjUv41NxxFZnNnn0Ra9W) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49) | [Let's Eat! 3 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/535nRzc7dhjietZuqgHfQr) | 3:39 | 2021-12-10 | 2022-05-31 |
@@ -336,6 +336,7 @@
 | [Starlight](https://open.spotify.com/track/05ho1OFzZj2yGMcEGPKtCF) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/7hhddpXpVkzeJBgR4zkis2) | 4:33 | 2021-12-10 | 2022-07-21 |
 | [Starlight](https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG) | 4:33 | 2022-07-08 |  |
 | [Starlight](https://open.spotify.com/track/6OdXfpxJT4bdWP1tKZfO3F) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [The King in Love \(Original Television Soundtrack\)](https://open.spotify.com/album/5e8TyW0B7psIgCR8C9IAuI) | 3:27 | 2022-03-31 | 2022-04-08 |
+| [Stars](https://open.spotify.com/track/1Hx49lTfati0s9LWycIpTw) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Road Trip, vol.1](https://open.spotify.com/album/0kc2e8ZRAfNlLW9PLR5g2E) | 2:48 | 2023-03-02 |  |
 | [Stars appear](https://open.spotify.com/track/4SOp0pG2eVeW3aypcMacXl) | [danwoo lim](https://open.spotify.com/artist/3ubaacfE5aNEXvmHhkNlTZ) | [Stars appear](https://open.spotify.com/album/4BlLPUmbaM1hguxczOV1bC) | 3:12 | 2022-03-31 | 2022-04-20 |
 | [Stay With Me](https://open.spotify.com/track/1Idbih6qYZUXzL5I4Wq6Hn) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/4ebeZziAY8xysG8bHhHljX) | 2:52 | 2023-01-11 | 2023-01-26 |
 | [Still with you](https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic) | [SU A](https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y) | [Minamdang \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv) | 3:06 | 2022-08-18 | 2022-09-03 |

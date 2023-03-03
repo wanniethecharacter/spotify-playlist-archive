@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: SG5
 
-2,801 songs - 5 day 22 hr 51 min
+2,802 songs - 5 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1791,7 +1791,8 @@
 | [On and On](https://open.spotify.com/track/2gK3pDRweagcS8RK59amih) | [Restless Modern](https://open.spotify.com/artist/09UlzCDhNJnbk2wQtTwjux) | [On and On](https://open.spotify.com/album/4yZKZeELCXVviQdq3VJ6fp) | 2:14 | 2022-02-09 | 2022-03-24 |
 | [Once in a Lifetime](https://open.spotify.com/track/16c4dUyK4aCALxEXId26Z5) | [Adult Oriented Pop](https://open.spotify.com/artist/7Boq4LdlK3oGAD1JFyUc4V) | [Once in a Lifetime](https://open.spotify.com/album/6xPY2wK6M9kGEMsaoV05iA) | 4:31 | 2021-05-13 | 2021-05-27 |
 | [Once In A Lifetime](https://open.spotify.com/track/2UcqUYa64rJA9A9YUef2ce) | [moistbreezy](https://open.spotify.com/artist/2MsEwFDbnOeYHEaIkJBBCi) | [Once In A Lifetime](https://open.spotify.com/album/2gzyLZyzQ02pWZW9YKsZFa) | 3:36 | 2022-10-05 | 2022-12-01 |
-| [once upon a time](https://open.spotify.com/track/4NjujPB7uiaesE5BFzAWxL) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [once upon a time](https://open.spotify.com/album/0gbp8QKU3YoK1364Zi9Arh) | 3:30 | 2023-02-08 |  |
+| [once upon a time](https://open.spotify.com/track/0PULY7AIDcZ2LMjXc9oUay) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [XXI](https://open.spotify.com/album/5JsvLIkSY02w5LhyCGPb1n) | 3:30 | 2023-02-08 |  |
+| [once upon a time](https://open.spotify.com/track/4NjujPB7uiaesE5BFzAWxL) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [once upon a time](https://open.spotify.com/album/0gbp8QKU3YoK1364Zi9Arh) | 3:30 | 2023-02-08 | 2023-03-03 |
 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 | 2021-03-06 | 2021-04-01 |
 | [One In A Million](https://open.spotify.com/track/24BkSXV9D9YYJU47EGFKCY) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [One In A Million](https://open.spotify.com/album/0K8IkWqXMpb0gMo8gkbVYw) | 2:58 | 2020-10-13\* | 2021-01-15 |
 | [One Million Perfume](https://open.spotify.com/track/2FRO2veX3Tg56BMmGJfpx3) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [One Million Perfume](https://open.spotify.com/album/4Y5axWeChD0GyILxHg2OS7) | 2:49 | 2022-01-26 | 2022-03-24 |

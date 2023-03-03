@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Cancamusa
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,545 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,568 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 79 | [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 |
 | 80 | [I Luz](https://open.spotify.com/track/3ZqI4NGk7NNZcEcvI0kNeX) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [I Luz](https://open.spotify.com/album/6a72dv0VF00ebiZXWn7fJd) | 4:42 |
 
-Snapshot ID: `MTY3NzIwNzYwMCwwMDAwMDAwMGNhMTlhOGE2YjYwY2VhZjE2YWJiOTE0NDVlYTdjZDQx`
+Snapshot ID: `MTY3NzIwNzYwMCwwMDAwMDAwMDg1NmZlN2Q3YjE0ODU3YWI0ZmIzOTlkY2VkODZmNjhj`

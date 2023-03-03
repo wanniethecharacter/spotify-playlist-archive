@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: RBD
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,814 likes - 63 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,917 likes - 63 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 62 | [Tenue](https://open.spotify.com/track/32gceUYIU0mndsBGg5DGRm) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Tenue](https://open.spotify.com/album/0RkQGiKeZoF42TjtmUE6Xk) | 2:44 |
 | 63 | [CORAZON DE NIEVE](https://open.spotify.com/track/6jKdi3HZuPTpr8BPap6D2b) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [SINCERAMENTE, BEBE](https://open.spotify.com/album/5pRyuC3CDcSZkJbg3KUFut) | 2:48 |
 
-Snapshot ID: `MTY3NzI3MDUzNSwwMDAwMDAwMDIyNmIxZDBhM2ZjNzdmZmYzMzY4ZDUwYjNhYWI1MzE3`
+Snapshot ID: `MTY3NzI3MDUzNSwwMDAwMDAwMDNiZjJhMjAxYTViOWY3NTljNjlhOTE3MzlkODAzMjJm`

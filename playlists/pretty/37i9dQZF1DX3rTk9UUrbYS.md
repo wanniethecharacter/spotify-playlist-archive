@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,617 likes - 50 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,666 likes - 50 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 49 | [Sample calculation](https://open.spotify.com/track/6SaubWpIqZ0guw9PUqUgc1) | [Bartolo](https://open.spotify.com/artist/76ZLFHVxlUUlXEyuCe1HjO), [Sousa](https://open.spotify.com/artist/2sokDb3FMSeky2ZtFEaEPc), [Ferrandini](https://open.spotify.com/artist/2QyqKpqczaxVgAaI31iOmk) | [BASFE](https://open.spotify.com/album/36SN4HstYPQ6XVzU2Sl4Uo) | 5:22 |
 | 50 | [Box Step](https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC) | [Chad Taylor](https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt), [Angelica Sanchez](https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi), [Chris Lightcap](https://open.spotify.com/artist/41ZBQqguJTIzwRdgg82w9a) | [Circle Down](https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB) | 5:59 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGNhMWZhNzAyMGE4NTBjNjFmMjUxY2M3YzQyZDQ2ZjEy`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDc0YzNiM2JlZGY5NjYzYzgwMmU1MGIyYzU3OTJlYTA1`

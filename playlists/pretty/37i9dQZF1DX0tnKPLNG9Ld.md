@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,507 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,631 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 99 | [Till the Clouds Roll By \- 2015 Remastered Version](https://open.spotify.com/track/14HvYxFV80IzpbKXc1EaDG) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [It's a Blue World \(2015 Remastered Version\)](https://open.spotify.com/album/3H4xz6H9pnLcJH2vq8jC70) | 2:54 |
 | 100 | [Destination Moon \- 1997 Remaster](https://open.spotify.com/track/0pkIyrSYE0BRpw4nNsBlmq) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah '62](https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu) | 2:35 |
 
-Snapshot ID: `MTY3NzE0NTg4OSwwMDAwMDAwMGFhOGU4YTlmMjY5NTYxY2ZjYjc2MDM1YzdhN2VkMTVj`
+Snapshot ID: `MTY3Nzc0NzE3NCwwMDAwMDAwMDM1NjE0NDU3Mzg4YWM1Y2MwZDRiMWZiYTc1YjcwNjRm`

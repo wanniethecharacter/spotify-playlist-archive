@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 
 > Discover the music of Schumann.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,155 likes - 60 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,183 likes - 60 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 | 59 | [Minnespiel, Op\. 101: No\. 1: Meine Tone still und heiter](https://open.spotify.com/track/1xU1yjwGAGCCE3RiB8YKLe) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Thomas E\. Bauer](https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq), [Susanne Bernhard](https://open.spotify.com/artist/4QxzCi72edOOk6FNy00HDN), [Uta Hielscher](https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq) | [Schumann: Lied Edition, Vol\. 1: 12 Gedichte Aus "Liebesfruhling", Op\. 37 \- Lieder Und Gesange Aus Goethes Wilhelm Meister, Op\. 98A \- Minnespiel](https://open.spotify.com/album/3b76JBP8F5vSUIMEgZnKi3) | 3:21 |
 | 60 | [Schumann: Kreisleriana, Op\. 16: VIII\. Schnell und spielend](https://open.spotify.com/track/4j8lYY8CxTPkY2DLLQT4hy) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Jonathan Biss](https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw) | [Schumann Recital](https://open.spotify.com/album/2rn9cFuujCXaJtDDu6DeXr) | 3:54 |
 
-Snapshot ID: `MTY2NzU2NzgyMCwwMDAwMDAwMDBmYzNiN2M0NWViOWU1ODFmNTU4NTU4NjYzNTdkNjMz`
+Snapshot ID: `MTY2NzU2NzgyMCwwMDAwMDAwMDBhMDdjYTc5ZmZjNGY2NDI1ZjNjYzkxYmYxMmYyMzZl`

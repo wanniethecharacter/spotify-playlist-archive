@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,049,838 likes - 300 songs - 17 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,049,930 likes - 300 songs - 17 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Don't Leave Me Alone \(feat\. Anne\-Marie\) \- Acoustic](https://open.spotify.com/track/3UYVT5buqH8AEVmati8Ulz) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Don't Leave Me Alone \(feat\. Anne\-Marie\) \[Acoustic\]](https://open.spotify.com/album/0OlgmcYYYKAsktwSXpW8JH) | 3:08 |
 | 300 | [Only Girl In The World \- Radio 1 Live Lounge Acoustic Version](https://open.spotify.com/track/6mz7nudr70riksmajdpGMS) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Acoustic Covers](https://open.spotify.com/album/5clX8eIQwBUCIuueIUU5XP) | 4:07 |
 
-Snapshot ID: `MTY0MTgxNDA2NCwwMDAwMDAwMGIyMjhhMjY2ZjNiODJkMTY2ZDA5Yzg2YzBjMzRkMDE0`
+Snapshot ID: `MTY0MTgxNDA2NCwwMDAwMDAwMDQzOTE0OTk5Mzg0ZWM1NGE0OTUyNGRjZDZmMWMyMGE5`

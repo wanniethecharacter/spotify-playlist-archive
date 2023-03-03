@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Michaël Brun
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,867 likes - 82 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,888 likes - 82 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 81 | [Mr Diablo](https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Mr Diablo](https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa) | 2:46 |
 | 82 | [Fam](https://open.spotify.com/track/2v8G0VjL4H3ZcLMJrQJ1JJ) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX), [Nuaje](https://open.spotify.com/artist/5kFTN3cp3fXf25X95gL3CH) | [Fam](https://open.spotify.com/album/034S6quoJ1Z1hjE84MBtjM) | 3:23 |
 
-Snapshot ID: `MTY3NjY3MzYwOCwwMDAwMDAwMDU2MzIzZmYwMzFmYWFlNTdhYmM4ZTRiYjRlNjU0OWQ4`
+Snapshot ID: `MTY3NjY3MzYwOCwwMDAwMDAwMDg1M2U0MWM1MmViMzFiOTIwNTJmZjc5NjU0MjU1Mjli`

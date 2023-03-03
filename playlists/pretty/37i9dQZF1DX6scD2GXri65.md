@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,255 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,315 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [The Gambling Zone](https://open.spotify.com/track/3CdD2Hqu1JrwonhkYr8fiv) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [The Gambling Zone](https://open.spotify.com/album/3jWZ3na0qjuAGh54DK809V) | 4:12 |
 | 80 | [The Limelight](https://open.spotify.com/track/5Q1GQOVxIYkz3UwoPIBtcY) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [The Limelight](https://open.spotify.com/album/4yKbI3bQM6YR4TGvAdnE5j) | 4:32 |
 
-Snapshot ID: `MTY3NzQ5OTc3NywwMDAwMDAwMGU3ZDA2MThlODZmN2Y0ZDgxODAwY2U2ZWU0NWM4ZDY4`
+Snapshot ID: `MTY3NzQ5OTc3NywwMDAwMDAwMDk5OGRkYzdmMWQ2MDliNDUxNWI4YWE5M2RmMzA4MGQ2`

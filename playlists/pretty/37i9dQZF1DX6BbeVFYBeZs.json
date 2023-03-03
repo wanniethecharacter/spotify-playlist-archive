@@ -1,12 +1,12 @@
 {
   "description": "The beautiful sound of the Spanish guitar to help you wind down.",
-  "num_followers": 122297,
+  "num_followers": 122517,
   "original_name": "Relaxing Spanish Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzMTk4NywwMDAwMDAwMDk3MDg2MDFlODI4NjlhMDEwMjg0Yjg1NTMzMmY2NTI0",
+  "snapshot_id": "MTY3NzIzMTk4NywwMDAwMDAwMDEzODNjMTIxYmU2YzlhOTg5N2RjMjk0ZTE0MmJhNzAz",
   "tracks": [
     {
       "added_at": "2023-02-24 09:46:27",
@@ -92,17 +92,21 @@
       "added_at": "2023-02-24 09:46:27",
       "album": {
         "name": "Flamenkito",
-        "url": "https://open.spotify.com/album/1fBj5GesrEQR2IfVUbaPKh"
+        "url": "https://open.spotify.com/album/6JWc5p5djyJLBKz9hdZnvk"
       },
       "artists": [
         {
           "name": "Simbad \"El nano\"",
           "url": "https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS"
+        },
+        {
+          "name": "Factoria Chakataga",
+          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
         }
       ],
       "duration_ms": 106992,
       "name": "Flamenkito",
-      "url": "https://open.spotify.com/track/4iI9eIAd3kZGB3dCEc3PxK"
+      "url": "https://open.spotify.com/track/2gZWsOLfX0W1Fu57qgFMQM"
     },
     {
       "added_at": "2023-02-24 09:46:27",

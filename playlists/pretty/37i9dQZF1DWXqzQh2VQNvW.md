@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,363 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,340 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 99 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 |
 | 100 | [Chai Tea with Heidi](https://open.spotify.com/track/0EhQWGJFjhvVq0PllzJ7Rd) | [WeddingCake](https://open.spotify.com/artist/6Smy5hRNvMoK4C5DYiLDI8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Heidi Klum](https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC) | [Chai Tea with Heidi](https://open.spotify.com/album/6ULQCdbVXoexdtfeEQCKtZ) | 2:50 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGViZjJlOTNhMzllMDUwZWQxYzgzYTI4YmMzNWUyMmZj`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDhlMjM3ZWIwYzg3NGIzMzQwM2M0NzA0ZTYwNjEyYmQy`

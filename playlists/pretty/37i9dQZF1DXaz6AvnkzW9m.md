@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Codiciado & ZARAMAY en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,629 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,885 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 74 | [Tumbate El Rollo](https://open.spotify.com/track/2nCFQaUCvrcPiMkhT7Wb6D) | [Los De La Zona](https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg), [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq) | [Tumbate El Rollo](https://open.spotify.com/album/5GE54IpPFRPlNJUczVw7X1) | 3:01 |
 | 75 | [Revelaciones de un Cholo \- En Vivo](https://open.spotify.com/track/6fuAvwRTKeAVFf5D9O9yF1) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:50 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDM5NTYyYWQ5YzczMTU3ZjZlNDMzMmIyMzU0MjBmN2Y0`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDNlN2FkODI1MzNkZmNlZGUzMGVkNWUzZDAzNGEwYTE5`

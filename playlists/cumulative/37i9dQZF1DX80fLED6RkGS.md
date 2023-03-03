@@ -2,9 +2,9 @@
 
 ### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
-> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=6FaHJ3sJRZ\-8aikGhceCow">Boutross </a>
+> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=53rkvfvORuektsKbxqLlAA">Ssaru </a>
 
-229 songs - 12 hr 48 min
+230 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Balance the Ball](https://open.spotify.com/track/6zFxozO5rO7cvSKipJLWTO) | [Vdj Jones](https://open.spotify.com/artist/4q66q8I9GZAdNtes3j2yuK), [Bussa J](https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd), [Padi Wubonn](https://open.spotify.com/artist/0c3XOPFa4wC0A4FRnKfsEs), [Jeshi Jinga](https://open.spotify.com/artist/3cXYwY0BrJskvfEvjXneap), [Moon](https://open.spotify.com/artist/5eNAqcqWgkh62z2kbPAvYP) | [Balance the Ball](https://open.spotify.com/album/5be5hv6hWXosW0MC25JGNZ) | 3:47 | 2022-05-19 |  |
 | [Bambi](https://open.spotify.com/track/4pxCRKnnn6rlbn2zlFPIkD) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Bambi](https://open.spotify.com/album/2oP9gH6FzzVfyXiQGsIrtY) | 3:21 | 2021-09-02 | 2022-02-11 |
 | [Bandana Ya E\-Sir](https://open.spotify.com/track/6gPgR7ezAhBDlxQ3Co0Cuv) | [Nameless](https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf), [Dmore](https://open.spotify.com/artist/01v6UAGxwidjKJkYwX5zcr), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Habib](https://open.spotify.com/artist/66mZ0Y33cceUlfpvyqDQ6s), [Nelly The Goon](https://open.spotify.com/artist/6Z0LfL7qEINpGSsgc9aeeO) | [Bandana Ya E\-Sir](https://open.spotify.com/album/1sEHueRD4NrkFNaSIc9CDR) | 4:53 | 2022-02-04 |  |
+| [Bariki Mzinga](https://open.spotify.com/track/1Fntb3jTzqiq24KEvQJDUV) | [Rico Gang](https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx), [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV), [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8), [DJ Joe Mfalme](https://open.spotify.com/artist/1zKt44Gh5ohrq4wOEwTSVY), [K4 Kanali](https://open.spotify.com/artist/01czKtkZUH1jn3iwtmfD7O), [Hypegad](https://open.spotify.com/artist/5uA11jOHXVu8X9Ewf9Gqnp) | [Bariki Mzinga](https://open.spotify.com/album/5VNkGkBGPp7vSeBI014T47) | 3:42 | 2023-03-02 |  |
 | [Benga Na Mugithi](https://open.spotify.com/track/5vM0Y4MatVHi8laJoHtBtj) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV), [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp) | [Benga Na Mugithi](https://open.spotify.com/album/1WdFU97TxjASpt2KQ24SyT) | 3:12 | 2021-09-30 |  |
 | [Big Bazu](https://open.spotify.com/track/2NdKUbrVjrgeh2A4vtZ8VY) | [Hitman Kaht](https://open.spotify.com/artist/1jgOTjEFAogfS8VDFbsO16) | [Big Bazu](https://open.spotify.com/album/3vd6etKHS90srBicgqOkx8) | 3:20 | 2021-12-09 | 2022-03-30 |
 | [BIZZ NI BIZZ](https://open.spotify.com/track/2aHwfcPILQmSLOTHHfQqiY) | [Ethic](https://open.spotify.com/artist/1WQ1lasaBi46OgC1kSMvqz) | [BIZZ NI BIZZ](https://open.spotify.com/album/6pBjx6fARnklsLoPDBErLF) | 3:52 | 2022-02-24 |  |
@@ -124,7 +125,7 @@
 | [Masaa Zake](https://open.spotify.com/track/2Q9YvawJ0m8zq17N4DQNJF) | [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK), [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB) | [Masaa Zake](https://open.spotify.com/album/6yPT4WKZlXtv5sT5Pi1l2k) | 3:02 | 2022-03-28 | 2022-11-25 |
 | [Matire](https://open.spotify.com/track/0KsqSRSSsKWXO6iyqfev1b) | [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV) | [Matire](https://open.spotify.com/album/1c4SXLaHlMmXxFadTBbvDM) | 2:57 | 2022-03-28 | 2022-09-02 |
 | [Mbogi Ya Madenge](https://open.spotify.com/track/2K14BPDtOZxdBdaDZZtH0n) | [Kagwe Mungai](https://open.spotify.com/artist/0bUaYEgPYPl08UxWWHt1f5), [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK) | [Mbogi Ya Madenge](https://open.spotify.com/album/5Fep1ktl3FR8NgT5O03JtV) | 2:48 | 2021-09-23 | 2022-07-08 |
-| [Mbona Depression](https://open.spotify.com/track/30dkiusOfYnXcuw0r7rJYS) | [Gwaash](https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7) | [Mbona Depression](https://open.spotify.com/album/50hFbfMuT5LRADKv6acJG3) | 4:12 | 2022-03-24 |  |
+| [Mbona Depression](https://open.spotify.com/track/30dkiusOfYnXcuw0r7rJYS) | [Gwaash](https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7) | [Mbona Depression](https://open.spotify.com/album/50hFbfMuT5LRADKv6acJG3) | 4:12 | 2022-03-24 | 2023-03-03 |
 | [Mchecheto](https://open.spotify.com/track/6fg4Pocuv72QdwLN1g16T0) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Krg The Don](https://open.spotify.com/artist/1EbpkFPrOPWVYq2UL8llHA) | [Mchecheto](https://open.spotify.com/album/1zTtyny7EJecmJh66YISAe) | 3:44 | 2021-11-11 | 2022-04-22 |
 | [Mi Sijali](https://open.spotify.com/track/4psx637Vu7806YieaXQdbZ) | [Kuky](https://open.spotify.com/artist/0xFtlyvRgl0BqBbWYXaHjD) | [Mi Sijali](https://open.spotify.com/album/7aMrVKtB4bjnmGZUAPVy3Y) | 3:02 | 2022-03-10 | 2022-06-17 |
 | [Miondoko](https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar) | [Rico Gang](https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [Sababisha](https://open.spotify.com/album/3jN1KdqjRgVa8yyWA0975q) | 3:04 | 2022-10-13 |  |

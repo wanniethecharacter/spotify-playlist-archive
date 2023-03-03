@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,046 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,165 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 99 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 |
 | 100 | [Honky Tonk On](https://open.spotify.com/track/6JDDQKaG9o1KWqeLwNK7NF) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL) | [Red Dirt Texas](https://open.spotify.com/album/4D99o68AiT4J6yaWOHMM28) | 3:26 |
 
-Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMDFhODhiMDg5OTMyMGJjM2Q5NGYwMjliYzZlYjc2Zjc4`
+Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMDQxMTA4Njg0YzYxZjI2NWJmMjNmMzFjMTVkNjg4YTJi`

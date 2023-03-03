@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Stand Atlantic
 
-248 songs - 12 hr 11 min
+249 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Every Guy Ever](https://open.spotify.com/track/5pgOXFPQROrmboHmcTYonC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Every Guy Ever](https://open.spotify.com/album/71uSY3G4j624cwlyt9w1Q0) | 2:39 | 2021-12-20 | 2022-09-22 |
 | [Everybody But You](https://open.spotify.com/track/0OjhULGHagMRAQNjJQlesU) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC) | [Everybody but You](https://open.spotify.com/album/36kZTm9kqSjuu1nb32IAAA) | 3:47 | 2022-02-28 | 2022-07-29 |
 | [Everybody but You](https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Ben Barlow](https://open.spotify.com/artist/79SZgK0iRDlLJpsH7mSvNC) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 3:47 | 2022-05-20 |  |
+| [Everything Else Can Wait](https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Everything Else Can Wait](https://open.spotify.com/album/32m8WHzsazOVcVLTL6IKiN) | 3:38 | 2023-03-02 |  |
 | [F Around and Find Out](https://open.spotify.com/track/3C8tj7hBuJcYSssNOQjMPw) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [F Around and Find Out](https://open.spotify.com/album/22om6gslrsQ8Kxqx7KCXym) | 3:33 | 2022-09-09 | 2022-11-11 |
 | [F.L.F.U.](https://open.spotify.com/track/2Vh5khmfrno2b4kZNcyEi5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [II](https://open.spotify.com/album/0hgsziS63NRPOR0YoCzMkD) | 4:00 | 2023-02-03 | 2023-02-18 |
 | [Famous](https://open.spotify.com/track/01lDsXPyoXUV9cAGIHskzs) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Blossom](https://open.spotify.com/album/5R1zQFTTBHkxuUXFxUPCwk) | 2:53 | 2022-09-09 |  |

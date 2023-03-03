@@ -2,9 +2,9 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Your daily dose of soul\-infused music! Cover: WILSN
+> Your daily dose of soul\-infused music! Cover: The Teskey Brothers
 
-626 songs - 1 day 14 hr 28 min
+627 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [a\-okay](https://open.spotify.com/track/70I8nlO75XOU0IPXcnT5gj) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [a\-okay](https://open.spotify.com/album/0WF2rsNICGVdMoXOqpWfPK) | 3:40 | 2022-07-21 |  |
 | [Actions](https://open.spotify.com/track/0KGgFs3yJ1aHGnEU8nHCqR) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Actions](https://open.spotify.com/album/6ynoOJ6OYsggnQQeP6abmZ) | 2:56 | 2020-03-27 | 2020-05-15 |
 | [Admit It](https://open.spotify.com/track/10I24PEW4oX8muRkrMb9Jp) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Admit It](https://open.spotify.com/album/51VJV9ecZdRhEWuJilWuLk) | 3:07 | 2022-04-28 | 2023-01-02 |
-| [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-12-02 |  |
+| [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-12-02 | 2023-03-03 |
 | [Adore](https://open.spotify.com/track/7xsT7kghLDPnvfADCzPM0u) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Adore](https://open.spotify.com/album/3fyB4XPMK6mOYU43VhwTkb) | 2:39 | 2020-03-25\* | 2020-07-03 |
 | [ADULTHOOD](https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:43 | 2021-10-29 | 2022-12-03 |
 | [ADULTHOOD](https://open.spotify.com/track/4FblU56VwlVyJuvq4H6GRv) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:41 | 2021-03-26 | 2021-12-01 |
@@ -110,7 +110,7 @@
 | [Concorde](https://open.spotify.com/track/1SJGHveCOfrS364qHbBAS8) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Concorde](https://open.spotify.com/album/15RONh5tqAmMlvUVwfxqti) | 3:54 | 2020-08-25 | 2020-12-11 |
 | [Consider Me](https://open.spotify.com/track/6teOha7bnsAlYIdXQuXA1o) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/7o0PzwnZXAyq3LtvV2JE2x) | 3:04 | 2020-03-25\* | 2020-03-27 |
 | [Crazy Good](https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxanne](https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c) | [Crazy Good](https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3) | 3:51 | 2020-07-03 | 2021-09-24 |
-| [Crescent Moon](https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Crescent Moon](https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS) | 3:19 | 2022-07-28 |  |
+| [Crescent Moon](https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Crescent Moon](https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS) | 3:19 | 2022-07-28 | 2023-03-03 |
 | [Crescent Moon](https://open.spotify.com/track/7pdYhzjTxgjiUwThH98hyk) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Crescent Moon](https://open.spotify.com/album/3rlyvJMxvYoUkcZ14PIwtb) | 3:19 | 2022-01-27 | 2022-07-29 |
 | [Crooked Sermon](https://open.spotify.com/track/1zK1Jf3jkOf84ADLGig2U9) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Years](https://open.spotify.com/album/4iucJnSKmWG79eEsu0GxyB) | 4:19 | 2021-12-03 | 2022-04-29 |
 | [CRUMPY](https://open.spotify.com/track/3axI88EJvw5J6tnMdCvc66) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [CRUMPY](https://open.spotify.com/album/6dKmyxrba50ysYPG0fJlOA) | 3:07 | 2020-04-24 | 2020-09-15 |
@@ -231,8 +231,9 @@
 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 | 2022-07-28 |  |
 | [Homespun](https://open.spotify.com/track/0NmtuRJJAVhAN2w637Brpt) | [Glenn Astro](https://open.spotify.com/artist/6NjPS5yGVTioKlN7NsA6Is), [Ajnascent](https://open.spotify.com/artist/2f1VWkEx9QnpNefXzl9f8H) | [Homespun](https://open.spotify.com/album/0v9hrKG8Ez0v1Nv6ETcwYF) | 3:49 | 2020-10-02 | 2021-01-09 |
 | [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 | 2021-05-21 | 2021-12-01 |
-| [Horsepower For The Streets](https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets](https://open.spotify.com/album/2B4mjZa5ewqU79nzU981eO) | 2:23 | 2022-05-19 | 2023-02-24 |
+| [Horsepower For The Streets](https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets](https://open.spotify.com/album/2B4mjZa5ewqU79nzU981eO) | 2:23 | 2022-05-19 |  |
 | [How Can I Move On](https://open.spotify.com/track/3p5dognDA6nIyHsBBU1qJq) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art \(2022 Remastered Deluxe\)](https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU) | 2:58 | 2022-07-07 | 2022-11-01 |
+| [How Dare You](https://open.spotify.com/track/1Pe0OdQh4BNCrO3LLfRERx) | [Michael Minelli](https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL), [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [How Dare You](https://open.spotify.com/album/2mSX1XzNTijOu8oYk1f4Kf) | 3:22 | 2023-03-02 |  |
 | [How Long?](https://open.spotify.com/track/5yhPtPo3ZWW7T5iCJ5CNjk) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [How Long?](https://open.spotify.com/album/2oEnK6S1wlfIq1CECB9qL4) | 4:16 | 2020-05-15 | 2020-06-05 |
 | [How Much Can A Heart Take \(feat\. Yebba\)](https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Table For Two](https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT) | 5:02 | 2021-02-12 | 2021-04-17 |
 | [Hurray](https://open.spotify.com/track/4pa46ELAejI7w1mkeKI4Hu) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Hurray](https://open.spotify.com/album/1hSEGYKjYidrzq8xXnxgu7) | 3:47 | 2021-08-31 | 2021-09-24 |

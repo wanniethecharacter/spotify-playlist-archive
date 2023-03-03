@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,523 likes - 150 songs - 16 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,568 likes - 150 songs - 16 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 149 | [Rabba Ho](https://open.spotify.com/track/21TUkZlJV8Z5viGmSuqL7r) | [Mulazim Hussain](https://open.spotify.com/artist/6H2TOX4OWT02uU3RjpCzRI) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:27 |
 | 150 | [Kheryaan De Naal](https://open.spotify.com/track/4vb3eXV5MUr5qGMCJ2XdEO) | [Niazi Brothers](https://open.spotify.com/artist/6EZ4uVu8oBRwuqt2K38TWl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 7:54 |
 
-Snapshot ID: `MTY2NTU4ODI2MSwwMDAwMDAwMGM5Y2NkNTllYTgxMTgyNmI4ZDgwZGYzMzMyYzc0M2Vi`
+Snapshot ID: `MTY2NTU4ODI2MSwwMDAwMDAwMGQwNjA5ZGFlNmZmMTI5ZDMwOGJjNDJlNjIzNTBmYjBj`

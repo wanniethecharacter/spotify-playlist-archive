@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Yazmin Lacey
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,081 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,173 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 74 | [Crazy That You Love](https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Invisible Things](https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6) | 3:29 |
 | 75 | [Lemon Squeezy](https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Lemon Squeezy / Afrique](https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp) | 3:32 |
 
-Snapshot ID: `MTY3NzIzNTUwNSwwMDAwMDAwMDkzY2U2ZDNiYzM4MGJjNmMzZDQ0YzcxNzU1YjZiNzYy`
+Snapshot ID: `MTY3NzIzNTUwNSwwMDAwMDAwMDllNzczOWVlN2IyYTMwNmYxMmQyMjIxODYyZTA3ZjE2`

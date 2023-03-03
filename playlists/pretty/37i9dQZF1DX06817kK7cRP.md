@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,961 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,352 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 99 | [Freeway](https://open.spotify.com/track/4ZyRWLgtHGZAOSeH5W4mes) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Freeway](https://open.spotify.com/album/35H7Dzbib14P3ZarPwh0E0) | 2:30 |
 | 100 | [Up the Block \(Live\)](https://open.spotify.com/track/3PVuA7US6N5rOmTpy0tjyv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Undertones \(Live\)](https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw) | 2:48 |
 
-Snapshot ID: `MTY3NzU5OTM1MiwwMDAwMDAwMDQyMDNlNGZiM2JkNWJiNDc1NDZkODgzYzllMTczZjc5`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMGI3NGY5MDc0Mzk3NTFlMjQ3MWY0YWNlN2JhY2Y3NWRm`

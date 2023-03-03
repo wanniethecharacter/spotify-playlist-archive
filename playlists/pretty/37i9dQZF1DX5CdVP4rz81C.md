@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Henry Moodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304,984 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,305,322 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 33 | [1000 Reasons](https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1000 Reasons](https://open.spotify.com/album/7pl00j0x6ZdGcYGUSioCdR) | 2:34 |
 | 34 | [Pick Your Tears Up](https://open.spotify.com/track/5wlZ4PZGrRR2feOTA862m2) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Pick Your Tears Up](https://open.spotify.com/album/4XHdogqYIFfgdW3qwIkVlI) | 2:48 |
 | 35 | [Man On The Moon](https://open.spotify.com/track/7E6jdcJTGDpYmjHFnXu3vG) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Man On The Moon](https://open.spotify.com/album/18WXWG3I5v4L3odjNg1YtR) | 3:20 |
-| 36 | [Best Friend Breakup](https://open.spotify.com/track/28a302Jx34OM1z5qG7ykMJ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL) | 2:21 |
+| 36 | [Best Friend Breakup](https://open.spotify.com/track/5rKMN0bKdqcGWo1iLvv30Y) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/6mF1bVrioCxksnRBHUN7Ej) | 2:21 |
 | 37 | [just for the night](https://open.spotify.com/track/2kZSry1RFeI8IzFk0RTr0y) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9) | [just for the night](https://open.spotify.com/album/1cbKJJrsN37uwfmFw4q9xI) | 2:15 |
 | 38 | [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 |
 | 39 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 89 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 |
 | 90 | [wish I didn't know you](https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [wish I didn't know you](https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU) | 2:53 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDAzMTM3MzQ0YzU1MGE2MTBlNzRkNjUwZWFlM2NlMmVh`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGI5ZWUxNWIwZmE2YzQ1ZTA2NTA4ODA0OGVkZjIwZjI1`

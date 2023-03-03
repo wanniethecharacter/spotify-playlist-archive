@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 
 > Get on down the road with these classic country tunes\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,336 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,527 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 99 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
 | 100 | [Long Black Veil](https://open.spotify.com/track/6W7JvNYum6o2NxIIP5rZ2s) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [American Originals](https://open.spotify.com/album/5DHSzaRCg638OK8gl6uyCL) | 3:02 |
 
-Snapshot ID: `MTY1MTg2NTg3OCwwMDAwMDAwMDlkODIwMmJhNjhlMDVhN2Y0NDE5ZTU3N2E2MjY4MWQy`
+Snapshot ID: `MTY1MTg2NTg3OCwwMDAwMDAwMDYwZGQ4NzY3N2MwZTBjZDc3Y2VhYjgxZGQ0ZDBmYzll`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 羊文学 \*👉<a href="https://spice.eplus.jp/articles/315281?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,595 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,666 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Yukisaki](https://open.spotify.com/track/1tI0mPtSulabWarmKB3nUQ) | [Boundary](https://open.spotify.com/artist/7EYH7GNNmSQu0MqLFBupH9) | [Yukisaki](https://open.spotify.com/album/63mrbD2RZ9iAxP4effEztt) | 3:30 |
 | 80 | [ハッピースター](https://open.spotify.com/track/0NuNbA26R8KV5p0biOFqhJ) | [メとメ](https://open.spotify.com/artist/66yrLdRscnShf6ZIKqUltg) | [1st Single](https://open.spotify.com/album/5GB1jFBogsf27sIGcRhb5a) | 1:37 |
 
-Snapshot ID: `MTY3NzY3Nzc2OSwwMDAwMDAwMDhhNzI5OWE2YmEzMTViMGMwY2QxZDNmYzZhZTg3MDZh`
+Snapshot ID: `MTY3NzY3Nzc2OSwwMDAwMDAwMDk3YmU2ZDc4MDMwYzAyOTUwN2Y5Y2JhZDhkYTI5ODY5`

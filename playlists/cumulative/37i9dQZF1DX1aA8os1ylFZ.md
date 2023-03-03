@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-303 songs - 16 hr 3 min
+305 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Fall in Love Again](https://open.spotify.com/track/0NYDzkF0yDl5eZD0zK12lx) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Life By Misadventure](https://open.spotify.com/album/6TQpPdEdP2YWSYvlcu7STJ) | 2:42 | 2022-07-22 | 2023-01-13 |
 | [Fall in Love Again](https://open.spotify.com/track/4vf1WcZayO3JBuVwSS9tzL) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Fall In Love Again](https://open.spotify.com/album/3EJkbd8po2CHa5RXhCIWcr) | 2:42 | 2021-12-16 | 2022-07-29 |
 | [Fallin](https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA) | 2:42 | 2023-01-19 |  |
+| [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 | 2023-03-02 |  |
 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 | 2021-12-16 | 2023-01-13 |
 | [Focus](https://open.spotify.com/track/1IJ9taH1AFHfrKYvBbgMq1) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/1DLqQDX8YBOFSF6SwosfsK) | 2:44 | 2022-07-22 | 2022-11-17 |
 | [Focus](https://open.spotify.com/track/4g1Ec6coJ3tGrsua8B2yio) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/33oXw6C7qblh1spcJDsved) | 2:44 | 2021-12-16 | 2022-07-29 |
@@ -225,8 +226,9 @@
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2023-01-12 |  |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-01-27 | 2023-03-01 |
 | [Rewind](https://open.spotify.com/track/5Po20XWC11YJ3TMLfHqMdB) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [EP6](https://open.spotify.com/album/6ZSh7q2E1I6tpESZA6j4nE) | 2:59 | 2021-12-16 | 2023-01-13 |
+| [Ride with You](https://open.spotify.com/track/0pwGmwNir2jkqhWhBu9WqB) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Mike Tibbert](https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75) | [Ride with You](https://open.spotify.com/album/6Ugju3J2yU7PfOk0nSAkBF) | 2:44 | 2023-03-02 |  |
 | [Right Here](https://open.spotify.com/track/3MyV9WDPuS1k13pCuydC1P) | [Nicolas Kanza](https://open.spotify.com/artist/751YCAfHx8dQSUbAN8Q9dl) | [Same Love; A Romanticized Timeline](https://open.spotify.com/album/7zpZjaxYyeqio38VIkravV) | 3:02 | 2021-12-16 | 2022-01-21 |
-| [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2023-01-12 |  |
+| [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2023-01-12 | 2023-03-03 |
 | [River](https://open.spotify.com/track/0vXQyArM2NgDjaL48aO8Ha) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [From the Heart](https://open.spotify.com/album/61lKZn6WGuakiPrd6j8i9f) | 3:44 | 2021-12-16 | 2023-02-17 |
 | [Romcom](https://open.spotify.com/track/5cXglIMCSuEt0ZPagAdrcN) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK), [James Francis](https://open.spotify.com/artist/0JiTjLmtWcCosekkIJS5VA) | [Romcom](https://open.spotify.com/album/52061Fl1ZslElEx9oPd5lr) | 3:01 | 2021-12-16 | 2022-07-23 |
 | [rubberband](https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [rubberband](https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH) | 2:27 | 2023-01-12 |  |
@@ -242,7 +244,7 @@
 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 | 2023-01-26 |  |
 | [Sending My Love \- Spotify Singles](https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:53 | 2021-12-16 | 2022-03-26 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2023-01-12 | 2023-03-01 |
-| [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 | 2023-02-23 |  |
+| [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 | 2023-02-23 | 2023-03-03 |
 | [sing about love](https://open.spotify.com/track/5B3vp0n7EJch6ExLlyfLdl) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [sing about love](https://open.spotify.com/album/0ZH61KMwJcevDmzFkxVXoz) | 3:34 | 2021-12-16 | 2023-01-13 |
 | [Sleeping On The Phone](https://open.spotify.com/track/1bCNLn0UKZ2wjxN6ZmvcTh) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy](https://open.spotify.com/album/3mSrMuAvI7GNxaxhrTx4ry) | 3:09 | 2021-12-16 | 2022-03-18 |
 | [Slow it Down \(Rose Version\)](https://open.spotify.com/track/6zraPgSDo99uPe7MeimWQN) | [shy ink](https://open.spotify.com/artist/2guvMedMt6BlFklBVfFTR3), [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci) | [Slow it Down \(Rose Version\)](https://open.spotify.com/album/6PSruIYZmDSEWx0zWBYbLt) | 2:48 | 2022-02-17 | 2023-01-13 |

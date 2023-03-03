@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Eslabón Armado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,708 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,621 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Mi Dolor](https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Mi Dolor](https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC) | 3:38 |
 | 50 | [déjame vivir](https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 3:27 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMGQ4ZjllYjcyMzljY2ZhZDU2MTMzYzQ5NGI0NTdhYTAy`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDE1YjY1MTIzYTEzOTZiNTQyYjJhNWU4ZjgxZjEwNDc0`

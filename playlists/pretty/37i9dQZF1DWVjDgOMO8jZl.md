@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri il documentario speciale dedicato a Rhove e la playlist con alcune delle top promesse della musica italiana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,868 likes - 76 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,871 likes - 76 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 75 | [Carta Stagnola](https://open.spotify.com/track/61Dg2SAvlHQbdDJmPs1VQk) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Carta Stagnola](https://open.spotify.com/album/2kYztqurm6GZd0VAQL7LkR) | 2:55 |
 | 76 | [Pasta Rossa](https://open.spotify.com/track/4ZM0faoYcQViZmQYKUdpyc) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Macchie](https://open.spotify.com/album/24TYUiY7aNSq7MeI9VamLh) | 3:28 |
 
-Snapshot ID: `MTY3NDYwMTI2MCwwMDAwMDAwMDNmOWQ2ODA3NDJjYWZmYThkODAyZWU4NWU1NGIwZjlm`
+Snapshot ID: `MTY3NDYwMTI2MCwwMDAwMDAwMDNmM2FiZDRlMWU2MTRjODUzNzAyNWNhNTE1NWRhMzZk`

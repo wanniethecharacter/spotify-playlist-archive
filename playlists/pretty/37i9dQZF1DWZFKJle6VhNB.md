@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,584 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,927 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 99 | [Camaro Amarelo](https://open.spotify.com/track/5ivya8USJX3ezDjd2FYSXa) | [Munhoz & Mariano](https://open.spotify.com/artist/0OWtaM1z81DliQXntU4KaN) | [Camaro Amarelo \- Single](https://open.spotify.com/album/7M33XB2qec8tmOlUF529eb) | 3:32 |
 | 100 | [Olha O Que O Amor Me Faz / Citação: All By Myself \- Medley](https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [As Quatro Estações](https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS) | 3:28 |
 
-Snapshot ID: `MTY3NDgzNTEwNCwwMDAwMDAwMDJhMGFlZjNkNzc2NGFjNGUyYzEyMzNhMzY5OTUxOWIw`
+Snapshot ID: `MTY3NDgzNTEwNCwwMDAwMDAwMDM5ODViYjZiZjAxNWRmNzk0NjIzMjdkYTkxZmU2NTI2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Kali Uchis",
+  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Chl\u00f6e",
   "name": "Douces Vibes",
   "tracks": [
     {
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142120,
+      "name": "22",
+      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "album": {
         "name": "3 Boys",
         "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
@@ -78,7 +96,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 176413,
       "name": "About You",
       "url": "https://open.spotify.com/track/3VZxoBsfipwZTyb0cIvIPW"
@@ -129,6 +147,24 @@
     },
     {
       "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/0iQ1Hw7nST7QkKC4YOvZt5"
+      },
+      "artists": [
+        {
+          "name": "Lagrace",
+          "url": "https://open.spotify.com/artist/3cnjExpCt2Ev7qI4aBXRQl"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209189,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/2XpdmnaqiagyZqnU5K1xZA"
+    },
+    {
+      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
@@ -158,7 +194,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 194066,
       "name": "Apply Pressure",
       "url": "https://open.spotify.com/track/2z7L8jakEq0POyRdufZCT9"
@@ -248,7 +284,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 193789,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
@@ -314,6 +350,28 @@
       "duration_ms": 249406,
       "name": "CUFF IT - WETTER REMIX",
       "url": "https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr"
+    },
+    {
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265888,
+      "name": "Deserve Me (with Summer Walker)",
+      "url": "https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM"
     },
     {
       "album": {
@@ -404,6 +462,28 @@
       "duration_ms": 217055,
       "name": "float",
       "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
+    },
+    {
+      "album": {
+        "name": "Fool's Gold",
+        "url": "https://open.spotify.com/album/49fo04SNkMfOzzZ7tEtVvX"
+      },
+      "artists": [
+        {
+          "name": "Elli Ingram",
+          "url": "https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147652,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/2xGyP9WuKLJc3zQ395OVPo"
     },
     {
       "album": {
@@ -530,7 +610,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 163414,
       "name": "ground zero",
       "url": "https://open.spotify.com/track/2CZOoc9wPOPVmxutXjkKIC"
@@ -584,7 +664,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 196794,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T"
@@ -686,6 +766,28 @@
       "duration_ms": 168019,
       "name": "i hate the drunk you",
       "url": "https://open.spotify.com/track/1iquQtCPDBJvkCL67VBdtR"
+    },
+    {
+      "album": {
+        "name": "In The Mood",
+        "url": "https://open.spotify.com/album/47k4k9xp4avDKdMkPuvLQS"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242866,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
     },
     {
       "album": {
@@ -949,6 +1051,28 @@
     },
     {
       "album": {
+        "name": "Naked (Feat. Leven Kali)",
+        "url": "https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184385,
+      "name": "Naked - Feat. Leven Kali",
+      "url": "https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU"
+    },
+    {
+      "album": {
         "name": "\u00c4lskar Nights (Deluxe Version)",
         "url": "https://open.spotify.com/album/7nihXiQT5BVrsOe0SUgwtq"
       },
@@ -964,7 +1088,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 189293,
       "name": "Need You - feat. Zion Foster",
       "url": "https://open.spotify.com/track/4xBgDcn4YbojVTPRbr8I4H"
@@ -1269,6 +1393,28 @@
     },
     {
       "album": {
+        "name": "From Uganda With Love",
+        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147415,
+      "name": "SAYIN MY NAME",
+      "url": "https://open.spotify.com/track/33VbOW0lg4HTcavV8cJPxr"
+    },
+    {
+      "album": {
         "name": "Scars On My Skin",
         "url": "https://open.spotify.com/album/3Otn8P0b8DHJpLLX5QyrF0"
       },
@@ -1374,7 +1520,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 219501,
       "name": "Sky has open doors",
       "url": "https://open.spotify.com/track/2bP2E5xkgGyXy4xtWGwuZY"
@@ -1724,7 +1870,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230906,
-      "name": "You Never Visit Me",
+      "name": "You Never Visit Me - Single Version",
       "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
     }
   ],

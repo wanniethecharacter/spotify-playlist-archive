@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,012 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,030 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [These Arms Of Mine](https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Good To Me: Recorded Live At The Whisky A Go Go Vol\. 2](https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ) | 3:30 |
 | 100 | [Let's Stay Together \- Live](https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 3:52 |
 
-Snapshot ID: `MTY3MzI2OTc4NCwwMDAwMDAwMGI4ZTI5MjU2MzQxYTNiMmYxNDRmZTY3NDJhZjAwMGRh`
+Snapshot ID: `MTY3MzI2OTc4NCwwMDAwMDAwMDg3ZWJhZjI3NWRiN2Y0NmYxMTY3NjU0NjFlNmYxYWY4`

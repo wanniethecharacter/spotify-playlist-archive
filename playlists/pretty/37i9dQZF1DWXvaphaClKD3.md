@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Calibre 50 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,542 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,795 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 49 | [Te Va A Ir Bien](https://open.spotify.com/track/7nHD3IwYISHWeX946ZBUhp) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Prefiero Estar Contigo \(Deluxe\)](https://open.spotify.com/album/0RyJXHmyxfV0JlTonmmAyx) | 3:40 |
 | 50 | [Vete Ya](https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vete Ya](https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY) | 2:37 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMGZkZjMyMjM0MjU0YWI3MThiYTU4MjkwNDgyNGQ3OGUz`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDk1NWY3MDEwMzY3YjFlMjFlODVjODBhNjA1NjQyOGZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Meg Smith\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,262 likes - 82 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,652 likes - 82 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 81 | [Revolve](https://open.spotify.com/track/7ea105pidufsa84mmh3EBd) | [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU), [Plumm](https://open.spotify.com/artist/17goxueRDomjijRHKaaQpT) | [Revolve](https://open.spotify.com/album/23BOY2CEVz0itAsBkEhXOY) | 6:22 |
 | 82 | [Yoku](https://open.spotify.com/track/7r4nJ4uPD9jssxoeKOe6wr) | [Deepchild](https://open.spotify.com/artist/2QWcO0QxyDazrtTXJvnEFB) | [Yoku](https://open.spotify.com/album/75nTRdpmChysMyL1mvP3Hp) | 5:30 |
 
-Snapshot ID: `MTY3NzY5Mjg1MywwMDAwMDAwMDAzMWNhY2ZjMDM2MjliZjJlNzlkNmUzMzIwZDJhZDVj`
+Snapshot ID: `MTY3NzY5Mjg1MywwMDAwMDAwMDljYjg2M2IxNzQ1MGRmZTBjOGYxMTc4N2FjNjIwYTc1`

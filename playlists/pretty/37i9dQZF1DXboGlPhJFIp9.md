@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,440 likes - 102 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,495 likes - 102 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 | 101 | [I Blomstertid](https://open.spotify.com/track/3kclS24SfhIIqoof9pMFhj) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 3:19 |
 | 102 | [Dunlin](https://open.spotify.com/track/7LQGIJsi90gdSKo5yzEDOb) | [Dust Follows](https://open.spotify.com/artist/5ANgyunkGzckn6Pn0AK5FC) | [Swan](https://open.spotify.com/album/3CcjnNWOPCrrDBKEgUQ3Mk) | 2:22 |
 
-Snapshot ID: `MTY3NzI4NjgwMCwwMDAwMDAwMDNmZTZjOWM0ODBlYThhYjdjM2E1YTcyNDQ1YzA3OGEw`
+Snapshot ID: `MTY3NzI4NjgwMCwwMDAwMDAwMDljNzMyYjFjYjliNjI2N2NhNzc5MjY3Yzg2OWFmYmM0`

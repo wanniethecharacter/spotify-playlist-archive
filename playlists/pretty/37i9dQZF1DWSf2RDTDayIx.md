@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,061,820 likes - 150 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,062,914 likes - 150 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [Life Is Good](https://open.spotify.com/track/3IfCmk4YbYwaOqtsd4iZqm) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Life Is Good](https://open.spotify.com/album/3dWd0Sv4fTJMxR4ICRlyk2) | 3:20 |
 | 150 | [Ride or Die \(feat\. Phoebe Ryan\)](https://open.spotify.com/track/5vlOmC9rYZKO69KYkcX8va) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 3:08 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDhiOWJlZmJjNGY2ZTcwM2JlZmUxOGNkNDZkYjc0YWZh`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGY1YmNkNzE3MWFhZmUwZTAzNDgxMzJkMWQ5MDQ0NzE4`

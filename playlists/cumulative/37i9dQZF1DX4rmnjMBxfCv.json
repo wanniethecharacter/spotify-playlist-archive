@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Mogador",
+        "url": "https://open.spotify.com/album/05yz2wpMI4wJiBwyj7fvQj"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150624,
+      "name": "Mogador",
+      "url": "https://open.spotify.com/track/2FBUQ0rB58kVxpR1xicpJs"
+    },
+    {
+      "album": {
         "name": "Moulayiten",
         "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
       },

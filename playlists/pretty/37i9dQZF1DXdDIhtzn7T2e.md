@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 
 > Let these country tunes light up your day
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,717 likes - 73 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,723 likes - 73 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 | 72 | [Willin'](https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 2:54 |
 | 73 | [Down to Seeds and Stems Again Blues](https://open.spotify.com/track/5lo3R8FXLTjtDPRwrPvZl1) | [Commander Cody And His Lost Planet Airman](https://open.spotify.com/artist/5EuQzrjffQlDTKObrN5tbY) | [Hot to Trot](https://open.spotify.com/album/4PcDJDCi5hMiH7l7v4T1qh) | 4:03 |
 
-Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGY2OTFhYjU1MGZiMDNkYjA0MTNiMTgxYTVjZjAxZjY4`
+Snapshot ID: `MTY2OTk1NzIwMCwwMDAwMDAwMGJkMTk4NDE0MGE5Mzc1MjAyODJiNWI4OGViOGQ5ZjFj`

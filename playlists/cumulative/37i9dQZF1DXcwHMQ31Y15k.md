@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: OMWAWES, NDX A.K.A.
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Evan Loss
 
-132 songs - 10 hr 50 min
+134 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Cerito Loro](https://open.spotify.com/track/7wS49arIx5EbhQjcC5pQ7f) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Cerito Loro](https://open.spotify.com/album/0CdPartaR6rH1H2WEHXH6K) | 6:11 | 2022-05-26 | 2022-06-10 |
 | [Cerito Loro](https://open.spotify.com/track/5WlpC5mmiCAPg2K3gRqSmT) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Galih Wicaksono](https://open.spotify.com/artist/6f0rq6gDaNBhyQoeOiYrZb) | [Cerito Loro](https://open.spotify.com/album/1ybLko4XaB8e2aDJh3W87T) | 5:46 | 2022-05-26 | 2022-06-10 |
 | [Cerito Manis](https://open.spotify.com/track/7f603cY33SBaZXtzpUYGx8) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Cerito Manis](https://open.spotify.com/album/378DIDIzE8yFhkpxHQlJXq) | 4:55 | 2022-05-26 |  |
-| [Cerito Manis \- Live](https://open.spotify.com/track/0syX3hRXqhIrXlIkAvu3mp) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Cerito Manis \(Live\)](https://open.spotify.com/album/1aCqINnqJaGOzNZxc4Ne0U) | 4:53 | 2022-08-25 |  |
+| [Cerito Manis \- Live](https://open.spotify.com/track/0syX3hRXqhIrXlIkAvu3mp) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Cerito Manis \(Live\)](https://open.spotify.com/album/1aCqINnqJaGOzNZxc4Ne0U) | 4:53 | 2022-08-25 | 2023-03-03 |
 | [Cidro 2](https://open.spotify.com/track/17yog0bsFVvumvOuux03wM) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Esa Risty](https://open.spotify.com/artist/0aD7pN12w7BGMijkdG11eK) | [Cidro 2](https://open.spotify.com/album/72oOmFtjOGQNNM96ZUQ7fA) | 4:02 | 2022-05-26 |  |
 | [Cidro Asmoro](https://open.spotify.com/track/1P51HK66VRbcNtG6nzxSd0) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Cidro Asmoro](https://open.spotify.com/album/1EevLbemdKpchn5ktMEaMc) | 5:26 | 2023-01-20 |  |
 | [Dalan Gronjal \- From "Cidro Asmoro"](https://open.spotify.com/track/6tfxkAa670aN3qNTFJYJ8n) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Dalan Gronjal \(From "Cidro Asmoro"\)](https://open.spotify.com/album/5SPba33BiUJoctUYy6h8oi) | 5:32 | 2023-02-09 |  |
@@ -41,6 +41,7 @@
 | [ganti ayang](https://open.spotify.com/track/1VvExYaGt1IaycmrJPR0ZO) | [dike sabrina](https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY) | [ganti ayang](https://open.spotify.com/album/5lgxKOsUiNGYHhRqY6VgJQ) | 4:36 | 2022-07-01 |  |
 | [Gemati](https://open.spotify.com/track/0h4lIaJoOYwf5Bxo05hEaK) | [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Gemati](https://open.spotify.com/album/2enGHcl2AbelLyrkd7VhkG) | 4:38 | 2022-11-14 | 2023-02-15 |
 | [Gemati](https://open.spotify.com/track/7dDEb68OZzExiNhVGQirut) | [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Gemati](https://open.spotify.com/album/6lxoEW6DXryJb8wP4wSz1d) | 4:38 | 2023-02-09 |  |
+| [Gerombolan Mantan](https://open.spotify.com/track/6OXCe6zKZnFNYM6NvyJMMd) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Gerombolan Mantan](https://open.spotify.com/album/3Gs9Z8x3X9dj00lJ5eLHVb) | 3:21 | 2023-03-02 |  |
 | [Iki Uripku](https://open.spotify.com/track/23JmcEcmC0SzppD6Qm63nM) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Iki Uripku](https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp) | 3:54 | 2022-07-21 |  |
 | [Indonesia Bakoh](https://open.spotify.com/track/1Gbz0PYGw30YO4rRqbudgV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Indonesia Bakoh](https://open.spotify.com/album/0f3jGasuwJGNatcgeDPRZd) | 5:40 | 2022-08-18 | 2023-02-10 |
 | [Kabur Kanginan](https://open.spotify.com/track/6DRBeuRymM6gRvAn1WgU0S) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kabur Kanginan](https://open.spotify.com/album/5QQa65NbHXXMZSVCbdiWYP) | 4:34 | 2022-05-26 | 2022-08-26 |
@@ -70,7 +71,7 @@
 | [Minggato](https://open.spotify.com/track/0pyIRAkOApRPrYThYzv1eF) | [Vita Alvia](https://open.spotify.com/artist/5zkv5DNu55fRGWGd7HGQka) | [Minggato](https://open.spotify.com/album/35ZdXSLT9YEhRHNmTzHKP2) | 4:03 | 2022-08-14 | 2022-11-14 |
 | [Moro Moro Teko \- From "Cidro Asmoro"](https://open.spotify.com/track/2Dbdw6yYIatVj2ka3tUa8l) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Moro Moro Teko \(From "Cidro Asmoro"\)](https://open.spotify.com/album/2A3Acl80HV6wwTqFiVURi8) | 4:46 | 2022-05-26 | 2022-11-14 |
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2022-05-26 |  |
-| [Neng Ngarep Moto](https://open.spotify.com/track/0CM5l5s1nmswT56EzrT7F2) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Neng Ngarep Moto](https://open.spotify.com/album/78OXxum7Wes8xs99bSuznr) | 5:55 | 2022-05-26 |  |
+| [Neng Ngarep Moto](https://open.spotify.com/track/0CM5l5s1nmswT56EzrT7F2) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Neng Ngarep Moto](https://open.spotify.com/album/78OXxum7Wes8xs99bSuznr) | 5:55 | 2022-05-26 | 2023-03-03 |
 | [Ngapura](https://open.spotify.com/track/6kUpP1bV37DKjSiEiwvSzm) | [Gerap Gurita](https://open.spotify.com/artist/6WQC8XtUYxHrCSZlHzT2tz) | [Ngapura](https://open.spotify.com/album/1peHbBIKdEoejW32BBh7Zq) | 4:26 | 2022-05-26 |  |
 | [Ngeman](https://open.spotify.com/track/0ZQWph1RquCqAPhBrRaC5C) | [Didik Budi](https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ) | [Ngeman](https://open.spotify.com/album/5Q92SAizxdSn2L2DinpKJH) | 3:59 | 2023-01-20 |  |
 | [Ninggal Cerito \(Purwokerto\) \[Live Orchestra\]](https://open.spotify.com/track/6Jgs44v1wA7KIenP41TXUo) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Guyon Waton \(Live Orchestra\)](https://open.spotify.com/album/5VdM1so7eacofy8pbM14Vg) | 5:20 | 2022-05-26 |  |
@@ -121,6 +122,7 @@
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 | 2022-05-26 | 2022-08-19 |
 | [Tak Lali\-Lali Salahmu](https://open.spotify.com/track/6tpwxUUE8KjFeHT1pjqRjw) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Tak Lali\-Lali Salahmu](https://open.spotify.com/album/4XDvNZmu4lZ0fzx1e75RF9) | 5:53 | 2022-05-26 | 2023-02-10 |
 | [Tak Sayang Sayang](https://open.spotify.com/track/1wi9NvLQPyWK7jD5vEFQB9) | [TWD PROJECT](https://open.spotify.com/artist/1G1lVLwxIAavdqOb8Vzhyl) | [Tak Sayang Sayang](https://open.spotify.com/album/3DBCRoYztZ6DhpOUQVXSsY) | 4:29 | 2022-08-14 |  |
+| [Tangise Sarangan](https://open.spotify.com/track/2NjOl7W9zT3ZnyUFsEyrmU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Tangise Sarangan](https://open.spotify.com/album/70BN1abiYV64ksDeUF0zDB) | 6:55 | 2023-03-02 |  |
 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 | 2022-05-26 | 2022-09-16 |
 | [Teko Lungo \- From "Cidro Asmoro"](https://open.spotify.com/track/1LJZ90voZTcuNzVbe0qRh5) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Teko Lungo \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3wxVo3tsPVoDz7ju9TWEd7) | 5:09 | 2022-06-16 | 2022-11-14 |
 | [Temanten](https://open.spotify.com/track/35ozv2GM8b55XTHGzvvaAx) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Temanten](https://open.spotify.com/album/26JAA7Ya33pam0GQJepOFv) | 5:09 | 2022-05-26 | 2022-06-10 |

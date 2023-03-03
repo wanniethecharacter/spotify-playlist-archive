@@ -4,7 +4,7 @@
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-77 songs - 4 hr 53 min
+78 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Najnowszy Klip](https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:49 | 2023-02-03 |  |
 | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t) | 3:09 | 2023-02-03 |  |
 | [Nie Kłami](https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:15 | 2023-02-03 |  |
+| [Nie mam dla Ciebie miłości \- Kayax XX Rework](https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Omamy](https://open.spotify.com/album/4izFXcjIxPzX86R1hRAUbD) | 3:50 | 2023-02-03 |  |
 | [Nie Płacz Ewka](https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 5:42 | 2023-02-03 |  |
 | [Nie zrozumie nas \- z filmu „Johnny”](https://open.spotify.com/track/19vMdeqdiAf5zpHuv3bUW6) | [Dawid Karpiuk](https://open.spotify.com/artist/1Cv3Z6boIdRxDQILYoFImr), [Michał Kush](https://open.spotify.com/artist/7jAW3yANoHGitDfILrJjv8) | [Nie zrozumie nas \- z filmu „Johnny”](https://open.spotify.com/album/1ps4zilmJwT8YRPfIrmv30) | 4:18 | 2023-02-14 |  |
 | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg) | [Bitamina](https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ) | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb) | 2:37 | 2023-02-03 |  |
@@ -62,7 +63,7 @@
 | [Oczko w głowie](https://open.spotify.com/track/6O7znyZyyqRaovT8eLYmCh) | [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I), [Urbanski](https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE) | [Oczko w głowie](https://open.spotify.com/album/5UIDP3PjvYxT9nHMthYyg1) | 2:56 | 2023-02-03 |  |
 | [Ostatni \(Rojst '97 \| Netflix\)](https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq) | [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh), [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Urbanski](https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE) | [Ostatni \(Rojst '97 \| Netflix\)](https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ) | 3:39 | 2023-02-03 |  |
 | [Peron](https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d) | [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [Milosc](https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB) | 3:15 | 2023-02-03 |  |
-| [Piosenka księżycowa \(Acoustic Version\)](https://open.spotify.com/track/05NKgpBkS8YiN1bqNfFwSW) | [Varius Manx / Kasia Stankiewicz](https://open.spotify.com/artist/1B3OoaIxfCpdui7lvW2Yu2) | [ENT](https://open.spotify.com/album/0PClVbELnvZL2fnAVeJlWt) | 4:01 | 2023-02-14 |  |
+| [Piosenka księżycowa \(Acoustic Version\)](https://open.spotify.com/track/05NKgpBkS8YiN1bqNfFwSW) | [Varius Manx / Kasia Stankiewicz](https://open.spotify.com/artist/1B3OoaIxfCpdui7lvW2Yu2) | [ENT](https://open.spotify.com/album/0PClVbELnvZL2fnAVeJlWt) | 4:01 | 2023-02-14 | 2023-03-03 |
 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 | 2023-02-03 |  |
 | [Porady Na Zdrady \[Dreszcze\]](https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Porady Na Zdrady \[Dreszcze\]](https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82) | 3:30 | 2023-02-03 |  |
 | [Prawda o nas](https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Prawda o nas](https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc) | 3:15 | 2023-02-03 |  |

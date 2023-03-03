@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-147 songs - 12 hr 26 min
+149 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A l'ouest](https://open.spotify.com/track/3O0rGtMkFOXlH4Tkc4NcOU) | [Lara Rosseel](https://open.spotify.com/artist/42u3vSYiwwVQVuGf5dwZ8G) | [A L'ouest](https://open.spotify.com/album/3o35QxHCAKcTNabPWcPCt4) | 4:03 | 2022-09-08 |  |
 | [Absolution of a French Fry](https://open.spotify.com/track/2zab7PHAybogB0HTOkUAxv) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [The New Lady Llama](https://open.spotify.com/album/2d3o91tzR0dqRkTcAcfOkm) | 5:31 | 2022-09-15 |  |
 | [Absolution of a French Fry](https://open.spotify.com/track/5N8jkWa1Lmnsw1YJB58oAJ) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Absolution Of A French Fry](https://open.spotify.com/album/1hzmwwYPpyNSXJ87K9PrQX) | 5:31 | 2022-09-08 | 2022-09-25 |
-| [Adagio \(For Bob Collymore\)](https://open.spotify.com/track/7kAnqpE4QtAWWhrDRQKN1w) | [Jef Neve](https://open.spotify.com/artist/5drkbPiwHU6Kzh1wzYwMAl) | [Mysterium](https://open.spotify.com/album/31ADJ69Qa2K7qOIRkB9tLp) | 4:31 | 2022-09-08 |  |
+| [Adagio \(For Bob Collymore\)](https://open.spotify.com/track/7kAnqpE4QtAWWhrDRQKN1w) | [Jef Neve](https://open.spotify.com/artist/5drkbPiwHU6Kzh1wzYwMAl) | [Mysterium](https://open.spotify.com/album/31ADJ69Qa2K7qOIRkB9tLp) | 4:31 | 2022-09-08 | 2023-03-03 |
 | [Alice](https://open.spotify.com/track/7IKA8BGPhbUlypRWFAHmXv) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 4:47 | 2022-10-20 |  |
 | [Alles hier hetzelfde](https://open.spotify.com/track/4s3tKQwPJhy5oJHvXnAQQN) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [Alles hier hetzelfde](https://open.spotify.com/album/7yOMFXSwvmEtauLoflkiN2) | 6:11 | 2022-09-08 |  |
 | [An Arp in Tunisia](https://open.spotify.com/track/13GMwEv7D26ltljKaWoHoV) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 4:34 | 2022-09-29 | 2022-10-23 |
@@ -24,6 +24,7 @@
 | [April](https://open.spotify.com/track/3MZFkxzUm8KMbRj1IYLHu2) | [Nordmann](https://open.spotify.com/artist/0Uox3PUw47qEqroDggrDRE) | [In Velvet](https://open.spotify.com/album/3k1BIh30w0Cgne6M2NjGH4) | 4:44 | 2022-09-08 |  |
 | [Auburn](https://open.spotify.com/track/52NXnWXFTTsd4YK4foqL5Y) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/4Y2YPVgmP5iwUVBmhA8vD1) | 3:46 | 2022-09-08 |  |
 | [Aurora](https://open.spotify.com/track/4ZrhjVcpGTaC2yYdxdqdXG) | [Alex Koo](https://open.spotify.com/artist/1sR6UagoDJiGkAjTmMITg0), [Attila Gyárfás](https://open.spotify.com/artist/2evqpNR4DDSHiUxGMokRJI), [Ralph Alessi](https://open.spotify.com/artist/2yHcAgHAPUdUhVuiIWWcba) | [Identified Flying Object](https://open.spotify.com/album/4mdxhfPmoboGYB3RdEgWB1) | 7:23 | 2022-09-08 |  |
+| [Bee Jive](https://open.spotify.com/track/0b41FogpMfqTEgGjmPjecc) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Bee Jive](https://open.spotify.com/album/2REXT0lKTL8rPIuim1Nycd) | 6:00 | 2023-03-02 |  |
 | [Believe it or not](https://open.spotify.com/track/16v7VHdADS6oFZOBohb6W7) | [Marco Locurcio](https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4) | [Believe it or not](https://open.spotify.com/album/7mgfEI0lCUTUSMTgdprAZq) | 4:32 | 2022-09-08 |  |
 | [Bembe](https://open.spotify.com/track/5UgjCPDvwKitUi1t1Fb3MJ) | [SUWI](https://open.spotify.com/artist/5va5r5z6fJonpxQjK4CuzL) | [Bembe](https://open.spotify.com/album/6B7wVPyxmIwOIvWfw0W0zp) | 3:17 | 2022-09-08 |  |
 | [Birdman](https://open.spotify.com/track/06CZmASsue66Gkp269Rqld) | [Hachoo](https://open.spotify.com/artist/63YSIh9PBCZZUzZWAJoidv) | [On a Thin Rope with a Shaky Smile](https://open.spotify.com/album/11fDYTospHQX82R2IKQFcj) | 5:05 | 2022-09-08 |  |
@@ -35,6 +36,7 @@
 | [Candy](https://open.spotify.com/track/6gSikmgY3B2Pp0CvQXBjEC) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Candy](https://open.spotify.com/album/3KQlNjPSPVSl9QlwMlDpAs) | 4:00 | 2023-01-19 | 2023-02-24 |
 | [Carol](https://open.spotify.com/track/3vKxUFJKFewfZYCPsxHECn) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 4:01 | 2022-09-08 |  |
 | [Cascade\(s\)](https://open.spotify.com/track/136X5PnHEO3jUiAm3bU6kF) | [Nordmann](https://open.spotify.com/artist/0Uox3PUw47qEqroDggrDRE) | [Cascade\(s\)](https://open.spotify.com/album/5QNydaZL1yVLAqWFN9fA8H) | 4:16 | 2022-09-08 |  |
+| [Cascaraï](https://open.spotify.com/track/7MFoy8IS7CKsBaKXZKzplg) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [Cascaraï](https://open.spotify.com/album/2euQu1T8ExViupJef3NREV) | 3:37 | 2023-03-02 |  |
 | [Cessna](https://open.spotify.com/track/7o3kAR4Hc4cHiyk8AJwZmR) | [Boogie Belgique](https://open.spotify.com/artist/4TIrC99WSg0tOtBCGDjMRY), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Lure of Little Voices \(Inspired by ‘The Outlaw Ocean’ a book by Ian Urbina\)](https://open.spotify.com/album/0zWSNIQlAGSUpgS9EBnBHK) | 3:10 | 2022-09-08 |  |
 | [Charlier](https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [INWANE](https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF) | 3:51 | 2022-09-08 |  |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2022-09-08 |  |

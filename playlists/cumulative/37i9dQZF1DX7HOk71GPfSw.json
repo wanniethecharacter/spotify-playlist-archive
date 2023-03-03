@@ -1491,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "ALL I GOT",
+        "url": "https://open.spotify.com/album/2kPLJYUX6MoKvRLXhNTue2"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194167,
+      "name": "ALL I GOT",
+      "url": "https://open.spotify.com/track/5tbpU6W9x2hABB8P3cHzuh"
+    },
+    {
+      "album": {
         "name": "all i need",
         "url": "https://open.spotify.com/album/766oNoOCHh5KNvykOsbWtd"
       },

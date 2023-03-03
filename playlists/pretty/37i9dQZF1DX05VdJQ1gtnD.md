@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 
 > Warming instrumental guitar for sitting by the fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,389 likes - 166 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,431 likes - 166 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 165 | [Back to Boulder Creek](https://open.spotify.com/track/3aa0G5MIUCXZDD3FwcqL0j) | [Carol Poole](https://open.spotify.com/artist/02I1DT5QQhN18VH7MYEsSv) | [Back to Boulder Creek](https://open.spotify.com/album/6toTINQLDLrIcJRmXxd1fF) | 2:19 |
 | 166 | [anticipation](https://open.spotify.com/track/0OhvlAMiXwy7i9dbnXbOWH) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [leaving the city](https://open.spotify.com/album/6wQyphlrdifX6l2gS3tM6x) | 3:46 |
 
-Snapshot ID: `MTY3NzI0OTc4OCwwMDAwMDAwMDZiNDJkNjIxMGU5NjQ2YTM0ZGJlMzc2YzJiNDQ0MTMz`
+Snapshot ID: `MTY3NzI0OTc4OCwwMDAwMDAwMDAyMmY1ZWFiOTExMjdiNDg5MmE1MzdiYTU2NmU2MWYz`

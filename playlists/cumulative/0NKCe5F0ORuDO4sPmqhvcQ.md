@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-404 songs - 22 hr 35 min
+406 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [ANTHEM](https://open.spotify.com/track/1McvHPGOTNBsMZNY8knzsK) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [HEAVENS DOOR](https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX) | 3:00 | 2023-02-22 |  |
 | [Ascend \(Reload\)](https://open.spotify.com/track/6IB4pkRzElFPRudm6ANKpu) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Ascend \(Reload\)](https://open.spotify.com/album/6S4jvKUaVD3meKXB2nCwVm) | 5:37 | 2022-01-14 |  |
 | [aywhat + supasoaka](https://open.spotify.com/track/7bfUCyvnGwly51E5Qx1XE2) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [VVYELLOW](https://open.spotify.com/album/4s2XWWnnkZEF1BtVB5HrgL) | 2:34 | 2022-04-18 | 2022-07-23 |
+| [Baby from Atlanta](https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Baby from Atlanta](https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc) | 3:19 | 2023-03-02 |  |
 | [BACK ONLINE](https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [BACK ONLINE](https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j) | 3:37 | 2023-02-23 |  |
 | [Backwards Directions](https://open.spotify.com/track/0l1JgfeVpRKaF9Hd04fApo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/3fecplOGKGwnaQLDkuywd4) | 3:07 | 2022-11-11 | 2023-01-20 |
 | [bad dream](https://open.spotify.com/track/1rNivTOt4vBbta3vYWruTL) | [reptilelegit](https://open.spotify.com/artist/3eEJnQZUZcQDjJLkBiqQMd) | [bad dream](https://open.spotify.com/album/7eL4zkRptGACvb00H6wjvv) | 2:53 | 2022-01-21 | 2022-02-05 |
@@ -147,6 +148,7 @@
 | [Forever and Ever](https://open.spotify.com/track/6LQvXuT1B693YJ32QqoOd4) | [Kilter](https://open.spotify.com/artist/2syYGtINPRno1nxxil7UcJ), [Brain Flowers](https://open.spotify.com/artist/31imdiZgUutxbuMl8PH20G) | [Forever and Ever](https://open.spotify.com/album/3YX7OgGVq28qpQo4585WRm) | 3:52 | 2022-07-01 | 2023-01-20 |
 | [forever, for now \(feat\. riley biederer\)](https://open.spotify.com/track/3Lh4hk4TO9lKLV1uz1Ctd2) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [forever, for now \(feat\. riley biederer\)](https://open.spotify.com/album/7kXtJjpsQNnpPhgnD8Ky2l) | 2:38 | 2022-07-22 | 2022-09-19 |
 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 | 2022-01-18 | 2022-02-05 |
+| [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 | 2023-03-02 |  |
 | [Get To You](https://open.spotify.com/track/4jfySsGwhaA7TT4RsYzDvM) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Get To You](https://open.spotify.com/album/68Kb2V3PP0mmHrerQpspM5) | 3:46 | 2023-02-24 |  |
 | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/track/2afb6GwatIa0DC1u9rd6Fu) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/album/7BIZ9jNR3XG7q6AsNs4z3e) | 2:42 | 2022-09-16 |  |
 | [Glimmer](https://open.spotify.com/track/5viOqMYnOlMeuCQmhqxyzg) | [West End Cove](https://open.spotify.com/artist/64WV3o80jWUNafJmMYFLze) | [Glimmer](https://open.spotify.com/album/6oOnyCD8sfO4ysaycHGFdJ) | 3:42 | 2022-11-22 | 2023-01-30 |

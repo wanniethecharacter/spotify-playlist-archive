@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,956 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,200 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 99 | [But Not For Me](https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 3:05 |
 | 100 | [They Can't Take That Away From Me](https://open.spotify.com/track/4WyWVpoXP9z0SczdZdfVI2) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(Original Recording Remastered 2013\)](https://open.spotify.com/album/6Aa9OqI2DWqeoAgKQpKpr2) | 3:01 |
 
-Snapshot ID: `MTY3NzA3MDM2NSwwMDAwMDAwMDFlZTcxNDk3Y2I1NGVhMjM3Yzc4M2Y3MGNjZjI1NTlj`
+Snapshot ID: `MTY3NzA3MDM2NSwwMDAwMDAwMDQ3ZGY4MjYzNWE0NjNiMmQ3OTJiMmQ2MzM4ZjZiMzJk`

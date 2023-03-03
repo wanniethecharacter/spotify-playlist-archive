@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,967 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,105 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Needed](https://open.spotify.com/track/7uUYwH6moimJ0iQmHVW9Jq) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Needed](https://open.spotify.com/album/17hveC08PQdEHxFQRTMsOd) | 2:55 |
 | 100 | [PRECIOUS](https://open.spotify.com/track/4MKX4Ucqt0nB3UCNqMAuer) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [PRECIOUS](https://open.spotify.com/album/2TjL4TjEDZdwHEkyrlsfU9) | 3:19 |
 
-Snapshot ID: `MTY3NzIzOTQ1NywwMDAwMDAwMGJiMjM0NzUzZmFiNmMxNDRjNjQ4YWM2NTdlMjNlYzU0`
+Snapshot ID: `MTY3NzIzOTQ1NywwMDAwMDAwMDgwZWJjZmI2YmZjZWY5OTdkODljYzBhZTBiNTE3NjE3`

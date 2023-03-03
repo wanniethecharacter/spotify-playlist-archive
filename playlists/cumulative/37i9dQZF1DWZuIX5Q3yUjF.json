@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: La Ni\u00f1a e Mysie",
+  "description": "Il meglio dell'R&B italiano. Cover: Bordeaux",
   "name": "anima R&B",
   "tracks": [
     {
@@ -252,6 +252,24 @@
       "duration_ms": 172605,
       "name": "Atacama",
       "url": "https://open.spotify.com/track/0TEhJsbitqBiEYccGrDGG3"
+    },
+    {
+      "album": {
+        "name": "Avorio e Veleno",
+        "url": "https://open.spotify.com/album/2WzIhBSqsjcQgWvyafwiva"
+      },
+      "artists": [
+        {
+          "name": "Al Verde",
+          "url": "https://open.spotify.com/artist/5iKkYOCsHzdNtSMVMo2Hls"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172369,
+      "name": "Avorio e Veleno",
+      "url": "https://open.spotify.com/track/482vXBlu2NUiYNv1W6t9pF"
     },
     {
       "album": {
@@ -748,7 +766,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 196653,
       "name": "CIGNO NERO",
       "url": "https://open.spotify.com/track/5OxV3tZdEoQkO458iwe1HJ"
@@ -1340,6 +1358,28 @@
       "duration_ms": 257153,
       "name": "Easy Girl",
       "url": "https://open.spotify.com/track/7dAcl4BwYFs1wetMYhUHw3"
+    },
+    {
+      "album": {
+        "name": "Equilibri",
+        "url": "https://open.spotify.com/album/3ZyWo3KKTwcUVYuSYgtO3e"
+      },
+      "artists": [
+        {
+          "name": "johara",
+          "url": "https://open.spotify.com/artist/5c4D7WHqD6FZggQ3K4atAh"
+        },
+        {
+          "name": "Angela Iris",
+          "url": "https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202310,
+      "name": "Equilibri",
+      "url": "https://open.spotify.com/track/5BWq3Kgyj543Izg2dkghB6"
     },
     {
       "album": {
@@ -2526,7 +2566,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 209894,
       "name": "Lama d'argento",
       "url": "https://open.spotify.com/track/0Qy1P9wU4jbahp8v0X0Dmb"
@@ -3475,6 +3515,28 @@
     },
     {
       "album": {
+        "name": "Ora per Ora",
+        "url": "https://open.spotify.com/album/5j9Kj5bVHBqJEen9YbYgiK"
+      },
+      "artists": [
+        {
+          "name": "Federico Di Napoli",
+          "url": "https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu"
+        },
+        {
+          "name": "Vinz Turner",
+          "url": "https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Ora per Ora",
+      "url": "https://open.spotify.com/track/3AE0cJVoZIjDdTpOT7B2ZX"
+    },
+    {
+      "album": {
         "name": "Ormai (feat. Nico Kyni)",
         "url": "https://open.spotify.com/album/6Lt0209HACUMQr5WQcBLdd"
       },
@@ -3490,7 +3552,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 123488,
       "name": "Ormai (feat. Nico Kyni)",
       "url": "https://open.spotify.com/track/46w5z88efX5KqYt6C8JfVN"
@@ -3690,6 +3752,24 @@
       "duration_ms": 183674,
       "name": "Pesca Noche",
       "url": "https://open.spotify.com/track/4K8CrCx25sTLfexADXFboz"
+    },
+    {
+      "album": {
+        "name": "piedixterra",
+        "url": "https://open.spotify.com/album/1Idmo4y713JrQhFTNaWzEb"
+      },
+      "artists": [
+        {
+          "name": "Bravo, Bravissimo",
+          "url": "https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198734,
+      "name": "piedixterra",
+      "url": "https://open.spotify.com/track/3pjRBRPgpLonKovRM3IEKe"
     },
     {
       "album": {
@@ -4400,7 +4480,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 136810,
       "name": "Soli Qui",
       "url": "https://open.spotify.com/track/3cTUBNsVv0ED2rhbbjFBlC"

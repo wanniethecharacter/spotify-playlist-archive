@@ -674,7 +674,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 259933,
       "name": "\u30c1\u30a7\u30ea\u30fc",
       "url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 369253,
       "name": "\u604b\u3059\u308b - 10YEARS THANK YOU",
       "url": "https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D"
@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "\u6182\u3044\u685c",
+        "url": "https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275957,
+      "name": "\u6182\u3044\u685c",
+      "url": "https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw"
+    },
+    {
+      "album": {
         "name": "\u6700\u4f4e",
         "url": "https://open.spotify.com/album/4DV2vgNpPKrd4BS3p2Msb0"
       },
@@ -970,6 +988,24 @@
       "duration_ms": 200050,
       "name": "\u6700\u4f4e",
       "url": "https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt"
+    },
+    {
+      "album": {
+        "name": "\u7247\u604b (\u60e1\u4f5c\u5287\u5b8c\u6210 Japanese Version)",
+        "url": "https://open.spotify.com/album/1ReJbqgBQRJKNTkjpqkqPw"
+      },
+      "artists": [
+        {
+          "name": "\u9e97\u82f1",
+          "url": "https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255715,
+      "name": "\u7247\u604b (\u60e1\u4f5c\u5287\u5b8c\u6210 Japanese Version)",
+      "url": "https://open.spotify.com/track/7ksusSBX91WIZccHIdlVEr"
     },
     {
       "album": {
@@ -1002,7 +1038,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 244279,
       "name": "\u7720\u308c\u306a\u3044\u591c\u3092\u541b\u306b",
       "url": "https://open.spotify.com/track/1ftEhiwyfsGsdYHyKxUj2f"

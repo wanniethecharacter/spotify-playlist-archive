@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  The Walls Group
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,066 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,236 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [He Kept Me \- Live](https://open.spotify.com/track/3q5Btikwq1dKZxNica2gch) | [Lamont Sanders](https://open.spotify.com/artist/27ytq9gwMJRBIYv9T14mJA) | [He Kept Me](https://open.spotify.com/album/0mz123pF6ZHYTFGPfSO0BH) | 5:02 |
 | 100 | [Heartbeat \- Live](https://open.spotify.com/track/6CQ6A3rlDDBUYXHONUDvPs) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [Heartbeat \(Live\)](https://open.spotify.com/album/0oXvXE4iVb0dSIEeuFnN1C) | 4:07 |
 
-Snapshot ID: `MTY3NzI0MDE1MiwwMDAwMDAwMDk3YjYwY2Q4OTExNWYwYzA0MDc1MTFiMDUxNTI0NGJk`
+Snapshot ID: `MTY3NzI0MDE1MiwwMDAwMDAwMDIyNGE5NDY3Yzk1ZWNjNzNlMWJlZWE1NTUzYzQxNjZm`

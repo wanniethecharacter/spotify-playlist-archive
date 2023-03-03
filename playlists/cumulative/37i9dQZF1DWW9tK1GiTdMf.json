@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "\ud83c\udfb8 canzoni da gridare e in cover simone panetti \ud83c\udfb8 ",
+  "description": "\ud83c\udfb8 canzoni da gridare e in cover nessa barrett \ud83c\udfb8 ",
   "name": "sanguegiovane",
   "tracks": [
     {
@@ -1336,6 +1336,24 @@
       "duration_ms": 146181,
       "name": "CI BERREMO SOPRA",
       "url": "https://open.spotify.com/track/14MPHzoxuguLWUfRvuirNo"
+    },
+    {
+      "album": {
+        "name": "Cicatrici",
+        "url": "https://open.spotify.com/album/1Ql5u8c69pjlsX3HdOvIDH"
+      },
+      "artists": [
+        {
+          "name": "v!ktoria",
+          "url": "https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Cicatrici",
+      "url": "https://open.spotify.com/track/1i96SWXRNE5pTkyfkCeR0w"
     },
     {
       "album": {
@@ -2826,6 +2844,24 @@
       "duration_ms": 148772,
       "name": "giuda",
       "url": "https://open.spotify.com/track/4GVmQZo4uLyJQQYwaXQOW8"
+    },
+    {
+      "album": {
+        "name": "Gi\u00f9 all' inferno",
+        "url": "https://open.spotify.com/album/69fVgUlvDh4ljavTRKdVwY"
+      },
+      "artists": [
+        {
+          "name": "Selene Ice",
+          "url": "https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144400,
+      "name": "Gi\u00f9 all' inferno",
+      "url": "https://open.spotify.com/track/2t8diydzCcydsIOBvu5K0W"
     },
     {
       "album": {
@@ -5660,6 +5696,24 @@
       "duration_ms": 156000,
       "name": "Questa tua fottuta negativit\u00e0",
       "url": "https://open.spotify.com/track/4qaoYHNEeEEFNcYnjSPCCy"
+    },
+    {
+      "album": {
+        "name": "Ragazzi Fuori",
+        "url": "https://open.spotify.com/album/0MDH9w5buwGrFj11nKwfgt"
+      },
+      "artists": [
+        {
+          "name": "7 Giorni",
+          "url": "https://open.spotify.com/artist/2gKp9MmLyGNtwTI5qCj3qz"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167692,
+      "name": "Ragazzi Fuori",
+      "url": "https://open.spotify.com/track/1URSGryUXiYhr3StdCCKZw"
     },
     {
       "album": {

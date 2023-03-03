@@ -2,7 +2,7 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LUCY\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Kwon Jin Ah\(권진아\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
 459 songs - 1 day 4 hr 16 min
 

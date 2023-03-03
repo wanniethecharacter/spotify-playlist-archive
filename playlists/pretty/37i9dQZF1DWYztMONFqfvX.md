@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Bollywood crooner's essential songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,093 likes - 79 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,750 likes - 79 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 78 | [Yaariyan \(reprise\)](https://open.spotify.com/track/2pvaCuTrMVS6byOHCIQyHj) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 5:13 |
 | 79 | [Safar \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/track/4BH3FzJwNvjDpL8J78NMYM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Safar \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/album/3dBqhNT7SK4Er8MXsBu1JI) | 6:05 |
 
-Snapshot ID: `MTY3NzQ2ODY3OSwwMDAwMDAwMGYzNWMwZTE3Njc0MjdkOGNhNGIyZjFhNzkzMGUyMTg0`
+Snapshot ID: `MTY3NzQ2ODY3OSwwMDAwMDAwMGJjYmE3ZjAwNDdkZmQ1ZGEwNzkzY2RhODk0Mzk5MmZj`

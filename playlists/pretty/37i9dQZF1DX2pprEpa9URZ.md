@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep sound, combining electronic elements and organic instrumentation stemming from the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,652 likes - 60 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,828 likes - 60 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 59 | [Take Me Back](https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [Tim Jules](https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk) | [Take Me Back](https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y) | 4:46 |
 | 60 | [Samra Samra](https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3) | [Samra Samra](https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB) | 5:04 |
 
-Snapshot ID: `MTY3NjY0Nzk5NywwMDAwMDAwMDU0MmNhYWEyOTRlZjczYjkwN2NkOWZiZWU1YzhmZTI2`
+Snapshot ID: `MTY3NjY0Nzk5NywwMDAwMDAwMDBlNDY2YzY5MGNiNDI4M2FhN2Y0ZTdlZmFlMmVmODYw`

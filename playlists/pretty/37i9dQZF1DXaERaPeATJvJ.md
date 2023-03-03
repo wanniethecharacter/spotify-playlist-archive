@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Cause
+> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,717 likes - 99 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,730 likes - 99 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Natania](https://open.spotify.com/track/7huIp9J7SEdzxJhKAjAOKz) | [Cause](https://open.spotify.com/artist/2dQUybfOJd6mplpxC4JPnZ) | [Dialog](https://open.spotify.com/album/2Vd9PhupxyXLlVJGiFCoHr) | 3:42 |
-| 2 | [Lari 100](https://open.spotify.com/track/73X5FjXQtQHPCnZGc8UJxd) | [The Sastro](https://open.spotify.com/artist/4RcRA0H94M5m9D97A5jLD0) | [Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3fw17ulJYKEQkDbWV3LTE0) | 4:27 |
-| 3 | [Satu Di Antara Seribu](https://open.spotify.com/track/65PuD3kYlDcfarRyKtVv8w) | [Cherry Bombshell](https://open.spotify.com/artist/0Y5KhI1O7yYPbLd7vi05td) | [Jalan Masih Panjang](https://open.spotify.com/album/6HKBzzMFzGeH3XNn0DMNya) | 3:55 |
-| 4 | [Kosong](https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 3:28 |
-| 5 | [Kuning](https://open.spotify.com/track/5vIXRsAZwa8uvXBhTNWTiK) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Nol Derajat](https://open.spotify.com/album/79HenduAxtzqwIznxHKJ8F) | 5:49 |
-| 6 | [Ode Pinggiran Jakarta](https://open.spotify.com/track/4hG9copEXzRakxEozJAMH5) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Audio Imperialist](https://open.spotify.com/album/3cSra7Q522rn7BvRIKYU5K) | 4:33 |
-| 7 | [Ribbons and Tie](https://open.spotify.com/track/6cX2vLd8kzTXkWUp7MUT8B) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Tinkerwish](https://open.spotify.com/album/2Rh5YARuoxIx4DIyeYPDMA) | 4:48 |
-| 8 | [Kabut](https://open.spotify.com/track/7Id4XS3OoIh7XpMf7mwBya) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Love Among the Ruins](https://open.spotify.com/album/0284ZoFuKRZAHPAVwKtOGo) | 3:26 |
-| 9 | [Rocket Ship Goes By](https://open.spotify.com/track/4t3xYJuEtE62BnjpkIlzdz) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/1ecP2zCsQt5tnXQjtT3Snd) | 4:08 |
-| 10 | [Kita Akan Bertemu di Sana](https://open.spotify.com/track/67WXgb9g8eZARad1QRMMpQ) | [whisperdesire](https://open.spotify.com/artist/0jSvusx01G0VWBt14G0AEK) | [Cerah Berawan](https://open.spotify.com/album/3mXgaM6h0ZysTtrEahbhUF) | 4:43 |
-| 11 | [Lagu Hujan](https://open.spotify.com/track/176hBOHzslVQTEF7VFmASt) | [Koil](https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A) | [Lagu Hujan](https://open.spotify.com/album/4hRM7gpvEqDhwq8zFqz4lt) | 3:58 |
-| 12 | [Matraman](https://open.spotify.com/track/6mvnlHczAMdRctsgfbA4tY) | [The Upstairs](https://open.spotify.com/artist/0EyRRRjkb75NnZx3G0JXul) | [Matraman](https://open.spotify.com/album/04W8ZfHK51vMEqT1Pjg32p) | 5:25 |
-| 13 | [Laser Gun Electro Boy](https://open.spotify.com/track/7iotoEHOJphMKxSJAS71Sy) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Electroduce Yourself](https://open.spotify.com/album/2BhBRPic40xAcJMKMt8Fzk) | 3:58 |
-| 14 | [Paradox](https://open.spotify.com/track/6Sqy4qSkZwHvbQlOmqCGe2) | [Dried Cassava](https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244) | [Mind Thieves](https://open.spotify.com/album/10u0ZDzXKtAUOrzuoZtk8z) | 5:07 |
+| 1 | [Ribbons and Tie](https://open.spotify.com/track/6cX2vLd8kzTXkWUp7MUT8B) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Tinkerwish](https://open.spotify.com/album/2Rh5YARuoxIx4DIyeYPDMA) | 4:48 |
+| 2 | [Paradox](https://open.spotify.com/track/6Sqy4qSkZwHvbQlOmqCGe2) | [Dried Cassava](https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244) | [Mind Thieves](https://open.spotify.com/album/10u0ZDzXKtAUOrzuoZtk8z) | 5:07 |
+| 3 | [Kabut](https://open.spotify.com/track/7Id4XS3OoIh7XpMf7mwBya) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Love Among the Ruins](https://open.spotify.com/album/0284ZoFuKRZAHPAVwKtOGo) | 3:26 |
+| 4 | [Kita Akan Bertemu di Sana](https://open.spotify.com/track/67WXgb9g8eZARad1QRMMpQ) | [whisperdesire](https://open.spotify.com/artist/0jSvusx01G0VWBt14G0AEK) | [Cerah Berawan](https://open.spotify.com/album/3mXgaM6h0ZysTtrEahbhUF) | 4:43 |
+| 5 | [Lari 100](https://open.spotify.com/track/73X5FjXQtQHPCnZGc8UJxd) | [The Sastro](https://open.spotify.com/artist/4RcRA0H94M5m9D97A5jLD0) | [Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3fw17ulJYKEQkDbWV3LTE0) | 4:27 |
+| 6 | [Natania](https://open.spotify.com/track/7huIp9J7SEdzxJhKAjAOKz) | [Cause](https://open.spotify.com/artist/2dQUybfOJd6mplpxC4JPnZ) | [Dialog](https://open.spotify.com/album/2Vd9PhupxyXLlVJGiFCoHr) | 3:42 |
+| 7 | [Kosong](https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 3:28 |
+| 8 | [Satu Di Antara Seribu](https://open.spotify.com/track/65PuD3kYlDcfarRyKtVv8w) | [Cherry Bombshell](https://open.spotify.com/artist/0Y5KhI1O7yYPbLd7vi05td) | [Jalan Masih Panjang](https://open.spotify.com/album/6HKBzzMFzGeH3XNn0DMNya) | 3:55 |
+| 9 | [Kuning](https://open.spotify.com/track/5vIXRsAZwa8uvXBhTNWTiK) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Nol Derajat](https://open.spotify.com/album/79HenduAxtzqwIznxHKJ8F) | 5:49 |
+| 10 | [Ode Pinggiran Jakarta](https://open.spotify.com/track/4hG9copEXzRakxEozJAMH5) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Audio Imperialist](https://open.spotify.com/album/3cSra7Q522rn7BvRIKYU5K) | 4:33 |
+| 11 | [Rocket Ship Goes By](https://open.spotify.com/track/4t3xYJuEtE62BnjpkIlzdz) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/1ecP2zCsQt5tnXQjtT3Snd) | 4:08 |
+| 12 | [Lagu Hujan](https://open.spotify.com/track/176hBOHzslVQTEF7VFmASt) | [Koil](https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A) | [Lagu Hujan](https://open.spotify.com/album/4hRM7gpvEqDhwq8zFqz4lt) | 3:58 |
+| 13 | [Matraman](https://open.spotify.com/track/6mvnlHczAMdRctsgfbA4tY) | [The Upstairs](https://open.spotify.com/artist/0EyRRRjkb75NnZx3G0JXul) | [Matraman](https://open.spotify.com/album/04W8ZfHK51vMEqT1Pjg32p) | 5:25 |
+| 14 | [Laser Gun Electro Boy](https://open.spotify.com/track/7iotoEHOJphMKxSJAS71Sy) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Electroduce Yourself](https://open.spotify.com/album/2BhBRPic40xAcJMKMt8Fzk) | 3:58 |
 | 15 | [Spoken](https://open.spotify.com/track/208KDxFGSAbH5ZYA1ktBuk) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 5:17 |
 | 16 | [100% Kontrol](https://open.spotify.com/track/24giWUT5X8fFPFE8quTB3v) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Brandalisme](https://open.spotify.com/album/32BwVGiwZl7uTvW6EgEbtZ) | 2:21 |
 | 17 | [She Burns the Disco](https://open.spotify.com/track/745CC7dQTxGJgTyZPpNjSs) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Garage of the Soul](https://open.spotify.com/album/4WNPu3Ook98eQCR5HB4HWW) | 3:43 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 95 | [A Spy in the House of Love](https://open.spotify.com/track/6Um6kOVCAV2LdFUAEWXgyS) | [The Jonis](https://open.spotify.com/artist/5Pq2ik6ubF4yTY3BcTsDqb) | [A Spy in the House of Love](https://open.spotify.com/album/2GvKZUcqklr89phbizRh7M) | 4:39 |
 | 96 | [Lovelies \- Live](https://open.spotify.com/track/2s9kJ7sZHgozm1cXqqtCTN) | [Sweaters](https://open.spotify.com/artist/24wCIVc6T6hmBCjJ8aiAKl) | [Sweaters \(Live\)](https://open.spotify.com/album/45QGhx0C4sVXp60VoRhkIE) | 4:43 |
 | 97 | [My Little Story](https://open.spotify.com/track/3nKRkZdG3jV15pkHfy9SB9) | [Dear Nancy](https://open.spotify.com/artist/74An0zaPQxQ2PeiPyoSeXQ) | [My Little Story](https://open.spotify.com/album/6CF9WbcbO7k338T2e3g9iG) | 4:26 |
-| 98 | [Romantic Purple \- Remix by Homogenic](https://open.spotify.com/track/0C46prnZtnlbCRiAoE9rXf) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS), [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Romantic Purple \- EP](https://open.spotify.com/album/2RJrXpRa29oFThJT95I0OO) | 5:43 |
-| 99 | [Before Circus Over](https://open.spotify.com/track/6zMoDgj2JvpUiT7KtGK2HJ) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/7ailqk7fkSCCwVuiuRlWyh) | 4:56 |
+| 98 | [Before Circus Over](https://open.spotify.com/track/6zMoDgj2JvpUiT7KtGK2HJ) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/7ailqk7fkSCCwVuiuRlWyh) | 4:56 |
+| 99 | [Romantic Purple \- Remix by Homogenic](https://open.spotify.com/track/0C46prnZtnlbCRiAoE9rXf) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS), [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Romantic Purple \- EP](https://open.spotify.com/album/2RJrXpRa29oFThJT95I0OO) | 5:43 |
 
-Snapshot ID: `MTY3NDE5ODE4MiwwMDAwMDAwMDJkOTFmOTRmOGUyMWQxNTNjZDk4MzYyNDc2YjE3OTEy`
+Snapshot ID: `MTY3Nzc3NzkyNiwwMDAwMDAwMDUzMDA4NzU3MDEwMjkzNjM0MjBlMGYyMjI1MmJjNjYy`

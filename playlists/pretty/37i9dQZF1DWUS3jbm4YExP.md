@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,823 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,379 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [Felony](https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Felony / Rile 'Em Up](https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0) | 3:17 |
 | 100 | [Hey Boy](https://open.spotify.com/track/4gqDN1M6lY1Dzkr2N0pZDI) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:15 |
 
-Snapshot ID: `MTY3NzU1ODg2NSwwMDAwMDAwMDQ3OTA2YTg1ODJlMzJjODVkMTVhNTdjZDllNmYxNTkw`
+Snapshot ID: `MTY3NzU1ODg2NSwwMDAwMDAwMDY3ZjI3MGI2MmI4YzBkZjI2ZTAyMmZhOTdkNTcyNzcw`

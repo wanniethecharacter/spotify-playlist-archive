@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Milena\(밀레나\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,506 likes - 53 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,559 likes - 53 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 52 | [Zero gravity \(feat\. Blueday\)](https://open.spotify.com/track/4CHZmHfpzinqUwWiSYWPn7) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Zero gravity](https://open.spotify.com/album/1EyyquQhOTZzRuuwcN1VCF) | 3:16 |
 | 53 | [Once \(feat\. J.O.Y\)](https://open.spotify.com/track/5DKXbkV2NsCOFBOWZILA2L) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Once](https://open.spotify.com/album/6LqHI2g0taFCS72SOZFXDP) | 3:10 |
 
-Snapshot ID: `MTY3NzU3OTU3MywwMDAwMDAwMGFjNzAyMzFhODJjNGZhMGZjYzBiYmFiYzMwZDJhNGFm`
+Snapshot ID: `MTY3NzU3OTU3MywwMDAwMDAwMGY2YzEwZDQxNWQzODY2OWI5MGVjNmIwZmZlODQ3ZGI3`

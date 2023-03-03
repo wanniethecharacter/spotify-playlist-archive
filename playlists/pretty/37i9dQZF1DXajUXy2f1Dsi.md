@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,992 likes - 100 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,999 likes - 100 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 | 99 | [Margaritena \- Live At Centro de Acción Social por la Música, Sala Simón Bolivar, Caracas / 2008](https://open.spotify.com/track/1vStbfxntBHDdI4jRmQhA4) | [Inocente Carreño](https://open.spotify.com/artist/2xCRnXoBFxV0a5GIslqKJI), [Simón Bolívar Youth Orchestra of Venezuela](https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Fiesta](https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP) | 13:28 |
 | 100 | [El rancho abandonado, Op\. 32, No\. 4](https://open.spotify.com/track/3laIWTVdXASANIYiCGm6Ul) | [Alberto Williams](https://open.spotify.com/artist/11kKasV6eRUQnuIouit02q), [Luiz de Moura Castro](https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK) | [Argentina Piano](https://open.spotify.com/album/54xg2Y3TMqkwsFqJ1Csm3b) | 4:31 |
 
-Snapshot ID: `MTY3NzIwMDQ3NywwMDAwMDAwMGUwYjdlNGFkMWMwN2FkMDU4ODY4Mzc0ZmYyMGMwNjlh`
+Snapshot ID: `MTY3NzIwMDQ3NywwMDAwMDAwMDU1ZWYzNWZmODQ3ZmRmNjhiYzBhMjVkZjZiZjZlZGZj`

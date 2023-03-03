@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,996 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,068 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 74 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 |
 | 75 | [Show & Prove](https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Show & Prove](https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9) | 2:29 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDc4ODEzMmQ5NjVjZDM2MmUxZDg2MDcyNDJiMmIzYzlj`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDM2MTcwMjA5MWU4ZmJjZGY4OTE0MzcyNWYxN2U2N2Q3`

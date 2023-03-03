@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-276 songs - 16 hr 29 min
+277 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,12 +117,13 @@
 | [Heartbeat](https://open.spotify.com/track/1sDuoXz1FxkzA9o6IHJLK8) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Heartbeat](https://open.spotify.com/album/2slGdJqZbiCstg2fNNbNtC) | 4:06 | 2022-01-07 | 2022-11-26 |
 | [Helium](https://open.spotify.com/track/4IMl5tnUqMEVOlJftWIUKX) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Helium](https://open.spotify.com/album/4qAvuBsCkdQkoNqahIaDlN) | 2:55 | 2022-11-11 |  |
 | [henny & patron](https://open.spotify.com/track/4M2V3bNCMeOAgTCpAQckP5) | [Ben Yen](https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ) | [henny & patron](https://open.spotify.com/album/6vHrw5zCi73swThT9N4EIP) | 2:18 | 2022-01-28 |  |
-| [Here You Are](https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/5FLfZyi6mP2tvQJjmcSqpL) | 3:08 | 2022-01-28 |  |
+| [Here You Are](https://open.spotify.com/track/0ihNcF29gXIVvzknTpuvZl) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/0l4MKvhtXCavnpHgUROcLh) | 3:08 | 2022-01-28 |  |
+| [Here You Are](https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/5FLfZyi6mP2tvQJjmcSqpL) | 3:08 | 2022-01-28 | 2023-03-03 |
 | [Hide](https://open.spotify.com/track/48m0yIOWPyLYQHXEKnMJ12) | [Alton Allen](https://open.spotify.com/artist/5sQbmL5ZGPpkwWNVxCJ2nq), [Niteppl](https://open.spotify.com/artist/5jQWZiaRwd5OXJ08MdyJ5D) | [Hide](https://open.spotify.com/album/35CDn6fdaAWVNFg6YN6K4J) | 4:18 | 2022-04-22 | 2022-10-01 |
 | [Highly Compatible](https://open.spotify.com/track/3FMZsyg0weeAzesHLC0sdU) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Highly Compatible](https://open.spotify.com/album/2JD2i0URkUYRzaO1zMVKAK) | 6:05 | 2020-11-20 | 2022-04-09 |
 | [HIT 'EM WITH THE FUNK](https://open.spotify.com/track/4wT7296bGxKURlz4mwTYTm) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [HIT 'EM WITH THE FUNK](https://open.spotify.com/album/73ftN0Cki1TUv81OKKItdm) | 3:56 | 2021-10-15 | 2022-07-23 |
 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 | 2022-07-15 |  |
-| [How Happy](https://open.spotify.com/track/5e6B2DLbg9ISk7aXbabnpG) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA) | [How Happy](https://open.spotify.com/album/4Dzbfu5IH9G5I0CpqZVutY) | 4:00 | 2023-01-23 |  |
+| [How Happy](https://open.spotify.com/track/5e6B2DLbg9ISk7aXbabnpG) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [How Happy](https://open.spotify.com/album/4Dzbfu5IH9G5I0CpqZVutY) | 4:00 | 2023-01-23 |  |
 | [How Hard](https://open.spotify.com/track/0lolsWqQe1StrLfvEtlLlt) | [Zenizen](https://open.spotify.com/artist/1MaWvJ5Y0Na24KMG79WxDU) | [How Hard](https://open.spotify.com/album/0QxwUc3t7AWzTvTXzFdq7Y) | 4:11 | 2022-06-03 |  |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2021-06-18 | 2022-01-29 |
 | [Humpty Dumpty](https://open.spotify.com/track/4hpVZXbR64gA01UCwFifdT) | [Tendavillage](https://open.spotify.com/artist/1nOm8sUi8M1dyIAJ8B5SRc) | [Humpty Dumpty](https://open.spotify.com/album/2tgHFkodm0ydkaJPgrd51k) | 2:50 | 2022-11-25 |  |

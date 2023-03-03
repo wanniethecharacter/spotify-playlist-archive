@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > PM2.5 ไม่ดีต่อปอด แต่ที่ชอบเธอมาตลอดเพราะมันดีต่อใจ
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,687 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,789 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 99 | [กะทันหัน](https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu) | [Fymme Bongkot](https://open.spotify.com/artist/5DU5PyU8u0JZSRyJdMWgsl), [Ruj Supharuj](https://open.spotify.com/artist/3OBLHdh35n5TrEeYQawkO0), [LOWFAT](https://open.spotify.com/artist/6NqYduReZoJZDuPLNiqqGR) | [All You Need is Love 3](https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD) | 4:40 |
 | 100 | [คนที่แสนธรรมดา feat\. Na Polycat](https://open.spotify.com/track/68i6L61qFCI79hD3kRrdwG) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [คนที่แสนธรรมดา feat\. Na Polycat](https://open.spotify.com/album/6payxbbvQLVLkNlRmlAiN0) | 4:33 |
 
-Snapshot ID: `MTY3Njk2NjQwMCwwMDAwMDAwMDc0MmU4NWY3YTI2MTQzYTVmMzQyMjJiMzljOTU0NDZm`
+Snapshot ID: `MTY3Njk2NjQwMCwwMDAwMDAwMDhmZDY4ZDQzMjA0MGMwNzY1OWM1NGVhY2ZmMzQwNDc3`

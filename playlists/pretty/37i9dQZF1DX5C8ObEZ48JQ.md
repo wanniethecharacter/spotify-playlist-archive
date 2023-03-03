@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b?si=Y7EFW38yR4u9fvaM0NXOyg"> MAUIMØON </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,037 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,042 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Heat Seek](https://open.spotify.com/track/3I6tt9zFcivb58YkeC20qJ) | [iamMHP](https://open.spotify.com/artist/32YFHlE9ibaRW2EJ5BiUgW), [AB Major](https://open.spotify.com/artist/4p7fcJZC4y5cMhOtyB9Y0b) | [Heat Seek](https://open.spotify.com/album/6HUJzsFRbc7R50xXKY35NI) | 2:17 |
 | 50 | [Be Free](https://open.spotify.com/track/6jT81iHttW5VwRV317yonX) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [Be Free](https://open.spotify.com/album/1KA8eKZjMX1tCiY0q4mKTe) | 5:17 |
 
-Snapshot ID: `MTY3NzA1MjYzNiwwMDAwMDAwMDg2YmE3NGVhOWZhZTg1ZDM2YTM1ZDRjOTQzMjY5ZTkz`
+Snapshot ID: `MTY3NzA1MjYzNiwwMDAwMDAwMDZmZTA0YTNiOTBjODE4ZWU2NzY2YmQxMmVmOTczNGNk`

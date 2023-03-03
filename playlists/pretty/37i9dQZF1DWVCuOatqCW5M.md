@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Shreya Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,081 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,217 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Ashk](https://open.spotify.com/track/2qdoVOsvvReqa2fcx33dzg) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU), [Shanya Gautam](https://open.spotify.com/artist/0zs3zd57gu6feDhd8w93nD) | [Ashk](https://open.spotify.com/album/13shlIykejda2EMskOKllW) | 2:45 |
 | 50 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 |
 
-Snapshot ID: `MTY3NzIyMTcxOSwwMDAwMDAwMDlkYzc1YWMwMDU0YTVlNzRjZWRjMTQ0YjZlZGU4ZTI5`
+Snapshot ID: `MTY3NzIyMTcxOSwwMDAwMDAwMDVkNTYzMmUyMDk5YWM5Y2ZmMjUxN2NkN2RhNmI5MjU5`

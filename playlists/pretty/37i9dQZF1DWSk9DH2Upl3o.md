@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: ALO
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,865 likes - 98 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,922 likes - 98 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 97 | [Wishing Well](https://open.spotify.com/track/5ju62GuABsAvpTtoAkM9Zy) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Dreams](https://open.spotify.com/album/5XGhSLj9gm7t7SygAbGk5S) | 4:50 |
 | 98 | [Another Plan of Attack](https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2) | [The Disco Biscuits](https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D) | [Another Plan of Attack](https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k) | 6:34 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDlhYTI5OGQ5NTA2NTZlMjA3NTFhMWYyNGNkZGFiYmI1`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDllMDA1MWE2ZDE0ZDRmZjA1YzY0MDA2MDg2MWNkM2Nh`

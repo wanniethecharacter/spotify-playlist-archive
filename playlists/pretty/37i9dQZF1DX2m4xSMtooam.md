@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,690 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,926 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 99 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/71fwujxrj8ThvYTArAscuH) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/album/3XEsqJB8H4SdOXD2ceOonl) | 3:04 |
 | 100 | [O Qué e Amar](https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [O Qué e Amar](https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu) | 2:53 |
 
-Snapshot ID: `MTY3NzY2MDI0NiwwMDAwMDAwMGU5ZjJmOTNkNjVmMmJlZTRlNjNiMDNiNDNiNjY4NDU5`
+Snapshot ID: `MTY3NzY2MDI0NiwwMDAwMDAwMDRkM2I4NTU1NTc0ZDRiNGI2OGEzY2U2ZjBhNzQ1YTJh`

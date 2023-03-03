@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
+  "description": "The most innovative and forward thinking metal right now. Cover: Dope",
   "name": "Alternative Metal",
   "tracks": [
     {
@@ -900,7 +900,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 211759,
       "name": "Demon Supreme",
       "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
@@ -972,10 +972,32 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 128571,
       "name": "DIVINE DISINTEGRATION",
       "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
+    },
+    {
+      "album": {
+        "name": "DODGE A BULLET",
+        "url": "https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M"
+      },
+      "artists": [
+        {
+          "name": "Philip Solo",
+          "url": "https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI"
+        },
+        {
+          "name": "ONI INC.",
+          "url": "https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166504,
+      "name": "DODGE A BULLET",
+      "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
     },
     {
       "album": {
@@ -1074,7 +1096,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 532351,
       "name": "Dr\u00fdsill",
       "url": "https://open.spotify.com/track/5pYsByOqa325t7t46xudFx"
@@ -1225,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "FLATLINE",
+        "url": "https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172067,
+      "name": "FLATLINE",
+      "url": "https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ"
+    },
+    {
+      "album": {
         "name": "Pyroclasts",
         "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
       },
@@ -1330,6 +1370,24 @@
       "duration_ms": 282613,
       "name": "Genetic",
       "url": "https://open.spotify.com/track/2Y5YCKkGcIfi3okuPGzj8v"
+    },
+    {
+      "album": {
+        "name": "Handshakes With Snakes",
+        "url": "https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117857,
+      "name": "Handshakes With Snakes",
+      "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
     },
     {
       "album": {
@@ -1629,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "Light and Darkness",
+        "url": "https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
       },
@@ -1850,7 +1926,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 126912,
       "name": "open water",
       "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
@@ -2284,6 +2360,24 @@
       "duration_ms": 288002,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw"
+    },
+    {
+      "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/0IyXHRcQxesZtc09HdKCyv"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174758,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61"
     },
     {
       "album": {
@@ -2724,7 +2818,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 413400,
       "name": "Wildblood",
       "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"

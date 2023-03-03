@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,185 likes - 103 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,405 likes - 103 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 102 | [Feathered Friend](https://open.spotify.com/track/5Ac0ipN7YqSDXOi3aT37kO) | [Kappa Mountain](https://open.spotify.com/artist/3dExis8rqyN3OsHSKuHU53), [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Echo Pool](https://open.spotify.com/album/0lZpC773e5FEXVyZ67bKzA) | 2:08 |
 | 103 | [Autumn](https://open.spotify.com/track/6k72nrGlCMKzs5TZXUF9Gp) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Autumn](https://open.spotify.com/album/4tfc7VtpuBBON6YHnGFaXU) | 4:41 |
 
-Snapshot ID: `MTY3NjI4NTM3MSwwMDAwMDAwMDZlMmFjYjVjNTgwYzFkNTI4YmZkNTRiY2EzNDBmYjY2`
+Snapshot ID: `MTY3NjI4NTM3MSwwMDAwMDAwMGEzZTg2OTgzNDkzMzg3ZTY1NGYyNTBlOTMzNDQzZmY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Busty and The Bass & Magi Merlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,565 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,621 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [BOWLiNG \(feat\. Thundercat\)](https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 1:59 |
 | 100 | [Everything You Touch Is Gold \(Epekdrezzsan\)](https://open.spotify.com/track/7k7644SNGKVmveIR99RlAB) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Everything You Touch Is Gold \(Epekdrezzsan\)](https://open.spotify.com/album/64289Z7VZZvOMyjr7yBeG7) | 3:18 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGFjODU5Zjc5YzA0OWExOWJmNDNhNGY2NzhkODgwMDBj`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDRmY2VlOTZkOWRkYjU3NTVlOTYxZDA2YTZiZjEzMTFm`

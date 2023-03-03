@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-272 songs - 1 day 1 hr 32 min
+275 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [At Dawning](https://open.spotify.com/track/4JKre2anIXOgrSjvUbqISI) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [At Dawning](https://open.spotify.com/album/05rJBiIt8xuNSjKFLnGPye) | 5:43 | 2021-10-08 | 2022-02-18 |
 | [Atonement](https://open.spotify.com/track/49e8jyxGYok1DJRLqOlg4T) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Atonement](https://open.spotify.com/album/6MFuF7vQuRVuDBRcyPPsbG) | 4:02 | 2020-10-09 | 2022-02-18 |
 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2020-10-09 | 2022-09-27 |
+| [Balkis](https://open.spotify.com/track/50r8xQYk7Gyo4N9mnguBWJ) | [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Sylvain Beuf](https://open.spotify.com/artist/0T3LDHnKTHrfICsXP6bzZz), [Thomas Bramerie](https://open.spotify.com/artist/0wDzOYze3ix7yh8brXMZBq), [Antonio Faraò](https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI) | [ASTA 2](https://open.spotify.com/album/54ew3n9npGAcqI9GtBBTpo) | 2:29 | 2023-03-02 |  |
 | [Ballad for MC](https://open.spotify.com/track/79fmhV6NAraE4Xz3MIXnN4) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [Trying to Figure It Out](https://open.spotify.com/album/0bdzkLwOBum4GKlrVnOfAE) | 3:02 | 2020-10-09 | 2022-11-23 |
 | [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 | 2022-10-13 |  |
 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 | 2020-10-09 | 2022-11-30 |
@@ -145,6 +146,7 @@
 | [Leave Me Here](https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX) | [Hidden Beauty](https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF) | 4:03 | 2020-10-09 |  |
 | [Lighter Shades](https://open.spotify.com/track/4cG4S3LHdqibrEXgj87ZNx) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Lighter Shades](https://open.spotify.com/album/5HUxoBrYZtwTz97qbuNCwc) | 5:48 | 2020-10-09 |  |
 | [Little Girl Blue](https://open.spotify.com/track/7e4cQ65cw0hbgQfbZr9IUD) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [The Art of Intimacy, Vol\. 1](https://open.spotify.com/album/3uF0eDO6FcdBSJcR4wdwms) | 7:17 | 2020-10-09 |  |
+| [Lost Souls](https://open.spotify.com/track/08M4RqR7inoJHlarJHv3nY) | [Donatas Petreikis](https://open.spotify.com/artist/2GohawNLmXECVv5UOhQYM2) | [One Way](https://open.spotify.com/album/3QItkNHdOvWF0nU9QX2ELQ) | 5:50 | 2023-03-02 |  |
 | [Love and Peace](https://open.spotify.com/track/7kdZlgkWHnivQNSGe6AsTa) | [Joachim Kühn](https://open.spotify.com/artist/63ZJSdxmTX5wWRMoS1C5ph), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg), [Chris Jennings](https://open.spotify.com/artist/2B9Gls4wGkUKOLA7vLwol1) | [Love & Peace](https://open.spotify.com/album/7LhEJGta4uIPtAMC5AQm5n) | 1:59 | 2020-10-09 |  |
 | [Melancholia](https://open.spotify.com/track/45oMeeXLzWDPsLowRyrskL) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a) | [Melancholia](https://open.spotify.com/album/7j75kLY17tahXwnAydXhv6) | 3:50 | 2021-03-05 | 2022-07-29 |
 | [Melancholia](https://open.spotify.com/track/2drDXmNLJUcNyrnpq9XVl0) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 3:50 | 2022-06-30 |  |
@@ -197,6 +199,7 @@
 | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/track/56OCZENfcrmeCpufvWZd0P) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Quiet Sense \(feat\. Paolo Fresu\)](https://open.spotify.com/album/7BisVv834vN4y1h8CcWhjC) | 4:43 | 2021-11-26 |  |
 | [Romance / Hommage à Milhaud](https://open.spotify.com/track/3lw4OExcjj4kba4uU9gF4P) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Ménage à trois](https://open.spotify.com/album/55UQ7AQ6F88cmU7SEoVNaE) | 4:45 | 2020-10-09 | 2022-02-25 |
 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 | 2020-10-09 |  |
+| [Round Midnight](https://open.spotify.com/track/5DlGJh3S6jYf0wZAiESvwA) | [The Mellowtones](https://open.spotify.com/artist/00Riinu1dD4y04vDPULBE6) | [Round Midnight](https://open.spotify.com/album/4LgeBu2FmDL9nakgrReCuH) | 5:01 | 2023-03-02 |  |
 | [Ruth](https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Ruth](https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly) | 4:11 | 2023-01-05 |  |
 | [Sad Tune](https://open.spotify.com/track/3LZ0GUgBO1XXW6jKK5A2lJ) | [European Jazz Trio](https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI) | [West Village](https://open.spotify.com/album/7gzA8ExUAm5N63xmO3C0KH) | 6:15 | 2020-10-09 | 2022-02-18 |
 | [Search for Peace](https://open.spotify.com/track/045TksBNi3CO5Y00Z4RqPC) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Far Far Away](https://open.spotify.com/album/6lxH5swGpO4njwde8GFdmy) | 4:45 | 2023-02-06 |  |

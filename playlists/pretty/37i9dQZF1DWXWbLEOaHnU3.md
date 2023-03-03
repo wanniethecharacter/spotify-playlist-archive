@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,391 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,667 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Frequency \- Aura Vortex Remix](https://open.spotify.com/track/057ud3gUiKPOJ6CY696J4I) | [Day Din](https://open.spotify.com/artist/1YzhPssoLV65PIChO3Uri9), [Coming Soon!!!](https://open.spotify.com/artist/4Iht6hiRR5kov66LO7fcOu), [Aura Vortex](https://open.spotify.com/artist/5T6ATRUoiqVQpcQTK94ies) | [Frequency \(Aura Vortex Remix\)](https://open.spotify.com/album/0YCowgi0iH0oCjtfFtuWUS) | 7:15 |
 | 75 | [The Blood \- Abraxis Remix](https://open.spotify.com/track/4loaayWo7pIYpXLhbWwqe2) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Abraxis](https://open.spotify.com/artist/0VVfeAF66rSXe5NcSLuTs7) | [10 Years of Seven Lions](https://open.spotify.com/album/4GeCvjfDFBbGscwqQ3fA9S) | 6:02 |
 
-Snapshot ID: `MTY3NDIwMTA0MiwwMDAwMDAwMDFjZDg2OWRmZDYxZmYxMzAxYjc5YjZjNTllYzQyYjIx`
+Snapshot ID: `MTY3NDIwMTA0MiwwMDAwMDAwMDViZDIwYmJlNjdkNmMwYzNkZmVmZTYzY2Q3YWU0OTQ3`

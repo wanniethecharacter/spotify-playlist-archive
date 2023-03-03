@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,009 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,060 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Kesaillan idylli \(Summer Night's Idyll\) , Op\. 16, No\. 2 \(arr\. J\. Panula\)](https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw) | [Oskar Merikanto](https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd), [Jorma Panula](https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi), [Camerata Finlandia](https://open.spotify.com/artist/5d50sz80VdFchQOw37sZ5w) | [Early One Morning](https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe) | 1:18 |
 | 60 | [Andante spiniato in G: Allegro maestoso](https://open.spotify.com/track/5ol0EvR9aNThftRoereISI) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chill With Chopin](https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV) | 4:54 |
 
-Snapshot ID: `MTY3NTkzMzUzMiwwMDAwMDAwMGVlZjgwNWY5NDU2OTBjNWNhZjQ3MzU0OGFjMWNkYjk5`
+Snapshot ID: `MTY3NTkzMzUzMiwwMDAwMDAwMDIxMDc3MjQ4MDhhZDY5NzRiYTM0N2FlOWMzZmU1NWFk`

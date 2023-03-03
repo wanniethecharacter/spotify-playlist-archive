@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > The chillest beats to help you relax, study, code, and focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,955,761 likes - 850 songs - 1 day 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,957,244 likes - 850 songs - 1 day 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -859,4 +859,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 849 | [a warm kiss in the frost](https://open.spotify.com/track/0rE1VJnjast6fXOJtniaO0) | [fibra](https://open.spotify.com/artist/40A1MjdCIepuuhptyBVoCB) | [a warm kiss in the frost](https://open.spotify.com/album/2pEd6L29NLepE65yoM7xkY) | 1:55 |
 | 850 | [Morning Rays](https://open.spotify.com/track/7D8dbSD6PTu9uwNfzuwoAR) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN) | [Morning Rays](https://open.spotify.com/album/2Mme6wsiWEvVzHQktR2Wus) | 1:57 |
 
-Snapshot ID: `MTY3NzUwMzAzNCwwMDAwMDAwMGI3NjQ4ZTc0ODVkNTI5YWVjMDc5NDBjNmZlOTQzNTk0`
+Snapshot ID: `MTY3NzUwMzAzNCwwMDAwMDAwMDg3MjA5OWFkMWJjZGY0YmRjZjM4OTI4NjJhMTE4NjRk`

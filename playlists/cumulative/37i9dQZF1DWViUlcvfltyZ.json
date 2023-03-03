@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. In cover, le Bambole di Pezza!",
+  "description": "La playlist che \u00e8 come andare ai concerti. In cover, Giorgieness!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 218188,
       "name": "ANITA",
       "url": "https://open.spotify.com/track/0Q7PJdV8DZkXs0bwk5LMKM"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 275115,
       "name": "Atropina",
       "url": "https://open.spotify.com/track/41720wkLjBsUQfdqxfLzUe"
@@ -622,6 +622,28 @@
       "duration_ms": 204258,
       "name": "Bla",
       "url": "https://open.spotify.com/track/6gy6etySU0niUCPlyy11cp"
+    },
+    {
+      "album": {
+        "name": "BLACKOUT",
+        "url": "https://open.spotify.com/album/1sd55GJUC7aGXlUfdg3VhT"
+      },
+      "artists": [
+        {
+          "name": "maxwell da costa",
+          "url": "https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT"
+        },
+        {
+          "name": "cino",
+          "url": "https://open.spotify.com/artist/78BNTkfK1PBUMe9EfJKKGX"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/4R7sGPaCIVnT5d6EOms23W"
     },
     {
       "album": {
@@ -1260,7 +1282,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 285546,
       "name": "Consciousness Equals Energy",
       "url": "https://open.spotify.com/track/4VeoIUlIPtqp8qWcbEJX1j"
@@ -1501,6 +1523,42 @@
     },
     {
       "album": {
+        "name": "Destroy",
+        "url": "https://open.spotify.com/album/4h8rs7FLRj0x5H1dgO8MrV"
+      },
+      "artists": [
+        {
+          "name": "DOLA",
+          "url": "https://open.spotify.com/artist/0OvTRIcNwihrBkwZK2oiqy"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130030,
+      "name": "Destroy",
+      "url": "https://open.spotify.com/track/1qyC24XBRS8gCtgHdogqSZ"
+    },
+    {
+      "album": {
+        "name": "Manuale Illusione",
+        "url": "https://open.spotify.com/album/5mbSRdkta9YJNrE5enrRQp"
+      },
+      "artists": [
+        {
+          "name": "Ai!",
+          "url": "https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 612500,
+      "name": "Dimensioni",
+      "url": "https://open.spotify.com/track/5PyuNTJsfks0Ub77EvdOQ5"
+    },
+    {
+      "album": {
         "name": "Dimmi Dimmi",
         "url": "https://open.spotify.com/album/22LJuu2gun0OObYToNHQRm"
       },
@@ -1627,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Dubbi",
+        "url": "https://open.spotify.com/album/6omoVtfeupG4wYjvJGbmnK"
+      },
+      "artists": [
+        {
+          "name": "Federico Dragogna",
+          "url": "https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141235,
+      "name": "Dubbi",
+      "url": "https://open.spotify.com/track/2wtWiOYLxZeWotEXMGqH56"
+    },
+    {
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/4qq6sl99NWDbnySzlnUGiT"
       },
@@ -1686,6 +1762,24 @@
       "duration_ms": 191124,
       "name": "Eclisse",
       "url": "https://open.spotify.com/track/3fbCH7xhmMVqFUZg0Thp8W"
+    },
+    {
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/2DZNZYc4ZanD5PrNlSsmuo"
+      },
+      "artists": [
+        {
+          "name": "Giorgieness",
+          "url": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229285,
+      "name": "Eclissi",
+      "url": "https://open.spotify.com/track/72HI1aZn1i1eoTpuVQtcKn"
     },
     {
       "album": {
@@ -2083,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "Freddo Inverno",
+        "url": "https://open.spotify.com/album/3x4zhsXgv8pzod8dFC1nvB"
+      },
+      "artists": [
+        {
+          "name": "Mondo Caos",
+          "url": "https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224678,
+      "name": "Freddo Inverno",
+      "url": "https://open.spotify.com/track/7qh7Vn7b8xANVrNHSOKaHg"
+    },
+    {
+      "album": {
         "name": "Furore",
         "url": "https://open.spotify.com/album/0gd8zQEysYahjiJ20rE79G"
       },
@@ -2304,6 +2416,24 @@
       "duration_ms": 158280,
       "name": "High On Stress",
       "url": "https://open.spotify.com/track/1y2fS0kinayyO7Ih4vFrqT"
+    },
+    {
+      "album": {
+        "name": "i mostri col cazzo che si nascondono sotto alle lenzuola",
+        "url": "https://open.spotify.com/album/7LCf7e9ejfOnOqAE7oFSvJ"
+      },
+      "artists": [
+        {
+          "name": "ciliegia suicidio",
+          "url": "https://open.spotify.com/artist/4SEMUz1c0Z8kEc9E9NbnS3"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131907,
+      "name": "ho sentito il tuo cuore",
+      "url": "https://open.spotify.com/track/4TdtIFAJvvn7Hrg1DHkier"
     },
     {
       "album": {
@@ -2951,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "Quello Che Resta",
+        "url": "https://open.spotify.com/album/5feykjYw08wshzlOPemXj9"
+      },
+      "artists": [
+        {
+          "name": "Iride",
+          "url": "https://open.spotify.com/artist/3jyLpt1a005jd7VU9m6F5w"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Le Foglie",
+      "url": "https://open.spotify.com/track/6EZXfB8BRZZRidwYKNBUpg"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3578E1xDOOkKh9mVWCHXAP"
       },
@@ -3150,7 +3298,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 202400,
       "name": "Luciano/Eriberto (feat. Max Collini)",
       "url": "https://open.spotify.com/track/4GEmquye0uXewzkuxaAJXB"
@@ -3671,6 +3819,24 @@
     },
     {
       "album": {
+        "name": "Nudi + Crudi",
+        "url": "https://open.spotify.com/album/5OB8BVcoN0iuhpbq963zbS"
+      },
+      "artists": [
+        {
+          "name": "ULTRANOIA",
+          "url": "https://open.spotify.com/artist/6cGw5bSzyixem0tMv0k434"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158680,
+      "name": "Nudi + Crudi",
+      "url": "https://open.spotify.com/track/4EXOAj9ra0lxWg8y6VZANO"
+    },
+    {
+      "album": {
         "name": "Nuvola II",
         "url": "https://open.spotify.com/album/5RzRZucmRpkc309el2IyKr"
       },
@@ -3700,7 +3866,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 186374,
       "name": "Nuvolone",
       "url": "https://open.spotify.com/track/7MYSEt7ON2GaBKoW98eoyB"
@@ -3909,6 +4075,24 @@
     },
     {
       "album": {
+        "name": "Piove Dentro",
+        "url": "https://open.spotify.com/album/33J2CqTy3vTKh0O5Tzh9ex"
+      },
+      "artists": [
+        {
+          "name": "Gli Occhi Degli Altri",
+          "url": "https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197579,
+      "name": "Piove Dentro",
+      "url": "https://open.spotify.com/track/5n79HFgmPQATiB8NwP8Uvk"
+    },
+    {
+      "album": {
         "name": "Pi\u00f9 mi odi pi\u00f9 mi amo",
         "url": "https://open.spotify.com/album/61YoRhVptt77M5XZigQOOT"
       },
@@ -3938,7 +4122,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 148363,
       "name": "Porci democristiani",
       "url": "https://open.spotify.com/track/4g3jVoInr14fT2myZwsnSe"
@@ -4040,6 +4224,24 @@
       "duration_ms": 196614,
       "name": "POVERI DIAVOLI",
       "url": "https://open.spotify.com/track/7Kr5XGDiO1jytPSyVxb1yv"
+    },
+    {
+      "album": {
+        "name": "Preda",
+        "url": "https://open.spotify.com/album/6WmM7P2msBOZaXLMtUpu1A"
+      },
+      "artists": [
+        {
+          "name": "Solaris",
+          "url": "https://open.spotify.com/artist/3RFeodZEt6cNZo0DPQMd4S"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328467,
+      "name": "Preda",
+      "url": "https://open.spotify.com/track/0atyKPRQkBohLByxwbAC2u"
     },
     {
       "album": {
@@ -4340,7 +4542,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 137346,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/3Wuany26qQD9ymwpL2Iicl"
@@ -4383,6 +4585,24 @@
     },
     {
       "album": {
+        "name": "Schifo",
+        "url": "https://open.spotify.com/album/30eeeEsrnWFz8wDaP5DRm1"
+      },
+      "artists": [
+        {
+          "name": "Colla",
+          "url": "https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182253,
+      "name": "Schifo",
+      "url": "https://open.spotify.com/track/7faEMnYmpiNWxQoGcIDIbf"
+    },
+    {
+      "album": {
         "name": "Senza Fine",
         "url": "https://open.spotify.com/album/2SlwwWFm3wZ9xFMwwntgup"
       },
@@ -4394,7 +4614,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 211600,
       "name": "Senza Fine",
       "url": "https://open.spotify.com/track/0kcOUYb4244Ul2Cd3mEvkE"
@@ -4484,7 +4704,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 149719,
       "name": "SETTESATANICHE",
       "url": "https://open.spotify.com/track/2p3LzX6cbB8gm6DnUExMYb"
@@ -4578,6 +4798,24 @@
       "duration_ms": 151623,
       "name": "So Long",
       "url": "https://open.spotify.com/track/38Klg16zOlVdoCcVY17pVC"
+    },
+    {
+      "album": {
+        "name": "Lentius Profundius Suavius",
+        "url": "https://open.spotify.com/album/6evTL0jvzNn2kOP2jEZsvw"
+      },
+      "artists": [
+        {
+          "name": "Krano",
+          "url": "https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "Soa",
+      "url": "https://open.spotify.com/track/55sdacSFOkx0mewyYctT1d"
     },
     {
       "album": {
@@ -5095,6 +5333,24 @@
     },
     {
       "album": {
+        "name": "The Sweetest Nightmare",
+        "url": "https://open.spotify.com/album/5nlf41KR9hnAAyfMX5K9yj"
+      },
+      "artists": [
+        {
+          "name": "Giobia",
+          "url": "https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229271,
+      "name": "The Sweetest Nightmare",
+      "url": "https://open.spotify.com/track/3t4khpJjAdW2qLSdNuwK2e"
+    },
+    {
+      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/0rXmDvbdBuAsMVQYpfqT0u"
       },
@@ -5250,7 +5506,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 187500,
       "name": "Trieste",
       "url": "https://open.spotify.com/track/6QUSKBtEtHK1cC8yW1TkOu"
@@ -5488,7 +5744,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 246600,
       "name": "Vaslin",
       "url": "https://open.spotify.com/track/1KgP3b2yEzwxDNVIRwzLOu"
@@ -5604,6 +5860,24 @@
       "duration_ms": 259440,
       "name": "Voglio invecchiare male (feat. Management)",
       "url": "https://open.spotify.com/track/1UioMVlhDjrjJ3o6HP2Vhr"
+    },
+    {
+      "album": {
+        "name": "Volpi",
+        "url": "https://open.spotify.com/album/2ipqyNnq2rcaJqVoVMFkJB"
+      },
+      "artists": [
+        {
+          "name": "Ricche le Mura",
+          "url": "https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220555,
+      "name": "Volpi",
+      "url": "https://open.spotify.com/track/3OHRaBl0M2X5UWfgevbyVK"
     },
     {
       "album": {

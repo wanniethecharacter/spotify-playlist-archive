@@ -490,7 +490,7 @@
           "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
         }
       ],
-      "date_added": "2023-03-02",
+      "date_added": "2023-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160868,
@@ -2013,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "Hald deg fast",
+        "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202066,
+      "name": "Hald deg fast",
+      "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
+    },
+    {
+      "album": {
         "name": "Hardanger",
         "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
       },
@@ -3328,7 +3346,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 153843,
       "name": "Livet p\u00e5 b\u00f8gda",
       "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
@@ -4140,6 +4158,28 @@
       "duration_ms": 143181,
       "name": "Rett Ut Av Rehab",
       "url": "https://open.spotify.com/track/2AmSuzgwMHKpP8i3cMvDWr"
+    },
+    {
+      "album": {
+        "name": "Rom & Cola",
+        "url": "https://open.spotify.com/album/0C3iRNcHRYBZqHgsjIaifU"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        },
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132931,
+      "name": "Rom & Cola",
+      "url": "https://open.spotify.com/track/1GFZP2cT6C7nGmRzfX7VEY"
     },
     {
       "album": {
@@ -5454,7 +5494,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 173986,
       "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
       "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"

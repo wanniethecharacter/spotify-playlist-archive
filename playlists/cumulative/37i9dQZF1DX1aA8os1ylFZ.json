@@ -1381,6 +1381,28 @@
     },
     {
       "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178274,
+      "name": "Fantasy (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV"
       },
@@ -4235,6 +4257,28 @@
     },
     {
       "album": {
+        "name": "Ride with You",
+        "url": "https://open.spotify.com/album/6Ugju3J2yU7PfOk0nSAkBF"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
+        {
+          "name": "Mike Tibbert",
+          "url": "https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164793,
+      "name": "Ride with You",
+      "url": "https://open.spotify.com/track/0pwGmwNir2jkqhWhBu9WqB"
+    },
+    {
+      "album": {
         "name": "Same Love; A Romanticized Timeline",
         "url": "https://open.spotify.com/album/7zpZjaxYyeqio38VIkravV"
       },
@@ -4264,7 +4308,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 218048,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
@@ -4576,7 +4620,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 151676,
       "name": "Simp",
       "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"

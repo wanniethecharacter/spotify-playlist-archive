@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,987 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,201 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [Mambo 1000](https://open.spotify.com/track/1NuSZFERO5CMr0dSrWO3Lu) | [Ursula 1000](https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT) | [The Now Sound of Ursula 1000 \(Deluxe Version\)](https://open.spotify.com/album/7pyqMk8bzqQDIAFT2MdRKK) | 5:40 |
 | 100 | [Lavabo Mi Amor](https://open.spotify.com/track/1lFMWSIu7isKOdn12emfDf) | [French Fuse](https://open.spotify.com/artist/3bZHlENvWWvWYYIsC7vLSi) | [Lavabo Mi Amor](https://open.spotify.com/album/4euUcMhzG6GELGIMfWasPT) | 3:03 |
 
-Snapshot ID: `MTY3NzI2MjA4MCwwMDAwMDAwMGYzZWM1ZGM4YTY4ZGU2Y2U1Zjg3YWY3MDZmOGJiOGVi`
+Snapshot ID: `MTY3NzI2MjA4MCwwMDAwMDAwMDNkNTcxYThiOGFmMjUxYThhNTIxZDc4OGNjMDI2YTc2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > احدث الاغاني العراقية\. غلاف: محمود التركي
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,826 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,868 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,25 +38,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 28 | [Hobk Tarak Ather](https://open.spotify.com/track/3087i1xlpg2i1g77CSosnE) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Hobk Tarak Ather](https://open.spotify.com/album/7ttYNCLKQnEcTQOuSr4hhF) | 4:37 |
 | 29 | [Shoof El Qahar](https://open.spotify.com/track/0A1TN1veorX1HdN4G0Coal) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Shoof El Qahar](https://open.spotify.com/album/3TJMe97n0hfRVGuMsKPEQw) | 3:24 |
 | 30 | [Wahdek Ya Eani](https://open.spotify.com/track/7FJ5peqeu1dUXMXi0d9ntB) | [Ali Alsalem](https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP) | [Wahdek Ya Eani](https://open.spotify.com/album/3JJKAeLguFFnEVYMbS64hr) | 2:32 |
-| 31 | [Qalbi](https://open.spotify.com/track/2MPhoIfjDqqtcIpCoq61j7) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Zaid Al Habeb](https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK) | [Qalbi](https://open.spotify.com/album/1lfpfGCFc7pDdQO9H1Qa5L) | 3:06 |
-| 32 | [Thawab Al Marajil](https://open.spotify.com/track/562C7AOXcdWOSbjKosv0Jy) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Thawab Al Marajil](https://open.spotify.com/album/336eJsYiToritUo974G0wr) | 2:25 |
-| 33 | [Jksara](https://open.spotify.com/track/4XAOZnXuPOGJ8MG0OdrMWt) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Jksara](https://open.spotify.com/album/3bSe4AzGwBDXR2X9R3lt0g) | 3:36 |
-| 34 | [Enta W Thamrak](https://open.spotify.com/track/14x0OIi2vtEr4ElXWTgNM4) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Enta W Thamrak](https://open.spotify.com/album/7AjsDQughvx6uMOpPW3d3z) | 3:46 |
-| 35 | [Wahishni Shakhs](https://open.spotify.com/track/1ZIhUK12wFNkluBOn5xL1A) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Wahishni Shakhs](https://open.spotify.com/album/29YDoB2HipVG669Qo2Blsm) | 3:43 |
-| 36 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 |
-| 37 | [Edaaily Ansak](https://open.spotify.com/track/0DpLsWfTP35x7Qyoxm1zNx) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Edaaily Ansak](https://open.spotify.com/album/75T5jMz1R3llv8P8SVXC9q) | 3:18 |
-| 38 | [Lef Elkon](https://open.spotify.com/track/5Rzq5P1v9xDfPc5jTOieAM) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Lef Elkon](https://open.spotify.com/album/1y0OCBu84DwxC6Ba3toGRA) | 3:20 |
-| 39 | [Ya Hawa](https://open.spotify.com/track/2vAAElgBqn7Zg4RE8ILTnb) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Ya Hawa](https://open.spotify.com/album/1Sa0mPHew4z0Ukl3UkDuzi) | 3:55 |
-| 40 | [Elk Nathir](https://open.spotify.com/track/0wgEd2trLis21up4IPj6hs) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Elk Nathir](https://open.spotify.com/album/4Tg7ogpzAMwVlVhrOPhVBx) | 4:17 |
-| 41 | [أحبك دومي](https://open.spotify.com/track/6ifzqwDP0Fnsz4uhHB8k2c) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [أحبك دومي](https://open.spotify.com/album/0800c1fgGe68F8wHAKU56W) | 3:36 |
-| 42 | [Thanbak](https://open.spotify.com/track/0FOPyub9jFXCT23dJPU4Z9) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [Thanbak](https://open.spotify.com/album/4YCMXvlPMKqgI1w2f0sHuV) | 5:11 |
-| 43 | [Mawal Alila](https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Mawal Alila](https://open.spotify.com/album/4KwlxCgjLklIgoWVZY0zoz) | 2:31 |
-| 44 | [Al Lahja \- اللهجة](https://open.spotify.com/track/6YlUqBfdYjfAIOD56lqR26) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Al Lahja \(اللهجة\)](https://open.spotify.com/album/3V0G68ATxV8w7Zs5eOKEqi) | 2:38 |
-| 45 | [Awal Marah](https://open.spotify.com/track/5xcZqcy77FOa8qL8AVLZfv) | [Taif](https://open.spotify.com/artist/66XWRsuL9rNfq5CFoOCTLC) | [Awal Marah](https://open.spotify.com/album/67fv0fvX3nzAnBHCZJNqqa) | 4:04 |
-| 46 | [Ya Janti Ya Nari](https://open.spotify.com/track/5qtAaqobu4NUGsnBA1Hlx1) | [Ghassan Alshami](https://open.spotify.com/artist/0qguH6YJEX8iRuHjjb98sC) | [Ya Janti Ya Nari](https://open.spotify.com/album/3cgzsdNLX4ijTwPXZZ3fMp) | 4:23 |
-| 47 | [Ma Dal Makan](https://open.spotify.com/track/706ybZpgqWUWxf0lpwPkpG) | [Evan Naji](https://open.spotify.com/artist/2zgE2v3Zdc8CCFqATOA08Q) | [Ma Dal Makan](https://open.spotify.com/album/6BOjZpXEsOOutRTEG0BYWT) | 3:55 |
-| 48 | [Khal Nafterk](https://open.spotify.com/track/3NUhC39QTOVtlDC2jvO9st) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Khal Nafterk](https://open.spotify.com/album/0eq2PMVmydIIKz8C4l0V5G) | 3:30 |
-| 49 | [Awal Wahed \- أول واحد](https://open.spotify.com/track/3TRMyTLIbscI2U38QFU6FE) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Awal Wahed \(أول واحد\)](https://open.spotify.com/album/632lr49KgwwQXhV1dg6aeF) | 3:49 |
-| 50 | [Karamti](https://open.spotify.com/track/1KvMp5OqzpTQOZYOohzynn) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Karamti](https://open.spotify.com/album/7qQx75GAnzjtyoKRbYFHZE) | 3:43 |
+| 31 | [Thawab Al Marajil](https://open.spotify.com/track/562C7AOXcdWOSbjKosv0Jy) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Thawab Al Marajil](https://open.spotify.com/album/336eJsYiToritUo974G0wr) | 2:25 |
+| 32 | [Jksara](https://open.spotify.com/track/4XAOZnXuPOGJ8MG0OdrMWt) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Jksara](https://open.spotify.com/album/3bSe4AzGwBDXR2X9R3lt0g) | 3:36 |
+| 33 | [Enta W Thamrak](https://open.spotify.com/track/14x0OIi2vtEr4ElXWTgNM4) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Enta W Thamrak](https://open.spotify.com/album/7AjsDQughvx6uMOpPW3d3z) | 3:46 |
+| 34 | [Wahishni Shakhs](https://open.spotify.com/track/1ZIhUK12wFNkluBOn5xL1A) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Wahishni Shakhs](https://open.spotify.com/album/29YDoB2HipVG669Qo2Blsm) | 3:43 |
+| 35 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 |
+| 36 | [Edaaily Ansak](https://open.spotify.com/track/0DpLsWfTP35x7Qyoxm1zNx) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Edaaily Ansak](https://open.spotify.com/album/75T5jMz1R3llv8P8SVXC9q) | 3:18 |
+| 37 | [Lef Elkon](https://open.spotify.com/track/5Rzq5P1v9xDfPc5jTOieAM) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Lef Elkon](https://open.spotify.com/album/1y0OCBu84DwxC6Ba3toGRA) | 3:20 |
+| 38 | [Ya Hawa](https://open.spotify.com/track/2vAAElgBqn7Zg4RE8ILTnb) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Ya Hawa](https://open.spotify.com/album/1Sa0mPHew4z0Ukl3UkDuzi) | 3:55 |
+| 39 | [Elk Nathir](https://open.spotify.com/track/0wgEd2trLis21up4IPj6hs) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Elk Nathir](https://open.spotify.com/album/4Tg7ogpzAMwVlVhrOPhVBx) | 4:17 |
+| 40 | [أحبك دومي](https://open.spotify.com/track/6ifzqwDP0Fnsz4uhHB8k2c) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [أحبك دومي](https://open.spotify.com/album/0800c1fgGe68F8wHAKU56W) | 3:36 |
+| 41 | [Thanbak](https://open.spotify.com/track/0FOPyub9jFXCT23dJPU4Z9) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [Thanbak](https://open.spotify.com/album/4YCMXvlPMKqgI1w2f0sHuV) | 5:11 |
+| 42 | [Mawal Alila](https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Mawal Alila](https://open.spotify.com/album/4KwlxCgjLklIgoWVZY0zoz) | 2:31 |
+| 43 | [Al Lahja \- اللهجة](https://open.spotify.com/track/6YlUqBfdYjfAIOD56lqR26) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Al Lahja \(اللهجة\)](https://open.spotify.com/album/3V0G68ATxV8w7Zs5eOKEqi) | 2:38 |
+| 44 | [Awal Marah](https://open.spotify.com/track/5xcZqcy77FOa8qL8AVLZfv) | [Taif](https://open.spotify.com/artist/66XWRsuL9rNfq5CFoOCTLC) | [Awal Marah](https://open.spotify.com/album/67fv0fvX3nzAnBHCZJNqqa) | 4:04 |
+| 45 | [Ya Janti Ya Nari](https://open.spotify.com/track/5qtAaqobu4NUGsnBA1Hlx1) | [Ghassan Alshami](https://open.spotify.com/artist/0qguH6YJEX8iRuHjjb98sC) | [Ya Janti Ya Nari](https://open.spotify.com/album/3cgzsdNLX4ijTwPXZZ3fMp) | 4:23 |
+| 46 | [Ma Dal Makan](https://open.spotify.com/track/706ybZpgqWUWxf0lpwPkpG) | [Evan Naji](https://open.spotify.com/artist/2zgE2v3Zdc8CCFqATOA08Q) | [Ma Dal Makan](https://open.spotify.com/album/6BOjZpXEsOOutRTEG0BYWT) | 3:55 |
+| 47 | [Khal Nafterk](https://open.spotify.com/track/3NUhC39QTOVtlDC2jvO9st) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Khal Nafterk](https://open.spotify.com/album/0eq2PMVmydIIKz8C4l0V5G) | 3:30 |
+| 48 | [Awal Wahed \- أول واحد](https://open.spotify.com/track/3TRMyTLIbscI2U38QFU6FE) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Awal Wahed \(أول واحد\)](https://open.spotify.com/album/632lr49KgwwQXhV1dg6aeF) | 3:49 |
+| 49 | [Karamti](https://open.spotify.com/track/1KvMp5OqzpTQOZYOohzynn) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Karamti](https://open.spotify.com/album/7qQx75GAnzjtyoKRbYFHZE) | 3:43 |
 
-Snapshot ID: `MTY3NzU3MjI3NSwwMDAwMDAwMDY3YzMyOWI2NjIyYzJhZjkzODg0MzkxMzMzOWU4N2Fm`
+Snapshot ID: `MTY3Nzc0NDgyMCwwMDAwMDAwMDA2MzFmNTM1YmI0YWM5YzdjY2YwNmZiNDI3NTdmZDBm`

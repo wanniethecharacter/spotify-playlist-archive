@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,790 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,157 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 149 | [Make Me \(Cry\) \- Acoustic](https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X) | [Boreal](https://open.spotify.com/artist/0fov7ClSP5KDEJUbE0D0VI) | [Make Me \(Cry\) \[Acoustic\]](https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0) | 3:01 |
 | 150 | [Why Georgia \- RAWsession](https://open.spotify.com/track/1ZyNC4ePk2gAtRWBNVmd6B) | [Jess Delgado](https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5) | [RAWsession \- 5.25.10](https://open.spotify.com/album/1VjkHEj9MtBnoA3MTH4feP) | 4:26 |
 
-Snapshot ID: `MTY2MzY4NDQwOCwwMDAwMDAwMDUyZmY5OTUyM2I4N2Y5NjQ0OWU5YmY1ZjQ2ZGNmZDU3`
+Snapshot ID: `MTY2MzY4NDQwOCwwMDAwMDAwMDg1NmFmYWUxMWUyMzdlNDBiMjJhMzdiMWY5NzdmM2I0`

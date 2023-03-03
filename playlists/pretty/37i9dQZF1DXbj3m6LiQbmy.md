@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Sans Soucis in cover, e <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">nella playlist global</a> ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,247 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,246 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 74 | [We're So Lovely \- Hard Ton Remix](https://open.spotify.com/track/6qxn9Wge4mHwcDhr8R6R0p) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [We're So Lovely \(Hard Ton Remix\)](https://open.spotify.com/album/1AtJBkGpJIZb8Ftl2bkWdj) | 4:14 |
 | 75 | [Repito \- Populous Remix](https://open.spotify.com/track/0L0XrBKrMxd9LPCMVLkJmw) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l), [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Morsi](https://open.spotify.com/album/0P1YyFEArN1FzbpL542vUa) | 2:58 |
 
-Snapshot ID: `MTY3NzU5MDM0NCwwMDAwMDAwMGFjZmJiM2MyNDJlMDJmY2U5MDI2YmM5NDk2ODYwM2Y2`
+Snapshot ID: `MTY3NzU5MDM0NCwwMDAwMDAwMDJhMjY1ZDQzNzI5Zjk1NWZlN2NmZGY3M2UxY2QxOTQ2`

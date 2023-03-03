@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,436 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,442 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 49 | [Nevada](https://open.spotify.com/track/6pDDqmqthh9gZ52TfhasVl) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed, Volume 1](https://open.spotify.com/album/3FpvHj85rnjPlX9HW7BfOd) | 4:19 |
 | 50 | [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 |
 
-Snapshot ID: `MTY3MTYwMjQwMCwwMDAwMDAwMDc3MmMyOWUwOTlhZmFmOGJhZGM0MTQxZTljM2VlMTMy`
+Snapshot ID: `MTY3MTYwMjQwMCwwMDAwMDAwMDVhYWZkNjYxMmE0ZDFlOWI5MTBiMzIxMDQ4MzNlZTg4`

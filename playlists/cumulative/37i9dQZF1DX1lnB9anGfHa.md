@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-160 songs - 10 hr 49 min
+162 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [I Was Wrong](https://open.spotify.com/track/0CeY5CPaFPvl3BBx7rlkYX) | [w\. baer](https://open.spotify.com/artist/4ke7r9NNRe8Wg7ouwg7xOO) | [De Dust2](https://open.spotify.com/album/4lyXEmxTF8EMIwr8hbDmo5) | 3:24 | 2020-10-20 |  |
 | [Illogical Lullaby](https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Illogical Dance](https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g) | 7:53 | 2022-08-16 | 2022-11-04 |
 | [Incendio](https://open.spotify.com/track/3Ju42J1sFmVpxkGGSFpcWb) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Incendio](https://open.spotify.com/album/4cmrJPAbJQuBpGPIKbHzfQ) | 2:44 | 2021-10-01 |  |
+| [Jardín de Planetas](https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Jardín de Planetas](https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7) | 6:14 | 2023-03-03 |  |
 | [Jordão](https://open.spotify.com/track/0OOjWnUSSQzwav02OSctR2) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Parva Naturalia](https://open.spotify.com/album/5tHvENdIkbBl0ItOTva9W8) | 4:23 | 2022-02-18 |  |
 | [Jordão](https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Jordão](https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi) | 4:23 | 2022-02-18 | 2023-02-02 |
 | [Kinko's field trip 2006](https://open.spotify.com/track/0HPNtkVFdg7vB5fKXSABfn) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Kinko's field trip 2006](https://open.spotify.com/album/7nnmPQgX7VcKpCA0M5cMD8) | 2:31 | 2021-06-23 | 2023-02-28 |
@@ -80,6 +81,7 @@
 | [Le Samouraï](https://open.spotify.com/track/1DFE2U27L7JgQlBL831UGo) | [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2) | [Still](https://open.spotify.com/album/44xQ4JlxgaSiT8my6ahJhS) | 5:05 | 2022-08-31 |  |
 | [Leilani](https://open.spotify.com/track/5PMFcvLm1IA4lVAQW8FIXY) | [Witch Prophet](https://open.spotify.com/artist/5AkXlAsYDGWVZIYOhboeSM) | [Leilani](https://open.spotify.com/album/2YvWLUA9liTFn0a1Y4kGPg) | 2:17 | 2021-07-09 | 2022-11-26 |
 | [Loba](https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Loba](https://open.spotify.com/album/595FjkgYcTLaN4Ux7nPx3J) | 3:41 | 2022-11-03 |  |
+| [Los ojos](https://open.spotify.com/track/7myGZGiVdiN0LH5Oa0k3Bg) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Los ojos](https://open.spotify.com/album/2YwK74FkaMLpLA3Ql8cFkk) | 3:34 | 2023-03-03 |  |
 | [Marco](https://open.spotify.com/track/3cA7sk49Fbtc7mgF2fVuWd) | [Everest Magma](https://open.spotify.com/artist/3NB3jpSQ4F2Ief62BpDCFs) | [Alto//Piano](https://open.spotify.com/album/0szhDIrd23Ck9wiMkQYYts) | 2:16 | 2022-11-25 | 2023-01-14 |
 | [Me Acoplo](https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X) | [Párpados](https://open.spotify.com/artist/1gbutEmKJfSHRgXoTyEQO7) | [Párpados](https://open.spotify.com/album/3FMot3T0ERF8jjJZ1Guoov) | 4:00 | 2020-10-20 |  |
 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 | 2020-10-20 |  |
@@ -100,7 +102,7 @@
 | [Oracles](https://open.spotify.com/track/3RPWEhdvyH1CXphkYti8wc) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Oracles](https://open.spotify.com/album/7q9ambvRrxK3Cem9IvcD7s) | 6:50 | 2022-09-07 | 2023-02-25 |
 | [Oracles](https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Little Floating Oracles](https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4) | 6:50 | 2022-09-07 |  |
 | [Otro](https://open.spotify.com/track/4y2aw66CxenyRNHddJ6wFt) | [todo hombre es ruido](https://open.spotify.com/artist/5MaCKOuxFORaVHpJKsOH7e), [Caillou](https://open.spotify.com/artist/6SRjzYXse2LjszXueqw2vi), [Bucephalus](https://open.spotify.com/artist/55VusI1wUo1ZPSvdXt3Qqv) | [Otro](https://open.spotify.com/album/52iwoA7t8Sn6kkAfWzEh1D) | 4:39 | 2021-06-23 |  |
-| [PAPER BOYFRIEND](https://open.spotify.com/track/5kmgBZhT1uXEljgE0EJahO) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC), [Spinee](https://open.spotify.com/artist/3DvZPVHIRXdnEluWadwf71) | [Dog Food](https://open.spotify.com/album/3aVuMazxmHxjR4YwCHWOrX) | 2:03 | 2020-10-20 |  |
+| [PAPER BOYFRIEND](https://open.spotify.com/track/5kmgBZhT1uXEljgE0EJahO) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC), [Spinee](https://open.spotify.com/artist/3DvZPVHIRXdnEluWadwf71) | [Dog Food](https://open.spotify.com/album/3aVuMazxmHxjR4YwCHWOrX) | 2:03 | 2020-10-20 | 2023-03-03 |
 | [Pillar](https://open.spotify.com/track/4c0OdyBHSCqfs0tv4HdaKs) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [Pillar / New Sun](https://open.spotify.com/album/2RqvxTcNYJdxiHtwULBXPg) | 9:45 | 2020-10-20 |  |
 | [Pillar](https://open.spotify.com/track/6vloZ2bNS9EnmOBTu3xksl) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [Pillar / New Sun](https://open.spotify.com/album/2Ij95MZMwYFLiGUI0xhIZS) | 9:45 | 2020-10-20 | 2023-02-02 |
 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 | 2020-10-20 |  |
@@ -123,7 +125,7 @@
 | [Teeth Agape](https://open.spotify.com/track/5xi07QPZNbBs6MmKsGhrd1) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Tongues](https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh) | 3:35 | 2022-02-18 |  |
 | [Teeth Agape](https://open.spotify.com/track/6gmjRi8EuLj4B3WCIvByOO) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Teeth Agape](https://open.spotify.com/album/2aIuj5VJNI7V4TvjGd8qEM) | 3:35 | 2022-02-18 | 2022-07-29 |
 | [The Fall](https://open.spotify.com/track/5ed50PaOoQJROmeOxL85Xk) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(SWNT Deluxe\)](https://open.spotify.com/album/7wwrpQta9BNh84obd8nFWN) | 2:18 | 2021-07-18 | 2022-07-29 |
-| [The Fall](https://open.spotify.com/track/47Zqh2WwmeDs9BK4FlK6tb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(Swnt Deluxe\)](https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe) | 2:18 | 2021-07-18 |  |
+| [The Fall](https://open.spotify.com/track/47Zqh2WwmeDs9BK4FlK6tb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(Swnt Deluxe\)](https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe) | 2:18 | 2021-07-18 | 2023-03-03 |
 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 | 2021-01-22 |  |
 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 | 2022-09-21 | 2023-02-09 |
 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 | 2022-09-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,504 likes - 54 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,536 likes - 54 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 | 53 | [Of Thee I Sing: Overture \(Arr\. D\. Rose for Orchestra\)](https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Michael Tilson Thomas](https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78), [Buffalo Philharmonic](https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK) | [Gershwin: Rhapsody in Blue](https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc) | 4:35 |
 | 54 | [Liza \(All the Clouds'll Roll Away\)](https://open.spotify.com/track/2pnu2daFVs2wgasI1BGdU8) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Gershwin Fantasy](https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR) | 3:51 |
 
-Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMDQwMjhhZjNhN2ZjZDU2MzM4YWQyZWUwMGM4YmRmM2Uz`
+Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMGU3Yzk0OThiNDVkYzIwYzZiZWQyYmNhODdjM2ZjZmI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > I rapper più forti del mondo in una sola playlist\. Cover: Polo G, Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,166 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,171 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 99 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
 | 100 | [Rich MF \(feat\. Polo G & Lil Durk\)](https://open.spotify.com/track/6cUHiQEECDl5m3WFGQ1GCR) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Trip At Knight \(Complete Edition\)](https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz) | 4:07 |
 
-Snapshot ID: `MTY3NzYwMDU2MCwwMDAwMDAwMGI3YWYwNWZlZjlhZDZkY2RiNzA5N2UyZjU1ZmI2ZTc2`
+Snapshot ID: `MTY3NzYwMDU2MCwwMDAwMDAwMGViM2ViNmM3YjQ0ZDA1OWY1ZWVmZGVlNDIxMTA1NmI5`

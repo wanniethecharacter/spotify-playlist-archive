@@ -1336,6 +1336,28 @@
     {
       "album": {
         "name": "AZ I TI",
+        "url": "https://open.spotify.com/album/1sGVD9m3Z9kTgDAZjt5W4H"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227878,
+      "name": "AZ I TI",
+      "url": "https://open.spotify.com/track/0itd5lrE0cjqqIho0TYTKN"
+    },
+    {
+      "album": {
+        "name": "AZ I TI",
         "url": "https://open.spotify.com/album/55dkDuUuTw5yRwu4Af9F6c"
       },
       "artists": [
@@ -1350,7 +1372,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 227878,
       "name": "AZ I TI",
       "url": "https://open.spotify.com/track/62KyOwfvlqqeqdBfnxHcnF"
@@ -3664,6 +3686,24 @@
     {
       "album": {
         "name": "DIAMANTENA SULZA",
+        "url": "https://open.spotify.com/album/5DdaqwHDCC6EigaQx3o4xZ"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169263,
+      "name": "DIAMANTENA SULZA",
+      "url": "https://open.spotify.com/track/0tkqZ0VIYkuT6OnRDF4vJe"
+    },
+    {
+      "album": {
+        "name": "DIAMANTENA SULZA",
         "url": "https://open.spotify.com/album/1KsU9PFZrBO5V2qf9XBpoa"
       },
       "artists": [
@@ -3674,7 +3714,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 169263,
       "name": "DIAMANTENA SULZA",
       "url": "https://open.spotify.com/track/17T4168xAdgt2muxa303JV"
@@ -12012,6 +12052,36 @@
     {
       "album": {
         "name": "LOTUS",
+        "url": "https://open.spotify.com/album/4UzpGInDoYUvfYA5UT3m1I"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "EMIL TRF",
+          "url": "https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB"
+        },
+        {
+          "name": "FYRE",
+          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
+        },
+        {
+          "name": "2bona",
+          "url": "https://open.spotify.com/artist/3gsp4PXZKqOqaOK166AdMh"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273753,
+      "name": "PARALIA",
+      "url": "https://open.spotify.com/track/5N4ry530dm8VSSxrWKqOgr"
+    },
+    {
+      "album": {
+        "name": "LOTUS",
         "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
       },
       "artists": [
@@ -12034,7 +12104,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 273753,
       "name": "PARALIA",
       "url": "https://open.spotify.com/track/5qX0V96jKJ6zC8UImlXKmO"
@@ -13120,6 +13190,32 @@
     {
       "album": {
         "name": "LOTUS",
+        "url": "https://open.spotify.com/album/4UzpGInDoYUvfYA5UT3m1I"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Sami Issa",
+          "url": "https://open.spotify.com/artist/5vXVNYupFQsbMXpvrKULW6"
+        },
+        {
+          "name": "Trey Stellar",
+          "url": "https://open.spotify.com/artist/7K5Y6XLD8Jxw8uaTO7nCBk"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221347,
+      "name": "RIDE OR DIE",
+      "url": "https://open.spotify.com/track/2IiM2I6olZsJikwuCYzhOh"
+    },
+    {
+      "album": {
+        "name": "LOTUS",
         "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
       },
       "artists": [
@@ -13138,7 +13234,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 221347,
       "name": "RIDE OR DIE",
       "url": "https://open.spotify.com/track/6eOG7lOgVEWKqhWFRL2O4j"
@@ -16970,10 +17066,32 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 152133,
       "name": "VSE EDNO",
       "url": "https://open.spotify.com/track/4B4f0Jno4VnQA2a7R1kWgX"
+    },
+    {
+      "album": {
+        "name": "LOTUS",
+        "url": "https://open.spotify.com/album/4UzpGInDoYUvfYA5UT3m1I"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Mishell",
+          "url": "https://open.spotify.com/artist/4M47drOmnvyfjvu7H3TFH2"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152133,
+      "name": "VSE EDNO",
+      "url": "https://open.spotify.com/track/4c22LDRFK5uU2tPqYsDBvk"
     },
     {
       "album": {
@@ -18666,7 +18784,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 190434,
       "name": "\u0417\u0430\u0431\u0440\u0430\u0432\u044f\u0439 \u043c\u0435",
       "url": "https://open.spotify.com/track/2BfIkZJht4lBG73fqtsSxp"
@@ -19866,7 +19984,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 183707,
       "name": "\u0421\u043b\u0443\u0447\u043a\u0438",
       "url": "https://open.spotify.com/track/4U97MoTFXfiPXGZVin4Hj3"

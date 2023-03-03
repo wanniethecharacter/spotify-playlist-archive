@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Luh Tyler
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138,463 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,748 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [Out of Time](https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [Out of Time](https://open.spotify.com/album/72SRRaSf8OEru4ewgAK0UM) | 1:57 |
 | 50 | [Breakfast](https://open.spotify.com/track/4xmdiLvEEZ9Oc5i3SS57O4) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Breakfast](https://open.spotify.com/album/7LVBBkbIJVAT7jJcceFSSJ) | 3:30 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGJkMjRjNTUzZmVjY2VkZjI5ZTczYzk0NDg1YmFlM2Ni`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGRjNGEzOTQ5NWRjNWRkNzE2MTYyZmZkYTkxZGE1OGU4`

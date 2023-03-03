@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🚂  Aqui é só o trem caro do trap! Foto: KayBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,882 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,778 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 7 | [Gucci Gucci](https://open.spotify.com/track/7FBlp88UD4Ik0n0L3nazoW) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Marvin MK](https://open.spotify.com/artist/7DlDVQY8FKFc9x03NNmtAA) | [Baby Chefe](https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ) | 2:38 |
 | 8 | [Flow Espacial](https://open.spotify.com/track/4qDT0BeJ7BjatrN9k8AvB4) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Flow Espacial](https://open.spotify.com/album/02bPJTNRLkXeVWQPihqHNX) | 2:45 |
 | 9 | [NÉ SEGREDO](https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Bairro 13](https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT) | [NÉ SEGREDO](https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT) | 2:35 |
-| 10 | [Maturidade](https://open.spotify.com/track/7GvJL7IG958R87MphADwR6) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Maturidade](https://open.spotify.com/album/6vPBEJpr7ZvMTBR0GiQL9L) | 2:22 |
+| 10 | [Maturidade](https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Maturidade](https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg) | 2:22 |
 | 11 | [Só de Mal](https://open.spotify.com/track/4hWp2U1XNZkXK23iyyfWgh) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Só de Mal](https://open.spotify.com/album/4xZt0tVpMGl5jS3qFCJYQA) | 3:14 |
 | 12 | [Vitória Dobrada](https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Mozin](https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Vitória Dobrada](https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f) | 2:34 |
 | 13 | [Iluminado](https://open.spotify.com/track/3jwlXvfPNOiATnucQH6BrO) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [DJ Nemo NTR](https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [SANTO AMARO](https://open.spotify.com/track/2W1otaX5yQF4fCijymlvoM) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [MUITA ONDA](https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4) | 2:32 |
 | 50 | [Luz Apagada](https://open.spotify.com/track/7vT7jEmtlRnKNThbgRxug6) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [1 Beat 1 Letra](https://open.spotify.com/album/2GjSmvspkIe32HTVw8rpOS) | 3:24 |
 
-Snapshot ID: `MTY3NzUwOTg3OSwwMDAwMDAwMDQ5ZTg3YjJkZGFiOWIwNjAyMjQxYzM0ZTIwNjUwZGNl`
+Snapshot ID: `MTY3NzUwOTg3OSwwMDAwMDAwMGM3OTljZmVmNjM3NmJkY2U3YzEyOWY1YzY2MTJhNGM3`

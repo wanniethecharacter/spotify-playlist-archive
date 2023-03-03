@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Chlöe & Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,640 likes - 86 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,746 likes - 86 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 85 | [Honey \(with Muni Long\)](https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Honey](https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y) | 2:21 |
 | 86 | [i hate u owe me $$](https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u owe me $$](https://open.spotify.com/album/6erAGsVqS76Ei8fu66QoKa) | 2:50 |
 
-Snapshot ID: `MTY3NzE3MTgzNSwwMDAwMDAwMDBkNzkzMDYxOTRkN2I5MmVmODMyZWEzODQzMDljZDk5`
+Snapshot ID: `MTY3NzE3MTgzNSwwMDAwMDAwMDAwMTY1ZGUzNjRmZmVmNjFkMWEyY2I1Zjc4NzM1NGYx`

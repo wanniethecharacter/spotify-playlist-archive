@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Brad Cox
+> The cream of today's Country crop\. Cover: Morgan Wallen
 
-300 songs - 16 hr 26 min
+302 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [After the Breakdown](https://open.spotify.com/track/5XsBQNOToyIfL0dGp7KIna) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [After the Breakdown](https://open.spotify.com/album/6TDFO09pfq3OdtvKFEj9Ey) | 3:24 | 2022-03-31 | 2022-06-17 |
 | [Ain't Goin' Home](https://open.spotify.com/track/4HpMCEkK2bAYTsIaMnVfsc) | [Vixens Of Fall](https://open.spotify.com/artist/5E8CKxCEIm6vLESXqUExBt) | [Ain't Goin' Home](https://open.spotify.com/album/2BaCaOKP9hMhf68PTLKJY6) | 3:18 | 2022-07-21 | 2022-10-07 |
 | [All Or Nothing](https://open.spotify.com/track/1LiMVKhl8eQNhhNTBRowb1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/78CHrctUDb2LjgFdInJwms) | 3:27 | 2022-05-06 | 2022-08-27 |
-| [All We'll Ever Be](https://open.spotify.com/track/2xbI4Uh1ExxhHJQbklARMs) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [All We'll Ever Be](https://open.spotify.com/album/4uF4locIHfXWMzS5moNdjs) | 3:13 | 2022-11-17 |  |
+| [All We'll Ever Be](https://open.spotify.com/track/2xbI4Uh1ExxhHJQbklARMs) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [All We'll Ever Be](https://open.spotify.com/album/4uF4locIHfXWMzS5moNdjs) | 3:13 | 2022-11-17 | 2023-03-03 |
 | [Along The Way](https://open.spotify.com/track/23ZMim7wzLtHQW6bO0E2YK) | [Ella Powell](https://open.spotify.com/artist/1FvZtQAyRZTO5uSrazRJNe) | [Along The Way](https://open.spotify.com/album/2AjS8t5O4Q6hQUaAtLmgdt) | 3:18 | 2022-06-23 | 2022-09-09 |
 | [Always A Girl](https://open.spotify.com/track/4F8U3Cw66IbVQs4Y0MkTUo) | [Will Day](https://open.spotify.com/artist/6eUZAV9XRJh0Tzn7EGYJcw) | [Always A Girl](https://open.spotify.com/album/3KEV0EgwXWn3koQyFTMRh7) | 3:08 | 2023-01-19 |  |
 | [American Dream Truck](https://open.spotify.com/track/152TIXJ0UwKuf7j6nL0HFa) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [The Country And The Coast Side A](https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R) | 3:33 | 2021-12-30 | 2022-03-18 |
@@ -79,9 +79,10 @@
 | [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-04-14 | 2022-06-03 |
 | [Drink Along Song](https://open.spotify.com/track/0EKtrPckzmWUQgVQpLd61k) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Drink Along Song](https://open.spotify.com/album/5r840J3ihnRPTn2XShDJyy) | 2:48 | 2021-12-30 | 2022-04-01 |
 | [Drink Along Song](https://open.spotify.com/track/2BBbFB5XlySql9TliA0bsV) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups), [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Drink Along Song](https://open.spotify.com/album/3dYhC4VoJB2ytJxZfcuilM) | 2:56 | 2022-03-31 | 2022-06-24 |
-| [Drinking For Free](https://open.spotify.com/track/4Y85ZL227rHUjq1e1okpao) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Drinking For Free](https://open.spotify.com/album/1yGGVTSWyZFeDijkrrbWxT) | 2:59 | 2022-11-03 |  |
+| [Drinking For Free](https://open.spotify.com/track/4Y85ZL227rHUjq1e1okpao) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Drinking For Free](https://open.spotify.com/album/1yGGVTSWyZFeDijkrrbWxT) | 2:59 | 2022-11-03 | 2023-03-03 |
 | [Drinking Songs](https://open.spotify.com/track/4rqjF6HMDIPWx52U09kNwV) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Drinking Songs](https://open.spotify.com/album/1fOOTVggmp78uXc2P5lJo1) | 3:12 | 2022-01-06 | 2022-08-23 |
 | [Dumb Decisions](https://open.spotify.com/track/18xKANAGiaYX5m0V79IoaJ) | [Caitlyn Shadbolt](https://open.spotify.com/artist/4AnRUN3FJq0GZ0RCoRpgNC), [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Dumb Decisions](https://open.spotify.com/album/1ijpDGHA4Dd8OkBXbi762a) | 3:22 | 2022-05-06 | 2022-12-05 |
+| [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 | 2023-03-02 |  |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-09-08 | 2023-02-17 |
 | [Face In The Crowd](https://open.spotify.com/track/4rdl2BHBQ58Q9X4iopHTnx) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Face In The Crowd](https://open.spotify.com/album/6IRQx9Mm5W4BJdKBG6m7Nh) | 2:41 | 2022-11-10 |  |
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2022-06-02 | 2022-12-05 |
@@ -120,6 +121,7 @@
 | [Hangman](https://open.spotify.com/track/3dxV4eUBtvui9zXQVJvQna) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Hangman](https://open.spotify.com/album/3laNVBvsT0PqqTCKupEwDD) | 3:14 | 2022-08-25 | 2022-12-16 |
 | [Happy in This Bar](https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Happy in This Bar](https://open.spotify.com/album/6Ibrf4RYLLKOYFQGNO7xFl) | 2:37 | 2022-03-04 | 2022-06-24 |
 | [Hard Place](https://open.spotify.com/track/3MxubYzTgvDuT9fUVzrVTj) | [Courtney Keil](https://open.spotify.com/artist/6jbFCUWWQtpzKKCgmfnFwe) | [Hard Place](https://open.spotify.com/album/1ZYLkhPqpdCIFzLHjdfeQ3) | 3:16 | 2022-06-30 | 2022-09-09 |
+| [Hate Hate Hate](https://open.spotify.com/track/0scLx5J7ckwdhuPIRZgN3P) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Fantasy Island](https://open.spotify.com/album/30jLEnJpFOR8NQzDLn2rbc) | 3:19 | 2023-03-02 |  |
 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 | 2022-04-07 | 2022-09-09 |
 | [Heavy Eyes](https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:10 | 2022-05-19 | 2022-12-05 |
 | [Hell Of A View](https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hell Of A View](https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW) | 2:55 | 2021-12-30 | 2022-04-01 |
@@ -178,7 +180,7 @@
 | [Messy](https://open.spotify.com/track/1P9PIhdizfnJMHbTn3EJP5) | [Dozzi](https://open.spotify.com/artist/3oJVfkpZAG0eof3DVocdLB) | [Messy](https://open.spotify.com/album/5W9lqFf7aQ9T4NS4x4HmOf) | 2:51 | 2021-12-30 | 2022-01-07 |
 | [Mind Of Its Own](https://open.spotify.com/track/7kaWbPYrx51y8rdZ4vjT5d) | [Hunter Kaine](https://open.spotify.com/artist/7BLTxK00NuwBUyY9crfwt2) | [Mind Of Its Own](https://open.spotify.com/album/6f8oqU2S6SFdshhQyCorkk) | 3:09 | 2022-06-23 | 2022-09-24 |
 | [Minimum Wage](https://open.spotify.com/track/4ijajhHtBsOn91S4dgkhu7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Minimum Wage](https://open.spotify.com/album/0fQJbMjhfuiiP9HAQtrJEX) | 3:48 | 2021-12-30 | 2022-01-28 |
-| [Mr I Don't Care](https://open.spotify.com/track/2C5mtY0lQK9qyX8fJx6rOw) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Mr I Don't Care](https://open.spotify.com/album/3YGsyzak046vwihQx3zThq) | 2:49 | 2022-10-06 |  |
+| [Mr I Don't Care](https://open.spotify.com/track/2C5mtY0lQK9qyX8fJx6rOw) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Mr I Don't Care](https://open.spotify.com/album/3YGsyzak046vwihQx3zThq) | 2:49 | 2022-10-06 | 2023-03-03 |
 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 | 2022-09-23 |  |
 | [My First Rodeo](https://open.spotify.com/track/66WyxMQdjf1TzFwOfzrLIi) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [My First Rodeo](https://open.spotify.com/album/6cms9is1rZDsWLllknPs1t) | 3:15 | 2022-09-23 | 2023-02-10 |
 | [MY PEOPLE](https://open.spotify.com/track/0dpR0v87wHwPKrBXwqxoEI) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [MY PEOPLE](https://open.spotify.com/album/6Yfvq2yJAHGJzEzwDWoF0i) | 2:55 | 2022-09-23 | 2023-01-06 |
@@ -262,7 +264,7 @@
 | [The Good Old Days](https://open.spotify.com/track/5fj9aeDmJqhW1a8oOf93RN) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [The Good Old Days](https://open.spotify.com/album/0roXqyLV3kV0cEDv2dZ0lz) | 3:46 | 2022-07-28 | 2022-10-28 |
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-16 |  |
 | [The Kiss Or The Crash](https://open.spotify.com/track/7rOQ2KxjEYkVYVwNn9Ffgf) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [The Kiss Or The Crash](https://open.spotify.com/album/2BKlCgEwlI9y3gyRqkWsGQ) | 3:37 | 2022-11-03 |  |
-| [THE LITTLE THINGS](https://open.spotify.com/track/72Z98wFFZyZjwc3D6thXtf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [THE LITTLE THINGS](https://open.spotify.com/album/2ZMQtJp9Slw5uKYWnCgpSV) | 2:57 | 2022-08-05 |  |
+| [THE LITTLE THINGS](https://open.spotify.com/track/72Z98wFFZyZjwc3D6thXtf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [THE LITTLE THINGS](https://open.spotify.com/album/2ZMQtJp9Slw5uKYWnCgpSV) | 2:57 | 2022-08-05 | 2023-03-03 |
 | [The Next Big Thing](https://open.spotify.com/track/1wx9E45yeb7aCoU8TfCm62) | [Katrina Burgoyne](https://open.spotify.com/artist/5IHAd9gZnw4yrczPvDklll) | [The Next Big Thing](https://open.spotify.com/album/66Mjl0zineaXSf7YQVAt2f) | 3:23 | 2021-12-30 | 2022-02-01 |
 | [The One](https://open.spotify.com/track/3XmoqtGqwpe674bIT8TM7A) | [Courtney Keil](https://open.spotify.com/artist/6jbFCUWWQtpzKKCgmfnFwe) | [The One](https://open.spotify.com/album/2goSTc1QM9a6imb2tUnzBC) | 3:26 | 2022-03-31 | 2022-06-10 |
 | [The Road](https://open.spotify.com/track/606vch6MbayKFsn28R3BxO) | [Laura Frank](https://open.spotify.com/artist/0hfQItGyy460A1s9G4pzJp) | [The Road](https://open.spotify.com/album/4fFBD4Q6Q2eYmljaF8vFe7) | 3:38 | 2022-08-25 | 2022-12-16 |

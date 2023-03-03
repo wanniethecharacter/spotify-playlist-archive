@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,888 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,892 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Can't Help Myself](https://open.spotify.com/track/0ul6k0oWpARwwd5WU1M7J5) | [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD), [Ann Nesby](https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b), [The Boys & Girls Club of the Gulf Coast](https://open.spotify.com/artist/3D60aniZnT8Bcdq7RYzGps) | [Can't Help Myself](https://open.spotify.com/album/3ZB5Pd99GsNFKGuGjsl3kq) | 1:50 |
 | 100 | [Give It All](https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:04 |
 
-Snapshot ID: `MTU5NzMyOTU0MCwwMDAwMDAwMDY0YjVkODcxNTJmNWYxMzU0MTk5NmJkNGZhZThkNzFk`
+Snapshot ID: `MTU5NzMyOTU0MCwwMDAwMDAwMDdjOWYzOTUwZTc3N2NkNGNmZDcwMjgxYWE0YWUwMTk3`

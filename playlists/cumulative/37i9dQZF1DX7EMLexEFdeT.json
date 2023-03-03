@@ -726,10 +726,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 227493,
       "name": "If I Had A Heart",
       "url": "https://open.spotify.com/track/1we2UifyzGe2tgvTVFTwD4"
+    },
+    {
+      "album": {
+        "name": "Fever Ray",
+        "url": "https://open.spotify.com/album/019nA7vSKz0dD5yRKYRpbM"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229933,
+      "name": "If I Had a Heart",
+      "url": "https://open.spotify.com/track/3eJyXwiYepWvEDKABhm7lL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,016 likes - 100 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,013 likes - 100 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [The Blood Song](https://open.spotify.com/track/7cjEjTUSiVlWKPPWucNJPa) | [Chris Bender](https://open.spotify.com/artist/1h37aBxNCokuRG8NMgPwEG), [D'Shondra Perry](https://open.spotify.com/artist/1GKvu9PSueVDcFtZjU3lEa) | [The Blood Song](https://open.spotify.com/album/29UFA9YrscWRdKpZTnLnN5) | 5:34 |
 | 100 | [He Got Up On The Third Day](https://open.spotify.com/track/5smgbQe2wP2LCAQ4eOAnKK) | [Montreal Jubilation Gospel Choir](https://open.spotify.com/artist/6ln4T1cZYoD7GIKlmKnZtp) | [Jubilation 3: Glory Train](https://open.spotify.com/album/61w68d42IIyEEAMXC4mtwD) | 4:31 |
 
-Snapshot ID: `MTY3NjY5OTQ1NCwwMDAwMDAwMDY2NDlmNzcwOTZhNjgyZjUxYTQ3NTg4YjA2MDBkMzdl`
+Snapshot ID: `MTY3NjY5OTQ1NCwwMDAwMDAwMGI4ZGE4ZmEyZGQ3OTM5MTE1YjllNGVjOWZhYWFjY2Q4`

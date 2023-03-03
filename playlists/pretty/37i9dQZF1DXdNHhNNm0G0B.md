@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,453 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,470 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 79 | [Heart Breakin' Blues](https://open.spotify.com/track/7ct1EY3oM7uKoXGabiM9D9) | [Cannon's Jug Stompers](https://open.spotify.com/artist/65oBffOa88Yjia8B9FTLAS) | [The Best Of Cannon's Jug Stompers](https://open.spotify.com/album/6zMTnsHJb9V8IonCLVav1F) | 3:06 |
 | 80 | [She Ain't Nowhere \- Remastered](https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF) | 2:49 |
 
-Snapshot ID: `MTY3NzY3MDAwMCwwMDAwMDAwMDc3NzMwNjMyMDc4Y2FiYjUzMjQwNGNiZGY3MTgzMDQy`
+Snapshot ID: `MTY3NzY3MDAwMCwwMDAwMDAwMDRjMGIzMTQ3YWI1YTIyYjEyZDRkZjk2NWEzMmM5NTkx`

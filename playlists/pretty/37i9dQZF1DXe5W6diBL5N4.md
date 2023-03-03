@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: YESUNG\(예성\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,923 likes - 144 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,035 likes - 144 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 143 | [풍등](https://open.spotify.com/track/4LRwxYACbFQpM8cWbQVBS5) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [ONE](https://open.spotify.com/album/5SHzzLq6kYCnAqnMfgs20f) | 4:08 |
 | 144 | [Flowing Stars](https://open.spotify.com/track/4bqdJ586sowMxaWSDr8U4B) | [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Flowing Stars](https://open.spotify.com/album/5Rc2FJYoM29NlMerMWj7AY) | 4:15 |
 
-Snapshot ID: `MTY3NzY3MjI5NCwwMDAwMDAwMDliMGZjZmM3NzEwM2U2ODAzY2Y2Y2VjN2NlZjViMjNj`
+Snapshot ID: `MTY3NzY3MjI5NCwwMDAwMDAwMGJkNDM3OGY1MmQ5YTQ4Y2NlMzgyNWEzZWM4OWQyZjZl`

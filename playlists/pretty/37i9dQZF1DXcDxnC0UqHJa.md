@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,029 likes - 115 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,046 likes - 115 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 29 | [Don't Worry Baby](https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Don't Worry Baby](https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw) | 3:00 |
 | 30 | [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 |
 | 31 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 |
-| 32 | [Anti\-Hero \(Country Version\)](https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Anti\-Hero \(Country Version\)](https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW) | 3:10 |
+| 32 | [Anti\-Hero \- Country Version](https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Anti\-Hero \(Country Version\)](https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW) | 3:10 |
 | 33 | [I Shall Be Released](https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [To Love Somebody \(Expanded Edition\)](https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi) | 3:53 |
 | 34 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 |
 | 35 | [Higher Love](https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 3:34 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [Gentle On My Mind](https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s) | 4:05 |
 | 115 | [By Your Side](https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [By Your Side / Landslide](https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42) | 4:26 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDFlMGIxNmVjMDU3MGQzODY5MjUwOWUwYzA4OWRmNTJl`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDk4NDg2NmZjNDI0MDNmMDJkNDFjODljNjI3MTE3Yzk4`

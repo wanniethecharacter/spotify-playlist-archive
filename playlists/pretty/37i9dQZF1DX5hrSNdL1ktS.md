@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Ghetto Kids en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,484 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,492 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 54 | [Solteras](https://open.spotify.com/track/3NNOr3YRkdiYF1Jvfq8Nin) | [Sofi Mata](https://open.spotify.com/artist/3k49gtP15SIgPmlKMSiD1V) | [Solteras](https://open.spotify.com/album/2JKecMPRulCP3h0Xn42P8N) | 2:14 |
 | 55 | [hebilla](https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hembrismo](https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur) | 3:43 |
 
-Snapshot ID: `MTY3NzI2NzkxMCwwMDAwMDAwMGYyYzg0NDEzYzQ4ZTc0ZmY0ZTIwYjRiMjVhMjNlYjc2`
+Snapshot ID: `MTY3NzI2NzkxMCwwMDAwMDAwMDgwYmQ0NTA1ZWJmNjQ1YWQ0ZGQwOTY1NDgyOTE0MDhm`

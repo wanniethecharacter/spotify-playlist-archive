@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-269 songs - 15 hr 9 min
+273 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Evermore Street](https://open.spotify.com/track/4D5p92Sg5NATIW22l1msgN) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Evermore Street](https://open.spotify.com/album/1FOjdvtbdxKAAqB3FQ5Jg2) | 3:19 | 2023-02-02 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/0ElOE6iF6PcHKGafYHkr2T) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [Everything Happens To Me](https://open.spotify.com/album/74XVN1rhFaVY7khDoALBNI) | 4:40 | 2022-01-18 | 2022-08-30 |
 | [Everything I Love](https://open.spotify.com/track/2AzamFQR3qc6SK12Dt97WD) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Everything I Love](https://open.spotify.com/album/20C4KS94fNfd8H1w0OWNek) | 2:28 | 2022-06-21 |  |
+| [Falling In Love With Love](https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [Falling In Love With Love](https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL) | 2:58 | 2023-03-02 |  |
 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 | 2021-12-07 | 2022-02-12 |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2022-01-04 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 | 2022-12-01 |  |
@@ -96,10 +97,12 @@
 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 | 2021-12-07 |  |
 | [Grace \#7](https://open.spotify.com/track/3B8IRT01MVf7v1iKBT6nv7) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Grace](https://open.spotify.com/album/1WwlmTdtSfNTS3ZmUeMCRq) | 3:02 | 2021-12-07 | 2022-08-30 |
 | [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-23 |  |
+| [Henry Street](https://open.spotify.com/track/2JIH2zpgozNspbN2vVva9G) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Henry Street](https://open.spotify.com/album/2zjI2uq9viHy7dx1m9VBez) | 2:22 | 2023-03-02 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/08zG2Lrqlfp3ldWVzEbnjc) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Here's That Rainy Day](https://open.spotify.com/album/2BLTJotFjrXROaxkzPgqnh) | 4:19 | 2021-12-07 | 2022-12-02 |
 | [Here's That Rainy Day](https://open.spotify.com/track/6RSuiDuF8X8eNjXVFttxyT) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:20 | 2023-01-05 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [How Long Has This Been Going On?](https://open.spotify.com/album/4enSlE24XGXXLkrGW7lxZ1) | 2:51 | 2022-06-21 |  |
 | [I Can't Get Started](https://open.spotify.com/track/2DgLCrnfPxVAvFnMxYTuuM) | [Sive Holmes](https://open.spotify.com/artist/1k2DVXf8G1sKF5n5d6qp5v) | [I Can't Get Started](https://open.spotify.com/album/393ECl3A8bhqZpmPoKOWTs) | 2:06 | 2022-11-10 |  |
+| [I Could Write A Book](https://open.spotify.com/track/66eaAKE675VWRnj8EVeDQk) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [I Could Write A Book](https://open.spotify.com/album/1Jn2DXdP0Ci1UBVjfFpZPF) | 3:16 | 2023-03-02 |  |
 | [I Cover the Waterfront](https://open.spotify.com/track/4nMtlRwN03BaHf7fhIk6Ne) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Someday My Prince Will Come](https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv) | 3:13 | 2022-06-14 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/0ZuEKQKcR0Zm53Bhb2wgLO) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [I Fall In Love Too Easily](https://open.spotify.com/album/5xh9QdbDD89FmJ44R1CA0e) | 2:27 | 2021-12-07 |  |
 | [I Get Along Without You Very Well](https://open.spotify.com/track/7k6uPozwxbT4juqC2ZOlOH) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [I Get Along Without You Very Well](https://open.spotify.com/album/6Eqs5mzsIjiZF8OQx7ufnB) | 3:05 | 2022-12-22 |  |
@@ -152,6 +155,7 @@
 | [Lover Man](https://open.spotify.com/track/23Q0MMsuaZkngkmx8CEEQl) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 3:28 | 2021-12-07 | 2022-02-16 |
 | [Lovers](https://open.spotify.com/track/6flWLUPwiaN9FkPm6CVzZz) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Lovers](https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS) | 2:27 | 2022-12-01 |  |
 | [Lullaby for Lilly](https://open.spotify.com/track/2hAqVQHxZrDbDYvX0rR1zZ) | [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Lullaby for Lilly](https://open.spotify.com/album/11AeTqQfSfhLMqjlar2RaC) | 3:15 | 2022-10-06 |  |
+| [Melancholia](https://open.spotify.com/track/6lMI9WKqbIwxnumenEI0Iz) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Melancholia](https://open.spotify.com/album/4qJEPS5KuL1a7ynbgifQXV) | 3:26 | 2023-03-02 |  |
 | [Memories of You](https://open.spotify.com/track/0eu43TeVxnxOqHj3nBVus2) | [Kay Lohman](https://open.spotify.com/artist/4RAH5bMhyvkgartz47YVcy) | [I Get Along Without You Very Well](https://open.spotify.com/album/3TA20v06xIbqbfTqIG48do) | 2:45 | 2022-01-04 |  |
 | [Misty](https://open.spotify.com/track/0fGNaE47Hx1SO8kEKtkGxb) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Misty](https://open.spotify.com/album/3zOiXs8f5OfRasBgZ7VNcJ) | 2:13 | 2021-12-07 |  |
 | [Moon River](https://open.spotify.com/track/3qBUFn6AgcHTI3tkg99lDD) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Moon River](https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx) | 3:31 | 2021-12-07 |  |

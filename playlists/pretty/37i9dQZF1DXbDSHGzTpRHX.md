@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,891 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,896 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 51 | [Cool To You](https://open.spotify.com/track/09rD9G2Dsbn7NjH6H6LTmL) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Cool To You](https://open.spotify.com/album/33QEbobiBLeUmtw2nsXmE2) | 3:17 |
 | 52 | [COMMA$](https://open.spotify.com/track/1Fk9MDDgy1VvMosMh4m34G) | [LORD$OFDOGTOWN](https://open.spotify.com/artist/3MR1RYx6wS8n93uSVpYoQ5) | [LORD$OFDOGTOWN](https://open.spotify.com/album/7uBoH5eDFQ7ifeAjjtS9Zn) | 2:26 |
 | 53 | [Tokyo](https://open.spotify.com/track/7bRczR0qkPYmWHFYUPBAmN) | [sam.sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Tokyo](https://open.spotify.com/album/5zQL7loJjfOSiUkI8k8l7K) | 2:56 |
-| 54 | [Rewind](https://open.spotify.com/track/3mDU9150jy8FYm8BtImUSw) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Rewind](https://open.spotify.com/album/1joaXuyfiUhkxYZyFeI9jH) | 2:52 |
+| 54 | [Rewind](https://open.spotify.com/track/6RqSSzecXK7hpcXk7vzloB) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Scrapbook](https://open.spotify.com/album/6NHsBUolj79TMpOuAAOxS9) | 2:52 |
 | 55 | [Unwind Me!](https://open.spotify.com/track/1Frr2d2SHGlHC4OWa2m3G3) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [Unwind Me!](https://open.spotify.com/album/4ztLWCQr42B0NRYGt756mY) | 3:08 |
 | 56 | [Wait For It](https://open.spotify.com/track/5hKAv7ake0SWKlozUOGGDR) | [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Tender](https://open.spotify.com/album/6QTcJJoYeVNo9pIGapG6q2) | 2:21 |
 | 57 | [Foreign](https://open.spotify.com/track/0uSDgxhgiCoINznpSytYJB) | [Yung Reece](https://open.spotify.com/artist/6peovfLhgtb7BeiaTUI1Yl) | [Foreign](https://open.spotify.com/album/2Pzupmo7Whwo5fTo2EZMQb) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDg5YjBiZDY0NjhkYjA2NTQ1NDQ5MDFhZDA5YTNhN2Zl`
+Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDBkNTVjNmVlZjQ1NTVkNWEyY2Q0NTNkNmVjOTI0YTZl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,788 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,049 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 99 | [Moment](https://open.spotify.com/track/3RZwiJMiAeiSObHO25qGK1) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Moment](https://open.spotify.com/album/5llzZfuUMShvnGzWL7x07d) | 2:12 |
 | 100 | [Candyfloss](https://open.spotify.com/track/4qMcXVzphY85iKSxYYrtoq) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 2:48 |
 
-Snapshot ID: `MTY3NDU4MjgyMywwMDAwMDAwMDhiOTI4NGM2NTJkYThhYmM1NjEyMjI3N2ZjZGJkZjlh`
+Snapshot ID: `MTY3NDU4MjgyMywwMDAwMDAwMDNiNmY2M2I3ZjgzYjdmYjA1ODMyOTYyODQzMmFhNGRk`

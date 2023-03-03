@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Karen Jonz, CSS",
+  "description": "Novidades e destaques do indie nacional. Foto: Lou Garcia",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 186063,
       "name": "20 Anos e Meio",
       "url": "https://open.spotify.com/track/3QMQqmpesGqVcHuV0vMv2m"
+    },
+    {
+      "album": {
+        "name": "6 Balas (Ato II)",
+        "url": "https://open.spotify.com/album/1miphNWftzGLLtfd5HTKPr"
+      },
+      "artists": [
+        {
+          "name": "kamaitachi",
+          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270437,
+      "name": "6 Balas (Ato II)",
+      "url": "https://open.spotify.com/track/1eWQ7LcFqQcrhzzTTVgWOY"
     },
     {
       "album": {
@@ -244,6 +262,24 @@
       "duration_ms": 191570,
       "name": "Agora Eu Preciso Pagar Contas",
       "url": "https://open.spotify.com/track/58xEYZkV8UyFZxTO9UlwVO"
+    },
+    {
+      "album": {
+        "name": "ainda te busco",
+        "url": "https://open.spotify.com/album/5OzyEgzRRvsRAjD0xDp0n0"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145635,
+      "name": "ainda te busco",
+      "url": "https://open.spotify.com/track/6BqSezyatD0GzqjQGbJ2g0"
     },
     {
       "album": {
@@ -660,6 +696,24 @@
       "duration_ms": 166241,
       "name": "Avi\u00f5es",
       "url": "https://open.spotify.com/track/3743IvJexIgIZCUk2zc1Kc"
+    },
+    {
+      "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0"
+      },
+      "artists": [
+        {
+          "name": "Tagua Tagua",
+          "url": "https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217564,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2pihPAjIPg5EnitYFKqbYc"
     },
     {
       "album": {
@@ -1264,7 +1318,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 208748,
       "name": "Como Vai Voc\u00ea?",
       "url": "https://open.spotify.com/track/0jZGKkbAt7bTKEdmUkH0o6"
@@ -2802,7 +2856,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 120000,
       "name": "Luz Negra",
       "url": "https://open.spotify.com/track/5HLfgMXvOFua9bwsBUY6em"
@@ -3100,7 +3154,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 141818,
       "name": "Menina Uh Uh",
       "url": "https://open.spotify.com/track/2LqzKuAtEl9MvHigNIUdBg"

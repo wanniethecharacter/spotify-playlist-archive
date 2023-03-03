@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,839 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,997 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/0hIZpsGeGuGNQAFgTeqoBs) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Grandes Exitos](https://open.spotify.com/album/7I1v5OSddy8rykrDMIJChd) | 2:49 |
 | 100 | [Nochecita](https://open.spotify.com/track/1Z4PHeXxR6LkgBa9slCenT) | [El Negro Peregrino Y Su Trio](https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9) | [Personalidad \- Los Grandes Trios](https://open.spotify.com/album/2YfKDamKfrzXOxZGpl8zbb) | 2:38 |
 
-Snapshot ID: `MTY3NTE5MjU5NiwwMDAwMDAwMGM1MTUwY2NlN2M2NDcxMWIzZjk3MTE5M2U4ZTJkNjNl`
+Snapshot ID: `MTY3NTE5MjU5NiwwMDAwMDAwMGM2MmIxMWU0YTMzOWQ0Y2U1Mjk0NWI4YzNjZmNkN2Qx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,520 likes - 104 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,697 likes - 104 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 103 | [Crisantemi for string orchestra](https://open.spotify.com/track/0ObV8vQoB8SJLf6vGv4xhB) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw) | [Puccini: Messa di Gloria](https://open.spotify.com/album/2y9CgDrQ19SbbO9rsmihCT) | 7:01 |
 | 104 | [Infinité](https://open.spotify.com/track/4rMf7O7IA7M8Aly99i3GSd) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx) | [Silent Moves \- Music by Dan Evmark](https://open.spotify.com/album/4pmY5rkR1S9OgZ8EYcKO4g) | 4:22 |
 
-Snapshot ID: `MTY3NTkzNDAzNywwMDAwMDAwMDY5NDhjZmI3NDllM2I2ZTJlYWUzYTFhMTA4YTdmMzdh`
+Snapshot ID: `MTY3NTkzNDAzNywwMDAwMDAwMDYzMGE1NTk5ZDNkZTI4MmFjZjJiNjZmNTA5ZGMwY2Y3`

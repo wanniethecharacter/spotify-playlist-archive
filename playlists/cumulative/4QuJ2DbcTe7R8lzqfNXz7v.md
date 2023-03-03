@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4QuJ2DbcTe7R8lzqfNXz7v.md) - cumulative - [plain](/playlists/plain/4QuJ2DbcTe7R8lzqfNXz7v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4QuJ2DbcTe7R8lzqfNXz7v)
 
-### [Love Songs & Chill \| Valentine's Day](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v)
+### [LOVE SONGS & CHILL \| TOP 100 SONGS](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v)
 
 > The top 100 best love songs of this moment\. Dream away with the best love songs of right now\. ❤️
 

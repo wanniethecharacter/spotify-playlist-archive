@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,646 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,120 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 79 | [Bend Ova](https://open.spotify.com/track/6ajqSWogEt8ngg7ErtEaVa) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/0xXIL4sAD2GXXjUk1NFV2y) | 3:09 |
 | 80 | [Wine Pon Di Edge](https://open.spotify.com/track/2nDStKSqTRrWF7vyrvvodA) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Loaded](https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy) | 3:14 |
 
-Snapshot ID: `MTY0MzE1ODMzNSwwMDAwMDAwMGJiZDNmMDRjODNmYThhMmEyMTZmNjRkNDU0MjBhN2Fj`
+Snapshot ID: `MTY0MzE1ODMzNSwwMDAwMDAwMGViOWQ0NzY0MDEzNmNhNzM2MTcwOWMzZDQ4NjU5ZTVm`

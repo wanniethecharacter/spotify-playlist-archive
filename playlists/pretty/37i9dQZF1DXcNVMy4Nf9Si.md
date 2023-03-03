@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNVMy4Nf9Si.md) - [plain]
 
 > Hear all of TAEYEON's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,508 likes - 79 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,565 likes - 79 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNVMy4Nf9Si.md) - [plain]
 | 78 | [Fashion](https://open.spotify.com/track/4AEvnRVdOq4GHx5vFvDDTh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 3:12 |
 | 79 | [Good Thing](https://open.spotify.com/track/30CAqzLOdc8LbPRzchYaAt) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 2:57 |
 
-Snapshot ID: `MTY0NDgzNDU2MywwMDAwMDAwMGRiNTAzMjYzY2I5MjcwMjI5OTBkYTYzMGJkNGY0NDRl`
+Snapshot ID: `MTY0NDgzNDU2MywwMDAwMDAwMGE2MjYyMDM2MmI1MjNmOTRmY2Q1ZWMyYTk1NDk5OWIy`

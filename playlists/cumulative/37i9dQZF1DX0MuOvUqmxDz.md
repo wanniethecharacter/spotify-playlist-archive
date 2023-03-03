@@ -4,7 +4,7 @@
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-272 songs - 14 hr 53 min
+273 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/3o5IChTvWMLHXkmnlSYI5z) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Merry Christmas](https://open.spotify.com/album/3KsQbPCs61bAcBIOxfkF5Z) | 2:13 | 2021-12-16 |  |
 | [Jingle Bell Rock \(feat\. Kaylee Rose\)](https://open.spotify.com/track/3PXbmgRNYcYWuUg7uLZ0bw) | [Christina Taylor](https://open.spotify.com/artist/0ol2YEW9hEgLLF9UyDCB4d), [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3), [Brenna Bone](https://open.spotify.com/artist/0L79xgZmjcUCraxgHJoTek), [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Jingle Bell Rock \(feat\. Kaylee Rose\)](https://open.spotify.com/album/0kO9Se2WLNYZn8CcdN7Pbf) | 2:11 | 2021-12-16 | 2022-11-12 |
 | [Jingle Bell Rock \- feat\. Miranda Lambert](https://open.spotify.com/track/49Lcc883bLT6xP1sKDowN3) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Cheers, it's Christmas.](https://open.spotify.com/album/5JfiJ4oEv1EifTvX9vkTFk) | 2:03 | 2021-12-16 | 2022-07-29 |
-| [Jingle Bells](https://open.spotify.com/track/4ShMpmLtZBFVOaqjHXVWZ6) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Jingle Bells](https://open.spotify.com/album/2EUjvWNXPiSWbk9C0PdVFM) | 1:30 | 2022-10-14 |  |
+| [Jingle Bells](https://open.spotify.com/track/4ShMpmLtZBFVOaqjHXVWZ6) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Jingle Bells](https://open.spotify.com/album/2EUjvWNXPiSWbk9C0PdVFM) | 1:30 | 2022-10-14 | 2023-03-03 |
+| [Jingle Bells](https://open.spotify.com/track/69PJKHayMtQXLiZttWz8Ko) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Jingle Bells](https://open.spotify.com/album/3QfQJ9kOa8suH1APzmYLkl) | 1:30 | 2022-12-16 |  |
 | [Jingle Bells](https://open.spotify.com/track/5StFIP3C73ta37L26k5AxR) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Christmas with Scotty McCreery](https://open.spotify.com/album/7xY3dwj2terBE72lfMF0U6) | 3:17 | 2021-12-16 |  |
 | [Joy To The World](https://open.spotify.com/track/5CQF7rXAK0cpqSoAvZ4n5I) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 3:55 | 2021-12-16 |  |
 | [Kid At Christmas](https://open.spotify.com/track/7i3DdCiqRVKccOop2LaS0g) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Kid At Christmas](https://open.spotify.com/album/3GqNyb3gRyD22Cbf9coquS) | 3:23 | 2022-10-28 | 2022-11-26 |

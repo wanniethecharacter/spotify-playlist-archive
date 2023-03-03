@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,238 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,560 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 99 | [Little Seed \- Dance Mix](https://open.spotify.com/track/0aRkP3M32J0m3skYRHugrr) | [Kierre Bjorn](https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Little Seed \(Dance Mix\)](https://open.spotify.com/album/4AkT2i0W0a1vQyNCMF75JR) | 3:03 |
 | 100 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 |
 
-Snapshot ID: `MTY3NTc5MTgwMSwwMDAwMDAwMDI5Yjc1ZDY0MzVjYWFiYjU4ZTY4MWFlOTg2ZGQ4ZWJk`
+Snapshot ID: `MTY3NTc5MTgwMSwwMDAwMDAwMDkyYTJkNmFlMmMzZTRmZDc3NzI4ZWQ1NmZiMjdiZWY0`

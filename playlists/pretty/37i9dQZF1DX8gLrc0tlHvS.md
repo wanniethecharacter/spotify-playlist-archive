@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,031 likes - 71 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,075 likes - 71 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 61 | [The Chambers & The Valves](https://open.spotify.com/track/1pKMnBqpCILOu4ckAggjSo) | [Dry the River](https://open.spotify.com/artist/5VIq5RHAbVUMF700vdwfYw) | [Shallow Bed](https://open.spotify.com/album/5W2DS7HGauXOJIr0Nmu8D4) | 3:10 |
 | 62 | [Six Weeks](https://open.spotify.com/track/060WwU9cva7KOpMhZAJjT6) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 5:34 |
 | 63 | [Sing to the Mountain](https://open.spotify.com/track/5kgMPM2m2sGGuVL4KpHwiO) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [Elephant Revival](https://open.spotify.com/album/1Qyc6kxZYssUHELLcImDnX) | 3:42 |
-| 64 | [Easy To Love](https://open.spotify.com/track/0El2kYoxWlzQKx0BkWSfJC) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [All The Times We Had](https://open.spotify.com/album/0jzTdtbn35qUvZhDJug39x) | 3:36 |
+| 64 | [Easy to Love](https://open.spotify.com/track/3WPs9eLOnkdj5X7Pxrq8XS) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [All the Times We Had](https://open.spotify.com/album/1JRjLshwmFs5WNb22MjsVI) | 3:44 |
 | 65 | [In the Yard](https://open.spotify.com/track/3drh6PONEJ53pyffCWczy3) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [The Clearing](https://open.spotify.com/album/6BELKxlBUu6H3vUif48OLZ) | 4:07 |
 | 66 | [Tree by the River](https://open.spotify.com/track/1lhtOsCUtm0kND96OtDeNw) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Kiss Each Other Clean](https://open.spotify.com/album/4hQrMKUocaKJjrv2jxgI9l) | 3:56 |
 | 67 | [Gold Rush](https://open.spotify.com/track/41HBl0MY8sTTe4ZcpMsm5r) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH) | 3:33 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 70 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 71 | [Hopeless Wanderer](https://open.spotify.com/track/1FNGW0JOSp7Rbomh80XVYm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:07 |
 
-Snapshot ID: `MTY2MzczOTY0NiwwMDAwMDAwMGJkMjUwMzMwMTU0OTA1YjllZjVkMmVjNDM4OGE4YTU5`
+Snapshot ID: `MTY2MzczOTY0NiwwMDAwMDAwMDkwZjNhNWQ1OGEwMDUxYTFmNWRmMGJlZmZlZGVhYzgy`

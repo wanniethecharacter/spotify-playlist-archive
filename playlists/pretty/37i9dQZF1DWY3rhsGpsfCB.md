@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,785 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,810 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 79 | [Is It Love?](https://open.spotify.com/track/4b6WZ23mT8hBW6qan9OK0D) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Is It Love?](https://open.spotify.com/album/7mnLeneuyGZ9V8l8YTbC25) | 3:27 |
 | 80 | [SPACE COWBOY](https://open.spotify.com/track/5f68045DHI297ti1WI8qUr) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [SPACE COWBOY](https://open.spotify.com/album/6dWdz1zf7BXz9mtNW2tjHX) | 3:21 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDNjMzIxOTk2ZWZkYjRiOTUwZDFjNDA3NWRmNDVkMjA5`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDEzN2EzODgzNzAzMGEyZWMxMjVlMTdjNzc0YThiZDQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 
 > Have some chill house with your coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,626 likes - 99 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,640 likes - 99 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 | 98 | [Blue Orchid](https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm) | [Mr\. Woodcole](https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg) | [Wax Casting](https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx) | 3:15 |
 | 99 | [No More](https://open.spotify.com/track/1XHCxvbJuVLd6n8Tj9oiCy) | [Bros Bros](https://open.spotify.com/artist/5QQgP1TsYXJmb0VhOjO6ZX), [Jon the Gold](https://open.spotify.com/artist/00vagRdyf9Xku8Gi0zPv0x) | [No More / You Like Me](https://open.spotify.com/album/2J3FizlVKqLcGKYCYP3KNc) | 2:38 |
 
-Snapshot ID: `MTY3NzUwMTY4MywwMDAwMDAwMGJkMGE0MzZkNWJkZTYyOTAwMjg4MTVmM2Y5YTY3NmY0`
+Snapshot ID: `MTY3NzUwMTY4MywwMDAwMDAwMDBiZjEwYWE4ZjRkNTNjN2E1YWNkZDE4ZDJiMWE0YjRi`

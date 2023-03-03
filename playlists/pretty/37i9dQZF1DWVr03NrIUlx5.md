@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,119 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,179 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [All the Small Things](https://open.spotify.com/track/42iOAFz1Qyay607RXlNr6q) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of blink\-182](https://open.spotify.com/album/4cPJGrImNW1ponkWGIdFqs) | 2:58 |
 | 100 | [What I've Done](https://open.spotify.com/track/1QPqTG2MhhMJsXVfezJriJ) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Linkin Park](https://open.spotify.com/album/6W3SvNdAMTZxqQhuKhyhEe) | 3:26 |
 
-Snapshot ID: `MTY2OTk1NzUwMCwwMDAwMDAwMGNmNDc0ODg1MDBlODk1MjM5N2I0ZTIzYTFkOTYzNTli`
+Snapshot ID: `MTY2OTk1NzUwMCwwMDAwMDAwMDk1MmRjMjYxNjhiNzNjZTI0YmNkZDM4MDA1NmY3NmQ0`

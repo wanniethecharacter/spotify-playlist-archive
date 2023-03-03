@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > Beat the traffic blues with these killer tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,514 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,517 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 79 | [Gbedu](https://open.spotify.com/track/7rl0Xnk0GstBbkJ853xx41) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Snypa](https://open.spotify.com/artist/1wqYhpSZlIFP08MrmhKAQd), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Gbedu](https://open.spotify.com/album/2yitQbZzLOU5MhydiXzzC0) | 3:03 |
 | 80 | [Slow](https://open.spotify.com/track/5e5Be8E42zERy5Y3k65wyo) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Slow](https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL) | 2:50 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDkzZjIxMDhkMDU2YjNmNzAyZDc3OTEwNDRhZWVmM2Qx`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDI2OGE3MjU4NjU0ZGE5YWE5ZmUzZDFjZjliMzU5MGI4`

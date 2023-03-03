@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Adeem the Artist
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,906 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,938 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 89 | [Illuminate the Dark](https://open.spotify.com/track/2hgw4ZGGLwObz7a89jnyhZ) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh) | [Wait](https://open.spotify.com/album/5BqkJ6970fStH2JCAzKcnf) | 2:43 |
 | 90 | [All\-American Boy](https://open.spotify.com/track/7i2xzOJU1O7hrP8kqqBchZ) | [Steve Grand](https://open.spotify.com/artist/0oqk73d6vKVx8Ekz4onThW) | [All American Boy](https://open.spotify.com/album/40nTEfg3tTj1bptrG7IQU0) | 4:57 |
 
-Snapshot ID: `MTY3NDU2OTU0NiwwMDAwMDAwMDJhYzQzMDE4MjA0ODBkOTQ2YmI1ODRjYzA0ODMxYTgy`
+Snapshot ID: `MTY3NDU2OTU0NiwwMDAwMDAwMGMyM2IzZTI3NDMwZmY1ZDcxYzY5MGZkNGI2ZmNhNmU1`

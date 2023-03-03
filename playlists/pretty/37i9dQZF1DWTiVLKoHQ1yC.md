@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,746 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,903 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Shimmer](https://open.spotify.com/track/7AbYGhAapbr9yxFe6IycxR) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Shimmer](https://open.spotify.com/album/3fuaGLXhZvnGJKd2HfOLev) | 3:10 |
 | 60 | [Hope In Balance](https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq), [Sebastian Reynoso](https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX) | [Hope In Balance](https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO) | 4:38 |
 
-Snapshot ID: `MTY2OTM5NTM5NiwwMDAwMDAwMGYyZWViMjU5NWQzMjcyN2IxZDQ0YmY5MmIyNWE1Y2Qy`
+Snapshot ID: `MTY2OTM5NTM5NiwwMDAwMDAwMDNhNzY2NjZhZWRiOTZkNjExNDIxZGU5YjgwYzI2ODgw`

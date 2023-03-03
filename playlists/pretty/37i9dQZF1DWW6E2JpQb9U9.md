@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: La Beriso
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,334 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,376 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [La Leyenda del Hada y el Mago \- En Vivo](https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rata Blanca: Luna Park 2019 \(En Vivo\)](https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE) | 5:39 |
 | 100 | [Sacate la Mierda \- En Vivo](https://open.spotify.com/track/63tUQEbpxDar0yjmtPB6jg) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Hoy Como Ayer \(En Vivo\)](https://open.spotify.com/album/1JYKLf6VSzu0c0V9YMKxqz) | 4:13 |
 
-Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDY0YTRlYzUwMjAyYzZhYTAyODBmYzYzYTFkYWFhOTM2`
+Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDUyYzI1ZGUyMGY5NGEzYTgzNWQyZmU0NGI0NmUzMjkx`

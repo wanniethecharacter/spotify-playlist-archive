@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,185 likes - 150 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,586 likes - 150 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [The Offering](https://open.spotify.com/track/2t2T8tPFnwZm8UmwsUqsLB) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [The Offering](https://open.spotify.com/album/2M3BwnvthgGXqU4gcmXs3c) | 1:46 |
 | 150 | [Anita](https://open.spotify.com/track/6TwqJKfD6MWbnmoWU0aaiX) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Anita](https://open.spotify.com/album/2XHkpQnkkPOFqJFyHzK0Nd) | 2:05 |
 
-Snapshot ID: `MTY3MTE4MTIwMCwwMDAwMDAwMGY2ZmQ3MGQzNDMyZmEyMjg1MmU3NzFhYzQzMWRmZWEx`
+Snapshot ID: `MTY3MTE4MTIwMCwwMDAwMDAwMGI1ZDFiNzg2OWUyMzE5MjVkNjQ3NmMwYWE2NzJiMzQy`

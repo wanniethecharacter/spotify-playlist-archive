@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > Joanne Shaw Taylor is taking over to share tracks of her new album, alongside current blues favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,107 likes - 44 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,114 likes - 44 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 43 | [Through Being Blue Over You](https://open.spotify.com/track/36seRRquB1YkdjuTlrVc1V) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [You Broke Me](https://open.spotify.com/album/7rJjp8koNUpalsYy0qcPMp) | 3:51 |
 | 44 | [Gone For Good](https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 2:58 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDU5NWE0MDRmNGM3NTNmYmNjNzBjYzU5NmRiYjc3OTU3`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGU3MGVkYTBmYWJjNmUyMzExM2E5MTg0YjRiMzhlMjE5`

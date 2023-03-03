@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ruston Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,087 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,172 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 50 | [Bleeding Out](https://open.spotify.com/track/7BhOH16ud5ybFUeP3wwhby) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Bleeding Out](https://open.spotify.com/album/5L2DEAJlqzC09OEPl4Ww97) | 3:28 |
 | 51 | [More of Your Love](https://open.spotify.com/track/7fA7DeIVWaXOjHj9QfjzsM) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [More of Your Love](https://open.spotify.com/album/15iwuw5NkGLK78cvvoCGr1) | 3:35 |
 | 52 | [Boone](https://open.spotify.com/track/51f7zfTF0TggcBQJ95GZVe) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Boone](https://open.spotify.com/album/7h6gWHMJfwlyZD8IY73uXr) | 2:47 |
-| 53 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 |
+| 53 | [Emily I'm Sorry](https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:34 |
 | 54 | [I Love You But I'm Lost](https://open.spotify.com/track/46nRpyM1kdayleC6G8K64v) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [I Love You But I'm Lost](https://open.spotify.com/album/26Wh17ytoxTOrjCLCojpW0) | 4:00 |
 | 55 | [Dark Reflection](https://open.spotify.com/track/2XMvL8Bjeq5VUzZgFJE56D) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Dark Reflection](https://open.spotify.com/album/4owCDcV0Y7w6BmKxnZ9DkP) | 4:20 |
 | 56 | [Maestro \(Tears Don't Lie\)](https://open.spotify.com/track/6N8hCmutQjQ3zZevRbJk36) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Maestro \(Tears Don't Lie\)](https://open.spotify.com/album/70M68ZXCoG4pdeUdN4yzhm) | 3:22 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Prodigal Daughter](https://open.spotify.com/track/42vqHuyCCHkdckWSeCmMTV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 3:42 |
 | 150 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/1ydzL5SIoSRCpEIYWhsWE5) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days \(Deluxe Edition\) In The Canyon Haze](https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q) | 4:17 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDg3N2FkNWVkOTEwZDdkYjRjMjgxOGJmOWJmOWI4MDY0`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDI5YjRjY2IzNTViNGFkMmY2YjRkYTM0M2NiN2RhNTA4`

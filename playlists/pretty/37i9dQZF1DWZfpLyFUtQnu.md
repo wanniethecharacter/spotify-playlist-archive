@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,534 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,618 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 74 | [Ici et là](https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Âme fifties](https://open.spotify.com/album/47muEu6fz7NIvfr5Ancw85) | 3:05 |
 | 75 | [C'est beau, c'est toi \- Version acoustique](https://open.spotify.com/track/6DnzFwo1oKH73dsxjqlHkc) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [C'est beau, c'est toi \(Version acoustique\)](https://open.spotify.com/album/1iTAmDqMfc49XLDjxUSeqh) | 3:14 |
 
-Snapshot ID: `MTY3NzEwMzU1NywwMDAwMDAwMGVjMzE5YTFhNzM2NTc3M2M3MjZlNDJhNzJiNzVhOWU1`
+Snapshot ID: `MTY3NzEwMzU1NywwMDAwMDAwMGUzNGY5YzRiNzA4ZTQ1M2VhMjViMWUyNzIwN2IzY2Vm`

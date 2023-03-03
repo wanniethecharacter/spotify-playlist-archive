@@ -4,7 +4,7 @@
 
 > Women at full volume! Co\-curated by <a href="spotify:artist:6SU1jFBqw4tZJQDT8iQ6Nw">Sophie Straat</a> for international women’s day\. Sophie's picks:  Amyl and The Sniffers, Sinéad O'Connor, Naaz, Little Sims & Lizzo.
 
-821 songs - 1 day 19 hr 38 min
+822 songs - 1 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [De Leven](https://open.spotify.com/track/1RA3cTcU9xGnT5GNi6y7dO) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Leven](https://open.spotify.com/album/2d0wssa9SabKowuZXc0gKn) | 4:04 | 2022-02-01 | 2022-03-08 |
 | [De Namen En De Plaatsen](https://open.spotify.com/track/5oW4jzylmdGNDfLHOyjYVg) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Xander Vrienten](https://open.spotify.com/artist/2qGBb9nTjhKAjEt0eDw2x1), [Residentie Orkest Den Haag](https://open.spotify.com/artist/4Two20Cr9126EUlMkPX88y) | [Trijntje Zingt Vrienten Met Vrienten samen met Residentie Orkest Den Haag](https://open.spotify.com/album/5lm3IWieqsMBLXwxlxXwD9) | 4:46 | 2023-01-31 | 2023-03-01 |
 | [De Reflectie](https://open.spotify.com/track/4zfn0C2okiqy2lecbgXKxj) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [De Reflectie](https://open.spotify.com/album/4AzEN3laaFnSIN7qgf3hh4) | 2:57 | 2022-05-03 | 2022-06-01 |
+| [De Vergiffenis](https://open.spotify.com/track/112BxBbiiPs82A4B99v18s) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Smartlap Is Niet Dood](https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA) | 2:54 | 2023-03-02 |  |
 | [De Wereld Staat Stil](https://open.spotify.com/track/1yvlsUA7BVhEHyxCPQv3q1) | [Tamara Tol](https://open.spotify.com/artist/2fFKIJDGZZ89gLkVDdy7Uj) | [De Wereld Staat Stil](https://open.spotify.com/album/7mArfmPaRCM1T22PL1go4f) | 3:53 | 2022-01-05 | 2022-02-02 |
 | [Deal With It](https://open.spotify.com/track/2sBLiwij4OAys1PrkKiUvt) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [Deal With It](https://open.spotify.com/album/1MuQbtRosElxFk80vXw5lG) | 3:26 | 2022-03-07 | 2022-04-06 |
 | [Deja Vu](https://open.spotify.com/track/7D6Xc4mQ1Lcn5AKe5cj1IB) | [Debrah Jade](https://open.spotify.com/artist/7uBmJOLRmS5esa9GRDdi7i) | [Deja Vu](https://open.spotify.com/album/4P2EF2u0GD3taVnBsU3wuS) | 2:49 | 2022-01-05 | 2022-02-02 |

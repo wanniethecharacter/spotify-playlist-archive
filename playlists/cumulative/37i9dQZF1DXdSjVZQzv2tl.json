@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Maiara & Maraisa",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Henrique & Juliano",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 172639,
       "name": "Imagina A Sentada - Ao Vivo",
       "url": "https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM"
@@ -1734,6 +1734,24 @@
       "duration_ms": 179872,
       "name": "O Ex da Sua Vida",
       "url": "https://open.spotify.com/track/17Gh6E6eRfAAw7sCgmnkFc"
+    },
+    {
+      "album": {
+        "name": "Escolhas, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159158,
+      "name": "Oi Balde - Ao Vivo",
+      "url": "https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX"
     },
     {
       "album": {

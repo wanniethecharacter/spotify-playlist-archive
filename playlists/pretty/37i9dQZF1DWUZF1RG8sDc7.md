@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,181 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,331 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 59 | [Un Solo Corazón](https://open.spotify.com/track/2Ia1pSf6YoK4aMJzK26Gfk) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Por Buen Camino](https://open.spotify.com/album/1p9d7eTbTc4cra1TwkxPHI) | 4:45 |
 | 60 | [Todo Daria por Ti](https://open.spotify.com/track/2Nbfy4NBo26CbHt9GC9nn2) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:49 |
 
-Snapshot ID: `MTY3MTIyMTg2NywwMDAwMDAwMGIyNGM0Nzg2ZDY2MWFhYThlZTA5ZGRjMDBhODE0MWE4`
+Snapshot ID: `MTY3MTIyMTg2NywwMDAwMDAwMGVjZmRhY2ZhZDZjMTU5OWU0Yzg2NDJmYTEyOGIzODhk`

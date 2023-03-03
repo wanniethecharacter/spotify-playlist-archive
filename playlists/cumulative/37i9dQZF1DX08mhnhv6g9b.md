@@ -2,7 +2,7 @@
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 
-> This is the PROOF of BTS history\. ARMY is unbeatable💜
+> This is the PROOF of BTS history\. Check out <a href="https://open.spotify.com/playlist/37i9dQZF1DXaR2kf8OYllT">BTS Yet To Come in Busan LIVE SET</a> as well\. ARMY is unbeatable💜
 
 448 songs - 1 day 2 hr 53 min
 

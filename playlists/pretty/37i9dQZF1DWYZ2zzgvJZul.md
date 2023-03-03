@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Las Robertas
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,103 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,142 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 74 | [Perfecto Error](https://open.spotify.com/track/5diqHYqIz4JfsbDztdeuJI) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Perfecto Error](https://open.spotify.com/album/0PM4dmS8vkPgSQbIN2WJrT) | 3:55 |
 | 75 | [Corazón](https://open.spotify.com/track/5ubEpPWx9IDf75pmbOfHP8) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP) | [Respirar una Vez Mas](https://open.spotify.com/album/32qXAp0uwu8UOysuzdqlmD) | 4:34 |
 
-Snapshot ID: `MTY3NTQwNjU4MCwwMDAwMDAwMGU4NThjOTUzYzZiYTZiYWFlMDdmY2QzNmJjNDZhOTMw`
+Snapshot ID: `MTY3NTQwNjU4MCwwMDAwMDAwMDFlOTJjZWIyMGI4YThlYmE2MTJjYWMzYWE0MTNiNDM1`

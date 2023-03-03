@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Militarie Gun
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,144 likes - 102 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,242 likes - 102 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 92 | [Under The Radar](https://open.spotify.com/track/7nrp2bpnnB6LfXxtuyddFu) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Under The Radar](https://open.spotify.com/album/1m6Y7aJMDbvaPOXlX4ZLc9) | 2:04 |
 | 93 | [airplane](https://open.spotify.com/track/0ZSrtjk2DQH6xWura7F01v) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [airplane](https://open.spotify.com/album/1DeRZ8RuEzvo7pfTzf5mYm) | 3:15 |
 | 94 | [Space Invader](https://open.spotify.com/track/43DIL3TsfKObMfMGVRNC8z) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Space Invader](https://open.spotify.com/album/1Rg8aWg5i6nRQu7NzlgaoX) | 3:53 |
-| 95 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq) | 2:39 |
+| 95 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:39 |
 | 96 | [Soccer Mommy](https://open.spotify.com/track/7Eh51PbeKl19zS1dzWpTsO) | [Shalom](https://open.spotify.com/artist/5CgUSK3nZJAv90N00E6gj5) | [Soccer Mommy](https://open.spotify.com/album/4R3TpyRzegSa4DHpvmDqe5) | 1:53 |
 | 97 | [gfgf](https://open.spotify.com/track/1g5xGsMhlveEthRWzEahZh) | [baej Lambeaux](https://open.spotify.com/artist/7yB6e34bRQLTSrSh4hFY70) | [gfgf](https://open.spotify.com/album/5CUBzvAPsIr25SjvX7yoWD) | 2:57 |
 | 98 | [Dark Place](https://open.spotify.com/track/4Xh0CHIO1IxIHV8vmiOimN) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Dark Place](https://open.spotify.com/album/6SHJltu5kBkVDr0EyB0z7W) | 2:24 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 101 | [Dinner For One](https://open.spotify.com/track/1otdfx71wVb8TXgdkbYa8v) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Dinner For One](https://open.spotify.com/album/5nemInefPKhUqRKMjfzV6R) | 2:23 |
 | 102 | [I'm Deranged](https://open.spotify.com/track/1lCS3D0iuE4nLXhXHT2iuq) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [I'm Deranged](https://open.spotify.com/album/1BUW63sCkPSEKNadYTAAsH) | 2:14 |
 
-Snapshot ID: `MTY3NzI3NDU2NCwwMDAwMDAwMDkxN2RkOTVhMDg4ZDg0N2I0YmZjMmI4MWRhZGM1Yjg2`
+Snapshot ID: `MTY3NzI3NDU2NCwwMDAwMDAwMDgwNTdmMTlmNmI3NzUxMGM0NDg4Y2QzZTRkMDUzOThj`

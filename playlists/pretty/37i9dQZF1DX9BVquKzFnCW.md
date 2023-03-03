@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,914 likes - 100 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,967 likes - 100 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 99 | [Uh Huh \- Remastered 2005](https://open.spotify.com/track/1ifrzoPqpThdTHnktdPTyu) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Workout](https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q) | 10:47 |
 | 100 | [Bohemia After Dark](https://open.spotify.com/track/3TcD9Hcy9DpU58J4IXagMA) | [Oscar Pettiford](https://open.spotify.com/artist/3DuKJapiJ2AUvoIJq1ZJFb) | [Oscar Pettiford](https://open.spotify.com/album/140tK9eP8UUecyEOT26GgH) | 5:35 |
 
-Snapshot ID: `MTY3NzE0ODM4MSwwMDAwMDAwMDg3ZmUwYzgzZmNhZTBjOTRkOWMwNGU2MjM0ZTg3MmQ5`
+Snapshot ID: `MTY3Nzc0OTgyMCwwMDAwMDAwMDAyMjMyZTdkZWQ3NzA1NmUyNjlmNGE3ZjZjNmU2NGMy`

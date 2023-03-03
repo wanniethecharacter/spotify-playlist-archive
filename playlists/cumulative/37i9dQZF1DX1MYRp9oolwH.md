@@ -4,11 +4,12 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-97 songs - 6 hr 30 min
+98 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aafat \(Telugu\) \[From "Liger \(Telugu\)"\]](https://open.spotify.com/track/21aHbmzbIE9hXry26mwKDt) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Simha](https://open.spotify.com/artist/0tluFVpifIuT5slS3M1yTi), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [Aafat \(Telugu\) \[From "Liger \(Telugu\)"\]](https://open.spotify.com/album/1DGk7arnJgEpIZ7HZkCikQ) | 2:43 | 2022-08-06 |  |
+| [Adavilona Aadapilla \(From "Rebels of Thupakulagudem"\)](https://open.spotify.com/track/1NQ3HJq5RklgerKBPW5RF4) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Jaideep Vishnu](https://open.spotify.com/artist/3rUxrdFuzlGMEeqB5ObIRM) | [Adavilona Aadapilla \(From "Rebels of Thupakulagudem"\) \- Single](https://open.spotify.com/album/4L0loyRvCzlxz7nrJrXUJN) | 3:48 | 2023-03-02 |  |
 | [Adirindey](https://open.spotify.com/track/01mOEaPOoelxaSLlLcXhuw) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Macherla Niyojakavargam](https://open.spotify.com/album/110jRnDnxi80jTtWbKT2Kz) | 3:39 | 2022-07-25 |  |
 | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\)](https://open.spotify.com/track/3d4BUW2iX1HagWRRkat9l7) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Poornachari](https://open.spotify.com/artist/7ebwtbh8aSrOUbKIHDW4ty) | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\) \- Single](https://open.spotify.com/album/3Bq1oXhTLEWvDV03ZmrVue) | 3:33 | 2022-12-06 |  |
 | [Ammadi Gummadi](https://open.spotify.com/track/2gXM2FoZQoqzkjWtmDOwx2) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H) | [Butta Bomma](https://open.spotify.com/album/4gCBfKwcvxO4kRsBRnGPVG) | 3:43 | 2023-02-08 |  |

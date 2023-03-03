@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Don Toliver, Key Glock and more\. Cover: Yeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,711 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,870 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Big Smoke](https://open.spotify.com/track/4N8uD36Xn50DSBg1Swh9do) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF) | [Big Smoke](https://open.spotify.com/album/4nTO6s6ainH7OP4S5GynL0) | 2:47 |
 | 50 | [Showing](https://open.spotify.com/track/0TYI2XFZBnKht4ST2x7iIe) | [DaeDalTm](https://open.spotify.com/artist/3nRaPl431Y4WNLU7EF49VW) | [Showing](https://open.spotify.com/album/3qDTmXpBYxvbUa5AOIR0WB) | 2:02 |
 
-Snapshot ID: `MTY3NzYxNTc5NywwMDAwMDAwMDUxNTdmMGEzZTQ4YmY4YWZjMWNlNTJiMTk3MTk5YmM1`
+Snapshot ID: `MTY3NzYxNTc5NywwMDAwMDAwMDE5NTM5ZmY5ZTBmYmM4OGQ0ZTM3YmEzYTI1NzFmYmNj`

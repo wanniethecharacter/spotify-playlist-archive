@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,654 likes - 66 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,372 likes - 66 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 65 | [Ave María \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0) | [Sigvaldi Kaldalóns](https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Kaldalóns: Ave María \(Arr\. Víkingur Ólafsson\)](https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA) | 3:36 |
 | 66 | [Erbarm dich mein, o Herre Gott, BWV 721 \(Arr\. S\. Scheiwiller for Cello & Orchestra\)](https://open.spotify.com/track/5pCoZCarC9qZ5UqnMxxFju) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Simone Drescher](https://open.spotify.com/artist/42lod2cmRT0BzVFKh01zbp), [Sinfonietta Riga](https://open.spotify.com/artist/3PaOiIUiOccivDf73rOXsY), [Jānis Liepiņš](https://open.spotify.com/artist/2fT0t0dDsDrf0GLZO6YQsd) | [Humanity](https://open.spotify.com/album/3szs87EzcEUj8vjZCe4q7N) | 3:34 |
 
-Snapshot ID: `MTY3NDc5MjAwMCwwMDAwMDAwMDgwZWQxMTM3NTY2ODYzMmQ1NzY5NTZiNmI2NmU0NjU0`
+Snapshot ID: `MTY3NDc5MjAwMCwwMDAwMDAwMDQ5MmZlMTkyOTBhMDE5OTEzOWRlMTQxYmU5YzM1Zjdi`

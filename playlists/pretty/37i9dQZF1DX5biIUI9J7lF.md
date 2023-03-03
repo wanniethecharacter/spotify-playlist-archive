@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > more than just a lifestyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,190 likes - 61 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,226 likes - 61 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 60 | [Kpo K3K3](https://open.spotify.com/track/2ZYPJ5WrWZISMG6tfbfrIa) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Kpo K3k3](https://open.spotify.com/album/3tIuMo7OzLP6UmPvKRkPKB) | 4:20 |
 | 61 | [Chop Life \- Remix](https://open.spotify.com/track/2Xy2VaKdByJ1zMyGTy0T0L) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6), [Mr\. Dutch](https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN) | [Chop Life \(Remix\)](https://open.spotify.com/album/5EldLnHAzHgBxsqv6S6XDd) | 3:02 |
 
-Snapshot ID: `MTY2OTk2ODYxOSwwMDAwMDAwMGU0YjFkNTUxMmQwY2EzZDVkYzQxZDRmNjg0MWE5OTJl`
+Snapshot ID: `MTY2OTk2ODYxOSwwMDAwMDAwMDkyYTRmOTNhYzNmY2ZhZTczMDQ1Y2IwYjZjYzY5ODdl`

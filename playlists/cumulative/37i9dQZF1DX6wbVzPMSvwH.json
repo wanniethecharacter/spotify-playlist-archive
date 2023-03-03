@@ -1357,6 +1357,36 @@
     },
     {
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/3vxu37rHw5dnzi5Vb0I3jQ"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        },
+        {
+          "name": "Jevin Julian",
+          "url": "https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O"
+        },
+        {
+          "name": "Jinan Laetitia",
+          "url": "https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth"
+        },
+        {
+          "name": "Kara Chenoa",
+          "url": "https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226921,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7AIXWUhYM5i1MrHOL28ef5"
+    },
+    {
+      "album": {
         "name": "Day by Day",
         "url": "https://open.spotify.com/album/3Fxba1JUppkx30LoFcWuz7"
       },

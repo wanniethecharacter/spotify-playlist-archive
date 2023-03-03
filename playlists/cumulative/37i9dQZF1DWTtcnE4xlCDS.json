@@ -505,6 +505,32 @@
     },
     {
       "album": {
+        "name": "Ct",
+        "url": "https://open.spotify.com/album/4gucZtLH0fxCNYhHOXjCxg"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "uku kasai",
+          "url": "https://open.spotify.com/artist/41J8oHMrDrY3QWUwZ8GcSM"
+        },
+        {
+          "name": "\u7070\u5cf6\u9280\u83ef (CV: \u6f81\u8c37\u6893\u5e0c)",
+          "url": "https://open.spotify.com/artist/5B4sSyRcbTVegDTQlj8aX2"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173160,
+      "name": "Ct",
+      "url": "https://open.spotify.com/track/4J4cN4AKpBNTksAhb1AvUN"
+    },
+    {
+      "album": {
         "name": "Dennou Lolipop",
         "url": "https://open.spotify.com/album/743KLotFR2zs4lqN7TvwI0"
       },
@@ -1770,7 +1796,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213577,
-      "name": "Mikey Timeline",
+      "name": "Milkey Timeline",
       "url": "https://open.spotify.com/track/3xdfcxoBRKkO0sg543ojOD"
     },
     {
@@ -1796,7 +1822,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184909,
-      "name": "Mikey Timeline - Tsubusare BOZZ REMIX",
+      "name": "Milkey Timeline - Tsubusare BOZZ REMIX",
       "url": "https://open.spotify.com/track/4OCUDcBEmZRyslIEZl8O6K"
     },
     {

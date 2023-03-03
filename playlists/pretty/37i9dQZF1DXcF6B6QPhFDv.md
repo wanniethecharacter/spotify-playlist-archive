@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Meet Me @ The Altar along with the biggest Rock songs you need to hear.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,748,382 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,748,806 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 50 | [Bad Things](https://open.spotify.com/track/4b3f0U8gOfJKyxB8cYdCiw) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Bad Things](https://open.spotify.com/album/5ynUGkp1zf2gs4Q1ceUhsR) | 3:48 |
 | 51 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGVlOTljOGI1N2I2ZTQ0NzlhMjViODQ0ODUzMGQ4OTgy`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDZlZTRkOTkyMDExNWUzNDEyNGNlYWQ1YjliNTA5NmE4`

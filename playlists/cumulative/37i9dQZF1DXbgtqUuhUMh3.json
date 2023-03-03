@@ -825,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Ana Wein",
+        "url": "https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232857,
+      "name": "Ana Wein",
+      "url": "https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo"
+    },
+    {
+      "album": {
         "name": "Anger",
         "url": "https://open.spotify.com/album/0aGn0YLlsHxsNdBCcuRv01"
       },
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 246613,
       "name": "Eshrit Sinin",
       "url": "https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo"
@@ -2942,6 +2960,24 @@
       "duration_ms": 190830,
       "name": "ISMAK",
       "url": "https://open.spotify.com/track/43VNzrxl9c8l3BHbzLHQTY"
+    },
+    {
+      "album": {
+        "name": "Janne",
+        "url": "https://open.spotify.com/album/1uBuVHdxXpGLZDXcT791yF"
+      },
+      "artists": [
+        {
+          "name": "Yara Korkomaz",
+          "url": "https://open.spotify.com/artist/6amwfCnGymkXQLiFYq23PU"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218780,
+      "name": "Janne",
+      "url": "https://open.spotify.com/track/434dk1E0K6p4J5mW8nznFX"
     },
     {
       "album": {
@@ -5702,7 +5738,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 304482,
       "name": "Ya Hala",
       "url": "https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr"
@@ -6532,7 +6568,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 293071,
       "name": "\u0631\u062d\u064a\u0644",
       "url": "https://open.spotify.com/track/3JlGlUGcHXG2YXyykHGLWS"
@@ -6568,7 +6604,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 219000,
       "name": "\u0631\u0648\u062d \u0628\u0631\u0627\u062d\u062a\u0643",
       "url": "https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ"
@@ -6802,7 +6838,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 203218,
       "name": "\u0637\u0631\u0634\u0648\u0644\u0647",
       "url": "https://open.spotify.com/track/6zKRAoVTjxGaXYxUdSTUHB"
@@ -7318,7 +7354,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 197302,
       "name": "\u0646\u0633\u0627\u0649",
       "url": "https://open.spotify.com/track/2AVA6NJZXA7UERS5nnsTzz"

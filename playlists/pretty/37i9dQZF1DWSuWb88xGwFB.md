@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,211 likes - 75 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,237 likes - 75 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [We Can Make It \- The 'I Believe' Dub](https://open.spotify.com/track/01kNH1gcD00UXdzroGFOxg) | [Moné](https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 5:34 |
 | 75 | [Generate Power \(feat\. Paula Brion\) \- Radio Mix](https://open.spotify.com/track/0F3Ywkp1Xav1h6jY7JZGam) | [Photon Inc.](https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP), [Paula Brion](https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4) | [Generate Power \(Mixes\)](https://open.spotify.com/album/4X5H5cObFjebRrA0sSjFnl) | 3:40 |
 
-Snapshot ID: `MTY0NjMxNTk1NiwwMDAwMDAwMDZjOWY2NzBhYTdhM2NkYzIyZjA5ZjUzNjI3ZWE5YjRm`
+Snapshot ID: `MTY0NjMxNTk1NiwwMDAwMDAwMGYxYzgwNDY0M2MyOThjYTlmOTE4NmI2MzU3YmFmMTAz`

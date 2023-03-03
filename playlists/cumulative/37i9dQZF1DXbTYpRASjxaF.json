@@ -827,6 +827,44 @@
     },
     {
       "album": {
+        "name": "BLACK TOTAL 2023",
+        "url": "https://open.spotify.com/album/3wV6KFayuL8lDa4m3y6xLt"
+      },
+      "artists": [
+        {
+          "name": "Aldeia Records",
+          "url": "https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM"
+        },
+        {
+          "name": "Mikezin",
+          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Andrade",
+          "url": "https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "CHRIS BROWN FREESTYLE",
+      "url": "https://open.spotify.com/track/4wdMshLviJb0BT07jbo4Hk"
+    },
+    {
+      "album": {
         "name": "Joias do Bairro",
         "url": "https://open.spotify.com/album/4FbcW3acqCCa64ePx1fKOr"
       },
@@ -1294,7 +1332,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 154285,
       "name": "Dubl\u00ea de Marido",
       "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"

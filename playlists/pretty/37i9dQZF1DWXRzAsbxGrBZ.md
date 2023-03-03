@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,044 likes - 50 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,183 likes - 50 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Love Me](https://open.spotify.com/track/4XzlfyvhwfC34jdjxveHy9) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Love Me](https://open.spotify.com/album/6c4xAgxF1tbM6xi3UH9law) | 6:32 |
 | 50 | [Nelisiwe](https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT) | [Craving Souls](https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe), [Da Tee SA](https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5) | [Joyful Music, Vol\. 1 \(Compiled\)](https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV) | 6:53 |
 
-Snapshot ID: `MTY2ODcyMjM0MCwwMDAwMDAwMDBkNmMwODVjOWM5NTBjZDM3MDJiN2I4NGE2MzU3ODdl`
+Snapshot ID: `MTY2ODcyMjM0MCwwMDAwMDAwMDY4OWY1ZTNkZjVkNmI1OTIwOTBiN2I2Zjc5MzFlZWJk`

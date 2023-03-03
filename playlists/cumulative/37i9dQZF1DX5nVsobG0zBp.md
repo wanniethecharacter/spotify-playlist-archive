@@ -4,7 +4,7 @@
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-122 songs - 7 hr 17 min
+123 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1 de Abril](https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 2:38 | 2022-07-05 |  |
 | [1100 Cegonhas](https://open.spotify.com/track/6Lu4LreN9YevvN26udZ5pE) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [1100 Cegonhas](https://open.spotify.com/album/3HaGPPVlv39Gf3j02jpEqy) | 3:55 | 2022-07-05 | 2022-09-30 |
 | [2 da Matina](https://open.spotify.com/track/6mHEUDWaySfb6YvLC7JgPN) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:31 | 2022-12-02 |  |
-| [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 | 2022-07-05 |  |
+| [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 | 2022-07-05 | 2023-03-03 |
 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 | 2022-12-16 |  |
 | [300](https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:17 | 2022-10-27 |  |
 | [Andalé](https://open.spotify.com/track/0rYRDCNedo3Pg9VTQd4aRT) | [Minguito 283](https://open.spotify.com/artist/1LvFNnGu8V8HBP8Qy2bhYv) | [Andalé](https://open.spotify.com/album/4Z1dmBdlH5t0e9Bhw780gU) | 3:21 | 2023-02-09 |  |
@@ -67,8 +67,9 @@
 | [Lucy Lucy](https://open.spotify.com/track/2TPBDdqlAb6BitW6KC1KjW) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 3:13 | 2022-07-05 | 2022-09-30 |
 | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/track/7Hv96cbXLVcSFW1EBpjA8t) | [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Xakal Da Gun](https://open.spotify.com/artist/4swNK0k8teorELHJdglw6S) | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/album/1ROz5se04TrvGR6sIaMZGv) | 4:10 | 2022-11-18 | 2022-12-09 |
 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 | 2022-12-09 |  |
+| [Man Down](https://open.spotify.com/track/6J6DcdqOLCCA3VZ9mr6VPD) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX), [Fumaxa](https://open.spotify.com/artist/1qMTgrvxRRHO3rflIONsCP) | [Man Down](https://open.spotify.com/album/1S5w4wJZoMPoacHqBWWTwF) | 3:12 | 2023-03-03 |  |
 | [Marcas De Bikini](https://open.spotify.com/track/6lk0wakzghDJLnlQVK9qD3) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Marcas De Bikini](https://open.spotify.com/album/7FOJWf7cL28upX4jHRdEL3) | 3:23 | 2022-09-30 | 2022-10-28 |
-| [Melanina](https://open.spotify.com/track/1jFxvJAGwD8DFctTJZHBjl) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Melanina](https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch) | 4:04 | 2023-02-24 |  |
+| [Melanina](https://open.spotify.com/track/1jFxvJAGwD8DFctTJZHBjl) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Melanina](https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch) | 4:04 | 2023-02-24 | 2023-03-03 |
 | [METE1LIKE](https://open.spotify.com/track/2w6x13VWPqhAKHjmX5kMbj) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx) | [METE1LIKE](https://open.spotify.com/album/4J4OCfvHHWAMZ6unYRvBOd) | 3:30 | 2023-02-09 |  |
 | [Meu Deus](https://open.spotify.com/track/0PdCHtiX5w5P4W8NvLrUx2) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Meu Deus](https://open.spotify.com/album/0ypWv4RvWiIL1gRgXQKIvh) | 3:42 | 2022-07-05 | 2022-12-21 |
 | [Miúda](https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Miúda](https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr) | 2:48 | 2022-07-05 |  |
@@ -128,7 +129,7 @@
 | [Voodoo](https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu), [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Na Via](https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR) | 4:50 | 2022-07-05 |  |
 | [WUOW](https://open.spotify.com/track/0eXD7LAkqQ9LWyXa0hQkBG) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [WUOW](https://open.spotify.com/album/4KNT4vVQJeSgBmZYRalkHb) | 2:55 | 2022-10-06 | 2022-11-25 |
 | [À Vontade \(feat\. Fínix MG\)](https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Fínix MG](https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u) | [\#FFFFFF](https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E) | 5:36 | 2022-07-05 |  |
-| [É ASSIM](https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [É ASSIM](https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu) | 4:09 | 2022-10-27 | 2023-03-02 |
+| [É ASSIM](https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [É ASSIM](https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu) | 4:09 | 2022-10-27 |  |
 | [Última Noite](https://open.spotify.com/track/0azjYhx3vaByBQfcvrq8BC) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Vale D´judeus](https://open.spotify.com/album/3R9nwoCU3HQEe2lDZZVJFx) | 3:03 | 2022-07-05 | 2022-08-12 |
 
 \*This playlist was first scraped on 2022-07-17. Prior content cannot be recovered.

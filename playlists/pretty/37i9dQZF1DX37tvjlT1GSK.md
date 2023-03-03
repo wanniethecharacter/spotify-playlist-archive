@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Alta Consigna en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,035 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,156 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 99 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 |
 | 100 | [Salí Perdiendo \- En Vivo](https://open.spotify.com/track/2iZTs35WEZGJvoyTRcZ5Mz) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 4:01 |
 
-Snapshot ID: `MTY3NjYxMzYwMCwwMDAwMDAwMDQwMWFiZjVhY2YwZTQzMTY5ZTQxNTAzMGViYTU0YjU3`
+Snapshot ID: `MTY3NjYxMzYwMCwwMDAwMDAwMDk1Yzc4MDYyYzhlMDZiMjcwMzYzYmY4YzczNmVjMzJm`

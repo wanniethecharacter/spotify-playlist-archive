@@ -257,6 +257,32 @@
     },
     {
       "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168560,
+      "name": "August",
+      "url": "https://open.spotify.com/track/6SYISkUBtn8rUrQuuQezl7"
+    },
+    {
+      "album": {
         "name": "RISE OF THE ROMANIAC",
         "url": "https://open.spotify.com/album/4fXKTHlYNHgc6RLGe4cSrg"
       },
@@ -1164,7 +1190,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 143160,
       "name": "Gl\u00fccklich",
       "url": "https://open.spotify.com/track/3z3thFt7kVIkfY9PRdIOcJ"
@@ -1230,7 +1256,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 172546,
       "name": "Herz Klopft",
       "url": "https://open.spotify.com/track/3S52C6WTpp5kqKvEInZXOu"
@@ -1248,7 +1274,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 157053,
       "name": "Hilferuf",
       "url": "https://open.spotify.com/track/08QqmrxcfV58x8f1o6JxKe"
@@ -3207,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "MINI",
+        "url": "https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136373,
+      "name": "Wien",
+      "url": "https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2"
+    },
+    {
+      "album": {
         "name": "You Problem",
         "url": "https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu"
       },
@@ -3262,6 +3306,32 @@
       "duration_ms": 193493,
       "name": "ZOMBIE",
       "url": "https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9"
+    },
+    {
+      "album": {
+        "name": "Soul \u00fcber Ego",
+        "url": "https://open.spotify.com/album/1UsBo0GLw8Ob7rotm0mgD5"
+      },
+      "artists": [
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        },
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        },
+        {
+          "name": "Cato",
+          "url": "https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135826,
+      "name": "Zug",
+      "url": "https://open.spotify.com/track/4HzI51MtylzWfyHt5M9dAX"
     },
     {
       "album": {

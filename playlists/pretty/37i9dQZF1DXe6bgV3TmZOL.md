@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,152,957 likes - 150 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,154,005 likes - 150 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 149 | [The Bottom](https://open.spotify.com/track/4vpJYmoqQ2bGkC1IKVWeIG) | [Devour the Day](https://open.spotify.com/artist/4olk2DDoPvzAJlJBonZFHk) | [S.O.A.R](https://open.spotify.com/album/5OsKZSMhvAjBb47m8zakxI) | 3:02 |
 | 150 | [Do You Really Want It](https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 3:53 |
 
-Snapshot ID: `MTY3NzIyNTc1OCwwMDAwMDAwMGM4Yjg1OWQwMDVkNDdjOTVlMTllMjUxMmRmZGQ4OTY0`
+Snapshot ID: `MTY3NzIyNTc1OCwwMDAwMDAwMGNkZWU3N2ZiNzJmNzE2NjA1MWFlNmI3ZDJkODFhYWE2`

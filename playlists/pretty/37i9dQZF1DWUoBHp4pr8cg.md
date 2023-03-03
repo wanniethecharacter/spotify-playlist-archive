@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest out now in Hip Hop..\. Cover: <a href="https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax?si=0B3EUNRMSmmdMCPEDFJR\_Q">Trippie Redd</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,035 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,058 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 49 | [Get Away](https://open.spotify.com/track/65nmqAEqW7CJIkXOIkxyg8) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Get Away](https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY) | 3:00 |
 | 50 | [Chocolate \(feat\. Young Thug and Gunna\)](https://open.spotify.com/track/6PvHZ5vVjUhngh0t3pIsPc) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 3:28 |
 
-Snapshot ID: `MTY3NzE4OTU0MCwwMDAwMDAwMDIwNTNlZjRhMjM3Y2FjNDA4MjE4ZTQ4M2UyZDUwMDhm`
+Snapshot ID: `MTY3NzE4OTU0MCwwMDAwMDAwMDM3YmFiMDhkNGYyNDIzMzAwM2MyMzdkYmFkZDQ0MWQz`

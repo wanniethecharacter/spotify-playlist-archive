@@ -53,6 +53,32 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/6AteuNkqx6cwDaXKXgX7Z6"
+      },
+      "artists": [
+        {
+          "name": "MiiNa",
+          "url": "https://open.spotify.com/artist/76nos2JmvLyYGZ28ribrf7"
+        },
+        {
+          "name": "RIN9",
+          "url": "https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf"
+        },
+        {
+          "name": "DREAMeR",
+          "url": "https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251739,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/37kfF2bDr3O2qmOYNTgDMT"
+    },
+    {
+      "album": {
         "name": "Love Yourself \u8f49 'Tear'",
         "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O"
       },
@@ -2238,7 +2264,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 255429,
       "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
       "url": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x"
@@ -3026,7 +3052,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -3120,7 +3146,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
@@ -6312,7 +6338,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 164266,
       "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
       "url": "https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY"
@@ -6902,7 +6928,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 234240,
       "name": "Lu\u00f4n y\u00eau \u0111\u1eddi",
       "url": "https://open.spotify.com/track/76zJmpyMFX49tGT3u06JaK"
@@ -7236,7 +7262,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 225920,
       "name": "Matsuri",
       "url": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
@@ -9780,7 +9806,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 185002,
       "name": "See T\u00ecnh",
       "url": "https://open.spotify.com/track/307iMiCYAKX6sUG7P4UKWt"
@@ -11042,7 +11068,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 241935,
       "name": "ThichThich",
       "url": "https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP"
@@ -11184,7 +11210,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "Th\u00edch Qu\u00e1 R\u00f9i N\u00e0",
       "url": "https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut"
@@ -11282,7 +11308,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
@@ -11600,7 +11626,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 245333,
       "name": "t\u00ecnh y\u00eau ch\u1eadm tr\u1ec5",
       "url": "https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS"

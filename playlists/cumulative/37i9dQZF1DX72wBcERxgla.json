@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Falling In Love With Love",
+        "url": "https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL"
+      },
+      "artists": [
+        {
+          "name": "Ray Horne",
+          "url": "https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178020,
+      "name": "Falling In Love With Love",
+      "url": "https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu"
+    },
+    {
+      "album": {
         "name": "Flowers In Your Hair",
         "url": "https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku"
       },
@@ -1373,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "Henry Street",
+        "url": "https://open.spotify.com/album/2zjI2uq9viHy7dx1m9VBez"
+      },
+      "artists": [
+        {
+          "name": "Lou Green",
+          "url": "https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142909,
+      "name": "Henry Street",
+      "url": "https://open.spotify.com/track/2JIH2zpgozNspbN2vVva9G"
+    },
+    {
+      "album": {
         "name": "My Favorite Things",
         "url": "https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R"
       },
@@ -1409,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "If I Love Again",
+        "url": "https://open.spotify.com/album/0J8hyD8Uc9tdHDgDiQwGxx"
+      },
+      "artists": [
+        {
+          "name": "Irvin Smith",
+          "url": "https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189382,
+      "name": "I Apologize",
+      "url": "https://open.spotify.com/track/2QgJAZCJb9s1RxEybOaeYJ"
+    },
+    {
+      "album": {
         "name": "I Can't Get Started (With You)",
         "url": "https://open.spotify.com/album/61gEEgRzs3Rl0QB7X4lk7D"
       },
@@ -1424,6 +1478,24 @@
       "duration_ms": 279895,
       "name": "I Can't Get Started (With You)",
       "url": "https://open.spotify.com/track/0vpZnqfPR7ztK1iYUdRI4P"
+    },
+    {
+      "album": {
+        "name": "I Could Write A Book",
+        "url": "https://open.spotify.com/album/1Jn2DXdP0Ci1UBVjfFpZPF"
+      },
+      "artists": [
+        {
+          "name": "Francis Graden",
+          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196011,
+      "name": "I Could Write A Book",
+      "url": "https://open.spotify.com/track/66eaAKE675VWRnj8EVeDQk"
     },
     {
       "album": {
@@ -2201,6 +2273,42 @@
     },
     {
       "album": {
+        "name": "Medium Rare",
+        "url": "https://open.spotify.com/album/4L9BcTppmoi7AFbqUEfin5"
+      },
+      "artists": [
+        {
+          "name": "Tyler Marshall",
+          "url": "https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179537,
+      "name": "Medium Rare",
+      "url": "https://open.spotify.com/track/1mWMtQM3o3QG3xXedUagtM"
+    },
+    {
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/4qJEPS5KuL1a7ynbgifQXV"
+      },
+      "artists": [
+        {
+          "name": "Ward Stetson",
+          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206874,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6lMI9WKqbIwxnumenEI0Iz"
+    },
+    {
+      "album": {
         "name": "I Get Along Without You Very Well",
         "url": "https://open.spotify.com/album/3TA20v06xIbqbfTqIG48do"
       },
@@ -2842,7 +2950,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 140982,
       "name": "Playing for Keeps",
       "url": "https://open.spotify.com/track/7vKu6hdtAkVRMYCrTIlOwm"
@@ -3458,6 +3566,24 @@
       "duration_ms": 261432,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/509cZqCtvC6it9bKbuD0hP"
+    },
+    {
+      "album": {
+        "name": "Polka Dots and Moonbeams",
+        "url": "https://open.spotify.com/album/609qfgCjjErut4a17FegjN"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma",
+          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168090,
+      "name": "Stay Here Tonight",
+      "url": "https://open.spotify.com/track/1TBHU4rckRwhSTxklMUXhb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,282 likes - 100 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,426 likes - 100 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 99 | [My foolish heart](https://open.spotify.com/track/5dhgrt2is9rFBuEKtwBPdU) | [Horace Parlan](https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e) | [No Blues](https://open.spotify.com/album/1OEFn9mgfKhJRmnjWpu7tC) | 4:57 |
 | 100 | [Little Girl Blue](https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The John Lewis Piano](https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA) | 4:29 |
 
-Snapshot ID: `MTY3NzA3NTIzOSwwMDAwMDAwMDYwZDFlZWFkNTQwYTc5ZGU4Mzc5N2Y5NDg1OWIyYjNj`
+Snapshot ID: `MTY3Nzc0MzM3OCwwMDAwMDAwMDNiN2M4OWI1NzdkYWEwOWEwZDM1NjJkYjM5ZjcwMjdk`

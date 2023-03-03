@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con La Paloma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,390 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,422 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [De Nubes y Montañas](https://open.spotify.com/track/3ccr0m4KpD3xZP5R2AiJ4g) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [De Nubes y Montañas](https://open.spotify.com/album/3BHow5ecPVimeyhP3eW5Hp) | 3:23 |
 | 50 | [Radio 3](https://open.spotify.com/track/5kOiyzli7giF14Fyn72utJ) | [Alex O'Dogherty](https://open.spotify.com/artist/09L2UUFvhk6xuHoIbwNL4y), [La Bizarrería](https://open.spotify.com/artist/55c0gSmang0nLowAlPfh45) | [Radio 3](https://open.spotify.com/album/3f5w0nYPbFSpxqrZltrdeh) | 3:54 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDYyODgwMGUxYmYxOGI3OTgzYmM5OWY0MmU4Y2NlYjU3`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDhjNDI0OGNlY2NjMmU2NTNhOTllYjk5ZTUyMzViN2Ex`

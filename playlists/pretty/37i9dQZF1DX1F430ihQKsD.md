@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Robert Robert
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,811 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,827 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Excellence Europe\-Express](https://open.spotify.com/track/2kF5cIXClKS7kcBoh22hZo) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Concorde \(Deluxe\)](https://open.spotify.com/album/5hfqkqLj5FkmT9yOAnMYJt) | 3:57 |
 | 100 | [Maybe](https://open.spotify.com/track/0uBFY8hJyxPCH1xA69UTJE) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/73pwo4Qtcrilz9cJM3uCL5) | 3:13 |
 
-Snapshot ID: `MTY3NzM4NzYwMCwwMDAwMDAwMDg3MDZmMGY1ZTU0OTdkMjcyMDUxMmI0YWI5ZTc2ZGU4`
+Snapshot ID: `MTY3NzM4NzYwMCwwMDAwMDAwMDc0NDA0M2FkNDU1MWIzMDgzOTY3NmRiN2ZmNjIxZmNj`

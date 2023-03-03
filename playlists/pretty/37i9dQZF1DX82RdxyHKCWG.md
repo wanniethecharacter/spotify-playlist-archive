@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > As novidades e estrelas do pop que estão explodindo no Spotify\. ✨ Foto: RBD
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,334 likes - 86 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,361 likes - 86 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 | 85 | [Cadeado](https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:48 |
 | 86 | [Clareou](https://open.spotify.com/track/0cttxC2PCCrfSmgbA1GIwB) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Dias Antes do Baile](https://open.spotify.com/album/6LzD72fSjP8rqZe54YcipI) | 3:07 |
 
-Snapshot ID: `MTY3NzIwNzYwMCwwMDAwMDAwMDcxMDYwMWE3MjEzMWRjNjVhNjE3ZmMzNGIzYmIxNDY2`
+Snapshot ID: `MTY3NzIwNzYwMCwwMDAwMDAwMGI3YWVjMzVkZGQ4ZjVkNWUyOWU4YWFiYzRiZjVlNmIw`

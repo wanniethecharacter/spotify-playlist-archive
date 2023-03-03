@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Kelsy Karter
 
-298 songs - 15 hr 34 min
+299 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,8 +248,9 @@
 | [SENSORYOVERLOAD\*](https://open.spotify.com/track/64m8pKhLpcqn9uJuShkoPQ) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 3:15 | 2022-10-07 |  |
 | [September Rain](https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [September Rain](https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC) | 3:33 | 2022-10-07 |  |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-01-14 | 2022-06-25 |
-| [She Loves Me Not](https://open.spotify.com/track/2NqRNsah7TakalaozEJUkB) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/7vPYFd75wPqJn9UjIfFkhY) | 2:38 | 2022-06-24 |  |
+| [She Loves Me Not](https://open.spotify.com/track/2NqRNsah7TakalaozEJUkB) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/7vPYFd75wPqJn9UjIfFkhY) | 2:38 | 2022-06-24 | 2023-03-03 |
 | [She Loves Me Not](https://open.spotify.com/track/5HQqtwfb3UtZSJUzvoSiVl) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/7CKujk9GsIiPldom4TUvZN) | 2:38 | 2021-07-30 | 2022-07-29 |
+| [She Loves Me Not](https://open.spotify.com/track/755WRwt062G6jEmSpXU7xo) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/02kcToJzOaPStaqqtrK6Rz) | 2:38 | 2022-12-22 |  |
 | [Shock Value](https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shock Value](https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk) | 2:31 | 2022-10-07 |  |
 | [Shotgun](https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Shotgun](https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv) | 4:10 | 2022-04-01 | 2022-06-25 |
 | [Sick](https://open.spotify.com/track/0qIIEomHNV1FpeJwqTsnE1) | [Bexley](https://open.spotify.com/artist/4svqYIReyb53k0Kaxun76R) | [Sick](https://open.spotify.com/album/7Lv7QtTTAOsFjbUJAyhFnf) | 3:13 | 2021-07-30 | 2022-02-05 |

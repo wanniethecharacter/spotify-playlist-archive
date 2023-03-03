@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Focus with soft study music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,720,727 likes - 328 songs - 13 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,721,030 likes - 328 songs - 13 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -337,4 +337,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 327 | [June](https://open.spotify.com/track/6QPV9cbVo1wFr3unL0y2qZ) | [Maria Buehler](https://open.spotify.com/artist/414bu4YqVabs17TyYuWzbt) | [June](https://open.spotify.com/album/73xsz6Gc6VotpfbmHDEi7j) | 2:36 |
 | 328 | [I Was Thinking](https://open.spotify.com/track/6nhqhyy74vnNf0Sg66Sdkf) | [Marcia Barlow](https://open.spotify.com/artist/45yDipnbqgnHXHKXdx290U) | [I Was Thinking](https://open.spotify.com/album/5CAT5ZnVtK4zp2XpBVVo5i) | 2:27 |
 
-Snapshot ID: `MTY3NzU1NjgwMCwwMDAwMDAwMGI4ZjljY2U0NzI1MTQwMjZmZDAzODhjNGRmYjY1MjY0`
+Snapshot ID: `MTY3NzU1NjgwMCwwMDAwMDAwMGVkYjVhZDlhNjUzMDk5ZTNhODVlZjBkOTAxZTAzMzg5`

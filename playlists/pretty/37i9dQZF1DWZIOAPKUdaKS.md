@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,875 likes - 314 songs - 13 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,932 likes - 314 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -323,4 +323,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 313 | [Ljóma](https://open.spotify.com/track/6Pko3DcmXsGbMOeiiYNVF7) | [Shel Alyse](https://open.spotify.com/artist/01CktpdDnrnnfx3wKMbnPT) | [Ljóma](https://open.spotify.com/album/05yodSTO8kMnX0EZQ9Ak30) | 2:39 |
 | 314 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 |
 
-Snapshot ID: `MTY3NzUxNjMxOCwwMDAwMDAwMDkxZTQxMDlhMTVlNjM1YmI4Yzg3Y2Y5MWE5OGIwZjlh`
+Snapshot ID: `MTY3NzUxNjMxOCwwMDAwMDAwMGZiNzg2Yjk4OTcwNDFlOTYwMWI0NDdkNThiNzEyZjEz`

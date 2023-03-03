@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,462 likes - 80 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,500 likes - 80 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Merciful](https://open.spotify.com/track/4pcdrkqwBw8wY6XR1Np81G) | [Benita Okojie](https://open.spotify.com/artist/0PboSSy527dayDLBcSl10a) | [Merciful](https://open.spotify.com/album/3TZZ526YDnpc7JU5gdFREZ) | 3:04 |
 | 80 | [God My God \- Radio Edit/Live](https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Unstoppable \(Live\)](https://open.spotify.com/album/4GOOHwMRhnC1y0xdzuyA9M) | 4:43 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDM5N2E3NGQ3ZDhkN2E4OTBiMGVkZjc0MzA3ZTIxNDY3`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDI5ZTNhOWUwMmY4OWNkYjAwOGY0NDdiY2I4MDY4ZGVj`

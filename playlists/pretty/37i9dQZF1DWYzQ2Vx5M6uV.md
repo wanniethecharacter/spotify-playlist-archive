@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Aya Nakamura & Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,518 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,560 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Eclipse Lunar](https://open.spotify.com/track/3Liew5UzQGzXWfjiwX5B4F) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Eclipse Lunar](https://open.spotify.com/album/1ctvqsXCBr04r5wmnSt8xn) | 3:13 |
 | 70 | [designer \(with Daramola\)](https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [ARENA](https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4) | 4:21 |
 
-Snapshot ID: `MTY3NjA0NTMwMiwwMDAwMDAwMDFjODIyNmUwZDRhNGQ4NWFhNmZjNjA2OGY3OWY3NGNi`
+Snapshot ID: `MTY3NjA0NTMwMiwwMDAwMDAwMDJlZGI0MDA5NGUwMTJiNDQxNWI0MjM2ZjM0M2EwOGUy`

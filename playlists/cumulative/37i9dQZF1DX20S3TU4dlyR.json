@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 218000,
       "name": "A Contratiempo",
       "url": "https://open.spotify.com/track/5tDfbfJCQyXuCOft8hbRIg"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 168937,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/0pc8uz5erBUl2LEgBQuVg0"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190127,
       "name": "El Cuento",
       "url": "https://open.spotify.com/track/6Z64rcX4toR740wFD9PCvT"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 160493,
       "name": "En el Sonido",
       "url": "https://open.spotify.com/track/142f0JPC6R9GQI3X9C23M8"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 304426,
       "name": "Flores y Burbujas",
       "url": "https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 246659,
       "name": "La Movie",
       "url": "https://open.spotify.com/track/5u1rcgkyH4ewqTaVUI6Ekk"
@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 171013,
       "name": "Nada Que Me Venga Mal",
       "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 206677,
       "name": "No Insistas",
       "url": "https://open.spotify.com/track/4PvvhS8ntwMJEzXMlzGqcA"
@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 228510,
       "name": "On the Good Road - En Vivo En Sala Siranush",
       "url": "https://open.spotify.com/track/42X9GlneXJkyRShuDLPvNc"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 164000,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/5rGorQ0R06XveTJXMd3QRi"
@@ -2974,10 +2974,32 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 194526,
       "name": "Ruptura",
       "url": "https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k"
+    },
+    {
+      "album": {
+        "name": "Seguirla",
+        "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
+      },
+      "artists": [
+        {
+          "name": "Gaspar OM",
+          "url": "https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj"
+        },
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191776,
+      "name": "Seguirla",
+      "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
     },
     {
       "album": {
@@ -3236,7 +3258,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 228573,
       "name": "Sonido Fresco",
       "url": "https://open.spotify.com/track/1gka28UzjRHhMcRpaux6o8"
@@ -3298,7 +3320,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 286000,
       "name": "Strengthen Your Mind",
       "url": "https://open.spotify.com/track/3BjRtnuG74eUj4dYp9mrDT"
@@ -3530,7 +3552,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Torito",
       "url": "https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd"
@@ -3772,7 +3794,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 259560,
       "name": "Vibra Positiva",
       "url": "https://open.spotify.com/track/6srdU7rKLC5DOuVBWDpmyD"

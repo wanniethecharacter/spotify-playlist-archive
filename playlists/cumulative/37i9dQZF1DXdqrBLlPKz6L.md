@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Blessd
 
-85 songs - 4 hr 38 min
+86 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [EL INCA](https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [EL INCA](https://open.spotify.com/album/0NVqJU1egg3BuAtRyxUvz0) | 3:32 | 2021-10-15 |  |
 | [Entre Billetes](https://open.spotify.com/track/28C79DaAXJPF2uN3PRIXrW) | [Malucci](https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Entre Billetes](https://open.spotify.com/album/36VzE1tBaf4azzGSDvOaIj) | 3:49 | 2021-10-15 |  |
 | [Esperando Q Me Des Un Call](https://open.spotify.com/track/5f3AmXghyLboXUrnjNMFtq) | [YUNGLiAN MEDiOCRE BROKE BOi](https://open.spotify.com/artist/0c3pqws6HYDBgZmZnhKzcc), [La Santa María](https://open.spotify.com/artist/39ez5l9yGO86b4gZbT7j8B), [Joe$](https://open.spotify.com/artist/0IwFQ4iylBRmGPsnm6gFOf), [L'Miranda](https://open.spotify.com/artist/2v8V8xnimi2FUOxXWINNUr) | [Esperando Q Me Des Un Call](https://open.spotify.com/album/7KLuD2DBFmxz5jcibIS9KO) | 2:39 | 2022-04-08 | 2022-11-04 |
-| [Estoy Bien](https://open.spotify.com/track/42e8NZUQvgxiirRcVEjbOz) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6) | [A Veces Es Bueno Estar Triste](https://open.spotify.com/album/2AGlNJbOjLzn0o7wSEWegz) | 3:14 | 2022-04-08 |  |
+| [Estoy Bien](https://open.spotify.com/track/42e8NZUQvgxiirRcVEjbOz) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6) | [A Veces Es Bueno Estar Triste](https://open.spotify.com/album/2AGlNJbOjLzn0o7wSEWegz) | 3:14 | 2022-04-08 | 2023-03-03 |
 | [Estoy Bien](https://open.spotify.com/track/6sVkcxtbmibIyphiQ2tvv9) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6) | [Estoy Bien](https://open.spotify.com/album/33ZiGzFhSsAJj5UJQgNl5i) | 3:14 | 2021-10-15 | 2022-07-29 |
 | [Flight Away](https://open.spotify.com/track/5nggToLBtfPFNjIRQjHc58) | [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [YK](https://open.spotify.com/artist/0fml592mEs3xp2zhVLjxre), [Hiro Angeles](https://open.spotify.com/artist/3UYyyQSTk9ytiF55vUXO6G) | [Flight Away](https://open.spotify.com/album/5TWKnCddueE4CqT0lEJ8Pj) | 4:03 | 2021-10-15 | 2023-02-10 |
 | [Flor de Loto](https://open.spotify.com/track/4lS5OOqQzyQDDR0g1EmcdK) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/1zdtga77ItleW98WqnrX0m) | 2:06 | 2022-08-19 |  |
@@ -89,6 +89,7 @@
 | [Tyqc](https://open.spotify.com/track/4IX9LPTkilIwaVKhCjRofn) | [Cabaio](https://open.spotify.com/artist/0yIYD7cBLd9VdHEUQ0fqAJ) | [Tyqc](https://open.spotify.com/album/6gZ2Fz1C2Pmd91IOyerJIv) | 2:55 | 2021-10-15 |  |
 | [Tóxicos](https://open.spotify.com/track/2wpx54FlGSt49tYeyIK8Wd) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E), [JOTA](https://open.spotify.com/artist/4ICS3tvd4Uo6Xq4HUZ9fEG) | [Tóxicos](https://open.spotify.com/album/040GdsK6ir3uWzYUE0quT5) | 2:57 | 2022-04-08 | 2022-07-29 |
 | [Tóxicos](https://open.spotify.com/track/3d3Fm6zl1r92THmUESENbW) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E), [JOTA](https://open.spotify.com/artist/4ICS3tvd4Uo6Xq4HUZ9fEG) | [Años Luz](https://open.spotify.com/album/0ohYJclEYAy8q6SkYAbXAR) | 2:57 | 2022-04-08 | 2022-09-03 |
+| [VICE](https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [VICE](https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy) | 2:41 | 2023-03-02 |  |
 | [Wherever I May Roam](https://open.spotify.com/track/7qCHqtiSiX3T09ErW718yQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Wherever I May Roam](https://open.spotify.com/album/0WNfOMxwCMjYOjDWlGsgNA) | 2:38 | 2021-10-15 | 2022-04-09 |
 | [WOW](https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [WOW](https://open.spotify.com/album/22eepM8FdWx13R7aGAO1gH) | 2:51 | 2021-10-15 |  |
 | [Ziploc \(Blessd Version\)](https://open.spotify.com/track/3JYw9n3rJTVQryVz1rwlH4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:56 | 2022-11-03 |  |

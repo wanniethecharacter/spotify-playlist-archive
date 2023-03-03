@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,825 likes - 157 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,921 likes - 157 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 125 | [La Cascata](https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [La Cascata](https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy) | 2:11 |
 | 126 | [Bridget](https://open.spotify.com/track/1CzlEQSK6Pd2MHmt2YjH4u) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Salt Cliffs](https://open.spotify.com/album/0byOZ3iz1KSGHzfXFIgSjO) | 3:00 |
 | 127 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 |
-| 128 | [Flamenkito](https://open.spotify.com/track/4iI9eIAd3kZGB3dCEc3PxK) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS) | [Flamenkito](https://open.spotify.com/album/1fBj5GesrEQR2IfVUbaPKh) | 1:46 |
+| 128 | [Flamenkito](https://open.spotify.com/track/2gZWsOLfX0W1Fu57qgFMQM) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Flamenkito](https://open.spotify.com/album/6JWc5p5djyJLBKz9hdZnvk) | 1:46 |
 | 129 | [Armónico](https://open.spotify.com/track/4fMkra3CJ5mTAc6DWbFLqT) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Armónico](https://open.spotify.com/album/7gM87esW35sDdevEejH70f) | 1:48 |
 | 130 | [Manha De Carnaval](https://open.spotify.com/track/5D09utzIzyrzSRjeQMrssn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Manha De Carnaval](https://open.spotify.com/album/2xRj3jkw0xBoLTBdkM8BSK) | 2:26 |
 | 131 | [La Nostalgia](https://open.spotify.com/track/0LPw0eHj4ZzgFoWBNkKMPM) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [La Nostalgia](https://open.spotify.com/album/7qt3oe7jbO84iozNWFpb4e) | 3:38 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 156 | [Nachtfalke](https://open.spotify.com/track/1KA3f0hBZfwbcoeDidN91k) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Nachtfalke](https://open.spotify.com/album/665FBCmE1FNe3sycFJ5wCO) | 4:21 |
 | 157 | [Canción A Solas](https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Canción A Solas](https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ) | 2:26 |
 
-Snapshot ID: `MTY3NzIzMjk0NCwwMDAwMDAwMGM3OWY0MzliYTRkMTMwNDQ2MDI0MmI4NmEyZTQ2ZDdj`
+Snapshot ID: `MTY3NzIzMjk0NCwwMDAwMDAwMDJhNmE4YzA3ZjFhNTgxYzU5YTE1NTM1OTE5OGFkNDcw`

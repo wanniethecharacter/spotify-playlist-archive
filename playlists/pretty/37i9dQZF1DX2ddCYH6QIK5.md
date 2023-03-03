@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Ritter Lean, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,196 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,203 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Im Pelzmantel, Cretin](https://open.spotify.com/track/6aWssJX3FUA6ZKW7DGZclZ) | [Hendrik Otremba](https://open.spotify.com/artist/4zSU3S9mKH0Fm5UVan7Lwq) | [Opening Night / Im Pelzmantel, Cretin](https://open.spotify.com/album/576cpjbkO1qEQIcUNEarDc) | 3:39 |
 | 80 | [Idias Heart](https://open.spotify.com/track/4VGSdePGb6nT4pSiPcMzWF) | [Idia Joy](https://open.spotify.com/artist/10Fn324oEYLUpy31yF6qdn) | [Idias Heart](https://open.spotify.com/album/3PzXk7BMB0saxqEHoubh5T) | 3:39 |
 
-Snapshot ID: `MTY3NzY2ODQwMCwwMDAwMDAwMDAxNzVmZWZlODg1ZDk0ZGFjYzc1NTQzMDBkNGFkM2Fl`
+Snapshot ID: `MTY3NzY2ODQwMCwwMDAwMDAwMDg2MDNlZmQ3OWNmYzAxNTU5YTQ0OTg2NjU4MGQ2N2U2`

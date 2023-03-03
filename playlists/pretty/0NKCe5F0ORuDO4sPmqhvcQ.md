@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,091 likes - 122 songs - 6 hr 59 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,089 likes - 124 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,5 +130,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 120 | [Food for the Soul](https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Food for the Soul](https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw) | 3:30 |
 | 121 | [ambien](https://open.spotify.com/track/21KwCo6dkh83CypNslVwG1) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [ambien](https://open.spotify.com/album/2V1fOgi7qKLPhPdFK9E5Sz) | 3:00 |
 | 122 | [Only 1 Trying](https://open.spotify.com/track/0BSHtzrgWBgw19hgZncNEl) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Only 1 Trying](https://open.spotify.com/album/15uWvQD5fCOjeBFn9Bu6sP) | 2:27 |
+| 123 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
+| 124 | [Baby from Atlanta](https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Baby from Atlanta](https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc) | 3:19 |
 
-Snapshot ID: `MTAyMzUsNDIyOWY5NjNjNGVlMWM5NTA2NzVlM2E3MzRmNzc4ZTg4YzljOGIwNA==`
+Snapshot ID: `MTAyMzcsYjg5MGNlZWVkM2IxYzM5ODIyZDA1ZTQ1YjMwNmQ5MzE1ODc4YTU3MA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from KAROL G & Shakira, The Weeknd & Ariana Grande, Halsey, and Tenille Townes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,767 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,797 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Easy Money](https://open.spotify.com/track/47rtlTlCeQpDVZofVFHwYN) | [Michelle Treacy](https://open.spotify.com/artist/0YhQcdSViCHOPY7QDb9tiV) | [Easy Money](https://open.spotify.com/album/0yvPMgLvDvxhRfL4RTjy04) | 2:39 |
 | 100 | [Some Kind Of Drug](https://open.spotify.com/track/04ff2QCyhRMdSRrC7TTmis) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [The Nighttime Is All In The Timing](https://open.spotify.com/album/223TYLeVZ5uz67RB1SwTsA) | 4:11 |
 
-Snapshot ID: `MTY3NzIxNTk2MSwwMDAwMDAwMGU2MmMzMzkzYjQ4OTJmOWUyMDZjODRiZmIwODNjNDUx`
+Snapshot ID: `MTY3NzIxNTk2MSwwMDAwMDAwMDI1N2FiZGNiNjQ2NmQyNjZlNmUwZWRiYWNhMmYwOGU5`

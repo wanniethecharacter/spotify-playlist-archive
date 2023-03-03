@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,924 likes - 125 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,026 likes - 125 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 124 | [Vagabonds](https://open.spotify.com/track/1kdSGyQyX0mxq75KSgcjic) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [Waking Up The Giants](https://open.spotify.com/album/6R6Xy2gwyTO6GS1Cs4K1cI) | 3:19 |
 | 125 | [Get Out](https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Painting of a Panic Attack \(Deluxe Edition\)](https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y) | 3:21 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDliYzEyMjFkYjkyMGNiNDY5Y2E5YmNkZDU5NzVjZGJh`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDg4MzhmYTIzOTAyNTcwNzRjMjY0NzA1ZTY3YmY5MTM0`

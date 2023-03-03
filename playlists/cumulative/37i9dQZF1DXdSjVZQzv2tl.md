@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Maiara & Maraisa
+> O melhor do sertanejo em uma só playlist! Foto: Henrique & Juliano
 
-122 songs - 5 hr 48 min
+123 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Gatilho \- Ao Vivo](https://open.spotify.com/track/42nZBOwXNdO24Ml032bLBS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Se Melhorar Estraga \(Ao Vivo\)](https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6) | 2:35 | 2022-03-23 |  |
 | [Haja Colírio \(feat\. Hugo & Guilherme\) \- Ao Vivo](https://open.spotify.com/track/1ELsaYdj2NlxLvkx9g24xZ) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Haja Colírio \(feat\. Hugo & Guilherme\) \[Ao Vivo\]](https://open.spotify.com/album/0pmNWSBnKRJOKnmpTaatCU) | 2:53 | 2022-07-01 |  |
 | [ILHA](https://open.spotify.com/track/2zvfMwpBdm9zC4zwLWq1Wg) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [THE COMEBACK](https://open.spotify.com/album/4mQpXudi3KmfvZOgWLTi2g) | 3:02 | 2021-12-31 | 2022-02-12 |
-| [Imagina A Sentada \- Ao Vivo](https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada \(Ao Vivo\)](https://open.spotify.com/album/0SAMg0b9QbopaOj0ClEwiq) | 2:52 | 2021-12-31 |  |
+| [Imagina A Sentada \- Ao Vivo](https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada \(Ao Vivo\)](https://open.spotify.com/album/0SAMg0b9QbopaOj0ClEwiq) | 2:52 | 2021-12-31 | 2023-03-03 |
 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 | 2022-12-28 |  |
 | [Localiza Aí BB](https://open.spotify.com/track/6fe5D0ivKnpXFMAnoSRjah) | [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Localiza Aí BB](https://open.spotify.com/album/31UJICytrUt0Y9NqSxnwHI) | 2:25 | 2021-12-31 | 2022-02-19 |
 | [Mal Feito \- Ao Vivo](https://open.spotify.com/track/5719MEdRQcH4c3phXqX7WN) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Mal Feito \(Ao Vivo\)](https://open.spotify.com/album/6wM2qL8ddXGiEMPy44Wt8I) | 2:57 | 2022-01-17 |  |
@@ -96,6 +96,7 @@
 | [Não Sei o Que Lá](https://open.spotify.com/track/7graPn87bYFxTLNnRnFDMZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Não Sei o Que Lá](https://open.spotify.com/album/2XNMZxBXu26RGAwL3524Ye) | 2:49 | 2021-12-31 |  |
 | [Não Vitalício \(Nunca Mais\) \- Ao Vivo](https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Não Vitalício \(Nunca Mais\) \[Ao Vivo\]](https://open.spotify.com/album/32W4niZLdaaIWUMBf4yGmB) | 2:49 | 2023-02-10 |  |
 | [O Ex da Sua Vida](https://open.spotify.com/track/17Gh6E6eRfAAw7sCgmnkFc) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 2](https://open.spotify.com/album/4AmYNtcUeuaLZfQo5uDTKh) | 2:59 | 2021-12-31 | 2022-01-08 |
+| [Oi Balde \- Ao Vivo](https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:39 | 2023-03-03 |  |
 | [Pactos \- Ao Vivo](https://open.spotify.com/track/2M4kQD87lKnAS9vFlb4Bez) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Pactos \(Ao Vivo\)](https://open.spotify.com/album/0I7xW9b6gDavthLOX9aphS) | 3:03 | 2022-11-08 |  |
 | [Palhaça \- Ao Vivo](https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Palhaça \(Ao Vivo\)](https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf) | 2:50 | 2023-01-20 |  |
 | [Perdoou Nada \- Ao Vivo](https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Perdoou Nada \(Ao Vivo\)](https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ) | 2:43 | 2022-12-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,715 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,731 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 69 | [Party](https://open.spotify.com/track/5tOjlYLXI4AE864bDVUSPr) | [Xprso.](https://open.spotify.com/artist/1I03YcaWBX2r9nElPWcoH7), [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [Chevy Kev](https://open.spotify.com/artist/7b3Cm19fyzxElci72YY4xQ), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nairobass](https://open.spotify.com/album/5KMoui4VUMYmpAT10xLjWU) | 3:34 |
 | 70 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 |
 
-Snapshot ID: `MTY3NzE4NTk0MCwwMDAwMDAwMDU0NDFkMDA3NzdmYTkxNzIwODU0OGE4NjlhZTZjZDhk`
+Snapshot ID: `MTY3NzE4NTk0MCwwMDAwMDAwMDlmZWJjMGNiOWFmM2JlMTU1MDcxZjZkNzI5N2IxNjZj`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: AK4:20 & Cris Mj.",
+  "description": "Este Flow tiene otro Flow. Foto: Jere Klein.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -152,6 +152,24 @@
       "duration_ms": 192000,
       "name": "6.5",
       "url": "https://open.spotify.com/track/1hlKuTa1ekJuWcWNKAG5Xv"
+    },
+    {
+      "album": {
+        "name": "6.5",
+        "url": "https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143374,
+      "name": "6.5",
+      "url": "https://open.spotify.com/track/24Jam2dilbARAWyR6K1L8v"
     },
     {
       "album": {
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 206296,
       "name": "Cuando Repetimo",
       "url": "https://open.spotify.com/track/2wXZID94XOUV7kB8GsVdzK"
@@ -2536,7 +2554,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 201349,
       "name": "Hasta Que Choke",
       "url": "https://open.spotify.com/track/2o1iouLHZHJEzvXWkSWMTD"
@@ -3439,6 +3457,24 @@
     },
     {
       "album": {
+        "name": "PA K TE ENAMORE, VOL. 2",
+        "url": "https://open.spotify.com/album/0AtwNvSwK7l2VaawC5wuQr"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218077,
+      "name": "LOUISVUITTON",
+      "url": "https://open.spotify.com/track/4Ux2REvgzPpxkNGZjKulbU"
+    },
+    {
+      "album": {
         "name": "Mala (Remix)",
         "url": "https://open.spotify.com/album/3rQ2aO73P1lSra1ptUp16A"
       },
@@ -3504,7 +3540,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 303711,
       "name": "Malaya - Remix",
       "url": "https://open.spotify.com/track/7pgHcuKKVdxIvHopTmyrxK"
@@ -3836,6 +3872,36 @@
       "duration_ms": 183986,
       "name": "Mi Facha",
       "url": "https://open.spotify.com/track/62gh30MVB1SeMdwcLc0JSy"
+    },
+    {
+      "album": {
+        "name": "Mi Fantasia",
+        "url": "https://open.spotify.com/album/38fchClkeOvc7DwFRu6nBp"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Andrehbred",
+          "url": "https://open.spotify.com/artist/3XpIrqVeY0I0kItCCUMuY1"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "El Goldo De Las Conec",
+          "url": "https://open.spotify.com/artist/3TcTm7AGTlIJys8Wh7QzBr"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Mi Fantasia",
+      "url": "https://open.spotify.com/track/2AdROVAb2Rs1wEIHd5gCuI"
     },
     {
       "album": {
@@ -5156,7 +5222,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 261461,
       "name": "Perreo - Remix",
       "url": "https://open.spotify.com/track/2YJrnNJu2AWzxcAqycqN2q"
@@ -5566,7 +5632,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 146783,
       "name": "Quiero Pelarme",
       "url": "https://open.spotify.com/track/5THQOgMI2EIIWiCiRu6Ltj"
@@ -5690,6 +5756,32 @@
       "duration_ms": 169032,
       "name": "Reggaet\u00f3n",
       "url": "https://open.spotify.com/track/0MEUoxYlDHOSnNvtPL5MKN"
+    },
+    {
+      "album": {
+        "name": "RE\u00d1ACA",
+        "url": "https://open.spotify.com/album/5iIWwuo2KhzxryAKUuCaOR"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "RE\u00d1ACA",
+      "url": "https://open.spotify.com/track/3MioiUQSZ9rUWHhIxypQQH"
     },
     {
       "album": {
@@ -6345,6 +6437,28 @@
     },
     {
       "album": {
+        "name": "TE EXO DE MENOS :(",
+        "url": "https://open.spotify.com/album/2nl4PR8ItbHzzjmhmW1m3p"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151117,
+      "name": "TE EXO DE MENOS :(",
+      "url": "https://open.spotify.com/track/72d8QGh77awoqnxiAOFRMI"
+    },
+    {
+      "album": {
         "name": "Te Extra\u00f1o a Lo Vio",
         "url": "https://open.spotify.com/album/1sH5doMd0JobOpHAsfit6I"
       },
@@ -6444,7 +6558,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 176842,
       "name": "Te Parto",
       "url": "https://open.spotify.com/track/0qm6EHi0ZqjOLirIKXCOa5"

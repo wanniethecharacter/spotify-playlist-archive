@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Falling In Love With Love",
+        "url": "https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL"
+      },
+      "artists": [
+        {
+          "name": "Ray Horne",
+          "url": "https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178020,
+      "name": "Falling In Love With Love",
+      "url": "https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu"
+    },
+    {
+      "album": {
         "name": "Walk The Dog",
         "url": "https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1"
       },
@@ -1589,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Henry Street",
+        "url": "https://open.spotify.com/album/2zjI2uq9viHy7dx1m9VBez"
+      },
+      "artists": [
+        {
+          "name": "Lou Green",
+          "url": "https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142909,
+      "name": "Henry Street",
+      "url": "https://open.spotify.com/track/2JIH2zpgozNspbN2vVva9G"
+    },
+    {
+      "album": {
         "name": "Here's That Rainy Day",
         "url": "https://open.spotify.com/album/2BLTJotFjrXROaxkzPgqnh"
       },
@@ -1658,6 +1694,24 @@
       "duration_ms": 126077,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/2DgLCrnfPxVAvFnMxYTuuM"
+    },
+    {
+      "album": {
+        "name": "I Could Write A Book",
+        "url": "https://open.spotify.com/album/1Jn2DXdP0Ci1UBVjfFpZPF"
+      },
+      "artists": [
+        {
+          "name": "Francis Graden",
+          "url": "https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196011,
+      "name": "I Could Write A Book",
+      "url": "https://open.spotify.com/track/66eaAKE675VWRnj8EVeDQk"
     },
     {
       "album": {
@@ -2594,6 +2648,24 @@
       "duration_ms": 195513,
       "name": "Lullaby for Lilly",
       "url": "https://open.spotify.com/track/2hAqVQHxZrDbDYvX0rR1zZ"
+    },
+    {
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/4qJEPS5KuL1a7ynbgifQXV"
+      },
+      "artists": [
+        {
+          "name": "Ward Stetson",
+          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206874,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6lMI9WKqbIwxnumenEI0Iz"
     },
     {
       "album": {

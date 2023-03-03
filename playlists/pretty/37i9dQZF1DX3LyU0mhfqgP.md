@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Tove Lo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,091 likes - 82 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,747 likes - 82 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 17 | [Maricoteca](https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Maricoteca](https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu) | 3:42 |
 | 18 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 |
 | 19 | [offline](https://open.spotify.com/track/4XaHwwjBXQ4yBKpR6P81jw) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [offline](https://open.spotify.com/album/5BJ5BHSUdfIs4dFzu15iKX) | 3:21 |
-| 20 | [True Blue](https://open.spotify.com/track/2NS5hylxl4QNQcD6Vjmtpj) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 4:56 |
+| 20 | [True Blue](https://open.spotify.com/track/0q7lFwAB16sO7zgNdG4Wkl) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 4:56 |
 | 21 | [Because Of You](https://open.spotify.com/track/320jqrATpl9762bCQkmLDf) | [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [Because Of You](https://open.spotify.com/album/4Pbi89jb8k56Qh8hrwwbGu) | 2:59 |
 | 22 | [Grog d'Pilha](https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Grog d'Pilha](https://open.spotify.com/album/1FUTIJ9OdcQ86eiSW4FUxo) | 3:08 |
 | 23 | [Gloss](https://open.spotify.com/track/6CR0HkfjaGOEpbc9jU1J5t) | [Perdid](https://open.spotify.com/artist/6ZdQc97sCR2PM2WX9DrhGh) | [Gloss](https://open.spotify.com/album/1YH7Bvtujf7PMJYbhBuzaS) | 3:09 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 81 | [Bhuti](https://open.spotify.com/track/7bEIVw6nFRu0yn3W0aqv1f) | [Umlilo](https://open.spotify.com/artist/14oq8TIMDzq12ttQIdKoow), [Jumping Backslash](https://open.spotify.com/artist/2ymGU4OA96plBXhc8tsD1b) | [Bhuti](https://open.spotify.com/album/3RYkAFIAEFzmrB3SwwgzqO) | 4:26 |
 | 82 | [Daj mi jeszcze jedną szansę](https://open.spotify.com/track/3VHXHfcl9ovXKzfycuZr1k) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Daj mi jeszcze jedną szansę](https://open.spotify.com/album/7gWLqkWIShjmmRj4VsT1ro) | 2:52 |
 
-Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMDU5ZTIyMjVkZTNhZTk3MjBmMjA0ZjQzYjM4ZGJiNzlk`
+Snapshot ID: `MTY3NzY0NjgwMCwwMDAwMDAwMGNiZGZkYTJlNDIyYjVkOTgzYjcwY2ExNGI4ZmFiOTUz`

@@ -727,6 +727,32 @@
     },
     {
       "album": {
+        "name": "AgroPlay Ver\u00e3o Vol.1",
+        "url": "https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193592,
+      "name": "AgroVer\u00e3o",
+      "url": "https://open.spotify.com/track/2f4ogaXcvFmdzO7xPlhoV5"
+    },
+    {
+      "album": {
         "name": "Agudo M\u00e1gico 3",
         "url": "https://open.spotify.com/album/5GPkEvr2pR1wCDXIGImKZD"
       },
@@ -2780,7 +2806,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 104076,
       "name": "Beat das Trevas",
       "url": "https://open.spotify.com/track/4I0BQIiRi0euf3F9Tgqdki"
@@ -14428,7 +14454,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 322132,
       "name": "O Aperreio do Cabra Que o Excomungado Tratou Com M\u00e1-Queren\u00e7a e o Sant\u00edssimo N\u00e3o Deu Guarida",
       "url": "https://open.spotify.com/track/7IEjBYAQucBVTiNwAXkY0a"
@@ -19122,6 +19148,36 @@
       "duration_ms": 79817,
       "name": "Sou o Cordeirinho (Funk)",
       "url": "https://open.spotify.com/track/4S4ga5u8JuVfVXYSA8Icor"
+    },
+    {
+      "album": {
+        "name": "Soy Boiadeiro",
+        "url": "https://open.spotify.com/album/4oydLXwsxRPHwZa1aHEA3d"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "L\u00e9o & Raphael",
+          "url": "https://open.spotify.com/artist/68cvVh3HBHdwWfccCTaq0T"
+        },
+        {
+          "name": "US Agroboy",
+          "url": "https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155791,
+      "name": "Soy Boiadeiro",
+      "url": "https://open.spotify.com/track/7FMYdhpUWOiQ2wajjanA3s"
     },
     {
       "album": {

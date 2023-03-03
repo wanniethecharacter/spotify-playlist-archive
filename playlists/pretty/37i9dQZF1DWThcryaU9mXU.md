@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,842 likes - 70 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,924 likes - 70 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 69 | [You'll Never Find Anyone To Be A Slave Like Me \- Remastered 2022](https://open.spotify.com/track/2CUoa5qyfnFMnViDYrSsWw) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 4:19 |
 | 70 | [Still Here](https://open.spotify.com/track/48EXlenGFwcnZWdh6AqUW4) | [Ben Levin](https://open.spotify.com/artist/7JPxlItTC9DxZ7YwAOwLci) | [Still Here](https://open.spotify.com/album/5KhHtOUptVZINgVHuyIgDD) | 4:10 |
 
-Snapshot ID: `MTY3NzI1OTY4MiwwMDAwMDAwMDhlY2I5YmY1MDBkMmVjMDA2M2U3MDk1ZDc4M2Q2Zjll`
+Snapshot ID: `MTY3NzI1OTY4MiwwMDAwMDAwMDc1ODc1ZTEyYWQyYzNiZGRmMWEyNGFiYTA2MjkxNjYx`

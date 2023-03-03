@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked indie to nourish the ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,532 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,618 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [Something Holy](https://open.spotify.com/track/2YAp3Kb8Xb6iVMk8Zp8jAH) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Peninsula](https://open.spotify.com/album/1zVph8HU5qFkq8bmur2fa2) | 3:18 |
 | 80 | [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 |
 
-Snapshot ID: `MTY3MjI1Mjg2OSwwMDAwMDAwMGQ4MjEwODUyOWVkYjgwMmNmMWQ1NTQ4MDdiOTcxYjdh`
+Snapshot ID: `MTY3MjI1Mjg2OSwwMDAwMDAwMDMzNDIwNWQyZWNiYWZjNDVjNTJmMWM0MjI3Y2QxMWIy`

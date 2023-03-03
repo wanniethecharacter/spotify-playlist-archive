@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,259 likes - 70 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,362 likes - 70 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 69 | [Violet Nights](https://open.spotify.com/track/6vIqO60517ei9oVj2f1bWA) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Paradise](https://open.spotify.com/album/20GfTZN5yYaNXTtsW16son) | 4:30 |
 | 70 | [Ain't It A Shame](https://open.spotify.com/track/58dG6XIMGNhFdH8GKSPCmL) | [Big Miller](https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn) | [Last of the Blues Shouters](https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0) | 8:35 |
 
-Snapshot ID: `MTY3MzU1NzM2NywwMDAwMDAwMGNiYThlMDAyMDRhMGQ1MzE5NTM5NzI2OGNmNDAxOTRk`
+Snapshot ID: `MTY3MzU1NzM2NywwMDAwMDAwMDQ5MDAxZGE3YjIyNjQ4ZDg2M2VhNGNiMDA2ZTZkNzVl`

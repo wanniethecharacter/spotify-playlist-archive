@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. nemahsis on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,947 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,980 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 22 | [LEMON LIME](https://open.spotify.com/track/1kiQfpmbMrcDO7o9e7GBH6) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [LEMON LIME](https://open.spotify.com/album/4wZ5SnY6NjtiCf4NycJxSZ) | 2:58 |
 | 23 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 |
 | 24 | [You Won't](https://open.spotify.com/track/3KqTfgqq5Y7LO2MABzz8el) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [You Won't](https://open.spotify.com/album/6JR0yX7Orycek9RVRUFyH2) | 2:55 |
-| 25 | [once upon a time](https://open.spotify.com/track/4NjujPB7uiaesE5BFzAWxL) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [once upon a time](https://open.spotify.com/album/0gbp8QKU3YoK1364Zi9Arh) | 3:30 |
+| 25 | [once upon a time](https://open.spotify.com/track/0PULY7AIDcZ2LMjXc9oUay) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [XXI](https://open.spotify.com/album/5JsvLIkSY02w5LhyCGPb1n) | 3:30 |
 | 26 | [Little Pieces](https://open.spotify.com/track/6CL2VtLYkdN5OKB8Di9zLq) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Little Pieces](https://open.spotify.com/album/5hWcZBLkzeBtfDQAJxTYCm) | 3:23 |
 | 27 | [WHEN WE WERE KIDS](https://open.spotify.com/track/08RcqKgGxRBnaqAsgm07DI) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [WHEN WE WERE KIDS](https://open.spotify.com/album/3umxF4s0UtsmJ1yOjDBICp) | 3:18 |
 | 28 | [Can I Tell You I Like You?](https://open.spotify.com/track/6LSkLGDk87wGKawiRTqwdy) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Can I Tell You I Like You?](https://open.spotify.com/album/0vH5RGYzgJNm1nS6bkFu5u) | 2:18 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
 | 125 | [Marie](https://open.spotify.com/track/29ZJpcIs5HA8gr9AMUvniG) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX), [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Marie](https://open.spotify.com/album/2vrnHGEnkpNGBB8RBT8CM7) | 3:01 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDk4YTQ1OWFlMTc0ZjBmNWY3YjkzYTBmOTlkODU2NWYy`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDFhYzZlZjBmMmJlNzRmNzEyMDgwZDNjZWJmN2MxMDYy`

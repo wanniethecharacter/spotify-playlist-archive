@@ -1339,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5gTC1VPmpEG0yq3wK5bLBA"
+      },
+      "artists": [
+        {
+          "name": "Juche",
+          "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280296,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3AvllZd4og3ZaxildemX4O"
+    },
+    {
+      "album": {
         "name": "Function",
         "url": "https://open.spotify.com/album/7uDKrd3JI9uRuvmCuYIybb"
       },

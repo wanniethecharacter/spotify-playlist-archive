@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! La Arrolladora Banda El Limón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,901 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,089,173 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 99 | [Ya Estuvo Suave](https://open.spotify.com/track/4biDENf02zmdKNU6kbFIFZ) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Ya Estuvo Suave](https://open.spotify.com/album/0ZSFczOfp9Y9wTU3n9zYBq) | 3:24 |
 | 100 | [A Como Yo Lo Veo](https://open.spotify.com/track/2M96oj1hBrNEIz8R1FLuQC) | [Banda Cuisillos](https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX) | [A Como Yo Lo Veo](https://open.spotify.com/album/3NPPmTpVZH4yed40Ffrf6C) | 3:17 |
 
-Snapshot ID: `MTY3NjYxMzYwMCwwMDAwMDAwMDM0ZTc3MjU0NjBjMGFmMDA5ZmRiYWFiZmRiOWNlMzU0`
+Snapshot ID: `MTY3NjYxMzYwMCwwMDAwMDAwMDU4MjFkN2FjMjJhMTMzMzFiYTcyZGQ1ZDBjODRmOGE2`

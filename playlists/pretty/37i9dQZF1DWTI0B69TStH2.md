@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: nita \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,259 likes - 99 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,307 likes - 99 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 98 | [Brzydki](https://open.spotify.com/track/5rfUk2k5dhT9LWaK5vXi7d) | [SMKKPM](https://open.spotify.com/artist/4lCX5p5WkECbLeUgUC6myj), [Ranko Ukulele](https://open.spotify.com/artist/0tfJBHQtndZAeilrnJfJSC) | [Brzydki](https://open.spotify.com/album/3rRnhYcnD13CslLb1fkYiq) | 4:07 |
 | 99 | [Labirynt łez](https://open.spotify.com/track/6imvk6cbD9KRi8kCi6pUe1) | [Mateuff's Monday](https://open.spotify.com/artist/6uiVpp8RgrRzOiM2qa5R7O) | [Labirynt łez](https://open.spotify.com/album/6ZlMx6alwtqVQR9TLYr0xj) | 2:48 |
 
-Snapshot ID: `MTY3NzYyNTIwMCwwMDAwMDAwMGJmYjNmMzRhODdmMTZjNjJlMzNjNDQyNzI3NjA0NDcz`
+Snapshot ID: `MTY3NzYyNTIwMCwwMDAwMDAwMDRlNTczN2JmZmY5NmFiZGQ4OTViYzkzYTliYTZmNjVi`

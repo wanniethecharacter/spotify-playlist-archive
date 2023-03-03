@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Zeina
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,805 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,895 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 50 | [FUNNY HOW](https://open.spotify.com/track/5ydV3NMWuOV1s4BRg1U9ei) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [FUNNY HOW](https://open.spotify.com/album/6vjuhnkjXZXkxTXBs2pCey) | 2:32 |
 | 51 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 |
 
-Snapshot ID: `MTY3NzY5MTkyMCwwMDAwMDAwMDA3YThkNzQ4ZmY4ZGIyZDA2NGQ2NDQxNGE4ZjU5YzUy`
+Snapshot ID: `MTY3NzY5MTkyMCwwMDAwMDAwMGEyMjllNmYwNWM5NDM4YTkwMzFlNjA3ZjM4MWQyNjRj`

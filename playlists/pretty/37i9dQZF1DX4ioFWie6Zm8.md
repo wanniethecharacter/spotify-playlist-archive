@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,972 likes - 107 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,121 likes - 107 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 106 | [Djelia](https://open.spotify.com/track/3tDIl6vOp35dSn2PFLaxbJ) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 5:30 |
 | 107 | [Makambo](https://open.spotify.com/track/2F9aMslwYQurvgv7DGS7S5) | [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Exile \(Real World Gold\)](https://open.spotify.com/album/3wDdQn9tgxEIjjo1pnc7X7) | 5:00 |
 
-Snapshot ID: `MTY3MDQ5MTQ4MiwwMDAwMDAwMGIzODIwNTU1ZmUzYTZiNzRiM2RlN2VhZDQ4MGUwYTNl`
+Snapshot ID: `MTY3MDQ5MTQ4MiwwMDAwMDAwMDMzODRlMWM4YjU5ODY2ODI0NTVmYTU4Y2RjMGI2ZjBl`

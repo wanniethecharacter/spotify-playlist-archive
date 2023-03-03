@@ -1,12 +1,12 @@
 {
   "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with Chris Lake",
-  "num_followers": 3722244,
+  "num_followers": 3722769,
   "original_name": "Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDQ0YjYyNGE0YzE2MjA5ODA3N2QyZDUyZDQyMTRmZTBj",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDRjNTA1YTIwM2M4OTNiMDMxNmVjYzU0MTMxNzI5ZWE2",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -924,6 +924,10 @@
       },
       "artists": [
         {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
           "name": "Dimitri Vegas",
           "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
         },
@@ -934,10 +938,6 @@
         {
           "name": "Nicole Scherzinger",
           "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         }
       ],
       "duration_ms": 121987,

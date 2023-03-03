@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Nsqk en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,303 likes - 81 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,352 likes - 81 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 80 | [Fango](https://open.spotify.com/track/4cIRzRikDWfeFskgAbC13R) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Fango](https://open.spotify.com/album/31vollZPe01eJhqLhugezp) | 3:03 |
 | 81 | [María](https://open.spotify.com/track/6Pv6rF1V7obyszMFstKp96) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [María Mixtape](https://open.spotify.com/album/74o0avaksGVKPGUZe07QAs) | 2:35 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDE0ZmM3NTIyNTBjMzBkZWE1ZmMxNTg4NTE0MGZhMmM3`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDM3YjZhNWY0Yzg5YjRmNWQ5OTIxMGMzNzE3MDFkZjA5`

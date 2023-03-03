@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover: Rema",
+  "description": "Feel-good Afropop from Europe and Africa. Cover: BNXN fka Buju",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -434,7 +434,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 138661,
       "name": "Awajaree",
       "url": "https://open.spotify.com/track/5MJqTovX6d8m1LCh3CLHgd"
@@ -807,6 +807,28 @@
     },
     {
       "album": {
+        "name": "GINGER LOVE",
+        "url": "https://open.spotify.com/album/1XqTyJRbyNXr7cAs3Syc96"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        },
+        {
+          "name": "Samy Lrzo",
+          "url": "https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176795,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/2B4kKmVsTB2YvTcuU8HpZL"
+    },
+    {
+      "album": {
         "name": "Beyonce",
         "url": "https://open.spotify.com/album/4HuXXaCjFpdeEnQCWenYGs"
       },
@@ -822,6 +844,24 @@
       "duration_ms": 171089,
       "name": "Beyonce",
       "url": "https://open.spotify.com/track/56O8EgjeU6V80lGOUfweGp"
+    },
+    {
+      "album": {
+        "name": "Que l'Amour se R\u00e9pande",
+        "url": "https://open.spotify.com/album/033XOmNNUrgQD0dUj88EiK"
+      },
+      "artists": [
+        {
+          "name": "Samy Lrzo",
+          "url": "https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "Biberon",
+      "url": "https://open.spotify.com/track/2bCaPPU40lstpe69VQphqD"
     },
     {
       "album": {
@@ -1506,7 +1546,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 191287,
       "name": "Choupompom",
       "url": "https://open.spotify.com/track/4Z1KZDjDGW7uJYawo2rb1t"
@@ -1920,6 +1960,32 @@
       "duration_ms": 154038,
       "name": "Dantsido (Toc Toc Toc)",
       "url": "https://open.spotify.com/track/1NUEUFueiCYana070TfNa0"
+    },
+    {
+      "album": {
+        "name": "Designer (feat. Joeboy)",
+        "url": "https://open.spotify.com/album/1UzuhbZlcJML7eFxvQ3wIY"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199646,
+      "name": "Designer (feat. Joeboy)",
+      "url": "https://open.spotify.com/track/5ePmktvJtEOAkX0ZR9LC6B"
     },
     {
       "album": {
@@ -2986,6 +3052,28 @@
       "duration_ms": 184000,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO"
+    },
+    {
+      "album": {
+        "name": "Honey Damoiseau",
+        "url": "https://open.spotify.com/album/1GPWD5I6jTD5dtzTBpGFxO"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147597,
+      "name": "Honey Damoiseau",
+      "url": "https://open.spotify.com/track/2d9sh26IEyYOGWGPp3HdXB"
     },
     {
       "album": {
@@ -4363,6 +4451,32 @@
     },
     {
       "album": {
+        "name": "Creed III: The Soundtrack",
+        "url": "https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150534,
+      "name": "Ogogoro (with Bas & Ayra Starr)",
+      "url": "https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx"
+    },
+    {
+      "album": {
         "name": "Ole Gan",
         "url": "https://open.spotify.com/album/6ey8rNqRKrbcxFdO2zulry"
       },
@@ -4686,7 +4800,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 167946,
       "name": "Pardon",
       "url": "https://open.spotify.com/track/2Fq5X3Mk5wBXm0Ba6HLhRC"
@@ -4980,7 +5094,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 165309,
       "name": "Philo",
       "url": "https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP"
@@ -6504,7 +6618,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 225450,
       "name": "WO WO (Remix)",
       "url": "https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX"

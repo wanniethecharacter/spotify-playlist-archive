@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,602 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,661 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [I Can't Believe I Had You](https://open.spotify.com/track/7n4UFFZEY1HfF87DfG2LZ4) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Until We Meet Again](https://open.spotify.com/album/4rYFRnhDXnSduTCS4BgAZd) | 4:28 |
 | 100 | [CLOVER](https://open.spotify.com/track/6A35BpHH8rTAWwn24tlva6) | [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [CLOVER](https://open.spotify.com/album/3ht0nTv1Z80PWNlNiI01mF) | 3:18 |
 
-Snapshot ID: `MTY3MzQ3MDg3NSwwMDAwMDAwMDhjYmJkMWNhZTk2NTc2MGUzOTc3ZWRkY2ViMWNkOTFi`
+Snapshot ID: `MTY3MzQ3MDg3NSwwMDAwMDAwMDVhNTgxYWE4MDRkYTY5YTZkMWNmOWFlMTFmNDQ2MmI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,314 likes - 86 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,347 likes - 86 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 85 | [More](https://open.spotify.com/track/74A5yGT7DGBMAmpx6qYfg7) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/67WRfYEKFAYJ5sZlVd0qxO) | 3:03 |
 | 86 | [Keep It Working](https://open.spotify.com/track/37prvjDLAyANTa26VVggl3) | [The Pendletons](https://open.spotify.com/artist/7LzEoX1kEvrogY1Vc5bl55), [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp) | [2 Steps Away](https://open.spotify.com/album/6iUteCVnLSRnsGVgUKlQku) | 3:13 |
 
-Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMDQ3ODc0ZDAzZDM1ZTk5NmZjYWUyOGQyNWRkZTJiNWZh`
+Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMGE2YmJkY2RjY2Y0N2ViMmNiZjRhZDBjM2I0Mzc0ZWM0`

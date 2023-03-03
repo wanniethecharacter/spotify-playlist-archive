@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,480 likes - 150 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,629 likes - 150 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 149 | [Don't Cry Baby](https://open.spotify.com/track/5hLiMgK0oIx8t9AwO3Pm3P) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:18 |
 | 150 | [My Funny Valentine](https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [I Remember Miles](https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd) | 5:34 |
 
-Snapshot ID: `MTY3NzY2MTU4MSwwMDAwMDAwMDM3NDkxYTcxYmY1ZTVhMDI0ZGExMjA2NjIwYjg0NmQ0`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDQ3ZTM1ZDU1ODQyNTIyMzcxOGVmYzY3YTc2ZDZhZGZk`

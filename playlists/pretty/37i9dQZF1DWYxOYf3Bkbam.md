@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,148 likes - 90 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,188 likes - 90 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 89 | [General Madariaga](https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT) | [Litoral Tagüe](https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE) | [Andando](https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ) | 3:09 |
 | 90 | [Barrio la Toma](https://open.spotify.com/track/71jdWvhtkU6xgOtFqxfavE) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:22 |
 
-Snapshot ID: `MTY3MTc2NDQwMCwwMDAwMDAwMDRkNDY4NzllMjIzNDUxMTE2YmQ4NGJlODQ2YmNhYzYw`
+Snapshot ID: `MTY3MTc2NDQwMCwwMDAwMDAwMDcxNmNjNjMxOGI0NjdlMTM3YzEwMjI5MmNlMDZhZDlm`

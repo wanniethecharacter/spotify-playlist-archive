@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 
 > Den perfekta mixade spellistan för träningspasset.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,181 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,170 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 | 99 | [Home](https://open.spotify.com/track/0gavaUI3E0tGP2aAWH6asA) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Laeko](https://open.spotify.com/artist/3EIT3LGmmYzag8NaQ681nT) | [Home](https://open.spotify.com/album/6BRqgfyxgBUT1Y6KhkoQLW) | 2:17 |
 | 100 | [Magic](https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT) | [Magic](https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1) | 3:14 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGI3YjdhMTA4NmQxZGQ4NmFkMTU3NDI3OGYyYzUxMzlh`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDNhMzhmODk4Y2ZjMTNiYzA1NTdmOGJmMGJhZGJlZWNl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,800 likes - 100 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,098 likes - 100 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 99 | [Tha Music](https://open.spotify.com/track/6GRltnShKJ3r7sgwqGBi9V) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [FaCet, Vol\. 1.1](https://open.spotify.com/album/6TvEEGV40m8LSdFiIOGh50) | 7:15 |
 | 100 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 |
 
-Snapshot ID: `MTY3NzI0ODc3OCwwMDAwMDAwMGMxMWQ3ODE3MDNmMTQ5YjBjNzVhNzNkMzdhMjNlMDc3`
+Snapshot ID: `MTY3NzI0ODc3OCwwMDAwMDAwMDZhNzdiNWY4NGI2N2VlNjVjZjcxMTExOTVmNWM5OWQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 357 likes - 210 songs - 12 hr 35 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 357 likes - 211 songs - 12 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,5 +218,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 208 | [ETERNAL PAIN](https://open.spotify.com/track/3peSjzHxueZ5Us5IoNFQmL) | [TRPLSFL](https://open.spotify.com/artist/2TVP0556fwFwUW0TjHCww2) | [ETERNAL PAIN](https://open.spotify.com/album/1p8hIh8lVbRtbgnNQVprJ4) | 3:58 |
 | 209 | [Blindspot](https://open.spotify.com/track/5xXpd5FzXOVVCwCL2fgTxp) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [Radical](https://open.spotify.com/album/4dn52eV4gt2YcYxcKd1HZl) | 2:19 |
 | 210 | [Paradise](https://open.spotify.com/track/7atISFYLur90ZXfQgFibA9) | [SHPACKYOU$](https://open.spotify.com/artist/67qKhVs7sfKAF7b38kPcNE) | [Vinyl 2](https://open.spotify.com/album/3nbGgtr417BUtWI1fZkvtI) | 1:56 |
+| 211 | [Forever](https://open.spotify.com/track/3AvllZd4og3ZaxildemX4O) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Forever](https://open.spotify.com/album/5gTC1VPmpEG0yq3wK5bLBA) | 4:40 |
 
-Snapshot ID: `MjI2LGNiOWE5MGZiMjY5ZDIwODI0YWE0MGRjOTE2NTlkNTc0OWI3ODliMzY=`
+Snapshot ID: `MjI3LGZmYjdjNTA4MDhlZWVlNTdlNjlmY2E4ZWY5YzUxOGExMTkzYWRhNGQ=`

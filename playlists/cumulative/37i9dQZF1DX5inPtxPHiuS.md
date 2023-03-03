@@ -2,9 +2,9 @@
 
 ### [Rock Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5inPtxPHiuS)
 
-> ¡Disfruta con los grandes del rock colombiano! Foto: Don Tetto
+> ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-196 songs - 12 hr 12 min
+198 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Desvanecer](https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 4:00 | 2022-03-11 |  |
 | [Diciembre](https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [Diciembre](https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt) | 4:38 | 2022-03-11 | 2022-07-29 |
 | [Déjala Rodar](https://open.spotify.com/track/0OXUyak3y5ME4abcQik3J8) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [La Gran Oscilación](https://open.spotify.com/album/0fjCvWsfPef7WSrCMiwOmx) | 3:24 | 2022-03-11 | 2022-07-28 |
-| [Déjala Rodar](https://open.spotify.com/track/560cSoD6PzX6Rot8peH1RG) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [La Gran Oscilación](https://open.spotify.com/album/4MXOy6mUrmXj4SXlTCSVC4) | 3:24 | 2022-10-13 |  |
+| [Déjala Rodar](https://open.spotify.com/track/560cSoD6PzX6Rot8peH1RG) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [La Gran Oscilación](https://open.spotify.com/album/4MXOy6mUrmXj4SXlTCSVC4) | 3:24 | 2022-10-13 | 2023-03-03 |
 | [Déjame Entrar](https://open.spotify.com/track/0oTcViTLu2nPJvrlspoem5) | [Red Sun Cult](https://open.spotify.com/artist/1rh41sScm5dg9xsmg4zGeX) | [Atardeceres Tardíos](https://open.spotify.com/album/30qr3LfRYK26OGau1PyRXH) | 3:48 | 2022-06-24 | 2022-07-29 |
 | [El Amor Después Del Amor](https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Amor Después Del Amor](https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6) | 3:45 | 2022-03-11 | 2022-10-01 |
 | [El Beat de Mi Corazón](https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt) | [Ciegossordomudos](https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk) | [En Paz](https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw) | 3:22 | 2022-03-11 | 2022-07-28 |
@@ -88,6 +88,7 @@
 | [Hokha \(Remix\)](https://open.spotify.com/track/1JQXqdELlVXmimifDwZnbW) | [Carlos Elliot](https://open.spotify.com/artist/5HoVI4DvfYpbJzJjYgKDV0) | [Hokha \(Remix\)](https://open.spotify.com/album/1153fdVhaewa6wjdXgF2EA) | 5:00 | 2022-03-11 | 2022-06-10 |
 | [Hoop of Life \(Lakota Way\)](https://open.spotify.com/track/07YsLu2GcHWybEgbQlvnXL) | [Carlos Elliot](https://open.spotify.com/artist/5HoVI4DvfYpbJzJjYgKDV0), [Red Hoop Tribe](https://open.spotify.com/artist/0WCz8oBvZpusRexGRtd0E8) | [Hoop of Life \(Lakota Way\)](https://open.spotify.com/album/4PcXorSyOBOFPurHVY4BaZ) | 5:56 | 2022-06-24 | 2022-07-29 |
 | [Hoy](https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t) | [Cielito Drive](https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY) | [Hoy](https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY) | 4:36 | 2022-03-11 | 2022-07-29 |
+| [Huracán](https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D) | [Alfonso Espriella](https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV) | [Huracán](https://open.spotify.com/album/6AvkDCqQCJqiLVrGsnkn6c) | 3:09 | 2023-03-02 |  |
 | [Huracán](https://open.spotify.com/track/565F5ZLcCzJ1IiXZZFrf6M) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Huracán](https://open.spotify.com/album/0QieTFR2K7008eXrMlPqaU) | 4:17 | 2022-03-11 | 2022-07-25 |
 | [Imperfecto](https://open.spotify.com/track/4R6DD2CkTKYbykmWhudPwT) | [LAPM](https://open.spotify.com/artist/35JXVdeNoxBKqiP2e618h3) | [Laberinto](https://open.spotify.com/album/4gBc1WuLPdxC0WP1EY8Hz4) | 2:51 | 2022-03-11 | 2022-07-27 |
 | [Izquierdo](https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:35 | 2022-06-24 |  |
@@ -144,7 +145,7 @@
 | [Planetas](https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado](https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y) | 3:16 | 2022-03-11 |  |
 | [Polaroid](https://open.spotify.com/track/6MU2N7aFij1pjEQcjrIIQP) | [LAPM](https://open.spotify.com/artist/35JXVdeNoxBKqiP2e618h3) | [Polaroid](https://open.spotify.com/album/7GMQo4a2mKyJUSW18VlueH) | 3:10 | 2022-03-11 | 2022-07-13 |
 | [Pongale Cariño al Monte](https://open.spotify.com/track/0diCxpKG6I3w2HSMXEfNWj) | [Velo De Oza](https://open.spotify.com/artist/1nh1tWk4ZqRPrl0XqICYgn) | [Chowé](https://open.spotify.com/album/5A1JQeq38o1TrsQHiLi22b) | 4:05 | 2022-03-11 | 2022-07-28 |
-| [Portales](https://open.spotify.com/track/7vfAJciqCRz31okZI9flNg) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Portales](https://open.spotify.com/album/2jzGlHolRkjRbO54FP7TLR) | 3:57 | 2022-10-01 |  |
+| [Portales](https://open.spotify.com/track/7vfAJciqCRz31okZI9flNg) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Portales](https://open.spotify.com/album/2jzGlHolRkjRbO54FP7TLR) | 3:57 | 2022-10-01 | 2023-03-03 |
 | [Prende](https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Prende](https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG) | 3:17 | 2022-03-11 | 2022-07-25 |
 | [Pronto Aún](https://open.spotify.com/track/71jIEAM5niLwEIoB29zUcW) | [Todo Niño Paga](https://open.spotify.com/artist/1iIcedI0Tb5HO2SAD1jZU6) | [Pronto Aún](https://open.spotify.com/album/50JZQ7qr2AIXGgPYZ4S1W1) | 3:02 | 2022-03-11 | 2022-07-06 |
 | [Préndela](https://open.spotify.com/track/2GlAvv3Uj3yX7HnWWAtFp6) | [Atrato](https://open.spotify.com/artist/3WDYOIY25xdmi3RXp9sXrn) | [Préndela](https://open.spotify.com/album/7gGYz5q95qyACKtK1XhMxs) | 2:46 | 2022-03-11 | 2022-07-29 |
@@ -152,6 +153,7 @@
 | [Puede Que](https://open.spotify.com/track/0TOo2kjs8fOhRQYl5OvjXv) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Puede Que](https://open.spotify.com/album/33GOVpEps8cyXvauikKcmw) | 4:51 | 2022-03-11 | 2022-07-24 |
 | [Punto Final](https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Castillos de Arena](https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB) | 3:16 | 2022-10-13 |  |
 | [Puro Goce](https://open.spotify.com/track/6UBRkQejPE41oFwOm3pWtL) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Nocturna \(Premium\)](https://open.spotify.com/album/1IjpvrtKhXRv4d50occqpH) | 3:46 | 2022-03-11 | 2022-07-23 |
+| [Pérdida Total](https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:33 | 2023-03-02 |  |
 | [Quédate Cerca](https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [No Hay Mal Que Dure una Vida](https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2) | 3:35 | 2022-03-11 |  |
 | [Recorrer el Mundo](https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Recorrer el Mundo](https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw) | 2:58 | 2023-02-14 |  |
 | [Rocal](https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Rocal](https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC) | 3:50 | 2022-03-11 | 2022-07-22 |

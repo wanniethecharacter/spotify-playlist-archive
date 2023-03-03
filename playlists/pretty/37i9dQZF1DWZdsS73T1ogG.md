@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Dalex, Ryan Castro, y Symon Dice
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,865 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,946 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Top Game](https://open.spotify.com/track/6WQCVFmE815us7BFE5evCq) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Top Game](https://open.spotify.com/album/3KQIUsqePcQqFREkNRhCsT) | 2:06 |
 | 100 | [Juqueando](https://open.spotify.com/track/252ZimoPcGSFYaS6TfjBEG) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Juqueando](https://open.spotify.com/album/59p1PfGyRrCgeHtCuqDxGP) | 3:14 |
 
-Snapshot ID: `MTY3NzI1OTc5MSwwMDAwMDAwMDZiYWM5YWU2N2QyNTI5MmQ2NjdiNjJlOTQwZDkwODMy`
+Snapshot ID: `MTY3NzI1OTc5MSwwMDAwMDAwMDgyNTlmYWNmM2VhZWJiMTJjYzJiZTE0ZGM2NzE5MTA1`

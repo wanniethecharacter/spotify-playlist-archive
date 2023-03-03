@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Elji",
+  "description": "Les hits dancehall du moment. Photo : MadeInParis",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 166801,
       "name": "Aboboyaa (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
@@ -136,6 +136,24 @@
       "duration_ms": 164092,
       "name": "Ami + +",
       "url": "https://open.spotify.com/track/1C8GLU188MZJGK2YKFVfbd"
+    },
+    {
+      "album": {
+        "name": "AN BISTAN",
+        "url": "https://open.spotify.com/album/6ZHSAv2ZGaB3VMoYBQRJSJ"
+      },
+      "artists": [
+        {
+          "name": "Dexterman",
+          "url": "https://open.spotify.com/artist/4LUtcJp5ptV2L2J1JvU401"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "AN BISTAN",
+      "url": "https://open.spotify.com/track/5hJ9ogbG8cAHhRMZzH5IRf"
     },
     {
       "album": {
@@ -968,7 +986,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 206132,
       "name": "Confession",
       "url": "https://open.spotify.com/track/5XlMKUVVnGFgUDxl4rYRAw"
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 144000,
       "name": "DBG",
       "url": "https://open.spotify.com/track/7JA7yknfaa6Tb4PBwMP8fD"
@@ -1952,6 +1970,32 @@
       "duration_ms": 182672,
       "name": "How We Do It (feat. Pia Mia)",
       "url": "https://open.spotify.com/track/1G2J5KdJxNH6Sd0wEclV0P"
+    },
+    {
+      "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/4YguLr0dWzQAMPYf3bzgrY"
+      },
+      "artists": [
+        {
+          "name": "Uman",
+          "url": "https://open.spotify.com/artist/7slzjtOp5YtuVr0FAw5CzU"
+        },
+        {
+          "name": "Babybang",
+          "url": "https://open.spotify.com/artist/5AE51Ys60V4FluAz6NQQup"
+        },
+        {
+          "name": "Maylan Manaza",
+          "url": "https://open.spotify.com/artist/7lkMSFkamlyN5swXdFJE0X"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/7qibVTVeTYdzBRbspefZMC"
     },
     {
       "album": {
@@ -4360,6 +4404,36 @@
       "duration_ms": 160085,
       "name": "Wah Gwaan Mad Head",
       "url": "https://open.spotify.com/track/5bgkyfJDDw6QkoKLerBJIs"
+    },
+    {
+      "album": {
+        "name": "Want You Back",
+        "url": "https://open.spotify.com/album/7DyRjxogpXhnbhSeTKj80P"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Alandon",
+          "url": "https://open.spotify.com/artist/1eEatPjBX7GUArLsabmJVo"
+        },
+        {
+          "name": "DJ Smo",
+          "url": "https://open.spotify.com/artist/65O3QUAeUUs925oniksGJp"
+        },
+        {
+          "name": "Reid Waters",
+          "url": "https://open.spotify.com/artist/0dUCgtuvTnnLNohdnNECkL"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Want You Back",
+      "url": "https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw"
     },
     {
       "album": {

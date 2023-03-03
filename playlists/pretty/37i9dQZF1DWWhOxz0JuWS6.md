@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,194 likes - 200 songs - 14 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,273 likes - 200 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 | 199 | [Down Boys](https://open.spotify.com/track/0dw3dXWx6dgp7Ri3HeDBUq) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:03 |
 | 200 | [Who Will You Run To](https://open.spotify.com/track/2G7ttyDosjWmunOYsNRm0C) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 4:06 |
 
-Snapshot ID: `MTY2ODY5OTU0MywwMDAwMDAwMDZmMGUxZDZkY2NmZWU3ZWU5YzdlMmZiNzBiOWM1MWZl`
+Snapshot ID: `MTY2ODY5OTU0MywwMDAwMDAwMGUzMTYxOTUxMDJhYzRlOTA4NjI0MzM5MjdiOTA0MDdi`

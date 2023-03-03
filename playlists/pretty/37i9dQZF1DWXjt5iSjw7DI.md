@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,529 likes - 150 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,570 likes - 150 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [I'm In A Hurry \(And Don't Know Why\) \- Live](https://open.spotify.com/track/7ztXOgnhclVmv4mUoaCKPr) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [At The Ryman \(Live\)](https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd) | 3:36 |
 | 150 | [Is Anybody Goin' to San Antone \- Live](https://open.spotify.com/track/5WE2W6nJmMgqqRhzMavLKs) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Live](https://open.spotify.com/album/6J5evHxgFS0lym40ETnOs3) | 2:42 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDFjZTI0YWNlNmUwOTJiY2I3NGY1MmMyNmJmYjI2Y2Nl`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGRjMDYwZTViMDk4N2E1MjllMzg4Y2U5MzBmOWYzODZh`

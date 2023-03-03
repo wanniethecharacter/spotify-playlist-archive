@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,431 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,502 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [Can't Get Enough](https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy) | [Birdee](https://open.spotify.com/artist/3bSjUrJcV80nkkypJHElmv), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Can't Get Enough](https://open.spotify.com/album/3Gwd3lkWQToLPDwYEWxGaZ) | 4:27 |
 | 60 | [All Along](https://open.spotify.com/track/3RPHlHhb6g0rqcMVwwfxcF) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [All Along](https://open.spotify.com/album/7m3BQyRSefzOAxElf6SCnt) | 3:23 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDVjM2I4YWRlMTU4ZGZhMzY0ODFiYzUxYWU4NzcxY2Ew`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDU4YjNhMzM5NjU5YjU2OWEzNjQwOGFhMWY0ZmE1MTUy`

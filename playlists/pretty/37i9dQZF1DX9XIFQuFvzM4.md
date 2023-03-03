@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,542,150 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,542,488 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 99 | [You And Me](https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec) | [Penny & The Quarters](https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC) | [Penny & the Quarters EP](https://open.spotify.com/album/6zmwrJVYFvWE4xOVFBP04V) | 2:40 |
 | 100 | [Everyday People](https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 2:19 |
 
-Snapshot ID: `MTY3NTk2NDYxOCwwMDAwMDAwMDI3ZjQ2ODE5ZmRlMjkwMzAzYWJlMWE3OWFmZjNiNGQ1`
+Snapshot ID: `MTY3NTk2NDYxOCwwMDAwMDAwMGE4MWEwNTdiYjEyNzJmYzA3MzE4NTVhMjI1YWFlMzQ4`

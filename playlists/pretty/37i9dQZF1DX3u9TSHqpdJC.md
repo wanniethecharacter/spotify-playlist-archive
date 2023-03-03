@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: SG5
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,579 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,654 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 60 | [Your New Girlfriend](https://open.spotify.com/track/11PtLWTILZ7htNJd6hwSI2) | [Leah Sykes](https://open.spotify.com/artist/3OYYN1sVAjeYS6sRlCH19H) | [Your New Girlfriend](https://open.spotify.com/album/3S09y6fXnzBY52CsFv1OVT) | 1:58 |
 | 61 | [Green Juice](https://open.spotify.com/track/3St2cIjYXcjA85zyAR0uY5) | [Elli Moore](https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir) | [Green Juice](https://open.spotify.com/album/2nCHorCVOGbMMoO8pZZvYg) | 2:46 |
 | 62 | [Painkiller](https://open.spotify.com/track/2qFx1eJTaJSaZnWBrMLjFg) | [Josh Gray](https://open.spotify.com/artist/3lIys0IxVlqJlHJN1LHVOX) | [Painkiller](https://open.spotify.com/album/3k5oVFPfCZNmdI3ZyGBwOM) | 1:58 |
-| 63 | [once upon a time](https://open.spotify.com/track/4NjujPB7uiaesE5BFzAWxL) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [once upon a time](https://open.spotify.com/album/0gbp8QKU3YoK1364Zi9Arh) | 3:30 |
+| 63 | [once upon a time](https://open.spotify.com/track/0PULY7AIDcZ2LMjXc9oUay) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [XXI](https://open.spotify.com/album/5JsvLIkSY02w5LhyCGPb1n) | 3:30 |
 | 64 | [Spinning](https://open.spotify.com/track/6cXiBpoXVCWr9NH9N9wHrw) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Spinning](https://open.spotify.com/album/1brqiOya6F8Lyu9pNQJwCB) | 2:28 |
 | 65 | [Drift](https://open.spotify.com/track/5yxWAAPhfPBlJIbfFcHDyd) | [IOLITE](https://open.spotify.com/artist/0q7Qi8uhdkTZL369raJ4NF) | [Drift](https://open.spotify.com/album/4DTDuXUJG36ZMiTOplREZp) | 3:25 |
 | 66 | [Heatwave In December](https://open.spotify.com/track/46vLxn8chYCAQ0mykTTVqN) | [Ashley Jane](https://open.spotify.com/artist/5kiSvzjHG8z4UOpC6FAehk) | [Heatwave In December](https://open.spotify.com/album/2qGHc4bUYaDMXVpFBvC057) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [Something New](https://open.spotify.com/track/1TWBsQA0pQqV5dPEu83yv9) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Something New](https://open.spotify.com/album/1F3OffAbOInLUHAmFYBCNY) | 2:46 |
 | 100 | [Modern Love](https://open.spotify.com/track/6f9RSJ9y9DfqdHcuOzg8fI) | [Sophie Griffiths](https://open.spotify.com/artist/1ScQHshsghfh1H0r7VXEEe) | [Modern Love](https://open.spotify.com/album/0FP823lJ58rnrgmZeM4D0E) | 2:24 |
 
-Snapshot ID: `MTY3NzY5MDAwMCwwMDAwMDAwMDgzZGVmZjRiNzQ5ZDc0ZGM5NjVlZWM2YjZiZWI1NDI5`
+Snapshot ID: `MTY3NzY5MDAwMCwwMDAwMDAwMDZjYjdlYTYyZDc2NThlOThjN2FlYTQ5YWJlNmQ3MDEy`

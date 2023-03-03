@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > A trilha sonora do verão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,049 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,040 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 99 | [Errada Ela Não Tá](https://open.spotify.com/track/5LOgoGZQf26eY74DGdYy0u) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Errada Ela Não Tá](https://open.spotify.com/album/4GLifNiKf4dDkkencR04Bn) | 2:58 |
 | 100 | [LOKKO](https://open.spotify.com/track/2xRyucSeonJTOAK8EBKFuC) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [LOKKO](https://open.spotify.com/album/4rnvgJNI65psp1SwM4gzve) | 2:38 |
 
-Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMGY4ZmViZmIwMjgwZjFlZWI0Nzc3NTJkYzFiNjdiYTg1`
+Snapshot ID: `MTY2NTcwMjAwMCwwMDAwMDAwMDlkNGMwZmUwNjM2NjZjNGU5MzM0ZDQyNzFlYzlhYTBh`

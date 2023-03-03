@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: Crown Lands
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,556 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,567 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [whatwasthatwine](https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [whatwasthatwine](https://open.spotify.com/album/4r5raINIASmps1EZ090fio) | 4:01 |
 | 100 | [Cold Turkey](https://open.spotify.com/track/4ZsIidihgiyDrMnNlaqeBT) | [Les Shirley](https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer) | [More Is More](https://open.spotify.com/album/7dyUmRuDiu9hoOnGnUick7) | 3:00 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDhkNGQxODQxYjk4NzQ4NzNkNjFmYWZiYjA4MGY0N2Q3`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGI1ZTk5ZGE3ZjExMWQxYTVkM2JiZjUzMTdjMTJkMGY0`

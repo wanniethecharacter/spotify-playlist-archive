@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "All Mine",
+        "url": "https://open.spotify.com/album/3zdwBoGeedCzXRT2GUnzrH"
+      },
+      "artists": [
+        {
+          "name": "Lily Juniper",
+          "url": "https://open.spotify.com/artist/45kZYjtuhpFuzQC7l2odVP"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227459,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/39JgaLMI4kJL2dJE7Dacap"
+    },
+    {
+      "album": {
         "name": "Back 2 Life",
         "url": "https://open.spotify.com/album/7A356O065CDhBZCA5tO6u5"
       },
@@ -1162,6 +1180,24 @@
       "duration_ms": 404733,
       "name": "Beginning Ballads",
       "url": "https://open.spotify.com/track/2oLPaMqyssyRFGllzMj4GP"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5Ng9OIxgvxeKJueKImaNjX"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293800,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0xQCUudZetReFhweBceuAs"
     },
     {
       "album": {
@@ -1835,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Calling Out",
+        "url": "https://open.spotify.com/album/3xjBSN9UBdB5E1x7CBXUbg"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281370,
+      "name": "Calling Out",
+      "url": "https://open.spotify.com/track/2dpE7B7usqDVM9By5hnHJW"
+    },
+    {
+      "album": {
         "name": "Into One Name",
         "url": "https://open.spotify.com/album/2bcM1YOwkFrknhVsHEvPqW"
       },
@@ -2072,6 +2126,24 @@
       "duration_ms": 355920,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar"
+    },
+    {
+      "album": {
+        "name": "Cherubim",
+        "url": "https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w"
+      },
+      "artists": [
+        {
+          "name": "LCY",
+          "url": "https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202388,
+      "name": "Cherubim",
+      "url": "https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM"
     },
     {
       "album": {
@@ -2444,6 +2516,32 @@
       "duration_ms": 165692,
       "name": "Coochie Coo",
       "url": "https://open.spotify.com/track/18FDRn8GMShITBbvw5PrGm"
+    },
+    {
+      "album": {
+        "name": "COPY COPY (Logic1000 & Big Ever Remix)",
+        "url": "https://open.spotify.com/album/3fVnUAAyQFgv8LhjtSKMDs"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Big Ever",
+          "url": "https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255133,
+      "name": "COPY COPY - Logic1000 & Big Ever Remix",
+      "url": "https://open.spotify.com/track/44oj6fg5Wj1EdIcWGGuoTF"
     },
     {
       "album": {
@@ -3425,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "EVERYTIME I GO TO BED",
+        "url": "https://open.spotify.com/album/6BlDG3AIuu6hrbV8Qb2Y1o"
+      },
+      "artists": [
+        {
+          "name": "NICOLAS",
+          "url": "https://open.spotify.com/artist/30TrK4k6Q3U9Vc8pBpnxk1"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212195,
+      "name": "EVERYTIME I GO TO BED",
+      "url": "https://open.spotify.com/track/0jkLGd75Bul9j5ctnQcaiD"
+    },
+    {
+      "album": {
         "name": "Jelly Tones",
         "url": "https://open.spotify.com/album/4TU4WS5SHMNlIJ02ABUdTY"
       },
@@ -3993,6 +4109,28 @@
     },
     {
       "album": {
+        "name": "Freshwater Aquarium System",
+        "url": "https://open.spotify.com/album/7yIk23aN1nPHg4SD92fCI9"
+      },
+      "artists": [
+        {
+          "name": "Text Chunk",
+          "url": "https://open.spotify.com/artist/1rK3Yx8fDn4uaECVlehOqf"
+        },
+        {
+          "name": "Windowseeker",
+          "url": "https://open.spotify.com/artist/6yVZrQ8vipduXl3G7TR9hU"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393337,
+      "name": "Freshwater Aquarium System",
+      "url": "https://open.spotify.com/track/4l6Nc1NCwXwA41sa6gGX6f"
+    },
+    {
+      "album": {
         "name": "Sculpturegardening",
         "url": "https://open.spotify.com/album/4emr9Zigmx0ZzqXF2FGEs3"
       },
@@ -4128,6 +4266,24 @@
       "duration_ms": 190586,
       "name": "FUSE",
       "url": "https://open.spotify.com/track/2VYLZO3LakAgSWK9DTLWE3"
+    },
+    {
+      "album": {
+        "name": "Fusion Frenzy",
+        "url": "https://open.spotify.com/album/5NLXaaVIhljQzKEdCc5mcM"
+      },
+      "artists": [
+        {
+          "name": "TWEAKS",
+          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164951,
+      "name": "Fusion Frenzy",
+      "url": "https://open.spotify.com/track/0CyFOHZOZpBxAQ3rzUR1t4"
     },
     {
       "album": {
@@ -6697,6 +6853,24 @@
     },
     {
       "album": {
+        "name": "lil spirits",
+        "url": "https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193102,
+      "name": "love him",
+      "url": "https://open.spotify.com/track/4cDn73Qv5V3aRcPXIZOAwo"
+    },
+    {
+      "album": {
         "name": "Drum&BassArena Anthology 2",
         "url": "https://open.spotify.com/album/0iy3RixlWYQSPRGcfbymwK"
       },
@@ -8089,6 +8263,24 @@
     },
     {
       "album": {
+        "name": "Blind Eye EP",
+        "url": "https://open.spotify.com/album/2deZuyl5M5gxpDmkgwLN1B"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Ow Wow",
+      "url": "https://open.spotify.com/track/320jSjcFBSXMn7LVOizpwn"
+    },
+    {
+      "album": {
         "name": "Pablo",
         "url": "https://open.spotify.com/album/44gQvU1t9JOcH75qv81n3U"
       },
@@ -8104,6 +8296,24 @@
       "duration_ms": 530477,
       "name": "Pablo - Original Mix",
       "url": "https://open.spotify.com/track/7n04oWq0HYF1wX5FqJTnlH"
+    },
+    {
+      "album": {
+        "name": "TINKERBELL",
+        "url": "https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI"
+      },
+      "artists": [
+        {
+          "name": "Palmistry",
+          "url": "https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78750,
+      "name": "Pagans",
+      "url": "https://open.spotify.com/track/0Xyftuei3haQjJYiNOnInS"
     },
     {
       "album": {
@@ -9747,6 +9957,24 @@
     },
     {
       "album": {
+        "name": "Silkworm",
+        "url": "https://open.spotify.com/album/5OHnpPZroept4tmsAdwfQP"
+      },
+      "artists": [
+        {
+          "name": "Cameo Blush",
+          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363440,
+      "name": "Silkworm",
+      "url": "https://open.spotify.com/track/5Qj9ScgvaRkaMMGecyF2c0"
+    },
+    {
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/2z5JAOOwIIWog5UDQydquq"
       },
@@ -10482,6 +10710,24 @@
       "duration_ms": 189095,
       "name": "Still Happened",
       "url": "https://open.spotify.com/track/38eJ56HYwMeSdFUY50QKsF"
+    },
+    {
+      "album": {
+        "name": "Dark swing uk garage compilation",
+        "url": "https://open.spotify.com/album/6ZT3GiW2oduwS7eOlnuEv0"
+      },
+      "artists": [
+        {
+          "name": "Groove Chronicles (Noodles)",
+          "url": "https://open.spotify.com/artist/52ra5pt8grwDXQaE2AO5on"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337570,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/3q9GxRuCLbzUbIQcQYFXAo"
     },
     {
       "album": {
@@ -11973,6 +12219,28 @@
     },
     {
       "album": {
+        "name": "2 SLIZZY 2 SEXY",
+        "url": "https://open.spotify.com/album/6LTZvDHENUVTxeQrLLS28g"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123953,
+      "name": "VACANT",
+      "url": "https://open.spotify.com/track/4CxwkVMMH3ZBNzCPLdTq5T"
+    },
+    {
+      "album": {
         "name": "Not What It Seems",
         "url": "https://open.spotify.com/album/0RanQIXVRxe397jBysVWlG"
       },
@@ -12342,6 +12610,24 @@
       "duration_ms": 211373,
       "name": "White Tee (with NO1-NOAH)",
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
+    },
+    {
+      "album": {
+        "name": "Things Don't Always Go The Way You Plan",
+        "url": "https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293281,
+      "name": "Why 1.3 [2012 Export Wav]",
+      "url": "https://open.spotify.com/track/4K0dZGCi79U9TnZNkLJpkb"
     },
     {
       "album": {

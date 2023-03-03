@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Ibiza season is back for 2022\. Let's dance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,263 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,380 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 99 | [Is It You](https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [Is It You](https://open.spotify.com/album/0slFvrkkV4qgU8HPsDZDSh) | 2:39 |
 | 100 | [Shake My Booty](https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Shake My Booty](https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi) | 3:22 |
 
-Snapshot ID: `MTY2MTUzNzc2MCwwMDAwMDAwMDg3NjMyODM4YjQzNjVmZDM0NzQzMDE4MzFhYjc5MWZl`
+Snapshot ID: `MTY2MTUzNzc2MCwwMDAwMDAwMDJkOWY0YjM5MzY2NWJhY2VjODgxNzY5OTUwYjYxZTMw`

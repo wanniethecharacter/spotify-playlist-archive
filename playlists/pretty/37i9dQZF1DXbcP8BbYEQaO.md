@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > sparkling, shimmery synth pop ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,482 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,639 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 74 | [Night Call](https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 2:50 |
 | 75 | [Slow Dancing \- Hazel English Remix](https://open.spotify.com/track/0GJoAMeJgACw4P4hczLxQ1) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i), [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slow Dancing \(The Remixes\)](https://open.spotify.com/album/6A6pDT6OjxQdERBJcyLPgK) | 2:55 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDRiZjdhMWU0MmY4NzE3ZDc0Y2E2YzhhNzZiOGM5OThi`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDQ2N2VkMDk2MTNjYTdhOTM4NGQ1M2EyNDYwNjQxOTNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,908 likes - 150 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,016 likes - 150 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 149 | [Better](https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Everything Will Be Ok Eventually](https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA) | 4:54 |
 | 150 | [Boulangerie](https://open.spotify.com/track/36tuyoS2mGSzN7dMIuTHpM) | [Recent Rumors](https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn) | [Heart Baby](https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq) | 3:18 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGQyYzZjYjBmZjQ0ZmNlZDg3NWNmNjlhNzQ2OGI4NTk4`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDIzNmUzMTE3NGJmNzhjMWRmYmI2MzYyNmNhNDZmMTgy`

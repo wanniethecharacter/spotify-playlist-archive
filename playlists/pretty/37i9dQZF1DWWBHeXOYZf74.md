@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Caroline Polachek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,718 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,666 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Take My Picture](https://open.spotify.com/track/6kYMoYJnbXVuiqVMCkL2Pe) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Bummer](https://open.spotify.com/album/6qQ2gWYEYmikgGm6qSBYmz) | 3:15 |
 | 100 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 |
 
-Snapshot ID: `MTY3NzY4NjY5MiwwMDAwMDAwMGY3ODNmM2I1ZDA0MTJmODViNDQ5MjZhZDM2Mzk3MGJl`
+Snapshot ID: `MTY3NzY4NjY5MiwwMDAwMDAwMGZlN2M1YmY1ZmU3NmVhYzM3OTU1YjM2MWE3MTRlN2Y3`

@@ -730,7 +730,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 239220,
       "name": "Hans Dhuni",
       "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
@@ -926,6 +926,24 @@
       "duration_ms": 285550,
       "name": "Jaanu Na - Jodi Tare",
       "url": "https://open.spotify.com/track/1VRrV5xVD5iuI38NQSdwg1"
+    },
+    {
+      "album": {
+        "name": "Dedh Ishqiya",
+        "url": "https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR"
+      },
+      "artists": [
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338552,
+      "name": "Jagaave Saari Raina",
+      "url": "https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz"
     },
     {
       "album": {
@@ -1126,6 +1144,40 @@
       "duration_ms": 245500,
       "name": "Khaare Khaare",
       "url": "https://open.spotify.com/track/7iTPlX3QckoVZn5zrLZzdr"
+    },
+    {
+      "album": {
+        "name": "Khwabon Ke Rang",
+        "url": "https://open.spotify.com/album/2Cx031mb2M1RtJ2QPm19Qi"
+      },
+      "artists": [
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        },
+        {
+          "name": "Prim4l",
+          "url": "https://open.spotify.com/artist/7xPjYvBpWN3dypuCZfi6Z9"
+        },
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Saurabh Jain",
+          "url": "https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216461,
+      "name": "Khwabon Ke Rang",
+      "url": "https://open.spotify.com/track/56QZnxULNrDzV7ueQLqlXo"
     },
     {
       "album": {
@@ -1334,7 +1386,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 201179,
       "name": "Lovable (feat. Ibeyi)",
       "url": "https://open.spotify.com/track/4shE3ZhbpenlZZccNtOKdt"
@@ -2742,7 +2794,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 350480,
       "name": "Traveller - Leafcutter John Remix",
       "url": "https://open.spotify.com/track/68pnUjdZYEgYuHArZRxETk"

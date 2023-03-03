@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume – co\-curated by LU KALA for International Women's Day.
 
-734 songs - 1 day 14 hr 40 min
+735 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2021-12-08 | 2022-01-06 |
 | [best friend](https://open.spotify.com/track/6GRNP0lqjn7K4bf13wjsih) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [best friend](https://open.spotify.com/album/7LL8SvIHJnyKvo1D155Tsb) | 2:43 | 2023-01-04 | 2023-02-02 |
 | [Best Friend](https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w) | 2:39 | 2023-03-01 |  |
-| [Best Friend Breakup](https://open.spotify.com/track/28a302Jx34OM1z5qG7ykMJ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL) | 2:21 | 2023-03-01 |  |
+| [Best Friend Breakup](https://open.spotify.com/track/28a302Jx34OM1z5qG7ykMJ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL) | 2:21 | 2023-03-01 | 2023-03-03 |
+| [Best Friend Breakup](https://open.spotify.com/track/5rKMN0bKdqcGWo1iLvv30Y) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/6mF1bVrioCxksnRBHUN7Ej) | 2:21 | 2023-03-01 |  |
 | [Better](https://open.spotify.com/track/6iYfq90woQJ1kxEMxYbLeH) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Better](https://open.spotify.com/album/3XkM1TpwNfkZtm3Cahetbb) | 2:02 | 2023-02-01 | 2023-03-02 |
 | [Better Each Day](https://open.spotify.com/track/2EIgJyHnlws56A1tkcpRss) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Live Your Truth Shred Some Gnar](https://open.spotify.com/album/5Ae3xDGRamEFOSmzdtPGGv) | 3:04 | 2022-11-30 | 2023-01-05 |
 | [Big Deal](https://open.spotify.com/track/5uuMlGIdD6v3M7egrrP8r2) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Big Deal](https://open.spotify.com/album/6dYvQ89T1GRzpwJxMVVpDg) | 3:22 | 2022-06-01 | 2022-10-06 |

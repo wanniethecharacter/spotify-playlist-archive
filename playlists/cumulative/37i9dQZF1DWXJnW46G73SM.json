@@ -5759,6 +5759,24 @@
     },
     {
       "album": {
+        "name": "\u062e\u0644\u064a\u0646\u064a",
+        "url": "https://open.spotify.com/album/5fE5KlF2945Q1Vm2sQXOuU"
+      },
+      "artists": [
+        {
+          "name": "Almas",
+          "url": "https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u062e\u0644\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/6fO7U0lirfa5kcgJngHqA8"
+    },
+    {
+      "album": {
         "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
         "url": "https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc"
       },
@@ -6400,7 +6418,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-03",
       "duration_ms": 180490,
       "name": "\u0647\u0648 \u0627\u062d\u0646\u0627 \u063a\u0631\u0628",
       "url": "https://open.spotify.com/track/1elQRhX2LeoWf6QdNbzksN"

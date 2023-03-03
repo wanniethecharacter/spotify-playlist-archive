@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS"
+      },
+      "artists": [
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Beat Is Gone",
+      "url": "https://open.spotify.com/track/4regwk9c129vAstvDcTmfj"
+    },
+    {
+      "album": {
         "name": "Letters (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5sqeWpEKYq5b7g0rIbSIk8"
       },

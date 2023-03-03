@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,884 likes - 250 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,883 likes - 250 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 249 | [Stirling](https://open.spotify.com/track/1lBZFfbME5sIHKtgNuXq2I) | [Tuga Topić](https://open.spotify.com/artist/30nHhrHqaesxWRiNzW4g6O) | [Stirling](https://open.spotify.com/album/6JHOTIWdn1UyUZYys8HEpO) | 1:59 |
 | 250 | [Melopedie](https://open.spotify.com/track/7kAf6Xha70vAio4LsIhJqT) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Melopedie](https://open.spotify.com/album/5AbUGX4J4L3ppLWif6ZGKR) | 2:56 |
 
-Snapshot ID: `MTY3NzY4NDk0MiwwMDAwMDAwMGE4YmE2OGM4YzM4MDg4ZDIyZWVkZTBiNzQyZmIxNjk0`
+Snapshot ID: `MTY3NzY4NDk0MiwwMDAwMDAwMGMzNjJlNjRkYzE2YWRhYjNkY2RhZjY4MmNiZDE5Yjhh`

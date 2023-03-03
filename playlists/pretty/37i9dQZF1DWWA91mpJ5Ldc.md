@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,175 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,230 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 59 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
 | 60 | [Babá Alapalá \- Spotify Singles](https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Babá Alapalá \- Spotify Singles](https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5) | 4:29 |
 
-Snapshot ID: `MTY3MzU4NDY0NiwwMDAwMDAwMDliOTY5YTIyZDhhNjViOWM4NTNmNTIzNmNiNTYxNjM3`
+Snapshot ID: `MTY3MzU4NDY0NiwwMDAwMDAwMDIxN2E4Y2IxYWZlMGYyODQ3NDBmZWUyNTA1MGFmYmUz`

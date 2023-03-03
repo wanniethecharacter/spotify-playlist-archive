@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: Lani Rose",
-  "num_followers": 45452,
+  "num_followers": 45629,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzODMyNSwwMDAwMDAwMDIwNzZiNTA1NDhkOTE3MWM2ZmM1YTIxNzVmYzQyZGQ0",
+  "snapshot_id": "MTY3NzIzODMyNSwwMDAwMDAwMDYyYTE4YzkzODY4MmQ3OWM1OTBjNmRiYTA1NDFlZTU2",
   "tracks": [
     {
       "added_at": "2023-02-24 11:32:04",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-02-24 11:32:04",
       "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/3NABwH188S5lqlfRIH8Nj2"
-      },
-      "artists": [
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 196499,
-      "name": "Please",
-      "url": "https://open.spotify.com/track/2vDJTc0KHHmAWYL9zyBEh4"
-    },
-    {
-      "added_at": "2023-02-24 11:32:04",
-      "album": {
         "name": "SLEEPIN!",
         "url": "https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P"
       },
@@ -271,22 +255,6 @@
     {
       "added_at": "2023-02-24 11:32:04",
       "album": {
-        "name": "Still Mighty",
-        "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Still Mighty",
-      "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
-    },
-    {
-      "added_at": "2023-02-24 11:32:04",
-      "album": {
         "name": "Love Me Back to Life",
         "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
       },
@@ -303,18 +271,18 @@
     {
       "added_at": "2023-02-24 11:32:04",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
+        "name": "Still Mighty",
+        "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
       },
       "artists": [
         {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
+      "duration_ms": 232040,
+      "name": "Still Mighty",
+      "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
     },
     {
       "added_at": "2023-02-24 11:32:04",
@@ -331,6 +299,22 @@
       "duration_ms": 228134,
       "name": "For the Love of God",
       "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
+    },
+    {
+      "added_at": "2023-02-24 11:32:04",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
     },
     {
       "added_at": "2023-02-24 11:32:04",
@@ -1423,22 +1407,6 @@
     {
       "added_at": "2023-02-24 11:32:04",
       "album": {
-        "name": "Faithful (Demo)",
-        "url": "https://open.spotify.com/album/24oCcqn0qLS29STWZ9s7KJ"
-      },
-      "artists": [
-        {
-          "name": "Ben Laine",
-          "url": "https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj"
-        }
-      ],
-      "duration_ms": 238227,
-      "name": "Faithful - Demo",
-      "url": "https://open.spotify.com/track/2QMADwyP22IyJIRkTKAAhO"
-    },
-    {
-      "added_at": "2023-02-24 11:32:04",
-      "album": {
         "name": "Swerving (Zoom Zoom Zoom)",
         "url": "https://open.spotify.com/album/1AiLlDAN3CVkzRaYVhGnkr"
       },
@@ -1499,18 +1467,18 @@
     {
       "added_at": "2023-02-24 11:32:04",
       "album": {
-        "name": "No Height No Depth (Live)",
-        "url": "https://open.spotify.com/album/1RrxjsU3bsvORs3mD8HvFO"
+        "name": "Jesus Changed My Life",
+        "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
       },
       "artists": [
         {
-          "name": "Aaron Williams",
-          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
         }
       ],
-      "duration_ms": 393853,
-      "name": "No Height No Depth - Live",
-      "url": "https://open.spotify.com/track/0lcDv3jjwGTMDzA63ML2BZ"
+      "duration_ms": 196499,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/1kaLtPuItQfngF9AYjbXwp"
     },
     {
       "added_at": "2023-02-24 11:32:04",
@@ -1531,6 +1499,22 @@
       "duration_ms": 216284,
       "name": "Dancing My Way",
       "url": "https://open.spotify.com/track/3H6GIYU569lnz03odMV63T"
+    },
+    {
+      "added_at": "2023-02-24 11:32:04",
+      "album": {
+        "name": "No Height No Depth (Live)",
+        "url": "https://open.spotify.com/album/1RrxjsU3bsvORs3mD8HvFO"
+      },
+      "artists": [
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        }
+      ],
+      "duration_ms": 393853,
+      "name": "No Height No Depth - Live",
+      "url": "https://open.spotify.com/track/0lcDv3jjwGTMDzA63ML2BZ"
     },
     {
       "added_at": "2023-02-24 11:32:04",
@@ -1923,6 +1907,22 @@
     {
       "added_at": "2023-02-24 11:32:04",
       "album": {
+        "name": "In the Upper Room",
+        "url": "https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 166632,
+      "name": "Right With You",
+      "url": "https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n"
+    },
+    {
+      "added_at": "2023-02-24 11:32:04",
+      "album": {
         "name": "cast (get better)",
         "url": "https://open.spotify.com/album/2SKthw3FGVjNnFgBfiaTF7"
       },
@@ -1983,22 +1983,6 @@
       "duration_ms": 150909,
       "name": "Changes - Guitarmix",
       "url": "https://open.spotify.com/track/1lq3tG50UFLWpmbFostGPS"
-    },
-    {
-      "added_at": "2023-02-24 11:32:04",
-      "album": {
-        "name": "In the Upper Room",
-        "url": "https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 166632,
-      "name": "Right With You",
-      "url": "https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n"
     },
     {
       "added_at": "2023-02-24 11:32:04",
@@ -2195,22 +2179,6 @@
     {
       "added_at": "2023-02-24 11:32:04",
       "album": {
-        "name": "Names (Acoustic)",
-        "url": "https://open.spotify.com/album/5jwzW7iNZgN9tNPLl7bof2"
-      },
-      "artists": [
-        {
-          "name": "Ben Laine",
-          "url": "https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj"
-        }
-      ],
-      "duration_ms": 369523,
-      "name": "Names - Acoustic",
-      "url": "https://open.spotify.com/track/1yJ7WrQql0OIsXQflW0Zpv"
-    },
-    {
-      "added_at": "2023-02-24 11:32:04",
-      "album": {
         "name": "more for me",
         "url": "https://open.spotify.com/album/6Dp0u2pPXAuIeD7QTmXkqH"
       },
@@ -2339,22 +2307,6 @@
       "duration_ms": 261000,
       "name": "Taste And See",
       "url": "https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5"
-    },
-    {
-      "added_at": "2023-02-24 11:32:04",
-      "album": {
-        "name": "I Could Sing Of Your Love Forever",
-        "url": "https://open.spotify.com/album/6CheSffpHQycPIZ4YwnWRj"
-      },
-      "artists": [
-        {
-          "name": "Ben Laine",
-          "url": "https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj"
-        }
-      ],
-      "duration_ms": 236962,
-      "name": "I Could Sing Of Your Love Forever",
-      "url": "https://open.spotify.com/track/3AH3BlWghzttvghcywuNX3"
     },
     {
       "added_at": "2023-02-24 11:32:04",
@@ -2591,6 +2543,58 @@
       "duration_ms": 128000,
       "name": "Happier",
       "url": "https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq"
+    },
+    {
+      "added_at": "2023-02-24 11:32:04",
+      "album": {
+        "name": "Something You Once Knew",
+        "url": "https://open.spotify.com/album/45a35sVDNqX5DpTEAwisRl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        }
+      ],
+      "duration_ms": 98400,
+      "name": "Something You Once Knew",
+      "url": "https://open.spotify.com/track/5Nbim16j7SNmatgnUmA8D7"
+    },
+    {
+      "added_at": "2023-02-24 11:32:04",
+      "album": {
+        "name": "Come Through",
+        "url": "https://open.spotify.com/album/39Wy7Mpzcj7LIiCFkbYoUu"
+      },
+      "artists": [
+        {
+          "name": "Emilie Weiss",
+          "url": "https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg"
+        }
+      ],
+      "duration_ms": 251367,
+      "name": "Come Through",
+      "url": "https://open.spotify.com/track/0C6tVPgbcGZSAxiufu9LnT"
+    },
+    {
+      "added_at": "2023-02-24 11:32:04",
+      "album": {
+        "name": "The After",
+        "url": "https://open.spotify.com/album/37UvijJdXfvXKiIAe6GZBS"
+      },
+      "artists": [
+        {
+          "name": "Out of the Dust",
+          "url": "https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu"
+        },
+        {
+          "name": "Elenowen",
+          "url": "https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2gR3jPSYrnwdczEjBACA1i"
     }
   ],
   "unique_name": "Indie Spirit",

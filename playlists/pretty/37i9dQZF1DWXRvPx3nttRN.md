@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,709 likes - 234 songs - 13 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,881 likes - 234 songs - 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 140 | [Wake Up Sleeper \- Acoustic](https://open.spotify.com/track/1gwPB3AVPLhn4SPa7SmM93) | [Wildwood Kin](https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B) | [Wake Up Sleeper \(Acoustic\)](https://open.spotify.com/album/4wjmtlC0ySXydlahF2StXe) | 3:35 |
 | 141 | [Girls Like You](https://open.spotify.com/track/6ZGCcVUyPnuNV6lmPFUnxT) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [Girls Like You](https://open.spotify.com/album/6MUKJJrQjnqk2w5yPsmn4H) | 3:26 |
 | 142 | [This Is What You Came For](https://open.spotify.com/track/55GL7yORnb6ZzmmNToE2Ca) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD) | 3:24 |
-| 143 | [I Don't Care \- Acoustic](https://open.spotify.com/track/2WPF8VqaTt5EQSbOAiTdN2) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Karis](https://open.spotify.com/artist/1U9tVmBqCyiaP2gDSVwDIX) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/6aVkEomlb2tMjCpOBnh4ev) | 3:23 |
+| 143 | [I Don't Care \- Acoustic](https://open.spotify.com/track/2WPF8VqaTt5EQSbOAiTdN2) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Ray Lorraine](https://open.spotify.com/artist/4lf5sycK82JMzmkebi1Kic) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/6aVkEomlb2tMjCpOBnh4ev) | 3:23 |
 | 144 | [Just Another Love Song](https://open.spotify.com/track/18ilkcj9CgkhlgFtiqEka1) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [Just Another Love Song](https://open.spotify.com/album/7dRQG2sl597yCKx4G96pwk) | 2:48 |
 | 145 | [Most Girls \- Acoustic](https://open.spotify.com/track/2gPJ00vC3WKoAja0rNk0F1) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Most Girls](https://open.spotify.com/album/2FymLjpzDVWD3BYrf33UHg) | 3:57 |
 | 146 | [Look Away \- Acoustic](https://open.spotify.com/track/5haEwf9UsvjWq0aovDAofJ) | [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC) | [Look Away \(Acoustic\)](https://open.spotify.com/album/2DcbeYyXKzu4C5kgKn0IRb) | 3:04 |
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 233 | [](https://open.spotify.com/track/6gp6sejiJXYU1i6xHPf8hh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1vRv2ehtwimsY7L34S6Rbd) | 0:00 |
 | 234 | [Suit & Tie](https://open.spotify.com/track/1y7MwYVz214Z3xJTrJUKzF) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [Web Cam Songs](https://open.spotify.com/album/5yttdCN7FWfu0nv0Y3ohV1) | 3:11 |
 
-Snapshot ID: `MTY3Mjc2OTU5MSwwMDAwMDAwMDBkYmEwODVmNWZkMWVmZjkxODM2NjgzNGUxYzVjYTZh`
+Snapshot ID: `MTY3Mjc2OTU5MSwwMDAwMDAwMGRjOGU3YWFiNTJhYjI0ZWVkZWFiMTEyOGNjNDRkNGZl`

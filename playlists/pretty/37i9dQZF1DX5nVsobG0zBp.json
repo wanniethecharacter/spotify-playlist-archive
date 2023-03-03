@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 39355,
+  "num_followers": 39420,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5NjgwMCwwMDAwMDAwMDZkYjAwNWE5MjIzZTZiMzY0NWFlMTVhNWM1ZGQ0NDFm",
+  "snapshot_id": "MTY3Nzc1MDcyNiwwMDAwMDAwMDdhOWQ3MmJiM2Y5ZTc4NDUwYTRlNmUxNjEyYTBkYzAy",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "SACA L\u00c1",
-        "url": "https://open.spotify.com/album/2hI0hN3tuadLZ95pr8hAEC"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 222009,
-      "name": "SACA L\u00c1",
-      "url": "https://open.spotify.com/track/2LtF00zFSSWzsYtoVYy28k"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "You Are Forgiven",
         "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 175204,
       "name": "Teu Eternamente",
       "url": "https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Deepak Looper",
+        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 193492,
+      "name": "Impec",
+      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Deepak Looper",
-        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk"
       },
       "artists": [
         {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 193492,
-      "name": "Impec",
-      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
+      "duration_ms": 257146,
+      "name": "300",
+      "url": "https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -471,22 +471,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "#FFFFFF",
-        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
+        "name": "SACA L\u00c1",
+        "url": "https://open.spotify.com/album/2hI0hN3tuadLZ95pr8hAEC"
       },
       "artists": [
         {
           "name": "ProfJam",
           "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
         }
       ],
-      "duration_ms": 191679,
-      "name": "Tou Bem (feat. Lhast)",
-      "url": "https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i"
+      "duration_ms": 222009,
+      "name": "SACA L\u00c1",
+      "url": "https://open.spotify.com/track/2LtF00zFSSWzsYtoVYy28k"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -519,22 +515,6 @@
       "duration_ms": 186139,
       "name": "Desconfinamento",
       "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 257146,
-      "name": "300",
-      "url": "https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -647,26 +627,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "SYSTEM",
-        "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "benji price",
-          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
-        }
-      ],
-      "duration_ms": 246368,
-      "name": "TRIBUNAL",
-      "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Essa Saia",
         "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
@@ -683,6 +643,26 @@
       "duration_ms": 209069,
       "name": "Essa Saia",
       "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "#FFFFFF",
+        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "duration_ms": 191679,
+      "name": "Tou Bem (feat. Lhast)",
+      "url": "https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -719,38 +699,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Dama & Vagabundo",
-        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 313825,
-      "name": "Dama & Vagabundo",
-      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "00 Fala Bonito",
-        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "00 Fala Bonito",
-      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Popo",
         "url": "https://open.spotify.com/album/6V1YM7CbiOwqwIEa73riB3"
       },
@@ -771,6 +719,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Dama & Vagabundo",
+        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 313825,
+      "name": "Dama & Vagabundo",
+      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "You Are Forgiven",
         "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
       },
@@ -787,18 +751,38 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "HEI",
-        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
+        "name": "00 Fala Bonito",
+        "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "00 Fala Bonito",
+      "url": "https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "SYSTEM",
+        "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
       },
       "artists": [
         {
           "name": "ProfJam",
           "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "benji price",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
         }
       ],
-      "duration_ms": 208000,
-      "name": "HEI",
-      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
+      "duration_ms": 246368,
+      "name": "TRIBUNAL",
+      "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -883,18 +867,34 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "P de Pablito",
-        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
+        "name": "Stunka",
+        "url": "https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf"
       },
       "artists": [
         {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
-      "duration_ms": 182000,
-      "name": "P de Pablito",
-      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
+      "duration_ms": 188571,
+      "name": "Stunka",
+      "url": "https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "HEI",
+        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "HEI",
+      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -915,38 +915,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Stunka",
-        "url": "https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf"
+        "name": "P de Pablito",
+        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
       },
       "artists": [
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Stunka",
-      "url": "https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "#FFFFFF",
-        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "F\u00ednix MG",
-          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
-        }
-      ],
-      "duration_ms": 336528,
-      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
-      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
+      "duration_ms": 182000,
+      "name": "P de Pablito",
+      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -983,6 +963,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "METE1LIKE",
         "url": "https://open.spotify.com/album/4J4OCfvHHWAMZ6unYRvBOd"
       },
@@ -1003,38 +999,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Hoji N'ka ta Rola",
-        "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 236526,
-      "name": "Hoji N'ka ta Rola",
-      "url": "https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "GUUD",
-        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 168631,
-      "name": "GUUD",
-      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Dado",
         "url": "https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn"
       },
@@ -1051,6 +1015,42 @@
       "duration_ms": 207720,
       "name": "Dado",
       "url": "https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Hoji N'ka ta Rola",
+        "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 236526,
+      "name": "Hoji N'ka ta Rola",
+      "url": "https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "#FFFFFF",
+        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "F\u00ednix MG",
+          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
+        }
+      ],
+      "duration_ms": 336528,
+      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
+      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "FEELING",
+        "url": "https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "FEELING",
+      "url": "https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "BAL4DA 2UM CAR0XO",
         "url": "https://open.spotify.com/album/0Y2hXrh13HOLu6lh30chRo"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 282267,
       "name": "BAL4DA 2UM CAR0XO",
       "url": "https://open.spotify.com/track/0uQU529W8MgYYElqJCMdph"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "N\u00f3s",
-        "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
-      },
-      "artists": [
-        {
-          "name": "Myles 6ix",
-          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
-        }
-      ],
-      "duration_ms": 278211,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "FEELING",
-        "url": "https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm"
+        "name": "N\u00f3s",
+        "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
       },
       "artists": [
         {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
         }
       ],
-      "duration_ms": 225880,
-      "name": "FEELING",
-      "url": "https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM"
+      "duration_ms": 278211,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -1263,6 +1263,22 @@
       "duration_ms": 214654,
       "name": "Perseus",
       "url": "https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "\u00c9 ASSIM",
+        "url": "https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 249078,
+      "name": "\u00c9 ASSIM",
+      "url": "https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -1295,6 +1311,30 @@
       "duration_ms": 234893,
       "name": "STAY FLY",
       "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"
+    },
+    {
+      "added_at": "2023-03-03 02:48:24",
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/1S5w4wJZoMPoacHqBWWTwF"
+      },
+      "artists": [
+        {
+          "name": "Chyna",
+          "url": "https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF"
+        },
+        {
+          "name": "9 Miller",
+          "url": "https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX"
+        },
+        {
+          "name": "Fumaxa",
+          "url": "https://open.spotify.com/artist/1qMTgrvxRRHO3rflIONsCP"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/6J6DcdqOLCCA3VZ9mr6VPD"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -1335,46 +1375,6 @@
       "duration_ms": 304600,
       "name": "O Re$To",
       "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "2020 (feat. Slow J)",
-        "url": "https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 203812,
-      "name": "2020 (feat. Slow J)",
-      "url": "https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Melanina",
-        "url": "https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        },
-        {
-          "name": "Bluay",
-          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
-        }
-      ],
-      "duration_ms": 244742,
-      "name": "Melanina",
-      "url": "https://open.spotify.com/track/1jFxvJAGwD8DFctTJZHBjl"
     }
   ],
   "unique_name": "Rap Tuga Hits",

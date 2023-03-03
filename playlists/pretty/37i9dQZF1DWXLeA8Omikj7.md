@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,630,730 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,630,935 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [The Warehouse](https://open.spotify.com/track/6cofOcVh37qyVEuBBVd6Wi) | [The M Machine](https://open.spotify.com/artist/62rW7FjQy7clhBDHuumg22) | [Glare](https://open.spotify.com/album/7sQt3KcCaK8Xky9F1oatJn) | 2:26 |
 | 100 | [We Are \(우리는\)](https://open.spotify.com/track/1UFD14oaGxtXOLnuD89OEv) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:46 |
 
-Snapshot ID: `MTY3NzU5MDg5MywwMDAwMDAwMDRlODYxNjIwMGRjZTE5ZjU1NjNmYjhhZjA0ZDY1OTI3`
+Snapshot ID: `MTY3NzU5MDg5MywwMDAwMDAwMDkxNWUwMTQzMjA0MmYxNWRiYjg4NWFjMDljNzlkNzAw`

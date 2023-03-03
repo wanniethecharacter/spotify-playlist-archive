@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Wayne Shorter
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,547 likes - 500 songs - 1 day 15 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,744 likes - 500 songs - 1 day 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [A Night In Tunisia \- Rudy Van Gelder Edition / 2003 Remaster](https://open.spotify.com/track/5KQ6uddno2Hht84gJDHsPF) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Our Man In Paris \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088) | 8:15 |
 | 500 | [La part des anges](https://open.spotify.com/track/5QJNVrABmfDW0g4EDVAR89) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [53](https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9) | 3:36 |
 
-Snapshot ID: `MTY3NzE0MzY0MCwwMDAwMDAwMDcxNmU2MzE3NzE1NTZjYjM0ZWJiZWU0YzViYzZmZGQ3`
+Snapshot ID: `MTY3NzE0MzY0MCwwMDAwMDAwMGNlNjM4MTYwOTgyNDg0ZWE5YzQyNGU5NjcyNTQ5ODI1`

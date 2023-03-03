@@ -4,7 +4,7 @@
 
 > 
 
-210 songs - 12 hr 35 min
+211 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Fly Away](https://open.spotify.com/track/6ijZZxyGBzbNq2FgR0USYR) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Fly Away](https://open.spotify.com/album/52Lhw4DeQ2rUtYmWNA9dDB) | 4:20 | 2021-02-07 |  |
 | [For The People](https://open.spotify.com/track/7sspyJENSmKfAyQHGJtC1m) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 3:26 | 2019-12-23 |  |
 | [For You](https://open.spotify.com/track/2wRlRa04whOwI5cZ4QXsmj) | [DXXDLY](https://open.spotify.com/artist/6GKLaeqLSNmXOedBQQY9R7), [JÖST](https://open.spotify.com/artist/3ERTkqBGVuP0lA4r3pNvGu) | [For You](https://open.spotify.com/album/4Cd2EftimaltmI0irA1dCX) | 2:28 | 2023-01-05 |  |
+| [Forever](https://open.spotify.com/track/3AvllZd4og3ZaxildemX4O) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Forever](https://open.spotify.com/album/5gTC1VPmpEG0yq3wK5bLBA) | 4:40 | 2023-03-02 |  |
 | [Function](https://open.spotify.com/track/2Rj5TXc2G7sv7rAqJntMgn) | [6 Senz](https://open.spotify.com/artist/147cJWfJ6XKAh9T8ohr7Ts) | [Function](https://open.spotify.com/album/7uDKrd3JI9uRuvmCuYIybb) | 3:45 | 2019-12-03 |  |
 | [Game Is On](https://open.spotify.com/track/55c0hKy37sEJpsQs0lSHlj) | [Øfdream](https://open.spotify.com/artist/70P3LvwslDBQicUfL2Ix02) | [Anthology, Pt\. 2](https://open.spotify.com/album/3n4SeHfULyCQNQSOhsEUoY) | 2:56 | 2018-11-27 |  |
 | [Geneva](https://open.spotify.com/track/2nNVyS2Q6SjekgeNaINwbi) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Geneva](https://open.spotify.com/album/7wlcYqBcp40M0G4URfXSxY) | 2:55 | 2018-11-27 |  |

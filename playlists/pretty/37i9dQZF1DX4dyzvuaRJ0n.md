@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: MK & Dom Dolla
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,982,286 likes - 77 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,982,686 likes - 77 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 76 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 |
 | 77 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
 
-Snapshot ID: `MTY3NzI2MzY1NywwMDAwMDAwMDg1YzU2MGRmNjExNTNmYWQ2YmRmN2VhMzg3ZTdkZGMz`
+Snapshot ID: `MTY3NzI2MzY1NywwMDAwMDAwMDk5MzQzZDNmNmU2Y2JmZmE1MTM4YWRiMjNkOTU1NzBi`

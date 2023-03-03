@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:  Free Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,208 likes - 84 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,333 likes - 84 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 83 | [SIGO EN PIE](https://open.spotify.com/track/0QZFGW1DuIEyMIfYNMCSYq) | [Jess Santana](https://open.spotify.com/artist/3NmdKlXrC2msjN6e8jz9Y3) | [SIGO EN PIE](https://open.spotify.com/album/2IK84JtQHLI3KV47FPWpoc) | 3:06 |
 | 84 | [Confía](https://open.spotify.com/track/1TSRE5WdW6jBrM57pAaMLB) | [Kris y Lornie](https://open.spotify.com/artist/1deoi4Y7FIDK2mvc09xii9), [Raza For Christ](https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW) | [Confía](https://open.spotify.com/album/2GQPOg6r8tkuMI3UAr43Q2) | 3:54 |
 
-Snapshot ID: `MTY3NzIzNzA4NSwwMDAwMDAwMGI0MDU0YWU4NGU3MDg1MGNhYWQ3YTc5ZWUyMGZmMmFm`
+Snapshot ID: `MTY3NzIzNzA4NSwwMDAwMDAwMDQwMWYzMTJlZmI3YTg4YmI0NjZkYzk2NjEyZDQ4NWRm`

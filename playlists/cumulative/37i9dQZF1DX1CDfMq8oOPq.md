@@ -4,7 +4,7 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: Mc Taya
 
-110 songs - 5 hr 27 min
+111 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Apostas e Contratos \- Ao Vivo](https://open.spotify.com/track/79mrh2ByWxSh24uV8I6pIc) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Ashira No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/6nxV2RXjblA8wg4ZZs6Mea) | 3:32 | 2023-01-13 |  |
 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 | 2022-03-11 |  |
 | [Ashley Banks](https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Ashley Banks](https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY) | 3:28 | 2022-03-11 |  |
+| [Autêntica](https://open.spotify.com/track/4OhPvoDH9W9dwbNDsheGK7) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Trevor Whippa](https://open.spotify.com/artist/60hytLnjov7Xhc21EQYHOO), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [Autêntica](https://open.spotify.com/album/3Exvbk2Eg1aK2Qj827lT3r) | 3:01 | 2023-03-03 |  |
 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 | 2022-03-11 |  |
 | [Batom](https://open.spotify.com/track/6xCLJ9J2tD3MfC7YW6gOPF) | [THANE C](https://open.spotify.com/artist/3vgitNqM0i1ZK1ivLtcGKM), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Batom](https://open.spotify.com/album/5W7BkRHgHbo263lL1HFoJK) | 3:25 | 2022-04-22 | 2022-05-28 |
 | [Benção Da Prosperidade](https://open.spotify.com/track/1VX8i8qoL4kCPDZLb1eKs2) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 3:55 | 2022-12-02 | 2023-02-04 |
@@ -77,7 +78,7 @@
 | [Não Nega](https://open.spotify.com/track/4CO98RpRzRzK2V5sOFS01G) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Não Nega](https://open.spotify.com/album/5MAC86ryol0sVYG9YbGgCP) | 3:04 | 2022-08-26 | 2022-10-08 |
 | [Não Para](https://open.spotify.com/track/7rMDGuF0Ka1DlRn0J5OwcN) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI) | [Não Para](https://open.spotify.com/album/04AxxMqe87R652pCosDblm) | 2:45 | 2022-11-04 | 2023-01-06 |
 | [Não Podem Parar](https://open.spotify.com/track/2R8PMteNXbTDY7GTOD8Eze) | [Udi Santos](https://open.spotify.com/artist/3YO5cUXFe5nLw9liwkp7fr), [B.art](https://open.spotify.com/artist/6KnF0fsn6wR9fdC5MBP0vE) | [Não Podem Parar](https://open.spotify.com/album/78tsqxqvgvuN5ZwtBYmnEL) | 2:51 | 2022-03-25 | 2022-04-16 |
-| [Oi, Prazer](https://open.spotify.com/track/4pCTXorg7BKc6SmjtQaEbG) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu) | [Oi, Prazer](https://open.spotify.com/album/3NhhBBKyHZNfILXQs5WwDQ) | 2:38 | 2022-11-11 |  |
+| [Oi, Prazer](https://open.spotify.com/track/4pCTXorg7BKc6SmjtQaEbG) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu) | [Oi, Prazer](https://open.spotify.com/album/3NhhBBKyHZNfILXQs5WwDQ) | 2:38 | 2022-11-11 | 2023-03-03 |
 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 | 2022-03-11 | 2022-11-19 |
 | [Oompa Loompa](https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Oompa Loompa](https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M) | 3:14 | 2022-06-24 |  |
 | [Papo Reto](https://open.spotify.com/track/51KzKfcPELW9rrWi3Rxfll) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Papo Reto](https://open.spotify.com/album/0IIF5iRrk0Xc0spUkT2lzi) | 2:40 | 2022-03-11 | 2022-04-02 |

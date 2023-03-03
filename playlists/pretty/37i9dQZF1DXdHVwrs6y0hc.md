@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,686 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,813 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 49 | [Sweet Ballyvaughaan \- Live](https://open.spotify.com/track/4b56EXwD6FWO2MtyHmKB4W) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Sean Tyrrell Live at Greenes](https://open.spotify.com/album/7hwixTHLIB7E0xkw3n3lUV) | 4:08 |
 | 50 | [The Flower of Finea](https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 5:42 |
 
-Snapshot ID: `MTYzNDg5NTEwNiwwMDAwMDAwMDcxODZlOWQ0OTc2NWE1NWFiOTM2MTEwNmNlYTI1ZWMx`
+Snapshot ID: `MTYzNDg5NTEwNiwwMDAwMDAwMDMwNzBhNDk0ODZkNTViYTU0NmU3Mjc4ZGVjN2NlYjMx`

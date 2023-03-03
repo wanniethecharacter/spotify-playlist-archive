@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 
 > All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO\-Ls!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,020 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,185 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 | 99 | [Made In You](https://open.spotify.com/track/30NvzcboJe3GQRIDkJM0k3) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:30 |
 | 100 | [You](https://open.spotify.com/track/4r3k2iBOPJZHqnmkOFMJEv) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [You](https://open.spotify.com/album/0WxVZ3hfD1LKSIkbOriLGi) | 5:06 |
 
-Snapshot ID: `MTYyNzMwNTkwOCwwMDAwMDAwMDFkOWRjNTU5NjAyY2JhYzk0OTY2ZWE1NTA1MTJkYmM5`
+Snapshot ID: `MTYyNzMwNTkwOCwwMDAwMDAwMGJiMWQ3NzQ0NzE3MTYyMGIxODJkOWU4ZWYyYjA5NjEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,565 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,627 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 |
 | 100 | [Cold Night in Santa Fe](https://open.spotify.com/track/2n5glWpo7YtVqEWuAk81zK) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [Anchors](https://open.spotify.com/album/6OmFBApGKchao0OzrfxWAP) | 3:22 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDhlNjVmM2Y0NWViZjk2ZGM1MGU2NWI3MTU5Y2VkMzc5`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGJiODM2N2U1YjVkNGQ0YzczZjJhMTg2OTE1YTQxOWYw`

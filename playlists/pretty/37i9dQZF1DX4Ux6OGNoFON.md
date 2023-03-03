@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Dread Mar I
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,390 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,583 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 59 | [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 |
 | 60 | [Llena Mi Vida](https://open.spotify.com/track/1rSDWwJkMrxCChahQDnkfu) | [Bamboo](https://open.spotify.com/artist/4Mp4FOTjHHQlFJki4p1lpZ), [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Llena Mi Vida](https://open.spotify.com/album/7xlXTMCcCDO7aapw0CRd7G) | 4:25 |
 
-Snapshot ID: `MTY1NjY1MTYwMCwwMDAwMDAwMDczMWJmMWMzNjExODVlYTAxZGFkMmE4NmY0ZDUxMjdk`
+Snapshot ID: `MTY1NjY1MTYwMCwwMDAwMDAwMDhkMjc0ZTI4MmY0ZjUzOTI1YjBiNzhmMjA4NGY0MmM3`

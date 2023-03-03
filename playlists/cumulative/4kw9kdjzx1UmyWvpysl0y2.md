@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-421 songs - 1 day 0 hr 43 min
+422 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Falling Apart \- VIP](https://open.spotify.com/track/31mifD96EdMow5Clmci2cN) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Falling Apart \(VIP\)](https://open.spotify.com/album/0qleNFLwuuOTO0XnW8bZD4) | 3:36 | 2022-12-16 |  |
 | [Falling For You](https://open.spotify.com/track/6EW5mHMHEcsL1RSpy1HQ6p) | [Sabai](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [With Løve](https://open.spotify.com/artist/0x0UI85q7lIdGMEZsNH5fm), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Falling For You](https://open.spotify.com/album/4kPYN4m2ALwHLFMAG58cba) | 2:58 | 2021-11-19 | 2022-02-03 |
 | [Falling Off](https://open.spotify.com/track/7GYxHLn7wr35VDBQuwY7Au) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Falling Off](https://open.spotify.com/album/78xun5sbV7gLxfc2bRMz1L) | 3:45 | 2022-08-24 | 2022-11-01 |
-| [Falling Off \- Club Mix](https://open.spotify.com/track/6o98BHCAJs67DTIfhg7ung) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Falling Off \(Club Mix\)](https://open.spotify.com/album/4ZuObWTTTVcwo19TS7Cth9) | 3:19 | 2022-12-03 |  |
+| [Falling Off \- Club Mix](https://open.spotify.com/track/6o98BHCAJs67DTIfhg7ung) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Falling Off \(Club Mix\)](https://open.spotify.com/album/4ZuObWTTTVcwo19TS7Cth9) | 3:19 | 2022-12-03 | 2023-03-03 |
 | [FAR OUT](https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [FAR OUT](https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra) | 3:24 | 2023-02-21 |  |
 | [Feel Again](https://open.spotify.com/track/4kqikvllN5GRPrxf9vQ1SR) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:15 | 2022-11-19 | 2023-02-17 |
 | [feeling](https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [feeling](https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W) | 3:06 | 2022-02-04 | 2022-04-16 |
@@ -180,6 +180,7 @@
 | [Haze](https://open.spotify.com/track/4VjALfCVxHTUB1Te6FEWUY) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Haze](https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ) | 4:36 | 2022-09-28 | 2022-12-01 |
 | [Heartbeat](https://open.spotify.com/track/26g9KhoTTaEG4IM1uTkwZ4) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Heartbeat](https://open.spotify.com/album/5ZP5RXBdCFckiXwXN6tWp8) | 3:13 | 2022-08-30 | 2022-11-03 |
 | [Here For Now](https://open.spotify.com/track/4cU8YjbtwlAFBlPlKBaJ8W) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Here For Now](https://open.spotify.com/album/2imHKzs8s94B6vGL0DTtlf) | 3:49 | 2022-08-11 | 2022-10-25 |
+| [Higher Ground](https://open.spotify.com/track/2adNW24fEA2QaP7uc7pFl7) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Higher Ground \(Part 2\)](https://open.spotify.com/album/5qNseEHrO1JH7H8iDVm3J6) | 3:21 | 2023-03-02 |  |
 | [Higher Peaks](https://open.spotify.com/track/1PpLf7d6YnJ4SyjqmXR5VG) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Higher Peaks](https://open.spotify.com/album/0jGDUCzOBcximXf2HnHfuv) | 5:07 | 2022-06-10 | 2022-08-23 |
 | [Hit My Line](https://open.spotify.com/track/30CCIjlZ9vSb6ZTDwlEUZX) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Hit My Line](https://open.spotify.com/album/1jsCz6z1vazhH54A8z88gS) | 2:35 | 2023-01-31 |  |
 | [Hold Up](https://open.spotify.com/track/2Q0zaBd4u0mwEd7KNppKEf) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Hold Up](https://open.spotify.com/album/0EHxZE2tTIlOXkWuUSpXXJ) | 2:59 | 2022-01-28 | 2022-04-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 > Funk favorites from 2022\. Cover: Cory Henry \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,580 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,579 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 52 | [D.R.E.A.D](https://open.spotify.com/track/3uQjXCAXuSAZIduWjU5mY8) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [D.R.E.A.D](https://open.spotify.com/album/6sy0hfa6qSNN0REHDiHhR5) | 5:47 |
 | 53 | [Africvillean Funk](https://open.spotify.com/track/7HweCGOZ6T0Kh9o64cuusn) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 3:12 |
 | 54 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 |
-| 55 | [Here You Are](https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/5FLfZyi6mP2tvQJjmcSqpL) | 3:08 |
+| 55 | [Here You Are](https://open.spotify.com/track/0ihNcF29gXIVvzknTpuvZl) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/0l4MKvhtXCavnpHgUROcLh) | 3:08 |
 | 56 | [Everything's Gonna Be Alright](https://open.spotify.com/track/1reNWIGSfItCbAhy9cr1nz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Unify](https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5) | 3:33 |
 | 57 | [Bad Weather \- STR4TA Remix \(Radio Edit\)](https://open.spotify.com/track/2jLZjkEclqKAbFefuLfenW) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody), [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Bad Weather](https://open.spotify.com/album/1bwgOsclXAxyvkAoHx8DFk) | 3:31 |
 | 58 | [henny & patron](https://open.spotify.com/track/3TCrLsQPIJIxaZspjrt4RJ) | [Ben Yen](https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ) | [terry coats & hot tub boats](https://open.spotify.com/album/1IimR8Wpa6tIqcqWB7LoCY) | 2:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 74 | [You Not Me \- Remix](https://open.spotify.com/track/6qmZKSHiYJCV09bSToTm3y) | [Baegod](https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [You Not Me \(Remix\)](https://open.spotify.com/album/5nCT2rB99boTMRmYIvky0d) | 2:34 |
 | 75 | [Pepper Dem](https://open.spotify.com/track/3NNozRRUuQnwMb3uASRpj4) | [Nathan Adams](https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9) | [Pepper Dem](https://open.spotify.com/album/2UffSLAJYhM96CBOt5dZtR) | 4:08 |
 
-Snapshot ID: `MTY2OTgxNjAyMCwwMDAwMDAwMDkzODRjZTA5ZWE4OWY0M2RjNTVhZjA0MWQxMDM0ZmY4`
+Snapshot ID: `MTY2OTgxNjAyMCwwMDAwMDAwMDg5NDdkMmFhZTUxOWIyMmRiZGMwMmFiMmVhMzZiMWU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,992 likes - 150 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,218 likes - 150 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 149 | [Khayyam](https://open.spotify.com/track/5XOYEJ3qSGxbZvRQEQVOYn) | [Jugurtha](https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME) | [Khayyam](https://open.spotify.com/album/0hx3o4Hft3utx1kKA9AVcJ) | 11:21 |
 | 150 | [Qalbi](https://open.spotify.com/track/56ZLXYDDmbxtNZ6L8BoPVX) | [Ali Termos](https://open.spotify.com/artist/6KsNWqvgSvCD55lSgiecKK) | [Qalbi](https://open.spotify.com/album/1N729bxBcaOjbUXjgpCILJ) | 6:18 |
 
-Snapshot ID: `MTY3NjU3NzQ2NSwwMDAwMDAwMDRiNjE0YWU3ZDk1MmJmNWNmYjEwZGJiMzk0NjliNDAz`
+Snapshot ID: `MTY3NjU3NzQ2NSwwMDAwMDAwMDgzYmM3MDM0MDNlYzgyZjdiNzJiMGY5Y2JmNTVmNjFj`

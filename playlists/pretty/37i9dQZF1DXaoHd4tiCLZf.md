@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,007 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,272 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 133 | [Ça Y Est](https://open.spotify.com/track/2Gk9JKgMX4fcQR7rWfgHsE) | [Elvett](https://open.spotify.com/artist/4jTcePhvBRxrOONkmpm5WX) | [Ça Y Est](https://open.spotify.com/album/5CHwNsvl8TPWdCeZd2osPS) | 3:34 |
 | 134 | [La ballade](https://open.spotify.com/track/6WiwdXEIHTyniI5FnDmhgK) | [Sleeping](https://open.spotify.com/artist/2VTSpt1qT163pAxTusUf2V) | [La ballade](https://open.spotify.com/album/5xOQone8OVBlwbPC9HO7Ik) | 3:44 |
 | 135 | [Comment tu vas finir](https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Comment tu vas finir](https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz) | 2:29 |
-| 136 | [scared](https://open.spotify.com/track/7q5kKe4RyUFSGlxX0PKXaN) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [scared](https://open.spotify.com/album/2ghWrNy09Smk2if26srIGz) | 4:16 |
+| 136 | [scared](https://open.spotify.com/track/5K3slIpm5CuEOWBbWsCIKA) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [scared](https://open.spotify.com/album/05bTOQaNIDXUtitz6e9m1N) | 4:16 |
 | 137 | [Noir ou blanc](https://open.spotify.com/track/3h2uMfchV3OUUYoOnNRoNb) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Loveni](https://open.spotify.com/artist/3FX25sj0KYV6VNFlMDRZxo) | [Pour de vrai](https://open.spotify.com/album/0hhScQ5Q1Bb9IGD8AGlE3N) | 2:59 |
 | 138 | [Baba Cool](https://open.spotify.com/track/03XS2cQQqVfgsuLU6KIWoo) | [Loui Sixteen](https://open.spotify.com/artist/7t7W4IEufSFVW5BVXaHbeM) | [Baba Cool](https://open.spotify.com/album/4Gfjfd3FyZLRGG3rBnfTjK) | 2:19 |
 | 139 | [Claque\-le](https://open.spotify.com/track/37Mo2cDPygNhsN0HG1igAX) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [Claque\-le \- Single](https://open.spotify.com/album/5oMJ7GTf260JGknzhe8FoG) | 3:33 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MTY3MjQyMjc0NiwwMDAwMDAwMGVhYjU0ZjY5M2ZkMGQ2NWRhNzU1MDA4N2U2YWZhMGE2`
+Snapshot ID: `MTY3MjQyMjc0NiwwMDAwMDAwMDE2NmNjNTc2OTQ4NmRkNDM1MTI5M2FhODY3ZGNmNmE4`

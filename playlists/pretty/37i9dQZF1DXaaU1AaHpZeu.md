@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Mitú.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,406 likes - 59 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,423 likes - 59 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 58 | [Ruta 7](https://open.spotify.com/track/21M3XwoJcEXdLp9cQPJKeK) | [Joven Breakfast](https://open.spotify.com/artist/5kWpJQ4Bvmm1RcibWmx5tT), [Dumelefant](https://open.spotify.com/artist/6Yaka3hMhE4DvmtSgxVgA2), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Ruta 7](https://open.spotify.com/album/19VE49YRECgUsAq0r2HmoT) | 3:28 |
 | 59 | [Ses paraules s'emporta el vent](https://open.spotify.com/track/46ZzM0y5yxxlqlWl6YAdke) | [Socunbohemio](https://open.spotify.com/artist/3Zyph9kkkEfTKaMQrLotUV) | [Ses paraules s'emporta el vent](https://open.spotify.com/album/4KbQI5faiaG1Bzyr04gkDp) | 3:42 |
 
-Snapshot ID: `MTY3NzIxNTUyMCwwMDAwMDAwMDM0ZWQxZDgxOWY5MTFjNTczMzI4MjZjN2YwMzNhYWYx`
+Snapshot ID: `MTY3NzIxNTUyMCwwMDAwMDAwMDE0ODZhY2FjZmZlN2NiNWFmNjIxZDQ5YWE4ZjQ0YTIz`

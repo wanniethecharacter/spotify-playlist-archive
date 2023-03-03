@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! Co\-curated by Robinson for International Women's Day 💚
 
-356 songs - 19 hr 18 min
+357 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [The Limit](https://open.spotify.com/track/7FBwokXPo9nkVPElGPls8x) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [The Limit](https://open.spotify.com/album/54oWSvqgcKAlSsP0DPN6aN) | 2:44 | 2022-03-06 | 2022-05-03 |
 | [The One](https://open.spotify.com/track/33eVOcvtORnJTj5NCqyC4L) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [The One](https://open.spotify.com/album/1iIO7Ft3S5Yq6ZG7mb87qs) | 3:20 | 2022-11-30 |  |
 | [Thing For You](https://open.spotify.com/track/5suy4kzP9HFYs468dPVdRo) | [Zoe A'dore](https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY) | [Thing For You](https://open.spotify.com/album/4ABTbFxYXfuFCXmtjSLgsl) | 3:14 | 2022-10-31 |  |
+| [Things Aren't Nice In Paradise](https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz) | 3:11 | 2023-03-01 |  |
 | [This Enchanted \- Edit](https://open.spotify.com/track/0t0lC8avHPxxf9VqiItfj6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [This Enchanted](https://open.spotify.com/album/5DU1S08aBz1JPVN6Q2hIWj) | 3:07 | 2022-02-03 | 2022-03-02 |
 | [Thoughts From My Bed](https://open.spotify.com/track/5RjF5qxO7SlAT0jMN3LqKs) | [YAHYAH](https://open.spotify.com/artist/0ggYTxkFUAl6DmRMBpxM6w) | [Thoughts From My Bed](https://open.spotify.com/album/1MyvolG2lTa1sJOkhVnoSv) | 2:26 | 2022-09-05 |  |
 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 | 2022-10-02 | 2023-02-01 |

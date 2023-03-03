@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,863 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,909 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 99 | [Furore](https://open.spotify.com/track/2x9GwGubDShXuI7aWGX03J) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Furore](https://open.spotify.com/album/3aPQI4O4pG5anpWcsmMuTS) | 2:56 |
 | 100 | [Guasto D'Amore](https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Guasto D'Amore](https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7) | 3:20 |
 
-Snapshot ID: `MTY3NzUwNDYwOSwwMDAwMDAwMDI2YTBjNzhhOWYwOGQzYzVmMmVhMmEwMjkwNmQzNGYy`
+Snapshot ID: `MTY3NzUwNDYwOSwwMDAwMDAwMDM2MDkyNGEyZTYwMzI1OWIxM2M5YjcwZTEyZGRjN2Rl`

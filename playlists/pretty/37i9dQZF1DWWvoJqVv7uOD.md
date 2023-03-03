@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Tom Grennan
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,484 likes - 82 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,891 likes - 82 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 81 | [Late in the Evening](https://open.spotify.com/track/3Itz6Ki6IPtLDuKvqSbREv) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Late in the Evening](https://open.spotify.com/album/7ErU9FqlFNDm9neZSk3KlP) | 3:33 |
 | 82 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGQ3MGEyM2Y4NTgwN2VkZjhkOGNmNjBiZjdjOWViZTVl`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGRkZWNmZTgwNTkzZTk4MGMzMWFlOTRlNGMwYmMzN2Yw`

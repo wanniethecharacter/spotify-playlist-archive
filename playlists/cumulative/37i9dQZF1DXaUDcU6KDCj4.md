@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ruston Kelly
 
-998 songs - 2 day 13 hr 39 min
+999 songs - 2 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,8 @@
 | [Easy Target](https://open.spotify.com/track/6C3eUX2nv5lZWBPYHZIe9E) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Easy Target](https://open.spotify.com/album/4m73ABi1nqvgxQqtIMY3yS) | 2:40 | 2022-03-25 | 2022-04-29 |
 | [El Mirador](https://open.spotify.com/track/6HQgUBaY6RbmmrXRER8y8E) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [El Mirador](https://open.spotify.com/album/0G9Bc2RYNUkCjUFK4zWKlX) | 3:38 | 2022-02-04 | 2022-04-02 |
 | [Eloise](https://open.spotify.com/track/5iJ0BQYiFqmLaSUEZi1da1) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [Eloise](https://open.spotify.com/album/3nGr1XT7lFIZfrV2hzkkYk) | 3:54 | 2022-09-02 | 2022-11-19 |
-| [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-20 |  |
+| [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-20 | 2023-03-03 |
+| [Emily I'm Sorry](https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:34 | 2023-02-24 |  |
 | [Empty Cups](https://open.spotify.com/track/13XKJvZR056EohASW0HbUr) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Empty Cups](https://open.spotify.com/album/2nhJagJdDu6aTAWZXvFPeu) | 3:58 | 2022-07-15 | 2022-07-29 |
 | [Empty Cups](https://open.spotify.com/track/4Ihis6uekV1faime2CKvb4) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Empty Cups](https://open.spotify.com/album/1EwHagwnHDFAsMnNuKXEQK) | 3:58 | 2022-07-22 | 2022-07-30 |
 | [End Scene](https://open.spotify.com/track/6unRqbvDOqlZMYIb0b2W4R) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [End Scene](https://open.spotify.com/album/41dMiuSKeuRHW6tDBEEb0g) | 6:30 | 2022-11-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "An homage to the iconic label\u2019s 1980s and 1990s roots.",
-  "num_followers": 273693,
+  "num_followers": 273732,
   "original_name": "Hip-Hop Anthems: Def Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ3Nzc4MywwMDAwMDAwMDVlNDA5NWRjYzQ0MDdhNzA3YzRkZDg1NTljYzkwOGU0",
+  "snapshot_id": "MTYzOTQ3Nzc4MywwMDAwMDAwMGMzZDA5OTIzNzczNGRhMDM1MGFlNjkyMGNlOWFlMzkz",
   "tracks": [
     {
       "added_at": "2020-03-04 09:06:11",
@@ -543,18 +543,18 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
+        "name": "Ain't A Damn Thing Changed",
+        "url": "https://open.spotify.com/album/6EI3q6PeLLmPPPlMxKl59h"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "Nice & Smooth",
+          "url": "https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn"
         }
       ],
-      "duration_ms": 302800,
-      "name": "Rebel Without A Pause",
-      "url": "https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN"
+      "duration_ms": 209160,
+      "name": "Hip Hop Junkies",
+      "url": "https://open.spotify.com/track/3KKrZ3adgWcJiJQWFqoDnv"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -619,18 +619,22 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "Ain't A Damn Thing Changed",
-        "url": "https://open.spotify.com/album/6EI3q6PeLLmPPPlMxKl59h"
+        "name": "Best Of 3rd Bass",
+        "url": "https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc"
       },
       "artists": [
         {
-          "name": "Nice & Smooth",
-          "url": "https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn"
+          "name": "3rd Bass",
+          "url": "https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc"
+        },
+        {
+          "name": "Zev Love",
+          "url": "https://open.spotify.com/artist/6ZsabzDRDqFRj6DCRvYRDx"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Hip Hop Junkies",
-      "url": "https://open.spotify.com/track/3KKrZ3adgWcJiJQWFqoDnv"
+      "duration_ms": 229840,
+      "name": "The Gas Face",
+      "url": "https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -667,26 +671,6 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "Best Of 3rd Bass",
-        "url": "https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc"
-      },
-      "artists": [
-        {
-          "name": "3rd Bass",
-          "url": "https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc"
-        },
-        {
-          "name": "Zev Love",
-          "url": "https://open.spotify.com/artist/6ZsabzDRDqFRj6DCRvYRDx"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "The Gas Face",
-      "url": "https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
         "name": "El Nino",
         "url": "https://open.spotify.com/album/1I3hHYnoz7lZsBZN0jZJ1G"
       },
@@ -703,22 +687,6 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "Strictly Business",
-        "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
-      },
-      "artists": [
-        {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        }
-      ],
-      "duration_ms": 285413,
-      "name": "Strictly Business",
-      "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/1i8XHvNdaPXRhoQW0IBycA"
       },
@@ -731,6 +699,22 @@
       "duration_ms": 235466,
       "name": "Stay Real",
       "url": "https://open.spotify.com/track/6jaj4k0LwFLy1q54TXZZpZ"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "Strictly Business",
+        "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "duration_ms": 285413,
+      "name": "Strictly Business",
+      "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -783,6 +767,26 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
+        "name": "Def Jam's Greatest Hits - Hardcore",
+        "url": "https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR"
+      },
+      "artists": [
+        {
+          "name": "Boss",
+          "url": "https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT"
+        },
+        {
+          "name": "Papa Juggy",
+          "url": "https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
         "name": "Out Of Business (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa"
       },
@@ -803,26 +807,6 @@
       "duration_ms": 291133,
       "name": "Headbanger",
       "url": "https://open.spotify.com/track/17GdAx0kHOFNXZiCj8HuOW"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "Def Jam's Greatest Hits - Hardcore",
-        "url": "https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR"
-      },
-      "artists": [
-        {
-          "name": "Boss",
-          "url": "https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT"
-        },
-        {
-          "name": "Papa Juggy",
-          "url": "https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -855,6 +839,22 @@
       "duration_ms": 319360,
       "name": "Don't Believe The Hype",
       "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     }
   ],
   "unique_name": "Hip-Hop Anthems: Def Jam",

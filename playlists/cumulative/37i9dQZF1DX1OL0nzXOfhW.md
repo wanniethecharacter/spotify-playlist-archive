@@ -4,7 +4,7 @@
 
 > 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: moon tang
 
-80 songs - 4 hr 42 min
+82 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [FreeRider](https://open.spotify.com/track/1JKg8ZhDLC3GDBqTGLfoAI) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [FreeRider](https://open.spotify.com/album/5VHmrHGQOVgx9pOqPo9UWJ) | 3:34 | 2022-05-26 |  |
 | [Get Lost](https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [Get Lost](https://open.spotify.com/album/0xie7ofeyXxvtFqPgvnSIv) | 3:06 | 2022-05-26 |  |
 | [GIGGLE](https://open.spotify.com/track/6i64lLGBXrXxkJ5y5yUiFC) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [GIGGLE](https://open.spotify.com/album/2D0xcHpatH08bxmjLzi8aq) | 2:48 | 2022-05-26 |  |
+| [gömböc](https://open.spotify.com/track/3BzCye7qSkPzUvjITcgR6Y) | [hirsk](https://open.spotify.com/artist/1WxYe59SGsEY1e6fLII0hB), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [gömböc](https://open.spotify.com/album/3ynKmPgPzFzTT8krlAXBen) | 2:29 | 2023-03-02 |  |
 | [Heliophilia](https://open.spotify.com/track/5sdHAHheWG3yawGgHaiJK8) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Andy Schaub](https://open.spotify.com/artist/5KZ7KYFN2V4fl7RHr7oH0S) | [Heliophilia](https://open.spotify.com/album/7cfWi1DBMfXFsRhCKLVRI5) | 3:09 | 2022-11-10 |  |
 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 | 2022-05-26 |  |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-05-26 | 2022-06-24 |
@@ -47,6 +48,7 @@
 | [saturday night](https://open.spotify.com/track/6jl35iYUR4IMQ96o8aWSy2) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [saturday night](https://open.spotify.com/album/3skcQqVKnlKiG4TGqrQVin) | 2:55 | 2022-08-18 |  |
 | [Someday My Prince Will Come](https://open.spotify.com/track/1OWUZvmvabogBms3h8ryXF) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Someday My Prince Will Come](https://open.spotify.com/album/3vj37vVVTW7Fn3V982rq4T) | 4:12 | 2022-05-26 | 2022-10-05 |
 | [Someday My Prince Will Come](https://open.spotify.com/track/66TcAzggm7K6qGrp5e82c3) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 4:12 | 2022-09-15 |  |
+| [Sponsor Me](https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7) | [hisbbuR](https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa) | [Sponsor Me](https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb) | 3:40 | 2023-03-02 |  |
 | [Sway Away](https://open.spotify.com/track/2lZlk0IZvi3ywkOyEDECyM) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [Grow](https://open.spotify.com/album/1et4LPyDPAAdlHhyfydzDH) | 3:26 | 2022-05-26 | 2023-01-20 |
 | [The Bright Side](https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [The Bright Side](https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ) | 4:10 | 2023-01-12 |  |
 | [twentyone](https://open.spotify.com/track/3CuSZNQMOfutttNqxeUunT) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [twentyone](https://open.spotify.com/album/4aSaLC8d1BhE18tLtfLs5c) | 3:31 | 2022-08-18 |  |

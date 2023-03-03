@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,172 likes - 100 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,239 likes - 100 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 40 | [Ande \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 6:42 |
 | 41 | [Autumn Leaves](https://open.spotify.com/track/7sCl2yfvZHChasvpuZ4muh) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Marsalis Standard Time \- Volume I](https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat) | 6:25 |
 | 42 | [Candy](https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Daylight Express](https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN) | 2:25 |
-| 43 | [Migration](https://open.spotify.com/track/5ctycABzd95aWa9tSlYZqP) | [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Cartography](https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP) | 5:41 |
+| 43 | [Migration](https://open.spotify.com/track/5ctycABzd95aWa9tSlYZqP) | [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107) | [Cartography](https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP) | 5:41 |
 | 44 | [Apple House](https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Moving Picture](https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh) | 5:12 |
 | 45 | [What Reason Could I Give](https://open.spotify.com/track/0JRq65dblAmI3REEchAfF8) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Lennart Aberg](https://open.spotify.com/artist/3ZXO6RQeKC6PYzXqi7xe41), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98), [Okay Temiz](https://open.spotify.com/artist/6yajM6C42NTolTtmV0q2cq) | [Dona Nostra](https://open.spotify.com/album/5ld8MkClrbCUoPIud5B80N) | 3:47 |
 | 46 | [Tranquillity \- Remastered 1998](https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93) | [Howard McGhee: Volume 2 / Tal Farlow Quartet](https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Paul's Pal \- Rudy Van Gelder Edition/Digital Remaster/2006](https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Off To The Races \(Remastered\)](https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi) | 7:06 |
 | 100 | [Jacob's Ladder](https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Magnetic](https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98) | 7:59 |
 
-Snapshot ID: `MTY3NzE0ODQ2NywwMDAwMDAwMGM4YTM2ZThlN2I0YTY1MjBjMWI5NzMyYTcwNDExZmNk`
+Snapshot ID: `MTY3NzE0ODQ2NywwMDAwMDAwMGM5MTM3NmFhNmI3MGRhNjEyOTZhZjA2Njk5MmEwMmE0`

@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-123 songs - 7 hr 23 min
+124 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [ただで太った人生](https://open.spotify.com/track/3lYf2H0Vc0wQGj4OBhIRu5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI) | 2:42 | 2022-11-30 | 2022-12-01 |
 | [ため息とコーヒー](https://open.spotify.com/track/48SAdZAFQGySWizWud8JxA) | [Mel](https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2), [A SCHOOOOL](https://open.spotify.com/artist/5OjUQ6Z5H0rWIuOEQNBQb4) | [ため息とコーヒー](https://open.spotify.com/album/4CzTs9BMIvhJTKvqAJGyZD) | 3:44 | 2023-01-31 |  |
 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 | 2022-10-20 | 2023-02-01 |
-| [まだ寝れないでしょ](https://open.spotify.com/track/4O9bVZoyjxzoDqMDJ3qoDV) | [404](https://open.spotify.com/artist/2bLUPXEzgA4BRIZCk2x1Pi) | [まだ寝れないでしょ](https://open.spotify.com/album/1P1MiACMzpEMlzJ6GKivAW) | 3:40 | 2023-02-07 |  |
+| [まだ寝れないでしょ](https://open.spotify.com/track/4O9bVZoyjxzoDqMDJ3qoDV) | [404](https://open.spotify.com/artist/2bLUPXEzgA4BRIZCk2x1Pi) | [まだ寝れないでしょ](https://open.spotify.com/album/1P1MiACMzpEMlzJ6GKivAW) | 3:40 | 2023-02-07 | 2023-03-03 |
 | [もうやだ](https://open.spotify.com/track/6XvwT19TXr53ilA62B44E4) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [もうやだ](https://open.spotify.com/album/4PQz1RHNSNyUlfKPB4Kd37) | 2:45 | 2022-11-15 | 2022-11-25 |
 | [ゆめのなか](https://open.spotify.com/track/53znW6LyTXs7bWTPU7NJ4X) | [Tsuyoshi Kawaguchi](https://open.spotify.com/artist/7DTG1bT8wsJt4i55ZWA6v3), [usushio](https://open.spotify.com/artist/1baUoO8mV7lVVzsEooqzgd), [summersoft](https://open.spotify.com/artist/1up3a5Bs3axT3JPBLLMGQV) | [ゆめのなか](https://open.spotify.com/album/7iKdg4i81g0pD0kWJJYH34) | 4:15 | 2023-01-17 | 2023-02-01 |
 | [ゆらり](https://open.spotify.com/track/1iYhCf64iv0IDFAMrzyMnU) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [ゆらり](https://open.spotify.com/album/6IyVIDV21dBy08woNYXlxa) | 3:31 | 2023-02-21 |  |
@@ -114,6 +114,7 @@
 | [タイムマシーン](https://open.spotify.com/track/6VVdhvbvGJZdm8f2f6ZKYo) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [TIME LEAP](https://open.spotify.com/album/1LSdYXveZ1weRohT3cAW9B) | 3:52 | 2023-01-31 |  |
 | [ネオンライト](https://open.spotify.com/track/781vNvG3W7WiPogwzTXcXN) | [vuefloor](https://open.spotify.com/artist/4ut8eVBaW8x99Ibio3pfVe), [flasstain](https://open.spotify.com/artist/2qFyNfuQKunvAjpdGAF8ds) | [ネオンライト](https://open.spotify.com/album/5J32C1Lw9j23n0VO2YmycW) | 3:52 | 2022-11-23 | 2023-02-01 |
 | [ネオンライトに呼ばれて](https://open.spotify.com/track/5lsAPbv57oSWetUqP8OKq4) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [ネオンライトに呼ばれて](https://open.spotify.com/album/203EvrZNm2ngyllHX7PqHQ) | 3:25 | 2022-11-23 | 2022-11-24 |
+| [光合成](https://open.spotify.com/track/3X32CwdqTR8TTfWwehsZfZ) | [QUMO](https://open.spotify.com/artist/10y7aB4LWIrk6syMVdQdI1) | [光合成](https://open.spotify.com/album/2S70Ij7aq8sm2i7rbkrj6h) | 4:07 | 2023-03-02 |  |
 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-10-20 |  |
 | [夢で逢えたら](https://open.spotify.com/track/3dTszgeHELrjirdYr5cjr1) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [夢で逢えたら](https://open.spotify.com/album/1ULNF5G2B4FJFqPuOJiaCy) | 4:05 | 2023-01-17 |  |
 | [夢にならないように](https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢にならないように](https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV) | 4:28 | 2022-11-23 | 2022-12-14 |

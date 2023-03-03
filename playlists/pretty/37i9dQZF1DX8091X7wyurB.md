@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,422 likes - 80 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,498 likes - 80 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 50 | [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 |
 | 51 | [Yehowah Bɛhwɛ](https://open.spotify.com/track/7G7GIlgSM9eLi84zH9C6Oq) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Yehowah](https://open.spotify.com/album/1HmdkNEK6p2lBsLp5nfqhp) | 5:25 |
 | 52 | [Morning Devotion](https://open.spotify.com/track/5AZ8G1XQM0I20LS61y44Qs) | [Street Church Music](https://open.spotify.com/artist/0IepUFTdh1Oc3P2VgShszv), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Morning Devotion](https://open.spotify.com/album/05u6kpaR8cFKzktUJxk3ds) | 2:07 |
-| 53 | [You Called Me Out](https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Jil Nation](https://open.spotify.com/artist/6K4Uf5CdzDinopn1LWVNkp) | [Aware](https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9) | 2:45 |
+| 53 | [You Called Me Out](https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Aware](https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9) | 2:45 |
 | 54 | [OMG \(feat\. JJ Hairston\)](https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Already Won](https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3) | 4:16 |
 | 55 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 |
 | 56 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 79 | [No Other God](https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [No Other God](https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H) | 7:17 |
 | 80 | [Nhyira](https://open.spotify.com/track/1Xn4HToryYUuIPP1LJa8LQ) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [His Word](https://open.spotify.com/album/7k9GFfqeimzOkgR2nNYXlB) | 4:08 |
 
-Snapshot ID: `MTY3Njg3NTI2OCwwMDAwMDAwMGYzMWVmNDE5MmZmNWM3YWFlYWVhMzhkNDExZTc2NTI3`
+Snapshot ID: `MTY3Njg3NTI2OCwwMDAwMDAwMGFhNzhmNjM2NzczMzYzZTljMTM0NDkxNmQzMzIzNDM0`

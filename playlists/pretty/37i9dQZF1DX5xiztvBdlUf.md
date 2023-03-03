@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,806 likes - 80 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,095 likes - 80 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [I Care For You](https://open.spotify.com/track/5nQ42FeEsRBGZWXHxdeABt) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [I Care For You](https://open.spotify.com/album/5KfE50sk1WBi84grTmZ3VT) | 6:32 |
 | 80 | [Oxygen \- Klangkarussell Remix](https://open.spotify.com/track/5L917TMJ8sIhEsuxQGjwH8) | [SIN](https://open.spotify.com/artist/2i5iThI7dEkgZVYAksSIFJ), [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Oxygen \(Klangkarussell Remix\)](https://open.spotify.com/album/5d8WXhJiQak8tEXBSC2HWX) | 12:19 |
 
-Snapshot ID: `MTY3NjY0NDIwMCwwMDAwMDAwMGQ0YThmYzZmM2ZiYWZhNWE0NjNlNzM5NGZkNTAxMDEz`
+Snapshot ID: `MTY3NjY0NDIwMCwwMDAwMDAwMDJmMTRlN2MxNGFkMzAxMzE3ZGJjMjZlNTc5OGUyZjE2`
