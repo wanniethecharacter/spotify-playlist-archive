@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49669,
+  "num_followers": 49667,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDUwNWY0YmYzNGNmZjMzNTE2MWZkZDUyNDdlNjkyMmYz",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDBlMzhmZjk3YTVmODBmMGE0MDkyODM4NTc1MDczY2Fm",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Gord's Gold",
-        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Early Morning Rain",
-      "url": "https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Recollection",
         "url": "https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 277240,
       "name": "Constant Craving",
       "url": "https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Gord's Gold",
+        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Early Morning Rain",
+      "url": "https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "I'm Your Man",
-        "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 334866,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Greatest Hits Remixed (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5XDjmthwOECD5BczWlBkzA"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 246026,
       "name": "Lay It on the Line",
       "url": "https://open.spotify.com/track/4QwcuKjGjtl5fZe7kDdULV"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "I'm Your Man",
+        "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 334866,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Thin Red Line (Deluxe)",
-        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
-      },
-      "artists": [
-        {
-          "name": "Glass Tiger",
-          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Don't Forget Me (When I'm Gone)",
-      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "The State",
         "url": "https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 210840,
       "name": "Leader of Men",
       "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "The Thin Red Line (Deluxe)",
+        "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
+      },
+      "artists": [
+        {
+          "name": "Glass Tiger",
+          "url": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Don't Forget Me (When I'm Gone)",
+      "url": "https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1083,6 +1083,34 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "A Case of You (Original)",
+        "url": "https://open.spotify.com/album/0YwoCTGvgpe6fYNXHqwx4o"
+      },
+      "artists": [
+        {
+          "name": "enessaresmi",
+          "url": "https://open.spotify.com/artist/5hcdHrCRQ6hYXB2yT5mdpD"
+        },
+        {
+          "name": "Neverever",
+          "url": "https://open.spotify.com/artist/5M3VY7TrFsUHKYCwQdbFTw"
+        },
+        {
+          "name": "Aytow\u00e9n",
+          "url": "https://open.spotify.com/artist/38DFKUlj1mjYr0MYOSxFNW"
+        },
+        {
+          "name": "Sava\u015f\u015f",
+          "url": "https://open.spotify.com/artist/35qcu7CKQicWBv7yTIKrqD"
+        }
+      ],
+      "duration_ms": 264437,
+      "name": "A Case of You - Original",
+      "url": "https://open.spotify.com/track/4hThwlnWP8w8coCt7l56Da"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "We Are the Halluci Nation",
         "url": "https://open.spotify.com/album/2iQBWB6FgiNl1mrzNX7ei4"
       },
@@ -1171,34 +1199,6 @@
       "duration_ms": 293970,
       "name": "Fly At Night (In The Morning We Land)",
       "url": "https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "A Case of You (Original)",
-        "url": "https://open.spotify.com/album/0YwoCTGvgpe6fYNXHqwx4o"
-      },
-      "artists": [
-        {
-          "name": "enessaresmi",
-          "url": "https://open.spotify.com/artist/5hcdHrCRQ6hYXB2yT5mdpD"
-        },
-        {
-          "name": "Neverever",
-          "url": "https://open.spotify.com/artist/5M3VY7TrFsUHKYCwQdbFTw"
-        },
-        {
-          "name": "Aytow\u00e9n",
-          "url": "https://open.spotify.com/artist/38DFKUlj1mjYr0MYOSxFNW"
-        },
-        {
-          "name": "Sava\u015f\u015f",
-          "url": "https://open.spotify.com/artist/35qcu7CKQicWBv7yTIKrqD"
-        }
-      ],
-      "duration_ms": 264437,
-      "name": "A Case of You - Original",
-      "url": "https://open.spotify.com/track/4hThwlnWP8w8coCt7l56Da"
     },
     {
       "added_at": "2022-09-13 21:55:44",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Steve Aoki x Galantis x Hayley Kiyoko
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,731 likes - 79 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,756 likes - 79 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 |
 | 2 | [Sugar](https://open.spotify.com/track/0rHT3KSdQn3JvGPwe5EH2Y) | [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Sugar](https://open.spotify.com/album/31hnvDgjFArB8Xbntl48ou) | 2:42 |
 | 3 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
-| 4 | [Highs And Lows](https://open.spotify.com/track/5ahreMEX9oBKkDlv6pWWlE) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [York](https://open.spotify.com/artist/4UhIysPLETHhmrZpz67YXa) | [Highs And Lows](https://open.spotify.com/album/2yfHta0dmPYSlOvpMhmt3P) | 2:38 |
+| 4 | [Highs And Lows](https://open.spotify.com/track/5ahreMEX9oBKkDlv6pWWlE) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Highs And Lows](https://open.spotify.com/album/2yfHta0dmPYSlOvpMhmt3P) | 2:38 |
 | 5 | [Alone](https://open.spotify.com/track/0GL0Vla2Mhcx9Qibe6e6PN) | [GRHHH](https://open.spotify.com/artist/0Nxi8lK4ujPl9gMviGj7TQ), [SCNDLSM](https://open.spotify.com/artist/2kPSnn2m5TOPBO9GVc4WG7) | [Alone](https://open.spotify.com/album/5QUfXWyrGExVitP6WOpaTH) | 2:11 |
 | 6 | [Here We Go Again](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here We Go Again](https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf) | 2:44 |
 | 7 | [Wussy Man \(Earth Defense Force\)](https://open.spotify.com/track/3m5KLcMsciXjmaqUn5aD8o) | [CHROMANCE](https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp), [Emetsound](https://open.spotify.com/artist/4dKJnc3oBTZWbuNQiQvFLd) | [Wussy Man \(Earth Defense Force\)](https://open.spotify.com/album/3cZKWvXOI2BeWJmJHjAXgK) | 2:14 |

@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2035555,
+  "num_followers": 2035857,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTMxNjYsM2U2ODYyNzYzNGNiNDY2YzVjMTQwNzhlYjgzM2YyNjFiMjFhZTlmMw==",
+  "snapshot_id": "MTMxODksZGFmNmE4Yzk0ZGQzYzUxMjdkYjZlNjY4MDlhYjI5ZWY5YWJjYjYyOQ==",
   "tracks": [
     {
       "added_at": "2023-02-21 05:53:29",
@@ -257,24 +257,28 @@
       "url": "https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG"
     },
     {
-      "added_at": "2023-02-21 05:53:29",
+      "added_at": "2023-03-03 06:37:19",
       "album": {
-        "name": "Joytime",
-        "url": "https://open.spotify.com/album/6opKASPALOkPwCfHvqIS9H"
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/3PbKTYH2g4or5eeizzwOQ4"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
         },
         {
-          "name": "Omar LinX",
-          "url": "https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6"
+          "name": "Biometrix",
+          "url": "https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
         }
       ],
-      "duration_ms": 243380,
-      "name": "Keep It Mello (feat. Omar LinX)",
-      "url": "https://open.spotify.com/track/0Q3SC6kEhxYagDP3bFe5K9"
+      "duration_ms": 182250,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/1VRgvtnfkkjgPw9a48KMiT"
     },
     {
       "added_at": "2023-02-21 05:53:29",
@@ -299,6 +303,26 @@
     {
       "added_at": "2023-02-21 05:53:29",
       "album": {
+        "name": "Joytime",
+        "url": "https://open.spotify.com/album/6opKASPALOkPwCfHvqIS9H"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Omar LinX",
+          "url": "https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6"
+        }
+      ],
+      "duration_ms": 243380,
+      "name": "Keep It Mello (feat. Omar LinX)",
+      "url": "https://open.spotify.com/track/0Q3SC6kEhxYagDP3bFe5K9"
+    },
+    {
+      "added_at": "2023-02-21 05:53:29",
+      "album": {
         "name": "High You Are (Remixes)",
         "url": "https://open.spotify.com/album/0h2G6kf2j9OoqdvS2fcwr8"
       },
@@ -315,6 +339,22 @@
       "duration_ms": 213340,
       "name": "High You Are (Branchez Remix)",
       "url": "https://open.spotify.com/track/4YIoQqE50AdyG4BQafCi3u"
+    },
+    {
+      "added_at": "2023-03-03 23:24:20",
+      "album": {
+        "name": "Apex",
+        "url": "https://open.spotify.com/album/1c8Jrs7Bl2yzT6CytnKv0A"
+      },
+      "artists": [
+        {
+          "name": "Far Out",
+          "url": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
+        }
+      ],
+      "duration_ms": 206964,
+      "name": "Apex",
+      "url": "https://open.spotify.com/track/1XA70LvTgplYtHMzgB8N3A"
     },
     {
       "added_at": "2023-02-21 05:53:29",
@@ -339,26 +379,6 @@
     {
       "added_at": "2023-02-21 05:53:29",
       "album": {
-        "name": "Borderline (Vanic Remix)",
-        "url": "https://open.spotify.com/album/6ZjNI6my7T7lPW6Ch7zaWS"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        },
-        {
-          "name": "Vanic",
-          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Borderline - Vanic Remix",
-      "url": "https://open.spotify.com/track/3lO38SiB2WAQRqTAHN7WTC"
-    },
-    {
-      "added_at": "2023-02-21 05:53:29",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/4vSsGfJ4fwDkipMDYO5FSa"
       },
@@ -375,6 +395,26 @@
       "duration_ms": 283724,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4OyNDHdIbTavrdQ7mhmDYN"
+    },
+    {
+      "added_at": "2023-02-21 05:53:29",
+      "album": {
+        "name": "Borderline (Vanic Remix)",
+        "url": "https://open.spotify.com/album/6ZjNI6my7T7lPW6Ch7zaWS"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        },
+        {
+          "name": "Vanic",
+          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "Borderline - Vanic Remix",
+      "url": "https://open.spotify.com/track/3lO38SiB2WAQRqTAHN7WTC"
     },
     {
       "added_at": "2023-02-21 05:53:29",
@@ -431,6 +471,26 @@
     {
       "added_at": "2023-02-21 05:53:29",
       "album": {
+        "name": "Ur Perfect I Hate It",
+        "url": "https://open.spotify.com/album/1AqvU3yo33qFbsJt9BSWcU"
+      },
+      "artists": [
+        {
+          "name": "Mickey Valen",
+          "url": "https://open.spotify.com/artist/2tLI4kPsmsxQQv6zr2jbgt"
+        },
+        {
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
+        }
+      ],
+      "duration_ms": 141098,
+      "name": "Ur Perfect I Hate It",
+      "url": "https://open.spotify.com/track/5YNhWD5BXfa3q61afXkcFK"
+    },
+    {
+      "added_at": "2023-02-21 05:53:29",
+      "album": {
         "name": "No Scrubs",
         "url": "https://open.spotify.com/album/0QwNGfGTQ9SOTOgGQXbDM5"
       },
@@ -467,26 +527,6 @@
       "duration_ms": 195706,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
-    },
-    {
-      "added_at": "2023-02-21 05:53:29",
-      "album": {
-        "name": "Ur Perfect I Hate It",
-        "url": "https://open.spotify.com/album/1AqvU3yo33qFbsJt9BSWcU"
-      },
-      "artists": [
-        {
-          "name": "Mickey Valen",
-          "url": "https://open.spotify.com/artist/2tLI4kPsmsxQQv6zr2jbgt"
-        },
-        {
-          "name": "Emilia Ali",
-          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
-        }
-      ],
-      "duration_ms": 141098,
-      "name": "Ur Perfect I Hate It",
-      "url": "https://open.spotify.com/track/5YNhWD5BXfa3q61afXkcFK"
     },
     {
       "added_at": "2023-02-21 05:53:29",
@@ -531,6 +571,22 @@
       "duration_ms": 189973,
       "name": "I'd Love To Change The World - Matstubs Remix",
       "url": "https://open.spotify.com/track/6ce17pZwsMcYNab5IaC5MQ"
+    },
+    {
+      "added_at": "2023-02-21 05:53:29",
+      "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1"
+      },
+      "artists": [
+        {
+          "name": "why mona",
+          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
     },
     {
       "added_at": "2023-02-21 07:08:04",
@@ -583,22 +639,6 @@
     {
       "added_at": "2023-02-21 05:53:29",
       "album": {
-        "name": "Wannabe",
-        "url": "https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1"
-      },
-      "artists": [
-        {
-          "name": "why mona",
-          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
-    },
-    {
-      "added_at": "2023-02-21 05:53:29",
-      "album": {
         "name": "Ashes (Remixes)",
         "url": "https://open.spotify.com/album/2R7PeUrbSseLkirdasHPqg"
       },
@@ -643,6 +683,26 @@
       "duration_ms": 201008,
       "name": "Breath",
       "url": "https://open.spotify.com/track/0lhcqwfMDuurywvxgELbPu"
+    },
+    {
+      "added_at": "2023-03-03 18:06:38",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/5lz36ZYyBeAyHH8tzWPyFQ"
+      },
+      "artists": [
+        {
+          "name": "NIO",
+          "url": "https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+        }
+      ],
+      "duration_ms": 242448,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/5F00YTcguy7LICneJYbI89"
     },
     {
       "added_at": "2023-02-21 05:53:29",
@@ -735,6 +795,26 @@
     {
       "added_at": "2023-02-21 05:53:29",
       "album": {
+        "name": "HUMANS (Far Out Remix)",
+        "url": "https://open.spotify.com/album/6WVhoK20KpEMFEquTlfUOZ"
+      },
+      "artists": [
+        {
+          "name": "KLOUD",
+          "url": "https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu"
+        },
+        {
+          "name": "Far Out",
+          "url": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
+        }
+      ],
+      "duration_ms": 285271,
+      "name": "HUMANS - Far Out Remix",
+      "url": "https://open.spotify.com/track/7FEKwb52OpeVSZxaqUspP1"
+    },
+    {
+      "added_at": "2023-02-21 05:53:29",
+      "album": {
         "name": "Until Dawn",
         "url": "https://open.spotify.com/album/2p26FGa2JA7e9mIhUaxJfW"
       },
@@ -791,26 +871,6 @@
       "duration_ms": 242011,
       "name": "Crawl Outta Love",
       "url": "https://open.spotify.com/track/0q7oMII7kWTj1ZSX6GT6LU"
-    },
-    {
-      "added_at": "2023-02-21 05:53:29",
-      "album": {
-        "name": "HUMANS (Far Out Remix)",
-        "url": "https://open.spotify.com/album/6WVhoK20KpEMFEquTlfUOZ"
-      },
-      "artists": [
-        {
-          "name": "KLOUD",
-          "url": "https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu"
-        },
-        {
-          "name": "Far Out",
-          "url": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
-        }
-      ],
-      "duration_ms": 285271,
-      "name": "HUMANS - Far Out Remix",
-      "url": "https://open.spotify.com/track/7FEKwb52OpeVSZxaqUspP1"
     },
     {
       "added_at": "2023-02-21 05:53:29",
@@ -943,6 +1003,30 @@
     {
       "added_at": "2023-02-21 05:53:29",
       "album": {
+        "name": "Odd Ones Out",
+        "url": "https://open.spotify.com/album/1bGpF4kIfgBtjVATf6YROu"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "duration_ms": 225405,
+      "name": "Odd Ones Out",
+      "url": "https://open.spotify.com/track/1zJCUEHGrb6fDlkbw98CXB"
+    },
+    {
+      "added_at": "2023-02-21 05:53:29",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/47pGAx1Lz91xNIKwUeQBYb"
       },
@@ -991,30 +1075,6 @@
       "duration_ms": 205732,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7IdiMAXXM6PgTQkoAdGycw"
-    },
-    {
-      "added_at": "2023-02-21 05:53:29",
-      "album": {
-        "name": "Odd Ones Out",
-        "url": "https://open.spotify.com/album/1bGpF4kIfgBtjVATf6YROu"
-      },
-      "artists": [
-        {
-          "name": "Last Heroes",
-          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        },
-        {
-          "name": "Dia Frampton",
-          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
-        }
-      ],
-      "duration_ms": 225405,
-      "name": "Odd Ones Out",
-      "url": "https://open.spotify.com/track/1zJCUEHGrb6fDlkbw98CXB"
     },
     {
       "added_at": "2023-02-21 05:53:29",
@@ -1147,6 +1207,30 @@
       "duration_ms": 178461,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1PGjHonPC2r4vHCAfwEof5"
+    },
+    {
+      "added_at": "2023-03-03 23:44:59",
+      "album": {
+        "name": "Threat",
+        "url": "https://open.spotify.com/album/1hZwJAi7VIjqgPAUdVIfPL"
+      },
+      "artists": [
+        {
+          "name": "32Stitches",
+          "url": "https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ"
+        },
+        {
+          "name": "DaWave",
+          "url": "https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu"
+        },
+        {
+          "name": "Blvkstn",
+          "url": "https://open.spotify.com/artist/70hTQzJxZt0JLvFzQVITHe"
+        }
+      ],
+      "duration_ms": 176408,
+      "name": "Threat",
+      "url": "https://open.spotify.com/track/3aVpwI8alwe9eZgtipTO4o"
     },
     {
       "added_at": "2023-02-21 05:53:29",
@@ -1379,6 +1463,22 @@
       "duration_ms": 241714,
       "name": "Your Vibe",
       "url": "https://open.spotify.com/track/4ojKv1aSRbSAgQ8mvl0GVW"
+    },
+    {
+      "added_at": "2023-03-03 23:16:34",
+      "album": {
+        "name": "Fall Out",
+        "url": "https://open.spotify.com/album/74KAYRFP8WXdo7YpzQnhQh"
+      },
+      "artists": [
+        {
+          "name": "Charles Park",
+          "url": "https://open.spotify.com/artist/6OTHAHpQ3Ixxl4gNRFWku9"
+        }
+      ],
+      "duration_ms": 238564,
+      "name": "Fall Out",
+      "url": "https://open.spotify.com/track/7wtkom72nXua4AfEJzE2Tv"
     },
     {
       "added_at": "2023-02-21 05:53:29",

@@ -18453,6 +18453,28 @@
     },
     {
       "album": {
+        "name": "No Words",
+        "url": "https://open.spotify.com/album/27iuFlJawNgWcNsK3WGUzb"
+      },
+      "artists": [
+        {
+          "name": "Pale Blue",
+          "url": "https://open.spotify.com/artist/5qYbA0I1qwOI3jchiZukHr"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428547,
+      "name": "No Words - DJ Tennis Remix",
+      "url": "https://open.spotify.com/track/04u3tew2BvVix4AvCJCzh9"
+    },
+    {
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/3I1u5KOFTAfyyRsNQdayxo"
       },
@@ -19226,6 +19248,24 @@
       "duration_ms": 360000,
       "name": "Opera Hymn 118 Hz",
       "url": "https://open.spotify.com/track/1ws46CDC4J0XFZeHaDwsVo"
+    },
+    {
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/74xjlw51DHF1o3Mu9VaYjJ"
+      },
+      "artists": [
+        {
+          "name": "Ilija Djokovic",
+          "url": "https://open.spotify.com/artist/58fmi15nN6S2nqZLRRtdtc"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358548,
+      "name": "Origin",
+      "url": "https://open.spotify.com/track/4f2yhIa1dkmF5nal7DbbfK"
     },
     {
       "album": {
@@ -21696,6 +21736,24 @@
       "duration_ms": 248538,
       "name": "Riffs of the Night",
       "url": "https://open.spotify.com/track/16Q23rwqIqNUoVsm062KGp"
+    },
+    {
+      "album": {
+        "name": "Rise Of The 2nd Sun",
+        "url": "https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425927,
+      "name": "Rise Of The 2nd Sun",
+      "url": "https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5"
     },
     {
       "album": {

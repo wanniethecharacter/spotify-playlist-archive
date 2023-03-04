@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: AnnenMayKantereit
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,360 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,658 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [genug](https://open.spotify.com/track/6yYqmnTk6kCYUNNexHzRJ0) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [genug](https://open.spotify.com/album/07dyzBlmJNUTo2lneNuriJ) | 3:42 |
 | 75 | [Pornos im Bett](https://open.spotify.com/track/178BthjruJHLNQ5CxIrThx) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Pornos im Bett](https://open.spotify.com/album/2weTrhDqRtdQODZ6z4bDVd) | 3:47 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDk2NzM2Y2I4MDBiOTkxZDY1MTFjYWIxNmI3NTJkZWQ3`
+Snapshot ID: `MTY3Nzg1MzQ0MSwwMDAwMDAwMGMwMGQyZTFhYzczOWZjMDY5ZGM4NDhlYzFlYTNmMWFj`

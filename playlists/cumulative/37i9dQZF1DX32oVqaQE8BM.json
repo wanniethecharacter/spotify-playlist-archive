@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "afternoon fusion",
+        "url": "https://open.spotify.com/album/0psUW4Xb7xlFgZOArXsjwA"
+      },
+      "artists": [
+        {
+          "name": "Elton Baptiste",
+          "url": "https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "afternoon fusion",
+      "url": "https://open.spotify.com/track/1rg9zi8x6siDbqLLK2akbQ"
+    },
+    {
+      "album": {
         "name": "Akimbo",
         "url": "https://open.spotify.com/album/1mF2gGcctnOgfYay0VOJcb"
       },
@@ -4222,7 +4240,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 196214,
       "name": "Levitation",
       "url": "https://open.spotify.com/track/6DZNRRRYdh8GGMFCWGQph2"
@@ -5408,6 +5426,24 @@
       "duration_ms": 134662,
       "name": "Night Bloom",
       "url": "https://open.spotify.com/track/3on8oXhnggDUYrReqwSUlp"
+    },
+    {
+      "album": {
+        "name": "night light",
+        "url": "https://open.spotify.com/album/42jd72Z4gHKM4vjSMsZiwG"
+      },
+      "artists": [
+        {
+          "name": "Wishard",
+          "url": "https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "night light",
+      "url": "https://open.spotify.com/track/4IRtFGXzilIGH7dsV7rCXx"
     },
     {
       "album": {
@@ -7116,6 +7152,24 @@
       "duration_ms": 133333,
       "name": "sky high",
       "url": "https://open.spotify.com/track/6wcFYD2L2LCagM2i8qpRYs"
+    },
+    {
+      "album": {
+        "name": "New Wave, New Beginning",
+        "url": "https://open.spotify.com/album/4T0wBoDPvo3KMDBapMhTze"
+      },
+      "artists": [
+        {
+          "name": "Flying Demond",
+          "url": "https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108750,
+      "name": "Sky Pirates",
+      "url": "https://open.spotify.com/track/5jkp7nlwh7pMZULvrjR1ik"
     },
     {
       "album": {

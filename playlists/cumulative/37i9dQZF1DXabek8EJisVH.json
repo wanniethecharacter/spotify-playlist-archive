@@ -1085,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Light Of The Soul",
+        "url": "https://open.spotify.com/album/2dgdX5c1bwMvsBnimSCF0W"
+      },
+      "artists": [
+        {
+          "name": "The Sky",
+          "url": "https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70154,
+      "name": "Light Of The Soul",
+      "url": "https://open.spotify.com/track/4tGHegnuZnASI3Erc5dD4I"
+    },
+    {
+      "album": {
         "name": "Handpan Sine Waves",
         "url": "https://open.spotify.com/album/6SOToxXTm65n5Gu34cdI8V"
       },

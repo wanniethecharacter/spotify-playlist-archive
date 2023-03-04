@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Ruston Kelly",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Jana Horn",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 170235,
       "name": "After All This Time",
       "url": "https://open.spotify.com/track/6pHL3CLFfkXqYGJZBk4l2c"
@@ -880,10 +880,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib"
     },
     {
       "album": {
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 231506,
       "name": "Beelining",
       "url": "https://open.spotify.com/track/7nPF6i5kqtbV0qa3uiS5tt"
@@ -1794,6 +1812,28 @@
       "duration_ms": 184853,
       "name": "bike again",
       "url": "https://open.spotify.com/track/2D7pGG31lR1WNjPY4x8gEY"
+    },
+    {
+      "album": {
+        "name": "Birds Go Die Out Of Sight (Don\u2019t Go Home)",
+        "url": "https://open.spotify.com/album/6q96GD9tH8GoiSO3dN1Mc0"
+      },
+      "artists": [
+        {
+          "name": "Peter One",
+          "url": "https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257053,
+      "name": "Birds Go Die Out Of Sight (Don't Go Home) (feat. Allison Russell)",
+      "url": "https://open.spotify.com/track/2ifZiKf2QSQV4yQQzUdyUo"
     },
     {
       "album": {
@@ -2130,7 +2170,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 167832,
       "name": "Boone",
       "url": "https://open.spotify.com/track/51f7zfTF0TggcBQJ95GZVe"
@@ -2542,6 +2582,32 @@
       "duration_ms": 196126,
       "name": "California",
       "url": "https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR"
+    },
+    {
+      "album": {
+        "name": "Can't Be By Myself",
+        "url": "https://open.spotify.com/album/6GGqDtR8l4sebnwl7Zcqdj"
+      },
+      "artists": [
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+        },
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        },
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175613,
+      "name": "Can't Be By Myself",
+      "url": "https://open.spotify.com/track/30d5RsO6WvseuBB1UXQGM4"
     },
     {
       "album": {
@@ -4468,7 +4534,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 191993,
       "name": "Evergreen (feat. Molly Tuttle)",
       "url": "https://open.spotify.com/track/4yeP2L2pTnzdnNMtjtPoJi"
@@ -8105,6 +8171,24 @@
     },
     {
       "album": {
+        "name": "Thank You June",
+        "url": "https://open.spotify.com/album/7xayQ7N37S3FCXf4aVLcpR"
+      },
+      "artists": [
+        {
+          "name": "Phillip LaRue",
+          "url": "https://open.spotify.com/artist/7gIDHAJ0iFOGSMTiqsNUZT"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/10mihG4l7slaYYQ9Oj0QuB"
+    },
+    {
+      "album": {
         "name": "Inhaling",
         "url": "https://open.spotify.com/album/3S2PGDWukcO6Ub9H30nFNq"
       },
@@ -8664,7 +8748,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 241860,
       "name": "Laramee",
       "url": "https://open.spotify.com/track/0Ho55XknDOdL8IK2ghGjB2"
@@ -9116,6 +9200,24 @@
       "duration_ms": 210731,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/5WeN3qxBYxzmTLDhXxa1Ib"
+    },
+    {
+      "album": {
+        "name": "Like a Brother",
+        "url": "https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "Like a Brother",
+      "url": "https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU"
     },
     {
       "album": {
@@ -9624,7 +9726,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 169466,
       "name": "Love You Now",
       "url": "https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD"
@@ -10029,6 +10131,24 @@
     },
     {
       "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/7Mbkfj2MnH1b59PuRqytnM"
+      },
+      "artists": [
+        {
+          "name": "Anna Bates",
+          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121763,
+      "name": "Michael",
+      "url": "https://open.spotify.com/track/5znbUew2INRRfP85hJwMaT"
+    },
+    {
+      "album": {
         "name": "Monoflora",
         "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
       },
@@ -10322,7 +10442,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 301104,
       "name": "My Argentina",
       "url": "https://open.spotify.com/track/5thEuYF5DJK0KPk3eFUVXe"
@@ -11309,6 +11429,24 @@
     },
     {
       "album": {
+        "name": "one more",
+        "url": "https://open.spotify.com/album/4PmUFaFkjEDpnxJBFca7ua"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223095,
+      "name": "one more",
+      "url": "https://open.spotify.com/track/6ls5CB8bM1iXIwsOVjwYwN"
+    },
+    {
+      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
@@ -11468,7 +11606,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 227792,
       "name": "Out of Line",
       "url": "https://open.spotify.com/track/5qtWtxi3eBtxof0bbnbHvl"
@@ -13551,6 +13689,24 @@
     },
     {
       "album": {
+        "name": "Mo Lowda & the Humble",
+        "url": "https://open.spotify.com/album/4qyQfforE8s0Vy1iBHEwuq"
+      },
+      "artists": [
+        {
+          "name": "Mo Lowda & the Humble",
+          "url": "https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "Shenandoah",
+      "url": "https://open.spotify.com/track/0xdBts7Sz03w77g9sCmKzo"
+    },
+    {
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/7lqGzEhPHDWg3B24gDavWd"
       },
@@ -14000,7 +14156,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 216098,
       "name": "Song for No One",
       "url": "https://open.spotify.com/track/4kcsFSmFyzga8vopTqLKpK"
@@ -15265,6 +15421,24 @@
     },
     {
       "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/1YaZ7V974D5KoARkbFUWYI"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277084,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/3HgIuUrS5KQdbrRBWhyXCJ"
+    },
+    {
+      "album": {
         "name": "The Jacket",
         "url": "https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a"
       },
@@ -15468,7 +15642,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 395506,
       "name": "The Interest Of Time",
       "url": "https://open.spotify.com/track/6Ou5sczB2s4TB8DS9SC6KH"
@@ -16041,6 +16215,24 @@
     },
     {
       "album": {
+        "name": "This Far South",
+        "url": "https://open.spotify.com/album/6jOU3mwT8bJD6YVCWFRce9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Prine",
+          "url": "https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "This Far South",
+      "url": "https://open.spotify.com/track/1BM4gkXiSUErxCHrrnzlFU"
+    },
+    {
+      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/1OKW5mdYIJ2gqDMIHCzpRE"
       },
@@ -16186,6 +16378,24 @@
       "duration_ms": 293120,
       "name": "Throw the First Punch",
       "url": "https://open.spotify.com/track/3ldOIXhPIa1SLaeA2xKE0M"
+    },
+    {
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/6xgRWh88KbRnp2E3nzcCQD"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218173,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1t0k03T37lLIGo3THvV0hF"
     },
     {
       "album": {
@@ -16680,6 +16890,24 @@
       "duration_ms": 317838,
       "name": "Twin",
       "url": "https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu"
+    },
+    {
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232848,
+      "name": "Two Against Three",
+      "url": "https://open.spotify.com/track/40SQcnUa05M7AdEFyBtUKs"
     },
     {
       "album": {
@@ -17884,7 +18112,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 266803,
       "name": "Who Knows Where the Time Goes",
       "url": "https://open.spotify.com/track/6xrZRS55yzDaQclNPxwiJI"

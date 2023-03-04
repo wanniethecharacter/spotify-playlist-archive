@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 
 > Cool beats for homework time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,805 likes - 148 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,809 likes - 148 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 27 | [odd bob](https://open.spotify.com/track/4INF4AAXXTFJooaSr9PZep) | [Embassay](https://open.spotify.com/artist/7inQZsZhHZBxBN9CGZ3YXt) | [odd bob](https://open.spotify.com/album/7rTkxxIb1FPCBHwz4u0hkz) | 1:30 |
 | 28 | [Candlestick Oasis](https://open.spotify.com/track/4dN47mXIJJOj4b7qRJ1zQf) | [Convoy Gold](https://open.spotify.com/artist/5ZEKAN1x3N50gFfs6VXTXC) | [Under the Leaden Sky](https://open.spotify.com/album/0f8gMNOxgUraGCPFeuWzFm) | 3:14 |
 | 29 | [Hong Kong Minute](https://open.spotify.com/track/3M0fRULm8Js8oHwiO9Cjod) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Hong Kong Minute](https://open.spotify.com/album/3DLhD7vymFXPYWscCRM7yW) | 2:17 |
-| 30 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Magn Us](https://open.spotify.com/artist/2YlPD3Lp1lnP0lFU43ApzH) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
+| 30 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
 | 31 | [It Was One Look Into Your Eyes](https://open.spotify.com/track/6SzTq1f5TBnJ0RE4QDw52J) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Love Letters to O](https://open.spotify.com/album/0dqq6Rhr6HDGozqx1EVxVC) | 2:54 |
 | 32 | [allcity](https://open.spotify.com/track/1Db4Qa67eYC7MxnCqFvRQj) | [sonolon](https://open.spotify.com/artist/1y3NpCoVmVh5gLL0uGKv5t) | [graffiti tape](https://open.spotify.com/album/0KIocgWQakNy8op2OkUz2V) | 1:49 |
 | 33 | [Family](https://open.spotify.com/track/62FZ5BVFbxuUF58FKWrRTo) | [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Kyla Moscovich](https://open.spotify.com/artist/4eo125E0BMCS4qi3xB4pTd) | [Family](https://open.spotify.com/album/5iYzJvoc8wvClT7PvwXoOb) | 2:25 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 64 | [Chasing Clouds](https://open.spotify.com/track/1BzbkoI0867xFsfy1tBwFm) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Tour Bus](https://open.spotify.com/album/3c4bZOR7st6OBpOVvyT4n0) | 2:54 |
 | 65 | [No Problem Too Small](https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [No Problem Too Small](https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d) | 2:02 |
 | 66 | [Autumn Vibes](https://open.spotify.com/track/4CunTnc7wI2RxR5umvdqXV) | [HideMySoul](https://open.spotify.com/artist/2TFpGtkngq3kwQEoSA8SV1) | [Autumn Vibes](https://open.spotify.com/album/4DhQxtCE9yexFIWBy586Am) | 2:17 |
-| 67 | [ways of lofi](https://open.spotify.com/track/3JH9aeScyGeXQxvwOJvwGk) | [trainer](https://open.spotify.com/artist/3VVx8RffIbZieWTsYgDDuD) | [soho polylines](https://open.spotify.com/album/36XaNzLiyDLutAOhW4vGcT) | 2:00 |
+| 67 | [ways of lofi](https://open.spotify.com/track/3JH9aeScyGeXQxvwOJvwGk) | [Astakon](https://open.spotify.com/artist/50Bv1IHX3VuLtfplLreuov) | [soho polylines](https://open.spotify.com/album/36XaNzLiyDLutAOhW4vGcT) | 2:00 |
 | 68 | [Virtual Garden](https://open.spotify.com/track/0Ud98dzrNyQXdrb1yUOftZ) | [Michael Danny](https://open.spotify.com/artist/5lpdJ3wNP63XGxuoa7HkMS) | [Virtual Garden](https://open.spotify.com/album/4cIcymcs6ZMb9K1RxBvjee) | 2:01 |
 | 69 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 |
 | 70 | [Superfly](https://open.spotify.com/track/6jT11modKRcuxt9pmvAzy2) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Superfly](https://open.spotify.com/album/4jqthv8J5DGQ40yFC2zNjF) | 1:51 |

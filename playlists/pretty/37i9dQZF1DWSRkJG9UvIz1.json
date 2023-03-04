@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 121828,
+  "num_followers": 121868,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGY2ZGYwNjk5MjI3MDM0YjExYjNkMzc0Njc4NDRjMGVi",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGZjZWM0N2U3NDFmMmEwNDE2OTUyZGFkYTNmYzRkMjgw",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Summertime Magic",
-      "url": "https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "O Tempo \u00c9 Agora",
         "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 220566,
       "name": "Ai, Amor",
       "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Summertime Magic",
+      "url": "https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Qualquer Coisa",
-        "url": "https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 302333,
-      "name": "For No One",
-      "url": "https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Para Dias Ruins",
         "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Condom Black",
-        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
+        "name": "Qualquer Coisa",
+        "url": "https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI"
       },
       "artists": [
         {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 342160,
-      "name": "Dias de Janeiro",
-      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
+      "duration_ms": 302333,
+      "name": "For No One",
+      "url": "https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -635,6 +619,22 @@
       "duration_ms": 145609,
       "name": "Juice of Mandarins",
       "url": "https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Condom Black",
+        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
+      },
+      "artists": [
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Dias de Janeiro",
+      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Para\u00edso da Miragem",
+        "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
+      },
+      "artists": [
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        }
+      ],
+      "duration_ms": 128438,
+      "name": "Areia",
+      "url": "https://open.spotify.com/track/4VZCV9TBVfxEAKiiimCvFa"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/22ltKhPdKZ4IuFrna73xPG"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 249000,
       "name": "Quem Tem Um Amigo (Tem Tudo)",
       "url": "https://open.spotify.com/track/5F3mu5GTHwGSCRey0b6TBS"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Para\u00edso da Miragem",
-        "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
-      },
-      "artists": [
-        {
-          "name": "Russo Passapusso",
-          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
-        }
-      ],
-      "duration_ms": 128438,
-      "name": "Areia",
-      "url": "https://open.spotify.com/track/4VZCV9TBVfxEAKiiimCvFa"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Rio de Janeiro",
-        "url": "https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu"
-      },
-      "artists": [
-        {
-          "name": "josefe",
-          "url": "https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Rio de Janeiro",
-      "url": "https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Rio de Janeiro",
+        "url": "https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu"
+      },
+      "artists": [
+        {
+          "name": "josefe",
+          "url": "https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Rio de Janeiro",
+      "url": "https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt"
     },
     {
       "added_at": "2022-11-25 03:00:00",

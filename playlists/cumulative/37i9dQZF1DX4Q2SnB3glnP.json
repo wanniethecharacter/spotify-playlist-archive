@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Anew",
+        "url": "https://open.spotify.com/album/6gTK7SLCG5JAxFLKvghEiu"
+      },
+      "artists": [
+        {
+          "name": "Chrastigel",
+          "url": "https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159024,
+      "name": "Anew",
+      "url": "https://open.spotify.com/track/7DfXadtXB3A2viR7L2q5gR"
+    },
+    {
+      "album": {
         "name": "Angalalluarina",
         "url": "https://open.spotify.com/album/0Oi2WtaSEaPXedHjY4bbV2"
       },

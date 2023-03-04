@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 338502,
+  "num_followers": 338558,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDU4YjNhMzM5NjU5YjU2OWEzNjQwOGFhMWY0ZmE1MTUy",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMGMyYWRlZTIxOGQwZWZjZmMxNjI0YjZiYmZjZjdiZTE0",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -199,38 +199,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "Pick Me Up",
-        "url": "https://open.spotify.com/album/6H3AVcVfae5TGgYmCVQnts"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 187103,
-      "name": "Pick Me Up",
-      "url": "https://open.spotify.com/track/5AEy1FpWJXqtwVOelRlZT1"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Everybody Dance",
         "url": "https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD"
       },
@@ -251,6 +219,38 @@
       "duration_ms": 168289,
       "name": "Everybody Dance",
       "url": "https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/6H3AVcVfae5TGgYmCVQnts"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "duration_ms": 187103,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/5AEy1FpWJXqtwVOelRlZT1"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -919,18 +919,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "You Are the Sun",
-        "url": "https://open.spotify.com/album/2uR2gF9PubnLliDouxJ25j"
+        "name": "Living on Video (Claptone Remix)",
+        "url": "https://open.spotify.com/album/1KXL9ctFWXGDPEAPCx5Qbp"
       },
       "artists": [
         {
-          "name": "TEE MANGO",
-          "url": "https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH"
+          "name": "Trans-X",
+          "url": "https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 408889,
-      "name": "You Are the Sun - Sun Up Mix",
-      "url": "https://open.spotify.com/track/4PoTuDwU3SXGsxdxG0fpCO"
+      "duration_ms": 214198,
+      "name": "Living on Video - Claptone Remix",
+      "url": "https://open.spotify.com/track/2c8WUPaH87mh35xf8i0SwG"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -955,22 +959,18 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Living on Video (Claptone Remix)",
-        "url": "https://open.spotify.com/album/1KXL9ctFWXGDPEAPCx5Qbp"
+        "name": "You Are the Sun",
+        "url": "https://open.spotify.com/album/2uR2gF9PubnLliDouxJ25j"
       },
       "artists": [
         {
-          "name": "Trans-X",
-          "url": "https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI"
-        },
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+          "name": "TEE MANGO",
+          "url": "https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH"
         }
       ],
-      "duration_ms": 214198,
-      "name": "Living on Video - Claptone Remix",
-      "url": "https://open.spotify.com/track/2c8WUPaH87mh35xf8i0SwG"
+      "duration_ms": 408889,
+      "name": "You Are the Sun - Sun Up Mix",
+      "url": "https://open.spotify.com/track/4PoTuDwU3SXGsxdxG0fpCO"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ"
+      },
+      "artists": [
+        {
+          "name": "Aevion",
+          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
+        }
+      ],
+      "duration_ms": 250862,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ"
+        "name": "Dead Eyes Opened / This is Love",
+        "url": "https://open.spotify.com/album/20RfCSCLS4VzfvrlKg6zdy"
       },
       "artists": [
         {
-          "name": "Aevion",
-          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
+          "name": "Nick Warren",
+          "url": "https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN"
         }
       ],
-      "duration_ms": 250862,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk"
+      "duration_ms": 236540,
+      "name": "This is Love",
+      "url": "https://open.spotify.com/track/6xU6AmQcrG6kLAAMTG5O60"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1111,22 +1127,6 @@
       "duration_ms": 267187,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "All Along",
-        "url": "https://open.spotify.com/album/7m3BQyRSefzOAxElf6SCnt"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 203425,
-      "name": "All Along",
-      "url": "https://open.spotify.com/track/3RPHlHhb6g0rqcMVwwfxcF"
     }
   ],
   "unique_name": "Groove Theory",

@@ -4,7 +4,7 @@
 
 > Classic Latin tunes to get you in the Christmas spirit\. Cover: José Feliciano
 
-228 songs - 13 hr 32 min
+229 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [El Abeto](https://open.spotify.com/track/6hnoqEcNjIMnl8NzlOnUPI) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Mi Navidad \(Remastered\)](https://open.spotify.com/album/6VmkAKf7malAyzIVdxF3Mx) | 4:17 | 2021-12-17 | 2022-07-29 |
 | [El Año Que Vendrá Querido Amigo](https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Emmanuel Jingle Bell Rocks](https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55) | 5:25 | 2022-12-18 | 2022-12-20 |
 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 | 2022-12-19 |  |
-| [El Burrito De Belen \(El Burrito Sabanero\)](https://open.spotify.com/track/0WeJsUesMV7yXCKkpnteoD) | [La Rondallita](https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor) | [Feliz Navidad: El Burrito de Belen, Feliz Navidad, Triste Navidad, El Cascabel, El Burrito Sabanero, El Nacimiento y Mas](https://open.spotify.com/album/06LZvXxhqZhXri7wQtbTer) | 3:06 | 2022-12-19 |  |
+| [El Burrito de Belen](https://open.spotify.com/track/3Gh2PSlQRYheHIeeNf4OCr) | [La Rondallita](https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor) | [El Burrito de Belén](https://open.spotify.com/album/2Vg95eYQRh5Mg881N8Dk72) | 3:14 | 2022-12-19 |  |
+| [El Burrito De Belen \(El Burrito Sabanero\)](https://open.spotify.com/track/0WeJsUesMV7yXCKkpnteoD) | [La Rondallita](https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor) | [Feliz Navidad: El Burrito de Belen, Feliz Navidad, Triste Navidad, El Cascabel, El Burrito Sabanero, El Nacimiento y Mas](https://open.spotify.com/album/06LZvXxhqZhXri7wQtbTer) | 3:06 | 2022-12-19 | 2023-03-04 |
 | [El Burrito Sabanero](https://open.spotify.com/track/0jxgoC4Cph9ftWZfr6RKWC) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:46 | 2021-12-17 | 2022-12-19 |
 | [El Cuerpo Me Pide](https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Tarjeta De Navidad, VOL\. II](https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75) | 5:00 | 2022-12-19 |  |
 | [El Cuerpo Me Pide](https://open.spotify.com/track/0UhSnbHhpp1BuqxXoFpWH9) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 5:00 | 2021-12-17 | 2022-12-19 |

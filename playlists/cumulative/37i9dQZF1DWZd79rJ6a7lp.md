@@ -4,7 +4,7 @@
 
 > Gentle ambient piano to help you fall asleep.
 
-765 songs - 1 day 14 hr 35 min
+768 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Iridescence](https://open.spotify.com/track/7n9VYCn2kax80iFDnP3owN) | [Melting Sunset](https://open.spotify.com/artist/5D2mFb48KqNyS6BRHtyeTX) | [Iridescence](https://open.spotify.com/album/1fbm4WpZOPS7Ap8egJsv8i) | 3:54 | 2020-10-20\* | 2021-05-04 |
 | [Iridescent](https://open.spotify.com/track/4oFJxQJJJjcEY1jD7H7JsH) | [Lori Dulac](https://open.spotify.com/artist/2DnmwSjyOzafsYaKylL4St) | [Iridescent](https://open.spotify.com/album/3r6Qh29VeZ9SNLuiCcBv9G) | 3:12 | 2020-10-20\* | 2021-03-14 |
 | [Iris](https://open.spotify.com/track/199eFrnapH9EbC0H3YKLGq) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Escape](https://open.spotify.com/album/4pihDS6JH0lIBv4er7yBpm) | 3:42 | 2020-10-20\* | 2021-02-06 |
+| [Isolate](https://open.spotify.com/track/5NWOEqOSCqHebuRMjYEn1i) | [Mystery Ark](https://open.spotify.com/artist/2J2lnOLZ6awcRhTfLGfKzI) | [Aurora](https://open.spotify.com/album/2tI2Wx10jbbxksqJEttROH) | 3:22 | 2023-03-04 |  |
 | [Jupiter Sunrise](https://open.spotify.com/track/1tQKUYjY3h950XByYm0ZAf) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:58 | 2020-10-20\* | 2021-05-04 |
 | [Just In View](https://open.spotify.com/track/5OJoZKBKLoJACasfMrKrCv) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Just In View](https://open.spotify.com/album/4e52GFe6T8POxpBMXqbTG7) | 3:29 | 2022-01-21 |  |
 | [Kalon Senses](https://open.spotify.com/track/4IpQ5t4mDLJ4U4RleDMrs0) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [Kalon Senses](https://open.spotify.com/album/0Lz8iiwECM6TBOCdStDQDY) | 2:49 | 2021-05-04 | 2022-10-01 |
@@ -516,6 +517,7 @@
 | [Profetia](https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Profetia](https://open.spotify.com/album/6iUHb3XJ0K7hxJ4grACdPV) | 2:55 | 2022-06-16 |  |
 | [Profundo Gozo](https://open.spotify.com/track/4nQYz3auP1cTpuvmTrVGkf) | [Hot Hot Springs](https://open.spotify.com/artist/7Mr7UHW0sdgRNuXYpb030K) | [Profundo Amor](https://open.spotify.com/album/4NzOAAKljBEm8GOyZBWYgw) | 2:09 | 2021-09-03 | 2023-02-10 |
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2020-10-20\* | 2021-05-04 |
+| [Protect Your Mind](https://open.spotify.com/track/475L4j7qFaZE0jlcvrsScN) | [Treasures Meditation Flow](https://open.spotify.com/artist/601K9Ks46CQk3kNbZsaOlr) | [Endless Time](https://open.spotify.com/album/4dJ0UwGAVSUK22PK3W3qNg) | 3:14 | 2023-03-04 |  |
 | [Psalm Of Sleep](https://open.spotify.com/track/17Dp0IXJcJoj4s2zuN7x31) | [The Calming](https://open.spotify.com/artist/1MyGOa9AuDmi82QJU0RPc9) | [Psalm Of Sleep](https://open.spotify.com/album/0jqWXKofFqGSecXogsxLJ4) | 2:37 | 2022-09-13 |  |
 | [Pulsar Calm](https://open.spotify.com/track/6P4yBCuihd8penjqwrWPqL) | [Leon Baker](https://open.spotify.com/artist/3JQJt6xbvE5sawRz3bgKB0) | [Ovnimoon](https://open.spotify.com/album/0NtzOmiqujYbHomKllzUVg) | 2:58 | 2023-02-09 |  |
 | [Purity](https://open.spotify.com/track/4LRV7mkO2L1yBVhmbDvdqV) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Purity](https://open.spotify.com/album/3dQTx0bJwb9h4la1hgJQbe) | 2:33 | 2020-12-22 | 2022-03-25 |
@@ -676,6 +678,7 @@
 | [The Destination](https://open.spotify.com/track/2mGpfyZuvwQT7qimhly4S1) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Time Traveller](https://open.spotify.com/album/6PqJZZ81yzT16VmqLUST6A) | 4:07 | 2020-10-20\* | 2020-12-12 |
 | [The Fortune](https://open.spotify.com/track/58zhcQ4sAaEMHDgMw3A3mN) | [Dream Thieves](https://open.spotify.com/artist/5yBqFQdWyfcHT3VUQt8Jnr) | [Here or There](https://open.spotify.com/album/2bLd7cymj2Wo7AduPF48sR) | 3:54 | 2020-10-20\* | 2020-12-12 |
 | [The Light](https://open.spotify.com/track/0cJOITxJRoFwuMkP4H6v4O) | [Felix Vidal](https://open.spotify.com/artist/4VyiaHiDw8tZ2RB8gLW51A) | [The Light](https://open.spotify.com/album/4N3mQcawYnSYJPRl1LFPFV) | 2:53 | 2022-11-22 |  |
+| [The New World](https://open.spotify.com/track/0N5NNIaNs3YVhiyt22ZYhG) | [Cardi Mist](https://open.spotify.com/artist/3ddw8VOjGZrR2G6dFCjamb) | [Need Alone TIm](https://open.spotify.com/album/7aSNf0iZiUDbYUs552dVkm) | 3:14 | 2023-03-04 |  |
 | [The Only Me](https://open.spotify.com/track/12C0zlAiXNawkKZcM2vksz) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [The Only Me](https://open.spotify.com/album/18BqgRE1FYyGzLl4CCpx4v) | 3:20 | 2021-08-17 | 2021-09-22 |
 | [The Other Side](https://open.spotify.com/track/7MRwNia7W4TCMUq1X8JbAU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [The Other Side](https://open.spotify.com/album/5LUfRAw3B31LKzv9ZXT1tz) | 2:50 | 2021-07-07 |  |
 | [The Sea Of Tranquility](https://open.spotify.com/track/1xSShAVCtaLdetNXE5TcnQ) | [Sleeping Luna](https://open.spotify.com/artist/3qgnBj2gbx4W6sWwyJpkWM) | [The Sea Of Tranquility](https://open.spotify.com/album/62JyAC5h2bYL3GSPY0Iv1W) | 2:53 | 2022-10-15 |  |

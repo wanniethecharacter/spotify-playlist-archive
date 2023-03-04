@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  The Walls Group",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Monica and James Fortune",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -148,6 +148,28 @@
       "duration_ms": 390350,
       "name": "All Things Working",
       "url": "https://open.spotify.com/track/3Lr6aWrd9Hrdv4u4ruifL4"
+    },
+    {
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Anthony Brown",
+          "url": "https://open.spotify.com/artist/1W7DATOf6IUurjV5M5ZWyC"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425334,
+      "name": "All Yours (feat. Anthony Brown)",
+      "url": "https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE"
     },
     {
       "album": {
@@ -1084,6 +1106,24 @@
       "duration_ms": 362346,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
+    },
+    {
+      "album": {
+        "name": "All Things New (Live In Orlando)",
+        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379507,
+      "name": "Get Up - Live",
+      "url": "https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut"
     },
     {
       "album": {
@@ -2322,7 +2362,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 224044,
       "name": "If You Want To",
       "url": "https://open.spotify.com/track/42LQ3GwhHdRgtV4Ah2JrSc"
@@ -2771,6 +2811,28 @@
     },
     {
       "album": {
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2p1cLjD1DfDCrAzoR8qCOh"
+      },
+      "artists": [
+        {
+          "name": "Justin Radford",
+          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
+        },
+        {
+          "name": "UVOP",
+          "url": "https://open.spotify.com/artist/4ikSvK8PtLxf7u0h8qNJhU"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Keep the Faith",
+      "url": "https://open.spotify.com/track/2ouHya3DC2qlOGEKGKw1wN"
+    },
+    {
+      "album": {
         "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
         "url": "https://open.spotify.com/album/4KdsGYinvqc6quBfbTChHz"
       },
@@ -3118,7 +3180,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 335816,
       "name": "Making A Way (feat. Adia)",
       "url": "https://open.spotify.com/track/4GUsJS1Y63xlv8w1C3Y4wq"
@@ -3556,7 +3618,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 284000,
       "name": "Not Forgotten",
       "url": "https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo"
@@ -4917,6 +4979,28 @@
     },
     {
       "album": {
+        "name": "Trusting God",
+        "url": "https://open.spotify.com/album/6JxQ4CIIRe9IVcnLFIhbzO"
+      },
+      "artists": [
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291203,
+      "name": "Trusting God",
+      "url": "https://open.spotify.com/track/2IwAiKFnyflwHLSrElGUTl"
+    },
+    {
+      "album": {
         "name": "Vans X Adidas",
         "url": "https://open.spotify.com/album/0MhbwHcPDPyWzB8JWkNcFe"
       },
@@ -5056,7 +5140,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 415745,
       "name": "Walk By Faith",
       "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"

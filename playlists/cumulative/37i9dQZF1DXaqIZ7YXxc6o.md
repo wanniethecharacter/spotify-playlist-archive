@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Sigala, Caity Baser, Stefflon Don, Mae Muller
 
-397 songs - 21 hr 38 min
+399 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Dance](https://open.spotify.com/track/6RoTXltzoWFsZUBexzxflD) | [RUHI](https://open.spotify.com/artist/0VTSrm0urCHfqi2YvxSnky) | [Dance](https://open.spotify.com/album/6u2rDTCUezSAodzYbNdOjj) | 3:14 | 2022-12-22 | 2023-02-10 |
 | [Dangerous](https://open.spotify.com/track/1vdK5tWvKAfyBbn2HQZEpi) | [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Dangerous](https://open.spotify.com/album/2CsYB5D113fmMjvxBQpowV) | 3:55 | 2022-12-08 | 2022-12-16 |
 | [Deadset 10 \- \(feat\. Manning\)](https://open.spotify.com/track/4khQKeEOy202MjC5z3r1en) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7), [Manning](https://open.spotify.com/artist/1RKaA4DmhRXFTelAvV3Gen) | [Deadset 10 \- \(feat\. Manning\)](https://open.spotify.com/album/6Cl0RPUILQLnWuW3bF1H90) | 3:46 | 2023-03-03 |  |
-| [Designer \(feat\. Joeboy\)](https://open.spotify.com/track/5ePmktvJtEOAkX0ZR9LC6B) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Designer \(feat\. Joeboy\)](https://open.spotify.com/album/1UzuhbZlcJML7eFxvQ3wIY) | 3:19 | 2023-03-03 |  |
+| [Designer](https://open.spotify.com/track/4zM0WZs5xnIoJbYqlSjPQB) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Designer](https://open.spotify.com/album/3axl6saVOjcbY1RZJWB4XQ) | 3:19 | 2023-03-03 |  |
+| [Designer \(feat\. Joeboy\)](https://open.spotify.com/track/5ePmktvJtEOAkX0ZR9LC6B) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Designer \(feat\. Joeboy\)](https://open.spotify.com/album/1UzuhbZlcJML7eFxvQ3wIY) | 3:19 | 2023-03-03 | 2023-03-04 |
 | [Designer Love](https://open.spotify.com/track/7HxMnQqgokBq8ORg7AKHRa) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Designer Love](https://open.spotify.com/album/19mewYhS8cosKSnVJczvYW) | 2:54 | 2023-01-19 | 2023-02-24 |
 | [Diamonds](https://open.spotify.com/track/2qb0FWVqVl2xcTwwHJ3j7G) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Diamonds](https://open.spotify.com/album/5UGFdPpzUdk8PhniLh4SPw) | 2:26 | 2023-01-26 | 2023-02-17 |
 | [Dice](https://open.spotify.com/track/03iws7tQG78lKQRwnHTSqq) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Rachel Leo](https://open.spotify.com/artist/7nvGqdG2C213Fb4ItZyxuQ) | [Dice](https://open.spotify.com/album/1F3Jld5a01v2EUrLqzc1GI) | 3:46 | 2022-12-08 | 2023-01-13 |
@@ -201,6 +202,7 @@
 | [La Danse](https://open.spotify.com/track/0NkOrQXPqhUe7tIfjenEIi) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [La Danse](https://open.spotify.com/album/7A6UFmhuy01DsjNIMckhPl) | 4:08 | 2022-12-15 | 2023-01-20 |
 | [La Vita](https://open.spotify.com/track/2SsldbBNrVOzQJRMbri96H) | [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [ALYSSA](https://open.spotify.com/album/7jemNYxT1TNXSNfGrUXmci) | 3:08 | 2022-12-08 | 2023-01-20 |
 | [Late Night](https://open.spotify.com/track/0jS51EPHRfGzvJVWlgMcoH) | [BOI](https://open.spotify.com/artist/7y73UWza7rolywdtTdYJV4), [Roy Bing](https://open.spotify.com/artist/0x2NoetQIbFwNeM6oCQUx9) | [Late Night](https://open.spotify.com/album/0SUbu9OIrENdfkvZXb6SS6) | 2:40 | 2022-12-08 | 2023-01-13 |
+| [Lavender Haze \- Snakehips Remix](https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 3:07 | 2023-03-03 |  |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-05 | 2023-02-17 |
 | [Leave Me \(TTYL\)](https://open.spotify.com/track/2Ju0ax09mvq9ISyqEBnvO8) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Leave Me \(TTYL\)](https://open.spotify.com/album/6NESbKFGvECRF8VCovWDnd) | 4:22 | 2023-02-23 |  |
 | [Leave Me Like This](https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Leave Me Like This](https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U) | 3:08 | 2023-01-19 | 2023-02-17 |

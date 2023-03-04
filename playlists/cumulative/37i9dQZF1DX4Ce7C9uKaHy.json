@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/3sqRXNbhFBHPTx18HUVwby"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1EYBIeMUH0ZpdlB2iMvVKs"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2QE3VXl4HdXYM1Vl8s7CWP"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/76ypgNi0b7oDbboHzXi2qK"
+    },
+    {
+      "album": {
         "name": "Perspectiva Del Tiempo",
         "url": "https://open.spotify.com/album/3QwpMVWo9v5Z0CnLNBoaPm"
       },
@@ -1221,24 +1257,6 @@
     },
     {
       "album": {
-        "name": "looking through old pictures of us",
-        "url": "https://open.spotify.com/album/2QE3VXl4HdXYM1Vl8s7CWP"
-      },
-      "artists": [
-        {
-          "name": "dankush",
-          "url": "https://open.spotify.com/artist/4zxP5ygXMD6Ycjfi3M8Gkf"
-        }
-      ],
-      "date_added": "2020-05-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 160052,
-      "name": "looking through old pictures of us",
-      "url": "https://open.spotify.com/track/76ypgNi0b7oDbboHzXi2qK"
-    },
-    {
-      "album": {
         "name": "Lux",
         "url": "https://open.spotify.com/album/5P5x5B74JxTD5WOviW26LY"
       },
@@ -1496,24 +1514,6 @@
       "duration_ms": 133929,
       "name": "My Safespace",
       "url": "https://open.spotify.com/track/5WZuLPWvTE39s2KBLQnhAJ"
-    },
-    {
-      "album": {
-        "name": "naked people that don't seem to mind",
-        "url": "https://open.spotify.com/album/3sqRXNbhFBHPTx18HUVwby"
-      },
-      "artists": [
-        {
-          "name": "dankush",
-          "url": "https://open.spotify.com/artist/4zxP5ygXMD6Ycjfi3M8Gkf"
-        }
-      ],
-      "date_added": "2020-05-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128026,
-      "name": "naked people that don't seem to mind",
-      "url": "https://open.spotify.com/track/1EYBIeMUH0ZpdlB2iMvVKs"
     },
     {
       "album": {

@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Hanalei",
+        "url": "https://open.spotify.com/album/6TxB2jHIaxixdSS2WdcCwa"
+      },
+      "artists": [
+        {
+          "name": "Cake",
+          "url": "https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131541,
+      "name": "Hanalei",
+      "url": "https://open.spotify.com/track/4iLZ7Bn8M2VJ9lJbMuzn9k"
+    },
+    {
+      "album": {
         "name": "Happy Days",
         "url": "https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw"
       },
@@ -4144,6 +4162,24 @@
       "duration_ms": 177477,
       "name": "Solo Sailing",
       "url": "https://open.spotify.com/track/3iy9lvEUZ6emxwK6xI1vul"
+    },
+    {
+      "album": {
+        "name": "Someplace Warm",
+        "url": "https://open.spotify.com/album/5gQfYOKAqd5ZaJH6pWYnwO"
+      },
+      "artists": [
+        {
+          "name": "far away mei",
+          "url": "https://open.spotify.com/artist/0Rz28PqFISgH3Tqlw9eQOe"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189884,
+      "name": "Someplace Warm",
+      "url": "https://open.spotify.com/track/1TkynhNEPd1DpqUccZRO95"
     },
     {
       "album": {

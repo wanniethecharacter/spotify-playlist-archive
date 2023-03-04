@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-698 songs - 1 day 16 hr 15 min
+700 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Caribbean Sunset](https://open.spotify.com/track/3ThZpJ81wK2zLDxzmVlyoH) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Caribbean](https://open.spotify.com/album/33DO98yRb2HR3Vz3jAbfSY) | 3:30 | 2022-11-25 | 2023-01-07 |
 | [Cartagena](https://open.spotify.com/track/1x9b72SPoK8jx6aUV6I3bl) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Cartagena](https://open.spotify.com/album/7BtnfmrMiXCwOquM9Anm3h) | 3:36 | 2021-08-20 | 2022-01-22 |
 | [Casablanca](https://open.spotify.com/track/7bScxanaqg2QeiEHqmYgvd) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Casablanca](https://open.spotify.com/album/3QB0w4wTtbJaRk3aS3qqFD) | 3:41 | 2022-12-09 |  |
+| [Catch](https://open.spotify.com/track/0avqD9l3aBJnuMDZMyFPwl) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 4:03 | 2023-03-03 |  |
 | [Catch Up](https://open.spotify.com/track/4wRSpt0ZILCSt8Wxco9l12) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Catch Up](https://open.spotify.com/album/2XPpsANRiPjLCejPEBeLfK) | 2:52 | 2021-10-06 | 2023-02-04 |
 | [Ce n'est pas \(Axel Boman Remix\)](https://open.spotify.com/track/0rUNcOw5EaGaQjYcnlAuST) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 8:34 | 2021-01-27 | 2021-02-19 |
 | [Chasing the Now](https://open.spotify.com/track/63ypmPFNZJXv4SgTtsPdG3) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chasing The Now](https://open.spotify.com/album/4RDnaZuk2ZBBZORVqVdrYT) | 2:27 | 2021-11-08 | 2023-01-07 |
@@ -256,6 +257,7 @@
 | [Guybrush](https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:57 | 2021-08-20 | 2023-02-04 |
 | [Hacienda](https://open.spotify.com/track/7qh8bK1Udbf8gfcjXDy9KX) | [Edinbrgh](https://open.spotify.com/artist/42s3gYCf3gvLSECSxA1ofi) | [Birds Fly High](https://open.spotify.com/album/77fiDE7wtn1HMMBMxuXHyi) | 3:46 | 2022-12-09 |  |
 | [Half Crazy](https://open.spotify.com/track/7aTxeg2uMJmshTOlm9GwiP) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [Half Crazy](https://open.spotify.com/album/2Vqm4tIyaEeET9IMnXHq4s) | 2:49 | 2022-06-24 |  |
+| [Hanalei](https://open.spotify.com/track/4iLZ7Bn8M2VJ9lJbMuzn9k) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Hanalei](https://open.spotify.com/album/6TxB2jHIaxixdSS2WdcCwa) | 2:11 | 2023-03-03 |  |
 | [Hanging Out](https://open.spotify.com/track/5sxk6ElBzgcFqneVR1Uug6) | [Neotronicz](https://open.spotify.com/artist/6LvxEsI0dKlKpN7RHthHOf) | [Hanging Out](https://open.spotify.com/album/1QqzZApC7xi8JtVEGXDMBr) | 2:55 | 2022-04-05 |  |
 | [Haze](https://open.spotify.com/track/3hQkNHdJ3gOFkXhHDG6i0p) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [Circular](https://open.spotify.com/album/5xdc29ZbnPZAEBH74RX8QT) | 9:33 | 2020-11-19 | 2020-12-24 |
 | [He Said I Don't Care](https://open.spotify.com/track/2Eh6U9Kgg324iB9ozprRaX) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [He Said I Don't Care](https://open.spotify.com/album/14AzPtcTUbwo52VElToOoY) | 2:58 | 2022-01-21 | 2022-09-09 |

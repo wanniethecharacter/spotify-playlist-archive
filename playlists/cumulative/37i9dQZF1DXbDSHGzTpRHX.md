@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-176 songs - 9 hr 2 min
+178 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Do Better](https://open.spotify.com/track/3wsFn90RsumyPhbsehCFrT) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Do Better](https://open.spotify.com/album/18grs7Mla9Oztp4PrYP5f7) | 3:33 | 2019-12-10 | 2022-07-29 |
 | [dreamgurl](https://open.spotify.com/track/7l47dRm8jw7NMs0OFoQrrK) | [Besphrenz](https://open.spotify.com/artist/0VVJ5bIx1zXlBLi1GiP4yX), [Keith Goodwin](https://open.spotify.com/artist/3Q1T3DDlR4lY9kqIQsDhMn) | [dreamgurl](https://open.spotify.com/album/5dfy4vYwLnM8RLpV0DpM36) | 2:58 | 2019-12-10 |  |
 | [Dreams](https://open.spotify.com/track/60gPDYEZ9DyV1OuL9YKM0q) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/2LT7lNoWT6svQOEUeSrbyH) | 2:42 | 2019-12-10 | 2022-07-29 |
-| [Dreams](https://open.spotify.com/track/6iCnwfimIzp1CTp06er7Te) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/429Bd8x5qNmBK9z6lyOXr6) | 2:42 | 2019-12-10 |  |
+| [Dreams](https://open.spotify.com/track/6iCnwfimIzp1CTp06er7Te) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/429Bd8x5qNmBK9z6lyOXr6) | 2:42 | 2019-12-10 | 2023-03-04 |
+| [Dreams](https://open.spotify.com/track/7n6hs80v9v1HEfKsD9Y0Na) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa) | 2:42 | 2019-12-10 |  |
 | [dying together](https://open.spotify.com/track/4rT2YF1iXeCemJhhee2pQN) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [dying together](https://open.spotify.com/album/2a4x992loSNgqAdvP1LjOn) | 2:36 | 2019-12-10 |  |
 | [dying together](https://open.spotify.com/track/703SHNf8XtJnM3gtryjyJ6) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [dying together](https://open.spotify.com/album/31MiwOnaumhyDI1MloNrY3) | 2:36 | 2019-12-10 | 2022-12-01 |
 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 | 2019-12-10 |  |
@@ -92,9 +93,10 @@
 | [i don't miss u](https://open.spotify.com/track/5WgdCkTa3l9GznpPQaQH6W) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH) | 2:58 | 2019-12-10 | 2022-10-15 |
 | [i don't think i love you anymore](https://open.spotify.com/track/1saZ5nnaCWBjOK09izEK9c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [i don't think i love you anymore](https://open.spotify.com/album/2LQ2jwXMR5yG9SBfVR6FwG) | 3:49 | 2019-12-10 | 2022-10-13 |
 | [i don't think i love you anymore](https://open.spotify.com/track/43rHcWvKMlLGWMmJFjCk7I) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [i don't think i love you anymore](https://open.spotify.com/album/40o9ndikNL2d6j4w9hJP01) | 3:49 | 2019-12-10 |  |
+| [Icing on the Cake](https://open.spotify.com/track/14Ao5GwSPhlroo0EhAgtRS) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [2nd](https://open.spotify.com/album/2lKNKxM6N6Q1nkKEZw7kkJ) | 1:56 | 2019-12-10 |  |
 | [Icing on the Cake](https://open.spotify.com/track/2Yfk1z6IWQFzczDAt8kr6G) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [2nd](https://open.spotify.com/album/6MECuIrDtZP9R0bVekN6sQ) | 1:56 | 2019-12-10 | 2022-07-29 |
 | [Icing on the Cake](https://open.spotify.com/track/3N4CnZQA8odhd854hHuPce) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Icing on the Cake](https://open.spotify.com/album/0NTSAbg2vworUiqVVMZRqE) | 1:56 | 2019-12-10 | 2022-11-13 |
-| [Icing on the Cake](https://open.spotify.com/track/5vgag6LYnA7LhlUw6u4K5T) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [2nd](https://open.spotify.com/album/1NNr44atY90LWvAcDcwqMU) | 1:56 | 2019-12-10 |  |
+| [Icing on the Cake](https://open.spotify.com/track/5vgag6LYnA7LhlUw6u4K5T) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [2nd](https://open.spotify.com/album/1NNr44atY90LWvAcDcwqMU) | 1:56 | 2019-12-10 | 2023-03-04 |
 | [In My Head](https://open.spotify.com/track/7H5jn1FKEhUGbewLxXNGNE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Hasta La Vista](https://open.spotify.com/album/4orC5HDPd0VTsaWs5vNMtb) | 2:20 | 2019-12-10 |  |
 | [LA Baby](https://open.spotify.com/track/2fxIHzUUhpL3nySKIXDU91) | [Lil Benny](https://open.spotify.com/artist/3V5erRwkViNiYbgKqXjrF0) | [LA Baby](https://open.spotify.com/album/6Lx6LOC6jsqYjkvf7LwptP) | 2:12 | 2019-12-10 |  |
 | [Lavender](https://open.spotify.com/track/2S7ORjggE2JPyamVM7FKio) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Forest Green](https://open.spotify.com/album/6CHVguUQo6SITKthJgkrnT) | 2:18 | 2019-12-10 | 2022-07-29 |

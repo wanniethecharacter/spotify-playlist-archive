@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 183175,
+  "num_followers": 183366,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3OTI5NywwMDAwMDAwMDc0NTY4YTlkZTZiMjgxMjhhMDAyZThkZjFjNDQ2MmJi",
+  "snapshot_id": "MTY3NDA3OTI5NywwMDAwMDAwMGIwYjBkMWNjN2ZiOWRhYjMzMzQ5NmU4NjZhZDZjMmQw",
   "tracks": [
     {
       "added_at": "2023-01-18 22:01:37",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
+        "name": "Daryl Hall & John Oates (The Silver Album)",
+        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 234666,
-      "name": "Daniel",
-      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
+      "duration_ms": 185293,
+      "name": "Sara Smile",
+      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Daryl Hall & John Oates (The Silver Album)",
-        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 185293,
-      "name": "Sara Smile",
-      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
+      "duration_ms": 234666,
+      "name": "Daniel",
+      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Pretzel Logic",
-        "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "Rikki Don't Lose That Number",
-      "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
         "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 450226,
       "name": "Tuesday's Gone",
       "url": "https://open.spotify.com/track/64sn7wgJfeQKY3Jisnl59w"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Pretzel Logic",
+        "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "Rikki Don't Lose That Number",
+      "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Pretzel Logic",
-        "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Any Major Dude Will Tell You",
-      "url": "https://open.spotify.com/track/7BVIm4yj3PQ6MwTPwcjka6"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Jack Rabbit Slim",
         "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
       },
@@ -1023,22 +1007,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Moondance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 272160,
-      "name": "And It Stoned Me - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3n5iUh2Z6P7cnWins22W0F"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Red Rose Speedway",
         "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
       },
@@ -1051,6 +1019,38 @@
       "duration_ms": 247733,
       "name": "My Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Pretzel Logic",
+        "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Any Major Dude Will Tell You",
+      "url": "https://open.spotify.com/track/7BVIm4yj3PQ6MwTPwcjka6"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Moondance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 272160,
+      "name": "And It Stoned Me - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3n5iUh2Z6P7cnWins22W0F"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1135,38 +1135,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Boat On The River",
-      "url": "https://open.spotify.com/track/4o9DSo7c1ICv4CtFWFSmGx"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 456640,
-      "name": "Deacon Blues",
-      "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "McCartney (Archive Collection)",
         "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
       },
@@ -1183,6 +1151,22 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Boat On The River",
+      "url": "https://open.spotify.com/track/4o9DSo7c1ICv4CtFWFSmGx"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
         "name": "Sleeper Catcher (Remastered 2022)",
         "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 289981,
       "name": "Lady - Remastered 2022",
       "url": "https://open.spotify.com/track/23TrwDkYnBPea6i6FPd6Wd"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 456640,
+      "name": "Deacon Blues",
+      "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Till It Shines",
-      "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "All Things Must Pass (50th Anniversary;Super Deluxe)",
         "url": "https://open.spotify.com/album/1HOUPV73m7qwWoYw7m9Y56"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 226866,
       "name": "All Things Must Pass - 2020 Mix",
       "url": "https://open.spotify.com/track/3R02p0Xtd3azbP3HPYgMuy"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Till It Shines",
+      "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 430877,
-      "name": "Isn't It a Pity - 2014 Remaster",
-      "url": "https://open.spotify.com/track/1mBGRVmAV83ahj2HjehcRn"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -1779,22 +1763,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 253426,
-      "name": "Six Blade Knife",
-      "url": "https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -1811,18 +1779,34 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 352413,
-      "name": "Louisiana Rain",
-      "url": "https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF"
+      "duration_ms": 253426,
+      "name": "Six Blade Knife",
+      "url": "https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 430877,
+      "name": "Isn't It a Pity - 2014 Remaster",
+      "url": "https://open.spotify.com/track/1mBGRVmAV83ahj2HjehcRn"
     },
     {
       "added_at": "2023-01-18 22:01:37",
@@ -1843,6 +1827,22 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 352413,
+      "name": "Louisiana Rain",
+      "url": "https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-01-18 22:01:37",
       "album": {
-        "name": "In The Land Of Grey And Pink",
-        "url": "https://open.spotify.com/album/6TWjon4uYsV2wu7QJTuKjd"
-      },
-      "artists": [
-        {
-          "name": "Caravan",
-          "url": "https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s"
-        }
-      ],
-      "duration_ms": 298840,
-      "name": "In The Land Of Grey & Pink",
-      "url": "https://open.spotify.com/track/4Z335bGhpA68s6sq40UDfe"
-    },
-    {
-      "added_at": "2023-01-18 22:01:37",
-      "album": {
         "name": "Back on the Streets",
         "url": "https://open.spotify.com/album/072GbOHxm1ynSabmipURTS"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 200907,
       "name": "Parisienne Walkways",
       "url": "https://open.spotify.com/track/60Kyw7i4M7E2WAlFozsOsR"
+    },
+    {
+      "added_at": "2023-01-18 22:01:37",
+      "album": {
+        "name": "In The Land Of Grey And Pink",
+        "url": "https://open.spotify.com/album/6TWjon4uYsV2wu7QJTuKjd"
+      },
+      "artists": [
+        {
+          "name": "Caravan",
+          "url": "https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s"
+        }
+      ],
+      "duration_ms": 298840,
+      "name": "In The Land Of Grey & Pink",
+      "url": "https://open.spotify.com/track/4Z335bGhpA68s6sq40UDfe"
     },
     {
       "added_at": "2023-01-18 22:01:37",

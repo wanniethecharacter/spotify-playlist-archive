@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。© 堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-79 songs - 4 hr 40 min
+80 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [SKETCH](https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [SKETCH](https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL) | 3:57 | 2022-10-11 |  |
 | [So Classmate Were Born Of Worthy Competition](https://open.spotify.com/track/1ZQVuWynlUWpXDMIxOpZSS) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 5 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/0CpYXuZKc5W4ycbvN6GfNE) | 3:00 | 2022-10-11 | 2022-11-13 |
 | [So Classmate Were Born Of Worthy Competition](https://open.spotify.com/track/5FHjkKMiWyi8Th1Q2CnpxC) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 5 \(Original Series Soundtrack\)](https://open.spotify.com/album/0bLbDW4SwX2LQ0ixPSOPeG) | 3:00 | 2022-10-01 |  |
-| [Sound of the Holidays](https://open.spotify.com/track/5AExoy72vF3LNEpV56tRwZ) | [Jon Underdown](https://open.spotify.com/artist/71fh3uJgmqp4ZK1WVIBJO8) | [My Hero Academia: Season 5 \(Original Series Soundtrack\)](https://open.spotify.com/album/0bLbDW4SwX2LQ0ixPSOPeG) | 1:53 | 2022-10-01 |  |
+| [Sound of the Holidays](https://open.spotify.com/track/5AExoy72vF3LNEpV56tRwZ) | [Jon Underdown](https://open.spotify.com/artist/71fh3uJgmqp4ZK1WVIBJO8) | [My Hero Academia: Season 5 \(Original Series Soundtrack\)](https://open.spotify.com/album/0bLbDW4SwX2LQ0ixPSOPeG) | 1:53 | 2022-10-01 | 2023-03-04 |
+| [Sound of the Holidays \- Instrumental Version](https://open.spotify.com/track/0YeT0pQgLnX69Sbv1EVZah) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 5 \(Original Series Soundtrack\)](https://open.spotify.com/album/0bLbDW4SwX2LQ0ixPSOPeG) | 1:53 | 2023-01-10 |  |
 | [Successor](https://open.spotify.com/track/6toG7Zlnj5102qxgpPaQfO) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 5 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/0CpYXuZKc5W4ycbvN6GfNE) | 3:16 | 2022-10-11 | 2022-11-13 |
 | [Successor](https://open.spotify.com/track/73zYCt8Tglt9YK6yvvWMLe) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 5 \(Original Series Soundtrack\)](https://open.spotify.com/album/0bLbDW4SwX2LQ0ixPSOPeG) | 3:16 | 2022-10-01 |  |
 | [THE DAY](https://open.spotify.com/track/1tjOClAkdMxDfYPO0xvGbG) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [Butterfly Effect](https://open.spotify.com/album/01X3RZ75rwi431u8hB34eK) | 4:01 | 2022-10-01 |  |

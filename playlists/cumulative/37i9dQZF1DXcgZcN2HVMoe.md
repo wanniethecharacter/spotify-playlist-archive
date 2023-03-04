@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-683 songs - 1 day 16 hr 46 min
+684 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Lady Like](https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:26 | 2021-12-17 | 2022-07-24 |
 | [Last Time](https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Last Time](https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn) | 3:13 | 2021-12-17 | 2022-07-29 |
 | [Lean on Me](https://open.spotify.com/track/3nluW0s91ld5iOjW9kE5Kg) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Lean on Me](https://open.spotify.com/album/5p1GT6Wdd1DERIG5oTTACX) | 3:04 | 2022-01-24 |  |
-| [Learn To Be Still](https://open.spotify.com/track/5POu9RspR7sR9zD5m6ZZkJ) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hell Freezes Over \(Remaster 2018\)](https://open.spotify.com/album/2Tz88LCwtg5sli8x2YjJyF) | 4:28 | 2022-01-24 |  |
+| [Learn To Be Still](https://open.spotify.com/track/5POu9RspR7sR9zD5m6ZZkJ) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hell Freezes Over \(Remaster 2018\)](https://open.spotify.com/album/2Tz88LCwtg5sli8x2YjJyF) | 4:28 | 2022-01-24 | 2023-03-04 |
 | [Learn to Love You Better](https://open.spotify.com/track/1pWfVPTZXjRMSQDDz0fPNg) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Learn to Love You Better](https://open.spotify.com/album/0HfN0dvsXuFL316in0EoPu) | 3:34 | 2021-12-17 | 2022-06-19 |
 | [Lebanon](https://open.spotify.com/track/1jKG59NQTTCr1tSG9YDzuZ) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 3:26 | 2021-12-17 | 2023-02-25 |
 | [LET YOU BE RIGHT \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/6Xj6AtBraaa7CrQs6fRAQQ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Spotify Singles](https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41) | 3:01 | 2022-01-24 | 2022-04-19 |
@@ -387,6 +387,7 @@
 | [Maybe Could Have Loved \(feat\. Nightly\)](https://open.spotify.com/track/0PDMJ5XPiUc006Th2t04q8) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Maybe Could Have Loved \(feat\. Nightly\)](https://open.spotify.com/album/1UeVCqanippU9jszS3D4Ny) | 3:41 | 2021-12-17 | 2022-07-23 |
 | [Maybe It's Time](https://open.spotify.com/track/1bifS5x7eHFdTWXtxnDr52) | [Troy Ramey](https://open.spotify.com/artist/1Uxi0A4WHWH93Fyi0gWHEF) | [Maybe It's Time](https://open.spotify.com/album/6leR5gaG9TW113rfEOpE0b) | 2:30 | 2022-07-29 | 2023-02-15 |
 | [Maybe It's Time](https://open.spotify.com/track/5D3UgjYxNMetCXCBifsAQC) | [Troy Ramey](https://open.spotify.com/artist/1Uxi0A4WHWH93Fyi0gWHEF) | [Maybe It's Time](https://open.spotify.com/album/7jtjZ7Zpfi3KX6WORVSXiB) | 2:30 | 2021-12-17 | 2022-07-29 |
+| [Maybe It's Time](https://open.spotify.com/track/6WneXoQ7v5vxG5VAiCaSI4) | [Troy Ramey](https://open.spotify.com/artist/1Uxi0A4WHWH93Fyi0gWHEF) | [Maybe It's Time](https://open.spotify.com/album/3snAMsq8nNZDpwOO3pBc8t) | 2:30 | 2023-02-10 |  |
 | [Mentiras Con Cariño](https://open.spotify.com/track/68S4gw8NT6Tf1IbGrIftLj) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Mentiras Con Cariño](https://open.spotify.com/album/0Ug12AyGyXXxK7iHKHXmcC) | 3:48 | 2022-04-01 | 2022-05-20 |
 | [Mercy](https://open.spotify.com/track/0s5qyDeL5KqWoBP4xRnse7) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:12 | 2022-01-24 | 2022-04-18 |
 | [Mercy](https://open.spotify.com/track/2HA6R2XOV9jBwXkdOTfsWK) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Yard Sale](https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A) | 4:02 | 2021-12-17 | 2022-07-29 |

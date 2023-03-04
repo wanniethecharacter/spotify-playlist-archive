@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 55847,
+  "num_followers": 56211,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA5MjE1OCwwMDAwMDAwMDM5MWZkYjIzZjE2ZDQ1MWE3NzBiOTNkMjI4YWQ1YTZm",
+  "snapshot_id": "MTY3NTA5MjE1OCwwMDAwMDAwMGEwNTdlNDBiZTc2OTAxY2MwNDI3Y2Q1MjZmMTNmYzZl",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "DMZ",
-        "url": "https://open.spotify.com/album/0k7dBuSv2qW747vD7XGGEr"
+        "name": "This fffire",
+        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
       },
       "artists": [
         {
-          "name": "Kinneret",
-          "url": "https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ"
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
         }
       ],
-      "duration_ms": 198922,
-      "name": "No Wind Resistance!",
-      "url": "https://open.spotify.com/track/5zgkOLH6HfY5w8thZoS2jP"
+      "duration_ms": 218080,
+      "name": "This fffire - New Version",
+      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "This fffire",
-        "url": "https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll"
+        "name": "DMZ",
+        "url": "https://open.spotify.com/album/0k7dBuSv2qW747vD7XGGEr"
       },
       "artists": [
         {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          "name": "Kinneret",
+          "url": "https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ"
         }
       ],
-      "duration_ms": 218080,
-      "name": "This fffire - New Version",
-      "url": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG"
+      "duration_ms": 198922,
+      "name": "No Wind Resistance!",
+      "url": "https://open.spotify.com/track/5zgkOLH6HfY5w8thZoS2jP"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "touch tank",
-        "url": "https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "touch tank",
-      "url": "https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/58NrvyTDNC3JMpyKyX60uI"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 210191,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "touch tank",
+        "url": "https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "touch tank",
+      "url": "https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
+        "name": "How Are We Feeling?",
+        "url": "https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03"
+      },
+      "artists": [
+        {
+          "name": "late night drive home",
+          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Awkward Conversations",
+      "url": "https://open.spotify.com/track/3AJuNljAt1IdmdRtFYslQj"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
         "name": "Strawberry",
         "url": "https://open.spotify.com/album/0Ijw0q4XzBPKXfDyO2qvkI"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 208264,
       "name": "Go Higher",
       "url": "https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
-        "name": "How Are We Feeling?",
-        "url": "https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03"
-      },
-      "artists": [
-        {
-          "name": "late night drive home",
-          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
-        }
-      ],
-      "duration_ms": 199636,
-      "name": "Awkward Conversations",
-      "url": "https://open.spotify.com/track/3AJuNljAt1IdmdRtFYslQj"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "Have You Ever",
-        "url": "https://open.spotify.com/album/5Zc4mgLhFNdsjzqeIdPvIv"
-      },
-      "artists": [
-        {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "Have You Ever",
-      "url": "https://open.spotify.com/track/6lMcbUMHMDkGCiuj8Dm5BL"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "Grim Town",
         "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 187185,
       "name": "Knock Me Off My Feet",
       "url": "https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "Have You Ever",
+        "url": "https://open.spotify.com/album/5Zc4mgLhFNdsjzqeIdPvIv"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/6lMcbUMHMDkGCiuj8Dm5BL"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": ":):",
-        "url": "https://open.spotify.com/album/3RNrxnGExcrakVAWA3R3Sj"
-      },
-      "artists": [
-        {
-          "name": "Mr GISCARD",
-          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "JVP",
-      "url": "https://open.spotify.com/track/3zPI4Q0waxD3S2Y2tjcMZ8"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "Mauvaises habitudes",
         "url": "https://open.spotify.com/album/4m2wFrYax0HZnx8eIAheGv"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 145002,
       "name": "Mauvaises habitudes",
       "url": "https://open.spotify.com/track/0s1QWICdAhug2jCIZJ4QQZ"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": ":):",
+        "url": "https://open.spotify.com/album/3RNrxnGExcrakVAWA3R3Sj"
+      },
+      "artists": [
+        {
+          "name": "Mr GISCARD",
+          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "JVP",
+      "url": "https://open.spotify.com/track/3zPI4Q0waxD3S2Y2tjcMZ8"
     },
     {
       "added_at": "2023-01-30 15:22:38",

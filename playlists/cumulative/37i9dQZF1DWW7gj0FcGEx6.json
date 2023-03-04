@@ -1783,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "Luther: The Fallen Sun (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1uSLtpDg49OkNRSYihJl04"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149493,
+      "name": "Luther's Theme",
+      "url": "https://open.spotify.com/track/7DPuAbyLW2zgtEyC5pHufG"
+    },
+    {
+      "album": {
         "name": "Doctor Strange in the Multiverse of Madness (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3QDzfMs8x9fkS8vYOKnhfM"
       },

@@ -194,7 +194,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 125016,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/0xKcqGdFWwO9flQUL0s594"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 228379,
       "name": "call me up",
       "url": "https://open.spotify.com/track/7hV9TqcZDOJbGRNxEjXUJb"
@@ -2356,6 +2356,24 @@
       "duration_ms": 187506,
       "name": "Frontier",
       "url": "https://open.spotify.com/track/6yLEplXAX0k1mbqVAeNt9Z"
+    },
+    {
+      "album": {
+        "name": "Fuck Right Off",
+        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159252,
+      "name": "Fuck Right Off",
+      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
     },
     {
       "album": {
@@ -4002,6 +4020,28 @@
       "duration_ms": 216200,
       "name": "Narrow",
       "url": "https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5"
+    },
+    {
+      "album": {
+        "name": "Need U (feat. Madishu)",
+        "url": "https://open.spotify.com/album/7lXXoVekBjvjj728xk93Ty"
+      },
+      "artists": [
+        {
+          "name": "MOONBOY",
+          "url": "https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm"
+        },
+        {
+          "name": "Madishu",
+          "url": "https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206341,
+      "name": "Need U (feat. Madishu)",
+      "url": "https://open.spotify.com/track/2AWWbN4ZDWaUMgOqxpsk4n"
     },
     {
       "album": {
@@ -5834,7 +5874,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 228292,
       "name": "Sunsets With You",
       "url": "https://open.spotify.com/track/2akq2VGOfII2v4nI1S66fL"
@@ -6177,6 +6217,28 @@
     },
     {
       "album": {
+        "name": "Thirst (Hex Cougar Remix)",
+        "url": "https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204963,
+      "name": "Thirst - Hex Cougar Remix",
+      "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
+    },
+    {
+      "album": {
         "name": "three little words",
         "url": "https://open.spotify.com/album/5Xw17msGS4bB8NCXp4Sc2v"
       },
@@ -6396,7 +6458,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 163258,
       "name": "Violet",
       "url": "https://open.spotify.com/track/5VLggkhHW1zKYE8uYCPW5D"

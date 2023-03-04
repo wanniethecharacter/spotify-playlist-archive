@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Agent",
-  "num_followers": 75712,
+  "num_followers": 76000,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc0OTg2MywwMDAwMDAwMGNlYzBkN2MxMDA0MmEzOTMyNzY3NTUyZDVmMGQ1M2Ey",
+  "snapshot_id": "MTY3Nzg2MzQ0MSwwMDAwMDAwMGViOTM1NzQ1ZDQ2YmYxNjMwZDRkNjE4NTIzYTkxNzg3",
   "tracks": [
     {
       "added_at": "2023-02-22 14:11:25",
@@ -71,6 +71,30 @@
       "duration_ms": 275625,
       "name": "Urike Urike",
       "url": "https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu"
+    },
+    {
+      "added_at": "2023-03-03 17:10:41",
+      "album": {
+        "name": "Phalana Abbayi Phalana Ammayi",
+        "url": "https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS"
+      },
+      "artists": [
+        {
+          "name": "Kalyani Malik",
+          "url": "https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ"
+        },
+        {
+          "name": "Aabhas Joshi",
+          "url": "https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI"
+        },
+        {
+          "name": "Aalap Lipsika",
+          "url": "https://open.spotify.com/artist/4zziiRamihTkqyPCbkgGIa"
+        }
+      ],
+      "duration_ms": 261661,
+      "name": "Kanula Chatu Meghama",
+      "url": "https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t"
     },
     {
       "added_at": "2022-11-29 05:07:08",

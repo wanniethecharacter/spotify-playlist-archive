@@ -193,6 +193,28 @@
     },
     {
       "album": {
+        "name": "Binikini",
+        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183048,
+      "name": "Binikini",
+      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
+    },
+    {
+      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY"
       },
@@ -444,7 +466,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 188521,
       "name": "El Coraz\u00f3n y La Raz\u00f3n",
       "url": "https://open.spotify.com/track/7ABBtIReI8d993JDVA8cC8"
@@ -720,6 +742,24 @@
       "duration_ms": 306005,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86"
+    },
+    {
+      "album": {
+        "name": "Invierno Tropical",
+        "url": "https://open.spotify.com/album/5scawj9AZxPfXlI3x930QR"
+      },
+      "artists": [
+        {
+          "name": "De Bruces A Mi",
+          "url": "https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Invierno Tropical",
+      "url": "https://open.spotify.com/track/6zXHHDhDNcr9cxNBegn0WJ"
     },
     {
       "album": {
@@ -1238,7 +1278,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 228000,
       "name": "Sentimiento Irie",
       "url": "https://open.spotify.com/track/2djzPkM3Py7pAnNkgyKCH1"
@@ -1274,7 +1314,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 191346,
       "name": "Sol",
       "url": "https://open.spotify.com/track/5puRHAfjknvAqfgHCpIdo1"
@@ -1488,6 +1528,24 @@
       "duration_ms": 166192,
       "name": "Tranquiliboy",
       "url": "https://open.spotify.com/track/3IyiIBDEQmWP9Y17ueWWMB"
+    },
+    {
+      "album": {
+        "name": "Tu no tienes coraz\u00f3n",
+        "url": "https://open.spotify.com/album/67YlbWVWX3GVLaZ59q35CP"
+      },
+      "artists": [
+        {
+          "name": "Katamaran",
+          "url": "https://open.spotify.com/artist/0AVCrISFnuxOFibKfRzKwt"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157199,
+      "name": "Tu no tienes coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4rlTUexG3n7FsRgBm2lJtt"
     },
     {
       "album": {

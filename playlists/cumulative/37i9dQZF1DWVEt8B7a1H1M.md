@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-98 songs - 5 hr 54 min
+100 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,9 @@
 | [Forest Sounds](https://open.spotify.com/track/1TwRxVK7A61aXkRXxE0xa9) | [Rest & Relax Nature Sounds Artists](https://open.spotify.com/artist/2bxhaIpgn88a3qbFrzbgd5) | [Forest Sounds with Soft Rains & Gentle Winds: Nature Sounds for Deep Sleep, Meditation & Relaxation](https://open.spotify.com/album/3WW1217X3QbcyFugRShRb8) | 16:38 | 2021-12-08 | 2022-07-05 |
 | [French Forest \- Wind and Birds](https://open.spotify.com/track/2DDO3exC1RktqvOrYSIpj5) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Autumn](https://open.spotify.com/album/185jgdGe8PCY7itko869IC) | 1:56 | 2021-12-08 | 2022-03-22 |
 | [Happy Birds](https://open.spotify.com/track/2x2NrTYeKoNmiC6uEcXyuJ) | [Nature Lab](https://open.spotify.com/artist/2EBjHUWeiiLMOz9A22c4he) | [Birds by the Creek](https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg) | 1:44 | 2021-12-08 |  |
+| [Highway Birds](https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk) | [Betweetle](https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl) | [Highway Birds](https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC) | 1:47 | 2023-03-03 |  |
 | [House Wren Bird Calls Sound FX](https://open.spotify.com/track/3PJSbBqYhH21pzskNEENjP) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [180 Nature Sounds](https://open.spotify.com/album/7rSeDxbt9mHcFcEisvhkqr) | 0:59 | 2021-12-08 | 2022-07-05 |
+| [In the Midst of Nature](https://open.spotify.com/track/4M9fhkESWwMVlTQqJpHJUw) | [Neoaves](https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK) | [In the Midst of Nature](https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N) | 2:01 | 2023-03-03 |  |
 | [Joyful Birds](https://open.spotify.com/track/7nyQjweH9QQl0b8f4RgNbc) | [S\. Key](https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3) | [Rain Forest Bird Sounds](https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c) | 1:18 | 2021-12-08 |  |
 | [June 1st Morning Birds](https://open.spotify.com/track/1ulBrAV3XL3u9rFyccNvBk) | [Birds In The Morning](https://open.spotify.com/artist/2N3AKClGs5tPexsen5EBvm) | [Swedish Summer Birds](https://open.spotify.com/album/6Ez8dWYBbORaLkjiZOgHQE) | 3:06 | 2021-12-08 | 2022-07-05 |
 | [June 2nd Morning Birds](https://open.spotify.com/track/7j9lcDiBwyLNc5VNSKU6BD) | [Birds In The Morning](https://open.spotify.com/artist/2N3AKClGs5tPexsen5EBvm) | [Swedish Summer Birds](https://open.spotify.com/album/6Ez8dWYBbORaLkjiZOgHQE) | 3:08 | 2021-12-08 | 2022-07-05 |

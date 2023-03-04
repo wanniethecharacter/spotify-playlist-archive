@@ -1091,6 +1091,40 @@
     },
     {
       "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/4Kh4sTmNer2eNWykF4Gitv"
+      },
+      "artists": [
+        {
+          "name": "Fondu",
+          "url": "https://open.spotify.com/artist/0FN7zc4YtYKs0Osr8gS425"
+        },
+        {
+          "name": "Muki",
+          "url": "https://open.spotify.com/artist/1jRR6mSSaQnFJZIJ0tdO6S"
+        },
+        {
+          "name": "SKELETON WAN",
+          "url": "https://open.spotify.com/artist/3IYWMfSzqljis16feTEC7Q"
+        },
+        {
+          "name": "Dj Shampli",
+          "url": "https://open.spotify.com/artist/28Dno72aS4rFCuMODkFUBR"
+        },
+        {
+          "name": "071 Nelly The Master Beat",
+          "url": "https://open.spotify.com/artist/61DyKGx9UL7JeN3Qqt8cIT"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341760,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/2yXRb9PmwBA76gA4fdAPg9"
+    },
+    {
+      "album": {
         "name": "Mercato",
         "url": "https://open.spotify.com/album/55bJNcQMCKlf8JOfG5CpS3"
       },
@@ -4276,7 +4310,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -5098,7 +5132,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -11738,7 +11772,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 186043,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
@@ -17670,7 +17704,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 134887,
       "name": "Mangos mit Chili",
       "url": "https://open.spotify.com/track/7AyE8MRf4dIK75mqqpks9S"
@@ -21587,6 +21621,24 @@
     },
     {
       "album": {
+        "name": "PAINTING PICTURES",
+        "url": "https://open.spotify.com/album/5ASBbAgO8v9AHDUICfEHJx"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/4Iry561oo2lujsgL77oCnm"
+    },
+    {
+      "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/1XciNWcYMtjVEjgEQXXxSN"
       },
@@ -21598,7 +21650,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 122070,
       "name": "Painting Pictures",
       "url": "https://open.spotify.com/track/2OgIbXHmuRJowDwtmezcio"
@@ -30372,7 +30424,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 131999,
       "name": "Wildberry Lillet",
       "url": "https://open.spotify.com/track/6LBmaJYwbLHfQwIreMCLlw"

@@ -5808,10 +5808,28 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 219840,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/1szbxIruSyCYMja99f2OGW"
+    },
+    {
+      "album": {
+        "name": "Mood Ring",
+        "url": "https://open.spotify.com/album/5b8LIdYst2iRT0fkLpeHc8"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219840,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/2wsO3NnI1LtUO2fAqb7tY9"
     },
     {
       "album": {
@@ -8858,7 +8876,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "Streets of Kyoto",
       "url": "https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ"
@@ -9328,7 +9346,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 218000,
       "name": "temptation",
       "url": "https://open.spotify.com/track/4JPnlef6iWbmpmDoEXZcRe"

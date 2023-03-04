@@ -1,13 +1,61 @@
 {
-  "description": "Extra vicious, hard hitting pop. This is SALT. Cover: Nessa Barrett",
-  "num_followers": 327104,
+  "description": "Extra vicious, hard hitting pop. This is SALT. Cover: Jax",
+  "num_followers": 327176,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDZjOWE0NDFiNGM5YzQwMTEwODI1ZjBlNmQ0ODg1NDgw",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMGJmY2NhMzNmNTZiOWNmNjNjMzIwY2M2OTcxNzFmYmI2",
   "tracks": [
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Cinderella Snapped",
+        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 173103,
+      "name": "Cinderella Snapped",
+      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Dolls EP",
+        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 132793,
+      "name": "Dolls",
+      "url": "https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Bittersweet 16",
+        "url": "https://open.spotify.com/album/5NrdpIaUiVzSp9dfPxMPO5"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Buzzkill Baby",
+      "url": "https://open.spotify.com/track/5ylZhwfwtqtACJ9IDYnKkA"
+    },
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
@@ -23,6 +71,22 @@
       "duration_ms": 136387,
       "name": "BANG BANG!",
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "feelings",
+        "url": "https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 140598,
+      "name": "feelings",
+      "url": "https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -45,22 +109,6 @@
       "url": "https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Dolls EP",
-        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 132793,
-      "name": "Dolls",
-      "url": "https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA"
-    },
-    {
       "added_at": "2023-02-10 05:01:00",
       "album": {
         "name": "Green Honda",
@@ -75,6 +123,22 @@
       "duration_ms": 166981,
       "name": "Green Honda",
       "url": "https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Still Alive (From the Original Motion Picture Scream VI)",
+        "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 185310,
+      "name": "Still Alive - From the Original Motion Picture Scream VI",
+      "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -95,18 +159,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "cynical",
-        "url": "https://open.spotify.com/album/5RhMHM5RP7gyhkEtUIJeWD"
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
       "artists": [
         {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 173950,
-      "name": "cynical",
-      "url": "https://open.spotify.com/track/0D5le1perOPiaFYmNak8Kp"
+      "duration_ms": 200440,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/6MrYw32izcQ1yzrGqmzPrd"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -127,18 +191,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+        "name": "cynical",
+        "url": "https://open.spotify.com/album/5RhMHM5RP7gyhkEtUIJeWD"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
         }
       ],
-      "duration_ms": 200440,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/6MrYw32izcQ1yzrGqmzPrd"
+      "duration_ms": 173950,
+      "name": "cynical",
+      "url": "https://open.spotify.com/track/0D5le1perOPiaFYmNak8Kp"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -205,22 +269,6 @@
       "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
     },
     {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Falling Out / Falling In",
-        "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "Crazy Ex",
-      "url": "https://open.spotify.com/track/6oAiUgrZtKQIX3uWYy3MTz"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "lonely bitch",
@@ -235,22 +283,6 @@
       "duration_ms": 175997,
       "name": "lonely bitch",
       "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Checkered Vans",
-        "url": "https://open.spotify.com/album/23ebC7TSnXeAh3tt21tIap"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 198986,
-      "name": "Checkered Vans",
-      "url": "https://open.spotify.com/track/2L6OCsfX3WT1Vt7Pc5ID0b"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -383,22 +415,6 @@
       "duration_ms": 159817,
       "name": "Brutally Honest",
       "url": "https://open.spotify.com/track/1Z7KyQlHGhgz71cnvaX5oP"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Say It (To My Face)",
-        "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 159308,
-      "name": "Say It (To My Face)",
-      "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1099,22 +1115,6 @@
       "duration_ms": 124000,
       "name": "MONSTERS IN MY MIND",
       "url": "https://open.spotify.com/track/1OFpHG8xgfp7NnmJRjpNsK"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "devil may care",
-        "url": "https://open.spotify.com/album/3HD59AolaFb0PMhP3cy4lN"
-      },
-      "artists": [
-        {
-          "name": "Fae",
-          "url": "https://open.spotify.com/artist/7gcUMQcBkw833YqXciq0WB"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "devil may care",
-      "url": "https://open.spotify.com/track/1Oui21vilndzO9nUABZYlp"
     },
     {
       "added_at": "2023-01-27 05:00:00",

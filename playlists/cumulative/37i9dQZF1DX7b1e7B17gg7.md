@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-69 songs - 5 hr 8 min
+72 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Answer To Ronnie](https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers](https://open.spotify.com/album/6Gv7FGEI7Ot7tgfthNLIiy) | 4:53 | 2022-11-30 |  |
 | [Aurora](https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw) | [Daniel Arena](https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA) | [Io](https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20) | 4:44 | 2023-01-06 |  |
 | [Aurora En Pekin](https://open.spotify.com/track/7FS8URfbyqoy7uGpMx0gW5) | [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn), [Los Cubanos](https://open.spotify.com/artist/2IxTI7YzL1d2MhS6O1CJMj) | [Y Los Cubanos Postizos](https://open.spotify.com/album/3P7wuQxGz1q9jF9jY1AXKc) | 5:31 | 2022-11-30 |  |
+| [Authentic](https://open.spotify.com/track/3IIlAtayl38lQmDvuZfUAf) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 4:41 | 2023-03-03 |  |
 | [Bird in a Cage](https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw) | 6:06 | 2022-11-30 |  |
 | [Blue dreams](https://open.spotify.com/track/2sbUjbMeYzhFx23SSQmpy5) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 2:41 | 2022-11-30 |  |
 | [Blue Midnight \- Alternate Take](https://open.spotify.com/track/6qpWYefGy5ziiGVKxvoNQu) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:02 | 2022-11-30 |  |
@@ -55,11 +56,13 @@
 | [Mr\. B.](https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE) | [Tomislav Goluban](https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN), [Boško Petrović](https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA) | [Mr\. B.](https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs) | 6:45 | 2023-02-24 |  |
 | [No Entry Blues](https://open.spotify.com/track/7hxz3zPoriVdciNiWA6QDY) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [No Entry](https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD) | 4:14 | 2023-02-24 |  |
 | [Perilous Times](https://open.spotify.com/track/4fX2NEmYpOlSSrltHqfT8G) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Homebrewed Blues](https://open.spotify.com/album/3rsZuE4zwVFIPqKU3b0Z20) | 2:46 | 2022-11-30 |  |
+| [Précieuse](https://open.spotify.com/track/5JentvxWIO78sxWOSgNLrf) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 3:15 | 2023-03-03 |  |
 | [Purple \- Edited Version](https://open.spotify.com/track/015AFoJQvGJ3nbPbaC65Ml) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 4:48 | 2022-11-30 |  |
 | [Rainbow Bird Blues](https://open.spotify.com/track/2pQzKjn9C68S4bnnXJMOl6) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 5:28 | 2022-11-30 |  |
 | [Rainy Day Blues \- Instrumental](https://open.spotify.com/track/2wDMSutZ0eXoB1cQ0WE8f7) | [Tom Nicholls](https://open.spotify.com/artist/2YEluKwvonHGvzeLrCqtyi) | [Rainy Day Blues \(Instrumental\)](https://open.spotify.com/album/6I4k1yLhMfuJGl7j680IXi) | 2:28 | 2022-11-30 |  |
 | [Rigo's Blues](https://open.spotify.com/track/5Zrlbo3PDGziGvAUccOozk) | [Tom Rigney](https://open.spotify.com/artist/3slWYiAVBZ82CDexfn4IK4) | [Back Porch Blues](https://open.spotify.com/album/4OeXjIOg8ResXnVKTleUSi) | 4:18 | 2022-11-30 |  |
 | [Roads](https://open.spotify.com/track/7JZJ84ZmMhrUNw3eQNgUxN) | [Lior Holzman](https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O) | [Roads](https://open.spotify.com/album/5EyvVzoYsNcZnFa2wPyFNz) | 3:15 | 2023-02-17 |  |
+| [Run through the mountains](https://open.spotify.com/track/2J8XXy0ds8g4wpEe5PmHfN) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 1:50 | 2023-03-03 |  |
 | [Sittin on Top of the World](https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 | 2022-11-30 |  |
 | [Skyman](https://open.spotify.com/track/013yxuTbh3mfL0Qjtaykqj) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Spread The Love](https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht) | 8:19 | 2022-11-30 |  |
 | [Slow Blues](https://open.spotify.com/track/0amfQAlygBi3JTf1qph861) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF) | [Homemade](https://open.spotify.com/album/5kdbWGmr1nzhXpzlDTf497) | 3:25 | 2022-11-30 |  |

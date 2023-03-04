@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,271 songs - 2 day 21 hr 40 min
+1,272 songs - 2 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-10-28 | 2021-11-21 |
 | [Giftig](https://open.spotify.com/track/3Ye7vnZdrO2Gq5IyyH3cOp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:08 | 2022-04-30 | 2022-05-06 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2023-01-01 | 2023-01-03 |
-| [Girls Like You](https://open.spotify.com/track/1F4ndGt7gZ5bD8h2Eam1uT) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Girls Like You](https://open.spotify.com/album/4giiDdn8Qr57hgBOiaNSKu) | 2:47 | 2023-01-17 |  |
+| [Girls Like You](https://open.spotify.com/track/1F4ndGt7gZ5bD8h2Eam1uT) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Girls Like You](https://open.spotify.com/album/4giiDdn8Qr57hgBOiaNSKu) | 2:47 | 2023-01-17 | 2023-03-04 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-19 |
 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 | 2022-05-15 | 2022-05-22 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-14 | 2022-08-12 |
@@ -650,6 +650,7 @@
 | [M.O.E.](https://open.spotify.com/track/6ubMr4Ai7lSnHPXFEtAacJ) | [OG Ulla\-Maija](https://open.spotify.com/artist/0OYspJRShx3Yx7QIykOJgq) | [M.O.E.](https://open.spotify.com/album/5YuVbyUcBpU3JdVk8xIITq) | 4:15 | 2021-11-14 | 2021-11-14 |
 | [Maa on niin kaunis \(Toivioretkellä\)](https://open.spotify.com/track/5ePePcvp5FnkuzjxnQdQbf) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Maa on niin kaunis \(Toivioretkellä\)](https://open.spotify.com/album/5kEK8E96DOxZ20SFxCxI1c) | 2:20 | 2021-12-19 | 2022-12-28 |
 | [Maailma meidän jälkeen](https://open.spotify.com/track/6nSeXEH8vhorjbsO1fQA8o) | [Janna](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Maailma meidän jälkeen](https://open.spotify.com/album/4mNlAWI1HUsOGObRQS0NAB) | 3:32 | 2021-04-26 | 2021-05-17 |
+| [Maailman ympäri](https://open.spotify.com/track/0Md23O27tBkiiuzsCTetpl) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Maailman ympäri](https://open.spotify.com/album/67M8Jo4mQLi5T79mDCgdOO) | 2:30 | 2023-03-03 |  |
 | [Maalissa](https://open.spotify.com/track/4TwB1uA33Hcxxa7bynsrcA) | [Happoradio](https://open.spotify.com/artist/088hJWSolrJNzoNBo2cyOd) | [Majakka](https://open.spotify.com/album/0g1yCh1hw0utNw50ktxkUC) | 3:08 | 2021-09-05 | 2021-09-06 |
 | [Maamme](https://open.spotify.com/track/3VxDGHvNVcd2aDtOF3zrRs) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Karjalan kunnailta \- Sotaveteraanikuorojen VIII laulujuhla](https://open.spotify.com/album/1lNcTadLmG6x6lCIQuq4S4) | 1:55 | 2021-12-08 | 2022-12-09 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-23 | 2022-12-02 |

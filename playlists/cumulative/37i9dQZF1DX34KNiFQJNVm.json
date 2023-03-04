@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Os lan\u00e7amentos dessa semana incluem Mc Hariel com MC GP e Mc Kadu, Dilsinho com Diego & Vitor Hugo, Agnes Nunes, BaianaSystem com Gilsons, Mc Livinho, Fernanda Takai e muito mais!",
+  "description": "Os lan\u00e7amentos dessa semana incluem Hugo & Guilherme, DJ Biel do Furduncinho com Gloria Groove, Israel & Rodolffo com Mari Fernandez, Tropkillaz com Sango e muito mais!",
   "name": "Novidades da Semana",
   "tracks": [
     {
@@ -13743,7 +13743,7 @@
     },
     {
       "album": {
-        "name": "Bonde Do Fund\u00e3o",
+        "name": "Bonde Do Fund\u00e3o (Soundtrack Escola de Quebrada)",
         "url": "https://open.spotify.com/album/12DaSVGe7sFDSMvdGsTXHC"
       },
       "artists": [
@@ -13756,7 +13756,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 60923,
-      "name": "Bonde Do Fund\u00e3o",
+      "name": "Bonde Do Fund\u00e3o - Soundtrack Escola De Quebrada",
       "url": "https://open.spotify.com/track/2EDjit74MTRnxnIwmgQ4vK"
     },
     {
@@ -28237,6 +28237,32 @@
     },
     {
       "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/3axl6saVOjcbY1RZJWB4XQ"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199646,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/4zM0WZs5xnIoJbYqlSjPQB"
+    },
+    {
+      "album": {
         "name": "Designer (feat. Joeboy)",
         "url": "https://open.spotify.com/album/1UzuhbZlcJML7eFxvQ3wIY"
       },
@@ -28256,7 +28282,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 199646,
       "name": "Designer (feat. Joeboy)",
       "url": "https://open.spotify.com/track/5ePmktvJtEOAkX0ZR9LC6B"
@@ -70494,12 +70520,12 @@
       },
       "artists": [
         {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
           "name": "Belle Kaffer",
           "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
         },
         {
           "name": "Charles New",
@@ -85258,6 +85284,24 @@
       "duration_ms": 142153,
       "name": "Red de Maracuj\u00e1",
       "url": "https://open.spotify.com/track/1Ox6cNiWa6diK3mIImaq1P"
+    },
+    {
+      "album": {
+        "name": "Red Ruby Da Sleeze",
+        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
     },
     {
       "album": {

@@ -2426,10 +2426,28 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 160550,
       "name": "Loose Ends",
       "url": "https://open.spotify.com/track/4rZaSU1gqk7zkywTDqxGeX"
+    },
+    {
+      "album": {
+        "name": "Loose Ends (Radio Edit)",
+        "url": "https://open.spotify.com/album/3mNJPx19RmB65BNihohd4M"
+      },
+      "artists": [
+        {
+          "name": "Cortes",
+          "url": "https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160550,
+      "name": "Loose Ends - Radio Edit",
+      "url": "https://open.spotify.com/track/6qKxLKqfiLKTcnTQxIXBva"
     },
     {
       "album": {

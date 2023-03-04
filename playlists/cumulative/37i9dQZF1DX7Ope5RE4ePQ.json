@@ -1157,6 +1157,28 @@
     },
     {
       "album": {
+        "name": "No. 4, St\u00e4ndchen",
+        "url": "https://open.spotify.com/album/7gCa5AvULMotY5lCjvjsvH"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Goldmund Quartet",
+          "url": "https://open.spotify.com/artist/0FnOdHfjxgm6gvr5B0us9t"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204251,
+      "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen",
+      "url": "https://open.spotify.com/track/2S9IQTWq2AsiKNztp6m3XZ"
+    },
+    {
+      "album": {
         "name": "Dvo\u0159\u00e1k: Serenade for Strings, Czech Suite",
         "url": "https://open.spotify.com/album/41RV3g6Fjyzfe31bEXtMNT"
       },

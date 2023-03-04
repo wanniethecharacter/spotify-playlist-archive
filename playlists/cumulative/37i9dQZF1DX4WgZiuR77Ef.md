@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-184 songs - 12 hr 57 min
+185 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Wicked Karma](https://open.spotify.com/track/41slG6esf3Qr3V5CJ8tB2Y) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Wicked Karma](https://open.spotify.com/album/2ezwjIl6DMeeK8LkPx7RjX) | 3:53 | 2022-03-25 | 2022-07-29 |
 | [Wildman](https://open.spotify.com/track/0CgmMmdisUyp72qfEEUtbw) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [My People](https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c) | 4:31 | 2021-02-12 |  |
 | [Wildman](https://open.spotify.com/track/6xKbZckqJTzIStdlp9nIp3) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [Wildman](https://open.spotify.com/album/26mwl4r20VYuBRks5yG9cX) | 4:31 | 2021-02-12 | 2022-07-29 |
+| [Willie and the Hand Jive](https://open.spotify.com/track/1mPADI4LKBHX7lisb8Vcza) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0) | [Willie and the Hand Jive](https://open.spotify.com/album/0mPzHdhZFJNz0y4bZKBvIp) | 3:29 | 2023-03-03 |  |
 | [Witness 4 The Prosecution \(Version 1\) \- 2020 Remaster](https://open.spotify.com/track/22ZZIvttMc2JsRC2hVrXyF) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Witness 4 The Prosecution \(Version 1\) \[2020 Remaster\]](https://open.spotify.com/album/23cQVWou7vii0d3CknLU6A) | 3:59 | 2020-10-30 | 2022-07-29 |
 | [Witness 4 The Prosecution \- Version 1 \- 2020 Remaster](https://open.spotify.com/track/0DnYgTugNUhBcALAkNvwz1) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times \(Super Deluxe Edition\)](https://open.spotify.com/album/0TQG9HCLZGushGzSwvtxC1) | 3:59 | 2020-10-30 |  |
 | [Word Is Out](https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva) | [Chelsea Wilson](https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk) | [Chasing Gold](https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ) | 4:34 | 2020-10-30 | 2022-04-09 |

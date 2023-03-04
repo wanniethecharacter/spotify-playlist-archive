@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 
 > Experimental electronic beyond the borders of tradition.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,521 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,542 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 67 | [Lambert Rise](https://open.spotify.com/track/7txXvBBhA0YB5L3Bopg5e8) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Ambivalent](https://open.spotify.com/album/7dZYB94TjHB1Kub44SK9j9) | 6:34 |
 | 68 | [Endless Tool](https://open.spotify.com/track/5rDDpyOU9QDebInoHQjr4l) | [Gacha Bakradze](https://open.spotify.com/artist/6dZmlzI1H5SGdkQ8dWRY76) | [Obscure Languages](https://open.spotify.com/album/5b673Ugn0tsqzlfgZtebZp) | 4:26 |
 | 69 | [Clumsy](https://open.spotify.com/track/1WuRMsjGs2uGJmjfRNvQfU) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX) | [Rogue Intruder, Soul Enhancer](https://open.spotify.com/album/5GDLaN1HaXPTAx16UYZAvZ) | 4:29 |
-| 70 | [Deine Augen](https://open.spotify.com/track/5RkjwEQviBKkVDisjJbVSJ) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/7dAYdoahzW8oZgSGHWpfNP) | 5:16 |
+| 70 | [Deine Augen](https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N) | 5:16 |
 | 71 | [Clouded Temper \| Small Steps](https://open.spotify.com/track/3V0M0Sw0xNb6p4k8gxhAex) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [A Violet Sleep EP](https://open.spotify.com/album/2Sean6tGeNquVJS5jIHxMn) | 7:03 |
 | 72 | [Sympathetic Cycle](https://open.spotify.com/track/7tX0JrCDjtYJRKjeFz7SNH) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [A Violet Sleep EP](https://open.spotify.com/album/2Sean6tGeNquVJS5jIHxMn) | 5:01 |
 | 73 | [It’s A Lot](https://open.spotify.com/track/73KoHFtH40JvEGCtFi0UIN) | [Krust](https://open.spotify.com/artist/6WPeOlm3f3UGoO1l6OPOUO) | [The Edge Of Everything](https://open.spotify.com/album/4DeB6ku3F7xSVhgqc4PxKO) | 1:52 |
 | 74 | [I'll be 20 when I'm 40](https://open.spotify.com/track/4x47gRjGYRRiDGhbdtpnCs) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Patrimony](https://open.spotify.com/album/7olQu6AkixLOum1nfMkZvf) | 5:13 |
 | 75 | [Those Tears of Hutton](https://open.spotify.com/track/49WbV4XtJ5QWJd2m5UrwSg) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [This Moment of Silence](https://open.spotify.com/album/6Zj6qfpTfQCmlyajevOM8z) | 6:15 |
 
-Snapshot ID: `MTY1NTIwNzU2OSwwMDAwMDAwMDdjOTk2NTE1NTU4NmE5Y2NlYmQ5NTBiNzU5Njk3ODk2`
+Snapshot ID: `MTY1NTIwNzU2OSwwMDAwMDAwMGM5MTYyNDRlMjRkODY5NjJjMzZkOGFmNDhkOTJlNzFi`

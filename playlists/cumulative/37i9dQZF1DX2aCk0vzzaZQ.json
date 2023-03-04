@@ -401,6 +401,32 @@
     },
     {
       "album": {
+        "name": "Bach: Orchestral Suite No. 2, BWV 1067",
+        "url": "https://open.spotify.com/album/6QYhZ7XhYUStJKFiHxE2JI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Il Gusto Barocco",
+          "url": "https://open.spotify.com/artist/7AOBLf14GGDOfC5nAM44yX"
+        },
+        {
+          "name": "J\u00f6rg Halubek",
+          "url": "https://open.spotify.com/artist/0DhHJLTB4rkbM1SRR7ukRh"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85827,
+      "name": "Orchestral Suite No. 2, BWV 1067: VII. Badinerie",
+      "url": "https://open.spotify.com/track/6xQebhVzO7KWFgzoXtywAc"
+    },
+    {
+      "album": {
         "name": "Classical Hits",
         "url": "https://open.spotify.com/album/0eKd0WGHFP7flkzOuoEgMc"
       },

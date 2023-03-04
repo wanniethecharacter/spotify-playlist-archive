@@ -1183,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Big Spender",
+        "url": "https://open.spotify.com/album/2pIekKbMcTd038cgB9XJfU"
+      },
+      "artists": [
+        {
+          "name": "Mathew V",
+          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147664,
+      "name": "Big Spender",
+      "url": "https://open.spotify.com/track/79b8nEVYn7Od2cqY1EhPrL"
+    },
+    {
+      "album": {
         "name": "Blackbird Sing",
         "url": "https://open.spotify.com/album/1TNnOqAC5n4zLuYSilIcWB"
       },
@@ -2384,7 +2402,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 224836,
       "name": "D'un feu secret",
       "url": "https://open.spotify.com/track/7dP5Y13MV07A983j7kiPkf"
@@ -3794,6 +3812,28 @@
       "duration_ms": 357918,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/0PsHBdM3zADZXsjk8RyaW5"
+    },
+    {
+      "album": {
+        "name": "Olympians",
+        "url": "https://open.spotify.com/album/54IQ3rRSvUHbxqlBDSzwbz"
+      },
+      "artists": [
+        {
+          "name": "Vince Mendoza",
+          "url": "https://open.spotify.com/artist/4E9rsN1uXPIM0zc9CwVBSt"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344840,
+      "name": "House of Reflections",
+      "url": "https://open.spotify.com/track/0rCWwMbw2a6YtelxX4Ro7v"
     },
     {
       "album": {
@@ -5672,7 +5712,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 385367,
       "name": "Just In Time",
       "url": "https://open.spotify.com/track/1IfT79sqApOwi1AgEqJAKm"
@@ -7175,6 +7215,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9lusine",
+        "url": "https://open.spotify.com/album/51fDNfHksS7ry5yqUx1gLj"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193887,
+      "name": "M\u00e9lusine",
+      "url": "https://open.spotify.com/track/11xHFmZ9IuwLjciHW3alnF"
+    },
+    {
+      "album": {
         "name": "Nature Boy",
         "url": "https://open.spotify.com/album/13iuZUA9X8WZzoIEozbePr"
       },
@@ -7662,7 +7720,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 309133,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/243xdbBRltvPDwDPvXnx3Y"
@@ -9283,6 +9341,28 @@
     },
     {
       "album": {
+        "name": "Thank You for the Heartbreak",
+        "url": "https://open.spotify.com/album/4c1pxN7DxyajfM7GujWoL2"
+      },
+      "artists": [
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278773,
+      "name": "Thank You for the Heartbreak",
+      "url": "https://open.spotify.com/track/0FUm0D50IIAu8D7QLpKCzO"
+    },
+    {
+      "album": {
         "name": "That Face",
         "url": "https://open.spotify.com/album/3gjpmhf7HyDfzEDIAV6O7O"
       },
@@ -9504,6 +9584,24 @@
       "duration_ms": 266213,
       "name": "The Art of Conversation",
       "url": "https://open.spotify.com/track/2sFdFdSACqUlbZVKgcRkdE"
+    },
+    {
+      "album": {
+        "name": "The Best Mistake",
+        "url": "https://open.spotify.com/album/3qJqCnJ8DOEgTpbSLFxV3B"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164869,
+      "name": "The Best Mistake",
+      "url": "https://open.spotify.com/track/57dFZtD0yXsonQEndrFqf5"
     },
     {
       "album": {

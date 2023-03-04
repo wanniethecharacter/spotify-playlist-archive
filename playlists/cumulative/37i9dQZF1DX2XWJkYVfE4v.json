@@ -725,6 +725,28 @@
     },
     {
       "album": {
+        "name": "Satie: Gnossienne No. 1",
+        "url": "https://open.spotify.com/album/4kLT1402c9zsjnYqQafJ69"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Brodsky Quartet",
+          "url": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208773,
+      "name": "Gnossiennes, IES 24: I. Lent (Arr. for String Quartet by Krysia Osostowicz)",
+      "url": "https://open.spotify.com/track/3L9mILT9qZEuv9ecGCOXvv"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/7afNDl8puPFRvUDtHvDKcZ"
       },
@@ -910,7 +932,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 315827,
       "name": "Kohola Sings (Humpback Whales)",
       "url": "https://open.spotify.com/track/1TUv6cWW0E0SLX5dAmvNmQ"

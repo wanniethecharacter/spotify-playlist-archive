@@ -2,7 +2,7 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Argentina en la casa! Foto: Albere.
+> Argentina en la casa! Foto: Lauty Gram & Omar Varela.
 
 167 songs - 8 hr 6 min
 

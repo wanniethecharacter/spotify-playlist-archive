@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 269133,
       "name": "Manifiesto",
       "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
@@ -2346,6 +2346,28 @@
       "duration_ms": 206999,
       "name": "Mediterr\u00e1neo",
       "url": "https://open.spotify.com/track/4ZXldI9CyNjVkXvIL9K487"
+    },
+    {
+      "album": {
+        "name": "Mi Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/4zyCM7SjQk8UedzfWVAYjT"
+      },
+      "artists": [
+        {
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        },
+        {
+          "name": "Mikel Izal",
+          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233815,
+      "name": "Mi Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/4J2QcplOla4PXNU4zXt3vG"
     },
     {
       "album": {

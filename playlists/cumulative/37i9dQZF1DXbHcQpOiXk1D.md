@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Yazmin Lacey
 
-374 songs - 1 day 3 hr 23 min
+375 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Age Of Ascent](https://open.spotify.com/track/22Y6XHIiwkjhdLG7Lun1FZ) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 4:58 | 2022-08-04 |  |
 | [Age Of Ascent](https://open.spotify.com/track/3ReELxpeTArWKsyTbmNoqn) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/3SOJxg7oLNmP5Z1WAhcJbA) | 4:58 | 2022-07-28 | 2022-08-11 |
 | [Age Of Ascent](https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud) | 4:58 | 2022-06-10 | 2022-07-29 |
+| [Aged Eyes](https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Aged Eyes](https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG) | 4:06 | 2023-03-04 |  |
 | [Angel Feed](https://open.spotify.com/track/4B8oaNZug7kvei1MAYDtNO) | [Yard Nule](https://open.spotify.com/artist/10Q2LdV5T7zeV27daL70yq) | [Angel Feed](https://open.spotify.com/album/06cl6nFp0yYgTH0n4UHNoP) | 4:20 | 2021-12-17 | 2022-11-14 |
 | [Another Love Song](https://open.spotify.com/track/25qXmoaR6xNoWYGmKjZd1H) | [Flo Blue](https://open.spotify.com/artist/26xMgiYGCqdjCitorf1MoF) | [Another Love Song](https://open.spotify.com/album/6biBK0Z7HzSRCVLvSeCaBG) | 4:29 | 2022-07-07 | 2022-07-11 |
 | [April](https://open.spotify.com/track/1AxJfkOxW6oDk2DFVMbhb5) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [April](https://open.spotify.com/album/2MYdt37z3P8BLAhl5OZtoR) | 4:18 | 2021-12-17 | 2022-12-24 |
@@ -74,7 +75,7 @@
 | [Coy Moon](https://open.spotify.com/track/7ljDP1XNvsjWbiuSgDsVC9) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Breathe Deep](https://open.spotify.com/album/4PA3wV5p1TMLk2e27RuDGq) | 4:25 | 2021-12-17 | 2022-05-19 |
 | [Crazy That You Love](https://open.spotify.com/track/29fj51COdjexcBe9pm4aIM) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Invisible Things](https://open.spotify.com/album/7GdKMLqc7Gzg9yWWZHH84l) | 3:29 | 2022-03-08 | 2022-03-09 |
 | [Crazy That You Love](https://open.spotify.com/track/3aNpDqzNSONgd2wJA8iBLx) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Crazy That You Love](https://open.spotify.com/album/4itLRse7LQuZRpBiogq4Tf) | 3:29 | 2022-01-14 | 2022-07-29 |
-| [Crazy That You Love](https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Invisible Things](https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6) | 3:29 | 2022-08-18 |  |
+| [Crazy That You Love](https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Invisible Things](https://open.spotify.com/album/1RnirhqC0ZQjTfb18z0Wk6) | 3:29 | 2022-08-18 | 2023-03-04 |
 | [Cristo Redentor](https://open.spotify.com/track/3EdjA9lVqxP4iRDpEs2H6Q) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Cristo Redentor](https://open.spotify.com/album/0Q6KVFaY1maAfgYqOvEUEO) | 5:20 | 2022-09-23 |  |
 | [Dark Side Riddim](https://open.spotify.com/track/5pIjTEPxQx4JJc14CkVlgf) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Dark Side Riddim / Samuel L.Riddim](https://open.spotify.com/album/3xx8mVv8jR6rzFMGcq0VWY) | 5:14 | 2021-12-17 | 2022-07-08 |
 | [Darkness in the Light \(feat\. Ava Joseph & Giacomo Smith\)](https://open.spotify.com/track/3Q1H4z0M8Gm9AHhZ0vzFPq) | [Jas Kayser](https://open.spotify.com/artist/3yjaKJcB25XtIy23oDJjSO), [Ava Joseph](https://open.spotify.com/artist/3qohF4OEF0OXfERIcj5dkH), [Giacomo Smith](https://open.spotify.com/artist/6mW13TDxyopjGM4ZNOr4ex) | [Darkness in the Light \(feat\. Ava Joseph & Giacomo Smith\)](https://open.spotify.com/album/2io2HM1ouTpTFq2tm24Ruy) | 6:18 | 2022-04-08 | 2022-07-29 |

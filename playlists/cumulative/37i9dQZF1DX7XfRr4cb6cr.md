@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-200 songs - 17 hr 47 min
+201 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [4am](https://open.spotify.com/track/76PZlokCTD6ezzVl73nCRg) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 5:00 | 2022-01-21 |  |
 | [><⋃⊃⊃∑](https://open.spotify.com/track/5zfTTqHFfnrgCXa58sxtT5) | [Vokeebokæybgo Lochtyblchvvaii](https://open.spotify.com/artist/43DxOFtmX9kK6HIUluJZtq) | [OTVR](https://open.spotify.com/album/34ScM5nRfC2TJ99Xoja51u) | 8:41 | 2022-01-21 |  |
 | [A Collection Of Ceramic Vases \(Yves Saint Laurent Buried In The Garden Of His Marrakesh Home\)](https://open.spotify.com/track/1MwAwmw5LXeV2N5AtG9mYi) | [Body Sculptures](https://open.spotify.com/artist/71XkAfWI8OWbuXBrsdJnAt) | [A Body Turns To Eden](https://open.spotify.com/album/3gYajjdwhAWF8Pzbl0xKAm) | 3:22 | 2022-01-21 |  |
+| [A Small Pool of Water by the Graves](https://open.spotify.com/track/0tgkSqnkwivFFGmun3jkWh) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 4:41 | 2023-02-17 |  |
 | [Abandoned Places](https://open.spotify.com/track/3zP5jZNeK9VgCkd4tNPKib) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Abandoned Places](https://open.spotify.com/album/7J6pXQPzUoFW2GozOiD6fq) | 5:43 | 2022-02-18 | 2022-07-27 |
 | [Abandoned Places](https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Our True Nature](https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7) | 5:43 | 2022-07-22 |  |
 | [Above below](https://open.spotify.com/track/3xe2mnK1su5rkjvGXs8hm6) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [RIPTIDE](https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P) | 4:49 | 2022-01-21 | 2022-07-29 |
@@ -58,7 +59,7 @@
 | [Floor Position](https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [Everything is Already There](https://open.spotify.com/album/1he2AlYOWu58VJxZQPzdJK) | 2:56 | 2022-01-21 |  |
 | [Frozen Plains](https://open.spotify.com/track/3czI9Tjuim4boa9KwizjvQ) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Baba Gnohm](https://open.spotify.com/artist/2emlnsOgKrMMwXqpgpBMLF) | [Frozen Plains](https://open.spotify.com/album/6NP6uRqDzvNfSmJZi4uqx7) | 5:38 | 2023-01-27 |  |
 | [Fundament \(Part 1\)](https://open.spotify.com/track/0NWuVsxbGEwS4qCiicGxBs) | [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Plasmafuse](https://open.spotify.com/artist/6iYdmg7rSNUKQabi5wzRtN) | [Mörkrets Narr](https://open.spotify.com/album/2VqFfX6U0xOW0Ad58xyfV9) | 7:40 | 2022-01-21 |  |
-| [Future Memory](https://open.spotify.com/track/5kiPu9EFwEhzzClpoEtRfQ) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 5:02 | 2022-03-25 |  |
+| [Future Memory](https://open.spotify.com/track/5kiPu9EFwEhzzClpoEtRfQ) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 5:02 | 2022-03-25 | 2023-03-04 |
 | [Für Alina](https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alexander Malter](https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH) | [Arvo Pärt: Alina](https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE) | 10:47 | 2022-07-22 |  |
 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 | 2022-04-01 |  |
 | [Genesis \(Version\)](https://open.spotify.com/track/5Akz6IbYaaIteC7kQkL9he) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Outlines \(Repurposed\) 2013\-2019](https://open.spotify.com/album/7a8sOJlt87lNL8EjGXJg3P) | 3:56 | 2022-01-28 | 2022-07-29 |
@@ -154,7 +155,7 @@
 | [Seeing Past What Things Seem](https://open.spotify.com/track/2sgqTahUU0PBwKcgRhqRDN) | [Aidan Baker](https://open.spotify.com/artist/7wPBSl15ddi9mRCgIllOa9) | [Seeing Past What Things Seem](https://open.spotify.com/album/7km6d7bH6SLfaaB52JuuoT) | 11:33 | 2022-01-21 | 2022-07-27 |
 | [Serpentine](https://open.spotify.com/track/0plMWuZSwX65585sUIUdd5) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 3:41 | 2022-01-21 |  |
 | [Silkworms](https://open.spotify.com/track/31Vk1L8CuFKyBH86bx8owb) | [Hannu Karjalainen](https://open.spotify.com/artist/1jrtEzcK5ERQoXAFVcQV00) | [Silkworms](https://open.spotify.com/album/2mdi7sz4i7gVr4cg8lD5MY) | 9:35 | 2022-01-28 | 2022-07-26 |
-| [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 | 2023-02-28 |
+| [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 |  |
 | [Skymningszonen](https://open.spotify.com/track/6TMAYNIdnq8uEgK2YWmBOc) | [AKB](https://open.spotify.com/artist/2t9tbX2KNkdUAkiTmFxsat) | [Marianergraven](https://open.spotify.com/album/2r8nNouZ00fu3vA3CLmgos) | 4:13 | 2022-01-21 | 2022-07-28 |
 | [Slowdown](https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM) | [Thomas Brett](https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz) | [Slowdown](https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y) | 8:17 | 2022-03-18 |  |
 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2022-01-21 |  |
@@ -177,7 +178,7 @@
 | [The Nixe of John Cage's River](https://open.spotify.com/track/6oq6jkurHXr3q9RhAeEkQ7) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:18 | 2022-01-21 |  |
 | [The Reckoning](https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda), [Ella Zwietnig](https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa) | [Far Within Reach](https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g) | 5:12 | 2022-01-21 |  |
 | [the river race](https://open.spotify.com/track/7tA1grFgMTBKiRwebiyvF8) | [Emra Grid](https://open.spotify.com/artist/20sUjZQrFJhslGZLMpvyIY) | [five cycles through an empty chamber](https://open.spotify.com/album/5k2FfmQtwwj83auNkMDPTe) | 9:36 | 2022-01-21 |  |
-| [The Smoke In The Photo \- Remastered](https://open.spotify.com/track/5fPGK6O2B8ljOsTSCfHI4B) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Neon \(Remastered\)](https://open.spotify.com/album/3M2JntluSuC9NNlkyq9lui) | 6:00 | 2022-01-21 |  |
+| [The Smoke In The Photo \- Remastered](https://open.spotify.com/track/5fPGK6O2B8ljOsTSCfHI4B) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Neon \(Remastered\)](https://open.spotify.com/album/3M2JntluSuC9NNlkyq9lui) | 6:00 | 2022-01-21 | 2023-03-04 |
 | [The Walk \- Piano Noir Rework](https://open.spotify.com/track/52oDFJBhX0QMwUiPUFIl1p) | [Sylvain Texier](https://open.spotify.com/artist/2a7kVqWOzTGVmZH28HZauf), [Ô Lake](https://open.spotify.com/artist/6811GEOzZlD8ILi15xUpbN), [Piano Noir](https://open.spotify.com/artist/3pNLseBzEa0hRjLqzI32KB) | [The Walk \(Piano Noir Rework\)](https://open.spotify.com/album/3bXyE5FNCRHuHwWT6Vx4OL) | 4:34 | 2022-01-28 |  |
 | [The Weavers](https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [The Weavers](https://open.spotify.com/album/7A65Zvm39UKY1t1DCVpjPs) | 2:32 | 2023-01-27 |  |
 | [The World Until Yesterday](https://open.spotify.com/track/7Jz9HikD4AWe2WoUIQLnBs) | [Paul Haslinger](https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE) | [The World Until Yesterday](https://open.spotify.com/album/3qiijbyweVFxZ6qcEKRSbX) | 2:56 | 2022-01-21 |  |

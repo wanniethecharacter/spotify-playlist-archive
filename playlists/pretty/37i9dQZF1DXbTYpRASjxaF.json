@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Azevedo, BIN",
-  "num_followers": 96226,
+  "num_followers": 96468,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMDNmZmViNzUyNzI0M2ZiMjBlNDA2ZjdkODhmNjU1NTAw",
+  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMDllOWNiYjFiOGMxMjE4NzdmNGQ0MDJmYzQ2ZTk4MDI4",
   "tracks": [
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+        "name": "Pixad\u00e3o",
+        "url": "https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq"
       },
       "artists": [
         {
@@ -1060,21 +1060,25 @@
           "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
         },
         {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
         }
       ],
-      "duration_ms": 244500,
-      "name": "Afrodis\u00edaco",
-      "url": "https://open.spotify.com/track/4N5X9gkfB7PUV8iE1P7pon"
+      "duration_ms": 310344,
+      "name": "Pixad\u00e3o",
+      "url": "https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1247,8 +1251,8 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Pixad\u00e3o",
-        "url": "https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq"
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
       "artists": [
         {
@@ -1256,25 +1260,21 @@
           "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         },
         {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
         }
       ],
-      "duration_ms": 310344,
-      "name": "Pixad\u00e3o",
-      "url": "https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c"
+      "duration_ms": 244500,
+      "name": "Afrodis\u00edaco",
+      "url": "https://open.spotify.com/track/4N5X9gkfB7PUV8iE1P7pon"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Evoque Miami Blue",
-        "url": "https://open.spotify.com/album/1CIU7JnfWM7DdXFdtx1Bap"
-      },
-      "artists": [
-        {
-          "name": "A$TRO BOY",
-          "url": "https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE"
-        }
-      ],
-      "duration_ms": 129044,
-      "name": "Evoque Miami Blue",
-      "url": "https://open.spotify.com/track/5wm1P0cfNLvQ3uauPoUjui"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Jogad\u00e3o Na Pista",
         "url": "https://open.spotify.com/album/5Buf68zaJMNgM6PlXQmgWo"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 215538,
       "name": "Jogad\u00e3o Na Pista",
       "url": "https://open.spotify.com/track/25MNsu2vO3puRdsLKdnQG3"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Evoque Miami Blue",
+        "url": "https://open.spotify.com/album/1CIU7JnfWM7DdXFdtx1Bap"
+      },
+      "artists": [
+        {
+          "name": "A$TRO BOY",
+          "url": "https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE"
+        }
+      ],
+      "duration_ms": 129044,
+      "name": "Evoque Miami Blue",
+      "url": "https://open.spotify.com/track/5wm1P0cfNLvQ3uauPoUjui"
     },
     {
       "added_at": "2023-03-03 03:01:00",

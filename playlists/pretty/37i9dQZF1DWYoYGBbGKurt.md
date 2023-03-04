@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,723 likes - 503 songs - 19 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,835 likes - 503 songs - 19 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -431,7 +431,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 421 | [Under Water](https://open.spotify.com/track/2UltutQuhWKc1hPuEY5Rje) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Under Water](https://open.spotify.com/album/2hcHXpCfHtP28XiAgEopaB) | 3:00 |
 | 422 | [Image Of A Day](https://open.spotify.com/track/0Q5EwdgQaODvqjHOXlLMMA) | [dogphase](https://open.spotify.com/artist/2PhI5ndGzuBaGWTPadjj4g) | [Image Of A Day](https://open.spotify.com/album/2sQMEf1EzL6tpRv99anKRT) | 1:50 |
 | 423 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 |
-| 424 | [perspectives](https://open.spotify.com/track/0LmvYj2kBwhthoRghRt1RK) | [Jens Nirme](https://open.spotify.com/artist/3illAmiJoox5u3D7qhkO6t) | [perspectives](https://open.spotify.com/album/65DlzFrL661lJGLZT9A0hJ) | 1:46 |
+| 424 | [perspectives](https://open.spotify.com/track/0LmvYj2kBwhthoRghRt1RK) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [perspectives](https://open.spotify.com/album/65DlzFrL661lJGLZT9A0hJ) | 1:46 |
 | 425 | [Hope](https://open.spotify.com/track/153ikHLHd0r3dhycyYuLfn) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Hope](https://open.spotify.com/album/1CALuWpHb0s5Hjjk5FA08D) | 2:12 |
 | 426 | [summer let go](https://open.spotify.com/track/0MC6K4FCW4kDZsNXVn994T) | [LoDub](https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36) | [summer let go](https://open.spotify.com/album/0ZT611XyEpAdfYaRgR7KB2) | 2:22 |
 | 427 | [nightfall](https://open.spotify.com/track/6Jll9RzBBvPYWWNvQhiPyj) | [Roe Cutz](https://open.spotify.com/artist/3tv9tFr4bEFisyEYhXkyxQ) | [nightfall](https://open.spotify.com/album/7dag2jPl7v0GCjXPPMkBPd) | 2:13 |

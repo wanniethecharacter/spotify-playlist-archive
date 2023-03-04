@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Jessica Audiffred
 
-305 songs - 17 hr 25 min
+306 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Locked Away](https://open.spotify.com/track/4dDsN26EhF826uDrYz5BkX) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Courtney Drummey](https://open.spotify.com/artist/4sF2Kkq3hn0yTEGTNfanGl) | [Locked Away](https://open.spotify.com/album/6GeCiqBk5lBVg1pSY4MCBF) | 3:32 | 2021-12-17 | 2022-02-12 |
 | [Lore](https://open.spotify.com/track/0W3b6YlEKoj1g5pNUPB6sw) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Lore](https://open.spotify.com/album/2DroDTcbfu9nkZbzHJn4dX) | 3:40 | 2022-04-22 |  |
 | [Lose Your Shit](https://open.spotify.com/track/43AQsk8AnWfEwiwFB5lo8K) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Lose Your Shit](https://open.spotify.com/album/71sB5UqHjvyV1oXNYObWxW) | 3:07 | 2021-12-17 | 2022-05-07 |
-| [LOST IN YOU](https://open.spotify.com/track/4TMtydweRFufJuukwDH48j) | [Monxx](https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0) | [LOST IN YOU](https://open.spotify.com/album/5IAPB5SzAZOZkYFOXGEA4C) | 3:34 | 2022-06-17 |  |
+| [LOST IN YOU](https://open.spotify.com/track/4TMtydweRFufJuukwDH48j) | [Monxx](https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0) | [LOST IN YOU](https://open.spotify.com/album/5IAPB5SzAZOZkYFOXGEA4C) | 3:34 | 2022-06-17 | 2023-03-04 |
 | [Lunar Tear](https://open.spotify.com/track/33ocUBiuYwpxVygdiuLDJU) | [Kotori](https://open.spotify.com/artist/20UYCAvAHJ1WqrCElptD7O) | [Lunar Tear](https://open.spotify.com/album/6waf9VcbO1wpn7iAcFME7b) | 3:19 | 2021-12-17 | 2022-08-30 |
 | [Magma](https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Magma](https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5) | 3:21 | 2021-12-17 | 2022-10-08 |
 | [MAKE A MOVE](https://open.spotify.com/track/3iXf7W37Yetv36gTgDlZ93) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Make A Move](https://open.spotify.com/album/7y82PxGmIMKNyCmZvRbqIa) | 3:46 | 2021-12-17 | 2022-05-07 |
@@ -195,6 +195,7 @@
 | [NOW U KNOW](https://open.spotify.com/track/1kfRotqCTlq1ZsSHpd8l7W) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [VRG](https://open.spotify.com/artist/56hXYTbEGYdTwI2zjMMcVh) | [NOW U KNOW](https://open.spotify.com/album/2iSUn42TWOutaxagug7Syb) | 2:43 | 2023-01-13 |  |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-03 | 2022-11-12 |
 | [Obsidian Vortex](https://open.spotify.com/track/5zJkRl2lsuP1bD1djEodCZ) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g) | [Obsidian Vortex](https://open.spotify.com/album/0gx6FvmRuJF7ZGlYayQqBx) | 2:42 | 2022-09-16 | 2023-02-25 |
+| [Obsidian Vortex](https://open.spotify.com/track/6O6ePDpaKefShKvHezsWqc) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [Bassrush](https://open.spotify.com/artist/2uOqv5KjPE7sW2FR2QN1zf) | [Obsidian Vortex](https://open.spotify.com/album/21FZvF7MqY5GaCtuyxxaW7) | 2:42 | 2023-02-24 |  |
 | [OG BOI BE BACK](https://open.spotify.com/track/6N4CWmnnPyCP2UBsgQK7So) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [OG BOI BE BACK](https://open.spotify.com/album/4R8rPTq1pGKKLD2AFHO0rv) | 2:48 | 2022-07-08 | 2022-08-08 |
 | [Old School](https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Old School](https://open.spotify.com/album/5FPyXKsRMhaRLFNSvLA5jk) | 2:19 | 2023-02-24 |  |
 | [Oldskool](https://open.spotify.com/track/3x34JXZdyZdkfEgkHT3eNC) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Mechanized Mayhem Vol\. 2](https://open.spotify.com/album/5JZXWPiy5bwrkJng3gYJcr) | 3:39 | 2022-01-21 | 2023-01-27 |

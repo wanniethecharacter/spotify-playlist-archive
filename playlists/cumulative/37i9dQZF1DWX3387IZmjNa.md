@@ -2,9 +2,9 @@
 
 ### [B.A.E.](https://open.spotify.com/playlist/37i9dQZF1DWX3387IZmjNa)
 
-> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Lil Tjay
+> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Dess Dior
 
-275 songs - 14 hr 14 min
+276 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Summer Luv](https://open.spotify.com/track/3Hf0F9eDNqdtBq00PAtDa4) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Summer Luv](https://open.spotify.com/album/4cfRKpqvD4Nmy5qVPHk9JD) | 2:26 | 2021-10-07\* | 2021-10-23 |
 | [Sunset](https://open.spotify.com/track/3rPdrSNCDwH9gyclgE6CBD) | [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq) | [Sunset](https://open.spotify.com/album/4v80KSqDkJjiNDiuBmuR6U) | 4:02 | 2021-09-24 | 2022-01-29 |
 | [Swangin’ On Westheimer](https://open.spotify.com/track/0sze9rycXZswg5emYTFklv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 4:48 | 2021-10-13 | 2022-06-11 |
-| [Tada \(feat\. Blxst\)](https://open.spotify.com/track/6OG1hV6boTYr0GGU16NNnz) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Tada \(feat\. Blxst\)](https://open.spotify.com/album/19tfV4P34rmSvKoc6abGJw) | 3:06 | 2023-02-17 |  |
+| [Tada \(feat\. Blxst\)](https://open.spotify.com/track/6OG1hV6boTYr0GGU16NNnz) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Tada \(feat\. Blxst\)](https://open.spotify.com/album/19tfV4P34rmSvKoc6abGJw) | 3:06 | 2023-02-17 | 2023-03-04 |
 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b) | 4:41 | 2022-10-21 | 2023-02-25 |
 | [Take You Back \(feat\. Lil Durk\)](https://open.spotify.com/track/1WrVBzjNuyDBqh0kXHFsCr) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:21 | 2022-02-25 | 2022-08-27 |
 | [Taken For Granted](https://open.spotify.com/track/3CsdKcnQRUtuPO7hHjzJ1P) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Taken For Granted](https://open.spotify.com/album/1v9tdLs34CUDSItvFilRMD) | 2:50 | 2021-10-30 | 2021-12-11 |
@@ -247,6 +247,7 @@
 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 | 2022-08-12 |  |
 | [Toxic Traits \(with KB Mike\)](https://open.spotify.com/track/3ip51s5ui2OEur1fzCKsaJ) | [Lul Bob](https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj), [KB Mike](https://open.spotify.com/artist/6dGMlf9UbIdCyLvUiAS4yY) | [Toxic Traits \(with KB Mike\)](https://open.spotify.com/album/4sYNQCQPR4fgNLHtl2hBhp) | 2:39 | 2022-07-08 | 2022-09-10 |
 | [Track Star \(Remix 2.0\)\(feat\. Chris Brown, A Boogie wit da Hoodie & Yung Bleu\)](https://open.spotify.com/track/53sTK6KBrvsuqKT9qNpS5d) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Track Star \(Remix 2.0\)\(feat\. Chris Brown, A Boogie wit da Hoodie & Yung Bleu\)](https://open.spotify.com/album/7apgoRWUQYh2dfIaI8yYWi) | 3:41 | 2021-10-07\* | 2021-11-19 |
+| [Trapping & Finessing \(LOVE Song\)](https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Trapping & Finessing](https://open.spotify.com/album/3Z0aq4NH3sfrAMURV9pv41) | 2:28 | 2023-03-03 |  |
 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 | 2022-05-27 | 2022-08-27 |
 | [UDNTLUVME](https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0) | 2:18 | 2023-02-17 |  |
 | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 | 2022-02-11 | 2022-05-20 |

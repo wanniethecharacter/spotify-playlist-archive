@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Shreya Jain",
+  "description": "New music from popular Hindi artists. Cover- Ankush Bhardwaj",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -426,7 +426,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 317091,
       "name": "Achha Sila Diya",
       "url": "https://open.spotify.com/track/0WVMcPw0MpCyckkjdGt0p4"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 158447,
       "name": "Alfaazo",
       "url": "https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 165433,
       "name": "Ashk",
       "url": "https://open.spotify.com/track/2qdoVOsvvReqa2fcx33dzg"
@@ -1816,6 +1816,32 @@
       "duration_ms": 127377,
       "name": "Chhori Bewafa",
       "url": "https://open.spotify.com/track/4pP0P0aMQkGv1b7YCbRsFb"
+    },
+    {
+      "album": {
+        "name": "Choo Liya",
+        "url": "https://open.spotify.com/album/0bm7EwOK7BLJUrrx0J9Sm6"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "MEER",
+          "url": "https://open.spotify.com/artist/4Qtx4aI2TxoK7IDTDZgvti"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183225,
+      "name": "Choo Liya",
+      "url": "https://open.spotify.com/track/3CCKZEmtnCCbq2jrEihxgr"
     },
     {
       "album": {
@@ -3120,7 +3146,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 178000,
       "name": "Ho Jaane Do",
       "url": "https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj"
@@ -4542,6 +4568,28 @@
       "duration_ms": 148288,
       "name": "Khula Aasmaan",
       "url": "https://open.spotify.com/track/0K87woraSH2QnwWz85loxE"
+    },
+    {
+      "album": {
+        "name": "Khwab",
+        "url": "https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        },
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158910,
+      "name": "Khwab",
+      "url": "https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv"
     },
     {
       "album": {
@@ -5988,7 +6036,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 265449,
       "name": "O Sanam",
       "url": "https://open.spotify.com/track/52ENFRh2u6JxjeKYhsKPML"
@@ -6382,6 +6430,24 @@
       "duration_ms": 197304,
       "name": "Phir Bekhabar",
       "url": "https://open.spotify.com/track/5pUrlEGxrzuC2PzjcqBFRA"
+    },
+    {
+      "album": {
+        "name": "Poori Tarah Se",
+        "url": "https://open.spotify.com/album/2euZcVgfeai6fDMUQNmbog"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194900,
+      "name": "Poori Tarah Se",
+      "url": "https://open.spotify.com/track/5vE3s0cujAgnFmfbMf8xfh"
     },
     {
       "album": {
@@ -7795,6 +7861,50 @@
     },
     {
       "album": {
+        "name": "Tere Hone Se",
+        "url": "https://open.spotify.com/album/3VBhUpmVVwGtSZd2TGd8FK"
+      },
+      "artists": [
+        {
+          "name": "DJ Suketu",
+          "url": "https://open.spotify.com/artist/4TfiXd01xLFV0xg8PSCysH"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301092,
+      "name": "Tere Hone Se",
+      "url": "https://open.spotify.com/track/0WOQ0NIjQEAFHXS9haQDOZ"
+    },
+    {
+      "album": {
+        "name": "Teri Haan Na",
+        "url": "https://open.spotify.com/album/6A90hWdp94Xtz0eSZ1WnrY"
+      },
+      "artists": [
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        },
+        {
+          "name": "Prabhjee Kaur",
+          "url": "https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Teri Haan Na",
+      "url": "https://open.spotify.com/track/5H0n5lQmvj7QSjIFd3iyZD"
+    },
+    {
+      "album": {
         "name": "Teri Mohabbat",
         "url": "https://open.spotify.com/album/3PeeueMTGj7xHFFLnwuzl1"
       },
@@ -8222,7 +8332,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 197392,
       "name": "Tu Mile Dil Khile",
       "url": "https://open.spotify.com/track/6SnqFFm7Qp68efuVygvwtU"
@@ -8578,6 +8688,28 @@
       "duration_ms": 238263,
       "name": "Tumhe Pyaar Karungga",
       "url": "https://open.spotify.com/track/1mPuVuDCF53dcUVw8RR2Ja"
+    },
+    {
+      "album": {
+        "name": "Tumne Hamein",
+        "url": "https://open.spotify.com/album/61mTverss6T06JkYOBxeVN"
+      },
+      "artists": [
+        {
+          "name": "Ankush Bhardwaj",
+          "url": "https://open.spotify.com/artist/0XshHSxU5gt37nBa6SS8gY"
+        },
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Tumne Hamein",
+      "url": "https://open.spotify.com/track/1d9KnLHrsroucWcoNKvHtP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Mau y Ricky
 
-132 songs - 8 hr 0 min
+133 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Como No Voy A Decirlo](https://open.spotify.com/track/7jWJmX8lNp4HA741nlpycA) | [Luis Silva](https://open.spotify.com/artist/3B53VdSraW2MeEeLYAvEs1) | [Yo Soy Venezuela \- Luis Silva](https://open.spotify.com/album/4Rj93ZaeAAZQHQbbUGbRaO) | 3:32 | 2021-12-17 | 2022-07-29 |
 | [Como No Voy a Decirlo](https://open.spotify.com/track/04ni2piejFIGzhdcxmVVkK) | [Luis Silva](https://open.spotify.com/artist/3B53VdSraW2MeEeLYAvEs1) | [Mis Canciones](https://open.spotify.com/album/4JZBPCpR7X5YKF86GBT2vF) | 3:36 | 2022-07-01 |  |
 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 | 2021-12-17 |  |
-| [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 | 2023-02-10 |  |
+| [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 | 2023-02-10 | 2023-03-04 |
 | [Cremosa](https://open.spotify.com/track/6UMKk8R4XdJFouZUNHIG5I) | [El Arka](https://open.spotify.com/artist/70Dxh945oypt9niP4GLc67), [Budu](https://open.spotify.com/artist/7n0qv6tQpogYMmeLs0nYAD) | [Cremosa](https://open.spotify.com/album/46KPvKMJ7XHo4Ml6IIbf8K) | 3:42 | 2021-12-17 |  |
 | [Culpable Soy Yo](https://open.spotify.com/track/1ASbVP7bURAn44DmhqCNjY) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 3:22 | 2021-12-17 | 2022-04-23 |
 | [Cómo No Voy a Decirlo](https://open.spotify.com/track/2t0dKVFtDolRZKh2vi1wEZ) | [Luis Silva](https://open.spotify.com/artist/3B53VdSraW2MeEeLYAvEs1) | [Cómo No Voy a Decirlo](https://open.spotify.com/album/1KFJK6q57o7aKvjquy2nmi) | 3:31 | 2022-09-30 | 2022-11-13 |
@@ -57,6 +57,7 @@
 | [El Vestido Rojo](https://open.spotify.com/track/74PhyV4HkK7U8b0PA7EltH) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Mas](https://open.spotify.com/album/5MY9kJKE0htceIs1dmu0ax) | 3:55 | 2021-12-17 | 2022-07-29 |
 | [El Vestido Rojo](https://open.spotify.com/track/7c9xKmYxpAoOMd2IrRTKrr) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Solo Éxitos](https://open.spotify.com/album/4lO58l6N3w48Wvhe13VkTK) | 3:55 | 2022-09-30 | 2022-11-13 |
 | [El Vestido Rojo](https://open.spotify.com/track/7kHWGndhOzJt8z7mPMGWj8) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Más](https://open.spotify.com/album/5xWEx3TdvlQTdZlmahuRp2) | 3:55 | 2022-07-01 |  |
+| [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 | 2023-03-03 |  |
 | [EN SOLEDAD \(feat\. ADSO, Akapellah\)](https://open.spotify.com/track/7cSJCBT0AOLMAmgXaauUE0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 4:22 | 2022-05-19 |  |
 | [Es Épico](https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 6:01 | 2021-12-17 |  |
 | [Espero Que Seas Feliz](https://open.spotify.com/track/5RQbH0k816MmniwnAFIg7p) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:35 | 2021-12-17 |  |

@@ -2091,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "Samkhya",
+        "url": "https://open.spotify.com/album/3u9iNrwANFmlTSg0lMepDc"
+      },
+      "artists": [
+        {
+          "name": "AG Sintonia Project",
+          "url": "https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219333,
+      "name": "Samkhya",
+      "url": "https://open.spotify.com/track/2qIFJzdlAPnxn31gmCXKcU"
+    },
+    {
+      "album": {
         "name": "Anjali",
         "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
       },
@@ -2286,6 +2304,24 @@
       "duration_ms": 478839,
       "name": "Songs From the Seven Towers",
       "url": "https://open.spotify.com/track/05FWTD99Edbcn2WHakyk4w"
+    },
+    {
+      "album": {
+        "name": "Strenght",
+        "url": "https://open.spotify.com/album/6rPZfQ4Wc4FiLj4VVeeFTF"
+      },
+      "artists": [
+        {
+          "name": "Dhyaan Sangeet",
+          "url": "https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "Strenght",
+      "url": "https://open.spotify.com/track/3A7HBtO3W28kBKOJHBb9dZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Co\-curated by a number of our ambassadors for International Women’s Day\. Cover: Jamala.
 
-1,049 songs - 2 day 10 hr 2 min
+1,050 songs - 2 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Alive](https://open.spotify.com/track/3yg4TZJBk7UuF6mJEsWwTe) | [Coely](https://open.spotify.com/artist/2DzbXUAn0DiYqcgu2wDfaf) | [Alive](https://open.spotify.com/album/3xIUeWBzzmpOc1DyQNQnMl) | 3:21 | 2022-09-07 | 2022-10-05 |
 | [ALL ALONG](https://open.spotify.com/track/11Q12uGLdf1ZmbcCbevWAY) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 3:23 | 2021-12-11 | 2022-02-03 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-04-06 | 2022-05-05 |
+| [All We Wanna Do](https://open.spotify.com/track/3PZN1KTfFyZ3ZG4IvsVVvH) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [All We Wanna Do](https://open.spotify.com/album/6iiozkGWIugAbJL9wy3Bso) | 3:06 | 2023-03-03 |  |
 | [Alles gleich](https://open.spotify.com/track/1X06guJcCRZWf3wAAypBiU) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Alles gleich](https://open.spotify.com/album/1YUm7AIgpPjXsY2nnY1tAD) | 2:53 | 2022-01-05 | 2022-02-03 |
 | [am i not enough for now?](https://open.spotify.com/track/3WLaizg8lVLa2JCMbtVseD) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [am i not enough for now?](https://open.spotify.com/album/3Oowpwv5xOA7SjxqQCL47e) | 3:54 | 2022-05-04 | 2022-06-01 |
 | [AMAN](https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [AMAN](https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5) | 3:10 | 2022-10-04 | 2022-11-03 |
@@ -759,7 +760,7 @@
 | [Seni İstemiyorum](https://open.spotify.com/track/18cDeOCC2HAzZVVFGnIr2p) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Sür Eve](https://open.spotify.com/album/5G6okbDpmNo9vFBdfNRoa0) | 2:28 | 2022-01-05 | 2022-02-03 |
 | [Seoul](https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Seoul](https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF) | 3:24 | 2022-05-04 | 2022-06-01 |
 | [Serendipia](https://open.spotify.com/track/1paYMMK7oI0OpN8OuCsgqR) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Isa \(Nouvelle édition\)](https://open.spotify.com/album/5VXsO0AdwwtazdWJfEP1Ag) | 2:53 | 2023-01-04 | 2023-02-02 |
-| [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\) \[Edit\]](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-03-01 |  |
+| [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-03-01 |  |
 | [Shine](https://open.spotify.com/track/6IjEfZNMugnk5yhLLJDKg9) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi) | 2:33 | 2022-04-06 | 2022-05-05 |
 | [Show Me How \- Album edit](https://open.spotify.com/track/3Rvjf5rbWhar6k40WRrM5J) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming](https://open.spotify.com/album/0WqJS36WfpteeudLuB7kok) | 2:47 | 2022-01-05 | 2022-02-03 |
 | [Show's Rollin'](https://open.spotify.com/track/3EI9L3ixBWCJcquR5RTFgG) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ritorno Al Futuro / Back To The Future](https://open.spotify.com/album/6H5SKANQcashhGmjQ3to7O) | 3:48 | 2022-03-08 | 2022-04-07 |
@@ -841,7 +842,7 @@
 | [The Light](https://open.spotify.com/track/4MXjIVrCiqWA2h8PTQPaeU) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [The Light](https://open.spotify.com/album/2g1NSuuk9unmJMKofGUM2f) | 4:12 | 2022-04-06 | 2022-05-05 |
 | [The One \(I Haven't Met\)](https://open.spotify.com/track/69AXV3HDhBaenIesoWmbwU) | [Nathalie Ezmeralda](https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0) | [The One \(I Haven't Met\)](https://open.spotify.com/album/3U2fV9wl1XLqA3AYAfpYF1) | 3:07 | 2023-02-01 | 2023-03-02 |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-08-03 | 2022-09-09 |
-| [The Will](https://open.spotify.com/track/1BxCB6TMT7kuxQIkhZMlib) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [The Will](https://open.spotify.com/album/0ac32bjYYmn2NCjaoP0kPQ) | 2:10 | 2023-03-01 |  |
+| [The Will](https://open.spotify.com/track/1BxCB6TMT7kuxQIkhZMlib) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [The Will](https://open.spotify.com/album/0ac32bjYYmn2NCjaoP0kPQ) | 2:10 | 2023-03-01 | 2023-03-04 |
 | [Therapeutic](https://open.spotify.com/track/5p6NTZUWgLrzI5r7shfEPa) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [Therapeutic](https://open.spotify.com/album/09rli57QuImAQF5Jy3blFc) | 2:10 | 2022-11-02 | 2022-12-01 |
 | [There's Too Much Of You](https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/1RpUrBuml8USoJNuUAbVrH) | 2:18 | 2023-02-01 | 2023-03-02 |
 | [Things Aren't Nice In Paradise](https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz) | 3:11 | 2023-03-01 |  |

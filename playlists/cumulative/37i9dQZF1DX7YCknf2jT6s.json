@@ -483,6 +483,28 @@
     },
     {
       "album": {
+        "name": "Aged Eyes",
+        "url": "https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Kaya Thomas-Dyke",
+          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "Aged Eyes",
+      "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
+    },
+    {
+      "album": {
         "name": "aggressive breathing, an ode to the hunt",
         "url": "https://open.spotify.com/album/6VMzqZ1QYVeclKmvF0VCVD"
       },
@@ -804,6 +826,28 @@
       "duration_ms": 540556,
       "name": "Always and Forever - Live",
       "url": "https://open.spotify.com/track/0vnpJaolrARfbM9OAgspPx"
+    },
+    {
+      "album": {
+        "name": "JazzRx",
+        "url": "https://open.spotify.com/album/1Fz0RWPWOCXA54HECXHMhI"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        },
+        {
+          "name": "Akenya",
+          "url": "https://open.spotify.com/artist/2pHQOZq131jMXYSTjP3Ncx"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201410,
+      "name": "Always Here",
+      "url": "https://open.spotify.com/track/21Y8MSySpubfrs80AInKFb"
     },
     {
       "album": {
@@ -1602,7 +1646,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 450240,
       "name": "BC",
       "url": "https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG"
@@ -2411,6 +2455,32 @@
     },
     {
       "album": {
+        "name": "Life & Fire",
+        "url": "https://open.spotify.com/album/4f6pumXqPwMZp1KmmT5yYw"
+      },
+      "artists": [
+        {
+          "name": "Omer Klein",
+          "url": "https://open.spotify.com/artist/0YGq6lWfXYjeUjM7oZkEho"
+        },
+        {
+          "name": "Haggai Cohen Milo",
+          "url": "https://open.spotify.com/artist/2fI1YlX1x0WkepdSlvLVve"
+        },
+        {
+          "name": "Amir Bresler",
+          "url": "https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291163,
+      "name": "Cantando",
+      "url": "https://open.spotify.com/track/2oOV71P4ReVRX5a4b94LNt"
+    },
+    {
+      "album": {
         "name": "Next Stop",
         "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
       },
@@ -2903,6 +2973,36 @@
     },
     {
       "album": {
+        "name": "Cosmic Changes",
+        "url": "https://open.spotify.com/album/5tHLgERGdcXf9mQANy8c0t"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Liston Smith",
+          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Loren Oden",
+          "url": "https://open.spotify.com/artist/6FAJyMDeXJXCRryVAUXNkQ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227068,
+      "name": "Cosmic Changes",
+      "url": "https://open.spotify.com/track/3HcDw9iCzDEC2mVNEyNAfQ"
+    },
+    {
+      "album": {
         "name": "COSMIC INTERCOURSE (Pt. II) (feat. Chris Dave)",
         "url": "https://open.spotify.com/album/0pI2RJ7PFkmDX3yT04MeFW"
       },
@@ -3022,7 +3122,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 224836,
       "name": "D'un feu secret",
       "url": "https://open.spotify.com/track/7dP5Y13MV07A983j7kiPkf"
@@ -4286,7 +4386,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 242000,
       "name": "Every Good Thing ~Four Seasons of SAKURA MACHI~",
       "url": "https://open.spotify.com/track/0mlnxPCdytBO1j1dNu2im9"
@@ -4828,6 +4928,24 @@
       "duration_ms": 190449,
       "name": "For Some Time",
       "url": "https://open.spotify.com/track/6Aze3fJpctyiW2b11U5K1j"
+    },
+    {
+      "album": {
+        "name": "Friday Film Special",
+        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249675,
+      "name": "Friday Film Special",
+      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
     },
     {
       "album": {
@@ -5600,6 +5718,48 @@
       "duration_ms": 222493,
       "name": "Head in the Clouds",
       "url": "https://open.spotify.com/track/0q6gOQqr5KcC2RUmXlh2pl"
+    },
+    {
+      "album": {
+        "name": "Hearing Is Seeing",
+        "url": "https://open.spotify.com/album/24Fj2VMMnpXNE2h4rwEEgR"
+      },
+      "artists": [
+        {
+          "name": "Reginald Chapman",
+          "url": "https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB"
+        },
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        },
+        {
+          "name": "Tennishu",
+          "url": "https://open.spotify.com/artist/4SNZv6dF06QGC335mAsXeg"
+        },
+        {
+          "name": "R4nd4zzo",
+          "url": "https://open.spotify.com/artist/4TaM7yPjrpK39ZozZDP7tA"
+        },
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Rob Quallich",
+          "url": "https://open.spotify.com/artist/754g3wQVj4vfm1UMrOm4Ds"
+        },
+        {
+          "name": "Jacob Ungerlieder",
+          "url": "https://open.spotify.com/artist/1Ffk6Z6kIPstWZOe8jXtWH"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308433,
+      "name": "Hearing Is Seeing",
+      "url": "https://open.spotify.com/track/3SdmWOusKGgMIPJ1KPRHfW"
     },
     {
       "album": {
@@ -6795,6 +6955,32 @@
     },
     {
       "album": {
+        "name": "Corridors",
+        "url": "https://open.spotify.com/album/378aEOqUQ1caegAwHxlyuv"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Scott",
+          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
+        },
+        {
+          "name": "Reuben Rogers",
+          "url": "https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL"
+        },
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308146,
+      "name": "Isn't This My Sound Around Me? (feat. Reuben Rogers, Walter Smith III)",
+      "url": "https://open.spotify.com/track/08wE4pl2bY1qaM5mqqCiG6"
+    },
+    {
+      "album": {
         "name": "It",
         "url": "https://open.spotify.com/album/0iugyVpDcuoRnRajOrXcj8"
       },
@@ -7854,7 +8040,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 266942,
       "name": "Lokum",
       "url": "https://open.spotify.com/track/1LhXwBdUdkN20igjixRGmy"
@@ -8872,7 +9058,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 359960,
       "name": "Mohanam",
       "url": "https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs"
@@ -9584,7 +9770,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 312438,
       "name": "Nightingale",
       "url": "https://open.spotify.com/track/5NR9iphghcSLdLdLTNFsm5"
@@ -10439,6 +10625,24 @@
     },
     {
       "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+    },
+    {
+      "album": {
         "name": "Every Story / Pivot",
         "url": "https://open.spotify.com/album/4D9eXpTDXXLDO8OUyj2VZi"
       },
@@ -11126,7 +11330,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 335515,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/5i7jFc90XNuTFfDNIhyfhw"
@@ -11598,7 +11802,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 293298,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
@@ -13077,6 +13281,24 @@
     },
     {
       "album": {
+        "name": "Synapse",
+        "url": "https://open.spotify.com/album/0YW1Wqu4Wf7bmkkDuddSoP"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Synapse",
+      "url": "https://open.spotify.com/track/1GrmygOfLmflrho3gQRw9J"
+    },
+    {
+      "album": {
         "name": "Synchronized Swigging",
         "url": "https://open.spotify.com/album/2XWqGPWSN4EI4PQfGfhPB7"
       },
@@ -13875,6 +14097,28 @@
     },
     {
       "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/2PxRmiHfbsMvgOkr9MkBhP"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Abraham Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/1U1SWJdIJlrIcmhuBa78we"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168915,
+      "name": "The Healer",
+      "url": "https://open.spotify.com/track/0Jpv4UFqpoWiBbUgbsfaI8"
+    },
+    {
+      "album": {
         "name": "Cloud 10",
         "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
       },
@@ -14266,7 +14510,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 378957,
       "name": "The Ravens",
       "url": "https://open.spotify.com/track/5uVmfl0inv2HxLBN6xYKzb"
@@ -14332,6 +14576,24 @@
       "duration_ms": 264000,
       "name": "The Scout",
       "url": "https://open.spotify.com/track/3mKHDZazl2fuugMyTRE39e"
+    },
+    {
+      "album": {
+        "name": "The Spinner",
+        "url": "https://open.spotify.com/album/50a5yWK8jin5JfcZRAHNeK"
+      },
+      "artists": [
+        {
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319829,
+      "name": "The Spinner",
+      "url": "https://open.spotify.com/track/6xcRnI7LJAONyd2kmk5564"
     },
     {
       "album": {
@@ -15924,7 +16186,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 294653,
       "name": "What Day Is It? (feat. Reuben Rogers, Walter Smith III)",
       "url": "https://open.spotify.com/track/1QiYLCJgq2NjglKW9EKxiv"
@@ -16254,7 +16516,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 305893,
       "name": "Yekor Ye A Yeaba",
       "url": "https://open.spotify.com/track/402JMdfXw5Kep7mXzoeJj1"

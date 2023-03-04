@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7994,
+  "num_followers": 7996,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMDFmOTA3OTZjNDg2NWYwYWQyYmY2NGVlYjFhMzFjZjI1",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGU1NjYwODY1OWUzYzEyNTkyOGFmM2ZiZmEzMDJjMjNl",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Fieldtrip",
-        "url": "https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV"
-      },
-      "artists": [
-        {
-          "name": "GrimSkunk",
-          "url": "https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL"
-        }
-      ],
-      "duration_ms": 190040,
-      "name": "Gros tas d'marde",
-      "url": "https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Le d\u00e9lire du savant fou",
         "url": "https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 199066,
       "name": "Le savant fou",
       "url": "https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Fieldtrip",
+        "url": "https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV"
+      },
+      "artists": [
+        {
+          "name": "GrimSkunk",
+          "url": "https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Gros tas d'marde",
+      "url": "https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -255,22 +255,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Les Goules",
-        "url": "https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC"
-      },
-      "artists": [
-        {
-          "name": "Les Goules",
-          "url": "https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA"
-        }
-      ],
-      "duration_ms": 218560,
-      "name": "Crabe",
-      "url": "https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Ma g\u00e9n\u00e9ration",
         "url": "https://open.spotify.com/album/71HOD6rGHk89meMJ7KQEBk"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 227626,
       "name": "Magan\u00e9",
       "url": "https://open.spotify.com/track/10ftfZxIPLStdkw7hTuL09"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Les Goules",
+        "url": "https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC"
+      },
+      "artists": [
+        {
+          "name": "Les Goules",
+          "url": "https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "Crabe",
+      "url": "https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -331,6 +331,22 @@
       "duration_ms": 262720,
       "name": "Le coup d'\u00e9tat",
       "url": "https://open.spotify.com/track/1ezk3E6ZvorHOEJjlfbEa3"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Sans foi ni loi",
+        "url": "https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9"
+      },
+      "artists": [
+        {
+          "name": "Les Pistolets Roses",
+          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Grossiere ind\u00e9cence",
+      "url": "https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -427,22 +443,6 @@
       "duration_ms": 208000,
       "name": "Ma dope \u00e0 moi",
       "url": "https://open.spotify.com/track/7q88dRmLZvQQ09h7y1nJNc"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Sans foi ni loi",
-        "url": "https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9"
-      },
-      "artists": [
-        {
-          "name": "Les Pistolets Roses",
-          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Grossiere ind\u00e9cence",
-      "url": "https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -607,18 +607,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "La Chango Family",
-        "url": "https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd"
+        "name": "Sur quelle plan\u00e8te",
+        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
       },
       "artists": [
         {
-          "name": "La Chango Family",
-          "url": "https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8"
+          "name": "V\u00e9nus 3",
+          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
         }
       ],
-      "duration_ms": 206333,
-      "name": "Joyeus'ment d\u00e9sesp\u00e9r\u00e9",
-      "url": "https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA"
+      "duration_ms": 323400,
+      "name": "Dans les airs",
+      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -639,34 +639,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Thermoplastique",
-        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
+        "name": "La Chango Family",
+        "url": "https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd"
       },
       "artists": [
         {
-          "name": "Les Secr\u00e9taires Volantes",
-          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
+          "name": "La Chango Family",
+          "url": "https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8"
         }
       ],
-      "duration_ms": 173626,
-      "name": "Thermoplastique",
-      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Sur quelle plan\u00e8te",
-        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9nus 3",
-          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
-        }
-      ],
-      "duration_ms": 323400,
-      "name": "Dans les airs",
-      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
+      "duration_ms": 206333,
+      "name": "Joyeus'ment d\u00e9sesp\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -683,6 +667,22 @@
       "duration_ms": 79840,
       "name": "Vent fou",
       "url": "https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Thermoplastique",
+        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
+      },
+      "artists": [
+        {
+          "name": "Les Secr\u00e9taires Volantes",
+          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
+        }
+      ],
+      "duration_ms": 173626,
+      "name": "Thermoplastique",
+      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
     },
     {
       "added_at": "2020-06-23 14:47:30",

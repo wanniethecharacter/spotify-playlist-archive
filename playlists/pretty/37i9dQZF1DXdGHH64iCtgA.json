@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 59350,
+  "num_followers": 59387,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDM1MDAzNmEwMDMzNjYzZDEzN2E3ODAwYmY1ZGQ4YmE3",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDdkYzJjODJjNTZhOTIzNmEyMGY2Nzk0YjE1YjQ3ZmRh",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "MAGDALENE",
-        "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 255720,
-      "name": "sad day",
-      "url": "https://open.spotify.com/track/68lrQ6jAW5cOyn7GX39uzz"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Han Jan",
         "url": "https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 242982,
       "name": "Han Jan - Edit",
       "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "MAGDALENE",
+        "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "sad day",
+      "url": "https://open.spotify.com/track/68lrQ6jAW5cOyn7GX39uzz"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Do You Love Her Now / He",
+        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "He",
+      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "I Go (Remixes)",
         "url": "https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Do You Love Her Now / He",
-        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
+        "name": "Premiers \u00e9mois",
+        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
       },
       "artists": [
         {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
         }
       ],
-      "duration_ms": 268000,
-      "name": "He",
-      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
+      "duration_ms": 176013,
+      "name": "Larme \u00e0 gauche",
+      "url": "https://open.spotify.com/track/5I0FpjL8ntcB3Z6MA4F1IH"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -591,22 +607,6 @@
       "duration_ms": 238081,
       "name": "Pluie fine - Polo & Pan Remix",
       "url": "https://open.spotify.com/track/33F1mJbbdTdmZuSI5zxoSw"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Premiers \u00e9mois",
-        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 176013,
-      "name": "Larme \u00e0 gauche",
-      "url": "https://open.spotify.com/track/5I0FpjL8ntcB3Z6MA4F1IH"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 191537,
-      "name": "Lights Up",
-      "url": "https://open.spotify.com/track/68fRXTgDg5V2p2wzHCPh9n"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "VSOD (Velvet Sky of Dreams)",
         "url": "https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 342000,
       "name": "VSOD - Velvet Sky of Dreams",
       "url": "https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 191537,
+      "name": "Lights Up",
+      "url": "https://open.spotify.com/track/68fRXTgDg5V2p2wzHCPh9n"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1211,34 +1211,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "F*ck",
-        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
       },
       "artists": [
         {
-          "name": "Mari Ferrari",
-          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+          "name": "KITTENS",
+          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
         }
       ],
-      "duration_ms": 174677,
-      "name": "F*ck",
-      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Premiers \u00e9mois",
-        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Lune est l'autre",
-      "url": "https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ"
+      "duration_ms": 187000,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1259,6 +1243,38 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Premiers \u00e9mois",
+        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Lune est l'autre",
+      "url": "https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "F*ck",
+        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
+      },
+      "artists": [
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "duration_ms": 174677,
+      "name": "F*ck",
+      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 176372,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
-      },
-      "artists": [
-        {
-          "name": "KITTENS",
-          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Romance Noire",
-        "url": "https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD"
-      },
-      "artists": [
-        {
-          "name": "Double Mixte",
-          "url": "https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR"
-        }
-      ],
-      "duration_ms": 312466,
-      "name": "Romance Noire",
-      "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Amniotic",
         "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 432266,
       "name": "Return to Oz",
       "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Romance Noire",
+        "url": "https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD"
+      },
+      "artists": [
+        {
+          "name": "Double Mixte",
+          "url": "https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR"
+        }
+      ],
+      "duration_ms": 312466,
+      "name": "Romance Noire",
+      "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Thirst",
+        "url": "https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y"
+      },
+      "artists": [
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Beograd - Edit",
+      "url": "https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Back Seat (Tseba Remix)",
         "url": "https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Thirst",
-        "url": "https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y"
-      },
-      "artists": [
-        {
-          "name": "SebastiAn",
-          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Beograd - Edit",
-      "url": "https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 244499,
       "name": "The Ghost",
       "url": "https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Galazy EP",
-        "url": "https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 412197,
-      "name": "Electrian",
-      "url": "https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1499,6 +1483,22 @@
       "duration_ms": 250009,
       "name": "U Wanna?",
       "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Galazy EP",
+        "url": "https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 412197,
+      "name": "Electrian",
+      "url": "https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Cirrus",
-        "url": "https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 352246,
-      "name": "Cirrus",
-      "url": "https://open.spotify.com/track/2hNTfrAILBLesbPootV83e"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1583,6 +1567,38 @@
       "duration_ms": 164000,
       "name": "U. - Junior Sanchez Remix",
       "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Cirrus",
+        "url": "https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 352246,
+      "name": "Cirrus",
+      "url": "https://open.spotify.com/track/2hNTfrAILBLesbPootV83e"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Poiemusia La Nau Dels Argonautes",
+        "url": "https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a"
+      },
+      "artists": [
+        {
+          "name": "Pep Llopis",
+          "url": "https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e"
+        }
+      ],
+      "duration_ms": 358582,
+      "name": "Jardins Aquatics",
+      "url": "https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1619,22 +1635,6 @@
       "duration_ms": 234146,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Poiemusia La Nau Dels Argonautes",
-        "url": "https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a"
-      },
-      "artists": [
-        {
-          "name": "Pep Llopis",
-          "url": "https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e"
-        }
-      ],
-      "duration_ms": 358582,
-      "name": "Jardins Aquatics",
-      "url": "https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Working Class Woman",
-        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
-      },
-      "artists": [
-        {
-          "name": "Marie Davidson",
-          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
-        }
-      ],
-      "duration_ms": 306187,
-      "name": "So Right",
-      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Like A Good Old Friend",
         "url": "https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 218906,
       "name": "Like A Good Old Friend",
       "url": "https://open.spotify.com/track/4Ndo9hhsgkQ171kzuDs1a9"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Working Class Woman",
+        "url": "https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "duration_ms": 306187,
+      "name": "So Right",
+      "url": "https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl"
     },
     {
       "added_at": "2023-02-10 05:00:00",

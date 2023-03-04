@@ -74,10 +74,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 133226,
       "name": "Been Smoking Too Long",
       "url": "https://open.spotify.com/track/0mpy4rRJcHILTMdnPatza8"
+    },
+    {
+      "album": {
+        "name": "Digital Box Set",
+        "url": "https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133226,
+      "name": "Been Smoking Too Long",
+      "url": "https://open.spotify.com/track/5lOv3f1Q1R9pnCxLKO8tkM"
     },
     {
       "album": {
@@ -110,10 +128,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 144293,
       "name": "Blues Run The Game",
       "url": "https://open.spotify.com/track/2x0iOnnRsVQDY4C8Pg7XoU"
+    },
+    {
+      "album": {
+        "name": "Digital Box Set",
+        "url": "https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145346,
+      "name": "Blues Run The Game",
+      "url": "https://open.spotify.com/track/6vXiqeYFjrNfj5dBwbC4iP"
     },
     {
       "album": {
@@ -359,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Digital Box Set",
+        "url": "https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179386,
+      "name": "Milk And Honey",
+      "url": "https://open.spotify.com/track/1JuAHdEvVrjni6NLOqg80F"
+    },
+    {
+      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
       },
@@ -550,7 +604,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 60626,
       "name": "Sketch 1",
       "url": "https://open.spotify.com/track/4ioMdV2VHZme6Qs6ecGyPo"

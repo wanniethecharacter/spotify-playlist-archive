@@ -4,7 +4,7 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-196 songs - 14 hr 16 min
+197 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Somewhere Someday](https://open.spotify.com/track/6dDDIKzbgh1exKHw0ZeEyk) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Legend of The Blue Sea OST Part.5](https://open.spotify.com/album/4kYSqN5tE2vUPdjuhIvyXE) | 4:31 | 2021-04-21 |  |
 | [Tears Fall Down At The End Of The Sky](https://open.spotify.com/track/1CvsjHs2psvFyeMLP1s4SV) | [Juniper](https://open.spotify.com/artist/6gXxUckROtxJeMb1Djj0aw) | [1st](https://open.spotify.com/album/2nMftYVmWeswq3BR50tUYC) | 4:28 | 2021-04-21 |  |
 | [The Letter](https://open.spotify.com/track/7x4ZCeYY5ihBsL7mXcN4TM) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [Lee Kyoung Seo](https://open.spotify.com/artist/3BVKpQR5CjWwQ9xN2kHP7m) | [Fantastic Duo, Pt\. 13](https://open.spotify.com/album/2BCByuEjdYUHbCI8SbsxAU) | 5:18 | 2021-04-21 |  |
-| [The Love](https://open.spotify.com/track/4hur0edzCvgM7tGd6K2ugZ) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Be One' \- Buzz The 1st Mini Album](https://open.spotify.com/album/7sDPOIycmjQE9FAOP9tWAV) | 3:59 | 2021-04-21 |  |
+| [The Love](https://open.spotify.com/track/0BL9z9DSwyVaf1qtAXMzgW) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [\`Be One\` \- Buzz The 1st Mini Album](https://open.spotify.com/album/6f1N5tucaSQHQlTIVOgsl4) | 3:59 | 2021-04-21 |  |
+| [The Love](https://open.spotify.com/track/4hur0edzCvgM7tGd6K2ugZ) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Be One' \- Buzz The 1st Mini Album](https://open.spotify.com/album/7sDPOIycmjQE9FAOP9tWAV) | 3:59 | 2021-04-21 | 2023-03-04 |
 | [The Love](https://open.spotify.com/track/7vAF7yjk44E8kimUqIFXsu) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [City Hunter \(Original Television Soundtrack\)](https://open.spotify.com/album/7MCxYIOR36Be0MFWVTSqlM) | 4:36 | 2021-04-21 |  |
 | [The man](https://open.spotify.com/track/6rC9QewFwfbUMU9eKEtcrQ) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [SECRET GARDEN DRAMA OST SPECIAL](https://open.spotify.com/album/2eW0reFNbfGhsOYu3a5nsh) | 4:31 | 2021-04-21 |  |
 | [the moon of Seoul](https://open.spotify.com/track/33q2T6Bt6N1JKGQ4lSYjPm) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Be Like…](https://open.spotify.com/album/0MmooZaQHSHgGD0bH3p6CH) | 3:43 | 2021-04-21 |  |

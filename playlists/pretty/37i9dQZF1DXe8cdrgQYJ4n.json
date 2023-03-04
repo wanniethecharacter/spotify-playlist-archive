@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 11231,
+  "num_followers": 11263,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMGMzMTJhM2Y2OWY2OTUyMTU4NjEyNTIzMDA5ODZlNTU2",
+  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMGRiM2QxZmQzNGQzNWM1YTM3ZTQxY2E2NzBiZTBmMzQ4",
   "tracks": [
     {
       "added_at": "2023-02-14 07:48:55",
@@ -353,6 +353,22 @@
       "url": "https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc"
     },
     {
+      "added_at": "2023-03-04 00:50:08",
+      "album": {
+        "name": "W.A.Y",
+        "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
+      },
+      "artists": [
+        {
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+        }
+      ],
+      "duration_ms": 177973,
+      "name": "WE ARE YOUNG",
+      "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
+    },
+    {
       "added_at": "2023-02-14 07:48:55",
       "album": {
         "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
@@ -367,22 +383,6 @@
       "duration_ms": 180320,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
-    },
-    {
-      "added_at": "2023-03-03 03:08:06",
-      "album": {
-        "name": "W.A.Y",
-        "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
-      },
-      "artists": [
-        {
-          "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "WE ARE YOUNG",
-      "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
     },
     {
       "added_at": "2023-02-14 07:48:55",
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
     },
     {
-      "added_at": "2023-03-03 03:08:06",
+      "added_at": "2023-03-04 00:50:08",
       "album": {
         "name": "a tempo",
         "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"

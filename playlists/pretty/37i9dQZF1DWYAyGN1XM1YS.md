@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Back to the golden age of emo\. Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,873 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,968 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 32 | [All These Things](https://open.spotify.com/track/5bDDMJLKJrQLeMj2FpKTXd) | [Benton Falls](https://open.spotify.com/artist/2Gy32a74uxhKUDGuQL57kl) | [Fighting Starlight](https://open.spotify.com/album/3g2zFcP2exTjpyvOncGB9Z) | 5:03 |
 | 33 | [Code Red](https://open.spotify.com/track/3Y82AcAH1o2NW04YYLXBZK) | [The Casket Lottery](https://open.spotify.com/artist/3kSqc2brwAF1kWRFWYe2fW) | [Survival is for Cowards](https://open.spotify.com/album/4t3CkrmaiYODMKPQ4h0wQa) | 4:43 |
 | 34 | [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame & Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 |
-| 35 | [Golf Hill Drive](https://open.spotify.com/track/3qAkXCzLSEHiypXxoLhl8K) | [Boys Life](https://open.spotify.com/artist/6pkUxQmEvLkvQRa75wf7Ta) | [Boys Life](https://open.spotify.com/album/6IiDM5sfirROcIXPRXxaUl) | 2:30 |
+| 35 | [Golf Hill Drive](https://open.spotify.com/track/0bafjmUoxYSEspRDVt4SOF) | [Boys Life](https://open.spotify.com/artist/6pkUxQmEvLkvQRa75wf7Ta) | [Boys Life](https://open.spotify.com/album/4yTMf2pCThPx4jED4yiW23) | 2:30 |
 | 36 | [Copper and Stars](https://open.spotify.com/track/3X6BvcNz8QSYaXLqJ3uHfw) | [Planes Mistaken For Stars](https://open.spotify.com/artist/2rfJuPYf7n3inXgdDNxMku) | [Planes Mistaken for Stars](https://open.spotify.com/album/2yyupliWXQe9Dz4xYT3Y14) | 3:31 |
 | 37 | [Radio](https://open.spotify.com/track/7GgXkT1jlg4MN9KYo3ULwK) | [Christie Front Drive](https://open.spotify.com/artist/0XsPWpim5jSh6iKDsD1Vqc) | [Stereo](https://open.spotify.com/album/16j7lqTblxGoqXXREFCEwT) | 3:49 |
 | 38 | [Red & Blue Jeans](https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1) | [The Promise Ring](https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu) | [Nothing Feels Good](https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [Money](https://open.spotify.com/track/6OnsOlASiHq1voOtTL1FRu) | [Embrace](https://open.spotify.com/artist/5Lzz2tZ2hKO8PDslKBQgZL) | [Embrace](https://open.spotify.com/album/0t4i21CD8Z0p8iQnojCvxX) | 2:37 |
 | 50 | [Half Of Ninety](https://open.spotify.com/track/38Io4HK6GhMKlkzY3IXxS1) | [Pop Unknown](https://open.spotify.com/artist/4CLc2mcJfxXTAFGVHlonB7) | [If Arsenic Fails, Try Algebra](https://open.spotify.com/album/3oP8OX2XPNsI4uBCcrpYgG) | 4:03 |
 
-Snapshot ID: `MTY3NDc0NjU0NSwwMDAwMDAwMDJkZDYyNzg2OGQwZjY1ZTM5YjVhOTUwMjA5ZDJlZThl`
+Snapshot ID: `MTY3NDc0NjU0NSwwMDAwMDAwMGIzZTExMWY1MWI0NmMzMDBjNDhhYzBlYjNhN2Q0MjYy`

@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-124 songs - 6 hr 59 min
+127 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [From Here To Eternity](https://open.spotify.com/track/0CVApUBXDYlSnqFtAl7E1S) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [From Here To Eternity](https://open.spotify.com/album/5yvourEPzugOQ0Z4RkrFf7) | 4:41 | 2022-09-23 |  |
 | [full throttle](https://open.spotify.com/track/2IBYFJJgdQvE83nt5q3Mds) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [full throttle](https://open.spotify.com/album/4I5SkvhNL9K4jXHDq2Ml9J) | 2:51 | 2022-12-16 |  |
 | [Galaxies](https://open.spotify.com/track/0HvT91CmD0AyTLPHzlABrn) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Galaxies](https://open.spotify.com/album/3bSYn35WoiHldPymVmaU4d) | 2:44 | 2022-10-07 |  |
+| [Glacier](https://open.spotify.com/track/2W8nY0OmBoOaPtGxtJ3chw) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Glacier](https://open.spotify.com/album/73k8K7hyjXrHqmfEXpOyZf) | 2:12 | 2023-03-03 |  |
 | [Glaskupad \- Axel E Remix \(Radio Edit\)](https://open.spotify.com/track/3fUtw6vacMxmpRHay1VztG) | [LEHNBERG](https://open.spotify.com/artist/7BRf7UkrsYXvgABbadmh3L), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Axel E](https://open.spotify.com/artist/1GHddwV8QFsOhnDlLlYANI) | [Glaskupad \(Axel E Remix\)](https://open.spotify.com/album/2kcieKSF7jELFFBZ7UOVIP) | 3:51 | 2022-09-23 |  |
 | [Godmode](https://open.spotify.com/track/0KZRx6da9VbIhwgVxVEhbu) | [Saintxx](https://open.spotify.com/artist/4xVatvwHKlUqYhraxZelaY) | [Godmode](https://open.spotify.com/album/4tS3AgOkWILCWZykIGdxp4) | 2:14 | 2022-12-23 |  |
 | [Half\-Light](https://open.spotify.com/track/3VGEC6MUbZTRjg93etNpw8) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Half\-Light](https://open.spotify.com/album/1OOB3nQBqEh34J0J1Ekbn2) | 2:47 | 2022-09-23 |  |
@@ -107,6 +108,7 @@
 | [Rude](https://open.spotify.com/track/28LJlaqXAzbuvrdUtmRA5X) | [Carl & Calitto](https://open.spotify.com/artist/4tMgaZrsUhfgvphSrUDEiD) | [Rude](https://open.spotify.com/album/55OM6ZMuUjcEwDprTSesjl) | 2:47 | 2022-10-14 |  |
 | [Runaway](https://open.spotify.com/track/5jjCspZaeMpClv7S1H3a8E) | [Lombauer](https://open.spotify.com/artist/1xYnhHUchQSdNUiAFj1UFI) | [Runaway](https://open.spotify.com/album/3sOxykiyJjLNSiohhvL9hb) | 2:59 | 2022-09-23 |  |
 | [Running through Fire](https://open.spotify.com/track/6D4T0BRng7TOuoBvHCBAj5) | [Hercules' Revenge](https://open.spotify.com/artist/4qO1Q1xGNK6sczpkc2qoX7) | [Running through Fire](https://open.spotify.com/album/1hlKwTiR9SsrKiLzo1dxSl) | 3:17 | 2022-09-23 |  |
+| [Rush](https://open.spotify.com/track/3CC9G02pqtJ88KCabogFba) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 2:56 | 2023-03-03 |  |
 | [Saltwater Dreams](https://open.spotify.com/track/6pRocudXtLnKRd61gtotIk) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Saltwater Dreams / Vague Sunset](https://open.spotify.com/album/6XIUklaqCksEasrYoQizZQ) | 2:47 | 2022-10-07 |  |
 | [Seadrift](https://open.spotify.com/track/3L3Zugtoy4iSpky2oiOjDI) | [Joshua Kimiko](https://open.spotify.com/artist/0rseV1mtdhrtR6FEHuvOIm) | [Seadrift](https://open.spotify.com/album/6EQYRA1zDcrhK0N9faGKbe) | 2:46 | 2022-09-23 |  |
 | [Serenity Lake](https://open.spotify.com/track/15eqN6GPpzHGifzihLGsGr) | [Béatrice Dupont](https://open.spotify.com/artist/4lGZ8fr3b2fq7uruNbUGcf) | [Serenity Lake](https://open.spotify.com/album/2otWMjizseTnAZrMGowQ91) | 2:36 | 2022-09-23 |  |
@@ -121,6 +123,7 @@
 | [Tempted](https://open.spotify.com/track/6hiA6WO0DRm9D480BIGqOT) | [Summon U](https://open.spotify.com/artist/0TyHSpKbAEP2QoXB7jVxCE) | [Technically Sane](https://open.spotify.com/album/3zVigb4My48jZIPLWVDiRW) | 2:55 | 2022-12-09 |  |
 | [The Eclipse](https://open.spotify.com/track/71wKe7nLKqkaq3JYAFEdna) | [Svalka](https://open.spotify.com/artist/3sKxosk24x3adgfDCvOBCr) | [The Eclipse](https://open.spotify.com/album/12mh93J0d59nHpqkWUEeqJ) | 2:34 | 2022-09-23 |  |
 | [The Life of an Empath](https://open.spotify.com/track/6SKHpIBF0zImsmqmRkgvwp) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 5:26 | 2022-09-23 |  |
+| [To Do List](https://open.spotify.com/track/2yboFvgwf9aj8kNpYzWFJb) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Autograph](https://open.spotify.com/album/1RiVyB6YIkv3cwCtnzVwE9) | 3:17 | 2023-03-03 |  |
 | [Type 1](https://open.spotify.com/track/2Z515QtI12xintnkboGQZw) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Type 1](https://open.spotify.com/album/7w6fHYrIaKbqXDN96dbEJf) | 3:47 | 2022-11-25 |  |
 | [Vana](https://open.spotify.com/track/1X1teXcaWQFH4iOTkCOh9a) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vana / Ocea](https://open.spotify.com/album/1hOFPN4SzceP1DJD5LTEmU) | 4:20 | 2022-10-07 |  |
 | [We Are the Stars](https://open.spotify.com/track/5nRHKAgw6ZY1NqNA5amA2Y) | [Lady DJ](https://open.spotify.com/artist/3luz91ywJZl3n8zqhqNTLP) | [We Are the Stars](https://open.spotify.com/album/5OGy2WlkfkHf8uSchuFEkl) | 2:19 | 2022-09-23 |  |

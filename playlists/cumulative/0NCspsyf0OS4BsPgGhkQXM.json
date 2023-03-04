@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "Apex",
+        "url": "https://open.spotify.com/album/1c8Jrs7Bl2yzT6CytnKv0A"
+      },
+      "artists": [
+        {
+          "name": "Far Out",
+          "url": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206964,
+      "name": "Apex",
+      "url": "https://open.spotify.com/track/1XA70LvTgplYtHMzgB8N3A"
+    },
+    {
+      "album": {
         "name": "Apogee",
         "url": "https://open.spotify.com/album/2FxL8igcB5IhOs8wsauSnH"
       },
@@ -4147,6 +4165,24 @@
     },
     {
       "album": {
+        "name": "Fall Out",
+        "url": "https://open.spotify.com/album/74KAYRFP8WXdo7YpzQnhQh"
+      },
+      "artists": [
+        {
+          "name": "Charles Park",
+          "url": "https://open.spotify.com/artist/6OTHAHpQ3Ixxl4gNRFWku9"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238564,
+      "name": "Fall Out",
+      "url": "https://open.spotify.com/track/7wtkom72nXua4AfEJzE2Tv"
+    },
+    {
+      "album": {
         "name": "Fallaway",
         "url": "https://open.spotify.com/album/0XXHhKf7JUTkgKnxUDNcA2"
       },
@@ -6588,6 +6624,32 @@
       "duration_ms": 238344,
       "name": "Islands (with Nina Sung)",
       "url": "https://open.spotify.com/track/32NZubSyu1uxe8N1Btqtlk"
+    },
+    {
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/3PbKTYH2g4or5eeizzwOQ4"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Biometrix",
+          "url": "https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/1VRgvtnfkkjgPw9a48KMiT"
     },
     {
       "album": {
@@ -9452,6 +9514,28 @@
       "duration_ms": 226829,
       "name": "On The Move",
       "url": "https://open.spotify.com/track/0APRF5wCuWPmODAnM953NU"
+    },
+    {
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/5lz36ZYyBeAyHH8tzWPyFQ"
+      },
+      "artists": [
+        {
+          "name": "NIO",
+          "url": "https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242448,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/5F00YTcguy7LICneJYbI89"
     },
     {
       "album": {
@@ -13190,6 +13274,32 @@
       "duration_ms": 163057,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/1eHPz3Ccu5UIMAXWYDCjaj"
+    },
+    {
+      "album": {
+        "name": "Threat",
+        "url": "https://open.spotify.com/album/1hZwJAi7VIjqgPAUdVIfPL"
+      },
+      "artists": [
+        {
+          "name": "32Stitches",
+          "url": "https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ"
+        },
+        {
+          "name": "DaWave",
+          "url": "https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu"
+        },
+        {
+          "name": "Blvkstn",
+          "url": "https://open.spotify.com/artist/70hTQzJxZt0JLvFzQVITHe"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176408,
+      "name": "Threat",
+      "url": "https://open.spotify.com/track/3aVpwI8alwe9eZgtipTO4o"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Escucha la selecci\u00f3n que Se\u00f1oras Punk hicieron para Mam\u00e1 Cool. \ud83e\udd18\ud83c\udffc\ud83d\udda4",
-  "num_followers": 312607,
+  "num_followers": 312643,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjkxNzA5MiwwMDAwMDAwMDljZDg4MjZlNzE3YjQ2OGUyYjM4YmM2MzEzZjRkYWY2",
+  "snapshot_id": "MTY3NjkxNzA5MiwwMDAwMDAwMDYyYTM3NjkzOGY3ZGZhMTdlN2NlYTA5YjFmMDE2NWJl",
   "tracks": [
     {
       "added_at": "2023-02-20 18:18:12",
@@ -67,34 +67,6 @@
       "duration_ms": 184524,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 200093,
-      "name": "$20",
-      "url": "https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -259,22 +231,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "MY WOMAN",
-        "url": "https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Shut Up Kiss Me",
-      "url": "https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Lose You (feat. Soccer Mommy)",
         "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },
@@ -291,6 +247,22 @@
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "MY WOMAN",
+        "url": "https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Shut Up Kiss Me",
+      "url": "https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -327,22 +299,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Does You Inspire You",
-        "url": "https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg"
-      },
-      "artists": [
-        {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Santigold",
         "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
       },
@@ -355,6 +311,22 @@
       "duration_ms": 204906,
       "name": "L.E.S. Artistes",
       "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Does You Inspire You",
+        "url": "https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -471,18 +443,30 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "You Forgot It In People",
-        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
+        "name": "the record",
+        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
       },
       "artists": [
         {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 275693,
-      "name": "Anthems For A Seventeen Year-Old Girl",
-      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+      "duration_ms": 200093,
+      "name": "$20",
+      "url": "https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -503,18 +487,34 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Once Twice Melody",
-        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+        "name": "You Forgot It In People",
+        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
         }
       ],
-      "duration_ms": 296226,
-      "name": "Pink Funeral",
-      "url": "https://open.spotify.com/track/2bEHweWdjvtHIwIHJfY6IY"
+      "duration_ms": 275693,
+      "name": "Anthems For A Seventeen Year-Old Girl",
+      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "LA CANCI\u00d3N",
+        "url": "https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 212297,
+      "name": "LA CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "LA CANCI\u00d3N",
-        "url": "https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI"
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 212297,
-      "name": "LA CANCI\u00d3N",
-      "url": "https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI"
+      "duration_ms": 296226,
+      "name": "Pink Funeral",
+      "url": "https://open.spotify.com/track/2bEHweWdjvtHIwIHJfY6IY"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "Can\u2019t Do Much",
-      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Turn Into",
         "url": "https://open.spotify.com/album/1tW2xzjwARfKVOQp6e43Fj"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 203536,
       "name": "Turn Into",
       "url": "https://open.spotify.com/track/0QCpDMWI8zQTB58WqVgu7C"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "Can\u2019t Do Much",
+      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "The Voyager",
-        "url": "https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "She's Not Me",
-      "url": "https://open.spotify.com/track/388mKnPdjaZ6FCRvmRmGlH"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "He Gets Me High",
         "url": "https://open.spotify.com/album/58LM8VscXpnW3ChqnrJ1a5"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 255826,
       "name": "There Is a Light That Never Goes Out",
       "url": "https://open.spotify.com/track/7pz7gsTrhqHnYMJHhTUaqf"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "The Voyager",
+        "url": "https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "She's Not Me",
+      "url": "https://open.spotify.com/track/388mKnPdjaZ6FCRvmRmGlH"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Tri\u00e1ngulo de Amor Bizarro",
-        "url": "https://open.spotify.com/album/2DS94RzpqcLQeUmg8Ka8mb"
-      },
-      "artists": [
-        {
-          "name": "Tri\u00e1ngulo de Amor Bizarro",
-          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
-        }
-      ],
-      "duration_ms": 197826,
-      "name": "El Fantasma de la Transici\u00f3n",
-      "url": "https://open.spotify.com/track/3PLvlGaULYpEM9GBfwnKQx"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Gato",
         "url": "https://open.spotify.com/album/2HcRhz4R3wDDsZ0hmGLbxd"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 164826,
       "name": "Gato",
       "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Tri\u00e1ngulo de Amor Bizarro",
+        "url": "https://open.spotify.com/album/2DS94RzpqcLQeUmg8Ka8mb"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "El Fantasma de la Transici\u00f3n",
+      "url": "https://open.spotify.com/track/3PLvlGaULYpEM9GBfwnKQx"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "I'm Having Fun Now",
-        "url": "https://open.spotify.com/album/3Tma0D5vBup8Y0vldEyHuW"
-      },
-      "artists": [
-        {
-          "name": "Jenny And Johnny",
-          "url": "https://open.spotify.com/artist/2jT6aBupO5X5ybwUsjzws4"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "Big Wave",
-      "url": "https://open.spotify.com/track/38c5gO0rT6I2Lqmk0Rm78P"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Es Mentira",
         "url": "https://open.spotify.com/album/4gSJO6NAABBQT1IjcXnofg"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Electric Version",
-        "url": "https://open.spotify.com/album/1OS4Dzrs6o778JUf8tnlCz"
+        "name": "I'm Having Fun Now",
+        "url": "https://open.spotify.com/album/3Tma0D5vBup8Y0vldEyHuW"
       },
       "artists": [
         {
-          "name": "The New Pornographers",
-          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+          "name": "Jenny And Johnny",
+          "url": "https://open.spotify.com/artist/2jT6aBupO5X5ybwUsjzws4"
         }
       ],
-      "duration_ms": 206760,
-      "name": "The Laws Have Changed",
-      "url": "https://open.spotify.com/track/0mgAzpg1dOmr2meovmlBwp"
+      "duration_ms": 233893,
+      "name": "Big Wave",
+      "url": "https://open.spotify.com/track/38c5gO0rT6I2Lqmk0Rm78P"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1175,6 +1159,22 @@
       "duration_ms": 144546,
       "name": "Keep Me in Mind",
       "url": "https://open.spotify.com/track/04vhOCGg0vXAxerKc0eQ5d"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Electric Version",
+        "url": "https://open.spotify.com/album/1OS4Dzrs6o778JUf8tnlCz"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "The Laws Have Changed",
+      "url": "https://open.spotify.com/track/0mgAzpg1dOmr2meovmlBwp"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Hearts And Unicorns",
-        "url": "https://open.spotify.com/album/3VpuH339xYTQl8XskD4HdP"
-      },
-      "artists": [
-        {
-          "name": "Giant Drag",
-          "url": "https://open.spotify.com/artist/76KTyb3jlFkOgQAwvAImf6"
-        }
-      ],
-      "duration_ms": 183173,
-      "name": "This Isn't It",
-      "url": "https://open.spotify.com/track/746xGTzt9MwDvn1i7E0lvC"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Abducted",
         "url": "https://open.spotify.com/album/4kieA2ajJQqq1Dc64rkAv5"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Me Cans\u00e9 de Llorar Voy a Vomitar",
-        "url": "https://open.spotify.com/album/4tlcBZpe0lg1Yexp2xLZo0"
+        "name": "Hearts And Unicorns",
+        "url": "https://open.spotify.com/album/3VpuH339xYTQl8XskD4HdP"
       },
       "artists": [
         {
-          "name": "Las Yumbe\u00f1as",
-          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
+          "name": "Giant Drag",
+          "url": "https://open.spotify.com/artist/76KTyb3jlFkOgQAwvAImf6"
         }
       ],
-      "duration_ms": 120856,
-      "name": "Melanc\u00f3lica",
-      "url": "https://open.spotify.com/track/6PLyKKtmiSNIOtFDKi126j"
+      "duration_ms": 183173,
+      "name": "This Isn't It",
+      "url": "https://open.spotify.com/track/746xGTzt9MwDvn1i7E0lvC"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1483,6 +1467,22 @@
       "duration_ms": 165286,
       "name": "Worst Curse",
       "url": "https://open.spotify.com/track/0z0byff2bYn4V3ySbBNaKf"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Me Cans\u00e9 de Llorar Voy a Vomitar",
+        "url": "https://open.spotify.com/album/4tlcBZpe0lg1Yexp2xLZo0"
+      },
+      "artists": [
+        {
+          "name": "Las Yumbe\u00f1as",
+          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
+        }
+      ],
+      "duration_ms": 120856,
+      "name": "Melanc\u00f3lica",
+      "url": "https://open.spotify.com/track/6PLyKKtmiSNIOtFDKi126j"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Feels Like",
-        "url": "https://open.spotify.com/album/76CR7xZkAElmSDZF5NF3Bo"
-      },
-      "artists": [
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        }
-      ],
-      "duration_ms": 238920,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/4OKLCt7rTQnpgiOm8HmZ7n"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Terror Amor",
         "url": "https://open.spotify.com/album/5VZTxfurh70597Vn5PqMR4"
       },
@@ -1587,6 +1571,54 @@
       "duration_ms": 120551,
       "name": "Es Verano Ya",
       "url": "https://open.spotify.com/track/6GpAcQZTJbkJmNU2KJ2NKa"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Lo Que Te Pide el Cuerpo",
+        "url": "https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "duration_ms": 163795,
+      "name": "Todos Mis Amigos Tienen Covid",
+      "url": "https://open.spotify.com/track/67n0eh73NUPu8X3y042g4m"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Feels Like",
+        "url": "https://open.spotify.com/album/76CR7xZkAElmSDZF5NF3Bo"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 238920,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/4OKLCt7rTQnpgiOm8HmZ7n"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Plant a Seed",
+        "url": "https://open.spotify.com/album/27SrdlvYNc69j8IuLXzl92"
+      },
+      "artists": [
+        {
+          "name": "Songs for eleonor",
+          "url": "https://open.spotify.com/artist/5C7xSI0tTUDRgF0Lvs7zNj"
+        }
+      ],
+      "duration_ms": 203337,
+      "name": "Tienes Miedo",
+      "url": "https://open.spotify.com/track/4I9XcQIFaH2kf3ZdS8RjOZ"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1619,38 +1651,6 @@
       "duration_ms": 335240,
       "name": "Un D\u00eda",
       "url": "https://open.spotify.com/track/2AFTdaMM2Y8aTG7FdKHyWF"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Plant a Seed",
-        "url": "https://open.spotify.com/album/27SrdlvYNc69j8IuLXzl92"
-      },
-      "artists": [
-        {
-          "name": "Songs for eleonor",
-          "url": "https://open.spotify.com/artist/5C7xSI0tTUDRgF0Lvs7zNj"
-        }
-      ],
-      "duration_ms": 203337,
-      "name": "Tienes Miedo",
-      "url": "https://open.spotify.com/track/4I9XcQIFaH2kf3ZdS8RjOZ"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Lo Que Te Pide el Cuerpo",
-        "url": "https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m"
-      },
-      "artists": [
-        {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
-        }
-      ],
-      "duration_ms": 163795,
-      "name": "Todos Mis Amigos Tienen Covid",
-      "url": "https://open.spotify.com/track/67n0eh73NUPu8X3y042g4m"
     },
     {
       "added_at": "2023-02-20 18:18:12",

@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-267 songs - 16 hr 48 min
+269 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Dead Eyes](https://open.spotify.com/track/22eir1Hfkwn0fYNgJXEti3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Dead Eyes](https://open.spotify.com/album/3DkZKoCTBT3ruS9To8hi9N) | 2:21 | 2021-12-17 | 2022-06-04 |
 | [Dead In The Water](https://open.spotify.com/track/2xlz1tmWu6dx4kF06LyWnL) | [Randall Bramblett](https://open.spotify.com/artist/3v7rZDkM01Le1Sxma0sLoT) | [Devil Music](https://open.spotify.com/album/3gkhZjEhH075NMrAW9byLX) | 4:23 | 2021-12-17 | 2022-07-29 |
 | [Dead In The Water](https://open.spotify.com/track/5tFg8himaf7zeYyXhaDqaI) | [Randall Bramblett](https://open.spotify.com/artist/3v7rZDkM01Le1Sxma0sLoT) | [Devil Music](https://open.spotify.com/album/3HKe2roAMFPmMMy5QRSjZl) | 4:23 | 2022-07-22 |  |
+| [Deathwish](https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Deathwish](https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL) | 2:39 | 2023-03-03 |  |
 | [Deep River \(feat\. Marcus King\)](https://open.spotify.com/track/6UGH2Ck4ynHaglhxgWFVLW) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Deep River \(feat\. Marcus King\)](https://open.spotify.com/album/0ow3hzkCmj5vISoL52HaDh) | 4:29 | 2021-12-17 |  |
 | [Deep Stays Down](https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:19 | 2022-11-11 |  |
 | [Didn't He Ramble](https://open.spotify.com/track/0PcyGgEAKYaVpND2efXlar) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [A Season On The Line](https://open.spotify.com/album/3WUZZCDyqL7k7TyOb2At4x) | 4:52 | 2021-12-17 |  |
@@ -196,6 +197,7 @@
 | [Shape Shifter](https://open.spotify.com/track/0BB7n43s5Wx7DiGWwMDT1t) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Shape Shifter](https://open.spotify.com/album/5pitP0omHnLnrIB0lKiNjH) | 3:51 | 2021-12-17 | 2022-07-29 |
 | [Shape Shifter](https://open.spotify.com/track/7F6S1cyEbjKz6tvO1wmhwi) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Resistor](https://open.spotify.com/album/3K3dwseF2yrKwtTsrszTBM) | 3:51 | 2022-07-22 |  |
 | [She's A Self Made Man](https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [She's A Self Made Man](https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G) | 3:01 | 2021-12-17 |  |
+| [Sho Been Worse](https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Sho Been Worse](https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco) | 2:54 | 2023-03-03 |  |
 | [Shout Into The Noise](https://open.spotify.com/track/16VBCT35j6Vs28NRKFszP1) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 3:13 | 2022-09-30 |  |
 | [Shout Into The Noise](https://open.spotify.com/track/6VmqR7BEVXqYWKCRsdSaDO) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/4JN56UyhqvwmD9fQJuJlPo) | 3:13 | 2022-01-21 | 2022-11-23 |
 | [Smoke Rising](https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 4:33 | 2021-12-17 | 2022-10-01 |

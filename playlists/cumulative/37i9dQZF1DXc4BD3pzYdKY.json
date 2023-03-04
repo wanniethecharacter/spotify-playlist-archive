@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 196571,
       "name": "Azusa",
       "url": "https://open.spotify.com/track/4K7SaRHg1R95srP3qkuIMc"
@@ -6518,6 +6518,24 @@
       "duration_ms": 201632,
       "name": "I Need Peace",
       "url": "https://open.spotify.com/track/1b9yRZtZfHemIdpHYtpckC"
+    },
+    {
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/3iEJnNS1A686PUk7UwEPEL"
+      },
+      "artists": [
+        {
+          "name": "DizzyEight",
+          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207014,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/3PdVSbhF1RibB3HEw88Ryl"
     },
     {
       "album": {

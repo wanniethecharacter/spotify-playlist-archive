@@ -1839,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "Ya Gamalak",
+        "url": "https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv"
+      },
+      "artists": [
+        {
+          "name": "Carmen Soliman",
+          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209983,
+      "name": "Ya Gamalak",
+      "url": "https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs"
+    },
+    {
+      "album": {
         "name": "Ana Kteer",
         "url": "https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT"
       },
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 190545,
       "name": "\u064a\u0648\u0645 \u0645\u0627 \u062c\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/0APfVkcFTt08Beh57ILcdo"

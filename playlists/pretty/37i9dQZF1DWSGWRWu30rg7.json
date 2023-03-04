@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Winaya",
-  "num_followers": 61608,
+  "num_followers": 61617,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc3NjQwMCwwMDAwMDAwMGMwNTkzNWFkMjcxZTcxMjZlNmFlZDVjZmU1ZGEzYWY3",
+  "snapshot_id": "MTY3Nzg0Mjc2NSwwMDAwMDAwMDM1ZDBhOTk4Y2FiNWM3MTZhMTI3OGU5YTcwNDYyNTA0",
   "tracks": [
     {
       "added_at": "2023-03-02 17:00:00",
@@ -312,8 +312,8 @@
           "url": "https://open.spotify.com/artist/6ptSpJVbC6f492Lt5IfpD2"
         },
         {
-          "name": "Yosh",
-          "url": "https://open.spotify.com/artist/24fhgM8dRX50onhCX4JpI9"
+          "name": "YOSH",
+          "url": "https://open.spotify.com/artist/2wHazSJnTevLiiJzn70GX7"
         }
       ],
       "duration_ms": 85594,
@@ -391,6 +391,22 @@
       "duration_ms": 202983,
       "name": "Teman Saja",
       "url": "https://open.spotify.com/track/1quBRq19yOO1lsylElh3uu"
+    },
+    {
+      "added_at": "2023-03-02 17:00:00",
+      "album": {
+        "name": "Sad Punk",
+        "url": "https://open.spotify.com/album/1EP4p9pQYoFprbFp8cRixO"
+      },
+      "artists": [
+        {
+          "name": "Spells",
+          "url": "https://open.spotify.com/artist/1VaiaDZUknjg9aCukZsXZe"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Catatan Singkat Sebuah Pertemuan",
+      "url": "https://open.spotify.com/track/3sRdiWiBgYnJMltknpyESy"
     },
     {
       "added_at": "2023-03-02 17:00:00",

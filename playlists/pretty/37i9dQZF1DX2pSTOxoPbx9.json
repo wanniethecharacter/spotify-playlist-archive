@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 715174,
+  "num_followers": 715485,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2MzI1NywwMDAwMDAwMDQyYThiZDI1YWE4MjgyMzdiNDk2MDllNGIwMDgyN2Q5",
+  "snapshot_id": "MTY3Mjc2MzI1NywwMDAwMDAwMGI0MWFiZmQ4MzQyOWM1ZTBhYzViY2Q4OWEzNjgwYmFk",
   "tracks": [
     {
       "added_at": "2023-01-03 16:27:37",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Seven + Mary",
-        "url": "https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Devil Like Me",
-      "url": "https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Historian",
         "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
       },
@@ -139,6 +123,22 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -163,22 +163,6 @@
       "duration_ms": 251469,
       "name": "Salt In The Wound",
       "url": "https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "Take Me to Church",
-      "url": "https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -487,6 +471,38 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
+        "name": "Seven + Mary",
+        "url": "https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Devil Like Me",
+      "url": "https://open.spotify.com/track/6pSliMukEwAdpMPgCKTKDH"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
         "name": "Bravado",
         "url": "https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 176167,
       "name": "Beautiful Hell",
       "url": "https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Small Things",
-      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Wasting My Young Years",
+      "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 192666,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Wasting My Young Years",
-      "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "In My Body",
-        "url": "https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 354266,
-      "name": "The War",
-      "url": "https://open.spotify.com/track/0EnZoG9AaD0uXoffiC8KAQ"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Repave",
         "url": "https://open.spotify.com/album/69qFYmNxf9i1kc26Cip5sZ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 262533,
       "name": "Byegone",
       "url": "https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "In My Body",
+        "url": "https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 354266,
+      "name": "The War",
+      "url": "https://open.spotify.com/track/0EnZoG9AaD0uXoffiC8KAQ"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Queen of Disaster",
-        "url": "https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI"
-      },
-      "artists": [
-        {
-          "name": "LULLANAS",
-          "url": "https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Queen of Disaster",
-      "url": "https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Deaf Heat EP",
         "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 215729,
       "name": "Deep Green",
       "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Queen of Disaster",
+        "url": "https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI"
+      },
+      "artists": [
+        {
+          "name": "LULLANAS",
+          "url": "https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Queen of Disaster",
+      "url": "https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Hold to the Light",
-        "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
-      },
-      "artists": [
-        {
-          "name": "Brooke Annibale",
-          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Fire of Love",
         "url": "https://open.spotify.com/album/2FXiYzdQcU5btMt1BfK9UL"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 280497,
       "name": "Fire of Love",
       "url": "https://open.spotify.com/track/4lnAR9AH0WZoRUNsOgwHXd"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Hold to the Light",
+        "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
+      },
+      "artists": [
+        {
+          "name": "Brooke Annibale",
+          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Rescue My Heart",
-        "url": "https://open.spotify.com/album/20e1QTMEzNi9JGP4mmB3Rs"
-      },
-      "artists": [
-        {
-          "name": "Liz Longley",
-          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
-        }
-      ],
-      "duration_ms": 205614,
-      "name": "Rescue My Heart",
-      "url": "https://open.spotify.com/track/4mdmOqTv0ZBeHNjT2Pf63n"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Marked for Death",
         "url": "https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+        "name": "Rescue My Heart",
+        "url": "https://open.spotify.com/album/20e1QTMEzNi9JGP4mmB3Rs"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "Liz Longley",
+          "url": "https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr"
         }
       ],
-      "duration_ms": 278600,
-      "name": "Volcano",
-      "url": "https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD"
+      "duration_ms": 205614,
+      "name": "Rescue My Heart",
+      "url": "https://open.spotify.com/track/4mdmOqTv0ZBeHNjT2Pf63n"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1183,6 +1167,22 @@
       "duration_ms": 233635,
       "name": "Depraved",
       "url": "https://open.spotify.com/track/0V1YLLguekkTID9Jd89ww2"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Lost It All",
-        "url": "https://open.spotify.com/album/26TDhagwH7yap92e04ObFu"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 223655,
-      "name": "Lost It All",
-      "url": "https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "No Burden",
         "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 210613,
       "name": "Dream State...",
       "url": "https://open.spotify.com/track/3gTK6H0XBeViYvo9TGJ5V5"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Lost It All",
+        "url": "https://open.spotify.com/album/26TDhagwH7yap92e04ObFu"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "duration_ms": 223655,
+      "name": "Lost It All",
+      "url": "https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO"
-      },
-      "artists": [
-        {
-          "name": "Seratones",
-          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
-        }
-      ],
-      "duration_ms": 276488,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Cathedrals - EP",
         "url": "https://open.spotify.com/album/5pMbkSjNGEcKjnRwbF8kwv"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 223759,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/49gE0a0YPRMXRp43QhnHH8"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO"
+      },
+      "artists": [
+        {
+          "name": "Seratones",
+          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
+        }
+      ],
+      "duration_ms": 276488,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Gamble for a Rose",
-        "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
-      },
-      "artists": [
-        {
-          "name": "King Charles",
-          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Loose Change for the Boatman",
-      "url": "https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Beneath The Skin (Deluxe)",
         "url": "https://open.spotify.com/album/1m3D8gkm3nOvIXNR1SvDFA"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "One Big Nothing",
-        "url": "https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm"
+        "name": "Gamble for a Rose",
+        "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
       },
       "artists": [
         {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+          "name": "King Charles",
+          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
         }
       ],
-      "duration_ms": 244040,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV"
+      "duration_ms": 242253,
+      "name": "Loose Change for the Boatman",
+      "url": "https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1507,6 +1491,22 @@
       "duration_ms": 140034,
       "name": "Don't Know Who I Am",
       "url": "https://open.spotify.com/track/0BlWn4ZadRmT6Ksnvzc7Jp"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "One Big Nothing",
+        "url": "https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm"
+      },
+      "artists": [
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Glass Balloon",
-        "url": "https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8"
-      },
-      "artists": [
-        {
-          "name": "Twin Caverns",
-          "url": "https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa"
-        }
-      ],
-      "duration_ms": 243667,
-      "name": "Swell",
-      "url": "https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Gabrielle Shonk",
         "url": "https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 249413,
       "name": "Habit",
       "url": "https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Glass Balloon",
+        "url": "https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8"
+      },
+      "artists": [
+        {
+          "name": "Twin Caverns",
+          "url": "https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa"
+        }
+      ],
+      "duration_ms": 243667,
+      "name": "Swell",
+      "url": "https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp"
     },
     {
       "added_at": "2023-01-03 16:27:37",

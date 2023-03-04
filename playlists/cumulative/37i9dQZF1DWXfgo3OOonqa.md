@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-848 songs - 1 day 13 hr 30 min
+850 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Broke Dayz](https://open.spotify.com/track/1EoILXyGdwJkL4hZBSPfL0) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Broke Dayz](https://open.spotify.com/album/4oXPkDePVLSJgGLhzYqF7X) | 2:49 | 2022-09-29 | 2022-10-28 |
 | [BROWSKI](https://open.spotify.com/track/5d3uBfGQIczWe9sTXyoj3y) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [BROWSKI](https://open.spotify.com/album/5AWWvcnT3ypzv19CYjhdgf) | 2:18 | 2022-08-04 | 2022-09-09 |
 | [Burna](https://open.spotify.com/track/7tSP6GfktCDSFH0mMNuDnm) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Burna](https://open.spotify.com/album/5MdxhgGDUrPfL3zWQQNZY3) | 2:16 | 2022-01-19 | 2022-03-05 |
+| [Bye](https://open.spotify.com/track/1rTUM3BdqYSTsZiUVL6YRY) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Bye](https://open.spotify.com/album/7ncknlyzo63JmvKfkpKdf2) | 3:26 | 2023-03-03 |  |
 | [BÄNG](https://open.spotify.com/track/3C5Gkb8n1MXl1KmuafcVOb) | [Grillat & Grändy](https://open.spotify.com/artist/7iL5mYnDruJbcp1eSq961R), [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4) | [BÄNG](https://open.spotify.com/album/5p2LuLvGlglG2ly6GBzfHQ) | 2:31 | 2022-08-12 | 2022-09-09 |
 | [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-21 | 2022-06-03 |
 | [BÄSTFRIEND](https://open.spotify.com/track/5Ml5sKivSir3NaGABhIdnO) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [BÄSTFRIEND](https://open.spotify.com/album/4CKyLYdFdBTnY4um39sbv5) | 2:22 | 2022-07-21 | 2022-09-30 |
@@ -352,7 +353,7 @@
 | [Himlen kan vänta](https://open.spotify.com/track/0gj3x4ogcfykMjHW90qUmZ) | [Organismen](https://open.spotify.com/artist/3emB29NMQgg857lVCa241t) | [Himlen kan vänta](https://open.spotify.com/album/4FQRdYnV0WCalOqkjyRR1c) | 2:48 | 2022-10-13 | 2022-10-28 |
 | [Hippie Yes](https://open.spotify.com/track/4mOxn1AT8cOo74Zm5iH9ws) | [Erk](https://open.spotify.com/artist/5HhJ4EfjcISuAIPnbz9B3c) | [Stugvibb](https://open.spotify.com/album/1Rjtfhkx3I3UtAP6Ijftj2) | 2:40 | 2023-02-16 | 2023-02-24 |
 | [HIT](https://open.spotify.com/track/6cxsZBG6pyWdwFvsuvRLcN) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [HIT](https://open.spotify.com/album/5H1qCWg1kaLodR8GAPlhkr) | 2:29 | 2022-07-14 | 2022-09-23 |
-| [Hold Me Down](https://open.spotify.com/track/2QiljLrPi93yW7X9zegdKo) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Hold Me Down](https://open.spotify.com/album/0XqSpgSZzeCS9PwW7qWwV5) | 2:28 | 2022-12-15 |  |
+| [Hold Me Down](https://open.spotify.com/track/2QiljLrPi93yW7X9zegdKo) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Hold Me Down](https://open.spotify.com/album/0XqSpgSZzeCS9PwW7qWwV5) | 2:28 | 2022-12-15 | 2023-03-04 |
 | [Homicide](https://open.spotify.com/track/2jPC7jcDhcPmj5vv9B2liZ) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [Homicide](https://open.spotify.com/album/3LgXFc6nP5eIqMvOYgMlE6) | 2:13 | 2021-12-16 | 2022-01-28 |
 | [Hon](https://open.spotify.com/track/1IyG8EmcVtbT5eE1el0axQ) | [Knut](https://open.spotify.com/artist/7lBUy2Bz6FcZ0nEdCWI7it), [FI:VO](https://open.spotify.com/artist/58ENnwqOR5abhgrvdUvquj) | [Hon](https://open.spotify.com/album/27hPDytpaHMDgonTekAQX5) | 2:58 | 2022-08-12 | 2022-08-26 |
 | [Hon sa](https://open.spotify.com/track/14hlEibjfr8YzgwVKNvmTz) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7) | [Hon sa](https://open.spotify.com/album/5mE5pr4y7baZOEtheeAoco) | 2:11 | 2022-03-09 | 2022-04-29 |
@@ -689,6 +690,7 @@
 | [Släpp mig](https://open.spotify.com/track/2EZmE6pdwIhsOEJKS3nUFI) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Släpp mig](https://open.spotify.com/album/74bF6o1WKlI2ZkWwOCY7Gx) | 2:36 | 2022-02-03 | 2022-03-11 |
 | [Slå tillbaks](https://open.spotify.com/track/3009VcC2Z0lf1sZBuJnJbN) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Slå tillbaks](https://open.spotify.com/album/0dKjkBn1u8UtmDEDWQsFGx) | 2:53 | 2022-06-23 | 2022-08-05 |
 | [Smooth](https://open.spotify.com/track/0yytFV5LM6FCKaeANeVvfv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [No Borders: European Compilation Project](https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP) | 2:51 | 2022-11-10 | 2023-02-10 |
+| [Smäller lokalt](https://open.spotify.com/track/3qzZR7sk8OvUQAHmaklatW) | [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [Smäller lokalt](https://open.spotify.com/album/26XvNWskss1XednRdp59bH) | 2:12 | 2023-03-03 |  |
 | [Snett](https://open.spotify.com/track/6SIEpHVSUUQGRLdft8msFW) | [YiGZAW](https://open.spotify.com/artist/5p2eWJvC1IIdUXmAuaiWsP) | [Snett](https://open.spotify.com/album/0pGl87XqUUEaXJmuBYLaz0) | 3:34 | 2022-06-17 | 2022-06-22 |
 | [snäll & insane \(bonus track\)](https://open.spotify.com/track/73wLXg27NzZXJb2qjpEWY2) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [snäll & insane \(bonus track\)](https://open.spotify.com/album/421bVd2h6BIB6Hdsf2MsnG) | 3:30 | 2022-06-22 | 2022-07-01 |
 | [Snö](https://open.spotify.com/track/6tHWkbSOsgZmAzPa0QvtpX) | [3qip](https://open.spotify.com/artist/0TXoplJ9nnY6ERSAwYEuRI) | [Snö](https://open.spotify.com/album/5ttg9p1mLZlUB4B1ofY2RS) | 2:14 | 2023-02-02 | 2023-02-24 |
@@ -810,7 +812,7 @@
 | [VIKING LINE FREESTYLE](https://open.spotify.com/track/52psFCt9wgs1BdhvSDocde) | [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu), [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC) | [ÖVERSEAS 2](https://open.spotify.com/album/5QixFsS3zkrYfX3MWCp1m6) | 1:43 | 2023-01-12 | 2023-02-10 |
 | [Vikt](https://open.spotify.com/track/2Jub86Y9MLipu7R2pmdvcW) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Vikt](https://open.spotify.com/album/1C2KUz89AAgHqCf6xqWlHG) | 3:04 | 2022-09-29 | 2022-12-09 |
 | [Vilka Som Oss](https://open.spotify.com/track/5qg35tNxkCR91KXaLxOZBf) | [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y), [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Vilka Som Oss](https://open.spotify.com/album/699Bj7fM9EVZlGrLhLOeFh) | 3:27 | 2022-03-25 | 2022-05-06 |
-| [VILKEN TID \(ATT VA VID LIV\)](https://open.spotify.com/track/3eHyeSi8Oqtrsar6JVolwv) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J) | [VILKEN TID \(ATT VA VID LIV\)](https://open.spotify.com/album/6Z1wnd76o2YWnPjbM9esqR) | 3:01 | 2023-01-26 |  |
+| [VILKEN TID \(ATT VA VID LIV\)](https://open.spotify.com/track/3eHyeSi8Oqtrsar6JVolwv) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J) | [VILKEN TID \(ATT VA VID LIV\)](https://open.spotify.com/album/6Z1wnd76o2YWnPjbM9esqR) | 3:01 | 2023-01-26 | 2023-03-04 |
 | [Violence \(feat\. Branco\)](https://open.spotify.com/track/6YdvKXXBg33LPe40riAVCc) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [FORZA](https://open.spotify.com/album/7mD8Ze6PRguxWvcTTpvhhi) | 2:30 | 2022-03-10 | 2022-03-24 |
 | [VitaminW](https://open.spotify.com/track/6xtS6yo7Zc4wvN01Qnbsqj) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [VitaminW](https://open.spotify.com/album/0VDnBUE49XWLsAff68lJmU) | 2:24 | 2022-03-10 | 2022-04-29 |
 | [Von Dam](https://open.spotify.com/track/2ONw7QjUJMpQ6Gxasz2p7o) | [Yawel](https://open.spotify.com/artist/6DNTr6j37RrOpXv6dcA0jl), [Chardel](https://open.spotify.com/artist/6vDbbpAmNFcvk3tP3skLol) | [Von Dam](https://open.spotify.com/album/383CqrHv1vBwRcCehwEpxx) | 2:15 | 2022-12-21 | 2023-02-03 |

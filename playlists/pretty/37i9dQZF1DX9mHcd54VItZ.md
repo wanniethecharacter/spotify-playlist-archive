@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS?si=LsiXeXHtRJKZdTacWbURoA">Gevoel van Veiligheid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,224 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,235 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 17 | [As Ek Jou Hoor Lag](https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic) | [As Ek Jou Hoor Lag](https://open.spotify.com/album/3GW8Df9g7461vot9mVJN29) | 2:46 |
 | 18 | [The Leviathan](https://open.spotify.com/track/5ww5VmYgYGQtGMJiz2tDTQ) | [Punkfontein](https://open.spotify.com/artist/45RbBX6HK79QQlhywGeh2v), [Meel Vignetting](https://open.spotify.com/artist/41DpVSJ3Inz1K29pucUz4d) | [The Leviathan](https://open.spotify.com/album/6Gf7nvDafo6q32o5fnGKiZ) | 3:11 |
 | 19 | [Cat People \(Putting out Fire\)](https://open.spotify.com/track/235kuiRl7LYWJuJ0JnDw1j) | [A MILLION WAYS TO DIE](https://open.spotify.com/artist/5sItFxUca07yQu3TkbBp9U) | [A Million Ways to Die](https://open.spotify.com/album/02HSRazAjXl47xl0F62CT3) | 6:01 |
-| 20 | [Hoer In Beton](https://open.spotify.com/track/4fnZUb6KEtgcGIx3eWgJi0) | [Millennium](https://open.spotify.com/artist/3GhHWHWIAs0uWCawtI3v4t), [Koos Kombuis](https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ) | [Hoer In Beton](https://open.spotify.com/album/6NwMydQDPSmxYq4OgZ9uPh) | 4:40 |
+| 20 | [Hoer In Beton](https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw), [Koos Kombuis](https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ) | [Hoer In Beton](https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn) | 4:40 |
 | 21 | [Sugar Tits](https://open.spotify.com/track/4zvgJZD3bm6V4axDHFErc3) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Sugar Tits](https://open.spotify.com/album/7pc2tW0f3iIfBeBjDmGQzv) | 3:27 |
 | 22 | [Shallow Waters \(25 Year Anniversary\)](https://open.spotify.com/track/7vdiUC7BzKmBqsSEJsbnbr) | [ARD matthews](https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo), [Just Jinjer](https://open.spotify.com/artist/4ywF40MvBzMeS8jijufoao), [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE), [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC), [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd), [Ross Learmonth](https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN) | [Shallow Waters \(25 Year Anniversary\)](https://open.spotify.com/album/1dqY6TUiXJMyMOsQ657mw4) | 4:38 |
 | 23 | [Down](https://open.spotify.com/track/5HZHEJr2lB9UuJdTnJ2LlC) | [Tailyn](https://open.spotify.com/artist/2qzHxFKbv8nubU91e90OHx) | [Down](https://open.spotify.com/album/1iY7kl6SSFgsvanujYfz4n) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 |
 | 50 | [Stars](https://open.spotify.com/track/2FWNe8tTLt0bCJBOY9nPWc) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Stars](https://open.spotify.com/album/7gx4tHQGiQWj7JP0McroDJ) | 5:16 |
 
-Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMDJkZGUxMWUxODg3M2YyNGY1NTYxZDkxNjVkZmFiMWFj`
+Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMDg2OTY1MmRiOTIxMjU3MTU0MGNhNTEyMmZhZDM3MjM4`

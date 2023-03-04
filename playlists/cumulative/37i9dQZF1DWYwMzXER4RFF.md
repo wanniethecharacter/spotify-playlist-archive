@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-314 songs - 19 hr 41 min
+315 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Processed By The Boys](https://open.spotify.com/track/5iOgwvHcgvW7EMaMDt79aT) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Processed By The Boys](https://open.spotify.com/album/5g9kHCopTsMtE3QKasC6Yc) | 5:05 | 2021-12-06 | 2022-07-28 |
 | [Protathlitis](https://open.spotify.com/track/3El123DgjXaQvGUDEYD0Pl) | [MAZOHA](https://open.spotify.com/artist/0hlfPCo0jrznvYgctoK3e6) | [Protathlitis](https://open.spotify.com/album/20yOzSVl5p33yp4py4cxgu) | 4:32 | 2021-12-06 | 2022-06-08 |
 | [Punk Rock Loser](https://open.spotify.com/track/6cHHjw1pDDw2OiSXYSRpxb) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Punk Rock Loser](https://open.spotify.com/album/5TeSxqNuv7aMSdz8P5WEqj) | 3:57 | 2022-06-16 | 2023-02-11 |
+| [Pure Mode](https://open.spotify.com/track/3oT787Jq5n4i5HQ7tLsjb7) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:07 | 2023-02-24 |  |
 | [Queen Sophie for President](https://open.spotify.com/track/3cJK07DfDHv3dLqRETQdNm) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Queen Sophie for President](https://open.spotify.com/album/1E1pAERqQAcxbKWQ6ZV4g4) | 3:29 | 2021-12-06 | 2022-07-29 |
 | [Queen Sophie for President](https://open.spotify.com/track/6EEdvLIM8kecYVtpA6Ug86) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Illusory Walls](https://open.spotify.com/album/2LF6m9cVyej7vKLnjwGiLK) | 3:29 | 2022-06-16 | 2023-01-20 |
 | [Rabbit](https://open.spotify.com/track/0u2kTKd00Jk9UEbn9CxrYj) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/4Cc6blc4jNacdDuFiZMdEu) | 1:48 | 2021-12-06 | 2022-07-24 |
@@ -271,7 +272,7 @@
 | [Suntan](https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan / Damocles](https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC) | 4:59 | 2022-08-25 |  |
 | [Swampy](https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Swampy & Sombre Two](https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5) | 3:33 | 2023-02-24 |  |
 | [Sweet](https://open.spotify.com/track/1RESyaoEkLAUmX0NEjMfUS) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad](https://open.spotify.com/album/4DN3XbB33kHTJA7HhI0RFI) | 3:42 | 2021-12-06 | 2022-07-29 |
-| [Sweet](https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA) | 3:42 | 2022-06-16 |  |
+| [Sweet](https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA) | 3:42 | 2022-06-16 | 2023-03-04 |
 | [Swing \(In A Dream\)](https://open.spotify.com/track/1IEulXF7S08dapSxx8L0z2) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Swing \(In A Dream\)](https://open.spotify.com/album/1uSQuGB8cvILkiYZzrH3IT) | 4:29 | 2023-02-08 |  |
 | [Switching On \- IDLES Remix](https://open.spotify.com/track/5o351ccYqmwl4Nc5E7YE2z) | [LIFE](https://open.spotify.com/artist/2NWimAynlyqVUWD4YnJHlC), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Switching On \(IDLES Remix\)](https://open.spotify.com/album/4pOEyrIgpZbPOboNsm7463) | 4:28 | 2021-12-06 | 2022-07-25 |
 | [Take Flight](https://open.spotify.com/track/3Y1ITNg38Lq4OzgzdKkbaX) | [Muck Spreader](https://open.spotify.com/artist/3MRaVMO8ZuzbkegIXYrFFY) | [Take Flight](https://open.spotify.com/album/1MBVNZ1VvPISEcdn30IZgu) | 2:01 | 2021-12-06 | 2022-07-15 |

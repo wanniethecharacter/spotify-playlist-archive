@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,455 likes - 126 songs - 13 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,603 likes - 126 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
 | 2 | [\#3](https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:44 |
 | 3 | [The Mouthchew, Pt\. 2](https://open.spotify.com/track/0QWg9GVhRxE2r72Tw7PIzF) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [Carte\-De\-Visite](https://open.spotify.com/album/3CtKKr1sTyL4XYLsYjw95A) | 3:45 |
-| 4 | [Only in the Dark](https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity](https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s) | 3:29 |
-| 5 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
-| 6 | [12 Hours Before](https://open.spotify.com/track/3pcrD4NBBBQGMJATRhk25C) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 2:31 |
-| 7 | [Postscript](https://open.spotify.com/track/3g1hBwztBeoT9dK9w16ENA) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 16:41 |
-| 8 | [dlp 1.3](https://open.spotify.com/track/3hFipULsVstcUDjujwyNr5) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops IV \(Remastered\)](https://open.spotify.com/album/4Vs8o9MQur5NHGGr5kqXn6) | 11:57 |
-| 9 | [Ceramic Bubbles \- No Death Remix](https://open.spotify.com/track/0efbgQ82IjFjgDsr5vBckW) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl), [No Death](https://open.spotify.com/artist/75HAJoZ2A5TotYPFSYgCnP) | [Small Lights](https://open.spotify.com/album/5TzC5ApNzngIspcRD7heNL) | 3:40 |
-| 10 | [Vapors](https://open.spotify.com/track/4GGdwZABjIFSnFGavhd7Ge) | [Lennart Altgenug](https://open.spotify.com/artist/1gpe3l1VsbKu6qbFIj5ArO), [Still Restless](https://open.spotify.com/artist/6AHEtmyMoioYHE2mEZWEl0) | [Vapors](https://open.spotify.com/album/7pmaEJKmCiewU5BDYlEiAo) | 3:12 |
+| 4 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
+| 5 | [12 Hours Before](https://open.spotify.com/track/3pcrD4NBBBQGMJATRhk25C) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 2:31 |
+| 6 | [Postscript](https://open.spotify.com/track/3g1hBwztBeoT9dK9w16ENA) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 16:41 |
+| 7 | [dlp 1.3](https://open.spotify.com/track/3hFipULsVstcUDjujwyNr5) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops IV \(Remastered\)](https://open.spotify.com/album/4Vs8o9MQur5NHGGr5kqXn6) | 11:57 |
+| 8 | [Ceramic Bubbles \- No Death Remix](https://open.spotify.com/track/0efbgQ82IjFjgDsr5vBckW) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl), [No Death](https://open.spotify.com/artist/75HAJoZ2A5TotYPFSYgCnP) | [Small Lights](https://open.spotify.com/album/5TzC5ApNzngIspcRD7heNL) | 3:40 |
+| 9 | [Vapors](https://open.spotify.com/track/4GGdwZABjIFSnFGavhd7Ge) | [Lennart Altgenug](https://open.spotify.com/artist/1gpe3l1VsbKu6qbFIj5ArO), [Still Restless](https://open.spotify.com/artist/6AHEtmyMoioYHE2mEZWEl0) | [Vapors](https://open.spotify.com/album/7pmaEJKmCiewU5BDYlEiAo) | 3:12 |
+| 10 | [The Sun XIX](https://open.spotify.com/track/1mGrXg7R32ONwODtN56Ou7) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 6:43 |
 | 11 | [Sphere Of No\-Form \- Alternative Version](https://open.spotify.com/track/2Px24p2YvxnJt2nF4VShyO) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata \[Alternative Versions\]](https://open.spotify.com/album/1LKkDKteFePHRCNCtBhcPN) | 8:23 |
 | 12 | [View from My Window](https://open.spotify.com/track/4KrsGAgv8b2982iqaokrO0) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:15 |
 | 13 | [The Dreamer Slept But Did Not Dream](https://open.spotify.com/track/4KvUvF2p3dwxYCbq4LswDA) | [Darshan Ambient](https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu) | [A Day Within Days](https://open.spotify.com/album/1oO8tcrRJw7X0OxGTgTD1Y) | 4:17 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 17 | [The Girl With the Flesh Colored Crayon](https://open.spotify.com/track/2RWxRXIiwbcKEaplXoplUv) | [Aix Em Klemm](https://open.spotify.com/artist/42DUzz9SdjV6ih3rbUaHma) | [Aix Em Klemm](https://open.spotify.com/album/5tiWSutt09Cqi6ty1dYzXJ) | 6:32 |
 | 18 | [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 |
 | 19 | [A Meaningful Moment Through a Meaning\(less\) Process](https://open.spotify.com/track/4TrCvd1PrqI14lZb7tEtYo) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 4:32 |
-| 20 | [Only in the Dark](https://open.spotify.com/track/7MenFyNgpOMMPFmbrvJZqX) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity \(Special Edition\)](https://open.spotify.com/album/0lDH51Xy10a1fXsRMAyufW) | 3:29 |
+| 20 | [Only in the Dark](https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity](https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s) | 3:29 |
 | 21 | [Movements / The Ascent](https://open.spotify.com/track/473LOUVfW0SnEmg7aXktga) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 6:19 |
 | 22 | [Suiren](https://open.spotify.com/track/3Q6okpLoq2ZhOzZfBHpmei) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 10:01 |
 | 23 | [Be Still](https://open.spotify.com/track/5qFU0eRQlMkT5AfdiOdno8) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/71o5rJ09vTQMQghsbbQ0mC) | 5:28 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 125 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 126 | [Ferrum](https://open.spotify.com/track/0s5x2cr3VyJYez1W8SKXC0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirror](https://open.spotify.com/album/66d3xKf4p6CDloe6I7HaE9) | 16:13 |
 
-Snapshot ID: `MTY3NDgzNjg4MSwwMDAwMDAwMDUzYjM3ODgzNGJhNmE3M2JiMWY0MTQ1NDUxMzY0Mzk4`
+Snapshot ID: `MTY3Nzg2Njk3NywwMDAwMDAwMDBiZDk3MWZhNDNkYjJjN2JhYmM0YTY0MDA0NWU1ZGY1`

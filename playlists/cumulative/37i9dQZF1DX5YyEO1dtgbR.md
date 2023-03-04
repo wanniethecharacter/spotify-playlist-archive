@@ -4,7 +4,7 @@
 
 > Experimental electronic beyond the borders of tradition.
 
-112 songs - 8 hr 45 min
+113 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Cosmic Serpent \- Dub](https://open.spotify.com/track/38mnl6h9zf6ByndcoRkujW) | [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy) | [O! Versions](https://open.spotify.com/album/3VTa5w9IrSNqd1MxejXFlu) | 5:46 | 2021-10-15 |  |
 | [Danza De Los Voladores](https://open.spotify.com/track/1r9R3iy3SjeFXlDgeuxzo8) | [Marco Shuttle](https://open.spotify.com/artist/2DqPerh6whhlts8Pb0BUJi) | [Cobalt Desert Oasis](https://open.spotify.com/album/5CF51zMpCiEKUReRLJyoDb) | 4:47 | 2022-06-14 |  |
 | [Danza De Los Voladores](https://open.spotify.com/track/7AMd50Vj47dYILtOfyPa7w) | [Marco Shuttle](https://open.spotify.com/artist/2DqPerh6whhlts8Pb0BUJi) | [Cobalt Desert Oasis](https://open.spotify.com/album/59kK8eHUyg1Cz411CSNfQT) | 4:47 | 2021-10-15 | 2022-09-15 |
-| [Deine Augen](https://open.spotify.com/track/5RkjwEQviBKkVDisjJbVSJ) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/7dAYdoahzW8oZgSGHWpfNP) | 5:16 | 2021-10-15 |  |
+| [Deine Augen](https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N) | 5:16 | 2022-06-14 |  |
+| [Deine Augen](https://open.spotify.com/track/5RkjwEQviBKkVDisjJbVSJ) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/7dAYdoahzW8oZgSGHWpfNP) | 5:16 | 2021-10-15 | 2023-03-04 |
 | [Dreaming Of A Better Place](https://open.spotify.com/track/72QkLvjQpIhPrmmaR4KjjY) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Dreaming Of A Better Place](https://open.spotify.com/album/5gcWBRhHDFlTwrDzaIDivg) | 5:05 | 2021-10-15 |  |
 | [Dreaming of Sunflowers](https://open.spotify.com/track/1EWTNKqsTh5E4fndYQlor6) | [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Summer of South West Waves / Dreaming of Sunflowers](https://open.spotify.com/album/1RPvFcEKK3NG1aMnEvXxMh) | 6:53 | 2022-05-06 |  |
 | [Drunken Clouds](https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Drunken Clouds](https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR) | 4:13 | 2022-06-14 |  |

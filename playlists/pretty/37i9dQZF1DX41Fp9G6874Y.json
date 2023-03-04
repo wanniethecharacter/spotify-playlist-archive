@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s fresas de la era del rocanrol para bailar \"de cachetito\".",
-  "num_followers": 106508,
+  "num_followers": 106533,
   "original_name": "Romance Rocanrol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDYxMDk4NSwwMDAwMDAwMDJiN2E3MjhlODQyNGQ1ZWQyMTI3ZGZiYTE2MzVkNDVi",
+  "snapshot_id": "MTY2MDYxMDk4NSwwMDAwMDAwMDMwZWM4MTE4ZjkwNWRiMGI2ZGQ5MDliZDhjNTliNmJl",
   "tracks": [
     {
       "added_at": "2018-12-05 03:36:52",
@@ -515,22 +515,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Sonidos del Ayer",
-        "url": "https://open.spotify.com/album/19Szoai9lxpAXnT8V3L7Kp"
-      },
-      "artists": [
-        {
-          "name": "Johnny Dynamo",
-          "url": "https://open.spotify.com/artist/3zqSxs9gF0Hr0wzwXGswlg"
-        }
-      ],
-      "duration_ms": 151946,
-      "name": "Colina Azul",
-      "url": "https://open.spotify.com/track/5MA2Oc7KhWjIe5bGKWX8Up"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "Como Lo Bailaron Tus Padres, Vol. 1",
         "url": "https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 137376,
       "name": "Anoche Me Enamore",
       "url": "https://open.spotify.com/track/25bJytfRuK37ria60Tbnio"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Sonidos del Ayer",
+        "url": "https://open.spotify.com/album/19Szoai9lxpAXnT8V3L7Kp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Dynamo",
+          "url": "https://open.spotify.com/artist/3zqSxs9gF0Hr0wzwXGswlg"
+        }
+      ],
+      "duration_ms": 151946,
+      "name": "Colina Azul",
+      "url": "https://open.spotify.com/track/5MA2Oc7KhWjIe5bGKWX8Up"
     },
     {
       "added_at": "2018-12-05 03:36:52",

@@ -4,7 +4,7 @@
 
 > Time to rave again.
 
-281 songs - 1 day 2 hr 32 min
+282 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Attaché \(Edit\)](https://open.spotify.com/track/0gG9nJ5flFX2qpzvp17ApI) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [DJ AroZe](https://open.spotify.com/artist/3CVkZk7wFCAjVfOiiAQaaN) | [Attaché \(Edit\)](https://open.spotify.com/album/0MsjUWG71j16XmrjzVdgfG) | 4:33 | 2022-04-15 | 2022-07-19 |
 | [Awake](https://open.spotify.com/track/4hPHYE8cnt5cCXfirZVg05) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Awake](https://open.spotify.com/album/4lNOFm7ee2KRebEphh7tRH) | 3:29 | 2022-04-15 | 2022-12-24 |
 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 | 2022-04-15 |  |
-| [Barry](https://open.spotify.com/track/3MaqvZYEU7OLgQLI0PLCtF) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Barry](https://open.spotify.com/album/6C3UM9S38mOz5Vo2quvECU) | 6:49 | 2023-01-13 |  |
+| [Barry](https://open.spotify.com/track/3MaqvZYEU7OLgQLI0PLCtF) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Barry](https://open.spotify.com/album/6C3UM9S38mOz5Vo2quvECU) | 6:49 | 2023-01-13 | 2023-03-04 |
 | [Beide alleine \- Radio Edit](https://open.spotify.com/track/4rW2mF4NZX5BrhMQP62kun) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Beide alleine](https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte) | 3:16 | 2022-11-26 | 2022-12-20 |
 | [Berlin Rhapsody](https://open.spotify.com/track/0qulQWo8lgciSrsr0ibNwy) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Robin Schellenberg](https://open.spotify.com/artist/78Hy8NdjsX1EPvxZfOE4lE) | [Ada](https://open.spotify.com/album/5Pa8ePQBOTjnBIKPB4QUY8) | 7:17 | 2022-05-20 | 2022-07-15 |
 | [Better Mind \- Original Mix](https://open.spotify.com/track/5tPhxNJsIAe7LKSJ7bhy1C) | [Ante Perry](https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW), [Dayne S](https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h), [IMYD](https://open.spotify.com/artist/14TY7z7b8iII4hP5uYpKJm) | [Better Mind](https://open.spotify.com/album/5Bycx3sLWBt2bHhamjlDY9) | 6:04 | 2022-04-15 | 2023-02-04 |
@@ -189,6 +189,7 @@
 | [Pequeño Amor](https://open.spotify.com/track/6HkeeG8B0QHpjhLfkoT2Ys) | [Pitto](https://open.spotify.com/artist/4qGSmvW1ZXE9qeXUdoFuTG), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Back to You](https://open.spotify.com/album/6gEPIRjihArdcdmZ4i2zgo) | 6:06 | 2022-10-29 | 2022-11-15 |
 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 | 2022-04-15 |  |
 | [Picnic](https://open.spotify.com/track/1lfVngSLGVB7016sN7aT4P) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Diytalism EP](https://open.spotify.com/album/6YkBuXdyyWlsSTI1hmcXm3) | 5:38 | 2022-04-15 | 2022-11-20 |
+| [Picnic](https://open.spotify.com/track/4LV2WO47KmDcjOBii078Df) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Diytalism EP](https://open.spotify.com/album/72EwbbBns0GTQlyPQegDc6) | 5:38 | 2023-02-17 |  |
 | [Plato](https://open.spotify.com/track/5eQhX9iv6jDuzaGi6N4z0V) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Cherry \(UA\)](https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq) | [Plato](https://open.spotify.com/album/4fsQTws2mzQ0p6IemZb0oU) | 4:25 | 2022-09-30 | 2023-02-18 |
 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 | 2022-04-15 |  |
 | [PSYCHODYSKO](https://open.spotify.com/track/6SUhqjKnzoD6NapngfSNEF) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [PSYCHODYSKO](https://open.spotify.com/album/2lFstCwn0jCvKn0sR2TQ2c) | 5:24 | 2022-06-17 | 2022-07-29 |

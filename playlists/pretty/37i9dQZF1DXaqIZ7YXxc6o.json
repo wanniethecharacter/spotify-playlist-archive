@@ -1,12 +1,12 @@
 {
   "description": "Future Dance hits. Cover: Sigala, Caity Baser, Stefflon Don, Mae Muller",
-  "num_followers": 132211,
+  "num_followers": 132231,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgwNDA5MCwwMDAwMDAwMGQxMTdkODdlMTAwNDQzMWE0ZjBjODc2ZWU1NzU3N2Iw",
+  "snapshot_id": "MTY3NzgwNDA5MCwwMDAwMDAwMDM2NmM0M2RmMzQ1NDE1NjY2MzUzZjMwNGMwMjdiOTIw",
   "tracks": [
     {
       "added_at": "2023-03-03 00:41:30",
@@ -455,8 +455,8 @@
     {
       "added_at": "2023-03-03 00:41:30",
       "album": {
-        "name": "Designer (feat. Joeboy)",
-        "url": "https://open.spotify.com/album/1UzuhbZlcJML7eFxvQ3wIY"
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/3axl6saVOjcbY1RZJWB4XQ"
       },
       "artists": [
         {
@@ -473,8 +473,8 @@
         }
       ],
       "duration_ms": 199646,
-      "name": "Designer (feat. Joeboy)",
-      "url": "https://open.spotify.com/track/5ePmktvJtEOAkX0ZR9LC6B"
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/4zM0WZs5xnIoJbYqlSjPQB"
     },
     {
       "added_at": "2023-03-03 00:41:30",
@@ -643,6 +643,26 @@
       "duration_ms": 174000,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4CSwWe13HWcgXZCDkqmTQg"
+    },
+    {
+      "added_at": "2023-03-03 00:41:30",
+      "album": {
+        "name": "Lavender Haze (Remixes)",
+        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "duration_ms": 187510,
+      "name": "Lavender Haze - Snakehips Remix",
+      "url": "https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL"
     },
     {
       "added_at": "2023-03-03 00:41:30",

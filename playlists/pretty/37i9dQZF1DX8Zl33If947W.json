@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 117279,
+  "num_followers": 117489,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI3ODQzMSwwMDAwMDAwMDVkOWRlNDZlNGU4M2Y3NmNhZGYzOTUyYWEzMDg2YzVk",
+  "snapshot_id": "MTY3NjI3ODQzMSwwMDAwMDAwMDkyY2YwZGUwMWYwYzc2YjYxZWU2NzEwZjBhY2Y4ZjM5",
   "tracks": [
     {
       "added_at": "2023-02-13 08:33:30",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
-      "added_at": "2023-03-03 02:46:32",
+      "added_at": "2023-03-04 01:21:10",
       "album": {
         "name": "Mailbox",
         "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
@@ -131,6 +131,22 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
+        "name": "F\u00fcr den Himmel durch die H\u00f6lle (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Nur f\u00fcr Dich",
+      "url": "https://open.spotify.com/track/7gK3S5NIkw1KdvdnUU1O5z"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
-        "name": "F\u00fcr den Himmel durch die H\u00f6lle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Nur f\u00fcr Dich",
-      "url": "https://open.spotify.com/track/7gK3S5NIkw1KdvdnUU1O5z"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
-        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
-      },
-      "artists": [
-        {
-          "name": "Die Toten Hosen",
-          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
-        }
-      ],
-      "duration_ms": 272440,
-      "name": "Alles aus Liebe",
-      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Nur wegen dir",
         "url": "https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 203826,
       "name": "Nur wegen dir",
       "url": "https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
+        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
+      },
+      "artists": [
+        {
+          "name": "Die Toten Hosen",
+          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
+        }
+      ],
+      "duration_ms": 272440,
+      "name": "Alles aus Liebe",
+      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Vom selben Stern (Exklusive Version)",
-        "url": "https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn"
-      },
-      "artists": [
-        {
-          "name": "Ich + Ich",
-          "url": "https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "Vom selben Stern - Radio Edit",
-      "url": "https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Sommerregen",
         "url": "https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 225481,
       "name": "Sommerregen",
       "url": "https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "Vom selben Stern (Exklusive Version)",
+        "url": "https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn"
+      },
+      "artists": [
+        {
+          "name": "Ich + Ich",
+          "url": "https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "Vom selben Stern - Radio Edit",
+      "url": "https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL"
     }
   ],
   "unique_name": "Liebeslieder",

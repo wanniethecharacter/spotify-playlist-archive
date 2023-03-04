@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-159 songs - 8 hr 42 min
+165 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [cape](https://open.spotify.com/track/0nQcoFAJSCbM9SVztsWvMG) | [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC), [Open Palm](https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb), [Michi Oskah](https://open.spotify.com/artist/1UYXB0UUV3eR6KPVq0NZ5j) | [cape](https://open.spotify.com/album/3lQAHh6wD34MlWVKuPgO1A) | 1:51 | 2022-11-22 |  |
 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-03-30 |  |
 | [city limits](https://open.spotify.com/track/65VQ9IRzhXz2siw9H2okBF) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [city limits](https://open.spotify.com/album/7H4edaVn1YUAZHyuhvAjP7) | 3:03 | 2022-12-02 |  |
+| [Closer \- Guitar Version](https://open.spotify.com/track/2pYhZxuukmLVFWl60oUoMl) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Closer](https://open.spotify.com/album/19IVvjmtTA1K9U0i3aMkoa) | 2:18 | 2023-03-03 |  |
 | [Color](https://open.spotify.com/track/6n9iLk8H2DmAm7FOXxEanZ) | [Echoparks](https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF) | [Color](https://open.spotify.com/album/1fribFnHnifTybR7IZAc0e) | 2:50 | 2022-12-09 |  |
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2022-03-30 |  |
 | [Diaphanous](https://open.spotify.com/track/7b343d6fzVQEfyWDZATJ0M) | [Doug Saint](https://open.spotify.com/artist/1apeSNQqrw18v2Z9U6hxmh) | [Into Oblivion](https://open.spotify.com/album/0oO89cVZdGhilcsQVpMt5x) | 4:41 | 2022-12-30 |  |
@@ -68,6 +69,7 @@
 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 | 2022-03-30 |  |
 | [Just An Unkind Time](https://open.spotify.com/track/7cmSGCMt0V9C3junM4m29v) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [Hold You Up](https://open.spotify.com/album/6Dd9ZLCztKoulxoSTGXBn4) | 5:02 | 2022-03-30 |  |
 | [Kindly Refrain](https://open.spotify.com/track/6Jk0CC8q4pwt6NGjOOxuPZ) | [Abstract Rose](https://open.spotify.com/artist/4rZFgAj9MDm0tr1vTChIVI) | [Kindly Refrain](https://open.spotify.com/album/4xRnIHpHuM0FEiWdyUyOcL) | 2:28 | 2022-03-30 |  |
+| [Klarälven](https://open.spotify.com/track/6wnqcyatMNMyK2mQSVjMfv) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Klarälven](https://open.spotify.com/album/5wwzf8mRgo4yhc0uS3ETuP) | 2:09 | 2023-03-03 |  |
 | [Les Paul Sanitarium](https://open.spotify.com/track/3HZOYhBlwuAVKO9wxT66B1) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXI](https://open.spotify.com/album/2mIu9oDUCuMCdowK2ocHYt) | 1:57 | 2022-03-30 |  |
 | [line up](https://open.spotify.com/track/4RQFT3aZPjhuafwXNUnL6x) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [line up](https://open.spotify.com/album/1FzTPoHFZ0QDthxwSHCBgl) | 2:25 | 2022-03-30 |  |
 | [lips list](https://open.spotify.com/track/632FOOc5n5wRJbBvqWliwT) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [lips list](https://open.spotify.com/album/3O4rUMESlirkPiWXU26MFO) | 3:12 | 2022-03-30 |  |
@@ -89,6 +91,7 @@
 | [Nautilus](https://open.spotify.com/track/0C8xen3Hd4WzIw6XDJGN6L) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 2:51 | 2022-03-30 |  |
 | [neckless](https://open.spotify.com/track/5vU0ILQHzg8W293FZGwYcV) | [Kol Gron](https://open.spotify.com/artist/1dkHQSbVNP5EofkycCkJMb) | [neckless](https://open.spotify.com/album/27DEm76rOIIHMCxW7VGkfb) | 2:56 | 2022-03-30 |  |
 | [Night Light](https://open.spotify.com/track/0gmQupI4nISCPJ55UGmYyL) | [K.Ellis](https://open.spotify.com/artist/07Eaiwran5MzMrmkxaVZaj) | [Night Light](https://open.spotify.com/album/5QGAvgrP7rUXPTzJDhzbTB) | 2:43 | 2023-01-20 |  |
+| [Nocturnal Reflections \- 432 Hz](https://open.spotify.com/track/0kP4V6bA8PjuhxstRJUyKK) | [Dream Strings](https://open.spotify.com/artist/7iiuM2IWsST0RqycgULkto), [Feel Better](https://open.spotify.com/artist/1N4by2ZqavHgzSyWyCgoKd), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Nocturnal Reflections \(432 Hz\)](https://open.spotify.com/album/2reQv3AgwbI3z0cJPOPyLk) | 2:56 | 2023-03-03 |  |
 | [numb burn](https://open.spotify.com/track/2iWlzsg7MoN9nKIwxlJWPc) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [meadows](https://open.spotify.com/album/2Iwq8ywHPSK7Y04kV1IozT) | 2:58 | 2023-01-27 |  |
 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 | 2022-05-19 |  |
 | [Ocean Flow Zither \- Mia Doi Todd Remix](https://open.spotify.com/track/09ppgcPGVtmFioqXjHIWJs) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Mia Doi Todd](https://open.spotify.com/artist/1r3efMZ0kcejkPKP8oQZzv) | [Sun Transformations](https://open.spotify.com/album/36tmFK2dtwsUrPWjsjnaEL) | 4:16 | 2022-03-30 | 2022-09-03 |
@@ -104,6 +107,7 @@
 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 | 2022-03-30 |  |
 | [Rent a New Place, Everything Could Change](https://open.spotify.com/track/42T8hyzch4rCR4UsDQ4TS6) | [Merz](https://open.spotify.com/artist/5OLpeoin9igrD2GR6CRkyp), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Dreams of Sleep and Wakes of Sound](https://open.spotify.com/album/203n39LZt0ktgcQ6mLWLoa) | 5:45 | 2022-03-30 |  |
 | [Rest Assured](https://open.spotify.com/track/78TN3sJg3D4PL2QQScW0Fn) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Rest Assured](https://open.spotify.com/album/1atqyuFA0PaM6mCZ2aOE72) | 2:44 | 2022-10-21 |  |
+| [Return of the Light](https://open.spotify.com/track/278SBB605IY9E4RgvKG0Ct) | [Airam Rubio](https://open.spotify.com/artist/5xsu3Uv920CTaHjOrGsHoR) | [Return of the Light](https://open.spotify.com/album/5627BIepoH1IvKgKRpd01b) | 2:34 | 2023-03-03 |  |
 | [Rings](https://open.spotify.com/track/2O16b4CiYRidoYlTFT8iom) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Rings](https://open.spotify.com/album/5r3wmyRZO5S2mq8a1frTAq) | 2:59 | 2022-03-30 |  |
 | [Riverside](https://open.spotify.com/track/02YiNo9Ltw4N1aIuf7u8c3) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Above The Neon Glow](https://open.spotify.com/album/4qDk81Z78TXyclmv3NSEBm) | 6:40 | 2022-03-30 |  |
 | [Runeii](https://open.spotify.com/track/4ADboMaZ1PMfK4Np69Zb4K) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79) | 4:57 | 2022-07-15 |  |
@@ -112,6 +116,7 @@
 | [Sands](https://open.spotify.com/track/57sMTer5cdcMyQuEZgNvlT) | [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Light of Woods](https://open.spotify.com/artist/50GdmfflR0mWUQpStEKuPZ) | [Craters](https://open.spotify.com/album/4OaftzM6C7I9OjBtu6xD5J) | 3:31 | 2023-01-27 |  |
 | [Scorpio](https://open.spotify.com/track/5ymZVLbXYU9P9Dml5fGuXP) | [Matteo Edesio](https://open.spotify.com/artist/5KLOjDZreSAbJqW330F03e) | [Scorpio](https://open.spotify.com/album/6eD2kdgpRzfzZqPTXWRbMH) | 2:09 | 2022-03-30 |  |
 | [Sea Level](https://open.spotify.com/track/7L8H804VF1JlDd97EYJ82M) | [Stephane Landgrebe](https://open.spotify.com/artist/5dxvpJIhy9HmkQbasNrqy5) | [Sea Level](https://open.spotify.com/album/7GIdcbJFXgbRf1hORxLV2L) | 1:58 | 2022-06-20 |  |
+| [Seaside](https://open.spotify.com/track/0WKvC9Q8uNVh4kVWVHPCBd) | [Aura Onda](https://open.spotify.com/artist/04O0lEQuqzTzjlhJ9Rfhgx) | [Seaside](https://open.spotify.com/album/2Rmxol60aYv7H3uw3lqsuK) | 2:23 | 2023-03-03 |  |
 | [Serenitivity](https://open.spotify.com/track/41hD0lo1wIP9GX25JE4Kfu) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Serenitivity](https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF) | 3:33 | 2022-03-30 |  |
 | [Seven States Of Bliss](https://open.spotify.com/track/1dZczT24YixYv7YpIbY5eT) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ), [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Celestial Railroads](https://open.spotify.com/album/4ZVfELsVXfYfu39mpanZDh) | 4:39 | 2022-03-30 | 2022-11-09 |
 | [Seven States Of Bliss](https://open.spotify.com/track/5nVOrxH8lgo3LF6AEUD2kP) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ), [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Celestial Railroads](https://open.spotify.com/album/4cBhiK13JwxofI6s0guLk4) | 4:39 | 2022-10-21 | 2023-02-10 |
@@ -123,6 +128,7 @@
 | [space cadet academy](https://open.spotify.com/track/28h4PBovsvNHn5GBEpXXRT) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [space cadet academy](https://open.spotify.com/album/1hwRNXUB5OHzcEskR156hQ) | 2:57 | 2022-12-02 |  |
 | [Spectrum](https://open.spotify.com/track/1IehfNuo7INDcML5BpB8XF) | [Serenity Within](https://open.spotify.com/artist/6FAxdDhWeswbCrRh4Peerp) | [Spectrum](https://open.spotify.com/album/0ICUzYINjeIcXtmOV0kZI6) | 2:47 | 2023-02-17 |  |
 | [Stargazing](https://open.spotify.com/track/3vry2ev8DYAUt2ggdaXrUk) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Stargazing](https://open.spotify.com/album/0gHxoEdJVI683mr9khLjS3) | 2:16 | 2022-06-16 |  |
+| [Steadfast](https://open.spotify.com/track/2qTBy6oygbjPTEpitegxXE) | [Yokocho Chords](https://open.spotify.com/artist/03lwJjylwMLizTFvD1sDEC) | [Steadfast](https://open.spotify.com/album/5gDummFOXZRMs6CYc70iDO) | 2:43 | 2023-03-03 |  |
 | [summer silence](https://open.spotify.com/track/3vROTGlX31Rem9VaTqdBzS) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [summer silence](https://open.spotify.com/album/2l1GqNZKHiPQxt4dMJr5Oq) | 2:55 | 2022-07-15 |  |
 | [Swirl](https://open.spotify.com/track/6LPsWnHxhhnUuAQMye688I) | [Echoparks](https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF) | [Swirl](https://open.spotify.com/album/01Qt1xfREQwMLZVPceyipW) | 2:09 | 2023-02-09 |  |
 | [Tailwind](https://open.spotify.com/track/6iayCFA7f9WPT1fFquReHx) | [Elena Aedile](https://open.spotify.com/artist/7wL3hF2m2FvX6LHb0REUMs) | [Morning Breeze](https://open.spotify.com/album/6ixmeJsmJfMKdrrAChdc4g) | 2:47 | 2022-03-30 |  |

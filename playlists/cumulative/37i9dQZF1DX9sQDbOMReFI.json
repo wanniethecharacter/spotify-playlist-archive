@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The best side! Cover: Mount Westmore",
+  "description": "The best side! Cover: Yo-Yo",
   "name": "I Love My West Coast Classics",
   "tracks": [
     {
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 253626,
       "name": "Mistadobalina",
       "url": "https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p"
@@ -2270,6 +2270,28 @@
       "duration_ms": 215200,
       "name": "Xxplosive",
       "url": "https://open.spotify.com/track/0Ed7MeXx64f6OcIuoTRCg1"
+    },
+    {
+      "album": {
+        "name": "Make Way For The Motherlode",
+        "url": "https://open.spotify.com/album/0mSz5kMqndsfPQ0i0XoKEl"
+      },
+      "artists": [
+        {
+          "name": "Yo-Yo",
+          "url": "https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304666,
+      "name": "You Can't Play with My Yo-Yo (feat. Ice Cube)",
+      "url": "https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t"
     },
     {
       "album": {

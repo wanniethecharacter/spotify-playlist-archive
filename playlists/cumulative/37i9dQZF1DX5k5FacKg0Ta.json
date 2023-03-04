@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 260906,
       "name": "Aava",
       "url": "https://open.spotify.com/track/0ujS9nCJPQaGjzsvaIK7Fx"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 285560,
       "name": "Equilibrium",
       "url": "https://open.spotify.com/track/5encxpCxzvb2FbnKCzYHqe"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 330440,
       "name": "Hope",
       "url": "https://open.spotify.com/track/0wIIVAaIVEEezkbF3nywKF"
@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Junassa",
+        "url": "https://open.spotify.com/album/43RH8KMHg3VtQrOWH4aDgY"
+      },
+      "artists": [
+        {
+          "name": "Emmi U. Trio",
+          "url": "https://open.spotify.com/artist/74HYOIncyX3SywhTMIYq1y"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263146,
+      "name": "Junassa",
+      "url": "https://open.spotify.com/track/2hPQcgfs8FPUEtFmqRRqaV"
+    },
+    {
+      "album": {
         "name": "East Side Up!",
         "url": "https://open.spotify.com/album/1HQSyUWkSc5PrsCMnLMTDz"
       },
@@ -926,6 +944,24 @@
       "duration_ms": 226186,
       "name": "Just Make It Fast",
       "url": "https://open.spotify.com/track/4xxgPpHKtihNz7yr4FutXd"
+    },
+    {
+      "album": {
+        "name": "Kallio",
+        "url": "https://open.spotify.com/album/78izjiZR0pLjMrXlPJIPgX"
+      },
+      "artists": [
+        {
+          "name": "North of Kallio Ensemble",
+          "url": "https://open.spotify.com/artist/7sB7k5nRT61iJ4HDliQRtQ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339026,
+      "name": "Kallio",
+      "url": "https://open.spotify.com/track/1IkYEuDcR2XcuT80vEx6aq"
     },
     {
       "album": {
@@ -1038,6 +1074,24 @@
       "duration_ms": 231733,
       "name": "Kullankaivaja",
       "url": "https://open.spotify.com/track/0SW6Bq46YRsVDzn3MtXc1u"
+    },
+    {
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/1kbcdOfwC0dFUOK2DmAWzj"
+      },
+      "artists": [
+        {
+          "name": "Peela",
+          "url": "https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297263,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/7HSKioNnSt9EDYJSrUrxX4"
     },
     {
       "album": {
@@ -1680,7 +1734,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 296621,
       "name": "So\u0308rna\u0308inen",
       "url": "https://open.spotify.com/track/01qQCb8v73UKqrdr3z4Ydn"

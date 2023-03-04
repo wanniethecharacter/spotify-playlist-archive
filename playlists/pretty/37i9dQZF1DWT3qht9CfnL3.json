@@ -1,12 +1,12 @@
 {
   "description": "Canciones de despecho para cantarle a quien te rompi\u00f3 el coraz\u00f3n.",
-  "num_followers": 288275,
+  "num_followers": 288451,
   "original_name": "Reggaet\u00f3n para Tu Ex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxODQwMCwwMDAwMDAwMDZlOTNjM2ZjMGNmMjA2NWJkOGQ3Y2E0YzJiYzExMGFh",
+  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMGI4OGU1MzUyODQyNGRkODYzNmFkODBjNzYwOTk2OTRi",
   "tracks": [
     {
       "added_at": "2023-02-24 06:00:00",
@@ -79,6 +79,26 @@
       "duration_ms": 212957,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
+    },
+    {
+      "added_at": "2023-03-03 06:00:00",
+      "album": {
+        "name": "Sencilla",
+        "url": "https://open.spotify.com/album/1LFhr8uJbn9T59x5jyyn3p"
+      },
+      "artists": [
+        {
+          "name": "Babywine",
+          "url": "https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 155297,
+      "name": "Sencilla",
+      "url": "https://open.spotify.com/track/2Jtv8ouukqBtC5OB7Eh2Oj"
     },
     {
       "added_at": "2023-02-10 06:00:00",

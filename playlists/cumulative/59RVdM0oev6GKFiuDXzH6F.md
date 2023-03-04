@@ -4,10 +4,11 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-71 songs - 3 hr 20 min
+75 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/track/3ISLa8YMtXC50w0vA0AWTk) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf), [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/album/1ezdvzo3qAQ3Dxt2gvI79e) | 2:29 | 2023-03-03 |  |
 | [Al Perreo \- Mixed](https://open.spotify.com/track/0BN9P0UYB4PUWpRrAG9wXt) | [FNTZY](https://open.spotify.com/artist/6Tc25h7Kk6DfK9GarjiEd5) | [Al Perreo](https://open.spotify.com/album/7ylSGlus6NrY2nnKRY7kNt) | 2:31 | 2023-02-12 |  |
 | [Aquí](https://open.spotify.com/track/4VkLkS6EHULiBDnrD0fAXN) | [Bryan Softwell](https://open.spotify.com/artist/3BoPm6NYFfRsuJplyNuUzf) | [Aquí](https://open.spotify.com/album/6ap5fnMGOUCNLbgXAEg2JX) | 3:31 | 2023-02-12 |  |
 | [Assim](https://open.spotify.com/track/6lsjRcH4aTU4otvziy3hJX) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Assim](https://open.spotify.com/album/7tMmHHhxEQ2XUhftmWyj71) | 2:49 | 2023-02-12 |  |
@@ -19,6 +20,7 @@
 | [Cadidonia](https://open.spotify.com/track/7aGhrdyomZhRlwV1lOAs9P) | [Sr\. Funkie](https://open.spotify.com/artist/5eiKMITkmVJ07m1HoKAx3n) | [You Got Soul](https://open.spotify.com/album/3jpUTkWUzmpBsdHmgd3Yhs) | 4:30 | 2023-02-12 |  |
 | [Carol Of The Bells](https://open.spotify.com/track/1JpJXN0XW7Y72GbYAEIFbE) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Carol Of The Bells](https://open.spotify.com/album/1y4jWk6gl9MVSusP2xpixy) | 3:27 | 2023-02-12 |  |
 | [Children Of The Resistance](https://open.spotify.com/track/0Iaan4z8XUttGENkEbmZFP) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Suark](https://open.spotify.com/artist/6iLBBp88stAFjZdnn0HsdD), [Armando](https://open.spotify.com/artist/4JSChvgYDHRIC9CbaxReS9) | [Children Of The Resistance](https://open.spotify.com/album/54Jnky4Rfl83BTAiDB5dwo) | 2:53 | 2023-02-12 |  |
+| [Crank That](https://open.spotify.com/track/2ez15htfMruYGZAGpIUjit) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Crank That](https://open.spotify.com/album/3Sn7J040OsJ7aXC4t7WNV0) | 2:36 | 2023-03-03 |  |
 | [Crypto](https://open.spotify.com/track/5FiVO5lwVNHS344sMB4OsJ) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Crypto](https://open.spotify.com/album/1JRt5rECmRSIkMABuHD2QX) | 2:15 | 2023-02-12 |  |
 | [DM ME](https://open.spotify.com/track/7dSHCIUMxruReVkPneapxP) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [DM ME](https://open.spotify.com/album/3t0XeuHfiDfeRJD0enq96J) | 3:03 | 2023-02-12 |  |
 | [Faux Parti](https://open.spotify.com/track/0VQGk9vltYw4vV2GhOkJ8S) | [Titus1](https://open.spotify.com/artist/4dCWLsP4fsgMjs3zcNq3TU) | [Faux Parti](https://open.spotify.com/album/1JnpVe9WHrTY9C1JQAe0I9) | 3:40 | 2023-02-12 |  |
@@ -53,6 +55,8 @@
 | [Only You](https://open.spotify.com/track/615WJK7fyg5iylprqeB6XK) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Only You](https://open.spotify.com/album/6HvGmXvwlzqqhAtKFi6cAl) | 2:49 | 2023-02-12 |  |
 | [Pa Lante](https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [El Chuape](https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9) | [Pa Lante](https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC) | 2:10 | 2023-02-17 |  |
 | [Papapo](https://open.spotify.com/track/19kKBMycCxe3KQP8Ljaruz) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Papapo](https://open.spotify.com/album/2dm5V14JgMy0tb8A5tGrn8) | 2:46 | 2023-02-12 |  |
+| [Paralyzed By Your Eyes](https://open.spotify.com/track/5hEet4S4TiD6zw0C9ekzdt) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Paralyzed By Your Eyes](https://open.spotify.com/album/1kpcos1H8BuZHaauZAMMIg) | 2:40 | 2023-03-03 |  |
+| [Paris To Berlin](https://open.spotify.com/track/2Ks189PRfXXnNH3FAT0Jnc) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Paris To Berlin](https://open.spotify.com/album/67wCOcMvPGm0GahQ8EIq8q) | 2:24 | 2023-03-03 |  |
 | [Playa](https://open.spotify.com/track/3D0VEmqcbT95B22ojdjkU1) | [RAFI](https://open.spotify.com/artist/1lHKz7UclrOxsquASlnNRs) | [Playa](https://open.spotify.com/album/5Ys8n1I5tFS0uvFAlaRna0) | 3:06 | 2023-02-17 |  |
 | [Problems](https://open.spotify.com/track/6gKKGDO4JlrJDf9EYzBk7J) | [ODJO](https://open.spotify.com/artist/0PTMBIPah6TbcefoTsEkUn) | [Problems](https://open.spotify.com/album/5QtbFLSTAwiBSd9WJS1pTm) | 2:52 | 2023-02-12 |  |
 | [Pump It](https://open.spotify.com/track/7K0bmMQyro8sd5NEpEqq6n) | [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Pump It](https://open.spotify.com/album/31nJohTPaHhZcfzthYgbRb) | 2:22 | 2023-02-12 |  |

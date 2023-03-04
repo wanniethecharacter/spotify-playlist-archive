@@ -4,7 +4,7 @@
 
 > The new wave of rock from the UK & Ireland\. Cover: SPIDER
 
-113 songs - 5 hr 58 min
+115 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,14 +66,16 @@
 | [Loser](https://open.spotify.com/track/0SCX0m4QOZtoBX1kmhrsR0) | [Hometruths](https://open.spotify.com/artist/1gFSdRSFZ7W75S9S7CzCEB) | [Loser](https://open.spotify.com/album/19fVAXhJh7V6M9u21CsGvM) | 3:38 | 2023-03-03 |  |
 | [Love Rush](https://open.spotify.com/track/41BpMpEPf3oo81DUoGfw32) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/72Q9DnfCrWdrY8A95mXXrr) | 2:53 | 2023-01-13 |  |
 | [Lovedrunk](https://open.spotify.com/track/0oNTXmnhv5NFSScucHbki8) | [The White Lakes](https://open.spotify.com/artist/0NfxIPLSHdoCWNMXbLjehq) | [Lovedrunk](https://open.spotify.com/album/5ubYQGukF6N0djNxage429) | 4:00 | 2023-01-27 | 2023-02-10 |
-| [Lucifer](https://open.spotify.com/track/45Nwq28AzOXpRve87hbDCk) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [One Shade Darker](https://open.spotify.com/album/5uc01QHmHEhlokwE2kYdDB) | 3:26 | 2023-03-03 |  |
+| [Lucifer](https://open.spotify.com/track/45Nwq28AzOXpRve87hbDCk) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [One Shade Darker](https://open.spotify.com/album/5uc01QHmHEhlokwE2kYdDB) | 3:26 | 2023-03-03 | 2023-03-04 |
+| [Lucifer](https://open.spotify.com/track/4Fve9SnM02yqPypTcK4i4U) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [One Shade Darker](https://open.spotify.com/album/460Oh7tKR0JYuAje2Nuf04) | 3:26 | 2023-03-03 |  |
 | [Madman](https://open.spotify.com/track/0claZhFBLs49ZIyzN9BovS) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [Madman](https://open.spotify.com/album/3z6fcOFkkVttWJO4urKHKY) | 3:52 | 2023-03-03 |  |
 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 | 2023-02-17 |  |
 | [Mayday](https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Mayday](https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo) | 3:15 | 2023-01-13 |  |
 | [Meal Deal](https://open.spotify.com/track/5qKqepzQPaif5QKoZNsiOU) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Meal Deal](https://open.spotify.com/album/1vxQHrNWHlXJsKIsozh2UZ) | 2:23 | 2023-01-13 | 2023-03-03 |
 | [Micro Aggression](https://open.spotify.com/track/0AoVDlD4Da25HVGUpM0liK) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Micro Aggression](https://open.spotify.com/album/22keIGmNhJW6JnSN0beV4z) | 2:37 | 2023-02-10 |  |
 | [Mosquito](https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3) | [Elijah Miller](https://open.spotify.com/artist/5EiOwophtTAR0ZaPfXuK5a) | [Mosquito](https://open.spotify.com/album/1eUSbAtW5RZmiuWEDmCxYe) | 2:52 | 2023-02-17 |  |
-| [MOTION SICKNESS!!](https://open.spotify.com/track/2ptIS5c0dq8MJlAelarYq5) | [Abi Rose Kelly](https://open.spotify.com/artist/3K9fu0H0EZDRjNg9TKXWQ6) | [MOTION SICKNESS!!](https://open.spotify.com/album/4OYBMMpF6R3OagG6vGcj5g) | 2:17 | 2023-02-17 |  |
+| [MOTION SICKNESS!!](https://open.spotify.com/track/0g5P7TjeGuIjNv308nX1PW) | [Abi Rose Kelly](https://open.spotify.com/artist/3K9fu0H0EZDRjNg9TKXWQ6) | [MOTION SICKNESS!!](https://open.spotify.com/album/691SIoZqqRX7RqgpZIcdmt) | 2:17 | 2023-03-03 |  |
+| [MOTION SICKNESS!!](https://open.spotify.com/track/2ptIS5c0dq8MJlAelarYq5) | [Abi Rose Kelly](https://open.spotify.com/artist/3K9fu0H0EZDRjNg9TKXWQ6) | [MOTION SICKNESS!!](https://open.spotify.com/album/4OYBMMpF6R3OagG6vGcj5g) | 2:17 | 2023-02-17 | 2023-03-04 |
 | [My Perfect](https://open.spotify.com/track/4wd0skBSF7oBUOeULBeitG) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [My Perfect](https://open.spotify.com/album/1mcKvwXKx1OIUHBOAuyQl7) | 3:12 | 2023-01-13 |  |
 | [Neighbours](https://open.spotify.com/track/6PpGAVANQ6CZ5OSIwA3oBj) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Neighbours](https://open.spotify.com/album/3udbFrx4tlFGwZEh4CK3HX) | 2:51 | 2023-01-13 |  |
 | [No Constraint](https://open.spotify.com/track/48x8I9dFZjWn7bJf5j2nnT) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [No Constraint](https://open.spotify.com/album/1asjlY8VeCEXNOuBHS3bhh) | 3:02 | 2023-03-03 |  |

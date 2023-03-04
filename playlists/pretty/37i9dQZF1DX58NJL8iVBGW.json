@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 542136,
+  "num_followers": 542297,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDYxZjRjZTQzYjU0YTkwZWFhODUyNzI4MDJiNWNjZTZi",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDU3NTNkYmFjMzQ3ZDU5MTI2ZTQ1MWMyZmE5NGIwOTBl",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -201,24 +201,20 @@
       "url": "https://open.spotify.com/track/3LDkLpuxQlEuEiZmkxpr8S"
     },
     {
-      "added_at": "2022-07-11 21:23:38",
+      "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Run On",
-        "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
+        "name": "Folk Songs of the American Longhair",
+        "url": "https://open.spotify.com/album/0eU0Ig4o4Asslx1t3nIPm2"
       },
       "artists": [
         {
-          "name": "Jamie Bower",
-          "url": "https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1"
-        },
-        {
-          "name": "King Sugar",
-          "url": "https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP"
+          "name": "Brother Dege",
+          "url": "https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR"
         }
       ],
-      "duration_ms": 212705,
-      "name": "Run On",
-      "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
+      "duration_ms": 224053,
+      "name": "Too Old to Die Young",
+      "url": "https://open.spotify.com/track/3B9CVXsyyFRVQwCPYbhS9m"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -237,20 +233,24 @@
       "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
-      "added_at": "2022-06-06 19:18:28",
+      "added_at": "2022-07-11 21:23:38",
       "album": {
-        "name": "Folk Songs of the American Longhair",
-        "url": "https://open.spotify.com/album/0eU0Ig4o4Asslx1t3nIPm2"
+        "name": "Run On",
+        "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
       "artists": [
         {
-          "name": "Brother Dege",
-          "url": "https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR"
+          "name": "Jamie Bower",
+          "url": "https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1"
+        },
+        {
+          "name": "King Sugar",
+          "url": "https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP"
         }
       ],
-      "duration_ms": 224053,
-      "name": "Too Old to Die Young",
-      "url": "https://open.spotify.com/track/3B9CVXsyyFRVQwCPYbhS9m"
+      "duration_ms": 212705,
+      "name": "Run On",
+      "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Live at the Old Quarter, Houston, Texas",
-        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 154186,
-      "name": "Lungs - Live",
-      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Common Faults (Remastered Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZrsOwdFsAWSnIjlVvKgOE"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 128893,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Live at the Old Quarter, Houston, Texas",
+        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 154186,
+      "name": "Lungs - Live",
+      "url": "https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Sharecropper\u2019s Son",
+      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Real Gone (Remastered)",
         "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+        "name": "Hymns For a Dark Horse",
+        "url": "https://open.spotify.com/album/1bmDSG41Kr8RQBcP9qCM0e"
       },
       "artists": [
         {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+          "name": "Bowerbirds",
+          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
         }
       ],
-      "duration_ms": 186960,
-      "name": "Sharecropper\u2019s Son",
-      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
+      "duration_ms": 233493,
+      "name": "In Our Talons",
+      "url": "https://open.spotify.com/track/32MfLc3XuxExc5XOgim5LB"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1023,22 +1039,6 @@
       "duration_ms": 380160,
       "name": "Will There Be Enough Water?",
       "url": "https://open.spotify.com/track/3VYbLgJNS7Jr7YlatA0lNe"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Hymns For a Dark Horse",
-        "url": "https://open.spotify.com/album/1bmDSG41Kr8RQBcP9qCM0e"
-      },
-      "artists": [
-        {
-          "name": "Bowerbirds",
-          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "In Our Talons",
-      "url": "https://open.spotify.com/track/32MfLc3XuxExc5XOgim5LB"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Devil Don't You Fool Me",
+        "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
+      },
+      "artists": [
+        {
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
+        }
+      ],
+      "duration_ms": 170985,
+      "name": "Devil Don't You Fool Me",
+      "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Billy Jack",
         "url": "https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 108361,
       "name": "Dime in My Pocket",
       "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Devil Don't You Fool Me",
-        "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
-      },
-      "artists": [
-        {
-          "name": "Josh Farrow",
-          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
-        }
-      ],
-      "duration_ms": 170985,
-      "name": "Devil Don't You Fool Me",
-      "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Natural Conclusion",
-        "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        }
-      ],
-      "duration_ms": 194570,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/7ywUfT35DxrKOoq7ZL0VQ5"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Little Wing",
         "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 175960,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Natural Conclusion",
+        "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "duration_ms": 194570,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/7ywUfT35DxrKOoq7ZL0VQ5"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Oh, Willie, Please...",
+        "url": "https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3"
+      },
+      "artists": [
+        {
+          "name": "Vandaveer",
+          "url": "https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A"
+        }
+      ],
+      "duration_ms": 228958,
+      "name": "Pretty Polly",
+      "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
@@ -1489,22 +1505,6 @@
       "url": "https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Blood Money (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/34jdCKLIC2rmMyACRTKZNG"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 292112,
-      "name": "All The World Is Green - Live",
-      "url": "https://open.spotify.com/track/3vjbT3AQnw4iKXAs2Nb6Xn"
-    },
-    {
       "added_at": "2022-06-06 19:18:28",
       "album": {
         "name": "The Longest Day",
@@ -1519,6 +1519,22 @@
       "duration_ms": 270228,
       "name": "Highway 9",
       "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Blood Money (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/34jdCKLIC2rmMyACRTKZNG"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 292112,
+      "name": "All The World Is Green - Live",
+      "url": "https://open.spotify.com/track/3vjbT3AQnw4iKXAs2Nb6Xn"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1615,26 +1631,6 @@
       "duration_ms": 212504,
       "name": "Bless Your Soul",
       "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "O Death (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj"
     }
   ],
   "unique_name": "Southern Gothic",

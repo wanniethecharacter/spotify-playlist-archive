@@ -5209,6 +5209,32 @@
     },
     {
       "album": {
+        "name": "Night After Night",
+        "url": "https://open.spotify.com/album/5BdSUE84muaBTlQLSYiQMt"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418528,
+      "name": "Night After Night - CamelPhat Remix",
+      "url": "https://open.spotify.com/track/2Nq06gpBMrjYnBLpi0cNYy"
+    },
+    {
+      "album": {
         "name": "No More EP",
         "url": "https://open.spotify.com/album/3nDJuk3iXzSd8UYAFlThCS"
       },

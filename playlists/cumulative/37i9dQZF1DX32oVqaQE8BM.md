@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-508 songs - 21 hr 39 min
+511 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Abandoned](https://open.spotify.com/track/42HAxEUm5y4tqDCqRzH82A) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [In My Head](https://open.spotify.com/album/1vWG2w9kWm5V9ll3ys7ARs) | 2:22 | 2022-09-09 | 2023-02-08 |
 | [Adriatica](https://open.spotify.com/track/37k4ukRm7nCkyU6ymyCx0t) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Adriatica](https://open.spotify.com/album/7gEZSVeGcPDXmRk0LsJbr3) | 2:24 | 2021-11-10 | 2022-07-29 |
 | [After Nap](https://open.spotify.com/track/27AQrWnLC1o3O6CpQnMuR9) | [Dolow](https://open.spotify.com/artist/4a45hyniqH4TLiUs5rzZsX) | [After Nap](https://open.spotify.com/album/6GiTFrmJIYOXURTevVOt65) | 1:56 | 2022-12-16 |  |
+| [afternoon fusion](https://open.spotify.com/track/1rg9zi8x6siDbqLLK2akbQ) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [afternoon fusion](https://open.spotify.com/album/0psUW4Xb7xlFgZOArXsjwA) | 2:46 | 2023-03-04 |  |
 | [Akimbo](https://open.spotify.com/track/6F1wHgPmgKWQEVQHwx5wBW) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Akimbo](https://open.spotify.com/album/1mF2gGcctnOgfYay0VOJcb) | 3:09 | 2021-11-10 | 2022-07-08 |
 | [Alley Cats](https://open.spotify.com/track/532t3PDm0DCgFBtoM3Z7rH) | [Tasti Toste](https://open.spotify.com/artist/53qHcWWrGdvhWOP1UpdBnZ) | [Good Morning City](https://open.spotify.com/album/4ewGoZYxzZk090Pu1bjxF7) | 1:53 | 2021-11-10 | 2022-06-03 |
 | [Altitude](https://open.spotify.com/track/7IifE7KLQOzkNPJhtdaC1R) | [Aero Tåg](https://open.spotify.com/artist/6XCDpRM9TMkdYSobofgjjH) | [Altitude](https://open.spotify.com/album/1ADHASEnOwZHzyJO9OLni9) | 3:32 | 2021-11-10 | 2022-05-11 |
@@ -237,7 +238,7 @@
 | [Legends of the Windwalker Prince](https://open.spotify.com/track/4xVzuqZOPhJDOBuD7lOQTe) | [Myriad of Trees](https://open.spotify.com/artist/1jQMcRz0UCaTN63mFIPdOF) | [Sootbird](https://open.spotify.com/album/1MwYQvWmQZwT5uljVPRlV2) | 2:38 | 2021-11-10 | 2022-01-22 |
 | [Lesters Adventure](https://open.spotify.com/track/0WOGzTW5TEp1p1J3WCiSzM) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Paws For A Second](https://open.spotify.com/album/4GBIGs6taHticCXjvePE5U) | 2:05 | 2021-11-10 | 2022-07-01 |
 | [let it be](https://open.spotify.com/track/0KNi97NfOrRQdeM05jVSCv) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [let it be](https://open.spotify.com/album/4XizbKgg1yjquakMaQmUFF) | 2:05 | 2022-01-21 |  |
-| [Levitation](https://open.spotify.com/track/6DZNRRRYdh8GGMFCWGQph2) | [Stanton](https://open.spotify.com/artist/2bFESEkcjm4jaMnLd3ROM5) | [Levitation](https://open.spotify.com/album/1dFGxCa64YyA4rk5x2VdrJ) | 3:16 | 2021-11-10 |  |
+| [Levitation](https://open.spotify.com/track/6DZNRRRYdh8GGMFCWGQph2) | [Stanton](https://open.spotify.com/artist/2bFESEkcjm4jaMnLd3ROM5) | [Levitation](https://open.spotify.com/album/1dFGxCa64YyA4rk5x2VdrJ) | 3:16 | 2021-11-10 | 2023-03-04 |
 | [Licorice](https://open.spotify.com/track/517E0FKxGOc8ydUdTUdS49) | [Napolicity](https://open.spotify.com/artist/6qZ0vZZfdOormGhYSJtt5q) | [Licorice](https://open.spotify.com/album/57B3uwORFO3AT8krK2Ivgk) | 2:04 | 2021-11-10 | 2022-08-20 |
 | [Lifesaver](https://open.spotify.com/track/0ErNDv1Ki7vVXlWPUoEVC0) | [Adam Doschki](https://open.spotify.com/artist/6Srxg2LqSxDvLlgxWkvUzO) | [Lifesaver](https://open.spotify.com/album/0xuZTpvDmtYL3ychCXbNHl) | 1:46 | 2021-11-10 | 2022-01-22 |
 | [Lights Ablaze in the Dusking Sky](https://open.spotify.com/track/2NA1eNQeunceqGzraGE11K) | [States Of Matter](https://open.spotify.com/artist/0zL5nus6xyjc2UbkjBgxaz) | [Elephas](https://open.spotify.com/album/44bw9KEoZgoFje5AmuyIzw) | 2:44 | 2021-11-10 | 2022-05-11 |
@@ -303,6 +304,7 @@
 | [New Route](https://open.spotify.com/track/1SeBElvpfLPZ2KLx20Cwzv) | [Triangle Spirits](https://open.spotify.com/artist/2JoSNJu22yWingeosZDvxs) | [New Route](https://open.spotify.com/album/3RJnGF4jUjWvg6icuIBqYc) | 2:38 | 2022-09-23 |  |
 | [Next To Me](https://open.spotify.com/track/5jk62wXdfDKxAoul8UhbTM) | [Galavant Cross](https://open.spotify.com/artist/07dC1pu2nWISPURU8irwck) | [Next To Me](https://open.spotify.com/album/5a9biqCDEv550j450SqCVK) | 3:07 | 2021-11-10 | 2022-07-08 |
 | [Night Bloom](https://open.spotify.com/track/3on8oXhnggDUYrReqwSUlp) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Night Bloom](https://open.spotify.com/album/2qsPbNrC9ko6TnDcOEn77G) | 2:14 | 2022-10-07 |  |
+| [night light](https://open.spotify.com/track/4IRtFGXzilIGH7dsV7rCXx) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [night light](https://open.spotify.com/album/42jd72Z4gHKM4vjSMsZiwG) | 2:27 | 2023-03-04 |  |
 | [Night Stroll](https://open.spotify.com/track/27mAwtyJGUikLfiboN5XdW) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Night Stroll](https://open.spotify.com/album/5Efs2QcQFmEdrIRT45ArKm) | 2:15 | 2022-12-09 |  |
 | [night time](https://open.spotify.com/track/7jXUvRLubVHid8lX2LGsbT) | [fetch focus](https://open.spotify.com/artist/5Qc2nhM2huphoEWreLB8S8) | [night time](https://open.spotify.com/album/4tmHomzMHhyXBoHeDUBnlP) | 2:45 | 2022-10-07 |  |
 | [Nightglare](https://open.spotify.com/track/41qbE8aY94EABvuaMtr88z) | [Dudley Gore](https://open.spotify.com/artist/5LEjZXn8RaPhuVWn2nYDUd) | [Nightglare](https://open.spotify.com/album/3kmkNGTCMglJVeF3JbJ1po) | 1:52 | 2022-11-25 |  |
@@ -397,6 +399,7 @@
 | [Silk](https://open.spotify.com/track/6rTCryUWO7kuQ9uwjUA7w2) | [Panman](https://open.spotify.com/artist/58eSw4qR52cjweGCA6eydZ) | [Silk](https://open.spotify.com/album/1Q18C8oUD4MfZHGCNoadTB) | 2:14 | 2022-10-28 |  |
 | [ski](https://open.spotify.com/track/1KQpBWynAekxFMLKY7NIOU) | [alsterdalen](https://open.spotify.com/artist/685rsCKdiUjx2eOyLlHd06) | [ski](https://open.spotify.com/album/3qNwujX4830cwz74lpksQA) | 1:27 | 2021-11-10 | 2022-07-01 |
 | [sky high](https://open.spotify.com/track/6wcFYD2L2LCagM2i8qpRYs) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [sky high](https://open.spotify.com/album/4TqJqYVe8HofzsoX9WFOAi) | 2:13 | 2022-12-16 |  |
+| [Sky Pirates](https://open.spotify.com/track/5jkp7nlwh7pMZULvrjR1ik) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [New Wave, New Beginning](https://open.spotify.com/album/4T0wBoDPvo3KMDBapMhTze) | 1:48 | 2023-03-04 |  |
 | [Skyline](https://open.spotify.com/track/32ylzTQNlLQYgLqs6XespT) | [Dhedbeats](https://open.spotify.com/artist/70BNtwxn8FKZ9FXFLIJgCp) | [Skyline](https://open.spotify.com/album/6Feekex9w5QL4D66spBzVX) | 2:07 | 2022-09-02 |  |
 | [Skylines](https://open.spotify.com/track/5Gf4pIsLEOGUvW2aLdr1SN) | [Lifty Haze](https://open.spotify.com/artist/0pH2yots9acUIP7kjpV0oj) | [Skylines](https://open.spotify.com/album/5ty3qltfoQC9KpngSHtx9p) | 3:02 | 2022-05-10 | 2022-07-29 |
 | [skystream](https://open.spotify.com/track/3cpH965slVAktKRqw8yjGI) | [carl cheny](https://open.spotify.com/artist/2KdAwsOoRrvsK5eCKv275Y) | [skystream](https://open.spotify.com/album/1oXZlNt0pfCix13i9LRQDZ) | 2:29 | 2022-04-15 |  |

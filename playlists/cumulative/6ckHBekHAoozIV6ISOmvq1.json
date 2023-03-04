@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 307773,
       "name": "Amour servir et honnourer",
       "url": "https://open.spotify.com/track/5vLappmAOyitYhnHOpqcOe"
@@ -2792,10 +2792,32 @@
       ],
       "date_added": "2019-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 243493,
       "name": "Cantigas de Santa Maria, No. 384: A Que Por Muy Gran Fremosura",
       "url": "https://open.spotify.com/track/1wU8xVTS3CwIh9aehuBmXI"
+    },
+    {
+      "album": {
+        "name": "Cantigas de Santa Maria",
+        "url": "https://open.spotify.com/album/6UAWKw0ad9iv5AQ679yWRP"
+      },
+      "artists": [
+        {
+          "name": "Alfonso X El Sabio",
+          "url": "https://open.spotify.com/artist/0QU55IdOPz8w9ZKjvCKyxH"
+        },
+        {
+          "name": "Esther Lamandier",
+          "url": "https://open.spotify.com/artist/1WYoURZJ7g2am0iPtYQskb"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "Cantigas de Santa Maria, No. 60: Entre Av'e Eva",
+      "url": "https://open.spotify.com/track/4tnnVe1y2KxKZ8zYpQ0y2b"
     },
     {
       "album": {
@@ -4460,7 +4482,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 324028,
       "name": "Dame souvrayne (Virelay - 38r)",
       "url": "https://open.spotify.com/track/4tLSNHWJkerM4NZsbZMBvc"
@@ -4780,6 +4802,28 @@
       "duration_ms": 295773,
       "name": "De poni amor a me",
       "url": "https://open.spotify.com/track/3aUQDKvlBmBwoYvPCK2PNg"
+    },
+    {
+      "album": {
+        "name": "Codex Chantilly I",
+        "url": "https://open.spotify.com/album/2bSOxOR01vcqDV3T4LHU1H"
+      },
+      "artists": [
+        {
+          "name": "Matteo da Perugia",
+          "url": "https://open.spotify.com/artist/4SkBP6kMUXCL01R0R7c0Vz"
+        },
+        {
+          "name": "Tetraktys",
+          "url": "https://open.spotify.com/artist/58LZ1hCFww56TTbmD9XDwT"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358440,
+      "name": "De quanqu'on peut: fol.28, De quanqu'on peut belle et bonne estrener (ballade)",
+      "url": "https://open.spotify.com/track/6tED8oiimuT1YRszBmzh4L"
     },
     {
       "album": {
@@ -5130,7 +5174,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 188773,
       "name": "Do fraig Amors (arr. M. Lewon for vocal ensemble)",
       "url": "https://open.spotify.com/track/2ccBlgGNNMiJnkRgRz5vLi"
@@ -6902,7 +6946,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 357920,
       "name": "Hodie clarissimam - Olim promissus - Forma speciosissimus - Olim quem vates",
       "url": "https://open.spotify.com/track/6AyksliTShvT5gIQF3tPgP"
@@ -7580,7 +7624,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 402960,
       "name": "Isabella [Italian, 14th Century]",
       "url": "https://open.spotify.com/track/0sCIuwWVniLKYuKh1JvoDV"
@@ -8018,7 +8062,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 444040,
       "name": "Je ne requier de ma dame",
       "url": "https://open.spotify.com/track/679eHr67g2JL8cXorvKir5"
@@ -8668,7 +8712,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 194573,
       "name": "La plus jolie",
       "url": "https://open.spotify.com/track/6B9v1vflKg2rosKL08S0GP"
@@ -11004,7 +11048,7 @@
       ],
       "date_added": "2020-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 301960,
       "name": "Nu rue mit sorgen",
       "url": "https://open.spotify.com/track/3zhYNpsRX5Oqy7Ux0ErpwX"
@@ -12042,7 +12086,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 205786,
       "name": "Parlamento [Italian, 14th Century]",
       "url": "https://open.spotify.com/track/5OhTsFB09TuCnDPBeUbKO4"
@@ -12765,6 +12809,36 @@
     },
     {
       "album": {
+        "name": "Arnold & Hugo de Lantins: Secular Works",
+        "url": "https://open.spotify.com/album/0n90yGs5LJN1aoRYOL3iTL"
+      },
+      "artists": [
+        {
+          "name": "Arnold de Lantins",
+          "url": "https://open.spotify.com/artist/5OlYB7uBcNtQa97MQlM7N2"
+        },
+        {
+          "name": "Le Miroir de Musique",
+          "url": "https://open.spotify.com/artist/6wsEfwwcfvbqVzBLL2l9My"
+        },
+        {
+          "name": "Baptiste Romain",
+          "url": "https://open.spotify.com/artist/7I4wEJyWJL9BRQmIWvjqja"
+        },
+        {
+          "name": "Clara Coutouly",
+          "url": "https://open.spotify.com/artist/1BqjzkEuQ8PcKvCVA7BmYP"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323866,
+      "name": "Puis que je voy, belle, que ne m'am\u00e9s",
+      "url": "https://open.spotify.com/track/312Mgl63iP16HMOAmJrcJG"
+    },
+    {
+      "album": {
         "name": "De Perugia: Chansons",
         "url": "https://open.spotify.com/album/1Wn0Cw3426YGjUYxpUnekW"
       },
@@ -12952,7 +13026,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 194533,
       "name": "Quand je voy yver...",
       "url": "https://open.spotify.com/track/1dtFpdFr4hsboiZHCxWeHr"
@@ -13506,7 +13580,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 289800,
       "name": "Renverdie",
       "url": "https://open.spotify.com/track/6ZhiwvzK2VkKRtw426VMlC"
@@ -13820,7 +13894,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 223893,
       "name": "Sancti spiritus",
       "url": "https://open.spotify.com/track/6IZMJJn2k29OiqDH6gPIHF"

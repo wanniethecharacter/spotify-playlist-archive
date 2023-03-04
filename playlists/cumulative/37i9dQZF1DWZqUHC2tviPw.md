@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-187 songs - 8 hr 28 min
+188 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Meeks](https://open.spotify.com/track/7BDKdMg5UVqxEtdYIxcTQg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Meeks](https://open.spotify.com/album/3VZoMKFFy6lG8ccNfe2DYm) | 2:28 | 2021-11-11 |  |
 | [Move Shady](https://open.spotify.com/track/5vmF2W4z3XlKwsRZpUpP1H) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Run Better Run](https://open.spotify.com/album/0Cwh08pbkSQEbdO6WqigTK) | 3:09 | 2021-11-11 |  |
 | [Must Be Lost](https://open.spotify.com/track/4IsPmMI03DndD2449l7Qay) | [Jharee](https://open.spotify.com/artist/1h8ZzbKCnh7wCxDH8Z3iJi) | [loosies](https://open.spotify.com/album/1mfHMn5kgpf1QC8CIE8ZNA) | 2:18 | 2022-11-25 |  |
-| [My Days](https://open.spotify.com/track/3dN3G7aEL5362FmHZqBkY8) | [Mishalle Vega](https://open.spotify.com/artist/7iijCT7QHLs2A1oK49ToiW) | [My Days](https://open.spotify.com/album/2g7YpnCR4ubtaAG5CNbfMV) | 3:12 | 2022-10-14 |  |
+| [My Days](https://open.spotify.com/track/64DpmLAHF4sGYHZD4fRLXt) | [Mishalle Vega](https://open.spotify.com/artist/7iijCT7QHLs2A1oK49ToiW) | [My Days](https://open.spotify.com/album/0aMxXnKML42F38q2oKbRGf) | 3:12 | 2023-02-21 |  |
+| [My Days](https://open.spotify.com/track/3dN3G7aEL5362FmHZqBkY8) | [Mishalle Vega](https://open.spotify.com/artist/7iijCT7QHLs2A1oK49ToiW) | [My Days](https://open.spotify.com/album/2g7YpnCR4ubtaAG5CNbfMV) | 3:12 | 2022-10-14 | 2023-03-04 |
 | [My Days](https://open.spotify.com/track/7KaZU6sgOOhnuFGBZx6gdb) | [Mishalle Vega](https://open.spotify.com/artist/7iijCT7QHLs2A1oK49ToiW) | [My Days](https://open.spotify.com/album/6T5MOLNV6KF0wI0gAmGVrh) | 3:12 | 2021-11-11 | 2022-11-18 |
 | [NASA](https://open.spotify.com/track/6YwqaO5eejBRrBtbWj25QM) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [NASA](https://open.spotify.com/album/6A92SmpRlmzN41OP214NLI) | 2:06 | 2021-11-11 |  |
 | [New Tech](https://open.spotify.com/track/5rpI7Lcq895kc81mxWmqFm) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [New Tech](https://open.spotify.com/album/27WjV1hX9cnIkKjvcF38Hh) | 2:37 | 2022-07-01 |  |

@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 149097,
       "name": "All These Lies",
       "url": "https://open.spotify.com/track/1f00MXwSWrqAjsvBnRPzQl"
@@ -1462,6 +1462,32 @@
       "duration_ms": 174189,
       "name": "Always On My Mind (feat. Charlotte Haining)",
       "url": "https://open.spotify.com/track/6ZDGcLFDewEV6c9xOgpFGS"
+    },
+    {
+      "album": {
+        "name": "Amnesia (feat. GASHI)",
+        "url": "https://open.spotify.com/album/51BR8645FA5RjZus314Tpy"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "GASHI",
+          "url": "https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Amnesia (feat. GASHI)",
+      "url": "https://open.spotify.com/track/1xvh5ujI8fogjmadcLmLBZ"
     },
     {
       "album": {
@@ -1646,7 +1672,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 146601,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/0Uo43DNldd7aNxizhKgowg"
@@ -1906,7 +1932,7 @@
       },
       "artists": [
         {
-          "name": "Michael Brun",
+          "name": "Micha\u00ebl Brun",
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
@@ -1916,7 +1942,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-02-16",
+      "date_removed": null,
       "duration_ms": 187658,
       "name": "Baby Who",
       "url": "https://open.spotify.com/track/2KgeYkljkGLetuA97xfU2Z"
@@ -4360,7 +4386,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 208739,
       "name": "Can't Let Go (feat. Harry Hudson)",
       "url": "https://open.spotify.com/track/2wlJujDcmEpJ4egO6Sx56w"
@@ -7419,6 +7445,32 @@
     },
     {
       "album": {
+        "name": "Dream of You",
+        "url": "https://open.spotify.com/album/2oNEGhrfpdJ0NWJa2paz4V"
+      },
+      "artists": [
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        },
+        {
+          "name": "Five Corners",
+          "url": "https://open.spotify.com/artist/76OQydrjsFbNZy1wZkMgYy"
+        },
+        {
+          "name": "Yarden Saxophone",
+          "url": "https://open.spotify.com/artist/7Hnd2TV2HGIlfOGvmF7urG"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142016,
+      "name": "Dream of You",
+      "url": "https://open.spotify.com/track/2qke9XCPFgSBTZX6YIP1Te"
+    },
+    {
+      "album": {
         "name": "Drift",
         "url": "https://open.spotify.com/album/6XvXPSA4vVvJL99dbbuvIG"
       },
@@ -7802,6 +7854,28 @@
       "duration_ms": 411633,
       "name": "Ellipse",
       "url": "https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP"
+    },
+    {
+      "album": {
+        "name": "Emptiness",
+        "url": "https://open.spotify.com/album/6I5YJPIJeg0pm0atZM8KQr"
+      },
+      "artists": [
+        {
+          "name": "NOYSE",
+          "url": "https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2"
+        },
+        {
+          "name": "Lobisen",
+          "url": "https://open.spotify.com/artist/2GZ2zPZ6Xd5vbbSFobHWSO"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172380,
+      "name": "Emptiness",
+      "url": "https://open.spotify.com/track/3rVoCpZTVtoPmpVxO97wen"
     },
     {
       "album": {
@@ -8322,7 +8396,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 325714,
       "name": "Faith (feat. Marlena Shaw)",
       "url": "https://open.spotify.com/track/6TLUvU36Phy9kt6NxAWQuw"
@@ -8702,7 +8776,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 155467,
       "name": "Feel Something (feat. Duncan Laurence)",
       "url": "https://open.spotify.com/track/5VNcKdmfAAsfbxbuo1Y7Vl"
@@ -9182,7 +9256,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 273684,
       "name": "Firestone",
       "url": "https://open.spotify.com/track/2sNvitW3TxiTeC9xT9f2ZZ"
@@ -10984,7 +11058,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 158319,
       "name": "Head & Heart (feat. MNEK) - Ofenbach Remix",
       "url": "https://open.spotify.com/track/70NVdjM5ZoWB20m7y2IstB"
@@ -11062,7 +11136,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
@@ -11938,7 +12012,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 202704,
       "name": "Hope",
       "url": "https://open.spotify.com/track/7cq9AiuDxB2vtkZuNDOQey"
@@ -12986,7 +13060,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 181728,
       "name": "I Wish (feat. Mabel)",
       "url": "https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII"
@@ -15574,7 +15648,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 167419,
       "name": "LIES",
       "url": "https://open.spotify.com/track/3Shi5fUIeuoNQWV0hjYXNs"
@@ -16206,7 +16280,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 153788,
       "name": "Looking At You (feat. Sam Vesso)",
       "url": "https://open.spotify.com/track/2IBzArIJ2ognJz1EZinuPg"
@@ -17198,7 +17272,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
@@ -18052,7 +18126,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 201259,
       "name": "Move It",
       "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
@@ -19390,7 +19464,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 153696,
       "name": "Not So Bad (feat. Emie)",
       "url": "https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3"
@@ -21018,7 +21092,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 231290,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
@@ -21570,7 +21644,7 @@
       ],
       "date_added": "2020-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 165958,
       "name": "Push It Right",
       "url": "https://open.spotify.com/track/4M61DpNzoLws32l7tvAbYL"
@@ -26602,7 +26676,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 225357,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
@@ -26712,7 +26786,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
@@ -31312,7 +31386,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"

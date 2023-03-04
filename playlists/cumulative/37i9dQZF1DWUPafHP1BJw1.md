@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-150 songs - 8 hr 57 min
+151 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [In the End](https://open.spotify.com/track/2W2JGTBmzMyP0j4jvaogsQ) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R), [Dover Quartet](https://open.spotify.com/artist/3MGHFXZri4jHw6aIJathoU) | [Chamber Music](https://open.spotify.com/album/13INsz9Ec6Xvwm3K3TjGcl) | 4:07 | 2021-11-19 |  |
 | [Iris \(arr\. piano\)](https://open.spotify.com/track/4Z1xN1J50aIn1kqDmy0RNG) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Iris \(arr\. piano\)](https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9) | 2:36 | 2021-11-19 |  |
 | [Kabhi Khushi Kabhie Gham](https://open.spotify.com/track/2uU4tNepmkbE5lyQ9d0zFZ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 3:28 | 2022-03-30 |  |
+| [Kiss](https://open.spotify.com/track/0aC3m5Y6lIfG1MqVzrQyme) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Kiss](https://open.spotify.com/album/1yVHHlAsAmcUmbf7MQAGQU) | 3:41 | 2023-03-03 |  |
 | [Let's Get Loud](https://open.spotify.com/track/3ujhnUL6rvA8CTGTj2qc3F) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Let's Get Loud](https://open.spotify.com/album/3fX7jccVdL4ZuYkJ806fIR) | 3:47 | 2022-08-12 |  |
 | [Lose Yourself](https://open.spotify.com/track/1crphtLmE5qben7biopmp3) | [David Garrett](https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Franck van der Heijden](https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw) | [Explosive \(Deluxe\)](https://open.spotify.com/album/1BOjQtnxLLlJupPGOKEeck) | 3:06 | 2022-07-08 |  |
 | [Lose Yourself](https://open.spotify.com/track/5dECb0YYO0GHu3AWNqfrIM) | [David Garrett](https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Franck van der Heijden](https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw) | [Explosive \(Deluxe\)](https://open.spotify.com/album/2492Jm7yo7tF41MO9xjGgU) | 3:06 | 2021-11-19 | 2022-07-29 |

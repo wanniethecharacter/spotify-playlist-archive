@@ -1495,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "Forever and Ever, Amen",
+        "url": "https://open.spotify.com/album/5wjcHJKRGMNd3te7DDF3lF"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194457,
+      "name": "Forever and Ever, Amen",
+      "url": "https://open.spotify.com/track/0oMLaBjKKvoPfBPT1Z2zra"
+    },
+    {
+      "album": {
         "name": "Friends in Low Places",
         "url": "https://open.spotify.com/album/2xsdKICcsa8pXbUByoP3tv"
       },
@@ -4020,7 +4038,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 271771,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"

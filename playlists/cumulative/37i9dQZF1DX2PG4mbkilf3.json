@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with Lavi$h.",
+  "description": "This is R&B in Canada, elevate your aura with Zenesoul.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "CAN I TALK 2U",
+        "url": "https://open.spotify.com/album/4tbEH7GE8xTOdrcrNXt8B6"
+      },
+      "artists": [
+        {
+          "name": "AMEN DENIRO",
+          "url": "https://open.spotify.com/artist/5i5IBAqlmKRwgkalA07mZ5"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150349,
+      "name": "CAN I TALK 2U",
+      "url": "https://open.spotify.com/track/3ZDtcniZ6y0ZIwhzM2l2vy"
+    },
+    {
+      "album": {
         "name": "CAN'T TELL ME NOTHING",
         "url": "https://open.spotify.com/album/7jv2CuoOPH30iKKgWv367J"
       },
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 160487,
       "name": "D4U - Spotify Singles",
       "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
@@ -3648,7 +3666,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 217443,
       "name": "Good Things (Remix)",
       "url": "https://open.spotify.com/track/3linBtGF8ouzEncml6s2ux"
@@ -4733,6 +4751,24 @@
     },
     {
       "album": {
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
+    },
+    {
+      "album": {
         "name": "Incognito",
         "url": "https://open.spotify.com/album/70mtx3Au4fSrW1yFfiDnc4"
       },
@@ -4926,7 +4962,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 145759,
       "name": "Just Say It (feat. Johnny Yukon)",
       "url": "https://open.spotify.com/track/7MJMR1MtGCk0RFZlkeKhGI"
@@ -5034,7 +5070,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 174705,
       "name": "Lallaby's",
       "url": "https://open.spotify.com/track/0wJrPkPOnlbE2zS7TuHz9J"
@@ -5549,6 +5585,24 @@
     },
     {
       "album": {
+        "name": "Love Island",
+        "url": "https://open.spotify.com/album/3R1JtNGHhtszF5n6wMxswQ"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143960,
+      "name": "Love Island",
+      "url": "https://open.spotify.com/track/2kiBow1qzFxXlCutSslC2R"
+    },
+    {
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
       },
@@ -5950,6 +6004,24 @@
       "duration_ms": 162000,
       "name": "Moments Ago",
       "url": "https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P"
+    },
+    {
+      "album": {
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/3ThoYoeN8LuYrErKTM3qOg"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165360,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/6wCDE1tpYcU7aPWkdxlJzt"
     },
     {
       "album": {
@@ -7549,6 +7621,24 @@
     },
     {
       "album": {
+        "name": "Prayers 4 You",
+        "url": "https://open.spotify.com/album/1fg0lbdDw1N4Eh5rT6fGcK"
+      },
+      "artists": [
+        {
+          "name": "Shann Aberdeen",
+          "url": "https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184424,
+      "name": "Prayers 4 You",
+      "url": "https://open.spotify.com/track/1pJItlGMs5opDqZ6EBkR7C"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/5ggd0JyaC9xDcbbIQigiiX"
       },
@@ -7567,6 +7657,24 @@
     },
     {
       "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/40S0gntyleAVBjXNEU2VnO"
+      },
+      "artists": [
+        {
+          "name": "Nadia Stone",
+          "url": "https://open.spotify.com/artist/1qicKMspu6VwgeVWeJkVnG"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/2uDPaIkiDYKeI79Fw20Fcm"
+    },
+    {
+      "album": {
         "name": "Queen St",
         "url": "https://open.spotify.com/album/64uOosOXFR6OL8AGnSsOls"
       },
@@ -7578,7 +7686,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 184303,
       "name": "Queen St",
       "url": "https://open.spotify.com/track/3y5kablQcdGYEmLHkTHvIF"
@@ -8192,7 +8300,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 175386,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
@@ -8899,6 +9007,28 @@
     },
     {
       "album": {
+        "name": "Straight To The Moon",
+        "url": "https://open.spotify.com/album/2qcCljNxGNFrifXcTZt3P6"
+      },
+      "artists": [
+        {
+          "name": "Lex Junior",
+          "url": "https://open.spotify.com/artist/3dvvkiXIRyaeLve9BMHdo9"
+        },
+        {
+          "name": "Jayd Ink",
+          "url": "https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173906,
+      "name": "Straight To The Moon",
+      "url": "https://open.spotify.com/track/7KAUmjBuc9AnuJoC7dRhjY"
+    },
+    {
+      "album": {
         "name": "Stronger Than You Know",
         "url": "https://open.spotify.com/album/5xGwWSDZVRk6KAAntKONuX"
       },
@@ -9074,6 +9204,24 @@
       "duration_ms": 226960,
       "name": "Sweet Adetola",
       "url": "https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU"
+    },
+    {
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/40OvylzJp8Ca7JcIlzOvOd"
+      },
+      "artists": [
+        {
+          "name": "kristina alcordo",
+          "url": "https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145533,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/06ufeE6tsMQLxKO8CDPa86"
     },
     {
       "album": {
@@ -9310,7 +9458,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 143499,
       "name": "THE CITY",
       "url": "https://open.spotify.com/track/6k8KSVKyMNZWtt8P4v6m2u"
@@ -9664,7 +9812,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 200547,
       "name": "Transition",
       "url": "https://open.spotify.com/track/1inKe97ZIz5IIkeI2S6Mfd"

@@ -949,6 +949,28 @@
     },
     {
       "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc"
+      },
+      "artists": [
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        },
+        {
+          "name": "Cleopold",
+          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282360,
+      "name": "BLUE LIGHT",
+      "url": "https://open.spotify.com/track/2blHAJSeclS036DmrQxOvE"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/66bKcYLcXwcWyDx3SS7rNE"
       },
@@ -1306,6 +1328,42 @@
       "duration_ms": 194253,
       "name": "Cherries",
       "url": "https://open.spotify.com/track/7jF6qpflO2mszCtLIES7SY"
+    },
+    {
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc"
+      },
+      "artists": [
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274053,
+      "name": "CIRCLES",
+      "url": "https://open.spotify.com/track/6cVx6IHckQGUv84Y6RviFC"
+    },
+    {
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc"
+      },
+      "artists": [
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/5nNgbJyYK0sBjvIW97FWUu"
     },
     {
       "album": {
@@ -2650,6 +2708,24 @@
       "duration_ms": 156774,
       "name": "fallforu",
       "url": "https://open.spotify.com/track/4PHm7uYgyYNQ5Kl2t4MU3D"
+    },
+    {
+      "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/4RM7dK7ScgLW1UG1k8kInQ"
+      },
+      "artists": [
+        {
+          "name": "Modapit",
+          "url": "https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/1qkGT5wBhfWwbbHtkm2GMZ"
     },
     {
       "album": {
@@ -5201,6 +5277,24 @@
     },
     {
       "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc"
+      },
+      "artists": [
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244493,
+      "name": "NO TIME",
+      "url": "https://open.spotify.com/track/3iuznCnL4DnWnElyIqJ5CR"
+    },
+    {
+      "album": {
         "name": "NOT YOUR GUY",
         "url": "https://open.spotify.com/album/46EJol667xsMTmS2KotaDy"
       },
@@ -7380,6 +7474,28 @@
       "duration_ms": 174961,
       "name": "Think About It",
       "url": "https://open.spotify.com/track/1yAThAiJFPoKepwK6jiCHd"
+    },
+    {
+      "album": {
+        "name": "Thirst (Hex Cougar Remix)",
+        "url": "https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204963,
+      "name": "Thirst - Hex Cougar Remix",
+      "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-385 songs - 20 hr 9 min
+386 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Appel et Réponse](https://open.spotify.com/track/1wn665fN603FkN1UYzvJrh) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Appel et Réponse](https://open.spotify.com/album/6ChkMhVDwf2n4hcvCRivLD) | 2:32 | 2022-05-26 |  |
 | [Arctic Breeze](https://open.spotify.com/track/7qmcnHl8UZCv2gGBxqc7wb) | [Meliore](https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ) | [Arctic Breeze](https://open.spotify.com/album/6moDvmPDI98joxpiImmnDr) | 2:25 | 2022-05-26 |  |
 | [Arrival](https://open.spotify.com/track/3jaCuiu5pvF2e7XnSi1NBw) | [Jupiter Breeze](https://open.spotify.com/artist/5kMqqN0tglnYIi4eXGmL0A) | [Jupiter One](https://open.spotify.com/album/4sVkpKX5ifo2XYpSNHKLyU) | 3:05 | 2022-05-26 |  |
+| [Artemis](https://open.spotify.com/track/5xmcDEukIzOpvkXlc4KZQB) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Artemis](https://open.spotify.com/album/21U7hSoBFuqDWzWwx1Kakv) | 3:00 | 2023-03-03 |  |
 | [As The Light Slowly Fades](https://open.spotify.com/track/1mEAr807HGjKAagrM55rjl) | [Bliss Porter](https://open.spotify.com/artist/0AF3uDWnCp5CMYIl66leMm) | [As The Light Slowly Fades](https://open.spotify.com/album/0pmUEomw3GfbValHI5lPmF) | 3:13 | 2022-05-26 |  |
 | [Aura](https://open.spotify.com/track/2FkTdGg3QqJt8ufTTJWIwJ) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Peace of Mind](https://open.spotify.com/album/3CuQ15YmucUEejU8ZgcrfH) | 3:18 | 2022-05-26 |  |
 | [Aurore](https://open.spotify.com/track/0Qdj3Fw4Jn71PtIksAuEGD) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Aurore](https://open.spotify.com/album/7fNUSTFRhIyxtH7nyBlBv1) | 3:00 | 2022-05-26 |  |
@@ -173,7 +174,7 @@
 | [Incognito](https://open.spotify.com/track/5o8wzFKWubYHioQh5j5c5O) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Incognito](https://open.spotify.com/album/0xkI27l9SAdUOq3UIGmoJT) | 3:37 | 2022-05-26 |  |
 | [Infinities](https://open.spotify.com/track/5985uWNOMmxrzAvvWaxT0t) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Infinities](https://open.spotify.com/album/5Sonpi8gWOXu02oZdxSees) | 3:23 | 2022-05-26 | 2022-08-16 |
 | [Infinity](https://open.spotify.com/track/0H523FQxptvl0r8JuphNIK) | [Dreemst8s](https://open.spotify.com/artist/2y2SdxeVrDBaFgPx2WYhCN) | [Infinity](https://open.spotify.com/album/7ryCu7JGp3QkBI0Ghy3Xdx) | 3:14 | 2022-05-26 | 2022-12-31 |
-| [Interpretations](https://open.spotify.com/track/6PIbpT7ray6ixif2v6RIIa) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [Whisper of the Pines](https://open.spotify.com/album/4s6a8srmUVV3FBbhNIdqTj) | 2:37 | 2022-05-26 |  |
+| [Interpretations](https://open.spotify.com/track/6PIbpT7ray6ixif2v6RIIa) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [Whisper of the Pines](https://open.spotify.com/album/4s6a8srmUVV3FBbhNIdqTj) | 2:37 | 2022-05-26 | 2023-03-04 |
 | [Into Some Spirit World](https://open.spotify.com/track/0vrzuqnRLa6icpqTHp9ifS) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Mend](https://open.spotify.com/album/4YBtOJTZx52vGVcI7Nkuss) | 3:04 | 2022-07-22 |  |
 | [Into Some Spirit World](https://open.spotify.com/track/2SmpFBzYbSUeWo5UzQam0j) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Mend](https://open.spotify.com/album/5HLBAmCpz97MDLIlGZkJ5T) | 3:04 | 2022-05-26 | 2022-07-29 |
 | [Jupiter Sunrise](https://open.spotify.com/track/1tQKUYjY3h950XByYm0ZAf) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:58 | 2022-05-26 |  |
@@ -183,7 +184,7 @@
 | [Kvikkjokk](https://open.spotify.com/track/5fqtStRCkILhIDMdQFyg9K) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Skanderna](https://open.spotify.com/album/1iQ0WNFcTUjZFWg63oBf84) | 3:21 | 2022-05-26 |  |
 | [Lacertae](https://open.spotify.com/track/5hIzQvHumDF2AVVgv6eXZs) | [Poppy Robson](https://open.spotify.com/artist/0KVvMwaSeA2MtZyHV9aH4o) | [Lacertae](https://open.spotify.com/album/61kE0QSkTIhy2PZ3qj2CrH) | 3:07 | 2022-06-16 |  |
 | [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 | 2022-05-26 |  |
-| [Lakeshore](https://open.spotify.com/track/5NRhAVJrW5o4FK1OKKgbgQ) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Frostbite](https://open.spotify.com/album/0R3T36NUjlBouJiz4OK1h2) | 2:30 | 2022-05-26 |  |
+| [Lakeshore](https://open.spotify.com/track/5NRhAVJrW5o4FK1OKKgbgQ) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Frostbite](https://open.spotify.com/album/0R3T36NUjlBouJiz4OK1h2) | 2:30 | 2022-05-26 | 2023-03-04 |
 | [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 | 2022-10-21 |  |
 | [Lasai](https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Lasai](https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb) | 3:41 | 2022-05-26 |  |
 | [Le temps passe](https://open.spotify.com/track/1FKTWT91DCPwRbWMxK3NZn) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Le temps passe](https://open.spotify.com/album/0ItCJJdXRzbhsl1zwclP4z) | 2:38 | 2022-05-26 |  |
@@ -243,7 +244,7 @@
 | [Nuwara Eliya](https://open.spotify.com/track/01DC3zfaTxKsHhH5tkrEci) | [Varsha Macias](https://open.spotify.com/artist/0q4K7lXcRz4xbItRjTtidc) | [Nuwara Eliya](https://open.spotify.com/album/5qaTANUQCLtZKyoXKIOLZZ) | 3:17 | 2022-05-26 |  |
 | [Nyugalom](https://open.spotify.com/track/235v7dHl1bUhimWpF0rGT4) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Nyugalom](https://open.spotify.com/album/5TfVZpufvjjQRm758oCRa8) | 3:13 | 2022-05-26 |  |
 | [Nära](https://open.spotify.com/track/0FTc7d89oQ0HpTYLjpPd3p) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Nära](https://open.spotify.com/album/4fsPZO84anFbq1ZxXLI6FQ) | 3:17 | 2022-05-26 |  |
-| [O darkest night](https://open.spotify.com/track/529OV81Dqr98MG2TwH4hbq) | [Zara Mazure](https://open.spotify.com/artist/0qC06w5AZgtEhJLvt9CiE1) | [O darkest night](https://open.spotify.com/album/1Unof6GFYGga11mb6pmyfi) | 3:42 | 2022-05-26 |  |
+| [O darkest night](https://open.spotify.com/track/529OV81Dqr98MG2TwH4hbq) | [Zara Mazure](https://open.spotify.com/artist/0qC06w5AZgtEhJLvt9CiE1) | [O darkest night](https://open.spotify.com/album/1Unof6GFYGga11mb6pmyfi) | 3:42 | 2022-05-26 | 2023-03-04 |
 | [Ocean's Gold](https://open.spotify.com/track/5PjVPTKNWQkLfPFj825Wqe) | [Keylo Parks](https://open.spotify.com/artist/7DDfnMy4LQyQLFMCgQLULn) | [Ocean's Gold](https://open.spotify.com/album/5xdKd8YKQFFahrvbJ5HRQ4) | 3:12 | 2022-05-26 |  |
 | [Offers of Peace](https://open.spotify.com/track/7L8UMLULC1rvuACscOAZV1) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Skylight](https://open.spotify.com/album/7BbIqRVJU2IYn6vvmR4M2p) | 4:59 | 2022-05-26 | 2022-08-16 |
 | [Older](https://open.spotify.com/track/6U3dRi6YtXyjuogL1Mntm4) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Older](https://open.spotify.com/album/3MFF1D8Z2a2XVXXG8TbUDS) | 3:08 | 2022-05-26 | 2022-08-16 |

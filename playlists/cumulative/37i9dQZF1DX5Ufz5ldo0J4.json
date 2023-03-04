@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Artemis",
+        "url": "https://open.spotify.com/album/21U7hSoBFuqDWzWwx1Kakv"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Artemis",
+      "url": "https://open.spotify.com/track/5xmcDEukIzOpvkXlc4KZQB"
+    },
+    {
+      "album": {
         "name": "Ripples on a Pond",
         "url": "https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX"
       },
@@ -3148,7 +3166,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 154000,
       "name": "Phases",
       "url": "https://open.spotify.com/track/7l2VE8ahJR2uN95OnDrwxV"

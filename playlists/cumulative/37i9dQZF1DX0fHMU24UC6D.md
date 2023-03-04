@@ -2,7 +2,7 @@
 
 ### [TREASURE TOUR \[HELLO\]](https://open.spotify.com/playlist/37i9dQZF1DX0fHMU24UC6D)
 
-> Enjoy the concert LIVE SET including the voices of TREASURE members on stage! \(트레져 멤버들의 무대의 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
+> Enjoy the concert LIVE SET including the voices of TREASURE members on stage! \(트레저 멤버들의 무대의 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
 27 songs - 1 hr 24 min
 

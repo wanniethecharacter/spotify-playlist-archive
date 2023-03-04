@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Sounds of birds, rain, and jungle ambience.",
+  "description": "Sounds of birds, rain, and forest ambience.",
   "name": "Nature Sounds",
   "tracks": [
     {
@@ -68,6 +68,24 @@
       "duration_ms": 48299,
       "name": "A Light Rain in the Forest",
       "url": "https://open.spotify.com/track/1VziY74dN3pwB0qgiNyr55"
+    },
+    {
+      "album": {
+        "name": "With Sounds Of A Mediterranean Forest",
+        "url": "https://open.spotify.com/album/13FWYQKoMdcArynfwQyPYw"
+      },
+      "artists": [
+        {
+          "name": "Relaxing The Mind",
+          "url": "https://open.spotify.com/artist/44wFi6rFvY5u6U69UNnwSr"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153715,
+      "name": "A Mediterranean Pine Forest On A Wednesday",
+      "url": "https://open.spotify.com/track/5iAFCsY8S2vwWNK3mZQ6od"
     },
     {
       "album": {
@@ -323,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Wildlife and Nature Soundscapes",
+        "url": "https://open.spotify.com/album/3lM9fS11Kki3uL6o65Ozea"
+      },
+      "artists": [
+        {
+          "name": "Sounds of the Jungle",
+          "url": "https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Birds by a Brook",
+      "url": "https://open.spotify.com/track/6n9U9lAslKwRQvEYxEPaKr"
+    },
+    {
+      "album": {
         "name": "Birds by the Creek",
         "url": "https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg"
       },
@@ -338,6 +374,24 @@
       "duration_ms": 69069,
       "name": "Birds by the Creek",
       "url": "https://open.spotify.com/track/5XnreHT44evPJIcqWn9FSp"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157038,
+      "name": "Birds By The River - Green Noise",
+      "url": "https://open.spotify.com/track/2o5mGn0YoP9bVseUcslrbi"
     },
     {
       "album": {
@@ -410,6 +464,42 @@
       "duration_ms": 124830,
       "name": "Birds In The Rain",
       "url": "https://open.spotify.com/track/4C7uEMH69SQp0nTUsj35Vb"
+    },
+    {
+      "album": {
+        "name": "Birds in the Spring Rain",
+        "url": "https://open.spotify.com/album/0FJndSgck0RqNeMZAzxvmB"
+      },
+      "artists": [
+        {
+          "name": "Jane Quin",
+          "url": "https://open.spotify.com/artist/5LByymUnsM8FuuYIEUhI8o"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126219,
+      "name": "Birds in the Spring Rain",
+      "url": "https://open.spotify.com/track/74HzxCRcYQLHC1CoBwc3gF"
+    },
+    {
+      "album": {
+        "name": "Rainy Morning Bird Sounds",
+        "url": "https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171054,
+      "name": "Birds In The Woods",
+      "url": "https://open.spotify.com/track/2TJvCm7NNBJBSKQJWNEj3D"
     },
     {
       "album": {
@@ -719,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Birds On A Rainy Day",
+        "url": "https://open.spotify.com/album/61wbzSmVM3rKMxWI2aUAwY"
+      },
+      "artists": [
+        {
+          "name": "Baltic Nature Sounds",
+          "url": "https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157861,
+      "name": "Early Morning Birds (Rain Drizzle)",
+      "url": "https://open.spotify.com/track/6Es2nGgTKSDSW3xED0N2fi"
+    },
+    {
+      "album": {
         "name": "Rain Mantra",
         "url": "https://open.spotify.com/album/73M4YzG8IXgcVqixgmsYU4"
       },
@@ -1025,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Highway Birds",
+        "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
+      },
+      "artists": [
+        {
+          "name": "Betweetle",
+          "url": "https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107839,
+      "name": "Highway Birds",
+      "url": "https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk"
+    },
+    {
+      "album": {
         "name": "Thicket Winging",
         "url": "https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l"
       },
@@ -1151,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Mori no Tori",
+        "url": "https://open.spotify.com/album/382q3YGgFS4MfQ7PPoeODm"
+      },
+      "artists": [
+        {
+          "name": "Shiroma Rin",
+          "url": "https://open.spotify.com/artist/6vmqYwwLNH5NtbQzMSKDV9"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133215,
+      "name": "Mori no Tori",
+      "url": "https://open.spotify.com/track/5brFjtlGhCNhDXkfquy4qY"
+    },
+    {
+      "album": {
         "name": "Himalaya Bird Sounds",
         "url": "https://open.spotify.com/album/5SfxNMY6MyEfia4wV0vv7x"
       },
@@ -1220,6 +1364,24 @@
       "duration_ms": 128545,
       "name": "Nature Sounds",
       "url": "https://open.spotify.com/track/0aiIxhhNwCZcUF4foUSpNa"
+    },
+    {
+      "album": {
+        "name": "Nordic Nature",
+        "url": "https://open.spotify.com/album/2E7ZYgpSIh58bNU1QowAj5"
+      },
+      "artists": [
+        {
+          "name": "Zander Solveig",
+          "url": "https://open.spotify.com/artist/4hyyQVAbDhm3mO0Qg2jNIF"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115087,
+      "name": "Nordic Nature",
+      "url": "https://open.spotify.com/track/27dspQMmxpceUNycjiy3jk"
     },
     {
       "album": {
@@ -1763,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "River Creek with Birds",
+        "url": "https://open.spotify.com/album/7D8W0fJf9Fbv2mNb2ytf8F"
+      },
+      "artists": [
+        {
+          "name": "Deep Sleep FX",
+          "url": "https://open.spotify.com/artist/52ZkV6bSNDshzq9BGTudae"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143822,
+      "name": "River Creek with Birds",
+      "url": "https://open.spotify.com/track/5CK7gGerbMibYcXaifKK27"
+    },
+    {
+      "album": {
         "name": "When It Rains...",
         "url": "https://open.spotify.com/album/5nKNpp7Rax9q5yyQITZhyF"
       },
@@ -1868,6 +2048,24 @@
       "duration_ms": 143553,
       "name": "Sitting Under The Tree",
       "url": "https://open.spotify.com/track/5ySy6nj1AWOTDx3Tm6M6zb"
+    },
+    {
+      "album": {
+        "name": "Small Birds and Swirling Stream",
+        "url": "https://open.spotify.com/album/5Cm3gkO6u5UXY7moX1QMod"
+      },
+      "artists": [
+        {
+          "name": "Alisha Pearce",
+          "url": "https://open.spotify.com/artist/0BCrRTZJYvA0AkHRhPdfln"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149541,
+      "name": "Small Birds and Swirling Stream",
+      "url": "https://open.spotify.com/track/01wmtbMHxi9M5swTTWl40Y"
     },
     {
       "album": {
@@ -2051,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "Warmer Seasons",
+        "url": "https://open.spotify.com/album/2kDHBZDCOOBLcmME7nE8vv"
+      },
+      "artists": [
+        {
+          "name": "Herbird",
+          "url": "https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104389,
+      "name": "Spring Approaches",
+      "url": "https://open.spotify.com/track/4DrIcgoUysx7TrCHot2naY"
+    },
+    {
+      "album": {
         "name": "Birds Sounds 1",
         "url": "https://open.spotify.com/album/3YhXoFHl3TIYaNpE7bwRth"
       },
@@ -2120,6 +2336,24 @@
       "duration_ms": 162992,
       "name": "Standing In The Rain",
       "url": "https://open.spotify.com/track/2z1zCDlx7GjDGSnaeHFrJL"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132472,
+      "name": "Still River - Green Noise",
+      "url": "https://open.spotify.com/track/76t29X9hSeFcZMh4ZOxPF0"
     },
     {
       "album": {
@@ -2354,6 +2588,24 @@
       "duration_ms": 116869,
       "name": "Tropico",
       "url": "https://open.spotify.com/track/3AtEqO6mJDdXcrDiC77KHF"
+    },
+    {
+      "album": {
+        "name": "Tweeting in the Rain",
+        "url": "https://open.spotify.com/album/5e2C4xdF6t8RpsFFLXMrqX"
+      },
+      "artists": [
+        {
+          "name": "Tura Cos",
+          "url": "https://open.spotify.com/artist/1HH2hoJuJUgwfa5VTMVGsE"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150190,
+      "name": "Tweeting in the Rain",
+      "url": "https://open.spotify.com/track/5qGTFA3qALSfVvmtVUSvcO"
     },
     {
       "album": {

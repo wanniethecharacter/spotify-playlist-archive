@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Encore
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,470 likes - 80 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,557 likes - 80 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 74 | [Onuraag](https://open.spotify.com/track/75H72N8knxyDjaKmSWIKGo) | [Naive](https://open.spotify.com/artist/15akENis2TaJHxXw8cwzXw) | [Onuraag](https://open.spotify.com/album/71CWDjKVJcvSTqQhGJdOzK) | 5:29 |
 | 75 | [Jontrona](https://open.spotify.com/track/4F726ms6OWAle9G32A41bI) | [Mohon Sharif](https://open.spotify.com/artist/7pM1ezvQrqGxzjulmx2rr9) | [Jontrona](https://open.spotify.com/album/51oEGMimefIrLa72YVxUuU) | 4:39 |
 | 76 | [Bose Aachhi \(Bose Aachhi Eka\)](https://open.spotify.com/track/4PIrHcNo9aVhKrlk9hPOLG) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 6:39 |
-| 77 | [Tamakpata](https://open.spotify.com/track/54rbC8m2E1ghnwJyTHTPM8) | [Ashes](https://open.spotify.com/artist/1OxPcVkWgpIFAFBBl88jjG) | [Rockoholic 3](https://open.spotify.com/album/0sUGhA7xMLiaxkTyo2aXdp) | 5:03 |
+| 77 | [Tamakpata](https://open.spotify.com/track/54rbC8m2E1ghnwJyTHTPM8) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Rockoholic 3](https://open.spotify.com/album/0sUGhA7xMLiaxkTyo2aXdp) | 5:03 |
 | 78 | [Arekta Rock Gaan](https://open.spotify.com/track/7A2OoUIXKuduRO8EAGGc0N) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Arekta Rock Gaan](https://open.spotify.com/album/47FRQGxDUVoADb2YBDa9HH) | 4:15 |
 | 79 | [Protibimbo](https://open.spotify.com/track/5l2n874eQvJoq8qvEowNOJ) | [Angsho](https://open.spotify.com/artist/2NRt2eIZ7PmlsdvfghhhOp) | [Protibimbo](https://open.spotify.com/album/5EIRZsKGKu4HGbyT22FvYU) | 4:11 |
 | 80 | [Tomay Mone Pore](https://open.spotify.com/track/5wW1wMvFAYkG0PIA1XSPkf) | [Shafayet Badhon](https://open.spotify.com/artist/6IkPa1RHI4966Tmbos22Px), [Bayzid Rony](https://open.spotify.com/artist/0d9xrOzUVP4VRw0zeVqiDh) | [Project North Star, Vol\. 1](https://open.spotify.com/album/0eg9Gl97LB6NoSL9C01eMO) | 2:45 |

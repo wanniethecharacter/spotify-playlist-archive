@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,801 likes - 1,176 songs - 3 day 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,856 likes - 1,176 songs - 3 day 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -580,7 +580,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 570 | [Olmalı mı Olmamalı mı](https://open.spotify.com/track/0pnC8KYOumEqzYDALFQNAL) | [Bülent Ortaçgil](https://open.spotify.com/artist/1eY7YyYjc9jGnsHdJka906) | [Benimle Oynar Mısın](https://open.spotify.com/album/4lY2085XvdezeHAbLPJvp3) | 2:11 |
 | 571 | [Che Che Cole](https://open.spotify.com/track/5KaNVtMkaanRibXwdM7qqb) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Government Magic](https://open.spotify.com/album/5EEsbpPgWsbdYbZg3AxtsO) | 4:07 |
 | 572 | [Festa](https://open.spotify.com/track/30RSImaLWJ0qDlP36noe7l) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Pássaro Proibido](https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y) | 2:28 |
-| 573 | [Capoeira mata um](https://open.spotify.com/track/6nA77kCvCA1AvSOaDrWEO4) | [Jackson Do Pandeiro](https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo) | [O Cabra da Peste](https://open.spotify.com/album/37WoNQQZW4Rm9yTekUO7Yj) | 3:01 |
+| 573 | [Capoeira mata um](https://open.spotify.com/track/0Gl31Zjm95vl5uDZGiAnww) | [Jackson Do Pandeiro](https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:01 |
 | 574 | [Ifetayo](https://open.spotify.com/track/1m4OTAFA2CrFF1CSYqExqB) | [Black Truth Rhythm Band](https://open.spotify.com/artist/6uGsjLM37XoJ90qzxRnGjn) | [Ifetayo \(Love Excels All\)](https://open.spotify.com/album/2Q7v26WNu7W49bmpwAQG8x) | 5:48 |
 | 575 | [L'enfant et la gazelle](https://open.spotify.com/track/1opJUefF9voKdJt8K25a2O) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba et Bongi](https://open.spotify.com/album/5YajkUlkBaW8J3nas4Mggf) | 3:45 |
 | 576 | [Late Night People](https://open.spotify.com/track/0RkJCbPpMS35eXEmoyuq4S) | [The Mauskovic Dance Band](https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS) | [The Mauskovic Dance Band](https://open.spotify.com/album/1LvkQ73MyTUewfK6CatwMN) | 4:07 |
@@ -1185,4 +1185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1175 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1176 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3NzQ4NjYwMCwwMDAwMDAwMDY0N2I1NGJhNjU5Y2NiZWMzNDNhZmYyN2Q1YzU0YzYz`
+Snapshot ID: `MTY3NzQ4NjYwMCwwMDAwMDAwMGY0MGE3NzZmNDJjMGNiOGFiNmRkYWJlNzBlOTc4MGNh`

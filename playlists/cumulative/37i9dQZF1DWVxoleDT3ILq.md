@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Cancamusa
 
-317 songs - 19 hr 20 min
+319 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Confortas Pero Dañas](https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Resonancia Etérea](https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB) | [Confortas Pero Dañas](https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip) | 4:09 | 2023-02-17 |  |
 | [Consuelo](https://open.spotify.com/track/1h0KV494PjEzDklKSkGA9N) | [Caravana](https://open.spotify.com/artist/5v0U5GjJ43wx2ZAM02oOoa) | [Consuelo](https://open.spotify.com/album/4klPumcmtntbxLxMFA90eV) | 3:25 | 2022-04-15 | 2022-07-21 |
 | [Coquimbo, Mazatlán](https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Coquimbo, Mazatlán](https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd) | 4:24 | 2022-07-15 |  |
+| [Corazonada](https://open.spotify.com/track/36h0uW75FKh8LraW4r9E2X) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Corazonada](https://open.spotify.com/album/7ucBWLTjxQcWmZ6nTxHDPI) | 3:24 | 2023-03-03 |  |
 | [Corazón Astral](https://open.spotify.com/track/6POeNaMCaqfJZIgA11NR7T) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Corazón Astral](https://open.spotify.com/album/47FP5YVqwPrrOAOVhNfY4T) | 3:11 | 2022-04-15 | 2022-12-10 |
 | [Cruz Negra](https://open.spotify.com/track/6L1f3lp4S1YCPIFiN6Nx1A) | [Isla del Sol](https://open.spotify.com/artist/5YyFD8u6XkZyYBWRPVwKrR) | [Cruz Negra](https://open.spotify.com/album/5vsNUDgWHid7nuKQuwHdvG) | 5:41 | 2022-05-27 | 2022-07-19 |
 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 | 2023-02-24 |  |
@@ -137,7 +138,7 @@
 | [Hollywood](https://open.spotify.com/track/63vFXsLISdjcpqlf6uUnxo) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Hollywood](https://open.spotify.com/album/33GKPCFphdqcOJHhcVb5Wl) | 3:20 | 2022-10-07 | 2023-01-28 |
 | [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 | 2022-08-26 | 2023-01-28 |
 | [Huracán](https://open.spotify.com/track/0JSxdsH8gbHfSeSBWln1Sv) | [Yael Meyer](https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r) | [Huracán](https://open.spotify.com/album/6ihDqgMIIGgJSzrim0EVll) | 3:41 | 2022-04-15 | 2022-07-26 |
-| [I Luz](https://open.spotify.com/track/3ZqI4NGk7NNZcEcvI0kNeX) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [I Luz](https://open.spotify.com/album/6a72dv0VF00ebiZXWn7fJd) | 4:42 | 2022-06-03 |  |
+| [I Luz](https://open.spotify.com/track/3ZqI4NGk7NNZcEcvI0kNeX) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [I Luz](https://open.spotify.com/album/6a72dv0VF00ebiZXWn7fJd) | 4:42 | 2022-06-03 | 2023-03-04 |
 | [Imantado](https://open.spotify.com/track/27zFkDvAz42uVdvPpOvRWx) | [También Andrés](https://open.spotify.com/artist/6RTgoShg6Qjg9dGQ5rKm25) | [Imantado](https://open.spotify.com/album/6HEjFye6BkQvq5B2Y484Kb) | 3:39 | 2022-04-15 | 2022-07-24 |
 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 | 2022-12-09 |  |
 | [intento 2: piénsalo bien](https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intento 2: piénsalo bien](https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47) | 3:44 | 2022-12-02 |  |
@@ -238,6 +239,7 @@
 | [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 | 2022-09-02 | 2023-01-08 |
 | [Quisiera Estar en Tu Lugar](https://open.spotify.com/track/3uHnLozqOnPoYumF7Qhp3K) | [Quinal](https://open.spotify.com/artist/5dxqPUdOChFnQ4VbZjGymp) | [Quisiera Estar en Tu Lugar](https://open.spotify.com/album/0FsIho6nfb5OGDBaaUZ1OM) | 3:39 | 2022-04-15 | 2022-07-29 |
 | [Quitapena](https://open.spotify.com/track/0jEt1GNSNyxrx86DrLdlF7) | [Gael](https://open.spotify.com/artist/7rms6jz7l3NGmiR0T5lRve) | [Quitapena](https://open.spotify.com/album/4DuTv5kQOIfV2aAKsn2LTF) | 3:03 | 2022-04-15 | 2022-07-28 |
+| [Qué piensas hacer sin mi amor?](https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Qué piensas hacer sin mi amor?](https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h) | 4:08 | 2023-03-03 |  |
 | [Rally](https://open.spotify.com/track/7qq884i3tcpxJ1UIMPuH8g) | [Gato Seco](https://open.spotify.com/artist/2NLUJSt3guR3neAYbIkoeN), [Broken Pupil](https://open.spotify.com/artist/5JAaAOkiGzGNIKi53DlGKE) | [Rally](https://open.spotify.com/album/6QfsP07cjoW5kXagEQ4pUU) | 2:04 | 2023-01-27 |  |
 | [Reclame](https://open.spotify.com/track/28otbmrZCYNiRcoKnzesac) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Reclame](https://open.spotify.com/album/36Yzr88w2cyYr4dVP0DQNN) | 3:27 | 2022-04-15 | 2022-07-28 |
 | [Remember](https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Remember](https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3) | 3:27 | 2023-01-20 |  |
@@ -276,7 +278,7 @@
 | [Tapado en las sábanas](https://open.spotify.com/track/7GVcCKFyaKW21mlEfUPDtG) | [Matías Ávila](https://open.spotify.com/artist/29yxbIzxVyIPcCENpwzSQ5), [Nicolás Carmesí](https://open.spotify.com/artist/3UENNyaKZ4S5pK62GGEfF5) | [Tapado En Las Sábanas](https://open.spotify.com/album/07VEna7M5ugzXRl0h6KSeN) | 4:06 | 2022-04-15 | 2022-07-28 |
 | [Te lo pido por favor](https://open.spotify.com/track/6g3VvDH5AX42fx2KfcCsmb) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Herida](https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq) | 3:50 | 2022-04-15 |  |
 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 | 2022-04-15 | 2022-12-10 |
-| [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 | 2022-04-15 |  |
+| [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 | 2022-04-15 | 2023-03-04 |
 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 | 2022-04-15 | 2023-01-28 |
 | [Temores](https://open.spotify.com/track/2qYgmcH5WIBX2RMcGIrVNb) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/4G9dNp2lUbU0jiAmDdVN3e) | 4:14 | 2022-04-15 | 2022-07-22 |
 | [Tenemos que cocinar](https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:39 | 2022-11-11 |  |

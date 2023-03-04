@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Numidia & Bilal Wahib op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,715 likes - 117 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,751 likes - 117 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

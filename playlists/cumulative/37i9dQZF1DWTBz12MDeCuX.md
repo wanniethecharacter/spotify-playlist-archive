@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Verifiziert
 
-714 songs - 1 day 10 hr 19 min
+716 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-02 | 2022-12-07 |
 | [cro hat mir gesagt es wird easy](https://open.spotify.com/track/4wEMYoQ284TCWOEeEeL3TD) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [cro hat mir gesagt es wird easy](https://open.spotify.com/album/6hl9RsxvCWtNxnZeGqk0tH) | 3:01 | 2022-07-07 | 2022-09-16 |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-15 | 2022-10-21 |
+| [Danke](https://open.spotify.com/track/2ARHgVQx58HhndGhBm9JF6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [Danke](https://open.spotify.com/album/58iCIcfZcOcmbJ3tZYfzAG) | 1:44 | 2023-03-03 |  |
 | [Darling](https://open.spotify.com/track/2kQ9udZ0v3H8PFSVmbY1Kq) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [PTSD](https://open.spotify.com/album/4dnKBBeSoiEc39sCqItmWk) | 2:23 | 2022-12-01 | 2023-01-13 |
 | [Day 1](https://open.spotify.com/track/6YbXBb1lpVLo4cMskyODP4) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Day 1](https://open.spotify.com/album/6wEP76NKBnAwt8Yi4YLVAS) | 1:56 | 2022-07-14 | 2022-08-19 |
 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 | 2022-08-25 | 2022-09-10 |
@@ -508,6 +509,7 @@
 | [Raindrops](https://open.spotify.com/track/6MS06wwXPKH316MkRA6nCA) | [Beyazz](https://open.spotify.com/artist/1U0pXcl8GZlZ48jTgnpGHl) | [get numb with me](https://open.spotify.com/album/7kfXBbjC4CdFez8O793xGx) | 2:26 | 2022-09-01 | 2022-12-09 |
 | [Rarri Dreamin](https://open.spotify.com/track/0m7YMWqQU8hfUhx4uqAPqm) | [TM](https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Rarri Dreamin](https://open.spotify.com/album/2f7kdW1FGZptnGTjbOr3D0) | 2:10 | 2022-06-09 | 2022-07-05 |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-06-09 | 2022-07-14 |
+| [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 | 2023-03-03 |  |
 | [regen༺♡✧+++](https://open.spotify.com/track/2rTcYdfnjs8nAQjlvrgxpy) | [DANZINGER 99](https://open.spotify.com/artist/2PBBBcDggmGWyvOY9HXmKZ), [DJ<3](https://open.spotify.com/artist/53Sn33Pag8qzwOsIol2a4q) | [regen༺♡✧+++](https://open.spotify.com/album/4WW9UNrTYnjBwabayBkxuW) | 1:27 | 2022-09-29 | 2023-01-13 |
 | [Reich](https://open.spotify.com/track/22rr5JnP8tY34SK9FFfmqb) | [Young Lime](https://open.spotify.com/artist/0Jhs3BaasBkHVakrZFUB4Q), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Reich](https://open.spotify.com/album/04syqoVqubBNgMX8u2WAon) | 2:17 | 2022-08-11 | 2022-08-19 |
 | [Renne](https://open.spotify.com/track/1EjbUHdYjVMhgu1gN3oZa2) | [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR), [Kkuba102](https://open.spotify.com/artist/4fc3ii0Q4S0O9C7O9XRTxz), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Addikt102](https://open.spotify.com/artist/08rciXpQrixSOu9GA0jSd7) | [Renne](https://open.spotify.com/album/6zG5o2AyOVfH8I0wCgyLEW) | 2:35 | 2022-11-17 | 2023-01-13 |

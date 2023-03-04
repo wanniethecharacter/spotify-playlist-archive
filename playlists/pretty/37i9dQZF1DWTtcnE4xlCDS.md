@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,806 likes - 101 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,853 likes - 101 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ct](https://open.spotify.com/track/4J4cN4AKpBNTksAhb1AvUN) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [uku kasai](https://open.spotify.com/artist/41J8oHMrDrY3QWUwZ8GcSM), [灰島銀華 \(CV: 澁谷梓希\)](https://open.spotify.com/artist/5B4sSyRcbTVegDTQlj8aX2) | [Ct](https://open.spotify.com/album/4gucZtLH0fxCNYhHOXjCxg) | 2:53 |
+| 1 | [Ct](https://open.spotify.com/track/4J4cN4AKpBNTksAhb1AvUN) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [灰島銀華 \(CV: 澁谷梓希\)](https://open.spotify.com/artist/5B4sSyRcbTVegDTQlj8aX2) | [Ct](https://open.spotify.com/album/4gucZtLH0fxCNYhHOXjCxg) | 2:53 |
 | 2 | [AKIBA 20XX](https://open.spotify.com/track/7K7SRrTcVS2JEVWgHlFEJr) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [LindaAI\-CUE \[BNSI\]](https://open.spotify.com/artist/1L9M0K0MtxupTFkuhdvcgu), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [東雲和音 \(CV: 天音みほ\)](https://open.spotify.com/artist/3986rXZPVr6K7P0JrNzqvV), [茅野ふたば \(CV: 堀越せな\)](https://open.spotify.com/artist/2t6UP0EFODfJPxn1nsADpD) | [AKIBA 20XX](https://open.spotify.com/album/0mAeUV8x6FRanPOMnvmvyf) | 4:20 |
 | 3 | [Crush](https://open.spotify.com/track/5H7FLE6suGxFGiJnAb8N6m) | [真新宿GR学園](https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [SHOW](https://open.spotify.com/artist/3BcTkiYAa3pTebxQrCNhOA) | [Crush](https://open.spotify.com/album/0K7lC8wFMvBVyfHtbenEn9) | 3:49 |
 | 4 | [YAKEZAKE](https://open.spotify.com/track/2B0YWVqh1pDMOvS48tYxvq) | [真新宿GR学園](https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N), [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [KOERU](https://open.spotify.com/artist/4g5NpVqyhR9fU1gmLyP6VK), [りむる \(CV: をとは\)](https://open.spotify.com/artist/5trPMTBMzwq4ZCACvjAl77), [ポメモリ\(CV.くいしんぼあかちゃん\)](https://open.spotify.com/artist/6wzN8b7AVehsQjoTnjYig8) | [YAKEZAKE](https://open.spotify.com/album/2hJ8cHwFBwoV5z4omc84v8) | 3:39 |

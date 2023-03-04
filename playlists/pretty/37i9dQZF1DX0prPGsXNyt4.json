@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 50418,
+  "num_followers": 50508,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMGIzNWYxOWQwZDM1ZTM3ZTk3ZTJjOGZhNmYwOTdlOWNm",
+  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMGRhMjY2MjEyYzY0YTVhNmNhYWVkYzMzYTMzYTA0Zjhl",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1123,6 +1123,34 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Moletom",
+        "url": "https://open.spotify.com/album/06lztEJw4cOCHFhFx88HCP"
+      },
+      "artists": [
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Neguinho do Kaxeta",
+          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 334153,
+      "name": "Moletom",
+      "url": "https://open.spotify.com/track/4oNnEtS6QgwT8Co9P9TAVC"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Nosso Flow",
         "url": "https://open.spotify.com/album/6dqKRg8kzuAiWzFt6pj7JY"
       },
@@ -1155,34 +1183,6 @@
       "duration_ms": 281904,
       "name": "Nosso Flow",
       "url": "https://open.spotify.com/track/2uK2zK0CBh8w2C4Uq8qo7z"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Moletom",
-        "url": "https://open.spotify.com/album/06lztEJw4cOCHFhFx88HCP"
-      },
-      "artists": [
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "MC Neguinho do Kaxeta",
-          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 334153,
-      "name": "Moletom",
-      "url": "https://open.spotify.com/track/4oNnEtS6QgwT8Co9P9TAVC"
     },
     {
       "added_at": "2023-02-10 03:01:00",

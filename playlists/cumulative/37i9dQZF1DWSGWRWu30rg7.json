@@ -4545,6 +4545,24 @@
     },
     {
       "album": {
+        "name": "Sad Punk",
+        "url": "https://open.spotify.com/album/1EP4p9pQYoFprbFp8cRixO"
+      },
+      "artists": [
+        {
+          "name": "Spells",
+          "url": "https://open.spotify.com/artist/1VaiaDZUknjg9aCukZsXZe"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Catatan Singkat Sebuah Pertemuan",
+      "url": "https://open.spotify.com/track/3sRdiWiBgYnJMltknpyESy"
+    },
+    {
+      "album": {
         "name": "Catch A Rainbow",
         "url": "https://open.spotify.com/album/3nNvnEhklnKd9xWBeZ8INM"
       },
@@ -11164,8 +11182,8 @@
           "url": "https://open.spotify.com/artist/6ptSpJVbC6f492Lt5IfpD2"
         },
         {
-          "name": "Yosh",
-          "url": "https://open.spotify.com/artist/24fhgM8dRX50onhCX4JpI9"
+          "name": "YOSH",
+          "url": "https://open.spotify.com/artist/2wHazSJnTevLiiJzn70GX7"
         }
       ],
       "date_added": "2023-03-02",

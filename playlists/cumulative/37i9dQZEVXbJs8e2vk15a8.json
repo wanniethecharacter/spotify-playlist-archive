@@ -4423,6 +4423,32 @@
     },
     {
       "album": {
+        "name": "Esa Mujercita: JereKlein",
+        "url": "https://open.spotify.com/album/2a5wRXxKjXWK4T8VWsuwQe"
+      },
+      "artists": [
+        {
+          "name": "bvnjaRealG4life",
+          "url": "https://open.spotify.com/artist/4cwlWT1BK6scmmuYWkykIR"
+        },
+        {
+          "name": "\u0454y\u0454y",
+          "url": "https://open.spotify.com/artist/0EXVjUal0CPc1Qq4ZdWwO3"
+        },
+        {
+          "name": "Basty Corvalan",
+          "url": "https://open.spotify.com/artist/6p9BBRwixGcXxZ1gdcqmpd"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136981,
+      "name": "Esa Mujercita: JereKlein",
+      "url": "https://open.spotify.com/track/7IZM7HRELUecgC4frNOqk3"
+    },
+    {
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -6628,7 +6654,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 129360,
       "name": "In Ha Mood",
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"

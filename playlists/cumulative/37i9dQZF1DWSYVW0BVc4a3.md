@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Miss Monique
 
-426 songs - 1 day 9 hr 49 min
+427 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [New Generation](https://open.spotify.com/track/3BAU7IdzU17CzigHo4SDCA) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Jonjon](https://open.spotify.com/artist/5l8xCiqHtpk3XDXJ2ZfgK7) | [Culturally Appropriate](https://open.spotify.com/album/6K7kj9XKdeeDSwLuEKgU1c) | 3:54 | 2022-11-24 |  |
 | [New Gold \(feat\. Tame Impala and Bootie Brown\) \- Dom Dolla Remix](https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\) \[Dom Dolla Remix\]](https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e) | 4:34 | 2022-11-17 |  |
 | [Nice To Arise \- Edit](https://open.spotify.com/track/6KKA6rp9TD7s7F4ck8SGW4) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt) | [Nice To Arise](https://open.spotify.com/album/5mWUjINeG8lLczGG7NOXKf) | 4:01 | 2022-08-18 | 2023-02-03 |
+| [Night After Night \- CamelPhat Remix](https://open.spotify.com/track/2Nq06gpBMrjYnBLpi0cNYy) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Night After Night](https://open.spotify.com/album/5BdSUE84muaBTlQLSYiQMt) | 6:58 | 2023-03-03 |  |
 | [No More](https://open.spotify.com/track/0WbB2lzpZD5Up5ufK0CIyg) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [No More EP](https://open.spotify.com/album/3nDJuk3iXzSd8UYAFlThCS) | 4:03 | 2023-01-19 |  |
 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 | 2023-02-16 |  |
 | [No One Anyone](https://open.spotify.com/track/1IGVRVFUV0OtktKxymfLg7) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [No One Anyone](https://open.spotify.com/album/6Xc2f9tYdZtXMoO0aTosLV) | 4:25 | 2022-08-18 | 2022-11-25 |

@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> Metalcore at its finest\. Cover: The Amity Affliction
+> Metalcore at its finest\. Cover: Underoath
 
-650 songs - 1 day 17 hr 4 min
+651 songs - 1 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,11 +342,12 @@
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2021-12-17 | 2022-04-02 |
 | [Legends Never Die](https://open.spotify.com/track/7pvj0VmFmVN7vHA1b0Zc1V) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Legends Never Die](https://open.spotify.com/album/0MA84UyLUN8K07GhqAh0G0) | 4:29 | 2022-07-13 | 2022-07-21 |
 | [Let Down](https://open.spotify.com/track/2JrPhJ74FfygxtRYMXU0Fk) | [The Anchor](https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW) | [Let Down](https://open.spotify.com/album/52ssN73hMqj9cv16Zc0JLp) | 4:29 | 2022-12-16 |  |
+| [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 | 2023-03-03 |  |
 | [Lie2Me](https://open.spotify.com/track/5Lj46byXVaSNMFGB0NkK08) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [Lie2Me](https://open.spotify.com/album/4nr7TwAm9Nc0MU5QG631EW) | 3:04 | 2022-02-11 | 2022-02-26 |
 | [Life of a Parasite](https://open.spotify.com/track/6LXQba9gRcFhYZc3OD7nre) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Evil Things](https://open.spotify.com/album/7vgtKRBOKgM1BUEjJ0sEIl) | 3:16 | 2021-12-17 | 2022-01-28 |
 | [Lifeblood](https://open.spotify.com/track/7FEWI4TMXlzNIqvREwIhHd) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Lifeblood](https://open.spotify.com/album/0HKMrwsbf7v7IHHXhSHylS) | 4:17 | 2022-07-13 | 2022-07-23 |
 | [Lifeblood](https://open.spotify.com/track/2o1kCaUvxMcBDgb2DZ38aD) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Lifeblood](https://open.spotify.com/album/4ZaNUD70SBKIIspB7Iz7Qq) | 4:17 | 2022-07-13 | 2022-07-23 |
-| [Lifeless](https://open.spotify.com/track/0Bg1FB9hSXjOVIwHUD8fbu) | [Then It Ends](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ), [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Chasm](https://open.spotify.com/album/2tz2IXeMDnWwGrc2EpcjNT) | 3:45 | 2023-01-06 |  |
+| [Lifeless](https://open.spotify.com/track/0Bg1FB9hSXjOVIwHUD8fbu) | [Then It Ends](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ), [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Chasm](https://open.spotify.com/album/2tz2IXeMDnWwGrc2EpcjNT) | 3:45 | 2023-01-06 | 2023-03-04 |
 | [Lights & Fire](https://open.spotify.com/track/1SlOs4l9WvJ4bITuyZXHqc) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lights & Fire](https://open.spotify.com/album/2M1MruXHvS7YndZJ2jgDUD) | 3:30 | 2022-01-21 | 2022-02-11 |
 | [Like A Villain](https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:30 | 2022-07-13 | 2022-07-23 |
 | [Lilac](https://open.spotify.com/track/6qevKIIxFnwZuhk93LZ1BX) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [Lilac](https://open.spotify.com/album/2cpSxn3vfj4aRwbI7XaLdC) | 4:03 | 2022-07-13 | 2022-07-15 |

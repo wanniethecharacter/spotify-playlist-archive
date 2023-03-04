@@ -1,12 +1,12 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 39939,
+  "num_followers": 39984,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU2MDE0NSwwMDAwMDAwMDQ0YmE1MmM5YTUxNjI2MzEwODkzZWFlMTE3YzIwMjk1",
+  "snapshot_id": "MTY2ODU2MDE0NSwwMDAwMDAwMGI5ZWI2ZTZhMzBjYmY3YzM3ZTZjMzgxY2U0NjQ1YTE3",
   "tracks": [
     {
       "added_at": "2022-11-16 00:55:45",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
+        "name": "Char",
+        "url": "https://open.spotify.com/album/1YwI8GobyuUmdxaOLIODKp"
       },
       "artists": [
         {
-          "name": "Raji",
-          "url": "https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y"
+          "name": "Char",
+          "url": "https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf"
         }
       ],
-      "duration_ms": 233626,
-      "name": "HOLD ME TIGHT",
-      "url": "https://open.spotify.com/track/2DCwFuehgK6wiamF8ZjusQ"
+      "duration_ms": 355666,
+      "name": "Shinin\u2019 You, Shinin\u2019 Day",
+      "url": "https://open.spotify.com/track/4PW7Cq7lNMIrEnojsB0jHC"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -239,18 +239,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "Char",
-        "url": "https://open.spotify.com/album/1YwI8GobyuUmdxaOLIODKp"
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
       },
       "artists": [
         {
-          "name": "Char",
-          "url": "https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf"
+          "name": "Raji",
+          "url": "https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y"
         }
       ],
-      "duration_ms": 355666,
-      "name": "Shinin\u2019 You, Shinin\u2019 Day",
-      "url": "https://open.spotify.com/track/4PW7Cq7lNMIrEnojsB0jHC"
+      "duration_ms": 233626,
+      "name": "HOLD ME TIGHT",
+      "url": "https://open.spotify.com/track/2DCwFuehgK6wiamF8ZjusQ"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
+      },
+      "artists": [
+        {
+          "name": "Raji",
+          "url": "https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "THE TOKYO TASTE",
+      "url": "https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
         "name": "WE ARE JUST TAKING OFF",
         "url": "https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 332175,
       "name": "\u5f71\u306b\u306a\u3063\u3066",
       "url": "https://open.spotify.com/track/2iGrc21d7bfvLAdlNeNerI"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
-      },
-      "artists": [
-        {
-          "name": "Raji",
-          "url": "https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y"
-        }
-      ],
-      "duration_ms": 226320,
-      "name": "THE TOKYO TASTE",
-      "url": "https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
         }
       ],
-      "duration_ms": 292573,
-      "name": "\u611b\u306f\u601d\u3046\u307e\u307e",
-      "url": "https://open.spotify.com/track/3wQKgH0pIudkYFo14jXVb0"
+      "duration_ms": 247773,
+      "name": "\u611b\u306e\u708e",
+      "url": "https://open.spotify.com/track/6ZrnDMPu4wRgRLgmYzoL1c"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
         }
       ],
-      "duration_ms": 247773,
-      "name": "\u611b\u306e\u708e",
-      "url": "https://open.spotify.com/track/6ZrnDMPu4wRgRLgmYzoL1c"
+      "duration_ms": 292573,
+      "name": "\u611b\u306f\u601d\u3046\u307e\u307e",
+      "url": "https://open.spotify.com/track/3wQKgH0pIudkYFo14jXVb0"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
+        "name": "HORO",
+        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
+      },
+      "artists": [
+        {
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
+        }
+      ],
+      "duration_ms": 233186,
+      "name": "\u6d41\u661f\u90fd\u5e02",
+      "url": "https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
         "name": "Feel Happy 2007 ~Debut 30th Anniversary~",
         "url": "https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 281680,
       "name": "\u30d4\u30f3\u30af\u30fb\u30b7\u30e3\u30c9\u30a6",
       "url": "https://open.spotify.com/track/1lnWb1e7XWFBnwiKmBq9ZS"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "HORO",
-        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
-      },
-      "artists": [
-        {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
-        }
-      ],
-      "duration_ms": 233186,
-      "name": "\u6d41\u661f\u90fd\u5e02",
-      "url": "https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -679,6 +679,22 @@
       "duration_ms": 237160,
       "name": "\u30ec\u30a4\u30f3\u30dc\u30fc\u30fb\u30b7\u30fc\u30fb\u30e9\u30a4\u30f3",
       "url": "https://open.spotify.com/track/3o5gsI6dHV01KzGQrFzp9d"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "HORO",
+        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
+      },
+      "artists": [
+        {
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
+        }
+      ],
+      "duration_ms": 185893,
+      "name": "\u3057\u3089\u3051\u3061\u307e\u3046\u305c",
+      "url": "https://open.spotify.com/track/37Yy2JCzIA5t7Avs8j56Dh"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -763,22 +779,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "HORO",
-        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
-      },
-      "artists": [
-        {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "\u3057\u3089\u3051\u3061\u307e\u3046\u305c",
-      "url": "https://open.spotify.com/track/37Yy2JCzIA5t7Avs8j56Dh"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "Late Late Summer",
         "url": "https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz"
       },
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "SOUTH OF THE BORDER",
-        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
+        "name": "Super Market",
+        "url": "https://open.spotify.com/album/3z7LiLRgCg1W4E6Me7IJVV"
       },
       "artists": [
         {
-          "name": "Yoshitaka Minami",
-          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
+          "name": "Hiroshi Sato",
+          "url": "https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj"
         }
       ],
-      "duration_ms": 234666,
-      "name": "\u30d7\u30fc\u30eb\u30b5\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX"
+      "duration_ms": 233200,
+      "name": "Rainbow Sealine",
+      "url": "https://open.spotify.com/track/3NQ3e5j7qcscVxKsUQlfOs"
     }
   ],
   "unique_name": "City Pop '70s",

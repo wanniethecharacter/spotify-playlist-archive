@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 172218,
+  "num_followers": 172262,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDZiNDEzMTkyOWEwN2U5Yjg2OWU3YTlhODExNzVhMmI3",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDFjYmQ1ZGNlM2FlNDZmNDYwMWFhNzNkNjg5OGY2MDE3",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Heart Afire",
-        "url": "https://open.spotify.com/album/5p0C1yK4tbFdJXIeyHV1GK"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 157656,
-      "name": "Heart Afire",
-      "url": "https://open.spotify.com/track/0xkCk9M0ebmQ3mysO27xlD"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Crooked Shadows",
         "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 204613,
       "name": "We Fight",
       "url": "https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Heart Afire",
+        "url": "https://open.spotify.com/album/5p0C1yK4tbFdJXIeyHV1GK"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 157656,
+      "name": "Heart Afire",
+      "url": "https://open.spotify.com/track/0xkCk9M0ebmQ3mysO27xlD"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Whitey Ford's House of Pain",
+        "url": "https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7"
+      },
+      "artists": [
+        {
+          "name": "Everlast",
+          "url": "https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "The Culling",
+      "url": "https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Stand Up (Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots)",
         "url": "https://open.spotify.com/album/0aMmyg5wDhpn0DDY7sjfyE"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 193770,
       "name": "Stand Up (Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots)",
       "url": "https://open.spotify.com/track/0FdCFfb5xb7thJMaSjLFsH"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Whitey Ford's House of Pain",
-        "url": "https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7"
-      },
-      "artists": [
-        {
-          "name": "Everlast",
-          "url": "https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "The Culling",
-      "url": "https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj"
     },
     {
       "added_at": "2022-11-04 04:00:00",

@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-549 songs - 1 day 6 hr 39 min
+553 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 | 2021-01-29 | 2022-11-18 |
 | [Going Home](https://open.spotify.com/track/4IAXoiaI12FoH8StF4n2tG) | [Intrinsic Focus](https://open.spotify.com/artist/6mvJXUuR2ER5cr8U4Vh4MW) | [Going Home](https://open.spotify.com/album/3FTs8ca556v5oMtQm2a9O7) | 4:12 | 2019-05-26\* | 2020-01-09 |
 | [Golden](https://open.spotify.com/track/6Xgupx0XndCMdA09Nl46wF) | [Clear Blue Skies](https://open.spotify.com/artist/5JhmX2bSHdudmKTpcDZeW1) | [Chasing Rainbows](https://open.spotify.com/album/3Qyilgf7sVReq7GGY1ezgc) | 2:20 | 2020-10-10 |  |
+| [Good Days](https://open.spotify.com/track/0oXl1pTqskTdXuu46tPCJm) | [Lykke Juno](https://open.spotify.com/artist/6cJCpDjNQBjGqBNB453M9J) | [Good Days](https://open.spotify.com/album/4BIulmAl1QSc3nHogyaFiv) | 1:51 | 2023-03-03 |  |
 | [Goodbye Sierra](https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Signals](https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8) | 2:40 | 2019-06-19\* | 2020-08-07 |
 | [Grand Central Station](https://open.spotify.com/track/7FNRR6Q1SkKi1dgaK5qOSQ) | [Across The Great Valley](https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav) | [Castles in the Sky](https://open.spotify.com/album/4s0WtAbpyVM0p5fUaLlOVg) | 2:53 | 2020-09-17 | 2021-11-19 |
 | [Gratification](https://open.spotify.com/track/2XVmWYEwZCdasybflM4Q2l) | [Halcyon Fields](https://open.spotify.com/artist/7xaDRbKDpOyZnL91F1ki3E) | [Waves Of Hope](https://open.spotify.com/album/1sZDGmD13RMH6acZ2Ix2hO) | 4:17 | 2019-05-26\* | 2019-06-19 |
@@ -340,6 +341,7 @@
 | [One Step](https://open.spotify.com/track/3TR4OoqzX947WgOxG1d5F3) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Let Me Play For You](https://open.spotify.com/album/3iaRPX0CtnZXks49RHIJaj) | 2:24 | 2023-02-25 |  |
 | [Open Fields](https://open.spotify.com/track/24CJS73HBvYtVguUZBnyAn) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Open Fields](https://open.spotify.com/album/6AUdvWLCptSVA1g8k7tMKD) | 3:03 | 2020-08-07 |  |
 | [Open Skies](https://open.spotify.com/track/5bATh5zpKb6uauocsl0XRM) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Open Skies](https://open.spotify.com/album/77zGhn2gEpZc5U5iq5ewAI) | 2:34 | 2020-06-19 | 2020-10-27 |
+| [Open to it](https://open.spotify.com/track/7AkmShdIslE2jkJ4jHbYmd) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [Full Circle](https://open.spotify.com/album/4DXa01faA0ub1CdxyKyTPQ) | 2:24 | 2023-03-03 |  |
 | [Opening the Gates](https://open.spotify.com/track/0JqBTf4ImzOf3TNR5wgefk) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ) | 4:42 | 2019-05-26\* | 2019-06-27 |
 | [Orbits](https://open.spotify.com/track/6jFX2sHOzh7tpIIOomlrqJ) | [Halfway Escape](https://open.spotify.com/artist/1zT5lkgp3zNJ592XVPVKUP) | [Orbits](https://open.spotify.com/album/5jHLPPk51g8j1xkVKgKPwR) | 3:24 | 2020-08-07 |  |
 | [ouma](https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS) | [Fall Ball](https://open.spotify.com/artist/4fuQaoYKyoJhGu6Vabhrv3) | [ouma](https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ) | 2:57 | 2021-12-22 |  |
@@ -509,11 +511,13 @@
 | [Under The Wind](https://open.spotify.com/track/4YS6FM8lct3QyV2oGIrCp4) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Under The Wind](https://open.spotify.com/album/6E1x5WibS1p1kHsDuXfiau) | 4:00 | 2019-12-11 | 2022-10-15 |
 | [Understudy](https://open.spotify.com/track/0Y41ZfnVaNRQp9dQiagwbC) | [Josie Mehlin](https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz) | [Understudy](https://open.spotify.com/album/3VcIkzC32KOKkJNheSSwzW) | 2:43 | 2019-12-31 | 2020-10-08 |
 | [Undiscovered](https://open.spotify.com/track/6sZ06jEfwg6DjssHZeZhwe) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Undiscovered](https://open.spotify.com/album/5mjXT9jnJ8sBEH0hBGGywT) | 3:38 | 2022-01-19 |  |
+| [Upside](https://open.spotify.com/track/7cEcI3DZiwBrFcF3bAeBuL) | [Wimmel](https://open.spotify.com/artist/0RhOCgBChCEWoFoiyvlcYy) | [Upside](https://open.spotify.com/album/6FVyPPjXFRtjMfeLeG5mk1) | 2:46 | 2023-03-03 |  |
 | [Vague](https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 2:23 | 2020-01-09 |  |
 | [Valley Tales](https://open.spotify.com/track/1RnmnjIrfyOtOwGPhzxKHM) | [Jonci](https://open.spotify.com/artist/1fMWwAxizFL0GBDYR4DbDs) | [Valley Tales](https://open.spotify.com/album/6mWis8Ru2ZaQnibpUDws9G) | 3:22 | 2019-06-19\* | 2020-08-07 |
 | [Varberg](https://open.spotify.com/track/5sFdMGaWXdSWYtS93KimeP) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 2:49 | 2019-05-26\* | 2020-01-09 |
 | [Venice](https://open.spotify.com/track/3S1BKVF9Q3lhJ1jOcpkz4G) | [PLVCES](https://open.spotify.com/artist/04cixKonVUpFouuri2mSzC) | [Plvces](https://open.spotify.com/album/1FLOo1YhOnUHHyEezqyNEP) | 3:16 | 2019-06-19\* | 2019-08-13 |
 | [Ventura](https://open.spotify.com/track/3aIidfKAjMwaRTgvY9d0BG) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Ventura](https://open.spotify.com/album/3WvMUxQ71TR6ocUelhSYHE) | 4:41 | 2019-06-19\* | 2019-12-11 |
+| [Victory Laps](https://open.spotify.com/track/34Dgd9lC0X0AQwq4L3RbvY) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Victory Laps](https://open.spotify.com/album/2wj2jQOnVCYyIAcEJg3x4L) | 2:14 | 2023-03-03 |  |
 | [Wait Until Spring](https://open.spotify.com/track/4FQ1Wm24y1jm4iKbrfRQfW) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Wait Until Spring](https://open.spotify.com/album/6HrenLgTHjgBKCVzRkvEe7) | 3:09 | 2019-06-27 | 2021-05-18 |
 | [Waiting](https://open.spotify.com/track/2l6cdCbfZ4l9LZMKjepbS2) | [Catherine Holm](https://open.spotify.com/artist/4L8nmO7kqdX1K9ydfCfbh7) | [Waiting](https://open.spotify.com/album/2DVdfvJAKnG2Xa5KPoWh2X) | 1:49 | 2019-06-19\* | 2021-09-14 |
 | [Waiting](https://open.spotify.com/track/45RDZot29LxXjoTpdayF7w) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Waiting](https://open.spotify.com/album/675hM4Bn9eSwtq1EHiXquT) | 2:10 | 2019-06-27 |  |

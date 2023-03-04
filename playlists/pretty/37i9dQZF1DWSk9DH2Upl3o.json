@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: ALO",
-  "num_followers": 14922,
+  "num_followers": 14966,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDllMDA1MWE2ZDE0ZDRmZjA1YzY0MDA2MDg2MWNkM2Nh",
+  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMDMxNDljNzM1OTgzZjcwNjAzYWIxNjU1MDFhMThjZjMy",
   "tracks": [
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Silver Saturdays",
+        "url": "https://open.spotify.com/album/3IbrPiWeBaAf3d1S9RX7Oh"
+      },
+      "artists": [
+        {
+          "name": "ALO",
+          "url": "https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj"
+        }
+      ],
+      "duration_ms": 285986,
+      "name": "Growing Your Hands Back",
+      "url": "https://open.spotify.com/track/2iQeEYuZvG1j0wVeNJbZtD"
+    },
     {
       "added_at": "2023-01-20 05:01:00",
       "album": {

@@ -2158,6 +2158,24 @@
       "duration_ms": 162711,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/6FDJwjtEaug5O8F8R1j5A4"
+    },
+    {
+      "album": {
+        "name": "Zenith",
+        "url": "https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ"
+      },
+      "artists": [
+        {
+          "name": "Midnight Mind",
+          "url": "https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181770,
+      "name": "Zenith",
+      "url": "https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdf43Md5h6cE"

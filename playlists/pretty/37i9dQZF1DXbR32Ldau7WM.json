@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: \u304f\u308b\u308a",
-  "num_followers": 251065,
+  "num_followers": 251174,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5NjQwMCwwMDAwMDAwMGM1YmY5N2UyY2NhMmI2MjkyZWRmZTRhY2E3ZDYwOGJm",
+  "snapshot_id": "MTY3NzU5NjQwMCwwMDAwMDAwMDkwNjFkYjQ0Nzk2OGJmMjA0ZGViMDY0ZDU3NzFmODYx",
   "tracks": [
     {
       "added_at": "2023-02-28 15:00:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "The End of Yesterday",
-        "url": "https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9"
+        "name": "Fantasista",
+        "url": "https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
         }
       ],
-      "duration_ms": 226906,
-      "name": "\u74f6\u306b\u5165\u308c\u305f\u624b\u7d19",
-      "url": "https://open.spotify.com/track/7EhW8U2IXJKE9eOIOu1NEx"
+      "duration_ms": 272333,
+      "name": "Fantasista",
+      "url": "https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Fantasista",
-        "url": "https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6"
+        "name": "The End of Yesterday",
+        "url": "https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9"
       },
       "artists": [
         {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 272333,
-      "name": "Fantasista",
-      "url": "https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ"
+      "duration_ms": 226906,
+      "name": "\u74f6\u306b\u5165\u308c\u305f\u624b\u7d19",
+      "url": "https://open.spotify.com/track/7EhW8U2IXJKE9eOIOu1NEx"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
+        "name": "\u51ac\u30ce\u9053\u30ce\u30bb\u30a4",
+        "url": "https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs"
+      },
+      "artists": [
+        {
+          "name": "Straightener",
+          "url": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG"
+        }
+      ],
+      "duration_ms": 271666,
+      "name": "\u51ac\u30ce\u9053\u30ce\u30bb\u30a4",
+      "url": "https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
         "name": "MIYAVIVERSE - Anima -",
         "url": "https://open.spotify.com/album/60rJiOVY3wSlVwV7fB5HRB"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 212786,
       "name": "EL MARIACHI",
       "url": "https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
-        "name": "\u51ac\u30ce\u9053\u30ce\u30bb\u30a4",
-        "url": "https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs"
-      },
-      "artists": [
-        {
-          "name": "Straightener",
-          "url": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG"
-        }
-      ],
-      "duration_ms": 271666,
-      "name": "\u51ac\u30ce\u9053\u30ce\u30bb\u30a4",
-      "url": "https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN"
     },
     {
       "added_at": "2023-02-28 15:00:00",

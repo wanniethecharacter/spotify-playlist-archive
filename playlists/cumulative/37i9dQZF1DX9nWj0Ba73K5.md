@@ -2,9 +2,9 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Ashley McBryde
+> In loving memory of songwriter Kyle Jacobs.
 
-219 songs - 12 hr 43 min
+224 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All These Years](https://open.spotify.com/track/4PcBlSm0JkbTOmkIZg7dvq) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Southbound](https://open.spotify.com/album/7dYIetq5T4WFJVUuuVcwhz) | 3:00 | 2022-01-01 |  |
 | [Almost All Good](https://open.spotify.com/track/0veEfwoK2YndOqJ0jIeLww) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:17 | 2022-01-01 |  |
 | [Alone With You](https://open.spotify.com/track/0bsmuUBwDdNAPCcuV05gLF) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:24 | 2022-02-28 |  |
+| [American Kids](https://open.spotify.com/track/1YmSqK77t2bWp7FM1nmXZ6) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Barry Dean](https://open.spotify.com/artist/2W5Gkx39A9UfkcBydnjqd7) | [The Songwriter Tapes, Vol\. 1](https://open.spotify.com/album/3io41Xcs5LdqCh45VV222L) | 2:56 | 2023-03-03 |  |
 | [American Made](https://open.spotify.com/track/7tLgFHsGyklwaB0Wc10ERE) | [Bob DiPiero](https://open.spotify.com/artist/3zqhEeEHP3dgmWuWUyJgRP) | [American Made](https://open.spotify.com/album/2kj7dIlQHGTU7QWi8etf6m) | 2:47 | 2022-01-01 |  |
 | [Back Where I Come From](https://open.spotify.com/track/4wGVahECwLKG1gH3yjeMq3) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Simple Life](https://open.spotify.com/album/4cpelV3X4CopeKPvN6UNp2) | 3:31 | 2022-01-01 |  |
 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 | 2022-05-06 |  |
@@ -127,6 +128,7 @@
 | [My Poor Mama](https://open.spotify.com/track/2eDD02w1Nm7nAelUAu1p2v) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [My Poor Mama](https://open.spotify.com/album/72dBMGHSenphYYr0Sv0wUf) | 3:01 | 2022-10-01 |  |
 | [My Poor Mama](https://open.spotify.com/track/6jaCDrO3yOtQkxz98cU5Wl) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [My Poor Mama](https://open.spotify.com/album/4Ur3S8uG8k3sKgDZAEUKQ4) | 3:01 | 2022-01-01 | 2022-10-14 |
 | [My Town](https://open.spotify.com/track/4GM3EYcV2XGSvNI2vE0p2J) | [Jeffrey Steele](https://open.spotify.com/artist/2Znov2bFtJO4sppc5bSa2d) | [Gold\. Platinum\. Chrome And Steele](https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj) | 4:14 | 2022-01-01 |  |
+| [Nashville Without You](https://open.spotify.com/track/5bsePSEQIobPxaQIVwRZKf) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Two Lanes Of Freedom \(Accelerated Deluxe\)](https://open.spotify.com/album/6U8LKb0qWVDHQ1A6JuBBZI) | 3:37 | 2023-03-03 |  |
 | [Nashville, TN](https://open.spotify.com/track/0fLeL6TVmrMgDMW1iC1puo) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:35 | 2022-02-28 |  |
 | [Neon](https://open.spotify.com/track/51oFJ8Q2KufbTRnBSfsDjX) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:40 | 2022-02-28 |  |
 | [New Wings](https://open.spotify.com/track/5S74K9DFZmkMYhr32h7Ica) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [New Wings](https://open.spotify.com/album/2KejjW4UZgG4LejGToYi9S) | 3:28 | 2022-01-01 |  |
@@ -149,6 +151,7 @@
 | [Rocking Chair](https://open.spotify.com/track/2trulLYIXb48yr8KlTYpKd) | [Yesterday's Wine](https://open.spotify.com/artist/0tRBFOqzDBDH8XP3VC9kZN), [Wyatt Durrette](https://open.spotify.com/artist/3VZsRkLj2QtJBcYoHojb0k), [Levi Lowrey](https://open.spotify.com/artist/0nMJIZIXTK8H6f3fS1OlZ7) | [Rocking Chair](https://open.spotify.com/album/3tw58VPAIjS7IHMD9eAisS) | 3:59 | 2022-01-01 |  |
 | [Same Team](https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Same Team](https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs) | 2:54 | 2022-01-21 |  |
 | [Sangria](https://open.spotify.com/track/0kCKUX3wgd6c6da5I4vJIR) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:25 | 2022-01-01 |  |
+| [Save The Roses](https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:21 | 2023-03-03 |  |
 | [Say You Do](https://open.spotify.com/track/5Ru3FrpXdk3pJcdfvDzs5d) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Matthew Ramsey](https://open.spotify.com/artist/75Cucz3gHpGaJbD9yia27H) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:19 | 2022-01-01 | 2022-06-07 |
 | [Say You Do \(feat\. Matthew Ramsey\)](https://open.spotify.com/track/7hFrXzKRJkRNXa6575wCJZ) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C), [Matthew Ramsey](https://open.spotify.com/artist/75Cucz3gHpGaJbD9yia27H) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:27 | 2022-01-01 |  |
 | [Second Guessing](https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ) | [Second Guessing](https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD) | 3:09 | 2023-01-13 |  |
@@ -176,6 +179,7 @@
 | [T\-Shirt](https://open.spotify.com/track/5AAHiCmdVSl83vJVXRCbf0) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:21 | 2022-01-01 |  |
 | [Take Your Time](https://open.spotify.com/track/6B9KlXistEsO9vOLLzeSmq) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 4:00 | 2022-01-01 |  |
 | [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 | 2022-09-01 |  |
+| [Tell Your Mother I’m Fine](https://open.spotify.com/track/5PM67sXQVdZIJfX86JgwcM) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Tell Your Mother I’m Fine](https://open.spotify.com/album/5gdxk0YHrfX9HCsGh6QNaP) | 3:08 | 2023-03-03 |  |
 | [That's Where It's At](https://open.spotify.com/track/3emkNnlUI9A5YJopfdk6wC) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Zach Crowell](https://open.spotify.com/artist/2yZT0zo8NPltj0c8KZvJip) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:17 | 2022-01-01 |  |
 | [That's Why I Don't Drink Anymore](https://open.spotify.com/track/6q0h7XhAkIjkFZZEhR1vaE) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI) | [Music Row](https://open.spotify.com/album/5aWz2wmH9Hb0vklmrBrnVw) | 4:00 | 2022-01-01 |  |
 | [The Better Part of Living](https://open.spotify.com/track/2h2LM8gHbCu7USHG8rRVG5) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:37 | 2022-01-01 |  |
@@ -192,6 +196,7 @@
 | [The Road](https://open.spotify.com/track/0pAKpLlTtZZrkPFfnQRm99) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Jon Randall](https://open.spotify.com/album/53B4uGWjlFp0kcXfmhjYN3) | 4:45 | 2022-01-01 |  |
 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 | 2022-01-01 |  |
 | [The Wind](https://open.spotify.com/track/4NDrKPwZ8SzpFQ4vzFmx3w) | [Yesterday's Wine](https://open.spotify.com/artist/0tRBFOqzDBDH8XP3VC9kZN), [Wyatt Durrette](https://open.spotify.com/artist/3VZsRkLj2QtJBcYoHojb0k), [Levi Lowrey](https://open.spotify.com/artist/0nMJIZIXTK8H6f3fS1OlZ7) | [The Wind](https://open.spotify.com/album/4WGI33Z228TG7kTA6yjlsB) | 3:42 | 2022-05-06 |  |
+| [The Woman I Am](https://open.spotify.com/track/18o4IcbzznZoc29dd7DjXW) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [The Woman I Am](https://open.spotify.com/album/288Wezo5nVXpnn7PU8shXM) | 3:02 | 2023-03-03 |  |
 | [Then Again](https://open.spotify.com/track/2PoOVPahdBzzlX8B35XflM) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [Then Again](https://open.spotify.com/album/0s0WEmrf0jQ9nUlqmBahLb) | 3:25 | 2022-01-01 |  |
 | [These Days](https://open.spotify.com/track/55OrXbHnrlFw9wCRg6Nf4Q) | [Jeffrey Steele](https://open.spotify.com/artist/2Znov2bFtJO4sppc5bSa2d) | [Gold\. Platinum\. Chrome And Steele](https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj) | 4:23 | 2022-01-01 |  |
 | [Things a Man Oughta Know \(Stripped\)](https://open.spotify.com/track/07WRv6TnAaqcI0UyxbljbO) | [Jason Nix](https://open.spotify.com/artist/168GW0NjbTxHxlDnY4B798) | [Things a Man Oughta Know \(Stripped\)](https://open.spotify.com/album/0bhlGclh3uEiFE6LwrmekC) | 3:44 | 2022-03-11 |  |

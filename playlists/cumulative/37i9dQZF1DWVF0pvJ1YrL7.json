@@ -991,6 +991,28 @@
     },
     {
       "album": {
+        "name": "Formosa",
+        "url": "https://open.spotify.com/album/2SYOOCJTRezNGcXQWJ8Mts"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Lui",
+          "url": "https://open.spotify.com/artist/2msiavkyenRtKMxCDlRzEm"
+        },
+        {
+          "name": "Lucy 22",
+          "url": "https://open.spotify.com/artist/1Y2zpWghC2JzicNPGf4VMg"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234142,
+      "name": "Formosa",
+      "url": "https://open.spotify.com/track/3ziE964PSJWxGF2s9NnEJA"
+    },
+    {
+      "album": {
         "name": "Ghost (Injury Reserve Remix)",
         "url": "https://open.spotify.com/album/0xJBPKaQY7ub1D47mwKKoF"
       },
@@ -1098,7 +1120,7 @@
           "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
         }
       ],
-      "date_added": "2023-02-17",
+      "date_added": "2023-02-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 357131,
@@ -1370,7 +1392,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 160000,
       "name": "lavender's love",
       "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"

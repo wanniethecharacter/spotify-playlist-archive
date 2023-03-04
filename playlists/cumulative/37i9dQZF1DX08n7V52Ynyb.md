@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-164 songs - 12 hr 15 min
+165 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [How Deep Is The Ocean](https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [How Deep Is The Ocean](https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj) | 5:18 | 2022-04-13 |  |
 | [How Long](https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb) | [Ksenia Parkhatskaya](https://open.spotify.com/artist/6AZm6N0cbEAzLkxdlbzbmy) | [Colours](https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O) | 4:35 | 2022-04-13 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 | 2022-04-13 |  |
-| [I Can't Get Started](https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 5:12 | 2022-04-13 |  |
+| [I Can't Get Started](https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 5:12 | 2022-04-13 | 2023-03-04 |
 | [I Can't Get Started](https://open.spotify.com/track/6hYK6zZdmTBDwiZAy7ztN5) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [For Connoisseurs Only](https://open.spotify.com/album/57jlLW5snTeDKnJPIuO0Kk) | 5:00 | 2022-05-19 | 2022-08-12 |
 | [I Didn't Know About You](https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn) | [Jocelyn Barth](https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX) | [Tell Him I Said Hello](https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J) | 4:26 | 2022-04-13 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8) | [Yotam Ishay](https://open.spotify.com/artist/3ABpfCZ60PQjECYhCuXRWs) | [SEED](https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg) | 5:28 | 2022-04-13 |  |
@@ -140,6 +140,7 @@
 | [Stardust](https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:53 | 2022-07-21 |  |
 | [Stars Fell On Alabama](https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:52 | 2022-04-13 | 2022-08-12 |
 | [That Old Feeling](https://open.spotify.com/track/3RCu8rcZm5xpEiH4Iach2o) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq), [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:10 | 2022-04-22 | 2022-10-12 |
+| [The Folks Who Live on the Hill](https://open.spotify.com/track/2Mg2GadBhJE4lPKsQK2ioz) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Fever: a Peggy Lee Celebration!](https://open.spotify.com/album/1e9mJDic98xbyRQbfdY3wy) | 6:06 | 2023-03-02 |  |
 | [The Good Life](https://open.spotify.com/track/17orrFjtkGMIlJuf1atirL) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | ['Round Midnight](https://open.spotify.com/album/6jlhrQp4yRd0CBcFqwrCdf) | 2:34 | 2022-04-13 | 2022-10-12 |
 | [The Long and Winding Road](https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Staying in Touch](https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL) | 4:14 | 2022-04-13 |  |
 | [The Man I Love](https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 4:50 | 2022-04-13 |  |

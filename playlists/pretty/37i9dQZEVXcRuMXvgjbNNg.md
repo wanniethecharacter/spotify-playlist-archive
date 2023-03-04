@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 
 > Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Love Is](https://open.spotify.com/track/1iXYxNHTrHUOpqGwgktbTA) | [Zach Winters](https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu) | [Other Side](https://open.spotify.com/album/0aR62Mkwo9cYCfLeyvo7OV) | 3:07 |
 | 30 | [Dandelion](https://open.spotify.com/track/3um7PdgFORPl7JODlbg2Pd) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Californialand](https://open.spotify.com/album/2l0s44teDp0yLB7TV8pt9q) | 3:31 |
 
-Snapshot ID: `MCwwMDAwMDAwMDA0NTI1YjM1NzEwMmJkYmYyOWE5NmVlMmY3NjFhNTVk`
+Snapshot ID: `MCwwMDAwMDAwMDY5OThjNDYwNDQ3OTY4MGU2Y2VhMTQ0MjRkN2VhNTIw`

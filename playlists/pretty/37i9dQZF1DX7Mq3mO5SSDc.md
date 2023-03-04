@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 
 > An homage to the iconic label’s 1980s and 1990s roots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,732 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,802 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 41 | [Stay Real](https://open.spotify.com/track/6jaj4k0LwFLy1q54TXZZpZ) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [No Pressure](https://open.spotify.com/album/1i8XHvNdaPXRhoQW0IBycA) | 3:55 |
 | 42 | [Strictly Business](https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:45 |
 | 43 | [The Ruler's Back](https://open.spotify.com/track/3cb6gJ7SHYuZ3NVm996ffD) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 5:36 |
-| 44 | [It's Yours \(Radio Mix\)](https://open.spotify.com/track/6SuIF8oh96UPJIIJjKvtIe) | [T La Rock](https://open.spotify.com/artist/2YR8RDJEpKZUbcQgSbBmAp) | [It's Yours](https://open.spotify.com/album/0ZBs6IU80LLsNIzB3RRYEm) | 4:21 |
-| 45 | [Daddy's Little Girl](https://open.spotify.com/track/0ySoJyAbKGLI5yShGBOIQ8) | [Nikki D](https://open.spotify.com/artist/3wHL6veDs4kliIKWrE2Bnb) | [Daddy's Little Girl](https://open.spotify.com/album/6ROlQudStSux3K7kuWU6uG) | 4:28 |
-| 46 | [Deeper](https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK) | [Boss](https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT), [Papa Juggy](https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf) | [Def Jam's Greatest Hits \- Hardcore](https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR) | 4:01 |
+| 44 | [Don't Believe The Hype](https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:19 |
+| 45 | [It's Yours \(Radio Mix\)](https://open.spotify.com/track/6SuIF8oh96UPJIIJjKvtIe) | [T La Rock](https://open.spotify.com/artist/2YR8RDJEpKZUbcQgSbBmAp) | [It's Yours](https://open.spotify.com/album/0ZBs6IU80LLsNIzB3RRYEm) | 4:21 |
+| 46 | [Daddy's Little Girl](https://open.spotify.com/track/0ySoJyAbKGLI5yShGBOIQ8) | [Nikki D](https://open.spotify.com/artist/3wHL6veDs4kliIKWrE2Bnb) | [Daddy's Little Girl](https://open.spotify.com/album/6ROlQudStSux3K7kuWU6uG) | 4:28 |
 | 47 | [Headbanger](https://open.spotify.com/track/17GdAx0kHOFNXZiCj8HuOW) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [K\-Solo](https://open.spotify.com/artist/0knb2mXB2y0L44J05Nj6zX) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 4:51 |
-| 48 | [Tie Goes To The Runner](https://open.spotify.com/track/2TZuNkLb0J6oKLEdlZ0XX3) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Greatest Misses](https://open.spotify.com/album/6ViErzJ80VCeOnrTPvX2nW) | 4:17 |
-| 49 | [Don't Believe The Hype](https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:19 |
+| 48 | [Deeper](https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK) | [Boss](https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT), [Papa Juggy](https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf) | [Def Jam's Greatest Hits \- Hardcore](https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR) | 4:01 |
+| 49 | [Rebel Without A Pause](https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:02 |
 | 50 | [Bring The Noise](https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 3:46 |
 
-Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMGMzZDA5OTIzNzczNGRhMDM1MGFlNjkyMGNlOWFlMzkz`
+Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMDIzNWZjYjA5NDk5MzM3ODgzY2M5MjAzZWU3N2ExMDk5`

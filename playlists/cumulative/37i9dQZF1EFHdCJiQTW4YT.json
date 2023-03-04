@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/4F4wlAmPyUVCyISxlePFL9"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "Don't Let It Break Your Heart",
+      "url": "https://open.spotify.com/track/4nbQRLAPq202lsQsv9FNwK"
+    },
+    {
+      "album": {
         "name": "these words are all for you",
         "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
       },

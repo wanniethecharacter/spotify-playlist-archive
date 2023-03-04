@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 285567,
+  "num_followers": 285832,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc5MTc4MiwwMDAwMDAwMGUyNjJjZmQyZTUwNTM3ZTI4ZWY5YWY3ODliNTMwYWQ4",
+  "snapshot_id": "MTY3NTc5MTc4MiwwMDAwMDAwMDMxYmIzZGY2NmNhNGYzNzU4NjRlOGNkOWI3MzI0OWU5",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 293440,
-      "name": "No One Ever Cared for Me Like Jesus",
-      "url": "https://open.spotify.com/track/2oIFaafMda5ATaMr2b9pK8"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Creio Que Tu \u00c9s a Cura",
         "url": "https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 351708,
       "name": "Creio Que Tu \u00c9s a Cura",
       "url": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 293440,
+      "name": "No One Ever Cared for Me Like Jesus",
+      "url": "https://open.spotify.com/track/2oIFaafMda5ATaMr2b9pK8"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Todos A La Mesa",
         "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 269314,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/3nOjFj0WWbsci9foo3o2tk"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Constellations",
-      "url": "https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Goodness of God (Acoustic)",
-        "url": "https://open.spotify.com/album/4Z3vUTENWAm8P8TNnD9vyZ"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 243809,
-      "name": "Goodness of God - Acoustic",
-      "url": "https://open.spotify.com/track/3xKktg3qTh1ovCnLqQc7us"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Belovedness",
         "url": "https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 222666,
       "name": "Belovedness",
       "url": "https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Goodness of God (Acoustic)",
+        "url": "https://open.spotify.com/album/4Z3vUTENWAm8P8TNnD9vyZ"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 243809,
+      "name": "Goodness of God - Acoustic",
+      "url": "https://open.spotify.com/track/3xKktg3qTh1ovCnLqQc7us"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "It's a Wonderful Life",
-        "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 249321,
-      "name": "It's a Wonderful Life",
-      "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 266826,
       "name": "Christ The Lord Is with Me (with Amanda Lindsey Cook & Wonder Grace Gretzinger)",
       "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "It's a Wonderful Life",
+        "url": "https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz"
+      },
+      "artists": [
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 249321,
+      "name": "It's a Wonderful Life",
+      "url": "https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Todos A La Mesa",
-        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        }
-      ],
-      "duration_ms": 305562,
-      "name": "Transparente",
-      "url": "https://open.spotify.com/track/53OH88v4fyx4cqRlHE1Ezy"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Learning to Let You Go",
         "url": "https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 211760,
       "name": "Learning to Let You Go",
       "url": "https://open.spotify.com/track/1cAaPTC1aCFsOUFVmfZri3"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Todos A La Mesa",
+        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        }
+      ],
+      "duration_ms": 305562,
+      "name": "Transparente",
+      "url": "https://open.spotify.com/track/53OH88v4fyx4cqRlHE1Ezy"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Psalm 42 (Loudest Praise)",
-        "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 355820,
-      "name": "Psalm 42 (Loudest Praise)",
-      "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "No Hopeless Soul",
         "url": "https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 193558,
       "name": "No Hopeless Soul - Unplugged",
       "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Psalm 42 (Loudest Praise)",
+        "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 355820,
+      "name": "Psalm 42 (Loudest Praise)",
+      "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "God You Are",
-        "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 265286,
-      "name": "God You Are (feat. Josh Baldwin)",
-      "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Same God (Acoustic)",
         "url": "https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 216000,
       "name": "Be Thou My Vision",
       "url": "https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "God You Are",
+        "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 265286,
+      "name": "God You Are (feat. Josh Baldwin)",
+      "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
     },
     {
       "added_at": "2023-02-07 17:43:02",

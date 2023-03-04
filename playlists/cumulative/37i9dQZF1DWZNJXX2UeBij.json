@@ -50,7 +50,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-16",
+      "date_removed": null,
       "duration_ms": 260053,
       "name": "Aai Paapi",
       "url": "https://open.spotify.com/track/7Bw56mGeOVbBBWBSLg356s"
@@ -76,7 +76,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 368480,
       "name": "Aaj Ki Raat",
       "url": "https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 315013,
       "name": "Ajj Din Chadheya",
       "url": "https://open.spotify.com/track/7N30pzJGFwnYU8iuzxWS7l"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 288173,
       "name": "Banthan Ke",
       "url": "https://open.spotify.com/track/31s46jm2eDIZedlN3LphjF"
@@ -872,6 +872,32 @@
       "duration_ms": 335832,
       "name": "Bum Bum Bole",
       "url": "https://open.spotify.com/track/5Dq7d6Y2K2CRNFm1bC3I7A"
+    },
+    {
+      "album": {
+        "name": "Mission Kashmir (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2LUvOogY4Oeawid4gAApUY"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Jaspinder Narula",
+          "url": "https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308493,
+      "name": "Bumbro",
+      "url": "https://open.spotify.com/track/28syjZyasVJ4J4oxBDOF1b"
     },
     {
       "album": {
@@ -1218,7 +1244,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 261015,
       "name": "Dance Pe Chance",
       "url": "https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI"
@@ -1648,7 +1674,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 320840,
       "name": "Dil Lagane Ki Saza",
       "url": "https://open.spotify.com/track/54CDOV6H5ZvVVw27DFK1cg"
@@ -3688,7 +3714,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 345788,
       "name": "Mast Kalandar",
       "url": "https://open.spotify.com/track/3V3qab2wyi5LjGLjvbV4fD"
@@ -4198,7 +4224,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 234858,
       "name": "Nazrein Milaana Nazrein Churaana",
       "url": "https://open.spotify.com/track/3wnahgmj1q8YvjkoXTLG8c"
@@ -4972,7 +4998,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 277493,
       "name": "Shut Up & Bounce",
       "url": "https://open.spotify.com/track/7JFIDJAi9RoCn0JYavNLRG"
@@ -5192,7 +5218,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 275986,
       "name": "Tere Bin",
       "url": "https://open.spotify.com/track/3DpedytYku64Hjf51064vO"
@@ -5612,7 +5638,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 302710,
       "name": "Wo Ajnabee",
       "url": "https://open.spotify.com/track/0ZNg3I2kga2XnqKp1Y9PeZ"

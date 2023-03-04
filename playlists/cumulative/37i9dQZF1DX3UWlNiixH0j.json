@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Garakuta",
+        "url": "https://open.spotify.com/album/1YXVCWVeFjXN9vDjH8Uark"
+      },
+      "artists": [
+        {
+          "name": "TEKE::TEKE",
+          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178813,
+      "name": "Garakuta",
+      "url": "https://open.spotify.com/track/6YshcqmnTv2PZQIcpULXql"
+    },
+    {
+      "album": {
         "name": "Fight for Innocence",
         "url": "https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u"
       },
@@ -2618,7 +2636,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 175333,
       "name": "TOKYO FOREVER",
       "url": "https://open.spotify.com/track/24yYkb7SAuEk69Exafbopw"

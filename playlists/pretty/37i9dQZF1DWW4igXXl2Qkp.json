@@ -1,6 +1,6 @@
 {
   "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: BreezyLYN",
-  "num_followers": 202912,
+  "num_followers": 202924,
   "original_name": "Fresh Finds: Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -550,6 +550,10 @@
         {
           "name": "Fat Joe",
           "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Cool & Dre",
+          "url": "https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD"
         }
       ],
       "duration_ms": 127389,

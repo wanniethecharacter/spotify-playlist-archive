@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-119 songs - 7 hr 49 min
+121 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Answer to Ronnie](https://open.spotify.com/track/0FEO7enEiq1uVm27W2sjFT) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers](https://open.spotify.com/album/57HFDvunhtwCpfe8pkzUkN) | 4:53 | 2022-04-15 | 2022-07-29 |
 | [Answer To Ronnie](https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers](https://open.spotify.com/album/6Gv7FGEI7Ot7tgfthNLIiy) | 4:53 | 2022-07-08 |  |
 | [As the years go by](https://open.spotify.com/track/2gsGfo1FkoJLezd1wp5cU4) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [As the years go by](https://open.spotify.com/album/34J8KC4sA4YwWBCCMF97eT) | 2:03 | 2023-02-03 |  |
+| [Authentic](https://open.spotify.com/track/3IIlAtayl38lQmDvuZfUAf) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 4:41 | 2023-03-03 |  |
 | [Baton Rouge](https://open.spotify.com/track/45mOThZziA0POOBVqwELS4) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Baton Rouge](https://open.spotify.com/album/4r1Fb5TSgtvWCazZDH5RJ5) | 3:01 | 2022-04-15 |  |
 | [Begin Again](https://open.spotify.com/track/1fGPWHGdhxb8UciPOgRgyU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Begin Again](https://open.spotify.com/album/0wCy9QkfGL19XEYnW4NU8k) | 3:50 | 2022-04-15 | 2023-02-12 |
 | [Begin Again](https://open.spotify.com/track/317zGzgpLAjKABVBPaikaD) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Mile End](https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx) | 3:50 | 2023-02-03 |  |
@@ -76,6 +77,7 @@
 | [Met my Love in Baton Rouge](https://open.spotify.com/track/5oj8xhZdu8TgqYIBWgw3Qm) | [Lada](https://open.spotify.com/artist/4GerVbgFLWZCwwnz6tE1EN) | [Don't Be Fooled](https://open.spotify.com/album/1ziVR6or0rA1lj4cbMxjQy) | 2:10 | 2023-01-06 |  |
 | [Monument Valley](https://open.spotify.com/track/4nAkPawzPeuy6V5h3ML8Ks) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Mississippi Boy](https://open.spotify.com/album/1GkkGdsXQIhDAzxmJjyoA2) | 2:33 | 2022-04-15 |  |
 | [Mud Island Morning](https://open.spotify.com/track/7dugh1bNpR9FLOQd341YNX) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 3:20 | 2022-07-29 |  |
+| [Nowhere But Here](https://open.spotify.com/track/1uPUxTTro7aqDlURkwJoUr) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Nowhere But Here](https://open.spotify.com/album/4jt8PTQTPQapkQJvKGrd4p) | 2:14 | 2023-03-03 |  |
 | [On My Way To See Nancy](https://open.spotify.com/track/0Bm5XTEyBth8b04J6oEms6) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/0dPH6VQgPhfc0lLueu9m7V) | 3:32 | 2022-04-15 |  |
 | [Pete's Blue](https://open.spotify.com/track/6u4NXJuuZDVQ8QXE8UJ45R) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [Roy Buchanan](https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw) | 7:18 | 2022-04-15 |  |
 | [Pirates \- Live In Belgium / Dubbed in Denmark](https://open.spotify.com/track/2AQJqe6b3mNyAp81ETFi1k) | [Gustaf Ljunggren](https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs), [Emil de Waal](https://open.spotify.com/artist/7qlFXCufyt5bgI52L6v6xb) | [Pirates \(Live in Belgium / Dubbed in Denmark\)](https://open.spotify.com/album/6gzqbVNqUK54CzgOqymluE) | 5:09 | 2022-04-15 |  |

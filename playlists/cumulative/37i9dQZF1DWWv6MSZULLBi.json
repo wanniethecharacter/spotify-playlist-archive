@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Aisha Badru",
+  "description": "A laid-back trip in the folk scene. Cover: Feist",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 170235,
       "name": "After All This Time",
       "url": "https://open.spotify.com/track/6pHL3CLFfkXqYGJZBk4l2c"
+    },
+    {
+      "album": {
+        "name": "alibi",
+        "url": "https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301828,
+      "name": "alibi",
+      "url": "https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7"
     },
     {
       "album": {
@@ -290,7 +308,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 193654,
       "name": "Armour",
       "url": "https://open.spotify.com/track/4Oo5MkhMfWTSjh58tZB898"
@@ -344,7 +362,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 188266,
       "name": "Bathroom Light",
       "url": "https://open.spotify.com/track/71glNHT4FultOqlau4zrFf"
@@ -550,7 +568,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 193080,
       "name": "Breathing Song",
       "url": "https://open.spotify.com/track/13pR0Vy22zw1in2Rd63TVn"
@@ -1516,7 +1534,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 150491,
       "name": "Every Beginning Ends",
       "url": "https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n"
@@ -1870,6 +1888,24 @@
       "duration_ms": 226909,
       "name": "Fix It for You",
       "url": "https://open.spotify.com/track/6Ann0ot3NWuGn7BLUjjtCP"
+    },
+    {
+      "album": {
+        "name": "flood lines",
+        "url": "https://open.spotify.com/album/4T9DEhlakkK3iD2Zw0Cwyr"
+      },
+      "artists": [
+        {
+          "name": "Ivytide",
+          "url": "https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241250,
+      "name": "flood lines",
+      "url": "https://open.spotify.com/track/3FbCoTjGMj9u4VLecvKh1Y"
     },
     {
       "album": {
@@ -2964,7 +3000,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 283823,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/6SmgLOxqcRtC6dbZqxkcuB"
@@ -3292,7 +3328,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 268633,
       "name": "Miss Fort Erie",
       "url": "https://open.spotify.com/track/2xdg2xTUqJbgDsLB5IIdiU"
@@ -3332,7 +3368,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 268246,
       "name": "Mother Love",
       "url": "https://open.spotify.com/track/6h5oSSJXgIyXHxJm256HWP"
@@ -3566,7 +3602,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 273112,
       "name": "No Body",
       "url": "https://open.spotify.com/track/2T9s8CK07B6dElJ6fmHeyt"
@@ -3660,6 +3696,28 @@
       "duration_ms": 181568,
       "name": "October Birds",
       "url": "https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j"
+    },
+    {
+      "album": {
+        "name": "On A Beach",
+        "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
+      },
+      "artists": [
+        {
+          "name": "Hayden",
+          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
+        },
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245656,
+      "name": "On A Beach",
+      "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
     },
     {
       "album": {
@@ -3948,6 +4006,24 @@
       "duration_ms": 190961,
       "name": "Part Time Lovers",
       "url": "https://open.spotify.com/track/5PSnffyT93zHiE23tRsL0O"
+    },
+    {
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/75iDlOeKjJUihaEryUECiH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325253,
+      "name": "Pearl",
+      "url": "https://open.spotify.com/track/0Qy0ydBu4VsKdnKNTazNrf"
     },
     {
       "album": {
@@ -4432,7 +4508,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 216966,
       "name": "Should've Drowned",
       "url": "https://open.spotify.com/track/68WkQbTM7Fs1Wj0hPT7iZV"
@@ -5277,6 +5353,24 @@
     },
     {
       "album": {
+        "name": "This Far South",
+        "url": "https://open.spotify.com/album/6jOU3mwT8bJD6YVCWFRce9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Prine",
+          "url": "https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "This Far South",
+      "url": "https://open.spotify.com/track/1BM4gkXiSUErxCHrrnzlFU"
+    },
+    {
+      "album": {
         "name": "This Is Going To Be The Year",
         "url": "https://open.spotify.com/album/5lcSCem101LKn2rIxoODBU"
       },
@@ -5360,7 +5454,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 207389,
       "name": "Th\u00e9r\u00e8se",
       "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
@@ -5556,6 +5650,24 @@
       "duration_ms": 197265,
       "name": "Until You - Acoustic",
       "url": "https://open.spotify.com/track/2E6s4inXC6MnvNlxwaDu7X"
+    },
+    {
+      "album": {
+        "name": "Us All",
+        "url": "https://open.spotify.com/album/1nC9qJ8PCE5bkkHG5w8jcL"
+      },
+      "artists": [
+        {
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280720,
+      "name": "Us All",
+      "url": "https://open.spotify.com/track/5jKrSVPHA7sfhpBgLYaH4v"
     },
     {
       "album": {

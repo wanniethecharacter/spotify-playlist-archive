@@ -2811,6 +2811,24 @@
     },
     {
       "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/1Y72pUjm0HQ55whwr44QV9"
+      },
+      "artists": [
+        {
+          "name": "Ian Reynold",
+          "url": "https://open.spotify.com/artist/1SwN9zqne93a9eXrlr0tr1"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227790,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/4jDYPVKZd7V9h5Pll27BRv"
+    },
+    {
+      "album": {
         "name": "Masana Temples",
         "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
@@ -10440,7 +10458,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 194029,
       "name": "Technicolor Love",
       "url": "https://open.spotify.com/track/0xPbEroCoWAutN6yHJVWYN"

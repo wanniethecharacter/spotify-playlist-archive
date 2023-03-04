@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Anew",
+        "url": "https://open.spotify.com/album/6gTK7SLCG5JAxFLKvghEiu"
+      },
+      "artists": [
+        {
+          "name": "Chrastigel",
+          "url": "https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128560,
+      "name": "A Silence Upon Us",
+      "url": "https://open.spotify.com/track/6px05fYH2S8XJOwcokJPwI"
+    },
+    {
+      "album": {
         "name": "Across The Lake",
         "url": "https://open.spotify.com/album/6FZ6SHjpiRxPCngtSqX1qL"
       },

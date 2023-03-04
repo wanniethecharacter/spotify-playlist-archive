@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 4523,
+  "num_followers": 4525,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGYxZWMyZTQ5NTc2OGVjZjhmZTgzOGQyZDY0Y2VhNzVh",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGE0MjkyY2Q1ZTg5MzE5Yjk0MDJhMTY5ZTkxYTQwN2Yy",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -311,22 +311,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Sunday School Songs",
-        "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 93786,
-      "name": "I've Got Peace Like A River",
-      "url": "https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Don't Censor Me",
         "url": "https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 211666,
       "name": "Big House",
       "url": "https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Sunday School Songs",
+        "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 93786,
+      "name": "I've Got Peace Like A River",
+      "url": "https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Action Bible Songs",
-        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 127800,
-      "name": "Rise And Shine (Arky, Arky)",
-      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "The Worship Initiative, Vol. 2",
         "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
       },
@@ -515,22 +499,38 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "The Kingdom of Heaven Is Like This",
-        "url": "https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x"
+        "name": "Great Big God",
+        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
       },
       "artists": [
         {
-          "name": "Rain For Roots",
-          "url": "https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA"
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
         },
         {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+          "name": "Vineyard Kids",
+          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
         }
       ],
-      "duration_ms": 182635,
-      "name": "Do Not Worry (feat. Ellie Holcomb)",
-      "url": "https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo"
+      "duration_ms": 171773,
+      "name": "Great Big God",
+      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Action Bible Songs",
+        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 127800,
+      "name": "Rise And Shine (Arky, Arky)",
+      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -555,22 +555,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Great Big God",
-        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
+        "name": "The Kingdom of Heaven Is Like This",
+        "url": "https://open.spotify.com/album/5W0j4DRH44VjXhUICznk5x"
       },
       "artists": [
         {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+          "name": "Rain For Roots",
+          "url": "https://open.spotify.com/artist/0BMoQeAvgTIVa2il9WIGkA"
         },
         {
-          "name": "Vineyard Kids",
-          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 171773,
-      "name": "Great Big God",
-      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
+      "duration_ms": 182635,
+      "name": "Do Not Worry (feat. Ellie Holcomb)",
+      "url": "https://open.spotify.com/track/2zDzh7uEM8VJ4CIQMzKHXo"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/23UWXk1FORanft5u9boft9"
-      },
-      "artists": [
-        {
-          "name": "Rachael Nemiroff",
-          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
-        }
-      ],
-      "duration_ms": 228679,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "A Week Away (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 228063,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/5Ah9mt916VYxP1DCpdUT4y"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/23UWXk1FORanft5u9boft9"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        }
+      ],
+      "duration_ms": 228679,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR"
     },
     {
       "added_at": "2021-06-29 13:36:02",

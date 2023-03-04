@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,690 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,001 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 15 | [Barbie](https://open.spotify.com/track/5wwIUZVGc2ypBa6Z717HHh) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Barbie](https://open.spotify.com/album/6lkmWmRKFbC8LZlC7RxoIl) | 2:41 |
 | 16 | [Out Of Nowhere](https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Out Of Nowhere](https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9) | 2:51 |
 | 17 | [Conspiracy Charges](https://open.spotify.com/track/6s38qYrzCcjicnzBuMYwrB) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Conspiracy Charges](https://open.spotify.com/album/30ulxIczvXwlfqNHHjiX7s) | 2:42 |
-| 18 | [Painting Pictures](https://open.spotify.com/track/2OgIbXHmuRJowDwtmezcio) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [Painting Pictures](https://open.spotify.com/album/1XciNWcYMtjVEjgEQXXxSN) | 2:02 |
+| 18 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 |
 | 19 | [W2L](https://open.spotify.com/track/6hbaeTUKbpRhqs7DntRjGL) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [W2L](https://open.spotify.com/album/6Vgw8H7YYcQnT1imAr4FOL) | 2:41 |
 | 20 | [Multifaceted](https://open.spotify.com/track/2ZTvseiCli9LgJrlll0Cwf) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Multifaceted](https://open.spotify.com/album/6g44Y0VIzxPzSSnKtEhQfA) | 2:57 |
 | 21 | [Single Player](https://open.spotify.com/track/3eKIv8Unt9jWpDYgVbVYIx) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Single Player](https://open.spotify.com/album/1GneUvQfEE0xn4z2UCNjQr) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 49 | [Same Team](https://open.spotify.com/track/5Z0bbZMs1nIrDv7S3hSyRs) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [Reek0](https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD) | [Legitimate Cause](https://open.spotify.com/album/1LPZpvN2QMnfZugwz5rP3r) | 4:00 |
 | 50 | [Menace II Society](https://open.spotify.com/track/2hSUMQu3NduxIALm2riTOh) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm) | [Menace II Society](https://open.spotify.com/album/7hEkvnb4BgSY7yMlxZeC6Y) | 2:31 |
 
-Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDk3OTBlY2VmODQ1NWRlNTcyNWExYTcwM2RjNDUwYjFj`
+Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDg0ZWU4NWIzODkzNmVjMmIwNjZlZmI3YjRlOGYyYjcy`

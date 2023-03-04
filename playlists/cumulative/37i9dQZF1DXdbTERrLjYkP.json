@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Daniel Leggs",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Abe Parker",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -398,10 +398,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib"
     },
     {
       "album": {
@@ -600,6 +618,24 @@
       "duration_ms": 194529,
       "name": "be your friend",
       "url": "https://open.spotify.com/track/609bvXPOXH0YC7TU5cfRSP"
+    },
+    {
+      "album": {
+        "name": "Beach Zombies",
+        "url": "https://open.spotify.com/album/4OI0wbuC4u0WhjpKttX4ym"
+      },
+      "artists": [
+        {
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157105,
+      "name": "Beach Zombies",
+      "url": "https://open.spotify.com/track/5h1cU6XlKTEoiyCIAh2nbF"
     },
     {
       "album": {
@@ -1064,7 +1100,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 190253,
       "name": "Canada",
       "url": "https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX"
@@ -3276,7 +3312,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 136153,
       "name": "I'm Not Like Alice",
       "url": "https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5"
@@ -4634,6 +4670,24 @@
       "duration_ms": 142777,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/41UhyBzOfsI1mqBviJq6AN"
+    },
+    {
+      "album": {
+        "name": "Nighttime Routine",
+        "url": "https://open.spotify.com/album/6h5PaMV7R6ItjrEXtC3Yxc"
+      },
+      "artists": [
+        {
+          "name": "Ellee Duke",
+          "url": "https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Nighttime Routine",
+      "url": "https://open.spotify.com/track/2KgwVET4EKMAXGkQUGR6lF"
     },
     {
       "album": {
@@ -6803,6 +6857,24 @@
     },
     {
       "album": {
+        "name": "Until Now",
+        "url": "https://open.spotify.com/album/656QB1tzxNjCNtDUswWRAF"
+      },
+      "artists": [
+        {
+          "name": "Abe Parker",
+          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Until Now",
+      "url": "https://open.spotify.com/track/4djT5qYz4PIcIDV6TziZhm"
+    },
+    {
+      "album": {
         "name": "Us and Pigs",
         "url": "https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt"
       },
@@ -7049,7 +7121,7 @@
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 198912,
+      "duration_ms": 200733,
       "name": "What If I Still Miss You?",
       "url": "https://open.spotify.com/track/34h9Wr114K0EjlFsjITrMW"
     },
@@ -7196,7 +7268,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 196734,
       "name": "why didn't you call???",
       "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"

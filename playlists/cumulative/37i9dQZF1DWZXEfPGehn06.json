@@ -2607,6 +2607,28 @@
     },
     {
       "album": {
+        "name": "Serenade from Don Giovanni, K. 527",
+        "url": "https://open.spotify.com/album/7j8o9xtfmId4GdmVBCtMzS"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146706,
+      "name": "Serenade from Don Giovanni, K. 527 (Arr. for Piano by Georges Bizet)",
+      "url": "https://open.spotify.com/track/2j2CXR4lLqP8YqGdc7bosZ"
+    },
+    {
+      "album": {
         "name": "Mozart: Music for 2 Pianos; Piano Duets",
         "url": "https://open.spotify.com/album/0Y1Cjnw3el8DbYnpwFMANe"
       },

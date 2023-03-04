@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Kat & Alex
 
-111 songs - 6 hr 8 min
+112 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [OBVIOUS \- Español](https://open.spotify.com/track/5i6oUSLYzolwKWXWeus5gV) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Boots x Beats](https://open.spotify.com/album/6yTa2jxGNCiQsdsLAu3888) | 2:51 | 2021-12-10 |  |
 | [Once Upon a Time \(feat\. Martina McBride\)](https://open.spotify.com/track/4gE9TM6eai2wzYbCga0WmD) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Play the Hits](https://open.spotify.com/album/3aAtwgAJcKzXVsxDsotriL) | 2:59 | 2021-12-10 |  |
 | [Once Upon a Time in Mexico](https://open.spotify.com/track/2OMp5B6BUCvnH7hVlZgMZH) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Once Upon a Time in Mexico](https://open.spotify.com/album/2j7lE1XBdiQdo4T9K2z4ci) | 2:44 | 2021-12-10 |  |
+| [Overthink](https://open.spotify.com/track/3l0oInOR4MnPPgpG2PYQex) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Overthink](https://open.spotify.com/album/5WcaHxFqd0BjF3xBtZ8Fd9) | 3:50 | 2023-03-03 |  |
 | [Paraíso \(Heaven\) \- Ao Vivo](https://open.spotify.com/track/2WJdzFwnx0weS4sekT175s) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Paraíso \(Heaven\) \[Ao Vivo\]](https://open.spotify.com/album/0hD5CDJxCMjN5vw11oFeGD) | 2:55 | 2021-12-10 |  |
 | [Pienso en Ti](https://open.spotify.com/track/6187nmNResODDMkb2WNgES) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 3:03 | 2021-12-10 |  |
 | [Poder Vivir](https://open.spotify.com/track/0iHidkaP0x9Dd8IwFmNkG4) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [En Español](https://open.spotify.com/album/30DQiI9l9HMsebReRC9BC8) | 3:17 | 2021-12-10 |  |

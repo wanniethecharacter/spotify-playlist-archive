@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Andrew Rayel
 
-452 songs - 1 day 0 hr 10 min
+453 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Breathe Deep](https://open.spotify.com/track/0slNopMRaXiqHfi1RHepYW) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Breathe Deep](https://open.spotify.com/album/4hcbjbhpg9sfBkNlS0QHF5) | 3:11 | 2022-06-09 | 2022-07-29 |
 | [Buggin' Out](https://open.spotify.com/track/1QrFMYZoTSoU0w82ezQHbb) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Buggin' Out](https://open.spotify.com/album/7rK19oalxBBZ9Vnlanc4m8) | 3:28 | 2022-06-23 | 2022-08-18 |
 | [Bugz](https://open.spotify.com/track/58UXXhmR36uZeTyeHUOU0Y) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC), [Rawfox](https://open.spotify.com/artist/0fIbSfGT21N4THLOmBk9LT) | [Bugz](https://open.spotify.com/album/4qfy8Knj2DjviBvIOY4WKD) | 3:56 | 2023-02-23 |  |
+| [California Dreamin \- LNY TNZ Remix](https://open.spotify.com/track/3RzfYY11XJ4PrZq5j1Fk4k) | [Freischwimmer](https://open.spotify.com/artist/185m2EJWTIm36MdqguiU8T), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [California Dreamin \(LNY TNZ Remix\)](https://open.spotify.com/album/1Eqcbi0tlTDXZgPODT7WDx) | 2:36 | 2023-03-03 |  |
 | [Careless](https://open.spotify.com/track/6m4bdAPUg12BXw71Xbj1Fz) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Careless](https://open.spotify.com/album/4caNry14PWQzUjxfzHckws) | 3:03 | 2022-06-09 | 2022-07-22 |
 | [Carry On](https://open.spotify.com/track/6l5O6RzzSuCnwTjy9KQrdm) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Carry On](https://open.spotify.com/album/3p9Ovi8isYNXv6g1xgPCm5) | 3:49 | 2022-10-06 |  |
 | [Carry On \- Adana Twins Remix](https://open.spotify.com/track/5XCDpDTrqxCcHOzSJ99Z2y) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Carry On \(Adana Twins Remix\)](https://open.spotify.com/album/37ecCZ3JRsd05ag54lrgF5) | 4:19 | 2023-01-19 |  |

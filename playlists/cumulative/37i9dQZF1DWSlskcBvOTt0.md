@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-374 songs - 1 day 14 hr 39 min
+375 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [All I Ever Wanted](https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:32 | 2022-10-14 |  |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-09-30 |  |
 | [Alongside \- Omeria & NU Edit](https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Alongside](https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36) | 6:50 | 2021-04-21 |  |
-| [Amanecer](https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Amanecer](https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP) | 7:36 | 2023-01-13 |  |
+| [Amanecer](https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Amanecer](https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP) | 7:36 | 2023-01-13 | 2023-03-04 |
 | [Amida \- Satori & El Mundo Remix](https://open.spotify.com/track/0V2S8wtRZi4OAeCVq4phT8) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN), [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej) | [Amida \(Satori & El Mundo Remix\)](https://open.spotify.com/album/196fE693PdI2q6DbNbpMHG) | 6:55 | 2022-12-09 | 2023-01-14 |
 | [Amor Cego](https://open.spotify.com/track/3Vz6j2iEsgmGyjC89bn8tz) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Margarida Encarnação](https://open.spotify.com/artist/05L0Xnr39hVRK3MW0o5rFS) | [Amor Cego](https://open.spotify.com/album/6lJ9Mi6EZmisSqHW08jjOU) | 5:32 | 2022-02-11 | 2022-07-26 |
 | [Amores](https://open.spotify.com/track/3KTkkZvSPmh3leXluyABBs) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [AKKAN](https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3) | 5:57 | 2021-04-21 | 2022-10-06 |
@@ -84,6 +84,7 @@
 | [Deneb Algedi \- Radio Edit](https://open.spotify.com/track/3UpiaKvd52jtDP5d9mDjBz) | [Massimo Logli](https://open.spotify.com/artist/3IVLbePHoVd9TYMJuKu1Ei) | [Deneb Algedi \- Elkurud](https://open.spotify.com/album/2wEvoWWqP9nKBWTKwgOobD) | 3:16 | 2021-05-07 | 2022-07-14 |
 | [Departures](https://open.spotify.com/track/0LlGYQSAJZI5QrR5hblT6s) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures](https://open.spotify.com/album/1oBOaO2vdvxUpX1ej0Lhud) | 5:08 | 2021-04-21 | 2022-10-15 |
 | [Descend](https://open.spotify.com/track/5UKeDBuyUvMAbxTgbdohBB) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Dive](https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot) | 4:57 | 2022-05-13 | 2022-07-29 |
+| [Die Dunkle Biene](https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Die Dunkle Biene](https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx) | 7:45 | 2023-02-24 |  |
 | [Disappear](https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tasan](https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5) | [Disappear](https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh) | 3:55 | 2022-06-10 |  |
 | [Disco Voador \- Single Edit](https://open.spotify.com/track/6XuVgxaYTtaeTspOSgnoIW) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Disco Voador & Depois](https://open.spotify.com/album/1SfGQplxlHE1J1pid0VkNR) | 5:27 | 2021-08-06 | 2022-07-29 |
 | [Discoteca](https://open.spotify.com/track/0ENV8cY0bwun9qSQkh195f) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Discoteca](https://open.spotify.com/album/1ToY6vQm5b4DgOpdGHZjVZ) | 6:25 | 2021-04-21 |  |

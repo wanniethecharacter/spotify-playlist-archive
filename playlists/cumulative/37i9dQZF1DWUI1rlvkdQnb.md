@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-160 songs - 8 hr 33 min
+161 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [I'm Sorry](https://open.spotify.com/track/6bmyYlH5GVcYz6bJwurxxp) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [At First Light](https://open.spotify.com/album/6uuGLuTGd67p87E63DA8J5) | 2:10 | 2021-12-10 | 2022-07-29 |
 | [I'm Sorry](https://open.spotify.com/track/7rVVerTSC0AqlnWkB1AqJS) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [At First Light](https://open.spotify.com/album/7j0q8lAzQtUNdcfLgyoQU0) | 2:10 | 2022-06-29 | 2022-10-22 |
 | [In a Charming Dream](https://open.spotify.com/track/3TizifrzD8kqNPVej7OgIu) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:04 | 2021-12-10 |  |
+| [In The Balance](https://open.spotify.com/track/2o7KYR9AdglkUTLh3Vdod1) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [Anew](https://open.spotify.com/album/6gTK7SLCG5JAxFLKvghEiu) | 2:06 | 2023-03-03 |  |
 | [Innervate](https://open.spotify.com/track/2ZUsvuyl43t1oqiwGaHMt7) | [Jasmine Viola](https://open.spotify.com/artist/46G2FNi6a9iLA5XyKQ00kZ) | [Innervate](https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll) | 3:15 | 2021-12-10 |  |
 | [Insua](https://open.spotify.com/track/4jAgDrorjMDaqWCB8oVzK1) | [Nordesía](https://open.spotify.com/artist/6sbqijgtC98MAYaPcH3cuu) | [Insua](https://open.spotify.com/album/5AUkwgbTPKrkYs6cyHadxv) | 2:41 | 2021-12-10 |  |
 | [Je continue d'apprendre](https://open.spotify.com/track/0ts0VElEurDclsFS8FLFwA) | [Roar Martinsen](https://open.spotify.com/artist/4IWKt1IRlTbunWA0Ge9MIN) | [Je continue d'apprendre](https://open.spotify.com/album/0hBjqma2rfsY0IZEDkUZD0) | 1:40 | 2022-01-07 |  |

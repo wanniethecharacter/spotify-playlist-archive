@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Little Brother",
+  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Jean Grae",
   "name": "I Love My Underground Classics",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 252400,
       "name": "3 Tha Hard Way",
       "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
@@ -148,7 +148,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 118853,
       "name": "Accordion",
       "url": "https://open.spotify.com/track/67vrmPygrZ9giGqHUSReAT"
@@ -188,6 +188,32 @@
       "duration_ms": 253306,
       "name": "Acknowledge",
       "url": "https://open.spotify.com/track/23RJg00mFONjIqYML6mtsE"
+    },
+    {
+      "album": {
+        "name": "Madvillainy",
+        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
+      },
+      "artists": [
+        {
+          "name": "Madvillain",
+          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130479,
+      "name": "All Caps",
+      "url": "https://open.spotify.com/track/21O0XXPEWPtePt5RMY93Ob"
     },
     {
       "album": {
@@ -424,10 +450,28 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 232440,
       "name": "Boom - Explicit Album Version",
       "url": "https://open.spotify.com/track/3CiSdq2SJSSUc1AVUU2F4G"
+    },
+    {
+      "album": {
+        "name": "Rock City",
+        "url": "https://open.spotify.com/album/6q26ntqqVMWmBsXqYO6sGT"
+      },
+      "artists": [
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233493,
+      "name": "Boom - Explicit Album Version",
+      "url": "https://open.spotify.com/track/6k39WGLrbuNYpdcNDjWTJt"
     },
     {
       "album": {
@@ -746,7 +790,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 298053,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
@@ -1482,7 +1526,7 @@
       ],
       "date_added": "2021-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 131866,
       "name": "Meat Grinder",
       "url": "https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH"
@@ -1524,13 +1568,13 @@
           "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         },
         {
-          "name": "Yummy",
-          "url": "https://open.spotify.com/artist/3EPDUft8JXlRTIsrNqfFDS"
+          "name": "Yummy Bingham",
+          "url": "https://open.spotify.com/artist/01IaeFm0s42d0rIwcY0tS1"
         }
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 245493,
       "name": "Much More (feat. Yummy)",
       "url": "https://open.spotify.com/track/5zEP0MRnDe5qwL361xBz0B"
@@ -2176,7 +2220,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 272066,
       "name": "The Way You Do It",
       "url": "https://open.spotify.com/track/6jZ1SNPuYqCqJsZhJlSGe1"
@@ -2250,7 +2294,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 222440,
       "name": "Thick",
       "url": "https://open.spotify.com/track/3UB7VJpumOOpJ0gKfq7Hgk"
@@ -2302,6 +2346,28 @@
       "duration_ms": 311960,
       "name": "Thieves In The Night",
       "url": "https://open.spotify.com/track/7tx1TUJrT6qxXFXAELqbev"
+    },
+    {
+      "album": {
+        "name": "Jean Grae: The Evil Jeanius",
+        "url": "https://open.spotify.com/album/0BqCQwGFcPXkdNqajk18yS"
+      },
+      "artists": [
+        {
+          "name": "Jean Grae",
+          "url": "https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6"
+        },
+        {
+          "name": "Chen Lo",
+          "url": "https://open.spotify.com/artist/2J4NQiYiPyeo4sTDTeORP8"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246293,
+      "name": "Threats",
+      "url": "https://open.spotify.com/track/5R8J6WCnV1E2lDJgVoaA4P"
     },
     {
       "album": {
@@ -2512,7 +2578,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 327453,
       "name": "Whatever You Say",
       "url": "https://open.spotify.com/track/0ZsDZd6yQJDiEKoSzVrfoK"

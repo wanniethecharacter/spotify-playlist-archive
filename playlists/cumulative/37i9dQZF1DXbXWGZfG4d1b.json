@@ -4384,7 +4384,7 @@
     {
       "album": {
         "name": "Medalla de Oro",
-        "url": "https://open.spotify.com/album/3nwloOc33MQQ7meysq3KNU"
+        "url": "https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e"
       },
       "artists": [
         {
@@ -4395,6 +4395,24 @@
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 340200,
+      "name": "Medalla de Oro",
+      "url": "https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb"
+    },
+    {
+      "album": {
+        "name": "Medalla de Oro",
+        "url": "https://open.spotify.com/album/3nwloOc33MQQ7meysq3KNU"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
       "duration_ms": 340200,
       "name": "Medalla de Oro",
       "url": "https://open.spotify.com/track/6AYJMjeqTFhpdZA7vhm1Wd"
@@ -6272,7 +6290,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 171882,
       "name": "Romance Con la Luna",
       "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
@@ -7806,6 +7824,24 @@
       "duration_ms": 207391,
       "name": "\u00bfTodas las Guitarras?",
       "url": "https://open.spotify.com/track/1eJAPC8sQFugPucAA91zeq"
+    },
+    {
+      "album": {
+        "name": "\u00c1rboles y Pasarelas",
+        "url": "https://open.spotify.com/album/42v671Ws24mgeGvj298gQB"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335832,
+      "name": "\u00c1rboles y Pasarelas",
+      "url": "https://open.spotify.com/track/6WpZRLPsYPddfQ2trrdyOD"
     },
     {
       "album": {

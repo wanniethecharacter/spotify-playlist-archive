@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,636 likes - 309 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,726 likes - 309 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -283,7 +283,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 273 | [Spiegelei](https://open.spotify.com/track/2UgF2ERVFHWhFWcytlNO7G) | [Spaze Windu](https://open.spotify.com/artist/0yAQ48yJ94zWFTs0YUIdcE), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Spiegelei](https://open.spotify.com/album/5dX5r4M9K5DYfYTnJGgfmM) | 2:31 |
 | 274 | [Brasileiro](https://open.spotify.com/track/7KZBQq0GlS2VDoN7AcTgSM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Brasileiro](https://open.spotify.com/album/0DFCy6lv7KXEX9GGysJw38) | 1:45 |
 | 275 | [Nine One Nine](https://open.spotify.com/track/56Bovd4TcOgv6LbVpSMgh8) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Carolina Sound](https://open.spotify.com/album/0Vux1XegJB79Un1aRtrRog) | 2:16 |
-| 276 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Magn Us](https://open.spotify.com/artist/2YlPD3Lp1lnP0lFU43ApzH) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
+| 276 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
 | 277 | [Buzz](https://open.spotify.com/track/4l9tBmE0kfF7pHQ0BavAGB) | [Ritsou Lalai](https://open.spotify.com/artist/5aO7hHRToXlsRMfZ3Ah6aa) | [Buzz](https://open.spotify.com/album/4PSW7vbPagqu8fc81R7Nvw) | 2:34 |
 | 278 | [Tangerine Tanlines](https://open.spotify.com/track/2A56QOJvOGbcrj1HVmTtan) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Tangerine Tanlines](https://open.spotify.com/album/3drfIDIHXitp4lycIMqgkU) | 2:22 |
 | 279 | [Wanderlust](https://open.spotify.com/track/6LodoJCkHdELJ4JHiDfMGz) | [dogphase](https://open.spotify.com/artist/2PhI5ndGzuBaGWTPadjj4g) | [Wanderlust](https://open.spotify.com/album/0K7VVnjrbKfCFHw2FnjIjs) | 2:21 |

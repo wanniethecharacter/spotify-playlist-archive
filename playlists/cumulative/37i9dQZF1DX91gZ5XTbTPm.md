@@ -2,9 +2,9 @@
 
 ### [CST](https://open.spotify.com/playlist/37i9dQZF1DX91gZ5XTbTPm)
 
-> The Midwest is always on time\. Cover: Lil Durk
+> The Midwest is always on time\. Cover: Kash Doll
 
-391 songs - 18 hr 4 min
+393 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Feel Like Bart](https://open.spotify.com/track/2phfrAiwQpJnt4gruPs1Cx) | [Lil Mello](https://open.spotify.com/artist/1vN9H1ZYksBpbz25dcdPUu) | [Hot Boy](https://open.spotify.com/album/0YGE6npbgl6LI8s21NA6Pl) | 2:34 | 2022-02-11 | 2022-04-02 |
 | [Feline \(with Polo G & Trippie Redd\)](https://open.spotify.com/track/5R4Yrc2j4jw1itr4hKcN26) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:32 | 2021-12-10 | 2022-02-05 |
 | [Flashbacks \(with Jeremih\)](https://open.spotify.com/track/2azHQr3ADjofyT0NTGOPac) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/1fM9bkdf6IqvhnPrUK7WeZ) | 2:53 | 2022-10-07 | 2022-10-22 |
+| [Flavors](https://open.spotify.com/track/6ffUQiIPOH1LkWrgWXIx7I) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [Flavors](https://open.spotify.com/album/5B26Sxf8loSEQEmQGzcZSm) | 2:50 | 2023-03-03 |  |
 | [FMB Dz 2k22](https://open.spotify.com/track/1oKlNtMpHNHOv5zgdIw5MP) | [FMB DZ](https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa) | [FMB Dz 2k22](https://open.spotify.com/album/4RoOWz2O1ndRGqMLPbl6ur) | 3:02 | 2022-02-11 | 2022-03-05 |
 | [For The Record](https://open.spotify.com/track/254OydHVwUHK2jIMhZToHm) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [For The Record](https://open.spotify.com/album/50D9YMxG2uRgCabduAeNOG) | 3:11 | 2021-11-19 | 2022-02-05 |
 | [Forever Been Steppin'](https://open.spotify.com/track/6D38sSnlEtRmH7H7yhvI47) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Forever Been Steppin'](https://open.spotify.com/album/2fYOAoMAoSge8lWN0OydhA) | 3:17 | 2022-03-11 | 2022-09-24 |
@@ -225,7 +226,7 @@
 | [Misfit](https://open.spotify.com/track/6v83lCQkyqUvZGY7Au9IVI) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50) | [Misfit](https://open.spotify.com/album/5DxK2C3rMlXURlUyf8PvTq) | 2:49 | 2022-04-08 | 2022-04-29 |
 | [Mood Swings](https://open.spotify.com/track/3bAmJS0k2yQsNLEouw4B9d) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [Mood Swings](https://open.spotify.com/album/5aA0oTJqtEEDFo4oQxmoKv) | 2:25 | 2023-01-20 | 2023-02-18 |
 | [Motion Gang / Wavy Gang \(feat\. Babyface Ray\)](https://open.spotify.com/track/5ZQHLsSkSAQbw75IhtdEMi) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Money Counter Music Vol\. 2: Born In It](https://open.spotify.com/album/2S2xBS9OFTqMQS1b2Ydjl0) | 2:20 | 2022-11-11 |  |
-| [MOTOWN](https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MOTOWN \(feat\. BabyTron\)](https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm) | 2:44 | 2023-01-27 |  |
+| [MOTOWN](https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MOTOWN \(feat\. BabyTron\)](https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm) | 2:44 | 2023-01-27 | 2023-03-04 |
 | [Mount Olympus](https://open.spotify.com/track/3zgUEeCkyezg8a9PfKF36G) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Mount Olympus](https://open.spotify.com/album/5T11JgUa7BzCjB8HW732MV) | 2:39 | 2022-09-23 | 2022-11-12 |
 | [Mount Olympus](https://open.spotify.com/track/51iOn6LKdI9QWW04Db4H5E) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Mount Olympus](https://open.spotify.com/album/26TbZ36ISE56kbgRP71jNV) | 2:39 | 2022-09-23 | 2022-10-13 |
 | [Mr\. Hanky](https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mr\. Hanky](https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu) | 2:22 | 2023-01-06 |  |
@@ -272,6 +273,7 @@
 | [Poised](https://open.spotify.com/track/246mkx0FW2nU6nGXz4ReUX) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Poised](https://open.spotify.com/album/10WVSnQrc0yZzUWwojqVv3) | 1:39 | 2022-04-08 | 2022-05-07 |
 | [Pop Out](https://open.spotify.com/track/2yj5fohdcJf48hdmB6QXD1) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Pop Out](https://open.spotify.com/album/5SXgC4zCNTd1J0RMa213GN) | 3:13 | 2022-10-28 | 2022-11-12 |
 | [Pressikan](https://open.spotify.com/track/2N0wDFXjS97UybI2ellIEu) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Pressikan](https://open.spotify.com/album/69eXw40A8AqpBED1daHzYj) | 3:15 | 2023-02-03 |  |
+| [Pretty Girls Walk \(with Coi Leray\) \- Remix](https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Pretty Girls Walk \(Remix\)](https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W) | 2:20 | 2023-03-03 |  |
 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 4:28 | 2022-10-28 | 2022-12-03 |
 | [PROUD OF YOU](https://open.spotify.com/track/4PcC5ofoImDVsHtShnbX5F) | [NoonieVsEverybody](https://open.spotify.com/artist/5PepByqZbni3dXJXF2eTaB) | [PROUD OF YOU](https://open.spotify.com/album/1Xtnt4yn49QQZMAWwk64vX) | 1:36 | 2022-03-18 | 2022-05-20 |
 | [Pyrex](https://open.spotify.com/track/3TGBtGsWQPfhtPGGzzbc6m) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Pyrex](https://open.spotify.com/album/1ZWHj0kb2hk0hZCCDdNjL5) | 1:52 | 2022-08-19 | 2022-09-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Novos rappers, novos sons. Tamos juntos! Foto: PNG.",
-  "num_followers": 6876,
+  "num_followers": 6881,
   "original_name": "Ganda Cena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzYwMzAwMSwwMDAwMDAwMDllZWE1NmIzMjg5ZjQ1MGRkMjk1OWIxYmE3YmQyODI3",
+  "snapshot_id": "MTY3NzgzNTkyNywwMDAwMDAwMDZlNWMxNTk2OGViMDJmYjc0YmFkYmY0ZGU4OTRlN2Qx",
   "tracks": [
     {
       "added_at": "2023-02-28 16:50:01",
@@ -41,6 +41,26 @@
       "url": "https://open.spotify.com/track/3Q0kPrhXlxVJGwkMwZZi0G"
     },
     {
+      "added_at": "2023-03-03 09:32:07",
+      "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/2rNUd5o48hVoYBfhtmQv28"
+      },
+      "artists": [
+        {
+          "name": "ZA",
+          "url": "https://open.spotify.com/artist/3leovMVJPslFyWGlVOX7Xc"
+        },
+        {
+          "name": "Beiro",
+          "url": "https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn"
+        }
+      ],
+      "duration_ms": 150835,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4gnh6WEDOk9aHpceClyAe0"
+    },
+    {
       "added_at": "2023-02-28 16:50:01",
       "album": {
         "name": "Mudar de Vida",
@@ -55,6 +75,22 @@
       "duration_ms": 191335,
       "name": "Mudar de Vida",
       "url": "https://open.spotify.com/track/1hZseTSC44S6Vl47mnrrdl"
+    },
+    {
+      "added_at": "2023-03-03 09:32:07",
+      "album": {
+        "name": "Rafeiro Alentejano",
+        "url": "https://open.spotify.com/album/2BciydtKyAZ3dZJQUdYvZb"
+      },
+      "artists": [
+        {
+          "name": "Jotta R",
+          "url": "https://open.spotify.com/artist/0u2OA1XApgS4rozZ1iWTRZ"
+        }
+      ],
+      "duration_ms": 220273,
+      "name": "Rafeiro Alentejano",
+      "url": "https://open.spotify.com/track/6Q55bK0n4xXhFDKpU79VqR"
     },
     {
       "added_at": "2023-02-28 16:50:01",
@@ -109,6 +145,22 @@
       "url": "https://open.spotify.com/track/559UTvDaulsT8G6C2lhGHB"
     },
     {
+      "added_at": "2023-03-03 09:32:07",
+      "album": {
+        "name": "Artista",
+        "url": "https://open.spotify.com/album/4i839TEqc9GSUH3p1BrJrv"
+      },
+      "artists": [
+        {
+          "name": "D\u00b4Lucca",
+          "url": "https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x"
+        }
+      ],
+      "duration_ms": 162928,
+      "name": "Artista",
+      "url": "https://open.spotify.com/track/1udnOPrXmtePMIYq2nOqqJ"
+    },
+    {
       "added_at": "2023-02-28 16:50:01",
       "album": {
         "name": "Pode Deixar",
@@ -127,6 +179,22 @@
       "duration_ms": 166887,
       "name": "Pode Deixar",
       "url": "https://open.spotify.com/track/5TlW9CmJgxWTmhUTwgwuVZ"
+    },
+    {
+      "added_at": "2023-03-03 09:32:07",
+      "album": {
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/1C21J2oqONLxP9syfkwqIn"
+      },
+      "artists": [
+        {
+          "name": "Kenwhy",
+          "url": "https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U"
+        }
+      ],
+      "duration_ms": 166350,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/4qmaHLeM02SSDAJpxmwcGR"
     },
     {
       "added_at": "2023-02-28 16:50:01",
@@ -149,6 +217,22 @@
       "url": "https://open.spotify.com/track/0hRY0iehUKoX2yPMuFhW4g"
     },
     {
+      "added_at": "2023-03-03 09:32:07",
+      "album": {
+        "name": "CARAMETADE",
+        "url": "https://open.spotify.com/album/0lLCDpT6xR95zwvTkvUScC"
+      },
+      "artists": [
+        {
+          "name": "Lex",
+          "url": "https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "CARAMETADE",
+      "url": "https://open.spotify.com/track/4MuFixQVAh5JsugfVuXl6T"
+    },
+    {
       "added_at": "2023-02-28 16:50:01",
       "album": {
         "name": "QUARTO 111 - CAMADA 1",
@@ -163,6 +247,22 @@
       "duration_ms": 130175,
       "name": "GULA",
       "url": "https://open.spotify.com/track/6Ell1v2NnVuLMkMvep1DB8"
+    },
+    {
+      "added_at": "2023-03-03 09:32:07",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1dfkmxZGNDYDJr8q1kswm5"
+      },
+      "artists": [
+        {
+          "name": "Pucci Jr",
+          "url": "https://open.spotify.com/artist/5frmw57upraPDcl8cEtISs"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4FWm0qKj6XklFuX44WcgYY"
     },
     {
       "added_at": "2023-02-28 16:50:01",
@@ -185,6 +285,26 @@
       "url": "https://open.spotify.com/track/6X8jYXB1nCKWdwKqdzkT4D"
     },
     {
+      "added_at": "2023-03-03 09:32:07",
+      "album": {
+        "name": "Gloss",
+        "url": "https://open.spotify.com/album/7KmJth0jOfGllWzKPDOEwp"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "duration_ms": 210309,
+      "name": "Gloss",
+      "url": "https://open.spotify.com/track/2HxXsZGRITgwkos69ZZtUe"
+    },
+    {
       "added_at": "2023-02-28 16:50:01",
       "album": {
         "name": "Room",
@@ -199,6 +319,22 @@
       "duration_ms": 154000,
       "name": "Room",
       "url": "https://open.spotify.com/track/6O4nV6rmc1oJtDvk39OogI"
+    },
+    {
+      "added_at": "2023-03-03 09:32:07",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC"
+      },
+      "artists": [
+        {
+          "name": "Fran2785",
+          "url": "https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8"
+        }
+      ],
+      "duration_ms": 221198,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3"
     },
     {
       "added_at": "2023-02-28 16:50:01",
@@ -217,6 +353,22 @@
       "url": "https://open.spotify.com/track/3BoOl2GNbhf9an8wsRHhF0"
     },
     {
+      "added_at": "2023-03-03 09:32:07",
+      "album": {
+        "name": "Meu Tipo",
+        "url": "https://open.spotify.com/album/4MVOzmwiicenRHJgcBU3et"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Meu Tipo",
+      "url": "https://open.spotify.com/track/6F5DmnTcwugg7KErGQ3aa9"
+    },
+    {
       "added_at": "2023-02-28 16:50:01",
       "album": {
         "name": "SAYONARA",
@@ -231,6 +383,22 @@
       "duration_ms": 155087,
       "name": "AZUCAR",
       "url": "https://open.spotify.com/track/4NIXix3zDnqWfSudSteyeh"
+    },
+    {
+      "added_at": "2023-03-03 09:32:07",
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/2q4FRXjv5jOWU8Az2n0Lfi"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1ry M",
+          "url": "https://open.spotify.com/artist/6myextZ5obd54txCqZp7Ns"
+        }
+      ],
+      "duration_ms": 161517,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/6GDXVeWVlHdNVrvzuzrzgU"
     },
     {
       "added_at": "2023-02-28 16:50:01",
@@ -251,6 +419,22 @@
       "duration_ms": 134110,
       "name": "Sente a Pose",
       "url": "https://open.spotify.com/track/0EsAFX2pzFf3negTeCbURp"
+    },
+    {
+      "added_at": "2023-03-03 09:32:07",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz"
+      },
+      "artists": [
+        {
+          "name": "J.Yen",
+          "url": "https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u"
     },
     {
       "added_at": "2023-02-28 16:50:01",

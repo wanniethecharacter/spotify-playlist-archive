@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-152 songs - 10 hr 17 min
+154 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Objecting](https://open.spotify.com/track/2VZWcp3QYWVMxj3Bn8r6dX) | [Alexander Mark](https://open.spotify.com/artist/6gah0trDTqv3p6OgjC5F0T) | [Objecting](https://open.spotify.com/album/4f07SHjOfxLqGwaq3YyCBM) | 2:48 | 2022-12-20 |  |
 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 | 2022-09-08 |  |
 | [Old Beginnings](https://open.spotify.com/track/3WqjDcsXXyTMB5TGOP0a1o) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Eyolf](https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8) | [Old Beginnings](https://open.spotify.com/album/5BKi1W9OrABRnoNptnq5Xy) | 3:09 | 2022-08-05 |  |
+| [Omega Sleep](https://open.spotify.com/track/3qMsByyqiXa4g7LlzfM8WZ) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Theta Sleep](https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ) | 2:31 | 2023-03-03 |  |
 | [Origins](https://open.spotify.com/track/3hzCjWGnOEMYXPILE79w77) | [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj) | [Origins](https://open.spotify.com/album/5jqwLg6aGv8kcVFejF3K9x) | 5:00 | 2022-08-05 |  |
 | [otsukimi \(moon viewing\)](https://open.spotify.com/track/4b2oGauzFfbbsCmsS4ehxK) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [otsukimi \(moon viewing\)](https://open.spotify.com/album/4w8BVPuYdZtKyGkQJqhlxh) | 3:21 | 2022-09-30 |  |
 | [Out of Space](https://open.spotify.com/track/06zuEMpJ8wXtgaYNMM6dvF) | [Andrew Land](https://open.spotify.com/artist/20DtfXEcnCgoWY9b35nPXk) | [Comfort in Ignorance](https://open.spotify.com/album/3JC9H1wm2xeOIf2ZkOK7LO) | 5:46 | 2022-08-05 |  |
@@ -159,6 +160,7 @@
 | [Windless](https://open.spotify.com/track/0clnYSklQm9IHIi7p7nGFQ) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Windless](https://open.spotify.com/album/3OQ8n00sKpt4BYfgcjIGla) | 2:22 | 2023-01-27 |  |
 | [Yes I](https://open.spotify.com/track/6S2QPyA5Lx2Y4wNxUT4HMd) | [Answer Code Request](https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO), [Jan Wagner](https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX) | [Yes I](https://open.spotify.com/album/4zrkxvozf8sXclGZVuGQMR) | 5:41 | 2022-08-05 |  |
 | [Yugen](https://open.spotify.com/track/7koQRxHvQ7HLK6TpxnuaSB) | [zarr.](https://open.spotify.com/artist/0X0R3ScmiUkMFxi2mE7Bys) | [cloudform](https://open.spotify.com/album/3kdr7RcqUSwrk2zGD9GwPY) | 8:18 | 2022-08-05 | 2022-12-21 |
+| [Zenith](https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Zenith](https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ) | 3:01 | 2023-03-03 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-09-08 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

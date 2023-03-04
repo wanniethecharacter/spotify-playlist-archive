@@ -1330,6 +1330,24 @@
     {
       "album": {
         "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/40GDrRCewlZHmwWK9p04vw"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299280,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/1o04WVnY1OUmFE91hHg13O"
+    },
+    {
+      "album": {
+        "name": "Chiquitita",
         "url": "https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8"
       },
       "artists": [
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 299280,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2"

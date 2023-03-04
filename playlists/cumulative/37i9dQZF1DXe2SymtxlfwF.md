@@ -4,7 +4,7 @@
 
 > Your essential Max Richter, all in one collection.
 
-147 songs - 9 hr 22 min
+149 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,8 @@
 | [These I Send to You](https://open.spotify.com/track/2RCV9GcstxHGLZ3aTLEjWL) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Testament Of Youth \(Original Soundtrack Album\)](https://open.spotify.com/album/2dEs5t9eHCmWYI1rkoMQSN) | 2:33 | 2022-04-01 |  |
 | [These I Send to You \- From "Testament of Youth"](https://open.spotify.com/track/4b7ECMonM4nTpxqWqF1yjN) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Out of the Dark Room](https://open.spotify.com/album/2fJnSsRsg4FjUvq5g2lp8V) | 2:33 | 2022-04-01 | 2022-07-29 |
 | [To the Stars \- From "Ad Astra" Soundtrack](https://open.spotify.com/track/2UcUL4jytfVpW0jSXi3Ggi) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [To The Stars \(From "Ad Astra" Soundtrack\)](https://open.spotify.com/album/3SapFtmMw8WCjCRLaABmZ1) | 3:30 | 2022-04-01 |  |
+| [Tranquility I](https://open.spotify.com/track/2g7C6cihBai7u7RGgK6qZ1) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi) | [SLEEP: Tranquility Base](https://open.spotify.com/album/47SL4kZlIzoTa3CMsT5ZNL) | 1:23 | 2023-03-03 |  |
+| [Tranquility II](https://open.spotify.com/track/3C6SnHzfIxlUFyVPK7vqJG) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi) | [SLEEP: Tranquility Base](https://open.spotify.com/album/47SL4kZlIzoTa3CMsT5ZNL) | 1:22 | 2023-03-03 |  |
 | [VI\. Orlando: Modular Astronomy](https://open.spotify.com/track/14bRPu3Iok7TpqR6xr0FCy) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Deutsches Filmorchester Babelsberg](https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Three Worlds: Music From Woolf Works](https://open.spotify.com/album/4fo551Vy3KXbbRxRlVTD9D) | 3:14 | 2022-04-01 |  |
 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 | 2022-04-01 |  |
 | [Vocal](https://open.spotify.com/track/3cppjHQ3IlFRQMvcxa8nia) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Gregson Richter Jóhannsson](https://open.spotify.com/album/7vbCaTZ82Z4Ypq0kmY0lIq) | 8:37 | 2022-04-01 |  |

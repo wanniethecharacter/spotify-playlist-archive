@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Before I Knew the Truth",
+        "url": "https://open.spotify.com/album/32xqRBF1Ol66V8Eugvpbnx"
+      },
+      "artists": [
+        {
+          "name": "Liturgy",
+          "url": "https://open.spotify.com/artist/5PIuMlRY9PSLUSFzs6lQu1"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266972,
+      "name": "Before I Knew the Truth",
+      "url": "https://open.spotify.com/track/5U4YwDPK6pK6cTsGmv9Kr4"
+    },
+    {
+      "album": {
         "name": "Pentagram",
         "url": "https://open.spotify.com/album/7nrkez4pvM9W3nrHr7xHim"
       },
@@ -1525,6 +1543,28 @@
     },
     {
       "album": {
+        "name": "Dom Andra",
+        "url": "https://open.spotify.com/album/0ozRtnZ9AjY2DwWDQTAiby"
+      },
+      "artists": [
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        },
+        {
+          "name": "Jonas Renske",
+          "url": "https://open.spotify.com/artist/2O1c4QD1ND5Qb60ImHdVpw"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Dom Andra",
+      "url": "https://open.spotify.com/track/6w0jYoUuRzyNwCp0HdagvY"
+    },
+    {
+      "album": {
         "name": "Drained of Color",
         "url": "https://open.spotify.com/album/3n92juc9UgRjeqzywQW937"
       },
@@ -1644,7 +1684,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 417214,
       "name": "Emphase der Seelenpein",
       "url": "https://open.spotify.com/track/1QZkI3uje1XvVyDKqsuJxU"
@@ -3604,7 +3644,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 355506,
       "name": "Mountain Magick",
       "url": "https://open.spotify.com/track/0BgrdFSWYIM4DiWFdaOOyX"
@@ -4735,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "She is a Fire",
+        "url": "https://open.spotify.com/album/03xxDa7rJRB4fl7ZB2B5qg"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322720,
+      "name": "She is a Fire",
+      "url": "https://open.spotify.com/track/4y1FN6vpHYUAaJVEOsgCHp"
+    },
+    {
+      "album": {
         "name": "Shrines in Cinder",
         "url": "https://open.spotify.com/album/6oreJErT6gkTrUR6WFhABi"
       },
@@ -5167,6 +5225,24 @@
     },
     {
       "album": {
+        "name": "Heimdal",
+        "url": "https://open.spotify.com/album/1gf4tdMN4aMMYEkXeUJTKG"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445106,
+      "name": "The Eternal Sea",
+      "url": "https://open.spotify.com/track/7G06HILoIIRiDDRXFo77f0"
+    },
+    {
+      "album": {
         "name": "The Fall Of Jotunheim",
         "url": "https://open.spotify.com/album/3FcSGIdAmWtIiIQkjHnvGL"
       },
@@ -5322,7 +5398,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 330586,
       "name": "The Mask of Fate",
       "url": "https://open.spotify.com/track/0oJJhVgstOvOcsLeSR6gqO"
@@ -5934,7 +6010,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 499258,
       "name": "Weltschmerz (2022)",
       "url": "https://open.spotify.com/track/0pWJVJRag6toLd3vJ643EL"

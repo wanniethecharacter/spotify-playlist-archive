@@ -1,12 +1,12 @@
 {
   "description": "ft. Frost Children",
-  "num_followers": 367984,
+  "num_followers": 368053,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc3MzE5OSwwMDAwMDAwMDlhNGZjOWEwOGJjNTllZjJkZTE5YjJmNzRkZTJlZGEy",
+  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMGU3ZGRhOTg5NTg3YTRjMTJkZDU3YTZhNDA4MzJkMDYy",
   "tracks": [
     {
       "added_at": "2023-03-02 16:06:39",
@@ -61,6 +61,166 @@
       "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
     },
     {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Heaven (feat. Tinashe)",
+        "url": "https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 138484,
+      "name": "Heaven (feat. Tinashe)",
+      "url": "https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "algae SAB3R 2",
+        "url": "https://open.spotify.com/album/5QuRFlNk3A1PhFvlVGAxil"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4mN449htHmsHZQ0uL2SdXW"
+        },
+        {
+          "name": "d0llywood1",
+          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
+        },
+        {
+          "name": "SAB3R 2",
+          "url": "https://open.spotify.com/artist/3SVJ0gzRePwuJkBhap2rEd"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "algae SAB3R 2",
+      "url": "https://open.spotify.com/track/4kNbWMa1oEKYgEQYmuI1oV"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "crush",
+        "url": "https://open.spotify.com/album/7lXKPK9lVPJWnvnfj2fKNr"
+      },
+      "artists": [
+        {
+          "name": "kmoe",
+          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
+        }
+      ],
+      "duration_ms": 150430,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/3cZV4gjyIpMeTkNV3CfBbm"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Let Her Burn",
+        "url": "https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "duration_ms": 155202,
+      "name": "Doe Eyed",
+      "url": "https://open.spotify.com/track/6Egg7lLEvmFsMFA8qAqmYw"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "every night i lose you",
+        "url": "https://open.spotify.com/album/0yuGQd9Dne3g5zniolB8Sb"
+      },
+      "artists": [
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "every night i lose you",
+      "url": "https://open.spotify.com/track/2ktUfqbz9FtFQC78DIRw9Y"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Bad To The Bone",
+        "url": "https://open.spotify.com/album/0FAdWDrHNPuA4Vf7XNR0OR"
+      },
+      "artists": [
+        {
+          "name": "Tyler Brownz",
+          "url": "https://open.spotify.com/artist/7wJieez4OH2cYnqmZgQjIo"
+        },
+        {
+          "name": "Mumble",
+          "url": "https://open.spotify.com/artist/6BZVK0SCbzkU50rTlRKFHb"
+        }
+      ],
+      "duration_ms": 176283,
+      "name": "Bad To The Bone",
+      "url": "https://open.spotify.com/track/2pHgUYL980aQwjnxvBDiIL"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "i feel like a dog",
+        "url": "https://open.spotify.com/album/0owUk0b5tnYYVcvQz6zTo5"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 85076,
+      "name": "i feel like a dog",
+      "url": "https://open.spotify.com/track/5fMzsDRT8cHtZ1R9aLiYAZ"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "rave (nc)",
+        "url": "https://open.spotify.com/album/0ALMEZvu4E26GuMykkZ2PV"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 141299,
+      "name": "joy - nc",
+      "url": "https://open.spotify.com/track/5eOhbWDviXO6clqn33sQ6s"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "LUCKY5POINT STAR",
+        "url": "https://open.spotify.com/album/1VaeT3ySnOGR7nxtkotyjV"
+      },
+      "artists": [
+        {
+          "name": "Kenta204",
+          "url": "https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC"
+        }
+      ],
+      "duration_ms": 172806,
+      "name": "5UN",
+      "url": "https://open.spotify.com/track/2exTiACpEt3O7Q324Hv1tV"
+    },
+    {
       "added_at": "2023-02-21 14:45:39",
       "album": {
         "name": "GROUNDBREAKER",
@@ -79,6 +239,22 @@
       "duration_ms": 206931,
       "name": "GROUNDBREAKER",
       "url": "https://open.spotify.com/track/2PNRSiSxpNwPvWL3RBw5sU"
+    },
+    {
+      "added_at": "2023-01-24 05:00:00",
+      "album": {
+        "name": "FLATLINE",
+        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 225883,
+      "name": "FLATLINE",
+      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -177,22 +353,6 @@
       "url": "https://open.spotify.com/track/50MNRG3QscZOkJcOApElDe"
     },
     {
-      "added_at": "2023-01-24 05:00:00",
-      "album": {
-        "name": "FLATLINE",
-        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 225883,
-      "name": "FLATLINE",
-      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "a friend",
@@ -225,22 +385,6 @@
       "url": "https://open.spotify.com/track/1GnAz3LZ3mG5j5oqhTR3ge"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "crush",
-        "url": "https://open.spotify.com/album/7lXKPK9lVPJWnvnfj2fKNr"
-      },
-      "artists": [
-        {
-          "name": "kmoe",
-          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
-        }
-      ],
-      "duration_ms": 150430,
-      "name": "crush",
-      "url": "https://open.spotify.com/track/3cZV4gjyIpMeTkNV3CfBbm"
-    },
-    {
       "added_at": "2023-02-21 16:11:42",
       "album": {
         "name": "Don\u2019t Get Too Close",
@@ -263,22 +407,6 @@
       "duration_ms": 192000,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Let Her Burn",
-        "url": "https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Black",
-          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
-        }
-      ],
-      "duration_ms": 155202,
-      "name": "Doe Eyed",
-      "url": "https://open.spotify.com/track/6Egg7lLEvmFsMFA8qAqmYw"
     },
     {
       "added_at": "2023-02-17 05:00:00",

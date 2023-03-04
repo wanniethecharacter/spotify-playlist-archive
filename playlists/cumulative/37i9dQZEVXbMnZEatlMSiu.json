@@ -6614,7 +6614,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 217906,
       "name": "\u4f60\u662f\u6211\u7684\u6b4c - \u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC"
@@ -6960,7 +6960,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 289639,
       "name": "\u53c8\u5230\u5929\u9ed1",
       "url": "https://open.spotify.com/track/2TYYKysNZDTFzrm7Mr443o"
@@ -8593,6 +8593,24 @@
     },
     {
       "album": {
+        "name": "\u5927\u563b\u54c8\u6642\u4ee32: BLOCK TO BLOCK \u5340\u57df\u5c0d\u6c7a",
+        "url": "https://open.spotify.com/album/6LFaMq5M9auGTQ2ynneItM"
+      },
+      "artists": [
+        {
+          "name": "Gummy B",
+          "url": "https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246700,
+      "name": "\u6566\u5316\u5357\u8def (Revisit)",
+      "url": "https://open.spotify.com/track/1fN2vfoCaDR1CkGsTAn6aT"
+    },
+    {
+      "album": {
         "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
       },
@@ -8860,7 +8878,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 229523,
       "name": "\u6709\u4e9b",
       "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"

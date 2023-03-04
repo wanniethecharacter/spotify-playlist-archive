@@ -4,7 +4,7 @@
 
 > 150%
 
-172 songs - 7 hr 28 min
+173 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Faster \- Sped Up](https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [A.O Ultra](https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L) | 2:26 | 2022-06-09 | 2022-07-29 |
 | [Favorite Song \- Sped Up](https://open.spotify.com/track/4YtTVZsCukz30wcv9TpXek) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song \(Versions\)](https://open.spotify.com/album/3Fo8uA7Pf9tbFEpfDoG3O8) | 2:40 | 2023-02-24 |  |
 | [Figured Out \- Sped Up Version](https://open.spotify.com/track/3Cs1Ms5CIbPckzaRujcch2) | [Kieran Ivy](https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK) | [Figured Out Imma Liar \(Sped Up Version\)](https://open.spotify.com/album/7yOL8iWPVouANjlitUuoln) | 2:14 | 2022-12-07 | 2022-12-14 |
-| [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 | 2022-06-09 |  |
+| [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 | 2022-06-09 | 2023-03-04 |
 | [Gangsta \(Kehlani\) \- Sped Up Version](https://open.spotify.com/track/4Z7ZOrHtlgn9kXw68c0pMo) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Gangsta \(Kehlani\) \[Sped Up Version\]](https://open.spotify.com/album/1L1jza2QSImCzOkQq7f5mO) | 2:12 | 2022-09-21 |  |
 | [GigaChad Theme \(Phonk House Version\) \- Sped Up](https://open.spotify.com/track/23Ax0HD24WJH0GALIsqZ8H) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\) \[Sped Up\]](https://open.spotify.com/album/6Jefxs4gSTv2abmn3TbqWK) | 2:02 | 2022-10-25 |  |
 | [Gilded Lily \- Sped Up](https://open.spotify.com/track/0M6urYKXizSJgtuipqmctu) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG) | 3:12 | 2022-11-15 |  |
@@ -147,6 +147,7 @@
 | [Something Just Like This](https://open.spotify.com/track/2uEcJWvKnu205UxlYDuDMj) | [Fly By Nightcore](https://open.spotify.com/artist/5n0h7PGhxq6dC4LCWTEcMA) | [Goes Acoustic, Vol\. 1](https://open.spotify.com/album/4cg3lHoYjTEYQbsadgOFqf) | 2:38 | 2022-06-09 | 2022-07-23 |
 | [Stay \(Speed\)](https://open.spotify.com/track/3YTyhP9JRvG5MvMVk5PJ9I) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel \(Speed\)](https://open.spotify.com/album/6dTmErMYMBPJsC6GUUqOxq) | 2:19 | 2022-11-18 | 2023-02-25 |
 | [Stolen Dance \- Speed Version](https://open.spotify.com/track/58UDGnjRXZhHeeNxZYI6c5) | [Sped\-O](https://open.spotify.com/artist/41Bwy7d6vdqhuKe0Rw5wes) | [Stolen Dance \(Speed Version\)](https://open.spotify.com/album/5BlFBLahe9vzioXLZ9KY9F) | 4:15 | 2022-08-18 |  |
+| [Stranded \- Sped Up](https://open.spotify.com/track/2kTUAhtgq8ZFacu37QbAnB) | [Keno Carter](https://open.spotify.com/artist/3njjFO9Dqt73ww33mCT8Ua), [dray tyg](https://open.spotify.com/artist/30aAOvtwTUh7fK8epTWqro) | [Stranded](https://open.spotify.com/album/2MNi9oHEvD6y25bzPvzBb9) | 2:36 | 2023-03-03 |  |
 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 | 2022-06-09 |  |
 | [Summertime Sadness \- Sped Up](https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Summertime Sadness \(Sped Up\)](https://open.spotify.com/album/29PibmV31F3q6DRVq7gzZc) | 3:17 | 2022-09-27 |  |
 | [Sun Down, I'm Up \- Sped Up & Pitched](https://open.spotify.com/track/3WFivFp3uRp79WlwPrLvd1) | [Lil Yawh](https://open.spotify.com/artist/50vMVpuLqxVjxvO84cgKRW) | [Sun Down, I'm Up \(Sped Up & Pitched\)](https://open.spotify.com/album/2aChr24y3gtWYwFk1Uou7Q) | 1:35 | 2022-07-01 |  |

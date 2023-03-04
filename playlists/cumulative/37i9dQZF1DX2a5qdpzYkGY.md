@@ -4,7 +4,7 @@
 
 > Music for Imaginary Films
 
-222 songs - 18 hr 11 min
+224 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Black Balloons Reprise \- Instrumental](https://open.spotify.com/track/7nMiAELV3eN9m0TG51tnuj) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Black Balloons Reprise \(Instrumental\)](https://open.spotify.com/album/7slw7aKrIIGL3OmybjmWbq) | 2:41 | 2021-10-06 | 2022-12-27 |
 | [Black City Skyline](https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Sunset Mission](https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO) | 5:51 | 2022-09-03 |  |
 | [Bloodflow](https://open.spotify.com/track/4ygSSIuPuM0EYu22s8YF4t) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Open](https://open.spotify.com/album/40NdyNNK6vu96QBK1y7ZCx) | 5:58 | 2021-10-06 |  |
-| [Blu](https://open.spotify.com/track/5PCbxCkhMo1ziSbfri5pNY) | [Ai!](https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ) | [Blu](https://open.spotify.com/album/5iFkm03yewpa3p32Y9TIRN) | 5:52 | 2023-03-03 |  |
+| [Blu](https://open.spotify.com/track/41FUV9kSQ7pejDHzo7XV9j) | [Ai!](https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ) | [Manuale Illusione](https://open.spotify.com/album/5mbSRdkta9YJNrE5enrRQp) | 5:52 | 2023-03-03 |  |
+| [Blu](https://open.spotify.com/track/5PCbxCkhMo1ziSbfri5pNY) | [Ai!](https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ) | [Blu](https://open.spotify.com/album/5iFkm03yewpa3p32Y9TIRN) | 5:52 | 2023-03-03 | 2023-03-04 |
 | [Boreal Forest](https://open.spotify.com/track/3rH94SljaUQd1KMqC0l25J) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Shadow Work](https://open.spotify.com/album/0D6EnTkqcbwzV5RWhxu4Rg) | 5:07 | 2021-10-06 | 2022-07-29 |
 | [Boreal Forest](https://open.spotify.com/track/6rihywZn0l3Gc3ggHrmNis) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Shadow Work](https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc) | 5:07 | 2021-10-06 |  |
 | [Brooklyn Sundown](https://open.spotify.com/track/5eDzN5CD1AtmcAppuMWrAS) | [Psycobossa](https://open.spotify.com/artist/2M9WfpBHTqPoiW84s1n33f) | [Brooklyn Sundown](https://open.spotify.com/album/3w4zTZPjIuRoSOHT8ZD8RM) | 4:07 | 2021-12-08 | 2022-07-29 |
@@ -66,6 +67,7 @@
 | [Dry Fantasy](https://open.spotify.com/track/02AKn1Y1nrsgpQmCBBgQMq) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Dry Fantasy](https://open.spotify.com/album/1De6CaWgx9LZNm6RjV2gB8) | 5:10 | 2021-10-06 | 2022-07-29 |
 | [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 | 2021-10-06 |  |
 | [Earth's Orbit](https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza) | [Adam Saunders](https://open.spotify.com/artist/26EJOdtsKzoO67yCn7kdAU), [Mark Stephen Cousins](https://open.spotify.com/artist/4Tcr21ghQ8bsvYRc41GqIF), [Mark Cousins](https://open.spotify.com/artist/532Rq5aGExIRlG4QDwOQlx) | [Docutrax, Vol\. 2: Serious Incidents](https://open.spotify.com/album/5FkAhhLYin1Ktwfc3WYHG1) | 2:32 | 2022-02-18 |  |
+| [Eidolon Pt\. 2](https://open.spotify.com/track/39fldPRgSrtGSfAf4yeo1A) | [Tetragon Project](https://open.spotify.com/artist/5lIyp3kLe5wR6gyYLujs5z) | [Oracles](https://open.spotify.com/album/6sWTa9kCbqrqjUn92dKNLB) | 2:27 | 2023-03-03 |  |
 | [El Momento](https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [El Momento](https://open.spotify.com/album/2Qx4zobEOV9BRW3wL1IbRI) | 3:19 | 2022-03-03 | 2022-07-27 |
 | [El Momento](https://open.spotify.com/track/7ixpTPiiHE0WROrLLvz9a6) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [Agua de Jamaica](https://open.spotify.com/album/0zbmk7YVrHykg3Ucj8P0QT) | 3:19 | 2022-03-03 |  |
 | [En Medio](https://open.spotify.com/track/2cB4PvkqmSASF4YfGTAOwO) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [En Medio](https://open.spotify.com/album/6e0VAj0pMV7BqLz2MAwkAt) | 5:34 | 2021-10-06 | 2022-07-29 |
@@ -224,7 +226,7 @@
 | [Wanderlust](https://open.spotify.com/track/6KNLUSRViRg5bG0E1y1feX) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Discovery](https://open.spotify.com/album/2krPbH9goFZldIUjP7WfRE) | 3:51 | 2022-01-19 |  |
 | [Way We Are](https://open.spotify.com/track/7BL0yd3SW6TgTxPV6ORWQI) | [Ben Marc](https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ) | [Glass Effect](https://open.spotify.com/album/7aGcbrgSOp6pgTC0AQ1oc6) | 3:26 | 2023-01-02 |  |
 | [West Coast Love Stories](https://open.spotify.com/track/0TVrtYj3l7QcCfxJr6Nl9T) | [Stone Giants](https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [West Coast Love Stories](https://open.spotify.com/album/5CQ333XImLCRk9FQQauHU9) | 4:05 | 2021-10-06 | 2022-07-29 |
-| [West Coast Love Stories](https://open.spotify.com/track/4VUYyfFzi7NzbT6GYP1kqh) | [Stone Giants](https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [West Coast Love Stories](https://open.spotify.com/album/3Cbt36aq6cwrNCggqrRdw4) | 4:05 | 2021-10-06 |  |
+| [West Coast Love Stories](https://open.spotify.com/track/4VUYyfFzi7NzbT6GYP1kqh) | [Stone Giants](https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [West Coast Love Stories](https://open.spotify.com/album/3Cbt36aq6cwrNCggqrRdw4) | 4:05 | 2021-10-06 | 2023-03-04 |
 | [Who Is Still Dreaming?](https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z) | [June11](https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4) | [11000 Dreams](https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8) | 3:32 | 2021-10-06 |  |
 | [Wing Rowing \(K08\)](https://open.spotify.com/track/5yhu9EH05oY5M3wxmqDwwa) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Nictitating Membrane \(GC164\) / Wing Rowing \(K08\)](https://open.spotify.com/album/4Kkw0udedWQQjDK12GZEBz) | 2:30 | 2022-01-13 |  |
 | [YOGA IN KARACHI](https://open.spotify.com/track/1zyTxC7CrrT39YSg6bCZET) | [C.A.R.](https://open.spotify.com/artist/4twUXuOT8MWkh7u53TX0si) | [Befunde ab 1999](https://open.spotify.com/album/7a4Kf2VYhvrby4IcTzJMnq) | 8:47 | 2021-10-06 |  |

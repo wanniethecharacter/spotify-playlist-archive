@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Adeem the Artist
 
-148 songs - 9 hr 19 min
+150 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Departures](https://open.spotify.com/track/3waMUJe2almPXjftYmzOFX) | [Grace Petrie](https://open.spotify.com/artist/4bFdVUzXSr2unwjEoOe5dY) | [Queer As Folk](https://open.spotify.com/album/0NAkb64BiT1AGPy6pcS4n1) | 5:39 | 2021-06-01 | 2022-07-29 |
 | [Don't Die in Me](https://open.spotify.com/track/0XQbRdBTT3fQfBr9we2b5N) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [C'mon Miracle](https://open.spotify.com/album/78f7dEVdMqJq0KTNiwqS8k) | 3:48 | 2022-06-10 |  |
 | [Don't Die In Me](https://open.spotify.com/track/3Y674nWz029sfAgKfDSlas) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [C'mon Miracle](https://open.spotify.com/album/0Fc0lUEKhhNCXL2l79u0Kn) | 3:48 | 2021-06-01 | 2022-07-29 |
+| [Emily I'm Sorry](https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:34 | 2023-03-03 |  |
 | [Everybody Loves You](https://open.spotify.com/track/0VoXWFiouDUJ7Jl3iTzY88) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/3D4R2K9WvgchXUkefusOrC) | 3:19 | 2021-06-01 | 2022-07-29 |
 | [Everybody Loves You](https://open.spotify.com/track/3f6rsRGCaABn7i8S8N8zmc) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:19 | 2022-06-10 |  |
 | [Everybody Loves You](https://open.spotify.com/track/4YooFgsSf5epSALkj4Vh4g) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Everybody Loves You](https://open.spotify.com/album/6za8YcKrkHjQmY5FYzWufu) | 3:19 | 2022-06-10 | 2022-11-13 |
@@ -87,6 +88,7 @@
 | [If I Needed You](https://open.spotify.com/track/19UnjVM3yy6jVwhXMfZrNQ) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [If I Needed You](https://open.spotify.com/album/5UU4iaSP17e2iINYZdJkc0) | 5:05 | 2021-06-01 |  |
 | [Illuminate the Dark](https://open.spotify.com/track/2hgw4ZGGLwObz7a89jnyhZ) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh) | [Wait](https://open.spotify.com/album/5BqkJ6970fStH2JCAzKcnf) | 2:43 | 2021-06-01 |  |
 | [ISO](https://open.spotify.com/track/6YbAmiTbikKbmZzwXD2gKv) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [ISO](https://open.spotify.com/album/35risx3TZt5VkWNTDQcJ6f) | 3:39 | 2022-06-01 |  |
+| [jacob killed a cat](https://open.spotify.com/track/6zeh80HoOJpRKDcfhhRYlr) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [jacob killed a cat](https://open.spotify.com/album/0zhwDb15nhqUpVYAZ7nRCV) | 2:45 | 2023-03-03 |  |
 | [Just A Woman](https://open.spotify.com/track/6CwZv215C5uYwW277JsrLu) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Just A Woman](https://open.spotify.com/album/5qPSuH0qcPnDv2q7HfDM5I) | 4:16 | 2021-06-01 |  |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-06-01 |  |
 | [letters to the hospital](https://open.spotify.com/track/22Pipp3pEZF2mRv5UHerSd) | [Mae Krell](https://open.spotify.com/artist/5OJHIYwDJ1TfeaFLYMSqqe) | [anabasis](https://open.spotify.com/album/4jK4azaPNIe9YHSsFxVU0C) | 3:23 | 2022-06-10 |  |

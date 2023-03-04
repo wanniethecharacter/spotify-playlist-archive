@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Chelsea Grin
 
-445 songs - 1 day 5 hr 3 min
+446 songs - 1 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/track/35onQjC0Rb2BISF0xkJCMW) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Jamie Hails](https://open.spotify.com/artist/2cRrZw0UD5vsnwoPVkV8Ip) | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/album/1or1Y8UCe75sabzYynWIn0) | 4:03 | 2021-12-17 | 2022-07-28 |
 | [Dreaming Desecration](https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Absolvere](https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx) | 3:41 | 2021-12-17 |  |
 | [Drone Corpse Aviator](https://open.spotify.com/track/0dV79XvxIl9godBsFty67L) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Drone Corpse Aviator](https://open.spotify.com/album/01yB2i7kzFVpD8naiAfUSs) | 3:46 | 2021-12-17 |  |
-| [Duplicity](https://open.spotify.com/track/7jCWxQD5R7GrBahD2yJ7zc) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Duplicity](https://open.spotify.com/album/6voOWo8kjuuet5zCiM2ing) | 5:10 | 2021-12-17 |  |
+| [Duplicity](https://open.spotify.com/track/7jCWxQD5R7GrBahD2yJ7zc) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Duplicity](https://open.spotify.com/album/6voOWo8kjuuet5zCiM2ing) | 5:10 | 2021-12-17 | 2023-03-04 |
 | [Dying Life](https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Dying Life](https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX) | 3:20 | 2023-02-10 |  |
 | [Dynasty](https://open.spotify.com/track/2th7mWLxZNhBqfa0IHC6b3) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Dynasty](https://open.spotify.com/album/7atT7sF2atM7kc7yR1krit) | 4:26 | 2023-02-10 |  |
 | [Earthen](https://open.spotify.com/track/7sWv4EF2ie6uNrTX46OpyB) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Earthen](https://open.spotify.com/album/4kdpjgLqZy9VPx47WzZKjx) | 5:24 | 2023-01-20 |  |
@@ -174,6 +174,7 @@
 | [Fire Ignites](https://open.spotify.com/track/4JltaBp7RZYoDeNYQGbyiM) | [Atrocity](https://open.spotify.com/artist/050NpEYZ5xFUS1BOAZjVmX) | [OKKULT III](https://open.spotify.com/album/0P9FUacYwUhFVLWE9MFZZy) | 3:54 | 2023-01-20 |  |
 | [Firefall](https://open.spotify.com/track/2f4aSKn9ySvsSLjLsN40ld) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Valley of Kings](https://open.spotify.com/album/4bF6NQceCqwHKlC6YQSYOh) | 3:25 | 2021-12-17 | 2022-06-17 |
 | [Fixated](https://open.spotify.com/track/6dDHGI6P576FaxA3K2PCIE) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Kamiyada+](https://open.spotify.com/artist/196POyHtFLfdBeDKSfjKzR) | [Fixated](https://open.spotify.com/album/3pUQbAVwZskngdbQEUN8o4) | 3:27 | 2022-01-07 | 2022-07-27 |
+| [Fixated](https://open.spotify.com/track/78joxQg417lVT1oCIt1McL) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [Fixated](https://open.spotify.com/album/2iTJ8OB8veq2hm2p6Z32Tn) | 3:27 | 2023-02-24 |  |
 | [Fixation on Strife and Strangulation](https://open.spotify.com/track/3DYWlZZUPTbcPjtkI5rCTF) | [Disfiguring The Goddess](https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv) | [Fixation on Strife and Strangulation](https://open.spotify.com/album/39LjhkHcvfeKrmkkWYt630) | 2:31 | 2022-12-12 | 2023-02-08 |
 | [For Whom the Banshee Cries](https://open.spotify.com/track/2wwbK9hDUHFaZO13XG5N5n) | [Sold Soul](https://open.spotify.com/artist/2X2KBI2OrNMci6TDQAXCA6), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [I Hope We Make It Out of This Alive](https://open.spotify.com/album/46V8n8Ws2mYTRFqVXc7IMx) | 6:24 | 2023-01-06 |  |
 | [For Whom the Banshee Cries](https://open.spotify.com/track/3JYvX4mZunGih0vQupHdX3) | [Sold Soul](https://open.spotify.com/artist/2X2KBI2OrNMci6TDQAXCA6), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [For Whom the Banshee Cries](https://open.spotify.com/album/1ADZJmflFSYHCTznoAjZH5) | 6:24 | 2021-12-17 | 2022-07-29 |
@@ -238,7 +239,7 @@
 | [Kimo](https://open.spotify.com/track/0XAmWqbFLmNrPMm5jGMcEl) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer Part.1](https://open.spotify.com/album/1zA1qb5KNiYj6HI7X7DfwG) | 3:40 | 2022-12-02 |  |
 | [Kimo](https://open.spotify.com/track/3FrBC04W6GQsQQgeYn3ieH) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer Part.1](https://open.spotify.com/album/6ZfD7O9CcoRP9xP0ICdgTA) | 3:40 | 2021-12-17 | 2022-11-20 |
 | [King of the Rats](https://open.spotify.com/track/0FeY1KxlBQhALD6L6IaDog) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [King of the Rats](https://open.spotify.com/album/2BSdHM1FO3JJw97CWIS77P) | 2:53 | 2021-12-17 |  |
-| [King Ov Fire](https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk) | [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9) | [A Hill to Die Upon](https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m) | 3:49 | 2021-12-17 | 2022-11-30 |
+| [King Ov Fire](https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk) | [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9) | [A Hill to Die Upon](https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m) | 3:49 | 2021-12-17 |  |
 | [Lamb to the Slaughter](https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Lamb to the Slaughter](https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n) | 3:50 | 2021-12-17 | 2022-07-25 |
 | [Legends Never Die](https://open.spotify.com/track/7pvj0VmFmVN7vHA1b0Zc1V) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Legends Never Die](https://open.spotify.com/album/0MA84UyLUN8K07GhqAh0G0) | 4:29 | 2021-12-17 | 2022-07-29 |
 | [Lifeblood](https://open.spotify.com/track/7FEWI4TMXlzNIqvREwIhHd) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Lifeblood](https://open.spotify.com/album/0HKMrwsbf7v7IHHXhSHylS) | 4:17 | 2021-12-17 | 2022-12-13 |
@@ -392,7 +393,7 @@
 | [The Ocean Breather](https://open.spotify.com/track/7zTWCx4lZeoNkrOwK9moDf) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [The Celestials](https://open.spotify.com/album/19QXSfhvCZ4QxAJBSwSjZm) | 5:08 | 2021-12-31 | 2022-07-13 |
 | [The Offering](https://open.spotify.com/track/7GFn2lantoamiDeQXir7Oy) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [The Offering](https://open.spotify.com/album/10rCu3ngUJo4967zPEepKz) | 3:59 | 2021-12-17 | 2022-07-29 |
 | [The Orphan](https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [The Orphan](https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62) | 6:23 | 2022-03-11 |  |
-| [The Price of Grace](https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Price of Grace](https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd) | 4:07 | 2021-12-17 |  |
+| [The Price of Grace](https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Price of Grace](https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd) | 4:07 | 2021-12-17 | 2023-03-04 |
 | [The Rot Within](https://open.spotify.com/track/0XYHZHX4evrMEPNzHnaZHF) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL), [Alex Teyen](https://open.spotify.com/artist/6BOFplMWu1WytZSucgGHVf) | [The Rot Within](https://open.spotify.com/album/1Fb70yxP3v8xGugOWiU38A) | 5:08 | 2021-12-17 | 2022-07-29 |
 | [The Sabbath](https://open.spotify.com/track/7HL0huoU88eTvZppMElAD6) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Sabbath](https://open.spotify.com/album/1ofDlelW6YGKcFO7A9qSsF) | 4:26 | 2021-12-31 | 2022-07-28 |
 | [The Sea of Tragic Beasts](https://open.spotify.com/track/38CoewUWWrkI3LUnA6IvdY) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [The Sea of Tragic Beasts](https://open.spotify.com/album/7gHcRen2sOUKx2POnezfLT) | 4:24 | 2021-12-17 | 2022-07-29 |

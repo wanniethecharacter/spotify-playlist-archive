@@ -1894,10 +1894,28 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 376156,
       "name": "Vision",
       "url": "https://open.spotify.com/track/33HsRyPb6OjF3pdEfkQl8u"
+    },
+    {
+      "album": {
+        "name": "Vision EP",
+        "url": "https://open.spotify.com/album/0DypNHO3mp0ojDyurBjVuf"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376156,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/6JeCtcqicYmR2UYoetPldA"
     },
     {
       "album": {

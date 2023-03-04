@@ -546,7 +546,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 174698,
       "name": "Brillo En El Mar",
       "url": "https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ"
@@ -1576,6 +1576,24 @@
       "duration_ms": 192000,
       "name": "N70 Highway",
       "url": "https://open.spotify.com/track/2YTUV4dWw82qMXpwKaKY05"
+    },
+    {
+      "album": {
+        "name": "Najwa",
+        "url": "https://open.spotify.com/album/0yFoH1OOoU1FNV3qmto91u"
+      },
+      "artists": [
+        {
+          "name": "Le Palade",
+          "url": "https://open.spotify.com/artist/5jP3W8hxwSZ0VsyQ3jiMbu"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173301,
+      "name": "Najwa",
+      "url": "https://open.spotify.com/track/70NPUSdBzHpn8XK3Me2Ib4"
     },
     {
       "album": {

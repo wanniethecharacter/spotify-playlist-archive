@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > acabou o carnaval,,,,,,vc ja chorou hje? <3 hidrate\-se
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,818 likes - 72 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,543 likes - 72 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of today's funk. Cover: MonoNeon",
+  "description": "The best of today's funk. Cover: Adi Oasis",
   "name": "Nu-Funk",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 243808,
       "name": "AA Side Single",
       "url": "https://open.spotify.com/track/3UmA9fMJcr6H8gJSKneZ1U"
+    },
+    {
+      "album": {
+        "name": "Aboutchu",
+        "url": "https://open.spotify.com/album/1yJH7iGpEeE2F5QxBTYo4s"
+      },
+      "artists": [
+        {
+          "name": "Wake the Wild",
+          "url": "https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172384,
+      "name": "Aboutchu",
+      "url": "https://open.spotify.com/track/7bttLEX8382hapywl6M2JJ"
     },
     {
       "album": {
@@ -530,7 +548,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 174300,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/0ucPJRg36w8HDRwi1GzYlQ"
@@ -2371,6 +2389,28 @@
     },
     {
       "album": {
+        "name": "How Dare You",
+        "url": "https://open.spotify.com/album/2mSX1XzNTijOu8oYk1f4Kf"
+      },
+      "artists": [
+        {
+          "name": "Michael Minelli",
+          "url": "https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL"
+        },
+        {
+          "name": "Oswin Benjamin",
+          "url": "https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202570,
+      "name": "How Dare You",
+      "url": "https://open.spotify.com/track/1Pe0OdQh4BNCrO3LLfRERx"
+    },
+    {
+      "album": {
         "name": "How Happy",
         "url": "https://open.spotify.com/album/4Dzbfu5IH9G5I0CpqZVutY"
       },
@@ -2982,7 +3022,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 268233,
       "name": "Lazy Days",
       "url": "https://open.spotify.com/track/5D01593yrUBdq1wUP2RStq"
@@ -3206,7 +3246,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 182197,
       "name": "made of",
       "url": "https://open.spotify.com/track/1TCb7N0GiCWBlYaV0veZ1X"
@@ -3369,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "Medal",
+        "url": "https://open.spotify.com/album/55FViyWmX5GZuJL8HmrIDE"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196664,
+      "name": "Medal",
+      "url": "https://open.spotify.com/track/32aHFEYSwrNaAjqrKNhHm9"
+    },
+    {
+      "album": {
         "name": "Misbehavin",
         "url": "https://open.spotify.com/album/3E6enR1PQzg6wQjFEioHKS"
       },
@@ -3460,7 +3518,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 259174,
       "name": "Movin' Nowhere",
       "url": "https://open.spotify.com/track/4XyL6Cadk1bBXWREirnS73"
@@ -3538,6 +3596,28 @@
       "duration_ms": 174272,
       "name": "M\u00e9lange",
       "url": "https://open.spotify.com/track/3KSJHjEiC5G0xcYEGr9oLU"
+    },
+    {
+      "album": {
+        "name": "Naked (Feat. Leven Kali)",
+        "url": "https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184385,
+      "name": "Naked - Feat. Leven Kali",
+      "url": "https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU"
     },
     {
       "album": {

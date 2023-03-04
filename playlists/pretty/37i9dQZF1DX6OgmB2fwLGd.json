@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to the internet. Cover: Ken Carson",
-  "num_followers": 1307732,
+  "num_followers": 1308587,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY5MjMxOCwwMDAwMDAwMGJkZTJjODYwMjdmNTEzZTdhODBhYzhmYzA1MjMwMWRm",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMGU4MWU1MDdhZWNkY2E1MDk4NjkyMmVhZjA3NTU1ZjQw",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -45,10 +45,10 @@
       "url": "https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn"
     },
     {
-      "added_at": "2023-01-06 16:07:46",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "NS+ (ULTRA)",
-        "url": "https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1"
+        "name": "if looks could kill",
+        "url": "https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E"
       },
       "artists": [
         {
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 144000,
-      "name": "NEVEREVER",
-      "url": "https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ"
+      "duration_ms": 194213,
+      "name": "if looks could kill",
+      "url": "https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -93,28 +93,24 @@
       "url": "https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Tru Tru",
-        "url": "https://open.spotify.com/album/3dxKl7mGJbsjhpHoiFl2ha"
+        "name": "Gift Of The Ghetto",
+        "url": "https://open.spotify.com/album/3lr8MX7RXraKBsQjxxEDBc"
       },
       "artists": [
         {
-          "name": "MVW",
-          "url": "https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq"
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
         },
         {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
-        },
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
         }
       ],
-      "duration_ms": 167466,
-      "name": "Tru Tru",
-      "url": "https://open.spotify.com/track/5INKRQu8tEdsrogxlFpHUW"
+      "duration_ms": 170666,
+      "name": "Chedda Cheese (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/05a0oCC4u0uIwtHf2xgYGM"
     },
     {
       "added_at": "2023-01-25 05:00:00",
@@ -161,6 +157,74 @@
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
+      "added_at": "2023-02-09 20:50:09",
+      "album": {
+        "name": "Let U Go",
+        "url": "https://open.spotify.com/album/4WzPhDgw6vO5Jq0m9VmN72"
+      },
+      "artists": [
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        }
+      ],
+      "duration_ms": 128004,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/29pUhY4WylF02TuUiPUYYV"
+    },
+    {
+      "added_at": "2023-01-06 16:07:46",
+      "album": {
+        "name": "NS+ (ULTRA)",
+        "url": "https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "NEVEREVER",
+      "url": "https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Trapping & Finessing",
+        "url": "https://open.spotify.com/album/3Z0aq4NH3sfrAMURV9pv41"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "duration_ms": 148333,
+      "name": "Trapping & Finessing (LOVE Song)",
+      "url": "https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb"
+    },
+    {
+      "added_at": "2023-02-16 19:58:57",
+      "album": {
+        "name": "She\u2019s A 10 But\u2026 (Remix) (feat. Yung Gravy)",
+        "url": "https://open.spotify.com/album/2u8rAuKa6ExX03BLWWkN77"
+      },
+      "artists": [
+        {
+          "name": "ARTAN",
+          "url": "https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2"
+        },
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        }
+      ],
+      "duration_ms": 169005,
+      "name": "She\u2019s A 10 But\u2026 (Remix) (feat. Yung Gravy)",
+      "url": "https://open.spotify.com/track/0aywJ1yyg6OzgFCxrrUd7R"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "friday",
@@ -183,42 +247,6 @@
       "duration_ms": 145321,
       "name": "friday",
       "url": "https://open.spotify.com/track/0pk6N8dYtK9R4O2k5aazfl"
-    },
-    {
-      "added_at": "2023-02-09 20:50:09",
-      "album": {
-        "name": "Let U Go",
-        "url": "https://open.spotify.com/album/4WzPhDgw6vO5Jq0m9VmN72"
-      },
-      "artists": [
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        }
-      ],
-      "duration_ms": 128004,
-      "name": "Let U Go",
-      "url": "https://open.spotify.com/track/29pUhY4WylF02TuUiPUYYV"
-    },
-    {
-      "added_at": "2023-02-16 19:58:57",
-      "album": {
-        "name": "She\u2019s A 10 But\u2026 (Remix) (feat. Yung Gravy)",
-        "url": "https://open.spotify.com/album/2u8rAuKa6ExX03BLWWkN77"
-      },
-      "artists": [
-        {
-          "name": "ARTAN",
-          "url": "https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2"
-        },
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        }
-      ],
-      "duration_ms": 169005,
-      "name": "She\u2019s A 10 But\u2026 (Remix) (feat. Yung Gravy)",
-      "url": "https://open.spotify.com/track/0aywJ1yyg6OzgFCxrrUd7R"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -251,6 +279,30 @@
       "duration_ms": 122070,
       "name": "PAINTING PICTURES",
       "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Tru Tru",
+        "url": "https://open.spotify.com/album/3dxKl7mGJbsjhpHoiFl2ha"
+      },
+      "artists": [
+        {
+          "name": "MVW",
+          "url": "https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        },
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Tru Tru",
+      "url": "https://open.spotify.com/track/5INKRQu8tEdsrogxlFpHUW"
     },
     {
       "added_at": "2023-02-09 20:50:09",
@@ -412,7 +464,7 @@
       "added_at": "2023-01-25 05:00:00",
       "album": {
         "name": "Dead n Gone",
-        "url": "https://open.spotify.com/album/5Q1bwM4rEj20fEopBAPHnO"
+        "url": "https://open.spotify.com/album/7wfrRI6BAK3b973nWm8mza"
       },
       "artists": [
         {
@@ -420,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
         }
       ],
-      "duration_ms": 66800,
+      "duration_ms": 66803,
       "name": "Dead n Gone",
-      "url": "https://open.spotify.com/track/5rEqeIxzDXk4RkObeimYvP"
+      "url": "https://open.spotify.com/track/2vyAxGW8KhJV1C4rGRCwco"
     },
     {
       "added_at": "2022-10-18 15:56:06",

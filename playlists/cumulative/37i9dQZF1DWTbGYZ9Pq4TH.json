@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Le tracce italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
+  "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
   "name": "Amore Davvero",
   "tracks": [
     {
@@ -2127,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "Il giorno dopo (Gli Indimenticabili)",
+        "url": "https://open.spotify.com/album/2n9uS88r6JmABiCy4CbhBM"
+      },
+      "artists": [
+        {
+          "name": "Mia Martini",
+          "url": "https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283893,
+      "name": "Minuetto",
+      "url": "https://open.spotify.com/track/5DPp64xvym2n9tHE8nuhn7"
+    },
+    {
+      "album": {
         "name": "Il Giorno Dopo",
         "url": "https://open.spotify.com/album/3RULCQndss1A5Ix2NAlV8M"
       },
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 220640,
       "name": "Rimmel",
       "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"

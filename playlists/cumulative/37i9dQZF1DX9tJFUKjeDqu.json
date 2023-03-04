@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4"
+      },
+      "artists": [
+        {
+          "name": "Gary O'Slide",
+          "url": "https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281051,
+      "name": "Authentic",
+      "url": "https://open.spotify.com/track/3IIlAtayl38lQmDvuZfUAf"
+    },
+    {
+      "album": {
         "name": "Baton Rouge",
         "url": "https://open.spotify.com/album/4r1Fb5TSgtvWCazZDH5RJ5"
       },
@@ -1266,6 +1284,24 @@
       "duration_ms": 200844,
       "name": "Mud Island Morning",
       "url": "https://open.spotify.com/track/7dugh1bNpR9FLOQd341YNX"
+    },
+    {
+      "album": {
+        "name": "Nowhere But Here",
+        "url": "https://open.spotify.com/album/4jt8PTQTPQapkQJvKGrd4p"
+      },
+      "artists": [
+        {
+          "name": "Andie Wiess",
+          "url": "https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134279,
+      "name": "Nowhere But Here",
+      "url": "https://open.spotify.com/track/1uPUxTTro7aqDlURkwJoUr"
     },
     {
       "album": {

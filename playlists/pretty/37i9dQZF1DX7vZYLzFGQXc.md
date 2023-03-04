@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: V1VA\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,891 likes - 93 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,913 likes - 93 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Feel It So Close \(Feat\. VEKOEL\)](https://open.spotify.com/track/5ViNfkZnAbHKUv1uD7aCJ2) | [V1VA](https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR), [VEKOEL](https://open.spotify.com/artist/6c1sIisEY5HNqkjgEhgbEo) | [I Feel It So Close](https://open.spotify.com/album/34w34asHyQFbCZJqyD492S) | 2:18 |
 | 2 | [BEAM!](https://open.spotify.com/track/546uVfZ5cAMFLL0VbGUXyO) | [Lil 9ap](https://open.spotify.com/artist/6CC0Rj30WieBrLs5fmlSrK), [nowimyoung](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [SUDO](https://open.spotify.com/artist/0KLEGOxFdkllQF972DAiPU) | [NEON LIVES MATTER](https://open.spotify.com/album/1yD0vG1K56xHsvP8RB1LS1) | 2:04 |
-| 3 | [Smiling on Me](https://open.spotify.com/track/3plUEgQCKHrtXtRtMQEw7q) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [Smiling on Me](https://open.spotify.com/album/4zbxWvknULXmGHQauvHcOb) | 3:04 |
+| 3 | [Smiling on Me \(Feat\. JOHNY KWONY\)](https://open.spotify.com/track/3plUEgQCKHrtXtRtMQEw7q) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [조니 쿼니](https://open.spotify.com/artist/3DRlzrjFxT9zWaWI9RzQwx) | [Smiling on Me](https://open.spotify.com/album/4zbxWvknULXmGHQauvHcOb) | 3:04 |
 | 4 | [DELUSION](https://open.spotify.com/track/1fSXNII3Ur5HGz4zvLU8ph) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [DELUSION](https://open.spotify.com/album/4mifQdIzSkbqI8A2DDQCKm) | 2:58 |
 | 5 | [poom \(Prod\. Wavytrbl\)](https://open.spotify.com/track/74pBCEdk4G9K4Zo8HX2LZY) | [HVLF](https://open.spotify.com/artist/6X71eoORQsL541Tf2E2K8c) | [poom](https://open.spotify.com/album/476YXjCjyfEZrMjhQSnE6Y) | 3:33 |
 | 6 | [잠꼬대 아닌 잠꼬대 sleeptalking not sleeptalking](https://open.spotify.com/track/4jwNJ803R1AEytX1p7VFhU) | [zzzaam](https://open.spotify.com/artist/7iRoIMoHaSyQBKMJT9RDrP) | [잠꼬대 아닌 잠꼬대 sleeptalking not sleeptalking](https://open.spotify.com/album/35M4N9qSdI0OUl0ce9D12x) | 7:17 |

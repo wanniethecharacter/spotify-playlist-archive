@@ -8292,7 +8292,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175264,
-      "name": "AVALABU",
+      "name": "AVAILABU",
       "url": "https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ"
     },
     {
@@ -11514,6 +11514,28 @@
     {
       "album": {
         "name": "Bel Mercy (El Jefe)",
+        "url": "https://open.spotify.com/album/326nCfRJ9TptcxiBn8cx0q"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170078,
+      "name": "Bel Mercy (El Jefe)",
+      "url": "https://open.spotify.com/track/1U5vRpy8n7K1rq2e3HOBA0"
+    },
+    {
+      "album": {
+        "name": "Bel Mercy (El Jefe)",
         "url": "https://open.spotify.com/album/3XJLb8H3lY3NU31cDKEVlU"
       },
       "artists": [
@@ -11528,7 +11550,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 170078,
       "name": "Bel Mercy (El Jefe)",
       "url": "https://open.spotify.com/track/5ug7BcjqIxtaIUQ5LJVYrg"
@@ -50807,7 +50829,7 @@
         },
         {
           "name": "York",
-          "url": "https://open.spotify.com/artist/4UhIysPLETHhmrZpz67YXa"
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
         }
       ],
       "date_added": "2023-03-02",
@@ -63453,7 +63475,7 @@
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 119955,
+      "duration_ms": 117892,
       "name": "ketamine",
       "url": "https://open.spotify.com/track/5PHtOfB7Qj00abJtQU7HL4"
     },
@@ -86695,6 +86717,28 @@
     },
     {
       "album": {
+        "name": "on the street (with J. Cole)",
+        "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214701,
+      "name": "on the street (with J. Cole)",
+      "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
+    },
+    {
+      "album": {
         "name": "On Wat U On (with GloRilla)",
         "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
       },
@@ -95300,6 +95344,24 @@
       "duration_ms": 230330,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/4QyBbUV4tFFUluFvcQ1xND"
+    },
+    {
+      "album": {
+        "name": "Red Ruby Da Sleeze",
+        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
     },
     {
       "album": {

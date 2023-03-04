@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-172 songs - 9 hr 50 min
+173 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Don't Forget My Love \- slowed + reverb](https://open.spotify.com/track/3C2o6Iw5yLpe6HViGP9OYX) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love \(slowed + reverb\)](https://open.spotify.com/album/3RwnUNG3BffFA0ocBpPhBo) | 3:43 | 2022-06-07 | 2022-08-07 |
 | [Dream Girl \- Slowed + Reverb](https://open.spotify.com/track/3YLKkHR4fISvRe1N34l6EJ) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Dream Girl \(Slowed + Reverb\)](https://open.spotify.com/album/2NlFPxPuRjjLrxAPDvFAiT) | 3:11 | 2021-10-01 |  |
 | [drowning \(slowed + reverb\)](https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning \(remixes\)](https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd) | 2:12 | 2023-01-12 |  |
+| [drowning \- Isma Mix](https://open.spotify.com/track/2YKyUpP9lNlWQQSsxep1lj) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k), [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3) | [drowning](https://open.spotify.com/album/4RIdbEZCQyK0aPh2YTbJIX) | 2:25 | 2023-02-28 |  |
 | [Ease Off \- Slowed & Reverbed](https://open.spotify.com/track/7yy3QgAa5unQuY2Ulpznbi) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [Ease Off \(Slowed & Reverbed\)](https://open.spotify.com/album/3NduNanzkjGZgLQE6FUzD9) | 2:41 | 2021-10-01 |  |
 | [Easy On Me](https://open.spotify.com/track/2VQa5cBJCYWrmqZYg17ii3) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Easy On Me](https://open.spotify.com/album/2WjTieDvN4poKvJMyQcAP5) | 3:12 | 2022-01-28 | 2022-06-01 |
 | [edibles \- slowed + reverb](https://open.spotify.com/track/6vcmX4oqF5CbEASUq7pnOc) | [reptilelegit](https://open.spotify.com/artist/3eEJnQZUZcQDjJLkBiqQMd) | [edibles \(slowed + reverb\)](https://open.spotify.com/album/7afDTNgtfVUFiKG3d0SSys) | 2:33 | 2021-10-01 | 2022-07-04 |
@@ -171,7 +172,7 @@
 | [Vision \- Slowed](https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh) | 4:59 | 2022-12-09 |  |
 | [Vision \- Slowed](https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr) | 4:59 | 2021-10-01 | 2022-12-11 |
 | [we can try](https://open.spotify.com/track/0ruflkkraifzGTJoI13c9D) | [Zaini](https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH) | [we can try](https://open.spotify.com/album/2jW1ORaVudLRfMqhBouNFj) | 3:04 | 2022-05-20 | 2022-06-01 |
-| [Wet \(She Got That…\) \- Slowed & Reverbed](https://open.spotify.com/track/565l0WZhDjZbCPPP1w4gD1) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [DJ Slow Verb](https://open.spotify.com/artist/2PAzPJOeGQrKmqDHH4Te5s) | [Wet \(She Got That…\) \[Slowed & Reverbed\]](https://open.spotify.com/album/0ZHgUZ8A92ie2Bd5dxEbNP) | 3:49 | 2021-10-01 |  |
+| [Wet \(She Got That…\) \- Slowed & Reverbed](https://open.spotify.com/track/565l0WZhDjZbCPPP1w4gD1) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [DJ Slow Verb](https://open.spotify.com/artist/2PAzPJOeGQrKmqDHH4Te5s) | [Wet \(She Got That…\) \[Slowed & Reverbed\]](https://open.spotify.com/album/0ZHgUZ8A92ie2Bd5dxEbNP) | 3:49 | 2021-10-01 | 2023-03-04 |
 | [Whatta Man \- Slowed + Reverb](https://open.spotify.com/track/2S2FCL79w1rT1k8e1xOpyh) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Paul Leigh Paige](https://open.spotify.com/artist/0fxiEm0sTs3Itu0IW6Y44z) | [Whatta Man \(The Remixes\)](https://open.spotify.com/album/5Ly6l6Hv9tpSik7XwCJDag) | 5:29 | 2021-10-01 | 2022-04-20 |
 | [when i was your man \- slowed + reverb](https://open.spotify.com/track/0tEfc9KsxNAQ05pWKcZTuF) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [when i was your man \- slowed + reverb](https://open.spotify.com/album/0zzLMtczgpbOogCitwGzMu) | 2:26 | 2022-04-01 | 2022-06-01 |
 | [Where's My Love \- Slowed](https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Slowed\)](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 4:49 | 2022-11-11 |  |

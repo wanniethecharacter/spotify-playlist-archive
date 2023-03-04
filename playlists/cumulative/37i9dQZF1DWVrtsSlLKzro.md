@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-265 songs - 16 hr 2 min
+267 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Can't Help Myself](https://open.spotify.com/track/13VPw7TPwIGXvQOY7CVeds) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [For You](https://open.spotify.com/album/7rcgjzm6DOL7GiHws7Gmb3) | 4:40 | 2021-12-03 | 2022-07-29 |
 | [Can't Help Myself](https://open.spotify.com/track/5j1Hz9qgKAYdMSlD592Vks) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [For You](https://open.spotify.com/album/5H6qeMqv8UxMxvBTHzZ7Hc) | 4:40 | 2022-09-30 |  |
 | [Can't Help Myself](https://open.spotify.com/track/64UQKc7huxeIY227ELVYMp) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [For You](https://open.spotify.com/album/5PfEtYfR13izbJCJZe3pj0) | 4:40 | 2022-07-15 | 2022-10-14 |
+| [Can’t Do Both \(with Clara Mae\)](https://open.spotify.com/track/51Msclnf6boUX26DmZvViX) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Can’t Do Both \(with Clara Mae\)](https://open.spotify.com/album/3eLwA43vI5bh00YocrNWPU) | 2:57 | 2023-03-03 |  |
 | [Chemicals](https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71) | 3:12 | 2021-12-03 | 2022-07-29 |
 | [Chemicals](https://open.spotify.com/track/3MhzrKptQyWZCIQC4yZNu3) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1dXqbK8UQuIjX1BjDIUgkt) | 3:12 | 2022-07-15 |  |
 | [Chemicals](https://open.spotify.com/track/4pQcd3hi4TLoebQ4BeFBWa) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals \(VNSSA Remix\)](https://open.spotify.com/album/46FfOOBpEtPbuTbKRGx8Ra) | 3:12 | 2022-10-28 | 2022-11-14 |
@@ -175,6 +176,7 @@
 | [Messin' Me Up \(feat\. EVAN GIIA\)](https://open.spotify.com/track/00ls7PYMtiyuqnrji9yKta) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Messin' Me Up \(feat\. EVAN GIIA\)](https://open.spotify.com/album/4mFMa4VmNqExwNQ54L1XTS) | 3:01 | 2021-12-03 | 2022-07-29 |
 | [Messin' Me Up \(feat\. EVAN GIIA\)](https://open.spotify.com/track/0cXSkPDfxh7rufiDSnLV3C) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Messin’ Me Up \(feat\. EVAN GIIA\)](https://open.spotify.com/album/1BEJWAUubpBGTMS6V0UVck) | 3:01 | 2022-07-15 | 2022-09-20 |
 | [Miss You](https://open.spotify.com/track/2ImJRXPtx4meYZ4DkhSU89) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Bancali](https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h) | [Miss You](https://open.spotify.com/album/098FaVNDWnOYMluE1uEFA8) | 2:38 | 2021-12-03 | 2022-02-12 |
+| [Miss You](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Miss You](https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951) | 3:14 | 2023-03-03 |  |
 | [Miss You \(feat\. GG Magree\) \- Seven Lions and Gem & Tauri Remix](https://open.spotify.com/track/2NUG19cLueD671fKgtGpIp) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Gem & Tauri](https://open.spotify.com/artist/4pSG7BUZvHZGk1j7QoWcFp) | [Miss You \(feat\. GG Magree\) \[Seven Lions and Gem & Tauri Remix\]](https://open.spotify.com/album/7dc72fttC6n7Q3agzyMV3f) | 4:52 | 2022-12-02 |  |
 | [Moment](https://open.spotify.com/track/2Zk9i8ayiwYLZIEJemuhl9) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Moment](https://open.spotify.com/album/4zvb6dFdrfPFHcLGtMdCXr) | 3:12 | 2022-01-21 | 2022-12-03 |
 | [My Feelings](https://open.spotify.com/track/0QnICpnSkCXY4d4zfYA2bB) | [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [My Feelings](https://open.spotify.com/album/4Bp7INayLmfQyNDDsmTNM3) | 3:27 | 2021-12-03 |  |

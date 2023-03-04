@@ -2,7 +2,7 @@
 
 ### [Jazz Classics](https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt)
 
-> The best tunes in Jazz history\. Cover: John Coltrane
+> The best tunes in Jazz history\. Cover: Wayne Shorter
 
 331 songs - 1 day 5 hr 4 min
 

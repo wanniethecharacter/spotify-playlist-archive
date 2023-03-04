@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 
 > Spellistan för den svenska sommaren.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,894 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,151 likes - 65 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 64 | [Till Stockholms skärgård](https://open.spotify.com/track/7geUU2nienjTgFvUuobfAC) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [På begäran](https://open.spotify.com/album/7rN7AM6a6mZ6PfZeC7asUZ) | 4:38 |
 | 65 | [Sommartid](https://open.spotify.com/track/0aKmin3xzPUYtiwCPSJomL) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Så mycket bättre \- säsong 3](https://open.spotify.com/album/1w9KVuHbmVhrtHBcPp6gnO) | 4:02 |
 
-Snapshot ID: `MTU5NTUzMDMwMiwwMDAwMDAwMDNkYWJkMWU0YWEyNmI3YzJkZGM3YWJmYjY2YjcwMWM0`
+Snapshot ID: `MTY3Nzg0NjUwNSwwMDAwMDAwMDM1NzZjYzhhOTM3ODM1MjU0NGExMmI4NGNmMGQ4MTVh`

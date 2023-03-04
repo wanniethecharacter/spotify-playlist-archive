@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Maleante",
+        "url": "https://open.spotify.com/album/6f0gQlCUlMQqPOdlWfOwqS"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147945,
+      "name": "Coraz\u00f3n Maleante",
+      "url": "https://open.spotify.com/track/5RY2D7x6vmREBPQa3uq0sd"
+    },
+    {
+      "album": {
         "name": "Cupido Fall\u00f3",
         "url": "https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0"
       },
@@ -518,6 +536,28 @@
       "duration_ms": 187930,
       "name": "De Carne Y Hueso",
       "url": "https://open.spotify.com/track/3a4hDTHCAgQaCNUkkBLNq7"
+    },
+    {
+      "album": {
+        "name": "De Rodillas (Versi\u00f3n Popular)",
+        "url": "https://open.spotify.com/album/4u0j4w4d3Yiv3I5Hhx9zz4"
+      },
+      "artists": [
+        {
+          "name": "Lucas Arnau",
+          "url": "https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs"
+        },
+        {
+          "name": "Mariana G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3KM7Awm5GI3R4cKb0U5thK"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203210,
+      "name": "De Rodillas - Versi\u00f3n Popular",
+      "url": "https://open.spotify.com/track/2ZDslBpDojVklqu9Vvc2O1"
     },
     {
       "album": {
@@ -674,7 +714,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 175456,
       "name": "Dulce Pecado",
       "url": "https://open.spotify.com/track/6dESHIzqYPl9TXwjNvpWY7"
@@ -822,7 +862,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 193578,
       "name": "El \u00daltimo No",
       "url": "https://open.spotify.com/track/1B2SstbNJbKveGHr9vcsYZ"
@@ -866,7 +906,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 215243,
       "name": "Ellas As\u00ed Son",
       "url": "https://open.spotify.com/track/7tg8QC49iqo6swPF6kXmWN"
@@ -1482,7 +1522,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 155933,
       "name": "Ni Que Fueras la Mas Buena",
       "url": "https://open.spotify.com/track/3rbeV5mt1vaQP0p7Ts1E17"
@@ -1540,6 +1580,32 @@
       "duration_ms": 241728,
       "name": "No Quer\u00eda Enga\u00f1arte",
       "url": "https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz"
+    },
+    {
+      "album": {
+        "name": "No Sufrir\u00e9 por Nadie (Remix)",
+        "url": "https://open.spotify.com/album/0NQHVRev3BGZXBjWayS9hI"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        },
+        {
+          "name": "Maycol Rosero",
+          "url": "https://open.spotify.com/artist/6rl1lk6U6dB8FT0neMV8Iu"
+        },
+        {
+          "name": "Beeren",
+          "url": "https://open.spotify.com/artist/0RLMeX0AW8JhHRRdFJWOAB"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211523,
+      "name": "No Sufrir\u00e9 por Nadie - Remix",
+      "url": "https://open.spotify.com/track/4wxik78a6zidW8pshbCviV"
     },
     {
       "album": {
@@ -2094,6 +2160,24 @@
       "duration_ms": 204653,
       "name": "Tu Amante",
       "url": "https://open.spotify.com/track/0ygm6N6bwRowtuBuuBSbpH"
+    },
+    {
+      "album": {
+        "name": "Un Cumbi\u00f3n Dolido",
+        "url": "https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235434,
+      "name": "Un Cumbi\u00f3n Dolido",
+      "url": "https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5"
     },
     {
       "album": {

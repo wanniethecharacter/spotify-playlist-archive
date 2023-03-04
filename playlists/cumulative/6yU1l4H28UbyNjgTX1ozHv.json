@@ -2489,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "Use Somebody (Acoustic)",
+        "url": "https://open.spotify.com/album/6ccSCZ1k60gVpONCZZPvAm"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "Use Somebody - Acoustic",
+      "url": "https://open.spotify.com/track/15ifihnDCzcbGX3lQdUHKn"
+    },
+    {
+      "album": {
         "name": "Valerie (Acoustic)",
         "url": "https://open.spotify.com/album/5GQMEtMsfqHsAfHXy02VOM"
       },
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 160235,
       "name": "Valerie - Acoustic",
       "url": "https://open.spotify.com/track/2maGjY9V7Z0RAVTyXFPyaX"
@@ -2854,6 +2872,24 @@
       "duration_ms": 184200,
       "name": "You're So Vain - Acoustic",
       "url": "https://open.spotify.com/track/6tIj648abzmT84fdY7eTRW"
+    },
+    {
+      "album": {
+        "name": "You're the One That I Want (Acoustic)",
+        "url": "https://open.spotify.com/album/5imKUMucWByXmUaOhQt151"
+      },
+      "artists": [
+        {
+          "name": "Mack Myles",
+          "url": "https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151991,
+      "name": "You're the One That I Want - Acoustic",
+      "url": "https://open.spotify.com/track/7rlsybGFVSyYq9tDdxloHd"
     }
   ],
   "url": "https://open.spotify.com/playlist/6yU1l4H28UbyNjgTX1ozHv"

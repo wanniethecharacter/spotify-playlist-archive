@@ -2935,6 +2935,40 @@
     },
     {
       "album": {
+        "name": "Cruel Love/Vex",
+        "url": "https://open.spotify.com/album/2HFv2oD5Ji4b0GeHrrt47u"
+      },
+      "artists": [
+        {
+          "name": "NATIVE Sound System",
+          "url": "https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy"
+        },
+        {
+          "name": "Sholz",
+          "url": "https://open.spotify.com/artist/0c16bmaBQQto9akErVkTue"
+        },
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        },
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/1KMl7oxmZzQS5I9e8aiNTs"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166816,
+      "name": "Vex",
+      "url": "https://open.spotify.com/track/68iiyaYIX0r25EryppFIFA"
+    },
+    {
+      "album": {
         "name": "Toxic Sweet",
         "url": "https://open.spotify.com/album/6XZEdNXjaagyQVpbi5aioZ"
       },

@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1588375,
+  "num_followers": 1589514,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUzNjQ0MywwMDAwMDAwMDIxOTk2ZTMwMjk5ZTBkMDFjMDliODZkNThlODdjYzJl",
+  "snapshot_id": "MTY3NzUzNjQ0MywwMDAwMDAwMGFlYTk1MmM0YjM2MDVhN2ZmNzk4OTEzMWIxNGI3OTBj",
   "tracks": [
     {
       "added_at": "2023-02-27 22:20:42",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "The Fundamental Elements of Southtown",
-        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 247253,
-      "name": "Southtown",
-      "url": "https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD"
-    },
-    {
-      "added_at": "2023-02-27 22:20:42",
-      "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 206200,
       "name": "For You",
       "url": "https://open.spotify.com/track/464HG7mt7NNKtKY0Hco8Y8"
+    },
+    {
+      "added_at": "2023-02-27 22:20:42",
+      "album": {
+        "name": "The Fundamental Elements of Southtown",
+        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 247253,
+      "name": "Southtown",
+      "url": "https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD"
     },
     {
       "added_at": "2023-02-27 22:20:42",
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 191360,
-      "name": "A Certain Shade of Green",
-      "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
+      "duration_ms": 193200,
+      "name": "Vitamin",
+      "url": "https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"
     },
     {
       "added_at": "2023-02-27 22:20:42",

@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 35981,
+  "num_followers": 36022,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDM5NjY4ZjIxMmI2NTBmNTM2MGIyNWUzN2ZlNmY1YTVi",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDA1YWFmNGY1NDhkMjljZDkzYTdlYTQ4NDViMWY4OTQ2",
   "tracks": [
     {
       "added_at": "2023-02-03 05:01:00",
@@ -413,38 +413,6 @@
       "url": "https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Lifetime: The Collection",
-        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
-      },
-      "artists": [
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 386066,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/4lihRwOl6BCy8VOZSdyPL8"
-      },
-      "artists": [
-        {
-          "name": "NuHussel Orchestra",
-          "url": "https://open.spotify.com/artist/70XGkuNGNpVAw6vRuLqekN"
-        }
-      ],
-      "duration_ms": 302040,
-      "name": "Cptn Future",
-      "url": "https://open.spotify.com/track/5H3mx4ktZNnTsBmtx6UbS4"
-    },
-    {
       "added_at": "2021-09-03 04:01:00",
       "album": {
         "name": "move",
@@ -467,6 +435,22 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
+        "name": "Lifetime: The Collection",
+        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
+      },
+      "artists": [
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 386066,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
         "name": "Love Devotion Surrender",
         "url": "https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 568893,
       "name": "The Life Divine",
       "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/4lihRwOl6BCy8VOZSdyPL8"
+      },
+      "artists": [
+        {
+          "name": "NuHussel Orchestra",
+          "url": "https://open.spotify.com/artist/70XGkuNGNpVAw6vRuLqekN"
+        }
+      ],
+      "duration_ms": 302040,
+      "name": "Cptn Future",
+      "url": "https://open.spotify.com/track/5H3mx4ktZNnTsBmtx6UbS4"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/3vwYWNZgig7iwiKra7MgeQ"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 267635,
-      "name": "The Knew Untitled",
-      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Seeds",
@@ -591,6 +575,22 @@
       "duration_ms": 264213,
       "name": "because",
       "url": "https://open.spotify.com/track/5jm31VTJ8uIm3dNYr3AWlJ"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 267635,
+      "name": "The Knew Untitled",
+      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/4rHvDCZqfrm3yMMOKMwXft"
     },
     {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Zeal",
-        "url": "https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp"
-      },
-      "artists": [
-        {
-          "name": "Bill Laurance",
-          "url": "https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF"
-        }
-      ],
-      "duration_ms": 383881,
-      "name": "Zeal",
-      "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
-    },
-    {
       "added_at": "2021-03-26 04:01:00",
       "album": {
         "name": "Planet",
@@ -709,20 +693,36 @@
       "url": "https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
+      "added_at": "2021-11-05 04:01:00",
       "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
+        "name": "Zeal",
+        "url": "https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp"
       },
       "artists": [
         {
-          "name": "Cameron Graves",
-          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
+          "name": "Bill Laurance",
+          "url": "https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF"
         }
       ],
-      "duration_ms": 261506,
-      "name": "Sons of Creation",
-      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
+      "duration_ms": 383881,
+      "name": "Zeal",
+      "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
+    },
+    {
+      "added_at": "2021-04-16 05:00:00",
+      "album": {
+        "name": "Meteor Stream",
+        "url": "https://open.spotify.com/album/0JLhkI3D3ZRtr3swzVqNqb"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 345281,
+      "name": "Meteor Stream",
+      "url": "https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -749,20 +749,20 @@
       "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
+      "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Akashic Xronicles",
-        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX"
       },
       "artists": [
         {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+          "name": "Cameron Graves",
+          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
         }
       ],
-      "duration_ms": 267915,
-      "name": "Akashic Xronicles",
-      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
+      "duration_ms": 261506,
+      "name": "Sons of Creation",
+      "url": "https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -781,6 +781,22 @@
       "url": "https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9"
     },
     {
+      "added_at": "2021-01-29 05:01:00",
+      "album": {
+        "name": "Rubicon",
+        "url": "https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR"
+      },
+      "artists": [
+        {
+          "name": "Lilly Legit",
+          "url": "https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO"
+        }
+      ],
+      "duration_ms": 181708,
+      "name": "Immersion",
+      "url": "https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL"
+    },
+    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "The Line",
@@ -797,20 +813,20 @@
       "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
     },
     {
-      "added_at": "2021-01-29 05:01:00",
+      "added_at": "2021-10-01 04:02:00",
       "album": {
-        "name": "Rubicon",
-        "url": "https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR"
+        "name": "Akashic Xronicles",
+        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
       },
       "artists": [
         {
-          "name": "Lilly Legit",
-          "url": "https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO"
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
         }
       ],
-      "duration_ms": 181708,
-      "name": "Immersion",
-      "url": "https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL"
+      "duration_ms": 267915,
+      "name": "Akashic Xronicles",
+      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
     },
     {
       "added_at": "2021-09-24 04:02:00",
@@ -879,34 +895,6 @@
       "duration_ms": 299466,
       "name": "Is Once Enough?",
       "url": "https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG"
-    },
-    {
-      "added_at": "2021-03-19 05:01:00",
-      "album": {
-        "name": "Naurora",
-        "url": "https://open.spotify.com/album/4WJmpMeNY0dKGGxbt5ovox"
-      },
-      "artists": [
-        {
-          "name": "Dewa Budjana",
-          "url": "https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB"
-        },
-        {
-          "name": "Dave Weck",
-          "url": "https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq"
-        },
-        {
-          "name": "Jimmy Johnson",
-          "url": "https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B"
-        },
-        {
-          "name": "Mateus Asato",
-          "url": "https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc"
-        }
-      ],
-      "duration_ms": 411453,
-      "name": "Swarna Jingga",
-      "url": "https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy"
     }
   ],
   "unique_name": "Prog Jazz",

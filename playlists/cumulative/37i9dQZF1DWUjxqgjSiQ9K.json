@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  Jes\u00fas Adri\u00e1n Romero",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  Living",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 232000,
       "name": "Aqu\u00ed Hay un Muchacho",
       "url": "https://open.spotify.com/track/6kHUp9rwMGcSG2xVclc2kB"
@@ -2155,6 +2155,32 @@
     },
     {
       "album": {
+        "name": "El After",
+        "url": "https://open.spotify.com/album/2f7IYd3xMsDWPvFih6RseJ"
+      },
+      "artists": [
+        {
+          "name": "Samuel ASH",
+          "url": "https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199394,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/2B4r1buyZVW0nwuiRWLvVp"
+    },
+    {
+      "album": {
         "name": "El Borde de Su Manto (Nueva Versi\u00f3n)",
         "url": "https://open.spotify.com/album/2HGhXqdD9MMJNtDrqs0ie8"
       },
@@ -3004,6 +3030,28 @@
     {
       "album": {
         "name": "Gracias",
+        "url": "https://open.spotify.com/album/1Fy1zFN4Kgjhc1XsRzxI4p"
+      },
+      "artists": [
+        {
+          "name": "Cindy Barrera",
+          "url": "https://open.spotify.com/artist/6kdT3CTmuUous4XfdFMP4a"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193274,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/0oL6iQGjNapmqwRSchl2g5"
+    },
+    {
+      "album": {
+        "name": "Gracias",
         "url": "https://open.spotify.com/album/7GgcM9RrWZmp4xo0SGUZrN"
       },
       "artists": [
@@ -3022,6 +3070,24 @@
       "duration_ms": 183645,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/7i8ZNfQoW8NdbGflJ3Sx2w"
+    },
+    {
+      "album": {
+        "name": "Grasa",
+        "url": "https://open.spotify.com/album/0vrIWNJOBQ3BG7NQblMXOU"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197015,
+      "name": "Grasa",
+      "url": "https://open.spotify.com/track/5I7mtkXK8m8hJgkbZD9a9C"
     },
     {
       "album": {
@@ -3710,7 +3776,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 199700,
       "name": "Lo Primero",
       "url": "https://open.spotify.com/track/2E54WDKyVtjTSwDGPMJSo6"
@@ -3906,7 +3972,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 170725,
       "name": "MAGN\u00c9TICO",
       "url": "https://open.spotify.com/track/6w3BbDG0LslVtIiqJ9rOGW"
@@ -5118,7 +5184,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 208350,
       "name": "Poderoso",
       "url": "https://open.spotify.com/track/7suLotu4fPldWgHbsvvmzz"
@@ -5540,6 +5606,28 @@
       "duration_ms": 210000,
       "name": "Recu\u00e9rdame",
       "url": "https://open.spotify.com/track/1EUGneZLImNRBHtTZyaLuK"
+    },
+    {
+      "album": {
+        "name": "Suerte Divina",
+        "url": "https://open.spotify.com/album/0nIjBOZeY4XwEJqCoQhT85"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253120,
+      "name": "Recu\u00e9rdame x Evan Craft (En vivo desde Bogot\u00e1, Colombia)",
+      "url": "https://open.spotify.com/track/4lNNKtUqG7PHiuWtl2swZR"
     },
     {
       "album": {
@@ -5976,7 +6064,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 185361,
       "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
       "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
@@ -6182,6 +6270,28 @@
       "duration_ms": 209286,
       "name": "Solo Tengo Ojos Para Ti",
       "url": "https://open.spotify.com/track/4LRFOqZmtKCL5MWhxb5eyL"
+    },
+    {
+      "album": {
+        "name": "Soluci\u00f3n",
+        "url": "https://open.spotify.com/album/2vi8w5TScVrMNUV6Z1hTQd"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219361,
+      "name": "Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9"
     },
     {
       "album": {
@@ -6496,7 +6606,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 316650,
       "name": "Te Necesito (Remix)",
       "url": "https://open.spotify.com/track/21fY89VrTRDdgavfv5jm9u"
@@ -6668,6 +6778,24 @@
       "duration_ms": 213994,
       "name": "Tierra Prometida",
       "url": "https://open.spotify.com/track/7bwwh84dalgKpYpbXenUA5"
+    },
+    {
+      "album": {
+        "name": "Toda Tuya",
+        "url": "https://open.spotify.com/album/6KKUpenyd1dHH5DvmkMz5Z"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9sed",
+          "url": "https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272699,
+      "name": "Toda Tuya",
+      "url": "https://open.spotify.com/track/5zK75SItxl7ynYsF4O8YPs"
     },
     {
       "album": {

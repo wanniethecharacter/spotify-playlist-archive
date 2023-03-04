@@ -2624,6 +2624,28 @@
     {
       "album": {
         "name": "You dey feel the vibe (Live)",
+        "url": "https://open.spotify.com/album/3MdmMxsZPo4hSM0XvOx6PN"
+      },
+      "artists": [
+        {
+          "name": "FRA!",
+          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
+        },
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "You dey feel the vibe - Live",
+      "url": "https://open.spotify.com/track/3jDxl1SAnCCZ6TIod7uD7n"
+    },
+    {
+      "album": {
+        "name": "You dey feel the vibe (Live)",
         "url": "https://open.spotify.com/album/4UqYudwW3SPIDtsWoHTcPa"
       },
       "artists": [
@@ -2638,7 +2660,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 302000,
       "name": "You dey feel the vibe - Live",
       "url": "https://open.spotify.com/track/7t1x7kxQgYlivT80SB2vtr"

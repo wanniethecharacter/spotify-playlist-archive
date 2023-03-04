@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-414 songs - 18 hr 36 min
+416 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Altitude](https://open.spotify.com/track/1vcSv84ppGJDv6AffZrlB3) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [Altitude](https://open.spotify.com/album/17UfAnbulhLcf2U8v9FnFn) | 2:03 | 2021-11-10 | 2022-07-08 |
 | [AMS \- Alex Hoevelmann Rework](https://open.spotify.com/track/7b1MYYw5IJf3FJuWGW96oM) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk), [Alex Hoevelmann](https://open.spotify.com/artist/1kemW8RV4rWrwTSHLWXxuz) | [AMS \(Alex Hoevelmann Rework\)](https://open.spotify.com/album/1I4c64ZimJJVTz3kWTfjcX) | 6:47 | 2022-06-17 | 2023-02-10 |
 | [An Opening](https://open.spotify.com/track/1r596vXMEybBkkTiNJmpTk) | [Franklin Perry](https://open.spotify.com/artist/5TIYHpHa1svyujIDc014rE) | [Orbital](https://open.spotify.com/album/4oX8VawqEFWZR0lohqqgk3) | 3:02 | 2021-11-10 | 2022-07-08 |
+| [And So We Beat On](https://open.spotify.com/track/37cXeRgOn7VRXxXey9BqSM) | [The Escape Route](https://open.spotify.com/artist/0OtRCgwx2kuOZy7ylYPU7g) | [Ariadne](https://open.spotify.com/album/71YzYvRCooN8yB2itVAE3d) | 2:29 | 2023-03-03 |  |
 | [Anna's Guesthouse](https://open.spotify.com/track/5MT9dKhdTy2bg6dvxKxhvO) | [Malacca](https://open.spotify.com/artist/3CefIz6qIlfMy80r0vZJxX) | [Anna's Guesthouse](https://open.spotify.com/album/1Ov544KcI3TciOPx3GcZvT) | 4:00 | 2022-07-08 |  |
 | [answers](https://open.spotify.com/track/3lNL8vedNh9gm8MVyqCRxt) | [really big mountains](https://open.spotify.com/artist/4yJevCr3DRO4fW0NG2rjt4) | [the calling](https://open.spotify.com/album/481Cyy68YdctjM2RPoujpA) | 2:03 | 2021-11-10 | 2022-07-08 |
 | [Antigua](https://open.spotify.com/track/1JNq5aFGwPOuO2PNru97j9) | [Elaine D.](https://open.spotify.com/artist/2rf4obxtEI5MrQ8T6t98Ox) | [Antigua](https://open.spotify.com/album/4Dq22fGSVyIqW4BSQiAKqz) | 2:41 | 2021-11-10 | 2023-02-25 |
@@ -170,6 +171,7 @@
 | [Horizontals](https://open.spotify.com/track/1VCBFdbmTukL4kdG8zYvPl) | [Jens Nirme](https://open.spotify.com/artist/3illAmiJoox5u3D7qhkO6t) | [Horizontals](https://open.spotify.com/album/4z3INh0NcUuFIKfaNNJx2n) | 1:36 | 2021-11-10 | 2022-05-11 |
 | [Hot Summer](https://open.spotify.com/track/1Huk1qu2Iw8Y220O6aJX0w) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Hot Summer](https://open.spotify.com/album/3MK2VO9vdpHMGb7RizZ72l) | 2:28 | 2021-11-10 | 2022-04-15 |
 | [How Sweet](https://open.spotify.com/track/0g7bkITtFBBhIayGKw4GjK) | [Little Sweet Biscuit](https://open.spotify.com/artist/71AxOhThgbuuKMcGc3dZkS) | [How Sweet](https://open.spotify.com/album/19MCm8GdggxY3meOJgFvsc) | 2:12 | 2021-11-10 | 2022-05-20 |
+| [How The Story Goes](https://open.spotify.com/track/4C1kmQjG42md25gFTyqvik) | [The Escape Route](https://open.spotify.com/artist/0OtRCgwx2kuOZy7ylYPU7g) | [Ariadne](https://open.spotify.com/album/71YzYvRCooN8yB2itVAE3d) | 2:26 | 2023-03-03 |  |
 | [I and Love](https://open.spotify.com/track/0GFBdfj09IKlRucWbvOITu) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [I and Love](https://open.spotify.com/album/254L0w6tz1JkfmmYNCuX4t) | 4:01 | 2021-11-10 | 2023-01-21 |
 | [i tried](https://open.spotify.com/track/6W7hFzh8GNeSTljK7qzCsT) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [i tried](https://open.spotify.com/album/3WyFAmRvYnIo7c3ZzyL7uo) | 3:12 | 2022-07-29 |  |
 | [I'm nothin'](https://open.spotify.com/track/4sVY4JmPEBLPsX5GRH8S6u) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [I'm nothin'](https://open.spotify.com/album/5L29YvrjfGVhkkTWLdeS31) | 3:42 | 2021-11-10 | 2022-05-27 |

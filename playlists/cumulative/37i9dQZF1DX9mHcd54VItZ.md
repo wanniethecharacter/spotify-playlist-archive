@@ -4,7 +4,7 @@
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS?si=LsiXeXHtRJKZdTacWbURoA">Gevoel van Veiligheid</a>
 
-205 songs - 12 hr 17 min
+206 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Gods Gift](https://open.spotify.com/track/5APaebgO8j2iv9948t0s4N) | [Beyond Rebellion](https://open.spotify.com/artist/4Xl49RTIZKi3DYvoC1AkXe) | [Gods Gift](https://open.spotify.com/album/2gQmIomnl7SgDVZyvqxMBi) | 3:16 | 2022-11-17 | 2023-03-03 |
 | [Hartseer Freaks](https://open.spotify.com/track/0QkQXlKStGokMoWhngW99p) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 3:25 | 2022-12-01 | 2022-12-09 |
 | [Heaving](https://open.spotify.com/track/0sYJEJYGBKaiTcHdAcMAUP) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Heaving](https://open.spotify.com/album/4vVdnV7qeVHfw6eXvsuAHj) | 3:26 | 2023-02-16 |  |
-| [Hoer In Beton](https://open.spotify.com/track/4fnZUb6KEtgcGIx3eWgJi0) | [Millennium](https://open.spotify.com/artist/3GhHWHWIAs0uWCawtI3v4t), [Koos Kombuis](https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ) | [Hoer In Beton](https://open.spotify.com/album/6NwMydQDPSmxYq4OgZ9uPh) | 4:40 | 2023-03-02 |  |
+| [Hoer In Beton](https://open.spotify.com/track/4fnZUb6KEtgcGIx3eWgJi0) | [Millennium](https://open.spotify.com/artist/3GhHWHWIAs0uWCawtI3v4t), [Koos Kombuis](https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ) | [Hoer In Beton](https://open.spotify.com/album/6NwMydQDPSmxYq4OgZ9uPh) | 4:40 | 2023-03-02 | 2023-03-04 |
+| [Hoer In Beton](https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw), [Koos Kombuis](https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ) | [Hoer In Beton](https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn) | 4:40 | 2023-03-02 |  |
 | [Hollow](https://open.spotify.com/track/629X30psE0HDVwMflpkOKm) | [Soul Suture](https://open.spotify.com/artist/1GKLeylQc3yEtf4ulo0fmA), [Fred Honig](https://open.spotify.com/artist/3BJIJ0jOquRFcoRJn5yPAf) | [The Art of Escape / The Escape of Art](https://open.spotify.com/album/3IdU7v0EYjbZgfztsrZCKl) | 4:03 | 2021-09-02 | 2022-03-18 |
 | [Hounds Loose](https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Hounds Loose](https://open.spotify.com/album/3QmIoMDXgmOIMj9oCPnjlO) | 3:44 | 2021-11-25 | 2022-08-05 |
 | [How To Feel](https://open.spotify.com/track/1tj3R3NipqoiaWj4gVLoHT) | [Daniel Baron](https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl) | [City Of God & The Jungle Below](https://open.spotify.com/album/5yb4js7PRWrxekpSYLgW2x) | 4:29 | 2021-12-02 | 2022-11-18 |

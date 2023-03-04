@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Kf72URLxopa8Gga5hGY3F.md) - [plain]
 
 > 
 
-[blitziny](https://open.spotify.com/user/blitziny) - 0 like - 415 songs - 1 day 0 hr 3 min
+[blitziny](https://open.spotify.com/user/blitziny) - 0 like - 416 songs - 1 day 0 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -423,5 +423,6 @@ pretty - [cumulative](/playlists/cumulative/0Kf72URLxopa8Gga5hGY3F.md) - [plain]
 | 413 | [monster](https://open.spotify.com/track/2FUNBaa5DwItJtYEBgAblU) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:53 |
 | 414 | [For Sale? \- Interlude](https://open.spotify.com/track/7unx2Rvsq8D0RfOLRXclTA) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 4:51 |
 | 415 | [Institutionalized](https://open.spotify.com/track/4oFtLSgHyZPNYDCcANhTnO) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Anna Wise](https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 4:31 |
+| 416 | [Dummy Man](https://open.spotify.com/track/6oNveNgfLfWjbVBMo3I3Qz) | [Mr\. Blick Em](https://open.spotify.com/artist/6TpCLM1sj14VwgxAxcQx5C) | [Dummy Man](https://open.spotify.com/album/1DlCckWQ5tqeHhisJzr0U7) | 3:25 |
 
-Snapshot ID: `MzI3NCwyM2M5N2M1ZjMyYjcwNjUyZDgxMWY0ZGUxZjA5ZDE4ZTE3YzFiMDI5`
+Snapshot ID: `MzI3NSxjMWUwNzA4YThjNmY1NzZkMzFhYjhjZTUxYjFmOWRjMDNjYzkwODU0`

@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Winaya
 
-1,562 songs - 3 day 23 hr 36 min
+1,563 songs - 3 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [CAP TIKUS](https://open.spotify.com/track/71L3GOFEjFAPECXEVp6vyJ) | [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk) | [CAP TIKUS](https://open.spotify.com/album/1vpjSbxfqOG2BHBFIMiBfX) | 3:04 | 2022-10-06 | 2022-11-04 |
 | [Carlaine](https://open.spotify.com/track/513lk8yQTgl9vmG2hDPB6y) | [Sink 90](https://open.spotify.com/artist/2odKmrzwdsSa5CT9cMs53C) | [Sink's Up To Something](https://open.spotify.com/album/14qaIgzow4rzAksaxMNbtK) | 4:08 | 2022-02-10 | 2022-02-25 |
 | [Castle In The Sand](https://open.spotify.com/track/4eDQlzUw7dY96kwGRa7Znl) | [Kalabiru](https://open.spotify.com/artist/46LPetITEVveXLZNEzT2Po) | [Adventure Park](https://open.spotify.com/album/2FjXLds1poX0nwNLIaw38B) | 4:27 | 2022-08-19 | 2022-09-02 |
+| [Catatan Singkat Sebuah Pertemuan](https://open.spotify.com/track/3sRdiWiBgYnJMltknpyESy) | [Spells](https://open.spotify.com/artist/1VaiaDZUknjg9aCukZsXZe) | [Sad Punk](https://open.spotify.com/album/1EP4p9pQYoFprbFp8cRixO) | 2:58 | 2023-03-02 |  |
 | [Catch A Rainbow](https://open.spotify.com/track/4D9TFPGfp8i3VqJx5uHGqj) | [Poker Mustache](https://open.spotify.com/artist/2DrPT1qoGRuTKQbkzU3zm2) | [Catch A Rainbow](https://open.spotify.com/album/3nNvnEhklnKd9xWBeZ8INM) | 4:00 | 2022-08-25 | 2022-09-09 |
 | [Cemas](https://open.spotify.com/track/6EyrIy71F8iLvlyLeu5MVx) | [Amira Karin](https://open.spotify.com/artist/3rCwi62vIXjO26qeTbDtKp) | [Cemas](https://open.spotify.com/album/5tFw3xFreyS9zIJbD9Kwww) | 2:04 | 2022-07-01 | 2023-01-13 |
 | [Cerita Lama](https://open.spotify.com/track/5dn6H3bbsczTDveLnDOCrL) | [Montase](https://open.spotify.com/artist/7JR5FyBZjNYkQjiJgpiMMn) | [Cerita Lama](https://open.spotify.com/album/1Gjm8uFGLQSydTmXjbxU0L) | 4:07 | 2022-03-24 | 2022-04-15 |
@@ -599,7 +600,7 @@
 | [If You're Done With Him \(Lemme Know\)](https://open.spotify.com/track/7aO2xDglIIif1EBUZ7xTRf) | [Athena's Private Show](https://open.spotify.com/artist/53OJ39BgYE5TTZEacbqV61) | [This Is From A 20 Year Old Me To A 20 Year Old You](https://open.spotify.com/album/5G6GtIW3sqZHDvv9Tyd2C5) | 3:02 | 2022-04-07 | 2022-04-22 |
 | [ILLUSION](https://open.spotify.com/track/6ULNk5tDE2BcWWZutgSLkm) | [Dandy Hendstyo](https://open.spotify.com/artist/2szj8xBOp1sq9IJJWQTNhD) | [ILLUSION](https://open.spotify.com/album/5ZCLDMfceG3oz3rdHKBEfM) | 3:02 | 2022-11-24 | 2022-12-01 |
 | [Iman Tak Sama](https://open.spotify.com/track/72Eo4HcqAvjql6x3hgNSwT) | [ALVIN JO](https://open.spotify.com/artist/27kMVI6507dLjT2eyUuOdu) | [Iman Tak Sama](https://open.spotify.com/album/6F4OC89RLIM9rLhksCTGwX) | 4:43 | 2022-11-30 | 2023-01-13 |
-| [IMMA GO NOW](https://open.spotify.com/track/2fHUiVm7PVELTnvXYTaCHe) | [Tarrzankota](https://open.spotify.com/artist/6ptSpJVbC6f492Lt5IfpD2), [Yosh](https://open.spotify.com/artist/24fhgM8dRX50onhCX4JpI9) | [GENESIS](https://open.spotify.com/album/39uvywC9ucxHGlD91DhhQC) | 1:25 | 2023-03-02 |  |
+| [IMMA GO NOW](https://open.spotify.com/track/2fHUiVm7PVELTnvXYTaCHe) | [Tarrzankota](https://open.spotify.com/artist/6ptSpJVbC6f492Lt5IfpD2), [YOSH](https://open.spotify.com/artist/2wHazSJnTevLiiJzn70GX7) | [GENESIS](https://open.spotify.com/album/39uvywC9ucxHGlD91DhhQC) | 1:25 | 2023-03-02 |  |
 | [Impase](https://open.spotify.com/track/7mswqg2hFcscrElFcsJNlt) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Impase](https://open.spotify.com/album/3JypizCqKtKtbl7wRV3iO0) | 3:58 | 2022-07-07 | 2022-08-06 |
 | [IMPLICATED](https://open.spotify.com/track/50JccTURPvYde2pcARbEgz) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [IMPLICATED](https://open.spotify.com/album/0coC3q1V4LfDXCBwUBXb8K) | 3:01 | 2022-07-07 | 2022-08-06 |
 | [In Despair](https://open.spotify.com/track/1oaonPJswIsRhTA7HHIaio) | [Valla](https://open.spotify.com/artist/5jNyQkcu1WZ3fzxCzvCclw) | [Parti Pris](https://open.spotify.com/album/4mbkWa7sKco7BspTpdLz2F) | 3:56 | 2023-01-19 | 2023-02-10 |

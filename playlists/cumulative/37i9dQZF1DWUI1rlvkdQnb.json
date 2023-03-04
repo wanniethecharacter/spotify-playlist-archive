@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Anew",
+        "url": "https://open.spotify.com/album/6gTK7SLCG5JAxFLKvghEiu"
+      },
+      "artists": [
+        {
+          "name": "Chrastigel",
+          "url": "https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126331,
+      "name": "In The Balance",
+      "url": "https://open.spotify.com/track/2o7KYR9AdglkUTLh3Vdod1"
+    },
+    {
+      "album": {
         "name": "Innervate",
         "url": "https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll"
       },

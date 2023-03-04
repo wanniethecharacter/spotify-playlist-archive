@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-151 songs - 11 hr 9 min
+153 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Sachetan](https://open.spotify.com/track/6nDSQdvkVHIWW9ga17UUnL) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 3:01 | 2022-05-23 |  |
 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/2SxQ32cI3A8XBH4535QnwJ) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/5IZZ9OprXmK2qYkMm11QnB) | 5:59 | 2022-04-04 | 2022-07-29 |
 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 | 2022-07-18 |  |
+| [Samkhya](https://open.spotify.com/track/2qIFJzdlAPnxn31gmCXKcU) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Samkhya](https://open.spotify.com/album/3u9iNrwANFmlTSg0lMepDc) | 3:39 | 2023-03-03 |  |
 | [Santosa \(Contentment\)](https://open.spotify.com/track/2oa9m04tRuNocGalPvAv4R) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 8:36 | 2022-04-04 |  |
 | [Sapphire Dreams](https://open.spotify.com/track/26jg6XR2GmKTomzljp9aTC) | [Ledd Blue](https://open.spotify.com/artist/1YGWpdwoILEnUbvEZx3xnE) | [Sapphire Dreams](https://open.spotify.com/album/6rbIV6wLOZVpHkyThEFsE5) | 3:22 | 2022-04-04 |  |
 | [Shaantipoorn Sardee](https://open.spotify.com/track/32J8PZ2TsVXaylMujwAfQs) | [Kanti Kata](https://open.spotify.com/artist/2YKTWzjZkpGVHMdbAP0df5) | [Shaant Garmee](https://open.spotify.com/album/1OUUILFcARqONfzoxVxTlf) | 3:47 | 2022-05-09 |  |
@@ -132,6 +133,7 @@
 | [Slowly Healing](https://open.spotify.com/track/7B6uXznIUsatvSuZujLlsk) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Slowly Healing](https://open.spotify.com/album/2a6QiYnjdRT9rclhvM2hQa) | 3:06 | 2023-01-13 |  |
 | [Songs from the Seven Towers](https://open.spotify.com/track/6rYq40IMfNWoOSmHM6HLls) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Tales from the Grand Bazaar](https://open.spotify.com/album/1XlBWu2ANXdvk4t378lrqR) | 7:58 | 2022-07-18 | 2023-02-04 |
 | [Songs From the Seven Towers](https://open.spotify.com/track/05FWTD99Edbcn2WHakyk4w) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Tales From The Grand Bazaar](https://open.spotify.com/album/2Al6Kbhpuz7MTaffnffc17) | 7:58 | 2022-04-04 | 2022-07-29 |
+| [Strenght](https://open.spotify.com/track/3A7HBtO3W28kBKOJHBb9dZ) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Strenght](https://open.spotify.com/album/6rPZfQ4Wc4FiLj4VVeeFTF) | 3:24 | 2023-03-03 |  |
 | [Sudhar](https://open.spotify.com/track/1qtzGewEnNOtBQqxL0RkcI) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Sudhar](https://open.spotify.com/album/4thvMMTyld6WqUZUue8Zop) | 3:13 | 2023-01-09 |  |
 | [Sun Riser](https://open.spotify.com/track/26vVwggMW8iUbDDxlDygMJ) | [Daya Misra](https://open.spotify.com/artist/4ym3cVsniN8Zfiq6c2mKb2) | [Sun Riser](https://open.spotify.com/album/1CtGzSHFnQW6THLOu4U1ZK) | 4:26 | 2022-04-04 |  |
 | [Sunsets](https://open.spotify.com/track/2NTE2WKQjhA8pWI0aVNHvr) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Sunsets](https://open.spotify.com/album/5FYGIORjchWocCVAyVI3c3) | 4:08 | 2023-01-13 |  |

@@ -4,10 +4,12 @@
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-132 songs - 4 hr 45 min
+132 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/1EYBIeMUH0ZpdlB2iMvVKs) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3sqRXNbhFBHPTx18HUVwby) | 0:00 | 2020-05-06 |  |
+| [](https://open.spotify.com/track/76ypgNi0b7oDbboHzXi2qK) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2QE3VXl4HdXYM1Vl8s7CWP) | 0:00 | 2020-05-06 |  |
 | [5:00 Pm](https://open.spotify.com/track/7iZv82iUrrRCbkFWbrtd3l) | [SeanBeats](https://open.spotify.com/artist/6gxWrSNJaCqSVq9cYqjZIQ) | [Perspectiva Del Tiempo](https://open.spotify.com/album/3QwpMVWo9v5Z0CnLNBoaPm) | 2:09 | 2020-05-06 |  |
 | [a lifetime](https://open.spotify.com/track/5mcZF1kLzh4i182pDvp2RJ) | [anybodyy](https://open.spotify.com/artist/1aub8GgJikwSG4wUMWZrzl) | [a lifetime / in my head](https://open.spotify.com/album/63wBnahx47YdNGVY39pjDX) | 2:16 | 2020-05-06 |  |
 | [Again](https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH) | 2:23 | 2020-05-06 | 2022-11-19 |
@@ -68,7 +70,6 @@
 | [Lonely Place](https://open.spotify.com/track/3TK5Af29Ba9pjE0eSsujGe) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Lonely Place](https://open.spotify.com/album/4knByOxlegNO6AIipucQXp) | 2:16 | 2020-05-06 |  |
 | [Longer Days](https://open.spotify.com/track/3bHYWZeQf8uZBKz35Q93xT) | [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM) | [Longer Days](https://open.spotify.com/album/4r99r4UeTF8jVzd2Y0esjN) | 2:34 | 2020-05-06 |  |
 | [Longer Days](https://open.spotify.com/track/0LdWpX5ACSkHBxHEqXjvIs) | [vensterbank](https://open.spotify.com/artist/6yIzx4oHUcVDTSiCwP3jQ7), [Koosen](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Longer Days](https://open.spotify.com/album/13kulf9WhxHJkQAgIYAVCp) | 2:34 | 2020-05-06 | 2022-07-29 |
-| [looking through old pictures of us](https://open.spotify.com/track/76ypgNi0b7oDbboHzXi2qK) | [dankush](https://open.spotify.com/artist/4zxP5ygXMD6Ycjfi3M8Gkf) | [looking through old pictures of us](https://open.spotify.com/album/2QE3VXl4HdXYM1Vl8s7CWP) | 2:40 | 2020-05-06 |  |
 | [Lux](https://open.spotify.com/track/5KMcn8BC9HqgytDkT2oK7H) | [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S), [no one's perfect](https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX) | [Lux](https://open.spotify.com/album/5P5x5B74JxTD5WOviW26LY) | 1:59 | 2020-05-06 |  |
 | [Maki](https://open.spotify.com/track/1jgZPU8y5lg8fulf33SE08) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Jiro Dreams](https://open.spotify.com/album/5oyhUHX2IlRm4vrn9TLRrS) | 1:20 | 2020-05-06 |  |
 | [Maki](https://open.spotify.com/track/7ydE0OM0iIFCzHSfhVgQKE) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Jiro Dreams](https://open.spotify.com/album/1sP83JA4XZhzLhHiV8CKXQ) | 1:20 | 2020-05-06 | 2022-07-29 |
@@ -81,7 +82,6 @@
 | [Moonlight](https://open.spotify.com/track/0fgWMwqn3me97RFl2CTOKP) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 3](https://open.spotify.com/album/2AldFXJiuHfti8YgkUNQTG) | 3:38 | 2020-05-06 |  |
 | [My Safespace](https://open.spotify.com/track/6C8WDEGrslYZ1ABWPeoZVW) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD) | [My Safespace](https://open.spotify.com/album/0bhpwiFbBQNUFIgFZYO3m4) | 2:13 | 2020-05-06 | 2022-07-29 |
 | [My Safespace](https://open.spotify.com/track/5WZuLPWvTE39s2KBLQnhAJ) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD) | [My Safespace](https://open.spotify.com/album/346UKwjoD8KTDBqLa47qad) | 2:13 | 2020-05-06 |  |
-| [naked people that don't seem to mind](https://open.spotify.com/track/1EYBIeMUH0ZpdlB2iMvVKs) | [dankush](https://open.spotify.com/artist/4zxP5ygXMD6Ycjfi3M8Gkf) | [naked people that don't seem to mind](https://open.spotify.com/album/3sqRXNbhFBHPTx18HUVwby) | 2:08 | 2020-05-06 |  |
 | [Nightfall](https://open.spotify.com/track/2bCwu6RFRzpRY0UKOnrOmg) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Future Feelings](https://open.spotify.com/album/3EaCf0e92oes8PobBFZWKt) | 1:51 | 2020-05-06 |  |
 | [Nightfall](https://open.spotify.com/track/36qwbabBgfelOwKWNRquHg) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Future Feelings](https://open.spotify.com/album/7F5LeCpEp53MwfmPtZqPnp) | 1:51 | 2020-05-06 | 2022-07-29 |
 | [Oblivion](https://open.spotify.com/track/2zhPy8zbBf53XgTtkEbnbO) | [Rufi\-O](https://open.spotify.com/artist/5GKakcgOxfujEnTZOffcRn), [Lily Potter](https://open.spotify.com/artist/2ICXkeX9vhcboodu8Auv8p) | [Oblivion](https://open.spotify.com/album/0Oa8rgpPA3gskDwdjpQBHp) | 2:32 | 2020-05-06 |  |

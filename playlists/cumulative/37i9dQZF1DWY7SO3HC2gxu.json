@@ -82,7 +82,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 110204,
       "name": "Bali",
       "url": "https://open.spotify.com/track/1cCCf8NobUwsf3t9frvVYY"
@@ -266,6 +266,28 @@
       "duration_ms": 227973,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4ubZszrzbW32EIfQlfwBgW"
+    },
+    {
+      "album": {
+        "name": "Gongo",
+        "url": "https://open.spotify.com/album/2dqi90Af77LxU3O88JY7F9"
+      },
+      "artists": [
+        {
+          "name": "Anrey",
+          "url": "https://open.spotify.com/artist/7a2a36QkRDDOhyHWkDXYGw"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193466,
+      "name": "Gongo",
+      "url": "https://open.spotify.com/track/55UCq8K2C8Tf1zJ4CIhta0"
     },
     {
       "album": {
@@ -558,7 +580,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 189715,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/40Gm65yAOslqngyo6D5zx2"
@@ -778,6 +800,24 @@
       "duration_ms": 480000,
       "name": "Mohawk Man",
       "url": "https://open.spotify.com/track/3E0T81r9gsMNNdX4BKSRM5"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/4jvIzo5bnxPmkyhe1P3DQ0"
+      },
+      "artists": [
+        {
+          "name": "Dj McKenzie",
+          "url": "https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175295,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2ZPKXWhtR5xfONqBdSgBiO"
     },
     {
       "album": {
@@ -1027,6 +1067,28 @@
     },
     {
       "album": {
+        "name": "Peah",
+        "url": "https://open.spotify.com/album/06ed3oLUbVAmqmfeZlaijR"
+      },
+      "artists": [
+        {
+          "name": "Diamond Dealer",
+          "url": "https://open.spotify.com/artist/0al2BDNahdKMbU3Nriry1w"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481623,
+      "name": "Peah",
+      "url": "https://open.spotify.com/track/6oq5rfJnVMZZ3OoUY4f96d"
+    },
+    {
+      "album": {
         "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
         "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
       },
@@ -1054,6 +1116,36 @@
       "duration_ms": 205530,
       "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
+    },
+    {
+      "album": {
+        "name": "Power Of You",
+        "url": "https://open.spotify.com/album/39A7DX7RIY3FRn7a6qXvI9"
+      },
+      "artists": [
+        {
+          "name": "Ed-Ward",
+          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
+        },
+        {
+          "name": "Dylan-S",
+          "url": "https://open.spotify.com/artist/176vNYtXl88Q9b3N683c6O"
+        },
+        {
+          "name": "Foozak",
+          "url": "https://open.spotify.com/artist/6bVBQCuQEyT0vgyycuRA4I"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393717,
+      "name": "Power Of You",
+      "url": "https://open.spotify.com/track/5fALbPu4XNwQG0N6mXGAXg"
     },
     {
       "album": {
@@ -1336,7 +1428,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 147426,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/0VKmRGnrho53kJpvW5DJHO"

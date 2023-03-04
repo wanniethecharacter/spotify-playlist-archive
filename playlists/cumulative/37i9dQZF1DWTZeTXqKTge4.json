@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: FouKi",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: GreenWoodz",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 199706,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/7zjnbWmrYenEq0RH00JDeU"
@@ -2977,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "Friday Night",
+        "url": "https://open.spotify.com/album/3SrVZQpgpvIaQ1HErGygdQ"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161019,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/1Edza42w05Qq7cz5K6r658"
+    },
+    {
+      "album": {
         "name": "Froid",
         "url": "https://open.spotify.com/album/5jKAgilOampSvGsOpYHRhG"
       },
@@ -3232,6 +3250,32 @@
       "duration_ms": 163199,
       "name": "Haine & Peine",
       "url": "https://open.spotify.com/track/4z6LzCA9czBUaLsYtzuZwA"
+    },
+    {
+      "album": {
+        "name": "Harry Potter",
+        "url": "https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        },
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
+        },
+        {
+          "name": "Mody",
+          "url": "https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235328,
+      "name": "Harry Potter",
+      "url": "https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE"
     },
     {
       "album": {
@@ -3534,7 +3578,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 141631,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/5uy3QzTHO9TRh97CDhQ9Jm"
@@ -5172,6 +5216,28 @@
     {
       "album": {
         "name": "Patience",
+        "url": "https://open.spotify.com/album/3T7wTfrdZEo6FEPcnYB08j"
+      },
+      "artists": [
+        {
+          "name": "Malko",
+          "url": "https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI"
+        },
+        {
+          "name": "Damlif",
+          "url": "https://open.spotify.com/artist/0mPfVYJyS10AuDGrS3ira2"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219717,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/0zrcUn1dW3oxjqwCJdMa0L"
+    },
+    {
+      "album": {
+        "name": "Patience",
         "url": "https://open.spotify.com/album/0KMwDACsAxoEQOwtcYpjZL"
       },
       "artists": [
@@ -5538,7 +5604,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 189317,
       "name": "P\u00e9tale",
       "url": "https://open.spotify.com/track/5MT66MAa0tPKBM0jV5aqq8"
@@ -7213,6 +7279,28 @@
     },
     {
       "album": {
+        "name": "la mort attendra",
+        "url": "https://open.spotify.com/album/1PIr15iOvcl1JLmIvWMoJ1"
+      },
+      "artists": [
+        {
+          "name": "Obia le Chef",
+          "url": "https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3"
+        },
+        {
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165469,
+      "name": "\u00c7a commence bien",
+      "url": "https://open.spotify.com/track/6XoFiwrYXq8bTaRFYzAwjw"
+    },
+    {
+      "album": {
         "name": "Astronaute",
         "url": "https://open.spotify.com/album/2A41RCTjlR4P888t6OfM89"
       },
@@ -7294,7 +7382,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 174065,
       "name": "\u00d4 CANADA CASH MONEY GAS OIL",
       "url": "https://open.spotify.com/track/1H0M4RGGYBF5pOViL9UdPB"

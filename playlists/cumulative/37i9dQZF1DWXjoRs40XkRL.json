@@ -802,7 +802,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 222500,
       "name": "Hope",
       "url": "https://open.spotify.com/track/0UcmCmfs4dwM2d931pgyjy"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 255986,
       "name": "Laagi Lagan",
       "url": "https://open.spotify.com/track/1lC0VabWt3G9jSm3tLnh7B"
@@ -1452,6 +1452,32 @@
       "duration_ms": 389050,
       "name": "Mann Bheetar",
       "url": "https://open.spotify.com/track/2yhih9jbMZKK9DqpwSTkgP"
+    },
+    {
+      "album": {
+        "name": "Manwa",
+        "url": "https://open.spotify.com/album/32wwi38EZ7cTTw4B6ZSlPE"
+      },
+      "artists": [
+        {
+          "name": "Arth",
+          "url": "https://open.spotify.com/artist/0evALJa0ucQicv1y7aZ06Z"
+        },
+        {
+          "name": "Krutartha",
+          "url": "https://open.spotify.com/artist/2eGe7l1wgPrBMM7wTFs5Wr"
+        },
+        {
+          "name": "Shreyansh Kothari",
+          "url": "https://open.spotify.com/artist/4xLhys8QEzlSbtyemH4Usd"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182799,
+      "name": "Manwa",
+      "url": "https://open.spotify.com/track/4vKwFMgFL0DkOFK2tYnm4z"
     },
     {
       "album": {
@@ -2248,6 +2274,28 @@
       "duration_ms": 278333,
       "name": "Ret Bhari",
       "url": "https://open.spotify.com/track/5vWcAAeT5OaAQqaBDB9IV9"
+    },
+    {
+      "album": {
+        "name": "Rutho Na",
+        "url": "https://open.spotify.com/album/4RXQdMCTlB5HEw589BzYHy"
+      },
+      "artists": [
+        {
+          "name": "Aditya Anand",
+          "url": "https://open.spotify.com/artist/6hc1L9rHE2P8j5pIss5sQz"
+        },
+        {
+          "name": "Priyani Vani Panditt",
+          "url": "https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200396,
+      "name": "Rutho Na",
+      "url": "https://open.spotify.com/track/7qELZM6FhIlVAXDY95fwCv"
     },
     {
       "album": {

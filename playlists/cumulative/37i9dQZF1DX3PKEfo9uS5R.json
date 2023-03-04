@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 251214,
       "name": "Ant",
       "url": "https://open.spotify.com/track/66jYKtkdtP2euHonaFFQh5"
@@ -290,6 +290,24 @@
       "duration_ms": 182161,
       "name": "Below Surface",
       "url": "https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1"
+    },
+    {
+      "album": {
+        "name": "Billson",
+        "url": "https://open.spotify.com/album/5haOOaRphtK0iDs7eGHt13"
+      },
+      "artists": [
+        {
+          "name": "Da Dr\u00fcben",
+          "url": "https://open.spotify.com/artist/1InvYRt2oX1GQPzlXaYXvT"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Billson",
+      "url": "https://open.spotify.com/track/1QILyPPSrMfb10YjyFPH0r"
     },
     {
       "album": {

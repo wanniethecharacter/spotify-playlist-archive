@@ -280,10 +280,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib"
     },
     {
       "album": {
@@ -4701,6 +4719,24 @@
     },
     {
       "album": {
+        "name": "Same Sunrise",
+        "url": "https://open.spotify.com/album/7DkaKreruueKqkN2IjfHem"
+      },
+      "artists": [
+        {
+          "name": "Abby Simone",
+          "url": "https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211893,
+      "name": "Same Sunrise",
+      "url": "https://open.spotify.com/track/4pJY4C94npAvpBbRqEh3zA"
+    },
+    {
+      "album": {
         "name": "San Junipero (Personal Heaven)",
         "url": "https://open.spotify.com/album/4VeLLEb0qHif2xQmV388Gf"
       },
@@ -5064,7 +5100,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 257331,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/3H7pOWNQghEO1EKIcgnAsC"
@@ -5331,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "SUPERGLUE",
+        "url": "https://open.spotify.com/album/67NJuyd4ElTpVyEZYoh9UX"
+      },
+      "artists": [
+        {
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214858,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/2PT6irzoP482s4ziCla3XS"
+    },
+    {
+      "album": {
         "name": "Back In Love",
         "url": "https://open.spotify.com/album/0lFauHBsiqfXQmIXDmIXKY"
       },
@@ -5512,7 +5566,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 180000,
       "name": "The Way It Was Before",
       "url": "https://open.spotify.com/track/5MkeG5rfMXRthy1HtpO7Kx"

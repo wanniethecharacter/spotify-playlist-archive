@@ -6932,6 +6932,28 @@
     {
       "album": {
         "name": "Moment",
+        "url": "https://open.spotify.com/album/6SKjGGR9JjEc686sEnRVuV"
+      },
+      "artists": [
+        {
+          "name": "le moon",
+          "url": "https://open.spotify.com/artist/7pAX1Z7RQzZzTzKJFFgBhU"
+        },
+        {
+          "name": "Tenjo",
+          "url": "https://open.spotify.com/artist/6CKt4tMB1YYkB2CtnnCG9f"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156612,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/51GgGdWzwT8YhpDgEY2Bnr"
+    },
+    {
+      "album": {
+        "name": "Moment",
         "url": "https://open.spotify.com/album/4WbjKC8lxP7F3xTLFRCkW9"
       },
       "artists": [
@@ -11520,7 +11542,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 201250,
       "name": "Walk Thru Fire",
       "url": "https://open.spotify.com/track/06OxW7hDm2hr6P2uh8WNuE"

@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  Lecrae
 
-757 songs - 1 day 14 hr 7 min
+758 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Attributes of Mercy](https://open.spotify.com/track/4sZHFjBABsitGtUnjFdzxd) | [Japhia Life](https://open.spotify.com/artist/0pGmLUvpjAFvYVb6V24z8Z) | [Attributes of Mercy](https://open.spotify.com/album/0K5LKC8zfe44DuZkrJxc1o) | 4:17 | 2021-12-11 | 2022-02-01 |
 | [Autopilot](https://open.spotify.com/track/6QsBP5ptf3kKdnGpuSqBir) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [All Is True](https://open.spotify.com/album/4v9swPe8LPME9ZnXBGayXs) | 3:16 | 2021-12-11 | 2022-04-27 |
 | [Awake](https://open.spotify.com/track/2rpARiXUBYX83iPmNBokTv) | [Raging Moses](https://open.spotify.com/artist/61uIyi5xk0EFfRnMccXuWR), [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4) | [Awake](https://open.spotify.com/album/1z1lWHaYtg1grbXtLNQquL) | 2:30 | 2022-02-27 | 2022-04-29 |
-| [Azusa](https://open.spotify.com/track/4K7SaRHg1R95srP3qkuIMc) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [KidViz](https://open.spotify.com/artist/0zdB6fxQincSsBOLaTmpEe), [NK4](https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc) | [Azusa](https://open.spotify.com/album/1rZSR3Wyyk7ZhCJLGbvjY9) | 3:16 | 2022-10-05 |  |
+| [Azusa](https://open.spotify.com/track/4K7SaRHg1R95srP3qkuIMc) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [KidViz](https://open.spotify.com/artist/0zdB6fxQincSsBOLaTmpEe), [NK4](https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc) | [Azusa](https://open.spotify.com/album/1rZSR3Wyyk7ZhCJLGbvjY9) | 3:16 | 2022-10-05 | 2023-03-04 |
 | [Baby Boy \(feat\. Kaeli Roselle\)](https://open.spotify.com/track/3nxipxyGXTIU2yHAJbBeZA) | [King Chav](https://open.spotify.com/artist/1e5ZIHiMERAHN9fsK3sdGt), [Kaeli Roselle](https://open.spotify.com/artist/6T0JCDK8e0MjyxHgQpI8VC) | [Baby Boy \(feat\. Kaeli Roselle\)](https://open.spotify.com/album/21xMITdxBTqGZEfiMxjEfp) | 4:08 | 2021-12-11 | 2022-02-01 |
 | [Back n Bold \(Freestyle\)](https://open.spotify.com/track/3EaGISYIc4dx7KRIHwkzhK) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Back n Bold \(Freestyle\)](https://open.spotify.com/album/1yJUJuRAFOBMraPspNinhk) | 2:19 | 2022-09-11 | 2022-10-05 |
 | [Back Then](https://open.spotify.com/track/4vSOPcWRHOxoXHfHZTUVLi) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 4:26 | 2022-04-29 | 2022-08-07 |
@@ -314,6 +314,7 @@
 | [I Meant It](https://open.spotify.com/track/0URheuSTODAZH9poIPFOzi) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [When It Hurts: A Story By Isaiah Hill](https://open.spotify.com/album/1vBAFhwlesvJXy1HBIIUoP) | 2:02 | 2022-02-04 | 2022-04-22 |
 | [I Might Not Be Breathing](https://open.spotify.com/track/4YJcjLWnuUtIdBDvpnN6Df) | [Corey Wise](https://open.spotify.com/artist/6vIEpnoY5ajDIcFQdbzz2j), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj), [Outatime!](https://open.spotify.com/artist/4v8xBaNwna8BMYcvjwXmlN) | [I Might Not Be Breathing](https://open.spotify.com/album/5FF3iZ2Yxr3nF2UqYmfqRg) | 2:58 | 2021-12-11 | 2022-05-28 |
 | [I Need Peace](https://open.spotify.com/track/1b9yRZtZfHemIdpHYtpckC) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [I Need Peace](https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ) | 3:21 | 2022-10-01 |  |
+| [I Need You](https://open.spotify.com/track/3PdVSbhF1RibB3HEw88Ryl) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [I Need You](https://open.spotify.com/album/3iEJnNS1A686PUk7UwEPEL) | 3:27 | 2023-03-04 |  |
 | [I Promise!](https://open.spotify.com/track/4UuMv9zZV2r2DSKCYOoWp8) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [I Promise!](https://open.spotify.com/album/70HQjlgv8QVWz6GlYhUuuc) | 1:52 | 2023-01-27 | 2023-02-25 |
 | [I See You](https://open.spotify.com/track/1ANoq205jKSvAgkk5VYD10) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Two For One \- EP](https://open.spotify.com/album/0cEmAwgpqPWUuftdxxnR7O) | 2:37 | 2021-12-11 | 2022-01-22 |
 | [I Think \(Securus Original Hip Hop Track Winner, Carmela Mose\)](https://open.spotify.com/track/1tgeZZiy44qDSWtOSttxPH) | [GOOD](https://open.spotify.com/artist/4aKNNQeNgCES2nItLl3WbN), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [I Think \(Securus Original Hip Hop Track Winner, Carmela Mose\)](https://open.spotify.com/album/16pKMIfIYBEjM07BbecHyt) | 3:35 | 2022-09-11 | 2022-10-14 |

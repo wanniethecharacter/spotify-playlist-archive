@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Azote",
+        "url": "https://open.spotify.com/album/2IvC3pPmUw7QDAamPXP0i8"
+      },
+      "artists": [
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117068,
+      "name": "Azote",
+      "url": "https://open.spotify.com/track/7IJZyhrttBYZAIwQxmPxuj"
+    },
+    {
+      "album": {
         "name": "Bagdad",
         "url": "https://open.spotify.com/album/7m5Q0mNc4jGcWz2TfyPYAL"
       },
@@ -372,7 +390,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 189333,
       "name": "BEYAKO",
       "url": "https://open.spotify.com/track/2EAOt2do7mwO26jsPi6ayM"
@@ -572,7 +590,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 174339,
       "name": "Cla Cla",
       "url": "https://open.spotify.com/track/1CBzjDMBoF63EMLBEbdH9K"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 177506,
       "name": "Contra la Pared",
       "url": "https://open.spotify.com/track/1AOJGa2b29LokEYqaaHWyg"
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 173195,
       "name": "Flow Soltera",
       "url": "https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC"
@@ -1198,6 +1216,32 @@
       "duration_ms": 202809,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/0IlwSd3IcgnHXPmRv89DSm"
+    },
+    {
+      "album": {
+        "name": "Jordan Flight",
+        "url": "https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159923,
+      "name": "Jordan Flight",
+      "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
     },
     {
       "album": {
@@ -1446,7 +1490,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 122774,
       "name": "Likes",
       "url": "https://open.spotify.com/track/2MSQ5nSg740lxwalZ2YIiR"
@@ -1509,6 +1553,28 @@
     },
     {
       "album": {
+        "name": "LOS CULOS DE MEDALLO",
+        "url": "https://open.spotify.com/album/4KM5V40PZLMWbBcrzLlduL"
+      },
+      "artists": [
+        {
+          "name": "Kapla y Miky",
+          "url": "https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "LOS CULOS DE MEDALLO",
+      "url": "https://open.spotify.com/track/2CvfXjMfoheLIdjlkIBjXA"
+    },
+    {
+      "album": {
         "name": "Cumbiaton Total",
         "url": "https://open.spotify.com/album/4BlAGrb8qPYX1TuaInheT4"
       },
@@ -1532,6 +1598,24 @@
       "duration_ms": 185440,
       "name": "Mamita Sensual",
       "url": "https://open.spotify.com/track/1W401R1yONbC7KUXoNQBoM"
+    },
+    {
+      "album": {
+        "name": "Mano a La Pared",
+        "url": "https://open.spotify.com/album/4uGcR25lyuaaM1V06VqRrF"
+      },
+      "artists": [
+        {
+          "name": "PIERI",
+          "url": "https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122369,
+      "name": "Mano a La Pared",
+      "url": "https://open.spotify.com/track/7Dzv3NX8VbQJfZXRvVGn9D"
     },
     {
       "album": {
@@ -1572,7 +1656,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 195944,
       "name": "Melocoton",
       "url": "https://open.spotify.com/track/0Ix9XHG0Zkydd6zTJwQvwF"
@@ -1654,7 +1738,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 183895,
       "name": "Mexicana (feat. El Malilla)",
       "url": "https://open.spotify.com/track/73APnBn08CSe4ygy3L3Be8"
@@ -1770,7 +1854,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 206000,
       "name": "M\u00e1s Tarde (Remix)",
       "url": "https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN"
@@ -2135,6 +2219,28 @@
     },
     {
       "album": {
+        "name": "Problematik (feat. RYH)",
+        "url": "https://open.spotify.com/album/1qkHprIMfXGQl6MLBwce96"
+      },
+      "artists": [
+        {
+          "name": "Yasmi",
+          "url": "https://open.spotify.com/artist/3SeLlSSVzurvLQGQEZLyKW"
+        },
+        {
+          "name": "RYH",
+          "url": "https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139918,
+      "name": "Problematik (feat. RYH)",
+      "url": "https://open.spotify.com/track/4au385cqaT6yH0uVm4Cd4e"
+    },
+    {
+      "album": {
         "name": "Puesto Pal Bellaqueo",
         "url": "https://open.spotify.com/album/2om98nDOKGhIdD7FKWOQ3q"
       },
@@ -2260,6 +2366,32 @@
       "duration_ms": 204630,
       "name": "Rebota",
       "url": "https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx"
+    },
+    {
+      "album": {
+        "name": "Rkt",
+        "url": "https://open.spotify.com/album/3kGB4NVBhJH02h2OhW67EF"
+      },
+      "artists": [
+        {
+          "name": "Kid Moonsta",
+          "url": "https://open.spotify.com/artist/2rislViYWTnnJnNQHJ41Dy"
+        },
+        {
+          "name": "Alexis Rostro",
+          "url": "https://open.spotify.com/artist/7FDQ4723m46e8vV6URzQKE"
+        },
+        {
+          "name": "Easy Mo",
+          "url": "https://open.spotify.com/artist/76Oj47sMTbpy61tK8k81Ty"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Rkt",
+      "url": "https://open.spotify.com/track/6kunqLryu0TFabC9x798tW"
     },
     {
       "album": {
@@ -2532,7 +2664,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 205408,
       "name": "Suena Perreo",
       "url": "https://open.spotify.com/track/0SCknxoIsIIzn6hhrwwg39"
@@ -2618,6 +2750,24 @@
       "duration_ms": 178723,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/2RzPVFpfWi2c0vTqzLoHwa"
+    },
+    {
+      "album": {
+        "name": "Tiempos de Plan B",
+        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161287,
+      "name": "Tiempos de Plan B",
+      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
     },
     {
       "album": {
@@ -2740,6 +2890,24 @@
       "duration_ms": 227608,
       "name": "Tu Pones la Hora y Yo Le Caigo",
       "url": "https://open.spotify.com/track/4AJzH1HTwBcfxTH5F2hO4g"
+    },
+    {
+      "album": {
+        "name": "Tu Pones la Hora y Yo Le Caigo",
+        "url": "https://open.spotify.com/album/5MwKUAT1QxdlUalOBVu74w"
+      },
+      "artists": [
+        {
+          "name": "Nyel",
+          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227117,
+      "name": "Tu Pones la Hora y Yo Le Caigo",
+      "url": "https://open.spotify.com/track/2ZD6DyfX8VSF0st6Pu3RV3"
     },
     {
       "album": {
@@ -2876,6 +3044,32 @@
       "duration_ms": 169404,
       "name": "Yakuza",
       "url": "https://open.spotify.com/track/7Jyk0UOKEfXbcuZPEYqe3S"
+    },
+    {
+      "album": {
+        "name": "\u00d1ero Session 2",
+        "url": "https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Cris Sour",
+          "url": "https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t"
+        },
+        {
+          "name": "Zkiper Mami",
+          "url": "https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "\u00d1ero Session 2",
+      "url": "https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUdsUUs0FzN4"

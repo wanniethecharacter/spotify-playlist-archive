@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 32506,
+  "num_followers": 32595,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMDE2OWNkNDg0MzU0N2E2MGQ4MzUwZTk1MWY4YjQyNWM5",
+  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMGIwYjhkNTRiYjc4ODY5ODRkOTUxNDFmMzhhNjBlYmQy",
   "tracks": [
     {
       "added_at": "2022-11-29 16:59:10",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "ihonestlymightjustgiveup",
-        "url": "https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J"
-      },
-      "artists": [
-        {
-          "name": "d0llywood1",
-          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
-        }
-      ],
-      "duration_ms": 126177,
-      "name": "ihonestlymightjustgiveup",
-      "url": "https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "Hello Kitty",
         "url": "https://open.spotify.com/album/4cbs7e96BjbFaKqafPA8ZR"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 179541,
       "name": "Hello Kitty",
       "url": "https://open.spotify.com/track/2EZHO9OoxZoaBs669GtWZv"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "ihonestlymightjustgiveup",
+        "url": "https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J"
+      },
+      "artists": [
+        {
+          "name": "d0llywood1",
+          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
+        }
+      ],
+      "duration_ms": 126177,
+      "name": "ihonestlymightjustgiveup",
+      "url": "https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -559,30 +559,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Dial Tone",
-        "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
-      },
-      "artists": [
-        {
-          "name": "That Kid",
-          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
-        },
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J"
-        },
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "Dial Tone",
-      "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "1:15",
         "url": "https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 158096,
       "name": "glittr",
       "url": "https://open.spotify.com/track/5HqYfq9MfZAyP7RgPeA0vi"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "Dial Tone",
+        "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
+      },
+      "artists": [
+        {
+          "name": "That Kid",
+          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J"
+        },
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "I Don't Want That Many Friends in the First Place",
+        "url": "https://open.spotify.com/album/2ka4LLM77O00KdcLNxLgui"
+      },
+      "artists": [
+        {
+          "name": "richiequinn",
+          "url": "https://open.spotify.com/artist/1qc4Ie27sWHNYeFgAkvwjd"
+        }
+      ],
+      "duration_ms": 109091,
+      "name": "I Don't Want That Many Friends in the First Place",
+      "url": "https://open.spotify.com/track/490OK7QdkPnqAxOCUI2iHF"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "Hey QT",
         "url": "https://open.spotify.com/album/2j4oAo8L6xpAmJsCi5cL7W"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 137142,
       "name": "Second hand embarrassment",
       "url": "https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "Broken Flowers - EP",
-        "url": "https://open.spotify.com/album/6jpADwNRHSXDsvPSzARq00"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        }
-      ],
-      "duration_ms": 203280,
-      "name": "Broken Flowers",
-      "url": "https://open.spotify.com/track/7Km0ioOI11nh7xGatqrpDj"
     }
   ],
   "unique_name": "Hyperpop Classics",

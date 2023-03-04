@@ -4,7 +4,7 @@
 
 > Breathe deep, close your eyes, immerse yourself...\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-70 songs - 3 hr 27 min
+71 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Rain Lulang](https://open.spotify.com/track/0it6dOQ7wKLCQMHn3nOWNO) | [Calmiosure](https://open.spotify.com/artist/6ECnZS2L9Yn6KY0KzBOkLf) | [Rain Lulang](https://open.spotify.com/album/1AkqHDGkLmGOhfCROXqkg5) | 3:17 | 2022-12-12 |  |
 | [Rainbowls](https://open.spotify.com/track/3qOJ0WsaI1jqQ06lgy24CS) | [Augmented Meditation](https://open.spotify.com/artist/2Gj9De52rmWf9w9esZPs9A) | [Rainbowls](https://open.spotify.com/album/3slFA5CzN0QYb0tzmhDTVZ) | 3:12 | 2022-12-12 |  |
 | [Reflecting Moon \(with Rain\)](https://open.spotify.com/track/6lPMyxkZjITULwBBYQ9xM7) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Reflecting Moon](https://open.spotify.com/album/6Anbyedkfa89KmehHRmJMw) | 3:04 | 2022-12-12 |  |
+| [Refreshing Thoughts \- River](https://open.spotify.com/track/5gMX6SqIftxYDqvuzsMGvM) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Soundbath Exploration](https://open.spotify.com/album/2zu28p3ggoO0kvYjlqP2SZ) | 3:08 | 2023-03-03 |  |
 | [Restore](https://open.spotify.com/track/0hqSBm1sipCxHVl3qj1pNX) | [Misha Burton](https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue) | [Restore](https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0) | 3:02 | 2023-01-13 |  |
 | [Sacral Chakra \- Rivers & Creeks](https://open.spotify.com/track/5eFmrcIIFUPJoXVN5SXjHl) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [Crystal Bowls for Meditation \(Rivers & Creeks\)](https://open.spotify.com/album/13uzcrAviSel5HR9vCRKiP) | 3:04 | 2022-12-12 |  |
 | [Sanctuary](https://open.spotify.com/track/7D1q0ED0J2pbRysoJW8VNj) | [Bowlus Sanctus](https://open.spotify.com/artist/3ku1Kd09REbs9hRV04wnBM) | [Sanctuary](https://open.spotify.com/album/2FyEV9PBuXaPCrAM3PBXTS) | 2:53 | 2022-12-12 |  |

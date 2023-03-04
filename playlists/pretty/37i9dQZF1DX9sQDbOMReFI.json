@@ -1,15 +1,35 @@
 {
-  "description": "The best side! Cover: Mount Westmore",
-  "num_followers": 666070,
+  "description": "The best side! Cover: Yo-Yo",
+  "num_followers": 666355,
   "original_name": "I Love My West Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzQ5NDQwMCwwMDAwMDAwMDJjMzM1MjYwMzllZmMxNDNjMTI4MjNkZDU4NjI2NTkx",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDljYzQ1YzI3NGI1MDA3YjJjYWU3MzNlMTI5NDAwNmM4",
   "tracks": [
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Make Way For The Motherlode",
+        "url": "https://open.spotify.com/album/0mSz5kMqndsfPQ0i0XoKEl"
+      },
+      "artists": [
+        {
+          "name": "Yo-Yo",
+          "url": "https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 304666,
+      "name": "You Can't Play with My Yo-Yo (feat. Ice Cube)",
+      "url": "https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
@@ -29,23 +49,7 @@
       "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Strictly 4 My N.I.G.G.A.Z...",
-        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "Keep Ya Head Up",
-      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "The Predator",
         "url": "https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46"
@@ -61,7 +65,7 @@
       "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Regulate\u2026 G Funk Era",
         "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
@@ -81,7 +85,7 @@
       "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
@@ -101,7 +105,7 @@
       "url": "https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Operation Stackola",
         "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
@@ -121,7 +125,7 @@
       "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Gangsta Memorial",
         "url": "https://open.spotify.com/album/63e4jpPrJzjGsTxM4QOOFb"
@@ -137,7 +141,7 @@
       "url": "https://open.spotify.com/track/53BZ6XygAoubR5DU5w38Vq"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
@@ -161,7 +165,7 @@
       "url": "https://open.spotify.com/track/74kHlIr01X459gqsSdNilW"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Get In Where You Fit In",
         "url": "https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1"
@@ -177,7 +181,7 @@
       "url": "https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
@@ -197,7 +201,7 @@
       "url": "https://open.spotify.com/track/2cDCojn6uIBM6A5xTAbl3H"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Bizarre Ride II The Pharcyde",
         "url": "https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna"
@@ -213,7 +217,7 @@
       "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "93 'til Infinity",
         "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
@@ -229,7 +233,7 @@
       "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Doggystyle",
         "url": "https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C"
@@ -249,7 +253,7 @@
       "url": "https://open.spotify.com/track/7sPt2cfrg7DrVP52zfvS1i"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Black Sunday",
         "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
@@ -265,7 +269,7 @@
       "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Friday (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
@@ -281,10 +285,10 @@
       "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
       },
       "artists": [
         {
@@ -292,12 +296,12 @@
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Dear Mama",
-      "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
+      "duration_ms": 262506,
+      "name": "Keep Ya Head Up",
+      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Bootlegs And B-Sides",
         "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
@@ -317,7 +321,7 @@
       "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Regulate\u2026 G Funk Era",
         "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
@@ -337,7 +341,7 @@
       "url": "https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Sex Packets",
         "url": "https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL"
@@ -353,7 +357,7 @@
       "url": "https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
@@ -369,7 +373,7 @@
       "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "It Takes a Thief",
         "url": "https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb"
@@ -385,7 +389,7 @@
       "url": "https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
@@ -401,7 +405,23 @@
       "url": "https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Dear Mama",
+      "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Death Certificate",
         "url": "https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj"
@@ -417,23 +437,7 @@
       "url": "https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "So Many Tears",
-      "url": "https://open.spotify.com/track/0NzNKU2MJ9LCetT2uZMJH2"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Cypress Hill",
         "url": "https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM"
@@ -449,7 +453,7 @@
       "url": "https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Music To Driveby",
         "url": "https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS"
@@ -465,7 +469,7 @@
       "url": "https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Short Dog's In The House",
         "url": "https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt"
@@ -481,7 +485,7 @@
       "url": "https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
@@ -501,7 +505,7 @@
       "url": "https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Safe + Sound",
         "url": "https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe"
@@ -517,7 +521,7 @@
       "url": "https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Brothas Doobie",
         "url": "https://open.spotify.com/album/33SkKSM72vyJvx5oc13351"
@@ -533,23 +537,7 @@
       "url": "https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "AmeriKKKa's Most Wanted",
-        "url": "https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "The Nigga Ya Love To Hate",
-      "url": "https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Me Against The World",
         "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
@@ -558,18 +546,14 @@
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Dramacydal",
-          "url": "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
         }
       ],
-      "duration_ms": 279133,
-      "name": "Me Against The World",
-      "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
+      "duration_ms": 239226,
+      "name": "So Many Tears",
+      "url": "https://open.spotify.com/track/0NzNKU2MJ9LCetT2uZMJH2"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Black Sunday",
         "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
@@ -585,7 +569,23 @@
       "url": "https://open.spotify.com/track/2icouZbxwqoL63gHhO2vGd"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "AmeriKKKa's Most Wanted",
+        "url": "https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "The Nigga Ya Love To Hate",
+      "url": "https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Get In Where You Fit In",
         "url": "https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/21GzqgubvWR6Iks9IbDmJE"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Don't Fight The Feelin'",
         "url": "https://open.spotify.com/album/1VUlxoPvDA8PfUDHTic793"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/4ZYM6R5nOZywxACY90Bsla"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/22763wCAdRd1wwwCN3CU8u"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "This Is The Shack",
         "url": "https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "At Your Own Risk",
         "url": "https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Quik Is The Name",
         "url": "https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Mack 10",
         "url": "https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO"
@@ -709,39 +709,27 @@
       "url": "https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Hispanic Causing Panic",
-        "url": "https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX"
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
       },
       "artists": [
         {
-          "name": "Kid Frost",
-          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "La Raza",
-      "url": "https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Explicit Game",
-        "url": "https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P"
-      },
-      "artists": [
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
         {
-          "name": "Dru Down",
-          "url": "https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk"
+          "name": "Dramacydal",
+          "url": "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
         }
       ],
-      "duration_ms": 254093,
-      "name": "Pimp Of The Year",
-      "url": "https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC"
+      "duration_ms": 279133,
+      "name": "Me Against The World",
+      "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "When We Wuz Bangin",
         "url": "https://open.spotify.com/album/3pmtX0h9cMvyBcwWx5oz3w"
@@ -757,7 +745,39 @@
       "url": "https://open.spotify.com/track/2sXMYMpvGVJJBIwrzNf0Lr"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Hispanic Causing Panic",
+        "url": "https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX"
+      },
+      "artists": [
+        {
+          "name": "Kid Frost",
+          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "La Raza",
+      "url": "https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Explicit Game",
+        "url": "https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P"
+      },
+      "artists": [
+        {
+          "name": "Dru Down",
+          "url": "https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "Pimp Of The Year",
+      "url": "https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Kill At Will",
         "url": "https://open.spotify.com/album/7oeFV70h2fDapspboicRP5"
@@ -773,7 +793,7 @@
       "url": "https://open.spotify.com/track/2I7lgP1f5p5cKH7aNHtEEx"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Bizarre Ride II The Pharcyde",
         "url": "https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna"
@@ -789,7 +809,7 @@
       "url": "https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Hip-Hop Legacy, Vol. 8",
         "url": "https://open.spotify.com/album/6lC6kysYRpVbkJsWQDsybb"
@@ -805,39 +825,7 @@
       "url": "https://open.spotify.com/track/5obHDgSMnUgVmtemERcL08"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "No One Can Do It Better",
-        "url": "https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD"
-      },
-      "artists": [
-        {
-          "name": "The D.O.C.",
-          "url": "https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd"
-        }
-      ],
-      "duration_ms": 269973,
-      "name": "It's Funky Enough - Remastered Single",
-      "url": "https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Domino",
-        "url": "https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR"
-      },
-      "artists": [
-        {
-          "name": "Domino",
-          "url": "https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1"
-        }
-      ],
-      "duration_ms": 259279,
-      "name": "Getto Jam",
-      "url": "https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "It's A Compton Thang!",
         "url": "https://open.spotify.com/album/53AUJ8HnXA7i8PrC8maxTY"
@@ -853,20 +841,36 @@
       "url": "https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "I Wish My Brother George Was Here",
-        "url": "https://open.spotify.com/album/0AK7woKmcPwiCyv3SDiKor"
+        "name": "No One Can Do It Better",
+        "url": "https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD"
       },
       "artists": [
         {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          "name": "The D.O.C.",
+          "url": "https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd"
         }
       ],
-      "duration_ms": 253626,
-      "name": "Mistadobalina",
-      "url": "https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p"
+      "duration_ms": 269973,
+      "name": "It's Funky Enough - Remastered Single",
+      "url": "https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR"
+      },
+      "artists": [
+        {
+          "name": "Domino",
+          "url": "https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1"
+        }
+      ],
+      "duration_ms": 259279,
+      "name": "Getto Jam",
+      "url": "https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx"
     }
   ],
   "unique_name": "I Love My West Coast Classics",

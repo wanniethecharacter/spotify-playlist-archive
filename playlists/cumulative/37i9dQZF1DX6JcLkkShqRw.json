@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Standly & Callejero Fino.",
+  "description": "Flow sudamericano con Broke Carrey.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 215379,
       "name": "03:35",
       "url": "https://open.spotify.com/track/42HKPss4PmxTaMKbPQtsZz"
+    },
+    {
+      "album": {
+        "name": "BUENOS AIRES MOTEL",
+        "url": "https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY"
+      },
+      "artists": [
+        {
+          "name": "Broke Carrey",
+          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+        },
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "0800",
+      "url": "https://open.spotify.com/track/06yq2Skk79tALme6b2vRVk"
     },
     {
       "album": {
@@ -366,6 +388,24 @@
       "duration_ms": 111857,
       "name": "99",
       "url": "https://open.spotify.com/track/0h4KxzM8uvGgrv66imth9N"
+    },
+    {
+      "album": {
+        "name": "A Lo Rockstar",
+        "url": "https://open.spotify.com/album/5vVISJWoJcnal3vT5MNLH1"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166060,
+      "name": "A Lo Rockstar",
+      "url": "https://open.spotify.com/track/4QTdOe3d50cfm37j4u8eB9"
     },
     {
       "album": {
@@ -2685,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/3nbAVWkwqNay0YDnfAdGYt"
+      },
+      "artists": [
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/1RdpoZKl5LUWvK7H1TVEE1"
+    },
+    {
+      "album": {
         "name": "POST MORTEM",
         "url": "https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF"
       },
@@ -2928,6 +2986,28 @@
       "duration_ms": 221123,
       "name": "Como Yo Lo Hago",
       "url": "https://open.spotify.com/track/470B3hidu0e4iEfVWKCgq6"
+    },
+    {
+      "album": {
+        "name": "BUENOS AIRES MOTEL",
+        "url": "https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY"
+      },
+      "artists": [
+        {
+          "name": "Broke Carrey",
+          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174097,
+      "name": "COMPA",
+      "url": "https://open.spotify.com/track/40EalzUKMq1i28ha5EccEH"
     },
     {
       "album": {
@@ -3544,7 +3624,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 159967,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/1B7Wxx58QV4xrCjxI4Uu3i"
@@ -3802,7 +3882,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 172481,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/16xxTZHVPcKi9R3hwY6k0y"
@@ -4782,7 +4862,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 164542,
       "name": "En El Jacuzzi",
       "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
@@ -5146,7 +5226,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 174315,
       "name": "Experimento 01",
       "url": "https://open.spotify.com/track/25yOopxmGC67836N4POHBg"
@@ -7214,6 +7294,24 @@
       "duration_ms": 157171,
       "name": "Klose",
       "url": "https://open.spotify.com/track/2Z3yoeQOnvJsxQguSsyKQP"
+    },
+    {
+      "album": {
+        "name": "KTM",
+        "url": "https://open.spotify.com/album/1K4MCwzabYrHKStunPKVmR"
+      },
+      "artists": [
+        {
+          "name": "VaniaJoplin",
+          "url": "https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157377,
+      "name": "KTM",
+      "url": "https://open.spotify.com/track/3rA2LeNavJ9MyyG1SFhwcD"
     },
     {
       "album": {
@@ -10840,7 +10938,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 234666,
       "name": "Noche Loca",
       "url": "https://open.spotify.com/track/27toenwtHpZ7fn0QjehRl2"
@@ -10984,7 +11082,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 192507,
       "name": "NOW",
       "url": "https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx"
@@ -11504,6 +11602,28 @@
       "duration_ms": 252930,
       "name": "Pa Ke se Pike",
       "url": "https://open.spotify.com/track/2ioSXgcbY8Fc04Ot4kvxGw"
+    },
+    {
+      "album": {
+        "name": "Pa Que Te Quedes",
+        "url": "https://open.spotify.com/album/3nDHlpnfcoiRRnpPW23UpZ"
+      },
+      "artists": [
+        {
+          "name": "Igna",
+          "url": "https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t"
+        },
+        {
+          "name": "Lexter",
+          "url": "https://open.spotify.com/artist/7IFdRlM8n1AUJvKN5Eb7xj"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161953,
+      "name": "Pa Que Te Quedes",
+      "url": "https://open.spotify.com/track/1N6mS6dbXr8onFXMfHgkPZ"
     },
     {
       "album": {
@@ -12283,6 +12403,32 @@
     },
     {
       "album": {
+        "name": "Poka Luz",
+        "url": "https://open.spotify.com/album/1M7xS9mJ9jOxFKCWKqvMhy"
+      },
+      "artists": [
+        {
+          "name": "Despu\u00e9s de la fiesta",
+          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106800,
+      "name": "Poka Luz",
+      "url": "https://open.spotify.com/track/05h2p4OlGsBFNeVMLrKuJE"
+    },
+    {
+      "album": {
         "name": "Polaris",
         "url": "https://open.spotify.com/album/7tbASHDB5H8y0QUjOhVBXu"
       },
@@ -12360,7 +12506,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 480000,
       "name": "Ponle - Remix",
       "url": "https://open.spotify.com/track/60eTDDWVvw2QKXEeoQ4BjO"
@@ -14385,6 +14531,24 @@
     },
     {
       "album": {
+        "name": "Soy una Gerla",
+        "url": "https://open.spotify.com/album/5Dtr4425ZrOdNdH8dKVMqR"
+      },
+      "artists": [
+        {
+          "name": "Almeyda",
+          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116412,
+      "name": "Soy una Gerla",
+      "url": "https://open.spotify.com/track/197ZZGvA3mTwIZ6V2dtat1"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/0fyBNvSaylRBFIjtIzLopH"
       },
@@ -14570,7 +14734,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 195172,
       "name": "Ta' Soltera",
       "url": "https://open.spotify.com/track/48D3hmwzP6UiJa4jj6tR8y"

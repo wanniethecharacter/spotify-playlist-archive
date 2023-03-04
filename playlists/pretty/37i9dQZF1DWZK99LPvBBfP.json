@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 146865,
+  "num_followers": 147010,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMDYxOGE2OTk3NzVmZGYxMzdhZjlmZDE5NDNmNjNjMDU1",
+  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMGYwYzI5YjUwOWIxMGEwZWI0OTlhMjhkMGU0ZmMxZmZi",
   "tracks": [
     {
       "added_at": "2022-04-13 15:02:41",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Domino Remixes",
-        "url": "https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI"
-      },
-      "artists": [
-        {
-          "name": "Oxia",
-          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
-        }
-      ],
-      "duration_ms": 435266,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "Pjanoo",
         "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 450912,
       "name": "Pjanoo - Club Mix",
       "url": "https://open.spotify.com/track/0noVd1VU93X8TEZMmpR3yN"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "Domino Remixes",
+        "url": "https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI"
+      },
+      "artists": [
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        }
+      ],
+      "duration_ms": 435266,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
     },
     {
       "added_at": "2022-04-13 15:02:41",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Donna Summer",
-        "url": "https://open.spotify.com/album/5FrCkoFG25Zd6QVJTtviYW"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 351493,
-      "name": "State of Independence",
-      "url": "https://open.spotify.com/track/3mZ6PVxWBhCycZxeEJQDNs"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "Chime",
         "url": "https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 194760,
       "name": "Chime - Edit",
       "url": "https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "Donna Summer",
+        "url": "https://open.spotify.com/album/5FrCkoFG25Zd6QVJTtviYW"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 351493,
+      "name": "State of Independence",
+      "url": "https://open.spotify.com/track/3mZ6PVxWBhCycZxeEJQDNs"
     },
     {
       "added_at": "2022-04-13 15:02:41",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Avalon Emerson
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,536 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,543 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hot Evening](https://open.spotify.com/track/7l7tXEWUMfW5m5AE8vPfOB) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Hot Evening](https://open.spotify.com/album/7IZ79nalZzDtQhgtCR4Dp1) | 4:01 |
 | 2 | [Mike \(desert island duvet\)](https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Mike \(desert island duvet\)](https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa) | 4:24 |
-| 3 | [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\) \[Edit\]](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 |
+| 3 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 |
 | 4 | [1999](https://open.spotify.com/track/5ABy6tQKNoAAZfwStB0DcS) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo), [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [1999](https://open.spotify.com/album/3JBOKKRLPdZmUwLOydCBkT) | 3:28 |
 | 5 | [White Walls](https://open.spotify.com/track/3CuCZPForUo8r9Cwl8IuW7) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Running / White Walls](https://open.spotify.com/album/4uefJDQWx5GQr8havtOMuf) | 4:35 |
 | 6 | [No Words](https://open.spotify.com/track/5PBxD6QaOYV1HKeKNvgDCk) | [Pale Blue](https://open.spotify.com/artist/5qYbA0I1qwOI3jchiZukHr) | [No Words](https://open.spotify.com/album/27iuFlJawNgWcNsK3WGUzb) | 4:46 |

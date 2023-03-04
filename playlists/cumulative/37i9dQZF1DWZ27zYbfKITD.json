@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 174025,
       "name": "Pok\u00e9mon Center",
       "url": "https://open.spotify.com/track/4SdmpDFXumnSgTIysSmMmq"
@@ -1252,6 +1252,24 @@
       "duration_ms": 244255,
       "name": "The Box",
       "url": "https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn"
+    },
+    {
+      "album": {
+        "name": "Beyond the Screen - Film Works on Piano",
+        "url": "https://open.spotify.com/album/63mhNGE2RR3GATpOgQvHKi"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136452,
+      "name": "The Cider House Rules: Piano Suite",
+      "url": "https://open.spotify.com/track/0T7aVa8RpGJxDfth5Yve9x"
     },
     {
       "album": {

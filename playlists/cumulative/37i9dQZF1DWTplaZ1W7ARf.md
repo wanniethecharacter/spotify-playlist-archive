@@ -2,7 +2,7 @@
 
 ### [Street Soul](https://open.spotify.com/playlist/37i9dQZF1DWTplaZ1W7ARf)
 
-> Neighborhood Storytellers\. Cover: JayDaYoungan
+> Neighborhood Storytellers\. Cover: Monaleo
 
 180 songs - 9 hr 4 min
 

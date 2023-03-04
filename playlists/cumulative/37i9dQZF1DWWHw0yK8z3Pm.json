@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Birds Go Die Out Of Sight (Don\u2019t Go Home)",
+        "url": "https://open.spotify.com/album/6q96GD9tH8GoiSO3dN1Mc0"
+      },
+      "artists": [
+        {
+          "name": "Peter One",
+          "url": "https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257053,
+      "name": "Birds Go Die Out Of Sight (Don't Go Home) (feat. Allison Russell)",
+      "url": "https://open.spotify.com/track/2ifZiKf2QSQV4yQQzUdyUo"
+    },
+    {
+      "album": {
         "name": "Blackjack County Chain",
         "url": "https://open.spotify.com/album/0Y4htv2b5SQzLBP9GBckhL"
       },
@@ -1244,6 +1266,24 @@
       "duration_ms": 210893,
       "name": "Dusty Bottles",
       "url": "https://open.spotify.com/track/7kpdCMUv7Tc8XNAlfJffmW"
+    },
+    {
+      "album": {
+        "name": "Goldie Hawn / Easier and Harder / When You Miss Someone / Tanqueray",
+        "url": "https://open.spotify.com/album/6G20apxio3xFWZGqv90Auf"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176763,
+      "name": "Easier and Harder",
+      "url": "https://open.spotify.com/track/2l1EdoGlGhbhkbbnjV1Bf9"
     },
     {
       "album": {
@@ -3954,7 +3994,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 249462,
       "name": "Two Shots",
       "url": "https://open.spotify.com/track/5TedK5daYlWU5Ij9gBxQpk"
@@ -4156,7 +4196,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 185920,
       "name": "When You Miss Someone",
       "url": "https://open.spotify.com/track/7qJKahUHkASPu54vMil98J"

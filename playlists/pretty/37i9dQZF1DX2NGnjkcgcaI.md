@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,808 likes - 56 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,850 likes - 56 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 | 18 | [Obsessional](https://open.spotify.com/track/1fffuJqMcuouLpZNeOLk9N) | [Nae:Tek](https://open.spotify.com/artist/3Gwyr2ZQ0GexXr7V7w5dPP), [Liuos](https://open.spotify.com/artist/10x61JbRUPhZhVBnXZkxCV) | [Obsessional](https://open.spotify.com/album/3NQ39bTQCMC9dgGd1fzC7t) | 7:15 |
 | 19 | [Spring Will Come and We Will Open the Windows](https://open.spotify.com/track/3U4HbEVFnO9jq8qQF780ox) | [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [A Touch of Seafields](https://open.spotify.com/album/7KB3Lic993iqXlCu3deMXb) | 10:06 |
 | 20 | [Meteor](https://open.spotify.com/track/5aN2zNWyY6CICaU6G1hLSJ) | [Guzz \(Arg\)](https://open.spotify.com/artist/0jkpnPQWoP6kEGPrijuQHF) | [Legacy Volume 1](https://open.spotify.com/album/2FrO5t37vwxBNXgh3zguDM) | 5:20 |
-| 21 | [Rigning í Stekknum](https://open.spotify.com/track/6myA4cDbrMU8cMWMImI17d) | [Exos](https://open.spotify.com/artist/4RiS9upIWfYxyu1HqjMWt6) | [Indigo](https://open.spotify.com/album/5aoZ1AnFzdRWtXdxbOuTEO) | 5:39 |
+| 21 | [Rigning í Stekknum](https://open.spotify.com/track/1C1CSisah9IJo0obvufaE1) | [Exos](https://open.spotify.com/artist/4RiS9upIWfYxyu1HqjMWt6) | [Indigo](https://open.spotify.com/album/5HLCzTsPWauRycJLTEGnfb) | 5:39 |
 | 22 | [Darkness Falls](https://open.spotify.com/track/5gmXnGeozKOzIglwa8FVyX) | [Deepchord](https://open.spotify.com/artist/45g23Apmqo2x4obM7LjmpW) | [Functional Designs](https://open.spotify.com/album/65mmHlZPWc1L3wkfWzG0n9) | 7:13 |
 | 23 | [Black Water](https://open.spotify.com/track/1XD8GlwTWv7SaVNV5YZZxy) | [Dim4](https://open.spotify.com/artist/615xsz8sR4d9dtplVWfxzZ), [Ludvigson](https://open.spotify.com/artist/7g2bn0kAzqqzyGP1Fqa8EJ) | [Black Water](https://open.spotify.com/album/7uU5tMjOYtzG3nO8BpO3yn) | 6:17 |
 | 24 | [We Out Here](https://open.spotify.com/track/1RCHyoaZY2dQ2LmHUobHvM) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Karma Baby EP](https://open.spotify.com/album/2EL95PlWudjVVnpnd9UOi1) | 7:12 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 | 55 | [Dringt](https://open.spotify.com/track/17uP4DeFVGG6naH4NwyZAW) | [Morgen Wurde](https://open.spotify.com/artist/3jAeG5d98YGGGpHGPSurpG), [TIS](https://open.spotify.com/artist/5EKLZKBobC6obEWUk8lcIL) | [Vermacht](https://open.spotify.com/album/1wr7VFcXK0hlVKGf1GPg0j) | 7:11 |
 | 56 | [Junktion](https://open.spotify.com/track/2JirFa98ZLQYZ823lmLWfq) | [Ludowick](https://open.spotify.com/artist/4GGgadGq0wE8XFKrSPVkQE) | [Junktion](https://open.spotify.com/album/4bYJrRbkKVpm29vCax5TjQ) | 8:45 |
 
-Snapshot ID: `MTY3NjM0MzUxMywwMDAwMDAwMDM5OWMxMTlkMjdhZjY4MmNiNzg5M2UyMzcxOTVjZGMz`
+Snapshot ID: `MTY3NjM0MzUxMywwMDAwMDAwMDEzNzI3ZDZiYTA2YjZjMGE3MDQ5Mzg2YWY2OGNlZWJl`

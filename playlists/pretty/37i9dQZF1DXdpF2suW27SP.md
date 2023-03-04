@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Wet Bed Gang entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,043 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,073 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 63 | [SHOT](https://open.spotify.com/track/4IZWISZrSBvO1gKK5hrLRC) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [ILBF](https://open.spotify.com/artist/2A1qlh9kjqker3X2W9j1ly), [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Knox](https://open.spotify.com/artist/6Hk7uUM7iT2zgXHkmNYyoq) | [SHOT](https://open.spotify.com/album/6APMjrh03FoPhizrwTCwsG) | 2:59 |
 | 64 | [Risco](https://open.spotify.com/track/4Y3chZy00SMw18ixqZYgXi) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Risco](https://open.spotify.com/album/1QnLGxK7sh5XByE5QBNAQ0) | 2:45 |
 | 65 | [Não Posso Agora](https://open.spotify.com/track/5UaD8d3304kcnBtlOpxPL8) | [Johnny Virtus](https://open.spotify.com/artist/0DOixxvuN7cxZ7YiyMzlOt) | [Não Posso Agora](https://open.spotify.com/album/15G7TOQBrQD0huFgZMIXKQ) | 2:37 |
-| 66 | [Aproximar](https://open.spotify.com/track/2rtlkeLwPPoYdHC0SmzlXM) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Diogo Ribeiro](https://open.spotify.com/artist/7dIiy31WWgjGVJU0ASlITA) | [Aproximar](https://open.spotify.com/album/6Dus4s197Sp6WNgkfH4mD2) | 3:07 |
+| 66 | [Aproximar](https://open.spotify.com/track/2rtlkeLwPPoYdHC0SmzlXM) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Diogo Ribeiro](https://open.spotify.com/artist/4M8WzxjaLIlIBYtwnmYk3i) | [Aproximar](https://open.spotify.com/album/6Dus4s197Sp6WNgkfH4mD2) | 3:07 |
 | 67 | [Abranda \(feat\. Regula\)](https://open.spotify.com/track/2hnrAClQrOeR4ULNjmSysb) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP) | [Abranda \(feat\. Regula\)](https://open.spotify.com/album/6TpLHdnEVcCFdLUDdLri2M) | 3:05 |
 | 68 | [Amazónia](https://open.spotify.com/track/2ySZ2kVCZRQ0gJ5Lu0EoxJ) | [Lutz](https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x) | [Amazónia](https://open.spotify.com/album/5gULMhBkRl7ZCv35O2K5Xm) | 3:14 |
 | 69 | [ALKiMISTA](https://open.spotify.com/track/3vUNW5Gx2cNtRJ9feEtt0G) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [ALK](https://open.spotify.com/album/0siZdhz3ZguKw6Xrgh4Fw0) | 2:45 |

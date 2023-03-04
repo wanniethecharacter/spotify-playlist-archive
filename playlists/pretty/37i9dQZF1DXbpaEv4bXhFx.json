@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 8174,
+  "num_followers": 8182,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNTA2MiwwMDAwMDAwMDMwYzE1YmU2MTAwODQzMTM1YzEwMGNkYjg4MTg4ODMx",
+  "snapshot_id": "MTY3NzIzNTA2MiwwMDAwMDAwMDVlOTc5OTcyMjQ3N2FkMDhmODgyYWNhMGNiMzBkZWFl",
   "tracks": [
     {
       "added_at": "2023-02-14 07:53:40",
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
     },
     {
-      "added_at": "2023-03-03 03:16:35",
+      "added_at": "2023-03-04 00:44:04",
       "album": {
         "name": "The Interest of Love (Original Television Soundtrack, Pt. 9)",
         "url": "https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M"
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-02-14 07:53:40",
       "album": {
-        "name": "A Call from My Dream",
-        "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
-      },
-      "artists": [
-        {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
-        }
-      ],
-      "duration_ms": 255297,
-      "name": "A Call from My Dream",
-      "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
-    },
-    {
-      "added_at": "2023-02-14 07:53:40",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
+    },
+    {
+      "added_at": "2023-02-14 07:53:40",
+      "album": {
+        "name": "A Call from My Dream",
+        "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "duration_ms": 255297,
+      "name": "A Call from My Dream",
+      "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
     },
     {
       "added_at": "2023-02-14 07:53:40",

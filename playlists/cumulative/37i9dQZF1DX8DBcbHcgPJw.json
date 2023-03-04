@@ -579,6 +579,32 @@
     },
     {
       "album": {
+        "name": "Camila / Segu\u00ed la flecha / No pinto pajaritos",
+        "url": "https://open.spotify.com/album/3Du6tfNXrSoamWDmsQ58Zr"
+      },
+      "artists": [
+        {
+          "name": "El Mala",
+          "url": "https://open.spotify.com/artist/1LSYfRidvKN3sUXOg8HDWC"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184456,
+      "name": "Camila / Segu\u00ed la flecha / No pinto pajaritos",
+      "url": "https://open.spotify.com/track/1qTBg3MqElniTUD4DF3dcE"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n para una Amiga",
         "url": "https://open.spotify.com/album/57hV017eOcP3SjmsZCyl46"
       },
@@ -714,7 +740,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 145516,
       "name": "Chau",
       "url": "https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ"
@@ -2770,7 +2796,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 188013,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/7dg5Ftm2r7DTWxZ2jStavG"
@@ -4940,7 +4966,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 200933,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp"
@@ -5598,7 +5624,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 159980,
       "name": "Sigue Bailando",
       "url": "https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT"
@@ -6267,6 +6293,24 @@
     },
     {
       "album": {
+        "name": "Tr\u00e1tame Suavemente",
+        "url": "https://open.spotify.com/album/1VNBVLeGu6cYMuJk4FqXdx"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Bruno",
+          "url": "https://open.spotify.com/artist/4GiUBU5qC374SE66G2wYY2"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196355,
+      "name": "Tr\u00e1tame Suavemente",
+      "url": "https://open.spotify.com/track/2v7coZkORX56UIDXh6P1kU"
+    },
+    {
+      "album": {
         "name": "TU AMOR | E7",
         "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
       },
@@ -6532,7 +6576,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 135157,
       "name": "UNA CUMBITA",
       "url": "https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ"
@@ -6964,6 +7008,24 @@
       "duration_ms": 180600,
       "name": "Ya No Tiene Novio",
       "url": "https://open.spotify.com/track/0SiWVtwTPUoano0e5jvwn8"
+    },
+    {
+      "album": {
+        "name": "Ya no vuelvas",
+        "url": "https://open.spotify.com/album/1neUuj2OkhOvvsE8jz7gfg"
+      },
+      "artists": [
+        {
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184157,
+      "name": "Ya no vuelvas",
+      "url": "https://open.spotify.com/track/0qo3TV9s4xXjDNvhn3xKIS"
     },
     {
       "album": {

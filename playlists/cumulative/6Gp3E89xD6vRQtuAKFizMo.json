@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 195200,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/71R8InTY1qrseVysUhGE8X"
@@ -448,6 +448,24 @@
       "duration_ms": 179552,
       "name": "Comfortable (feat. QUIX)",
       "url": "https://open.spotify.com/track/09oM23t8SUckcrfSiFsyE2"
+    },
+    {
+      "album": {
+        "name": "Could I Be",
+        "url": "https://open.spotify.com/album/5G0OXyewIaUOpMdegZJsOr"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154615,
+      "name": "Could I Be",
+      "url": "https://open.spotify.com/track/06W9k3xS6TFI58kynSWQ5r"
     },
     {
       "album": {

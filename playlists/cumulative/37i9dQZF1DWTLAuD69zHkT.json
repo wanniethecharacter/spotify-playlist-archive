@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Byther Smith in Europe Vol. 2",
+        "url": "https://open.spotify.com/album/4kRwRVPeQcELa0zHTczVPx"
+      },
+      "artists": [
+        {
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301306,
+      "name": "The Man Wants Me Dead",
+      "url": "https://open.spotify.com/track/7xANX2a9g4UJihLHe6YfTm"
+    },
+    {
+      "album": {
         "name": "We're Listening to Sister Rosetta Tharpe, Vol. 2",
         "url": "https://open.spotify.com/album/3AahaKw3G98axWbYmf8Rmb"
       },

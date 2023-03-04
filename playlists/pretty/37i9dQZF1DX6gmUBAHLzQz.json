@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Aikatsu!\", a story of young girls dreaming of becoming a top idol. \u30c8\u30c3\u30d7\u30a2\u30a4\u30c9\u30eb\u3092\u76ee\u6307\u3059\u5c11\u5973\u9054\u306e\u7269\u8a9e\u3001<a href=\"http://www.aikatsu.net/01/\">\u30a2\u30a4\u30ab\u30c4\uff01</a>\u306e\u714c\u3081\u304f\u4e16\u754c\u3078\u3002(C)BNP/BANDAI, DENTSU, TV TOKYO",
-  "num_followers": 23474,
+  "num_followers": 23481,
   "original_name": "Let's Aikatsu! -\u30a2\u30a4\u30ab\u30c4-\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1MjIxNiwwMDAwMDAwMGJjMWViOWNiNmM2ODQxZDY0MTdhNWMzYzRjZjc5YzVl",
+  "snapshot_id": "MTY1ODg1MjIxNiwwMDAwMDAwMGRjY2VmMzJlOTY5ZWExZjA5Y2YzMjAwZDEwODY2NTM1",
   "tracks": [
     {
       "added_at": "2022-07-26 16:16:56",
@@ -207,6 +207,38 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS6",
+        "url": "https://open.spotify.com/album/3A3hNMSWlGtOWnN5OeAyYw"
+      },
+      "artists": [
+        {
+          "name": "\u3075\u3046\u308a from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/24VKuSx08P6CzSKdzG4xT4"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "Prism Spiral",
+      "url": "https://open.spotify.com/track/2nyniwtqJ7ud95f4x24pU6"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
+        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
+      },
+      "artists": [
+        {
+          "name": "\u308f\u304b\u30fb\u3075\u3046\u308a\u30fb\u3059\u306a\u304a from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/0xzkx0ukfziouCZGRJ54Tx"
+        }
+      ],
+      "duration_ms": 287920,
+      "name": "KIRA\u2606Power",
+      "url": "https://open.spotify.com/track/7nKlMQ0praIT4Q8T0KNz8e"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
         "name": "\u30a2\u30a4\u30ab\u30c4!\u30b7\u30ea\u30fc\u30b9\u3099 10th Anniversary Album Vol.01\u300cRing Ring Carnival\u300d",
         "url": "https://open.spotify.com/album/1QvMF8zo4vYf1eidom6ttu"
       },
@@ -251,38 +283,6 @@
       "duration_ms": 215709,
       "name": "Shiny day",
       "url": "https://open.spotify.com/track/5p4SyNJHFOkY7zTjUNtOqi"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
-        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
-      },
-      "artists": [
-        {
-          "name": "\u308f\u304b\u30fb\u3075\u3046\u308a\u30fb\u3059\u306a\u304a from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/0xzkx0ukfziouCZGRJ54Tx"
-        }
-      ],
-      "duration_ms": 287920,
-      "name": "KIRA\u2606Power",
-      "url": "https://open.spotify.com/track/7nKlMQ0praIT4Q8T0KNz8e"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS6",
-        "url": "https://open.spotify.com/album/3A3hNMSWlGtOWnN5OeAyYw"
-      },
-      "artists": [
-        {
-          "name": "\u3075\u3046\u308a from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/24VKuSx08P6CzSKdzG4xT4"
-        }
-      ],
-      "duration_ms": 246920,
-      "name": "Prism Spiral",
-      "url": "https://open.spotify.com/track/2nyniwtqJ7ud95f4x24pU6"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -399,42 +399,6 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "\u30a2\u30a4\u30ab\u30c4!\u30b7\u30ea\u30fc\u30b9\u3099 10th Anniversary Album Vol.01\u300cRing Ring Carnival\u300d",
-        "url": "https://open.spotify.com/album/1QvMF8zo4vYf1eidom6ttu"
-      },
-      "artists": [
-        {
-          "name": "\u3089\u304d from BEST FRIENDS!",
-          "url": "https://open.spotify.com/artist/6rJjAKdKS0aH7G0a1nT9K5"
-        },
-        {
-          "name": "\u3042\u3044\u306d from BEST FRIENDS!",
-          "url": "https://open.spotify.com/artist/3V19PPW9AbnRrNHQMmwAw3"
-        },
-        {
-          "name": "\u307f\u304a from BEST FRIENDS!",
-          "url": "https://open.spotify.com/artist/7yCtHmaXb2JMePfcu2Vj67"
-        },
-        {
-          "name": "\u308f\u304b",
-          "url": "https://open.spotify.com/artist/1zh5yvO4dDoZiGru8W7J3n"
-        },
-        {
-          "name": "\u308b\u304b",
-          "url": "https://open.spotify.com/artist/7rCYAf0qUImNs8pqy04vzl"
-        },
-        {
-          "name": "\u305b\u306a",
-          "url": "https://open.spotify.com/artist/51TXbLF8L4u8mhKSiyQ6bd"
-        }
-      ],
-      "duration_ms": 274895,
-      "name": "SHINING LINE* - \u3044\u3061\u3054 & \u3042\u304b\u308a & \u3086\u3081 & \u3042\u3044\u306d & \u307f\u304a & \u3089\u304d ver.",
-      "url": "https://open.spotify.com/track/0PP187zRDwhm1AhFGIBWiw"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
         "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
       },
@@ -483,6 +447,42 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
+        "name": "\u30a2\u30a4\u30ab\u30c4!\u30b7\u30ea\u30fc\u30b9\u3099 10th Anniversary Album Vol.01\u300cRing Ring Carnival\u300d",
+        "url": "https://open.spotify.com/album/1QvMF8zo4vYf1eidom6ttu"
+      },
+      "artists": [
+        {
+          "name": "\u3089\u304d from BEST FRIENDS!",
+          "url": "https://open.spotify.com/artist/6rJjAKdKS0aH7G0a1nT9K5"
+        },
+        {
+          "name": "\u3042\u3044\u306d from BEST FRIENDS!",
+          "url": "https://open.spotify.com/artist/3V19PPW9AbnRrNHQMmwAw3"
+        },
+        {
+          "name": "\u307f\u304a from BEST FRIENDS!",
+          "url": "https://open.spotify.com/artist/7yCtHmaXb2JMePfcu2Vj67"
+        },
+        {
+          "name": "\u308f\u304b",
+          "url": "https://open.spotify.com/artist/1zh5yvO4dDoZiGru8W7J3n"
+        },
+        {
+          "name": "\u308b\u304b",
+          "url": "https://open.spotify.com/artist/7rCYAf0qUImNs8pqy04vzl"
+        },
+        {
+          "name": "\u305b\u306a",
+          "url": "https://open.spotify.com/artist/51TXbLF8L4u8mhKSiyQ6bd"
+        }
+      ],
+      "duration_ms": 274895,
+      "name": "SHINING LINE* - \u3044\u3061\u3054 & \u3042\u304b\u308a & \u3086\u3081 & \u3042\u3044\u306d & \u307f\u304a & \u3089\u304d ver.",
+      "url": "https://open.spotify.com/track/0PP187zRDwhm1AhFGIBWiw"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS7",
         "url": "https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2"
       },
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 4\u5e74\u76ee",
-        "url": "https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT"
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
+        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
       },
       "artists": [
         {
-          "name": "\u308b\u304b\u30fb\u306a\u306a\u305b from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/1vXsGF5HQT6Qv6UHE4CrWo"
+          "name": "\u3082\u306a\u30fb\u308b\u304b\u30fb\u307f\u304d from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/6JVhciihf3K1vdE48ym5Vk"
         }
       ],
-      "duration_ms": 255706,
-      "name": "\u30ed\u30f3\u30ea\u30fc\u30fb\u30b0\u30e9\u30f4\u30a3\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/2qUnxXj2L72362KAsJUHSj"
+      "duration_ms": 283720,
+      "name": "\u30c1\u30e5\u30c1\u30e5\u30fb\u30d0\u30ec\u30ea\u30fc\u30ca",
+      "url": "https://open.spotify.com/track/3G3z3lpTbmN62PSQ3K3zfA"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
-        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 4\u5e74\u76ee",
+        "url": "https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT"
       },
       "artists": [
         {
-          "name": "\u3082\u306a\u30fb\u308b\u304b\u30fb\u307f\u304d from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/6JVhciihf3K1vdE48ym5Vk"
+          "name": "\u308b\u304b\u30fb\u306a\u306a\u305b from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/1vXsGF5HQT6Qv6UHE4CrWo"
         }
       ],
-      "duration_ms": 283720,
-      "name": "\u30c1\u30e5\u30c1\u30e5\u30fb\u30d0\u30ec\u30ea\u30fc\u30ca",
-      "url": "https://open.spotify.com/track/3G3z3lpTbmN62PSQ3K3zfA"
+      "duration_ms": 255706,
+      "name": "\u30ed\u30f3\u30ea\u30fc\u30fb\u30b0\u30e9\u30f4\u30a3\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/2qUnxXj2L72362KAsJUHSj"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS9",
-        "url": "https://open.spotify.com/album/32XLP5WOPpnRg24tRlV2Mt"
-      },
-      "artists": [
-        {
-          "name": "\u307f\u307b\u30fb\u307f\u304d from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/04Pzgjj5UlS28N9sKeIXwX"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Chica\u00d7Chica",
-      "url": "https://open.spotify.com/track/2RTZbsl5jQ03rchE32LRtT"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
         "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 257760,
       "name": "Good morning my dream",
       "url": "https://open.spotify.com/track/1JLuoOB62CtEY5GFyE8VyA"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS9",
+        "url": "https://open.spotify.com/album/32XLP5WOPpnRg24tRlV2Mt"
+      },
+      "artists": [
+        {
+          "name": "\u307f\u307b\u30fb\u307f\u304d from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/04Pzgjj5UlS28N9sKeIXwX"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Chica\u00d7Chica",
+      "url": "https://open.spotify.com/track/2RTZbsl5jQ03rchE32LRtT"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -739,6 +739,26 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS9",
+        "url": "https://open.spotify.com/album/32XLP5WOPpnRg24tRlV2Mt"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u307f from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec"
+        },
+        {
+          "name": "\u307f\u307b from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/2TdTi3d30hAIeAro45nHi0"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "\u8584\u7d05\u30c7\u30a4\u30c8\u30ea\u30c3\u30d1\u30fc",
+      "url": "https://open.spotify.com/track/0LCdEIY2ALIEeJKkKUPHAt"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS5",
         "url": "https://open.spotify.com/album/6IgXVSugxE7VjOSLgqG7hm"
       },
@@ -771,38 +791,18 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS9",
-        "url": "https://open.spotify.com/album/32XLP5WOPpnRg24tRlV2Mt"
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS8",
+        "url": "https://open.spotify.com/album/532eAwNEHArrJe9zqLgawh"
       },
       "artists": [
         {
-          "name": "\u308c\u307f from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec"
-        },
-        {
-          "name": "\u307f\u307b from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/2TdTi3d30hAIeAro45nHi0"
+          "name": "\u3075\u3046\u308a\u30fb\u308f\u304b from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/2iHXT032sB3RIuxCMdr0d4"
         }
       ],
-      "duration_ms": 235146,
-      "name": "\u8584\u7d05\u30c7\u30a4\u30c8\u30ea\u30c3\u30d1\u30fc",
-      "url": "https://open.spotify.com/track/0LCdEIY2ALIEeJKkKUPHAt"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
-        "name": "\u30a2\u30a4\u30ab\u30c4!\u30b7\u30ea\u30fc\u30b9\u3099 10th Anniversary Album Vol.02\u300cPure Sweet Harmony\u300d",
-        "url": "https://open.spotify.com/album/0s4s4OoWbvfLgiCnp07JAZ"
-      },
-      "artists": [
-        {
-          "name": "\u3042\u3044\u306d from BEST FRIENDS!",
-          "url": "https://open.spotify.com/artist/3V19PPW9AbnRrNHQMmwAw3"
-        }
-      ],
-      "duration_ms": 249207,
-      "name": "\u3042\u308a\u304c\u3068 \u21c4 \u5927\u4e08\u592b - \u3042\u3044\u306d ver.",
-      "url": "https://open.spotify.com/track/20G4d0MZkzYxrxVedsPDTO"
+      "duration_ms": 225320,
+      "name": "Sweet Sp!ce",
+      "url": "https://open.spotify.com/track/7rmJRLhAoH6J10Nont5GBl"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS8",
-        "url": "https://open.spotify.com/album/532eAwNEHArrJe9zqLgawh"
+        "name": "\u30a2\u30a4\u30ab\u30c4!\u30b7\u30ea\u30fc\u30b9\u3099 10th Anniversary Album Vol.02\u300cPure Sweet Harmony\u300d",
+        "url": "https://open.spotify.com/album/0s4s4OoWbvfLgiCnp07JAZ"
       },
       "artists": [
         {
-          "name": "\u3075\u3046\u308a\u30fb\u308f\u304b from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/2iHXT032sB3RIuxCMdr0d4"
+          "name": "\u3042\u3044\u306d from BEST FRIENDS!",
+          "url": "https://open.spotify.com/artist/3V19PPW9AbnRrNHQMmwAw3"
         }
       ],
-      "duration_ms": 225320,
-      "name": "Sweet Sp!ce",
-      "url": "https://open.spotify.com/track/7rmJRLhAoH6J10Nont5GBl"
+      "duration_ms": 249207,
+      "name": "\u3042\u308a\u304c\u3068 \u21c4 \u5927\u4e08\u592b - \u3042\u3044\u306d ver.",
+      "url": "https://open.spotify.com/track/20G4d0MZkzYxrxVedsPDTO"
     },
     {
       "added_at": "2022-07-26 16:16:56",

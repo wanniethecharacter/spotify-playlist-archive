@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-78 songs - 4 hr 20 min
+79 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Just Watch](https://open.spotify.com/track/2lWvfxjVmYCnQAtkJG0Y7H) | [BlaqAces](https://open.spotify.com/artist/1br4A9R7EZq1dZsld8M2Ii), [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU), [Moha](https://open.spotify.com/artist/6YlofgsrFOXGo0PuYMuhS6) | [Pitch Blaq Infinity](https://open.spotify.com/album/4AlcoiWsQuvoGWNF6GDebV) | 4:01 | 2023-01-20 |  |
 | [Kaazi](https://open.spotify.com/track/0lDoCgY33JV4rEllLJ8ubM) | [Paapa T](https://open.spotify.com/artist/7Ii9A3fiHC0LWGzgjekkba), [Rie](https://open.spotify.com/artist/67qQPzQB13ihMnIwS27kbr) | [Kaazi](https://open.spotify.com/album/57Ad8YNHXuOYMzpVVbvC9L) | 4:09 | 2022-09-08 |  |
 | [Kwetega](https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr) | [Ruyonga](https://open.spotify.com/artist/7IFepiNUUVtAglkh1RUH5z) | [Kwetega](https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc) | 3:36 | 2023-01-20 |  |
-| [Let it Slide](https://open.spotify.com/track/1aTklUbZo5dCBpXBk4oBa2) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Let it Slide](https://open.spotify.com/album/6MNXQqzROLdIy9mb1gwgA6) | 4:29 | 2022-10-14 |  |
+| [Let it Slide](https://open.spotify.com/track/1aTklUbZo5dCBpXBk4oBa2) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Let it Slide](https://open.spotify.com/album/6MNXQqzROLdIy9mb1gwgA6) | 4:29 | 2022-10-14 | 2023-03-04 |
 | [Lost Yourself](https://open.spotify.com/track/32MeF1lagNJC0FxENNKATr) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Lost Yourself](https://open.spotify.com/album/1IQoFSV5fxC4xlSVhHfRFn) | 4:16 | 2023-01-20 |  |
 | [Love Say](https://open.spotify.com/track/1XooJUOhghelEYTYS6Wp4z) | [Joshtheson](https://open.spotify.com/artist/3TnAeKpnEEsiXZ5wBazNiz) | [Love Say](https://open.spotify.com/album/3KpId1zKLJuRG43mql2U3H) | 3:16 | 2022-09-08 |  |
 | [Luga Pandemic](https://open.spotify.com/track/0O2wVyNkepLJcEmcJbDTix) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Luga Pandemic](https://open.spotify.com/album/3J4Ej6runJXjT4iQxF8cSR) | 3:06 | 2023-01-20 |  |
@@ -84,6 +84,7 @@
 | [Welcome to Ug \(Poa Remix\)](https://open.spotify.com/track/3VLLom5tY6D7vTMmJQz4oN) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Giovani Kiyingi](https://open.spotify.com/artist/72IhajuC3cvuHWwQdkJrYP), [Ebrahim Soul'O](https://open.spotify.com/artist/7C1uPFQwrkX5D88Gsc3jhe), [Agami Tonny](https://open.spotify.com/artist/2ntQ7o9imq9REY4by45eGH), [Poa](https://open.spotify.com/artist/2VCjA3p1oisG2Icg3xImMH) | [Welcome to Ug \(Poa Remix\)](https://open.spotify.com/album/6X0McZ1kH41i53IR9IjhFf) | 3:35 | 2022-09-08 |  |
 | [What They Do](https://open.spotify.com/track/6ycW5J1uecd4kiVDy0RUvc) | [Fusa](https://open.spotify.com/artist/4rVcrubV01G4di8dff5p7t), [KeDi](https://open.spotify.com/artist/3aaq8ReIvKF925g2qtGnV7), [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp) | [What They Do](https://open.spotify.com/album/0HOw37FUOrhyigfsrhJE9F) | 3:15 | 2022-12-02 |  |
 | [You Got It](https://open.spotify.com/track/6jV4SMVLo4pIFif38q7mI4) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [You Got It](https://open.spotify.com/album/08UekIFugezDczFaJR9tjJ) | 3:25 | 2022-09-08 |  |
+| [Young Nigga World \(MM Flow\)](https://open.spotify.com/track/3dyd2GfL4BZ64D2sfYBjyE) | [13lado](https://open.spotify.com/artist/5BCrmdNZ249YzTAHsv1WLa) | [Young Nigga World \(MM Flow\)](https://open.spotify.com/album/6axjOtrLk2Vx57zUZXSnPr) | 2:16 | 2023-03-03 |  |
 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 | 2022-09-08 |  |
 | [Zinira Kuguno](https://open.spotify.com/track/0ZYr05zbjOcC1XKfQL1iuA) | [Ella tyga](https://open.spotify.com/artist/7v5JSLvsxCcMYoZodJUffo) | [Zinira Kuguno](https://open.spotify.com/album/5zF1XBdp7v3LKqKt59H46n) | 3:01 | 2022-09-08 | 2022-10-15 |
 

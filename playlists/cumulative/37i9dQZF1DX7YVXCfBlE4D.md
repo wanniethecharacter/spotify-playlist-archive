@@ -4,7 +4,7 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-372 songs - 18 hr 15 min
+373 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Nunca](https://open.spotify.com/track/1j2Vs0sYGoPCv7u0CsPPfL) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [15 Exitos \- Trios Famosos](https://open.spotify.com/album/7GnyClG2nhbK2BbW4Pbzg0) | 2:35 | 2021-05-15 | 2022-01-22 |
 | [Odiame](https://open.spotify.com/track/4NjjxA6cgx9aWOXAIaPEpA) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [30 Mejores](https://open.spotify.com/album/5UGFwADgVhFsfnJNoaQJ2T) | 2:52 | 2021-05-15 | 2022-07-29 |
 | [Odiame](https://open.spotify.com/track/2OM1f1ySMFLIFlyW7mjGnQ) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [No Me Toquen Ese Vals](https://open.spotify.com/album/7dy5YFBP1PXSyTQghN3fYh) | 2:55 | 2022-01-21 | 2022-11-14 |
-| [Ojos tapatíos](https://open.spotify.com/track/1L6lPhRYZX62EoQz2BeE76) | [Dr\. Alfonso Ortíz Tirado](https://open.spotify.com/artist/3hlOljYjVCom3YivKRP9Oq) | [XEW La Voz de America Latina "Los Precursores"](https://open.spotify.com/album/2w6O8F61KVgHmeup1qLKWS) | 2:44 | 2022-01-21 |  |
+| [Ojos tapatíos](https://open.spotify.com/track/1L6lPhRYZX62EoQz2BeE76) | [Dr\. Alfonso Ortíz Tirado](https://open.spotify.com/artist/3hlOljYjVCom3YivKRP9Oq) | [XEW La Voz de America Latina "Los Precursores"](https://open.spotify.com/album/2w6O8F61KVgHmeup1qLKWS) | 2:44 | 2022-01-21 | 2023-03-04 |
+| [Ojos tapatíos](https://open.spotify.com/track/4Uc6RPydvXijNjVHq4YsOn) | [Dr\. Alfonso Ortíz Tirado](https://open.spotify.com/artist/3hlOljYjVCom3YivKRP9Oq) | [Boleros románticos](https://open.spotify.com/album/3tly3eP08bNYhcw2iOdpcU) | 2:44 | 2022-12-30 |  |
 | [Oye Mi Cancion](https://open.spotify.com/track/4OadZwu84UcL4eHFh3ufDh) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/55V3MJmvS6WOl6ZxEseAbA) | 2:35 | 2021-05-15 | 2022-01-22 |
 | [Pagina Blanca](https://open.spotify.com/track/7r95JZ6dviMeIQHYuNlY6A) | [Los Fantasmas](https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK) | [Antología...Trios](https://open.spotify.com/album/1pmPO2wVCXi7WOsM71VZMt) | 3:10 | 2021-05-15 | 2022-01-22 |
 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 | 2021-05-15 |  |

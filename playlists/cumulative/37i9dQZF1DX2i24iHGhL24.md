@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: John Legend
 
-386 songs - 22 hr 9 min
+387 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Chandelier](https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 3:44 | 2023-02-24 |  |
 | [Chandelier](https://open.spotify.com/track/7F2tZGMRkcEyGYY8Xee7xz) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Chandelier](https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit) | 3:42 | 2021-12-17 | 2022-12-30 |
 | [Chandelier](https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Chandelier](https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH) | 3:32 | 2022-03-25 | 2022-04-16 |
-| [Chiquitita](https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8) | 4:59 | 2022-11-18 |  |
+| [Chiquitita](https://open.spotify.com/track/1o04WVnY1OUmFE91hHg13O) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/40GDrRCewlZHmwWK9p04vw) | 4:59 | 2023-02-24 |  |
+| [Chiquitita](https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8) | 4:59 | 2022-11-18 | 2023-03-04 |
 | [Chiquitita](https://open.spotify.com/track/5UkFTPgZ9ggQijLh1CbSrF) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/0nWjKAEvqrQGbk9U2MzeHo) | 4:59 | 2021-12-17 | 2022-11-20 |
 | [Chocolate](https://open.spotify.com/track/36T0S78B1be6F4tAUlJWpJ) | [Moonroof](https://open.spotify.com/artist/6HO599GtzYWMF4BsvwB1E6) | [Chocolate](https://open.spotify.com/album/6qHfbQoSUzGri0HBQnLuRv) | 4:12 | 2021-12-17 | 2022-05-02 |
 | [Circles](https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Circles](https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE) | 3:43 | 2021-12-17 | 2022-05-02 |

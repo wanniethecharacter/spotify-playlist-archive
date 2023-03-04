@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: BreezyLYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,912 likes - 65 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,924 likes - 65 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 29 | [Krazy](https://open.spotify.com/track/2yD3rny0lKgHqh7Y6KmAY5) | [T$AN](https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk) | [Krazy](https://open.spotify.com/album/7AwhvI7Jfr61xzUi61R3Eh) | 2:53 |
 | 30 | [AL Roker](https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [AL Roker](https://open.spotify.com/album/5aBdVwpC86hOzVJZKEG6tr) | 1:40 |
 | 31 | [Danger \- Jersey Club \- Remix](https://open.spotify.com/track/6CnPjdQqENmUlgDSbOuqeZ) | [Jourdin Pauline](https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk), [DJ SMALLZ 732](https://open.spotify.com/artist/07Qh4jqt5TL0mWm3tERxDR) | [Danger \- Jersey Club \(Remix\)](https://open.spotify.com/album/5miOht0S6eRmvNx5KMXoMi) | 1:33 |
-| 32 | [Did It Again](https://open.spotify.com/track/5i8smYfbimEPelezyEoeOg) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Did It Again](https://open.spotify.com/album/3h6l5MD9xbrBz4UeqtZx5v) | 2:07 |
+| 32 | [Did It Again](https://open.spotify.com/track/5i8smYfbimEPelezyEoeOg) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Did It Again](https://open.spotify.com/album/3h6l5MD9xbrBz4UeqtZx5v) | 2:07 |
 | 33 | [BANG BANG](https://open.spotify.com/track/4bjAZhQQAsanXd6VGMmydN) | [Yus Gz](https://open.spotify.com/artist/3RMAZkh3T3IO2EUMuZMlOE) | [BANG BANG](https://open.spotify.com/album/0zLRoKXdLm5VzbBy9DdXAF) | 2:06 |
 | 34 | [My Way](https://open.spotify.com/track/3B2bQo24JvhiqrwWI1Q4OW) | [NDO Dee](https://open.spotify.com/artist/3GRdBABrc1l7INMwDldBuQ) | [My Way](https://open.spotify.com/album/06ADyz2v8NMndnRUIYbras) | 1:48 |
 | 35 | [Need Your Love](https://open.spotify.com/track/1WorovY3xlXS3xbfh1oqk8) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Need Your Love](https://open.spotify.com/album/0Tvsxayvqv82eNalV4rZ9A) | 2:39 |

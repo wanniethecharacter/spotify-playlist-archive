@@ -2,7 +2,7 @@
 
 ### [Alternative Metal](https://open.spotify.com/playlist/37i9dQZF1DWY5ai7gxfuaS)
 
-> The most innovative and forward thinking metal right now\. Cover: Dope
+> The most innovative and forward thinking metal right now\. Cover: Static\-X
 
 162 songs - 11 hr 18 min
 

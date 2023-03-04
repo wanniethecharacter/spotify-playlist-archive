@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 149048,
+  "num_followers": 149113,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDU5Nzc1OTQ3NjY2NTQ1YjY0YTgwOGE0NjYwOTJmNjUz",
+  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMGQxNzEzOGM5OWJiNzg1NDEyMDNjNmJhNWM1MGQ0NmI2",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -235,6 +235,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "The Good, The Bad and The Ugly (Original Motion Picture Soundtrack) [Remastered Edition]",
+        "url": "https://open.spotify.com/album/1pDYxCrFTy971V4zaN5Anq"
+      },
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        }
+      ],
+      "duration_ms": 162386,
+      "name": "The Good, The Bad and The Ugly - Il Buono, Il Brutto, Il Cattivo (Titles)",
+      "url": "https://open.spotify.com/track/2IJJszwGK4NWmh3bNK6CPD"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "La Legge Dei Gangsters",
         "url": "https://open.spotify.com/album/3j4peilVrbOhAZEIvA3ptr"
       },
@@ -251,18 +267,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Good, The Bad and The Ugly (Original Motion Picture Soundtrack) [Remastered Edition]",
-        "url": "https://open.spotify.com/album/1pDYxCrFTy971V4zaN5Anq"
+        "name": "Grandes Favoritas Instrumentales,Vol.4",
+        "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
       },
       "artists": [
         {
-          "name": "Ennio Morricone",
-          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+          "name": "Joaquin Borges",
+          "url": "https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G"
+        },
+        {
+          "name": "National Philarmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS"
         }
       ],
-      "duration_ms": 162386,
-      "name": "The Good, The Bad and The Ugly - Il Buono, Il Brutto, Il Cattivo (Titles)",
-      "url": "https://open.spotify.com/track/2IJJszwGK4NWmh3bNK6CPD"
+      "duration_ms": 175906,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -303,26 +323,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Grandes Favoritas Instrumentales,Vol.4",
-        "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Borges",
-          "url": "https://open.spotify.com/artist/4s7HqUlMC8yjg7k2XgN99G"
-        },
-        {
-          "name": "National Philarmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2WOIwrP2heNknxVUWw56cS"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Volume Secondo",
         "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
       },
@@ -355,6 +355,26 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
+        "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schlaks",
+          "url": "https://open.spotify.com/artist/2bxTIn8Z3fDtIPTFC7JypL"
+        },
+        {
+          "name": "Michel",
+          "url": "https://open.spotify.com/artist/26DaTPOYW2gXfXBIwghsKn"
+        }
+      ],
+      "duration_ms": 179703,
+      "name": "BLUE DOLPHIN",
+      "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Integral",
         "url": "https://open.spotify.com/album/0LuEOgpfOw7alMC8fXCF3E"
       },
@@ -379,26 +399,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "...SI CI SONO ANCH'IO (BLUE DOLPHIN)",
-        "url": "https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS"
-      },
-      "artists": [
-        {
-          "name": "Stephen Schlaks",
-          "url": "https://open.spotify.com/artist/2bxTIn8Z3fDtIPTFC7JypL"
-        },
-        {
-          "name": "Michel",
-          "url": "https://open.spotify.com/artist/26DaTPOYW2gXfXBIwghsKn"
-        }
-      ],
-      "duration_ms": 179703,
-      "name": "BLUE DOLPHIN",
-      "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The Essential Ennio Morricone",
         "url": "https://open.spotify.com/album/2UdkCdZQQSNyozS6jdvhqn"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 306146,
       "name": "Chi Mai",
       "url": "https://open.spotify.com/track/4D0ofpU1f402qd1t6ZK0Xr"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Music To Watch Girls By",
+        "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 111026,
+      "name": "Music to Watch Girls By",
+      "url": "https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -451,18 +467,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Music To Watch Girls By",
-        "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
+        "name": "Los Recuerdos Est\u00e1n Hechos de Esto Vol. 2",
+        "url": "https://open.spotify.com/album/2xgU1k2nI3EXak38BIPHA6"
       },
       "artists": [
         {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+          "name": "Johnny Days Orchestra",
+          "url": "https://open.spotify.com/artist/6ddwnoAVajTGZa2ikrJqaY"
         }
       ],
-      "duration_ms": 111026,
-      "name": "Music to Watch Girls By",
-      "url": "https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t"
+      "duration_ms": 220413,
+      "name": "Soleado",
+      "url": "https://open.spotify.com/track/4n7fsjH01J5GBQsmLMZtiQ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -483,18 +499,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Los Recuerdos Est\u00e1n Hechos de Esto Vol. 2",
-        "url": "https://open.spotify.com/album/2xgU1k2nI3EXak38BIPHA6"
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
       },
       "artists": [
         {
-          "name": "Johnny Days Orchestra",
-          "url": "https://open.spotify.com/artist/6ddwnoAVajTGZa2ikrJqaY"
+          "name": "Orchester Anthony Ventura",
+          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
         }
       ],
-      "duration_ms": 220413,
-      "name": "Soleado",
-      "url": "https://open.spotify.com/track/4n7fsjH01J5GBQsmLMZtiQ"
+      "duration_ms": 140573,
+      "name": "Don't Cry for Me, Argentina",
+      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -511,22 +527,6 @@
       "duration_ms": 156519,
       "name": "Love is Blue",
       "url": "https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
-      },
-      "artists": [
-        {
-          "name": "Orchester Anthony Ventura",
-          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
-        }
-      ],
-      "duration_ms": 140573,
-      "name": "Don't Cry for Me, Argentina",
-      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Sail Along Silv'ry Moon",
-        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 129680,
-      "name": "Sail Along Silv'ry Moon",
-      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Duotones",
         "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 303333,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Sail Along Silv'ry Moon",
+        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 129680,
+      "name": "Sail Along Silv'ry Moon",
+      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -739,6 +739,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Las No. 1 Instrumentales",
+        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
+      },
+      "artists": [
+        {
+          "name": "Bebu Silvetti",
+          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+        }
+      ],
+      "duration_ms": 353680,
+      "name": "Lluvia de Primavera",
+      "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Franck Pourcel : Originals, vol. 8",
         "url": "https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 183360,
       "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
       "url": "https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Las No. 1 Instrumentales",
-        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
-      },
-      "artists": [
-        {
-          "name": "Bebu Silvetti",
-          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
-        }
-      ],
-      "duration_ms": 353680,
-      "name": "Lluvia de Primavera",
-      "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -959,22 +959,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Sue\u00f1o azul",
-        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
-      },
-      "artists": [
-        {
-          "name": "Robson Miguel y grupo",
-          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Concierto para una sola voz",
-      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Pure Instrumental Memories",
         "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 145680,
       "name": "Love In Every Room",
       "url": "https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Sue\u00f1o azul",
+        "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
+      },
+      "artists": [
+        {
+          "name": "Robson Miguel y grupo",
+          "url": "https://open.spotify.com/artist/3QckOH5MxiJPtL4RzbcqmY"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "Concierto para una sola voz",
+      "url": "https://open.spotify.com/track/71Vj40n7wg7dMisyYoqnaR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La Fiesta Mexicana de Pepe Jaramillo",
-        "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
-      },
-      "artists": [
-        {
-          "name": "Pepe Jaramillo",
-          "url": "https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0"
-        }
-      ],
-      "duration_ms": 111200,
-      "name": "Capullito de Alel\u00ed",
-      "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "20 #1's: One Hit Wonders",
         "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 202805,
       "name": "Chariots Of Fire",
       "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "La Fiesta Mexicana de Pepe Jaramillo",
+        "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
+      },
+      "artists": [
+        {
+          "name": "Pepe Jaramillo",
+          "url": "https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0"
+        }
+      ],
+      "duration_ms": 111200,
+      "name": "Capullito de Alel\u00ed",
+      "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Best of Pop Concerto Orchestra",
-        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
-      },
-      "artists": [
-        {
-          "name": "Pop Concerto Orchestra",
-          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "Lady Milady",
-      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Playas de Ensue\u00f1o",
         "url": "https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 193213,
       "name": "Playas de Ensue\u00f1o",
       "url": "https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Best of Pop Concerto Orchestra",
+        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
+      },
+      "artists": [
+        {
+          "name": "Pop Concerto Orchestra",
+          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "Lady Milady",
+      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Avengers and Other Top Sixties Themes",
-        "url": "https://open.spotify.com/album/4G3wBMn8HG0iHXtAhiXoAN"
-      },
-      "artists": [
-        {
-          "name": "Tony Hatch",
-          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Memories of Summer",
-      "url": "https://open.spotify.com/track/1xQReqTn2P5oyqnXo9Eir2"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Santo & Johnny",
         "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 135493,
       "name": "Ebb Tide",
       "url": "https://open.spotify.com/track/2LCxsIKM9bl8lrPlL2EUmz"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Avengers and Other Top Sixties Themes",
+        "url": "https://open.spotify.com/album/4G3wBMn8HG0iHXtAhiXoAN"
+      },
+      "artists": [
+        {
+          "name": "Tony Hatch",
+          "url": "https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Memories of Summer",
+      "url": "https://open.spotify.com/track/1xQReqTn2P5oyqnXo9Eir2"
     },
     {
       "added_at": "2020-12-08 19:02:01",

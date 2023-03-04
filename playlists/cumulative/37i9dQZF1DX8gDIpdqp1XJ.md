@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-679 songs - 1 day 21 hr 13 min
+680 songs - 1 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Dreams](https://open.spotify.com/track/26sQKs8B4NBsU0lkI4ds3D) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Dreams](https://open.spotify.com/album/59u1le9R0zJ7ljpISRXhyC) | 3:22 | 2022-07-22 | 2022-07-29 |
 | [Dreams Via Memories](https://open.spotify.com/track/2vffK7x95PKEtSY70qwo9n) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [The Cart](https://open.spotify.com/album/0vN2R5yWDGvYj84iY2r7ZP) | 4:50 | 2021-04-02 | 2022-07-29 |
 | [Dreams Via Memories](https://open.spotify.com/track/47rVmhBEJm7bJUYpNcCxsK) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [The Cart](https://open.spotify.com/album/7gCS6N9XxSGCt9rPsIVcD4) | 4:51 | 2022-07-22 |  |
+| [Drift](https://open.spotify.com/track/4jDYPVKZd7V9h5Pll27BRv) | [Ian Reynold](https://open.spotify.com/artist/1SwN9zqne93a9eXrlr0tr1) | [Daisy](https://open.spotify.com/album/1Y72pUjm0HQ55whwr44QV9) | 3:47 | 2023-02-24 |  |
 | [Dripping Sun](https://open.spotify.com/track/0KixIFbJPLjVUgCiTgR649) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 7:50 | 2022-07-11 |  |
 | [Dry the Rain \- Remaster](https://open.spotify.com/track/0tjlSGZvut3IIdmwxC3hTh) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [Dry the Rain \(Remaster\)](https://open.spotify.com/album/6C87ASWepSzNhWrquNxPtP) | 6:03 | 2021-04-02 | 2022-04-16 |
 | [Earth Worship](https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA) | 3:37 | 2022-08-12 | 2022-11-02 |
@@ -572,7 +573,7 @@
 | [Taste](https://open.spotify.com/track/6kcRaRTILeTqwZGnsDLjsy) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Taste](https://open.spotify.com/album/6qt5yQOrotsGW6K0pNMRke) | 3:36 | 2021-04-02 | 2022-04-16 |
 | [Taxi’s Here](https://open.spotify.com/track/1T5tDibcj3AmFmPxYGm6vp) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 4:47 | 2021-04-02 | 2022-06-01 |
 | [Tears of Change](https://open.spotify.com/track/6J1ntyV5SSlaXYu4UWiSz2) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Tears of Change](https://open.spotify.com/album/7AIdAe6CcQC3CLdJxY4gXl) | 4:09 | 2022-10-07 | 2022-11-15 |
-| [Technicolor Love](https://open.spotify.com/track/0xPbEroCoWAutN6yHJVWYN) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Technicolor Love](https://open.spotify.com/album/4jjEC6GHtOQdKqEi151fuC) | 3:14 | 2023-02-24 |  |
+| [Technicolor Love](https://open.spotify.com/track/0xPbEroCoWAutN6yHJVWYN) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Technicolor Love](https://open.spotify.com/album/4jjEC6GHtOQdKqEi151fuC) | 3:14 | 2023-02-24 | 2023-03-04 |
 | [Terminal](https://open.spotify.com/track/40wkW3SBJMhemcvtzKjxkO) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Marci](https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e) | 3:22 | 2022-09-02 | 2022-10-08 |
 | [Terminal](https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Terminal](https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu) | 3:22 | 2022-06-17 | 2022-09-09 |
 | [Tesselation](https://open.spotify.com/track/3BIzHNxAQbRTY4LCp1oMR1) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:32 | 2022-07-11 | 2022-11-17 |

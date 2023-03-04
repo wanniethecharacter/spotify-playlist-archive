@@ -1,390 +1,142 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  LUM!X x Gabry Ponte x Alida",
-  "num_followers": 120124,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Leftwing Kody x Robot Collective",
+  "num_followers": 120135,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NjQzNSw1OThjMmM2MTQwOTc3MThiOWQwOTJhYWFmNTZlODA0NzE3ODVkM2I0",
+  "snapshot_id": "NjQ0MCw3MGQzN2U4NzJlYTEwZTNlODQ0MzhmODJjYTE0OGY5YmMxMTM1NThj",
   "tracks": [
     {
-      "added_at": "2023-02-24 09:31:20",
+      "added_at": "2023-03-03 09:40:40",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/6zZnlDosDGt9icUORfGLkt"
+        "name": "A Place In The Dark",
+        "url": "https://open.spotify.com/album/3mMAancciIstM6xJ2xYv0X"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
         },
         {
-          "name": "Maurice Lessing",
-          "url": "https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r"
+          "name": "GRY",
+          "url": "https://open.spotify.com/artist/6lLzPz5M6NWkN9FiN4Wcfe"
         }
       ],
-      "duration_ms": 187619,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/4Fgb5m6zWpFLRdfWA1kM0P"
+      "duration_ms": 159565,
+      "name": "A Place In The Dark",
+      "url": "https://open.spotify.com/track/7brwHNQOIkksblcpwaVBvL"
     },
     {
-      "added_at": "2023-02-24 09:31:20",
+      "added_at": "2023-03-03 09:40:40",
       "album": {
-        "name": "BT1",
-        "url": "https://open.spotify.com/album/3mrqyJRhizCxGwOn2s7mGq"
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/6W5AE2AwsYRz9yaerVhHYT"
       },
       "artists": [
         {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
         },
         {
-          "name": "Ookay",
-          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+          "name": "Robot Collective",
+          "url": "https://open.spotify.com/artist/4t9Q7485yjN60bdXa0dBEp"
         }
       ],
-      "duration_ms": 181333,
-      "name": "BT1",
-      "url": "https://open.spotify.com/track/59gxVInWEnShtkIrNGUhaE"
+      "duration_ms": 177600,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/4XeCHTFZsnBkWalJNSqIDs"
     },
     {
-      "added_at": "2023-02-24 09:31:20",
+      "added_at": "2023-03-03 09:40:40",
       "album": {
-        "name": "Case Of The Ex (feat. Mya Francis)",
-        "url": "https://open.spotify.com/album/0S5Baqi47D7SIXRlheqPVM"
+        "name": "Crank That",
+        "url": "https://open.spotify.com/album/3Sn7J040OsJ7aXC4t7WNV0"
       },
       "artists": [
         {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Crank That",
+      "url": "https://open.spotify.com/track/2ez15htfMruYGZAGpIUjit"
+    },
+    {
+      "added_at": "2023-03-03 09:40:40",
+      "album": {
+        "name": "Paris To Berlin",
+        "url": "https://open.spotify.com/album/67wCOcMvPGm0GahQ8EIq8q"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 144374,
+      "name": "Paris To Berlin",
+      "url": "https://open.spotify.com/track/2Ks189PRfXXnNH3FAT0Jnc"
+    },
+    {
+      "added_at": "2023-03-03 09:40:40",
+      "album": {
+        "name": "I Gotta Bounce",
+        "url": "https://open.spotify.com/album/26ZjsFxV1YTIHduvSbsMfn"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        }
+      ],
+      "duration_ms": 136967,
+      "name": "I Gotta Bounce",
+      "url": "https://open.spotify.com/track/58oVRFZOGODLqideI0G5DF"
+    },
+    {
+      "added_at": "2023-03-03 09:40:40",
+      "album": {
+        "name": "Paralyzed By Your Eyes",
+        "url": "https://open.spotify.com/album/1kpcos1H8BuZHaauZAMMIg"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "duration_ms": 160476,
+      "name": "Paralyzed By Your Eyes",
+      "url": "https://open.spotify.com/track/5hEet4S4TiD6zw0C9ekzdt"
+    },
+    {
+      "added_at": "2023-03-03 09:40:40",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/0I6BYJN3uWc5cYJ1C5faZM"
+      },
+      "artists": [
+        {
+          "name": "Bounce Inc.",
+          "url": "https://open.spotify.com/artist/6XxLVuFoMx7IKEINZdf3Xq"
         },
         {
-          "name": "N.F.I",
-          "url": "https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Mya Francis",
-          "url": "https://open.spotify.com/artist/0kfbyRaQxHrJavbstTdvrU"
+          "name": "SPLT",
+          "url": "https://open.spotify.com/artist/5Ma3LBUnDFkXhILojyeug3"
         }
       ],
-      "duration_ms": 127699,
-      "name": "Case Of The Ex (feat. Mya Francis)",
-      "url": "https://open.spotify.com/track/0jwGDGBIyzdsNxYkj7vNUb"
+      "duration_ms": 203636,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/5CF0J17yCgiOuesCGJU0Jf"
     },
     {
-      "added_at": "2023-02-24 09:31:20",
+      "added_at": "2023-03-03 09:40:40",
       "album": {
-        "name": "I Wanna Dance With Somebody",
-        "url": "https://open.spotify.com/album/2bBlKGj0lQkLO4K0b664sS"
-      },
-      "artists": [
-        {
-          "name": "Hi_Tack",
-          "url": "https://open.spotify.com/artist/6N1W9mAlncCKbqBHgBR2bN"
-        }
-      ],
-      "duration_ms": 128244,
-      "name": "I Wanna Dance With Somebody",
-      "url": "https://open.spotify.com/track/0T19Q8NfvxN9XgcTRz16u3"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "IRLY (I Really Love You)",
-        "url": "https://open.spotify.com/album/1ZaGCKsUUEhsfEbzTJeGrk"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 170569,
-      "name": "IRLY (I Really Love You)",
-      "url": "https://open.spotify.com/track/0TZmwiefBLRaNYtkRWH8Uh"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/4I2Z3W2Pfhk267OoVFs9EE"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        }
-      ],
-      "duration_ms": 202738,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/10E3RZH3FcO3bC8w7BHDwp"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "When We Lose It (feat. Fagin)",
-        "url": "https://open.spotify.com/album/2ywITunUGndA6yRSkgeRXI"
-      },
-      "artists": [
-        {
-          "name": "Felguk",
-          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
-        },
-        {
-          "name": "Fagin",
-          "url": "https://open.spotify.com/artist/7rPtQcrQxAA6bdsUwSyYoV"
-        }
-      ],
-      "duration_ms": 211408,
-      "name": "When We Lose It (feat. Fagin)",
-      "url": "https://open.spotify.com/track/0ZTjwnp76LD3ma0PZT9prp"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "Back Again",
-        "url": "https://open.spotify.com/album/7ydU7XmSW78khx5DOIS1yw"
-      },
-      "artists": [
-        {
-          "name": "MUNZUR",
-          "url": "https://open.spotify.com/artist/7L5FIGZZIyvLD4JDDi1Nbc"
-        }
-      ],
-      "duration_ms": 152903,
-      "name": "Back Again",
-      "url": "https://open.spotify.com/track/3tTAsDQynzGDuFbJKv48IW"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "Crazy Over You",
-        "url": "https://open.spotify.com/album/3k4rKSD3C425Tk1aKQekrc"
-      },
-      "artists": [
-        {
-          "name": "BeatFreakz",
-          "url": "https://open.spotify.com/artist/5TloeWiZXG1ttx3qXHxbs0"
-        }
-      ],
-      "duration_ms": 152238,
-      "name": "Crazy Over You",
-      "url": "https://open.spotify.com/track/7cwOZxhbXvzfce86A90deT"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "Distropia",
-        "url": "https://open.spotify.com/album/5f1QO6yJGEkVoA6d6ePiAp"
-      },
-      "artists": [
-        {
-          "name": "ASCO",
-          "url": "https://open.spotify.com/artist/0FpEluMjDj6Lvn1yHpMGIe"
-        },
-        {
-          "name": "FaderX",
-          "url": "https://open.spotify.com/artist/2LlrfyQDYOQrRgySUicv1Y"
-        }
-      ],
-      "duration_ms": 208302,
-      "name": "Distropia",
-      "url": "https://open.spotify.com/track/39rV0c3XebHCvdxSMisq6d"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "It Doesn't Matter",
-        "url": "https://open.spotify.com/album/60pKd4GWa9RYzVRspilfHg"
-      },
-      "artists": [
-        {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
-        },
-        {
-          "name": "DJs From Mars",
-          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
-        }
-      ],
-      "duration_ms": 144922,
-      "name": "It Doesn't Matter",
-      "url": "https://open.spotify.com/track/5I9JYEaXmKsrHlXsnvNYjd"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "To The Left To The Right",
-        "url": "https://open.spotify.com/album/2Red7qgHIqwJdQcg3CTt0F"
-      },
-      "artists": [
-        {
-          "name": "ManyFew",
-          "url": "https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL"
-        }
-      ],
-      "duration_ms": 144651,
-      "name": "To The Left To The Right",
-      "url": "https://open.spotify.com/track/1ukSIcoQr0KbqozkX8MxKH"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "Have It All (feat. Franky) [George Z Remix]",
-        "url": "https://open.spotify.com/album/2g75jykVOuHBfoBJtf80pI"
-      },
-      "artists": [
-        {
-          "name": "Jack Wins",
-          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
-        },
-        {
-          "name": "Franky",
-          "url": "https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW"
-        },
-        {
-          "name": "George Z",
-          "url": "https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo"
-        }
-      ],
-      "duration_ms": 265174,
-      "name": "Have It All (feat. Franky) [George Z Remix]",
-      "url": "https://open.spotify.com/track/6s48NdRORuQvOJ46HeDosT"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "WIFI",
-        "url": "https://open.spotify.com/album/1czutGjs585UqxWYDCszTW"
-      },
-      "artists": [
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        }
-      ],
-      "duration_ms": 159843,
-      "name": "WIFI",
-      "url": "https://open.spotify.com/track/43VqipZReCL4aFRnaKbGub"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "Trujillana",
-        "url": "https://open.spotify.com/album/1wR0T66gmIx2bUtPqGRX66"
-      },
-      "artists": [
-        {
-          "name": "Maxx Lyon",
-          "url": "https://open.spotify.com/artist/43CU8m11gF8fr4QLTxQdfW"
-        },
-        {
-          "name": "Andrew Hansel",
-          "url": "https://open.spotify.com/artist/71IPHegMvPMkqmJfNs7A4V"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Trujillana",
-      "url": "https://open.spotify.com/track/47zvDIWnlhZWcWhZEDauTA"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "Wanting More",
-        "url": "https://open.spotify.com/album/08aCCFsGGKxphER7GEUu7M"
-      },
-      "artists": [
-        {
-          "name": "Bastiqe",
-          "url": "https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb"
-        },
-        {
-          "name": "Strange Mike",
-          "url": "https://open.spotify.com/artist/5eX0epLy551uFsC45QUtnQ"
-        },
-        {
-          "name": "Jimmy Rivler",
-          "url": "https://open.spotify.com/artist/2VcGBf5YDWgKpQedSvx58i"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "Wanting More",
-      "url": "https://open.spotify.com/track/5J0o5PYCHvDQZ10FtJ6bwz"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "Never Again (feat. Lilly Ahlberg)",
-        "url": "https://open.spotify.com/album/1Z46RnNwnYIdB38ECo0YYP"
-      },
-      "artists": [
-        {
-          "name": "GotSome",
-          "url": "https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 183054,
-      "name": "Never Again (feat. Lilly Ahlberg)",
-      "url": "https://open.spotify.com/track/56qcFapBEfXKQkOUpWpXdl"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "Like Me",
-        "url": "https://open.spotify.com/album/3yLOK6z6i1EcqekIxaxaCk"
-      },
-      "artists": [
-        {
-          "name": "Lost Knights",
-          "url": "https://open.spotify.com/artist/0LweWdeXffhLb6uu1F9aVn"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Like Me",
-      "url": "https://open.spotify.com/track/6fYq0RvfkmvqJDeVVzZLqo"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "Teri Aadat",
-        "url": "https://open.spotify.com/album/7xn3XucSYac4tXQNAHLv95"
-      },
-      "artists": [
-        {
-          "name": "Sandro Silva",
-          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
-        },
-        {
-          "name": "Arjun Kanungo",
-          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
-        },
-        {
-          "name": "DJ Shadow Dubai",
-          "url": "https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S"
-        }
-      ],
-      "duration_ms": 237304,
-      "name": "Teri Aadat",
-      "url": "https://open.spotify.com/track/0pvPs6XOenwwNvSPIKHWkP"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "Drop That Low (When I Dip) [Antoine Delvig Remix]",
-        "url": "https://open.spotify.com/album/04iQQ2uT3s01S0LsSD54CC"
+        "name": "Drop That Low (When I Dip) [feat. Kid Ink] [GOOD N\u2019 BAD Remix]",
+        "url": "https://open.spotify.com/album/4F1hqOhNHr3o3gjvBvltY6"
       },
       "artists": [
         {
@@ -396,59 +148,35 @@
           "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
         },
         {
-          "name": "Antoine Delvig",
-          "url": "https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl"
+          "name": "GOOD N\u2019 BAD",
+          "url": "https://open.spotify.com/artist/6stxtq6kFlB4ZpYsfXnYUb"
         }
       ],
-      "duration_ms": 159761,
-      "name": "Drop That Low (When I Dip) [Antoine Delvig Remix]",
-      "url": "https://open.spotify.com/track/41jehhUx2VKR976vRc7IFn"
+      "duration_ms": 139218,
+      "name": "Drop That Low (When I Dip) [feat. Kid Ink] [GOOD N\u2019 BAD Remix]",
+      "url": "https://open.spotify.com/track/3ngvQArJT8Kd26hZAhvIjo"
     },
     {
-      "added_at": "2023-02-24 09:31:20",
+      "added_at": "2023-03-03 09:40:40",
       "album": {
-        "name": "2 Ph\u00fat H\u01a1n (KAIZ Remix) [Squid Kids Remix]",
-        "url": "https://open.spotify.com/album/6LhhaqVmtsOjsLthPiz02b"
+        "name": "Midnight Club",
+        "url": "https://open.spotify.com/album/2SpfqvG4YGI2sVk4kglS7k"
       },
       "artists": [
         {
-          "name": "Ph\u00e1o",
-          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
-        },
-        {
-          "name": "KAIZ",
-          "url": "https://open.spotify.com/artist/5Oy8zRNFImMUeoAxjbT7Bj"
-        },
-        {
-          "name": "Squid Kids",
-          "url": "https://open.spotify.com/artist/0xtNG1XuQ9YaW7aRr4Fog8"
+          "name": "509 $icario",
+          "url": "https://open.spotify.com/artist/6Wx2VVhGDwD4RTwJ4yyip2"
         }
       ],
-      "duration_ms": 170317,
-      "name": "2 Ph\u00fat H\u01a1n (KAIZ Remix) [Squid Kids Remix]",
-      "url": "https://open.spotify.com/track/0pEiGqDCUmS10mH11wJuN3"
+      "duration_ms": 168549,
+      "name": "Midnight Club",
+      "url": "https://open.spotify.com/track/0voSkJzkArRukviUK5RjPE"
     },
     {
-      "added_at": "2023-02-24 09:31:20",
+      "added_at": "2023-03-03 09:40:40",
       "album": {
-        "name": "Rock Skeeping",
-        "url": "https://open.spotify.com/album/6fwC1uJsiIQEPjd7ewfRgH"
-      },
-      "artists": [
-        {
-          "name": "Scorsi",
-          "url": "https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "Rock Skeeping",
-      "url": "https://open.spotify.com/track/1tL7drK2ROMjipcAyATRa5"
-    },
-    {
-      "added_at": "2023-02-24 09:31:20",
-      "album": {
-        "name": "After Midnight (feat. Xoro) [VINNE Remix]",
-        "url": "https://open.spotify.com/album/7qLBMzNsEg5xZ6qPzlzxx7"
+        "name": "After Midnight (feat. Xoro) [TELYKast Remix]",
+        "url": "https://open.spotify.com/album/1ezdvzo3qAQ3Dxt2gvI79e"
       },
       "artists": [
         {
@@ -460,17 +188,49 @@
           "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
         },
         {
-          "name": "VINNE",
-          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
-        },
-        {
           "name": "Xoro",
           "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         }
       ],
-      "duration_ms": 181904,
-      "name": "After Midnight (feat. Xoro) [VINNE Remix]",
-      "url": "https://open.spotify.com/track/6FiyfXilKoVCqZx7ZYSXkY"
+      "duration_ms": 149760,
+      "name": "After Midnight (feat. Xoro) [TELYKast Remix]",
+      "url": "https://open.spotify.com/track/3ISLa8YMtXC50w0vA0AWTk"
+    },
+    {
+      "added_at": "2023-03-03 09:40:40",
+      "album": {
+        "name": "Somebody To Love (feat. LIZOT, Basstrologe) [Slowed Version]",
+        "url": "https://open.spotify.com/album/7aoHA9AF12s06S5zSUxeMN"
+      },
+      "artists": [
+        {
+          "name": "Nightcore Slowed Down Tunes",
+          "url": "https://open.spotify.com/artist/6I9v0QaDWnhDW8TYjus5zs"
+        }
+      ],
+      "duration_ms": 148279,
+      "name": "Somebody To Love (feat. LIZOT, Basstrologe) [Slowed Version]",
+      "url": "https://open.spotify.com/track/4zVdoOcp0UODLeKr6jwEKP"
+    },
+    {
+      "added_at": "2023-03-03 09:40:40",
+      "album": {
+        "name": "Somebody To Love (feat. Basstrologe) [Slowed Version]",
+        "url": "https://open.spotify.com/album/0JR9pZ44wITwUqBPyhu1f1"
+      },
+      "artists": [
+        {
+          "name": "Nightcore Slowed Down Tunes",
+          "url": "https://open.spotify.com/artist/6I9v0QaDWnhDW8TYjus5zs"
+        }
+      ],
+      "duration_ms": 161964,
+      "name": "Somebody To Love (feat. Basstrologe) [Slowed Version]",
+      "url": "https://open.spotify.com/track/4fbQbyieN8SuSkV6Jr0TLk"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

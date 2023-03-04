@@ -1,13 +1,109 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: GEL",
-  "num_followers": 7638,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Castle Rat",
+  "num_followers": 7645,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MjU2OCxjMzJjMjBmNDBhOTM0NzA5MDA2Nzg2OTAyODM4NDU1NjI4MzE3Y2Ri",
+  "snapshot_id": "MjU3Nyw2MWE4NDBkNWVkYTFmYTQyMzRhODFiOTNjYTEzZjBkZGIyZmNlZmU4",
   "tracks": [
+    {
+      "added_at": "2023-03-03 19:23:46",
+      "album": {
+        "name": "If Darkness Had a Son",
+        "url": "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW"
+    },
+    {
+      "added_at": "2023-03-03 19:23:53",
+      "album": {
+        "name": "Dagger Dragger",
+        "url": "https://open.spotify.com/album/6qHj91jBNyU856zUf8O6yb"
+      },
+      "artists": [
+        {
+          "name": "Castle Rat",
+          "url": "https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "Dagger Dragger",
+      "url": "https://open.spotify.com/track/3I0iaBY4eNmJJlCgu86ppw"
+    },
+    {
+      "added_at": "2023-03-03 19:23:58",
+      "album": {
+        "name": "Shot Down",
+        "url": "https://open.spotify.com/album/25RwbMetO9mwESyZvfIRAB"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 109159,
+      "name": "Shot Down",
+      "url": "https://open.spotify.com/track/6rvlbf5Rle9exopdtBY3cL"
+    },
+    {
+      "added_at": "2023-03-03 19:24:06",
+      "album": {
+        "name": "Best Before: Death",
+        "url": "https://open.spotify.com/album/5SQIF1zQZk1kmiReGa3Kh7"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 213587,
+      "name": "Best Before: Death",
+      "url": "https://open.spotify.com/track/2uTahQV0g3RtBUysdYdXLZ"
+    },
+    {
+      "added_at": "2023-03-03 19:24:12",
+      "album": {
+        "name": "Eternal Spirits",
+        "url": "https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Eternal Spirits",
+      "url": "https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg"
+    },
+    {
+      "added_at": "2023-03-03 19:24:21",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 230002,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO"
+    },
     {
       "added_at": "2023-02-24 20:52:12",
       "album": {

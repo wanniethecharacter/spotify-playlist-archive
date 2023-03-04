@@ -3333,6 +3333,24 @@
     },
     {
       "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/4BIulmAl1QSc3nHogyaFiv"
+      },
+      "artists": [
+        {
+          "name": "Lykke Juno",
+          "url": "https://open.spotify.com/artist/6cJCpDjNQBjGqBNB453M9J"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111304,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/0oXl1pTqskTdXuu46tPCJm"
+    },
+    {
+      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8"
       },
@@ -6002,6 +6020,24 @@
       "duration_ms": 154863,
       "name": "Open Skies",
       "url": "https://open.spotify.com/track/5bATh5zpKb6uauocsl0XRM"
+    },
+    {
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/4DXa01faA0ub1CdxyKyTPQ"
+      },
+      "artists": [
+        {
+          "name": "Far & Beyond",
+          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144404,
+      "name": "Open to it",
+      "url": "https://open.spotify.com/track/7AkmShdIslE2jkJ4jHbYmd"
     },
     {
       "album": {
@@ -9063,6 +9099,24 @@
     },
     {
       "album": {
+        "name": "Upside",
+        "url": "https://open.spotify.com/album/6FVyPPjXFRtjMfeLeG5mk1"
+      },
+      "artists": [
+        {
+          "name": "Wimmel",
+          "url": "https://open.spotify.com/artist/0RhOCgBChCEWoFoiyvlcYy"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166599,
+      "name": "Upside",
+      "url": "https://open.spotify.com/track/7cEcI3DZiwBrFcF3bAeBuL"
+    },
+    {
+      "album": {
         "name": "Envision",
         "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
       },
@@ -9150,6 +9204,24 @@
       "duration_ms": 281000,
       "name": "Ventura",
       "url": "https://open.spotify.com/track/3aIidfKAjMwaRTgvY9d0BG"
+    },
+    {
+      "album": {
+        "name": "Victory Laps",
+        "url": "https://open.spotify.com/album/2wj2jQOnVCYyIAcEJg3x4L"
+      },
+      "artists": [
+        {
+          "name": "Josef Briem",
+          "url": "https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134783,
+      "name": "Victory Laps",
+      "url": "https://open.spotify.com/track/34Dgd9lC0X0AQwq4L3RbvY"
     },
     {
       "album": {

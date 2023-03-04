@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,899 songs - 5 day 7 hr 46 min
+1,900 songs - 5 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,9 +330,10 @@
 | [Capital Cebuista](https://open.spotify.com/track/1v2Hw4ke5wz2ZdlWrH1ACX) | [Santander Flores](https://open.spotify.com/artist/63rHVcPDtmXdG3yGkgE9ha) | [Soundway Presents: The Original Sound of Cumbia \(The History of Colombian Cumbia & Porro As Told By The Phonograph 1948\-79 Compiled by Quantic\)](https://open.spotify.com/album/7JjTvJwJsTwy5P2CxXHofO) | 2:57 | 2022-06-09 | 2022-07-29 |
 | [Capital Cebuista](https://open.spotify.com/track/7tiWyF2rv4GJF8pZRz2gEP) | [Santander Flores](https://open.spotify.com/artist/63rHVcPDtmXdG3yGkgE9ha) | [La Edad De Oro De La Cumbia Colombiana, Vol\. 2](https://open.spotify.com/album/1sJyr6gkGhXkMP9DvYqREB) | 2:57 | 2022-07-27 |  |
 | [Capitão de Areia](https://open.spotify.com/track/0tsdTV5UgmLNGXiBRxdMdM) | [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC) | [Capitão De Areia](https://open.spotify.com/album/7LDfvLKFzvbqK2YfIcr5mk) | 4:53 | 2022-06-09 |  |
+| [Capoeira mata um](https://open.spotify.com/track/0Gl31Zjm95vl5uDZGiAnww) | [Jackson Do Pandeiro](https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:01 | 2023-02-27 |  |
 | [Capoeira mata um](https://open.spotify.com/track/5GUvopabrHytG2ml8gcyhl) | [Jackson Do Pandeiro](https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo) | [Brazilian Melodies](https://open.spotify.com/album/4wDO0ovFdweFiSVN6TCOI6) | 3:01 | 2022-10-31 | 2022-11-13 |
 | [Capoeira mata um](https://open.spotify.com/track/6GWNvwsB1hTRnF5lxMC6iP) | [Jackson Do Pandeiro](https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo) | [Los anos de oro](https://open.spotify.com/album/4QQZn6L7bXGg2PvYovxCIg) | 3:01 | 2022-06-09 | 2022-07-29 |
-| [Capoeira mata um](https://open.spotify.com/track/6nA77kCvCA1AvSOaDrWEO4) | [Jackson Do Pandeiro](https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo) | [O Cabra da Peste](https://open.spotify.com/album/37WoNQQZW4Rm9yTekUO7Yj) | 3:01 | 2022-07-27 |  |
+| [Capoeira mata um](https://open.spotify.com/track/6nA77kCvCA1AvSOaDrWEO4) | [Jackson Do Pandeiro](https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo) | [O Cabra da Peste](https://open.spotify.com/album/37WoNQQZW4Rm9yTekUO7Yj) | 3:01 | 2022-07-27 | 2023-03-04 |
 | [Caramelo de Menta](https://open.spotify.com/track/3Zrr40fatlxljVi9zLauoz) | [Los Pakines](https://open.spotify.com/artist/13NXzwXxkMGhfAs8khbssr) | [Los Pakines](https://open.spotify.com/album/3WO8HLEqsTV1KPxK8WZmmg) | 2:42 | 2022-06-09 |  |
 | [Carnaval Soca \- Antal Edit](https://open.spotify.com/track/0nku8OHBKO0R5c9zIE0ZJ7) | [Daniel Dimbas](https://open.spotify.com/artist/6iYbPOEp95g1DM2wlcfICI), [Antal](https://open.spotify.com/artist/0e1whBY5xv3rF7Zj5cxLD9) | [La Differencia \- Antal & Palms Trax Edits](https://open.spotify.com/album/3u4Q1L0XyEvCp42Tm2hxZ3) | 5:10 | 2022-06-09 | 2022-07-29 |
 | [Carnaval Soca \- Antal Edit](https://open.spotify.com/track/1btpvpJnJyrTn3yybIlH70) | [Daniel Dimbas](https://open.spotify.com/artist/6iYbPOEp95g1DM2wlcfICI), [Antal](https://open.spotify.com/artist/0e1whBY5xv3rF7Zj5cxLD9) | [La Differencia \- Antal & Palms Trax Edits](https://open.spotify.com/album/457wNC7U6RG3o8yaUOZV6n) | 5:10 | 2022-07-27 |  |

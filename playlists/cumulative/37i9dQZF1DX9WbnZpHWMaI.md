@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-107 songs - 8 hr 7 min
+108 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Turning My Head](https://open.spotify.com/track/3HG0bL6apxDTfjijRapnI2) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Turning My Head](https://open.spotify.com/album/7rRwW48AX1FwDvBl8Oalap) | 6:41 | 2021-03-01 | 2022-07-29 |
 | [Turning My Head](https://open.spotify.com/track/6n9S8Xb2FzvKsHnsZczfm4) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Turning My Head](https://open.spotify.com/album/4FfW2yPHUeipHkGhp64PKI) | 6:41 | 2022-03-08 |  |
 | [UK Lonely](https://open.spotify.com/track/05kR3vQUekEjBUZ4CKCufh) | [Or:la](https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf) | [UK Lonely](https://open.spotify.com/album/17NBJTFJiEa2sshzte7Dou) | 4:29 | 2021-03-01 |  |
-| [Vision](https://open.spotify.com/track/33HsRyPb6OjF3pdEfkQl8u) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Vision EP](https://open.spotify.com/album/04L2Xes0sm950AxqEwWNwc) | 6:16 | 2021-03-01 |  |
+| [Vision](https://open.spotify.com/track/33HsRyPb6OjF3pdEfkQl8u) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Vision EP](https://open.spotify.com/album/04L2Xes0sm950AxqEwWNwc) | 6:16 | 2021-03-01 | 2023-03-04 |
+| [Vision](https://open.spotify.com/track/6JeCtcqicYmR2UYoetPldA) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Vision EP](https://open.spotify.com/album/0DypNHO3mp0ojDyurBjVuf) | 6:16 | 2022-03-08 |  |
 | [WAKING UP DOWN](https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:21 | 2022-03-08 |  |
 | [WAKING UP DOWN](https://open.spotify.com/track/6qFbd0y93wtnLFQM0d4v96) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/150xIoPgnDoEfRvd0paiIc) | 3:21 | 2021-03-01 | 2022-07-29 |
 | [Weight](https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT) | [UMFANG](https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3) | [Symbolic Use Of Light](https://open.spotify.com/album/29MU5A39NfSLiCN6pjtGcn) | 4:31 | 2021-03-01 |  |

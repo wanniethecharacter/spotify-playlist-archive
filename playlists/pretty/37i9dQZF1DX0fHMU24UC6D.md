@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fHMU24UC6D.md) - [plain]
 
 ### [TREASURE TOUR \[HELLO\]](https://open.spotify.com/playlist/37i9dQZF1DX0fHMU24UC6D)
 
-> Enjoy the concert LIVE SET including the voices of TREASURE members on stage! \(트레져 멤버들의 무대의 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
+> Enjoy the concert LIVE SET including the voices of TREASURE members on stage! \(트레저 멤버들의 무대의 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,489 likes - 27 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,364 likes - 27 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fHMU24UC6D.md) - [plain]
 | 26 | [MY TREASURE](https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:15 |
 | 27 | [Ending Ments from TREASURE](https://open.spotify.com/track/3s9A6RdJUL0Tnr1B8pn0am) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Treasure Tour \[HELLO\] Audio liners](https://open.spotify.com/album/2owjzY67LuuE0HO2ttN3cj) | 0:38 |
 
-Snapshot ID: `MTY3Nzc0NzYwMCwwMDAwMDAwMGM1ZTM0YzY5N2RiMWJjNzQxNTQ1NTE3YTI4ZGRiMTZj`
+Snapshot ID: `MTY3NzgyODA2NSwwMDAwMDAwMGIzZjg4NjM2ODJjNGIwMzJjZTNhOGMyNGIwY2U1Yjkw`

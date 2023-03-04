@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 16188,
+  "num_followers": 16224,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5NDc4NCwwMDAwMDAwMGIzNTg5ZTk2NjUyOGU2YTJjYjhiZjE1NGIxYmI5ZDZk",
+  "snapshot_id": "MTY3NTk5NDc4NCwwMDAwMDAwMGMxZDg5MjQ3NWZiNDJlMzY1MTFmZThlMzQ5OGNlYTRl",
   "tracks": [
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
+        "name": "Hecho Y Derecho",
+        "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 167331,
+      "name": "Hecho Y Derecho",
+      "url": "https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP"
+    },
+    {
+      "added_at": "2023-02-10 02:06:24",
+      "album": {
         "name": "Perdido",
         "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
       },
@@ -1539,18 +1555,22 @@
     {
       "added_at": "2023-02-10 02:06:24",
       "album": {
-        "name": "Hecho Y Derecho",
-        "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
+        "name": "Decision Unanime",
+        "url": "https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz"
       },
       "artists": [
         {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 167331,
-      "name": "Hecho Y Derecho",
-      "url": "https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP"
+      "duration_ms": 323266,
+      "name": "Puerto Rico 2006 (feat. Eddie Palmieri)",
+      "url": "https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9"
     },
     {
       "added_at": "2023-02-10 02:06:24",
@@ -1571,26 +1591,6 @@
       "duration_ms": 161946,
       "name": "Tumba La Ca\u00f1a Jibarito",
       "url": "https://open.spotify.com/track/3qiFFGj7QQ2XOFbO0NA56s"
-    },
-    {
-      "added_at": "2023-02-10 02:06:24",
-      "album": {
-        "name": "Decision Unanime",
-        "url": "https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 323266,
-      "name": "Puerto Rico 2006 (feat. Eddie Palmieri)",
-      "url": "https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9"
     },
     {
       "added_at": "2023-02-10 02:06:24",

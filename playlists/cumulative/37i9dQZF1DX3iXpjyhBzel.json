@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Julia Vit\u00f3ria",
+  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Andr\u00e9 e Felipe",
   "name": "Louvor & Adora\u00e7\u00e3o",
   "tracks": [
     {
@@ -822,7 +822,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 321173,
       "name": "Ele Vive / Porque Ele Vive (Because He Lives) - Ao Vivo",
       "url": "https://open.spotify.com/track/1mH3ymdU5AkT29eoA8Xixj"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 326263,
       "name": "Existe Um Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/0pwAY9EOGY8QjGwaXZuDJG"
@@ -1484,6 +1484,24 @@
       "duration_ms": 248288,
       "name": "Nada se Compara",
       "url": "https://open.spotify.com/track/0D94CC8l87yioa74OKQitU"
+    },
+    {
+      "album": {
+        "name": "No Secreto",
+        "url": "https://open.spotify.com/album/1qeqGRnRFznboGc8pkGl2c"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267142,
+      "name": "No Secreto",
+      "url": "https://open.spotify.com/track/5jBDl0t9QF4hHkElNCbmsg"
     },
     {
       "album": {
@@ -2031,6 +2049,24 @@
     },
     {
       "album": {
+        "name": "Romanos 8:26 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269739,
+      "name": "Romanos 8:26 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG"
+    },
+    {
+      "album": {
         "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us (Ao Vivo)",
         "url": "https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt"
       },
@@ -2202,7 +2238,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 282000,
       "name": "Sinais",
       "url": "https://open.spotify.com/track/0XCP8xMjtUNh8ODfWt4nAP"
@@ -2510,6 +2546,24 @@
       "duration_ms": 256023,
       "name": "Um Refr\u00e3o Pra Sua Alma",
       "url": "https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx"
+    },
+    {
+      "album": {
+        "name": "A Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 621079,
+      "name": "Uma Hora \u00e9 Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp"
     },
     {
       "album": {

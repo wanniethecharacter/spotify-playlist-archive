@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-391 songs - 1 day 3 hr 59 min
+392 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Golden Hour](https://open.spotify.com/track/75sLIs9n3Odv5YxXe9VIrw) | [Balcony Sunrise](https://open.spotify.com/artist/18fGpvh05JqB697yJxo5mF) | [Golden Hour](https://open.spotify.com/album/7z7cyWuCDqW8PxQ0luSVb5) | 4:13 | 2022-07-22 |  |
 | [Golden Taurus](https://open.spotify.com/track/4yR6KeaGWGEDpVRiDFXeR7) | [Vercetti Technicolor](https://open.spotify.com/artist/28qRQnzpymzgyB5QxvioKO) | [Golden Taurus EP](https://open.spotify.com/album/3rBTMGNErkX6ia4TGBvsqq) | 5:45 | 2022-04-01 | 2022-11-06 |
 | [Gorwel](https://open.spotify.com/track/28L1PMK9pGoujuvl91DwEo) | [Carw](https://open.spotify.com/artist/7AaeIQ8PJitJJcScxTWL13) | [Gorwel](https://open.spotify.com/album/37peSNX9tLt9iy3UFYOeF3) | 3:29 | 2022-02-04 | 2022-02-16 |
+| [Gravity](https://open.spotify.com/track/0tiOJtm4uLZJ6qewg7Ck70) | [SHADU](https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C) | [Gravity](https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF) | 3:26 | 2023-01-13 |  |
 | [Gravity \(Of U & I\)](https://open.spotify.com/track/5phvikd8m1kALvoBuKfnIO) | [HELIXIRx](https://open.spotify.com/artist/3k8Yy0uBrm0uDy3P6Txzgc) | [Authenticity: The Instrumentals](https://open.spotify.com/album/4PFdNLbzmXK25Ui4SfQJpw) | 4:49 | 2022-02-04 | 2022-02-19 |
 | [Gunshot](https://open.spotify.com/track/781UsdIGZ2ce8qLJQOpgGT) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Gunshot](https://open.spotify.com/album/5R1pqh68glbrzZMJWiOjQw) | 3:49 | 2022-02-04 | 2022-04-20 |
 | [Gutterpunk Kids](https://open.spotify.com/track/0SovI9ZaXKFzN1b26U0627) | [Sami Matar](https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1) | [District 970](https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd) | 4:13 | 2021-10-15 |  |
@@ -359,7 +360,7 @@
 | [The Getaway](https://open.spotify.com/track/5boxsVqT2XsC2b1V2FUCsM) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [Turbulence](https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU) | 3:56 | 2022-07-22 |  |
 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 | 2022-04-01 | 2022-05-28 |
 | [The Last Day \- Remastered](https://open.spotify.com/track/10pgXAyLSj1Bitw7mmn4BV) | [Midnight Danger](https://open.spotify.com/artist/08oYIzltKqFzeg7pQg6hh4) | [The Singles\. Remastered.](https://open.spotify.com/album/7lMD5BhMgGingxB0JqnDrW) | 4:49 | 2023-01-13 |  |
-| [The Mansion](https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Lost Tracks Katana Zero](https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB) | 2:14 | 2021-10-15 |  |
+| [The Mansion](https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Lost Tracks Katana Zero](https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB) | 2:14 | 2021-10-15 | 2023-03-04 |
 | [The Navigator \- Slowed Version](https://open.spotify.com/track/7gjgdMt8037wwWY8QLiqF8) | [Echo\-Eclipse](https://open.spotify.com/artist/6KGpRKwr3IKBxeEeUW7DLc) | [Arcade Machine \(Slowed Edition\) \[Slowed Version\]](https://open.spotify.com/album/2bOCal2xHpluVKBBPANrcY) | 3:50 | 2022-04-01 | 2022-05-22 |
 | [The Night](https://open.spotify.com/track/5sK5X9xq2aIk9uFe85OEby) | [Droid Bishop](https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe) | [The Night](https://open.spotify.com/album/74H6voYjugubDYisU8zarC) | 4:08 | 2022-05-20 | 2022-07-29 |
 | [The Perfect Girl \- The Motion Retrowave Remix](https://open.spotify.com/track/1UcyzhmBDfdw07DiuT7DEG) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo), [The Motion](https://open.spotify.com/artist/2Oa32CWdPcsW36MkDRjM5n) | [The Perfect Girl \(The Motion Retrowave Remix\)](https://open.spotify.com/album/6LtIcRhkNqGdXl2OESjDPE) | 3:01 | 2022-07-22 |  |

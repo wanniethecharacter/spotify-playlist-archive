@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: Kid Milli, Miranni, LOOPY, sAewoo\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: Polodared, Royal 44, Fleeky Bang, YEOHO\)
 
-818 songs - 1 day 21 hr 23 min
+820 songs - 1 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [On and on \(feat\. FANA\)](https://open.spotify.com/track/5Nlr3ZAz0J3N0IJSVeEe6g) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT) | [On and on](https://open.spotify.com/album/5yBXeh9XWl7IvBMstWnJbo) | 3:06 | 2022-06-18 | 2022-08-13 |
 | [ON MY MIND](https://open.spotify.com/track/25gHcZbLwgDskS2Hv6BAMr) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [J\-Tong](https://open.spotify.com/album/2k7NB0TnHa2csgBnae40FS) | 3:12 | 2022-02-22 | 2022-06-12 |
 | [On My Way \(Feat\. Jackson Wang\)](https://open.spotify.com/track/5vaR767DFNrbwosqbdJRD0) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Strawberry](https://open.spotify.com/album/0aLrrsoWsk0NtEb2se2Ugd) | 3:03 | 2023-02-01 | 2023-03-01 |
+| [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-03 |  |
 | [one \(feat\. Paul Blanco, Kim Seungmin\)](https://open.spotify.com/track/6AWXGKo1zTjMV1WNjIpwhx) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [one & ashes](https://open.spotify.com/album/2LpbGE8qfrCjYykxO7v3of) | 3:16 | 2022-06-18 | 2022-08-13 |
 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 | 2022-01-15 | 2022-07-08 |
 | [One Two Hook](https://open.spotify.com/track/1AwuvNOvtVDGoFKAaPWIRz) | [HWANG JI SANG](https://open.spotify.com/artist/3dQdwIvG10kKFroCxUjcp8) | [HWANG JI SANG](https://open.spotify.com/album/5VOb9ZL3QqD2uDQrbQGDFc) | 1:50 | 2022-01-14 | 2022-07-02 |
@@ -807,6 +808,7 @@
 | [YAYAYA \(Feat\. Mirani\)](https://open.spotify.com/track/6H7hpnwgn2zH1OUsJjbrPo) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [TokkinnyBrown1.5](https://open.spotify.com/album/5bOKueM07L06faNzgjL3U5) | 3:18 | 2021-12-21 | 2022-07-04 |
 | [Yellow Cab](https://open.spotify.com/track/6KZ5tQzMzradTe0pxsfObz) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Yellow Cab](https://open.spotify.com/album/4jcAeu2xYvb7TRXIQB387m) | 3:25 | 2021-12-18 | 2022-07-08 |
 | [Yessir!](https://open.spotify.com/track/7gDjX9OBv0igB7PyZXJje6) | [BLSP](https://open.spotify.com/artist/4ec52yNguqiIkLXqkt7ZV2), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [Yessir!](https://open.spotify.com/album/5pUsKPyDAiruVHE9pHYrZV) | 2:09 | 2022-07-04 | 2022-08-19 |
+| [YG \- Spotify Singles](https://open.spotify.com/track/0QeZDFhBQGIrFgkmaIEko9) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [YEOHO](https://open.spotify.com/artist/4228BjQOcYIzpST8mLwR2V) | [Spotify Singles](https://open.spotify.com/album/0PAZM8z8Xa56Lmp0DZzTSp) | 3:09 | 2023-03-03 |  |
 | [Yooooo \(Feat\. Kid Milli, sokodomo, Polodared\)](https://open.spotify.com/track/1dSoTjwGH9HBlj6EEu2mhx) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [AAA](https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5) | 3:03 | 2022-04-01 | 2022-05-30 |
 | [You Don't Know \(Feat\. JUSTHIS\)](https://open.spotify.com/track/0NmHgFUzQtMEWSV81tbjwr) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Upgrade Ⅳ](https://open.spotify.com/album/2yljIHgtOZCQJMJOXQZjQd) | 3:43 | 2022-03-26 | 2022-04-19 |
 | [Your Instagram \(Feat\. Blueday\)](https://open.spotify.com/track/69eA4nwZmmAZy3dL1OglaJ) | [IOHBOY](https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Your Instagram](https://open.spotify.com/album/7bFHJASGNnV4PilM1ivDfz) | 2:29 | 2022-08-18 | 2022-10-30 |

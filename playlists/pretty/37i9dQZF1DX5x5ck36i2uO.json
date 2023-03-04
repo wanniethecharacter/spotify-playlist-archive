@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 7333,
+  "num_followers": 7339,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM1ODI1OSwwMDAwMDAwMDgyM2Y1ZmYwNTE5OWU0YjUxYmEyOGYyYTdkZDgxOTE0",
+  "snapshot_id": "MTY3NjM1ODI1OSwwMDAwMDAwMGYzMTZmZjBhZTljNGRkNDYxYjNiYjAzNWVhYTQ0N2Ni",
   "tracks": [
     {
       "added_at": "2023-01-25 01:26:56",
@@ -67,6 +67,22 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
+        "name": "Tourist",
+        "url": "https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "Tourist",
+      "url": "https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
         "name": "good1ife",
         "url": "https://open.spotify.com/album/5ApJByz6OpJdSKw8mSMlyi"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 177013,
       "name": "good1ife",
       "url": "https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
-        "name": "Tourist",
-        "url": "https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR"
-      },
-      "artists": [
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Tourist",
-      "url": "https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
-      },
-      "artists": [
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 193494,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
         "name": "u n u, Pt. 2",
         "url": "https://open.spotify.com/album/4R3JUAwCwCLp4vUDK5TLrZ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 222133,
       "name": "under the ground (feat. Dean)",
       "url": "https://open.spotify.com/track/6EU4Ox9nBAE4BMatsggp8i"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 193494,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "merlot",
+      "url": "https://open.spotify.com/track/1YXYleLFyTRQMMitfL2mdL"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
         "name": "BASS",
         "url": "https://open.spotify.com/album/1h7jDj6mhlPnArM1blyqy4"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "af",
-        "url": "https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8"
-      },
-      "artists": [
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 207751,
-      "name": "a fence",
-      "url": "https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
         "name": "Show Me the Money 8 Final",
         "url": "https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk"
       },
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
+        "name": "af",
+        "url": "https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 207751,
+      "name": "a fence",
+      "url": "https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
         "name": "Primary and the Messengers LP",
         "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 247092,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "merlot",
-      "url": "https://open.spotify.com/track/1YXYleLFyTRQMMitfL2mdL"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -479,6 +479,22 @@
       "duration_ms": 185204,
       "name": "Gyeongsan-si",
       "url": "https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 173413,
+      "name": "ice coffee",
+      "url": "https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -555,22 +571,6 @@
       "duration_ms": 168216,
       "name": "Good night night (Feat. pH-1)",
       "url": "https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 173413,
-      "name": "ice coffee",
-      "url": "https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "gucci girl",
+      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
         "name": "BLOO IN WONDERLAND 2",
         "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2023-01-25 01:26:56",
       "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "gucci girl",
-      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
         "name": "Waves Like",
         "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
       },
@@ -747,6 +747,30 @@
       "duration_ms": 233458,
       "name": "Journey",
       "url": "https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R"
+    },
+    {
+      "added_at": "2023-01-25 01:26:56",
+      "album": {
+        "name": "natural high",
+        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 248896,
+      "name": "today also (feat. Paloalto & The Quiett)",
+      "url": "https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X"
     },
     {
       "added_at": "2023-01-25 01:26:56",
@@ -907,30 +931,6 @@
       "duration_ms": 210432,
       "name": "I Know",
       "url": "https://open.spotify.com/track/1jDHmJvfcfjbOMXRFR98zf"
-    },
-    {
-      "added_at": "2023-01-25 01:26:56",
-      "album": {
-        "name": "natural high",
-        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        },
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 248896,
-      "name": "today also (feat. Paloalto & The Quiett)",
-      "url": "https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X"
     },
     {
       "added_at": "2023-01-25 01:26:56",

@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 66028,
+  "num_followers": 66039,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDAyNTg2MTUzMjM5NjVkYzUxMWRhMmNhYWMzNjQzNGNi",
+  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMGQ1ZTVlY2M2NDMzNWEzMWJlY2RkYjRmZjA2MGE5MTUx",
   "tracks": [
     {
       "added_at": "2023-03-02 23:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Punch of Love",
+        "url": "https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lemma",
+          "url": "https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS"
+        }
+      ],
+      "duration_ms": 245530,
+      "name": "No Winners",
+      "url": "https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "ANITYA",
         "url": "https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 205011,
       "name": "Make Sense",
       "url": "https://open.spotify.com/track/0oCQ94meSvw1BbpAkeYSgn"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Punch of Love",
-        "url": "https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW"
-      },
-      "artists": [
-        {
-          "name": "Daniel Lemma",
-          "url": "https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS"
-        }
-      ],
-      "duration_ms": 245530,
-      "name": "No Winners",
-      "url": "https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Sanna Mina Ord",
-        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
-      },
-      "artists": [
-        {
-          "name": "Kikko",
-          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
-        },
-        {
-          "name": "Don Paco",
-          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
-        }
-      ],
-      "duration_ms": 249423,
-      "name": "Sanna Mina Ord",
-      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Class Brut\u00e1ls",
         "url": "https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 227333,
       "name": "Reggaeprofil",
       "url": "https://open.spotify.com/track/0kDQRF7cCp5ZZ2tbtbjzK8"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Sanna Mina Ord",
+        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
+      },
+      "artists": [
+        {
+          "name": "Kikko",
+          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
+        },
+        {
+          "name": "Don Paco",
+          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
+        }
+      ],
+      "duration_ms": 249423,
+      "name": "Sanna Mina Ord",
+      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
     },
     {
       "added_at": "2023-03-02 23:00:00",

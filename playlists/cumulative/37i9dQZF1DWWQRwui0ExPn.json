@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 115200,
       "name": "a warm kiss in the frost",
       "url": "https://open.spotify.com/track/0rE1VJnjast6fXOJtniaO0"
@@ -3206,7 +3206,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 160981,
       "name": "Air III",
       "url": "https://open.spotify.com/track/6Glh1i1NOjv7yziwyP1HBy"
@@ -15622,7 +15622,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 143333,
       "name": "Caught By The Sun",
       "url": "https://open.spotify.com/track/3Ofi9Y8mkSjCWXKhtSIcQa"
@@ -27048,7 +27048,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 132400,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3x7gqr0d4HGVuZEWDkdTXc"
@@ -29786,7 +29786,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 109714,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0tiNwkBzz6MSUNGoAQOx4w"
@@ -37322,7 +37322,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 91250,
       "name": "Got It",
       "url": "https://open.spotify.com/track/2Wia7MyT2RQqBAIUFrdwFw"
@@ -44544,7 +44544,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 139261,
       "name": "Intro Flip #2",
       "url": "https://open.spotify.com/track/3qo0yrr2jbuEO3gab8SMzc"
@@ -58087,6 +58087,24 @@
     },
     {
       "album": {
+        "name": "Miss Blue",
+        "url": "https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7"
+      },
+      "artists": [
+        {
+          "name": "yoranda",
+          "url": "https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177878,
+      "name": "Miss Blue",
+      "url": "https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY"
+    },
+    {
+      "album": {
         "name": "White Dunes",
         "url": "https://open.spotify.com/album/3w6V1qsear1D59Enm5TeAZ"
       },
@@ -59985,6 +60003,32 @@
     },
     {
       "album": {
+        "name": "Mosaik",
+        "url": "https://open.spotify.com/album/4aFITy3b9dzdFwG81WMGYs"
+      },
+      "artists": [
+        {
+          "name": "Worldtraveller",
+          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
+        },
+        {
+          "name": "Max Merseny",
+          "url": "https://open.spotify.com/artist/6aRqlZxNdGFk7AGAOsl83u"
+        },
+        {
+          "name": "Donkeychote",
+          "url": "https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128483,
+      "name": "Mosaik",
+      "url": "https://open.spotify.com/track/1ImdJjR1NUSLNilGq3eTW4"
+    },
+    {
+      "album": {
         "name": "Still Going Through Samples",
         "url": "https://open.spotify.com/album/2qlhJJSLDAJE9wkH3RyikV"
       },
@@ -60676,7 +60720,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 148500,
       "name": "Multicolor Snapshot",
       "url": "https://open.spotify.com/track/5Ow4bic8fxgzZvDQvgafNr"
@@ -62234,7 +62278,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Never Going Back",
       "url": "https://open.spotify.com/track/1EPgfVfxPaaispfsgXBXcs"
@@ -63368,7 +63412,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Niki's Halva",
       "url": "https://open.spotify.com/track/3FzPkuEvFTX9HOR481kz2E"
@@ -64298,7 +64342,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 139411,
       "name": "Not Me",
       "url": "https://open.spotify.com/track/7h7vEBh4JlC1MtTHyJJMJN"
@@ -74392,7 +74436,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 154933,
       "name": "remember",
       "url": "https://open.spotify.com/track/7rq0nUasILVx92yHEzRr4E"
@@ -74746,7 +74790,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 178886,
       "name": "Resurrection",
       "url": "https://open.spotify.com/track/2YHz6Vamqq7fNKdEwXHLpw"
@@ -79800,7 +79844,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 144200,
       "name": "Showdown",
       "url": "https://open.spotify.com/track/30fM1V7arKICtUlG2Hk4KF"
@@ -80206,6 +80250,24 @@
       "duration_ms": 141595,
       "name": "Sin Gas",
       "url": "https://open.spotify.com/track/2Ks8UmpDIeg2p8TjBEFCIq"
+    },
+    {
+      "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/3gYmi1ME2tuuT4MQEwhEUK"
+      },
+      "artists": [
+        {
+          "name": "enix lee",
+          "url": "https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170128,
+      "name": "Sincere",
+      "url": "https://open.spotify.com/track/7kKOgND7nobgsGQuXeu6Wh"
     },
     {
       "album": {
@@ -91718,7 +91780,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 107215,
       "name": "The Road Continues",
       "url": "https://open.spotify.com/track/2ZVUf16teQZ6Np8SZPxHo1"
@@ -92660,6 +92722,24 @@
       "duration_ms": 149418,
       "name": "Three Ears - Dabey Soul Treat",
       "url": "https://open.spotify.com/track/7wT8Ciw7Z7CIk7uoFKst54"
+    },
+    {
+      "album": {
+        "name": "Through It",
+        "url": "https://open.spotify.com/album/3NlX5CP3ZpxRFl1Xd9HUrU"
+      },
+      "artists": [
+        {
+          "name": "catch92",
+          "url": "https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110344,
+      "name": "Through It",
+      "url": "https://open.spotify.com/track/5RrjaEFujN43RbcIZlDD4s"
     },
     {
       "album": {
@@ -94254,6 +94334,28 @@
       "duration_ms": 146250,
       "name": "trails",
       "url": "https://open.spotify.com/track/4QzIy676oxPyGOiXQ1Zt3o"
+    },
+    {
+      "album": {
+        "name": "Trailways",
+        "url": "https://open.spotify.com/album/5D2d9VMDAFlTKrwXys7FYG"
+      },
+      "artists": [
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115114,
+      "name": "Trailways",
+      "url": "https://open.spotify.com/track/6dDQ3c9tYejVdeUMSqLz2x"
     },
     {
       "album": {
@@ -99638,7 +99740,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 121500,
       "name": "Watchtower dreams",
       "url": "https://open.spotify.com/track/0fATOmeL4L27d2TOSZjPYv"
@@ -101528,6 +101630,24 @@
       "duration_ms": 150338,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/2NXnbYBqmb401f5lSAVcwP"
+    },
+    {
+      "album": {
+        "name": "who's cutting onions?",
+        "url": "https://open.spotify.com/album/0l8wxY8COAQRqZ2ygxW22F"
+      },
+      "artists": [
+        {
+          "name": "Calvin Bennett",
+          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "who's cutting onions?",
+      "url": "https://open.spotify.com/track/2Bt8jKrod8gV3Pc13rAW6q"
     },
     {
       "album": {

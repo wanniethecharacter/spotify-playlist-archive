@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-447 songs - 1 day 5 hr 35 min
+448 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [テレフォン・ナンバー](https://open.spotify.com/track/5aTbBqfHaRj4aEoz0GVkws) | [Rinapon](https://open.spotify.com/artist/5rTWFvJ8dggdYp0Kr4Ohcf) | [テレフォン・ナンバー](https://open.spotify.com/album/4iONxdOQkJzUX3uZt66ZsF) | 3:26 | 2022-06-30 | 2022-07-02 |
 | [ナイトダイバー](https://open.spotify.com/track/1YsAzyAXLHSAywueN4jVT0) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ナイトダイバー](https://open.spotify.com/album/2LC3a3j1xtw6bqFkRLBqWt) | 3:48 | 2022-05-24 | 2022-07-26 |
 | [ネオン](https://open.spotify.com/track/2vsTYBymdaF7WqQdlgKBu0) | [NORISTRY](https://open.spotify.com/artist/3sXpaXq06MLtZIMPjeIBDU) | [ネオン](https://open.spotify.com/album/72ghjGswM1Zyw4jQwAVBqd) | 3:23 | 2022-08-02 | 2022-08-10 |
+| [バッド・ラヴ](https://open.spotify.com/track/3snRYYwhtCnB73oyAB9PDM) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [バッド・ラヴ](https://open.spotify.com/album/0DjAPzvefBWotibQ5nWABf) | 3:41 | 2023-02-28 |  |
 | [パラドックス](https://open.spotify.com/track/1hgVGz9OOckTZSWLBECAHx) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/53VEqiQkkbIbRXr6JfLGW9) | 3:24 | 2022-05-31 | 2022-07-29 |
 | [ファジーサマー](https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [ファジーサマー](https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd) | 2:56 | 2022-07-12 |  |
 | [ファミリイ・コンテンツ](https://open.spotify.com/track/67V5axrqkSQF6azx2GNAIj) | [ayU tokiO](https://open.spotify.com/artist/3hu4NDbJsdOALVe4K61lHE) | [ファミリイ・コンテンツ](https://open.spotify.com/album/7DWzRqtaOkiryJLcfVBo2m) | 3:17 | 2022-12-27 | 2023-01-27 |
@@ -370,7 +371,7 @@
 | [プレ・ロマンス](https://open.spotify.com/track/1NLajpAmlLrh5OlnJpA2W4) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [SASUKE](https://open.spotify.com/artist/7jwE5FqGmCoX2l5HYaLfkP) | [プレ・ロマンス](https://open.spotify.com/album/6G4IcMO9mMKRMFP0Y5XIYj) | 3:36 | 2022-06-25 | 2022-06-29 |
 | [ヘッドフォン・ガール \-翼が無くても\-](https://open.spotify.com/track/5Orb9Ce9nY6IOPjukhpXXW) | [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12) | [ヘッドフォン・ガール \-翼が無くても\-](https://open.spotify.com/album/7aSfXxSNQBzzEHe3xTX2ls) | 4:56 | 2022-06-02 | 2022-06-04 |
 | [ムーンライトアドバイス](https://open.spotify.com/track/3XHcVhqyMCnAOO0lHaaBXo) | [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12) | [Music Restaurant Royal Host](https://open.spotify.com/album/1jbldbepC2GKoqyn1ay8y3) | 3:09 | 2022-09-20 | 2022-12-14 |
-| [メモリアフロア](https://open.spotify.com/track/56UpxpbqRT8I6vBAMo3BIu) | [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [メモリアフロア](https://open.spotify.com/album/72XokMMY8qOas8X3zoaySq) | 3:14 | 2022-09-06 |  |
+| [メモリアフロア](https://open.spotify.com/track/56UpxpbqRT8I6vBAMo3BIu) | [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [メモリアフロア](https://open.spotify.com/album/72XokMMY8qOas8X3zoaySq) | 3:14 | 2022-09-06 | 2023-03-04 |
 | [モナリザの涙](https://open.spotify.com/track/3M4oUMwKZTewN85bBzZoOM) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [モナリザの涙](https://open.spotify.com/album/42gLMIxChPhg6mriBI9Qtf) | 4:55 | 2022-07-12 | 2022-07-16 |
 | [ラッキー・ドライブ](https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [ラッキー・ドライブ](https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh) | 3:28 | 2022-07-26 | 2022-12-01 |
 | [ランチタイム・ラブ](https://open.spotify.com/track/4IpYnXf5V3A6h0DS8UyFJL) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY), [オカモトコウキ](https://open.spotify.com/artist/7jiN2HCXOBi9W0ZJFwfGHi) | [ランチタイム・ラブ](https://open.spotify.com/album/2rVr0WAgddWIw5y4tO1rR8) | 5:08 | 2022-06-30 | 2022-07-06 |

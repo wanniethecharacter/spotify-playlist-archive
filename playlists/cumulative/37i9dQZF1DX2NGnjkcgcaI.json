@@ -718,10 +718,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 339941,
       "name": "Rigning i\u0301 Stekknum",
       "url": "https://open.spotify.com/track/6myA4cDbrMU8cMWMImI17d"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/5HLCzTsPWauRycJLTEGnfb"
+      },
+      "artists": [
+        {
+          "name": "Exos",
+          "url": "https://open.spotify.com/artist/4RiS9upIWfYxyu1HqjMWt6"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339941,
+      "name": "Rigning \u00ed Stekknum",
+      "url": "https://open.spotify.com/track/1C1CSisah9IJo0obvufaE1"
     },
     {
       "album": {

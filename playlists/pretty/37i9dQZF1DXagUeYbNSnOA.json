@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Digiannia. Updates every Wednesday.",
-  "num_followers": 169071,
+  "num_followers": 169074,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY5MzYwMCwwMDAwMDAwMGM5Njg2MDUzNTdlZTNjODI0ZjgxZmVlYzExNzJmMzE0",
+  "snapshot_id": "MTY3NzY5MzYwMCwwMDAwMDAwMDUyNmJiOTI3YTM4OWI0MmY0MTM1OWU4YmFkMzEzMjc2",
   "tracks": [
     {
       "added_at": "2023-03-01 18:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "amarcura",
-        "url": "https://open.spotify.com/album/4WiIgth1UIs2eZwjsBpP0Q"
-      },
-      "artists": [
-        {
-          "name": "Alan Wittels",
-          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "cuando viajas",
-      "url": "https://open.spotify.com/track/1PYiR1w5DweGq9UhkfeO9J"
-    },
-    {
-      "added_at": "2023-03-01 18:00:00",
-      "album": {
         "name": "Let Me Down Slow",
         "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 177954,
       "name": "Let Me Down Slow",
       "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
+    },
+    {
+      "added_at": "2023-03-01 18:00:00",
+      "album": {
+        "name": "amarcura",
+        "url": "https://open.spotify.com/album/4WiIgth1UIs2eZwjsBpP0Q"
+      },
+      "artists": [
+        {
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "cuando viajas",
+      "url": "https://open.spotify.com/track/1PYiR1w5DweGq9UhkfeO9J"
     },
     {
       "added_at": "2023-03-01 18:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "Luna Rota",
-        "url": "https://open.spotify.com/album/4Qt9PFlNzo9e6oXs5LtbT5"
-      },
-      "artists": [
-        {
-          "name": "Mireia De La Torre",
-          "url": "https://open.spotify.com/artist/79hHqOo4tkldFLWZLwF0tG"
-        }
-      ],
-      "duration_ms": 151992,
-      "name": "Luna - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/3Ev1bShzfAfll36Sg3uUBi"
-    },
-    {
-      "added_at": "2023-03-01 18:00:00",
-      "album": {
         "name": "Quererte Igual",
         "url": "https://open.spotify.com/album/3RxtjXBIiWqCgtE9DE7VHe"
       },
@@ -327,22 +311,6 @@
       "duration_ms": 170000,
       "name": "Quererte Igual",
       "url": "https://open.spotify.com/track/2CSptzE2Sh7l0V5O6e8RFw"
-    },
-    {
-      "added_at": "2023-03-01 18:00:00",
-      "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/5UtGslIGfnN5XBi6HWsx0l"
-      },
-      "artists": [
-        {
-          "name": "Drea",
-          "url": "https://open.spotify.com/artist/20fywzlqbWbjl0HlrJ3MqL"
-        }
-      ],
-      "duration_ms": 169156,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3PZr746QPiUvRCOLy4uVsb"
     },
     {
       "added_at": "2023-03-01 18:00:00",
@@ -367,6 +335,22 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
+        "name": "Luna Rota",
+        "url": "https://open.spotify.com/album/4Qt9PFlNzo9e6oXs5LtbT5"
+      },
+      "artists": [
+        {
+          "name": "Mireia De La Torre",
+          "url": "https://open.spotify.com/artist/79hHqOo4tkldFLWZLwF0tG"
+        }
+      ],
+      "duration_ms": 151992,
+      "name": "Luna - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3Ev1bShzfAfll36Sg3uUBi"
+    },
+    {
+      "added_at": "2023-03-01 18:00:00",
+      "album": {
         "name": "EXOTIK",
         "url": "https://open.spotify.com/album/3iJg6qhysMNVTnACGMs57R"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "El Proceso",
-        "url": "https://open.spotify.com/album/0AUZP4CxPWnMBZQoCewqFf"
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/5UtGslIGfnN5XBi6HWsx0l"
       },
       "artists": [
         {
-          "name": "Joel el negrito",
-          "url": "https://open.spotify.com/artist/5gK51UR8WyIQPkHKRT41cR"
+          "name": "Drea",
+          "url": "https://open.spotify.com/artist/20fywzlqbWbjl0HlrJ3MqL"
         }
       ],
-      "duration_ms": 242284,
-      "name": "El Proceso",
-      "url": "https://open.spotify.com/track/0XuoNwg645L5YBl2NvhbGw"
+      "duration_ms": 169156,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3PZr746QPiUvRCOLy4uVsb"
     },
     {
       "added_at": "2023-03-01 18:00:00",
@@ -411,6 +395,22 @@
       "duration_ms": 220000,
       "name": "\u00bfPara qu\u00e9?",
       "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
+    },
+    {
+      "added_at": "2023-03-01 18:00:00",
+      "album": {
+        "name": "El Proceso",
+        "url": "https://open.spotify.com/album/0AUZP4CxPWnMBZQoCewqFf"
+      },
+      "artists": [
+        {
+          "name": "Joel el negrito",
+          "url": "https://open.spotify.com/artist/5gK51UR8WyIQPkHKRT41cR"
+        }
+      ],
+      "duration_ms": 242284,
+      "name": "El Proceso",
+      "url": "https://open.spotify.com/track/0XuoNwg645L5YBl2NvhbGw"
     },
     {
       "added_at": "2023-03-01 18:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "Mi Cuerpo Subira",
-        "url": "https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7"
-      },
-      "artists": [
-        {
-          "name": "Wekafor\u00e9",
-          "url": "https://open.spotify.com/artist/73qySwnVMlJZsR9Lk5MOpn"
-        }
-      ],
-      "duration_ms": 136981,
-      "name": "Mi Cuerpo Subira",
-      "url": "https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S"
-    },
-    {
-      "added_at": "2023-03-01 18:00:00",
-      "album": {
         "name": "No Se Puede Brillar Siempre <3",
         "url": "https://open.spotify.com/album/2sPDwluC3aQNMsN4AFFEjv"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 110943,
       "name": "No Se Puede Brillar Siempre <3",
       "url": "https://open.spotify.com/track/0Qx7KbI7VGxPjVmyZZIOUj"
+    },
+    {
+      "added_at": "2023-03-01 18:00:00",
+      "album": {
+        "name": "Mi Cuerpo Subira",
+        "url": "https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7"
+      },
+      "artists": [
+        {
+          "name": "Wekafor\u00e9",
+          "url": "https://open.spotify.com/artist/73qySwnVMlJZsR9Lk5MOpn"
+        }
+      ],
+      "duration_ms": 136981,
+      "name": "Mi Cuerpo Subira",
+      "url": "https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S"
     },
     {
       "added_at": "2023-03-01 18:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "TE QUIERO TOO",
-        "url": "https://open.spotify.com/album/54dxLu64kvK9os72hFbp2o"
-      },
-      "artists": [
-        {
-          "name": "Andres Tagliaferro",
-          "url": "https://open.spotify.com/artist/10r62aFR3aAv8h2XMhSoDl"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "TE QUIERO TOO",
-      "url": "https://open.spotify.com/track/3oRhGrqQ2B6yZeuo71bOkS"
-    },
-    {
-      "added_at": "2023-03-01 18:00:00",
-      "album": {
         "name": "Miento",
         "url": "https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 169600,
       "name": "Miento",
       "url": "https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF"
+    },
+    {
+      "added_at": "2023-03-01 18:00:00",
+      "album": {
+        "name": "TE QUIERO TOO",
+        "url": "https://open.spotify.com/album/54dxLu64kvK9os72hFbp2o"
+      },
+      "artists": [
+        {
+          "name": "Andres Tagliaferro",
+          "url": "https://open.spotify.com/artist/10r62aFR3aAv8h2XMhSoDl"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "TE QUIERO TOO",
+      "url": "https://open.spotify.com/track/3oRhGrqQ2B6yZeuo71bOkS"
     },
     {
       "added_at": "2023-03-01 18:00:00",

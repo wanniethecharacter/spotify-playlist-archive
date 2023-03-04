@@ -1,12 +1,12 @@
 {
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
-  "num_followers": 1,
+  "num_followers": 0,
   "original_name": "Release Radar (@pipemanuel10)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5NjM1NDAsMDAwMDAwMDA0ZWNkYzIwNWNiODJmMzcyY2U2MTA1OTJlMzU5NzQ4OA==",
+  "snapshot_id": "Mjc5NjM1NDAsMDAwMDAwMDA2ZjE5MTU3ZDMwNzE5Njk5M2I0YTc3ZGY3ZGQ0ODgxMg==",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -111,6 +111,26 @@
       "duration_ms": 286481,
       "name": "Honky Cat - Live At The Royal Festival Hall, London, UK / 1972",
       "url": "https://open.spotify.com/track/5jJtVlOX4BHynkBDCZQtmT"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "In Celebration: The Piano Trios of Stanley Silverman",
+        "url": "https://open.spotify.com/album/5EG7zLDM8bFjyvddqYMrqJ"
+      },
+      "artists": [
+        {
+          "name": "Stanley Silverman",
+          "url": "https://open.spotify.com/artist/2TvPBulHtfwAkQUDyc7JQW"
+        },
+        {
+          "name": "Kalichstein-Laredo-Robinson Trio",
+          "url": "https://open.spotify.com/artist/4aEnJ2zxUNxF08rZ1cvihy"
+        }
+      ],
+      "duration_ms": 141973,
+      "name": "Trio No. 2 'Reveille': Ii. Prelude to Guajira y Fuga",
+      "url": "https://open.spotify.com/track/3qYo08xufG1Zf78XcDfaJ2"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -379,6 +399,30 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Mendelssohn, Tchaikovsky & Grieg: Philharmonia Orchestra",
+        "url": "https://open.spotify.com/album/43V391m2NAWxZNuaCROxu2"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 533333,
+      "name": "Symphony No. 4 In F Minor, Op. 36, TH.27: 4. Finale (Allegro con fuoco)",
+      "url": "https://open.spotify.com/track/6dzKOpapRMDE96Z0EtsGmk"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "[Hwa Sa Show Vol.3] MMM Simile",
         "url": "https://open.spotify.com/album/2xPznUnpJGiaIP1QrQnYAT"
       },
@@ -391,22 +435,6 @@
       "duration_ms": 325493,
       "name": "MMM Simile - Live ver.",
       "url": "https://open.spotify.com/track/0tyip3SICRMxPXitAbd1TS"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "DOGMA",
-        "url": "https://open.spotify.com/album/6bjW09q0WnAX0nIhrJ9rBr"
-      },
-      "artists": [
-        {
-          "name": "Crown The Empire",
-          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
-        }
-      ],
-      "duration_ms": 166892,
-      "name": "DOGMA",
-      "url": "https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -459,22 +487,6 @@
       "duration_ms": 305762,
       "name": "Foxglove Through The Clearcut - Acoustic",
       "url": "https://open.spotify.com/track/4EfROdTKT8NTmJg8gxgXQi"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Ten Summoner's Tales (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IKj6bT2X51L1xEuQhKcMC"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 368466,
-      "name": "We Work The Black Seam - 1993 Version",
-      "url": "https://open.spotify.com/track/5NXhCF9wQZGM7c3lUzTQZH"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -599,26 +611,6 @@
       "duration_ms": 696840,
       "name": "Rock Bottom - Live",
       "url": "https://open.spotify.com/track/4fLGVRfXjCmJ6Yoiy4NUrL"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "The Essential Christian Lindberg",
-        "url": "https://open.spotify.com/album/3AViFtJ99ApjQMQCrkx6Lp"
-      },
-      "artists": [
-        {
-          "name": "Christian Lindberg",
-          "url": "https://open.spotify.com/artist/2gQKtXD5BZqKT8Tl9JfFcy"
-        },
-        {
-          "name": "MIN Ensemble",
-          "url": "https://open.spotify.com/artist/7IM8kSqHYCysd8TQEJUWQp"
-        }
-      ],
-      "duration_ms": 65078,
-      "name": "Troms\u00f6 2018 VII",
-      "url": "https://open.spotify.com/track/1IdukPBLATQHL5Rfh9hz56"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -867,22 +859,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "GRRR Live!",
-        "url": "https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2"
+        "name": "Terrible Lie",
+        "url": "https://open.spotify.com/album/2WSoYDdN55rm3lmGW8qSFl"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 293720,
-      "name": "Tumbling Dice - Live",
-      "url": "https://open.spotify.com/track/4mn5riACKGOZbADntB95wE"
+      "duration_ms": 243343,
+      "name": "Terrible Lie",
+      "url": "https://open.spotify.com/track/2e2aWPBaVWrNMngz5ftWPv"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -963,6 +951,26 @@
       "duration_ms": 228000,
       "name": "Total Eclipse of the Heart - Re-Recorded - Sped Up",
       "url": "https://open.spotify.com/track/3XGn9coNotX8yEwT7T6qmA"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "GRRR Live!",
+        "url": "https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 293720,
+      "name": "Tumbling Dice - Live",
+      "url": "https://open.spotify.com/track/4mn5riACKGOZbADntB95wE"
     },
     {
       "added_at": "2023-03-03 03:00:00",

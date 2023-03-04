@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Wyatt Flores",
+  "description": "A new shade of Country. Cover: Drayton Farley",
   "name": "Indigo",
   "tracks": [
     {
@@ -184,7 +184,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 183560,
       "name": "Abilene",
       "url": "https://open.spotify.com/track/7eBJf9kAJn06HKp2lBEWi2"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 231132,
       "name": "Born Tough",
       "url": "https://open.spotify.com/track/0fk348ckpteb46vjTO9I0n"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 183420,
       "name": "Common Law",
       "url": "https://open.spotify.com/track/5aImc0JnM01Y2LYNbdAx5T"
@@ -1689,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Twenty on High",
+        "url": "https://open.spotify.com/album/7qAjWqcitYncXKTZzOAFQo"
+      },
+      "artists": [
+        {
+          "name": "Drayton Farley",
+          "url": "https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228114,
+      "name": "Devil's in NOLA",
+      "url": "https://open.spotify.com/track/1XlhGqnFYZtrFI2bMcn6Og"
+    },
+    {
+      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -1926,7 +1944,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 192939,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/439jFoWzTGu7YiUfc3f33X"
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 235691,
       "name": "God Bless This Mess - Reimagined (feat. Lucius)",
       "url": "https://open.spotify.com/track/6ijs7vHEclMnJ6DSAioVpV"
@@ -4410,7 +4428,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 254033,
       "name": "Married Alone (feat. Vince Gill)",
       "url": "https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD"
@@ -4666,7 +4684,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 214208,
       "name": "Norfolk Blues",
       "url": "https://open.spotify.com/track/2Vcbe4OxUHnWZme46fcLgs"
@@ -4814,7 +4832,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 226710,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
@@ -5074,7 +5092,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 227366,
       "name": "Pitchin' fits",
       "url": "https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL"
@@ -5314,7 +5332,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 192145,
       "name": "Ragdoll",
       "url": "https://open.spotify.com/track/5n0uCraD4EIMmRWz2Yr9TA"
@@ -5806,7 +5824,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 220466,
       "name": "Something About What Happens When We Talk",
       "url": "https://open.spotify.com/track/3UHWekceJvs3fvvFxKeLtU"
@@ -6925,6 +6943,40 @@
     },
     {
       "album": {
+        "name": "Tough Country",
+        "url": "https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w"
+      },
+      "artists": [
+        {
+          "name": "The Panhandlers",
+          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
+        },
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        },
+        {
+          "name": "John Baumann",
+          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243120,
+      "name": "Tough Country",
+      "url": "https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4zFeo0LkLXCgiYgPqKouI7"
       },
@@ -7462,7 +7514,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 186346,
       "name": "Wild And Blue",
       "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"

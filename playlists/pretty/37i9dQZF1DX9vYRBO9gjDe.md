@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。2月28日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,960 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,988 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 27 | [Music to meditate innocently](https://open.spotify.com/track/4HHzxGYz2dyyUwleFyJycl) | [Japan BGM Improvement committee](https://open.spotify.com/artist/28PnH5DreNhBHE1oo8d6Rv) | [Temple Meditation Sleep Music Calming Forest Sounds and Beautiful Piano Healing BGM for Sleep / Work / Meditation Kounin presents](https://open.spotify.com/album/52BCVSg9nEtYErM6xSscBW) | 2:16 |
 | 28 | [大丈夫](https://open.spotify.com/track/4kQ3rrJ54f1Hf8nCNxCUyl) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [大丈夫](https://open.spotify.com/album/5bNqsQHsqnaJNxuldgPkDa) | 3:58 |
 | 29 | [THE SOUND](https://open.spotify.com/track/2ovMFHvl5jWOZdhd9hL7uf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:00 |
-| 30 | [Painting Pictures](https://open.spotify.com/track/2OgIbXHmuRJowDwtmezcio) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [Painting Pictures](https://open.spotify.com/album/1XciNWcYMtjVEjgEQXXxSN) | 2:02 |
+| 30 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 |
 | 31 | [Himotoai](https://open.spotify.com/track/2MtTAPmEoGKUC0vDloY6nw) | [yangskinny](https://open.spotify.com/artist/3S1RuiWcc2b2Kbwm2zxaAl) | [Himotoai](https://open.spotify.com/album/0NSqWhZSLPVcgceCGpVV5O) | 2:42 |
 | 32 | [Ainokotoba](https://open.spotify.com/track/4V6VeEWODTexeZcxtNTkwq) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [Ainokotoba](https://open.spotify.com/album/2vhhT7EjOboMtOGOSiA82b) | 4:25 |
 | 33 | [sleep soundly until morning](https://open.spotify.com/track/1YsxWUktHMqWPDLkW1Rbjr) | [Sleeping music at its finest \- Sleeping village](https://open.spotify.com/artist/09YL3UJuHzvPbDrwTQ7ivu) | [Ah! For you who can't sleep! Healing music of rain sound and gentle guitar that makes you sleepy just by listening to it.](https://open.spotify.com/album/6dktw6rF4NdNzCvDsQKnwz) | 1:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Floral Sense](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Floral Sense \- The 1st Album \(Special Version\)](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) | 3:48 |
 | 50 | [何度でも](https://open.spotify.com/track/3GnI3molYqGo7oKofCqblU) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [THE LOVE ROCKS](https://open.spotify.com/album/7k4ekSBUPMJQvY5jWokO8o) | 3:52 |
 
-Snapshot ID: `MTY3NzczMDk3OCwwMDAwMDAwMDc3ZWM0ZDc0N2Y2ZGNmNGMyYzU1YzU0MzFhYmY3ZGEz`
+Snapshot ID: `MTY3NzczMDk3OCwwMDAwMDAwMDQyNTc4ZDM3ODk1YTc0M2U2ZWZkNTdhMWY5YWMyZmI4`

@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Lou Garcia
 
-332 songs - 18 hr 56 min
+333 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Vale](https://open.spotify.com/track/3RsbQPOPalz26UnLQqBf3v) | [Festa Tempestade](https://open.spotify.com/artist/708vDP7cL5EXTGmLudtzR0) | [Vale](https://open.spotify.com/album/2mkkUx8L4pbKO3RqI4tAzx) | 3:49 | 2022-06-03 | 2022-08-06 |
 | [vc n é o john mayer \(rlx\)](https://open.spotify.com/track/24SPEfSSe9B2F4Nj4KKI8u) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n é o john mayer \(rlx\)](https://open.spotify.com/album/7q4WiIKtDXeRvM49ADVaeW) | 2:27 | 2022-03-18 | 2022-06-11 |
 | [vem cá](https://open.spotify.com/track/0w6WQE0WeYGslTMm79hh8z) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ), [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [vem cá](https://open.spotify.com/album/6fgGTsrWSyPnX1s7wVc2RH) | 3:25 | 2022-04-08 | 2022-05-14 |
+| [verdeoliva](https://open.spotify.com/track/2nVjHdovspH20wqq7zR8LG) | [Scanferla](https://open.spotify.com/artist/4M771czToCbPJDHSOn2cE9), [Gabriel Fernandes](https://open.spotify.com/artist/2e8VsVcu9BMZ9mWQ2sj0Cu), [babyblue](https://open.spotify.com/artist/3JJNQ8PqeYwVWCi7JdioCC) | [verdeoliva](https://open.spotify.com/album/2H7hKVSdxiA2KkGWbgqL7y) | 3:31 | 2023-03-03 |  |
 | [Vidadulta](https://open.spotify.com/track/2h79C5Bj9nrI3FotE3TbZ8) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH), [Marina Gasolina](https://open.spotify.com/artist/0ycGRYNlXyQnPf1ieoioQZ) | [Vidadulta](https://open.spotify.com/album/56rcd8BD3O397HsS2zi7gn) | 4:05 | 2022-10-28 |  |
 | [Vinheta do Amor](https://open.spotify.com/track/7kyqMS0fovEDsDAh9EPmtc) | [Andrea Martins](https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG), [Rana Tosto](https://open.spotify.com/artist/1dQSTjiVNpS0Jym4eR5oG8) | [Pequenos Grandes Universos](https://open.spotify.com/album/2y3nwaAILvIxnMzWviRjmG) | 2:39 | 2022-03-25 |  |
 | [Vira\-Lata](https://open.spotify.com/track/0rUvuGRs0uYbh1LZUtBF7g) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Vira\-Lata](https://open.spotify.com/album/42XXrbrpqdGr6oJ2BQ6M7E) | 3:59 | 2022-07-22 | 2022-10-29 |

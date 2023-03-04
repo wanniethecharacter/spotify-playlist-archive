@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 ### [Street Soul](https://open.spotify.com/playlist/37i9dQZF1DWTplaZ1W7ARf)
 
-> Neighborhood Storytellers\. Cover: JayDaYoungan
+> Neighborhood Storytellers\. Cover: Monaleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,145 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,144 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [Ticket](https://open.spotify.com/track/65RuMTQsaooIJInitg18O4) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Ticket](https://open.spotify.com/album/6hCPmcflDrWUkT8j2gFd3p) | 3:10 |
 | 50 | [Strong \(EST Gee, Moneybagg Yo\)](https://open.spotify.com/track/7vlUxa8sFLirILRYnmHWEh) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 2:11 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDEwMmJjODc5YTYyNDJkYjM2ZDgxNGE2ZjkwZjFkOTFj`
+Snapshot ID: `MTY3Nzg2NDY2OCwwMDAwMDAwMGNmY2IwYTgyNmQ4MTk3Mjk5YmRmOTA5YzU4NzVlOGIw`

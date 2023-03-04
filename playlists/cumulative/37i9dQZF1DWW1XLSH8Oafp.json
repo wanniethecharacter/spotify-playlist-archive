@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "ur on the list bb \ud83e\ude90 featuring DJ HEARTSTRING",
+  "description": "ur on the list bb \ud83e\ude90 featuring Take Van",
   "name": "planet rave",
   "tracks": [
     {
@@ -424,6 +424,24 @@
       "duration_ms": 149485,
       "name": "aliens",
       "url": "https://open.spotify.com/track/0sGjMUeSsITeJ4Hjyk9XT8"
+    },
+    {
+      "album": {
+        "name": "ALL I GOT",
+        "url": "https://open.spotify.com/album/2kPLJYUX6MoKvRLXhNTue2"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194167,
+      "name": "ALL I GOT",
+      "url": "https://open.spotify.com/track/5tbpU6W9x2hABB8P3cHzuh"
     },
     {
       "album": {
@@ -3768,7 +3786,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 235750,
       "name": "Gift",
       "url": "https://open.spotify.com/track/66UcoWnZPHQUJwpRRywYFm"
@@ -4180,6 +4198,28 @@
       "duration_ms": 118087,
       "name": "help_urself - breakcore",
       "url": "https://open.spotify.com/track/3mfO4NyNl1sW4WabTejw4y"
+    },
+    {
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/3qz43DVuhqC5uegrzfCANu"
+      },
+      "artists": [
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        },
+        {
+          "name": "Gab Ferreira",
+          "url": "https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134750,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/3PaunyhsLdbbRSwcAvAZ7p"
     },
     {
       "album": {
@@ -4712,6 +4752,24 @@
       "duration_ms": 157709,
       "name": "i refuse 2 care",
       "url": "https://open.spotify.com/track/5fIpJ5DWah56vc6sNbU0KN"
+    },
+    {
+      "album": {
+        "name": "Bad Behavior",
+        "url": "https://open.spotify.com/album/5KpZDGzJLiqP0Ek0owr9xe"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146054,
+      "name": "I Want to Go to There",
+      "url": "https://open.spotify.com/track/3fe0sBQNrGVyDr0jF5B4Cg"
     },
     {
       "album": {
@@ -6361,6 +6419,24 @@
     },
     {
       "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/2GOR4HwqpYDUTlFP3Qb3JI"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249250,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O"
+    },
+    {
+      "album": {
         "name": "Night Light",
         "url": "https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ"
       },
@@ -6562,6 +6638,24 @@
       "duration_ms": 168653,
       "name": "No Time (feat. Nia Archives, Beenie Man, Cristale & ShaSimone)",
       "url": "https://open.spotify.com/track/1ONDma4NENd2D7ig3HvJ1Z"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od"
+      },
+      "artists": [
+        {
+          "name": "FiFi Zhang",
+          "url": "https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182828,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L"
     },
     {
       "album": {
@@ -7992,7 +8086,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 160434,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/1tgoQX4JWi2vMUsKImW4YJ"
@@ -9563,6 +9657,28 @@
     },
     {
       "album": {
+        "name": "U (feat. BRONZE AVERY)",
+        "url": "https://open.spotify.com/album/1RQq3Vx56aNEnKHI1XXnkT"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        },
+        {
+          "name": "BRONZE AVERY",
+          "url": "https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207538,
+      "name": "U (feat. BRONZE AVERY)",
+      "url": "https://open.spotify.com/track/41tVFPYF12LM42hypwG1Dz"
+    },
+    {
+      "album": {
         "name": "Unlimited Ammo",
         "url": "https://open.spotify.com/album/5itcmCB2iv31ZAlmxpv1Gj"
       },
@@ -10290,7 +10406,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 197647,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6zvutAcF7S2uJyNWVYeyk8"

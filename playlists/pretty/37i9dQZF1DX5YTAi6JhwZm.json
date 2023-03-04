@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and upbeat Jazz to get you in a good mood.",
-  "num_followers": 140508,
+  "num_followers": 140538,
   "original_name": "Happy Jazz!",
   "owner": {
     "name": "Spotify",
@@ -350,6 +350,10 @@
         {
           "name": "Horace Silver Quintet",
           "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+        },
+        {
+          "name": "J.J. Johnson",
+          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
         }
       ],
       "duration_ms": 299746,

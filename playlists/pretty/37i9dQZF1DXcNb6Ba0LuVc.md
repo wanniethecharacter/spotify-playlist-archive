@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,294 likes - 199 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,450 likes - 199 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 20 | [Call Me](https://open.spotify.com/track/1hc4YKpgFFFbK6YMuDXTnu) | [Blues Trip](https://open.spotify.com/artist/1tR2bO3i8fdS3A8tLn2UEw) | [Call Me](https://open.spotify.com/album/3NvSQrWzAMxGp8DABLyOy3) | 2:08 |
 | 21 | [Dust till Dawn](https://open.spotify.com/track/4FTWqP9PgQ24kmVctCWREf) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Solid Centre](https://open.spotify.com/album/0z1c6gc89Bfxz9iTQDChiM) | 2:14 |
 | 22 | [Riding That Moment](https://open.spotify.com/track/6fpv2RAeHiiQRUYuLmO3oz) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [Riding That Moment](https://open.spotify.com/album/4czbpk93XQF1jqtJyyVq8U) | 1:49 |
-| 23 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Magn Us](https://open.spotify.com/artist/2YlPD3Lp1lnP0lFU43ApzH) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
+| 23 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
 | 24 | [Night Blue Skies](https://open.spotify.com/track/69oebUHeibzbgcD1MUsSsl) | [Midnight Smoothie](https://open.spotify.com/artist/6f4iOB89UDwS8PToDSVkMB) | [Night Blue Skies](https://open.spotify.com/album/13kmXJCG5VJtNalpumVr0e) | 2:08 |
 | 25 | [Wonderland](https://open.spotify.com/track/6qeMnGssbQmFZQ4NA9NPT2) | [So\_nny](https://open.spotify.com/artist/1sHQ9ZkPcQPs3TIG3EJFd4) | [Wonderland](https://open.spotify.com/album/1FXPEiafiBIQoBL2FnoWGl) | 2:30 |
 | 26 | [One Two Tree](https://open.spotify.com/track/1tNwm7phOIMzGC1VO9Dggr) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [One Two Tree](https://open.spotify.com/album/6HxpoPkpORExzoxwu4QVXZ) | 2:01 |

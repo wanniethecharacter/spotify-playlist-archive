@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,445 songs - 4 day 3 hr 49 min
+1,446 songs - 4 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,7 +400,7 @@
 | [Falling](https://open.spotify.com/track/6uBImZ47dzAPRcPN7gXd44) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 4:28 | 2020-05-18 | 2020-07-03 |
 | [Falling](https://open.spotify.com/track/6JmRVEBNPIxEtAXWKPSsi5) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Carly Paige](https://open.spotify.com/artist/047WXnK2tIG3FGth7FyXaK) | [Falling](https://open.spotify.com/album/5hXasfS8x3j028u1O3B9yj) | 3:25 | 2020-03-17 | 2022-01-13 |
 | [Falling \- Duke Dumont Remix](https://open.spotify.com/track/2gDn5QtHuUrN4qykGcyEXk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Falling](https://open.spotify.com/album/78fdgPy1jMWv2qxs53lXVI) | 5:34 | 2020-05-22 | 2020-07-03 |
-| [Falling Back](https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Falling Back](https://open.spotify.com/album/5YtbuCRyDgcFhczoXr7KQR) | 4:21 | 2022-10-28 |  |
+| [Falling Back](https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Falling Back](https://open.spotify.com/album/5YtbuCRyDgcFhczoXr7KQR) | 4:21 | 2022-10-28 | 2023-03-04 |
 | [Falling Fire](https://open.spotify.com/track/4oHR6G7xfAqn0fL63QREbF) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Falling Fire](https://open.spotify.com/album/4AKB3lrLFQFpw8h2tM6wRm) | 3:28 | 2020-11-13 | 2022-10-01 |
 | [Falling In Love \- Klahr Retouch](https://open.spotify.com/track/2OBnKKfUuxQcQ5qbrIojem) | [Klahr](https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD) | [Falling In Love](https://open.spotify.com/album/2t5BCAT5CuJquy6RZ2vEsW) | 3:38 | 2020-03-18 | 2020-07-18 |
 | [Falling Through the Ceiling](https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Falling Through the Ceiling](https://open.spotify.com/album/6sTVDZ00EmXpnafUkCXZ4y) | 7:52 | 2023-01-06 |  |
@@ -819,6 +819,7 @@
 | [Miles to Go \- Radio Edit](https://open.spotify.com/track/163yEINE12989qKfcFjTTF) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP), [Högni](https://open.spotify.com/artist/3HAGb8WLuYRre506Dr8oJm) | [Stay Close to Me](https://open.spotify.com/album/13x4ZWzeyLcuXEWXrPfN8L) | 3:37 | 2020-05-18 | 2021-12-21 |
 | [Mind \(feat\. Kai\) \- Ekali & Gravez Remix](https://open.spotify.com/track/6Becybd5TsDaxOiP9YzGf9) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml), [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [Gravez](https://open.spotify.com/artist/2vit5LtsHrU9420Cw4V1jn) | [Mind \(feat\. Kai\) \[Remixes\]](https://open.spotify.com/album/4OWIDGjTkXMKEaEGJrbQqa) | 4:15 | 2020-05-22 | 2020-07-03 |
 | [MINDGAMES \- \(JYRYMY REMIX\)](https://open.spotify.com/track/0ycteGsaJrAlhOh1hEBH5X) | [Paulina](https://open.spotify.com/artist/4za5fbTdW3zQbV0pQ1ZMhI), [JYRYMY](https://open.spotify.com/artist/4rAYqc4yDNxG7fn8nkNFYe) | [MINDGAMES \(JYRYMY REMIX\)](https://open.spotify.com/album/2pHBRCMbLEQYQsa0XQ6nQ6) | 3:55 | 2021-01-16 | 2022-12-29 |
+| [Mine To Love](https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Azure EP](https://open.spotify.com/album/5M4iiiphjdlqSq9Yutm6QU) | 3:42 | 2023-03-03 |  |
 | [Miracle](https://open.spotify.com/track/7JSS036IjVSwD64TAr6n32) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 4:10 | 2020-03-16 | 2020-06-12 |
 | [Mirror](https://open.spotify.com/track/3puQ8QUzvzBfFnlIOSYaK4) | [Deltium](https://open.spotify.com/artist/0QroI8p7Rd0bK54HCFtelN) | [Mirror](https://open.spotify.com/album/6DpmqFLINjAajemiJPpMGw) | 3:12 | 2022-12-28 | 2023-01-06 |
 | [Mirror Play](https://open.spotify.com/track/0mcMy6ItV0K0uD4k6HrT9i) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 5:56 | 2020-05-18 | 2020-07-18 |

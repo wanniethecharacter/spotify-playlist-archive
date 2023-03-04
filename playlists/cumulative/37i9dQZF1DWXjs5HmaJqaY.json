@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Dance with the Robots",
+        "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
+      },
+      "artists": [
+        {
+          "name": "Co-Fusion",
+          "url": "https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419040,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/43cvd7nBhsfPYW1yBVVtqI"
+    },
+    {
+      "album": {
         "name": "KOMMIT",
         "url": "https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl"
       },
@@ -249,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Dance with the Robots",
+        "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
+      },
+      "artists": [
+        {
+          "name": "SOURCE+RUMITZ",
+          "url": "https://open.spotify.com/artist/07naaE7QfabZrVoPqsa0Lh"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480642,
+      "name": "Castamaer",
+      "url": "https://open.spotify.com/track/5nqtCmVai6flScoNJ5GnJf"
+    },
+    {
+      "album": {
         "name": "Cedes",
         "url": "https://open.spotify.com/album/7vqjuCQYlcv1LRMqNmXJxl"
       },
@@ -278,7 +314,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 337222,
       "name": "Coronation",
       "url": "https://open.spotify.com/track/5rKd7CRzESI68mH6eWmmTp"
@@ -390,7 +426,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 338203,
       "name": "Distance",
       "url": "https://open.spotify.com/track/2c3TM6Zp1IHd3insEzf9ar"
@@ -560,7 +596,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 201120,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/4HM6sm5QAAUYzAyB1SEzDE"
@@ -668,10 +704,32 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 194362,
       "name": "Fourofour (Edit)",
       "url": "https://open.spotify.com/track/5QoguAlrPT4C56mmPtguEd"
+    },
+    {
+      "album": {
+        "name": "Dance with the Robots",
+        "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
+      },
+      "artists": [
+        {
+          "name": "Tom Wax",
+          "url": "https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX"
+        },
+        {
+          "name": "Drea Perlon",
+          "url": "https://open.spotify.com/artist/66z8ifbUF6uMEg6X44vXbw"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325194,
+      "name": "Fragments of the Past",
+      "url": "https://open.spotify.com/track/74l897fi7PkxVGzuaQCrud"
     },
     {
       "album": {
@@ -978,7 +1036,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 465120,
       "name": "Kinematic Motion",
       "url": "https://open.spotify.com/track/4rUhhO3Ztf1Ij9gjumbz8W"
@@ -1241,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Dance with the Robots",
+        "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
+      },
+      "artists": [
+        {
+          "name": "Sikora",
+          "url": "https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403636,
+      "name": "Makeshift Parade",
+      "url": "https://open.spotify.com/track/3WhvxSrVEaaw4jAPXwfnMS"
+    },
+    {
+      "album": {
         "name": "Marionette",
         "url": "https://open.spotify.com/album/4jB9tDebyvYZHEhfAnYV8E"
       },
@@ -1376,7 +1452,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 443241,
       "name": "Never Stop",
       "url": "https://open.spotify.com/track/7tM5oIOzdcgxCS7mY4wqBh"
@@ -1398,6 +1474,24 @@
       "duration_ms": 346626,
       "name": "Now Here No Where",
       "url": "https://open.spotify.com/track/6RghttTzB1OsbSEDuNfvSW"
+    },
+    {
+      "album": {
+        "name": "Dance with the Robots",
+        "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
+      },
+      "artists": [
+        {
+          "name": "Thomas Helmich",
+          "url": "https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337704,
+      "name": "Off Grid",
+      "url": "https://open.spotify.com/track/4XYr8FqCcBUbbrMN2lEMxX"
     },
     {
       "album": {
@@ -1452,10 +1546,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 203809,
       "name": "On The Verge - Radio Mix",
       "url": "https://open.spotify.com/track/4zsjBsKQEJhD0VivNDDXCq"
+    },
+    {
+      "album": {
+        "name": "One Blood",
+        "url": "https://open.spotify.com/album/1kAbl0p9VRQmORguJna27z"
+      },
+      "artists": [
+        {
+          "name": "The Timewriter",
+          "url": "https://open.spotify.com/artist/4aBd3jIK7ZGYMzV8CkL6rr"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221337,
+      "name": "One Blood",
+      "url": "https://open.spotify.com/track/3UfzdRtfe7NbnIJogNH2Gv"
     },
     {
       "album": {
@@ -1909,6 +2021,28 @@
     },
     {
       "album": {
+        "name": "Dance with the Robots",
+        "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
+      },
+      "artists": [
+        {
+          "name": "DJ Lion",
+          "url": "https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq"
+        },
+        {
+          "name": "AlBird",
+          "url": "https://open.spotify.com/artist/1Prnl3WpJztMLBodIfJKu6"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404436,
+      "name": "Spinicular",
+      "url": "https://open.spotify.com/track/1GBvv1GMhhr89x99Fv1KDU"
+    },
+    {
+      "album": {
         "name": "Elektronenschwungdynamik",
         "url": "https://open.spotify.com/album/7DLN31hXu37rDh3EuksFME"
       },
@@ -2058,6 +2192,24 @@
       "duration_ms": 511144,
       "name": "This Is a Dream",
       "url": "https://open.spotify.com/track/7AfMHMKIg9MKMN7rePjukN"
+    },
+    {
+      "album": {
+        "name": "Dance with the Robots",
+        "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
+      },
+      "artists": [
+        {
+          "name": "Smilla",
+          "url": "https://open.spotify.com/artist/4GNUAjOnCWs0kuq2ikLBVK"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406423,
+      "name": "Thought",
+      "url": "https://open.spotify.com/track/5fYAIzCmrCEIk2OmooGp0n"
     },
     {
       "album": {
@@ -2214,6 +2366,24 @@
       "duration_ms": 190682,
       "name": "Wetterleuchten - Edit",
       "url": "https://open.spotify.com/track/4J17SL5qZhXMbbTJYLmwVD"
+    },
+    {
+      "album": {
+        "name": "A Little Bit Of Jazz",
+        "url": "https://open.spotify.com/album/7Fz1MqDsGxpsoNpSR8SPtV"
+      },
+      "artists": [
+        {
+          "name": "Max Koval",
+          "url": "https://open.spotify.com/artist/0NByPzOcGHKJ2XgUztC6CR"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462148,
+      "name": "What This",
+      "url": "https://open.spotify.com/track/7s6IGlhtEvsSNnhzuln3C8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-389 songs - 22 hr 59 min
+390 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 | 2022-02-11 |  |
 | [Menteuse](https://open.spotify.com/track/5c48Kqk8la8I8EjugIDdrF) | [Andromède](https://open.spotify.com/artist/5h1tsxylgwuGvYdyPOEHQy) | [Andromède](https://open.spotify.com/album/26P6KIVuLYtFNyQGiMnXZx) | 4:01 | 2021-09-13 | 2021-09-24 |
 | [Merci de rien](https://open.spotify.com/track/1HULX1oWsUEA39EGptA3fh) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Merci de rien](https://open.spotify.com/album/0DP8QzBD2f8oQESLiukLVE) | 3:11 | 2021-08-14 | 2022-07-25 |
-| [Mille et un](https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR) | 3:34 | 2022-07-08 |  |
+| [Mille et un](https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR) | 3:34 | 2022-07-08 | 2023-03-04 |
 | [Mille et un](https://open.spotify.com/track/4zxigPiHkizg6tHTDkC8GW) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Mille et un \- Single](https://open.spotify.com/album/2IIFewmPDob11DbgFCE7kq) | 3:34 | 2021-01-15 | 2022-07-29 |
 | [Mille fois par jour](https://open.spotify.com/track/45oUYmvEEzXwGpT6Zk5hQf) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part 2 \- EP](https://open.spotify.com/album/6zCtp5lmfpLYmvPfSSSBim) | 3:27 | 2021-01-15 | 2022-07-29 |
 | [Mille requiems](https://open.spotify.com/track/5R8pIhrZExMhSN6L1kb4zC) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [2004\-2019 Point Picot](https://open.spotify.com/album/5sNqgXko9G1IC8lIGJ718D) | 3:06 | 2021-01-18 | 2021-11-07 |
@@ -287,6 +287,7 @@
 | [Parce qu'on s'aime](https://open.spotify.com/track/1GydoUDvF2vWHibzqhe3D4) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Sara Dufour](https://open.spotify.com/album/673UcnNWlDRtKZYzd8gR4C) | 3:02 | 2021-01-15 | 2022-02-12 |
 | [Parce que c'est nous](https://open.spotify.com/track/1eZPuzD7LusYGDKUazKzjw) | [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [Parce que c'est nous](https://open.spotify.com/album/1E51KxJ5UE1d791UT8YjZp) | 3:53 | 2021-01-03\* | 2021-05-08 |
 | [Park tes pantoufles](https://open.spotify.com/track/3plFk3lTETFC9XcmlK5tTK) | [William Deslauriers](https://open.spotify.com/artist/6tjGagAXnkSlY7Z6UBv0RF) | [Park tes pantoufles](https://open.spotify.com/album/3VU4uzhswToFNCXpnECrOW) | 3:06 | 2021-01-03\* | 2021-09-29 |
+| [Parmi les autres](https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Parmi les autres](https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw) | 3:39 | 2023-03-03 |  |
 | [Partir en mer](https://open.spotify.com/track/5YKJV6k3PKiXGYW0mda6X0) | [Roy Davis](https://open.spotify.com/artist/2hY7DEOREACP4sNFGFpTWm) | [Partir en mer](https://open.spotify.com/album/2Tqhja095stUqvs3bgQ0DE) | 3:44 | 2021-05-16 | 2022-07-28 |
 | [Passagers](https://open.spotify.com/track/0Rli17YJQI1D7qraciHcKA) | [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [La vraie nature \- EP](https://open.spotify.com/album/2R4siDISDRZfVRCoOTWzDG) | 3:51 | 2021-01-15 | 2022-07-29 |
 | [Passagers](https://open.spotify.com/track/41apzFxQ6xPFWMsut29O1J) | [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [La vraie nature \- Chansons par Pilou](https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD) | 3:51 | 2022-07-08 |  |

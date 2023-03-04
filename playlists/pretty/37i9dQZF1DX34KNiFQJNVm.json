@@ -1,12 +1,12 @@
 {
-  "description": "Os lan\u00e7amentos dessa semana incluem Mc Hariel com MC GP e Mc Kadu, Dilsinho com Diego & Vitor Hugo, Agnes Nunes, BaianaSystem com Gilsons, Mc Livinho, Fernanda Takai e muito mais!",
-  "num_followers": 1841470,
+  "description": "Os lan\u00e7amentos dessa semana incluem Hugo & Guilherme, DJ Biel do Furduncinho com Gloria Groove, Israel & Rodolffo com Mari Fernandez, Tropkillaz com Sango e muito mais!",
+  "num_followers": 1842390,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMGVjMmJjMWIxMGY3NzBkZjg0NWFmNjhiMzRkZWJkNDlh",
+  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMGY1NTBiM2EzODcxMGEzYmY5MjVkMGQzZTM2MThmMjg5",
   "tracks": [
     {
       "added_at": "2023-03-03 03:01:00",
@@ -32,12 +32,12 @@
       },
       "artists": [
         {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
           "name": "Belle Kaffer",
           "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
         },
         {
           "name": "Charles New",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "Red Ruby Da Sleeze",
+        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "Don't Text Don't Call",
         "url": "https://open.spotify.com/album/1rAWTywOSeej6kpubeqIY7"
       },
@@ -1079,8 +1095,8 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Designer (feat. Joeboy)",
-        "url": "https://open.spotify.com/album/1UzuhbZlcJML7eFxvQ3wIY"
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/3axl6saVOjcbY1RZJWB4XQ"
       },
       "artists": [
         {
@@ -1097,8 +1113,8 @@
         }
       ],
       "duration_ms": 199646,
-      "name": "Designer (feat. Joeboy)",
-      "url": "https://open.spotify.com/track/5ePmktvJtEOAkX0ZR9LC6B"
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/4zM0WZs5xnIoJbYqlSjPQB"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1187,7 +1203,7 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Bonde Do Fund\u00e3o",
+        "name": "Bonde Do Fund\u00e3o (Soundtrack Escola de Quebrada)",
         "url": "https://open.spotify.com/album/12DaSVGe7sFDSMvdGsTXHC"
       },
       "artists": [
@@ -1197,7 +1213,7 @@
         }
       ],
       "duration_ms": 60923,
-      "name": "Bonde Do Fund\u00e3o",
+      "name": "Bonde Do Fund\u00e3o - Soundtrack Escola De Quebrada",
       "url": "https://open.spotify.com/track/2EDjit74MTRnxnIwmgQ4vK"
     },
     {

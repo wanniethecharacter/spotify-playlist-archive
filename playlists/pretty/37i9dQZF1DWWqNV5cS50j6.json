@@ -1,13 +1,77 @@
 {
-  "description": "Ruby Red makes anti pop",
-  "num_followers": 694240,
+  "description": "binki makes anti pop",
+  "num_followers": 694365,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzcxMzc1OSwwMDAwMDAwMGRlNzg5MTVkMDAxODZhMGQ4NjlhMTU3MGJhMWRjMTY5",
+  "snapshot_id": "MTY3Nzg4MTA1NiwwMDAwMDAwMDQ0NGEzMDM1N2U4YmViNjkwZWU0MTZlYzUyOWMxMTE0",
   "tracks": [
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Hotel Window",
+        "url": "https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "duration_ms": 123454,
+      "name": "Hotel Window",
+      "url": "https://open.spotify.com/track/1AiAQF07CLQmJq1oyc6gce"
+    },
+    {
+      "added_at": "2023-03-03 22:04:16",
+      "album": {
+        "name": "Gray",
+        "url": "https://open.spotify.com/album/1uJrYZjJX6KC7loEOaqPVF"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Gray",
+      "url": "https://open.spotify.com/track/5hm5tkdeZXi3O3mF5vf7Br"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "It\u2019s Never Fair, Always True",
+        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 167841,
+      "name": "lalala",
+      "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 174648,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
+    },
     {
       "added_at": "2023-03-01 23:35:59",
       "album": {
@@ -23,6 +87,22 @@
       "duration_ms": 187146,
       "name": "Martina Soleil (Living At The Same Time)",
       "url": "https://open.spotify.com/track/1BEjhtSuXdCf2NVofV71DD"
+    },
+    {
+      "added_at": "2023-03-01 23:35:59",
+      "album": {
+        "name": "TEMPTRESS",
+        "url": "https://open.spotify.com/album/0OGPnuAwWyhqxjhAvs4RSr"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "TEMPTRESS",
+      "url": "https://open.spotify.com/track/7yxTNloroHZe3rD6kxJed2"
     },
     {
       "added_at": "2023-03-01 23:35:59",
@@ -45,36 +125,88 @@
       "url": "https://open.spotify.com/track/1QwoK3ypxUCpvyBqAkpFrn"
     },
     {
-      "added_at": "2023-03-01 23:35:59",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Free Love",
-        "url": "https://open.spotify.com/album/6XJGZ5RmmHVvOJEDFPL8f3"
+        "name": "Billboard",
+        "url": "https://open.spotify.com/album/64kyKS3pe5GlZ3fSGlrFJa"
       },
       "artists": [
         {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+          "name": "Slush Puppy",
+          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
         }
       ],
-      "duration_ms": 173263,
-      "name": "Free Love",
-      "url": "https://open.spotify.com/track/3hX0cncUUZ3A6cx9w1dW4w"
+      "duration_ms": 111157,
+      "name": "Billboard",
+      "url": "https://open.spotify.com/track/0SgtsW3aGMqLXyUkIcTCSv"
     },
     {
       "added_at": "2023-03-01 23:35:59",
       "album": {
-        "name": "TEMPTRESS",
-        "url": "https://open.spotify.com/album/0OGPnuAwWyhqxjhAvs4RSr"
+        "name": "TONY ON THE RADIO",
+        "url": "https://open.spotify.com/album/0yJdceZ9PO3J7LVe8jnbx6"
       },
       "artists": [
         {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+          "name": "Igwe Aka",
+          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
         }
       ],
-      "duration_ms": 187200,
-      "name": "TEMPTRESS",
-      "url": "https://open.spotify.com/track/7yxTNloroHZe3rD6kxJed2"
+      "duration_ms": 198518,
+      "name": "TONY ON THE RADIO",
+      "url": "https://open.spotify.com/track/0nmJuIGEzy8Exr9uF10jvx"
+    },
+    {
+      "added_at": "2023-03-01 23:35:59",
+      "album": {
+        "name": "REAL BAD",
+        "url": "https://open.spotify.com/album/00OlFnS0fLmrVbngG5fTIE"
+      },
+      "artists": [
+        {
+          "name": "Garrett Sparrow",
+          "url": "https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs"
+        },
+        {
+          "name": "Max Leonard",
+          "url": "https://open.spotify.com/artist/5UXiN3pIEW9zZQXQY3vwew"
+        }
+      ],
+      "duration_ms": 221305,
+      "name": "REAL BAD",
+      "url": "https://open.spotify.com/track/49DZyeZZXcLCsMeAKj0BUr"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "old place",
+        "url": "https://open.spotify.com/album/0qhRp8kqjoIolrs3ic469T"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 98340,
+      "name": "old place",
+      "url": "https://open.spotify.com/track/4Jh96C8DDxAJFCrECbFvxP"
+    },
+    {
+      "added_at": "2023-03-01 23:35:59",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
       "added_at": "2023-03-01 23:35:59",
@@ -103,54 +235,34 @@
     {
       "added_at": "2023-03-01 23:35:59",
       "album": {
-        "name": "REAL BAD",
-        "url": "https://open.spotify.com/album/00OlFnS0fLmrVbngG5fTIE"
+        "name": "Free Love",
+        "url": "https://open.spotify.com/album/6XJGZ5RmmHVvOJEDFPL8f3"
       },
       "artists": [
         {
-          "name": "Garrett Sparrow",
-          "url": "https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs"
-        },
-        {
-          "name": "Max Leonard",
-          "url": "https://open.spotify.com/artist/5UXiN3pIEW9zZQXQY3vwew"
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
         }
       ],
-      "duration_ms": 221305,
-      "name": "REAL BAD",
-      "url": "https://open.spotify.com/track/49DZyeZZXcLCsMeAKj0BUr"
+      "duration_ms": 173263,
+      "name": "Free Love",
+      "url": "https://open.spotify.com/track/3hX0cncUUZ3A6cx9w1dW4w"
     },
     {
-      "added_at": "2023-03-01 23:35:59",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "TONY ON THE RADIO",
-        "url": "https://open.spotify.com/album/0yJdceZ9PO3J7LVe8jnbx6"
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
       },
       "artists": [
         {
-          "name": "Igwe Aka",
-          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
         }
       ],
-      "duration_ms": 198518,
-      "name": "TONY ON THE RADIO",
-      "url": "https://open.spotify.com/track/0nmJuIGEzy8Exr9uF10jvx"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
+      "duration_ms": 158133,
+      "name": "FAMJAM4000",
+      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
     },
     {
       "added_at": "2023-03-01 23:35:59",
@@ -183,6 +295,22 @@
       "duration_ms": 176005,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/02JpaqMNkPsPXxrPdlPOzh"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Baby from Atlanta",
+        "url": "https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc"
+      },
+      "artists": [
+        {
+          "name": "Jimi Somewhere",
+          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Baby from Atlanta",
+      "url": "https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq"
     },
     {
       "added_at": "2023-03-01 23:35:59",
@@ -223,22 +351,6 @@
       "duration_ms": 173453,
       "name": "TIME&PLACE",
       "url": "https://open.spotify.com/track/7I2SSOnol8GMtxP9kFojdW"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
-        "name": "are you sleeping alone again?",
-        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "are you sleeping alone again?",
-      "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
     },
     {
       "added_at": "2023-03-01 23:35:59",
@@ -379,6 +491,22 @@
       "duration_ms": 192951,
       "name": "CAROLINE",
       "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/5jJqanbMa4fA7cs2OWqx6y"
+      },
+      "artists": [
+        {
+          "name": "South Strip",
+          "url": "https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8"
+        }
+      ],
+      "duration_ms": 135335,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/5hPL4Kpc8HNJ4W5eMH5GVE"
     },
     {
       "added_at": "2023-03-01 23:35:59",
@@ -851,22 +979,6 @@
     {
       "added_at": "2023-03-01 23:35:59",
       "album": {
-        "name": "Human Being",
-        "url": "https://open.spotify.com/album/48qAF6Blfg0w0oXxbcCoCm"
-      },
-      "artists": [
-        {
-          "name": "Javier Bennett",
-          "url": "https://open.spotify.com/artist/0RrvJKbORGX9jQsie32cXT"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Human Being",
-      "url": "https://open.spotify.com/track/6J04JDT037lOo9gvfjb3zZ"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
         "name": "Me n My Girl",
         "url": "https://open.spotify.com/album/5zod1g9FgDO4eNNpjLMDPT"
       },
@@ -947,22 +1059,6 @@
       "duration_ms": 186531,
       "name": "THE SEASON (feat. PawPaw Rod)",
       "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
-        "name": "endlessly",
-        "url": "https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 125793,
-      "name": "endlessly",
-      "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
     },
     {
       "added_at": "2023-03-01 23:35:59",

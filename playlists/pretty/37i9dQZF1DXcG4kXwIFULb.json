@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 109636,
+  "num_followers": 109778,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDVlM2JhN2JmNGJhNzE1MTYzZTg0ZjQ4ZTk1ZWFlNDJm",
+  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMGMwZjNjMjMzZTgxZTZjYzhlZTllYjFhMjRjMGFjYTY1",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -43,6 +43,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 209316,
+      "name": "You Wish",
+      "url": "https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 271520,
       "name": "In The Waiting Line",
       "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "In A Space Outta Sound",
-        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 209316,
-      "name": "You Wish",
-      "url": "https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -687,22 +687,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Psyence Fiction",
-        "url": "https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY"
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/7aoMwgyXDmr2ATUOJcyQdT"
       },
       "artists": [
         {
-          "name": "UNKLE",
-          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
-        },
-        {
-          "name": "Richard Ashcroft",
-          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 533013,
-      "name": "Lonely Soul",
-      "url": "https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX"
+      "duration_ms": 223013,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/3iNj5fdyY62N1ycufQ3E2M"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -723,34 +719,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/7aoMwgyXDmr2ATUOJcyQdT"
+        "name": "Psyence Fiction",
+        "url": "https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/3iNj5fdyY62N1ycufQ3E2M"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Constructions",
-        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
-      },
-      "artists": [
+          "name": "UNKLE",
+          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+        },
         {
-          "name": "Sofa Surfers",
-          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
+          "name": "Richard Ashcroft",
+          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
         }
       ],
-      "duration_ms": 308612,
-      "name": "Sofa Rockers - Richard Dorfmeister Remix",
-      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
+      "duration_ms": 533013,
+      "name": "Lonely Soul",
+      "url": "https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -767,6 +751,22 @@
       "duration_ms": 134656,
       "name": "Just Chillin'",
       "url": "https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Constructions",
+        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
+      },
+      "artists": [
+        {
+          "name": "Sofa Surfers",
+          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
+        }
+      ],
+      "duration_ms": 308612,
+      "name": "Sofa Rockers - Richard Dorfmeister Remix",
+      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Permutation",
-        "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 282573,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "In A Space Outta Sound",
         "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 324173,
       "name": "Flip Ya Lid",
       "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Permutation",
+        "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 282573,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -887,22 +887,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Gran Hotel Buenos Aires",
-        "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
-      },
-      "artists": [
-        {
-          "name": "Federico Aubele",
-          "url": "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Postales",
-      "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Satta",
         "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 379360,
       "name": "Night over Manaus",
       "url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Gran Hotel Buenos Aires",
+        "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
+      },
+      "artists": [
+        {
+          "name": "Federico Aubele",
+          "url": "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Postales",
+      "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -935,6 +935,38 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 324906,
+      "name": "Peacock Tail",
+      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "Nights Introlude",
+      "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Let's Get Killed",
         "url": "https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1"
       },
@@ -951,18 +983,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+        "name": "Love Pussycats & Carwrecks",
+        "url": "https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Funki Porcini",
+          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
         }
       ],
-      "duration_ms": 324906,
-      "name": "Peacock Tail",
-      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
+      "duration_ms": 290840,
+      "name": "Purrfect",
+      "url": "https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -987,22 +1019,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "Nights Introlude",
-      "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 458666,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Love Pussycats & Carwrecks",
-        "url": "https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9"
-      },
-      "artists": [
-        {
-          "name": "Funki Porcini",
-          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
-        }
-      ],
-      "duration_ms": 290840,
-      "name": "Purrfect",
-      "url": "https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Mickey Mouse Operation",
+        "url": "https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk"
+      },
+      "artists": [
+        {
+          "name": "Little People",
+          "url": "https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Angel Milk",
         "url": "https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 277333,
       "name": "Breathe In",
       "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Mickey Mouse Operation",
-        "url": "https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk"
-      },
-      "artists": [
-        {
-          "name": "Little People",
-          "url": "https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Melt - Remastered",
-      "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Apricot Morning",
         "url": "https://open.spotify.com/album/0bVFmAlU4ToJ2i3ZPkgzHf"
       },
@@ -1447,18 +1431,34 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Journey Into Abstract Hip Hop",
-        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
       },
       "artists": [
         {
-          "name": "Gasoline",
-          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
         }
       ],
-      "duration_ms": 242466,
-      "name": "The Hardest",
-      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
+      "duration_ms": 312333,
+      "name": "Melt - Remastered",
+      "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 419426,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Journey Into Abstract Hip Hop",
+        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
+      },
+      "artists": [
+        {
+          "name": "Gasoline",
+          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "The Hardest",
+      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Supreme Beings Of Leisure",
         "url": "https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 243066,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/4eKIHs1qmbmcFLdFYH6pU2"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 419426,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1615,18 +1615,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Walking Wounded (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5"
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/1iP2GfxXwQyeHw4CZCTBGI"
       },
       "artists": [
         {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        },
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
         }
       ],
-      "duration_ms": 257720,
-      "name": "Before Today - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5IDD5YsXUUZbM4Hty8RnOT"
+      "duration_ms": 252933,
+      "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
+      "url": "https://open.spotify.com/track/3DvQTKQ0ydUn5SNYzRL5wr"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1647,22 +1651,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/1iP2GfxXwQyeHw4CZCTBGI"
+        "name": "Walking Wounded (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5"
       },
       "artists": [
         {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        },
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
         }
       ],
-      "duration_ms": 252933,
-      "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
-      "url": "https://open.spotify.com/track/3DvQTKQ0ydUn5SNYzRL5wr"
+      "duration_ms": 257720,
+      "name": "Before Today - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5IDD5YsXUUZbM4Hty8RnOT"
     },
     {
       "added_at": "2020-09-04 01:12:56",

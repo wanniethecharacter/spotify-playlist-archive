@@ -1403,6 +1403,28 @@
     },
     {
       "album": {
+        "name": "Sencilla",
+        "url": "https://open.spotify.com/album/1LFhr8uJbn9T59x5jyyn3p"
+      },
+      "artists": [
+        {
+          "name": "Babywine",
+          "url": "https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155297,
+      "name": "Sencilla",
+      "url": "https://open.spotify.com/track/2Jtv8ouukqBtC5OB7Eh2Oj"
+    },
+    {
+      "album": {
         "name": "SHORTY QUE TE VAYA BN <3",
         "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
       },

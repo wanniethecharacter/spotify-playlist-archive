@@ -4,7 +4,7 @@
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-188 songs - 19 hr 45 min
+189 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Donna Lee](https://open.spotify.com/track/2u9OxJTn3Of4aMYp9K71kE) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Complete Savoy & Dial Master Takes](https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT) | 2:34 | 2022-05-13 |  |
 | [Donna Lee](https://open.spotify.com/track/7M8iXcl69hHLrsNBinz8C5) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Complete Savoy & Dial Master Takes](https://open.spotify.com/album/6Hy2ceuTvU2CNSrvQCRXl7) | 2:34 | 2022-05-13 | 2022-07-29 |
 | [Dorene Don't Cry, I \- Remastered](https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:14 | 2022-05-13 |  |
-| [Dukes Place](https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Tell It The Way It Is](https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi) | 5:28 | 2022-05-13 |  |
+| [Dukes Place](https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Tell It The Way It Is](https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi) | 5:28 | 2022-05-13 | 2023-03-04 |
 | [Eco \- Remastered](https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Right Now](https://open.spotify.com/album/18bi2UuLLBj78oai30goPA) | 6:08 | 2022-05-13 | 2022-10-08 |
 | [Elysium](https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Contemporary Jazz](https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ) | 16:02 | 2022-05-13 | 2022-09-22 |
 | [Everything Happens To Me](https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Presenting The Gerry Mulligan Sextet](https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y) | 5:23 | 2022-05-13 |  |
@@ -75,6 +75,7 @@
 | [Giant Steps \- 2020 Remaster](https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(2020 Remaster\)](https://open.spotify.com/album/6NkgPYCMAzttRIKDpuJrFp) | 4:47 | 2022-05-13 | 2022-10-07 |
 | [Haghia Sophia](https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Quartets](https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk) | 7:24 | 2022-05-13 | 2022-10-08 |
 | [Hat And Beard](https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Out To Lunch \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX) | 8:24 | 2022-05-13 |  |
+| [I Didn't Know What Time It Was](https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants '56](https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1) | 10:02 | 2023-02-23 |  |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants](https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg) | 10:06 | 2022-05-13 | 2023-02-23 |
 | [I Hear A Rhapsody](https://open.spotify.com/track/3kWQ4tBE7bE5dCO1AKS7nP) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/4zP1ZWEs1q8c0HBYO5uetC) | 6:01 | 2022-05-13 | 2022-07-29 |
 | [I Hear A Rhapsody](https://open.spotify.com/track/4OPLH2UblzNmILgeHiIFfE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 6:01 | 2022-08-11 | 2022-09-01 |

@@ -2379,6 +2379,28 @@
     },
     {
       "album": {
+        "name": "Beethoven Septet & Eroica",
+        "url": "https://open.spotify.com/album/6fUhpvppBVlbFLUvpNAIWe"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "CHAARTS Chamber Artists",
+          "url": "https://open.spotify.com/artist/2YB5i3jJzmimdN0e8BZqkR"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181744,
+      "name": "Septet E-Flat Major, Op. 20: V. Scherzo: Allegro molto e vivace",
+      "url": "https://open.spotify.com/track/0FSSC6RtcQLEEYpUhaY2QJ"
+    },
+    {
+      "album": {
         "name": "Spohr, L.: Nonet, Op. 31 / Beethoven, L. Van: Septet, Op. 20",
         "url": "https://open.spotify.com/album/1gY9FsNhaW1Qhq00Wz7vTq"
       },
@@ -2416,7 +2438,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 196400,
       "name": "Septet in E-Flat Major, Op. 20: V. Scherzo: Allegro molto e vivace",
       "url": "https://open.spotify.com/track/3ub4FYGhFQJ45LB7Ue7oXK"
@@ -2644,6 +2666,28 @@
       "duration_ms": 955575,
       "name": "String Quartet No. 15 in A Minor, Op. 132: III. Molto adagio",
       "url": "https://open.spotify.com/track/4L3fzc3JVxxGQYMMqQEs1T"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartet No. 16 in F Major, Op. 135: II. Vivace",
+        "url": "https://open.spotify.com/album/5eMzJV0YI3eTBO6EpwTQE4"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Danish String Quartet",
+          "url": "https://open.spotify.com/artist/7dkujWxvEqOlFAo979V68D"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "String Quartet No. 16 in F Major, Op. 135: II. Vivace",
+      "url": "https://open.spotify.com/track/7l1efkDXbMUxAwe4IKrCAy"
     },
     {
       "album": {

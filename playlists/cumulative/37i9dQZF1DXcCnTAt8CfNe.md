@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-241 songs - 11 hr 27 min
+243 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Sea Of Tranquility](https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Sea Of Tranquility](https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3) | 2:55 | 2021-12-09 |  |
 | [Secret Message](https://open.spotify.com/track/6hF7fW0UptdNRovONZT3JJ) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [Secret Message](https://open.spotify.com/album/6sVGOHFLrN1sbHnMkkWK3d) | 2:59 | 2021-12-09 |  |
 | [Serene](https://open.spotify.com/track/0fVXN7azMXrnHTIm7Syh2z) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Silent Flyer](https://open.spotify.com/album/5QhhZiEq1OGZeZudIValcS) | 2:41 | 2021-12-09 |  |
+| [Serene Sanctuary](https://open.spotify.com/track/69HNELzycnP7UucHMyfPv6) | [Meliore](https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ) | [Serene Sanctuary](https://open.spotify.com/album/06KfQjiKksP8mmCSdayolJ) | 2:31 | 2023-03-03 |  |
 | [Serenity](https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va) | [Eva Slott](https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe) | [Serenity](https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm) | 2:19 | 2021-12-09 |  |
 | [Serenity](https://open.spotify.com/track/0Tan0vrdENegJ15DutFCxT) | [Songs Of](https://open.spotify.com/artist/5RPFxr1DcmfenWIysgm1gl) | [Symmetry](https://open.spotify.com/album/39yRp0HHmALRLzIN8nJNl5) | 2:45 | 2021-12-09 |  |
 | [Shine](https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Shine](https://open.spotify.com/album/29Co4C7wS7IxEfAgsfn800) | 3:09 | 2021-12-09 |  |
@@ -234,6 +235,7 @@
 | [Ujjayi](https://open.spotify.com/track/5O2NkxIBlzW6KaxfcPkroz) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Ujjayi](https://open.spotify.com/album/1DSSFfEypTfcTXnEIqKs9C) | 2:31 | 2021-12-09 |  |
 | [Unwritten Thoughts](https://open.spotify.com/track/0qXXvOL6Ujkboy0u6QHCam) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Escape](https://open.spotify.com/album/4pihDS6JH0lIBv4er7yBpm) | 3:28 | 2021-12-09 |  |
 | [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 | 2021-12-09 |  |
+| [Vista](https://open.spotify.com/track/0M2JKYETZm0oLy5Mg0d138) | [Segarus](https://open.spotify.com/artist/5L3uMci2iyD3APnlwYfTkO) | [Vista](https://open.spotify.com/album/17VevRpQczCsbFV6gmqDDD) | 2:56 | 2023-03-03 |  |
 | [Waiting](https://open.spotify.com/track/1Ix5PP41jAMMeVHXpoSOv0) | [Dian Giles](https://open.spotify.com/artist/4Hj1QxceSvbeo1YXVfVlz0) | [Waiting](https://open.spotify.com/album/161WELL5bXi3saLgMSren7) | 3:00 | 2021-12-09 |  |
 | [Waiting For The Moment](https://open.spotify.com/track/0PWTD37PzDoCU9CunHUokE) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Waiting For The Moment](https://open.spotify.com/album/7hyIafLbk0WYcrydcN6PEX) | 3:24 | 2021-12-09 |  |
 | [Watching Traffic](https://open.spotify.com/track/3f1RNPAuQptCLaZ17CEHZo) | [The Flashbulb](https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH) | [Compositions for Piano](https://open.spotify.com/album/5Sx8y2k3MGCYhic1Dwe3dc) | 2:50 | 2021-12-09 |  |

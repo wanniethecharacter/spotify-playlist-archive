@@ -6125,6 +6125,32 @@
     },
     {
       "album": {
+        "name": "verdeoliva",
+        "url": "https://open.spotify.com/album/2H7hKVSdxiA2KkGWbgqL7y"
+      },
+      "artists": [
+        {
+          "name": "Scanferla",
+          "url": "https://open.spotify.com/artist/4M771czToCbPJDHSOn2cE9"
+        },
+        {
+          "name": "Gabriel Fernandes",
+          "url": "https://open.spotify.com/artist/2e8VsVcu9BMZ9mWQ2sj0Cu"
+        },
+        {
+          "name": "babyblue",
+          "url": "https://open.spotify.com/artist/3JJNQ8PqeYwVWCi7JdioCC"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "verdeoliva",
+      "url": "https://open.spotify.com/track/2nVjHdovspH20wqq7zR8LG"
+    },
+    {
+      "album": {
         "name": "Vidadulta",
         "url": "https://open.spotify.com/album/56rcd8BD3O397HsS2zi7gn"
       },

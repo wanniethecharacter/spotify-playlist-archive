@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: SPIDER
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,602 likes - 85 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,607 likes - 85 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 11 | [Weights](https://open.spotify.com/track/7dLsiya9SPVDn3CuuBpsUv) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Weights](https://open.spotify.com/album/538vCnG1pNK3jnC1jRd3x4) | 4:10 |
 | 12 | [GO!](https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [GO!](https://open.spotify.com/album/6QxSkWL0OqrjfJFtlVX9Dx) | 3:00 |
 | 13 | [Sleep Forever](https://open.spotify.com/track/4BKHayZJtmyfm0NP8erXiC) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Sleep Forever](https://open.spotify.com/album/0aruNZwXtrYUShnQJtqf1b) | 3:07 |
-| 14 | [Lucifer](https://open.spotify.com/track/45Nwq28AzOXpRve87hbDCk) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [One Shade Darker](https://open.spotify.com/album/5uc01QHmHEhlokwE2kYdDB) | 3:26 |
-| 15 | [MOTION SICKNESS!!](https://open.spotify.com/track/2ptIS5c0dq8MJlAelarYq5) | [Abi Rose Kelly](https://open.spotify.com/artist/3K9fu0H0EZDRjNg9TKXWQ6) | [MOTION SICKNESS!!](https://open.spotify.com/album/4OYBMMpF6R3OagG6vGcj5g) | 2:17 |
+| 14 | [Lucifer](https://open.spotify.com/track/4Fve9SnM02yqPypTcK4i4U) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [One Shade Darker](https://open.spotify.com/album/460Oh7tKR0JYuAje2Nuf04) | 3:26 |
+| 15 | [MOTION SICKNESS!!](https://open.spotify.com/track/0g5P7TjeGuIjNv308nX1PW) | [Abi Rose Kelly](https://open.spotify.com/artist/3K9fu0H0EZDRjNg9TKXWQ6) | [MOTION SICKNESS!!](https://open.spotify.com/album/691SIoZqqRX7RqgpZIcdmt) | 2:17 |
 | 16 | [Show Me The Way You Love](https://open.spotify.com/track/0IlTOMZmU9vAvNGgsaV9TG) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Show Me The Way You Love](https://open.spotify.com/album/7vBSj21hnnMEu0TCoisNUx) | 2:50 |
 | 17 | [LOOK GOOD NAKED](https://open.spotify.com/track/1YNSzesjsiB00d2XFxfKzG) | [Thirty Something](https://open.spotify.com/artist/2b4ts7lp2EdW6ZXK1cxKYj) | [LOOK GOOD NAKED](https://open.spotify.com/album/3KsmKj6KroZmwSd2QReQNT) | 2:42 |
 | 18 | [Love Rush](https://open.spotify.com/track/41BpMpEPf3oo81DUoGfw32) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/72Q9DnfCrWdrY8A95mXXrr) | 2:53 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 84 | [Didn't Even Know What I Was Looking For](https://open.spotify.com/track/7hdk9RNXMsXmoASR7TktzG) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Jaws the Shark](https://open.spotify.com/album/5Qs7fZsUxaY5PqClldAPA5) | 3:09 |
 | 85 | [Leash](https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Leash](https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ) | 2:42 |
 
-Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDAwMTZhZWQ0OWU4MWNlMjRiMWEzOWIyMTQ5MGE0Nzk1`
+Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMGE2NzFhNDc4Zjg2MWEyYjYzN2FiZGViMWU2NDVmOTVm`

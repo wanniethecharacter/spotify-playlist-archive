@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 179317,
+  "num_followers": 179414,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGRhMTgyMDFkOTM0ODQ3Zjc4NDBjZmIyNmI2MTA5NTE1",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDVkM2FkZTVlZTU3YWQ2ZGZkNmY2ODBiZTQ0ZDhiZTlh",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Check Your People",
-        "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
-      },
-      "artists": [
-        {
-          "name": "Downset",
-          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
-        }
-      ],
-      "duration_ms": 153173,
-      "name": "Pure Trauma",
-      "url": "https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 206093,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Check Your People",
+        "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
+      },
+      "artists": [
+        {
+          "name": "Downset",
+          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
+        }
+      ],
+      "duration_ms": 153173,
+      "name": "Pure Trauma",
+      "url": "https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Merciless",
-        "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
-      },
-      "artists": [
-        {
-          "name": "Most Precious Blood",
-          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Shark Ethic",
-      "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Before The Quarrel",
         "url": "https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 135471,
       "name": "World Peace",
       "url": "https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Merciless",
+        "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
+      },
+      "artists": [
+        {
+          "name": "Most Precious Blood",
+          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Shark Ethic",
+      "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Silence Is Betrayal",
-        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
-      },
-      "artists": [
-        {
-          "name": "First Blood",
-          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
-        }
-      ],
-      "duration_ms": 53168,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 225960,
       "name": "Down for Life",
       "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Silence Is Betrayal",
+        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
+      },
+      "artists": [
+        {
+          "name": "First Blood",
+          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
+        }
+      ],
+      "duration_ms": 53168,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
     },
     {
       "added_at": "2020-12-08 15:12:11",

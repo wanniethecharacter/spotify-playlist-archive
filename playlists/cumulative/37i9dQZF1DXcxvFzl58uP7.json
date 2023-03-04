@@ -2756,7 +2756,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 142244,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/1pqGwiN4oGvu5tg421QRXb"
@@ -4102,7 +4102,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": null,
       "duration_ms": 148401,
       "name": "Emotionless",
       "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
@@ -6146,7 +6146,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 174746,
       "name": "Honeycomb",
       "url": "https://open.spotify.com/track/2NFlLmWIusCPE5yrBUgRXO"
@@ -10016,7 +10016,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 168453,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/4TfAkflaDVuAYjC9KZBJZK"
@@ -11026,6 +11026,24 @@
       "duration_ms": 191505,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/33HfUi07zAeFxmsKfUE7Yy"
+    },
+    {
+      "album": {
+        "name": "saturday",
+        "url": "https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131357,
+      "name": "saturday",
+      "url": "https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq"
     },
     {
       "album": {
@@ -12734,7 +12752,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 137528,
       "name": "SWEET N SOUR",
       "url": "https://open.spotify.com/track/5mfTEJE7J0HoZslX1qRHIm"
@@ -12908,7 +12926,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 129919,
       "name": "talk every night",
       "url": "https://open.spotify.com/track/0jmBNbkOd3Bi2Te4LXDWOm"
@@ -15044,6 +15062,24 @@
       "duration_ms": 292696,
       "name": "You",
       "url": "https://open.spotify.com/track/2cNLCyTp8XSznmPZuhlpT0"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/1Z1JeFFAZ1mNdsMUPPFsgs"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175317,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/1qXvOWQgDGwvIGIP4qVQY3"
     },
     {
       "album": {

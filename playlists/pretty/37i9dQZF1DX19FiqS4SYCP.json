@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 141561,
+  "num_followers": 141570,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMDY1YjE4NWI0MGJhMjgyNGU2OTU5Zjk5MjY3MzQ2Y2I4",
+  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMDE1ZTlhZGZhY2E1ZTI3M2M5MjE4NWRhMWMxYzExOTRk",
   "tracks": [
     {
       "added_at": "2023-01-27 17:40:01",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "On the Same Track",
-        "url": "https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K"
-      },
-      "artists": [
-        {
-          "name": "Nightlife",
-          "url": "https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Paloma Sin Nido",
-      "url": "https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Por Una Cantina",
         "url": "https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 208596,
       "name": "Por Una Cantina",
       "url": "https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "On the Same Track",
+        "url": "https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K"
+      },
+      "artists": [
+        {
+          "name": "Nightlife",
+          "url": "https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Paloma Sin Nido",
+      "url": "https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Quedate",
-        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Caballero Jr",
-          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
-        }
-      ],
-      "duration_ms": 179063,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Por Fin Decid\u00ed",
         "url": "https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 194599,
       "name": "Por Fin Decid\u00ed",
       "url": "https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Caballero Jr",
+          "url": "https://open.spotify.com/artist/0XjGSfT3w9gccHfxcSFBCR"
+        }
+      ],
+      "duration_ms": 179063,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
-      },
-      "artists": [
-        {
-          "name": "Rene Ramirez Y Maduro",
-          "url": "https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH"
-        }
-      ],
-      "duration_ms": 200159,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Mariposas",
         "url": "https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 193967,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
+      },
+      "artists": [
+        {
+          "name": "Rene Ramirez Y Maduro",
+          "url": "https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH"
+        }
+      ],
+      "duration_ms": 200159,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Porque Sera",
-        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
-      },
-      "artists": [
-        {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Porque Sera",
-      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Nunca Me Imagine",
         "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 167507,
       "name": "Nunca Me Imagine",
       "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Porque Sera",
+        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
+      },
+      "artists": [
+        {
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Porque Sera",
+      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
+        "name": "Acu\u00e9rdate",
+        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
+      },
+      "artists": [
+        {
+          "name": "Miguel Hernandez",
+          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Acu\u00e9rdate - Radio Edit",
+      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
         "name": "Vac\u00eda",
         "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 180462,
       "name": "Vac\u00eda",
       "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
-        "name": "Acu\u00e9rdate",
-        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
-      },
-      "artists": [
-        {
-          "name": "Miguel Hernandez",
-          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "Acu\u00e9rdate - Radio Edit",
-      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
-      },
-      "artists": [
-        {
-          "name": "Lydia Castillo",
-          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
-        }
-      ],
-      "duration_ms": 220003,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Mentias",
         "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 199870,
       "name": "Mentias",
       "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu"
+      },
+      "artists": [
+        {
+          "name": "Lydia Castillo",
+          "url": "https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs"
+        }
+      ],
+      "duration_ms": 220003,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6"
     },
     {
       "added_at": "2023-01-27 17:40:01",

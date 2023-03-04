@@ -2,9 +2,9 @@
 
 ### [Amore Davvero](https://open.spotify.com/playlist/37i9dQZF1DWTbGYZ9Pq4TH)
 
-> Le tracce italiane più romantiche di sempre ❤️
+> Le canzoni italiane più romantiche di sempre ❤️
 
-190 songs - 12 hr 18 min
+191 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [MIA](https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45) | [MIA](https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g) | 2:54 | 2021-09-26 |  |
 | [Migliore](https://open.spotify.com/track/1V5Fgni6jJx2V4cuHXb5Cz) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Scriverò il tuo nome \(Deluxe Edition\)](https://open.spotify.com/album/1z6nJ51MGl9ObiNBnW944Y) | 2:50 | 2021-09-26 | 2022-07-22 |
 | [Mille giorni di te e di me](https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Oltre](https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP) | 5:36 | 2021-09-26 | 2022-07-28 |
+| [Minuetto](https://open.spotify.com/track/5DPp64xvym2n9tHE8nuhn7) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Il giorno dopo \(Gli Indimenticabili\)](https://open.spotify.com/album/2n9uS88r6JmABiCy4CbhBM) | 4:43 | 2023-02-20 |  |
 | [Minuetto](https://open.spotify.com/track/5UKMdUAChYAllKDye6qDGb) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Il Giorno Dopo](https://open.spotify.com/album/3RULCQndss1A5Ix2NAlV8M) | 4:43 | 2021-09-26 | 2022-07-28 |
 | [Motivo \(feat\. Coez\)](https://open.spotify.com/track/6SZMYfcEOgv7a7fhArmrQQ) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [La Differenza](https://open.spotify.com/album/6NN8ud1qr77iiGxHSDN7rk) | 3:11 | 2021-09-26 | 2022-07-25 |
 | [Niente Canzoni D'Amore](https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 3:25 | 2021-09-26 |  |
@@ -150,7 +151,7 @@
 | [Ricordati di me](https://open.spotify.com/track/4zb0g3sxejRXrx3SPVcOHU) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [TuttoVenditti](https://open.spotify.com/album/5MHO15wZxm98p6BF4uAO5V) | 5:15 | 2021-09-26 | 2022-07-29 |
 | [Ridere](https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fuori dall'Hype Ringo Starr](https://open.spotify.com/album/56JsicBPrw88plclhKK74J) | 3:34 | 2021-09-26 |  |
 | [Ridere di te](https://open.spotify.com/track/5YBseYFfboIucgnDKQcNpn) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Sarà migliore](https://open.spotify.com/album/5ky21JmYFnnPcmhJJ7agLM) | 5:34 | 2021-09-26 | 2022-07-28 |
-| [Rimmel](https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Rimmel](https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K) | 3:40 | 2021-09-26 |  |
+| [Rimmel](https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Rimmel](https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K) | 3:40 | 2021-09-26 | 2023-03-04 |
 | [Rondini Al Guinzaglio](https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Colpa Delle Favole](https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy) | 4:00 | 2021-09-26 |  |
 | [Sale, amore e vento](https://open.spotify.com/track/5CUA4D216X2XJtk6ePncXS) | [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5) | [Fino a qui](https://open.spotify.com/album/28rK6KrZTDZqPBoM9bGFR4) | 3:50 | 2021-09-26 | 2022-07-29 |
 | [Scelgo ancora te](https://open.spotify.com/track/2TiU6Vb7nae8DUnXUKj6SK) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Oronero](https://open.spotify.com/album/1zA7zRF5QJszMiSTEgZ1p5) | 3:26 | 2021-09-26 | 2022-07-05 |

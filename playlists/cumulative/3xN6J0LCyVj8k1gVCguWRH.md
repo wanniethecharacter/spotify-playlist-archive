@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,054 songs - 4 day 22 hr 16 min
+2,057 songs - 4 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1208,6 +1208,7 @@
 | [Moonsong](https://open.spotify.com/track/3ZPlcGpdSm22p6bpwFdz2y) | [Honeymack](https://open.spotify.com/artist/4mLki6d5YG5tXOwbt6TRdL) | [Moonsong](https://open.spotify.com/album/4KJbJ0qUTYFR6ABwLvXn31) | 3:45 | 2022-04-29 | 2022-05-16 |
 | [More of the Same](https://open.spotify.com/track/6qyzRjH6fK6P76DdxyXEZl) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [More of the Same](https://open.spotify.com/album/5QVFD34CrJHv6e6THdiBid) | 3:12 | 2021-12-11 | 2022-01-07 |
 | [More of You](https://open.spotify.com/track/0nsofcXSqxPcXXrqeY4TeT) | [Chaise](https://open.spotify.com/artist/0cDDDfHYuslpe1CoOeMmib) | [More of You](https://open.spotify.com/album/29j9jh8N2SezEXDGCQmI6n) | 4:03 | 2022-01-07 | 2022-01-23 |
+| [More Than Lovers](https://open.spotify.com/track/2m99x6RSOJjIaO3h6odEyW) | [Hykay](https://open.spotify.com/artist/0ui2p3tryZSVhl4zelHIAi) | [More Than Lovers](https://open.spotify.com/album/1ncO9OdU9B0dFpqzjfg5Oj) | 2:53 | 2023-03-04 |  |
 | [More Than You Know](https://open.spotify.com/track/5NCbLiZLwjQV5SqkGqtHtA) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In A Sentimental Mood](https://open.spotify.com/album/6bqVbJc4p9foiS8tQy1tow) | 4:40 | 2022-07-26 |  |
 | [MOTA](https://open.spotify.com/track/0zpwjk9WosuVgDCyfWshAC) | [TYLOR](https://open.spotify.com/artist/7FBFDgNhHbZvmrMJk4L1vO) | [MOTA](https://open.spotify.com/album/6PKzwCa3CZeWoY7TgGYOwX) | 2:29 | 2022-05-27 | 2022-06-12 |
 | [MOTION](https://open.spotify.com/track/77hjqTb1lNcHMLKpZxYcS7) | [HINYL](https://open.spotify.com/artist/5C1kYgcLy2bHUCWGGvpKVP) | [MOTION \(DIVE IN\)](https://open.spotify.com/album/6uildMXkFASWvb5hPJXqJK) | 3:06 | 2022-12-24 | 2023-02-07 |
@@ -1808,6 +1809,8 @@
 | [Thunderhead](https://open.spotify.com/track/6yivu7IE6Qc8WYNovbIqd6) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew) | [Thunderhead](https://open.spotify.com/album/0LcI4O7Zn6bGrg55fSavVj) | 3:46 | 2022-12-09 | 2022-12-31 |
 | [TIBAA](https://open.spotify.com/track/1Cqpi7Rcf65jZlGNIizw2L) | [MAR5](https://open.spotify.com/artist/2MBqDXJGuZnVMM3bNfRSzA), [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [TIBAA](https://open.spotify.com/album/5dAvoVN5NOh3xKRKBlkcLa) | 2:52 | 2022-10-09 | 2022-10-30 |
 | [Tiger Stripes](https://open.spotify.com/track/2rtu9krlsAiVFlshbnpi4F) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Tiger Stripes](https://open.spotify.com/album/5R5dXGurhNE129cI5SUBuz) | 3:16 | 2021-10-22 | 2022-01-09 |
+| [Tight Dress](https://open.spotify.com/track/0JoeGZ7DTdEIqc0HXDIIE9) | [Calimar](https://open.spotify.com/artist/41y0PB4FjGdsHB7y7izHZh) | [Tight Dress](https://open.spotify.com/album/7uoaULjzVQxccf0krQAnwT) | 3:52 | 2023-03-04 |  |
+| [Till Death Do Us Part](https://open.spotify.com/track/2CNvda3yzlwNuYnUtru0Lt) | [Anthony Bond](https://open.spotify.com/artist/2Bed1ilbSEnR29J7BXw2l3) | [Till Death Do Us Part](https://open.spotify.com/album/7nro3uUerblHDxzpFhUHvU) | 2:56 | 2023-03-04 |  |
 | [Time](https://open.spotify.com/track/5KtIbToah0ZWXDQ1qBFOcr) | [Khalia](https://open.spotify.com/artist/5uA8O34StZ6xb6rFLKXgZR), [ZJ Sparks](https://open.spotify.com/artist/3KfenkrbzqCZcJTA49nShf), [Loud City](https://open.spotify.com/artist/32qMqnULiJK7mNiYKrx3P1) | [Time](https://open.spotify.com/album/0zYC1DJFYLnpM1cZzqYi1f) | 3:20 | 2022-12-11 | 2023-01-03 |
 | [Time](https://open.spotify.com/track/1tCVaXCM7eDo7SIlogAuMT) | [Sol Y Motion](https://open.spotify.com/artist/24AY9nmcbCmv0EHlXmE01o) | [Time](https://open.spotify.com/album/21BSeaOQbd98648kmYd5yu) | 4:35 | 2022-09-02 | 2022-09-18 |
 | [Time Awaits](https://open.spotify.com/track/0EWkcHC58bAHHcvoagva6u) | [Travis Sayles](https://open.spotify.com/artist/3ZF5OTLAF900ketxn9lFqw) | [Time Awaits](https://open.spotify.com/album/7DkI7ngAx583NI5CwakdMz) | 2:48 | 2022-10-15 | 2022-11-08 |

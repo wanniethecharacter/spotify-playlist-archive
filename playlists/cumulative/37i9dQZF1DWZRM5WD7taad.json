@@ -873,6 +873,32 @@
     },
     {
       "album": {
+        "name": "El Card\u00f3n",
+        "url": "https://open.spotify.com/album/69EuMRSnKU8THC0V3WZ4rz"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Bungalo Dub",
+          "url": "https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0"
+        },
+        {
+          "name": "Bhajan",
+          "url": "https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "El Card\u00f3n",
+      "url": "https://open.spotify.com/track/2L5z9XcA1PCxUOJ3W24tnX"
+    },
+    {
+      "album": {
         "name": "En el Aire",
         "url": "https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea"
       },
@@ -2203,6 +2229,28 @@
     },
     {
       "album": {
+        "name": "Quiero Tenerte",
+        "url": "https://open.spotify.com/album/5emDemEEGSeGVDGHKITiJa"
+      },
+      "artists": [
+        {
+          "name": "Yaz Tarelo",
+          "url": "https://open.spotify.com/artist/59JtSjLRASadXsL9hNlLXB"
+        },
+        {
+          "name": "Oldtape",
+          "url": "https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Quiero Tenerte",
+      "url": "https://open.spotify.com/track/0yLLnTgrfYyqrFRGmQIFJJ"
+    },
+    {
+      "album": {
         "name": "NI\u00d1XS ROTXS",
         "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
       },
@@ -2627,6 +2675,28 @@
     },
     {
       "album": {
+        "name": "7Z7",
+        "url": "https://open.spotify.com/album/3RtE5spt4kZB1Q8nHB3tWD"
+      },
+      "artists": [
+        {
+          "name": "FUFU",
+          "url": "https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6"
+        },
+        {
+          "name": "TALE$",
+          "url": "https://open.spotify.com/artist/5w9YZfwWPTeCQn6QEGieIU"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154936,
+      "name": "TIKI TAKA",
+      "url": "https://open.spotify.com/track/731NNSNXS57BuFlBWyUuuH"
+    },
+    {
+      "album": {
         "name": "Toda La Noche",
         "url": "https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH"
       },
@@ -2882,6 +2952,24 @@
       "duration_ms": 140475,
       "name": "\u00bfQu\u00e9 Pas\u00f3?",
       "url": "https://open.spotify.com/track/0fT5Z1yon9HQbvO8Rc9bce"
+    },
+    {
+      "album": {
+        "name": "\u00daltimamente",
+        "url": "https://open.spotify.com/album/1jDdp6VLMKPTU8trOHFYGo"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224619,
+      "name": "\u00daltimamente",
+      "url": "https://open.spotify.com/track/0TkvjgWhJWu3jvcmTaAKWE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad"

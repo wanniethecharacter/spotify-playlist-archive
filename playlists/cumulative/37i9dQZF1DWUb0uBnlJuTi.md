@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-262 songs - 20 hr 31 min
+263 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Funkier Than a Mosquito's Tweeter](https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [It Is Finished \(Expanded Edition\)](https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk) | 5:20 | 2020-10-09 |  |
 | [Funky Snakefoot](https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln) | [Alphonse Mouzon](https://open.spotify.com/artist/0UXy6wqMmVQ7PIWFNSXqdk) | [Funky Snakefoot](https://open.spotify.com/album/6eSimOXS5PMUtWln4Lau2i) | 3:45 | 2020-10-09 |  |
 | [Glaze](https://open.spotify.com/track/05OOwdPf6R9McIukghw4w9) | [Kerbside Collection](https://open.spotify.com/artist/6OOY4mJJDFE32QIWK171zh) | [Glaze](https://open.spotify.com/album/4J5ZNleIjACZZWp633TO6m) | 4:33 | 2021-11-26 | 2022-07-29 |
-| [Glide](https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Glide](https://open.spotify.com/album/4gKKENDoymYmpMqSNW18co) | 3:12 | 2022-02-25 |  |
+| [Glide](https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Glide](https://open.spotify.com/album/4gKKENDoymYmpMqSNW18co) | 3:12 | 2022-02-25 | 2023-03-04 |
 | [Got Myself a Good Man](https://open.spotify.com/track/47p7EXLVpPSr3l9wK9bA4E) | [Lance Ferguson](https://open.spotify.com/artist/6dbQYrMbGorwsvnVCDb9ua) | [Got Myself a Good Man](https://open.spotify.com/album/2OIU1dz7wtdA1HaICpuVO2) | 5:08 | 2022-04-01 | 2022-07-29 |
 | [Grease of the East\(bay\) \[feat\. Eric Krasno, Daniel Casares & Adam Theis\]](https://open.spotify.com/track/5frRUnhEY8Pd5KGz5hRvTE) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Daniel Casares](https://open.spotify.com/artist/3LRzrB7J8bLTpTP7Ukf4DD), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ) | [Grease of the East\(bay\) \[feat\. Eric Krasno, Daniel Casares & Adam Theis\]](https://open.spotify.com/album/2td0xMJS2A1L3d2lwrmYFD) | 4:49 | 2021-01-08 | 2022-07-28 |
 | [Green Chimneys \- Juffie \- Instrumental](https://open.spotify.com/track/08eE1HMgTQ5Dsih5xAI43H) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Green Chimneys – Juffie](https://open.spotify.com/album/0U4Q2KC5lZA6woOZtzHM6T) | 3:31 | 2021-04-02 | 2022-07-03 |
@@ -203,6 +203,7 @@
 | [Squid Exit Music \- 7" radio edit](https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Mike Outram](https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ) | [Squid Exit Music \(7" radio edit\)](https://open.spotify.com/album/73GYm6vMu3w2I4Tm14VQiB) | 3:50 | 2022-03-04 |  |
 | [Stay](https://open.spotify.com/track/3lK8UA4FR2FiQpvtarLLol) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Stay / Hot Footing It](https://open.spotify.com/album/6ffd7GPBP6q3Q3XhfyvIkA) | 6:12 | 2021-11-12 | 2022-07-25 |
 | [Step Down](https://open.spotify.com/track/14URhGn28UzFkWmmlvSH5m) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Step Down](https://open.spotify.com/album/5LJBSDzkpOdSfnWDBa5amD) | 3:55 | 2021-11-19 | 2022-07-29 |
+| [Steps On The Globe](https://open.spotify.com/track/6zjJXveU2lfk4sYrkPvRdm) | [Keiko Matsui](https://open.spotify.com/artist/0hps0ju4DV1qFI5NFHfOH4) | [Steps On The Globe](https://open.spotify.com/album/4bbREim02kguUvLEGE3far) | 4:20 | 2023-03-03 |  |
 | [Sticking to My Guns](https://open.spotify.com/track/6uuoajOLX3soGGLdnWTenn) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [SuperBlue: Guilty Pleasures \(feat\. Nate Smith\)](https://open.spotify.com/album/4KGZEfzmcVMM6XujS0RWyp) | 4:15 | 2023-02-17 |  |
 | [Stone Cold Lovin' \- Instrumental](https://open.spotify.com/track/3jivAYYsjOYojktybnVC9R) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Daniel Casares](https://open.spotify.com/artist/3LRzrB7J8bLTpTP7Ukf4DD), [Max Cowan](https://open.spotify.com/artist/45QRLF7w0KJv3c8Bf4F90H), [Jamie Moore](https://open.spotify.com/artist/2x97nEU3EZS9rDG7nsccQj) | [Family Business, Pt\. 2 \(Instrumental\)](https://open.spotify.com/album/2PDaJ4IkLAauBi55Lx7CoI) | 3:18 | 2023-01-27 |  |
 | [STOP and SAVE](https://open.spotify.com/track/1hzzHl4YaAL1spIdSAC4su) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [STOP and SAVE](https://open.spotify.com/album/6uRy8mSfVUejTRx7rHV23e) | 2:46 | 2022-03-04 | 2022-07-29 |

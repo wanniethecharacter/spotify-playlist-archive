@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 31749,
+  "num_followers": 31790,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMGI1YWU0NDQyYzgxZWU5YzE4NTY3N2E4ZDdmNmZiYmRi",
+  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMGEwMmU5NTZlNWU2ZDQwZDY2ZWY3YjQ5YzFkMmZkZjFi",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -27,18 +27,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso Awakening from the Emory Cook Collection",
-        "url": "https://open.spotify.com/album/5IBNyUVIPDVZORyS0nUaRj"
+        "name": "The Cooks in Trinidad",
+        "url": "https://open.spotify.com/album/4R9XWdsiThwOaF8OX9vs4M"
       },
       "artists": [
         {
-          "name": "Small Island Pride",
-          "url": "https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL"
+          "name": "Wilmoth Houdini",
+          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
         }
       ],
-      "duration_ms": 208653,
-      "name": "Taxi Driver",
-      "url": "https://open.spotify.com/track/4bvPevGfBIGMujMTwpcXME"
+      "duration_ms": 153106,
+      "name": "Black but Sweet",
+      "url": "https://open.spotify.com/track/657JgYEGUo3gKjn2PCSVpw"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -59,34 +59,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "The Cooks in Trinidad",
-        "url": "https://open.spotify.com/album/4R9XWdsiThwOaF8OX9vs4M"
+        "name": "Calypso Awakening from the Emory Cook Collection",
+        "url": "https://open.spotify.com/album/5IBNyUVIPDVZORyS0nUaRj"
       },
       "artists": [
         {
-          "name": "Wilmoth Houdini",
-          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
+          "name": "Small Island Pride",
+          "url": "https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL"
         }
       ],
-      "duration_ms": 153106,
-      "name": "Black but Sweet",
-      "url": "https://open.spotify.com/track/657JgYEGUo3gKjn2PCSVpw"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "Man Smart, Woman Smarter (Remastered)",
-        "url": "https://open.spotify.com/album/7ueOZmQbgjo5U1wRn4gUAs"
-      },
-      "artists": [
-        {
-          "name": "The Duke Of Iron",
-          "url": "https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81"
-        }
-      ],
-      "duration_ms": 154386,
-      "name": "Man Smart, Woman Smarter",
-      "url": "https://open.spotify.com/track/5bjWqqJdM85zPvVHnXlEui"
+      "duration_ms": 208653,
+      "name": "Taxi Driver",
+      "url": "https://open.spotify.com/track/4bvPevGfBIGMujMTwpcXME"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -103,6 +87,22 @@
       "duration_ms": 169226,
       "name": "Barbados Carnival",
       "url": "https://open.spotify.com/track/6VImP09GCjqLbOLY3S9S0z"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Man Smart, Woman Smarter (Remastered)",
+        "url": "https://open.spotify.com/album/7ueOZmQbgjo5U1wRn4gUAs"
+      },
+      "artists": [
+        {
+          "name": "The Duke Of Iron",
+          "url": "https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81"
+        }
+      ],
+      "duration_ms": 154386,
+      "name": "Man Smart, Woman Smarter",
+      "url": "https://open.spotify.com/track/5bjWqqJdM85zPvVHnXlEui"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -131,22 +131,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso Atrocities",
-        "url": "https://open.spotify.com/album/4wxZvFup77TmfeOsY0spI2"
-      },
-      "artists": [
-        {
-          "name": "Small Island Pride",
-          "url": "https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Me Ting Is Mine",
-      "url": "https://open.spotify.com/track/1OVkqIMN1QkVbSDpSOU0yt"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
         "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 134562,
       "name": "Don't Touch Me Tomato",
       "url": "https://open.spotify.com/track/4T0vtk187B4c75WSc71jeq"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypso Atrocities",
+        "url": "https://open.spotify.com/album/4wxZvFup77TmfeOsY0spI2"
+      },
+      "artists": [
+        {
+          "name": "Small Island Pride",
+          "url": "https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Me Ting Is Mine",
+      "url": "https://open.spotify.com/track/1OVkqIMN1QkVbSDpSOU0yt"
     },
     {
       "added_at": "2021-04-23 15:05:50",

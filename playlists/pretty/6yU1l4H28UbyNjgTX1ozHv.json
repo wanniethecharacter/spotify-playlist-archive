@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9101,
+  "num_followers": 9103,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "OTM4LDViM2IxODk1MmQwZDE4YmI4MWE3YzEwN2U1NjQ4NmZlMzU4YTJkNGQ=",
+  "snapshot_id": "OTQxLGNjZTNmOGU2Y2Q4YjYzODY4YTFhMTU3MjdlYTJiYTI5YmM3ZWMxOTM=",
   "tracks": [
     {
       "added_at": "2023-01-27 06:28:42",
@@ -41,10 +41,26 @@
       "url": "https://open.spotify.com/track/1O91HwI2LMA8RglnZ2hbNH"
     },
     {
-      "added_at": "2023-02-27 06:36:11",
+      "added_at": "2023-03-03 06:39:52",
       "album": {
-        "name": "Valerie (Acoustic)",
-        "url": "https://open.spotify.com/album/5GQMEtMsfqHsAfHXy02VOM"
+        "name": "Use Somebody (Acoustic)",
+        "url": "https://open.spotify.com/album/6ccSCZ1k60gVpONCZZPvAm"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Use Somebody - Acoustic",
+      "url": "https://open.spotify.com/track/15ifihnDCzcbGX3lQdUHKn"
+    },
+    {
+      "added_at": "2023-03-03 06:47:34",
+      "album": {
+        "name": "You're the One That I Want (Acoustic)",
+        "url": "https://open.spotify.com/album/5imKUMucWByXmUaOhQt151"
       },
       "artists": [
         {
@@ -52,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW"
         }
       ],
-      "duration_ms": 160235,
-      "name": "Valerie - Acoustic",
-      "url": "https://open.spotify.com/track/2maGjY9V7Z0RAVTyXFPyaX"
+      "duration_ms": 151991,
+      "name": "You're the One That I Want - Acoustic",
+      "url": "https://open.spotify.com/track/7rlsybGFVSyYq9tDdxloHd"
     },
     {
       "added_at": "2019-10-13 06:38:53",

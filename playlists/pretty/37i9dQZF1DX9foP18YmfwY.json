@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Mission\u00e1rio Shalom, Entretons",
-  "num_followers": 288670,
+  "num_followers": 288765,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNzI4MSwwMDAwMDAwMGZmZjI4Mjg2YmQxM2EyOWE0MWE1MTczYzRmMDI1NmY2",
+  "snapshot_id": "MTY3NzIzNzI4MSwwMDAwMDAwMDhmNDU3MDNlNjZlMGRiNTNmOGFhMmUxNDdkYzc5MTFj",
   "tracks": [
     {
       "added_at": "2023-02-10 12:28:24",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
+        "name": "Para Sempre Cantarei",
+        "url": "https://open.spotify.com/album/6bBo76VDOgEjXwWJjXfdew"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 321999,
+      "name": "Para Sempre Cantarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/61kfrlgOMGQYnLiMgYrxnZ"
+    },
+    {
+      "added_at": "2023-02-10 12:28:24",
+      "album": {
         "name": "Retrovisor",
         "url": "https://open.spotify.com/album/3k0k584H1fIbsaGfdET3Yi"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 218378,
       "name": "Retrovisor",
       "url": "https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje"
-    },
-    {
-      "added_at": "2023-02-10 12:28:24",
-      "album": {
-        "name": "Para Sempre Cantarei",
-        "url": "https://open.spotify.com/album/6bBo76VDOgEjXwWJjXfdew"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 321999,
-      "name": "Para Sempre Cantarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/61kfrlgOMGQYnLiMgYrxnZ"
     },
     {
       "added_at": "2023-02-10 12:28:24",
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
     },
     {
-      "added_at": "2023-03-03 03:26:44",
+      "added_at": "2023-03-04 00:43:35",
       "album": {
         "name": "Cantai a Deus Com Alegria 2023",
         "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
@@ -979,6 +979,58 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
+        "name": "Reinflama",
+        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
+      },
+      "artists": [
+        {
+          "name": "Flavinho",
+          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
+        }
+      ],
+      "duration_ms": 231796,
+      "name": "Reinflama",
+      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
+    },
+    {
+      "added_at": "2023-02-10 12:28:24",
+      "album": {
+        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+        "url": "https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        },
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 285030,
+      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+      "url": "https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn"
+    },
+    {
+      "added_at": "2023-03-04 00:43:35",
+      "album": {
+        "name": "Ana e Maria",
+        "url": "https://open.spotify.com/album/6jjVrZBuB3fRQmqiV9C2Jp"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "duration_ms": 229320,
+      "name": "Ana e Maria",
+      "url": "https://open.spotify.com/track/6Z5u1AKPvXMtIJaKah0KeM"
+    },
+    {
+      "added_at": "2023-02-10 12:28:24",
+      "album": {
         "name": "Bom \u00c9 Estarmos Aqui",
         "url": "https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb"
       },
@@ -1015,42 +1067,6 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
-        "name": "Reinflama",
-        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
-      },
-      "artists": [
-        {
-          "name": "Flavinho",
-          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
-        }
-      ],
-      "duration_ms": 231796,
-      "name": "Reinflama",
-      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
-    },
-    {
-      "added_at": "2023-02-10 12:28:24",
-      "album": {
-        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-        "url": "https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi"
-      },
-      "artists": [
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 285030,
-      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-      "url": "https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn"
-    },
-    {
-      "added_at": "2023-02-10 12:28:24",
-      "album": {
         "name": "Acalma Minha Tempestade",
         "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
       },
@@ -1083,6 +1099,26 @@
       "duration_ms": 300000,
       "name": "Em Tua Presen\u00e7a",
       "url": "https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ"
+    },
+    {
+      "added_at": "2023-02-10 12:28:24",
+      "album": {
+        "name": "Lugar da Promessa",
+        "url": "https://open.spotify.com/album/0az8jmNkDgSooCY5M5SLIJ"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        },
+        {
+          "name": "Canthares",
+          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
+        }
+      ],
+      "duration_ms": 283490,
+      "name": "Lugar da Promessa",
+      "url": "https://open.spotify.com/track/1NLPPnEEQCbaoum7s54fBG"
     },
     {
       "added_at": "2023-02-10 12:28:24",
@@ -1159,42 +1195,6 @@
       "duration_ms": 238478,
       "name": "O Sagrado Que H\u00e1 Aqui",
       "url": "https://open.spotify.com/track/2YBFupp0OR2HpD0rncxpc6"
-    },
-    {
-      "added_at": "2023-03-03 03:26:44",
-      "album": {
-        "name": "Ana e Maria",
-        "url": "https://open.spotify.com/album/6jjVrZBuB3fRQmqiV9C2Jp"
-      },
-      "artists": [
-        {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
-        }
-      ],
-      "duration_ms": 229320,
-      "name": "Ana e Maria",
-      "url": "https://open.spotify.com/track/6Z5u1AKPvXMtIJaKah0KeM"
-    },
-    {
-      "added_at": "2023-02-10 12:28:24",
-      "album": {
-        "name": "Lugar da Promessa",
-        "url": "https://open.spotify.com/album/0az8jmNkDgSooCY5M5SLIJ"
-      },
-      "artists": [
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        },
-        {
-          "name": "Canthares",
-          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
-        }
-      ],
-      "duration_ms": 283490,
-      "name": "Lugar da Promessa",
-      "url": "https://open.spotify.com/track/1NLPPnEEQCbaoum7s54fBG"
     },
     {
       "added_at": "2023-02-10 12:28:24",

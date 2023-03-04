@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-92 songs - 6 hr 48 min
+93 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Stack'o Lee Blues](https://open.spotify.com/track/2Zq0eKS6p2SfpbIX35SKd8) | [Steinar Albrigtsen](https://open.spotify.com/artist/2qRjrCuBQJqlU8Nwb92kao) | [Stripped](https://open.spotify.com/album/5kLdtZs98YIz2KPULtheEg) | 2:29 | 2022-07-13 |  |
 | [Still Blue](https://open.spotify.com/track/2ZoFDmNwXTSK3zgOayk63v) | [Long John Hunter](https://open.spotify.com/artist/7z5ixtgDexP9ffmFvFoRlW) | [Ride With Me](https://open.spotify.com/album/5coZhDRNQ6Tntf3EVbmCDk) | 7:02 | 2022-07-13 |  |
 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 | 2022-07-13 |  |
+| [The Man Wants Me Dead](https://open.spotify.com/track/7xANX2a9g4UJihLHe6YfTm) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [Byther Smith in Europe Vol\. 2](https://open.spotify.com/album/4kRwRVPeQcELa0zHTczVPx) | 5:01 | 2023-03-03 |  |
 | [The Natural Facts](https://open.spotify.com/track/6xDQ3GKPIfNDZ8QoZdQ2SX) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [We're Listening to Sister Rosetta Tharpe, Vol\. 2](https://open.spotify.com/album/3AahaKw3G98axWbYmf8Rmb) | 3:16 | 2022-08-18 |  |
 | [The Sky Is Crying](https://open.spotify.com/track/3sMAzJIN9ruG2Nhf07FJeU) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 4:00 | 2022-07-13 |  |
 | [The Thrill Is Gone](https://open.spotify.com/track/0cfwfMpxXwA36einrkgRcD) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Grandes Temazos: Blues](https://open.spotify.com/album/4gXvc3NifLO9FboTiRyf0b) | 5:01 | 2022-10-14 | 2022-11-13 |

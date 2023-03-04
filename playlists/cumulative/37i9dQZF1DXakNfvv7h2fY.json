@@ -1521,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "These Are The Blues",
+        "url": "https://open.spotify.com/album/6eS30IzjPolEblbYlUg2j6"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391773,
+      "name": "St. Louis Blues - Live From Rome/1958",
+      "url": "https://open.spotify.com/track/1YcL56KdfZerTdSB8XtHQM"
+    },
+    {
+      "album": {
         "name": "Stumble: The Cotillion Years",
         "url": "https://open.spotify.com/album/4Ii4myWRvLobrV5Kdl9ikT"
       },
@@ -1572,6 +1590,24 @@
       "duration_ms": 231706,
       "name": "The Drifter Blues",
       "url": "https://open.spotify.com/track/7xYH9C4xkI1xIW4Juq5bf6"
+    },
+    {
+      "album": {
+        "name": "Byther Smith in Europe Vol. 2",
+        "url": "https://open.spotify.com/album/4kRwRVPeQcELa0zHTczVPx"
+      },
+      "artists": [
+        {
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301306,
+      "name": "The Man Wants Me Dead",
+      "url": "https://open.spotify.com/track/7xANX2a9g4UJihLHe6YfTm"
     },
     {
       "album": {

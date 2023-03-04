@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 189333,
       "name": "BEYAKO",
       "url": "https://open.spotify.com/track/2EAOt2do7mwO26jsPi6ayM"
@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Esa Nena",
+        "url": "https://open.spotify.com/album/245a16Mk92WlnOnpBDq0O6"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Esa Nena",
+      "url": "https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta"
+    },
+    {
+      "album": {
         "name": "Esos D\u00edas - Spotify Singles",
         "url": "https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ"
       },
@@ -742,7 +760,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 164826,
       "name": "Gato",
       "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 214468,
       "name": "No Control",
       "url": "https://open.spotify.com/track/6D7cn7VABwVTEFmUR4Kpj1"
@@ -2189,6 +2207,32 @@
     },
     {
       "album": {
+        "name": "Prisionero",
+        "url": "https://open.spotify.com/album/0xIgGjHvRZ3J7JxgiAZDUv"
+      },
+      "artists": [
+        {
+          "name": "Dahel",
+          "url": "https://open.spotify.com/artist/0B4XH6ZcrdYy0Se1a2At8B"
+        },
+        {
+          "name": "Niina Woods",
+          "url": "https://open.spotify.com/artist/5no0vqWCJVfmb98XoxWCIH"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170450,
+      "name": "Prisionero",
+      "url": "https://open.spotify.com/track/2engG3iABkqRUGSHMDr55i"
+    },
+    {
+      "album": {
         "name": "Putifina",
         "url": "https://open.spotify.com/album/308Ai2PP031Imbpr8oUPc6"
       },
@@ -2208,7 +2252,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 196800,
       "name": "Putifina",
       "url": "https://open.spotify.com/track/3gUp6IANwYGseAZZIPbs3X"
@@ -2230,6 +2274,32 @@
       "duration_ms": 192500,
       "name": "Qu\u00edtame la Ropa",
       "url": "https://open.spotify.com/track/5Ug2KohB2nlqtkmzZ9bwoI"
+    },
+    {
+      "album": {
+        "name": "Rkt",
+        "url": "https://open.spotify.com/album/3kGB4NVBhJH02h2OhW67EF"
+      },
+      "artists": [
+        {
+          "name": "Kid Moonsta",
+          "url": "https://open.spotify.com/artist/2rislViYWTnnJnNQHJ41Dy"
+        },
+        {
+          "name": "Alexis Rostro",
+          "url": "https://open.spotify.com/artist/7FDQ4723m46e8vV6URzQKE"
+        },
+        {
+          "name": "Easy Mo",
+          "url": "https://open.spotify.com/artist/76Oj47sMTbpy61tK8k81Ty"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Rkt",
+      "url": "https://open.spotify.com/track/6kunqLryu0TFabC9x798tW"
     },
     {
       "album": {
@@ -2490,7 +2560,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 212435,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/5dk1nsQ2N2zHP4HmpYIxYa"
@@ -2708,7 +2778,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 152760,
       "name": "Tranqui",
       "url": "https://open.spotify.com/track/4A8ygVU8Ot3KTW2alLZ8Eq"
@@ -2762,7 +2832,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 172166,
       "name": "Tu y Yo",
       "url": "https://open.spotify.com/track/2JDG7dkRh0Wlsn4FqQXT3Y"
@@ -2868,7 +2938,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 135792,
       "name": "Verde",
       "url": "https://open.spotify.com/track/5tze5L2cxNRp4qBTJQD94k"
@@ -2964,6 +3034,32 @@
       "duration_ms": 189152,
       "name": "Ya No Somos",
       "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+    },
+    {
+      "album": {
+        "name": "\u00d1ero Session 2",
+        "url": "https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Cris Sour",
+          "url": "https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t"
+        },
+        {
+          "name": "Zkiper Mami",
+          "url": "https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "\u00d1ero Session 2",
+      "url": "https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-232 songs - 11 hr 58 min
+233 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Loki Green Theme](https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe) | 2:24 | 2021-12-20 |  |
 | [Love Is Not Enough](https://open.spotify.com/track/7wEaPRwNN1mrDrnqZZoQ3M) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Son \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7fKZaTDLIJHlyT0yiNk2PY) | 3:21 | 2022-11-18 |  |
 | [Lovers](https://open.spotify.com/track/6fQDa0Wh4niERIF1svm3Zv) | [Isabella Summers](https://open.spotify.com/artist/3lXo0AHcUyMiTt1VCtXJmj) | [Lady Chatterley's Lover \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4RGyDHjrEYtXMRwqKBvpgy) | 1:48 | 2022-11-25 |  |
+| [Luther's Theme](https://open.spotify.com/track/7DPuAbyLW2zgtEyC5pHufG) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Luther: The Fallen Sun \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1uSLtpDg49OkNRSYihJl04) | 2:29 | 2023-03-03 |  |
 | [Main Titles](https://open.spotify.com/track/0HY36x94MbEBf0ZNw0eHsP) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Doctor Strange in the Multiverse of Madness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QDzfMs8x9fkS8vYOKnhfM) | 2:36 | 2022-07-22 |  |
 | [Main Titles](https://open.spotify.com/track/5BRpHMeMmznGplORyurX5n) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Doctor Strange in the Multiverse of Madness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0tcFS2LRXYloWu9Z4Iyrni) | 2:36 | 2022-05-06 | 2022-07-29 |
 | [Main Titles](https://open.spotify.com/track/2dssT0G1eXmqLoNIzKEuxN) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [Severance: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/6sImespZLxOQOKwbmegpcF) | 1:20 | 2022-02-18 |  |

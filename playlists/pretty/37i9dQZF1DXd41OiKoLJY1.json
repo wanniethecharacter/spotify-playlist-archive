@@ -1,6 +1,6 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: NICHIMI, Artwork: Isu Kim\n",
-  "num_followers": 53798,
+  "num_followers": 53827,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,26 @@
       "duration_ms": 203035,
       "name": "Bigla Kang Nawala",
       "url": "https://open.spotify.com/track/3dtKiaSfjbbzRyMQ4IVYKr"
+    },
+    {
+      "added_at": "2023-03-02 16:06:15",
+      "album": {
+        "name": "Panig",
+        "url": "https://open.spotify.com/album/1VwtWqX40kRWFMmHmKEqMN"
+      },
+      "artists": [
+        {
+          "name": "Zyrus Gonzalvo",
+          "url": "https://open.spotify.com/artist/54SktmFr8sMHqp1nQ9FIvN"
+        },
+        {
+          "name": "David Amarillo",
+          "url": "https://open.spotify.com/artist/2YJOOuuXBLdG1ZKOzsxTxO"
+        }
+      ],
+      "duration_ms": 191846,
+      "name": "Panig",
+      "url": "https://open.spotify.com/track/3OSi0DpXKd3VTKXVMEWGWL"
     },
     {
       "added_at": "2023-03-02 16:06:15",
@@ -379,6 +399,42 @@
       "duration_ms": 248006,
       "name": "Last Ride",
       "url": "https://open.spotify.com/track/44PZvh7PhQrT1UoEDX3n61"
+    },
+    {
+      "added_at": "2023-03-02 16:06:15",
+      "album": {
+        "name": "Sa Tabi Mo",
+        "url": "https://open.spotify.com/album/70cCnHYgLIm6xzQUaeVuXg"
+      },
+      "artists": [
+        {
+          "name": "Dope Martin",
+          "url": "https://open.spotify.com/artist/2Nc4GB6tlfba0c7bz4w0Fm"
+        },
+        {
+          "name": "Bomb D",
+          "url": "https://open.spotify.com/artist/141ZQ4nlfc0tiPJr5aKldm"
+        },
+        {
+          "name": "Jr Crown",
+          "url": "https://open.spotify.com/artist/3r0NbTTxtCBUyxcIR4prXr"
+        },
+        {
+          "name": "Nck Deezy",
+          "url": "https://open.spotify.com/artist/5hCMRViq2AR0rGRTcHt6se"
+        },
+        {
+          "name": "J-Lhutz",
+          "url": "https://open.spotify.com/artist/3MhYiSeVRGOOMTxN6Inp9O"
+        },
+        {
+          "name": "Thome",
+          "url": "https://open.spotify.com/artist/0TlpoVBa03V0XNXBq7Gjrh"
+        }
+      ],
+      "duration_ms": 297696,
+      "name": "Sa Tabi Mo",
+      "url": "https://open.spotify.com/track/70YZrayXru0eCca0xSLDG6"
     },
     {
       "added_at": "2023-03-02 16:06:15",

@@ -381,6 +381,28 @@
     },
     {
       "album": {
+        "name": "Eu Nunca Fui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H4aDTT9MmDdYCkrwiczJf"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        },
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162260,
+      "name": "Eu Nunca Fui - Ao Vivo",
+      "url": "https://open.spotify.com/track/3gqzwytSXoWI8xgRloB6WL"
+    },
+    {
+      "album": {
         "name": "Facas (Ao Vivo)",
         "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
       },
@@ -490,7 +512,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 298506,
       "name": "Jeito De Mato",
       "url": "https://open.spotify.com/track/69Ui5HCL3ckbnnwtnZoGRo"

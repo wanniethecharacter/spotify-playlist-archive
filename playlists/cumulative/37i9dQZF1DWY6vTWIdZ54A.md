@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-269 songs - 15 hr 44 min
+270 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 | 2022-06-17 |  |
 | [Lo/Hi](https://open.spotify.com/track/77MbZsDaKvJEizcU36WnMu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Go / Eagle Birds / Lo/Hi](https://open.spotify.com/album/09hrL0Pk3gObwTh2MIAGaG) | 2:57 | 2020-12-11 | 2022-07-29 |
 | [Loose Ends](https://open.spotify.com/track/2tyb5TSxnb2QjkuVEhd3Do) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Loose Ends](https://open.spotify.com/album/1N5dnmGRZ54m8LeQ4kCajv) | 2:40 | 2022-06-17 | 2022-12-06 |
-| [Loose Ends](https://open.spotify.com/track/4rZaSU1gqk7zkywTDqxGeX) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Loose Ends](https://open.spotify.com/album/47kuTI9HG6YuOBMhyIe3qQ) | 2:40 | 2020-12-11 |  |
+| [Loose Ends](https://open.spotify.com/track/4rZaSU1gqk7zkywTDqxGeX) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Loose Ends](https://open.spotify.com/album/47kuTI9HG6YuOBMhyIe3qQ) | 2:40 | 2020-12-11 | 2023-03-04 |
+| [Loose Ends \- Radio Edit](https://open.spotify.com/track/6qKxLKqfiLKTcnTQxIXBva) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Loose Ends \(Radio Edit\)](https://open.spotify.com/album/3mNJPx19RmB65BNihohd4M) | 2:40 | 2022-10-07 |  |
 | [Love Is All You Love](https://open.spotify.com/track/23yFGudxXhWkEP0DQDiYgB) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Love Is All You Love](https://open.spotify.com/album/5vo1GaBWX1gtv5xKobictw) | 3:22 | 2022-06-17 | 2022-11-05 |
 | [Love Is All You Love](https://open.spotify.com/track/26NeDcBDtSOsdwYjGO9Mrl) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Love Is All You Love](https://open.spotify.com/album/2wPUZq7cmmqMMchtCMgJSO) | 3:22 | 2020-12-11 | 2022-07-29 |
 | [Love Is All You Love](https://open.spotify.com/track/5ar90tHObtxTUQqshxOJhz) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Love Is All You Love](https://open.spotify.com/album/2XbzGim2SCxpbVL1N9eqkE) | 3:22 | 2022-10-07 | 2022-11-13 |

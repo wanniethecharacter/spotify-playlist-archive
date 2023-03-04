@@ -1,13 +1,69 @@
 {
-  "description": "All new, all blues. Cover: Eric Bibb",
-  "num_followers": 129056,
+  "description": "All new, all blues. Cover: Samantha Fish",
+  "num_followers": 129112,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGM1OTNjNTRhYzNlYTA3MWYwZDkwZDgzZmU5NmM1N2Nk",
+  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMGZkZGUyMGExMzY4MmEyNGY4OTdlYTU4OGU3MWIxMTg0",
   "tracks": [
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Deathwish",
+        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        },
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/70uWPKRSwkmkYO2s33tzZP"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 323280,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/6TU5CaJ68BaVZ2BLvhgOmO"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Traveling Medicine Man",
+        "url": "https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l"
+      },
+      "artists": [
+        {
+          "name": "Bai Kamara Jr",
+          "url": "https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi"
+        },
+        {
+          "name": "The Voodoo Sniffers",
+          "url": "https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C"
+        }
+      ],
+      "duration_ms": 157226,
+      "name": "Shake It, Shake It, Shake It",
+      "url": "https://open.spotify.com/track/5qZHahQTxspNvpQ5IvhLPA"
+    },
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
@@ -45,6 +101,26 @@
       "url": "https://open.spotify.com/track/5Tm0VqSqqqNwZUVQuwVbkG"
     },
     {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Roddie Romero",
+          "url": "https://open.spotify.com/artist/5IG6Wzebie6bXLY5llyQAq"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Cuttin' In",
+      "url": "https://open.spotify.com/track/4mmUSRPppHYZFzNSDuz59U"
+    },
+    {
       "added_at": "2023-02-17 05:01:00",
       "album": {
         "name": "I Feel The Love",
@@ -59,22 +135,6 @@
       "duration_ms": 179933,
       "name": "I Feel The Love",
       "url": "https://open.spotify.com/track/67eYI9jbt7DZQgKfo7A2Kg"
-    },
-    {
-      "added_at": "2023-02-13 19:57:28",
-      "album": {
-        "name": "I've Got To Use My Imagination",
-        "url": "https://open.spotify.com/album/7DFRVqlqE7AntflxrFCdIe"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 305773,
-      "name": "I've Got To Use My Imagination",
-      "url": "https://open.spotify.com/track/2kChTanSYKMIRwE4rvHS4a"
     },
     {
       "added_at": "2023-02-13 19:57:28",
@@ -139,6 +199,38 @@
       "duration_ms": 189104,
       "name": "Nelson's Blood",
       "url": "https://open.spotify.com/track/2eq0XUQt3n6IvnDmnmhLit"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Two Plus Two Is Five",
+        "url": "https://open.spotify.com/album/43SQsyna8h0sWhlwQWIRNy"
+      },
+      "artists": [
+        {
+          "name": "Jon Kenzie",
+          "url": "https://open.spotify.com/artist/31eXvMCHf7z4m5IzsZmVKA"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Two Plus Two Is Five",
+      "url": "https://open.spotify.com/track/5IUlrVdOqBxaNbMgFFTgMC"
+    },
+    {
+      "added_at": "2023-02-13 19:57:28",
+      "album": {
+        "name": "I've Got To Use My Imagination",
+        "url": "https://open.spotify.com/album/7DFRVqlqE7AntflxrFCdIe"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 305773,
+      "name": "I've Got To Use My Imagination",
+      "url": "https://open.spotify.com/track/2kChTanSYKMIRwE4rvHS4a"
     },
     {
       "added_at": "2023-01-13 05:01:00",

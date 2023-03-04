@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 60396,
+  "num_followers": 60447,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDA0NzY0ZWFjZjFkZDc5ZmI3MmM2MjM3YTAyNjQyZWRl",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDNjNzExZmQxMTI2N2ZkOWE3ZDhkYzM2ZjQ3YjUxOWVk",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "TyrTape (Deluxe)",
-        "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "Natnael",
-          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
-        }
-      ],
-      "duration_ms": 200168,
-      "name": "I Blodet (feat. Natnael)",
-      "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 176760,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "TyrTape (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Natnael",
+          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
+        }
+      ],
+      "duration_ms": 200168,
+      "name": "I Blodet (feat. Natnael)",
+      "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1523,6 +1523,30 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) [Remix]",
+        "url": "https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) - Remix",
+      "url": "https://open.spotify.com/track/6G0XqXVBx2PHaOrSuHaWP0"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O"
       },
@@ -1583,30 +1607,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) [Remix]",
-        "url": "https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 211707,
-      "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) - Remix",
-      "url": "https://open.spotify.com/track/6G0XqXVBx2PHaOrSuHaWP0"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X"
       },
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 195572,
-      "name": "21",
-      "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Sympati For Djevelen",
-        "url": "https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r"
+        "name": "21",
+        "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
       },
       "artists": [
         {
-          "name": "L.U:N.A",
-          "url": "https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 183692,
-      "name": "Sympati For Djevelen",
-      "url": "https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W"
+      "duration_ms": 195572,
+      "name": "21",
+      "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Sympati For Djevelen",
+        "url": "https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r"
+      },
+      "artists": [
+        {
+          "name": "L.U:N.A",
+          "url": "https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "Sympati For Djevelen",
+      "url": "https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l"
       },
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Aint Nobody",
-        "url": "https://open.spotify.com/album/3XZZMtIe6rGbp1SzK1NEBH"
+        "name": "Who Do You Pray To?",
+        "url": "https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z"
       },
       "artists": [
         {
-          "name": "EHI",
-          "url": "https://open.spotify.com/artist/7MlrqHRXsNIKRC17Dv5a0v"
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         }
       ],
-      "duration_ms": 179552,
-      "name": "Aint Nobody",
-      "url": "https://open.spotify.com/track/6pgdA6IkrWeDL5A4RsgbZJ"
+      "duration_ms": 189092,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW"
     }
   ],
   "unique_name": "Laid Back Beats",

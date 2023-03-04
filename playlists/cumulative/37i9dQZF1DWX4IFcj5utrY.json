@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX?si=LWnK5nKhR3i6uUX31JAtNA\">Skrillex</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR?si=Cj1uJgn0RxqmSp7PPC_9YA\">Dwson</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 153750,
       "name": "A Milli - SIDEPIECE Remix",
       "url": "https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 496015,
       "name": "Airy Stroll",
       "url": "https://open.spotify.com/track/3euMvuHJCud6240KV1Jxqf"
@@ -1039,6 +1039,28 @@
     },
     {
       "album": {
+        "name": "Alone at Last",
+        "url": "https://open.spotify.com/album/5jFzGRe69KTIH3OS7p7ZyE"
+      },
+      "artists": [
+        {
+          "name": "Mark Stent",
+          "url": "https://open.spotify.com/artist/2whiBQzZUS6fMkfOCqzXWS"
+        },
+        {
+          "name": "DSB",
+          "url": "https://open.spotify.com/artist/4zMYJFMNR4K69sAMJiVBQK"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283399,
+      "name": "Alone at Last - Extended Mix",
+      "url": "https://open.spotify.com/track/2w442q66slN1JJFgnPgaXh"
+    },
+    {
+      "album": {
         "name": "Aluwawa",
         "url": "https://open.spotify.com/album/6OubVm75TyVLmi56fg59L1"
       },
@@ -1220,6 +1242,32 @@
       "duration_ms": 235797,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1CRYG96CwRWvOjM4Vd6cBm"
+    },
+    {
+      "album": {
+        "name": "Amazwe",
+        "url": "https://open.spotify.com/album/7IfMgn8QQ7GSVJTAuXJRmO"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Esposito",
+          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
+        },
+        {
+          "name": "Claudia Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0n6py2ZuBUL7f2qYjaAUTh"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440655,
+      "name": "Amazwe",
+      "url": "https://open.spotify.com/track/5oXLWzm5AFy5EJp9UqYk7y"
     },
     {
       "album": {
@@ -2030,6 +2078,28 @@
       "duration_ms": 169606,
       "name": "Bel Mercy",
       "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
+    },
+    {
+      "album": {
+        "name": "Bel Mercy (El Jefe)",
+        "url": "https://open.spotify.com/album/326nCfRJ9TptcxiBn8cx0q"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170078,
+      "name": "Bel Mercy (El Jefe)",
+      "url": "https://open.spotify.com/track/1U5vRpy8n7K1rq2e3HOBA0"
     },
     {
       "album": {
@@ -4629,6 +4699,36 @@
     },
     {
       "album": {
+        "name": "Every Cloud - Silver Linings",
+        "url": "https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        },
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190609,
+      "name": "Feels This Good",
+      "url": "https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep"
+    },
+    {
+      "album": {
         "name": "Femme Tech",
         "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
       },
@@ -5623,6 +5723,32 @@
     },
     {
       "album": {
+        "name": "Hungry Heart ft. Hayley Kiyoko",
+        "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182918,
+      "name": "Hungry Heart ft. Hayley Kiyoko",
+      "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
+    },
+    {
+      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/64M42gm41sHwrLeTB3XSKU"
       },
@@ -5832,7 +5958,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 244475,
       "name": "I Need You - TiMO\u2019s Dark Room Remix",
       "url": "https://open.spotify.com/track/3FDfqOXIiNBh0cwP7d4THQ"
@@ -6849,6 +6975,32 @@
     },
     {
       "album": {
+        "name": "It Is Well",
+        "url": "https://open.spotify.com/album/7nom4Vze0mmtc6e0HcKzYa"
+      },
+      "artists": [
+        {
+          "name": "Senior Oat",
+          "url": "https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw"
+        },
+        {
+          "name": "Oliphant Gold",
+          "url": "https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV"
+        },
+        {
+          "name": "Romeo ThaGreatwhite",
+          "url": "https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430301,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/3SajhWMnXhX2RaLeEdqXHq"
+    },
+    {
+      "album": {
         "name": "Its Possible",
         "url": "https://open.spotify.com/album/2bB7pKxLneo17ZT0fmrl6q"
       },
@@ -7747,6 +7899,28 @@
     },
     {
       "album": {
+        "name": "Lemon Faces",
+        "url": "https://open.spotify.com/album/1M5g82zqhMf6dyPlXK4uTR"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Simeon",
+          "url": "https://open.spotify.com/artist/5R42oko4xV2U7uqlZXbzqk"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440665,
+      "name": "Lemon Faces",
+      "url": "https://open.spotify.com/track/7of28alHeINPGFzuOHxwqa"
+    },
+    {
+      "album": {
         "name": "Les Gout",
         "url": "https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV"
       },
@@ -8526,7 +8700,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 251924,
       "name": "Make You Cry",
       "url": "https://open.spotify.com/track/4z7GaivspHZr23ADtT5WGb"
@@ -8918,6 +9092,32 @@
       "duration_ms": 432000,
       "name": "Meropa Ya Africa",
       "url": "https://open.spotify.com/track/0J76Sk8GOvOFWT3L49fRss"
+    },
+    {
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153109,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy"
     },
     {
       "album": {
@@ -10542,7 +10742,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 244337,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0"
@@ -10732,7 +10932,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 373880,
       "name": "Penga",
       "url": "https://open.spotify.com/track/0XZdmssdQLywM1eKPYSg5q"
@@ -11294,7 +11494,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
@@ -11961,7 +12161,7 @@
     },
     {
       "album": {
-        "name": "Shades Of Love (feat. The Joy) [Edit]",
+        "name": "Shades Of Love (feat. The Joy)",
         "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
       },
       "artists": [
@@ -11978,7 +12178,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203520,
-      "name": "Shades Of Love (feat. The Joy) - Edit",
+      "name": "Shades Of Love (feat. The Joy)",
       "url": "https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK"
     },
     {
@@ -12622,7 +12822,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
@@ -13084,7 +13284,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 157619,
       "name": "Sweet Goodbye",
       "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
@@ -13140,6 +13340,24 @@
       "duration_ms": 426043,
       "name": "Take It All ( Miza & Regalo Joints Revisit )",
       "url": "https://open.spotify.com/track/3CxEFsiqDPFqGyVjGogrKB"
+    },
+    {
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179528,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
     },
     {
       "album": {
@@ -13548,7 +13766,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 256350,
       "name": "The Freaks",
       "url": "https://open.spotify.com/track/1cTHUMdInmZvxVCHnzHOj2"
@@ -14470,7 +14688,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 241391,
       "name": "Ubomi Umzamo",
       "url": "https://open.spotify.com/track/2L5JfERa3VxgMAj93Q4gT4"
@@ -15454,7 +15672,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 157750,
       "name": "What a Night",
       "url": "https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l"
@@ -15506,6 +15724,28 @@
       "duration_ms": 452682,
       "name": "When The Love Is Over - Booker T Main Mix",
       "url": "https://open.spotify.com/track/7kUo6r8Oiqna1fktWGEFCw"
+    },
+    {
+      "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
       "album": {
@@ -15726,6 +15966,32 @@
       "duration_ms": 150483,
       "name": "Work With My Love",
       "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
+    },
+    {
+      "album": {
+        "name": "Work With My Love (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/1znzrG6vxiOtg8ssTB08Y1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197630,
+      "name": "Work With My Love - Mark Knight Remix",
+      "url": "https://open.spotify.com/track/7yQ8jRAYwfODVbAfX4cVY7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-190 songs - 15 hr 11 min
+194 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dark Green](https://open.spotify.com/track/4leNLyb6fZZPzMZd40lkcv) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:46 | 2021-12-22 |  |
 | [Dawn](https://open.spotify.com/track/2CtGXLSiPIJiGCwcqlp6oT) | [The Green Kingdom](https://open.spotify.com/artist/4EOmRRSrO3mMPt9W4knkJO) | [Residence on Earth](https://open.spotify.com/album/2E93vwKg4VcQZaN8fBKaWB) | 2:48 | 2021-12-22 |  |
 | [Deep Blue](https://open.spotify.com/track/66XGxK7oj3XzAkhVbqSYpb) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Deep Blue](https://open.spotify.com/album/0iqpQ0FHOu8oFzmRyFuVtZ) | 3:15 | 2022-08-17 |  |
+| [Deep Creek \(Autumn, 2.33pm\) \- 528hz Meditation](https://open.spotify.com/track/6C1JNqeXFWlAiZc4G42ia1) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Awake Within The Dream: Sound Meditations, Vol\. 1](https://open.spotify.com/album/08NsoOBj6S7PfCp7sGDNPL) | 9:28 | 2023-03-03 |  |
 | [Deep into the Forest](https://open.spotify.com/track/31sRH2Vd8KGFIDh9iGUDYu) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Deep into the Forest](https://open.spotify.com/album/1TMbC7L4WVsVwQGqI4ynhe) | 3:42 | 2022-04-08 |  |
 | [Deep Slope](https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/6Odd0pQof21z3lkmu1ncZz) | 6:43 | 2021-12-22 | 2023-01-07 |
 | [Deep Slope](https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/5iAC5AAza3lS6gUIpCuz6N) | 6:43 | 2023-01-06 |  |
@@ -130,6 +131,7 @@
 | [Sanctuary](https://open.spotify.com/track/2PQTnZLzgd4V0oU9zgcTOW) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Gaia](https://open.spotify.com/album/1w0K1wopsGPYTArqdmilZe) | 5:05 | 2021-12-22 |  |
 | [Seagull](https://open.spotify.com/track/56rWZXYQEhqg2IamYjFf50) | [Eyolf](https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8) | [Seagull](https://open.spotify.com/album/3xQ4jTZ7uzPxq3wQNfRlBN) | 3:33 | 2022-10-10 |  |
 | [Self Empathy 2](https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Self Empathy 2](https://open.spotify.com/album/53IJTj3ETsfT3W9I45aS53) | 3:52 | 2022-09-23 |  |
+| [Severia](https://open.spotify.com/track/2S04d3ml7kEmy7jebqJQa3) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY) | [Severia](https://open.spotify.com/album/6TfLDIkN36UlY6eCQd0bYF) | 5:49 | 2023-03-03 |  |
 | [Shape of a Dream \- Sound Bath](https://open.spotify.com/track/3h58Vv1UpPgP88s0zh4OTs) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Shape of a Dream](https://open.spotify.com/album/4wJXcvFwAEyMVWIW08znpO) | 4:04 | 2022-03-10 |  |
 | [Shuswap Lake](https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO) | 2:53 | 2022-12-20 |  |
 | [Signals](https://open.spotify.com/track/3dmgdlknLnVte97AURFYyf) | [Marcus Woods](https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4) | [Signals](https://open.spotify.com/album/7C7WpnmXw6RufxybdZbZlS) | 2:46 | 2021-12-22 | 2023-01-09 |
@@ -155,6 +157,7 @@
 | [Still Can't Believe It](https://open.spotify.com/track/2dwgDe9pLWHpvN9P5EfJck) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 6:36 | 2021-12-22 | 2023-01-07 |
 | [Still Can't Believe It](https://open.spotify.com/track/4w6rWET91A9I60yxIIj7JK) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Still Can't Believe It](https://open.spotify.com/album/6aAsZCWURrnpmOdEgS6kqm) | 6:36 | 2023-01-06 |  |
 | [Submerged](https://open.spotify.com/track/0bXpbgKZkhqwybPJRWnmsh) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Submerged](https://open.spotify.com/album/5Jl7bueg0pYDWJHwyZ0hNE) | 3:09 | 2022-05-06 |  |
+| [Sun Circles](https://open.spotify.com/track/1UMI3TroileWxYu2w9Bsyj) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Nurture](https://open.spotify.com/album/4WQb42nbRxkEVmN00DMe2A) | 4:56 | 2023-03-03 |  |
 | [Sunfloating](https://open.spotify.com/track/3P6VlV6UjMr5qg78tzzU9P) | [Mount Shrine](https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr) | [Southeast Limits](https://open.spotify.com/album/12EWdR1T4nbITFaL5pmXUe) | 5:55 | 2022-05-18 |  |
 | [Swan and Morning Dews](https://open.spotify.com/track/2Ox800jaDGqxFW1KoDYE3N) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Stories](https://open.spotify.com/album/6bOC2AtibqcjwP1OOHHOTD) | 4:16 | 2021-12-22 |  |
 | [Take Me by the Hand \(36 After Dark Version\)](https://open.spotify.com/track/6LIqC6EASRPcMetiXt42H4) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT), [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [The Other Side of Darkness](https://open.spotify.com/album/0Tdcm7f0lANH7EwD6p7c8k) | 3:47 | 2021-12-22 |  |
@@ -180,6 +183,7 @@
 | [Watching](https://open.spotify.com/track/2CaTZJybDGdmBZnVs0XhRz) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 5:06 | 2021-12-22 | 2023-01-07 |
 | [Watching](https://open.spotify.com/track/7qkQx9OPb79y6wEUCLF4ZK) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Watching](https://open.spotify.com/album/2UV9tLIX2ggRee6dFlZWH5) | 5:06 | 2023-01-06 |  |
 | [Water Ambience](https://open.spotify.com/track/4zdG6S7zNU9NGZo46xbokP) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Water Ambience](https://open.spotify.com/album/7F649VWGjzdAhj7KzXtopc) | 2:37 | 2022-12-20 |  |
+| [Water Door \- Array Mbira Version](https://open.spotify.com/track/6tC9CjVTcJhbypDgVBFcFM) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Water Door \(Array Mbira Version\)](https://open.spotify.com/album/19MRcAil1ndwzXSC0y5jfs) | 3:50 | 2023-03-03 |  |
 | [Welcome to the Four Seasons](https://open.spotify.com/track/6peg5yFyQ1sCwT8zZ9bQwg) | [Martin Glass](https://open.spotify.com/artist/4Icvm8wrj4Btq3O7FHJJZd) | [The Pacific Visions of Martin Glass](https://open.spotify.com/album/1u45eCsl1EhMCVpOzNW8Si) | 1:46 | 2021-12-22 |  |
 | [Whales](https://open.spotify.com/track/4iZyoZ5YJtKtgOeDoU5HF0) | [Tsugi\-Hagi](https://open.spotify.com/artist/0bEvPjEKvNenhsbb5G1Dsf), [Republyric](https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP) | [Whales](https://open.spotify.com/album/4ygVI4fHfhfECUPwVy75ZP) | 3:23 | 2023-01-16 |  |
 | [What If](https://open.spotify.com/track/6Ze6f6eCLCSbxuTHtwyC68) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [What If](https://open.spotify.com/album/3LbiSkkcnKQHE8l69UpMFr) | 3:14 | 2021-12-22 |  |

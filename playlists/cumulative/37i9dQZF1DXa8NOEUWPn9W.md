@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring The Blessed Madonna.
 
-509 songs - 1 day 8 hr 22 min
+510 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,7 @@
 | [Set U Free](https://open.spotify.com/track/0m69QNuZVZDXhGHBGK1mQA) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Set U Free](https://open.spotify.com/album/79A3D20E7zPX5MmXPYBuDb) | 2:34 | 2021-04-10 | 2022-04-21 |
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-03-28 | 2023-02-26 |
 | [Sextacy](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sextacy](https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6) | 2:33 | 2022-01-14 | 2022-12-29 |
-| [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\) \[Edit\]](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-02-24 |  |
+| [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-02-24 |  |
 | [Shake My Booty](https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Shake My Booty](https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi) | 3:22 | 2022-07-01 | 2022-10-29 |
 | [Shaolin Dreams](https://open.spotify.com/track/2sGFufjNzWIVBp5vRR7Sgm) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Shaolin Dreams](https://open.spotify.com/album/43xx4WgDHH1gCUVdDZoiq5) | 4:28 | 2021-07-31 | 2022-04-18 |
 | [Show Me \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Show Me \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/21aMLKMyG5sZZPTBswkYuQ) | 2:57 | 2023-02-24 |  |
@@ -432,6 +432,7 @@
 | [Talamanca \- Carl Cox Remix](https://open.spotify.com/track/4aFUd8Kilk401OLNMugJDg) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Talamanca \(Carl Cox Remix\)](https://open.spotify.com/album/4UWvyZcVY2xOzXoWOetaSA) | 4:35 | 2022-05-06 | 2022-07-29 |
 | [Talamanca \- Cristoph Remix](https://open.spotify.com/track/1u2jnokwA7wxow0gZ64Fvh) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [Talamanca \(Cristoph Remix\)](https://open.spotify.com/album/45Fa5rLxwZavjbryzJ84wx) | 7:01 | 2021-09-18 | 2022-07-27 |
 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2021-05-15 | 2021-09-18 |
+| [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 | 2023-03-03 |  |
 | [Talk To Me](https://open.spotify.com/track/6uABa7vKOgFqXnwvk8NBr5) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Talk To Me](https://open.spotify.com/album/7wqh8TtbHufeZmxvsXURsn) | 3:23 | 2021-03-27\* | 2021-06-27 |
 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 | 2022-06-24 | 2023-01-06 |
 | [Tamo Loco](https://open.spotify.com/track/19EwqyuwH4Na6bnOlIe3O0) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Tamo Loco](https://open.spotify.com/album/0vsLnW41TjwuMgZI9kd0zA) | 2:40 | 2022-07-01 | 2022-10-01 |
@@ -516,6 +517,6 @@
 | [Your Time Is Up](https://open.spotify.com/track/1SEBehSYYCuADY6kf3CHlP) | [Will Saul](https://open.spotify.com/artist/3qtVupTIjHwH8BLBZXog53), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Your Time Is Up](https://open.spotify.com/album/1mdWoDfUJKc826S55ivBjL) | 3:13 | 2021-03-27\* | 2021-04-10 |
 | [Yurican Soul](https://open.spotify.com/track/3wWRDze2BT30T2fEaSB5nQ) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Yurican Soul](https://open.spotify.com/album/4BctqbnS16FdzjMKu1bmvJ) | 4:04 | 2021-04-24 | 2021-06-12 |
 | [Zero](https://open.spotify.com/track/7hlbz0g2tpoBTPvLLEWKWR) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Zero](https://open.spotify.com/album/6dSzlxCbme1w6B16PX5KON) | 3:11 | 2021-03-27\* | 2022-04-21 |
-| [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 | 2022-09-02 |  |
+| [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 | 2022-09-02 | 2023-03-04 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

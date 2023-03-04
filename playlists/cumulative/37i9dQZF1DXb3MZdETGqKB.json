@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All new, all blues. Cover: Eric Bibb",
+  "description": "All new, all blues. Cover: Samantha Fish",
   "name": "Nu-Blue",
   "tracks": [
     {
@@ -781,6 +781,28 @@
     },
     {
       "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Roddie Romero",
+          "url": "https://open.spotify.com/artist/5IG6Wzebie6bXLY5llyQAq"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Cuttin' In",
+      "url": "https://open.spotify.com/track/4mmUSRPppHYZFzNSDuz59U"
+    },
+    {
+      "album": {
         "name": "Darkness I Feel",
         "url": "https://open.spotify.com/album/1kANdOqNzn3Ua5rKRezSFj"
       },
@@ -796,6 +818,28 @@
       "duration_ms": 191973,
       "name": "Darkness I Feel",
       "url": "https://open.spotify.com/track/43haQPyxARYypn8u8ocsym"
+    },
+    {
+      "album": {
+        "name": "Deathwish",
+        "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        },
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
     },
     {
       "album": {
@@ -2369,6 +2413,24 @@
     },
     {
       "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/70uWPKRSwkmkYO2s33tzZP"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323280,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/6TU5CaJ68BaVZ2BLvhgOmO"
+    },
+    {
+      "album": {
         "name": "Riding Out The Storm",
         "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
       },
@@ -2544,6 +2606,28 @@
       "duration_ms": 201626,
       "name": "See the Moon (featuring Lamar Williams Jr. and Sharisse Norman)",
       "url": "https://open.spotify.com/track/7JD8dY7gEQEArHha4Qar6B"
+    },
+    {
+      "album": {
+        "name": "Traveling Medicine Man",
+        "url": "https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l"
+      },
+      "artists": [
+        {
+          "name": "Bai Kamara Jr",
+          "url": "https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi"
+        },
+        {
+          "name": "The Voodoo Sniffers",
+          "url": "https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157226,
+      "name": "Shake It, Shake It, Shake It",
+      "url": "https://open.spotify.com/track/5qZHahQTxspNvpQ5IvhLPA"
     },
     {
       "album": {
@@ -3288,6 +3372,24 @@
       "duration_ms": 217059,
       "name": "Trudoo",
       "url": "https://open.spotify.com/track/4Sn5zo5BXRhMp54m20sQNg"
+    },
+    {
+      "album": {
+        "name": "Two Plus Two Is Five",
+        "url": "https://open.spotify.com/album/43SQsyna8h0sWhlwQWIRNy"
+      },
+      "artists": [
+        {
+          "name": "Jon Kenzie",
+          "url": "https://open.spotify.com/artist/31eXvMCHf7z4m5IzsZmVKA"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Two Plus Two Is Five",
+      "url": "https://open.spotify.com/track/5IUlrVdOqBxaNbMgFFTgMC"
     },
     {
       "album": {

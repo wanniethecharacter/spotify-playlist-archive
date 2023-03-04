@@ -2,7 +2,7 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Zlatan & Seyi Vibez
+> The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Seyi Vibes, BNXN, Kizz Daniel
 
 89 songs - 4 hr 18 min
 

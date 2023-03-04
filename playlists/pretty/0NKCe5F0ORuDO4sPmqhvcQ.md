@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,089 likes - 124 songs - 7 hr 7 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,088 likes - 130 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,11 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 122 | [Only 1 Trying](https://open.spotify.com/track/0BSHtzrgWBgw19hgZncNEl) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Only 1 Trying](https://open.spotify.com/album/15uWvQD5fCOjeBFn9Bu6sP) | 2:27 |
 | 123 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
 | 124 | [Baby from Atlanta](https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Baby from Atlanta](https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc) | 3:19 |
+| 125 | [Thirst \- Hex Cougar Remix](https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Thirst \(Hex Cougar Remix\)](https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd) | 3:24 |
+| 126 | [COLD](https://open.spotify.com/track/5nNgbJyYK0sBjvIW97FWUu) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 3:56 |
+| 127 | [CIRCLES](https://open.spotify.com/track/6cVx6IHckQGUv84Y6RviFC) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 4:34 |
+| 128 | [NO TIME](https://open.spotify.com/track/3iuznCnL4DnWnElyIqJ5CR) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 4:04 |
+| 129 | [BLUE LIGHT](https://open.spotify.com/track/2blHAJSeclS036DmrQxOvE) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 4:42 |
+| 130 | [Falling In Love](https://open.spotify.com/track/1qkGT5wBhfWwbbHtkm2GMZ) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [Falling In Love](https://open.spotify.com/album/4RM7dK7ScgLW1UG1k8kInQ) | 3:25 |
 
-Snapshot ID: `MTAyMzcsYjg5MGNlZWVkM2IxYzM5ODIyZDA1ZTQ1YjMwNmQ5MzE1ODc4YTU3MA==`
+Snapshot ID: `MTAyNDAsM2RiOWM5ZjNlNmNlNWIxYzlkMmFmZWM2ZGY2ODI3YWNkMzRhYTIyMg==`

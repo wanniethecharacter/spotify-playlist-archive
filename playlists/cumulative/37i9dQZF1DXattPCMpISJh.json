@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3JBOKKRLPdZmUwLOydCBkT"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        },
+        {
+          "name": "gome",
+          "url": "https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208392,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/5ABy6tQKNoAAZfwStB0DcS"
+    },
+    {
+      "album": {
         "name": "About Damn Time (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
       },
@@ -148,7 +170,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 206440,
       "name": "Alright",
       "url": "https://open.spotify.com/track/7eesGl3Q4HJrPQ6j6DGob9"
@@ -676,7 +698,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 224640,
       "name": "Cry (Just A Little)",
       "url": "https://open.spotify.com/track/4DtxGurCuuY1yZLoAXLxFp"
@@ -1359,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "I Feel It (I Won't Let You Go)",
+        "url": "https://open.spotify.com/album/067M5Q2YATyXqd2Anm6vq6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Kuy",
+          "url": "https://open.spotify.com/artist/2XeHVui4sJccieVojHmjxW"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143109,
+      "name": "I Feel It (I Won't Let You Go)",
+      "url": "https://open.spotify.com/track/2G8OqEopVrlF41HkAhYGB0"
+    },
+    {
+      "album": {
         "name": "I Found Love",
         "url": "https://open.spotify.com/album/24YwbsdnQ76zJHuUKBDM9t"
       },
@@ -1502,6 +1542,24 @@
       "duration_ms": 233684,
       "name": "Instant Sunshine - Luke Million Remix",
       "url": "https://open.spotify.com/track/751PUhAgj41GvTjm4HOLc6"
+    },
+    {
+      "album": {
+        "name": "Is It Enough",
+        "url": "https://open.spotify.com/album/1aOGZLGCKrqd5ukZsWqygl"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Is It Enough",
+      "url": "https://open.spotify.com/track/0OZ80Lvoxxd0c0ig8O8scg"
     },
     {
       "album": {
@@ -1754,6 +1812,32 @@
       "duration_ms": 286061,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q"
+    },
+    {
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/6hd0Nf6SxuPSFbXsY9flai"
+      },
+      "artists": [
+        {
+          "name": "Shor Police",
+          "url": "https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W"
+        },
+        {
+          "name": "Clinton Cerejo",
+          "url": "https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK"
+        },
+        {
+          "name": "Bianca Gomes",
+          "url": "https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194230,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/4NbaHNlUDO4ZUHEA3bPhrG"
     },
     {
       "album": {
@@ -2486,7 +2570,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 241487,
       "name": "So Good",
       "url": "https://open.spotify.com/track/3Z2lzLWvsEcOiQshHMEXr9"
@@ -2782,7 +2866,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 184944,
       "name": "This Thing Called Life",
       "url": "https://open.spotify.com/track/633MWumcbiIslUnqr7u7XN"

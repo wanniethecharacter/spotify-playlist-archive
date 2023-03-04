@@ -476,6 +476,24 @@
     {
       "album": {
         "name": "Can't Escape",
+        "url": "https://open.spotify.com/album/64GySa6pXbUCAL7clznQjk"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218899,
+      "name": "Can't Escape",
+      "url": "https://open.spotify.com/track/5limkDdrq5YnqDU1HundyJ"
+    },
+    {
+      "album": {
+        "name": "Can't Escape",
         "url": "https://open.spotify.com/album/5EJSTSrxAHGlZS1Ar1Bhwp"
       },
       "artists": [
@@ -486,7 +504,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 218899,
       "name": "Can't Escape",
       "url": "https://open.spotify.com/track/5oqQuROoAAc3FEQ2D8svfR"
@@ -884,7 +902,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 195558,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz"
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 301400,
       "name": "Give Me",
       "url": "https://open.spotify.com/track/7p9X9NSIbJyQbPEh7JHhIT"
@@ -1200,6 +1218,28 @@
     {
       "album": {
         "name": "Gully",
+        "url": "https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt"
+      },
+      "artists": [
+        {
+          "name": "Solex",
+          "url": "https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G"
+        },
+        {
+          "name": "Fugzi",
+          "url": "https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Gully",
+      "url": "https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri"
+    },
+    {
+      "album": {
+        "name": "Gully",
         "url": "https://open.spotify.com/album/540DGYXSZ8c1MOMlxug0QQ"
       },
       "artists": [
@@ -1214,7 +1254,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 210461,
       "name": "Gully",
       "url": "https://open.spotify.com/track/4XpseHcAaQbfUugViy1oav"
@@ -2252,7 +2292,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 216893,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4HlC9ErrBHGjEDPD1YSjMe"
@@ -2358,7 +2398,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 210001,
       "name": "Perfect Crime",
       "url": "https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J"

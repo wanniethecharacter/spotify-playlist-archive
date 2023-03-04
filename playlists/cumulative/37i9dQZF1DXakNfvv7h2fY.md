@@ -4,7 +4,7 @@
 
 > Comforting Blues to warm the soul when there’s no point going outside.
 
-103 songs - 6 hr 54 min
+105 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,9 +90,11 @@
 | [Sittin' Here Thinkin](https://open.spotify.com/track/5HrztaUeeQaraA5IsBWzm6) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:07 | 2022-05-25 |  |
 | [Some Days](https://open.spotify.com/track/0pVKQAbDh1gxOlvdupeWKL) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Some Days](https://open.spotify.com/album/2vI4AE3kEFwcr8MC549MMJ) | 3:31 | 2022-05-25 | 2022-07-29 |
 | [Somewhere on a Mississippi Highway](https://open.spotify.com/track/1hHLFTBZcCob916EhXL5bs) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 5:33 | 2022-05-25 | 2022-07-29 |
+| [St\. Louis Blues \- Live From Rome/1958](https://open.spotify.com/track/1YcL56KdfZerTdSB8XtHQM) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [These Are The Blues](https://open.spotify.com/album/6eS30IzjPolEblbYlUg2j6) | 6:31 | 2023-03-03 |  |
 | [Stormy Monday](https://open.spotify.com/track/4YTye7nsIfBVvZd3StP47V) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Stumble: The Cotillion Years](https://open.spotify.com/album/4Ii4myWRvLobrV5Kdl9ikT) | 4:24 | 2022-05-25 |  |
 | [T\-Bone Blues](https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:48 | 2022-07-28 |  |
 | [The Drifter Blues](https://open.spotify.com/track/7xYH9C4xkI1xIW4Juq5bf6) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:51 | 2022-05-25 |  |
+| [The Man Wants Me Dead](https://open.spotify.com/track/7xANX2a9g4UJihLHe6YfTm) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [Byther Smith in Europe Vol\. 2](https://open.spotify.com/album/4kRwRVPeQcELa0zHTczVPx) | 5:01 | 2023-03-03 |  |
 | [There Is Always Love](https://open.spotify.com/track/7iaA4WHolgWigiQJumrlZy) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 3:33 | 2022-07-28 |  |
 | [Third Degree](https://open.spotify.com/track/4wLh7mmaN46yRMowSkGDSF) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [7936 South Rhodes](https://open.spotify.com/album/5JVki42XlStJW9uGgAXWu5) | 4:40 | 2022-05-25 |  |
 | [Three Way Party \(feat\. Mitch Kashmar & Ronnie Shellist\)](https://open.spotify.com/track/42OFBJR8sMnWVRwoPFfTbx) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Porch Sessions](https://open.spotify.com/album/1HiM9YWyFh75nasggcpRoE) | 5:09 | 2022-07-28 |  |

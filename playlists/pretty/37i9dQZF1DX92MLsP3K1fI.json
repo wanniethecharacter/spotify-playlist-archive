@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! RBD en portada.",
-  "num_followers": 62133,
+  "num_followers": 62220,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI3NjQxMiwwMDAwMDAwMDIyMTA3ZmU0ODkzMmFjMWI1ZjYzYzg5MDk2NmYwMzUw",
+  "snapshot_id": "MTY3NzI3NjQxMiwwMDAwMDAwMGJjNDg5ZWQ5NWUzZTE3ZTAyZWU0NjJmNTE2OGQwNWY1",
   "tracks": [
     {
       "added_at": "2023-02-24 22:06:52",
@@ -219,6 +219,38 @@
     {
       "added_at": "2023-02-24 22:06:52",
       "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "added_at": "2023-02-24 22:06:52",
+      "album": {
+        "name": "sin ti </3",
+        "url": "https://open.spotify.com/album/7z0agt22EaaxvqDyLxZVsq"
+      },
+      "artists": [
+        {
+          "name": "D. Krugga",
+          "url": "https://open.spotify.com/artist/4x65cIPX0RvYoK1zmQgQXH"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "sin ti </3",
+      "url": "https://open.spotify.com/track/11PYImjBVaZ2pDE1ERIdHM"
+    },
+    {
+      "added_at": "2023-02-24 22:06:52",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -255,38 +287,6 @@
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
-    },
-    {
-      "added_at": "2023-02-24 22:06:52",
-      "album": {
-        "name": "sin ti </3",
-        "url": "https://open.spotify.com/album/7z0agt22EaaxvqDyLxZVsq"
-      },
-      "artists": [
-        {
-          "name": "D. Krugga",
-          "url": "https://open.spotify.com/artist/4x65cIPX0RvYoK1zmQgQXH"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "sin ti </3",
-      "url": "https://open.spotify.com/track/11PYImjBVaZ2pDE1ERIdHM"
-    },
-    {
-      "added_at": "2023-02-24 22:06:52",
-      "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2023-02-24 22:06:52",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-02-24 22:06:52",
       "album": {
-        "name": "Pasos de Gigante",
-        "url": "https://open.spotify.com/album/2hHyswHGfr2UQ1jdVUlMsP"
+        "name": "Antes Que",
+        "url": "https://open.spotify.com/album/3nxTxqohB4uES4GJxnBG6c"
       },
       "artists": [
         {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
         }
       ],
-      "duration_ms": 221609,
-      "name": "Pasos de Gigante",
-      "url": "https://open.spotify.com/track/6DlhPEHyYrrZCs9rTIz6ho"
+      "duration_ms": 147533,
+      "name": "Antes Que",
+      "url": "https://open.spotify.com/track/3WPrnwpxefLYwGejFCpP7W"
     },
     {
       "added_at": "2023-02-24 22:06:52",

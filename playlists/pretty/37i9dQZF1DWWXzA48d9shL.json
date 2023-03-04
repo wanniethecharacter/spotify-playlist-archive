@@ -1,13 +1,73 @@
 {
   "description": "Rap from hell. Cover: $uicideboy$ & Shakewell",
-  "num_followers": 440087,
+  "num_followers": 440392,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzcwNDkxOCwwMDAwMDAwMDZhMDMyYjI2M2FkZThmYzcyNGFlNTNiYmZkODZmZjE0",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMGI2NTQyNzIxNzk5NGZjZDJlNWVlNGNlZDg4OTc3NWNj",
   "tracks": [
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "MK Plus Ultra",
+        "url": "https://open.spotify.com/album/6oy7rNsd09qEKBDEDUawEg"
+      },
+      "artists": [
+        {
+          "name": "do not resurrect",
+          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
+        }
+      ],
+      "duration_ms": 130914,
+      "name": "MK Plus Ultra",
+      "url": "https://open.spotify.com/track/4jfsYlMJM9hZNbIWVczbJq"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "BLXXDY NXSE (feat. Scarlxrd & nascar aloe)",
+        "url": "https://open.spotify.com/album/6mDFwhmb1GftFQYpBKDQG2"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        },
+        {
+          "name": "nascar aloe",
+          "url": "https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "BLXXDY NXSE (feat. Scarlxrd & nascar aloe)",
+      "url": "https://open.spotify.com/track/319u15wlYEJnkwaecnQBir"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "SHAMELESS $UICIDE",
+        "url": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "duration_ms": 166420,
+      "name": "Six Lines, Two Dragons, and a Messiah",
+      "url": "https://open.spotify.com/track/4Xid2bPvFoMcwp6NeUT2Ap"
+    },
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
@@ -31,26 +91,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "SHAMELESS $UICIDE",
-        "url": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Shakewell",
-          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "SHAMELESS $UICIDE",
-      "url": "https://open.spotify.com/track/1vjon7jtpF5usLV2CVxtsw"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Freddie's Inferno (Deluxe)",
         "url": "https://open.spotify.com/album/07YX7oCO5D6zr1NVDEeSAd"
       },
@@ -69,10 +109,10 @@
       "url": "https://open.spotify.com/track/345lVnvY38p44UbPC20f2U"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "NECROSSISM",
-        "url": "https://open.spotify.com/album/6tnsPiqgWU9EG8xh8PJBLm"
+        "name": "KILLASNITCH.COM",
+        "url": "https://open.spotify.com/album/7tFt2junjaFqbWQqeouMjZ"
       },
       "artists": [
         {
@@ -80,15 +120,15 @@
           "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
         }
       ],
-      "duration_ms": 101725,
-      "name": "Necrossist",
-      "url": "https://open.spotify.com/track/5HUpPwK5mJWEHSEMKuYPqO"
+      "duration_ms": 137110,
+      "name": "KILLASNITCH.COM",
+      "url": "https://open.spotify.com/track/7kKPew58PQ6s5iFjHzbQ9L"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "NOTHING IS FOREVER",
-        "url": "https://open.spotify.com/album/6Z8CtXFwlvDrtgXzfxBFGF"
+        "name": "NOT ENOUGH MANA",
+        "url": "https://open.spotify.com/album/17Mt1ouTPGS6gAr0hmz2lD"
       },
       "artists": [
         {
@@ -96,9 +136,9 @@
           "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
         }
       ],
-      "duration_ms": 152316,
-      "name": "NOTHING IS FOREVER",
-      "url": "https://open.spotify.com/track/54GrLa8J4zdvRfU8VXdo8l"
+      "duration_ms": 115811,
+      "name": "NOT ENOUGH MANA",
+      "url": "https://open.spotify.com/track/4zgDGtOWPEsot8BmqvX9KI"
     },
     {
       "added_at": "2023-02-16 20:24:20",
@@ -159,6 +199,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "NOTHING IS FOREVER",
+        "url": "https://open.spotify.com/album/6Z8CtXFwlvDrtgXzfxBFGF"
+      },
+      "artists": [
+        {
+          "name": "HAARPER",
+          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+        }
+      ],
+      "duration_ms": 152316,
+      "name": "NOTHING IS FOREVER",
+      "url": "https://open.spotify.com/track/54GrLa8J4zdvRfU8VXdo8l"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "from up on silent hill",
         "url": "https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ"
       },
@@ -177,6 +233,54 @@
       "url": "https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "H4LO",
+        "url": "https://open.spotify.com/album/3xO1MRz165AasIqc4G4A9o"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "H4LO",
+      "url": "https://open.spotify.com/track/22Qo1XTyQGjHiqLreOUGDh"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Riders",
+        "url": "https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK"
+      },
+      "artists": [
+        {
+          "name": "onimanxd",
+          "url": "https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b"
+        }
+      ],
+      "duration_ms": 107620,
+      "name": "Riders",
+      "url": "https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "NECROSSISM",
+        "url": "https://open.spotify.com/album/6tnsPiqgWU9EG8xh8PJBLm"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "duration_ms": 101725,
+      "name": "Necrossist",
+      "url": "https://open.spotify.com/track/5HUpPwK5mJWEHSEMKuYPqO"
+    },
+    {
       "added_at": "2023-01-30 15:25:52",
       "album": {
         "name": "OCTOPUS.LADY",
@@ -191,6 +295,26 @@
       "duration_ms": 156476,
       "name": "OCTOPUS.LADY",
       "url": "https://open.spotify.com/track/4vjj0bcIG5O3FA0C9cXNR8"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "SHAMELESS $UICIDE",
+        "url": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "SHAMELESS $UICIDE",
+      "url": "https://open.spotify.com/track/1vjon7jtpF5usLV2CVxtsw"
     },
     {
       "added_at": "2023-02-16 20:34:22",
@@ -511,26 +635,6 @@
       "duration_ms": 199768,
       "name": "KILLERS AND ROBBERS (feat. Denzel Curry, midwxst & Matt Ox)",
       "url": "https://open.spotify.com/track/2XXFajkaWMZ2ukPNPKgLWa"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "DIRTIESTNASTIEST$UICIDE",
-        "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Germ",
-          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
-        }
-      ],
-      "duration_ms": 145842,
-      "name": "I Dream of Chrome",
-      "url": "https://open.spotify.com/track/3QQXpvZd9qmzHZ02wDf2im"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1121,22 +1225,6 @@
       "url": "https://open.spotify.com/track/3kZAm2TC74lBJFPDoV40Qc"
     },
     {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Sing Me a Lullaby, My Sweet Temptation",
-        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 195994,
-      "name": "Fucking Your Culture",
-      "url": "https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "GR/IM",
@@ -1639,22 +1727,6 @@
     {
       "added_at": "2022-09-02 06:10:00",
       "album": {
-        "name": "Escape From BABYLON",
-        "url": "https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 141043,
-      "name": "Escape From BABYLON",
-      "url": "https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
         "name": "Freddie's Inferno",
         "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
       },
@@ -1691,22 +1763,6 @@
       "duration_ms": 120624,
       "name": "Red Rain",
       "url": "https://open.spotify.com/track/2gnZhOhmmX0rDqdm3inrvC"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Goosebumps!",
-        "url": "https://open.spotify.com/album/34jEJ49vmY9S2xu2VOktWX"
-      },
-      "artists": [
-        {
-          "name": "MAKAVELIGODD",
-          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
-        }
-      ],
-      "duration_ms": 128011,
-      "name": "Goosebumps!",
-      "url": "https://open.spotify.com/track/3KBM4E7O7CHf4nJBYAXKSZ"
     },
     {
       "added_at": "2022-09-02 06:10:00",

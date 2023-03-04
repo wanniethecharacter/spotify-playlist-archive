@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,231 likes - 510 songs - 18 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,430 likes - 510 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 82 | [Drop In](https://open.spotify.com/track/7vwibWrHgOtEznQEFoF183) | [Looi](https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru) | [Purple Dreams](https://open.spotify.com/album/7kxIwi77w8d6hz0XRbmCgb) | 2:01 |
 | 83 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 |
 | 84 | [Mom's Spaghetti](https://open.spotify.com/track/0Odn9Za3gTEWsnO5i5fMbI) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Beat Soup](https://open.spotify.com/album/6dEsyuYCALQJpT04B0Qvic) | 1:40 |
-| 85 | [ways of lofi](https://open.spotify.com/track/3JH9aeScyGeXQxvwOJvwGk) | [trainer](https://open.spotify.com/artist/3VVx8RffIbZieWTsYgDDuD) | [soho polylines](https://open.spotify.com/album/36XaNzLiyDLutAOhW4vGcT) | 2:00 |
+| 85 | [ways of lofi](https://open.spotify.com/track/3JH9aeScyGeXQxvwOJvwGk) | [Astakon](https://open.spotify.com/artist/50Bv1IHX3VuLtfplLreuov) | [soho polylines](https://open.spotify.com/album/36XaNzLiyDLutAOhW4vGcT) | 2:00 |
 | 86 | [A short break](https://open.spotify.com/track/6i2DGyzis8BuUJRnzbill2) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [A short break](https://open.spotify.com/album/2dARGp3nfUoyTl8JaNuq8E) | 2:02 |
 | 87 | [Invisible](https://open.spotify.com/track/1VH8n20orFuTgBnapyxEg3) | [New Morning](https://open.spotify.com/artist/1LCzf2HbU3AjBuVZDj1xdb) | [Invisible](https://open.spotify.com/album/0unze2zqVBOHoC0KsfNDRV) | 1:56 |
 | 88 | [Jazz Girls](https://open.spotify.com/track/7Gr2xMFJ2AYdoMFGy24sFk) | [Dash Jagger](https://open.spotify.com/artist/6td4sAl8VSVTRLI5SALjE1) | [Night](https://open.spotify.com/album/6MWV7Bpn8hmK9ok4MFGVvi) | 1:59 |
@@ -517,6 +517,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 507 | [Works of Fiction](https://open.spotify.com/track/4OIWPBw1keXcCsTBh1Jw39) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:48 |
 | 508 | [Lonely Mountain](https://open.spotify.com/track/2kxJbP2CXEZRCaCefWD721) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:48 |
 | 509 | [See The Flowers](https://open.spotify.com/track/77MvpbDU4b23vr2rkEYOsq) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [JAX](https://open.spotify.com/album/3pn1d4UvE6lWQxocZG3hnj) | 2:12 |
-| 510 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Magn Us](https://open.spotify.com/artist/2YlPD3Lp1lnP0lFU43ApzH) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
+| 510 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 |
 
 Snapshot ID: `MTY3NzI0MTM5MCwwMDAwMDAwMDJhMTEyN2Y1ZmZmMTUzZmE1OTMyMWE5YzAwNDBkMmY3`

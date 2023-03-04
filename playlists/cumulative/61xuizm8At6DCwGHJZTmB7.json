@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 387359,
       "name": "Firm Foundation (He Won\u2019t) - Live",
       "url": "https://open.spotify.com/track/7uetKdRQpTmmnMna5Bt39s"
@@ -5072,6 +5072,36 @@
       "duration_ms": 380778,
       "name": "Wildfire - Live",
       "url": "https://open.spotify.com/track/0Ts2lin2ZV1MQrXR1NvGKV"
+    },
+    {
+      "album": {
+        "name": "Women Who Worship (Live)",
+        "url": "https://open.spotify.com/album/58A73mFc94fFlVhbX31Bf9"
+      },
+      "artists": [
+        {
+          "name": "Women Who Worship",
+          "url": "https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp"
+        },
+        {
+          "name": "Worship Together",
+          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        },
+        {
+          "name": "Cecily Hennigan",
+          "url": "https://open.spotify.com/artist/3zYhPKXlVf8jlSHqlpiqWh"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437224,
+      "name": "With You (Only Resurrection) - Live",
+      "url": "https://open.spotify.com/track/0Ra9ehxtwcRaKkFt9ikT7c"
     },
     {
       "album": {

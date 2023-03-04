@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-537 songs - 1 day 10 hr 18 min
+538 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Breeze \- insert song from SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/track/5FTyvoW0szvB83VY5lQPgP) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [Breeze \- insert song from SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/album/3HoxvfHDsMRrRNMcx8rljY) | 3:24 | 2022-11-13 | 2022-12-05 |
 | [Bring Back](https://open.spotify.com/track/3lodN8CY4ZQIIvlQDEB0Lu) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [Bring Back / RISE / FAITH](https://open.spotify.com/album/1wJGXZKiWW2wZ9VQ3mkgB1) | 3:29 | 2022-05-28 | 2022-07-08 |
 | [Bubble \(feat\. Uta\)](https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Uta](https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81) | [Bubble \(feat\. Uta\)](https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB) | 3:46 | 2022-05-28 | 2022-07-06 |
-| [buddy](https://open.spotify.com/track/0LHtfCDgLj6iaTLVWg7dnl) | [Amber’s](https://open.spotify.com/artist/02uHSOwZg81iN67YEBbc0O) | [buddy](https://open.spotify.com/album/4fpXr9KaCTMvBiBt7OyGHw) | 4:05 | 2023-01-05 |  |
+| [buddy](https://open.spotify.com/track/0LHtfCDgLj6iaTLVWg7dnl) | [Amber’s](https://open.spotify.com/artist/02uHSOwZg81iN67YEBbc0O) | [buddy](https://open.spotify.com/album/4fpXr9KaCTMvBiBt7OyGHw) | 4:05 | 2023-01-05 | 2023-03-04 |
 | [Car♡Wash♡Girl](https://open.spotify.com/track/2ijNxRyvM9bEqNZPo1ievQ) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 3:37 | 2022-10-25 | 2022-12-24 |
 | [Car♡Wash♡Girl](https://open.spotify.com/track/6L4HbL7C0cCMHAdEKCHux2) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/7BV3D6bYqrgCq7S4WYDG3x) | 3:37 | 2022-10-25 | 2022-10-27 |
 | [CAT'S EYE 2023](https://open.spotify.com/track/43yvgvumHPrqko99AlK1jX) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [LUPIN THE THIRD VS CAT'S EYE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/12eUMGk9JZKeSHZ2z6UcMa) | 2:49 | 2023-01-26 | 2023-02-17 |
@@ -291,6 +291,7 @@
 | [un\_mute](https://open.spotify.com/track/3u5awR3XHHpmdn0nQWf5ul) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOWOW Original Animation "The Fire Hunter" Ending Theme Song / TV Animation "REVENGER" Ending Theme Song Mada Tooku ni Iru / un\_mute](https://open.spotify.com/album/4N1Iw4L0uoPVrjNl3GfZPn) | 4:57 | 2023-01-24 |  |
 | [un\_mute](https://open.spotify.com/track/5eaP3rpHtO5HdhFSivEmuF) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOWOWオリジナルアニメ「火狩りの王」エンディングテーマ / TVアニメ「REVENGER」エンディングテーマ まだ遠くにいる / un\_mute](https://open.spotify.com/album/6gGM1wmwOjwXZyOjkFu43t) | 4:57 | 2023-01-24 | 2023-01-26 |
 | [Under Sail](https://open.spotify.com/track/2pQneHOpBNuRYwJs83hESi) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY), [ヒプノシスマイク \-D.R.B\- \(躑躅森盧笙\)](https://open.spotify.com/artist/77aokW0xiQYapVkj1FlD99) | [どついたれ本舗 \-No double dipping!\-](https://open.spotify.com/album/6t71OfklRhGyuzpTDqCNwx) | 3:42 | 2022-09-01 | 2022-09-21 |
+| [UNDER THE TREE](https://open.spotify.com/track/0KmCtn8UBbqidcIRduzARB) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [UNDER THE TREE](https://open.spotify.com/album/5lCwl44IhsSbBkQFAxgrFk) | 2:01 | 2023-03-03 |  |
 | [Unite up!](https://open.spotify.com/track/6zsE5fWY4onqiKUvOOSMfj) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo) | [Unite up!](https://open.spotify.com/album/5CHZGDeflVkbgsAAOdp2Nf) | 3:59 | 2023-01-17 | 2023-01-25 |
 | [Usotsuki](https://open.spotify.com/track/2PyYJTYEfA3jVXWNqaex5u) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Naked](https://open.spotify.com/album/4YEGqUeqECz2jcsENlcBSi) | 3:37 | 2023-02-16 |  |
 | [Usotsuki](https://open.spotify.com/track/2iK9aKDMWe9xQC8aBQ3y7n) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Usotsuki](https://open.spotify.com/album/0fiGjrYXmgaIfbX1tPRvia) | 3:37 | 2023-01-10 | 2023-02-18 |

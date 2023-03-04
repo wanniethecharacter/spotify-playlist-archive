@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,630 likes - 148 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,713 likes - 148 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 125 | [Arian](https://open.spotify.com/track/0qOKwBICWzPtScjJjuLLkv) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Arian](https://open.spotify.com/album/32w458f4xQdJZp3rjLsFnR) | 1:52 |
 | 126 | [Face Shot](https://open.spotify.com/track/4MVhRwIat6P6WrTxbnLFbZ) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Face Shot](https://open.spotify.com/album/5GU1xNaOnJlkFM5IkoSKai) | 1:49 |
 | 127 | [Wesley](https://open.spotify.com/track/5yACaHvqRm1tCL5RsaIs9w) | [Velli Roze](https://open.spotify.com/artist/1tRALjpw3fKgtjhzkcjqLm) | [Upscencion](https://open.spotify.com/album/0glQ55ZkBXkyJIUxqx38a5) | 4:23 |
-| 128 | [My Days](https://open.spotify.com/track/3dN3G7aEL5362FmHZqBkY8) | [Mishalle Vega](https://open.spotify.com/artist/7iijCT7QHLs2A1oK49ToiW) | [My Days](https://open.spotify.com/album/2g7YpnCR4ubtaAG5CNbfMV) | 3:12 |
+| 128 | [My Days](https://open.spotify.com/track/64DpmLAHF4sGYHZD4fRLXt) | [Mishalle Vega](https://open.spotify.com/artist/7iijCT7QHLs2A1oK49ToiW) | [My Days](https://open.spotify.com/album/0aMxXnKML42F38q2oKbRGf) | 3:12 |
 | 129 | [Escape](https://open.spotify.com/track/7loBMJPuSrISlENdY3nuVR) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [Escape](https://open.spotify.com/album/32du4LBKI5WrU6VImj5kIB) | 3:42 |
 | 130 | [The Waiting Room](https://open.spotify.com/track/13LIzPaFE1Qakaz7fIHy7N) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [The Waiting Room](https://open.spotify.com/album/6I32AysQxSNOVqDk6fuHI6) | 2:26 |
 | 131 | [Atonement](https://open.spotify.com/track/0WjgLeuHiksseRDpTkzLaN) | [informat](https://open.spotify.com/artist/3m1Pg8GiO4gJm97ZUNABLS) | [Atonement / Glimmer](https://open.spotify.com/album/1GskKvzQteddw6hlFRD8Jy) | 4:42 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 147 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 |
 | 148 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 |
 
-Snapshot ID: `MTY3Njk5MDYzMCwwMDAwMDAwMDNiYjBkMGQ0ZmE3MzdlNGMwM2RmOGE4YTc5Njc0MWU3`
+Snapshot ID: `MTY3Njk5MDYzMCwwMDAwMDAwMDMzM2ZmNGNmY2ZjMzA2ZjZkYmEyMTdlZDc2MWYxMTE3`

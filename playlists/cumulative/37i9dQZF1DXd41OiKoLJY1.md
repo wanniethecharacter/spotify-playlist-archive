@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: NICHIMI, Artwork: Isu Kim
 
-884 songs - 2 day 5 hr 17 min
+886 songs - 2 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,6 +609,7 @@
 | [Panalangin](https://open.spotify.com/track/5VILSj86nHkQmsAJJItJ8t) | [Fox](https://open.spotify.com/artist/3DAjSkkGty8283gaAo3FDQ) | [Panalangin](https://open.spotify.com/album/262Ev0QYaTmMeCdwahea36) | 4:05 | 2023-02-23 | 2023-03-03 |
 | [Panambitan](https://open.spotify.com/track/2t1vPC4BS9FqgPPxLq8oDm) | [Monolog](https://open.spotify.com/artist/1lFZVpc8Zg0D2JXr11BVrk) | [Panambitan](https://open.spotify.com/album/0GzKSTSs7f0LOYcnAOFUPD) | 3:11 | 2022-03-31 | 2022-05-06 |
 | [Pananaw](https://open.spotify.com/track/4f7Oqgd2sh1dTYlW9qVJSi) | [Chi Rebolusyon](https://open.spotify.com/artist/1tINzejS1tgQ2RfPD7kaTX) | [Pan's Labyrinth](https://open.spotify.com/album/0WYt6NDSiKwuQ1DBCMbFsA) | 4:13 | 2022-05-05 | 2022-07-22 |
+| [Panig](https://open.spotify.com/track/3OSi0DpXKd3VTKXVMEWGWL) | [Zyrus Gonzalvo](https://open.spotify.com/artist/54SktmFr8sMHqp1nQ9FIvN), [David Amarillo](https://open.spotify.com/artist/2YJOOuuXBLdG1ZKOzsxTxO) | [Panig](https://open.spotify.com/album/1VwtWqX40kRWFMmHmKEqMN) | 3:11 | 2023-03-02 |  |
 | [Pano Nalang](https://open.spotify.com/track/5AG3n3deTSOOKdhtLV3mk0) | [Mj Fabian](https://open.spotify.com/artist/4I5CplQuoc5Xvni11PUsEh) | [Pano Nalang](https://open.spotify.com/album/1w0pfr5xqXIMbWdPNyE0U2) | 2:59 | 2022-04-14 | 2022-04-22 |
 | [Para Sa'yo](https://open.spotify.com/track/59mJoiKnEenpiYQOqUZjgZ) | [Shanaia Gomez](https://open.spotify.com/artist/5EtZxgXZdFjFu0ZdkAn6TV) | [Para Sa'yo](https://open.spotify.com/album/67GpchLrd0IXQn3DjiP019) | 2:34 | 2022-07-28 | 2022-09-23 |
 | [Para\-os Sa Dilim](https://open.spotify.com/track/6Q7DCZIvLyaC7rua5NPJOv) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH), [Alexia Haydra](https://open.spotify.com/artist/1iOCgRQNcAlLj4RC00yxmm) | [Para\-os Sa Dilim](https://open.spotify.com/album/0qMtUg6EDsgcUIup94IJQ1) | 4:32 | 2023-02-09 | 2023-02-24 |
@@ -673,6 +674,7 @@
 | [Sa Iyo Na Lang Ako](https://open.spotify.com/track/3h7L0RyN7IR3M5I6L2fObU) | [Sunset Sessions](https://open.spotify.com/artist/77EPS0bhR5i4KusgcHqN5Y), [Earth To Mars](https://open.spotify.com/artist/6vidCmEKqTVNLxalYQuskK), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20) | [Sa Iyo Na Lang Ako](https://open.spotify.com/album/5RP6MCfIhoHQDAXBrhxRX0) | 5:03 | 2023-02-09 | 2023-02-24 |
 | [Sa Iyong Tinig](https://open.spotify.com/track/24jptKzIQPQ5wBKRnfrkgs) | [Jack Bradley](https://open.spotify.com/artist/6kFMdB4eFExrKOx5wSkB2Y) | [Sa Iyong Tinig](https://open.spotify.com/album/2xJuuPd92ngqYCFHLcoMGp) | 5:43 | 2022-03-10 | 2022-04-01 |
 | [Sa Mga Bituin Na Lang Ibubulong](https://open.spotify.com/track/4tilch5mBaQxzeykOaq3ra) | [Carlo Bautista](https://open.spotify.com/artist/3SwnBBc7T2hYRPnPGUDmh9) | [Sa Mga Bituin Na Lang Ibubulong](https://open.spotify.com/album/4wviywxetjc2EbLovm1DB1) | 3:37 | 2023-01-26 | 2023-02-17 |
+| [Sa Tabi Mo](https://open.spotify.com/track/70YZrayXru0eCca0xSLDG6) | [Dope Martin](https://open.spotify.com/artist/2Nc4GB6tlfba0c7bz4w0Fm), [Bomb D](https://open.spotify.com/artist/141ZQ4nlfc0tiPJr5aKldm), [Jr Crown](https://open.spotify.com/artist/3r0NbTTxtCBUyxcIR4prXr), [Nck Deezy](https://open.spotify.com/artist/5hCMRViq2AR0rGRTcHt6se), [J\-Lhutz](https://open.spotify.com/artist/3MhYiSeVRGOOMTxN6Inp9O), [Thome](https://open.spotify.com/artist/0TlpoVBa03V0XNXBq7Gjrh) | [Sa Tabi Mo](https://open.spotify.com/album/70cCnHYgLIm6xzQUaeVuXg) | 4:57 | 2023-03-02 |  |
 | [Sa'king Katabi](https://open.spotify.com/track/5FzKXl76UiNrqNCEsdL2PB) | [EC Orduna](https://open.spotify.com/artist/62ycja55uV9zKY8mw6cdWa) | [Sa'king Katabi](https://open.spotify.com/album/0LTo6LXrzMQ2VN2Z0brZkX) | 2:53 | 2023-02-09 | 2023-02-24 |
 | [Sa'Yong Piling](https://open.spotify.com/track/6ntwoHDq9v26LJIpcjabUU) | [Von Lucero](https://open.spotify.com/artist/4F87JbbPHYAjW97YGRbSQF) | [Sa'Yong Piling](https://open.spotify.com/album/4uIe6UsvLsjR8BmAVLfxWI) | 4:04 | 2022-11-30 | 2023-01-13 |
 | [Sabi Mo](https://open.spotify.com/track/2QD0SjoM1awYoX1ObT3B6q) | [46 Hope St.](https://open.spotify.com/artist/1hkrpcxUIsETHaAvosVAjm) | [Sabi Mo](https://open.spotify.com/album/7fvh6RTw4ixIW71HxQXnbC) | 2:41 | 2022-07-14 | 2022-09-09 |

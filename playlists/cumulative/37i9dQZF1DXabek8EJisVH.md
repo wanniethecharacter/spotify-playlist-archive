@@ -4,7 +4,7 @@
 
 > Soothing ambient and Hang to gently focus the mind.
 
-96 songs - 6 hr 30 min
+97 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Inner Mantra](https://open.spotify.com/track/7CNAkIV33z3pQnbVWXgPfX) | [Tibetan Meditation](https://open.spotify.com/artist/5UAgX4YftBF7I3DqNKazf5) | [Pan Drum Meditation](https://open.spotify.com/album/2YM4fOiLRRJzz8596nVDWg) | 9:40 | 2022-03-03 |  |
 | [Intermezzo 1](https://open.spotify.com/track/3iZQ1x0ZCvLRXGMRxKdFss) | [Davide Swarup](https://open.spotify.com/artist/6QOnII7AhBs2LR471krdEM) | [Music for Hang](https://open.spotify.com/album/4wQL5Z7ASoC4ZOgsqEPbfv) | 2:24 | 2022-03-03 |  |
 | [Las Campanas](https://open.spotify.com/track/1sPL3D9CRdGjLEy3JEW2Wh) | [Wolfgang Ohmer](https://open.spotify.com/artist/5WqbDL1I1busS5YanO5z0k) | [Sonic Blue \- Ambient Hang Music](https://open.spotify.com/album/45tHjwSf9ctXXrLFdnK4X5) | 6:15 | 2022-03-03 |  |
+| [Light Of The Soul](https://open.spotify.com/track/4tGHegnuZnASI3Erc5dD4I) | [The Sky](https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m) | [Light Of The Soul](https://open.spotify.com/album/2dgdX5c1bwMvsBnimSCF0W) | 1:10 | 2023-03-03 |  |
 | [Lillehammer Tank Drummer](https://open.spotify.com/track/4mBWzhiK0Ef1sfx34hU948) | [Hang Drum Social Club](https://open.spotify.com/artist/1bLwFkNSiHweXb9pVkI5jE) | [Handpan Sine Waves](https://open.spotify.com/album/6SOToxXTm65n5Gu34cdI8V) | 2:26 | 2022-03-03 |  |
 | [Limoncé](https://open.spotify.com/track/2lpUQ0OlxJZQvOSsCi5xQ6) | [Colin Foulke](https://open.spotify.com/artist/0RYWntURHFeOzjDHq6I8sz) | [Colin Foulke](https://open.spotify.com/album/7HoozmHpnQ4y19PeFm3fet) | 3:48 | 2022-03-03 |  |
 | [Long story short](https://open.spotify.com/track/1oetccXp1I11kKWplYV8tl) | [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Made In Silence 2](https://open.spotify.com/album/6eX7cvtjM6YPh8dSeLz0pP) | 2:06 | 2022-03-03 |  |

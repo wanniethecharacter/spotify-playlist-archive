@@ -4,7 +4,7 @@
 
 > Discover the unforgettable melodies of Chopin, including moving ballades, relaxing nocturnes and vibrant concertos.
 
-120 songs - 11 hr 36 min
+121 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,8 +30,9 @@
 | [Ballade No\. 3 in A Flat Major, Op\. 47](https://open.spotify.com/track/6J1aj3bVh1cEgMniGSGRGZ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Chopin \- Winter Vibes](https://open.spotify.com/album/7nGjRnha8kq63mnUGQx9sj) | 7:49 | 2022-07-01 |  |
 | [Ballade No\. 3 in A Flat Major, Op\. 47](https://open.spotify.com/track/2duq6mtN9Me3kbLzaBFmRC) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Piano Masters](https://open.spotify.com/album/1mNOky85ElOSb4by6vu0JD) | 7:55 | 2022-07-01 | 2022-11-14 |
 | [Ballade No\. 4 in F Minor, Op\. 52](https://open.spotify.com/track/7ACLQLZ1I7PbyKTS4E9whS) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Chopin: Works for Piano](https://open.spotify.com/album/263G1hP6jKqrziAfQUxjFx) | 10:26 | 2021-10-29 |  |
-| [Barcarolle in F\-Sharp Major, Op\. 60](https://open.spotify.com/track/1BDOnmNTPrSrbuvN0pG1no) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hélène Tysman](https://open.spotify.com/artist/2Vvw7XUcQtopFdFgMLa2w5) | [Chopin: Ballades, Vol\. 2](https://open.spotify.com/album/144xuRLVimWdCAk8Gv97Fb) | 9:42 | 2022-07-01 |  |
+| [Barcarolle in F\-Sharp Major, Op\. 60](https://open.spotify.com/track/1BDOnmNTPrSrbuvN0pG1no) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hélène Tysman](https://open.spotify.com/artist/2Vvw7XUcQtopFdFgMLa2w5) | [Chopin: Ballades, Vol\. 2](https://open.spotify.com/album/144xuRLVimWdCAk8Gv97Fb) | 9:42 | 2022-07-01 | 2023-03-04 |
 | [Barcarolle in F\-Sharp Major, Op\. 60](https://open.spotify.com/track/7ov6YHoelfxMWqVejv2v9O) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hélène Tysman](https://open.spotify.com/artist/2Vvw7XUcQtopFdFgMLa2w5) | [Chopin: Ballades, Vol\. 2](https://open.spotify.com/album/4m7rUkQ6P2QPtZMOCjitzK) | 9:42 | 2021-10-29 | 2022-07-29 |
+| [Barcarolle in F\-Sharp Major, Op\. 60](https://open.spotify.com/track/00x8ogYPKcIAAtDzC414DR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Rafał Blechacz](https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X) | [Chopin](https://open.spotify.com/album/2y7XA7KLJXRPzTgULfXK5F) | 8:10 | 2023-03-03 |  |
 | [Chopin: 12 Études, Op\. 25: No\. 1 in A\-Flat Major "Aeolian Harp"](https://open.spotify.com/track/5QS4Ww7pFtigfFqoSQJrP6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nikolai Lugansky](https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud) | [Chopin: Études, Op\. 10 & 25](https://open.spotify.com/album/4m29Z33TQFkPtkguspP8Ah) | 2:33 | 2021-10-29 | 2022-07-29 |
 | [Chopin: 12 Études, Op\. 25: No\. 1 in A\-Flat Major "Aeolian Harp"](https://open.spotify.com/track/5eveZq0tpQo5iEAiuqyEQw) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nikolai Lugansky](https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud) | [Nikolai Lugansky Plays Chopin](https://open.spotify.com/album/4zYD04K8nalGNoJp8yFB0j) | 2:33 | 2022-07-01 |  |
 | [Chopin: 24 Preludes, Op\. 28: No\. 17 in A\-Flat Major](https://open.spotify.com/track/0F72XsQWHy3VjHTktpgSKF) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Aimi Kobayashi](https://open.spotify.com/artist/41YFPXmww0HCdIBjJj0uPs) | [Chopin: Preludes & Piano Works](https://open.spotify.com/album/0eHk94eZ5fUlGSjwEkkjFp) | 3:08 | 2021-10-29 |  |

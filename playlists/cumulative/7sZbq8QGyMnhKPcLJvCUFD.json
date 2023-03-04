@@ -1515,6 +1515,36 @@
     },
     {
       "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/6DuhoEadO7782XFHKgKZgA"
+      },
+      "artists": [
+        {
+          "name": "Poylow",
+          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
+        },
+        {
+          "name": "Lucky Low",
+          "url": "https://open.spotify.com/artist/1riI2N4BJfRupJPfYyLpQN"
+        },
+        {
+          "name": "MAD SNAX",
+          "url": "https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu"
+        },
+        {
+          "name": "India Dupriez",
+          "url": "https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137538,
+      "name": "Freak Show",
+      "url": "https://open.spotify.com/track/6V2tuX3ytBIvY9hSQYboIw"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5d0m1rwDpjHleCQyfDUu3f"
       },
@@ -2126,6 +2156,24 @@
       "duration_ms": 139831,
       "name": "LET THEM HAVE IT",
       "url": "https://open.spotify.com/track/2ElkJB3Ce9shEo0qKTHsGF"
+    },
+    {
+      "album": {
+        "name": "Let's Play",
+        "url": "https://open.spotify.com/album/364GIgp0PFkrFr7FaqGP6K"
+      },
+      "artists": [
+        {
+          "name": "MADZI",
+          "url": "https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152056,
+      "name": "Let's Play",
+      "url": "https://open.spotify.com/track/4XoTO4jKYPdvGyfj0cUqVP"
     },
     {
       "album": {

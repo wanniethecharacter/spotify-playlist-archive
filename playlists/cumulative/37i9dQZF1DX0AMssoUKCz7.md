@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-576 songs - 1 day 5 hr 45 min
+577 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Miracle In The Middle Of My Heart](https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8) | [BCX](https://open.spotify.com/artist/0g8dyAYXMj72hIsb8ttK32) | [Miracle In The Middle Of My Heart](https://open.spotify.com/album/0JqOjZEbmUwV4k7QIHnOPG) | 2:54 | 2022-01-14 |  |
 | [Mirrors](https://open.spotify.com/track/6SEqz6adzlLPDzNrf8mCCf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Mirrors](https://open.spotify.com/album/2rHruBFK7lCidKa4HrEqYB) | 3:40 | 2022-01-21 |  |
 | [Moment](https://open.spotify.com/track/2RsL9DuIs7zAgvay9dDB8E) | [le moon](https://open.spotify.com/artist/7pAX1Z7RQzZzTzKJFFgBhU), [Tenjo](https://open.spotify.com/artist/6CKt4tMB1YYkB2CtnnCG9f) | [Moment](https://open.spotify.com/album/2KMBR0nA5USBKm5HuD54zy) | 2:36 | 2022-08-05 | 2023-01-22 |
+| [Moment](https://open.spotify.com/track/51GgGdWzwT8YhpDgEY2Bnr) | [le moon](https://open.spotify.com/artist/7pAX1Z7RQzZzTzKJFFgBhU), [Tenjo](https://open.spotify.com/artist/6CKt4tMB1YYkB2CtnnCG9f) | [Moment](https://open.spotify.com/album/6SKjGGR9JjEc686sEnRVuV) | 2:36 | 2023-02-10 |  |
 | [Moment](https://open.spotify.com/track/5TL60rdO2ruxtVb3dCTtUJ) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Alex Brandt](https://open.spotify.com/artist/07EOa5tn34Eh7VuTfnYMjk), [Chris George](https://open.spotify.com/artist/6eAtG9o64WaAOHPQgCoJCJ) | [Moment](https://open.spotify.com/album/4WbjKC8lxP7F3xTLFRCkW9) | 3:10 | 2022-01-14 | 2023-01-21 |
 | [Moments](https://open.spotify.com/track/0e4xfVTScciruWRTHG3Myh) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Netzwerk \(Deluxe\)](https://open.spotify.com/album/4j9mSsoan95YCTzgxORbvK) | 5:02 | 2022-01-14 | 2022-07-04 |
 | [Money](https://open.spotify.com/track/43XjZ7NUKfht6cv1hGdXKW) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Money](https://open.spotify.com/album/73mea9eTMTIvs9EVuQGKz7) | 2:58 | 2022-05-20 |  |
@@ -542,7 +543,7 @@
 | [Waiting](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Waiting](https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64) | 2:39 | 2022-08-12 |  |
 | [Waiting For A Better Day](https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Waiting For A Better Day](https://open.spotify.com/album/0ulaHvKhk79OWZ12gmZDtO) | 2:37 | 2022-06-03 | 2022-08-04 |
 | [Walk Away](https://open.spotify.com/track/3HTDOoRoGvwpmMTIOOQehV) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Walk Away](https://open.spotify.com/album/7MMyj9gKH7uapvFZOHISoQ) | 3:05 | 2022-02-18 | 2022-04-16 |
-| [Walk Thru Fire](https://open.spotify.com/track/06OxW7hDm2hr6P2uh8WNuE) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [Walk Thru Fire](https://open.spotify.com/album/1vxKYH1I4z8hqWOwRMC8Qr) | 3:21 | 2022-01-14 |  |
+| [Walk Thru Fire](https://open.spotify.com/track/06OxW7hDm2hr6P2uh8WNuE) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [Walk Thru Fire](https://open.spotify.com/album/1vxKYH1I4z8hqWOwRMC8Qr) | 3:21 | 2022-01-14 | 2023-03-04 |
 | [Wanna Know Me](https://open.spotify.com/track/6BOSo7VK5JteFaQ0X1CBAR) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Wanna Know Me](https://open.spotify.com/album/7pRx8MmmqIK4bgub5WsTsM) | 2:34 | 2022-04-01 | 2022-07-21 |
 | [Wasted Youth](https://open.spotify.com/track/4bQf5CaoiYJY1PEAa6zhba) | [Myrrhe](https://open.spotify.com/artist/3SQOJGwgR1PKCa52M1W6EV), [Jethro](https://open.spotify.com/artist/15oiQRdZa4LrpfMbJ2dwzK) | [Wasted Youth](https://open.spotify.com/album/76n6X6309k6mGKEgX6aC6C) | 2:29 | 2022-07-22 | 2022-07-28 |
 | [Wave Goodbye \(feat\. Jeffrey Jey\)](https://open.spotify.com/track/115ndcAyWMabNy7WgUzP7t) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jeffrey Jey](https://open.spotify.com/artist/2mwT6u3QUHIlTHGzDRCnrk) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:15 | 2022-02-18 | 2022-04-15 |

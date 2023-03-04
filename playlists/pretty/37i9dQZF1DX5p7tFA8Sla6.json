@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 46077,
+  "num_followers": 46099,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNDkzOSwwMDAwMDAwMDk0MWE4ZmJmYTU4M2E3ZThkZWE3YjRiNzBmNDU4YWYw",
+  "snapshot_id": "MTYzODkwNDkzOSwwMDAwMDAwMDllODZmNjQxODViN2YyZDRmMGRlOGNhZTFhZDdhOTU4",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -359,22 +359,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "The Best of Delegation",
-        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
-      },
-      "artists": [
-        {
-          "name": "Delegation",
-          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Put a Little Love On Me",
-      "url": "https://open.spotify.com/track/6EOAOGls9pIdUJsrqytcXK"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Masterjam",
         "url": "https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 269306,
       "name": "Do You Love What You Feel",
       "url": "https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "The Best of Delegation",
+        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
+      },
+      "artists": [
+        {
+          "name": "Delegation",
+          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
+        }
+      ],
+      "duration_ms": 269640,
+      "name": "Put a Little Love On Me",
+      "url": "https://open.spotify.com/track/6EOAOGls9pIdUJsrqytcXK"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -887,18 +887,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Everybody Want Sum",
-        "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
+        "name": "Souled Out",
+        "url": "https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY"
       },
       "artists": [
         {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
         }
       ],
-      "duration_ms": 288253,
-      "name": "Sheez Music",
-      "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
+      "duration_ms": 279866,
+      "name": "Diggin' On James Brown",
+      "url": "https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -919,6 +919,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Everybody Want Sum",
+        "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        }
+      ],
+      "duration_ms": 288253,
+      "name": "Sheez Music",
+      "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Bedrock",
         "url": "https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Souled Out",
-        "url": "https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 279866,
-      "name": "Diggin' On James Brown",
-      "url": "https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Do Me Right",
         "url": "https://open.spotify.com/album/3acm84d09PzJGK9jXpJbk0"
       },
@@ -963,6 +963,26 @@
       "duration_ms": 217373,
       "name": "Do Me Right",
       "url": "https://open.spotify.com/track/3LrGfMjIgqI16WtPQawUSq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Jeannie's Getdown",
+        "url": "https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg"
+      },
+      "artists": [
+        {
+          "name": "The Sure Fire Soul Ensemble",
+          "url": "https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ"
+        },
+        {
+          "name": "Kelly Finnigan",
+          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
+        }
+      ],
+      "duration_ms": 186348,
+      "name": "A Message from the Meters",
+      "url": "https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -999,22 +1019,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Breaks from the Border",
-        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Take What You Need",
-      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Controversy",
         "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
       },
@@ -1031,6 +1035,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Breaks from the Border",
+        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "The Greatest Of Pleasure",
         "url": "https://open.spotify.com/album/6n3TTv12yYErhIaMiL7Fwn"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 387893,
       "name": "Joyous",
       "url": "https://open.spotify.com/track/4yVKYKv0qoS66bU4KQUsLe"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Jeannie's Getdown",
-        "url": "https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg"
-      },
-      "artists": [
-        {
-          "name": "The Sure Fire Soul Ensemble",
-          "url": "https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ"
-        },
-        {
-          "name": "Kelly Finnigan",
-          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
-        }
-      ],
-      "duration_ms": 186348,
-      "name": "A Message from the Meters",
-      "url": "https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1097,24 +1097,20 @@
       "url": "https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd"
     },
     {
-      "added_at": "2019-09-20 18:17:51",
+      "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/1h5VAB9cswXF7JEwv4Rwp7"
+        "name": "What We Got Together",
+        "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
       },
       "artists": [
         {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+          "name": "Brother Strut",
+          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
         }
       ],
-      "duration_ms": 177080,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/1apfl27W9ell44IcK6Wb1t"
+      "duration_ms": 155933,
+      "name": "Funk That Junk",
+      "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1131,22 +1127,6 @@
       "duration_ms": 383746,
       "name": "I Can Understand It",
       "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "What We Got Together",
-        "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
-      },
-      "artists": [
-        {
-          "name": "Brother Strut",
-          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Funk That Junk",
-      "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1179,6 +1159,26 @@
       "duration_ms": 183223,
       "name": "Drum Machine",
       "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
+    },
+    {
+      "added_at": "2019-09-20 18:17:51",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/1h5VAB9cswXF7JEwv4Rwp7"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        }
+      ],
+      "duration_ms": 177080,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/1apfl27W9ell44IcK6Wb1t"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1359,26 +1359,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Stay Good",
-        "url": "https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7"
+        "name": "Jukestone Paradise",
+        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
       },
       "artists": [
         {
-          "name": "Brooklyn Funk Essentials",
-          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
-        },
-        {
-          "name": "Anna Brooks",
-          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
-        },
-        {
-          "name": "Iwan VanHetten",
-          "url": "https://open.spotify.com/artist/2aeUMFKtymkdC7J7ZH30WY"
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
         }
       ],
-      "duration_ms": 332661,
-      "name": "Miss Mess",
-      "url": "https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k"
+      "duration_ms": 242840,
+      "name": "Body Party",
+      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1399,18 +1391,26 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Jukestone Paradise",
-        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
+        "name": "Stay Good",
+        "url": "https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7"
       },
       "artists": [
         {
-          "name": "Pimps of Joytime",
-          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Anna Brooks",
+          "url": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
+        },
+        {
+          "name": "Iwan VanHetten",
+          "url": "https://open.spotify.com/artist/2aeUMFKtymkdC7J7ZH30WY"
         }
       ],
-      "duration_ms": 242840,
-      "name": "Body Party",
-      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
+      "duration_ms": 332661,
+      "name": "Miss Mess",
+      "url": "https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k"
     },
     {
       "added_at": "2019-08-22 14:26:16",

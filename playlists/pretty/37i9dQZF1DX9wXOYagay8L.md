@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=Jxo12rkVRJmeBp\-BEV8i6g">Bongeziwe Mabandla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,189 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,262 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 9 | [Andikalibali](https://open.spotify.com/track/4AbvGdL2ZwSv1f1SzYtDMi) | [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Andikalibali](https://open.spotify.com/album/5vjJ9ZSTiCJpFmcvPpkjGV) | 4:19 |
 | 10 | [Ng'cabanga Ngawe](https://open.spotify.com/track/2NWD2G5xvu5ZMMv9bHSHuP) | [Valee Music](https://open.spotify.com/artist/780ChRgKqguVRixxZ0hrEB), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Ng'cabanga Ngawe](https://open.spotify.com/album/1jqOUDSmXLCNmIxhzI1iTk) | 3:49 |
 | 11 | [Phakade](https://open.spotify.com/track/3uDw8M8eTBDC7npvLy9ELS) | [Paige](https://open.spotify.com/artist/1UiuIk36C3ZI4Jqat38Q5L), [SeeZus Beats](https://open.spotify.com/artist/2IRgHENUusLqlDaj5hRmoi) | [Phakade](https://open.spotify.com/album/0lGgjqIGQb21QuAU55jpdQ) | 5:07 |
-| 12 | [Tsini Tsini](https://open.spotify.com/track/3inJEriFZwbiyQLLmG2Ai3) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Fortunator](https://open.spotify.com/artist/6StnELGS6xp40SAbMotvwk), [Mash K](https://open.spotify.com/artist/2C2OAUQIUAMDm4mdfpQo0X) | [Tsini Tsini](https://open.spotify.com/album/4sB8eBXQqaOaev9WdDz2VV) | 4:44 |
+| 12 | [Tsini Tsini](https://open.spotify.com/track/3inJEriFZwbiyQLLmG2Ai3) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Fortunator](https://open.spotify.com/artist/6StnELGS6xp40SAbMotvwk), [Mash K](https://open.spotify.com/artist/2C2OAUQIUAMDm4mdfpQo0X) | [Tsini Tsini](https://open.spotify.com/album/4sB8eBXQqaOaev9WdDz2VV) | 4:48 |
 | 13 | [Emakhaya](https://open.spotify.com/track/3M8QUN5XraDwiIM2YlpqVN) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM) | [Indlela](https://open.spotify.com/album/69bzQJaAvMR92psMY098UI) | 3:32 |
 | 14 | [Gibela](https://open.spotify.com/track/7h7Ygv9SuMXcuYZYNaghvj) | [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Gibela](https://open.spotify.com/album/1PJlGUGa58yCaE83Kt8zYJ) | 3:37 |
 | 15 | [Njalo](https://open.spotify.com/track/7n1OBXJqXbBjCxRBDHIZmM) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [African Queen 2.0](https://open.spotify.com/album/57d2o9ABnFTKWX3xuYGFe9) | 3:20 |

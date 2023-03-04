@@ -4,23 +4,22 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,098 likes - 14 songs - 48 min 53 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,098 likes - 13 songs - 51 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hippie Yes](https://open.spotify.com/track/4mOxn1AT8cOo74Zm5iH9ws) | [Erk](https://open.spotify.com/artist/5HhJ4EfjcISuAIPnbz9B3c) | [Stugvibb](https://open.spotify.com/album/1Rjtfhkx3I3UtAP6Ijftj2) | 2:40 |
-| 2 | [höst](https://open.spotify.com/track/4gXFN7H0Slt8xvO22QuvCz) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd), [Bella Leonette](https://open.spotify.com/artist/0Qzh6QfLR7zubyDl581ZOt) | [ikväll, inatt, men aldrig imorgon](https://open.spotify.com/album/2iHZ5X0FRetrOOK6A97G9N) | 4:26 |
-| 3 | [No One Left To Fight](https://open.spotify.com/track/37xkZ8JQ1RGCa8pEEyZ67s) | [Jack Moy](https://open.spotify.com/artist/58tNZRHNf5ScIAo7zBZDbU) | [No One Left To Fight](https://open.spotify.com/album/20eLUi3o8toF0vvmfGwNi0) | 3:21 |
-| 4 | [Everything](https://open.spotify.com/track/0MKmnmVNzbDJXbObHCgOKK) | [Duval](https://open.spotify.com/artist/2nzCBklwAxk4TWLUlwjS2i), [Chris Miles](https://open.spotify.com/artist/2m2kx6kzvl75SabOVfkL5i) | [Everything](https://open.spotify.com/album/3O5Ot9NsfJ3HKViTDT9vhH) | 3:11 |
-| 5 | [ACTION MAN](https://open.spotify.com/track/7xmIP39CtageyeY2BPK4vG) | [Joe Lefty](https://open.spotify.com/artist/4Zbjxv6NJcEGkKUkRiLCad) | [ACTION MAN](https://open.spotify.com/album/6rLhk9Kn1w8j8ecAGgBqig) | 2:50 |
-| 6 | [Where It Ends](https://open.spotify.com/track/1vU9Q7JjxZbCtE9qSDNK1b) | [Gottschalk](https://open.spotify.com/artist/3gj8j6CuQRm9b1GcV5iTtO) | [Where It Ends](https://open.spotify.com/album/3RFRNm0RL1DPRwRtyoiOXw) | 3:15 |
-| 7 | [Attitude](https://open.spotify.com/track/4foorcNc2t1o4DAIXpNWmS) | [The Hi\-Cats](https://open.spotify.com/artist/2dF30BaQtzUa3LGYxjlD5Y), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Attitude](https://open.spotify.com/album/0FtUA1LWzr2SBDfzBdKuIT) | 4:07 |
-| 8 | [Incubo](https://open.spotify.com/track/6c93X1d25TRml1gH6lAkF1) | [Daniele](https://open.spotify.com/artist/2v3e8s2maYO9bWUfC8l9Vt) | [Incubo](https://open.spotify.com/album/5M9bVA0aZqJ1QEtDfxuTRu) | 3:42 |
-| 9 | [You Got Me Paranoid](https://open.spotify.com/track/3JiW0tV7GlDQzjgLps6kZ6) | [Zaltaio](https://open.spotify.com/artist/4U7mVttpZoYczRThN4gaT4) | [You Got Me Paranoid](https://open.spotify.com/album/7vvyczJYd1XVpOd7PWWzBQ) | 2:53 |
-| 10 | [Kelp!](https://open.spotify.com/track/57kltV0hwJOGbges48DZtJ) | [Toot Farangi](https://open.spotify.com/artist/1N1tnj10mHH2Lpg7BT7BgA) | [Stingchasers](https://open.spotify.com/album/3uDD5anyriqTpOvjko1y01) | 3:31 |
-| 11 | [Psmash Bros](https://open.spotify.com/track/52fbwCOFmwK5sPqvPLoqX0) | [Quack Daddy](https://open.spotify.com/artist/5pQpmLfmcIePaE57T6Ae8w) | [Reboot Files](https://open.spotify.com/album/6MiaY57qDYIfs18MBDlZhw) | 2:12 |
-| 12 | [Mellow Hollow](https://open.spotify.com/track/53RyDun6INknVIOXfpetJp) | [Alma Revel](https://open.spotify.com/artist/59gWFo18Jb7jYjjZwSWO2u) | [Mellow Hollow](https://open.spotify.com/album/4x35fa1MmeoATpVuKiJH3d) | 4:06 |
-| 13 | [Sakto Na Sakto Ka](https://open.spotify.com/track/3CkBAmnbIVrr54DggyAjZb) | [Sentes](https://open.spotify.com/artist/5aprzKq05HPYoZgB14pUKp), [Regine Ylaya](https://open.spotify.com/artist/4yWJrlG9nkQrMHnMpr7mZH) | [Sakto Na Sakto Ka](https://open.spotify.com/album/4a35fEEK5wJHqWMlh5Luww) | 5:36 |
-| 14 | [Vem trodde](https://open.spotify.com/track/19Nacs0nOGa8k5w3Ulb4pY) | [Angelina Pavanelli](https://open.spotify.com/artist/2Q1zoh7mp07ods0rRoqL0i) | [Vem trodde](https://open.spotify.com/album/2LLYLKg61zkWxfnlqw3c5U) | 2:55 |
+| 1 | [For all of us](https://open.spotify.com/track/2ZSK6xmaWA23eK0ZEcjEcK) | [Sofia Gustavsson](https://open.spotify.com/artist/1HcKJT1IFyIX4JXs6PFGXW) | [For all of us](https://open.spotify.com/album/4H66fBpQ8pLit3PcTvH6qg) | 3:21 |
+| 2 | [La Cumbia Nos Salvará](https://open.spotify.com/track/3tF2HxLjEu8VrXE29esrEa) | [La Porteña y los Piratas](https://open.spotify.com/artist/0DKfMFEEr3YNpSu4kTKkPi), [Coco](https://open.spotify.com/artist/01gyW3asSLOYL87pARA8H3) | [La Cumbia Nos Salvará](https://open.spotify.com/album/6D4E6IgsQxGQ26cuwtdpWf) | 4:49 |
+| 3 | [Afternoon Tea](https://open.spotify.com/track/7fKNugNTYosFzKq1UQInbQ) | [Kevin Deelay](https://open.spotify.com/artist/0RCRpxwrCOshMuc8d8oKRd) | [Afternoon Tea](https://open.spotify.com/album/2C694VpXGNWsg6jeaRAkrq) | 9:04 |
+| 4 | [Otra noche sin vos](https://open.spotify.com/track/0Fm2oC8mLMj4DOJTFfQcSS) | [sofia cielo](https://open.spotify.com/artist/382EzjRj89g4PPUNSUaIWJ) | [Otra noche sin vos](https://open.spotify.com/album/0zQCL6vCMh50bXIj5RAdBa) | 3:29 |
+| 5 | [It's A Fine Day](https://open.spotify.com/track/7MGppTc4hg048XtjIKj4vB) | [Greyhawk](https://open.spotify.com/artist/2PqOwEG59E1HajP71KYAmp), [Vayy](https://open.spotify.com/artist/5eRcaAo2f00plYlCr1qHur) | [It's A Fine Day](https://open.spotify.com/album/1ziLoHVEW95s5CThXwXtwu) | 2:52 |
+| 6 | [It Shatters](https://open.spotify.com/track/78ZTBwcgBdbMhQwLEsQIJ0) | [Embassy](https://open.spotify.com/artist/115k3EPhvgGz9uIV9qtIX9) | [Pull Me Under](https://open.spotify.com/album/3yfU1RtkLnBvzkJMHrssYj) | 3:31 |
+| 7 | [DALI](https://open.spotify.com/track/2I08cPUg6wF8q2GDO7QSvU) | [MATADOR](https://open.spotify.com/artist/7cdWIOvXLgf4TvWM0EbQpX) | [DALI](https://open.spotify.com/album/1nLU8YUUKek7DycXIBkkPj) | 2:05 |
+| 8 | [Jenny mistet grepet](https://open.spotify.com/track/6tIT6ZO0T0Ba450hiy0pIM) | [Ødemark](https://open.spotify.com/artist/2I8lWGGMgslZUU5OFyyyl0) | [Jenny mistet grepet](https://open.spotify.com/album/0TPzUKk6MH7jBpzG6wCEjH) | 3:59 |
+| 9 | [Ett Moment](https://open.spotify.com/track/5RK7LrTJ0J06JORsNF1kJm) | [David Asker](https://open.spotify.com/artist/0Pm587E7OmdxNBC9K1CKfH), [Finn Broman](https://open.spotify.com/artist/6bMTqPkc3dztl92vNaJHqD), [Jamila Paco](https://open.spotify.com/artist/5BhpB2vL63ulGnXFlMgq7b) | [Ett Moment](https://open.spotify.com/album/0TTVe0vlscyfQK3pIyD6jK) | 3:17 |
+| 10 | [Parvet](https://open.spotify.com/track/1EcvTw68st4907cJusEiYq) | [Harha.](https://open.spotify.com/artist/0N3c7GrHRHSBIkd6jr3bY4) | [Sirpaleet](https://open.spotify.com/album/60070LBBcFqpGeCnhnRCx8) | 4:33 |
+| 11 | [dreaming](https://open.spotify.com/track/4zFl0rDVrOg5mRVku2UeBk) | [athens.](https://open.spotify.com/artist/3MM54dvqIUDqkXWCmriG47) | [dreaming](https://open.spotify.com/album/6iauyiLa1xLgVJMw7dSyuC) | 2:32 |
+| 12 | [Look Don't Stare](https://open.spotify.com/track/2DVhWFzxYh678vMw24qFk1) | [Sam Castillo](https://open.spotify.com/artist/3MneKrQJqRUYKFNpyN2WbM), [Solstice](https://open.spotify.com/artist/3a49ACnOULdvrrPM4fKGyM) | [Magnifico](https://open.spotify.com/album/5TL93ixWHvxbpAVEjzDMFz) | 3:47 |
+| 13 | [Stockholm](https://open.spotify.com/track/65kxxNvKhp6XRoQROzyCFk) | [Perfektina](https://open.spotify.com/artist/7g010WtPvLpwq24WtqOMJv), [Tonitobonito](https://open.spotify.com/artist/64TQw2h69A8B0U2ny1GV0e) | [Stockholm](https://open.spotify.com/album/4H2XPXuj9nXKxBwWhWlz5u) | 4:02 |
 
-Snapshot ID: `NzQzLDFhNzQ0ZDI3YjkwNjVhMjc3YjAwMDIyNGVhMGRmNzYyZWU1MmNjMzg=`
+Snapshot ID: `NzQ1LGZkNmUyMjc2NWRiZDBjNmEzMDFhMjYwN2U1OTAzMjU1YTJhZWU4NTI=`

@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-713 songs - 1 day 13 hr 35 min
+714 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Attention Caller](https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Hyper Focus](https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am) | 3:23 | 2019-05-26\* | 2020-01-09 |
 | [Aura](https://open.spotify.com/track/2FkTdGg3QqJt8ufTTJWIwJ) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Peace of Mind](https://open.spotify.com/album/3CuQ15YmucUEejU8ZgcrfH) | 3:18 | 2020-05-18 | 2021-09-14 |
 | [Aura](https://open.spotify.com/track/2quE9M1AL9B7T6iSjzeT0o) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:31 | 2022-01-19 |  |
-| [Aurora](https://open.spotify.com/track/3laOoR0JIzPzpuxYb8FATY) | [fast and sea](https://open.spotify.com/artist/0OZB4MfWAHgZvTSuYvzUu1) | [Beginnings](https://open.spotify.com/album/053CrHZvP78gwvw2hcy9lC) | 3:25 | 2022-03-17 |  |
+| [Aurora](https://open.spotify.com/track/3laOoR0JIzPzpuxYb8FATY) | [Melissa Styles](https://open.spotify.com/artist/5MJZC6Xx2EbqrBNbUHkyct) | [Beginnings](https://open.spotify.com/album/053CrHZvP78gwvw2hcy9lC) | 3:25 | 2022-03-17 |  |
 | [Austafjord](https://open.spotify.com/track/5I5p5yOVbTwGpJjD7q546j) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Austafjord / Lake Huron](https://open.spotify.com/album/3tM3nkQu2Wb5qlNg5ZB1Fa) | 4:28 | 2020-08-08 |  |
 | [Authentic](https://open.spotify.com/track/4WF88Pk0JMP7uOpdrd0bDL) | [Chév Asto](https://open.spotify.com/artist/13ZKAALykJ7sZ130Vh7Y2n) | [Authentic](https://open.spotify.com/album/1WbSf9I9KYSM8kBqmiYXhX) | 3:12 | 2022-02-15 |  |
 | [Autonomous Prospect](https://open.spotify.com/track/3Y2OkyO2dpNCAPb9z8lFhm) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Autonomous Prospect](https://open.spotify.com/album/2moGj52XeN5Rh9C2DALXMd) | 4:14 | 2019-06-29 | 2020-08-08 |
@@ -500,7 +500,7 @@
 | [Pure And Simple](https://open.spotify.com/track/4r5bGfbWE7xqjeGT6b7JqX) | [Edmund’s Oasis](https://open.spotify.com/artist/2iR51m8sjXwFULuJkterrJ) | [Pure And Simple](https://open.spotify.com/album/2a3C0VnpOuNkCvnMIY82mp) | 2:29 | 2022-03-25 |  |
 | [Purposes](https://open.spotify.com/track/6Ji4BNyWqNOilFD9AyD0o2) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 3:26 | 2019-10-26 | 2020-05-18 |
 | [Pyramid Train](https://open.spotify.com/track/5TZdub1bKTE2XEaBEQDUil) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Pyramid Train](https://open.spotify.com/album/0GYSu9KaftfjSxHE3vqW66) | 3:36 | 2020-08-08 |  |
-| [Quadrants](https://open.spotify.com/track/0Q3G0y7cRXoje2e5EFDliS) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Forest Findings](https://open.spotify.com/album/4U6Hovsc1nKIbRr1Qr5fBI) | 3:11 | 2019-05-26\* |  |
+| [Quadrants](https://open.spotify.com/track/0Q3G0y7cRXoje2e5EFDliS) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Forest Findings](https://open.spotify.com/album/4U6Hovsc1nKIbRr1Qr5fBI) | 3:11 | 2019-05-26\* | 2023-03-04 |
 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 | 2019-07-27 |  |
 | [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2021-09-04 |  |
 | [Quietud](https://open.spotify.com/track/5V5TF6nM3jYyvJENU2P8RK) | [Holographic Seawaves](https://open.spotify.com/artist/0DHRqGYLG6AaLUfbi8mUY1) | [Dusk Thoughts](https://open.spotify.com/album/2UY6uIUDMOrnqGrrSjbg7j) | 2:59 | 2020-08-08 |  |
@@ -713,6 +713,7 @@
 | [White Dove](https://open.spotify.com/track/0TXwtGVDlyxefhSQb8QCA3) | [TN2020](https://open.spotify.com/artist/5OhsS6nG8LaW0V6QtxIFr0) | [White Dove](https://open.spotify.com/album/3VxlCszbdAMtaEhlYRxFTY) | 3:30 | 2020-07-11 | 2022-10-08 |
 | [White Noise](https://open.spotify.com/track/4bRFA518eVXt6aXvf4YLVU) | [M1ND](https://open.spotify.com/artist/3opgcftoLQXdBYFrwP8xoR) | [Highs and Lows](https://open.spotify.com/album/44b7dcLecGIDWRNzfMUQ3x) | 2:51 | 2020-01-03 | 2021-09-14 |
 | [White Waves](https://open.spotify.com/track/2IqOZtwGjYV9sko1NCzbKI) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [White Waves](https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk) | 3:51 | 2019-05-26\* | 2020-05-18 |
+| [Wide Asleep](https://open.spotify.com/track/5QYou6mzGiQ4uG9Mzpq0pX) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Zenith](https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ) | 2:45 | 2023-03-03 |  |
 | [Wild Soul](https://open.spotify.com/track/0PSoQovKUDaVl7TBVGAmt4) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Dream Catcher](https://open.spotify.com/album/3JTj8NXeqCzU8DzEbEgp1S) | 3:29 | 2019-05-26\* | 2020-05-18 |
 | [Winds Of The Night](https://open.spotify.com/track/05IatHk1cfPpJ4ZQBc4O11) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Winds Of The Night](https://open.spotify.com/album/4Xr8mHp6ZIPsH7vuehshNq) | 2:34 | 2022-04-21 |  |
 | [With the Moon Behind](https://open.spotify.com/track/3kMB3ipBBWNUODlAEcV7K7) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [White Clouds](https://open.spotify.com/album/0WO028YYYmCsBtM6Jl8t0P) | 3:33 | 2021-01-29 |  |

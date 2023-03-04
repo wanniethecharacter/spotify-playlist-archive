@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-132 songs - 10 hr 30 min
+133 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [He's On My Heart](https://open.spotify.com/track/6O66F7vtQHe2mE9gB7QqiT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [CARE4LIFE](https://open.spotify.com/album/5UupDvLyN0JgQ5L67Lv63c) | 5:21 | 2021-10-15 | 2022-07-29 |
 | [Heatwave \- Original Mix](https://open.spotify.com/track/6iccdEeAj5VRj9sxGktXpr) | [Longhair](https://open.spotify.com/artist/2WF22b2JvLtjctIrrpN0LE) | [Heatwave EP](https://open.spotify.com/album/175AoJCvfqtXmRh9Umhyi3) | 5:12 | 2021-10-15 | 2022-07-14 |
 | [Holding You](https://open.spotify.com/track/5XkXjjM3TCqi6k1N4vSH2G) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Holding You](https://open.spotify.com/album/6uMnvI7PP9J0S3tpQJf625) | 5:08 | 2021-10-15 | 2022-07-29 |
+| [Hungboo \- DJ\-Kicks](https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [DJ\-Kicks EP](https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE) | 4:35 | 2022-07-20 |  |
 | [Idle](https://open.spotify.com/track/4nV7NfTgDupppPZf5ARmLY) | [Figgis](https://open.spotify.com/artist/5gPb5bWKSpRkBhLdlTZpiz) | [Idle](https://open.spotify.com/album/2jY7LdWedFXFppeqDTfGoq) | 4:59 | 2021-10-15 | 2022-07-28 |
 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 | 2022-07-20 |  |
 | [Indigo](https://open.spotify.com/track/0riJCeCbLqBwoVSnG3FMXM) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Indigo EP](https://open.spotify.com/album/4J4yF6eBnLo7w9NXu0S0TM) | 6:12 | 2021-10-15 | 2022-06-11 |
@@ -93,7 +94,7 @@
 | [Nocturnal Lady](https://open.spotify.com/track/0Hdzza1KQrGEzwVPtipMOq) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Nocturnal Lady](https://open.spotify.com/album/6Itkkv2vYKEZLJ4XBXPwLe) | 5:04 | 2021-10-15 | 2022-07-22 |
 | [Not Long Now](https://open.spotify.com/track/1OXRsNCso4znIoOrFGfJN5) | [Native Cruise](https://open.spotify.com/artist/7wmtRLIGKfnqzKBsGaVrAN) | [Human Nature EP](https://open.spotify.com/album/24U4WTZtCAjR7w3dcH4Wct) | 5:14 | 2021-10-15 | 2022-07-28 |
 | [Notforyou \(Jacana People Remix\)](https://open.spotify.com/track/76vBiX6QGPQxB58FcC6OxW) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Blue Coat, Red Dress Remixed, Pt\. 1](https://open.spotify.com/album/0tPHt8iFGIkpiW6Ao1U5lS) | 3:49 | 2021-10-15 | 2022-07-04 |
-| [Obvs](https://open.spotify.com/track/7HTnBZgjsp1T9uF286kQ7o) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 3:51 | 2022-07-20 |  |
+| [Obvs](https://open.spotify.com/track/7HTnBZgjsp1T9uF286kQ7o) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 3:51 | 2022-07-20 | 2023-03-04 |
 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 | 2021-10-15 | 2022-07-21 |
 | [On My Mind](https://open.spotify.com/track/0Ret48IIcgcQdB54orjZKS) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [On My Mind](https://open.spotify.com/album/7G1JFppuNI2Q0kSe2W2AkB) | 3:26 | 2021-10-15 | 2022-07-29 |
 | [One Last Time](https://open.spotify.com/track/3Rxehh3XVSFaKtLscJd3SM) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [All Visible Objects](https://open.spotify.com/album/7lYli0df1ql7AZCWNnUJuM) | 5:33 | 2021-10-15 | 2022-07-29 |

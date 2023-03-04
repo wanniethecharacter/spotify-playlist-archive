@@ -518,7 +518,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 287960,
       "name": "Cambi\u00e9 Pensar por Sentir",
       "url": "https://open.spotify.com/track/1ueN2wH0N12Yf8Ex3u7A4R"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 197525,
       "name": "Coraz\u00f3n Ruidoso",
       "url": "https://open.spotify.com/track/2tfzdblmcuXHAcEAEeYD9d"
@@ -984,10 +984,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 170486,
       "name": "Fashion Criminal",
       "url": "https://open.spotify.com/track/0azenPr5m8N2fGVkp5BEuw"
+    },
+    {
+      "album": {
+        "name": "Hyperreal",
+        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187348,
+      "name": "FIXXI\u00d3N",
+      "url": "https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg"
     },
     {
       "album": {
@@ -1081,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "Voz de Mujer",
+        "url": "https://open.spotify.com/album/2mdCSrZOhptXobgl9dJkCj"
+      },
+      "artists": [
+        {
+          "name": "Karen Lizarazo",
+          "url": "https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235880,
+      "name": "Ganas Locas",
+      "url": "https://open.spotify.com/track/0rS9kk4bI8tM044NB1Oh0b"
+    },
+    {
+      "album": {
         "name": "Epifan\u00edas",
         "url": "https://open.spotify.com/album/0MiX5iS0BA78SNf2EQ7wFz"
       },
@@ -1132,6 +1168,24 @@
       "duration_ms": 158284,
       "name": "Gravedad",
       "url": "https://open.spotify.com/track/6rHOqHrsEyQeX7X5pDtvv2"
+    },
+    {
+      "album": {
+        "name": "Guayabo",
+        "url": "https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW"
+      },
+      "artists": [
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152052,
+      "name": "Guayabo",
+      "url": "https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H"
     },
     {
       "album": {
@@ -2734,7 +2788,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 225935,
       "name": "Tu",
       "url": "https://open.spotify.com/track/5bQdprOeiheK9CqIYgUfPD"
@@ -3092,6 +3146,24 @@
       "duration_ms": 179377,
       "name": "\u00faltimo y primero",
       "url": "https://open.spotify.com/track/3hF6BMF3pT8MV6vWQZZI4h"
+    },
+    {
+      "album": {
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
+      },
+      "artists": [
+        {
+          "name": "Paola Navarrete",
+          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO"

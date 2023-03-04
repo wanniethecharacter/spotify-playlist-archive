@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,784 likes - 80 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,782 likes - 80 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 8 | [Sundown](https://open.spotify.com/track/1ZNBBIqH0beHORllNd3Uud) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86) | [Sundown](https://open.spotify.com/album/3Q7VU1KXqFwgvVqcf2RmTf) | 2:48 |
 | 9 | [Down River](https://open.spotify.com/track/4U09TYIzR2k3oo3gXiknjm) | [dryhope](https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t) | [Contrasts](https://open.spotify.com/album/7wDFM8dEj8csU071gXJmkH) | 2:24 |
 | 10 | [Great Fairy's Fountain](https://open.spotify.com/track/1umuPHLW27T84q7nap3Aer) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Great Fairy's Fountain](https://open.spotify.com/album/0B10tHXVpvJ2Ii6IKXUZuf) | 1:52 |
-| 11 | [looking through old pictures of us](https://open.spotify.com/track/76ypgNi0b7oDbboHzXi2qK) | [dankush](https://open.spotify.com/artist/4zxP5ygXMD6Ycjfi3M8Gkf) | [looking through old pictures of us](https://open.spotify.com/album/2QE3VXl4HdXYM1Vl8s7CWP) | 2:40 |
+| 11 | [](https://open.spotify.com/track/76ypgNi0b7oDbboHzXi2qK) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2QE3VXl4HdXYM1Vl8s7CWP) | 0:00 |
 | 12 | [hey x](https://open.spotify.com/track/0ux0CW8DioEvqSl1oI4mlV) | [Miro](https://open.spotify.com/artist/5xvi5IOvzPsJxrQwVYrOXw) | [hi, i'm minty](https://open.spotify.com/album/4EYbb8gsQGvQveOC4KzMDn) | 3:19 |
 | 13 | [Hourglass](https://open.spotify.com/track/1YYdaHYdCOCyAeWUfSiUkE) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Hourglass](https://open.spotify.com/album/2s5jwScnGM1tHRvVvHv1Iz) | 1:54 |
 | 14 | [in my head](https://open.spotify.com/track/7KwEzXyn7vmPHr7wqmThLA) | [anybodyy](https://open.spotify.com/artist/1aub8GgJikwSG4wUMWZrzl) | [a lifetime / in my head](https://open.spotify.com/album/63wBnahx47YdNGVY39pjDX) | 1:56 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 42 | [Paper Rattle](https://open.spotify.com/track/3GYEDucqkKwECJF5cXLVWo) | [123 Sleep](https://open.spotify.com/artist/5p2DzA0n3Ewwr3iDTVKtx5) | [Paper Rattle](https://open.spotify.com/album/43Ga8mWVba1e3EEqkFL0bw) | 2:34 |
 | 43 | [i'm not letting go](https://open.spotify.com/track/7aBbWuqVFbghu6BvGubcwr) | [bearbare](https://open.spotify.com/artist/6PKlFeLEuDwKi9jOLf6qWi), [IWL](https://open.spotify.com/artist/0WCI8FhrRg1eGElGlN6vD4) | [i'm not letting go](https://open.spotify.com/album/2I5qkZFD97FGh77QmoXRqf) | 2:05 |
 | 44 | [Lux](https://open.spotify.com/track/5KMcn8BC9HqgytDkT2oK7H) | [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S), [no one's perfect](https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX) | [Lux](https://open.spotify.com/album/5P5x5B74JxTD5WOviW26LY) | 1:59 |
-| 45 | [naked people that don't seem to mind](https://open.spotify.com/track/1EYBIeMUH0ZpdlB2iMvVKs) | [dankush](https://open.spotify.com/artist/4zxP5ygXMD6Ycjfi3M8Gkf) | [naked people that don't seem to mind](https://open.spotify.com/album/3sqRXNbhFBHPTx18HUVwby) | 2:08 |
+| 45 | [](https://open.spotify.com/track/1EYBIeMUH0ZpdlB2iMvVKs) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3sqRXNbhFBHPTx18HUVwby) | 0:00 |
 | 46 | [Compassion](https://open.spotify.com/track/0zdZeaDRFicceyjWsFNzlr) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [2 Am\. Study Session](https://open.spotify.com/album/4IGTs0cpVnm9qyGn02h1dB) | 2:13 |
 | 47 | [Bask](https://open.spotify.com/track/4rlum0TcLjkpL9yNigfs9g) | [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86) | [Bask](https://open.spotify.com/album/4lqdZp3M9Bdcd924ycbGJ1) | 2:18 |
 | 48 | [u said we were meant to be](https://open.spotify.com/track/5VXZcOrPWCSVeCAqiYSBOK) | [bearbare](https://open.spotify.com/artist/6PKlFeLEuDwKi9jOLf6qWi), [IWL](https://open.spotify.com/artist/0WCI8FhrRg1eGElGlN6vD4) | [u said we were meant to be](https://open.spotify.com/album/38RGBr2aAetZq0iw5dVvrq) | 1:35 |

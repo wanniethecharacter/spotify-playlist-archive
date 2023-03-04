@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 48186,
+  "num_followers": 48237,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMDMwNjg1ZjMzMDg0ZmVkYjk3YjgxNGI3ZTY3MzMwZTQ1",
+  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGY2YzQzZTY0YzNjYjM5MWU2YTgwYjE4YWU0MzFkM2Rl",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Minha Vida \u00c9 uma Viagem 5",
-        "url": "https://open.spotify.com/album/2DCbdwhK6SoBW9XawSSrbK"
-      },
-      "artists": [
-        {
-          "name": "Minha Vida \u00e9 Uma Viagem",
-          "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
-        }
-      ],
-      "duration_ms": 185585,
-      "name": "N\u00e3o Temos Medo do Fogo",
-      "url": "https://open.spotify.com/track/3tnh93byTIcpyhZYsLN93O"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Oceanos",
         "url": "https://open.spotify.com/album/3vt5PFQ9JUQbeL7AnfsK2j"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 234893,
       "name": "Oceanos",
       "url": "https://open.spotify.com/track/2Ehjl2vMGZhWsNwRco3hMu"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Minha Vida \u00c9 uma Viagem 5",
+        "url": "https://open.spotify.com/album/2DCbdwhK6SoBW9XawSSrbK"
+      },
+      "artists": [
+        {
+          "name": "Minha Vida \u00e9 Uma Viagem",
+          "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
+        }
+      ],
+      "duration_ms": 185585,
+      "name": "N\u00e3o Temos Medo do Fogo",
+      "url": "https://open.spotify.com/track/3tnh93byTIcpyhZYsLN93O"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Eu Canto pra Jesus",
-        "url": "https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ"
-      },
-      "artists": [
-        {
-          "name": "Rayne Almeida",
-          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
-        }
-      ],
-      "duration_ms": 181458,
-      "name": "Eu Canto pra Jesus",
-      "url": "https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Turminha da Cristina Mel - Fazendo a Diferen\u00e7a",
         "url": "https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX"
       },
@@ -235,18 +219,34 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Tesouro",
-        "url": "https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v"
+        "name": "Eu Canto pra Jesus",
+        "url": "https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ"
       },
       "artists": [
         {
-          "name": "Vaneyse",
-          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+          "name": "Rayne Almeida",
+          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
         }
       ],
-      "duration_ms": 205403,
-      "name": "Tesouro",
-      "url": "https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF"
+      "duration_ms": 181458,
+      "name": "Eu Canto pra Jesus",
+      "url": "https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 174660,
+      "name": "Corpo Perfeito",
+      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+        "name": "Tesouro",
+        "url": "https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
         }
       ],
-      "duration_ms": 174660,
-      "name": "Corpo Perfeito",
-      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
+      "duration_ms": 205403,
+      "name": "Tesouro",
+      "url": "https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Brincando de Escolinha",
-        "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
-      },
-      "artists": [
-        {
-          "name": "Vaneyse",
-          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
-        }
-      ],
-      "duration_ms": 186224,
-      "name": "Hit da Formiguinha",
-      "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Reluz",
         "url": "https://open.spotify.com/album/4Oolk7dVn9F9EfQoomK1w8"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 226486,
       "name": "Rei Davi",
       "url": "https://open.spotify.com/track/4v1Yf5GPWOAgOk67CSU0dP"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Brincando de Escolinha",
+        "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
+      },
+      "artists": [
+        {
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+        }
+      ],
+      "duration_ms": 186224,
+      "name": "Hit da Formiguinha",
+      "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
     },
     {
       "added_at": "2023-01-20 03:00:00",

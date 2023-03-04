@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-165 songs - 14 hr 31 min
+166 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Moonlight in Vermont](https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 5:17 | 2022-02-10 |  |
 | [Morning Bazaar](https://open.spotify.com/track/0i8VanadPWjrRCzvjR4fTz) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [The Fire Still Burns](https://open.spotify.com/album/3HUvPGNZSs8imtzPwD9n7J) | 5:12 | 2021-12-21 | 2022-07-29 |
 | [Morning Bazaar](https://open.spotify.com/track/2Ma2gyo1qXQu7DcKdN6Hg9) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [The Fire Still Burns](https://open.spotify.com/album/1nN7wLL6GA7xdcoI1L9BjS) | 5:12 | 2022-06-30 | 2023-02-16 |
+| [Morning Sun](https://open.spotify.com/track/3wM2sEe8qcWoAZWlXB6pj1) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [Morning Sun](https://open.spotify.com/album/4VB7PmeVHqaiA87rs77pRm) | 3:00 | 2023-03-04 |  |
 | [Mosaïque](https://open.spotify.com/track/46ENsWZeNIoYgu8VQfxhUc) | [Oilly Wallace](https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F), [Johannes Wamberg](https://open.spotify.com/artist/7yExmYa8Owoe73xabfjOWY) | [Mosaïque](https://open.spotify.com/album/0O9jMs6Dvt9L17P6KMChd5) | 4:45 | 2021-12-21 |  |
 | [My Song](https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Our Songs](https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF) | 3:44 | 2022-02-10 |  |
 | [New Beginnings](https://open.spotify.com/track/7hoAD7rYkx0l4m4tXT4ulp) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [New Beginnings](https://open.spotify.com/album/6WeZUZAkXHisdqgLgqSIQD) | 6:19 | 2022-04-22 | 2022-06-09 |
@@ -145,7 +146,7 @@
 | [The Starter](https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Starter](https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI) | 6:15 | 2023-01-03 |  |
 | [Thembi](https://open.spotify.com/track/6x4WAXhYazOoc0vCg2sybO) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/5bNLEyWCkiYC5ZoMxSWMWB) | 7:02 | 2021-12-21 | 2022-05-08 |
 | [Theo](https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [Bloodline](https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG) | 5:59 | 2022-02-10 | 2022-07-29 |
-| [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 |  |
+| [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 | 2023-03-04 |
 | [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 | 2022-10-25 |  |
 | [Throng](https://open.spotify.com/track/2Qd5FZiEDmePPjnLhJtle2) | [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Big Beat](https://open.spotify.com/album/6Yjy84o9dZ5ydgVPxQZObF) | 3:02 | 2021-12-21 | 2022-06-09 |
 | [To Mr K.K.](https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:30 | 2022-04-07 |  |

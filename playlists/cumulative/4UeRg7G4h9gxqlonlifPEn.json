@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 166651,
       "name": "(N) INE",
       "url": "https://open.spotify.com/track/7lC2H90qclM4JgyQz6H1ys"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 160033,
       "name": "Burglars & Murderers (feat. EST Gee)",
       "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 216135,
       "name": "Cash In Cash Out",
       "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 241643,
       "name": "Changed On Me (feat. Vory & Polo G)",
       "url": "https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 134320,
       "name": "Crocs",
       "url": "https://open.spotify.com/track/7L652Sm9c1PBnBPqdCA8RW"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 148816,
       "name": "Die Young (feat. 347aidan)",
       "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 210955,
       "name": "DMT Trip (feat. Lord Jah-Monte Ogbon)",
       "url": "https://open.spotify.com/track/3JTVqJoAFlGUal01D8qJ8s"
@@ -1302,10 +1302,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 192173,
       "name": "Duntsane",
       "url": "https://open.spotify.com/track/3xySxvtSaRaxQ4nr2VCWEc"
+    },
+    {
+      "album": {
+        "name": "Dusties",
+        "url": "https://open.spotify.com/album/07gLKffRhrhVRpgkqN6K28"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146629,
+      "name": "Dusties",
+      "url": "https://open.spotify.com/track/7kswp4MJqT6Ts9P0iVL3kg"
     },
     {
       "album": {
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 165754,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/4TZxTK5bGS8dxjLTjcQsxx"
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 155863,
       "name": "HOLY TRINITY (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/02D7cBNL1rpCkvTja8S1ns"
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 135264,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
@@ -2218,7 +2236,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 134763,
       "name": "Love Handles",
       "url": "https://open.spotify.com/track/0fpArlo0oqEeP0LcpqOH9c"
@@ -2541,6 +2559,24 @@
     },
     {
       "album": {
+        "name": "My Kind",
+        "url": "https://open.spotify.com/album/6l2LiKX9Y51YF9LsMxCaQ2"
+      },
+      "artists": [
+        {
+          "name": "Teflon Zay",
+          "url": "https://open.spotify.com/artist/3AFIv9mCacdqjnxIebQhbS"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184659,
+      "name": "My Kind",
+      "url": "https://open.spotify.com/track/1plHk1KHGjLoCjsH1UcsSL"
+    },
+    {
+      "album": {
         "name": "After The Curse",
         "url": "https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl"
       },
@@ -2798,10 +2834,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 225122,
       "name": "One Two (feat. YungManny)",
       "url": "https://open.spotify.com/track/0YLKjMNe2YtC5pzCyRoypZ"
+    },
+    {
+      "album": {
+        "name": "Oowee",
+        "url": "https://open.spotify.com/album/5IUYuj8QpII4Ve2X8rXoLo"
+      },
+      "artists": [
+        {
+          "name": "Yung Mal",
+          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Oowee",
+      "url": "https://open.spotify.com/track/3KK7yTK1jSDXLPKDGEsc7c"
     },
     {
       "album": {
@@ -2912,7 +2966,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-04",
       "duration_ms": 158006,
       "name": "Party of a Lifetime - Birthday Edit",
       "url": "https://open.spotify.com/track/0PtzOivdOKTEecvsHmEzSz"
@@ -2934,6 +2988,28 @@
       "duration_ms": 154510,
       "name": "PBC",
       "url": "https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU"
+    },
+    {
+      "album": {
+        "name": "Peaches & Eggplants (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/6Hj61lLEt0UxscLniz6h74"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203813,
+      "name": "Peaches & Eggplants (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
     },
     {
       "album": {
