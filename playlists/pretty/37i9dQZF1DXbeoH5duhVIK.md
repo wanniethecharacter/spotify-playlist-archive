@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,628 likes - 95 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,877 likes - 95 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 | 78 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
 | 79 | [Solo](https://open.spotify.com/track/6akbUdKlaJvU8nRKyJrvh3) | [Linda Mirada](https://open.spotify.com/artist/3HVwXZVVIC4IJgACkw3WEk) | [China Es Otra Cultura](https://open.spotify.com/album/3x47Nq7weIEuxFv0bjvZQg) | 4:26 |
 | 80 | [Use Me \(feat\. 070 Shake\)](https://open.spotify.com/track/6gqZzQyJfKqdc9boOILz4x) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:23 |
-| 81 | [Out of Control](https://open.spotify.com/track/2lWiS97zDwSv0L8eCWffDt) | [LIA](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Out of Control](https://open.spotify.com/album/5Hhqb13WkCzudxTsK0O2At) | 4:10 |
+| 81 | [Out of Control](https://open.spotify.com/track/2lWiS97zDwSv0L8eCWffDt) | [lia](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Out of Control](https://open.spotify.com/album/5Hhqb13WkCzudxTsK0O2At) | 4:10 |
 | 82 | [Fool's Gold](https://open.spotify.com/track/4g3Ukjr4di45qBKDiBnZAo) | [Smith James](https://open.spotify.com/artist/6r4RWzREDZB0bmSQ5JLZHM) | [Fool's Gold](https://open.spotify.com/album/7rrvKy77O9g5P3aTyRay1n) | 3:43 |
 | 83 | [FUBT](https://open.spotify.com/track/4IbsDEeHUBc5bvxslucY4T) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:13 |
 | 84 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 |

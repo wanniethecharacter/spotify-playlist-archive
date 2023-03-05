@@ -1409,6 +1409,28 @@
     },
     {
       "album": {
+        "name": "Big Talk",
+        "url": "https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160887,
+      "name": "Big Talk",
+      "url": "https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz"
+    },
+    {
+      "album": {
         "name": "Bigger Than Prince",
         "url": "https://open.spotify.com/album/5MEqbC6zcLtZY1OFeL7nPR"
       },
@@ -1500,7 +1522,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 214285,
       "name": "Blow Up",
       "url": "https://open.spotify.com/track/70U9s6WTk47vHL2Wo6CE6G"
@@ -3328,6 +3350,28 @@
       "duration_ms": 187086,
       "name": "Darkness Into Light (Deeper Purpose Remix)",
       "url": "https://open.spotify.com/track/6Hq2DcaM4JI2eHfrFcdrFX"
+    },
+    {
+      "album": {
+        "name": "Deceiver (VIP)",
+        "url": "https://open.spotify.com/album/0ZoupfyYTGUYKWTaZ8rymq"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155845,
+      "name": "Deceiver - VIP",
+      "url": "https://open.spotify.com/track/39aowVnxyzMDZOmrgsN4MU"
     },
     {
       "album": {
@@ -6068,7 +6112,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 151882,
       "name": "Goa",
       "url": "https://open.spotify.com/track/4gKkrfxd8FdKqIhiR0dmoF"
@@ -11997,6 +12041,24 @@
     },
     {
       "album": {
+        "name": "Oscill8",
+        "url": "https://open.spotify.com/album/7fXWo4R4IoLCQF6FMvoY2H"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204374,
+      "name": "Oscill8",
+      "url": "https://open.spotify.com/track/31Z3AuRnaj2ZLgZCWTqbLK"
+    },
+    {
+      "album": {
         "name": "Other Side",
         "url": "https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc"
       },
@@ -12374,6 +12436,24 @@
       "duration_ms": 163200,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3I3SHcoEiaoLSgfdryn3Om"
+    },
+    {
+      "album": {
+        "name": "Paralyzed By Your Eyes",
+        "url": "https://open.spotify.com/album/1kpcos1H8BuZHaauZAMMIg"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160476,
+      "name": "Paralyzed By Your Eyes",
+      "url": "https://open.spotify.com/track/5hEet4S4TiD6zw0C9ekzdt"
     },
     {
       "album": {
@@ -14818,7 +14898,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 193333,
       "name": "Sleep Alone",
       "url": "https://open.spotify.com/track/0qAXESAKhPGY9wcON9vzqu"
@@ -17740,7 +17820,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 198500,
       "name": "Virus",
       "url": "https://open.spotify.com/track/0jMyDN8P41tn4trFqdWXel"

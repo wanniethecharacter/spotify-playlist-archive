@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro.",
-  "num_followers": 26950,
+  "num_followers": 26993,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDE0OTRjYTMwYTIxYjYwZGRiNzJhYTZjM2M0ZjgzYTVm",
+  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDUwNzgxMTJjZDI2ZmE0ODgwZDAzMTFhNjFjNWQ0MGEw",
   "tracks": [
     {
       "added_at": "2023-03-03 00:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "OQCQZR",
         "url": "https://open.spotify.com/album/6MAMENT38JHlex9qNufnYI"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 182769,
       "name": "OQCQZR",
       "url": "https://open.spotify.com/track/5y2ZiYQjzY0dpWPYctp72c"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Jony Driver",
-        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Fe.",
-      "url": "https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "PARA SEMPRE",
         "url": "https://open.spotify.com/album/7rsjtUS9ofrZ9VTeIzpbtm"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 152139,
       "name": "PARA SEMPRE",
       "url": "https://open.spotify.com/track/1iGHa37wh2nlr4upmazMdS"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Jony Driver",
+        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Fe.",
+      "url": "https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1081,7 +1081,7 @@
         },
         {
           "name": "Naife",
-          "url": "https://open.spotify.com/artist/45rh6VhDYLqiKHZLFbFJhc"
+          "url": "https://open.spotify.com/artist/7KTQQgroIAmGaopulh98Bi"
         }
       ],
       "duration_ms": 204982,
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Vais e Vens",
-        "url": "https://open.spotify.com/album/7JTJxED0nTHR5L5JgVyfMf"
-      },
-      "artists": [
-        {
-          "name": "Ivo Soares",
-          "url": "https://open.spotify.com/artist/7lG5oTNwNk1Ddgv1zB75DT"
-        }
-      ],
-      "duration_ms": 173345,
-      "name": "Vais e Vens",
-      "url": "https://open.spotify.com/track/4K5rRMKfiXsH82sQtOYnl8"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "In The Middle",
         "url": "https://open.spotify.com/album/6etc4KshHLH0RaeZrr0Vgi"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Vais e Vens",
+        "url": "https://open.spotify.com/album/7JTJxED0nTHR5L5JgVyfMf"
+      },
+      "artists": [
+        {
+          "name": "Ivo Soares",
+          "url": "https://open.spotify.com/artist/7lG5oTNwNk1Ddgv1zB75DT"
+        }
+      ],
+      "duration_ms": 173345,
+      "name": "Vais e Vens",
+      "url": "https://open.spotify.com/track/4K5rRMKfiXsH82sQtOYnl8"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Friend Zone",
         "url": "https://open.spotify.com/album/4nyYQUcbQiFIoeWKx6ra23"
       },
@@ -1211,6 +1211,26 @@
       "duration_ms": 179464,
       "name": "Friend Zone",
       "url": "https://open.spotify.com/track/4miuy3pvA6hu4P064319An"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Gloss",
+        "url": "https://open.spotify.com/album/7KmJth0jOfGllWzKPDOEwp"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "duration_ms": 210309,
+      "name": "Gloss",
+      "url": "https://open.spotify.com/track/2HxXsZGRITgwkos69ZZtUe"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1251,78 +1271,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "At\u00e9 que vc volte",
-        "url": "https://open.spotify.com/album/7kRzljKDGhYWAe6Z6kRMVr"
-      },
-      "artists": [
-        {
-          "name": "Dougie Knight",
-          "url": "https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB"
-        }
-      ],
-      "duration_ms": 121693,
-      "name": "At\u00e9 que vc volte",
-      "url": "https://open.spotify.com/track/3WYMFOTpwNfbuT8vS67V3D"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Gloss",
-        "url": "https://open.spotify.com/album/7KmJth0jOfGllWzKPDOEwp"
-      },
-      "artists": [
-        {
-          "name": "Salah",
-          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
-        },
-        {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        }
-      ],
-      "duration_ms": 210309,
-      "name": "Gloss",
-      "url": "https://open.spotify.com/track/2HxXsZGRITgwkos69ZZtUe"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Feisty",
-        "url": "https://open.spotify.com/album/0A6tqNmExdFyRCPJZ5uM39"
-      },
-      "artists": [
-        {
-          "name": "Nova Wave",
-          "url": "https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv"
-        }
-      ],
-      "duration_ms": 161404,
-      "name": "Feisty",
-      "url": "https://open.spotify.com/track/1DQ9LTL8hdFkaErvlbCS10"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Quase Me Perdi",
-        "url": "https://open.spotify.com/album/6uPor1BpWCrFCOKYFGqQ8N"
-      },
-      "artists": [
-        {
-          "name": "Westy",
-          "url": "https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN"
-        },
-        {
-          "name": "In\u00eas Canelas",
-          "url": "https://open.spotify.com/artist/2kKHNDBmOyU6DpyIg9wLmz"
-        }
-      ],
-      "duration_ms": 233740,
-      "name": "Quase Me Perdi",
-      "url": "https://open.spotify.com/track/2f7Hnuoe0k1HPBZZCzSFKA"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz"
       },
@@ -1339,18 +1287,66 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Demais",
-        "url": "https://open.spotify.com/album/5SjLchkDLzAdhjTS8iUdZy"
+        "name": "At\u00e9 que vc volte",
+        "url": "https://open.spotify.com/album/7kRzljKDGhYWAe6Z6kRMVr"
       },
       "artists": [
         {
-          "name": "GBr\u00efsido",
-          "url": "https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy"
+          "name": "Dougie Knight",
+          "url": "https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB"
         }
       ],
-      "duration_ms": 187034,
-      "name": "Demais",
-      "url": "https://open.spotify.com/track/6rhYkzPcdqaDgBXhExYWWW"
+      "duration_ms": 121693,
+      "name": "At\u00e9 que vc volte",
+      "url": "https://open.spotify.com/track/3WYMFOTpwNfbuT8vS67V3D"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Ghetto",
+        "url": "https://open.spotify.com/album/6dbePtPdJQwhnBMYE3KlvD"
+      },
+      "artists": [
+        {
+          "name": "Pilitchi",
+          "url": "https://open.spotify.com/artist/4nDlpuHI1FcvN8RVEiixY4"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/6nu1Oh470nGqYRBe2KbxsS"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC"
+      },
+      "artists": [
+        {
+          "name": "Fran2785",
+          "url": "https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8"
+        }
+      ],
+      "duration_ms": 221198,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Feisty",
+        "url": "https://open.spotify.com/album/0A6tqNmExdFyRCPJZ5uM39"
+      },
+      "artists": [
+        {
+          "name": "Nova Wave",
+          "url": "https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv"
+        }
+      ],
+      "duration_ms": 161404,
+      "name": "Feisty",
+      "url": "https://open.spotify.com/track/1DQ9LTL8hdFkaErvlbCS10"
     }
   ],
   "unique_name": "Seda",

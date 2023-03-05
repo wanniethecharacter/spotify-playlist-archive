@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Neima Ezza, Icy Subzero&Tony Effe \(cover\), Bresh e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,683 likes - 73 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,709 likes - 73 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 42 | [Lacrime \(feat\. Zeta Cooper\) \[Dèsolè RMX\]](https://open.spotify.com/track/4wjV4XQBpZuGEPVSgXdQPO) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Zeta Cooper](https://open.spotify.com/artist/6YiWOx2th8mcrKHgZhfkIs) | [Lacrime \(feat\. Zeta Cooper\) \[Dèsolè RMX\]](https://open.spotify.com/album/0nRRbsuMaZ9bGoWkczXUqD) | 3:42 |
 | 43 | [NASTY](https://open.spotify.com/track/62qL3R7T6G4wgHBpZ8efBu) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [NASTY](https://open.spotify.com/album/03x49jYtwYvQuvAsiOdcm2) | 2:41 |
 | 44 | [MI CHIAMO GABRI](https://open.spotify.com/track/4YwAD8Tr0wID3Se1agEqX6) | [Reed](https://open.spotify.com/artist/4eFBfxE5UExIHvWamPhByA) | [MI CHIAMO GABRI](https://open.spotify.com/album/6mAqgaiYs09591irEhS61R) | 2:49 |
-| 45 | [Ricordi, millefiori](https://open.spotify.com/track/7DqdgIHxC2WOHuEJGbGOUJ) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO) | [Ricordi, millefiori](https://open.spotify.com/album/1N0JB4N14vZtHi9AukWoWX) | 2:58 |
+| 45 | [Ricordi, millefiori](https://open.spotify.com/track/7DqdgIHxC2WOHuEJGbGOUJ) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [Arden](https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI) | [Ricordi, millefiori](https://open.spotify.com/album/1N0JB4N14vZtHi9AukWoWX) | 2:58 |
 | 46 | [Oro nelle mani](https://open.spotify.com/track/7IQzxrymKCwfMSPjJouRdZ) | [Drimer](https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u) | [Scrivo Ancora 2](https://open.spotify.com/album/3euMLaFRB5RGYoSm5DNSrR) | 3:36 |
 | 47 | [HOT](https://open.spotify.com/track/6VEEoOaX6CXy8eejTQw40J) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [HOT](https://open.spotify.com/album/5vF1oUEwXJeNn7TqpXGG8N) | 2:26 |
 | 48 | [Bottega Veneta](https://open.spotify.com/track/46rwIGBkC812sMw6Mx7by6) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Bottega Veneta](https://open.spotify.com/album/7Ij9dmVsAUTvqDUWWybEew) | 2:41 |

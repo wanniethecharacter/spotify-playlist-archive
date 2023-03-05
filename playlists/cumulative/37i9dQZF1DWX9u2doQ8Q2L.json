@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 151253,
       "name": "Dude on horse (feat. ZOMBIE-CHANG)",
       "url": "https://open.spotify.com/track/34xqCjBT5u9p03QqRU5GsB"
@@ -2386,6 +2386,24 @@
       "duration_ms": 146176,
       "name": "gadja",
       "url": "https://open.spotify.com/track/3WACxt3lwEqbY472GCnK34"
+    },
+    {
+      "album": {
+        "name": "Garakuta",
+        "url": "https://open.spotify.com/album/1YXVCWVeFjXN9vDjH8Uark"
+      },
+      "artists": [
+        {
+          "name": "TEKE::TEKE",
+          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178813,
+      "name": "Garakuta",
+      "url": "https://open.spotify.com/track/6YshcqmnTv2PZQIcpULXql"
     },
     {
       "album": {
@@ -3798,8 +3816,8 @@
           "url": "https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ"
         },
         {
-          "name": "\u30de\u30cf\u30e9\u30fc\u30b8\u30e3\u30f3",
-          "url": "https://open.spotify.com/artist/77m3B5JqIr2YdD71lpezmd"
+          "name": "Maharajan",
+          "url": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
         }
       ],
       "date_added": "2023-02-28",

@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Singing From the Grave",
+        "url": "https://open.spotify.com/album/4rn3FV2buJHdwnUSJlGefa"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382040,
+      "name": "Du kan nu d\u00f6",
+      "url": "https://open.spotify.com/track/4eP1Q5ushSiXAoUsffB2aj"
+    },
+    {
+      "album": {
         "name": "D\u00f6da mig",
         "url": "https://open.spotify.com/album/7mgF19LOCuYQ5EE8Bti0yv"
       },
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 382040,
       "name": "Old Beauty/Du Kan Nu D\u00f6",
       "url": "https://open.spotify.com/track/4FJJq6FyEkdk6WZqQSKfMF"

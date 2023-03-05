@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Digiannia. Updates every Wednesday.",
-  "num_followers": 169074,
+  "num_followers": 169072,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY5MzYwMCwwMDAwMDAwMDUyNmJiOTI3YTM4OWI0MmY0MTM1OWU4YmFkMzEzMjc2",
+  "snapshot_id": "MTY3NzY5MzYwMCwwMDAwMDAwMDIzNTEwZWZmNTkxYTM2ZTRlNTc0YjRjODBmMjU4ZjU2",
   "tracks": [
     {
       "added_at": "2023-03-01 18:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "amarcura",
-        "url": "https://open.spotify.com/album/4WiIgth1UIs2eZwjsBpP0Q"
-      },
-      "artists": [
-        {
-          "name": "Alan Wittels",
-          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "cuando viajas",
-      "url": "https://open.spotify.com/track/1PYiR1w5DweGq9UhkfeO9J"
-    },
-    {
-      "added_at": "2023-03-01 18:00:00",
-      "album": {
         "name": "Parcerita",
         "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 166950,
       "name": "Parcerita",
       "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
+    },
+    {
+      "added_at": "2023-03-01 18:00:00",
+      "album": {
+        "name": "amarcura",
+        "url": "https://open.spotify.com/album/4WiIgth1UIs2eZwjsBpP0Q"
+      },
+      "artists": [
+        {
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "cuando viajas",
+      "url": "https://open.spotify.com/track/1PYiR1w5DweGq9UhkfeO9J"
     },
     {
       "added_at": "2023-03-01 18:00:00",
@@ -383,8 +383,8 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "\u00bfPara qu\u00e9?",
-        "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
+        "name": "Noche No Te Vayas",
+        "url": "https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
         }
       ],
-      "duration_ms": 220000,
-      "name": "\u00bfPara qu\u00e9?",
-      "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
+      "duration_ms": 170868,
+      "name": "Noche No Te Vayas",
+      "url": "https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv"
     },
     {
       "added_at": "2023-03-01 18:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "cuidao",
-        "url": "https://open.spotify.com/album/2h9bXFYYMaykZ3FlSGOSlj"
-      },
-      "artists": [
-        {
-          "name": "henry semler",
-          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "cuidao",
-      "url": "https://open.spotify.com/track/6B2xmQgcYZzDESQUjh2l55"
-    },
-    {
-      "added_at": "2023-03-01 18:00:00",
-      "album": {
         "name": "Doble Vida",
         "url": "https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 214125,
       "name": "Doble Vida",
       "url": "https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX"
+    },
+    {
+      "added_at": "2023-03-01 18:00:00",
+      "album": {
+        "name": "cuidao",
+        "url": "https://open.spotify.com/album/2h9bXFYYMaykZ3FlSGOSlj"
+      },
+      "artists": [
+        {
+          "name": "henry semler",
+          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "cuidao",
+      "url": "https://open.spotify.com/track/6B2xmQgcYZzDESQUjh2l55"
     },
     {
       "added_at": "2023-03-01 18:00:00",
@@ -551,8 +551,8 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "Noche No Te Vayas",
-        "url": "https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8"
+        "name": "\u00bfPara qu\u00e9?",
+        "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
         }
       ],
-      "duration_ms": 170868,
-      "name": "Noche No Te Vayas",
-      "url": "https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv"
+      "duration_ms": 220000,
+      "name": "\u00bfPara qu\u00e9?",
+      "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
     },
     {
       "added_at": "2023-03-01 18:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "San Menace",
-        "url": "https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW"
-      },
-      "artists": [
-        {
-          "name": "Pao Pestana",
-          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
-        }
-      ],
-      "duration_ms": 193957,
-      "name": "San Menace",
-      "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
-    },
-    {
-      "added_at": "2023-03-01 18:00:00",
-      "album": {
         "name": "Nobody Got It",
         "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 168071,
       "name": "Nobody Got It",
       "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
+    },
+    {
+      "added_at": "2023-03-01 18:00:00",
+      "album": {
+        "name": "San Menace",
+        "url": "https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW"
+      },
+      "artists": [
+        {
+          "name": "Pao Pestana",
+          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
+        }
+      ],
+      "duration_ms": 193957,
+      "name": "San Menace",
+      "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
     },
     {
       "added_at": "2023-03-01 18:00:00",

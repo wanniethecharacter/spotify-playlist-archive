@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: Gayance
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,983 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,016 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 65 | [What's Left?](https://open.spotify.com/track/1x4CYMn8vexAXb5ZgenZqu) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 2:51 |
 | 66 | [ESTÁS BUENÍSIMO](https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [ESTÁS BUENÍSIMO](https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5) | 3:31 |
 | 67 | [Kick In The Head](https://open.spotify.com/track/0o7a5d0ArD1f1Xwt7ld8EM) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:15 |
-| 68 | [Star Swing](https://open.spotify.com/track/5jbuRwBHBOgbAYOwL2V1Ib) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Star Swing](https://open.spotify.com/album/6akt3uS0ITQwGtYITcSQ7Q) | 3:35 |
+| 68 | [Star Swing](https://open.spotify.com/track/3dpYjY2eH9vGnrKJwA02MN) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Star Swing](https://open.spotify.com/album/1l2isTC25dStgGPL5mNtwS) | 3:35 |
 | 69 | [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 |
 | 70 | [In Between](https://open.spotify.com/track/4rQlCooK88oFN819QAduCw) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 4:16 |
 | 71 | [Unica](https://open.spotify.com/track/4VNRDuzDJGxNLtLBU816E0) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Amor Hardcore](https://open.spotify.com/album/3HAyLU5CetaZN8mRfI3aAv) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 |
 | 100 | [Bang](https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDg2YTk1MjAwYTAwZWFmZTAxNzM4MTUzZDRhZGQxNDAy`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDM2ODRhNjgyNGE4MWRjMDAyMTVjMjI5ODFiZDQ3Yzkx`

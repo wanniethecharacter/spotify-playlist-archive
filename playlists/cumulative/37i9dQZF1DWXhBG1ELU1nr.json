@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 189533,
       "name": "Lanterna Dos Afogados",
       "url": "https://open.spotify.com/track/34C0GaMKXuReggW9Ru18xH"
@@ -1320,6 +1320,24 @@
       "duration_ms": 189533,
       "name": "Lanterna Dos Afogados",
       "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
+    },
+    {
+      "album": {
+        "name": "No Trabalho",
+        "url": "https://open.spotify.com/album/0wn5W978GIp3dWWQv0JoTM"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189533,
+      "name": "Lanterna Dos Afogados",
+      "url": "https://open.spotify.com/track/5m7bNNH8M06CO1PyBxXpN3"
     },
     {
       "album": {

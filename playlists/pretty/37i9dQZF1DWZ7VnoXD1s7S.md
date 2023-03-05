@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,615 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,099 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 14 | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/track/2mei1NCzlPpkh98PzEqc4N) | [Maria Pseftoga](https://open.spotify.com/artist/0eiGR5RtOEfEFqRhSp6mIa), [May Roosevelt](https://open.spotify.com/artist/3Fs0Rcn2Ss2fqbrLvLN4Kt) | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/album/5bQrNKusEFt4fgS5z0Pjog) | 1:57 |
 | 15 | [Heartaches](https://open.spotify.com/track/6WPWEHhr1tdX2ZUAWBmksK) | [Al Bowlly](https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R), [Sid Phillips & His Melodians](https://open.spotify.com/artist/7nfhR4TR6hs89DEuGOv0y5) | [The Al Bowlly Collection 1927\-40, Vol\. 1](https://open.spotify.com/album/0q3hlkQANkjMg4SpmxD6kE) | 3:29 |
 | 16 | [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 |
-| 17 | [Infinite Cloud \(Interlude\)](https://open.spotify.com/track/6HiDjXA9BAlL5GeEDODUG0) | [Cian Sheehan](https://open.spotify.com/artist/4mgQWapgauZsgy2A3TkChi) | [Volumes](https://open.spotify.com/album/78Zu1m3LgUvvlwTMl3Mr9h) | 1:47 |
+| 17 | [Infinite Cloud \(Interlude\)](https://open.spotify.com/track/3DLQxbucEeoRwwqnsQsVha) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [Infinite Cloud \(Interlude\)](https://open.spotify.com/album/0shNzvOKNWHBzDS0SHKEet) | 1:47 |
 | 18 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 |
 | 19 | [Moog City](https://open.spotify.com/track/4Ar3oSp4bAw5gz22F70GM7) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 2:40 |
 | 20 | [Six Forty Seven](https://open.spotify.com/track/2WuK1opHQzRo18YXCtY2DF) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Six Forty Seven](https://open.spotify.com/album/0FawTVuFbmS9KLWA8TAtau) | 1:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 79 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 |
 | 80 | [Outro](https://open.spotify.com/track/21NW7Xx9N01FEqcKZzcmCT) | [Henry Nowhere](https://open.spotify.com/artist/4aftr1UuSVHhP5ISxMoObq) | [Henry Nowhere](https://open.spotify.com/album/5ayz7Qdd4R5OASJ7NE0doo) | 1:02 |
 
-Snapshot ID: `MTY3NTk3NzEzNywwMDAwMDAwMDY3YTQzNmI0MzRkYWM5ZmVmNTZhOTEyZWY4Y2MwZTlj`
+Snapshot ID: `MTY3NTk3NzEzNywwMDAwMDAwMDg5ZDYwMjNkYjU0NWJkOTc1MDYwN2M4NmRmZDU2OTI5`

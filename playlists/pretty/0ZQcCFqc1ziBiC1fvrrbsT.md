@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,286 likes - 47 songs - 2 hr 54 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,304 likes - 47 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 19 | [Pinking Shears](https://open.spotify.com/track/6BmSadZ6lheyXJTCAAoz8S) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Pinking Shears](https://open.spotify.com/album/5guHsw12TTqCttHzUTYh7b) | 2:32 |
 | 20 | [The Girl Is Crying In Her Latte](https://open.spotify.com/track/2tSQLJEofFdWIHSks5p0ii) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Girl Is Crying In Her Latte](https://open.spotify.com/album/1LlGhrbx2dgyTR8vGXpszz) | 2:56 |
 | 21 | [Upon My Soul](https://open.spotify.com/track/1E1MGS38KymkCJOENDPWlf) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU) | [Brothers & Sisters](https://open.spotify.com/album/6TraNOBSSA3snFw5gtbwwt) | 3:44 |
-| 22 | [Hot Penny Day \- Charlotte Adigéry & Bolis Pupul Remix](https://open.spotify.com/track/6jeT5uUwvSH0flS5nnm5mF) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl), [Charlotte Adigery](https://open.spotify.com/artist/7K2u30J0eiGEtJVVpnMvVP) | [Swampy EP](https://open.spotify.com/album/1VmrTROTocJs7TChmovroz) | 4:58 |
+| 22 | [Hot Penny Day \- Charlotte Adigéry & Bolis Pupul Remix](https://open.spotify.com/track/6jeT5uUwvSH0flS5nnm5mF) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl), [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy) | [Swampy EP](https://open.spotify.com/album/1VmrTROTocJs7TChmovroz) | 4:58 |
 | 23 | [Line In The Sand \- Alt Mix](https://open.spotify.com/track/5vr6LNQOg2Ns0kTRF0vxQ3) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [goddess](https://open.spotify.com/artist/2UgwBiqMsWyiPeqv4Ed3pi) | [Line In The Sand](https://open.spotify.com/album/20BFfzO2b1Swuq5cBThsW0) | 3:56 |
 | 24 | [Garakuta](https://open.spotify.com/track/6YshcqmnTv2PZQIcpULXql) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Garakuta](https://open.spotify.com/album/1YXVCWVeFjXN9vDjH8Uark) | 2:58 |
 | 25 | [Sleep Paralysis](https://open.spotify.com/track/0LjvZHv3JwuiFMpDh3gMKZ) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Big Ghost Ltd](https://open.spotify.com/artist/2ImVXJxagzYSK38S6qGBJ5), [Flee Lord](https://open.spotify.com/artist/3I6neO2jiyMa8arh6JBe7e), [D\-Styles](https://open.spotify.com/artist/0Xqx5Wr906GcxJnRNOCPSr) | [Noir Or Never](https://open.spotify.com/album/5TdTrWuj8y47xbr0is4BZI) | 2:55 |

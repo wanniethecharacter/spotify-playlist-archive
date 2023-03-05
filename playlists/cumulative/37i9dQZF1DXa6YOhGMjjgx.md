@@ -4,7 +4,7 @@
 
 > The best of today's true alternative rock scene\. Cover: The Luka State
 
-266 songs - 15 hr 23 min
+267 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [All Good People](https://open.spotify.com/track/47AxWcM1NsPvFawiY3Izln) | [allusinlove](https://open.spotify.com/artist/30f8y3JNhI5bOis0Sb2kdx) | [allusinlove](https://open.spotify.com/album/4q7aSxhn8fl5qvabivScyH) | 4:44 | 2021-03-31 | 2022-01-15 |
 | [Amsterdam](https://open.spotify.com/track/3meXdlcyYTgukuOfX6VyhJ) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Amsterdam](https://open.spotify.com/album/71KAS6yGlZYDXKhbP5osbP) | 4:32 | 2021-03-31 | 2022-04-29 |
 | [Apologies](https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Apologies](https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6) | 2:53 | 2023-01-27 |  |
-| [Around the Bend](https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC) | [Strata](https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv) | [Around the Bend](https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz) | 3:34 | 2021-03-31 |  |
+| [Around the Bend](https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC) | [Strata](https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv) | [Around the Bend](https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz) | 3:34 | 2021-03-31 | 2023-03-05 |
 | [Back Foot](https://open.spotify.com/track/6hZ11ThYoAHlLJsBK2U3jH) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Back Foot](https://open.spotify.com/album/4q7m6brjyKWXqpvyg3kAdQ) | 3:08 | 2021-03-31 |  |
 | [bad for you](https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [bad for you](https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb) | 1:54 | 2021-03-31 | 2023-01-28 |
 | [Bad Intentions](https://open.spotify.com/track/1UvVAqFey914WsoGQkNHxb) | [Bel Heir](https://open.spotify.com/artist/6dWCIQZ6CDTcwlEhqJJcml) | [Bad Intentions](https://open.spotify.com/album/0IFHKVvOJJOgFGCTXg1MFw) | 2:55 | 2021-03-31 | 2022-04-27 |
@@ -188,6 +188,7 @@
 | [One True Prince](https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:58 | 2022-04-29 |  |
 | [One True Prince](https://open.spotify.com/track/5wnITloAfJ33x0m1R0sQwF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [One True Prince](https://open.spotify.com/album/4PzJRdK8unANl6KqYrFjv1) | 3:58 | 2021-08-13 | 2022-07-29 |
 | [Oxygen Thief](https://open.spotify.com/track/59lsHvsyh49rejXU31xY2s) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Oxygen Thief](https://open.spotify.com/album/3HIalBoWd1Rx8a01MhuBhS) | 2:56 | 2022-01-21 | 2023-01-28 |
+| [Pay the Price](https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc) | [Glowing](https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm) | [Pay the Price](https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4) | 3:36 | 2023-03-01 |  |
 | [Pillar On The Bridge Of You](https://open.spotify.com/track/3quyci0xdEjIRQBusVGDL2) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Pillar On The Bridge Of You](https://open.spotify.com/album/2FdeUBg9yKyD9910MoqoO8) | 3:17 | 2022-04-29 | 2022-11-09 |
 | [Pillar on the Bridge of You](https://open.spotify.com/track/3xLmKij70Eq5j5MsLCFYLt) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Broken Equipment](https://open.spotify.com/album/7cQv9A3WQqO4qclDdN2gRB) | 3:17 | 2022-04-29 | 2023-01-15 |
 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 | 2023-03-01 |  |

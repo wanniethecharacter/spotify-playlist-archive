@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-209 songs - 15 hr 15 min
+210 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Life Goes On](https://open.spotify.com/track/7boNqK0KpoeNQjvYTYx1yi) | [Mika Arisaka](https://open.spotify.com/artist/23mgGAQU04Y9g3pyfwnpF0) | [Life Goes On](https://open.spotify.com/album/6ojkccMbds4v0v2Xk9EBHy) | 4:02 | 2022-07-27 |  |
 | [MAGIC](https://open.spotify.com/track/4aCbt9Tkvsbbs6C5yiiNzf) | [Jacob Wheeler](https://open.spotify.com/artist/1MkAnw2CpLgVIrjhKrbv4H) | [MAGIC](https://open.spotify.com/album/3zPCsEyprC959PeCIa2M4X) | 4:45 | 2022-07-27 |  |
 | [MAGIC TIME](https://open.spotify.com/track/6Unwf4vD3ygUvr39kEmIRV) | [sudannayuzuyully](https://open.spotify.com/artist/4AA6Dmgfg8CRDXoBAgnkvc) | [MAGIC TIME](https://open.spotify.com/album/5NgYsNywkut0VDktPlTW8u) | 4:04 | 2022-07-27 |  |
-| [Meguriai](https://open.spotify.com/track/2zg4wZXLu7p8NzTmXUJ6sf) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Meguriai](https://open.spotify.com/album/1lcV7AV2fvUbVCc4RoAWbW) | 5:33 | 2022-07-27 |  |
+| [Meguriai](https://open.spotify.com/track/2zg4wZXLu7p8NzTmXUJ6sf) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Meguriai](https://open.spotify.com/album/1lcV7AV2fvUbVCc4RoAWbW) | 5:33 | 2022-07-27 | 2023-03-05 |
+| [Meguriai \(feat\. GLIM SPANKY\)](https://open.spotify.com/track/7wEHIR6mQUCJ3FeFnWevue) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 5:36 | 2022-12-06 |  |
 | [MEN OF DESTINY](https://open.spotify.com/track/33ADttEjBp0OezBGBSauwl) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [MEN OF DESTINY](https://open.spotify.com/album/5tX39BmofBmrVr7tkq3zye) | 4:03 | 2022-07-27 |  |
 | [merry\-go\-round](https://open.spotify.com/track/4S0VjlSeynqtyeRRXzIyuR) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [CHEMISTRY 2001\-2011](https://open.spotify.com/album/2l8d2WWpeZ5qwlsrCTeSpR) | 4:04 | 2022-07-27 |  |
 | [merry\-go\-round](https://open.spotify.com/track/1CBa3cmTor6isivs7b21w9) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [merry\-go\-round](https://open.spotify.com/album/2wF4jvQ3eZkyzDNjDLljRa) | 4:06 | 2022-10-17 | 2022-11-13 |

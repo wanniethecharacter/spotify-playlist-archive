@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph?si=RA0yX1ZOSaunDLHgzBtmeg">Tanaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,560 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,564 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 35 | [Precious Bones](https://open.spotify.com/track/5rpsHM3MTRdnbg0aUS1ug1) | [Lakkabrah](https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR) | [Precious Bones](https://open.spotify.com/album/7K3ct7ITp62x1d05IjRUQi) | 3:07 |
 | 36 | [2 Old Dogs](https://open.spotify.com/track/6ACEwvi5FKRLxfS1t9T9uh) | [Lenoy Barkai](https://open.spotify.com/artist/5QFw3kKvmR91Rki5sRRmPP) | [Paper Crown](https://open.spotify.com/album/2wF8bjc8BojLDiuWm3DNKN) | 3:50 |
 | 37 | [Tell Me How](https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9) | [The Great Yawn](https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6) | [Tell Me How](https://open.spotify.com/album/57AGDnhGRf9z6tMpK1N5Br) | 4:53 |
-| 38 | [Desert In your eyes](https://open.spotify.com/track/6RYcaBTvCwmQLiruPbOHbL) | [Monsieur Minimal](https://open.spotify.com/artist/530wyaQMvivGiC0P00MUml) | [Desert In your eyes](https://open.spotify.com/album/1Vmb5FuW6WzrdWQrKpMQiw) | 4:26 |
+| 38 | [Desert in your eyes](https://open.spotify.com/track/6RYcaBTvCwmQLiruPbOHbL) | [Monsieur Minimal](https://open.spotify.com/artist/530wyaQMvivGiC0P00MUml) | [Desert in your eyes](https://open.spotify.com/album/1Vmb5FuW6WzrdWQrKpMQiw) | 4:26 |
 | 39 | [Raven's Nest](https://open.spotify.com/track/6lYBx2xoLtFDDBsDjmbf64) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Raven's Nest](https://open.spotify.com/album/2w17nBHfQsOySWxJYBjsed) | 3:21 |
 | 40 | [Everything Must Die](https://open.spotify.com/track/3bhxNf9wOTld9oHQ59DSEN) | [Kileza](https://open.spotify.com/artist/12ypK1yfRvOPCvB8qpCIAg) | [Everything Must Die](https://open.spotify.com/album/0jGs6UE55UuP5Rm6GQLM4l) | 5:59 |
 | 41 | [Best Mistake](https://open.spotify.com/track/3jboUfnR6kBPs2tak6KaKb) | [Cailyn Shelby](https://open.spotify.com/artist/5PoEZZBQBeImvPHCu7RH7N) | [Best Mistake](https://open.spotify.com/album/4JBnjtHQyc2ZtmW6Y3ZwZ1) | 3:21 |

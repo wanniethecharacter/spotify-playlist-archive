@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Roxie Węgiel
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,064 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,070 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Miasto](https://open.spotify.com/track/41yoryTVfbvh49lXKqKCc7) | [Roxie Węgiel](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Miasto](https://open.spotify.com/album/0N332tMHOmZS04Gpwb4hqv) | 2:25 |
 | 2 | [When It's Going Wrong](https://open.spotify.com/track/46rsYJCT5WAgzOzjTNZMVv) | [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [When It's Going Wrong](https://open.spotify.com/album/0VlMxPSC0bAUieTVGKxtiS) | 1:53 |
-| 3 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [Bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 |
+| 3 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [Bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [MJONSZU](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 |
 | 4 | [Bloodline](https://open.spotify.com/track/2GNPhhSY0Fwdd7s0MLR7Ws) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Bloodline](https://open.spotify.com/album/6jQ3xVBUKhF94X1kvScRnc) | 3:21 |
 | 5 | [Ziemia mi się pali](https://open.spotify.com/track/07GT7gM46skZfiKEpn9Xl0) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Ziemia mi się pali](https://open.spotify.com/album/7Ht9KqURmAKZYPEORr02ds) | 3:38 |
 | 6 | [Wars](https://open.spotify.com/track/4hp8pTno1hSvbWbG9MNFaD) | [nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Wars](https://open.spotify.com/album/6D8OUq7vQaZtcpIgQ2d17G) | 3:14 |

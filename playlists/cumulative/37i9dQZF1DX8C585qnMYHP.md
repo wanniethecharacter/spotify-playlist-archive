@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with Kate NV on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-1,204 songs - 4 day 1 hr 48 min
+1,205 songs - 4 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,7 +650,8 @@
 | [Mend](https://open.spotify.com/track/6ciKXSpDW8xnms4tWctjzR) | [Lucy Duncombe](https://open.spotify.com/artist/3It68RTn83sr4CoAGN4ZWQ) | [Brace/Mend](https://open.spotify.com/album/3Ss0T3XxCCEBLRW9FIL9qD) | 5:53 | 2021-08-12 | 2021-12-01 |
 | [Menneskekollektivet](https://open.spotify.com/track/2CDTbYv47zElGKdINofRah) | [Lost Girls](https://open.spotify.com/artist/6Kw9BTxzFraz25S8HCe8pQ), [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7), [Håvard Volden](https://open.spotify.com/artist/5qfLwIMPtIom9LXgMoRcw0) | [Menneskekollektivet](https://open.spotify.com/album/7Iyh2RBnWxZv6U7Th9v3zf) | 12:10 | 2021-02-26 | 2021-03-15 |
 | [Menos](https://open.spotify.com/track/3dh9ldPzzPhLj5MYEPlsik) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Temperatura](https://open.spotify.com/album/5oHvCZtymnTAZyO87Ek0CC) | 5:17 | 2021-03-07 | 2021-03-23 |
-| [meow chat](https://open.spotify.com/track/1p0AaLyZDjk19Bd8dnDFfG) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [meow chat](https://open.spotify.com/album/0nc73w5OD8c2DZKiSaPDaS) | 2:26 | 2023-02-01 |  |
+| [meow chat](https://open.spotify.com/track/1M1BkERJAqeSy043TRqQFJ) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [WOW](https://open.spotify.com/album/20TkyDiL0i1Szs5Kg9UieZ) | 2:26 | 2023-02-01 |  |
+| [meow chat](https://open.spotify.com/track/1p0AaLyZDjk19Bd8dnDFfG) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [meow chat](https://open.spotify.com/album/0nc73w5OD8c2DZKiSaPDaS) | 2:26 | 2023-02-01 | 2023-03-05 |
 | [mesomerism](https://open.spotify.com/track/4xmUHUy0FKbDoiX2dnJcB1) | [Federico Ferrandina](https://open.spotify.com/artist/4e2xdsWjF1WQGKUr3u09NW) | [mesomerism](https://open.spotify.com/album/52a2n5pmeHxD3BIwDjR82A) | 3:23 | 2021-03-18 | 2021-03-23 |
 | [Messy Orb](https://open.spotify.com/track/3Vevki3Av2wx1S5j1Od5fg) | [Bob Boilen](https://open.spotify.com/artist/5BQdg2fUFKdhtwWAOU6q18) | [Hidden Smiles](https://open.spotify.com/album/7d1tWxqSfdUBwB7FRqFJqU) | 3:49 | 2021-03-27 | 2021-04-15 |
 | [Mestizo](https://open.spotify.com/track/7ud8OXTSEOv4719EhEsejN) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [Fathom](https://open.spotify.com/album/7klCSWJBR3WE91bQ0lsxc1) | 5:50 | 2021-01-15 | 2021-03-11 |

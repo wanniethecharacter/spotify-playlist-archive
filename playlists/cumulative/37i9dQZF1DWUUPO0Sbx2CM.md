@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-361 songs - 20 hr 4 min
+362 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Heavenly \- Ethan C\. Davis Remix](https://open.spotify.com/track/5CpnqWOerx7I3rkThe5cyR) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II) | [Heavenly \(Ethan C\. Davis Remix\)](https://open.spotify.com/album/5jvHkWq48VJRuvAMLgpLon) | 3:42 | 2023-02-08 |  |
 | [Help Me \- Josh Ellis Remix](https://open.spotify.com/track/2KxYKAqHF02Tzi3ky7afRV) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf), [Josh Ellis](https://open.spotify.com/artist/3EvcwIGX0GYJFloHS7r9Tw) | [Help Me \(Josh Ellis Remix\)](https://open.spotify.com/album/3IEaMzg1WqQ1fZKIQ9Q1ME) | 2:29 | 2021-10-31 | 2022-07-29 |
 | [Help Me \- Remix](https://open.spotify.com/track/65nhpDbzSPax2Gq46dbat8) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf), [Josh Ellis](https://open.spotify.com/artist/3EvcwIGX0GYJFloHS7r9Tw) | [Help Me \(Remix\)](https://open.spotify.com/album/6bzyBO35AF4ro1au4ldI2S) | 2:29 | 2021-10-31 | 2023-02-08 |
+| [Help Me Let Go](https://open.spotify.com/track/1hbvXOQPUpodXhZ51ipfcZ) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 2:37 | 2023-03-05 |  |
 | [Help Me Let Go](https://open.spotify.com/track/6VUqwqfKjVUoh3swTzAlfO) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 2:37 | 2023-02-08 | 2023-02-19 |
 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 | 2023-02-14 |  |
 | [Hey You](https://open.spotify.com/track/4ic7zZbONHQ8KuIvJnWxiK) | [Trampolines](https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hey You](https://open.spotify.com/album/1vYhE0WyIrAHjMvFUiewCb) | 2:56 | 2023-02-08 |  |
@@ -159,7 +160,7 @@
 | [Hold On](https://open.spotify.com/track/4mTSFX7iAk4JN3IHu1qghA) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Hold On](https://open.spotify.com/album/2qJLcPbOmq2x6Cj0vOs9l5) | 3:54 | 2021-10-31 | 2022-05-06 |
 | [Hold You Tight](https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Hold You Tight](https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR) | 2:55 | 2023-02-08 |  |
 | [Holding Me Down](https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Holding Me Down](https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q) | 3:15 | 2021-10-31 | 2023-02-08 |
-| [Hosanna](https://open.spotify.com/track/0PGxqxuMbaCSkwmblGakuR) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [NEON Worship](https://open.spotify.com/artist/2j8LVMBgv0dkPvGrkh2k7z), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Hosanna](https://open.spotify.com/album/5g6eDFmLlTk0vyYH1YcKlF) | 3:28 | 2023-02-25 |  |
+| [Hosanna](https://open.spotify.com/track/0PGxqxuMbaCSkwmblGakuR) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [NEON Worship](https://open.spotify.com/artist/2j8LVMBgv0dkPvGrkh2k7z), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Hosanna](https://open.spotify.com/album/5g6eDFmLlTk0vyYH1YcKlF) | 3:28 | 2023-02-25 | 2023-03-05 |
 | [How You Love](https://open.spotify.com/track/1I2NEALPO5AC8mhgiXyBuV) | [Marci Coleman](https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs) | [How You Love](https://open.spotify.com/album/2eFIRZLzXKmFXsck5wNVyO) | 3:57 | 2021-10-31 | 2022-03-18 |
 | [Human \(Matthew Parker Remix\)](https://open.spotify.com/track/2NwLHtXx1LDo3wmjDbQVUH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Human \(Matthew Parker Remix\)](https://open.spotify.com/album/6ZIZXM1DADD0cdLNv654k8) | 4:05 | 2021-10-31 | 2022-06-05 |
 | [Human \(Matthew Parker Remix\)](https://open.spotify.com/track/5Vrm9AmA4OabpgwcHdLvFc) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Human \(Deluxe Edition\)](https://open.spotify.com/album/6GVLKFf3wY3iqtSvIRkznK) | 4:05 | 2021-10-31 | 2022-07-17 |

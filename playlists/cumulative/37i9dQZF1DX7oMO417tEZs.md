@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: Gayance
 
-713 songs - 1 day 15 hr 39 min
+714 songs - 1 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,7 +592,8 @@
 | [Spin It Round](https://open.spotify.com/track/74NJJ42SRcX9KAszsd3mrV) | [Miss McLeod](https://open.spotify.com/artist/0JeXxvHfbLkoMHmS8WJymy) | [Spin It Round](https://open.spotify.com/album/5FRdBuKBB1qwCZScBkyNzs) | 3:54 | 2022-06-24 | 2022-09-24 |
 | [SPLAT](https://open.spotify.com/track/71rw9MB77BR8LHMFZK8gKV) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [SPLAT](https://open.spotify.com/album/52ZIdjV2wJ5QMqeDevcpKM) | 2:05 | 2022-05-20 | 2022-06-18 |
 | [Stand Tall](https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f) | 3:57 | 2022-02-18 | 2022-05-14 |
-| [Star Swing](https://open.spotify.com/track/5jbuRwBHBOgbAYOwL2V1Ib) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Star Swing](https://open.spotify.com/album/6akt3uS0ITQwGtYITcSQ7Q) | 3:35 | 2023-01-20 |  |
+| [Star Swing](https://open.spotify.com/track/3dpYjY2eH9vGnrKJwA02MN) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Star Swing](https://open.spotify.com/album/1l2isTC25dStgGPL5mNtwS) | 3:35 | 2023-03-03 |  |
+| [Star Swing](https://open.spotify.com/track/5jbuRwBHBOgbAYOwL2V1Ib) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Star Swing](https://open.spotify.com/album/6akt3uS0ITQwGtYITcSQ7Q) | 3:35 | 2023-01-20 | 2023-03-05 |
 | [Stay With Me](https://open.spotify.com/track/0d4u84lrM6TxT7jv3Z8PEk) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Stay With Me](https://open.spotify.com/album/5IPdAqVvH4FPji2tEw9gu0) | 2:31 | 2022-10-28 | 2022-12-03 |
 | [STEPMOM](https://open.spotify.com/track/7DTuaFl2xYmGUgBKLXiOg5) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [STEPMOM](https://open.spotify.com/album/1qanV3YgwzGcpQxAfAaTrZ) | 3:04 | 2022-07-29 | 2022-11-19 |
 | [Still Not a Playa](https://open.spotify.com/track/0kTwzUwyXHngN2VIahINF8) | [Luu Breeze](https://open.spotify.com/artist/5B3Lma67FBdWs1R8m3BKUP) | [Still Not a Playa](https://open.spotify.com/album/7jsd5RS2LEKjhX4Ur7qAum) | 3:04 | 2022-05-27 | 2022-06-25 |

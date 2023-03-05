@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,991 likes - 35 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,011 likes - 35 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 9 | [The One](https://open.spotify.com/track/01Pfi7i0Kve9nTWQGyGYrd) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [The One](https://open.spotify.com/album/75hXgReGq2RApC1h02kutn) | 3:47 |
 | 10 | [With My Homies](https://open.spotify.com/track/1D4lTRCZdSDfz7IaYKj47Y) | [Sevens Muzik](https://open.spotify.com/artist/2rz8oshkpXTxnFgGrJNfSW), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [With My Homies](https://open.spotify.com/album/6jrOSts710hkWWHhKfxZbl) | 3:37 |
 | 11 | [Ain't Feelin Us](https://open.spotify.com/track/4N2d8NxscU9beBTC3qhT6P) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Ain't Feelin Us](https://open.spotify.com/album/2BYsQs4YSUjJHrITZaRn7F) | 2:33 |
-| 12 | [Known Spenders](https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Tour Files](https://open.spotify.com/album/5tV841HMNWVmlslSWL71xF) | 1:32 |
-| 13 | [Red on My Mind](https://open.spotify.com/track/0XnVY1Ws3KQrRa6yMiS0Cs) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Parkside Santa](https://open.spotify.com/album/6oKqbmIOIR3y4PS717x9KR) | 2:19 |
+| 12 | [Red on My Mind](https://open.spotify.com/track/0XnVY1Ws3KQrRa6yMiS0Cs) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Parkside Santa](https://open.spotify.com/album/6oKqbmIOIR3y4PS717x9KR) | 2:19 |
+| 13 | [Known Spenders](https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Tour Files](https://open.spotify.com/album/5tV841HMNWVmlslSWL71xF) | 1:32 |
 | 14 | [High](https://open.spotify.com/track/2nkPcGygBk0S7RTsWdFLr6) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [High](https://open.spotify.com/album/7v6fz2Sq43ZReewY3UOUOP) | 2:15 |
 | 15 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
 | 16 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 26 | [Face](https://open.spotify.com/track/3xZTXYCcXMj7gAEw6PtcOA) | [G\-Mainey](https://open.spotify.com/artist/6iwdaFkSnuPOovNDg8Wx94), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Face](https://open.spotify.com/album/0mPlZdCyMtoDtHJOylRGzk) | 2:40 |
 | 27 | [Gahdamn](https://open.spotify.com/track/3y1zka5AZI6PWmuSdfr681) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Gahdamn](https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0) | 2:33 |
 | 28 | [SLIDIN](https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [SLIDIN](https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk) | 2:38 |
-| 29 | [N.Y Minute](https://open.spotify.com/track/0ix2WlhdehNXbRd2ONcj2P) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [N.Y Minute](https://open.spotify.com/album/5dCxzCwyBmKntm5TkQZ1Q7) | 3:07 |
-| 30 | [For Real](https://open.spotify.com/track/6IzBIs6LHy8vs6mJfAoHvG) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm) | [For Real](https://open.spotify.com/album/482kHPPffbYQ6JW4ST1anV) | 3:39 |
+| 29 | [For Real](https://open.spotify.com/track/6IzBIs6LHy8vs6mJfAoHvG) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm) | [For Real](https://open.spotify.com/album/482kHPPffbYQ6JW4ST1anV) | 3:39 |
+| 30 | [N.Y Minute](https://open.spotify.com/track/0ix2WlhdehNXbRd2ONcj2P) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [N.Y Minute](https://open.spotify.com/album/5dCxzCwyBmKntm5TkQZ1Q7) | 3:07 |
 | 31 | [With Me](https://open.spotify.com/track/2oDh8f3JLuLORqQWNsghbd) | [Kujo the Savage](https://open.spotify.com/artist/1yfzFDrzyENCByIZVkLdFn), [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD) | [With Me](https://open.spotify.com/album/6sxDmYgvv43KjL9sMnDyiF) | 2:42 |
 | 32 | [Scared Of My Love](https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Scared Of My Love](https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG) | 2:25 |
 | 33 | [Intoxicated](https://open.spotify.com/track/3iXqT4RJIxiTDwBgGYk2fu) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [Intoxicated](https://open.spotify.com/album/3VRe7Q3WbWVvxohufXx1ea) | 3:12 |
 | 34 | [Vámonos](https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Chris Obannon](https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4) | [Vámonos](https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV) | 3:51 |
 | 35 | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL), [$tonehardt](https://open.spotify.com/artist/6L0fEdbyPCFjfm8f0Ap58i), [Dexter Cayn](https://open.spotify.com/artist/2xOGNq8UOojSAnw31dYfq2) | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk) | 2:55 |
 
-Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMDI4ZTY3M2FlMjliMDBjNDNmZTJhNzFiODgxZmRkZjEz`
+Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMGMxYTIwZmE2NTc4NTQwMDc0MmMyYWVhNzhiYTRmNDg1`

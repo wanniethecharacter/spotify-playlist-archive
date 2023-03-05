@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: TIM\u00d8",
-  "num_followers": 272758,
+  "num_followers": 272821,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDY4MmEzYmFlMmYxY2Y5OTg3NWY1Y2RmZDBhOTEzM2M1",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDQ4NGQ2NzE0NGRmNTM5YmFkMDgyZjYzYWU0NTYwMDk3",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -523,6 +523,26 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Me He Pillao x Ti",
+        "url": "https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 202250,
+      "name": "Me He Pillao x Ti",
+      "url": "https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Corriendo Con Tijeras",
         "url": "https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ"
       },
@@ -559,26 +579,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Me He Pillao x Ti",
-        "url": "https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 202250,
-      "name": "Me He Pillao x Ti",
-      "url": "https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Diferente ft CNCO",
         "url": "https://open.spotify.com/album/4QmDORaIrehe1FsixkVW79"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "La Idea",
         "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 194257,
       "name": "La Idea",
       "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Los Hombres Son Todos Iguales",
-        "url": "https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 244053,
-      "name": "Los Hombres Son Todos Iguales",
-      "url": "https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -707,6 +691,42 @@
       "duration_ms": 179013,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/6yWpPKvt3aJ22i2cpB2QTG"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Legendaria",
+        "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 179349,
+      "name": "Legendaria",
+      "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Los Hombres Son Todos Iguales",
+        "url": "https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 244053,
+      "name": "Los Hombres Son Todos Iguales",
+      "url": "https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -755,42 +775,6 @@
       "duration_ms": 154628,
       "name": "La Copa",
       "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Pl\u00e1stico",
-        "url": "https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "Pl\u00e1stico",
-      "url": "https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Legendaria",
-        "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 179349,
-      "name": "Legendaria",
-      "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -847,6 +831,22 @@
       "duration_ms": 155880,
       "name": "Tu Apodo",
       "url": "https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Pl\u00e1stico",
+        "url": "https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "Pl\u00e1stico",
+      "url": "https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN"
     },
     {
       "added_at": "2023-03-03 05:00:00",

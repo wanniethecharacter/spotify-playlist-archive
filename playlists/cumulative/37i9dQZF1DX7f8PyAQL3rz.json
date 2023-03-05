@@ -4107,7 +4107,7 @@
     },
     {
       "album": {
-        "name": "Zero Amor (feat. MC Tuto)",
+        "name": "Zero Amor (feat. MC Tuto, DJ Glenner)",
         "url": "https://open.spotify.com/album/6GTiXru2Ol2oKab0AZ96us"
       },
       "artists": [
@@ -4124,6 +4124,10 @@
           "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
         },
         {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
           "name": "MC Tuto",
           "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
         }
@@ -4132,7 +4136,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 298666,
-      "name": "Zero Amor (feat. MC Tuto)",
+      "name": "Zero Amor (feat. MC Tuto, DJ Glenner)",
       "url": "https://open.spotify.com/track/1lDyYAzt18bbDVbhAmd7US"
     }
   ],

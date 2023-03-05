@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "\u304d\u3089\u304d\u3089",
+        "url": "https://open.spotify.com/album/411ShZaP7vuopafIAwrgZp"
+      },
+      "artists": [
+        {
+          "name": "SHISHAMO",
+          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272277,
+      "name": "\u304d\u3089\u304d\u3089",
+      "url": "https://open.spotify.com/track/32lWfnbzsZTX02L3935VF7"
+    },
+    {
+      "album": {
         "name": "\u305d\u308c\u306f\u307e\u308b\u3067\u6620\u753b\u307f\u305f\u3044\u306a\u604b\u3060\u3063\u305f\u3002",
         "url": "https://open.spotify.com/album/42UJvpF23bGWbAY1xPSYEJ"
       },

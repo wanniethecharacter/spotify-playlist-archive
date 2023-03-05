@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 105273,
+  "num_followers": 105264,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMGI2OGM5N2I3ODBhNThkZjZmYjY1NTI0MjljMDlmZjIy",
+  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDNiMTM2NmJiY2U1Yjc4NzlmZmU2YzViMTlhNzU3Yzg5",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 243725,
-      "name": "xanny",
-      "url": "https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 205158,
       "name": "bloody valentine",
       "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 243725,
+      "name": "xanny",
+      "url": "https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Imploding The Mirage",
-        "url": "https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 269533,
-      "name": "Caution",
-      "url": "https://open.spotify.com/track/111HOSfnPX1mCxwwb49BCY"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Rare (Deluxe)",
         "url": "https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 161188,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/5EBtY2shIV1vmY4bnvvV6T"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Imploding The Mirage",
+        "url": "https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/111HOSfnPX1mCxwwb49BCY"
     },
     {
       "added_at": "2020-08-24 22:19:29",

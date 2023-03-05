@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Mission\u00e1rio Shalom, Entretons",
-  "num_followers": 288765,
+  "num_followers": 288876,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNzI4MSwwMDAwMDAwMDhmNDU3MDNlNjZlMGRiNTNmOGFhMmUxNDdkYzc5MTFj",
+  "snapshot_id": "MTY3NzIzNzI4MSwwMDAwMDAwMDMwMDIyN2U3ZjQxNjZjM2IwZmY2ZDBjODRlMzdmZDhl",
   "tracks": [
     {
       "added_at": "2023-02-10 12:28:24",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
-        "name": "DNA de Maria",
-        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "DNA de Maria",
-      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
-    },
-    {
-      "added_at": "2023-02-10 12:28:24",
-      "album": {
         "name": "Se Eu Tenho o Hoje",
         "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 327961,
       "name": "Se Eu Tenho o Hoje",
       "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
+    },
+    {
+      "added_at": "2023-02-10 12:28:24",
+      "album": {
+        "name": "DNA de Maria",
+        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "DNA de Maria",
+      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
     },
     {
       "added_at": "2023-02-10 12:28:24",
@@ -559,21 +559,21 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
-        "name": "Pelas M\u00e3os de Maria",
-        "url": "https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm"
+        "name": "Esp\u00edrito da Verdade",
+        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
         }
       ],
-      "duration_ms": 199344,
-      "name": "Pelas M\u00e3os de Maria",
-      "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
+      "duration_ms": 287303,
+      "name": "Se Eu Tocar",
+      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
     },
     {
-      "added_at": "2023-03-04 00:43:35",
+      "added_at": "2023-03-05 01:09:21",
       "album": {
         "name": "Cantai a Deus Com Alegria 2023",
         "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
-        "name": "Esp\u00edrito da Verdade",
-        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
+        "name": "Pelas M\u00e3os de Maria",
+        "url": "https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm"
       },
       "artists": [
         {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
         }
       ],
-      "duration_ms": 287303,
-      "name": "Se Eu Tocar",
-      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
+      "duration_ms": 199344,
+      "name": "Pelas M\u00e3os de Maria",
+      "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
     },
     {
       "added_at": "2023-02-10 12:28:24",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
+        "name": "Em Sil\u00eancio",
+        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        },
+        {
+          "name": "Padre Denis-Ricard",
+          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
+        }
+      ],
+      "duration_ms": 228125,
+      "name": "Em Sil\u00eancio",
+      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
+    },
+    {
+      "added_at": "2023-02-10 12:28:24",
+      "album": {
         "name": "Alma de Cristo",
         "url": "https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA"
       },
@@ -731,26 +751,6 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
-        "name": "Em Sil\u00eancio",
-        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        },
-        {
-          "name": "Padre Denis-Ricard",
-          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
-        }
-      ],
-      "duration_ms": 228125,
-      "name": "Em Sil\u00eancio",
-      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
-    },
-    {
-      "added_at": "2023-02-10 12:28:24",
-      "album": {
         "name": "Ressonhar",
         "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
-        "name": "Kyrios (Shalom Bras\u00edlia 20 Anos)",
-        "url": "https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 290552,
-      "name": "Todo Amor do Mundo",
-      "url": "https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM"
-    },
-    {
-      "added_at": "2023-02-10 12:28:24",
-      "album": {
         "name": "Deus V\u00ea",
         "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 249940,
       "name": "Deus V\u00ea",
       "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+    },
+    {
+      "added_at": "2023-02-10 12:28:24",
+      "album": {
+        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 384059,
+      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
     },
     {
       "added_at": "2023-02-10 12:28:24",
@@ -847,6 +847,22 @@
       "duration_ms": 262000,
       "name": "Acalma o Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
+    },
+    {
+      "added_at": "2023-02-10 12:28:24",
+      "album": {
+        "name": "Kyrios (Shalom Bras\u00edlia 20 Anos)",
+        "url": "https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 290552,
+      "name": "Todo Amor do Mundo",
+      "url": "https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM"
     },
     {
       "added_at": "2023-02-10 12:28:24",
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        }
-      ],
-      "duration_ms": 384059,
-      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
-    },
-    {
-      "added_at": "2023-02-10 12:28:24",
-      "album": {
         "name": "J\u00e1 Deu Certo",
         "url": "https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 276885,
       "name": "J\u00e1 Deu Certo",
       "url": "https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3"
+    },
+    {
+      "added_at": "2023-03-05 01:09:21",
+      "album": {
+        "name": "Ana e Maria",
+        "url": "https://open.spotify.com/album/6jjVrZBuB3fRQmqiV9C2Jp"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "duration_ms": 229320,
+      "name": "Ana e Maria",
+      "url": "https://open.spotify.com/track/6Z5u1AKPvXMtIJaKah0KeM"
     },
     {
       "added_at": "2023-02-10 12:28:24",
@@ -979,22 +995,6 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
-        "name": "Reinflama",
-        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
-      },
-      "artists": [
-        {
-          "name": "Flavinho",
-          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
-        }
-      ],
-      "duration_ms": 231796,
-      "name": "Reinflama",
-      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
-    },
-    {
-      "added_at": "2023-02-10 12:28:24",
-      "album": {
         "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
         "url": "https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi"
       },
@@ -1013,20 +1013,36 @@
       "url": "https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn"
     },
     {
-      "added_at": "2023-03-04 00:43:35",
+      "added_at": "2023-02-10 12:28:24",
       "album": {
-        "name": "Ana e Maria",
-        "url": "https://open.spotify.com/album/6jjVrZBuB3fRQmqiV9C2Jp"
+        "name": "Reinflama",
+        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
       },
       "artists": [
         {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+          "name": "Flavinho",
+          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
         }
       ],
-      "duration_ms": 229320,
-      "name": "Ana e Maria",
-      "url": "https://open.spotify.com/track/6Z5u1AKPvXMtIJaKah0KeM"
+      "duration_ms": 231796,
+      "name": "Reinflama",
+      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
+    },
+    {
+      "added_at": "2023-02-10 12:28:24",
+      "album": {
+        "name": "Acalma Minha Tempestade",
+        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
+      },
+      "artists": [
+        {
+          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
+          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
+        }
+      ],
+      "duration_ms": 322512,
+      "name": "Acalma Minha Tempestade",
+      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
     },
     {
       "added_at": "2023-02-10 12:28:24",
@@ -1063,22 +1079,6 @@
       "duration_ms": 224000,
       "name": "Bom \u00c9 Estarmos Aqui",
       "url": "https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j"
-    },
-    {
-      "added_at": "2023-02-10 12:28:24",
-      "album": {
-        "name": "Acalma Minha Tempestade",
-        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
-      },
-      "artists": [
-        {
-          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
-          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
-        }
-      ],
-      "duration_ms": 322512,
-      "name": "Acalma Minha Tempestade",
-      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
     },
     {
       "added_at": "2023-02-10 12:28:24",

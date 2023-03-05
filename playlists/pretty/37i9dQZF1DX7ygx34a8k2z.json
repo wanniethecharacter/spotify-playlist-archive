@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 114509,
+  "num_followers": 114688,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1MzE3NiwwMDAwMDAwMDJjY2U4ZGRlNzk2Y2ZkMGI5ZGViNmE1ZGUwNTY5YjM2",
+  "snapshot_id": "MTY3MzQ1MzE3NiwwMDAwMDAwMDI4MjAwNzQ2M2NjYzFkMjk5ZmY1MjBiMmE1ODcyNWJk",
   "tracks": [
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
+        "name": "Beautiful Freak",
+        "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
       },
       "artists": [
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Girl From Mars",
-      "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
+      "duration_ms": 188693,
+      "name": "Novocaine For The Soul",
+      "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Beautiful Freak",
-        "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
+        "name": "1977",
+        "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
       },
       "artists": [
         {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
         }
       ],
-      "duration_ms": 188693,
-      "name": "Novocaine For The Soul",
-      "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
+      "duration_ms": 210200,
+      "name": "Girl From Mars",
+      "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
+        "name": "Ill Communication",
+        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "Get It Together",
+      "url": "https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
         "name": "Ladies and gentlemen we are floating in space",
         "url": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 188146,
       "name": "Can't Hardly Wait - 2008 Remaster",
       "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
-        "name": "Ill Communication",
-        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "Get It Together",
-      "url": "https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Stoned and Dethroned",
-        "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
+        "name": "Refried Ectoplasm [Switched On Volume 2]",
+        "url": "https://open.spotify.com/album/44hyVkJM5NHGkQH48MWkid"
       },
       "artists": [
         {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
         }
       ],
-      "duration_ms": 151960,
-      "name": "Sometimes Always",
-      "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
+      "duration_ms": 215825,
+      "name": "French Disko",
+      "url": "https://open.spotify.com/track/4Zb88sF1Qj778KV5lstVxT"
     }
   ],
   "unique_name": "Thrifted",

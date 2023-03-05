@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: lau.ra & Dope Earth Alien",
-  "num_followers": 200845,
+  "num_followers": 200957,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MTQ0NywwMDAwMDAwMDE3MjQ2NzRjMDhlZjYzZTAwNzY1OTc2OTYxMTM2ODUx",
+  "snapshot_id": "MTY3Nzg2MTQ0NywwMDAwMDAwMDY0ZTk0OTI2NmYwOWVhOWY0ZjQ0MTc4ZGM2MmI0Yjkz",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -601,6 +601,26 @@
       "url": "https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Hit 'Em Up Style (Oops!)",
+        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Outer Space",
@@ -639,26 +659,6 @@
       "duration_ms": 140645,
       "name": "Be Here (La La La)",
       "url": "https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Hit 'Em Up Style (Oops!)",
-        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        },
-        {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
-        }
-      ],
-      "duration_ms": 159840,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 221669,
-      "name": "Resonate",
-      "url": "https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Fall Apart",
@@ -735,6 +719,22 @@
       "duration_ms": 320853,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 221669,
+      "name": "Resonate",
+      "url": "https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -833,26 +833,6 @@
       "url": "https://open.spotify.com/track/1vlnbR9iKNLCAlEDNSBrxj"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Losing",
-        "url": "https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad"
-      },
-      "artists": [
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        },
-        {
-          "name": "Arya",
-          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Losing",
-      "url": "https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "B\u20acNZ",
@@ -875,6 +855,26 @@
       "duration_ms": 244218,
       "name": "B\u20acNZ",
       "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Losing",
+        "url": "https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Losing",
+      "url": "https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1017,38 +1017,6 @@
       "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Bugbeat",
-        "url": "https://open.spotify.com/album/0BqdtICrtwzq8DMf7NXATV"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 179094,
-      "name": "Bugbeat",
-      "url": "https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Loca People",
-        "url": "https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 158437,
-      "name": "Loca People",
-      "url": "https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Push To Start (feat. No/Me)",
@@ -1071,6 +1039,38 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Loca People",
+        "url": "https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 158437,
+      "name": "Loca People",
+      "url": "https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Bugbeat",
+        "url": "https://open.spotify.com/album/0BqdtICrtwzq8DMf7NXATV"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "Bugbeat",
+      "url": "https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1269,6 +1269,26 @@
       "url": "https://open.spotify.com/track/71YW4ULePshglTMFK3xc29"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "HEAVENS DOOR",
+        "url": "https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "HEAVENS DOOR",
+      "url": "https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "MAS GASOLINA (feat. N.F.I) [Raffa FL Remix]",
@@ -1295,26 +1315,6 @@
       "duration_ms": 195838,
       "name": "MAS GASOLINA (feat. N.F.I) - Raffa FL Remix",
       "url": "https://open.spotify.com/track/2bN2G0rRvutCS9VscUvdtr"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "HEAVENS DOOR",
-        "url": "https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        },
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "HEAVENS DOOR",
-      "url": "https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1393,6 +1393,26 @@
       "url": "https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Molotov",
+        "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 178065,
+      "name": "Molotov",
+      "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
+    },
+    {
       "added_at": "2022-11-18 15:52:09",
       "album": {
         "name": "Talk To Me (with BRUX)",
@@ -1417,6 +1437,38 @@
       "url": "https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Slang Bang",
+        "url": "https://open.spotify.com/album/0KEhLU0pumICuuu387MJ5Z"
+      },
+      "artists": [
+        {
+          "name": "Greeko",
+          "url": "https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH"
+        }
+      ],
+      "duration_ms": 204651,
+      "name": "Slang Bang",
+      "url": "https://open.spotify.com/track/2qYh4nKrsYsXb3T7U1VWxi"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Fuck Right Off",
+        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "duration_ms": 159252,
+      "name": "Fuck Right Off",
+      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "All I Want",
@@ -1437,22 +1489,6 @@
       "url": "https://open.spotify.com/track/1azvFwFJWipzA89MPBRMfj"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Slang Bang",
-        "url": "https://open.spotify.com/album/0KEhLU0pumICuuu387MJ5Z"
-      },
-      "artists": [
-        {
-          "name": "Greeko",
-          "url": "https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH"
-        }
-      ],
-      "duration_ms": 204651,
-      "name": "Slang Bang",
-      "url": "https://open.spotify.com/track/2qYh4nKrsYsXb3T7U1VWxi"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Majestic (Ride or Die)",
@@ -1467,26 +1503,6 @@
       "duration_ms": 188095,
       "name": "Majestic (Ride or Die)",
       "url": "https://open.spotify.com/track/19zxhHtJMYoCuR5dmFJ1WN"
-    },
-    {
-      "added_at": "2022-11-18 15:52:09",
-      "album": {
-        "name": "Step Into It",
-        "url": "https://open.spotify.com/album/4TyRY68LRAM61BRBKDNiNq"
-      },
-      "artists": [
-        {
-          "name": "Return Of The Jaded",
-          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
-        },
-        {
-          "name": "Karsten Sollors",
-          "url": "https://open.spotify.com/artist/0ltQvvKInsKwRwpg6sDW35"
-        }
-      ],
-      "duration_ms": 189189,
-      "name": "Step Into It",
-      "url": "https://open.spotify.com/track/5NTuMqHe6C2wPNB6pRxnT0"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1513,20 +1529,24 @@
       "url": "https://open.spotify.com/track/2EZPBMS2uL5CoI0P0wmlWt"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2022-11-18 15:52:09",
       "album": {
-        "name": "Fuck Right Off",
-        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
+        "name": "Step Into It",
+        "url": "https://open.spotify.com/album/4TyRY68LRAM61BRBKDNiNq"
       },
       "artists": [
         {
-          "name": "Aliiias",
-          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
+        },
+        {
+          "name": "Karsten Sollors",
+          "url": "https://open.spotify.com/artist/0ltQvvKInsKwRwpg6sDW35"
         }
       ],
-      "duration_ms": 159252,
-      "name": "Fuck Right Off",
-      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
+      "duration_ms": 189189,
+      "name": "Step Into It",
+      "url": "https://open.spotify.com/track/5NTuMqHe6C2wPNB6pRxnT0"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1571,30 +1591,6 @@
       "duration_ms": 198425,
       "name": "Action",
       "url": "https://open.spotify.com/track/4tSeDdrzZtGpEuKjSJFcl2"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Emerald",
-        "url": "https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "rSUN",
-          "url": "https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo"
-        },
-        {
-          "name": "Deliriousninja",
-          "url": "https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk"
-        }
-      ],
-      "duration_ms": 177441,
-      "name": "Emerald",
-      "url": "https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B"
     }
   ],
   "unique_name": "Bangers",

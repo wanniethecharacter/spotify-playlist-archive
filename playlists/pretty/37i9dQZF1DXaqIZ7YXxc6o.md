@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Sigala, Caity Baser, Stefflon Don, Mae Muller
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,231 likes - 111 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,249 likes - 111 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

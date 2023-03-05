@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: Lani Rose
 
-261 songs - 16 hr 18 min
+262 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,11 +36,12 @@
 | [Changes \- Guitarmix](https://open.spotify.com/track/1lq3tG50UFLWpmbFostGPS) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Changes \(Guitarmix\)](https://open.spotify.com/album/4etzZKMzM0fhK5oyrnHyxo) | 2:30 | 2023-02-19 |  |
 | [Changing](https://open.spotify.com/track/3J8anA9EbYJqXlJqaisAdN) | [Pauline Zoe Park](https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T) | [Changing](https://open.spotify.com/album/64N5jJtHEd3aVePrdMr8kV) | 3:45 | 2023-02-19 |  |
 | [Chariots \- Live](https://open.spotify.com/track/0lucLOAYQB0gpxARVqH7Mz) | [Freedom Church](https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh) | [Chariots \(Live\)](https://open.spotify.com/album/219sQ1lUO7Yxg8pFDNIn58) | 6:22 | 2023-02-19 | 2023-03-01 |
+| [Chariots \- Live](https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH) | [Freedom Church](https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh) | [Barbarians \(Live\)](https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo) | 6:22 | 2023-02-24 |  |
 | [Clarity](https://open.spotify.com/track/4rJRXfmZ20U2Xp0yIDoLGb) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Clarity](https://open.spotify.com/album/5A77Lh2xcL71y5pLXeBZGC) | 2:35 | 2023-02-19 |  |
 | [Clearly](https://open.spotify.com/track/4hjtTg7x0FqTXGnSCZn4wo) | [Hillside Recording](https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN) | [Clearly](https://open.spotify.com/album/4Q95eBuOjZfZWUXzurYl8u) | 3:43 | 2023-02-19 |  |
 | [Closer Than a Brother](https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Closer Than a Brother](https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx) | 5:09 | 2020-12-18 | 2023-02-19 |
 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/5kbl04brVXsCOyDIHPVStj) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/0makQ28NRMiZ1RsM9sUozp) | 4:23 | 2020-12-18 | 2023-02-19 |
-| [Come Through](https://open.spotify.com/track/0C6tVPgbcGZSAxiufu9LnT) | [Emilie Weiss](https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg) | [Come Through](https://open.spotify.com/album/39Wy7Mpzcj7LIiCFkbYoUu) | 4:11 | 2023-02-24 |  |
+| [Come Through](https://open.spotify.com/track/0C6tVPgbcGZSAxiufu9LnT) | [Emilie Weiss](https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg) | [Come Through](https://open.spotify.com/album/39Wy7Mpzcj7LIiCFkbYoUu) | 4:11 | 2023-02-24 | 2023-03-05 |
 | [Come What May](https://open.spotify.com/track/75JkjrI5b3qAufON4SWrBm) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Come What May / Thought I Could Manage](https://open.spotify.com/album/4WqqatnIZhbNV2Ev91OsOD) | 4:52 | 2020-12-18 | 2023-02-19 |
 | [Communion](https://open.spotify.com/track/797iTBEDnnkVfhBPNC17af) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Fractioned Heart](https://open.spotify.com/album/4dPbUeI5mJoGjaUebBpIFL) | 4:58 | 2020-12-18 | 2023-02-19 |
 | [confession](https://open.spotify.com/track/5Qz5MH0tnp5Hu1WNc7ZC13) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl), [bamblume](https://open.spotify.com/artist/3ksErgBScGFWxtkUADzJPv) | [confession](https://open.spotify.com/album/0p4tXSrdjADZe81kIprf8i) | 3:21 | 2023-02-24 |  |

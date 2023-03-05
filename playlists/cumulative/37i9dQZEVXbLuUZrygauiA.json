@@ -5010,7 +5010,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 249375,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
@@ -9212,7 +9212,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 127848,
       "name": "Ma\u00f1ana Sera Bonito",
       "url": "https://open.spotify.com/track/52YZneRql6xWNCGVzw3TxB"
@@ -10642,7 +10642,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3"
@@ -13385,6 +13385,24 @@
     },
     {
       "album": {
+        "name": "Sal rosa",
+        "url": "https://open.spotify.com/album/6Id39CXT1VuZfq3W1kP6I3"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263606,
+      "name": "Sal rosa",
+      "url": "https://open.spotify.com/track/3hHb8Mw9HvlcFUBlSELElq"
+    },
+    {
+      "album": {
         "name": "SI AYER FUERA HOY",
         "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
       },
@@ -14226,7 +14244,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 281258,
       "name": "Skinny Ape",
       "url": "https://open.spotify.com/track/67BbnzIuXFd5knDLwB3mkN"
@@ -17506,6 +17524,24 @@
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "album": {
+        "name": "Yes To Heaven",
+        "url": "https://open.spotify.com/album/7APax7lenlO06aVlVFh0fw"
+      },
+      "artists": [
+        {
+          "name": "August",
+          "url": "https://open.spotify.com/artist/14OTXivoPN0qTfPwf22FUF"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197625,
+      "name": "Yes To Heaven",
+      "url": "https://open.spotify.com/track/3jGSKgN7bx9RZzDyjxwMNK"
     },
     {
       "album": {

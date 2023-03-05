@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: AnnenMayKantereit
 
-157 songs - 7 hr 56 min
+158 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Du bist alles](https://open.spotify.com/track/1IzcZNoYbicuCEKlEclG9l) | [Woods of Birnam](https://open.spotify.com/artist/3dOF1sUwCpZErlLPxSrnt5) | [Babylon Berlin \(Original Television Soundtrack, Vol\. II\)](https://open.spotify.com/album/44EqvbbLocS6wWZHSItcna) | 4:03 | 2023-02-13 | 2023-02-15 |
 | [Du bist genauso..](https://open.spotify.com/track/0YGJORDkU6W3nRu69J8J9d) | [Urbannino](https://open.spotify.com/artist/4aZt5D61w5uaDQsvWxXC8T) | [Du bist genauso..](https://open.spotify.com/album/7Cd6XXoZz7FRsWhNYHACRS) | 2:56 | 2023-02-02 |  |
 | [du bist mutig](https://open.spotify.com/track/2lmLJ9WYYDQJzg8xtzHxU8) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [versprochen, alles wird gut!](https://open.spotify.com/album/7s84FKFZ9CRVN1xJLGraQD) | 2:32 | 2023-02-02 | 2023-03-03 |
-| [Du tust mir nie mehr weh](https://open.spotify.com/track/6HNyXYZijMzIdykDQRLC9N) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Du tust mir nie mehr weh](https://open.spotify.com/album/5q1JwWlzbpMMztg80XSSka) | 2:58 | 2023-02-02 |  |
+| [Du tust mir nie mehr weh](https://open.spotify.com/track/2XleePXiZOxwVUizlGdy9D) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 2:58 | 2023-03-02 |  |
+| [Du tust mir nie mehr weh](https://open.spotify.com/track/6HNyXYZijMzIdykDQRLC9N) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Du tust mir nie mehr weh](https://open.spotify.com/album/5q1JwWlzbpMMztg80XSSka) | 2:58 | 2023-02-02 | 2023-03-05 |
 | [Dunkles Herz](https://open.spotify.com/track/0Ukdo082XT59U3knpa7fPf) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Dunkles Herz](https://open.spotify.com/album/6yeDqR3YGVmFUwP9lTTn9u) | 3:04 | 2023-03-02 |  |
 | [Eine gute Nachricht](https://open.spotify.com/track/16ECxiYYnL687XixVWebEI) | [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Eine gute Nachricht](https://open.spotify.com/album/40mUOcvSIuoKBvxgKd8Nwg) | 3:20 | 2023-02-13 | 2023-02-15 |
 | [Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Einsame Insel](https://open.spotify.com/album/2bA9VJUcbmzW47Nubm8yOJ) | 2:44 | 2023-02-23 |  |

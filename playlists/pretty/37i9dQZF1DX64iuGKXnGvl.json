@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 59741,
+  "num_followers": 59922,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjEwMywwMDAwMDAwMDJkZTljMTcyZWYyYzlkMzBjZTc0MmNhYjE1ZDRiZTg5",
+  "snapshot_id": "MTY1MDkxNjEwMywwMDAwMDAwMDNhNGJkNWIxNjBlNTdhMDdhZGE0OGQxNTZlMGUzY2Vl",
   "tracks": [
     {
       "added_at": "2022-03-29 19:14:26",
@@ -795,18 +795,22 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "El Idolo De Mexico",
-        "url": "https://open.spotify.com/album/28KtwGLD5soKpzJyP1tGUo"
+        "name": "Duetos",
+        "url": "https://open.spotify.com/album/4PCfCY3SQkDFq2DkF6zYLt"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 218951,
-      "name": "Palabra De Honor",
-      "url": "https://open.spotify.com/track/0LSEkDVm6fvO5Cyi5OVofE"
+      "duration_ms": 223560,
+      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/0voqOa0RHLxuo5mNQ1PTaj"
     }
   ],
   "unique_name": "Pop Latino: Los 80",

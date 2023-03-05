@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 848101,
+  "num_followers": 848483,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDIyZTI5Y2Y2MDE3ZTY4ZjQ2YzVmOTliYTZiOTU4NWZm",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDkwNTVkNWI5ZDhhZDU2NzJkODFmYTFmZDRlNDhlM2Y3",
   "tracks": [
     {
       "added_at": "2022-10-24 21:28:36",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/2alpVcC9RxRWS1eSMGeAAP"
     },
     {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Omnium Gatherum",
-        "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Kepler-22b",
-      "url": "https://open.spotify.com/track/1d7amkMBfY5jwDaVYpWKUv"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "blotter baby",
@@ -263,6 +247,22 @@
       "duration_ms": 156141,
       "name": "are you feeling it now",
       "url": "https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Omnium Gatherum",
+        "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Kepler-22b",
+      "url": "https://open.spotify.com/track/1d7amkMBfY5jwDaVYpWKUv"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Omnium Gatherum",
+        "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 364599,
+      "name": "Magenta Mountain",
+      "url": "https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Mercy Mountain",
         "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 228306,
       "name": "Raspberry Jam",
       "url": "https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Omnium Gatherum",
-        "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 364599,
-      "name": "Magenta Mountain",
-      "url": "https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -541,38 +541,6 @@
       "url": "https://open.spotify.com/track/3eDjyFYNaHlHb30i8ai9qx"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Electrophonic Chronic",
-        "url": "https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 257173,
-      "name": "A Man Will Do Wrong",
-      "url": "https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 201697,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "Texas Moon",
@@ -591,6 +559,38 @@
       "duration_ms": 230137,
       "name": "Doris",
       "url": "https://open.spotify.com/track/01psXbOBykOM12RHATPCjr"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 201697,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Electrophonic Chronic",
+        "url": "https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 257173,
+      "name": "A Man Will Do Wrong",
+      "url": "https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Soul Smile",
-        "url": "https://open.spotify.com/album/0sRQ2kEsxMeeJ5v9cNUn2N"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "Soul Smile",
-      "url": "https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "Paper M\u00e2ch\u00e9 Dream Balloon",
@@ -655,6 +639,22 @@
       "duration_ms": 210653,
       "name": "Sense",
       "url": "https://open.spotify.com/track/2oeqKWbVwK5Ly2vjwWJKHd"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Soul Smile",
+        "url": "https://open.spotify.com/album/0sRQ2kEsxMeeJ5v9cNUn2N"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 249266,
+      "name": "Soul Smile",
+      "url": "https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/7ezdBjcpj2yQVDLWv80z3U"
     },
     {
-      "added_at": "2022-12-09 05:09:00",
-      "album": {
-        "name": "Eyez",
-        "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Eyez",
-      "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "SUNNY AFTERNOON",
@@ -759,6 +743,22 @@
       "duration_ms": 224448,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
+    },
+    {
+      "added_at": "2022-12-09 05:09:00",
+      "album": {
+        "name": "Eyez",
+        "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Eyez",
+      "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
-      },
-      "artists": [
-        {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Thanatophobia",
         "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 237741,
       "name": "Sensitivity",
       "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1241,26 +1241,6 @@
       "url": "https://open.spotify.com/track/5ZLXsvtqmIcpePe0KPuvrz"
     },
     {
-      "added_at": "2023-02-09 19:17:14",
-      "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6QZnFtNZshIg5PeKFgwNP8"
-      },
-      "artists": [
-        {
-          "name": "Jack River",
-          "url": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
-        },
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 182664,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/3RH7Vg6mLvxCYmQa9el2tV"
-    },
-    {
       "added_at": "2022-10-24 21:28:36",
       "album": {
         "name": "Spiral",
@@ -1293,6 +1273,22 @@
       "url": "https://open.spotify.com/track/2nDkHJPY0vpydGiiDABaS6"
     },
     {
+      "added_at": "2022-11-10 18:56:35",
+      "album": {
+        "name": "Baby Blue Eyes",
+        "url": "https://open.spotify.com/album/4Ime9yylJOlanUElSsvltm"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Baby Blue Eyes",
+      "url": "https://open.spotify.com/track/1cQvQwl6KNmXQuD69ytYX1"
+    },
+    {
       "added_at": "2022-12-09 05:09:00",
       "album": {
         "name": "Let It Pass",
@@ -1309,20 +1305,24 @@
       "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
     },
     {
-      "added_at": "2022-11-10 18:56:35",
+      "added_at": "2023-02-09 19:17:14",
       "album": {
-        "name": "Baby Blue Eyes",
-        "url": "https://open.spotify.com/album/4Ime9yylJOlanUElSsvltm"
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6QZnFtNZshIg5PeKFgwNP8"
       },
       "artists": [
         {
-          "name": "j ember",
-          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+          "name": "Jack River",
+          "url": "https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS"
+        },
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 209361,
-      "name": "Baby Blue Eyes",
-      "url": "https://open.spotify.com/track/1cQvQwl6KNmXQuD69ytYX1"
+      "duration_ms": 182664,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/3RH7Vg6mLvxCYmQa9el2tV"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Gamma Rays",
-        "url": "https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 260346,
-      "name": "Gamma Rays",
-      "url": "https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM"
-    },
-    {
       "added_at": "2022-11-10 18:56:35",
       "album": {
         "name": "Heaven Is A Place",
@@ -1407,22 +1391,6 @@
       "duration_ms": 289826,
       "name": "Heaven Is A Place",
       "url": "https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Optical Wealth + Fox in a Hole",
-        "url": "https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M"
-      },
-      "artists": [
-        {
-          "name": "Cap'n Marble",
-          "url": "https://open.spotify.com/artist/4AcVHpBiv1jyH1UkH0Ujod"
-        }
-      ],
-      "duration_ms": 181521,
-      "name": "Optical Wealth",
-      "url": "https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1447,6 +1415,38 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Optical Wealth + Fox in a Hole",
+        "url": "https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M"
+      },
+      "artists": [
+        {
+          "name": "Cap'n Marble",
+          "url": "https://open.spotify.com/artist/4AcVHpBiv1jyH1UkH0Ujod"
+        }
+      ],
+      "duration_ms": 181521,
+      "name": "Optical Wealth",
+      "url": "https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Gamma Rays",
+        "url": "https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "duration_ms": 260346,
+      "name": "Gamma Rays",
+      "url": "https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Post Animal Perform the Most Curious Water Activities",
         "url": "https://open.spotify.com/album/6Uw9scOB4zagR04P2YBQYp"
       },
@@ -1461,20 +1461,20 @@
       "url": "https://open.spotify.com/track/4ynX5irsZTPYHjWUOwrREQ"
     },
     {
-      "added_at": "2022-10-24 21:28:36",
+      "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "everything's worth it",
-        "url": "https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo"
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/1Y72pUjm0HQ55whwr44QV9"
       },
       "artists": [
         {
-          "name": "iogi",
-          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
+          "name": "Ian Reynold",
+          "url": "https://open.spotify.com/artist/1SwN9zqne93a9eXrlr0tr1"
         }
       ],
-      "duration_ms": 275925,
-      "name": "everything's worth it",
-      "url": "https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF"
+      "duration_ms": 227790,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/4jDYPVKZd7V9h5Pll27BRv"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1491,6 +1491,22 @@
       "duration_ms": 184893,
       "name": "Dionysian State",
       "url": "https://open.spotify.com/track/6F8cfrZbKX2CvTxfxq2T4B"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "everything's worth it",
+        "url": "https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo"
+      },
+      "artists": [
+        {
+          "name": "iogi",
+          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
+        }
+      ],
+      "duration_ms": 275925,
+      "name": "everything's worth it",
+      "url": "https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1527,22 +1543,6 @@
       "duration_ms": 167573,
       "name": "If I Had My Way",
       "url": "https://open.spotify.com/track/6140Uf7R4cNyHUJnhYG5h7"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/1Y72pUjm0HQ55whwr44QV9"
-      },
-      "artists": [
-        {
-          "name": "Ian Reynold",
-          "url": "https://open.spotify.com/artist/1SwN9zqne93a9eXrlr0tr1"
-        }
-      ],
-      "duration_ms": 227790,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/4jDYPVKZd7V9h5Pll27BRv"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "We're Here, My Dear",
-        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
+        "name": "Postman b/w Magazine",
+        "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
       },
       "artists": [
         {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 196266,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
+      "duration_ms": 160704,
+      "name": "Postman",
+      "url": "https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq"
     }
   ],
   "unique_name": "Modern Psychedelia",

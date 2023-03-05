@@ -4,7 +4,7 @@
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-105 songs - 10 hr 1 min
+106 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Cool Down Coda](https://open.spotify.com/track/37hDxJi6gOtqqqAKmrrxUL) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 1:45 | 2022-05-29 | 2023-02-15 |
 | [Cool Down Coda](https://open.spotify.com/track/5WVkNw9y3FH9lxjjPjfoka) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 1:45 | 2023-02-14 |  |
 | [Courtrais \- Live](https://open.spotify.com/track/2UKP0Z8tMyjI7NprsS6GsB) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 5:44 | 2022-06-01 | 2022-10-30 |
+| [Cuba Libre](https://open.spotify.com/track/1D2EVnedAlPNh6Ax17Exsi) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 3:28 | 2023-03-04 |  |
 | [Darbari Bridge](https://open.spotify.com/track/3IG17OU64mtHaPXz6ziFqN) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 11:42 | 2022-05-29 | 2023-02-01 |
 | [Darbari Extension I](https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 13:52 | 2022-05-29 | 2023-01-04 |
 | [Darbari Extension II](https://open.spotify.com/track/7yeOaqzx9sciyl2vOyUzrD) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 7:23 | 2022-09-11 | 2022-09-15 |
@@ -80,7 +81,7 @@
 | [Pastorale Vassant](https://open.spotify.com/track/7FLZV65L6y99GmidDfjnn1) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 3:59 | 2023-02-13 |  |
 | [Picnic](https://open.spotify.com/track/1VCvYkf9BjcXlAXzBCSALt) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 5:58 | 2022-05-30 | 2022-10-24 |
 | [Power Spot](https://open.spotify.com/track/2W01MVAo5hFT1ybtruRc5c) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 7:07 | 2022-05-29 |  |
-| [Reykjavik](https://open.spotify.com/track/0A4uK12VvfptV5QTJinuV6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 2:16 | 2023-02-13 |  |
+| [Reykjavik](https://open.spotify.com/track/0A4uK12VvfptV5QTJinuV6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 2:16 | 2023-02-13 | 2023-03-05 |
 | [Reykjavik](https://open.spotify.com/track/7GgsPMF25JBJtXdC50bhSc) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 2:16 | 2022-06-01 | 2023-02-14 |
 | [Rising Thermal 14° 16' N; 32° 28' E](https://open.spotify.com/track/7horIPcJtLv6fHinLNPPNH) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:08 | 2022-05-29 |  |
 | [Scintilla](https://open.spotify.com/track/4hyKeaBJh35akJQrdMmCVx) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 0:50 | 2022-10-29 |  |

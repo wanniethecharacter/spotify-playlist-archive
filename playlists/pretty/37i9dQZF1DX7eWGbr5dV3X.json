@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 7787,
+  "num_followers": 7784,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMDEzY2RlYWM1MTA5YjMwZjY5OWQwZTUyN2IwNjcyODZl",
+  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMGQ4NjljNmYwY2I0NDk3MDdmOTgzZmVhOTM5ODJiMDAy",
   "tracks": [
     {
       "added_at": "2022-08-25 15:45:44",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "good juju : vol. 1",
-        "url": "https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS"
+        "name": "Rules!",
+        "url": "https://open.spotify.com/album/0kk6iwrHZ2eoRyHXMFhwga"
       },
       "artists": [
         {
-          "name": "Jujubee",
-          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
+          "name": "Manila Luzon",
+          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
         }
       ],
-      "duration_ms": 181424,
-      "name": "Need Ya",
-      "url": "https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM"
+      "duration_ms": 202389,
+      "name": "Robbed",
+      "url": "https://open.spotify.com/track/29IHIrE9eWpH8j6c3P10nq"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -423,18 +423,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Rules!",
-        "url": "https://open.spotify.com/album/0kk6iwrHZ2eoRyHXMFhwga"
+        "name": "good juju : vol. 1",
+        "url": "https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS"
       },
       "artists": [
         {
-          "name": "Manila Luzon",
-          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
+          "name": "Jujubee",
+          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
         }
       ],
-      "duration_ms": 202389,
-      "name": "Robbed",
-      "url": "https://open.spotify.com/track/29IHIrE9eWpH8j6c3P10nq"
+      "duration_ms": 181424,
+      "name": "Need Ya",
+      "url": "https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Cry, Baby",
+        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 235630,
+      "name": "Could I Break Your Heart",
+      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "Round and Round (Bright Light Bright Light Remix)",
         "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 216842,
       "name": "Round and Round (Bright Light Bright Light Remix)",
       "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Cry, Baby",
-        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
-      },
-      "artists": [
-        {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
-        }
-      ],
-      "duration_ms": 235630,
-      "name": "Could I Break Your Heart",
-      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
     },
     {
       "added_at": "2022-08-25 15:45:44",

@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-84 songs - 4 hr 57 min
+85 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Absolute](https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Absolute](https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9) | 3:04 | 2022-09-30 |  |
 | [Affiliation, Pt\. 2 \- MPH Remix](https://open.spotify.com/track/3goOJt0XCZmAgbxgWqyGgV) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Affiliation, Pt\. 2 \(MPH Remix\)](https://open.spotify.com/album/7uogoZb5g1HPUjHewFkq1M) | 3:51 | 2022-09-30 | 2023-01-26 |
 | [All For You](https://open.spotify.com/track/3y1fEFFHFv79OYeCbzc774) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [All For You](https://open.spotify.com/album/254Y0CD07dB40q84db89EB) | 3:22 | 2022-09-30 |  |
+| [All To Me](https://open.spotify.com/track/28TJ1DLGBJ9BddLpWwwuXQ) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [All To Me](https://open.spotify.com/album/5KgrT8AuRSZ202tqBdvrPW) | 3:26 | 2023-01-25 |  |
 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 | 2022-09-30 |  |
 | [Balling \(feat\. Songer, Mr Traumatik, Devilman & OneDa\) \- Edit](https://open.spotify.com/track/2WObGIQXhjveq6yuXvf6VQ) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Devilman](https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK), [OneDa](https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr) | [Balling \(feat\. Songer, Mr Traumatik, Devilman & OneDa\) \[Edit\]](https://open.spotify.com/album/775Vio9oXjiTAbh7Ad15ay) | 4:26 | 2022-09-30 |  |
 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 | 2022-09-30 |  |
@@ -33,7 +34,7 @@
 | [Freedom](https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Freedom](https://open.spotify.com/album/2Xh1gUIGFHqensYqIf96Cz) | 3:12 | 2022-09-30 |  |
 | [Getting Started \- Chase & Status Remix](https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Getting Started \(Chase & Status Remix\)](https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1) | 3:10 | 2022-09-30 |  |
 | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/album/0R7Q4f6wA3u1Zl50wdT3gH) | 2:46 | 2022-09-30 |  |
-| [Glitter](https://open.spotify.com/track/1AtifUJiEqzf1lHxxSKVEz) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Glitter](https://open.spotify.com/album/4xG9AXX6PJpzfVoqb5eqXh) | 2:59 | 2022-09-30 |  |
+| [Glitter](https://open.spotify.com/track/1AtifUJiEqzf1lHxxSKVEz) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Glitter](https://open.spotify.com/album/4xG9AXX6PJpzfVoqb5eqXh) | 2:59 | 2022-09-30 | 2023-03-05 |
 | [Heartbroken 2022](https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd), [ARPA](https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd) | [Heartbroken 2022](https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ) | 2:52 | 2022-09-30 |  |
 | [Higher](https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Higher](https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb) | 3:18 | 2022-09-30 |  |
 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 | 2022-09-30 |  |

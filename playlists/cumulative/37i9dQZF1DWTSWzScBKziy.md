@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-187 songs - 12 hr 7 min
+188 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [But the Cross](https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Who I Am](https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO) | 3:19 | 2022-10-29 |  |
 | [By Faith](https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP) | 3:21 | 2022-10-29 |  |
 | [Church](https://open.spotify.com/track/5c5Cn75uLZbYsGHVbDHVHD) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Church](https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8) | 2:49 | 2022-05-27 | 2022-10-30 |
-| [Clear The Air](https://open.spotify.com/track/7mN6Y61Xo7k7aoxkuqzXlz) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9), [McKenna Johns](https://open.spotify.com/artist/6zflBJE0PSTfK8BzFpRWNB) | [Though None Go](https://open.spotify.com/album/6AARjaQ2hd1WfU3S0JfImo) | 3:32 | 2022-10-29 |  |
+| [Clear The Air](https://open.spotify.com/track/7mN6Y61Xo7k7aoxkuqzXlz) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9), [McKenna Johns](https://open.spotify.com/artist/6zflBJE0PSTfK8BzFpRWNB) | [Though None Go](https://open.spotify.com/album/6AARjaQ2hd1WfU3S0JfImo) | 3:32 | 2022-10-29 | 2023-03-05 |
 | [Close To You](https://open.spotify.com/track/1BekaQxRu7onRBnQ6PADyw) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [Close To You](https://open.spotify.com/album/7flhQQ1ZSd3SbvIr6fgF7J) | 3:43 | 2022-05-27 | 2022-10-30 |
 | [Common Ground \(feat\. Dee Wilson\) \- Live](https://open.spotify.com/track/3armidhEXA4Ky23Wj97pFQ) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW) | [Common Ground \- EP](https://open.spotify.com/album/7MJvVVKJZANsWfQfCz70r6) | 6:05 | 2022-10-29 | 2022-12-28 |
 | [Cornerstone \(feat\. Zach Williams\)](https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Life After Death](https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8) | 3:39 | 2022-10-29 |  |
@@ -95,6 +95,7 @@
 | [Jesus Called My Name](https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 4:20 | 2022-10-29 |  |
 | [Jesus Called My Name](https://open.spotify.com/track/749CMDRkLnWFXTYGT123S4) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Jesus Called My Name](https://open.spotify.com/album/53KVcS6ZFxmvtXbNxamie3) | 4:20 | 2022-10-29 | 2022-11-05 |
 | [Jesus Changed My Life](https://open.spotify.com/track/0ykTXKId7W9ck0caUEiRuV) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Katy Nichole](https://open.spotify.com/album/6AUMNUVgxaNUV3LE86jLl2) | 3:42 | 2022-10-29 | 2023-03-03 |
+| [Jesus Changed My Life](https://open.spotify.com/track/3xNxLuVwQBc2Y9Zbx68tDU) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:42 | 2022-10-29 |  |
 | [Jesus Did](https://open.spotify.com/track/1HhUXOuE3wbuvXk00AaOSj) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Jesus Did](https://open.spotify.com/album/1MUu3CWuxuRfmyPfi7SU3b) | 3:23 | 2022-05-27 | 2022-10-30 |
 | [Jesus Victorious \(Jezus Overwinnaar\)](https://open.spotify.com/track/7HPI24EvtUi1BBnOB8SLph) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Jesus Victorious \(Jezus Overwinnaar\)](https://open.spotify.com/album/5dt12Hf53YydCqmQT5hnEq) | 5:36 | 2022-05-27 | 2022-10-30 |
 | [JOY](https://open.spotify.com/track/6UCBG8W5KLIYwcGrzDygoe) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [JOY](https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K) | 4:16 | 2022-05-27 | 2023-02-27 |

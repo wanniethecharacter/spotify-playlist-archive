@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 14880,
+  "num_followers": 14910,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE0ODc3NywwMDAwMDAwMDNiZDZhMWZiNmIxZTY0ZTBhZjYyZmM2NDcwYmQzZTQx",
+  "snapshot_id": "MTY3NzE0ODc3NywwMDAwMDAwMGI1NTM0Y2U1NmM0NTM3OGE5YjRjZGIxMTBlMTBiZjY0",
   "tracks": [
     {
       "added_at": "2023-02-23 10:39:37",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-02-23 10:39:37",
       "album": {
-        "name": "California Suite",
-        "url": "https://open.spotify.com/album/3gmEiOR3WfO1vm89Gvmw0i"
-      },
-      "artists": [
-        {
-          "name": "Bud Shank",
-          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
-        }
-      ],
-      "duration_ms": 200253,
-      "name": "A Sinner Kissed an Angel",
-      "url": "https://open.spotify.com/track/1OsFo184zx2OuU9QqnE4X2"
-    },
-    {
-      "added_at": "2023-02-23 10:39:37",
-      "album": {
         "name": "Sweet Rain",
         "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 220520,
       "name": "Red Pepper Blues",
       "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+    },
+    {
+      "added_at": "2023-02-23 10:39:37",
+      "album": {
+        "name": "California Suite",
+        "url": "https://open.spotify.com/album/3gmEiOR3WfO1vm89Gvmw0i"
+      },
+      "artists": [
+        {
+          "name": "Bud Shank",
+          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
+        }
+      ],
+      "duration_ms": 200253,
+      "name": "A Sinner Kissed an Angel",
+      "url": "https://open.spotify.com/track/1OsFo184zx2OuU9QqnE4X2"
     },
     {
       "added_at": "2023-02-23 10:39:37",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-02-23 10:39:37",
       "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 355546,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+    },
+    {
+      "added_at": "2023-02-23 10:39:37",
+      "album": {
         "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
       },
@@ -215,26 +231,6 @@
       "duration_ms": 190360,
       "name": "Cast Your Fate to the Wind",
       "url": "https://open.spotify.com/track/3nI7dNecArHQRc0vTUvELz"
-    },
-    {
-      "added_at": "2023-02-23 10:39:37",
-      "album": {
-        "name": "Stan Getz And J.J. Johnson At The Opera House (Live / 1957)",
-        "url": "https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "J.J. Johnson",
-          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
-        }
-      ],
-      "duration_ms": 508093,
-      "name": "My Funny Valentine - Live At The Shrine Auditorium, Los Angeles / 1957",
-      "url": "https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa"
     },
     {
       "added_at": "2023-02-23 10:39:37",
@@ -259,18 +255,22 @@
     {
       "added_at": "2023-02-23 10:39:37",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+        "name": "Stan Getz And J.J. Johnson At The Opera House (Live / 1957)",
+        "url": "https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "J.J. Johnson",
+          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
         }
       ],
-      "duration_ms": 355546,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+      "duration_ms": 508093,
+      "name": "My Funny Valentine - Live At The Shrine Auditorium, Los Angeles / 1957",
+      "url": "https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa"
     },
     {
       "added_at": "2023-02-23 10:39:37",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-02-23 10:39:37",
       "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "Walkin' Shoes",
+      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+    },
+    {
+      "added_at": "2023-02-23 10:39:37",
+      "album": {
         "name": "Four!",
         "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 216440,
       "name": "Star Song",
       "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
-    },
-    {
-      "added_at": "2023-02-23 10:39:37",
-      "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Walkin' Shoes",
-      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
     },
     {
       "added_at": "2023-02-23 10:39:37",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-02-23 10:39:37",
       "album": {
-        "name": "The Teddy Charles Tentet",
-        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
-      },
-      "artists": [
-        {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
-        }
-      ],
-      "duration_ms": 350720,
-      "name": "The Quiet Time",
-      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
-    },
-    {
-      "added_at": "2023-02-23 10:39:37",
-      "album": {
         "name": "Afro-Cuban Influence",
         "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
       },
@@ -627,22 +611,18 @@
     {
       "added_at": "2023-02-23 10:39:37",
       "album": {
-        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
-        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
+        "name": "The Teddy Charles Tentet",
+        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
       },
       "artists": [
         {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        },
-        {
-          "name": "Bud Powell Quartet",
-          "url": "https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z"
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
         }
       ],
-      "duration_ms": 225906,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
+      "duration_ms": 350720,
+      "name": "The Quiet Time",
+      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
     },
     {
       "added_at": "2023-02-23 10:39:37",
@@ -667,6 +647,26 @@
       "duration_ms": 289735,
       "name": "Custard Puff",
       "url": "https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge"
+    },
+    {
+      "added_at": "2023-02-23 10:39:37",
+      "album": {
+        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
+        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        },
+        {
+          "name": "Bud Powell Quartet",
+          "url": "https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
     },
     {
       "added_at": "2023-02-23 10:39:37",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-02-23 10:39:37",
       "album": {
-        "name": "Playboys",
-        "url": "https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo"
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/02O3WhAMDqv4kL7tvdzXQt"
       },
       "artists": [
         {
-          "name": "Chet Baker and Art Pepper",
-          "url": "https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU"
+          "name": "The Chet Baker Sextet",
+          "url": "https://open.spotify.com/artist/1q1geiLRhQOQRtPijlG2wi"
         }
       ],
-      "duration_ms": 344239,
-      "name": "Resonant Emotions",
-      "url": "https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA"
+      "duration_ms": 285620,
+      "name": "Little Man You've Had a Busy Day",
+      "url": "https://open.spotify.com/track/4nJNXNc3ylbmtqFkNXJ8HO"
     }
   ],
   "unique_name": "West Coast Jazz",

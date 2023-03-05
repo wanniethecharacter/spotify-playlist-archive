@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 15923,
+  "num_followers": 15924,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjcwMTY2OCwwMDAwMDAwMDJjMzllOGE2MDA2MTNmZTBlN2JjZmY5NzUyZDIxNmJj",
+  "snapshot_id": "MTY3NjcwMTY2OCwwMDAwMDAwMDZiZjVlOTJmYmU2Y2MxYmFjOTkxYjA4MzNhNTZiODRj",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -199,26 +199,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Faith Of My Father",
-        "url": "https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 249186,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thanks In Advance",
         "url": "https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 141176,
       "name": "Thanks In Advance",
       "url": "https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Faith Of My Father",
+        "url": "https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "duration_ms": 249186,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "God of the Ages (Live At The Manor)",
         "url": "https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 256437,
       "name": "God of the Ages - Single Version - Live",
       "url": "https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
-      },
-      "artists": [
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV"
     },
     {
       "added_at": "2022-11-23 15:01:23",

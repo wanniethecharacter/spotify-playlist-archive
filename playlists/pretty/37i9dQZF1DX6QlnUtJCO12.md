@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,790 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,843 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 26 | [No Melda](https://open.spotify.com/track/6DqNQ3UbRLwONLC0oqCS4M) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Doctor Kitch](https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa) | 2:35 |
 | 27 | [Man Smart, Woman Smarter](https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Man Smart, Woman Smarter](https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa) | 3:03 |
 | 28 | [My Reply to Houdini](https://open.spotify.com/track/416NGM98lMSM3EZwMHcGFL) | [The Executor](https://open.spotify.com/artist/6xJuCASaNxCSPoswqEqGur) | [Calypsonians \(1930 \- 1960\), Vol.3](https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL) | 3:05 |
-| 29 | [An Excursion to Grenada](https://open.spotify.com/track/2exnKM3xbU5lWi9T1WYPtL) | [The Growler](https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn) | [The Roots of Trinidad Calypso / Recordings 1927 \- 1931](https://open.spotify.com/album/2kTdiNgJNIXO82P5rITM84) | 3:07 |
+| 29 | [In the Dew and the Rain](https://open.spotify.com/track/1dnOU5nbW5kpmRBg0uCtqy) | [The Growler](https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:58 |
 | 30 | [Illegitimate Children](https://open.spotify.com/track/3VAJsSxUc0n4HKwndXZb87) | [The Great Honourable Lord Pretender](https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD) | [The Man Who Never Ever Worried](https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp) | 5:17 |
 | 31 | [Lieutnant Julian](https://open.spotify.com/track/351Zm4ZUKWT7qW7rXVoFkr) | [Sam Manning](https://open.spotify.com/artist/6MFvKHJHRpB6kWx3AMvvT4) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:59 |
 | 32 | [Treasury Scandal](https://open.spotify.com/track/7sgAXJK49YOj3LjsSs5I4L) | [Attila the Hun](https://open.spotify.com/artist/3CK4SLHGVhasR86lTSHYnG) | [Treasury Scandal](https://open.spotify.com/album/1XG5O3FvLIRwSS91hF4SBN) | 3:13 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 35 | [Atomic Energy](https://open.spotify.com/track/7oyKc3RgnMaSRgwNTLCDgE) | [Sir Lancelot](https://open.spotify.com/artist/35r4QU4IraKEsU0U0df0G6) | [Power To The People \- Protest Songs](https://open.spotify.com/album/00hTfZK8Ul7xuSA87iB4Lw) | 2:44 |
 | 36 | [Brownskin Girl](https://open.spotify.com/track/1iCy1zwGLhsLb1dlVVyH5Y) | [The Mighty Terror](https://open.spotify.com/artist/3uTJIiOFsfmjdah5XVHeQO) | [The Calypso Kings](https://open.spotify.com/album/0dHGTVg7YgvYnEbT5ipC51) | 2:35 |
 | 37 | [Adeline](https://open.spotify.com/track/4G7pVQBkEAeTyKjrB1iHD0) | [Lord Pretender](https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa) | [The Magic of Trinidad Sounds 1930\-39](https://open.spotify.com/album/1GTGYMM1ePRckARUd262UK) | 2:26 |
-| 38 | [In the Dew and the Rain](https://open.spotify.com/track/1dnOU5nbW5kpmRBg0uCtqy) | [The Growler](https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:58 |
+| 38 | [An Excursion to Grenada](https://open.spotify.com/track/2exnKM3xbU5lWi9T1WYPtL) | [The Growler](https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn) | [The Roots of Trinidad Calypso / Recordings 1927 \- 1931](https://open.spotify.com/album/2kTdiNgJNIXO82P5rITM84) | 3:07 |
 | 39 | [Blow Wind Blow](https://open.spotify.com/track/42FHEJKS0K5eEbY5hQLaAj) | [Lionel Belasco](https://open.spotify.com/artist/4cPFaFsaRAuAdh5qhZHCXf) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 3:07 |
 | 40 | [Woman Is Not the Weaker Sex](https://open.spotify.com/track/3TdWiZMMN9oTToEi51e8ji) | [Atilla the Hun](https://open.spotify.com/artist/3XgijVGUbtWr7rTQxd2uEh) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 2:56 |
 
-Snapshot ID: `MTYxOTE5MDM1MCwwMDAwMDAwMGEwMmU5NTZlNWU2ZDQwZDY2ZWY3YjQ5YzFkMmZkZjFi`
+Snapshot ID: `MTYxOTE5MDM1MCwwMDAwMDAwMGRlOGJmNzA2ZDlmOTVmZTZmZjgyNjBjMzYzMzM1NDE3`

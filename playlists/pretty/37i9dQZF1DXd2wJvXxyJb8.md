@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > acabou o carnaval,,,,,,vc ja chorou hje? <3 hidrate\-se
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,543 likes - 72 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,359 likes - 72 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 20 | [Facilita Aí](https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Facilita Aí](https://open.spotify.com/album/7xdmkdtyNToObPGmRYKVJc) | 2:23 |
 | 21 | [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/track/0TdK5nwfcmX9smiLXJEeFp) | [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/album/1P3dEPUXXt25WxJF55T3DD) | 2:05 |
 | 22 | [Mec Mec 2](https://open.spotify.com/track/1aQyW6u67mcf9qzbd98jgS) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP) | [Mec Mec 2](https://open.spotify.com/album/5zEM4yWm6l51Uub97Xcpry) | 1:54 |
-| 23 | [Desce Talarica](https://open.spotify.com/track/5rm0I5FjhroFxGXgLvQS5R) | [Dj Miguel Muniz](https://open.spotify.com/artist/6r5IE5GCAU7MKTmCuxihbn) | [Desce Talarica](https://open.spotify.com/album/5QvJ9V1Zt3SAFBsSF8Homx) | 1:49 |
+| 23 | [Desce Talarica](https://open.spotify.com/track/194Zxp5dpD84BhytBqoTIK) | [Dj Miguel Muniz](https://open.spotify.com/artist/6r5IE5GCAU7MKTmCuxihbn) | [Desce Talarica](https://open.spotify.com/album/0V3qBGRWeu1lpqGdKIk5M1) | 1:49 |
 | 24 | [Na Movimentação \(feat\. Faixa Rosa\)](https://open.spotify.com/track/2zpiccjPSl315SqthyDf9j) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Theus Costa](https://open.spotify.com/artist/4qNZfaBcaNA2Q2a9danTGP), [MC Bruna Alves](https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg), [Faixa Rosa](https://open.spotify.com/artist/0JrZ7I50iqRoiPc60m8ony) | [Na Movimentação \(feat\. Faixa Rosa\)](https://open.spotify.com/album/3jgOss4rmnFU1b6R8o3iIG) | 1:56 |
 | 25 | [Cria Da Ivete \- Ao Vivo](https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Chega Mais \(Ao Vivo\)](https://open.spotify.com/album/72ubm2vqYUYmYOjEUl687c) | 3:57 |
 | 26 | [Vou Morar no Cabaré](https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [Dj Wesley Gonzaga](https://open.spotify.com/artist/4mRdkoKoBtNFo5sDAgQlgi) | [Vou Morar no Cabaré](https://open.spotify.com/album/7Hyki9fAsyJ04V1lkMMGH6) | 1:45 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 71 | [O Poder Dessa Garota](https://open.spotify.com/track/4aoZBldNDVYmTwmeoI49ud) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [O Poder Dessa Garota](https://open.spotify.com/album/3EBubCq7RZgQSzr5LiDaDP) | 2:16 |
 | 72 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MTY3NzU5NDQwOSwwMDAwMDAwMDdiZWNkM2MxNzFjZDQ5MDZlNTAwZTg1ZjQ4NDhjMzY4`
+Snapshot ID: `MTY3NzU5NDQwOSwwMDAwMDAwMDNmNjhlZWNhNmRhMTMwMTIwMGJmZTA5NDhjZWJiNTcw`

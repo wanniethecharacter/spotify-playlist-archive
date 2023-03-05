@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Gabi Sampaio, Rebeca Carvalho",
-  "num_followers": 283289,
+  "num_followers": 283349,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg4NDY4MSwwMDAwMDAwMDQ2MjFiZGQ1ZWY1MmI3MTNmM2EwNjJiYjExZDNlNzQ2",
+  "snapshot_id": "MTY3Nzg4NDY4MSwwMDAwMDAwMDE2ODFhMmExYmUxYmMyYmE0ZjA3NGE2YjQyNGU5Y2U1",
   "tracks": [
     {
       "added_at": "2023-03-03 23:04:41",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
+        "name": "Maranata",
+        "url": "https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs"
+      },
+      "artists": [
+        {
+          "name": "Esther Marcos",
+          "url": "https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF"
+        }
+      ],
+      "duration_ms": 325426,
+      "name": "Maranata",
+      "url": "https://open.spotify.com/track/14DnXcSHiMvK7kHnsuhqm7"
+    },
+    {
+      "added_at": "2023-03-03 23:04:41",
+      "album": {
         "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
         "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 358973,
       "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
       "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
-    },
-    {
-      "added_at": "2023-03-03 23:04:41",
-      "album": {
-        "name": "Maranata",
-        "url": "https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs"
-      },
-      "artists": [
-        {
-          "name": "Esther Marcos",
-          "url": "https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF"
-        }
-      ],
-      "duration_ms": 325426,
-      "name": "Maranata",
-      "url": "https://open.spotify.com/track/14DnXcSHiMvK7kHnsuhqm7"
     },
     {
       "added_at": "2023-03-03 23:04:41",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
-        "name": "Aos P\u00e9s da Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF"
-      },
-      "artists": [
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 265026,
-      "name": "Aos P\u00e9s da Cruz - Ao Vivo",
-      "url": "https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y"
-    },
-    {
-      "added_at": "2023-03-03 23:04:41",
-      "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 310057,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0"
+    },
+    {
+      "added_at": "2023-03-03 23:04:41",
+      "album": {
+        "name": "Aos P\u00e9s da Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF"
+      },
+      "artists": [
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "Aos P\u00e9s da Cruz - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y"
     },
     {
       "added_at": "2023-03-03 23:04:41",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
+        "name": "Vem, Esp\u00edrito de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "Vem, Espi\u0301rito de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3"
+    },
+    {
+      "added_at": "2023-03-03 23:04:41",
+      "album": {
         "name": "Nasci Pra Deus",
         "url": "https://open.spotify.com/album/0jYMssO9wqHGNRAtVbYTNg"
       },
@@ -727,18 +743,22 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
-        "name": "Vem, Esp\u00edrito de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV"
+        "name": "Profetiza",
+        "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
       },
       "artists": [
         {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 264786,
-      "name": "Vem, Espi\u0301rito de Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3"
+      "duration_ms": 294475,
+      "name": "Profetiza",
+      "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
     },
     {
       "added_at": "2023-03-03 23:04:41",
@@ -775,26 +795,6 @@
       "duration_ms": 203960,
       "name": "Colhendo Frutos (Ao Vivo)",
       "url": "https://open.spotify.com/track/5YQRkkXA0efmfBgd5cmoGf"
-    },
-    {
-      "added_at": "2023-03-03 23:04:41",
-      "album": {
-        "name": "Profetiza",
-        "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 294475,
-      "name": "Profetiza",
-      "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
     },
     {
       "added_at": "2023-03-03 23:04:41",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1W4djOiYB5FHEjyngDxIRJ"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7t79MtUh8zfrhN1KT56eQv"
+    },
+    {
+      "added_at": "2023-03-03 23:04:41",
+      "album": {
         "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
         "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 380800,
       "name": "Teu Falar - Ao Vivo",
       "url": "https://open.spotify.com/track/77FLekaTNuBaH84ZQX2dzU"
-    },
-    {
-      "added_at": "2023-03-03 23:04:41",
-      "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1W4djOiYB5FHEjyngDxIRJ"
-      },
-      "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7t79MtUh8zfrhN1KT56eQv"
     },
     {
       "added_at": "2023-03-03 23:04:41",

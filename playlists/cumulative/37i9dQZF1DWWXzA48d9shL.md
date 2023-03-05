@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$ & Shakewell
 
-400 songs - 15 hr 50 min
+401 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Genocide Jack](https://open.spotify.com/track/33GxE0lhaAbG6lvQXc0cil) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Genocide Jack](https://open.spotify.com/album/2G85n3q25f6x36gvcnjWCI) | 2:30 | 2022-06-10 | 2022-07-27 |
 | [GET IT](https://open.spotify.com/track/2euA4prGtHli9OH3Yd1G3D) | [Chrmng,](https://open.spotify.com/artist/5hNoJE5m6FoCBI0SM6lhia) | [GET IT](https://open.spotify.com/album/5yeTKwzuIOiVA6nN9RMnDv) | 2:56 | 2022-06-24 | 2022-08-13 |
 | [GHOST OF YOU](https://open.spotify.com/track/3bXLc0fRHfSheyFcNyM0X0) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [GHOST OF YOU](https://open.spotify.com/album/2BbYQhtFj6ZNmr7j8N0wBo) | 2:03 | 2021-10-01 | 2022-05-11 |
-| [GHOSTKILLA](https://open.spotify.com/track/5ON0eOpVmlRo9PZctdBbuQ) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/3Rm8UjPex1pU2tmmxFWSzu) | 2:19 | 2023-02-24 |  |
+| [GHOSTKILLA](https://open.spotify.com/track/5ON0eOpVmlRo9PZctdBbuQ) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/3Rm8UjPex1pU2tmmxFWSzu) | 2:19 | 2023-02-24 | 2023-03-05 |
+| [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 | 2023-02-24 |  |
 | [GLEAM](https://open.spotify.com/track/2r8NabrTNOZStIlQ26jC4C) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy), [Kill Red](https://open.spotify.com/artist/23DVe5LDb89r0z5wmSjNSc) | [GLEAM](https://open.spotify.com/album/2fuvMRzuaIqwidNyS8XPOK) | 3:05 | 2021-09-17 | 2022-06-04 |
 | [GO!](https://open.spotify.com/track/6tf1F8ngodlrk1bs7GqzxD) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [THE SMALL DARK ONE](https://open.spotify.com/album/5dfOjEc98muRTyaZQZy3lo) | 3:29 | 2022-06-10 | 2022-07-27 |
 | [GOD MODE!](https://open.spotify.com/track/61ONKytCePkZCWzfipmPhy) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [GOD MODE!](https://open.spotify.com/album/5xqiMjCLUJBOtEM2hsCLaP) | 2:43 | 2023-01-20 |  |

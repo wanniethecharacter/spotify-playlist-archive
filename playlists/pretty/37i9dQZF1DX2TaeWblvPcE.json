@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6062,
+  "num_followers": 6058,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMDBkODQ4MWI4YjhmZjhmMTRiNTRlMzNjNTcxNjE3OWM1",
+  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMDRiYTM1ODRmNWVkN2YwNGViYzFmMzQwZDk4YTg1MjZj",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -203,22 +203,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Mr. Sunshine (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
+        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
+        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
       },
       "artists": [
         {
-          "name": "Nam Hye Seung",
-          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
-        },
-        {
-          "name": "Park Sang Hee",
-          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
         }
       ],
-      "duration_ms": 290078,
-      "name": "Sad Ending",
-      "url": "https://open.spotify.com/track/5Zl4NyyonixQ2cqgd4Y2Mo"
+      "duration_ms": 170746,
+      "name": "Say I Love U - Instrumental",
+      "url": "https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -239,18 +235,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
-        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
+        "name": "Mr. Sunshine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
       },
       "artists": [
         {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+          "name": "Nam Hye Seung",
+          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
+        },
+        {
+          "name": "Park Sang Hee",
+          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
         }
       ],
-      "duration_ms": 170746,
-      "name": "Say I Love U - Instrumental",
-      "url": "https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m"
+      "duration_ms": 290078,
+      "name": "Sad Ending",
+      "url": "https://open.spotify.com/track/5Zl4NyyonixQ2cqgd4Y2Mo"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -335,6 +335,26 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "Mr. Sunshine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
+      },
+      "artists": [
+        {
+          "name": "Nam Hye Seung",
+          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
+        },
+        {
+          "name": "Park Sang Hee",
+          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
+        }
+      ],
+      "duration_ms": 202566,
+      "name": "Be a Flame",
+      "url": "https://open.spotify.com/track/2wt4pn6IN8L2eatDPT6EkC"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.2",
         "url": "https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq"
       },
@@ -367,26 +387,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Mr. Sunshine (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
-      },
-      "artists": [
-        {
-          "name": "Nam Hye Seung",
-          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
-        },
-        {
-          "name": "Park Sang Hee",
-          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
-        }
-      ],
-      "duration_ms": 202566,
-      "name": "Be a Flame",
-      "url": "https://open.spotify.com/track/2wt4pn6IN8L2eatDPT6EkC"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak"
       },
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/3cYozFVrbaSezuvCd5DXq2"
-      },
-      "artists": [
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Orbit - Instrumental",
-      "url": "https://open.spotify.com/track/17cK339xKTGOIlBTM02WbS"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "A Poem a Day (tvN DRAMA) OST Part.7",
         "url": "https://open.spotify.com/album/01neY4Yc8lzmHDagkIuYW2"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 212828,
       "name": "That Person - Instrumental",
       "url": "https://open.spotify.com/track/7JhEKgTX5WoIWJkJk4tBUy"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/3cYozFVrbaSezuvCd5DXq2"
+      },
+      "artists": [
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Orbit - Instrumental",
+      "url": "https://open.spotify.com/track/17cK339xKTGOIlBTM02WbS"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "Every second - Instrumental",
+      "url": "https://open.spotify.com/track/1fzzhtCEeuvPRRfuMP4xtA"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
         "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 207999,
       "name": "I Just Want To Stay With You - Instrumental",
       "url": "https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "Every second - Instrumental",
-      "url": "https://open.spotify.com/track/1fzzhtCEeuvPRRfuMP4xtA"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "My Unfamiliar Family (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/5XRPtycMCCWe4jpJyyUENu"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Love Message - Instrumental",
+      "url": "https://open.spotify.com/track/4VeLIyv4WczeFbvNpn9ZXT"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 227413,
       "name": "Love Resembles Memories - Instrumental",
       "url": "https://open.spotify.com/track/4TSaLllN793GqbJ3tk7Lju"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "My Unfamiliar Family (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/5XRPtycMCCWe4jpJyyUENu"
-      },
-      "artists": [
-        {
-          "name": "Sondia",
-          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Love Message - Instrumental",
-      "url": "https://open.spotify.com/track/4VeLIyv4WczeFbvNpn9ZXT"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed"
-      },
-      "artists": [
-        {
-          "name": "Blue Mangtto",
-          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
-        },
-        {
-          "name": "Seokman Cheon",
-          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "OH NONONO - Instrumental",
-      "url": "https://open.spotify.com/track/1Ajq6IgAXUCiJZ8aXDkg8q"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Between Us (Feat. OVCOCO)",
         "url": "https://open.spotify.com/album/3XGjYjce5dOqS0vWknvUzs"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 199304,
       "name": "Between Us (Feat. OVCOCO) - Instrumental",
       "url": "https://open.spotify.com/track/6TEorNgHxGO14PUvTXEd9F"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed"
+      },
+      "artists": [
+        {
+          "name": "Blue Mangtto",
+          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
+        },
+        {
+          "name": "Seokman Cheon",
+          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "OH NONONO - Instrumental",
+      "url": "https://open.spotify.com/track/1Ajq6IgAXUCiJZ8aXDkg8q"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
         }
       ],
-      "duration_ms": 314345,
-      "name": "LOVE SCENARIO - Piano Version",
-      "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
+      "duration_ms": 299483,
+      "name": "PALETTE - Piano Version",
+      "url": "https://open.spotify.com/track/1bBjmLUDIlKJShMjc0lVRR"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1372,9 +1372,9 @@
           "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
         }
       ],
-      "duration_ms": 299483,
-      "name": "PALETTE - Piano Version",
-      "url": "https://open.spotify.com/track/1bBjmLUDIlKJShMjc0lVRR"
+      "duration_ms": 314345,
+      "name": "LOVE SCENARIO - Piano Version",
+      "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
     },
     {
       "added_at": "2022-11-02 13:40:53",

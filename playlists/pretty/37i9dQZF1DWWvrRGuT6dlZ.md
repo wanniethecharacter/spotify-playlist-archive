@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: hongjoin\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,878 likes - 106 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,882 likes - 106 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 15 | [JENNIE KIM](https://open.spotify.com/track/5UuyPQ1fFEUv9zQcvdAB0S) | [pretty havoc.](https://open.spotify.com/artist/1LQJ1GBylFxJ6aPVtZ1UHX) | [JENNIE KIM](https://open.spotify.com/album/69xE3rrHApo376cqrSUwDS) | 1:58 |
 | 16 | [rain in the summer](https://open.spotify.com/track/1GYj88rWEhM0ElpBCdFRxZ) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [rain in the summer](https://open.spotify.com/album/6PQC9SvGNhiySsBnOoOV5t) | 3:02 |
 | 17 | [Interval Of Us](https://open.spotify.com/track/7LUPtdG13VibC6od6CCnGj) | [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb), [Silver Lim](https://open.spotify.com/artist/1Wytp9rQDwH6Qnt8RBc3Pb) | [Interval Of Us](https://open.spotify.com/album/7nnHI4d4RB5fj7ItJr5f5v) | 4:05 |
-| 18 | [ice lemon tea freestyle](https://open.spotify.com/track/3KDtIiPkUvi8ByTSdJhERR) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw) | [ice lemon tea freestyle](https://open.spotify.com/album/150xerEonlyZpb9WPXSph9) | 2:04 |
+| 18 | [ice lemon tea freestyle](https://open.spotify.com/track/3KDtIiPkUvi8ByTSdJhERR) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [Dan Rafaael](https://open.spotify.com/artist/0CzAGxgTgfwF5Z8QQnc6yi) | [ice lemon tea freestyle](https://open.spotify.com/album/150xerEonlyZpb9WPXSph9) | 2:04 |
 | 19 | [Honeymoon](https://open.spotify.com/track/7errHb9GcJfFN3XWvd1vpB) | [AARCADE](https://open.spotify.com/artist/7FcsmP4uqRlBKh2Y7Q9kd0) | [Honeymoon](https://open.spotify.com/album/4JfEXvklFqLGYUWvAdmqxh) | 3:10 |
 | 20 | [Nadia](https://open.spotify.com/track/6QFiYCiXkIt7arRQYsopu9) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Nadia](https://open.spotify.com/album/1dkVblyDuSDRjGfdL505Vf) | 3:21 |
 | 21 | [starlight](https://open.spotify.com/track/0K71GoHZHZU9Tn9pwf0pbH) | [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT) | [starlight](https://open.spotify.com/album/70HCFgMlYYWy9VeE8kwGVA) | 3:58 |

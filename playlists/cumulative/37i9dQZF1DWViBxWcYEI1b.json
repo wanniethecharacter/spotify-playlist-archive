@@ -7912,10 +7912,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 221596,
       "name": "Proof",
       "url": "https://open.spotify.com/track/2QjHdflfNJzFGPtCvcPvOO"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/3Cfg3146LWDhdWMX3YpKo1"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221596,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/3Zgw1DjigjWI5AFPTZYBwZ"
     },
     {
       "album": {
@@ -10327,7 +10345,7 @@
         },
         {
           "name": "Bryn",
-          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+          "url": "https://open.spotify.com/artist/2sorrBhb2G6fyiu7sHWw6J"
         },
         {
           "name": "Crash Adams",

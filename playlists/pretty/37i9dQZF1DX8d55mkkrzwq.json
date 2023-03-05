@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIyOTY5NCwwMDAwMDAwMGJkNjFhMDc3N2Q3ODliZTNhMDg4ZmQ2NzYxYmI1ODkz",
+  "snapshot_id": "MTY3NzIyOTY5NCwwMDAwMDAwMGMzZDgwY2VkOTY3NDBkM2I3ZTk2NmNhMGI3N2RkZTBm",
   "tracks": [
     {
       "added_at": "2023-02-24 09:08:14",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-02-24 09:08:14",
       "album": {
-        "name": "Stomp & Clap Dance",
-        "url": "https://open.spotify.com/album/0jeMm22JOSNZl6l2UYHuFd"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 150620,
-      "name": "Stomp & Clap Dance",
-      "url": "https://open.spotify.com/track/2MqNNuzgYmoTBMbylhF2Wm"
-    },
-    {
-      "added_at": "2023-02-24 09:08:14",
-      "album": {
         "name": "Laurie Berkner's Movement Songs",
         "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 186427,
       "name": "Shake Your Body Down",
       "url": "https://open.spotify.com/track/41YMpUOoIl9pjM2Hd6kNwr"
+    },
+    {
+      "added_at": "2023-02-24 09:08:14",
+      "album": {
+        "name": "Stomp & Clap Dance",
+        "url": "https://open.spotify.com/album/0jeMm22JOSNZl6l2UYHuFd"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 150620,
+      "name": "Stomp & Clap Dance",
+      "url": "https://open.spotify.com/track/2MqNNuzgYmoTBMbylhF2Wm"
     },
     {
       "added_at": "2023-02-24 09:08:14",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-02-24 09:08:14",
       "album": {
-        "name": "Do as I'm Doing",
-        "url": "https://open.spotify.com/album/169CIBnpB6WtwZWCDgyMgN"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 116956,
-      "name": "Do as I'm Doing",
-      "url": "https://open.spotify.com/track/7J6pdbrX4gG1AfIM4qCUcK"
-    },
-    {
-      "added_at": "2023-02-24 09:08:14",
-      "album": {
         "name": "Jump, Wiggle and Hop",
         "url": "https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 179297,
       "name": "Hand Jive",
       "url": "https://open.spotify.com/track/7kslM5r0WXSOBpoZuFlKir"
+    },
+    {
+      "added_at": "2023-02-24 09:08:14",
+      "album": {
+        "name": "Laurie Berkner's Movement Songs",
+        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Let's Samba",
+      "url": "https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm"
     },
     {
       "added_at": "2023-02-24 09:08:14",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-02-24 09:08:14",
       "album": {
-        "name": "Laurie Berkner's Movement Songs",
-        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
+        "name": "Do as I'm Doing",
+        "url": "https://open.spotify.com/album/169CIBnpB6WtwZWCDgyMgN"
       },
       "artists": [
         {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
         }
       ],
-      "duration_ms": 161068,
-      "name": "Let's Samba",
-      "url": "https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm"
+      "duration_ms": 116956,
+      "name": "Do as I'm Doing",
+      "url": "https://open.spotify.com/track/7J6pdbrX4gG1AfIM4qCUcK"
     },
     {
       "added_at": "2023-02-24 09:08:14",

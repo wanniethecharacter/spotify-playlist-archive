@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Taylor Swift",
-  "num_followers": 3377286,
+  "num_followers": 3377916,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg3ODAwMSwwMDAwMDAwMDUzZDFkMGUyMDgzN2Y1MGZjNDVlMDJkYTE5OWU4NTQz",
+  "snapshot_id": "MTY3Nzg3ODAwMSwwMDAwMDAwMDJiZTgzOWE5MjE2NTg1YTQwYjhjNDJjZThmOTc1MmZk",
   "tracks": [
     {
       "added_at": "2023-03-03 21:13:21",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
+        "name": "Dawn FM (Alternate World)",
+        "url": "https://open.spotify.com/album/3esNgb0dchNmQ3MhlUVaa7"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 238032,
+      "name": "Sacrifice (Remix) (feat. Swedish House Mafia)",
+      "url": "https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG"
+    },
+    {
+      "added_at": "2023-03-03 21:13:21",
+      "album": {
         "name": "Better Days (Regard Remix)",
         "url": "https://open.spotify.com/album/5QkWVBDHnfAlFpbRaLSXmV"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 166075,
       "name": "Better Days - Regard Remix",
       "url": "https://open.spotify.com/track/7Edhy8323TjVAwvtoqujQu"
-    },
-    {
-      "added_at": "2023-03-03 21:13:21",
-      "album": {
-        "name": "Dawn FM (Alternate World)",
-        "url": "https://open.spotify.com/album/3esNgb0dchNmQ3MhlUVaa7"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 238032,
-      "name": "Sacrifice (Remix) (feat. Swedish House Mafia)",
-      "url": "https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG"
     },
     {
       "added_at": "2023-03-03 21:13:21",
@@ -1287,26 +1287,22 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
-        "name": "How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix)",
-        "url": "https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe"
+        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
+        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         },
         {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        },
-        {
-          "name": "Salvatore Ganacci",
-          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 217766,
-      "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
-      "url": "https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0"
+      "duration_ms": 152672,
+      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
+      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
     },
     {
       "added_at": "2023-03-03 21:13:21",
@@ -1331,6 +1327,30 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
+        "name": "How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix)",
+        "url": "https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 217766,
+      "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
+      "url": "https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0"
+    },
+    {
+      "added_at": "2023-03-03 21:13:21",
+      "album": {
         "name": "Life Goes On (Alok Remix)",
         "url": "https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 157647,
       "name": "Life Goes On - Alok Remix",
       "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
-    },
-    {
-      "added_at": "2023-03-03 21:13:21",
-      "album": {
-        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
-        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 152672,
-      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
-      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
     },
     {
       "added_at": "2023-03-03 21:13:21",
@@ -1479,30 +1479,6 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
-        "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
-        "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 165269,
-      "name": "Left and Right (feat. Jung Kook of BTS) - Galantis Remix",
-      "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
-    },
-    {
-      "added_at": "2023-03-03 21:13:21",
-      "album": {
         "name": "Moth To A Flame (Adriatique Remix)",
         "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
       },
@@ -1523,6 +1499,30 @@
       "duration_ms": 389956,
       "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
       "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
+    },
+    {
+      "added_at": "2023-03-03 21:13:21",
+      "album": {
+        "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
+        "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 165269,
+      "name": "Left and Right (feat. Jung Kook of BTS) - Galantis Remix",
+      "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
     },
     {
       "added_at": "2023-03-03 21:13:21",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
-        "name": "drunk text me (Shallou Remix)",
-        "url": "https://open.spotify.com/album/3TWWc8s7UGI6LZYNHOLsUf"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 162431,
-      "name": "drunk text me - Shallou Remix",
-      "url": "https://open.spotify.com/track/22w2aLBRJTGTpXSj1X7Dc0"
-    },
-    {
-      "added_at": "2023-03-03 21:13:21",
-      "album": {
         "name": "Let Somebody Go (Kygo Remix)",
         "url": "https://open.spotify.com/album/7EZAIhKzfjXbAsL0hrQjGF"
       },
@@ -1743,26 +1723,22 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
-        "name": "IT'S YOU (feat. keshi) [ARMNHMR Remix]",
-        "url": "https://open.spotify.com/album/4K87GTtvuKzOZYXFjt7Baw"
+        "name": "drunk text me (Shallou Remix)",
+        "url": "https://open.spotify.com/album/3TWWc8s7UGI6LZYNHOLsUf"
       },
       "artists": [
         {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
         },
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        },
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 176540,
-      "name": "IT'S YOU - ARMNHMR Remix",
-      "url": "https://open.spotify.com/track/6EmRDtmAq556gtaj0rOjsW"
+      "duration_ms": 162431,
+      "name": "drunk text me - Shallou Remix",
+      "url": "https://open.spotify.com/track/22w2aLBRJTGTpXSj1X7Dc0"
     },
     {
       "added_at": "2023-03-03 21:13:21",
@@ -1783,6 +1759,30 @@
       "duration_ms": 215919,
       "name": "Beautiful - Benny Benassi Remix",
       "url": "https://open.spotify.com/track/2HVJpBSh3RSbrt0ApWTG0t"
+    },
+    {
+      "added_at": "2023-03-03 21:13:21",
+      "album": {
+        "name": "IT'S YOU (feat. keshi) [ARMNHMR Remix]",
+        "url": "https://open.spotify.com/album/4K87GTtvuKzOZYXFjt7Baw"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        },
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        }
+      ],
+      "duration_ms": 176540,
+      "name": "IT'S YOU - ARMNHMR Remix",
+      "url": "https://open.spotify.com/track/6EmRDtmAq556gtaj0rOjsW"
     },
     {
       "added_at": "2023-03-03 21:13:21",
@@ -1951,26 +1951,30 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
-        "name": "Attention (with Justin Bieber) [Disclosure Remix]",
-        "url": "https://open.spotify.com/album/1ERLtCOCCebS12VHYTq3cF"
+        "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/6eV4MyQxYM4BApNtVuutdt"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
         },
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 256644,
-      "name": "Attention (with Justin Bieber) - Disclosure Remix",
-      "url": "https://open.spotify.com/track/1xx7iMgSyLnbDUi170lVbb"
+      "duration_ms": 146000,
+      "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2myCSCZ8dbZmtSJs6xOWbN"
     },
     {
       "added_at": "2023-03-03 21:13:21",
@@ -1999,30 +2003,26 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
-        "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) [Ti\u00ebsto Remix]",
-        "url": "https://open.spotify.com/album/6eV4MyQxYM4BApNtVuutdt"
+        "name": "Attention (with Justin Bieber) [Disclosure Remix]",
+        "url": "https://open.spotify.com/album/1ERLtCOCCebS12VHYTq3cF"
       },
       "artists": [
         {
-          "name": "Axel Rulay",
-          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         },
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/2myCSCZ8dbZmtSJs6xOWbN"
+      "duration_ms": 256644,
+      "name": "Attention (with Justin Bieber) - Disclosure Remix",
+      "url": "https://open.spotify.com/track/1xx7iMgSyLnbDUi170lVbb"
     },
     {
       "added_at": "2023-03-03 21:13:21",
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
-        "name": "So Good (Jax Jones Remix)",
-        "url": "https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 189143,
-      "name": "So Good - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8"
-    },
-    {
-      "added_at": "2023-03-03 21:13:21",
-      "album": {
         "name": "Somebody I F*cked Once (The Extras)",
         "url": "https://open.spotify.com/album/5koenPf1RyTKDr13IT5nXO"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 145849,
       "name": "Somebody I F*cked Once - Lady Bee Remix",
       "url": "https://open.spotify.com/track/3PlpAfyyeuicW1HP0IebLM"
+    },
+    {
+      "added_at": "2023-03-03 21:13:21",
+      "album": {
+        "name": "So Good (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 189143,
+      "name": "So Good - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8"
     },
     {
       "added_at": "2023-03-03 21:13:21",

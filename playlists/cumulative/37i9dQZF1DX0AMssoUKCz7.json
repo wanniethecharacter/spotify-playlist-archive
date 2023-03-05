@@ -5683,6 +5683,24 @@
     },
     {
       "album": {
+        "name": "Know",
+        "url": "https://open.spotify.com/album/5zg7MKg4dWpJToBKfDiDKN"
+      },
+      "artists": [
+        {
+          "name": "Monartt",
+          "url": "https://open.spotify.com/artist/5ABls0cOLH2fiOLy1Dgb4k"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131803,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/5bXBLKAQ4MTAyKRdVbryrg"
+    },
+    {
+      "album": {
         "name": "Kuala Lumpur",
         "url": "https://open.spotify.com/album/4suO8UXZWFxmqEPtabQrCK"
       },
@@ -12142,7 +12160,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 170229,
       "name": "Without Your Love - sunsets & sandals Remix",
       "url": "https://open.spotify.com/track/78KQ0GVdHsDbv2ilNYSIBf"

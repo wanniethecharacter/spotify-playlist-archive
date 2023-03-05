@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,006 likes - 220 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,036 likes - 220 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,7 +197,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 187 | [Passing Trains](https://open.spotify.com/track/01oZjrRICAL5l0sSFqpb5D) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [All That Must Be](https://open.spotify.com/album/52LJO0cNeBErBohaxNZ0t4) | 3:13 |
 | 188 | [Silver](https://open.spotify.com/track/72CTYTm92JiZjJfZwHrV4n) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Bloom](https://open.spotify.com/album/3gro4alLqMrRFroQO5jAqu) | 3:54 |
 | 189 | [Serious Mood](https://open.spotify.com/track/1ZgQnD9g6koKGpBUmYDBNq) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ), [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Serious Mood](https://open.spotify.com/album/1AiJtsc3rR17zE9lgh6Sg6) | 3:38 |
-| 190 | [I Promise](https://open.spotify.com/track/2FG1ayvioaTgtj8dhcZGCV) | [Fossa Beats](https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt), [Thomas White](https://open.spotify.com/artist/4g03rM1dkEDxd2nrURVNML), [LIA](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [I Promise](https://open.spotify.com/album/6RQ3my9LG8W8uO90TZlHhe) | 3:13 |
+| 190 | [I Promise](https://open.spotify.com/track/2FG1ayvioaTgtj8dhcZGCV) | [Fossa Beats](https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt), [Thomas White](https://open.spotify.com/artist/4g03rM1dkEDxd2nrURVNML), [lia](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [I Promise](https://open.spotify.com/album/6RQ3my9LG8W8uO90TZlHhe) | 3:13 |
 | 191 | [Noth](https://open.spotify.com/track/035epJwRLJQLXbQ7XtPFEf) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve), [yunis](https://open.spotify.com/artist/7mwowsRa7r8SLzx93Xqc0g) | [Noth](https://open.spotify.com/album/6832kAHzTWaKroYt2Dk8dE) | 3:12 |
 | 192 | [Nico](https://open.spotify.com/track/1KiTPYOFaYU5aSIwpvZUHr) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Culture](https://open.spotify.com/album/4GUidWgIFuLfcr8btReanA) | 7:23 |
 | 193 | [self\-love](https://open.spotify.com/track/6piJi2nXNd3Au33og2w6BM) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/6uLFk1TZzDTj9fT2pkvEHc) | 2:23 |

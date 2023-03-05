@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Girl/Boy EP",
+        "url": "https://open.spotify.com/album/3TfLuGfGoYS978gsEsyTwZ"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91106,
+      "name": "Beetles",
+      "url": "https://open.spotify.com/track/2nHLDYwX62AQX4fru2EpVb"
+    },
+    {
+      "album": {
         "name": "Come To Daddy",
         "url": "https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp"
       },

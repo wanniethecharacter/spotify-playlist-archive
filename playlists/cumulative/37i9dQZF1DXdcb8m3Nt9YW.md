@@ -4,7 +4,7 @@
 
 > ¡De la tarima a tus bocinas! Los mejores corridos en vivo\. Enigma Norteño & Fuerza Regida en portada.
 
-84 songs - 4 hr 24 min
+85 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [El Buho](https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Buho](https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb) | 2:56 | 2022-03-08 |  |
 | [El Cajoncito \- En Vivo](https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:41 | 2022-03-08 |  |
 | [El Chaman](https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [El Chaman](https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE) | 4:41 | 2022-05-13 |  |
-| [El Chavo \- En Vivo](https://open.spotify.com/track/310cx0iUrKSZdqyiDH5vxu) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chavo \(En Vivo\)](https://open.spotify.com/album/5AuoHfynj2gkZrWm81e9x7) | 4:05 | 2022-03-08 |  |
+| [El Chavo \- En Vivo](https://open.spotify.com/track/12GpSqj0PWHs6LuBVsiliK) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chavo \(En Vivo\)](https://open.spotify.com/album/4sk54ruefcyjuX60ds1zLR) | 4:05 | 2022-12-07 |  |
+| [El Chavo \- En Vivo](https://open.spotify.com/track/310cx0iUrKSZdqyiDH5vxu) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chavo \(En Vivo\)](https://open.spotify.com/album/5AuoHfynj2gkZrWm81e9x7) | 4:05 | 2022-03-08 | 2023-03-05 |
 | [El Chavo Felix](https://open.spotify.com/track/7uUVDnX4B1OTUSw0LL0nUY) | [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [Pisteando Ando](https://open.spotify.com/album/4uEn9rdzNhqpCYOEJPeOO2) | 2:47 | 2022-03-08 |  |
 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 | 2022-03-08 |  |
 | [El Cholo \(En Vivo\)](https://open.spotify.com/track/3YcAm1OnEH6qALS7cnBifC) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Corridos En Vivo](https://open.spotify.com/album/1xq1fFDrIAYo28TqDhO0lg) | 1:44 | 2022-03-08 | 2022-07-29 |

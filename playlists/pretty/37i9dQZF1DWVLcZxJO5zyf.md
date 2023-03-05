@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: Marina Sena
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,443,769 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,443,961 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 18 | [1+1 É Pouco](https://open.spotify.com/track/0vB8TwivSx9NBMRXaMLIZw) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [1+1 É Pouco](https://open.spotify.com/album/54dRucOxK6INlDp0AuVAcd) | 2:37 |
 | 19 | [MALA MEMO](https://open.spotify.com/track/0BuzkHsZ50ZsMLIgoq1ZUQ) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq) | 2:16 |
 | 20 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 |
-| 21 | [Toda Malévola](https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Toda Malévola](https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD) | 3:16 |
+| 21 | [Toda Malévola](https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Toda Malévola](https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD) | 3:16 |
 | 22 | [Macetar](https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Macetar](https://open.spotify.com/album/5a1k4OWYmvWyaz1UvqLh2v) | 1:54 |
 | 23 | [Mole](https://open.spotify.com/track/1mXJe2PaWhSNWXvNIZKpqX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [TRÊS](https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV) | 2:10 |
 | 24 | [Não Se Vá](https://open.spotify.com/track/0XoFdDHxXJ0SqgomwiLAet) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Não Se Vá](https://open.spotify.com/album/5ZDXO9LppxZbYNaqD1L1Rf) | 2:38 |

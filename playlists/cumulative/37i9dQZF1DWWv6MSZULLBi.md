@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Feist
 
-333 songs - 20 hr 3 min
+334 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [And \(Sam Sarty's Version\)](https://open.spotify.com/track/4NAYWrsA9caIZOXxb6hvIY) | [Michael Bernard Fitzgerald](https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv), [Sam Sarty](https://open.spotify.com/artist/3GhrR3d8MxwPRiGjJUOLDb) | [And \(Sam Sarty's Version\)](https://open.spotify.com/album/28DI3Mg5t9QXqIopQrvrHO) | 3:45 | 2022-06-17 | 2023-02-18 |
 | [Animals](https://open.spotify.com/track/6lcfBmZ4McYR0s2lTKKMKO) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Animals](https://open.spotify.com/album/51gMj5yc7pBiLdKosMzfBd) | 4:25 | 2022-07-29 | 2022-09-10 |
 | [Annie](https://open.spotify.com/track/4cbwJEhIBM7WSn73X63Vgj) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 3:07 | 2022-05-13 | 2022-11-19 |
+| [Another Love](https://open.spotify.com/track/6kUbsWrqQ17sL0Fc00FUvA) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Another Love](https://open.spotify.com/album/5TQ7eGVZjZw9Bh4i6Prhv7) | 3:46 | 2023-03-03 |  |
 | [Another Night](https://open.spotify.com/track/5zvo5IHhdyHXTBSdO8H4ZI) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 2:51 | 2022-09-23 |  |
 | [Answers](https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Answers](https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a) | 2:47 | 2022-05-13 | 2022-07-30 |
 | [Armour](https://open.spotify.com/track/4Oo5MkhMfWTSjh58tZB898) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Armour](https://open.spotify.com/album/6FSGKvGRDmBSGmhfSmVEh8) | 3:13 | 2022-06-29 | 2023-03-04 |
@@ -159,8 +160,8 @@
 | [Jigsaw](https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A) | [Emma Worley](https://open.spotify.com/artist/4uKFpcmOUIswqq7B1c1Zdv) | [Sentimentalist](https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w) | 3:26 | 2022-06-10 | 2022-08-27 |
 | [Joint Account](https://open.spotify.com/track/7MpiFzyjot6mHge9PZKlmm) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx), [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [Joint Account](https://open.spotify.com/album/5I8uUf233kr6FLP7lg6hfG) | 3:06 | 2022-10-28 | 2022-12-03 |
 | [Just Know It](https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Just Know It](https://open.spotify.com/album/2PR7cECQ1VMirJeXjMHeN9) | 2:13 | 2022-09-16 | 2022-10-29 |
-| [just wanna forget you](https://open.spotify.com/track/7mk1jSxoxjLlZkygBwvgLJ) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3GMuMRTMVX0cGnol8lRiBR) | 4:49 | 2023-02-24 |  |
-| [just wanna forget you](https://open.spotify.com/track/7zZGRskmNql6RuRcmbjd1z) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/365YdFD2Mmu5Ae3rlt0YuE) | 4:49 | 2023-02-17 | 2023-02-27 |
+| [just wanna forget you](https://open.spotify.com/track/7mk1jSxoxjLlZkygBwvgLJ) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3GMuMRTMVX0cGnol8lRiBR) | 4:49 | 2023-02-24 | 2023-03-05 |
+| [just wanna forget you](https://open.spotify.com/track/7zZGRskmNql6RuRcmbjd1z) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/365YdFD2Mmu5Ae3rlt0YuE) | 4:49 | 2023-02-17 |  |
 | [Lazy River](https://open.spotify.com/track/48BvKO5IOnwr8EDzKQNcIU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Lazy River](https://open.spotify.com/album/5JvVAYl9FDztt3pFlFl1iT) | 3:54 | 2023-02-10 |  |
 | [Leave When You Go](https://open.spotify.com/track/0SXeE6kClNXeYd4o5blyZZ) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Big Hurt Boy](https://open.spotify.com/album/7h0oaV6ce42bamO6hkywcz) | 3:30 | 2022-05-13 | 2022-06-25 |
 | [Leave You Lonely](https://open.spotify.com/track/4rMaibSlgAUHJD9myTJrKD) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Leave You Lonely](https://open.spotify.com/album/19bm8NFFMHcj3QaqBfq9Es) | 4:24 | 2022-08-19 | 2022-09-24 |

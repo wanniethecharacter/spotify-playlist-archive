@@ -4,7 +4,7 @@
 
 > This Sunday, let's tune out the words.
 
-75 songs - 4 hr 1 min
+76 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,8 +60,9 @@
 | [Sliding Down](https://open.spotify.com/track/2KKAsmZmWc6eCuAutwGewl) | [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Mike Marshall](https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [The Best of Edgar Meyer](https://open.spotify.com/album/0ZNuAoOW0siajqjFxLtHjc) | 4:41 | 2019-01-04 |  |
 | [Straumnes](https://open.spotify.com/track/16f0oRsBHo88vgUbVqcteK) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Með suð í eyrum við spilum endalaust](https://open.spotify.com/album/6gAPGWoCZTnIaqB5EMAllD) | 2:01 | 2019-01-04 | 2022-07-29 |
 | [Straumnes](https://open.spotify.com/track/73Zl1qvHnU6qz1uUjOdXuo) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Með suð í eyrum við spilum endalaust](https://open.spotify.com/album/5CtxgcqieOcYKyQjGKI0nY) | 2:01 | 2019-01-04 |  |
+| [The Joy of D.H\. Lawrence](https://open.spotify.com/track/1DrShtK8uB2hD9YN3z5x9Y) | [Erik Enocksson](https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex) | [Kning Disk 2005\-2012 Box Set](https://open.spotify.com/album/6iQDcE5Ne5rd6K7Ik8kxKf) | 4:04 | 2022-09-27 |  |
 | [The Joy of D.H\. Lawrence](https://open.spotify.com/track/32NuTwiZpdX9ZrC7TNvn3w) | [Erik Enocksson](https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex) | [Kning Disk 2005\-2012 Box Set](https://open.spotify.com/album/2ArS0SJEyL8GAuV8lACeUu) | 4:04 | 2019-01-04 | 2022-07-29 |
-| [The Joy of D.H\. Lawrence](https://open.spotify.com/track/77KyNPhCUXjkBaj5yQ9GY9) | [Erik Enocksson](https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex) | [Kning Disk 2005\-2012 Box Set](https://open.spotify.com/album/7n0Ml88mIWDPvEBjDVlq8r) | 4:04 | 2019-01-04 |  |
+| [The Joy of D.H\. Lawrence](https://open.spotify.com/track/77KyNPhCUXjkBaj5yQ9GY9) | [Erik Enocksson](https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex) | [Kning Disk 2005\-2012 Box Set](https://open.spotify.com/album/7n0Ml88mIWDPvEBjDVlq8r) | 4:04 | 2019-01-04 | 2023-03-05 |
 | [The Wings](https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:52 | 2019-01-04 |  |
 | [Them](https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria](https://open.spotify.com/album/5Bd46K8hcylV7O7xz2YqEX) | 3:59 | 2019-01-04 |  |
 | [Them](https://open.spotify.com/track/55c9jHCc9bsryobmiSQyvh) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria \(Bonus Track Version\)](https://open.spotify.com/album/6RHEdxcef0XLhkLHBYhINF) | 4:00 | 2019-01-04 | 2022-07-29 |

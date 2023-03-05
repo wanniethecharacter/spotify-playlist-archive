@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,422 likes - 182 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,463 likes - 182 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 106 | [Broke Pop Kids](https://open.spotify.com/track/59GdwgTNBaUR9fUSxDbOUk) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Broke Pop Kids](https://open.spotify.com/album/2x7EOR1xG27FUU8rAzjwgG) | 1:54 |
 | 107 | [路过你的古怪](https://open.spotify.com/track/1Tpx1pGZrySm8S0qwR4ram) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [路过你的古怪](https://open.spotify.com/album/5TP8wK85RyPfyzrmEtl7UH) | 3:57 |
 | 108 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 |
-| 109 | [Weirdo](https://open.spotify.com/track/3sQBT0tor8HICVtn7YoNwt) | [Saint clara](https://open.spotify.com/artist/0kOtXGVaXBl7VJsKPrB1SQ) | [Weirdo](https://open.spotify.com/album/46mIIqrJLQdTpwy460Yaox) | 3:07 |
+| 109 | [Weirdo](https://open.spotify.com/track/3sQBT0tor8HICVtn7YoNwt) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Weirdo](https://open.spotify.com/album/46mIIqrJLQdTpwy460Yaox) | 3:07 |
 | 110 | [Pal Behta Jaaye](https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye](https://open.spotify.com/album/0TGb91XBYJ9BZbFpgyNMjc) | 2:54 |
 | 111 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 |
 | 112 | [ฉันยังอยู่](https://open.spotify.com/track/4RKdCN2AoogXeIqiQmDxNy) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [The BESTS](https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE) | [ฉันยังอยู่](https://open.spotify.com/album/2b4mRouxwhrFeA5EepXm5I) | 3:23 |

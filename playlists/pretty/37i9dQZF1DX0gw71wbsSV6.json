@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 42902,
+  "num_followers": 42915,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc3MTE2OSwwMDAwMDAwMGJhNDUwZjFhMmY1YzA2ZWQyNzMzOGNhNGVlNTI3NTU1",
+  "snapshot_id": "MTY3Nzc3MTE2OSwwMDAwMDAwMGFiNDJiZGRhMDJjNWFjYjRhMjBkNmE5YTUwMDQzMjVk",
   "tracks": [
     {
       "added_at": "2023-03-02 15:32:49",
@@ -391,58 +391,6 @@
     {
       "added_at": "2023-03-02 15:32:49",
       "album": {
-        "name": "How To Drive",
-        "url": "https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 219824,
-      "name": "How To Drive",
-      "url": "https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm"
-    },
-    {
-      "added_at": "2023-03-02 15:32:49",
-      "album": {
-        "name": "oh to be in love",
-        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 222167,
-      "name": "Bad Haircut (feat. JVKE)",
-      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
-    },
-    {
-      "added_at": "2023-03-02 15:32:49",
-      "album": {
-        "name": "She's Got You",
-        "url": "https://open.spotify.com/album/5pegL29fvLU4J3tM8gD0Yc"
-      },
-      "artists": [
-        {
-          "name": "Gliiico",
-          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
-        }
-      ],
-      "duration_ms": 173525,
-      "name": "She's Got You",
-      "url": "https://open.spotify.com/track/2vxA74DuID8LBkCr1nxJCo"
-    },
-    {
-      "added_at": "2023-03-02 15:32:49",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
       },
@@ -467,6 +415,58 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271"
+    },
+    {
+      "added_at": "2023-03-02 15:32:49",
+      "album": {
+        "name": "How To Drive",
+        "url": "https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 219824,
+      "name": "How To Drive",
+      "url": "https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm"
+    },
+    {
+      "added_at": "2023-03-02 15:32:49",
+      "album": {
+        "name": "She's Got You",
+        "url": "https://open.spotify.com/album/5pegL29fvLU4J3tM8gD0Yc"
+      },
+      "artists": [
+        {
+          "name": "Gliiico",
+          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
+        }
+      ],
+      "duration_ms": 173525,
+      "name": "She's Got You",
+      "url": "https://open.spotify.com/track/2vxA74DuID8LBkCr1nxJCo"
+    },
+    {
+      "added_at": "2023-03-02 15:32:49",
+      "album": {
+        "name": "oh to be in love",
+        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 222167,
+      "name": "Bad Haircut (feat. JVKE)",
+      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
     },
     {
       "added_at": "2023-03-02 15:32:49",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-03-02 15:32:49",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/4DTqGZgFGrLMnJgdaetEuJ"
+        "name": "See You In Life",
+        "url": "https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI"
       },
       "artists": [
         {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
         }
       ],
-      "duration_ms": 221596,
-      "name": "Proof",
-      "url": "https://open.spotify.com/track/2QjHdflfNJzFGPtCvcPvOO"
+      "duration_ms": 241750,
+      "name": "See You In Life",
+      "url": "https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC"
     },
     {
       "added_at": "2023-03-02 15:32:49",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-03-02 15:32:49",
       "album": {
-        "name": "See You In Life",
-        "url": "https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI"
+        "name": "LOCATION - Los Angeles",
+        "url": "https://open.spotify.com/album/4gpuX2juCWTe8gWsBCznlp"
       },
       "artists": [
         {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
         }
       ],
-      "duration_ms": 241750,
-      "name": "See You In Life",
-      "url": "https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC"
+      "duration_ms": 176354,
+      "name": "Fall in love with you in every 4AM.",
+      "url": "https://open.spotify.com/track/2sXQnT404FrXeSEZkJXfKM"
     },
     {
       "added_at": "2023-03-02 15:32:49",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-03-02 15:32:49",
       "album": {
-        "name": "LOCATION - Los Angeles",
-        "url": "https://open.spotify.com/album/4gpuX2juCWTe8gWsBCznlp"
+        "name": "bad weather",
+        "url": "https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q"
       },
       "artists": [
         {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
         }
       ],
-      "duration_ms": 176354,
-      "name": "Fall in love with you in every 4AM.",
-      "url": "https://open.spotify.com/track/2sXQnT404FrXeSEZkJXfKM"
+      "duration_ms": 173631,
+      "name": "bad weather",
+      "url": "https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm"
     },
     {
       "added_at": "2023-03-02 15:32:49",
@@ -607,38 +607,6 @@
     {
       "added_at": "2023-03-02 15:32:49",
       "album": {
-        "name": "bad weather",
-        "url": "https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 173631,
-      "name": "bad weather",
-      "url": "https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm"
-    },
-    {
-      "added_at": "2023-03-02 15:32:49",
-      "album": {
-        "name": "Icicle",
-        "url": "https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc"
-      },
-      "artists": [
-        {
-          "name": "tuLaLa",
-          "url": "https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd"
-        }
-      ],
-      "duration_ms": 177162,
-      "name": "Icicle",
-      "url": "https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO"
-    },
-    {
-      "added_at": "2023-03-02 15:32:49",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -655,6 +623,22 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
+    },
+    {
+      "added_at": "2023-03-02 15:32:49",
+      "album": {
+        "name": "Icicle",
+        "url": "https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc"
+      },
+      "artists": [
+        {
+          "name": "tuLaLa",
+          "url": "https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd"
+        }
+      ],
+      "duration_ms": 177162,
+      "name": "Icicle",
+      "url": "https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO"
     },
     {
       "added_at": "2023-03-02 15:32:49",
@@ -759,18 +743,22 @@
     {
       "added_at": "2023-03-02 15:32:49",
       "album": {
-        "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
-        "url": "https://open.spotify.com/album/6Ch5mvjky8GwIBmqO2c7LR"
+        "name": "A Night At The Symphony",
+        "url": "https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn"
       },
       "artists": [
         {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Iceland Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
         }
       ],
-      "duration_ms": 220471,
-      "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
-      "url": "https://open.spotify.com/track/5RZSpJdflZrwVNLgHudc5t"
+      "duration_ms": 302000,
+      "name": "Let You Break My Heart Again - Live at The Symphony",
+      "url": "https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s"
     },
     {
       "added_at": "2023-03-02 15:32:49",
@@ -787,6 +775,22 @@
       "duration_ms": 214003,
       "name": "i love u",
       "url": "https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4"
+    },
+    {
+      "added_at": "2023-03-02 15:32:49",
+      "album": {
+        "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
+        "url": "https://open.spotify.com/album/6Ch5mvjky8GwIBmqO2c7LR"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "duration_ms": 220471,
+      "name": "\u3042\u3073\u3070\u306e\u3093\u306e\u3093",
+      "url": "https://open.spotify.com/track/5RZSpJdflZrwVNLgHudc5t"
     },
     {
       "added_at": "2023-03-02 15:32:49",

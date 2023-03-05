@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 37013,
+  "num_followers": 37037,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDY0MzYwMWVmZWNhMmIxMGQyNWQyOTgyN2FhYjNlZDQw",
+  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMGY1YjZkNWU5MDU2NmZhNWY0YmE3NjlhNjk5MzY0OGQ5",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -283,6 +283,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "A Moment In Time",
+        "url": "https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex"
+      },
+      "artists": [
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Contagious",
         "url": "https://open.spotify.com/album/46fXrRFxFf1L5LycVoOetx"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 178840,
       "name": "So Special",
       "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "A Moment In Time",
-        "url": "https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex"
-      },
-      "artists": [
-        {
-          "name": "Beres Hammond",
-          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -755,6 +755,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
+      },
+      "artists": [
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Sycamore Tree",
+      "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/4YmKbUsBwjYtCyzag1OpVV"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 244412,
       "name": "Note To Self (Okay) [feat. Chronixx]",
       "url": "https://open.spotify.com/track/5FuUXAoCJoh7k9F8jJ6jkA"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
-      },
-      "artists": [
-        {
-          "name": "Lady Saw",
-          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Sycamore Tree",
-      "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
     },
     {
       "added_at": "2020-10-19 09:02:25",

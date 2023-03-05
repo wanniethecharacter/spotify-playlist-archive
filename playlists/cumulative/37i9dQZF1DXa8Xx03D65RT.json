@@ -2317,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Everything Is You",
+        "url": "https://open.spotify.com/album/5Du2iKqG8PpScVLlGXJ6cY"
+      },
+      "artists": [
+        {
+          "name": "Chris Island",
+          "url": "https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202713,
+      "name": "Everything Is You",
+      "url": "https://open.spotify.com/track/6LU350ky5JGQ4VwJsTfIq9"
+    },
+    {
+      "album": {
         "name": "Ex Nihilo Nihil Fit",
         "url": "https://open.spotify.com/album/4UGoF6BHCz2xclaI3J74Zf"
       },
@@ -5058,7 +5076,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 120458,
       "name": "Meditation: I. Promise",
       "url": "https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc"
@@ -5386,7 +5404,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 140500,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/13b7swHOlTGpZoDgtTWFIc"
@@ -6132,6 +6150,24 @@
       "duration_ms": 103040,
       "name": "Once Upon A Star",
       "url": "https://open.spotify.com/track/5ro4n67wO8Q8aRV3upxnut"
+    },
+    {
+      "album": {
+        "name": "One Last Question",
+        "url": "https://open.spotify.com/album/4flpCPlSP0b8EMrhwjakvF"
+      },
+      "artists": [
+        {
+          "name": "Vilma Hol\u00edk",
+          "url": "https://open.spotify.com/artist/4qhrLBBH9zCUWTNDLh5dJu"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131932,
+      "name": "One Last Question",
+      "url": "https://open.spotify.com/track/3PZcDjUs3yjBML8sDDvF8f"
     },
     {
       "album": {
@@ -8475,6 +8511,24 @@
     },
     {
       "album": {
+        "name": "The Novelty Is Bound To Fade",
+        "url": "https://open.spotify.com/album/5KPox3aevZOIHhscjhhAzn"
+      },
+      "artists": [
+        {
+          "name": "Roland Toubin",
+          "url": "https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164305,
+      "name": "The Novelty Is Bound To Fade",
+      "url": "https://open.spotify.com/track/1czGa9DmQSLn6LRYb5moi4"
+    },
+    {
+      "album": {
         "name": "The Owl",
         "url": "https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo"
       },
@@ -8594,7 +8648,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 173869,
       "name": "Through My Eyes",
       "url": "https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9"

@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 119038,
       "name": "Heat Wave - Mono Version",
       "url": "https://open.spotify.com/track/3IB71F5yOKijAjhzEMpwpk"
@@ -668,6 +668,28 @@
       "duration_ms": 157853,
       "name": "I'm One",
       "url": "https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH"
+    },
+    {
+      "album": {
+        "name": "Imagine A Man (Live At Wembley, UK / 2019)",
+        "url": "https://open.spotify.com/album/4czqeo8Tx9OGcVmfkbItyq"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+          "name": "Isobel Griffiths Orchestra",
+          "url": "https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273613,
+      "name": "Imagine A Man - Live At Wembley, UK / 2019",
+      "url": "https://open.spotify.com/track/34xjOrYGkcam4gzD3digQq"
     },
     {
       "album": {

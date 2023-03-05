@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this? Cover: De La Soul – R.I.P\. Trugoy 🕊
 
-317 songs - 17 hr 53 min
+318 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Is What It Is](https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Is What It Is](https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga) | 2:57 | 2022-06-17 | 2022-08-13 |
 | [It Ain't Hard to Tell](https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 3:22 | 2022-12-16 |  |
 | [Its Goin' Down](https://open.spotify.com/track/4oGRiXgngKUomIF1V6MfkM) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Onyx Versus Everybody](https://open.spotify.com/album/4cWB5o3u01bOk7yLq9CN8k) | 1:47 | 2022-05-13 | 2022-07-16 |
+| [Jack \(with EARTHGANG feat\. Buddy & Ant Clemons\)](https://open.spotify.com/track/7m3Cr9XyaYyW0toevY8dur) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 3:53 | 2023-03-04 |  |
 | [JADAKISS INTERLUDE \(feat\. Jadakiss\)](https://open.spotify.com/track/39zh5ufK1qVSOh6fJk4hNl) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:52 | 2022-08-26 | 2022-09-03 |
 | [Jaguar](https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Cocodrillo Turbo](https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c) | 2:55 | 2022-04-29 | 2022-08-13 |
 | [Jesus Piece](https://open.spotify.com/track/4cbIelDoFeGA6yvHWZXxLE) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [Jesus Piece](https://open.spotify.com/album/3kwLajHnDZFmPRMd6OAIrp) | 2:07 | 2022-04-29 | 2022-07-16 |

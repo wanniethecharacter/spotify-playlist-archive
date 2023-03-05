@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 15606,
+  "num_followers": 15701,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA0Nzg1NywwMDAwMDAwMDA3NGRhMjhlNWFiOTZmMThmYTY0MzIxMmZkOGY1YmU4",
+  "snapshot_id": "MTY3NzA0Nzg1NywwMDAwMDAwMGE5NDM1MTkwMjM5ZGIxMzM1M2ZjZTIxNmFmOGUxOWVj",
   "tracks": [
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 178442,
-      "name": "Deep Sea DRIP",
-      "url": "https://open.spotify.com/track/1EayMTMyCtRRwZN1KAUPmW"
+      "duration_ms": 169325,
+      "name": "Wegun Is My DJ",
+      "url": "https://open.spotify.com/track/51UySSlGzD8HLk99x60pdq"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 169325,
-      "name": "Wegun Is My DJ",
-      "url": "https://open.spotify.com/track/51UySSlGzD8HLk99x60pdq"
+      "duration_ms": 178442,
+      "name": "Deep Sea DRIP",
+      "url": "https://open.spotify.com/track/1EayMTMyCtRRwZN1KAUPmW"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 268066,
+      "name": "Million",
+      "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
         "name": "Scene Stealers",
         "url": "https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 277509,
       "name": "Ain\u2019t No Party Like an AOMG Party",
       "url": "https://open.spotify.com/track/6T9kR3QShDs0E8HCxxcEpA"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Million",
-      "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
     },
     {
       "added_at": "2023-02-22 06:37:37",

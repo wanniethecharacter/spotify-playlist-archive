@@ -12266,7 +12266,7 @@
     {
       "album": {
         "name": "Singularity",
-        "url": "https://open.spotify.com/album/5zZJjvf7RJjbeNuTuhIJK3"
+        "url": "https://open.spotify.com/album/2ff6fUWBKC7E6HFP8IOL2T"
       },
       "artists": [
         {
@@ -12277,6 +12277,24 @@
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 190357,
+      "name": "Singularity",
+      "url": "https://open.spotify.com/track/6DqhE2YrCDFLMTTicTmcCI"
+    },
+    {
+      "album": {
+        "name": "Singularity",
+        "url": "https://open.spotify.com/album/5zZJjvf7RJjbeNuTuhIJK3"
+      },
+      "artists": [
+        {
+          "name": "Astrocolor",
+          "url": "https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-05",
       "duration_ms": 190357,
       "name": "Singularity",
       "url": "https://open.spotify.com/track/6xol9iS7QVggKGLIcXIPNV"

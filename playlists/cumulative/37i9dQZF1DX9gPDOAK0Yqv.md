@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-190 songs - 17 hr 34 min
+191 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Brutalism](https://open.spotify.com/track/4szHVkwccA5hCKk3GA0Tle) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:27 | 2022-11-23 | 2023-02-04 |
 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 | 2022-12-02 |  |
 | [Change With Me](https://open.spotify.com/track/1ySN6MUzUh37rKzKsrLX8O) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Change With Me](https://open.spotify.com/album/09xbN5iMMIuelffXYAKEbS) | 6:41 | 2022-12-02 | 2023-01-21 |
-| [Close Your Eyes](https://open.spotify.com/track/2ykio2Gv8ZiyRMtTNBhB8r) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Close Your Eyes](https://open.spotify.com/album/0LcmOI4mgsVS545GrAcYE4) | 3:24 | 2023-01-06 |  |
+| [Close Your Eyes](https://open.spotify.com/track/2ykio2Gv8ZiyRMtTNBhB8r) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Close Your Eyes](https://open.spotify.com/album/0LcmOI4mgsVS545GrAcYE4) | 3:24 | 2023-01-06 | 2023-03-05 |
 | [Closed Doors](https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Closed Doors](https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A) | 5:43 | 2022-12-28 | 2023-01-06 |
 | [Concorde](https://open.spotify.com/track/1QWj9NYh8ZcSugtyBhSIea) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Concorde](https://open.spotify.com/album/5tDbwaajccd1lTumbnB0kK) | 3:56 | 2023-01-20 |  |
 | [Consciousness \- Eric Prydz Remix](https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu) | 4:04 | 2022-11-23 |  |
@@ -49,6 +49,7 @@
 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 | 2022-12-16 |  |
 | [Dreamcatcher](https://open.spotify.com/track/6ZSB0FEjUrG7sziGbkJea2) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Fred Lenix](https://open.spotify.com/artist/59dW0kJuMkQquLbBomht2S) | [Dreamcatcher](https://open.spotify.com/album/3fjsQVB2BQ9yGDe35IpmuQ) | 4:59 | 2023-02-10 |  |
 | [Earth \- Mind Against Remix](https://open.spotify.com/track/1cQCfrLGc5GpBC6bNPlsUm) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Boavista Remixes](https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa) | 7:30 | 2022-11-23 | 2023-03-04 |
+| [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 | 2023-03-03 |  |
 | [Eckstein Eckstein](https://open.spotify.com/track/2EMukdf4zK0H27I35Vvpmi) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/5I3OPusWIHYX9AKpNJjSaN) | 3:07 | 2023-01-13 | 2023-03-03 |
 | [Eclipse](https://open.spotify.com/track/4oXPyrvgfsqR8kgHxZZrUa) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt) | [The Awakening](https://open.spotify.com/album/3hSEqztpBnREFLhQSFi2Yi) | 4:22 | 2023-01-27 |  |
 | [Electric](https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta) | [Electric](https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX) | 4:21 | 2022-12-28 | 2023-01-06 |

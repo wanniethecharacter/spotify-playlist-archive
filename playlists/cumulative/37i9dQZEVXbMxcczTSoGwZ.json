@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 160619,
       "name": "ANNAWA",
       "url": "https://open.spotify.com/track/21GN53EvKL963Dr2Q2B9SW"
@@ -1734,6 +1734,28 @@
       "duration_ms": 224698,
       "name": "Bambina (WTF)",
       "url": "https://open.spotify.com/track/3BABTkGs0AIECWbwswLegi"
+    },
+    {
+      "album": {
+        "name": "Basilikanlehti\u00e4",
+        "url": "https://open.spotify.com/album/2hlU1AL8VixQMCQbrZoMDs"
+      },
+      "artists": [
+        {
+          "name": "Paperi T",
+          "url": "https://open.spotify.com/artist/3rOOythoKLiiyXJYh3XIMu"
+        },
+        {
+          "name": "Ringa Manner",
+          "url": "https://open.spotify.com/artist/7y3uvzm0oMkZ9HAUOFyumv"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183844,
+      "name": "Basilikanlehti\u00e4",
+      "url": "https://open.spotify.com/track/59dLug7VWleLt2vqUjqZYW"
     },
     {
       "album": {
@@ -2617,6 +2639,28 @@
     },
     {
       "album": {
+        "name": "Viimein",
+        "url": "https://open.spotify.com/album/0XsrfuVU2Dbz4yuitHjFU6"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153014,
+      "name": "Cancel",
+      "url": "https://open.spotify.com/track/3Zbtj1w567LeuusI8gHzgb"
+    },
+    {
+      "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
@@ -3054,7 +3098,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -4924,7 +4968,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
@@ -9127,6 +9171,24 @@
     },
     {
       "album": {
+        "name": "JuomaPeli",
+        "url": "https://open.spotify.com/album/3xI0OjOMLkurj3ZKqC5ing"
+      },
+      "artists": [
+        {
+          "name": "Petri Nyg\u00e5rd",
+          "url": "https://open.spotify.com/artist/4l0zTor5S32Yly4uw96Bto"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166295,
+      "name": "JuomaPeli",
+      "url": "https://open.spotify.com/track/05lhLcQVkO0oWejgVyrjMQ"
+    },
+    {
+      "album": {
         "name": "Just Do It",
         "url": "https://open.spotify.com/album/5daHVxDHeLgmERVy7heD9s"
       },
@@ -10216,7 +10278,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -10876,6 +10938,24 @@
       "duration_ms": 151677,
       "name": "Kulta",
       "url": "https://open.spotify.com/track/4RREa6oj9aMrzcQgkEnW9u"
+    },
+    {
+      "album": {
+        "name": "Kultainen keskitie",
+        "url": "https://open.spotify.com/album/7zCh2kqzJMDjSfFBDIJoh3"
+      },
+      "artists": [
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162539,
+      "name": "Kultainen keskitie",
+      "url": "https://open.spotify.com/track/32pFLFCMUdFIxuscAQqyLx"
     },
     {
       "album": {
@@ -12405,6 +12485,24 @@
     },
     {
       "album": {
+        "name": "Viimein",
+        "url": "https://open.spotify.com/album/0XsrfuVU2Dbz4yuitHjFU6"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169734,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/3LB4pvaSy4SrriTMmnfqEn"
+    },
+    {
+      "album": {
         "name": "Lowkey",
         "url": "https://open.spotify.com/album/0C1duQ0KdtuznqwSDOFo4w"
       },
@@ -13730,7 +13828,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 210729,
       "name": "Miks pit\u00e4\u00e4 itke\u00e4 (feat. Aali)",
       "url": "https://open.spotify.com/track/6hyJhnQGx5vfiCW2RE09oT"
@@ -14156,7 +14254,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -14406,6 +14504,24 @@
       "duration_ms": 195105,
       "name": "Mr. Saxobeat - Radio Edit",
       "url": "https://open.spotify.com/track/3LWDPEXEaLBRGNLbdcbwBR"
+    },
+    {
+      "album": {
+        "name": "MTV3",
+        "url": "https://open.spotify.com/album/0Dz4uXADncAh8PiU6lRA1h"
+      },
+      "artists": [
+        {
+          "name": "Tupe.",
+          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149180,
+      "name": "MTV3",
+      "url": "https://open.spotify.com/track/0OBg1TKKrkfDEpp6jeY9jg"
     },
     {
       "album": {
@@ -14802,7 +14918,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 152578,
       "name": "My love & homie",
       "url": "https://open.spotify.com/track/2Xt73nX1u3QHzJmQlpuGMP"
@@ -17968,7 +18084,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 247426,
       "name": "Reiviluola",
       "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
@@ -19010,6 +19126,24 @@
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "album": {
+        "name": "Viimein",
+        "url": "https://open.spotify.com/album/0XsrfuVU2Dbz4yuitHjFU6"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213070,
+      "name": "Sexmane",
+      "url": "https://open.spotify.com/track/2icXD0qBefa7MkRT0BrvBs"
     },
     {
       "album": {
@@ -20290,7 +20424,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 137358,
       "name": "Sun takii",
       "url": "https://open.spotify.com/track/3dMSUouXkSMQRxrn5tQFB6"
@@ -21682,6 +21816,24 @@
       "duration_ms": 162624,
       "name": "Toista mua",
       "url": "https://open.spotify.com/track/5IrehI7ObhFWGhWxGb65U1"
+    },
+    {
+      "album": {
+        "name": "Viimein",
+        "url": "https://open.spotify.com/album/0XsrfuVU2Dbz4yuitHjFU6"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191012,
+      "name": "Toksist",
+      "url": "https://open.spotify.com/track/1OYox8IAcpj31Esd7YuD0O"
     },
     {
       "album": {
@@ -23834,7 +23986,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 192716,
       "name": "V\u00e4likuolema",
       "url": "https://open.spotify.com/track/1v4jBEOmyYluJSBk6WUELN"
@@ -25081,6 +25233,24 @@
     },
     {
       "album": {
+        "name": "\u00c4\u00e4ni k\u00e4hee ku Tiihosella",
+        "url": "https://open.spotify.com/album/4OLHLSiMtlZyEBffIrjsMP"
+      },
+      "artists": [
+        {
+          "name": "Gasellit",
+          "url": "https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151516,
+      "name": "\u00c4\u00e4ni k\u00e4hee ku Tiihosella",
+      "url": "https://open.spotify.com/track/6m2nP6Q1vKXDMUyOZQUch2"
+    },
+    {
+      "album": {
         "name": "Sextape II",
         "url": "https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR"
       },
@@ -25096,7 +25266,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 210907,
       "name": "\u00c4\u00e4rirajoille II",
       "url": "https://open.spotify.com/track/59EjpBgEOq3kr53cNLAcF2"

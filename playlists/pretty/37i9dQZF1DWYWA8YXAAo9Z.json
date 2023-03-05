@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 38772,
+  "num_followers": 38842,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMGQxZGZmNGU4MGUyNDMwY2VmNGNkYWRjYTA0ODJjMTM2",
+  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMDhhZDExMmNhNjdlNzYzMWJmZDVlNmUwNDJjNWM1MWE2",
   "tracks": [
     {
       "added_at": "2022-10-04 14:14:28",
@@ -363,6 +363,26 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Secret Garden",
+        "url": "https://open.spotify.com/album/5XSfsdujTPlwsr4zCup4p2"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        },
+        {
+          "name": "Mrs Jynx",
+          "url": "https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q"
+        }
+      ],
+      "duration_ms": 281229,
+      "name": "The Secret Garden",
+      "url": "https://open.spotify.com/track/5nQzwQJAMxPR8TV6BXhthc"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Sollbruchstelle 1-3",
         "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Secret Garden",
-        "url": "https://open.spotify.com/album/5XSfsdujTPlwsr4zCup4p2"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        },
-        {
-          "name": "Mrs Jynx",
-          "url": "https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q"
-        }
-      ],
-      "duration_ms": 281229,
-      "name": "The Secret Garden",
-      "url": "https://open.spotify.com/track/5nQzwQJAMxPR8TV6BXhthc"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "cells_",
-        "url": "https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv"
-      },
-      "artists": [
-        {
-          "name": "DARK",
-          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
-        }
-      ],
-      "duration_ms": 145376,
-      "name": "cells_",
-      "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Probe 6-8",
         "url": "https://open.spotify.com/album/7ipY0pDn2DQBP8F3q8wC2a"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 343106,
       "name": "Para Guy",
       "url": "https://open.spotify.com/track/3zjgCju28uNvdHAp6zSvIY"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "cells_",
+        "url": "https://open.spotify.com/album/1lrfDmZk1wdPqobBKH01iv"
+      },
+      "artists": [
+        {
+          "name": "DARK",
+          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
+        }
+      ],
+      "duration_ms": 145376,
+      "name": "cells_",
+      "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "CHU / \u8655",
-        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
       },
       "artists": [
         {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+          "name": "Land Systems",
+          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
         }
       ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
+      "duration_ms": 158729,
+      "name": "Sequoia Slumber",
+      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -843,18 +843,34 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Elm",
-        "url": "https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR"
+        "name": "CHU / \u8655",
+        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
       },
       "artists": [
         {
-          "name": "Land Systems",
-          "url": "https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe"
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
         }
       ],
-      "duration_ms": 158729,
-      "name": "Sequoia Slumber",
-      "url": "https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK"
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Orange Blue Green",
+        "url": "https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz"
+      },
+      "artists": [
+        {
+          "name": "Loz Goddard",
+          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Orange Blue Green",
+      "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -899,22 +915,6 @@
       "duration_ms": 462088,
       "name": "Snow Ritual (feat. Suzanne Ciani)",
       "url": "https://open.spotify.com/track/5t3I5yqfEAJoDbZmPiT9vJ"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Orange Blue Green",
-        "url": "https://open.spotify.com/album/1yjuya6bhnOi8wW2CxEAiz"
-      },
-      "artists": [
-        {
-          "name": "Loz Goddard",
-          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "Orange Blue Green",
-      "url": "https://open.spotify.com/track/1nAGVg9aGh00zL74giYTIH"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "The Last Wave",
-        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
+        "name": "Scene Memory 2",
+        "url": "https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn"
       },
       "artists": [
         {
-          "name": "Ibukun Sunday",
-          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
         }
       ],
-      "duration_ms": 139041,
-      "name": "Last Earth",
-      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
+      "duration_ms": 186774,
+      "name": "Alternations",
+      "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Scene Memory 2",
-        "url": "https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn"
+        "name": "The Last Wave",
+        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
       },
       "artists": [
         {
-          "name": "Leo Abrahams",
-          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+          "name": "Ibukun Sunday",
+          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
         }
       ],
-      "duration_ms": 186774,
-      "name": "Alternations",
-      "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
+      "duration_ms": 139041,
+      "name": "Last Earth",
+      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Good Sound",
-        "url": "https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF"
-      },
-      "artists": [
-        {
-          "name": "Jstory",
-          "url": "https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji"
-        }
-      ],
-      "duration_ms": 251009,
-      "name": "Particulator",
-      "url": "https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Aerious EP",
         "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 277753,
       "name": "Reflections On The Waterfront",
       "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Good Sound",
+        "url": "https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF"
+      },
+      "artists": [
+        {
+          "name": "Jstory",
+          "url": "https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji"
+        }
+      ],
+      "duration_ms": 251009,
+      "name": "Particulator",
+      "url": "https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
-        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
-      },
-      "artists": [
-        {
-          "name": "Modern Biology",
-          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Rambutan",
-      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Five Steps",
         "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 280087,
       "name": "La colline",
       "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
+        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
+      },
+      "artists": [
+        {
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Rambutan",
+      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
     },
     {
       "added_at": "2022-10-04 14:14:28",

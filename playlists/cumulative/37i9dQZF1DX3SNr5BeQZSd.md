@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-145 songs - 5 hr 39 min
+146 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Pokémon Theme Lofi](https://open.spotify.com/track/59dMMxNmcPXPKa4S0vYi1j) | [Kato](https://open.spotify.com/artist/3yTNaLgtCufxUYDsWa5MpA) | [Sleep Anime Lofi Beats](https://open.spotify.com/album/2ztCJz2gwfKnjwuyKBbcqZ) | 1:20 | 2022-09-09 |  |
 | [Romantic Lofi Mashup](https://open.spotify.com/track/6rCt3zQpc2wRHjHhM8EwHB) | [Visual Chinmay](https://open.spotify.com/artist/6OQun0qxoOjStLIqxcmYK6) | [Romantic Lofi Mashup](https://open.spotify.com/album/6uLTofOp4wij6YCcb0Mwlu) | 4:00 | 2022-09-09 |  |
 | [Sadness and Sorrow \(Naruto\)](https://open.spotify.com/track/2vX97IafvBPXQ6xUTAWErl) | [Kato](https://open.spotify.com/artist/3yTNaLgtCufxUYDsWa5MpA) | [Sleep Anime Lofi Beats](https://open.spotify.com/album/2ztCJz2gwfKnjwuyKBbcqZ) | 1:17 | 2022-12-09 |  |
+| [Safe \(feat\. Shiloh\)](https://open.spotify.com/track/0TMez4fjyOAciXn4VefMNU) | [Bra Dy](https://open.spotify.com/artist/6tTaHSgwQ4Ld5lBKAc93Bd), [Shiloh](https://open.spotify.com/artist/2hkB8tem6WtX6015adeOXU) | [Safe \(feat\. Shiloh\)](https://open.spotify.com/album/6r33t1qiEt1UfJrByhcdn9) | 3:05 | 2023-01-18 |  |
 | [Saibo \- Lofi Flip](https://open.spotify.com/track/1E16f7KcZmuXuhlenRwA2m) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Saibo \(Lofi Flip\)](https://open.spotify.com/album/4c9FRN0aGll1nzuNwQ68HU) | 2:26 | 2022-09-09 |  |
 | [Saiyyan \- Lofi Version](https://open.spotify.com/track/7pX9MwOH187D85GK84kPX0) | [Jay Kashyap](https://open.spotify.com/artist/6IbczMOO9RjanCFkXOlEQq) | [Saiyyan \(Lofi Version\)](https://open.spotify.com/album/7sUhuHa8FYel3V6H4Ao8tC) | 2:48 | 2022-09-09 |  |
 | [Sakura Trees](https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Buena Vista](https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx) | 1:39 | 2022-09-09 |  |

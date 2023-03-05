@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Skeng
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,148 likes - 61 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,183 likes - 61 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dark Room](https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb) | [Shane O](https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF) | [Dark Room](https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb) | 3:13 |
-| 2 | [Gvnman Session](https://open.spotify.com/track/1jNNRFedRvdncFQpogCxUH) | [Skeng](https://open.spotify.com/artist/3qBcIlaQzeUEtS0ow6Ydgy) | [Gvnman Session](https://open.spotify.com/album/1CVOatmiqxOWd2rKM7wYv8) | 2:32 |
+| 2 | [Gvnman Session](https://open.spotify.com/track/1jNNRFedRvdncFQpogCxUH) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gvnman Session](https://open.spotify.com/album/1CVOatmiqxOWd2rKM7wYv8) | 2:32 |
 | 3 | [Update](https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Update](https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe) | 3:24 |
 | 4 | [Empty](https://open.spotify.com/track/2TlWUtnJz1SdlWi5B0tORD) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Empty](https://open.spotify.com/album/6I4pA1YFu1ujWabNzhRVUi) | 3:26 |
 | 5 | [10TH FLOOR](https://open.spotify.com/track/75kpqzf1KraZMAWWOefNvI) | [Brysco](https://open.spotify.com/artist/1W07QMxZ9se7fIk2YSrx4h) | [10TH FLOOR](https://open.spotify.com/album/7Kggx6XJzGumN4ojjBYyWp) | 2:14 |

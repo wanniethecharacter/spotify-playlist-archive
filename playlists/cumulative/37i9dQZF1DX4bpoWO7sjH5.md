@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-170 songs - 11 hr 24 min
+171 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Hosanna \- Nació el Salvador](https://open.spotify.com/track/6UVBb4p0rkNGtm3XKfHfi7) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Hosanna \(Nació el Salvador\)](https://open.spotify.com/album/6laOmLYemHwlZsWKrXbJHy) | 3:53 | 2021-12-24 |  |
 | [Hoy Es Navidad](https://open.spotify.com/track/5GTAhTQ8vZUGVrdsDsIAjv) | [Natalie Blanco](https://open.spotify.com/artist/3z5wKiXD8gQOuSZx01dmmT) | [Navidad Con Vástago](https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt) | 3:48 | 2021-12-24 |  |
 | [Hoy Es Navidad](https://open.spotify.com/track/5bIR6Pu8jPNNZfCOg8hOpI) | [Natalie Blanco](https://open.spotify.com/artist/3z5wKiXD8gQOuSZx01dmmT) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:48 | 2021-12-24 | 2022-07-29 |
+| [Hoy puede ser Navidad](https://open.spotify.com/track/09C7fTa3TJuIi8mOv163yw) | [Ríos de Vida](https://open.spotify.com/artist/3IGeqLLvzpZyCpjWshL46h), [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/artist/2FHN0lFkoif5aZHW55PNKD) | [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/album/0ZlxVLjxem18Yk5WkiYswK) | 5:28 | 2022-12-10 |  |
 | [Hoy Puede Ser Navidad](https://open.spotify.com/track/1WTqYoiusgeMYeOeGz4xSi) | [Ríos de Vida](https://open.spotify.com/artist/3IGeqLLvzpZyCpjWshL46h), [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/artist/2FHN0lFkoif5aZHW55PNKD), [Villancicos](https://open.spotify.com/artist/49iliMsEPTb3WSr1ZjQPdq) | [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/album/7AAySYmxfLbTfxTNGhR3e0) | 5:28 | 2021-12-24 | 2022-10-29 |
 | [Jesús Nació](https://open.spotify.com/track/6EnrfFNOAyb3phekhwcRpi) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Llegó La Navidad](https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya) | 2:59 | 2021-12-24 |  |
 | [Jesús Nació](https://open.spotify.com/track/4bGhYDGtVzHne6aabXsEWC) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [Jesús Nació](https://open.spotify.com/album/4a9bQgsXGA1MA6iEHF8lPR) | 3:48 | 2021-12-24 |  |
@@ -171,7 +172,7 @@
 | [Vives tú y vivo yo](https://open.spotify.com/track/5BqPdEdpNYFidl7AjMyz9c) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Regreso a Ti](https://open.spotify.com/album/1AwtSJ0RTTzQOSJhvaC9Dy) | 4:12 | 2021-12-24 | 2022-07-29 |
 | [Vives tú y vivo yo](https://open.spotify.com/track/6uxOAF2PW2Smg8g6wooYR5) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Regreso a Ti](https://open.spotify.com/album/0MKjR7eouvKif4m6IaI8jA) | 4:12 | 2021-12-24 |  |
 | [Voy Subiendo \(feat\. Alex Zurdo\)](https://open.spotify.com/track/2KzMozFxhwriwfEU2GQNah) | [Unción Tropical](https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Navidades Hasta Que Amanezca](https://open.spotify.com/album/16mF2UdEgV0WB0PziDdPhS) | 4:14 | 2021-12-24 |  |
-| [Vístete](https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO) | [René González](https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF) | [Pa'que Mi Pueblo Cante](https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR) | 3:29 | 2021-12-24 |  |
+| [Vístete](https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO) | [René González](https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF) | [Pa'que Mi Pueblo Cante](https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR) | 3:29 | 2021-12-24 | 2023-03-05 |
 | [Ya Llegó La Navidad](https://open.spotify.com/track/57Dw9S5EP2MCQmkNH9IYoY) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Llegó La Navidad](https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya) | 3:12 | 2021-12-24 | 2023-02-27 |
 | [Ya Llegó la Navidad](https://open.spotify.com/track/3j3JGGetYI05XwOMWP3MY4) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Ya Llegó la Navidad](https://open.spotify.com/album/3iynS4LSyMrDGTwUJkQnzp) | 2:50 | 2022-11-26 |  |
 | [Ya nació](https://open.spotify.com/track/3vhw8P4IYNfTV8zVpGSyvm) | [Moises Cancel](https://open.spotify.com/artist/1cwI3HJoAcUsUxO6266mFd) | [Ya nació](https://open.spotify.com/album/2XY0WMGtFjc10QF669IerI) | 4:00 | 2022-11-26 |  |

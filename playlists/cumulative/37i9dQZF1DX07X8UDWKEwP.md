@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Daniela Darcourt
 
-223 songs - 13 hr 28 min
+224 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Sube Tela](https://open.spotify.com/track/2ZSO65g1JGMNiyftPfXO7w) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Sube Tela](https://open.spotify.com/album/0OW0rzFBUtjViPP6SB2IBs) | 3:07 | 2023-02-17 |  |
 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 | 2022-06-29 |  |
 | [Tan Bonita Pero Tan Mala](https://open.spotify.com/track/2aHmvCzSXQufbPovXdnVFt) | [Max Cortés](https://open.spotify.com/artist/7iMqYM5dnlCfhcklOAb9qX) | [Tan Bonita Pero Tan Mala](https://open.spotify.com/album/0pEG5qV58gXVwi65yEsIZZ) | 3:59 | 2022-01-01 | 2022-06-30 |
-| [Te Equivocaste Conmigo](https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 4:08 | 2022-06-29 |  |
+| [Te Equivocaste Conmigo](https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 4:08 | 2022-06-29 | 2023-03-05 |
 | [Te Lo Digo](https://open.spotify.com/track/33jeCvkTVaxavKfHGq3d2F) | [Ferrer](https://open.spotify.com/artist/2FyIxKQgERQYU53kHKWWGb) | [Te Lo Digo](https://open.spotify.com/album/5kPfExaROtRCigNocOLrnq) | 3:00 | 2022-02-11 | 2022-06-30 |
 | [Te Lo Pido por Favor](https://open.spotify.com/track/64VA99RfGvRGN2WqNbOZCa) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Te Lo Pido por Favor](https://open.spotify.com/album/1xFDS9mqpiXVyhs9u4C7vu) | 2:50 | 2022-06-29 | 2023-01-14 |
 | [Te Supe Amar](https://open.spotify.com/track/2EGuSoq0VeRdczcg3KqsDz) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Agonía](https://open.spotify.com/album/029vCRAUGLv5z6IqivwXRI) | 2:57 | 2022-01-01 | 2022-01-29 |
@@ -217,6 +217,7 @@
 | [Veneno](https://open.spotify.com/track/0XuU7zwsQmeOOpLpFKJQJY) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/3KaFtzUOQvjPAZDlPNL86r) | 3:06 | 2023-01-13 |  |
 | [Veneno](https://open.spotify.com/track/7t4yFQHzredlqcQJIXaaj8) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/5l8YDFaDZqxq0ix1Fg7Lrv) | 3:06 | 2022-06-29 | 2023-01-14 |
 | [Vienes](https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Luis Figueroa](https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE) | 3:09 | 2022-06-29 |  |
+| [Volver a Casa](https://open.spotify.com/track/7DgLzDFLp5GcsYuZWJSmNL) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Volver a Casa](https://open.spotify.com/album/60bE7gawbgeAnOsbeCAMaX) | 3:44 | 2023-03-03 |  |
 | [Vuelve](https://open.spotify.com/track/1KJMygl0P4TmlwTYO0zVHD) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Vuelve](https://open.spotify.com/album/07fsh2oj0AY397J3WPs6sG) | 2:46 | 2022-06-29 | 2023-01-24 |
 | [Worst Way](https://open.spotify.com/track/0yKJSkZNSHuMuTSOl9bOJM) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [YX](https://open.spotify.com/artist/2Fv2ioUtRdjP2i5ilLcDPs), [Kenyi](https://open.spotify.com/artist/6AdFGjfHin3ow9yC5qE2TW) | [Worst Way](https://open.spotify.com/album/4qT54sqjsyssX4fNZgBkUv) | 4:05 | 2022-01-01 | 2022-06-30 |
 | [Y Como Te Olvido](https://open.spotify.com/track/5Pi7YhGmhGUunb82WJKOyT) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Aqui Estoy](https://open.spotify.com/album/2qdkE76wD3jBn1wiwnxFh4) | 3:40 | 2022-04-29 | 2023-01-14 |

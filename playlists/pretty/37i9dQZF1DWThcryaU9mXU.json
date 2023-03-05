@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 35974,
+  "num_followers": 36052,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzEzNCwwMDAwMDAwMDRhNWJmZjZlN2FlMWZjOWNiOWQ0ZjhmMmRiM2I5NWZj",
+  "snapshot_id": "MTY3Nzg2NzEzNCwwMDAwMDAwMGQxMTJjMTEyNzA1YWZkMTYxN2U4NTk0YWZhZjYwMWJi",
   "tracks": [
     {
       "added_at": "2023-02-24 17:28:02",
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
     },
     {
-      "added_at": "2023-03-04 01:00:05",
+      "added_at": "2023-03-05 00:58:10",
       "album": {
         "name": "That's It! / Duke Recordings Vol. III",
         "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-02-24 17:28:02",
       "album": {
-        "name": "The Imperial Recordings",
-        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "By the Water",
-      "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
-    },
-    {
-      "added_at": "2023-02-24 17:28:02",
-      "album": {
         "name": "Sings Raining In My Heart",
         "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 186333,
       "name": "Blues Hangover",
       "url": "https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ"
+    },
+    {
+      "added_at": "2023-02-24 17:28:02",
+      "album": {
+        "name": "The Imperial Recordings",
+        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "By the Water",
+      "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
     },
     {
       "added_at": "2023-02-24 17:28:02",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-02-24 17:28:02",
       "album": {
+        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
+        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Cleanhead\" Vinson",
+          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
+        }
+      ],
+      "duration_ms": 275226,
+      "name": "Juice Head Baby",
+      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
+    },
+    {
+      "added_at": "2023-02-24 17:28:02",
+      "album": {
         "name": "Singing In My Soul",
         "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-02-24 17:28:02",
       "album": {
-        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
-        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Cleanhead\" Vinson",
-          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Juice Head Baby",
-      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
-    },
-    {
-      "added_at": "2023-02-24 17:28:02",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 180384,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA"
-    },
-    {
-      "added_at": "2023-02-24 17:28:02",
-      "album": {
-        "name": "Wish Someone Would Care",
-        "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 140960,
-      "name": "Sufferin' With The Blues",
-      "url": "https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60"
     },
     {
       "added_at": "2023-02-24 17:28:02",
@@ -731,6 +715,22 @@
     {
       "added_at": "2023-02-24 17:28:02",
       "album": {
+        "name": "Wish Someone Would Care",
+        "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 140960,
+      "name": "Sufferin' With The Blues",
+      "url": "https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60"
+    },
+    {
+      "added_at": "2023-02-24 17:28:02",
+      "album": {
         "name": "Next Time You See Me",
         "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-24 17:28:02",
       "album": {
-        "name": "The Chicago Way",
-        "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
-      },
-      "artists": [
-        {
-          "name": "Toronzo Cannon",
-          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "When Will You Tell Him About Me?",
-      "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
-    },
-    {
-      "added_at": "2023-02-24 17:28:02",
-      "album": {
         "name": "Jackie Sings The Blues",
         "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 124786,
       "name": "Please Tell Me Why",
       "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
+    },
+    {
+      "added_at": "2023-02-24 17:28:02",
+      "album": {
+        "name": "The Chicago Way",
+        "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
+      },
+      "artists": [
+        {
+          "name": "Toronzo Cannon",
+          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "When Will You Tell Him About Me?",
+      "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
     },
     {
       "added_at": "2023-02-24 17:28:02",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-02-24 17:28:02",
       "album": {
-        "name": "Soul for the Heart",
-        "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
-      },
-      "artists": [
-        {
-          "name": "Joe Barr",
-          "url": "https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs"
-        },
-        {
-          "name": "Breezy Rodio",
-          "url": "https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o"
-        }
-      ],
-      "duration_ms": 275973,
-      "name": "Drown in My Own Tears",
-      "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
-    },
-    {
-      "added_at": "2023-02-24 17:28:02",
-      "album": {
         "name": "Memphis Moonlight",
         "url": "https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 257826,
       "name": "I've Lost My Baby",
       "url": "https://open.spotify.com/track/1K3L55HIhx61FIn173umta"
+    },
+    {
+      "added_at": "2023-02-24 17:28:02",
+      "album": {
+        "name": "Soul for the Heart",
+        "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
+      },
+      "artists": [
+        {
+          "name": "Joe Barr",
+          "url": "https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs"
+        },
+        {
+          "name": "Breezy Rodio",
+          "url": "https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o"
+        }
+      ],
+      "duration_ms": 275973,
+      "name": "Drown in My Own Tears",
+      "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
     },
     {
       "added_at": "2023-02-24 17:28:02",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-02-24 17:28:02",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
-      },
-      "artists": [
-        {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
-        }
-      ],
-      "duration_ms": 419306,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
-    },
-    {
-      "added_at": "2023-02-24 17:28:02",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 301440,
       "name": "I Got News For You",
       "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
+    },
+    {
+      "added_at": "2023-02-24 17:28:02",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 419306,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
     },
     {
       "added_at": "2023-02-24 17:28:02",

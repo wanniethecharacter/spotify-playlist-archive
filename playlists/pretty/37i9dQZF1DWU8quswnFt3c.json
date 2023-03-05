@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by a number of our ambassadors for International Women\u2019s Day. Cover: Jamala.",
-  "num_followers": 869608,
+  "num_followers": 872218,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0MTUzMSwwMDAwMDAwMDBkYWNjNWViYTg4MjllNzZmMWI4ZDA2OGZmMWI4ZTAw",
+  "snapshot_id": "MTY3Nzg0MTUzMSwwMDAwMDAwMDQzNjczNTQzMjgyZDg4MTlhNjM4NGU4M2FiYTBiZjJj",
   "tracks": [
     {
       "added_at": "2023-03-01 05:00:00",
@@ -348,8 +348,8 @@
           "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
         },
         {
-          "name": "Wokeupat4am",
-          "url": "https://open.spotify.com/artist/1Qe80M5yCGc6LLpj6SpDrI"
+          "name": "WOKEUP",
+          "url": "https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d"
         }
       ],
       "duration_ms": 205996,
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
+        "name": "\u4f60\u662f\u6211\u7684\u6b4c (\u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 217906,
+      "name": "\u4f60\u662f\u6211\u7684\u6b4c - \u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
         "name": "Hard Out Here.",
         "url": "https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 177973,
       "name": "WE ARE YOUNG",
       "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
-        "name": "\u4f60\u662f\u6211\u7684\u6b4c (\u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 217906,
-      "name": "\u4f60\u662f\u6211\u7684\u6b4c - \u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Fi 7eta Tanya",
-        "url": "https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n"
-      },
-      "artists": [
-        {
-          "name": "Hana Yousry",
-          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Fi 7eta Tanya",
-      "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "Wild Heart",
         "url": "https://open.spotify.com/album/7kWuhKieZArg50eaH8PKXJ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 243870,
       "name": "Wild Heart",
       "url": "https://open.spotify.com/track/1YlDncsZulH1XolY0zDOUL"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "Fi 7eta Tanya",
+        "url": "https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n"
+      },
+      "artists": [
+        {
+          "name": "Hana Yousry",
+          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Fi 7eta Tanya",
+      "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -767,6 +767,42 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
+        "name": "SBAGLIATA ASCENDENTE LEONE (OFFICIAL SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/6uLoe40GkV8FipaZ7Nx28P"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "duration_ms": 206020,
+      "name": "Sbagliata Ascendente Leone - Original Soundtrack",
+      "url": "https://open.spotify.com/track/5zkVCgfH3HzIyvWaxn23AB"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "A Beautiful Noise",
+        "url": "https://open.spotify.com/album/51t2sNnEACFJewZa81WPuU"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 199089,
+      "name": "A Beautiful Noise",
+      "url": "https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/2yV6eZVN6U78Rq6cwRyQiG"
       },
@@ -807,42 +843,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "A Beautiful Noise",
-        "url": "https://open.spotify.com/album/51t2sNnEACFJewZa81WPuU"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 199089,
-      "name": "A Beautiful Noise",
-      "url": "https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
-        "name": "SBAGLIATA ASCENDENTE LEONE (OFFICIAL SOUNDTRACK)",
-        "url": "https://open.spotify.com/album/6uLoe40GkV8FipaZ7Nx28P"
-      },
-      "artists": [
-        {
-          "name": "Emma",
-          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
-        }
-      ],
-      "duration_ms": 206020,
-      "name": "Sbagliata Ascendente Leone - Original Soundtrack",
-      "url": "https://open.spotify.com/track/5zkVCgfH3HzIyvWaxn23AB"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "\u05de\u05d0\u05d3\u05d9\u05dd",
         "url": "https://open.spotify.com/album/29xmwGmAa2OCDPg8yhWKd5"
       },
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
+        "name": "Miasto",
+        "url": "https://open.spotify.com/album/0N332tMHOmZS04Gpwb4hqv"
+      },
+      "artists": [
+        {
+          "name": "Roxie W\u0119giel",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Miasto",
+      "url": "https://open.spotify.com/track/41yoryTVfbvh49lXKqKCc7"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
         "name": "Mooier Als Je Lacht",
         "url": "https://open.spotify.com/album/35IrJEnHoJZo7BueWiI3XL"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Amyl and The Sniffers",
-        "url": "https://open.spotify.com/album/5d5j7Qr9OYZNFWy5fmSmLo"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 138946,
-      "name": "Got You",
-      "url": "https://open.spotify.com/track/26EvVb7HxLt5fVXtNRzUEw"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
         "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 445156,
       "name": "3 Marias",
       "url": "https://open.spotify.com/track/4pQ2WvtAOJrdm8lN8BGnE4"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "Amyl and The Sniffers",
+        "url": "https://open.spotify.com/album/5d5j7Qr9OYZNFWy5fmSmLo"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 138946,
+      "name": "Got You",
+      "url": "https://open.spotify.com/track/26EvVb7HxLt5fVXtNRzUEw"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -959,6 +975,22 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
+        "name": "KIDNAP ME PLS",
+        "url": "https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs"
+      },
+      "artists": [
+        {
+          "name": "ANNABELLE",
+          "url": "https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm"
+        }
+      ],
+      "duration_ms": 162739,
+      "name": "SnOWfLAkE",
+      "url": "https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
         "name": "Rulett",
         "url": "https://open.spotify.com/album/4CArdIZNMXA0M8f2moYb50"
       },
@@ -991,38 +1023,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "KIDNAP ME PLS",
-        "url": "https://open.spotify.com/album/7gR7TjkbGXEPhQMLnqyuLs"
-      },
-      "artists": [
-        {
-          "name": "ANNABELLE",
-          "url": "https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm"
-        }
-      ],
-      "duration_ms": 162739,
-      "name": "SnOWfLAkE",
-      "url": "https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
-        "name": "Miasto",
-        "url": "https://open.spotify.com/album/0N332tMHOmZS04Gpwb4hqv"
-      },
-      "artists": [
-        {
-          "name": "Roxie W\u0119giel",
-          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Miasto",
-      "url": "https://open.spotify.com/track/41yoryTVfbvh49lXKqKCc7"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "Ma Rainey",
         "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 177741,
       "name": "RBND",
       "url": "https://open.spotify.com/track/0aHciOWN2wx4tVCv0lwZqs"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "Things Aren't Nice In Paradise",
+        "url": "https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "duration_ms": 191788,
+      "name": "Things Aren't Nice In Paradise",
+      "url": "https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -1107,26 +1123,18 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "World Wide Pop",
-        "url": "https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu"
+        "name": "Halluzinationen",
+        "url": "https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i"
       },
       "artists": [
         {
-          "name": "Superorganism",
-          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
-        },
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
-        },
-        {
-          "name": "Pi Ja Ma",
-          "url": "https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA"
+          "name": "Sophie Hunger",
+          "url": "https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax"
         }
       ],
-      "duration_ms": 179249,
-      "name": "Teenager",
-      "url": "https://open.spotify.com/track/2bmq7wwgtGVPPJ0vYpjcXq"
+      "duration_ms": 180253,
+      "name": "Everything Is Good",
+      "url": "https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -1147,18 +1155,26 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Halluzinationen",
-        "url": "https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i"
+        "name": "World Wide Pop",
+        "url": "https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu"
       },
       "artists": [
         {
-          "name": "Sophie Hunger",
-          "url": "https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax"
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+        },
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        },
+        {
+          "name": "Pi Ja Ma",
+          "url": "https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA"
         }
       ],
-      "duration_ms": 180253,
-      "name": "Everything Is Good",
-      "url": "https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb"
+      "duration_ms": 179249,
+      "name": "Teenager",
+      "url": "https://open.spotify.com/track/2bmq7wwgtGVPPJ0vYpjcXq"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -1195,34 +1211,18 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Living My Life",
-        "url": "https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC"
+        "name": "Tangise Sarangan",
+        "url": "https://open.spotify.com/album/70BN1abiYV64ksDeUF0zDB"
       },
       "artists": [
         {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
         }
       ],
-      "duration_ms": 357866,
-      "name": "Nipple To The Bottle",
-      "url": "https://open.spotify.com/track/0DhpUlPutqrpTPnu5qNeSc"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
-        "name": "\u0644\u0627 \u0644\u0627 \u064a\u0627\u0644\u062e\u064a\u0632\u0631\u0627\u0646\u0647",
-        "url": "https://open.spotify.com/album/5kfATHTrJ77l3NVCQPqK8q"
-      },
-      "artists": [
-        {
-          "name": "Oumaima Taleb",
-          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
-        }
-      ],
-      "duration_ms": 216189,
-      "name": "\u0644\u0627 \u0644\u0627 \u064a\u0627\u0644\u062e\u064a\u0632\u0631\u0627\u0646\u0647",
-      "url": "https://open.spotify.com/track/4ZBUuvMtpGqiqF18lqeeIB"
+      "duration_ms": 415047,
+      "name": "Tangise Sarangan",
+      "url": "https://open.spotify.com/track/2NjOl7W9zT3ZnyUFsEyrmU"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -1243,34 +1243,34 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Tangise Sarangan",
-        "url": "https://open.spotify.com/album/70BN1abiYV64ksDeUF0zDB"
+        "name": "\u0644\u0627 \u0644\u0627 \u064a\u0627\u0644\u062e\u064a\u0632\u0631\u0627\u0646\u0647",
+        "url": "https://open.spotify.com/album/5kfATHTrJ77l3NVCQPqK8q"
       },
       "artists": [
         {
-          "name": "Woro Widowati",
-          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+          "name": "Oumaima Taleb",
+          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
         }
       ],
-      "duration_ms": 415047,
-      "name": "Tangise Sarangan",
-      "url": "https://open.spotify.com/track/2NjOl7W9zT3ZnyUFsEyrmU"
+      "duration_ms": 216189,
+      "name": "\u0644\u0627 \u0644\u0627 \u064a\u0627\u0644\u062e\u064a\u0632\u0631\u0627\u0646\u0647",
+      "url": "https://open.spotify.com/track/4ZBUuvMtpGqiqF18lqeeIB"
     },
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Things Aren't Nice In Paradise",
-        "url": "https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz"
+        "name": "Living My Life",
+        "url": "https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC"
       },
       "artists": [
         {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
         }
       ],
-      "duration_ms": 191788,
-      "name": "Things Aren't Nice In Paradise",
-      "url": "https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt"
+      "duration_ms": 357866,
+      "name": "Nipple To The Bottle",
+      "url": "https://open.spotify.com/track/0DhpUlPutqrpTPnu5qNeSc"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -1287,22 +1287,6 @@
       "duration_ms": 136706,
       "name": "Tijeras",
       "url": "https://open.spotify.com/track/5qjpID2xzQjJu67a3wP68m"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
-        "name": "Anokha Ladla & Other TV Hits",
-        "url": "https://open.spotify.com/album/6Jx2WehFCZT7aleVBX1Txh"
-      },
-      "artists": [
-        {
-          "name": "Tina Sani",
-          "url": "https://open.spotify.com/artist/4sNVLsdQvZ6RI5Y3C6Yr3B"
-        }
-      ],
-      "duration_ms": 307146,
-      "name": "Dasht-e-Tanhai",
-      "url": "https://open.spotify.com/track/0zSNSr1NVD2iwOwfazpGdT"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
+        "name": "Anokha Ladla & Other TV Hits",
+        "url": "https://open.spotify.com/album/6Jx2WehFCZT7aleVBX1Txh"
+      },
+      "artists": [
+        {
+          "name": "Tina Sani",
+          "url": "https://open.spotify.com/artist/4sNVLsdQvZ6RI5Y3C6Yr3B"
+        }
+      ],
+      "duration_ms": 307146,
+      "name": "Dasht-e-Tanhai",
+      "url": "https://open.spotify.com/track/0zSNSr1NVD2iwOwfazpGdT"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
         "name": "Estrelas da M\u00fasica Portuguesa",
         "url": "https://open.spotify.com/album/43BNU5CRBFE4EKbM4Avzhd"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "\u00bfY T\u00fa Qu\u00e9 Esperas?",
-        "url": "https://open.spotify.com/album/75eQDaOHwg0zCmZwN9koDI"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "\u00bfY T\u00fa Qu\u00e9 Esperas?",
-      "url": "https://open.spotify.com/track/3KtD9UUoMQx5K2tLmXnNSQ"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "Solos",
         "url": "https://open.spotify.com/album/5xRA95jI1g2qR8xTmlcN6D"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 214179,
       "name": "Solos",
       "url": "https://open.spotify.com/track/6wbq1d4rH4JgOpesSVofCQ"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "\u00bfY T\u00fa Qu\u00e9 Esperas?",
+        "url": "https://open.spotify.com/album/75eQDaOHwg0zCmZwN9koDI"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "\u00bfY T\u00fa Qu\u00e9 Esperas?",
+      "url": "https://open.spotify.com/track/3KtD9UUoMQx5K2tLmXnNSQ"
     },
     {
       "added_at": "2023-03-03 11:05:31",

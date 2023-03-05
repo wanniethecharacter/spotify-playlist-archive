@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: XL Life",
-  "num_followers": 447072,
+  "num_followers": 447158,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTgzMywwMDAwMDAwMGIwNzJhOThkMDU1NzUyMzM2ODEwNzQzYmMyMTIwNTRl",
+  "snapshot_id": "MTY3NjA0NTgzMywwMDAwMDAwMGRmZTAyYjUxZDVmNzYxNmM3ODQzNTBjZGJhYmFmZjBi",
   "tracks": [
     {
       "added_at": "2023-01-27 16:27:25",
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
     },
     {
-      "added_at": "2023-03-04 00:39:17",
+      "added_at": "2023-03-05 01:05:13",
       "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
@@ -589,20 +589,20 @@
       "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
     },
     {
-      "added_at": "2022-12-13 20:10:17",
+      "added_at": "2023-03-05 01:05:13",
       "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
       },
       "artists": [
         {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
         }
       ],
-      "duration_ms": 214493,
-      "name": "Ivy (Doomsday)",
-      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
     },
     {
-      "added_at": "2023-03-04 00:39:17",
+      "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
       },
       "artists": [
         {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
         }
       ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
+      "duration_ms": 214493,
+      "name": "Ivy (Doomsday)",
+      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/03CbQgFxnBFoaaVJTfEqMD"
     },
     {
-      "added_at": "2023-03-04 00:39:17",
+      "added_at": "2023-03-05 01:05:13",
       "album": {
         "name": "Evil Finds Light",
         "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "wet milk",
-        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "myfeelingshavefeelings",
-      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Ghost Like You",
         "url": "https://open.spotify.com/album/2BJl3YUJVddxRRmzGXXTvj"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 268727,
       "name": "Signs",
       "url": "https://open.spotify.com/track/1oQqeOUBp5MfObeodk2IbP"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "wet milk",
+        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "myfeelingshavefeelings",
+      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Euthanasia",
-        "url": "https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy"
-      },
-      "artists": [
-        {
-          "name": "Stray From The Path",
-          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Guillotine",
-      "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Anon.",
         "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 173000,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Euthanasia",
+        "url": "https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy"
+      },
+      "artists": [
+        {
+          "name": "Stray From The Path",
+          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V"
     },
     {
-      "added_at": "2023-01-27 16:27:25",
-      "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "Restless Heart, Keep Running",
@@ -1023,6 +1007,22 @@
       "duration_ms": 207106,
       "name": "Stars Before The Sun",
       "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
+    },
+    {
+      "added_at": "2023-01-27 16:27:25",
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Brutalism",
-        "url": "https://open.spotify.com/album/3VrfVLndSkH81aE4CqivdI"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 207145,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 198358,
       "name": "A Death In The Family",
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Brutalism",
+        "url": "https://open.spotify.com/album/3VrfVLndSkH81aE4CqivdI"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 207145,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1237,7 +1237,7 @@
       "url": "https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W"
     },
     {
-      "added_at": "2023-03-04 00:39:17",
+      "added_at": "2023-03-05 01:05:13",
       "album": {
         "name": "Attainable",
         "url": "https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx"
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
     },
     {
-      "added_at": "2023-01-19 23:53:27",
-      "album": {
-        "name": "Dark Blue",
-        "url": "https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 169045,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "Return of the Arsonist",
@@ -1459,6 +1443,22 @@
       "duration_ms": 181979,
       "name": "S01E02.Return.Of.The.Arsonist.720p.HDTV.x264",
       "url": "https://open.spotify.com/track/7zEDmEGVQNIJ5M8SU3fpIM"
+    },
+    {
+      "added_at": "2023-01-19 23:53:27",
+      "album": {
+        "name": "Dark Blue",
+        "url": "https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "duration_ms": 169045,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk"
-      },
-      "artists": [
-        {
-          "name": "Lilac Kings",
-          "url": "https://open.spotify.com/artist/01pBL0us3fnmy2SHHmgYQT"
-        }
-      ],
-      "duration_ms": 158444,
-      "name": "Drive Me Home",
-      "url": "https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk"
+      },
+      "artists": [
+        {
+          "name": "Lilac Kings",
+          "url": "https://open.spotify.com/artist/01pBL0us3fnmy2SHHmgYQT"
+        }
+      ],
+      "duration_ms": 158444,
+      "name": "Drive Me Home",
+      "url": "https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Familiar Drugs",
         "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 258718,
       "name": "Familiar Drugs",
       "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
-    },
-    {
-      "added_at": "2023-01-27 16:27:25",
-      "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/1PFAJuhUUb52aSlAMhRPPf"
-      },
-      "artists": [
-        {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Angel Dust",
-      "url": "https://open.spotify.com/track/4bDZt8PBRFOhBEcBS1Rdfs"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1579,6 +1563,22 @@
       "duration_ms": 145190,
       "name": "One Blood We Bleed",
       "url": "https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD"
+    },
+    {
+      "added_at": "2023-01-27 16:27:25",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/1PFAJuhUUb52aSlAMhRPPf"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/4bDZt8PBRFOhBEcBS1Rdfs"
     },
     {
       "added_at": "2022-12-13 20:10:17",

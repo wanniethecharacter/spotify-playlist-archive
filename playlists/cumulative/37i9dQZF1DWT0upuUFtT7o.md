@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Noah Pope
 
-1,242 songs - 2 day 20 hr 13 min
+1,244 songs - 2 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Despierto](https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Diàgo](https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s) | [Despierto](https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3) | 3:19 | 2023-01-25 |  |
 | [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 | 2022-03-02 | 2023-01-12 |
 | [Did You](https://open.spotify.com/track/1qyzQMrYgzdvMSLFASXj67) | [Mind Shrine](https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM) | [Did You](https://open.spotify.com/album/18V6NoBqHDwLFLoBTzLYKh) | 4:29 | 2022-08-31 | 2022-10-06 |
+| [Diet Cokes](https://open.spotify.com/track/3aTtIdw4Wsuf3Y9QUJp4zs) | [Modern Love Child](https://open.spotify.com/artist/5Re1DTCxspDf57qk07YOAP) | [Diet Cokes](https://open.spotify.com/album/6BsuAhvStKuwpSMtAV07t1) | 2:30 | 2023-03-04 |  |
 | [Dinner for Breakfast](https://open.spotify.com/track/3QL7eC8VP7StJUYuOP5d3x) | [Heavy Gus](https://open.spotify.com/artist/7vtYqKsgYf75SvsfviwC6H) | [Dinner for Breakfast](https://open.spotify.com/album/6lHf4cQrUkEQ2VssDRQG65) | 2:57 | 2022-04-06 | 2022-04-27 |
 | [Dinosaurs](https://open.spotify.com/track/5NfW49lHCNkAF8FXkPI9Up) | [Emilie Zoé](https://open.spotify.com/artist/2t7zzvR3tKMctlLIUkTvjc) | [Dinosaurs](https://open.spotify.com/album/0FgGcMTrKsWGUXwgLLyXmB) | 3:40 | 2022-09-28 | 2022-10-26 |
 | [Disbeliever](https://open.spotify.com/track/654zDjl1CT3CqA7IP1KXxa) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Disbeliever](https://open.spotify.com/album/6hUDF7eoQmAj9rpQ9YgSXL) | 1:55 | 2022-07-20 | 2022-08-25 |
@@ -728,7 +729,7 @@
 | [Name Something Better](https://open.spotify.com/track/68z2QuqZEbWWgx6SSlAKc0) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Name Something Better](https://open.spotify.com/album/6ob6oSOrj0lFNcktWFkETV) | 4:01 | 2022-03-16 | 2022-04-27 |
 | [nancy drew](https://open.spotify.com/track/6ISDmzhKgOVVYrBhnudqyX) | [splendi](https://open.spotify.com/artist/0FRZAnnUgEu4GXtHYysFw3) | [nancy drew](https://open.spotify.com/album/484SgfzCso9zmbfUAaPCcx) | 2:16 | 2022-09-06 | 2022-10-20 |
 | [Nashville, Again](https://open.spotify.com/track/2LnVG6B1AgZnddQOEafG5I) | [Razor Braids](https://open.spotify.com/artist/0MjyFpYWU1nBFKYoZ4UpvT) | [Nashville, Again + Buddy Holly](https://open.spotify.com/album/0OILrvVk9EEoiID3HDUhE0) | 3:53 | 2023-01-11 | 2023-02-16 |
-| [Nation Under Creep](https://open.spotify.com/track/35jz7oeLLwHZMimVDhxFkm) | [NGHTCRWLR](https://open.spotify.com/artist/1bQ9FRvrR3XQSppwJiQCMl) | [Let The Children Scream](https://open.spotify.com/album/14H2rmBLU6VxXpNfdpRh1z) | 3:43 | 2023-02-08 |  |
+| [Nation Under Creep](https://open.spotify.com/track/35jz7oeLLwHZMimVDhxFkm) | [NGHTCRWLR](https://open.spotify.com/artist/1bQ9FRvrR3XQSppwJiQCMl) | [Let The Children Scream](https://open.spotify.com/album/14H2rmBLU6VxXpNfdpRh1z) | 3:43 | 2023-02-08 | 2023-03-05 |
 | [Navy](https://open.spotify.com/track/0p78PlvKfZtcNuFoGI00Eo) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1HzHGZQVUwJeBBExUQuhPg) | 3:34 | 2021-12-01 | 2022-01-13 |
 | [Need](https://open.spotify.com/track/1qIEg864PzqjaMrkbYHBUL) | [Jake Harrison](https://open.spotify.com/artist/6OWw1Xd2V0N7Uz06R1XYzZ) | [Need](https://open.spotify.com/album/1OMUBawCXmptaSx0WILwpG) | 4:24 | 2023-02-15 |  |
 | [Nepotism Babies](https://open.spotify.com/track/4vOc0Hyamm6HUDNOLKssiQ) | [daphne ellen](https://open.spotify.com/artist/3AZJM8w3NwroIyzN99KyPI) | [Nepotism Babies](https://open.spotify.com/album/31GopirZ5kskQFQHhDvY5e) | 2:56 | 2023-01-25 | 2023-02-09 |
@@ -757,6 +758,7 @@
 | [Nobody Like You](https://open.spotify.com/track/10HqYPk8krVdDYQCgYh3z7) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:03 | 2022-11-30 | 2023-01-12 |
 | [Nobody Like You](https://open.spotify.com/track/75hkmDfQpal4gNgfXKYGrh) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Nobody Like You](https://open.spotify.com/album/5nSjlnmqS7H39KrFuqvVHi) | 2:03 | 2022-02-16 | 2022-04-07 |
 | [Nobody More](https://open.spotify.com/track/2H921QdeSvA1bBLVTA5ljH) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [Nobody More](https://open.spotify.com/album/1vXsXI0kvOtyJ1DZQeqZf1) | 2:55 | 2021-10-12 | 2022-01-13 |
+| [Nobody's Perfect](https://open.spotify.com/track/69nO19GZ58i8mpC1YGKnUu) | [ZEV](https://open.spotify.com/artist/66Nj7lUkbFw7ICIamxWvTY), [Modern Love Child](https://open.spotify.com/artist/5Re1DTCxspDf57qk07YOAP) | [Nobody's Perfect](https://open.spotify.com/album/2XzfgpDpycb4Kp57KJXfyg) | 2:36 | 2023-03-04 |  |
 | [North Carolina](https://open.spotify.com/track/3qIC976uoqMk5Ad8udiXrp) | [Luke Kiernan](https://open.spotify.com/artist/5DE9KxGzbolVjHELvGB9UH) | [North Carolina](https://open.spotify.com/album/4RSgEEuTkRsnP1JT09x92N) | 1:47 | 2022-01-12 | 2022-02-17 |
 | [not alrite](https://open.spotify.com/track/3KAGEOIppg472G3SCPrsSx) | [Moonbreak](https://open.spotify.com/artist/6tfT0UbUUfC3sortvhIh6x) | [not alrite](https://open.spotify.com/album/3CORW0zUiaxUHlSRcOlNij) | 3:09 | 2022-02-16 | 2022-03-10 |
 | [not cool anymore,](https://open.spotify.com/track/4iabzEk5WL3yipdTR7uohI) | [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [not cool anymore,](https://open.spotify.com/album/59rErSG1epNkuycKrGf44A) | 3:25 | 2021-10-19 | 2022-01-13 |

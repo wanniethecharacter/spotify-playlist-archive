@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-822 songs - 1 day 23 hr 25 min
+823 songs - 1 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Get Up](https://open.spotify.com/track/7quS3s6bqzPmXRnDU5FeNa) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Get Up](https://open.spotify.com/album/7G3GRV1k2khC47rPBSvFin) | 3:03 | 2022-11-18 | 2022-11-29 |
 | [Get Ur Freak On](https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Freak With Us](https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa) | 2:56 | 2022-09-17 | 2022-09-24 |
 | [Getaway](https://open.spotify.com/track/3mREWT3SWgL5eNevye37bG) | [Poolhaus](https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH), [SELCO \(BE\)](https://open.spotify.com/artist/0GXQS4aBpAGNNvbGM9qSFt) | [Getaway](https://open.spotify.com/album/7zhqid6qc4aXhwxUpBDQqQ) | 3:50 | 2022-07-15 | 2022-07-30 |
+| [Ghosts In My Bed](https://open.spotify.com/track/3dQVVuNZKEmNNLmIlQXjau) | [ToMix](https://open.spotify.com/artist/2huaButoWP7CiTeaYzKgIR) | [Ghosts In My Bed](https://open.spotify.com/album/4P469Mu97SlHlaPxzkrXdQ) | 3:10 | 2023-03-04 |  |
 | [Gimme Head](https://open.spotify.com/track/29vezKqX1mJUEtYbPdAlrZ) | [Zack Darza](https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm) | [Gimme Head](https://open.spotify.com/album/57CKVXXVsxobPrpVRHgcIG) | 3:05 | 2023-02-17 | 2023-02-25 |
 | [Gimme Some Keys \- Cave Studio Remix](https://open.spotify.com/track/4kFt0wCEMo1eYKltXr9jIt) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Gimme Some Keys \(Remixes\)](https://open.spotify.com/album/0DCYwEDewo2R9GbzwueiN6) | 2:53 | 2022-12-16 | 2023-01-07 |
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-01-28 | 2023-02-11 |

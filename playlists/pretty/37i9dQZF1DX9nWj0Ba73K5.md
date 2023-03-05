@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > In loving memory of songwriter Kyle Jacobs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,148 likes - 213 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,174 likes - 213 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

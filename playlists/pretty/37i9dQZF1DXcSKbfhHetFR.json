@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7996,
+  "num_followers": 8000,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGU1NjYwODY1OWUzYzEyNTkyOGFmM2ZiZmEzMDJjMjNl",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGJhMTUzZDhhYTVkMTMyZGNhNjcxZWZjN2ZhYjc3ZmM1",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -187,22 +187,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Fieldtrip",
-        "url": "https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV"
-      },
-      "artists": [
-        {
-          "name": "GrimSkunk",
-          "url": "https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL"
-        }
-      ],
-      "duration_ms": 190040,
-      "name": "Gros tas d'marde",
-      "url": "https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "L'acad\u00e9mie du massacre",
         "url": "https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 176893,
       "name": "Les patates",
       "url": "https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Fieldtrip",
+        "url": "https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV"
+      },
+      "artists": [
+        {
+          "name": "GrimSkunk",
+          "url": "https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Gros tas d'marde",
+      "url": "https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -655,6 +655,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "Le Chihuahua",
+        "url": "https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe"
+      },
+      "artists": [
+        {
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Le teint de Linda",
+      "url": "https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Vent fou",
         "url": "https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 173626,
       "name": "Thermoplastique",
       "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Le Chihuahua",
-        "url": "https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe"
-      },
-      "artists": [
-        {
-          "name": "Mara Tremblay",
-          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Le teint de Linda",
-      "url": "https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS"
     },
     {
       "added_at": "2020-06-23 14:47:30",

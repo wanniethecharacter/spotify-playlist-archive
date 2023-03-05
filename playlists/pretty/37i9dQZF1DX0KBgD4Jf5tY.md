@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:1eFOTBAGM0w0SH7jnTYSd1">BLUEM</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,590 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,594 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 19 | [Screenlight](https://open.spotify.com/track/6fJaEOy0lnMPdULAu6vFLP) | [So Beast](https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE) | [Screenlight](https://open.spotify.com/album/5Vt054yyicRyJnMBLAZGEa) | 4:08 |
 | 20 | [Circuito Cielo](https://open.spotify.com/track/5Ehm0YntXCJ86d9Ki5cdKE) | [Reminore](https://open.spotify.com/artist/0aHz7T2jUBp33N4FzdUBZF) | [Circuito Cielo](https://open.spotify.com/album/17DSVB3QJcMGZDoCcNgMyx) | 2:33 |
 | 21 | [Mikado](https://open.spotify.com/track/6u7wBE4McKSHeCbnRpfzWE) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Mikado](https://open.spotify.com/album/6KX5rDPufOywxTe2S9LGkz) | 3:36 |
-| 22 | [IN 7](https://open.spotify.com/track/5SRhy7NvDOD7VBFbW78Wd1) | [Bartowski](https://open.spotify.com/artist/1mNpUnAOSVj0zfZ76OOZLy) | [IN 7](https://open.spotify.com/album/3PsLzN9XXJVW1PSDZ9ETST) | 3:54 |
+| 22 | [IN 7](https://open.spotify.com/track/5SRhy7NvDOD7VBFbW78Wd1) | [Bartowski](https://open.spotify.com/artist/1mNpUnAOSVj0zfZ76OOZLy) | [IN 7](https://open.spotify.com/album/3PsLzN9XXJVW1PSDZ9ETST) | 2:49 |
 | 23 | [Figli dei fiori](https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Figli dei fiori](https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs) | 2:43 |
 | 24 | [Blu](https://open.spotify.com/track/6Tf02XE2I2K2zqFAhFe4Dz) | [REA](https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev) | [Blu](https://open.spotify.com/album/6sfyLW0DaavlkQhRUPdmPp) | 2:46 |
 | 25 | [Dio اَلله](https://open.spotify.com/track/3dAWfso7q6rScZeDzIQu8t) | [azael](https://open.spotify.com/artist/0ka5NilkDyElonlI22xaJk) | [Dio اَلله](https://open.spotify.com/album/7LZAHH3cWMSc7OzBOrt5ur) | 2:29 |

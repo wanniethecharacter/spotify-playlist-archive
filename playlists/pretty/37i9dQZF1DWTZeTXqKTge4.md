@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: GreenWoodz
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,594 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,591 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 2 | [1942](https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [1942](https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm) | 3:39 |
 | 3 | [On L'Fait](https://open.spotify.com/track/1d15a5d3w0JBIslTS9N8Ex) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Zayon](https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY) | 3:40 |
 | 4 | [Tout ou rien \- De l'autre côté](https://open.spotify.com/track/4Gzv5t4RddodRoc5rR3Vuz) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Negrito](https://open.spotify.com/artist/1i8gGjDzv2FNoy6dHcr25K) | [Tout ou rien \(De l'autre côté\)](https://open.spotify.com/album/6TMqENMy33MdWMGJ3ZgApt) | 3:12 |
-| 5 | [Harry Potter](https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Harry Potter](https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7) | 3:55 |
-| 6 | [Leansy](https://open.spotify.com/track/0lV7WglmHuWvFMid5KlRPI) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf) | [Le calme avant la tempête](https://open.spotify.com/album/4ITWZzzEkduCXSaIHb4Llp) | 3:53 |
-| 7 | [Donne\-moi tout](https://open.spotify.com/track/3p2F9SRs390U4dOp3siAcF) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Donne\-moi tout](https://open.spotify.com/album/7qvR4RsNKAzIX4c0C4IBOz) | 4:21 |
-| 8 | [Mérité](https://open.spotify.com/track/5wd8lk4IpsqJomwYuzpCCy) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Mérité](https://open.spotify.com/album/32kQLDgEXAfljcw3wgOQxk) | 2:42 |
-| 9 | [Ça commence bien](https://open.spotify.com/track/6XoFiwrYXq8bTaRFYzAwjw) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [la mort attendra](https://open.spotify.com/album/1PIr15iOvcl1JLmIvWMoJ1) | 2:45 |
+| 5 | [Ça commence bien](https://open.spotify.com/track/6XoFiwrYXq8bTaRFYzAwjw) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [la mort attendra](https://open.spotify.com/album/1PIr15iOvcl1JLmIvWMoJ1) | 2:45 |
+| 6 | [Harry Potter](https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Harry Potter](https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7) | 3:55 |
+| 7 | [Leansy](https://open.spotify.com/track/0lV7WglmHuWvFMid5KlRPI) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf) | [Le calme avant la tempête](https://open.spotify.com/album/4ITWZzzEkduCXSaIHb4Llp) | 3:53 |
+| 8 | [Donne\-moi tout](https://open.spotify.com/track/3p2F9SRs390U4dOp3siAcF) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Donne\-moi tout](https://open.spotify.com/album/7qvR4RsNKAzIX4c0C4IBOz) | 4:21 |
+| 9 | [Mérité](https://open.spotify.com/track/5wd8lk4IpsqJomwYuzpCCy) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Mérité](https://open.spotify.com/album/32kQLDgEXAfljcw3wgOQxk) | 2:42 |
 | 10 | [C\-17](https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [C\-17](https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc) | 2:52 |
 | 11 | [RS3](https://open.spotify.com/track/7ewyfiBDhVBojXtyK26rfA) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [RS3](https://open.spotify.com/album/3HXwfpnhD26UWEWESoz4iY) | 2:54 |
 | 12 | [Froid](https://open.spotify.com/track/7xdBeATvkJWIEsh60xc2GZ) | [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg) | [Froid](https://open.spotify.com/album/5jKAgilOampSvGsOpYHRhG) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Écart type](https://open.spotify.com/track/7elFP749giV9I0f1LQHeFM) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Astronaute](https://open.spotify.com/album/2A41RCTjlR4P888t6OfM89) | 2:54 |
 | 75 | [Hold Up](https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 3:33 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGI5NTljMWQ4NzAxZTlhNzEzNjE4NDc0NWRlZTc1Zjky`
+Snapshot ID: `MTY3Nzk1MDEwMCwwMDAwMDAwMDUyZWQyMjVlZDllZTBkOTk5OGMxMGVkNDRiNzYwYmVh`

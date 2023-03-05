@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. nemahsis on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,008 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,028 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 51 | [Gone](https://open.spotify.com/track/3mDZYUiAmHqPr6vl0a9Erv) | [Benja](https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [Gone](https://open.spotify.com/album/6kllSzXR7OltIa8QkBNEna) | 2:58 |
 | 52 | [I Let My Plant Die](https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [I Let My Plant Die](https://open.spotify.com/album/1c4s3k9S4QEJRwVkta2JQq) | 4:02 |
 | 53 | [Lonely Hallucinations](https://open.spotify.com/track/4hqIsxoAphbShsRsL0qGmh) | [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Lonely Hallucinations](https://open.spotify.com/album/7Gs6HTYS71coBejdMXPrCI) | 3:14 |
-| 54 | [HOUSEPARTY](https://open.spotify.com/track/0uh340u40fjox7RNU2HQKi) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [How to Forgive \(and Let Go\)](https://open.spotify.com/album/3tF5k1ayfqXyx9adwdDz6I) | 2:27 |
+| 54 | [HOUSEPARTY](https://open.spotify.com/track/6hRU08A4e8iUUJlcVJ24br) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [How to Forgive \(and Let Go\)](https://open.spotify.com/album/39oky69khpuWAuadskGlKI) | 2:27 |
 | 55 | [Inhibitions / Intuitions](https://open.spotify.com/track/1Wqp5K08ASR7JcAmu1YjTI) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Inhibitions / Intuitions](https://open.spotify.com/album/5uBveYkzBC1RJP2pTEup1h) | 3:29 |
 | 56 | [ANTIFREEZE](https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [ANTIFREEZE](https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY) | 3:29 |
 | 57 | [French Class](https://open.spotify.com/track/4uLFxuc0xbis1F4i3ZpecK) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [French Class](https://open.spotify.com/album/6DhUFvTEWoyocvCdP0156u) | 3:47 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
 | 125 | [Marie](https://open.spotify.com/track/29ZJpcIs5HA8gr9AMUvniG) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX), [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Marie](https://open.spotify.com/album/2vrnHGEnkpNGBB8RBT8CM7) | 3:01 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDc0OTdiNGMwN2NiYzRjMDRjYWFhMTI1NThiZTFiZWJl`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDBkMzNlMTQ2YTljYWU0Y2YyMGU3NTA3OTUxNWQ3YmIz`

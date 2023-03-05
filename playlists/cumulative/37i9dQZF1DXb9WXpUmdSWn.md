@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-60 songs - 3 hr 36 min
+61 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 | 2022-01-21 |  |
 | [Kathy’s Song \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5VTAeRB21LBZHqk6qKBQXz) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO) | 2:44 | 2022-01-21 |  |
 | [Kathy’s Song \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7nebNowPcMMBKgjaS1nJlm) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/6L8bGsHdlWg26U5SE5ed8w) | 2:44 | 2022-01-21 | 2022-10-13 |
-| [Kodachrome](https://open.spotify.com/track/6uPUACLG1QledvvJRdIVeH) | [Conor Oberst and the Mystic Valley Band](https://open.spotify.com/artist/2BoOe7KEtWpXqnfs8yaj1V), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [One of My Kind](https://open.spotify.com/album/1xRNt5fAKXrMG0L8JBXQHo) | 4:08 | 2022-01-21 |  |
+| [Kodachrome](https://open.spotify.com/track/4KLG9hVIbmbjg3BZIl2dGh) | [Conor Oberst and the Mystic Valley Band](https://open.spotify.com/artist/2BoOe7KEtWpXqnfs8yaj1V) | [One of My Kind](https://open.spotify.com/album/5tRoHoiezNYHMDwJpLRMY5) | 4:08 | 2022-01-21 |  |
+| [Kodachrome](https://open.spotify.com/track/6uPUACLG1QledvvJRdIVeH) | [Conor Oberst and the Mystic Valley Band](https://open.spotify.com/artist/2BoOe7KEtWpXqnfs8yaj1V), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [One of My Kind](https://open.spotify.com/album/1xRNt5fAKXrMG0L8JBXQHo) | 4:08 | 2022-01-21 | 2023-03-05 |
 | [La voix du silence](https://open.spotify.com/track/5Vm2dMqNbUjQgVJeSdBNtC) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [1964\-1966](https://open.spotify.com/album/0ZMvc8qrQdQCfbdmSOihGm) | 2:58 | 2022-01-21 |  |
 | [Loves Me Like a Rock](https://open.spotify.com/track/2gR3sEpa4AHTFi7dh88z1V) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 2:25 | 2022-01-21 |  |
 | [Me And Julio Down By The School Yard](https://open.spotify.com/track/4j4icLxDVpPTAWUhRKgARM) | [Jesse Malin](https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls) | [On Your Sleeve](https://open.spotify.com/album/3AXVPR6o5YhYU1KHHsSaRw) | 2:27 | 2022-01-21 |  |

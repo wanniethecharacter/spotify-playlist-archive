@@ -10841,6 +10841,24 @@
     },
     {
       "album": {
+        "name": "Pyramide",
+        "url": "https://open.spotify.com/album/0EN8aHwD7Xt1X1EgqrddqV"
+      },
+      "artists": [
+        {
+          "name": "Bezza",
+          "url": "https://open.spotify.com/artist/0MfPlLNDak7ZuAIbxzbzde"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Pyramide",
+      "url": "https://open.spotify.com/track/5Y9xTg76DkBpjzYu2aCUYi"
+    },
+    {
+      "album": {
         "name": "COR D'\u00c1GUA",
         "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
       },
@@ -13078,7 +13096,7 @@
       ],
       "date_added": "2023-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -13844,7 +13862,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 122994,
       "name": "Toma Tapa",
       "url": "https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V"
@@ -14156,7 +14174,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"

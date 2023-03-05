@@ -4538,10 +4538,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 127807,
       "name": "Outside Lookin In",
       "url": "https://open.spotify.com/track/2E0GPxxASUGBkgZevrhr3V"
+    },
+    {
+      "album": {
+        "name": "Outside Lookin In",
+        "url": "https://open.spotify.com/album/6hwMZyJYTyPex8eDKo1KMU"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127807,
+      "name": "Outside Lookin In",
+      "url": "https://open.spotify.com/track/6JMQeZd5yYP0fe6blygX6P"
     },
     {
       "album": {

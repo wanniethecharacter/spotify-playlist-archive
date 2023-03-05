@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 11263,
+  "num_followers": 11284,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMGRiM2QxZmQzNGQzNWM1YTM3ZTQxY2E2NzBiZTBmMzQ4",
+  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMDE1NDY5YzNmYjI0NDQ2YWQ1MDMxMTAxZDgzN2VkZjI4",
   "tracks": [
     {
       "added_at": "2023-02-14 07:48:55",
@@ -337,6 +337,22 @@
       "url": "https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh"
     },
     {
+      "added_at": "2023-03-05 01:20:17",
+      "album": {
+        "name": "W.A.Y",
+        "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
+      },
+      "artists": [
+        {
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+        }
+      ],
+      "duration_ms": 177973,
+      "name": "WE ARE YOUNG",
+      "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
+    },
+    {
       "added_at": "2023-02-14 07:48:55",
       "album": {
         "name": "A Class",
@@ -351,22 +367,6 @@
       "duration_ms": 217560,
       "name": "Bad Girl Good Girl",
       "url": "https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc"
-    },
-    {
-      "added_at": "2023-03-04 00:50:08",
-      "album": {
-        "name": "W.A.Y",
-        "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
-      },
-      "artists": [
-        {
-          "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "WE ARE YOUNG",
-      "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
     },
     {
       "added_at": "2023-02-14 07:48:55",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-02-14 07:48:55",
       "album": {
+        "name": "LUCKY MAN",
+        "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "duration_ms": 216806,
+      "name": "HeartBROKEN PlaYBoY",
+      "url": "https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j"
+    },
+    {
+      "added_at": "2023-02-14 07:48:55",
+      "album": {
         "name": "SOULBYSEL Compilation 04",
         "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 124572,
       "name": "Donut",
       "url": "https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5"
-    },
-    {
-      "added_at": "2023-02-14 07:48:55",
-      "album": {
-        "name": "LUCKY MAN",
-        "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
-      },
-      "artists": [
-        {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
-        }
-      ],
-      "duration_ms": 216806,
-      "name": "HeartBROKEN PlaYBoY",
-      "url": "https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j"
     },
     {
       "added_at": "2023-02-14 07:48:55",
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
     },
     {
-      "added_at": "2023-03-04 00:50:08",
+      "added_at": "2023-03-05 01:20:17",
       "album": {
         "name": "a tempo",
         "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"

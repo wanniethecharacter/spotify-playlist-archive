@@ -1,13 +1,33 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Noah Pope",
-  "num_followers": 171306,
+  "num_followers": 171392,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY5NjI4NiwwMDAwMDAwMGZiOTU5ZjA1MTYzNGRjNzg4Y2Y0MjAxN2U2N2YyNDYw",
+  "snapshot_id": "MTY3NzkwNjczNCwwMDAwMDAwMGE5NzM1MjdiMzdiOWZkNjc3NjAyODcxNTIwMzk4NDA1",
   "tracks": [
+    {
+      "added_at": "2023-03-04 05:12:14",
+      "album": {
+        "name": "Nobody's Perfect",
+        "url": "https://open.spotify.com/album/2XzfgpDpycb4Kp57KJXfyg"
+      },
+      "artists": [
+        {
+          "name": "ZEV",
+          "url": "https://open.spotify.com/artist/66Nj7lUkbFw7ICIamxWvTY"
+        },
+        {
+          "name": "Modern Love Child",
+          "url": "https://open.spotify.com/artist/5Re1DTCxspDf57qk07YOAP"
+        }
+      ],
+      "duration_ms": 156627,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/69nO19GZ58i8mpC1YGKnUu"
+    },
     {
       "added_at": "2023-03-01 05:34:28",
       "album": {
@@ -71,6 +91,22 @@
       "duration_ms": 216297,
       "name": "Daydrunk",
       "url": "https://open.spotify.com/track/39624Sa4E4yXdWibiPErMh"
+    },
+    {
+      "added_at": "2023-03-04 05:09:27",
+      "album": {
+        "name": "Diet Cokes",
+        "url": "https://open.spotify.com/album/6BsuAhvStKuwpSMtAV07t1"
+      },
+      "artists": [
+        {
+          "name": "Modern Love Child",
+          "url": "https://open.spotify.com/artist/5Re1DTCxspDf57qk07YOAP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Diet Cokes",
+      "url": "https://open.spotify.com/track/3aTtIdw4Wsuf3Y9QUJp4zs"
     },
     {
       "added_at": "2023-03-01 05:34:28",
@@ -1495,22 +1531,6 @@
       "duration_ms": 170789,
       "name": "Mesmerize",
       "url": "https://open.spotify.com/track/1XNJbe1AqHoag8OEWFbXAG"
-    },
-    {
-      "added_at": "2023-02-08 05:46:04",
-      "album": {
-        "name": "Let The Children Scream",
-        "url": "https://open.spotify.com/album/14H2rmBLU6VxXpNfdpRh1z"
-      },
-      "artists": [
-        {
-          "name": "NGHTCRWLR",
-          "url": "https://open.spotify.com/artist/1bQ9FRvrR3XQSppwJiQCMl"
-        }
-      ],
-      "duration_ms": 223968,
-      "name": "Nation Under Creep",
-      "url": "https://open.spotify.com/track/35jz7oeLLwHZMimVDhxFkm"
     },
     {
       "added_at": "2023-02-08 05:46:04",

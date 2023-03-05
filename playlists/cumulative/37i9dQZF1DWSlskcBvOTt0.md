@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-375 songs - 1 day 14 hr 47 min
+376 songs - 1 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Baghira](https://open.spotify.com/track/4QuoelVf8l7Q9xMiu2f6SG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Baghira](https://open.spotify.com/album/5pz7Iyiq1c7zk2wQgOs1By) | 6:34 | 2021-09-03 | 2022-07-29 |
 | [Balafonerra](https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Balafonerra](https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX) | 4:11 | 2022-05-27 |  |
 | [Balsame](https://open.spotify.com/track/2LF7VlQAx7ijjya4P0e1gT) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Arâm](https://open.spotify.com/artist/0MDj0UusjwHAAmMkFEY9Pj) | [Balsame](https://open.spotify.com/album/7eIvtzSNfV6ZfnRRF3gpFv) | 3:28 | 2022-04-08 | 2022-07-27 |
-| [Barry](https://open.spotify.com/track/3MaqvZYEU7OLgQLI0PLCtF) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Barry](https://open.spotify.com/album/6C3UM9S38mOz5Vo2quvECU) | 6:49 | 2022-12-16 |  |
+| [Barry](https://open.spotify.com/track/3MaqvZYEU7OLgQLI0PLCtF) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Barry](https://open.spotify.com/album/6C3UM9S38mOz5Vo2quvECU) | 6:49 | 2022-12-16 | 2023-03-05 |
 | [Bataille's Will \- Oceanvs Orientalis Remix](https://open.spotify.com/track/35jUZgmjDmVyvchmhczt82) | [Emin Gök](https://open.spotify.com/artist/0G6CKdqtwYDdGOgqw3GSNE), [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Continuity](https://open.spotify.com/album/2P6JiDOFgHLOT4VsDR6NTw) | 5:31 | 2021-09-17 | 2022-07-29 |
 | [Başa Bela](https://open.spotify.com/track/5ieIGtfzOzETa4Fkz7YRXM) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Alem\-i Adastra](https://open.spotify.com/artist/0SEAJj6CkQ2gUiy3dTVAzJ) | [Başa Bela](https://open.spotify.com/album/2eiLjnOyDk06HlfRo02qgP) | 4:40 | 2022-03-11 | 2022-07-29 |
 | [Be Here and Now \- Helsloot Remix](https://open.spotify.com/track/1LVnm7eAB3sTW86CGvWFnn) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Be Here and Now \(Helsloot Remix\)](https://open.spotify.com/album/3gkQ7JmUJ9dHiF6zXhViJw) | 4:29 | 2022-05-13 | 2023-02-04 |
@@ -362,6 +362,7 @@
 | [Vaia](https://open.spotify.com/track/1kT6fqaDmxqMjEMjoBqYRy) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Vaia](https://open.spotify.com/album/09yjT1oJ7hv9lqMUYjFPnO) | 4:17 | 2021-04-21 | 2022-04-29 |
 | [Venus](https://open.spotify.com/track/7L567iPcbnYYpmfduZsj8n) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Celestial Bodies](https://open.spotify.com/album/2kySDejbrQxj5HGuhXUXyT) | 6:23 | 2023-02-17 |  |
 | [Viking](https://open.spotify.com/track/0SD82lVuflMLT8S4BamWtp) | [Adam Husa](https://open.spotify.com/artist/0fLNKqkCYBUhjSHX3yVZ3i), [M O N I T O R S](https://open.spotify.com/artist/6ZxQphvx5MuI3m1xzHSE6C) | [Viking](https://open.spotify.com/album/5J4gonRmEDbWf0bdqBaph7) | 6:58 | 2021-04-21 | 2022-06-30 |
+| [Voices In My Head](https://open.spotify.com/track/2rKgp5Ih2eNVVGl6Yqn5VW) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Voices In My Head](https://open.spotify.com/album/6qqH0iIEkz9tsrjjuyESDT) | 3:34 | 2023-02-10 |  |
 | [Voices of Salvation](https://open.spotify.com/track/4GY2MQG6X5ueZWB9IVqWXB) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Signals](https://open.spotify.com/album/3YWkAZqJYfmZAAtqdLUXJ5) | 6:40 | 2022-04-19 | 2022-05-26 |
 | [Voicing Something \- Adriatique Remix](https://open.spotify.com/track/4eJ4jBDqGwA9Z9kesunDQE) | [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi), [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Live and Love EP](https://open.spotify.com/album/2AcfJOvLQ9LwpmnM4cY8JW) | 7:24 | 2022-04-19 | 2022-08-06 |
 | [Voyage](https://open.spotify.com/track/21bJw0TvqosdshB9CwFcHp) | [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Sol](https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi) | 8:33 | 2021-05-07 | 2022-07-29 |

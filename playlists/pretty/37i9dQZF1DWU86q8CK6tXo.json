@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists, co-curated by  <a href=\u201chttps://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs?si=ynZhn3bXQ5S1M1yxXVpkmg\u201d>Janelle Mon\u00e1e</a>  for International Women\u2019s Day.",
-  "num_followers": 34617,
+  "num_followers": 34634,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMDAyOTk3MGE4MDRmNTA4YjNlNTc1OTJiMjI5NmJhZTQ0",
+  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMDExMjNkNWUxZmQxMTgyOGQ2YjU4NzY1OWIzZmI3OGVj",
   "tracks": [
     {
       "added_at": "2023-03-01 05:00:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Cambio De Canci\u00f3n",
-        "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 169548,
-      "name": "Cambio De Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "LP Giobbi x Insomniac Records Presents Femme House",
         "url": "https://open.spotify.com/album/2PPOz5uvKbjugSgFZHTMNi"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 220952,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/7biflzjN8c8v5mPuh71lXB"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "Cambio De Canci\u00f3n",
+        "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 169548,
+      "name": "Cambio De Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 212957,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
         "name": "Anarchist Gospel",
         "url": "https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
+        "name": "squirrel song",
+        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
       },
       "artists": [
         {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
         }
       ],
-      "duration_ms": 212957,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
+      "duration_ms": 108794,
+      "name": "squirrel song",
+      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -803,22 +819,6 @@
       "duration_ms": 228186,
       "name": "Mujer (Ft. iLe)",
       "url": "https://open.spotify.com/track/0EFxVewPdGJG4LzBONflSE"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
-        "name": "squirrel song",
-        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 108794,
-      "name": "squirrel song",
-      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "dickhead blues / brain",
-        "url": "https://open.spotify.com/album/27VaG4zOTs26E4CavIht7R"
+        "name": "Santee",
+        "url": "https://open.spotify.com/album/2OWQzXNMHUMe35yaKbWXcb"
       },
       "artists": [
         {
-          "name": "Kara Jackson",
-          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
         }
       ],
-      "duration_ms": 325204,
-      "name": "dickhead blues",
-      "url": "https://open.spotify.com/track/0b1MDxh1MD1dwHs3nczuW7"
+      "duration_ms": 109267,
+      "name": "Santee",
+      "url": "https://open.spotify.com/track/5Jssxp8m8PbF7gd9lZFfsx"
     }
   ],
   "unique_name": "EQUAL US",

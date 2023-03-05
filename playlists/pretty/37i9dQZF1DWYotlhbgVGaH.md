@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,215 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,249 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 38 | [Dirty Dog](https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [The Romper Room](https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4) | 3:28 |
 | 39 | [Honey Pie](https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [Everybody's Talkin' 'Bout Miss Thing!](https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR) | 4:10 |
 | 40 | [Pink Elephant](https://open.spotify.com/track/5SMpDEyuUY8vKmWiQar4BF) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [rapid city muscle car](https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i) | 3:44 |
-| 41 | [Do The Pup](https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:10 |
-| 42 | [Simple Things](https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Spread a Little Happiness](https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7) | 2:44 |
+| 41 | [Simple Things](https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Spread a Little Happiness](https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7) | 2:44 |
+| 42 | [Do The Pup](https://open.spotify.com/track/3A7lDcfRJu8Hv9c1U5DZG4) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:10 |
 | 43 | [pull the plug](https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 2:26 |
 | 44 | [Swingin' At The Savoy](https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Jump For Joy](https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7) | 3:37 |
 | 45 | [Knockin' At Your Door](https://open.spotify.com/track/7GFHztqce85FfPw6da1q5M) | [Morty Okin](https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6), [Vise Grip](https://open.spotify.com/artist/5vdxG8lIVgeuQAooxpcRPN), [Connie Champagne](https://open.spotify.com/artist/70QwxuyNp0LtvRDWaQoRF1), [David Murotake](https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0), [David Rubin](https://open.spotify.com/artist/1xWWglzQnxLVVPNGgUgJSa), [John Quam](https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E), [Tom Beyer](https://open.spotify.com/artist/36PVk81h0GlEbiG3ABwafM), [Tom Griesser](https://open.spotify.com/artist/4MFYRlA6OSe6jWYscM6VSF), [Van Hughes](https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3), [Whitney Wilson](https://open.spotify.com/artist/6OD4sZsyjT7T7PW3ZynaM7) | [Mortyfied!](https://open.spotify.com/album/3xsxAd9Nkl5uBw3qZe0A5e) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [Jumptown](https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:40 |
 | 50 | [prozac](https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 4:45 |
 
-Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMDYyODhlNjhmNzM0MjkwZDMxMWJiNTRlNDJmYWE1ZDE5`
+Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMGZlYTA5YjRiZGIzZDVjZmNhZDRjM2Q4ODJjZmFiNzc3`

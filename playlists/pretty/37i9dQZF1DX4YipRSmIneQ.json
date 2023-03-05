@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 46773,
+  "num_followers": 46877,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA5MzQ4MiwwMDAwMDAwMGNhM2RlMTU0NzRjZDdlZTcxZGQxOTUwN2IzOWYwMDAw",
+  "snapshot_id": "MTY3NzA5MzQ4MiwwMDAwMDAwMGRjMGU1ZDQ1OTQ4MmQ1ZmY3MDI3YmUzOTY2MjExYWFm",
   "tracks": [
     {
       "added_at": "2023-02-22 19:18:02",
@@ -321,7 +321,7 @@
         },
         {
           "name": "Kzn",
-          "url": "https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh"
+          "url": "https://open.spotify.com/artist/0RycZwNOoEzo6mh88IKFQW"
         }
       ],
       "duration_ms": 190476,
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-02-22 19:18:02",
       "album": {
+        "name": "Whorecore",
+        "url": "https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "duration_ms": 203174,
+      "name": "Voodoo Pussy",
+      "url": "https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0"
+    },
+    {
+      "added_at": "2023-02-22 19:18:02",
+      "album": {
         "name": "What's the Word (Wax Wings Remix)",
         "url": "https://open.spotify.com/album/7DNGZ4fefzzTijus6WXMxO"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 209872,
       "name": "What's the Word - Wax Wings Remix",
       "url": "https://open.spotify.com/track/6Es4E4HxhijoUHSqNz0Eut"
-    },
-    {
-      "added_at": "2023-02-22 19:18:02",
-      "album": {
-        "name": "Whorecore",
-        "url": "https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy"
-      },
-      "artists": [
-        {
-          "name": "LSDXOXO",
-          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
-        }
-      ],
-      "duration_ms": 203174,
-      "name": "Voodoo Pussy",
-      "url": "https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0"
     },
     {
       "added_at": "2023-02-22 19:18:02",

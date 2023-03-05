@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$ & Shakewell
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,392 likes - 103 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,671 likes - 103 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MK Plus Ultra](https://open.spotify.com/track/4jfsYlMJM9hZNbIWVczbJq) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [MK Plus Ultra](https://open.spotify.com/album/6oy7rNsd09qEKBDEDUawEg) | 2:10 |
 | 2 | [BLXXDY NXSE \(feat\. Scarlxrd & nascar aloe\)](https://open.spotify.com/track/319u15wlYEJnkwaecnQBir) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [BLXXDY NXSE \(feat\. Scarlxrd & nascar aloe\)](https://open.spotify.com/album/6mDFwhmb1GftFQYpBKDQG2) | 3:07 |
 | 3 | [Six Lines, Two Dragons, and a Messiah](https://open.spotify.com/track/4Xid2bPvFoMcwp6NeUT2Ap) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [SHAMELESS $UICIDE](https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M) | 2:46 |
-| 4 | [GHOSTKILLA](https://open.spotify.com/track/5ON0eOpVmlRo9PZctdBbuQ) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/3Rm8UjPex1pU2tmmxFWSzu) | 2:19 |
+| 4 | [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 |
 | 5 | [Five Nights \(feat\. Danny Brown\)](https://open.spotify.com/track/345lVnvY38p44UbPC20f2U) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Freddie's Inferno \(Deluxe\)](https://open.spotify.com/album/07YX7oCO5D6zr1NVDEeSAd) | 2:26 |
 | 6 | [KILLASNITCH.COM](https://open.spotify.com/track/7kKPew58PQ6s5iFjHzbQ9L) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [KILLASNITCH.COM](https://open.spotify.com/album/7tFt2junjaFqbWQqeouMjZ) | 2:17 |
 | 7 | [NOT ENOUGH MANA](https://open.spotify.com/track/4zgDGtOWPEsot8BmqvX9KI) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NOT ENOUGH MANA](https://open.spotify.com/album/17Mt1ouTPGS6gAr0hmz2lD) | 1:55 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 102 | [10 FOOT TALL](https://open.spotify.com/track/3hyxHwYJOqSHGRDxwO7OUm) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [10 FOOT TALL](https://open.spotify.com/album/4yr5Yn1U79i2HikJSA0lrU) | 2:46 |
 | 103 | [Dorohedorohe Drip](https://open.spotify.com/track/2lcRTWOwCNffdwCs8zEDo7) | [Faceless 1\-7](https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV), [TrippyThaKid](https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz) | [Dorohedorohe Drip](https://open.spotify.com/album/1Uge5Im3luXyVeBvWUeEqW) | 2:06 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGI2NTQyNzIxNzk5NGZjZDJlNWVlNGNlZDg4OTc3NWNj`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDI5NzBjNThhOWNlMjdlYTRhYTE0NDUwMTdlMDQ2YWM2`

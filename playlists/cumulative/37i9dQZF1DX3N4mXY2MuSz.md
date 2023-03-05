@@ -4,7 +4,7 @@
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-186 songs - 9 hr 32 min
+187 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Christmas Song](https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Christmas Song](https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9) | 2:54 | 2021-11-19 |  |
 | [Christmas Time Again](https://open.spotify.com/track/6IhdxymP4sDVwgBXCB4dOs) | [Amely](https://open.spotify.com/artist/6AjPiGacexlUKYQ3dePBjv) | [Tis The Season to Be Fearless](https://open.spotify.com/album/1aunad4duE4Okwq8ATBy2j) | 4:03 | 2021-11-19 | 2022-07-28 |
 | [Christmas Vacation](https://open.spotify.com/track/2adeKu82XJFCPInfady2Gt) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 2:39 | 2021-11-19 | 2022-12-08 |
+| [Christmas Vacation](https://open.spotify.com/track/4RYoD9TS5gUbYsTTsHZuZx) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:39 | 2021-11-19 |  |
 | [Christmas With You](https://open.spotify.com/track/7lsuADVTj3eFiV5DLL0cyo) | [Artist Vs Poet](https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe) | ['Tis The Season To Be Fearless](https://open.spotify.com/album/4GTtGYA6iRyRN2lAaOw0De) | 3:58 | 2021-11-19 | 2022-07-28 |
 | [Christmas With You](https://open.spotify.com/track/0enn0hF3toElN9rxQVMo4Y) | [Artist Vs Poet](https://open.spotify.com/artist/3kYFawNQVZ00FQbgs4rVBe) | [Tis The Season To Be Fearless](https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a) | 3:58 | 2021-11-19 | 2022-12-17 |
 | [Christmas, Baby Please Come Home](https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Happy Christmas: A Tooth And Nail Christmas](https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An) | 2:51 | 2021-11-19 | 2022-07-29 |
@@ -117,7 +118,7 @@
 | [Making Christmas](https://open.spotify.com/track/0m1CYy1kamZJZqHvuRG7Dh) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Long Forgotten Songs: B\-Sides & Covers 2000\-2013](https://open.spotify.com/album/0Wt4mctiLJvZUhL7OPMfwd) | 3:27 | 2021-11-19 | 2022-07-26 |
 | [Making Christmas](https://open.spotify.com/track/2W9IyiUawRDws73eD1zsDE) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Long Forgotten Songs: B\-Sides & Covers 2000\-2013](https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP) | 3:27 | 2021-11-19 |  |
 | [Merry Christmas](https://open.spotify.com/track/5EcEAeUw7wiMUhiyvsXhDB) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [Merry Christmas](https://open.spotify.com/album/7gMcoHELaPG7uhvMVNOWIo) | 5:03 | 2021-11-19 | 2022-07-29 |
-| [Merry Christmas \(I Don't Wanna Fight Tonight\) \- 2002 Remaster](https://open.spotify.com/track/2T3tEaSThdC9J9mnvxJWoZ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Weird Tales of The Ramones \(1976 \- 1996\)](https://open.spotify.com/album/5A1GAiPFd6U608KCDjacpk) | 2:04 | 2021-11-19 |  |
+| [Merry Christmas \(I Don't Wanna Fight Tonight\) \- 2002 Remaster](https://open.spotify.com/track/2T3tEaSThdC9J9mnvxJWoZ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Weird Tales of The Ramones \(1976 \- 1996\)](https://open.spotify.com/album/5A1GAiPFd6U608KCDjacpk) | 2:04 | 2021-11-19 | 2023-03-05 |
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/64q83lEZPlPy88UMvdbiTB) | [Issues](https://open.spotify.com/artist/3zRstk92RGCVDyslSySNsm) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:47 | 2021-11-19 |  |
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/68Lhef10In5tjhXg5jPotf) | [Issues](https://open.spotify.com/artist/2FHVFWxdcKsUpaxf52ihWN) | [Punk Goes Christmas](https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3) | 3:48 | 2021-11-19 | 2022-07-29 |
 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:19 | 2021-11-19 |  |

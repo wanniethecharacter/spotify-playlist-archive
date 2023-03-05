@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 273816,
+  "num_followers": 273814,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMDg3NDdmZjkzYWU5MDg5MGM5ZDQ2MDZlNmEwNTg1YzA3",
+  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMDkwNzVmYmZlMjJkN2Y4MGU3NjEzNzQ1M2NlMzVjODQw",
   "tracks": [
     {
       "added_at": "2023-01-02 17:43:59",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Rude (Acoustic)",
+        "url": "https://open.spotify.com/album/6mSh4sedBU4vvHLYPd2Seb"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 223854,
+      "name": "Rude (Acoustic)",
+      "url": "https://open.spotify.com/track/7IQ7Tk8D6fFAgl6aL7u5ia"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Scared to Be Lonely (Acoustic Version)",
         "url": "https://open.spotify.com/album/6YGs9QbzBuoXWWeJ2rcSBY"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 257357,
       "name": "Scared to Be Lonely - Acoustic Version",
       "url": "https://open.spotify.com/track/29CjkGjZnDVdJsfbRoNOGJ"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Rude (Acoustic)",
-        "url": "https://open.spotify.com/album/6mSh4sedBU4vvHLYPd2Seb"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 223854,
-      "name": "Rude (Acoustic)",
-      "url": "https://open.spotify.com/track/7IQ7Tk8D6fFAgl6aL7u5ia"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Recognise (Remixes)",
-        "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Flynn",
-          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Recognise - Acoustic Version",
-      "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "Sound Advice (Chapter One)",
         "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 193432,
       "name": "There Will Be Angels - Acoustic Version",
       "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "Recognise (Remixes)",
+        "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Recognise - Acoustic Version",
+      "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Where Did You Go? (Acoustic)",
         "url": "https://open.spotify.com/album/41LZiXValPCTFoxZx6NqT2"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 202680,
       "name": "Where Did You Go? - Acoustic",
       "url": "https://open.spotify.com/track/5AHam2qo8G5SqYtmqVIAq6"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1547,22 +1547,26 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "I Wish (feat. Mabel) [Acoustic]",
-        "url": "https://open.spotify.com/album/3hXCQ1fYVFnVC2yGfwLouY"
+        "name": "Crazy (Remixes - Pt. 1)",
+        "url": "https://open.spotify.com/album/63oRa4RTNrXMMlyNWsHHcO"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
+        },
+        {
+          "name": "David Benjamin",
+          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
         }
       ],
-      "duration_ms": 184000,
-      "name": "I Wish (feat. Mabel) - Acoustic",
-      "url": "https://open.spotify.com/track/1PBI1RLuIDmwwpOpm42qMg"
+      "duration_ms": 171743,
+      "name": "Crazy - Acoustic Version",
+      "url": "https://open.spotify.com/track/5HhEkkAFcGMYLQbF6GUa6C"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1591,26 +1595,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Crazy (Remixes - Pt. 1)",
-        "url": "https://open.spotify.com/album/63oRa4RTNrXMMlyNWsHHcO"
+        "name": "I Wish (feat. Mabel) [Acoustic]",
+        "url": "https://open.spotify.com/album/3hXCQ1fYVFnVC2yGfwLouY"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Zonderling",
-          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
-        },
-        {
-          "name": "David Benjamin",
-          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         }
       ],
-      "duration_ms": 171743,
-      "name": "Crazy - Acoustic Version",
-      "url": "https://open.spotify.com/track/5HhEkkAFcGMYLQbF6GUa6C"
+      "duration_ms": 184000,
+      "name": "I Wish (feat. Mabel) - Acoustic",
+      "url": "https://open.spotify.com/track/1PBI1RLuIDmwwpOpm42qMg"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Spectrum EP",
-        "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
-        }
-      ],
-      "duration_ms": 110440,
-      "name": "Spectrum - Acoustic Version",
-      "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
         "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
       },
@@ -1739,6 +1719,26 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Spectrum EP",
+        "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "duration_ms": 110440,
+      "name": "Spectrum - Acoustic Version",
+      "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Watch the World",
         "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
       },
@@ -1759,22 +1759,18 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "No Time For Tears (Acoustic)",
-        "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
+        "name": "Violin Covers Pt. II",
+        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
       },
       "artists": [
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          "name": "Daniel Jang",
+          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
         }
       ],
-      "duration_ms": 205305,
-      "name": "No Time For Tears - Acoustic",
-      "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
+      "duration_ms": 186754,
+      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
+      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1803,18 +1799,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Violin Covers Pt. II",
-        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
+        "name": "No Time For Tears (Acoustic)",
+        "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
       },
       "artists": [
         {
-          "name": "Daniel Jang",
-          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
         }
       ],
-      "duration_ms": 186754,
-      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
-      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
+      "duration_ms": 205305,
+      "name": "No Time For Tears - Acoustic",
+      "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
     },
     {
       "added_at": "2023-01-02 17:43:59",

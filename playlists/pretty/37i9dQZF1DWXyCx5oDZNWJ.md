@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,603 likes - 62 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,635 likes - 62 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 46 | [Ihna Inhabasna](https://open.spotify.com/track/1GaaQDTUlQzPObFWkLokQJ) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Autostrad 2011](https://open.spotify.com/album/3EhV2TWOdiWK2XHuvVmoKd) | 3:45 |
 | 47 | [Lmchi w Rjou3](https://open.spotify.com/track/25NuCWQ4cIxmwxRHMZ0C4L) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy) | [Lmchi w Rjou3](https://open.spotify.com/album/6T5BcuQisJcN2E4O6BmRDk) | 6:25 |
 | 48 | [Bias Boys \- Middle Sky Boom Remix](https://open.spotify.com/track/1N2VoNhYLwCJhtAo2kZnzF) | [Middle Sky Boom](https://open.spotify.com/artist/5rgJkAgFMVCsugWd7zM9nY), [Eliezer](https://open.spotify.com/artist/1qPHnrVTO4sakv5IFg6Lml) | [Pozélo Europa](https://open.spotify.com/album/3FbU5q6wbFh5roov4rfNDX) | 5:11 |
-| 49 | [Fi Madinati](https://open.spotify.com/track/1XIiHP2ho4Oump990NN1jR) | [Wass On Earth](https://open.spotify.com/artist/3gaOU8JQKa7Ux72eCUSok8) | [Axis of Love](https://open.spotify.com/album/6Cl8n0TpMSWj0euSmYe8QH) | 9:42 |
+| 49 | [Fi Madinati](https://open.spotify.com/track/6GJ1pjmqotteD9lA4rNOtV) | [Wass On Earth](https://open.spotify.com/artist/3gaOU8JQKa7Ux72eCUSok8) | [Axis of Love](https://open.spotify.com/album/67ov4zrvRkfQ2lWLlPax7b) | 9:42 |
 | 50 | [Lungern](https://open.spotify.com/track/1YcVNVNfVhLM9hUVlQegcq) | [Metatext](https://open.spotify.com/artist/5GAi17x2CbRYk9666aI8AE), [Karhua](https://open.spotify.com/artist/4WpXpjCzWK85EDjlB06Qq2) | [Lungern](https://open.spotify.com/album/2UiXPLfMYMEBAVlct1ao5y) | 8:42 |
 | 51 | [In My Dream](https://open.spotify.com/track/0DDc83HTsBcGPzwyEzjTBq) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Willow](https://open.spotify.com/album/4Q65NZsMfvrQi4rXcxA8o4) | 7:05 |
 | 52 | [Teal](https://open.spotify.com/track/1uEPpZUFt02cmserTLrQaS) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [I Am Still Here](https://open.spotify.com/album/587BdfJd7CAjF1jgxVv1vi) | 6:51 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 61 | [Leave](https://open.spotify.com/track/2KaMBqn9UBbWkl4Ky7ORVp) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl), [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7) | [Leave](https://open.spotify.com/album/692P5jdZFc1S27zguBg5dd) | 4:30 |
 | 62 | [Herzan](https://open.spotify.com/track/3P3f5t7hVpRSX6YSX64WrV) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [Enta Fen](https://open.spotify.com/album/58A0G1FfTqJGig0TWUjcU3) | 3:21 |
 
-Snapshot ID: `MTY2NDg4ODEyMCwwMDAwMDAwMDhkM2M0Y2Q0MjBkNDE2ZGY0ZDc0MzU5YWE2M2IwMmQy`
+Snapshot ID: `MTY2NDg4ODEyMCwwMDAwMDAwMDQwOTNmNjRmYzExZDNiZDIzODMwNGI4MzQ1MDlkZTAy`

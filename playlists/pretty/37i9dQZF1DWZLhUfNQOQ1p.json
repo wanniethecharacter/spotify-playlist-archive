@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230774,
+  "num_followers": 230795,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGVlNzhjOWIwZGVjMmFiZWE1NDNiNWY4MWFkNGE2ZDAz",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDMyZWQ5MmFmMDgwZjljYmQzNTIxYjBjNzc2ZDM2ZjQ1",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -439,18 +439,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Cruel Summer",
-        "url": "https://open.spotify.com/album/6ZudtFGegLxFJx8KQX40Yk"
+        "name": "It's alright",
+        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
       },
       "artists": [
         {
-          "name": "Daniel Liebt",
-          "url": "https://open.spotify.com/artist/70tutLzvBrNYvlvuVanzI9"
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
         }
       ],
-      "duration_ms": 209142,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/4sI7exQBHsJ1NRwjJqWRo2"
+      "duration_ms": 196676,
+      "name": "It's alright",
+      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -471,18 +471,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "It's alright",
-        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+        "name": "Cruel Summer",
+        "url": "https://open.spotify.com/album/6ZudtFGegLxFJx8KQX40Yk"
       },
       "artists": [
         {
-          "name": "Goose Groovy",
-          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+          "name": "Daniel Liebt",
+          "url": "https://open.spotify.com/artist/70tutLzvBrNYvlvuVanzI9"
         }
       ],
-      "duration_ms": 196676,
-      "name": "It's alright",
-      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
+      "duration_ms": 209142,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/4sI7exQBHsJ1NRwjJqWRo2"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
+      },
+      "artists": [
+        {
+          "name": "Crade",
+          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
+        }
+      ],
+      "duration_ms": 196670,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Purple Summer",
         "url": "https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
-      },
-      "artists": [
-        {
-          "name": "Crade",
-          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
-        }
-      ],
-      "duration_ms": 196670,
-      "name": "All Good",
-      "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Kindisch Presents: Kindisch Steps VI",
         "url": "https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 719414,
       "name": "Nuit d'Afrique",
       "url": "https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI"
-      },
-      "artists": [
-        {
-          "name": "Julia Bergwall",
-          "url": "https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD"
-        }
-      ],
-      "duration_ms": 192472,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -923,6 +907,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI"
+      },
+      "artists": [
+        {
+          "name": "Julia Bergwall",
+          "url": "https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD"
+        }
+      ],
+      "duration_ms": 192472,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
       },
@@ -935,38 +935,6 @@
       "duration_ms": 220038,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
-      },
-      "artists": [
-        {
-          "name": "PANG!",
-          "url": "https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
-      },
-      "artists": [
-        {
-          "name": "Sol Calor",
-          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
-        }
-      ],
-      "duration_ms": 218584,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -987,22 +955,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Sunrise To Sunset",
-        "url": "https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Olivia Sebastianelli",
-          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+          "name": "Sol Calor",
+          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
         }
       ],
-      "duration_ms": 186610,
-      "name": "Wishing Well (feat. Olivia Sebastianelli)",
-      "url": "https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp"
+      "duration_ms": 218584,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -1019,6 +983,42 @@
       "duration_ms": 222838,
       "name": "I Need My Girl",
       "url": "https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
+      },
+      "artists": [
+        {
+          "name": "PANG!",
+          "url": "https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Sunrise To Sunset",
+        "url": "https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "duration_ms": 186610,
+      "name": "Wishing Well (feat. Olivia Sebastianelli)",
+      "url": "https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp"
     }
   ],
   "unique_name": "Aperitivo Time",

@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 54514,
+  "num_followers": 54572,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMGM0ZmFiZmE3ZjU1Y2I5ZDg4NjQyYmNmMjVjNzVlNjE1",
+  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMDgwNmVmMjA1YzI2MDFmMTE1MzNiZDhkMTc3YTg5NDJk",
   "tracks": [
     {
       "added_at": "2023-02-03 16:31:51",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Ania Karwan",
-        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
-      },
-      "artists": [
-        {
-          "name": "Ania Karwan",
-          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
-        }
-      ],
-      "duration_ms": 197764,
-      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
-      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Zakryj (Deluxe)",
         "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 215266,
       "name": "T\u0119skno Mi",
       "url": "https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Ania Karwan",
+        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
+      },
+      "artists": [
+        {
+          "name": "Ania Karwan",
+          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
+        }
+      ],
+      "duration_ms": 197764,
+      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
+      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Wkr\u0119ceni nie ufaj mi",
-        "url": "https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU"
-      },
-      "artists": [
-        {
-          "name": "Igor Herbut",
-          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
-        }
-      ],
-      "duration_ms": 178725,
-      "name": "Wkr\u0119ceni nie ufaj mi",
-      "url": "https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Obrazki",
         "url": "https://open.spotify.com/album/78C1YjhR3Crdoi7WwuIQuC"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 193973,
       "name": "Na zawsze i na wieczno\u015b\u0107",
       "url": "https://open.spotify.com/track/4Dw3fQrWGRteHRDeCAIrIY"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Wkr\u0119ceni nie ufaj mi",
+        "url": "https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU"
+      },
+      "artists": [
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        }
+      ],
+      "duration_ms": 178725,
+      "name": "Wkr\u0119ceni nie ufaj mi",
+      "url": "https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
+        "name": "P\u00f3ki to nie zabronione (The Best)",
+        "url": "https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V"
+      },
+      "artists": [
+        {
+          "name": "Kobranocka",
+          "url": "https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF"
+        }
+      ],
+      "duration_ms": 294066,
+      "name": "Kocham ci\u0119 jak irlandi\u0119",
+      "url": "https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
         "name": "Pog\u0142os",
         "url": "https://open.spotify.com/album/38VbM2pFAykoCv0xhBuCt2"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 275411,
       "name": "Przyp\u0142ywy (feat. Ralph Kaminski)",
       "url": "https://open.spotify.com/track/5X1UbhvapToZSZuxEo8V7O"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "P\u00f3ki to nie zabronione (The Best)",
-        "url": "https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V"
-      },
-      "artists": [
-        {
-          "name": "Kobranocka",
-          "url": "https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF"
-        }
-      ],
-      "duration_ms": 294066,
-      "name": "Kocham ci\u0119 jak irlandi\u0119",
-      "url": "https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Helena",
-        "url": "https://open.spotify.com/album/7HYiz2pwAzXulTpWcL5ZtD"
-      },
-      "artists": [
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        }
-      ],
-      "duration_ms": 231932,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5HoGLRydfDTwIWGrTzJPbQ"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Sk\u0142adam si\u0119 z ci\u0105g\u0142ych powt\u00f3rze\u0144",
         "url": "https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 216440,
       "name": "Syreny",
       "url": "https://open.spotify.com/track/5jnPsCxNjmGFmkcWYZ8YCS"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Helena",
+        "url": "https://open.spotify.com/album/7HYiz2pwAzXulTpWcL5ZtD"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "duration_ms": 231932,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5HoGLRydfDTwIWGrTzJPbQ"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "The Best Of Kora & Maanam Volume II",
-        "url": "https://open.spotify.com/album/2FcPs0C8LOzivVD5ISGe0w"
-      },
-      "artists": [
-        {
-          "name": "Maanam",
-          "url": "https://open.spotify.com/artist/4MiKufcWLuX6KDLzqhUgQD"
-        }
-      ],
-      "duration_ms": 294026,
-      "name": "Kocham Ci\u0119, Kochanie Moje",
-      "url": "https://open.spotify.com/track/6CwbrtZnJNqef5CqSLqPdX"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Bu\u0142garskie centrum",
         "url": "https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "By\u0142a\u015b serca biciem (The Best)",
-        "url": "https://open.spotify.com/album/3Dg77CdM9jYrmACNeaezpp"
+        "name": "The Best Of Kora & Maanam Volume II",
+        "url": "https://open.spotify.com/album/2FcPs0C8LOzivVD5ISGe0w"
       },
       "artists": [
         {
-          "name": "Andrzej Zaucha",
-          "url": "https://open.spotify.com/artist/3jDEqxckloWOCT1l7l1hJT"
+          "name": "Maanam",
+          "url": "https://open.spotify.com/artist/4MiKufcWLuX6KDLzqhUgQD"
         }
       ],
-      "duration_ms": 272773,
-      "name": "By\u0142a\u015b serca biciem",
-      "url": "https://open.spotify.com/track/78m1YhFSRqykwJWNJrPeeU"
+      "duration_ms": 294026,
+      "name": "Kocham Ci\u0119, Kochanie Moje",
+      "url": "https://open.spotify.com/track/6CwbrtZnJNqef5CqSLqPdX"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -995,6 +979,22 @@
       "duration_ms": 230504,
       "name": "Kazdego dnia",
       "url": "https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "By\u0142a\u015b serca biciem (The Best)",
+        "url": "https://open.spotify.com/album/3Dg77CdM9jYrmACNeaezpp"
+      },
+      "artists": [
+        {
+          "name": "Andrzej Zaucha",
+          "url": "https://open.spotify.com/artist/3jDEqxckloWOCT1l7l1hJT"
+        }
+      ],
+      "duration_ms": 272773,
+      "name": "By\u0142a\u015b serca biciem",
+      "url": "https://open.spotify.com/track/78m1YhFSRqykwJWNJrPeeU"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Moje piosenki edycja zwykla",
-        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "Znam cie na pamiec",
-      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Poganie! Kochaj i Obra\u017caj",
         "url": "https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L"
       },
@@ -1077,7 +1061,39 @@
       "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
     },
     {
-      "added_at": "2023-03-04 01:10:49",
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Moje piosenki edycja zwykla",
+        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "Znam cie na pamiec",
+      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/4kgB9pui0fAMwB44axR3C1"
+      },
+      "artists": [
+        {
+          "name": "Ich Troje",
+          "url": "https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10"
+        }
+      ],
+      "duration_ms": 239373,
+      "name": "A Wszystko To...(Bo Ciebie Kocham)",
+      "url": "https://open.spotify.com/track/0CBj18X3J7MabwDqKeMxuo"
+    },
+    {
+      "added_at": "2023-03-05 01:00:25",
       "album": {
         "name": "Nie zrozumie nas - z filmu \u201eJohnny\u201d",
         "url": "https://open.spotify.com/album/1ps4zilmJwT8YRPfIrmv30"
@@ -1095,22 +1111,6 @@
       "duration_ms": 258946,
       "name": "Nie zrozumie nas - z filmu \u201eJohnny\u201d",
       "url": "https://open.spotify.com/track/19vMdeqdiAf5zpHuv3bUW6"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/4kgB9pui0fAMwB44axR3C1"
-      },
-      "artists": [
-        {
-          "name": "Ich Troje",
-          "url": "https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10"
-        }
-      ],
-      "duration_ms": 239373,
-      "name": "A Wszystko To...(Bo Ciebie Kocham)",
-      "url": "https://open.spotify.com/track/0CBj18X3J7MabwDqKeMxuo"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
     },
     {
-      "added_at": "2023-03-04 01:10:49",
+      "added_at": "2023-03-05 01:00:25",
       "album": {
         "name": "Osobista kolekcja 2",
         "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"

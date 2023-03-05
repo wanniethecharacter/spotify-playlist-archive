@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: ヤユヨ
 
-822 songs - 2 day 4 hr 32 min
+823 songs - 2 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [かつて天才だった俺たちへ \(feat\. ASOBOiSM\)](https://open.spotify.com/track/7hEGeTypOtmAiNKaKVPxqn) | [AFTER HOURS](https://open.spotify.com/artist/0tt41FYRZVpxGMpgCaOmGi), [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D) | [かつて天才だった俺たちへ \(feat\. ASOBOiSM\)](https://open.spotify.com/album/0aY7cHP9Q2gj7NlpIrEyWb) | 3:26 | 2022-05-31 | 2022-06-10 |
 | [かはたれ時に](https://open.spotify.com/track/3fVGAML0tngj8CyUJSPFfM) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [かはたれ時に](https://open.spotify.com/album/1EWa05O03VPx0aJlNSEMSd) | 3:11 | 2022-11-01 | 2022-11-09 |
 | [かみさま](https://open.spotify.com/track/5LmRV82wzYcX3rLSkB6D1k) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [かみさま/サンクチュアリ](https://open.spotify.com/album/2CxEoP6oJFyMcQLuhxgYM5) | 3:53 | 2022-06-23 | 2022-07-10 |
+| [きらきら](https://open.spotify.com/track/32lWfnbzsZTX02L3935VF7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [きらきら](https://open.spotify.com/album/411ShZaP7vuopafIAwrgZp) | 4:32 | 2023-03-02 |  |
 | [きれいなわたし](https://open.spotify.com/track/0f0O7RMVcvyqS4qXHYsSnq) | [Manatsu Nagahara](https://open.spotify.com/artist/7eiPZxPx3fflpweXb8NbnJ) | [imagination](https://open.spotify.com/album/3c4wcYK91AIYwZQhy8iI14) | 3:08 | 2022-11-01 | 2022-11-16 |
 | [くそったれ人生最悪の](https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/6QNYEdBLvhpKEJEozaRH8M) | 4:24 | 2023-02-14 |  |
 | [くそったれ人生最悪の](https://open.spotify.com/track/6io2UWI9uzsPdDK8FHtN6a) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/7nQ435Y6QnPyoigXh3CJx4) | 4:24 | 2023-02-14 | 2023-02-16 |

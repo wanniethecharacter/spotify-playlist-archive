@@ -4,7 +4,7 @@
 
 > Texas music breaking waves\. Cover, Beyonce
 
-376 songs - 18 hr 22 min
+377 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [One Time \(with Don Toliver feat\. Future\)](https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:09 | 2022-09-09 | 2022-11-12 |
 | [OPEN LETTER \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/7ketv9r8Hm9lBpQdDekCXI) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [OPEN LETTER \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/0ZaBMGc39yv3eegaZJkXlW) | 4:06 | 2022-10-25 | 2022-12-03 |
 | [Options](https://open.spotify.com/track/2EZmUkEwxxrQ5cXBYeNoaL) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Options](https://open.spotify.com/album/6msBd1l8MOq8MFDs3Zor4w) | 2:48 | 2022-07-01 | 2022-07-23 |
-| [Outside Lookin In](https://open.spotify.com/track/2E0GPxxASUGBkgZevrhr3V) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Outside Lookin In](https://open.spotify.com/album/5i4bMLcHAgno1DeDLa0FkP) | 2:07 | 2022-11-11 |  |
+| [Outside Lookin In](https://open.spotify.com/track/2E0GPxxASUGBkgZevrhr3V) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Outside Lookin In](https://open.spotify.com/album/5i4bMLcHAgno1DeDLa0FkP) | 2:07 | 2022-11-11 | 2023-03-05 |
+| [Outside Lookin In](https://open.spotify.com/track/6JMQeZd5yYP0fe6blygX6P) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Outside Lookin In](https://open.spotify.com/album/6hwMZyJYTyPex8eDKo1KMU) | 2:07 | 2023-01-24 |  |
 | [Overseas](https://open.spotify.com/track/2MEVeSqIju2JRfz4BXv01m) | [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Overseas](https://open.spotify.com/album/0FQrUADkPoq2VDC6NDWpR1) | 3:12 | 2022-07-01 | 2022-07-23 |
 | [OVO](https://open.spotify.com/track/3kuZ5jxufyEfu2FmTPPYBw) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [OVO](https://open.spotify.com/album/7s2fJIv8kZhQFslVG5PEgW) | 2:41 | 2022-07-01 | 2022-08-20 |
 | [Pain in the Ghetto \(feat\. Trae tha Truth & Lil Jairmy\)](https://open.spotify.com/track/5v2ArrX27i9VmZNvPRlI49) | [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY) | [Holy Goat 2](https://open.spotify.com/album/5wDguEom5rr6ZV51Ap5yQR) | 3:06 | 2022-02-18 | 2022-04-16 |

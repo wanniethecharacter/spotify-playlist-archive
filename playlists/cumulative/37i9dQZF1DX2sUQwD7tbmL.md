@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-517 songs - 1 day 5 hr 15 min
+518 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [I Don't Want to Talk](https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [I Don't Want to Talk](https://open.spotify.com/album/29l8Ddx32NKjtpeZic3U1I) | 3:43 | 2022-06-07 | 2022-07-29 |
 | [I Fall in Love Every Night](https://open.spotify.com/track/1PeCaWJuQ3ZnDG6ptu4BfJ) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [JUICE](https://open.spotify.com/album/35WpCbOfkYtqgq9fcs0lLs) | 4:03 | 2021-05-01 | 2022-03-23 |
 | [I Shouldn't Ghost My Therapist](https://open.spotify.com/track/1CrtL00NhzSpCCHnR8fTPR) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Bad Vacation](https://open.spotify.com/album/0CpVgjJhlYOdqklbhANGrD) | 3:00 | 2021-05-01 | 2022-02-07 |
+| [I Think I Like When It Rains](https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2) | 4:38 | 2022-11-07 |  |
 | [I Think I Like When It Rains](https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3) | 4:38 | 2021-05-01 | 2023-03-02 |
 | [i wanna be your girlfriend](https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr) | 3:24 | 2022-04-13 | 2022-10-13 |
 | [i wanna be your girlfriend](https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf) | 3:24 | 2022-10-14 | 2023-02-03 |
@@ -366,7 +367,7 @@
 | [Portal](https://open.spotify.com/track/2jqEkryEQLNykrJXJIqGka) | [Ski Lift](https://open.spotify.com/artist/4jXBrS7K5sOMm70llecORs) | [Portal](https://open.spotify.com/album/0L5oqY8zA9k0ccTNmZV6GP) | 2:03 | 2021-05-01 | 2022-04-13 |
 | [Post Humorous](https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:39 | 2021-05-01 | 2022-07-29 |
 | [Pressure To Party](https://open.spotify.com/track/5Wyy2JHaM8cKEN6YDC6C8O) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:02 | 2021-07-19 | 2022-07-29 |
-| [Pretty Face](https://open.spotify.com/track/07tbYac108weqzeP7Bhwon) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Let's Remake It](https://open.spotify.com/album/79lXiYt8Hgd1eHr8sQcCsi) | 3:50 | 2022-04-13 |  |
+| [Pretty Face](https://open.spotify.com/track/07tbYac108weqzeP7Bhwon) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Let's Remake It](https://open.spotify.com/album/79lXiYt8Hgd1eHr8sQcCsi) | 3:50 | 2022-04-13 | 2023-03-05 |
 | [Pretty Girl](https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Pretty Girl](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9) | 2:58 | 2022-04-13 | 2022-04-19 |
 | [Prom Queen](https://open.spotify.com/track/3MtGstTnbaZaVOLcfpuiiE) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/5oCpbhgCKnqNHaUAtVA2Cg) | 2:16 | 2021-05-01 | 2022-04-21 |
 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2022-07-22 |  |

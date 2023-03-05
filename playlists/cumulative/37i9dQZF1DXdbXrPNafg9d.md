@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Youth Lagoon
 
-4,919 songs - 12 day 0 hr 28 min
+4,920 songs - 12 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1067,6 +1067,7 @@
 | [DIE A MILLION TIMES](https://open.spotify.com/track/2IyoD78j9rD0TvYyvQnNgm) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [STAR STUFF](https://open.spotify.com/album/5X9TPHbtJ6TOBQ11spB2MM) | 3:39 | 2022-07-15 | 2022-08-20 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-04 | 2023-01-06 |
 | [Diet](https://open.spotify.com/track/5k0yxFSktMecsYRc0O3mEo) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Shamir](https://open.spotify.com/album/6rACMQ2WTjZ8z8kpTC6sFu) | 3:17 | 2020-10-02 | 2020-11-13 |
+| [Diet Cokes](https://open.spotify.com/track/3aTtIdw4Wsuf3Y9QUJp4zs) | [Modern Love Child](https://open.spotify.com/artist/5Re1DTCxspDf57qk07YOAP) | [Diet Cokes](https://open.spotify.com/album/6BsuAhvStKuwpSMtAV07t1) | 2:30 | 2023-03-04 |  |
 | [Different World](https://open.spotify.com/track/7fCcsqV6kCC328iIxQmrpl) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Different World](https://open.spotify.com/album/7KsecjpFZT2eTJOJ6iqFgH) | 2:16 | 2020-08-14 | 2020-09-18 |
 | [Dig](https://open.spotify.com/track/7B9eseRLS4SRRlvVV2nfyR) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Dig](https://open.spotify.com/album/2AFsdZpqg02BEiwNXIm3Cp) | 3:16 | 2021-09-18 | 2021-10-16 |
 | [Dig What You Dug](https://open.spotify.com/track/60B1Mzy3yNsbJSOHfp8H2U) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Remote](https://open.spotify.com/album/6tjwdDsjnG6RNFdt0qXHmd) | 2:57 | 2020-10-24 | 2020-12-04 |
@@ -1800,7 +1801,7 @@
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2021-03-14 | 2021-05-03 |
 | [Hauntology](https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Hauntology](https://open.spotify.com/album/3pvwLH6Zu6JCrpBCk8XkBG) | 3:59 | 2022-02-11 | 2022-03-05 |
 | [have fun](https://open.spotify.com/track/3slOkC5qIqLrVirdMVIhot) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [have fun](https://open.spotify.com/album/7EltDyG5nvIm9ygeJe79tJ) | 2:58 | 2021-07-10 | 2021-08-28 |
-| [Haven](https://open.spotify.com/track/6xtrDPyrkb0TGehCWrAyol) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Haven](https://open.spotify.com/album/4P163d1rDFauzUEVK2vR5J) | 2:43 | 2023-02-10 |  |
+| [Haven](https://open.spotify.com/track/6xtrDPyrkb0TGehCWrAyol) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Haven](https://open.spotify.com/album/4P163d1rDFauzUEVK2vR5J) | 2:43 | 2023-02-10 | 2023-03-05 |
 | [Having a Good Time, Sometimes](https://open.spotify.com/track/1xNQ7UujtJn6OqaXwnWkIa) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Having a Good Time, Sometimes](https://open.spotify.com/album/0sVTx58xcHrOoOmcnLlkNL) | 2:57 | 2021-01-05 | 2021-02-16 |
 | [He](https://open.spotify.com/track/6ysRK6One7O5GiRVvrs0x1) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:28 | 2019-06-07 | 2019-08-13 |
 | [He Loves Me](https://open.spotify.com/track/3RFxXIS6sh0QSB8LyDVg7m) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [He Loves Me](https://open.spotify.com/album/2NcutgNo1i0eZtAsvqyxYh) | 2:31 | 2019-08-16 | 2019-09-20 |

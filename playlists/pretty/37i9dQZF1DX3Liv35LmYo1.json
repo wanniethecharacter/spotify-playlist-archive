@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 102621,
+  "num_followers": 102645,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2MjAwMCwwMDAwMDAwMDBiZTYyMWUyMzNjMzY5OTk4ZWZlMDAzNjA5YTU1NjFm",
+  "snapshot_id": "MTY3Nzc2MjAwMCwwMDAwMDAwMDdhYzdmYWYzMTBhZTA4MjJiN2E2YjM3NWE3OTJjMDdj",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
     },
     {
-      "added_at": "2023-03-04 01:19:29",
+      "added_at": "2023-03-05 00:38:46",
       "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
     },
     {
-      "added_at": "2023-03-04 01:19:29",
+      "added_at": "2023-03-05 00:38:46",
       "album": {
         "name": "Don\u2019t Get Too Close",
         "url": "https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
     },
     {
-      "added_at": "2023-03-04 01:19:29",
+      "added_at": "2023-03-05 00:38:46",
       "album": {
         "name": "MY DEAR",
         "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
     },
     {
-      "added_at": "2023-03-04 01:19:29",
+      "added_at": "2023-03-05 00:38:46",
       "album": {
         "name": "Mike (desert island duvet)",
         "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
@@ -673,6 +673,42 @@
       "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
     },
     {
+      "added_at": "2023-03-05 00:38:46",
+      "album": {
+        "name": "Cellular",
+        "url": "https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP"
+      },
+      "artists": [
+        {
+          "name": "DJOKO",
+          "url": "https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv"
+        },
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 425204,
+      "name": "Cellular",
+      "url": "https://open.spotify.com/track/5ECHzZITsgWdKtx9mXZy8s"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Go On",
+        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
+      },
+      "artists": [
+        {
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
+    },
+    {
       "added_at": "2023-02-09 13:00:00",
       "album": {
         "name": "fall back",
@@ -695,42 +731,6 @@
       "duration_ms": 252584,
       "name": "fall back",
       "url": "https://open.spotify.com/track/0Li5j7ruBzzWoJJcdmPtGk"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Go On",
-        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
-      },
-      "artists": [
-        {
-          "name": "a.s.o.",
-          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
-    },
-    {
-      "added_at": "2023-03-04 01:19:29",
-      "album": {
-        "name": "Cellular",
-        "url": "https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP"
-      },
-      "artists": [
-        {
-          "name": "DJOKO",
-          "url": "https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv"
-        },
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 425204,
-      "name": "Cellular",
-      "url": "https://open.spotify.com/track/5ECHzZITsgWdKtx9mXZy8s"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Someone Close",
-        "url": "https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 492316,
-      "name": "Someone Close",
-      "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Closure (feat. Helena)",
         "url": "https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 270536,
       "name": "Closure (feat. Helena)",
       "url": "https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Someone Close",
+        "url": "https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 492316,
+      "name": "Someone Close",
+      "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
     },
     {
-      "added_at": "2023-03-04 01:19:29",
+      "added_at": "2023-03-05 00:38:46",
       "album": {
         "name": "Have You Felt Lately? (Brijean Remix)",
         "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Is It Me",
-        "url": "https://open.spotify.com/album/7bdQzzdr4GwfMZIP5G6rKl"
-      },
-      "artists": [
-        {
-          "name": "Achingdrum",
-          "url": "https://open.spotify.com/artist/4LeM3PKFS6wEtkDLNULq87"
-        },
-        {
-          "name": "Tim Shiel",
-          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Is It Me",
-      "url": "https://open.spotify.com/track/1rgievgwEh6siXmnPp5V93"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Leave Here",
         "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
       },
@@ -1227,6 +1207,22 @@
       "duration_ms": 308623,
       "name": "by the reservoir",
       "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Can Do This",
+        "url": "https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "duration_ms": 228609,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup"
     }
   ],
   "unique_name": "Night Shift",

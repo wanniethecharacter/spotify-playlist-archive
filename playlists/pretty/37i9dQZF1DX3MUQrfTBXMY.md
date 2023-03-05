@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Encore
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,557 likes - 80 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,627 likes - 80 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

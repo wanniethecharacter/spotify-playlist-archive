@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,695 likes - 20 songs - 1 hr 4 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,697 likes - 21 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,5 +28,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 18 | [Big Talk](https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Big Talk](https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp) | 2:40 |
 | 19 | [Regulate](https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Regulate](https://open.spotify.com/album/67OiUqqH4IBKVeJA1nU9JO) | 2:34 |
 | 20 | [Good Love](https://open.spotify.com/track/0fVnwHlZGkqM0mzmrSOPtr) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [Good Love](https://open.spotify.com/album/0mDSNVQMk6frlTzKUxdoFi) | 3:06 |
+| 21 | [Ghosts In My Bed](https://open.spotify.com/track/3dQVVuNZKEmNNLmIlQXjau) | [ToMix](https://open.spotify.com/artist/2huaButoWP7CiTeaYzKgIR) | [Ghosts In My Bed](https://open.spotify.com/album/4P469Mu97SlHlaPxzkrXdQ) | 3:10 |
 
-Snapshot ID: `NjY4NyxlMTk4MjQwZTgzZGIzM2RmZTU1OTZkYTM3OTgwOTVkOWY5Njg1NDUw`
+Snapshot ID: `NjY4OCxkYTUwMDI2MTU4ZTU2ZjBmNWU3YmQ5NzNhZDcxOTFjOWU0ZmU0MTBk`

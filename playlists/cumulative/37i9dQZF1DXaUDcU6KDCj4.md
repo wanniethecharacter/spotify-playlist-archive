@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Jana Horn
 
-1,011 songs - 2 day 14 hr 25 min
+1,012 songs - 2 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -995,7 +995,8 @@
 | [Working Class Blues](https://open.spotify.com/track/4O6siSaivtL3kgOpw4Wnq0) | [The Senators](https://open.spotify.com/artist/3otE1yYNSCVpaQQBqcflI4) | [Working Class Blues](https://open.spotify.com/album/4f0XTNYUhUlogF1AuasFYe) | 3:53 | 2022-12-16 | 2023-02-04 |
 | [World's Greatest Sleeper](https://open.spotify.com/track/7Etfp59BHjo4Ud0x67r5st) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [World's Greatest Sleeper](https://open.spotify.com/album/1B1aaFNBIh4R8VINBjxdQ3) | 3:06 | 2023-01-06 |  |
 | [Worldender](https://open.spotify.com/track/6VDvcEeDNYuUwUjgVg72QO) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Worldender](https://open.spotify.com/album/1Hs5Q0WA0rAHoFA8a6j77D) | 4:13 | 2022-03-04 | 2022-04-09 |
-| [Worthy of Love](https://open.spotify.com/track/66GRHLr19DHo2q513qnBM3) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Worthy of Love](https://open.spotify.com/album/3XgCxu1CP5FAlldLmjM8iz) | 3:22 | 2023-01-13 |  |
+| [Worthy of Love](https://open.spotify.com/track/5lOvsBMb3lj6WKHTTVJyTm) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Worthy of Love](https://open.spotify.com/album/6b9NIqOZxE6C7T9rFuA0gQ) | 3:22 | 2023-03-03 |  |
+| [Worthy of Love](https://open.spotify.com/track/66GRHLr19DHo2q513qnBM3) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Worthy of Love](https://open.spotify.com/album/3XgCxu1CP5FAlldLmjM8iz) | 3:22 | 2023-01-13 | 2023-03-05 |
 | [would you call me up?](https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [would you call me up?](https://open.spotify.com/album/6sq8d7ejYstY6hhWByEIXs) | 4:11 | 2022-03-25 | 2022-06-18 |
 | [Years](https://open.spotify.com/track/72ha7F3FCjTFXFkUHt4fMe) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Years](https://open.spotify.com/album/7EQCaA5lc3mMuOm22sam4G) | 2:59 | 2022-07-01 | 2022-12-10 |
 | [Yellow Dawn](https://open.spotify.com/track/5zqXYobC2kadwwKOniBXtp) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Yellow Dawn](https://open.spotify.com/album/2WZAbwUhj4244ADSXNw2aB) | 3:16 | 2022-03-11 | 2022-05-07 |

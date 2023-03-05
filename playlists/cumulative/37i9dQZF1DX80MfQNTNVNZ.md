@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-352 songs - 21 hr 8 min
+353 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Fever](https://open.spotify.com/track/1lkGj5RAojIpq25ODFk5ud) | [YOSA & TAAR](https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [Modern Disco Tours](https://open.spotify.com/album/0oOE7HPqo6i0eYXDxmrJjB) | 3:49 | 2022-04-14 | 2022-04-19 |
 | [Find Me](https://open.spotify.com/track/6MnwlWt1UUPTsaaULrv2Nl) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Find Me](https://open.spotify.com/album/4Ysup03MDl4uBhcdzWcKA4) | 3:00 | 2022-03-24 | 2022-04-16 |
 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 | 2021-12-23 | 2022-07-21 |
-| [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-01-25 |  |
+| [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-01-25 | 2023-03-05 |
 | [For You \- Many Selves Version](https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [For You \(Many Selves Version\)](https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir) | 3:41 | 2022-03-24 | 2022-07-26 |
 | [Forbidden Fruit](https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Forbidden Fruit](https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD) | 3:27 | 2022-04-07 | 2022-07-21 |
 | [Found Our Way](https://open.spotify.com/track/5gxp6faiQPafYh77V4BZC4) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 2:46 | 2022-10-13 |  |
@@ -247,6 +247,7 @@
 | [Separation](https://open.spotify.com/track/4V5aNcb4CBVou9uWTodMYB) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Separation](https://open.spotify.com/album/1bNyD1b6LuqQUTR8yJvKmI) | 3:10 | 2022-10-06 | 2022-11-18 |
 | [She's Gone](https://open.spotify.com/track/5RB5lC6FucolegEsA61b8f) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:39 | 2022-01-27 | 2022-05-26 |
 | [SHEEP](https://open.spotify.com/track/0d0AtD1ZWwOwheQwQ3GsZ6) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [SHEEP](https://open.spotify.com/album/4iETcGGHi9p2i5VuF8lBUS) | 4:32 | 2022-03-24 | 2022-06-20 |
+| [Since I Have A Lover](https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7) | 4:42 | 2023-03-02 |  |
 | [skeletons](https://open.spotify.com/track/0K0JJ3QZEHYhBwkE21L2HZ) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:58 | 2022-07-28 | 2023-01-26 |
 | [skeletons](https://open.spotify.com/track/3Tda2M4pWcGwRvME3dGM2K) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [skeletons](https://open.spotify.com/album/5jygVHTbrAZQsPs66tebG7) | 2:58 | 2022-03-31 | 2022-04-21 |
 | [Skin](https://open.spotify.com/track/5UzCjkzuFZKjV7YKji78ye) | [DinoJr.](https://open.spotify.com/artist/2Tjsjqtiz24545VekPM72J) | [Skin](https://open.spotify.com/album/5SDKwYo0N2wjXyZAb77KoE) | 3:00 | 2022-03-24 | 2022-04-20 |

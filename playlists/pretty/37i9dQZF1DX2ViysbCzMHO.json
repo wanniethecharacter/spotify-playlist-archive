@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 115476,
+  "num_followers": 115572,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDZkYzdiMjg1MmEyZmUzY2UzODUzMDIzNzNmMWQ3NDU3",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDljNzk3MzQwYjc1MjFiODE2MzFlOWFlZGJmZWJkMmNk",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Simple Things (Piano Version)",
+        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 186090,
+      "name": "Simple Things - Piano Version",
+      "url": "https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Love Like I Drink",
         "url": "https://open.spotify.com/album/24iBC56uoPOCzQVXGupwcH"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 195309,
       "name": "Love Like I Drink",
       "url": "https://open.spotify.com/track/6T9waTBwi2sLjXP7TCbM65"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Simple Things (Piano Version)",
-        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 186090,
-      "name": "Simple Things - Piano Version",
-      "url": "https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "I Can Tell You're Small Town (The Back Home Version)",
-        "url": "https://open.spotify.com/album/0ZvQTIN5CdKUKcHT3HQqVN"
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
       },
       "artists": [
         {
-          "name": "Noah Hicks",
-          "url": "https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO"
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
         }
       ],
-      "duration_ms": 181947,
-      "name": "I Can Tell You're Small Town (The Back Home Version)",
-      "url": "https://open.spotify.com/track/4RH6QhrnqTo78EzUEw1wrl"
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "I Can Tell You're Small Town (The Back Home Version)",
+        "url": "https://open.spotify.com/album/0ZvQTIN5CdKUKcHT3HQqVN"
+      },
+      "artists": [
+        {
+          "name": "Noah Hicks",
+          "url": "https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO"
+        }
+      ],
+      "duration_ms": 181947,
+      "name": "I Can Tell You're Small Town (The Back Home Version)",
+      "url": "https://open.spotify.com/track/4RH6QhrnqTo78EzUEw1wrl"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Breakups (Acoustic)",
         "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 227693,
       "name": "Breakups - Acoustic",
       "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Bluebird (Acoustic)",
-        "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
+        "name": "All I Know About Girls",
+        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 220637,
-      "name": "Bluebird - Acoustic",
-      "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
+      "duration_ms": 162920,
+      "name": "All I Know About Girls",
+      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "All I Know About Girls",
-        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
+        "name": "Bluebird (Acoustic)",
+        "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 162920,
-      "name": "All I Know About Girls",
-      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
+      "duration_ms": 220637,
+      "name": "Bluebird - Acoustic",
+      "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1119,6 +1119,22 @@
       "duration_ms": 159346,
       "name": "Peaked In High School",
       "url": "https://open.spotify.com/track/2iZ7QhJdX5jlkJFk636wuu"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "We Got History (Acoustic)",
+        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "We Got History - Acoustic",
+      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "She Had Me At Heads Carolina (Acoustic)",
-        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
+        "name": "Forever and Always (Acoustic)",
+        "url": "https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Brandon Davis",
+          "url": "https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV"
         }
       ],
-      "duration_ms": 196306,
-      "name": "She Had Me At Heads Carolina - Acoustic",
-      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
+      "duration_ms": 190190,
+      "name": "Forever and Always (Acoustic)",
+      "url": "https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Forever and Always (Acoustic)",
-        "url": "https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3"
+        "name": "She Had Me At Heads Carolina (Acoustic)",
+        "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
       },
       "artists": [
         {
-          "name": "Brandon Davis",
-          "url": "https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV"
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
         }
       ],
-      "duration_ms": 190190,
-      "name": "Forever and Always (Acoustic)",
-      "url": "https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31"
+      "duration_ms": 196306,
+      "name": "She Had Me At Heads Carolina - Acoustic",
+      "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Almost Maybes (Acoustic)",
-        "url": "https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179907,
-      "name": "Almost Maybes - Acoustic",
-      "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 197600,
       "name": "Landslide - Live from Nashville",
       "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Almost Maybes (Acoustic)",
+        "url": "https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179907,
+      "name": "Almost Maybes - Acoustic",
+      "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "The Nashville Sessions",
-        "url": "https://open.spotify.com/album/5xkwEARs8kunLXWeEWglae"
-      },
-      "artists": [
-        {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
-        }
-      ],
-      "duration_ms": 157143,
-      "name": "Dirt Road - Nashville Session",
-      "url": "https://open.spotify.com/track/7HbRlzxSl4zjaY75QNJ169"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Just About Over You (Acoustic Version)",
         "url": "https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 188026,
       "name": "Just About Over You - Acoustic Version",
       "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "The Nashville Sessions",
+        "url": "https://open.spotify.com/album/5xkwEARs8kunLXWeEWglae"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "duration_ms": 157143,
+      "name": "Dirt Road - Nashville Session",
+      "url": "https://open.spotify.com/track/7HbRlzxSl4zjaY75QNJ169"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 164234,
       "name": "Not Supposed To Know Each Other (Sad Version)",
       "url": "https://open.spotify.com/track/2ZVec8GTFATsJBkYdKhagf"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Live from Layman",
-        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
-      },
-      "artists": [
-        {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Waves (Live)",
-      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
     }
   ],
   "unique_name": "Nashville Stripped",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[HftzStya](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 17 likes - 225 songs - 15 hr 41 min
+[HftzStya](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 17 likes - 230 songs - 15 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,5 +233,10 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 223 | [Ov Fire and Sulphur](https://open.spotify.com/track/5l9EHkZKRjARvZ5WDFuSID) | [To Obey a Tyrant](https://open.spotify.com/artist/1s1OmCqLXfLqrRhc6evxtl), [Dan Tucker of Crown Magnetar](https://open.spotify.com/artist/5G99p7ce6nEdG5wzajCeWN) | [Ov Fire and Sulphur](https://open.spotify.com/album/75lYvKbe2qsNCSAZM4KDV9) | 5:55 |
 | 224 | [Autophagia](https://open.spotify.com/track/5uB202EdBAq3iX9zv1QfLo) | [Xenobiotic](https://open.spotify.com/artist/2u1BlwLG9qYtUH6KU6xiNJ) | [Autophagia](https://open.spotify.com/album/5UcNqAy5k9pO1w0At6AN27) | 3:47 |
 | 225 | [BAD BLOOD II](https://open.spotify.com/track/6aXRrRHk2pb3DxnZ4PXTAS) | [Reminitions](https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB), [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [BAD BLOOD II](https://open.spotify.com/album/7rzwS69sMa2e9MmMJ0TV12) | 4:05 |
+| 226 | [Bleed Or Believe](https://open.spotify.com/track/6n51TISVIwlNyLyb7RYjwV) | [Raise the Death Toll](https://open.spotify.com/artist/2MxIHokKnCTGMYDHqwpgyv), [Jai Benoit of Golgothan](https://open.spotify.com/artist/636GS0r5hnL64Z6N8PGwQd) | [Bleed Or Believe](https://open.spotify.com/album/13BRID57L4cLgqWoueiOF6) | 4:04 |
+| 227 | [Divine Apostasy](https://open.spotify.com/track/16MJbjMJA8IfMKMP40YoSc) | [SIX ATL](https://open.spotify.com/artist/3XdzHDdX4jNQa2uxoJr2rK) | [Divine Apostasy](https://open.spotify.com/album/5Tj05hhRkoa9gfqIRQ8a1k) | 3:10 |
+| 228 | [Universe 25](https://open.spotify.com/track/7a7QHfoJjh6RiIgUfN50Lc) | [SURGEON](https://open.spotify.com/artist/2dFTnRb7enPY78wtu7wvSQ) | [Universe 25](https://open.spotify.com/album/6OcdlM15fgxe415rtHkYYy) | 4:03 |
+| 229 | [B.H.C.F.H.C.](https://open.spotify.com/track/7wLejPhqqbTHjOuf98I5YH) | [SURGEON](https://open.spotify.com/artist/2dFTnRb7enPY78wtu7wvSQ) | [B.H.C.F.H.C.](https://open.spotify.com/album/63Pp7bEkfFdNitCHHxohGV) | 3:51 |
+| 230 | [Sandevistan](https://open.spotify.com/track/2QnppOn5W5eJwRxlBXO71C) | [Spire of Lazarus](https://open.spotify.com/artist/2siG2lB8W9OCBXyd4ebEM6) | [Sandevistan](https://open.spotify.com/album/3p3SvPRcoNqlZtWmjmNtzc) | 2:51 |
 
-Snapshot ID: `MzMyLDhhYWRlOGMwMWE0NTc2MWQyMjQ4ZWIwMjYyOGE4OWUxMDc3MmZhMWM=`
+Snapshot ID: `MzM3LDBjY2FlZjcyZDYzMjkyNGQ1YmMzZjBjNWQ1ZDgxOWU4MGIyMjU3NGE=`

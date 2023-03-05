@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,438 likes - 350 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,700 likes - 350 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 69 | [Cruel Summer](https://open.spotify.com/track/1zM1iQH65BDMk8TfjuGiN8) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Darci](https://open.spotify.com/artist/7pYtArA7b1TsnyoKAk9xOm) | [Cruel Summer](https://open.spotify.com/album/2jMt2LkilGrw6OClyjvWms) | 3:09 |
 | 70 | [Say My Name](https://open.spotify.com/track/2XdwFXMdrq9OXqI95senyk) | [Why Not](https://open.spotify.com/artist/2AwsEdWEALqulmK0kH7Cr7), [Clarees](https://open.spotify.com/artist/5preGCl6y5PCh5UYFQSlDl) | [Say My Name](https://open.spotify.com/album/1AQXFfsNWxfFgxrd9oZaZ4) | 2:40 |
 | 71 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 |
-| 72 | [The Drop](https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [The Drop](https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH) | 2:01 |
+| 72 | [The Drop](https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [The Drop](https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH) | 2:01 |
 | 73 | [Light Switch](https://open.spotify.com/track/0tsQvqCv4ERlm33ob0s5JQ) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [VARGENTA](https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo), [Arild Aas](https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd) | [Light Switch](https://open.spotify.com/album/4sMYm31nknD9SjJ5nXci76) | 3:09 |
 | 74 | [Stamp On The Ground](https://open.spotify.com/track/5QdWSor8wZmWyWWEOaJ4Fz) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Stamp On The Ground](https://open.spotify.com/album/2it6wVltq5zEsSf21OhnrV) | 2:16 |
 | 75 | [Cry For You](https://open.spotify.com/track/7AOSVXC6XUjYOWMC5Mhyij) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf), [Martin van Lectro](https://open.spotify.com/artist/0goAkRbqjvGdCHsTN0ToOL) | [Cry For You](https://open.spotify.com/album/22nicfTAUt4OeyTxaqdm2a) | 2:00 |
@@ -195,7 +195,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 185 | [Come Along](https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Come Along](https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY) | 2:44 |
 | 186 | [Sweet Child O' Mine](https://open.spotify.com/track/6rrzv6g69ckf0VRNS1kkuR) | [Melonia](https://open.spotify.com/artist/1lMjwB6Jj16Nf2U2xUQlO1) | [Sweet Child O' Mine](https://open.spotify.com/album/5cOHCHYzzV5by2lcnDfJfw) | 2:57 |
 | 187 | [Jolene](https://open.spotify.com/track/39jJfIcg0EXn2t3ySTHcPm) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Jolene](https://open.spotify.com/album/2ycOFUHmXhWZyRxAhx5Yu7) | 2:30 |
-| 188 | [Family Affair](https://open.spotify.com/track/71XGOff5fePCiAjdWbcz2X) | [Elport](https://open.spotify.com/artist/3zrQk1Q60ZoKLCG2N7xUx1) | [Family Affair](https://open.spotify.com/album/30vzDlb1xtOMITOJ3IdkXb) | 2:42 |
+| 188 | [Family Affair](https://open.spotify.com/track/71SAv433bF8w0Qx0Ld2c64) | [Elport](https://open.spotify.com/artist/3zrQk1Q60ZoKLCG2N7xUx1) | [Family Affair](https://open.spotify.com/album/52clcvNi8OcghEjyHNXv9I) | 2:42 |
 | 189 | [Señorita](https://open.spotify.com/track/57Tyx15Nnt81jJeVDTQnE5) | [DVRT](https://open.spotify.com/artist/5aFl1VB6zZnSrej8AqKz9b), [Camilia](https://open.spotify.com/artist/58jQ9ySMbgsPyB4VkDjGrQ) | [Señorita](https://open.spotify.com/album/0pMjl74kp8NKZvRNrjEUpz) | 2:42 |
 | 190 | [Moonlight Shadow](https://open.spotify.com/track/1rsarV6yuF0D4f1vB1F30T) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Tess Burrstone](https://open.spotify.com/artist/3QPKvs3fg48SjSF3Kglpwy) | [Moonlight Shadow](https://open.spotify.com/album/16nplsSxStlnU91yqbN0bM) | 2:40 |
 | 191 | [Bring Me To Life](https://open.spotify.com/track/7y10NhdvokswimTGeYyZ98) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [David Hodges](https://open.spotify.com/artist/7fRabwYwLBgvOudI9GY2Op) | [Bring Me To Life](https://open.spotify.com/album/2yiCoX8tk9OiarK38AmVvT) | 2:21 |
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 349 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 350 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MTY3Mjc2NDIwMCwwMDAwMDAwMDAyNWQzYjM1N2E5NjM0ZDc4NTJmYzMxM2ZjNGVmMDQz`
+Snapshot ID: `MTY3Mjc2NDIwMCwwMDAwMDAwMDQ0ZDc2ZTllZmNlNGNjMjI3MWM0M2E0ODk0YWY0MjFk`

@@ -12229,6 +12229,24 @@
     },
     {
       "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/20TkyDiL0i1Szs5Kg9UieZ"
+      },
+      "artists": [
+        {
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146680,
+      "name": "meow chat",
+      "url": "https://open.spotify.com/track/1M1BkERJAqeSy043TRqQFJ"
+    },
+    {
+      "album": {
         "name": "meow chat",
         "url": "https://open.spotify.com/album/0nc73w5OD8c2DZKiSaPDaS"
       },
@@ -12240,7 +12258,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 146680,
       "name": "meow chat",
       "url": "https://open.spotify.com/track/1p0AaLyZDjk19Bd8dnDFfG"

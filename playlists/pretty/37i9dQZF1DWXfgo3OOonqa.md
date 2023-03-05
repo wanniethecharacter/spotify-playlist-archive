@@ -4,34 +4,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,291 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,410 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Online](https://open.spotify.com/track/3wIUf2ssPffFAUoIR4F1Tm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 2:35 |
+| 1 | [Har Dig](https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 3:22 |
 | 2 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 |
 | 3 | [KURIRER](https://open.spotify.com/track/7dLIb2FTMx0EKSAipHov7P) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [KURIRER](https://open.spotify.com/album/0q4FcnWY4RnXpgsPRNS8Cy) | 2:02 |
 | 4 | [BOTTEGA](https://open.spotify.com/track/3RRwRGSCAsokzDr5CL3ISC) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [BOTTEGA](https://open.spotify.com/album/3d8p48lwwRTX1ZcNpHxIX2) | 2:33 |
 | 5 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 |
 | 6 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 |
 | 7 | [PICK ME UP](https://open.spotify.com/track/3wx0fGGBY8Csos0ZDsKXFE) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [PICK ME UP](https://open.spotify.com/album/47nAM4UWvRCjvXMWYsx8W9) | 2:27 |
-| 8 | [Har Dig](https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 3:22 |
-| 9 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 |
-| 10 | [Ingen Annan](https://open.spotify.com/track/29f6emBNZc0WueYCU0Me2O) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ingen Annan](https://open.spotify.com/album/4BdMKdoEQPuCDEz14asIc6) | 2:08 |
+| 8 | [Online](https://open.spotify.com/track/3wIUf2ssPffFAUoIR4F1Tm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 2:35 |
+| 9 | [Ingen Annan](https://open.spotify.com/track/29f6emBNZc0WueYCU0Me2O) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Ingen Annan](https://open.spotify.com/album/4BdMKdoEQPuCDEz14asIc6) | 2:08 |
+| 10 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 |
 | 11 | [REAL ONES](https://open.spotify.com/track/2Qxz8zUs7G3awJEnNQT5mi) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [REAL ONES](https://open.spotify.com/album/5JDLHAEgpmMv2Mh3GHUfZQ) | 1:48 |
 | 12 | [Ghetto Psykos \(GS\)](https://open.spotify.com/track/4S4nhjCMlx3d4LkMGqiCpm) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Ghetto Psykos \(GS\)](https://open.spotify.com/album/2edTCevZZxtQ4zK7MlVWXf) | 2:19 |
 | 13 | [Noyy](https://open.spotify.com/track/4W0pPaBJwKhxScJXDVIKhS) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Noyy](https://open.spotify.com/album/0OLqRExTkvKByEadGUQ0KL) | 2:03 |
-| 14 | [Wine](https://open.spotify.com/track/3HHXFvN5BjYrASwmeaEYVI) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Wine](https://open.spotify.com/album/4sg5BPyaOWGmhxBdWsdy3n) | 2:43 |
-| 15 | [Bye](https://open.spotify.com/track/1rTUM3BdqYSTsZiUVL6YRY) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Bye](https://open.spotify.com/album/7ncknlyzo63JmvKfkpKdf2) | 3:26 |
+| 14 | [Bye](https://open.spotify.com/track/1rTUM3BdqYSTsZiUVL6YRY) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Bye](https://open.spotify.com/album/7ncknlyzo63JmvKfkpKdf2) | 3:26 |
+| 15 | [Wine](https://open.spotify.com/track/3HHXFvN5BjYrASwmeaEYVI) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Wine](https://open.spotify.com/album/4sg5BPyaOWGmhxBdWsdy3n) | 2:43 |
 | 16 | [APRILLIA](https://open.spotify.com/track/4y3LTaYdRlwD2NV6FB1nKB) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [ULTIMA RATIO](https://open.spotify.com/album/32mdIi3gjBOz6iVnccsdlq) | 2:31 |
 | 17 | [Ikon](https://open.spotify.com/track/7y3tROxVvdzvJGu4NgWV6l) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Ikon](https://open.spotify.com/album/15j8wwgCOjSLP5wP3lA3Md) | 2:41 |
-| 18 | [Smäller lokalt](https://open.spotify.com/track/3qzZR7sk8OvUQAHmaklatW) | [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [Smäller lokalt](https://open.spotify.com/album/26XvNWskss1XednRdp59bH) | 2:12 |
+| 18 | [Caramella](https://open.spotify.com/track/1xiDfu6qVAfkDQkVV1LxOM) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Ratio Belli](https://open.spotify.com/album/6vo2iztzYX6mF86AhkR3OZ) | 2:40 |
 | 19 | [Sticky Situation](https://open.spotify.com/track/7vVLexVH1BvkF0xoXveBFt) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Sticky Situation](https://open.spotify.com/album/6BqwUpGcFPcSo7tkQT6xTD) | 2:59 |
 | 20 | [Sportbil](https://open.spotify.com/track/7bX2TgbtZrg8rVogs6ISM8) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Sportbil](https://open.spotify.com/album/6B76lCKpQN6hly4CKUq2uf) | 3:03 |
 | 21 | [I Care](https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [I Care](https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii) | 2:19 |
-| 22 | [Caramella](https://open.spotify.com/track/1xiDfu6qVAfkDQkVV1LxOM) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Ratio Belli](https://open.spotify.com/album/6vo2iztzYX6mF86AhkR3OZ) | 2:40 |
-| 23 | [Karma](https://open.spotify.com/track/5mHatlceRi4T05mRgs3lDG) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Karma](https://open.spotify.com/album/39DaRxeCO75AaA5DEIbUqJ) | 2:17 |
-| 24 | [GIRL](https://open.spotify.com/track/7zeafSIdEHF8HoskBRkFto) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [GIRL](https://open.spotify.com/album/0fN88KFmZW8TpFKmM5c7ss) | 2:51 |
+| 22 | [Karma](https://open.spotify.com/track/5mHatlceRi4T05mRgs3lDG) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Karma](https://open.spotify.com/album/39DaRxeCO75AaA5DEIbUqJ) | 2:17 |
+| 23 | [GIRL](https://open.spotify.com/track/7zeafSIdEHF8HoskBRkFto) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [GIRL](https://open.spotify.com/album/0fN88KFmZW8TpFKmM5c7ss) | 2:51 |
+| 24 | [Smäller lokalt](https://open.spotify.com/track/3qzZR7sk8OvUQAHmaklatW) | [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [Smäller lokalt](https://open.spotify.com/album/26XvNWskss1XednRdp59bH) | 2:12 |
 | 25 | [Långt Hemifrån](https://open.spotify.com/track/11dvt39aUJjx3jPK47HWK1) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 2:46 |
 | 26 | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 |
 | 27 | [Annan Man \(part 2\)](https://open.spotify.com/track/0dXCa5c9CZzkNHx1p6SOlb) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Annan Man \(part 2\)](https://open.spotify.com/album/75gmHEVJvOSKNabmMEZ82U) | 2:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 74 | [GANNI](https://open.spotify.com/track/0tRdFyGUOWo2jInmnpx7zy) | [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu) | [GANNI](https://open.spotify.com/album/3kcDXluFgXOsERNo46OYha) | 1:43 |
 | 75 | [OBITO](https://open.spotify.com/track/6TLEkTFP4TEpwpjNzy5GLn) | [FENOMENO](https://open.spotify.com/artist/1DGHehjW5ml6LUvqPY3Qo7) | [OBITO](https://open.spotify.com/album/1og2ZSZVuCtKc7K4fqR9AF) | 3:07 |
 
-Snapshot ID: `MTY3Nzg0MTIwMCwwMDAwMDAwMDE3YTdmOTVmMWU5NzIwNzk0YjY2YTU0ZThhNDQzZjM4`
+Snapshot ID: `MTY3Nzk2NzMwMywwMDAwMDAwMDViYzk4ZGYxODIzYjcyNmZkZGYzZDVmYjJjZTJjNDFm`

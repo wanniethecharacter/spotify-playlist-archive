@@ -4143,6 +4143,32 @@
     },
     {
       "album": {
+        "name": "Line In The Sand",
+        "url": "https://open.spotify.com/album/20BFfzO2b1Swuq5cBThsW0"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "goddess",
+          "url": "https://open.spotify.com/artist/2UgwBiqMsWyiPeqv4Ed3pi"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182625,
+      "name": "Line In The Sand",
+      "url": "https://open.spotify.com/track/6J4POnSPt3RcoWW5zUHVtl"
+    },
+    {
+      "album": {
         "name": "Lines",
         "url": "https://open.spotify.com/album/7gzlVPN03faWxdOIBuUvNy"
       },
@@ -7078,6 +7104,24 @@
       "duration_ms": 216568,
       "name": "Untethered",
       "url": "https://open.spotify.com/track/316Co4rvVxEFZ40FY8BbK8"
+    },
+    {
+      "album": {
+        "name": "Brothers & Sisters",
+        "url": "https://open.spotify.com/album/6TraNOBSSA3snFw5gtbwwt"
+      },
+      "artists": [
+        {
+          "name": "Steve Mason",
+          "url": "https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224303,
+      "name": "Upon My Soul",
+      "url": "https://open.spotify.com/track/1E1MGS38KymkCJOENDPWlf"
     },
     {
       "album": {

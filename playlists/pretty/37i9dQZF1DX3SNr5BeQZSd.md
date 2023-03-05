@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,447 likes - 115 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,663 likes - 115 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 66 | [Masat Magan](https://open.spotify.com/track/5mRc2GM6n2Eh0GD0iFBPUG) | [Bollywood Boys](https://open.spotify.com/artist/0Ny63uGmHAThsTDPOAyz3k) | [Masat Magan](https://open.spotify.com/album/6j56ArzdF411QOOrgcjUI9) | 3:53 |
 | 67 | [walk but in a garden](https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/03Glq418UekVfi6ud34yeg) | 1:54 |
 | 68 | [Hosanna \- Lofi Flip](https://open.spotify.com/track/7BbhFrLzCP7DdnV69vVbCv) | [Leon D'souza](https://open.spotify.com/artist/71Rv7hyuI5904jgrtT4IN9), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Jammy Weirdo](https://open.spotify.com/artist/64QCKFA8kD38Waf5EXbSRp), [Mig](https://open.spotify.com/artist/7omB2Vc993xt3mpwAcosYe) | [Hosanna \(Lofi Flip\)](https://open.spotify.com/album/4g9Bvb10Z0SL4PkVLUbBIM) | 4:16 |
-| 69 | [I'll Keep You Safe](https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [I'll Keep You Safe](https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX) | 3:05 |
+| 69 | [Safe \(feat\. Shiloh\)](https://open.spotify.com/track/0TMez4fjyOAciXn4VefMNU) | [Bra Dy](https://open.spotify.com/artist/6tTaHSgwQ4Ld5lBKAc93Bd), [Shiloh](https://open.spotify.com/artist/2hkB8tem6WtX6015adeOXU) | [Safe \(feat\. Shiloh\)](https://open.spotify.com/album/6r33t1qiEt1UfJrByhcdn9) | 3:05 |
 | 70 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 |
 | 71 | [Affection](https://open.spotify.com/track/3ukklzkdKjDzqkroiXTvf4) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Life](https://open.spotify.com/album/0N0l3JnVMd4hFhS5V2d1iY) | 1:57 |
 | 72 | [Maine Royaan \(Lofi Remix\)](https://open.spotify.com/track/3khiYRqf3tjb6PSGBhkfl4) | [Tanveer Evan](https://open.spotify.com/artist/4OUraoZcwg1SsMHFjuaajw), [Ahmed Shakib](https://open.spotify.com/artist/2pXBuKCgIX7qJEa2Dfm21a) | [Maine Royaan \(Lofi Remix\)](https://open.spotify.com/album/7E96Jeo9E1LDYsg2hKrDcZ) | 5:04 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 114 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 115 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY3NDA1MTYxOCwwMDAwMDAwMGNiNjVjNjIzOTYyMzQyZDA5MDFhNTk2YzBjZmQyYzFk`
+Snapshot ID: `MTY3NDA1MTYxOCwwMDAwMDAwMGVlMTJlNmQ3OTMyNjY3ZTA1YzQwMGFiMjQxOTM3ZDM2`

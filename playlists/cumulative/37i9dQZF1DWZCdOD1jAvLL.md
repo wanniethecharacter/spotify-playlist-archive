@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: lau.ra & Dope Earth Alien
 
-428 songs - 23 hr 53 min
+429 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [El Oh Vee Ee](https://open.spotify.com/track/2qg9rX4JsmSXIsv1aqucm9) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [El Oh Vee Ee](https://open.spotify.com/album/1RSEErTX6MymSpxhNR4PYm) | 3:31 | 2022-06-24 | 2022-09-03 |
 | [Elbow Grease](https://open.spotify.com/track/7beAh9FEDhV8VUQ39fwDyf) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy) | [Elbow Grease](https://open.spotify.com/album/4Avx8ZU2LrQrGFPtiuaT9A) | 3:33 | 2022-08-05 | 2022-11-19 |
 | [Elvis](https://open.spotify.com/track/5vFGLkcPG8JdYAuAVVczGR) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Elvis](https://open.spotify.com/album/5wiSQgZwS0BqLWK8Ly43Yy) | 3:37 | 2022-06-10 | 2022-09-17 |
-| [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 | 2023-02-24 |  |
+| [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 | 2023-02-24 | 2023-03-05 |
 | [Emptiness](https://open.spotify.com/track/4TPzn1tHoa186Nu2wb68r0) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Emptiness](https://open.spotify.com/album/1v7slg9ssEvd7PFdNjRgmD) | 2:29 | 2022-01-14 | 2022-04-16 |
 | [End It](https://open.spotify.com/track/6xUwKT1nmDl56q98hoE5mV) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [End It](https://open.spotify.com/album/0OtzN5CIeoUyeS4O160PNg) | 3:16 | 2022-06-24 | 2022-09-24 |
 | [End Of The World](https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [End Of The World](https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW) | 3:42 | 2022-01-14 | 2022-03-12 |
@@ -249,6 +249,7 @@
 | [Mirage](https://open.spotify.com/track/3ZWo7cjpmthm54fMaQkuMc) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Mirage](https://open.spotify.com/album/4t1iukMZzxhyraFW9pMcFW) | 3:48 | 2022-05-06 | 2022-09-03 |
 | [Mirror Mirror \(feat\. TELLER\)](https://open.spotify.com/track/0oI9LJYGtAlT3m1D3hWqbA) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [TELLER](https://open.spotify.com/artist/3hhmURITBjGyUKf4IuOCjt) | [Mirror Mirror \(feat\. TELLER\)](https://open.spotify.com/album/4ZiEHfXY1HiQTYBTTku6PE) | 4:32 | 2022-06-24 | 2022-09-24 |
 | [Mirrors](https://open.spotify.com/track/7wjf78oX4GzojIxxDTPSp8) | [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Story Of A Stoner](https://open.spotify.com/album/645cxe4AcIaIxUiz6tdraC) | 4:03 | 2022-04-22 | 2022-07-16 |
+| [Molotov](https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Molotov](https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e) | 2:58 | 2023-03-03 |  |
 | [Money](https://open.spotify.com/track/2AhKFNKiRxk2NZNF47bFjn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Killfake](https://open.spotify.com/artist/5iQ5zOYomcR6F3gYon6GNW) | [Money](https://open.spotify.com/album/7jt2ZSsqgR2VG6s1XkWw7E) | 2:50 | 2022-01-14 | 2022-07-23 |
 | [monotony \(feat\. Party Nails\)](https://open.spotify.com/track/5OPRwpt3Bl41raaWphfW3q) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [Party Nails](https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4) | [fuck ya go us](https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT) | 3:17 | 2022-05-06 | 2022-07-16 |
 | [Move It](https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Move It](https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza) | 3:21 | 2022-04-22 | 2022-11-19 |

@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 200629,
       "name": "Dying Life",
       "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 238945,
       "name": "Ghosts Again",
       "url": "https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 187625,
       "name": "Home on the Range",
       "url": "https://open.spotify.com/track/2HXLKJ4ltgY9hDzIcJoPdY"
@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "Once Upon A Dramedy",
+        "url": "https://open.spotify.com/album/0CSqksehyVIMM7NFYhB5dG"
+      },
+      "artists": [
+        {
+          "name": "Klas Johan Wahl",
+          "url": "https://open.spotify.com/artist/74PUwAcMdO3wVdx10gmdB5"
+        },
+        {
+          "name": "Anders Paul Niska",
+          "url": "https://open.spotify.com/artist/4SHiUAYQytdFCjR5j8t7fI"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122548,
+      "name": "L'Chaim!",
+      "url": "https://open.spotify.com/track/0ksVGwexpfFFXCGQcAEGda"
+    },
+    {
+      "album": {
         "name": "Lavender Haze (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
       },
@@ -676,7 +698,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 240591,
       "name": "Lost In The Grandeur - Requiem Mass",
       "url": "https://open.spotify.com/track/1AEbkplFNpAzKS5HjC1Fu9"
@@ -777,6 +799,28 @@
     },
     {
       "album": {
+        "name": "Dark Waters",
+        "url": "https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Paolo Ribaldini",
+          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242146,
+      "name": "Queen of Shadow (feat. Paolo Ribaldini)",
+      "url": "https://open.spotify.com/track/17QLatTqOCxkoIGxdPWdkn"
+    },
+    {
+      "album": {
         "name": "Queen of Shadow",
         "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
       },
@@ -792,7 +836,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 242146,
       "name": "Queen of Shadow (feat. Paolo Ribaldini)",
       "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
@@ -864,7 +908,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 94000,
       "name": "Showered With Knowledge",
       "url": "https://open.spotify.com/track/75fMzs6cY7DTKcg8VH2v37"
@@ -918,7 +962,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 182933,
       "name": "Straight From The Heart - Live at The Royal Albert Hall",
       "url": "https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf"
@@ -944,7 +988,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 533333,
       "name": "Symphony No. 4 In F Minor, Op. 36, TH.27: 4. Finale (Allegro con fuoco)",
       "url": "https://open.spotify.com/track/6dzKOpapRMDE96Z0EtsGmk"
@@ -962,7 +1006,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 243343,
       "name": "Terrible Lie",
       "url": "https://open.spotify.com/track/2e2aWPBaVWrNMngz5ftWPv"
@@ -1034,10 +1078,32 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 294026,
       "name": "The Maiden and the Child",
       "url": "https://open.spotify.com/track/74aL364a6HTlT3T6j0HtBJ"
+    },
+    {
+      "album": {
+        "name": "The Thing That Wrecks You",
+        "url": "https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220567,
+      "name": "The Thing That Wrecks You",
+      "url": "https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I"
     },
     {
       "album": {
@@ -1060,7 +1126,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 139787,
       "name": "THIRST4VIOLENCE (feat. Freddie Dredd & Silverstein)",
       "url": "https://open.spotify.com/track/6fQaD9UaCJPLceCxfS8fpH"
@@ -1118,7 +1184,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 228000,
       "name": "Total Eclipse of the Heart - Re-Recorded - Sped Up",
       "url": "https://open.spotify.com/track/3XGn9coNotX8yEwT7T6qmA"
@@ -1282,7 +1348,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 191760,
       "name": "\u30a6\u30a7\u30b6\u30fc\u30ea\u30dd\u30fc\u30c8",
       "url": "https://open.spotify.com/track/1OpBTBQHigKrOrTJ1SJwOf"

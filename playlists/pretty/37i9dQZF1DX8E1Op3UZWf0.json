@@ -1,12 +1,12 @@
 {
   "description": "Start the day with a morning run together with these easy and joyful tracks.",
-  "num_followers": 228857,
+  "num_followers": 228940,
   "original_name": "Morning Run ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY3OTc4MCwwMDAwMDAwMDdiMWY1YjJlYzdlZWU4NTcyOTljYzU1MzQzMDc4NmZm",
+  "snapshot_id": "MTY3NzY3OTc4MCwwMDAwMDAwMDAxM2ZkMzdlMTYxZTFiNzZiN2IyYmEzMTA2ZTg5M2M5",
   "tracks": [
     {
       "added_at": "2023-01-03 14:46:25",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-01-03 14:46:25",
       "album": {
-        "name": "Stargazing - EP",
-        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
-        }
-      ],
-      "duration_ms": 236853,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
-    },
-    {
-      "added_at": "2023-01-03 14:46:25",
-      "album": {
         "name": "Bittersweet Symphony",
         "url": "https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 194618,
       "name": "Bittersweet Symphony",
       "url": "https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf"
+    },
+    {
+      "added_at": "2023-01-03 14:46:25",
+      "album": {
+        "name": "Stargazing - EP",
+        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "duration_ms": 236853,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
     },
     {
       "added_at": "2023-01-03 14:46:25",
@@ -891,22 +891,22 @@
     {
       "added_at": "2023-01-03 14:46:25",
       "album": {
-        "name": "Pretend",
-        "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
       },
       "artists": [
         {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
         },
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
         }
       ],
-      "duration_ms": 351578,
-      "name": "Younger - Kygo Remix",
-      "url": "https://open.spotify.com/track/7vHshinTU8161w69EPbabY"
+      "duration_ms": 218480,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
     }
   ],
   "unique_name": "Morning Run ",

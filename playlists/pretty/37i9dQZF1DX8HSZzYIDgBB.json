@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Mula en portada.",
-  "num_followers": 29318,
+  "num_followers": 29336,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMTY4NiwwMDAwMDAwMGJiYzc5YjYxYjFmMDgyODVhOGY4OGIwOWM2YjA0ZmQ3",
+  "snapshot_id": "MTY3NzgxMTY4NiwwMDAwMDAwMGMyN2QyM2VhNTQ3NmQ1YjkyMjE4OGFkNjFiZmZjYTlj",
   "tracks": [
     {
       "added_at": "2023-01-02 21:45:00",
@@ -301,26 +301,6 @@
       "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
     },
     {
-      "added_at": "2022-11-12 17:25:42",
-      "album": {
-        "name": "Piedras del Sol",
-        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
-      },
-      "artists": [
-        {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "Piedras del Sol",
-      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Gar\u00faa (Sabor a Querer)",
@@ -339,6 +319,26 @@
       "duration_ms": 222000,
       "name": "Gar\u00faa (Sabor a Querer)",
       "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
+    },
+    {
+      "added_at": "2022-11-12 17:25:42",
+      "album": {
+        "name": "Piedras del Sol",
+        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "Piedras del Sol",
+      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
     },
     {
       "added_at": "2022-01-17 15:56:36",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Madremonte",
-        "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 263096,
-      "name": "Contra la Corriente",
-      "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
-    },
-    {
       "added_at": "2022-01-17 15:56:36",
       "album": {
         "name": "Sal de Mar",
@@ -587,6 +571,22 @@
       "duration_ms": 206590,
       "name": "Sal de Mar",
       "url": "https://open.spotify.com/track/3Go0i4zhTnL8CkfyTrSkez"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Madremonte",
+        "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 263096,
+      "name": "Contra la Corriente",
+      "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
     },
     {
       "added_at": "2022-08-16 00:06:15",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
     },
     {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Bailando Lento",
+        "url": "https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Bailando Lento",
+      "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
+    },
+    {
       "added_at": "2022-09-30 04:06:25",
       "album": {
         "name": "Coraz\u00f3n Usado",
@@ -771,22 +787,6 @@
       "duration_ms": 232241,
       "name": "Coraz\u00f3n Usado",
       "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Bailando Lento",
-        "url": "https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Bailando Lento",
-      "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
     },
     {
       "added_at": "2022-07-25 03:37:28",
@@ -1197,6 +1197,22 @@
       "url": "https://open.spotify.com/track/5gbYdVq1gpExyakimfFINk"
     },
     {
+      "added_at": "2022-03-03 23:20:33",
+      "album": {
+        "name": "Collar de Perlas",
+        "url": "https://open.spotify.com/album/0OcjkwJ6Xr9KkhlL8lnoSM"
+      },
+      "artists": [
+        {
+          "name": "MONTESCO",
+          "url": "https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb"
+        }
+      ],
+      "duration_ms": 269544,
+      "name": "Collar de Perlas",
+      "url": "https://open.spotify.com/track/3RJ2wUsUieoXwsCGHBsPCl"
+    },
+    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Qui\u00e9n Podr\u00e1 Saberlo",
@@ -1215,22 +1231,6 @@
       "duration_ms": 163426,
       "name": "Qui\u00e9n Podr\u00e1 Saberlo",
       "url": "https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW"
-    },
-    {
-      "added_at": "2022-03-03 23:20:33",
-      "album": {
-        "name": "Collar de Perlas",
-        "url": "https://open.spotify.com/album/0OcjkwJ6Xr9KkhlL8lnoSM"
-      },
-      "artists": [
-        {
-          "name": "MONTESCO",
-          "url": "https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb"
-        }
-      ],
-      "duration_ms": 269544,
-      "name": "Collar de Perlas",
-      "url": "https://open.spotify.com/track/3RJ2wUsUieoXwsCGHBsPCl"
     },
     {
       "added_at": "2022-09-07 01:11:32",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/083pInG64kGBpky2B6Vlfy"
     },
     {
-      "added_at": "2022-04-09 05:10:17",
-      "album": {
-        "name": "El Mirador",
-        "url": "https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV"
-      },
-      "artists": [
-        {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Cumbia Peninsula",
-      "url": "https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK"
-    },
-    {
       "added_at": "2022-02-11 02:35:50",
       "album": {
         "name": "Los Playa Vol. 1",
@@ -1321,6 +1305,22 @@
       "url": "https://open.spotify.com/track/5Yp11ERdglGeV2akmFrhtU"
     },
     {
+      "added_at": "2022-04-09 05:10:17",
+      "album": {
+        "name": "El Mirador",
+        "url": "https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV"
+      },
+      "artists": [
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "Cumbia Peninsula",
+      "url": "https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK"
+    },
+    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Ild\u00e9 Pa\u2019 Beberte",
@@ -1335,26 +1335,6 @@
       "duration_ms": 208064,
       "name": "Ild\u00e9 Pa\u2019 Beberte",
       "url": "https://open.spotify.com/track/5oKi2idPWZmWbpmIkYgvDc"
-    },
-    {
-      "added_at": "2022-07-25 03:37:28",
-      "album": {
-        "name": "JEVI",
-        "url": "https://open.spotify.com/album/44FI7VK0w4cqoj31ImZCCU"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Pa' Siempre No Es Na",
-      "url": "https://open.spotify.com/track/2KwvFhXURAAxJZ9OSfjVxO"
     },
     {
       "added_at": "2022-03-04 03:54:51",
@@ -1375,6 +1355,26 @@
       "duration_ms": 210372,
       "name": "Mujer del Desierto",
       "url": "https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms"
+    },
+    {
+      "added_at": "2022-07-25 03:37:28",
+      "album": {
+        "name": "JEVI",
+        "url": "https://open.spotify.com/album/44FI7VK0w4cqoj31ImZCCU"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Pa' Siempre No Es Na",
+      "url": "https://open.spotify.com/track/2KwvFhXURAAxJZ9OSfjVxO"
     },
     {
       "added_at": "2022-08-19 02:38:30",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf"
     },
     {
-      "added_at": "2023-01-04 01:42:46",
-      "album": {
-        "name": "12:21",
-        "url": "https://open.spotify.com/album/2cIv8xNIPWnD5WMogm6HMs"
-      },
-      "artists": [
-        {
-          "name": "Cruz Del Monte",
-          "url": "https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs"
-        }
-      ],
-      "duration_ms": 213344,
-      "name": "12:21",
-      "url": "https://open.spotify.com/track/1mSqoJ7bLK8sj3yMMQg9Kr"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Alianza Atl\u00e1ntica",
@@ -1443,6 +1427,38 @@
       "duration_ms": 269525,
       "name": "El Ciclo de las Mareas",
       "url": "https://open.spotify.com/track/4g4E7aFHAWqI6qBeSHfZ4G"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Loco Playa",
+        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
+    },
+    {
+      "added_at": "2023-01-04 01:42:46",
+      "album": {
+        "name": "12:21",
+        "url": "https://open.spotify.com/album/2cIv8xNIPWnD5WMogm6HMs"
+      },
+      "artists": [
+        {
+          "name": "Cruz Del Monte",
+          "url": "https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs"
+        }
+      ],
+      "duration_ms": 213344,
+      "name": "12:21",
+      "url": "https://open.spotify.com/track/1mSqoJ7bLK8sj3yMMQg9Kr"
     },
     {
       "added_at": "2022-07-25 03:37:28",
@@ -1475,22 +1491,6 @@
       "duration_ms": 164651,
       "name": "wepa (Eggglub Remix)",
       "url": "https://open.spotify.com/track/6jVVQxzirfORNRNUhzsJjl"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
-        "name": "Loco Playa",
-        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
       "added_at": "2022-08-08 21:56:18",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "El Vacile Del T\u00edo",
-        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 146496,
-      "name": "El Vacile Del T\u00edo",
-      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
         "name": "Aguacero",
         "url": "https://open.spotify.com/album/1Ex8LdVGuQV0TfLd9znmOW"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 235311,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "El Vacile Del T\u00edo",
+        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 146496,
+      "name": "El Vacile Del T\u00edo",
+      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
     },
     {
       "added_at": "2022-08-13 02:49:48",

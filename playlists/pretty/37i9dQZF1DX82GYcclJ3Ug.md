@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Cover: slowthai
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,956 likes - 126 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,106,127 likes - 126 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

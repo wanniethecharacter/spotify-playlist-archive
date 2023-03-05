@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-139 songs - 13 hr 28 min
+140 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Galaxias \(Radio Edit\)](https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Galaxias](https://open.spotify.com/album/30utofoN4gEgd6ulk1qXEP) | 3:56 | 2022-10-07 |  |
 | [Gimme 5](https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ) | [Gabriel Santiago](https://open.spotify.com/artist/2GTIa7Clthfpu7hivToeD4) | [Gimme 5](https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU) | 3:55 | 2021-02-12 |  |
 | [Go Ahead John \(2022 Remaster\)](https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Big Fun \(2022 Remaster\)](https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h) | 28:27 | 2021-02-12 |  |
-| [Goodbye for Now](https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe) | [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [The Description Is Not The Described](https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc) | 7:13 | 2022-02-11 |  |
+| [Goodbye for Now](https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe) | [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [The Description Is Not The Described](https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc) | 7:13 | 2022-02-11 | 2023-03-05 |
 | [Got A Match?](https://open.spotify.com/track/7AWlSSW5n7SXpFEWkRm2Wz) | [Chick Corea Elektric Band](https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf) | [The Chick Corea Elektric Band](https://open.spotify.com/album/2qkDoQ10ogP4S4tGAtHSZS) | 5:39 | 2021-02-12 | 2022-07-25 |
 | [Growing Up!](https://open.spotify.com/track/02PJJnPoA2IBc8KzfY9oGi) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [Growing Up!](https://open.spotify.com/album/3i45UQm0FWXa4kTRQNDvb6) | 4:20 | 2021-04-09 | 2022-07-27 |
 | [Growing Up!](https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [FLY! FLY! FLY!](https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH) | 4:20 | 2021-04-09 |  |
@@ -71,6 +71,7 @@
 | [jiriki](https://open.spotify.com/track/63vIR3Bp9BiTuXqUTC64UM) | [Sokoband](https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL) | [Sokoband](https://open.spotify.com/album/5NNkK4LPAccGITR29de0Zv) | 7:46 | 2021-02-12 | 2022-07-29 |
 | [JosHUA!](https://open.spotify.com/track/2EawGMU71NkLKgBMau09qE) | [Tangible Jazz Dreams](https://open.spotify.com/artist/6uFzhLZ9nAOJCSWT0RpFPN) | [Meltdown](https://open.spotify.com/album/5pCN9sKpemavxFuIqV1oXI) | 7:03 | 2022-04-01 | 2022-07-29 |
 | [K4Y](https://open.spotify.com/track/6lHAH1CHfFDO2vjahZNqFJ) | [Daniel Weiss](https://open.spotify.com/artist/1C1dIy1LMvY2twCVueCoCP), [Yaniv Taubenhouse](https://open.spotify.com/artist/5EmzSgnKdfQh0wEZ5aiGLo) | [K4Y](https://open.spotify.com/album/705VGnP2jRgbmW1cHKDhcD) | 8:29 | 2021-02-12 | 2022-07-29 |
+| [Keisha Billip](https://open.spotify.com/track/0CUs0BnOHeHz5BZGJRlvVY) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Ugh](https://open.spotify.com/album/7iNL3YVUTgEATEd1dU5s1q) | 4:22 | 2021-02-12 |  |
 | [Keisha Billip](https://open.spotify.com/track/0dPq960kuzrOCOTfj4M7Su) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Keisha Billip](https://open.spotify.com/album/70sAqcPrrvuTLywNpCJbdn) | 4:22 | 2021-02-12 | 2022-07-29 |
 | [Layers](https://open.spotify.com/track/33x06YtLX7JGoaxJqVKRZL) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j), [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE) | [Layers](https://open.spotify.com/album/61HTeENwsrXkQywUJBoE97) | 2:44 | 2023-01-06 |  |
 | [Legends](https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge) | [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [A Present For The Future](https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5) | 9:11 | 2021-02-12 |  |

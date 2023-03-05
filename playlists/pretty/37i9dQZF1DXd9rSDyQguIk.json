@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1043060,
+  "num_followers": 1043744,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMDc4ZmMxMDQ5YmIwZjdjYTNmYTk2Y2M5MTcwNzRmYTU1",
+  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMDdkNjVjOWI0MGRjMWUzOGIxNWE1N2JlM2QyOGI0NzU2",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -275,18 +275,18 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+        "name": "Bo Diddley",
+        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
       },
       "artists": [
         {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Hound Dog",
-      "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
+      "duration_ms": 164546,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -307,18 +307,18 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Bo Diddley",
-        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
       },
       "artists": [
         {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 164546,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
+      "duration_ms": 181000,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -641,26 +641,6 @@
       "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
     },
     {
-      "added_at": "2022-11-03 15:56:12",
-      "album": {
-        "name": "Inflation",
-        "url": "https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD"
-      },
-      "artists": [
-        {
-          "name": "Earnest Jackson",
-          "url": "https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm"
-        },
-        {
-          "name": "Sugar Daddy and the Gumbo Roux",
-          "url": "https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6"
-        }
-      ],
-      "duration_ms": 199734,
-      "name": "Inflation",
-      "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "The Essential Little Walter",
@@ -691,6 +671,26 @@
       "duration_ms": 194666,
       "name": "Big Chief - Remastered",
       "url": "https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX"
+    },
+    {
+      "added_at": "2022-11-03 15:56:12",
+      "album": {
+        "name": "Inflation",
+        "url": "https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD"
+      },
+      "artists": [
+        {
+          "name": "Earnest Jackson",
+          "url": "https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm"
+        },
+        {
+          "name": "Sugar Daddy and the Gumbo Roux",
+          "url": "https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6"
+        }
+      ],
+      "duration_ms": 199734,
+      "name": "Inflation",
+      "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
     },
     {
       "added_at": "2018-03-29 19:44:07",

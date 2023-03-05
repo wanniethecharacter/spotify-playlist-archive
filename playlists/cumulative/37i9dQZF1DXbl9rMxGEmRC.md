@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-347 songs - 1 day 6 hr 14 min
+349 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Götterdämmerung](https://open.spotify.com/track/6pXKSo89ne9mbPInCWk8dw) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/album/4lh0rl7eI2w9Rik8JECk9l) | 3:03 | 2022-06-10 |  |
 | [Hades](https://open.spotify.com/track/1acx35894eJWiwnjN7faXD) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Bathory](https://open.spotify.com/album/7DMuOFuYQbzoVgw4Cawf6L) | 2:50 | 2022-07-13 |  |
 | [Hamartia](https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hamartia](https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS) | 6:03 | 2022-09-16 |  |
+| [Hanged by My Hand](https://open.spotify.com/track/1mdTyzlaJo6P8CzeAM4iMq) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Hanged by My Hand](https://open.spotify.com/album/3SeBDjQIHpxvO8Te1OjbDy) | 3:13 | 2023-03-03 |  |
 | [Harvest Pyre](https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Outstrider](https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ) | 4:12 | 2022-07-13 |  |
 | [Haunted by Guilt](https://open.spotify.com/track/6vt2sAnAVzN0fPAa9hvFYU) | [Kalmah](https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF) | [Haunted by Guilt](https://open.spotify.com/album/7KTsCcLQtB09OhpulYMTmB) | 3:45 | 2023-02-23 |  |
 | [Hautavajo](https://open.spotify.com/track/67CJMg5WR3wuzfekNNWxj8) | [Vermilia](https://open.spotify.com/artist/7lNaiNaI2CNeEhFg7iSPRm) | [Hautavajo](https://open.spotify.com/album/5EREwAR0GtdmWrBc5Fgfad) | 5:32 | 2022-06-10 | 2022-07-23 |
@@ -188,6 +189,7 @@
 | [Kill for Satan](https://open.spotify.com/track/6iaN2Q0DOxOIAPPrI3R3KZ) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Kill for Satan](https://open.spotify.com/album/46ecBgtPpQZZsAdFaeuFn0) | 4:54 | 2022-07-13 | 2022-07-28 |
 | [KILLING PEOPLE FOR THE BETTERMENT OF THE PLANET](https://open.spotify.com/track/2KIFDLjfHIIkRum4fNmonY) | [Cxrpse](https://open.spotify.com/artist/69B0S7YBt4xKC2HCJMISyv) | [KILLING PEOPLE FOR THE BETTERMENT OF THE PLANET](https://open.spotify.com/album/0pOdTGdqc1p8iizWzoE64G) | 1:54 | 2022-11-25 | 2023-02-04 |
 | [Kingdom](https://open.spotify.com/track/0DfUFmR3IAi6qqXyStk0y9) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Kingdom](https://open.spotify.com/album/0YWKSnXJ6VUlc0rCGdfmZW) | 5:51 | 2022-08-26 | 2022-12-01 |
+| [Latrodectus](https://open.spotify.com/track/7u1Ng0a75DPuSQDnRL2whv) | [Blood Red Throne](https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4) | [Latrodectus](https://open.spotify.com/album/6Ii6CnoWpYAlwfoKACn6iH) | 4:22 | 2023-03-03 |  |
 | [Le cœur noir charbon](https://open.spotify.com/track/6SkVNR0kwbHBbBqNHRkhno) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [Le cœur noir charbon](https://open.spotify.com/album/1iEQyb7x4RuWNpQfbjGNo3) | 7:18 | 2022-01-14 | 2022-01-29 |
 | [Legion](https://open.spotify.com/track/6Q7tXH6CsjLRFnry2es67r) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Rapture](https://open.spotify.com/album/3LK4RzSqoZwzZ6rtEbOj1G) | 3:30 | 2022-05-27 | 2022-07-14 |
 | [Let the Devil In](https://open.spotify.com/track/56l9aTJffgtP3Kssrcb7Q6) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Let the Devil In](https://open.spotify.com/album/60KSJrOiVwx4rBFPjvEl9B) | 4:40 | 2022-01-07 | 2022-02-11 |
@@ -227,7 +229,7 @@
 | [Nosferatu](https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [We Are The Apocalypse](https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs) | 4:41 | 2022-03-18 | 2023-02-16 |
 | [Nova](https://open.spotify.com/track/0y5B4FwoB7yWQvgeXcc3gC) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nova](https://open.spotify.com/album/48KBRtfdI5mzRsoTuOKC13) | 4:36 | 2022-02-11 | 2022-03-19 |
 | [Nowhere, Still Somewhere](https://open.spotify.com/track/7C5IPnZ3qx9yobcFi4qwGA) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nowhere, Still Somewhere](https://open.spotify.com/album/45GeiEbVAqyGByCLuNMkfd) | 4:34 | 2021-12-17 | 2022-01-15 |
-| [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 | 2022-01-21 |  |
+| [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 | 2022-01-21 | 2023-03-05 |
 | [Of Blood and Tears](https://open.spotify.com/track/77CRIpEPQFDZAY4wOMACbh) | [Naraka](https://open.spotify.com/artist/7Js05ttQyRt4Pczu0F2LRo) | [In Tenebris](https://open.spotify.com/album/4ep3HzckKB6SLCbJUhq49v) | 5:24 | 2021-12-17 | 2022-05-21 |
 | [On the Shore of Eternity](https://open.spotify.com/track/6a8iR9C7Mi5Gkww7yOyoJE) | [Hanging Garden](https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN) | [Neither Moth nor Rust](https://open.spotify.com/album/1QVMTChYOhXsAyRC949Nkt) | 4:13 | 2022-01-21 | 2022-07-29 |
 | [One by One](https://open.spotify.com/track/65sql5o05skwJ6frSq4exl) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Sons of Northern Darkness](https://open.spotify.com/album/2CdmVpeV91e5nfN1kJ6hGj) | 4:58 | 2022-07-13 |  |
@@ -268,7 +270,7 @@
 | [Seance](https://open.spotify.com/track/71lFE7VKJwpeV7YhqgbATO) | [Black Royal](https://open.spotify.com/artist/33lkAv8r2X0dsr8AWzZ6MY) | [Seance](https://open.spotify.com/album/1aXSQVKyOk4gYUZPnC3eqN) | 4:46 | 2021-12-17 | 2022-03-11 |
 | [Seeds Of The Ancient Gods](https://open.spotify.com/track/1r9HG7xOQ2D51jYXuLWfwN) | [Old Man's Child](https://open.spotify.com/artist/4LT73i2bqTazQQkmODMaYf) | [Devil's Path / In The Shades Of Life](https://open.spotify.com/album/6kajasqy9oJmS8kacjAvJe) | 6:37 | 2022-07-13 | 2022-07-27 |
 | [Serimosa](https://open.spotify.com/track/7qrQXuknOcNnhSmFBPtaBn) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Serimosa](https://open.spotify.com/album/0gKXkdw3L4AXUKaXCmB9DP) | 5:26 | 2022-03-10 | 2022-04-02 |
-| [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 | 2022-07-13 |  |
+| [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 | 2022-07-13 | 2023-03-05 |
 | [Serpents](https://open.spotify.com/track/0wox07C2h9VVLmYoGwaFgZ) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Decade of Silence](https://open.spotify.com/album/0zImQSij3CAhYMlkGiCW78) | 5:50 | 2022-05-06 | 2022-07-21 |
 | [Sharpened Narcotics](https://open.spotify.com/track/2YtghqdRA401FXUwCYutF3) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Encased in Chrome](https://open.spotify.com/album/2dbMIDmPfffd0tO9hyjkNF) | 2:01 | 2022-03-18 | 2022-04-23 |
 | [She is a Fire](https://open.spotify.com/track/4y1FN6vpHYUAaJVEOsgCHp) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [She is a Fire](https://open.spotify.com/album/03xxDa7rJRB4fl7ZB2B5qg) | 5:22 | 2023-03-03 |  |

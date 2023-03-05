@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Peso Pluma y Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,609 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,804 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 29 | [Mañana](https://open.spotify.com/track/4KmDO4Jut1aQpoTe6wqwN5) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Su Majestad Mi Banda el Mexicano de Casimiro Zamudio](https://open.spotify.com/artist/6xpqO0zJHdy9pGoY7u0G8u) | [Muchas Noches, Buenas Gracias](https://open.spotify.com/album/5OEzYiqPv2GSi6RTemlNK7) | 3:48 |
 | 30 | [MOTEL CALIFORNIA](https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [MOTEL CALIFORNIA](https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO) | 3:33 |
 | 31 | [GANOSO](https://open.spotify.com/track/64vO7IfI68ijMIf7E6lXae) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb) | [GANOSO](https://open.spotify.com/album/0wbrQmvi4wMX8zwxS0Ic5F) | 3:26 |
-| 32 | [PUT@RIA!](https://open.spotify.com/track/7jVexMvXRY7rWIHTOqKs7G) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Gabriel do Borel](https://open.spotify.com/artist/3dgrX3A0KENfPK9nZFe3nU), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:12 |
+| 32 | [PUT@RIA!](https://open.spotify.com/track/7jVexMvXRY7rWIHTOqKs7G) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:12 |
 | 33 | [TE EXO DE MENOS :\(](https://open.spotify.com/track/72d8QGh77awoqnxiAOFRMI) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TE EXO DE MENOS :\(](https://open.spotify.com/album/2nl4PR8ItbHzzjmhmW1m3p) | 2:31 |
 | 34 | [Sé Que Recuerdas](https://open.spotify.com/track/0G4HpZod8ySWzUZqOq2Ool) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Opi the Hit Machine](https://open.spotify.com/artist/5VHv8HRkyW4zmhoYXu476k), [Ruso Beats](https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe) | [Sé Que Recuerdas](https://open.spotify.com/album/1fJJHgGzPSQHM0rCVhXLqp) | 2:53 |
 | 35 | [Grasa](https://open.spotify.com/track/5I7mtkXK8m8hJgkbZD9a9C) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Grasa](https://open.spotify.com/album/0vrIWNJOBQ3BG7NQblMXOU) | 3:17 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 52 | [Daniboy](https://open.spotify.com/track/6fG5gbxzLKSYArNNQxaRIJ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Daniboy](https://open.spotify.com/album/39dJCiAZddTJMm08YFn6nW) | 3:34 |
 | 53 | [Freelance](https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1\)](https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex) | 3:17 |
 | 54 | [Top Rank](https://open.spotify.com/track/06Ikc0xyxc62eJ7LSIrZC3) | [Eptos Uno](https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK) | [Top Rank](https://open.spotify.com/album/20YVpil3sY0AZLfoNAySuS) | 2:05 |
-| 55 | [A la playa](https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [A la playa](https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU) | 3:13 |
+| 55 | [A La Playa](https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [A La Playa](https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU) | 3:13 |
 | 56 | [Piscis](https://open.spotify.com/track/528kxaIqmOEng6tMhBF0vb) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7) | [Piscis](https://open.spotify.com/album/7DZwQifNiCy2n3vhhlpVba) | 2:41 |
 | 57 | [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. 1](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 |
 | 58 | [Decídete](https://open.spotify.com/track/6GmkSHOahQqNVA3E6ksPt9) | [ONIX](https://open.spotify.com/artist/0YMk9b6Lijw7f6PVUknCKn), [castleurbano](https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws) | [Decídete](https://open.spotify.com/album/6rDZVOEdCqF2MsotektjzM) | 2:43 |

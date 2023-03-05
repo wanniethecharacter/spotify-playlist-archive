@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2010s.",
-  "num_followers": 32702,
+  "num_followers": 32723,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg3NjA0NywwMDAwMDAwMDY3ZTg3NWM2MGU2ZTE3MWI3Zjc2N2U1YzkwYjA0MzRj",
+  "snapshot_id": "MTY3Mzg3NjA0NywwMDAwMDAwMGY4Y2U4ZmYyM2I0Y2ZjYWNkOTU3N2QwYzhiY2I0OWNl",
   "tracks": [
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1631,18 +1631,26 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "A Bad Girl In Harlem",
-        "url": "https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI"
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
       "artists": [
         {
-          "name": "New Politics",
-          "url": "https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 163626,
-      "name": "Harlem",
-      "url": "https://open.spotify.com/track/573latfTMO7SpGtStVrQx5"
+      "duration_ms": 209120,
+      "name": "BLOW (with Chris Stapleton & Bruno Mars)",
+      "url": "https://open.spotify.com/track/7hvO2qCwJVZxiyoA7c9i5d"
     }
   ],
   "unique_name": "10s Summer Rock",

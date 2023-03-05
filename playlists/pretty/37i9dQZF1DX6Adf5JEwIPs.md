@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Oscar Maydon & Gerardo Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,810 likes - 52 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,848 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 45 | [El Johnny](https://open.spotify.com/track/1vaGux5X47EaAiL0JekOF2) | [Victor Eme](https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6) | [El Johnny](https://open.spotify.com/album/3wvzIspKriklM8g4zgyrLs) | 3:33 |
 | 46 | [Mi Historia](https://open.spotify.com/track/7M9KTxOQ5rIXM5SL0isoht) | [Indalfer Ochoa](https://open.spotify.com/artist/32eMbHNJ7S17YKRycVbR80), [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Mi Historia](https://open.spotify.com/album/5aG0iuKVtUYvAs6xuh6RYO) | 3:21 |
 | 47 | [Empezar de cero](https://open.spotify.com/track/5m5ojBqyoHEUHiF1gWPyNT) | [Los Gfez](https://open.spotify.com/artist/21oKCrUHWbio1GrIP6zpcF) | [Empezar de cero](https://open.spotify.com/album/6s2pwomAhJTvSFXc0XV7cF) | 3:11 |
-| 48 | [Sabes Amor](https://open.spotify.com/track/7zwAQODl8Q7sTgXv3adOnI) | [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t), [Manuel Reza](https://open.spotify.com/artist/5Myyjo1fqz0iYDLVew4qVl) | [Sabes Amor](https://open.spotify.com/album/3fCHv8RaBmhQ73ktg1OUjC) | 3:08 |
+| 48 | [Sabes Amor](https://open.spotify.com/track/7zwAQODl8Q7sTgXv3adOnI) | [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t) | [Sabes Amor](https://open.spotify.com/album/3fCHv8RaBmhQ73ktg1OUjC) | 3:08 |
 | 49 | [Tu](https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl) | [Panchito Vega](https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg) | [Tu](https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE) | 4:15 |
 | 50 | [El Corrido de el Balín](https://open.spotify.com/track/1Y8Xbf4UQBfQsWA4k3c00x) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [El Corrido de el Balín](https://open.spotify.com/album/3fo11trYhFuXHfGKvoj7Ay) | 3:08 |
 | 51 | [Tus Fotos](https://open.spotify.com/track/4C4USvr4GemqacUhUZ3Km9) | [Ehlyan Chacon](https://open.spotify.com/artist/2D2fre4AIeXh7bw4oo2A5V) | [Tus Fotos](https://open.spotify.com/album/6pWbGCNM2ebZP0Ja7xWAhu) | 2:36 |

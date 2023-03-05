@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "The Closest Thing to Home",
+        "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
+      },
+      "artists": [
+        {
+          "name": "Ira Wolf",
+          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241240,
+      "name": "Great Divide",
+      "url": "https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl"
+    },
+    {
+      "album": {
         "name": "Sugarcoated",
         "url": "https://open.spotify.com/album/4505aBIeu5JcRNKg3nFQbt"
       },
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 198048,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/0NjexykT4mTFDYGnGLFFby"

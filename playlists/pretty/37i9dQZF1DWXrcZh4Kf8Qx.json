@@ -1,12 +1,12 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 204828,
+  "num_followers": 205058,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY4MTQ5NiwwMDAwMDAwMGZiZWM0ZWZkOGQ3ZmIxOTBiZDFjNjU5NThkYWRkNWFh",
+  "snapshot_id": "MTY3MjY4MTQ5NiwwMDAwMDAwMGQ2ZDc1NjIzYWEyYTJmNDdmYWEyNzNhNDg3YjNmNzk3",
   "tracks": [
     {
       "added_at": "2023-01-02 17:44:56",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+        "name": "Eric Carmen",
+        "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
         }
       ],
-      "duration_ms": 176093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
+      "duration_ms": 430000,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
     }
   ],
   "unique_name": "70s Ballads",

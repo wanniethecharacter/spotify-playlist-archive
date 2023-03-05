@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 145550,
+  "num_followers": 145712,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQzMTUxNiwwMDAwMDAwMDZmYmRmNmMzM2M3NzQwYTBiOTIwOGEwOTkzMTc4OTRm",
+  "snapshot_id": "MTY3MjQzMTUxNiwwMDAwMDAwMGU1ZTNiMTAyMTFmYzY4YWYzZGFhNTU1ZThkODE0YjU3",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Exitos Bailables",
-        "url": "https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo"
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
+        "url": "https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM"
       },
       "artists": [
         {
-          "name": "German Carre\u00f1o Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/6Jd6ScenyoH7n1kvMeLmUY"
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
         }
       ],
-      "duration_ms": 282746,
-      "name": "Vestida De Blanco",
-      "url": "https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2"
+      "duration_ms": 261472,
+      "name": "Punta a Punta",
+      "url": "https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "Exitos Bailables",
+        "url": "https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo"
+      },
+      "artists": [
+        {
+          "name": "German Carre\u00f1o Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/6Jd6ScenyoH7n1kvMeLmUY"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Vestida De Blanco",
+      "url": "https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "Viva Rosario",
         "url": "https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 301010,
       "name": "Anuncio Clasificado / D\u00e1melo",
       "url": "https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
-        "url": "https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 261472,
-      "name": "Punta a Punta",
-      "url": "https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 266013,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 327466,
       "name": "Bambol\u00e9o",
       "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 266013,
-      "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "Serie 32: Frankie Ruiz",
+        "url": "https://open.spotify.com/album/0c4wf1zsEMYxgMuz9J0gnf"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 322493,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/7zwGJg9R0rjP9ttda4PAaK"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "El Sonero Del Pueblo",
         "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 313533,
       "name": "Tu",
       "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Serie 32: Frankie Ruiz",
-        "url": "https://open.spotify.com/album/0c4wf1zsEMYxgMuz9J0gnf"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 322493,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/7zwGJg9R0rjP9ttda4PAaK"
     },
     {
       "added_at": "2022-12-30 20:18:36",

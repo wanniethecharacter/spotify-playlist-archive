@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Ghetto Kids en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,495 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,499 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 36 | [Maldita Urgencia](https://open.spotify.com/track/5fhriWk2qGy6ZopaKcek6g) | [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Maldita Urgencia](https://open.spotify.com/album/4j3yFFcDocw8Da3MKxPFy9) | 2:58 |
 | 37 | [Hollywood](https://open.spotify.com/track/6viV9n8f7e3peUY3od4jyj) | [Zailor](https://open.spotify.com/artist/6vr59vSBFI4Xp4qs1Hbilt) | [Hollywood](https://open.spotify.com/album/2JIAfuvQfZRpCSxAVxb4Og) | 3:00 |
 | 38 | [Salvaje](https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2) | [Salvaje](https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb) | 2:57 |
-| 39 | [Viaje](https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW) | [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl), [Elvis de Yongol](https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg) | [Viaje](https://open.spotify.com/album/2Aj0hl0s4JqVMOgMnSUWlI) | 3:24 |
-| 40 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 |
+| 39 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 |
+| 40 | [Viaje](https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW) | [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl), [Elvis de Yongol](https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg) | [Viaje](https://open.spotify.com/album/2Aj0hl0s4JqVMOgMnSUWlI) | 3:24 |
 | 41 | [Las de Octubre](https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Las de Octubre](https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td) | 2:45 |
 | 42 | [Canciones de Don](https://open.spotify.com/track/578E0MbbgdwDuUTqpWbeOD) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Canciones de Don](https://open.spotify.com/album/0S6czlAGW5ByZaUEKCKVzz) | 2:44 |
 | 43 | [GYAL](https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ) | [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Birat Bitz](https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b) | [ICE BLUE](https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU) | 2:54 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 54 | [Tranqui](https://open.spotify.com/track/4A8ygVU8Ot3KTW2alLZ8Eq) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Tranqui](https://open.spotify.com/album/28zn44cRESEcsvG37DUfpS) | 2:32 |
 | 55 | [Gato](https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Gato](https://open.spotify.com/album/2HcRhz4R3wDDsZ0hmGLbxd) | 2:44 |
 
-Snapshot ID: `MTY3Nzg1OTEyNCwwMDAwMDAwMGUxN2VkMDJkNTc2MmMzYzViNmQ1NGUxNGFhZWFlMzM0`
+Snapshot ID: `MTY3Nzg1OTEyNCwwMDAwMDAwMDRiODIxOWIyOTkwODQwYTM0NTRmZDE0ZmRhMzRiMmU3`

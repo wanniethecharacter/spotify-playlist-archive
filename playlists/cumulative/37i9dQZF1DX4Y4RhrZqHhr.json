@@ -763,6 +763,28 @@
     },
     {
       "album": {
+        "name": "2010s Hits",
+        "url": "https://open.spotify.com/album/5jdzXYmv7zWMdoJzcXrFQ9"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225881,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/7mdNKXxia7AeSuJqjjA2rb"
+    },
+    {
+      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -4596,7 +4618,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 198774,
       "name": "Just Hold On",
       "url": "https://open.spotify.com/track/508oFmt92FyICj6pZiWQwC"

@@ -125,6 +125,32 @@
     },
     {
       "album": {
+        "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) [Remix]",
+        "url": "https://open.spotify.com/album/3exzx1IVqyCAnrTsxq5X0r"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        },
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) - Remix",
+      "url": "https://open.spotify.com/track/3912lxLhe5pgqJafrqrxK8"
+    },
+    {
+      "album": {
         "name": "Billion Dollar Bitch (feat. Yung Baby Tate)",
         "url": "https://open.spotify.com/album/3fuXDz3sxWe8k9Ny9iqB0O"
       },
@@ -1180,7 +1206,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 153233,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/3oFlyenXjgsCoLCO90sAdY"

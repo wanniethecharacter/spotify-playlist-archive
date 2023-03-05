@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 336378,
+  "num_followers": 336626,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMGZkZDgyMjU1ODJkNzhmM2Y5YWVhZDk3OTBiODUzZWU2",
+  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMDVjNmZhMmIxYjkzYmEwOGI1MWRjZjQ2MDM2YjNhNDE1",
   "tracks": [
     {
       "added_at": "2022-04-15 03:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
-      },
-      "artists": [
-        {
-          "name": "Giselli Cristina",
-          "url": "https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B"
-        }
-      ],
-      "duration_ms": 287826,
-      "name": "Meu Barquinho",
-      "url": "https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "O Fogo Nunca Dorme",
         "url": "https://open.spotify.com/album/4fYvh8xIVzIoW03vdKCbei"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 360187,
       "name": "Quero Conhecer Jesus",
       "url": "https://open.spotify.com/track/7vbGO3jX627bSq7rgTeWfJ"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
+      },
+      "artists": [
+        {
+          "name": "Giselli Cristina",
+          "url": "https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B"
+        }
+      ],
+      "duration_ms": 287826,
+      "name": "Meu Barquinho",
+      "url": "https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Toque no Altar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4z8nrTvi5M7jhEKmxhWhc5"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 324853,
-      "name": "Te Louvarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4AgLJxOkacISI93JYPNUtp"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Me Leva Pra Casa",
         "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 465885,
       "name": "Me Leva Pra Casa",
       "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Compromisso",
+        "url": "https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+        }
+      ],
+      "duration_ms": 324013,
+      "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Compromisso",
-        "url": "https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w"
+        "name": "Toque no Altar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4z8nrTvi5M7jhEKmxhWhc5"
       },
       "artists": [
         {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
         }
       ],
-      "duration_ms": 324013,
-      "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
+      "duration_ms": 324853,
+      "name": "Te Louvarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4AgLJxOkacISI93JYPNUtp"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Tudo \u00e9 Poss\u00edvel",
+        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 395435,
+      "name": "Tudo \u00e9 Poss\u00edvel",
+      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Minha Vez",
         "url": "https://open.spotify.com/album/4HmlhmVJO7Oam2I4LYzH9j"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 495026,
       "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
       "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Tudo \u00e9 Poss\u00edvel",
-        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 395435,
-      "name": "Tudo \u00e9 Poss\u00edvel",
-      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "Volte a Sonhar",
-      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Aba (Ao Vivo)",
         "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 239211,
       "name": "Prioridade",
       "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "Volte a Sonhar",
+      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -983,18 +983,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
+        "name": "Sou Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Fx1gxZTg4x5mG90SY3l4H"
       },
       "artists": [
         {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+          "name": "Elizeu Alves",
+          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
+        },
+        {
+          "name": "Andr\u00e9 Aquino",
+          "url": "https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq"
         }
       ],
-      "duration_ms": 277680,
-      "name": "Mesmo Sem Entender - Ao Vivo",
-      "url": "https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o"
+      "duration_ms": 275110,
+      "name": "Sou Casa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5TRRTSIsEzdxjG56pKBXvi"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1015,22 +1019,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Sou Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Fx1gxZTg4x5mG90SY3l4H"
+        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
       },
       "artists": [
         {
-          "name": "Elizeu Alves",
-          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
-        },
-        {
-          "name": "Andr\u00e9 Aquino",
-          "url": "https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq"
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         }
       ],
-      "duration_ms": 275110,
-      "name": "Sou Casa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5TRRTSIsEzdxjG56pKBXvi"
+      "duration_ms": 277680,
+      "name": "Mesmo Sem Entender - Ao Vivo",
+      "url": "https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Tudo a Ver Com Ele",
-        "url": "https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn"
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
       "artists": [
         {
-          "name": "Central 3",
-          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 385063,
-      "name": "Tudo a Ver Com Ele",
-      "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
+      "duration_ms": 260620,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+        "name": "Tudo a Ver Com Ele",
+        "url": "https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Central 3",
+          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
         }
       ],
-      "duration_ms": 260620,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
+      "duration_ms": 385063,
+      "name": "Tudo a Ver Com Ele",
+      "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
     },
     {
       "added_at": "2022-04-15 03:00:00",

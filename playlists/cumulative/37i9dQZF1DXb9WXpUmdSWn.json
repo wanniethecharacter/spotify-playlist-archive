@@ -530,6 +530,24 @@
     {
       "album": {
         "name": "One of My Kind",
+        "url": "https://open.spotify.com/album/5tRoHoiezNYHMDwJpLRMY5"
+      },
+      "artists": [
+        {
+          "name": "Conor Oberst and the Mystic Valley Band",
+          "url": "https://open.spotify.com/artist/2BoOe7KEtWpXqnfs8yaj1V"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248866,
+      "name": "Kodachrome",
+      "url": "https://open.spotify.com/track/4KLG9hVIbmbjg3BZIl2dGh"
+    },
+    {
+      "album": {
+        "name": "One of My Kind",
         "url": "https://open.spotify.com/album/1xRNt5fAKXrMG0L8JBXQHo"
       },
       "artists": [
@@ -544,7 +562,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 248866,
       "name": "Kodachrome",
       "url": "https://open.spotify.com/track/6uPUACLG1QledvvJRdIVeH"

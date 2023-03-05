@@ -558,7 +558,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 184421,
       "name": "Desastre Comunal",
       "url": "https://open.spotify.com/track/1FzcH0boI4wvlUvjnQxf0l"
@@ -1314,6 +1314,24 @@
       "duration_ms": 213314,
       "name": "Johnny - Espa\u00f1ol",
       "url": "https://open.spotify.com/track/7MpNJk4yOU2A8nHm3EVFfv"
+    },
+    {
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179191,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
     },
     {
       "album": {

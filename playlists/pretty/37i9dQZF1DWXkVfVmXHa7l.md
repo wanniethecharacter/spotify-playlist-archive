@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXkVfVmXHa7l.md) - [plain]
 
 > Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,309 likes - 52 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,295 likes - 52 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [エレン・イェーガーからのスペシャルメッセージ!](https://open.spotify.com/track/4iCqnOP7H0CW1uJHMFoKzb) | [TVアニメ「進撃の巨人」](https://open.spotify.com/artist/1fAOhUHFKEY4ublVIH8saI) | [「進撃の巨人」エレン・イェーガーからのスペシャルメッセージ!](https://open.spotify.com/album/3c9hxI2scBzDg0HcIgzCDK) | 0:40 |
-| 2 | [UNDER THE TREE](https://open.spotify.com/track/0KmCtn8UBbqidcIRduzARB) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [UNDER THE TREE](https://open.spotify.com/album/5lCwl44IhsSbBkQFAxgrFk) | 2:01 |
+| 2 | [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 |
 | 3 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 |
 | 4 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 |
 | 5 | [Footsteps of Doom](https://open.spotify.com/track/1wzZ9SaE5PYW5jps5q1c24) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Attack On Titan The Final Season Original Soundtrack 02](https://open.spotify.com/album/6ZhZFePX82sWsRzKMdaprL) | 5:06 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXkVfVmXHa7l.md) - [plain]
 | 51 | [Jiyuu no Daishou](https://open.spotify.com/track/0Cd4mvL1nALj6QCCk2wpHf) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:49 |
 | 52 | [The Dogs](https://open.spotify.com/track/41FVSWUDLLOQok5DZLvKuy) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 4:35 |
 
-Snapshot ID: `MTY3Nzg1NTYwMCwwMDAwMDAwMDc2YTljMDdiNTAxNjQzNzJlZGExOGUxMWIwNTgxOTY4`
+Snapshot ID: `MTY3Nzg1NTYwMCwwMDAwMDAwMGYxY2M1MmIxOWM3MjhhZjk5YzdkZjQ2OWJkNWNlZDU0`

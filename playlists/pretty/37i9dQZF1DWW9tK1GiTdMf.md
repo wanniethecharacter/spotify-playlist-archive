@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > 🎸 canzoni da gridare e in cover nessa barrett 🎸
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,507 likes - 77 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,518 likes - 77 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 22 | [F.B.F.M.](https://open.spotify.com/track/2qYrm20YLABT5JJfAhr1SG) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [F.B.F.M.](https://open.spotify.com/album/1EUcFHuEtHGbzDv43L5WK0) | 3:08 |
 | 23 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 |
 | 24 | [DUEMILADUE](https://open.spotify.com/track/2Gus1ytU3SbxiXoMu60cfa) | [Schianta](https://open.spotify.com/artist/5RuBmTwAQniQinysSScGmB), [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM) | [DUEMILADUE](https://open.spotify.com/album/4vDxZ4y2OsrKbr4LMebir7) | 3:40 |
-| 25 | [L'anima balla](https://open.spotify.com/track/65NR4YkJwlGhOtCwZMMAen) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [L'anima balla](https://open.spotify.com/album/20t4Fh0OdFRgEUQwpiTE7D) | 2:36 |
+| 25 | [L'anima balla](https://open.spotify.com/track/65NR4YkJwlGhOtCwZMMAen) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [L'anima balla](https://open.spotify.com/album/20t4Fh0OdFRgEUQwpiTE7D) | 2:36 |
 | 26 | [Ragazzi Fuori](https://open.spotify.com/track/1URSGryUXiYhr3StdCCKZw) | [7 Giorni](https://open.spotify.com/artist/2gKp9MmLyGNtwTI5qCj3qz) | [Ragazzi Fuori](https://open.spotify.com/album/0MDH9w5buwGrFj11nKwfgt) | 2:47 |
 | 27 | [Posso Tenerti Con Me](https://open.spotify.com/track/0SpalTBYUi9tZ66Ack8GcT) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU), [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Posso Tenerti Con Me](https://open.spotify.com/album/1yJSX28RfmbnlkCLD2gyfJ) | 3:09 |
 | 28 | [FUORIDIME](https://open.spotify.com/track/6ZC2Sv5co4loN56vNCu6P3) | [TRXGEDY](https://open.spotify.com/artist/3mGyYTyj35j8NaKCQ5qHoH) | [FUORIDIME](https://open.spotify.com/album/0adWUYu4glGE02GByMewcd) | 2:35 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BRIGHT
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,151 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,304 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ลังเล](https://open.spotify.com/track/592XwpszQAW8olTXXIesls) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ลังเล](https://open.spotify.com/album/1BX9k3e5SqOAY9nBGEYUhp) | 3:46 |
-| 2 | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/album/38OWVUcsVAJjPXUdgGUpNd) | 3:25 |
-| 3 | [รู้กันแค่นี้ \- mint](https://open.spotify.com/track/6ck9dK5Wh0lZvvBsX49HZD) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [รู้กันแค่นี้ \(mint\)](https://open.spotify.com/album/3qyFShIWhPpf4lgxZ1EaWE) | 3:36 |
-| 4 | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/track/13p7WgSfNUXKmWUjskWtSW) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/album/6OLZ8YxFlH5RF0j0ZCRd9y) | 3:19 |
+| 1 | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/track/13p7WgSfNUXKmWUjskWtSW) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/album/6OLZ8YxFlH5RF0j0ZCRd9y) | 3:19 |
+| 2 | [ลังเล](https://open.spotify.com/track/592XwpszQAW8olTXXIesls) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ลังเล](https://open.spotify.com/album/1BX9k3e5SqOAY9nBGEYUhp) | 3:46 |
+| 3 | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/album/38OWVUcsVAJjPXUdgGUpNd) | 3:25 |
+| 4 | [รู้กันแค่นี้ \- mint](https://open.spotify.com/track/6ck9dK5Wh0lZvvBsX49HZD) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [รู้กันแค่นี้ \(mint\)](https://open.spotify.com/album/3qyFShIWhPpf4lgxZ1EaWE) | 3:36 |
 | 5 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 |
 | 6 | [เพื่อนดีเด่น \(BEST FRIEND 4EVER\)](https://open.spotify.com/track/0dB8mLoawZ04XoJRewGiqj) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เพื่อนดีเด่น \(BEST FRIEND 4EVER\)](https://open.spotify.com/album/6ZmUUmhdfsGDdd1nUG0v7P) | 3:27 |
 | 7 | [เถียงเก่ง \(Bad Mouth\)](https://open.spotify.com/track/5yvRKTDlHFLjAJ34TlazlN) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เถียงเก่ง \(Bad Mouth\) \[feat\. UrboyTJ\]](https://open.spotify.com/album/1RwPXnOxs97fKVZy572vvo) | 3:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 59 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 |
 | 60 | [วัดปะหล่ะ? \(TEST ME\)](https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [The First Album](https://open.spotify.com/album/1QSQt7RmnYE2s0IMWxKG5q) | 3:40 |
 
-Snapshot ID: `MTY3Nzc4MTg0NCwwMDAwMDAwMGRlMWEyMjcyYzJmNTE4ZjcyZTg5MzI2MWI2NGYwMGM1`
+Snapshot ID: `MTY3NzkzNjM3NywwMDAwMDAwMDhhNTZmN2ZlMDU1MTRlYWFiYzE5NGY3NWJjODU0Y2E2`

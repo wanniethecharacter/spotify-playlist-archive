@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,530 likes - 108 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,569 likes - 108 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 52 | [Nee Oli](https://open.spotify.com/track/5ZrQwvzjmKWnrG1bKk4t13) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm) | [Nee Oli](https://open.spotify.com/album/4aF2eczsQ9eLheYM79lew6) | 3:50 |
 | 53 | [Adiye Sonali](https://open.spotify.com/track/1wF5Lmm1YHSbLqR4IQjBzY) | [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE) | [Adiye Sonali](https://open.spotify.com/album/17Y3GJG8q0KW5YAoFfhRbt) | 1:00 |
 | 54 | [Kadha Sollava](https://open.spotify.com/track/1zAobZROnbDbk2MMAWawlv) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Kadha Sollava](https://open.spotify.com/album/3HwA1iOHHKW55oDd6ns9Qt) | 2:48 |
-| 55 | [Manadhooram](https://open.spotify.com/track/6Zcz4HJ0b6f3t1iDaA3Erg) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Lal Krishna](https://open.spotify.com/artist/6T9d3iP4qFaKzPATYC0lYE) | [Manadhooram](https://open.spotify.com/album/2aH0VNj51zVHzk9hWk83Ap) | 2:41 |
+| 55 | [Manadhooram](https://open.spotify.com/track/6Zcz4HJ0b6f3t1iDaA3Erg) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Anish Kunjumon](https://open.spotify.com/artist/3Ecof7p2OzxEKLzBSc23cr) | [Manadhooram](https://open.spotify.com/album/2aH0VNj51zVHzk9hWk83Ap) | 2:41 |
 | 56 | [Kannil Veesum](https://open.spotify.com/track/5Csa0chWVHlZAKDIGKmYkG) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Kannil Veesum](https://open.spotify.com/album/0k9njB0P9brJuvg3tkEEcQ) | 4:00 |
 | 57 | [Sadugudu Sadugudu](https://open.spotify.com/track/3udIFY3400VmyKmUWteuM5) | [Krishna Kumar](https://open.spotify.com/artist/5tZcEf1A05HXjuROID5h32), [Ajaey Shravan](https://open.spotify.com/artist/3U1ldHA1sIAPz4WfN3yJDW), [Bamba Bakiya](https://open.spotify.com/artist/4nC62crROohMqhekvn3Uoy) | [Sadugudu Sadugudu](https://open.spotify.com/album/3L9YISokNe5HFlEbQRx77a) | 3:40 |
 | 58 | [Kannaamoochi](https://open.spotify.com/track/3PsFYwXnytC7hR2Ev23oLq) | [Anand Sudhan](https://open.spotify.com/artist/7j3EpyzdP3GTNT1wEkqqMo), [Yajeevan](https://open.spotify.com/artist/70cWAz6LxWVbbYiTsMXTWr), [Krishna Kumary](https://open.spotify.com/artist/3HpH2sE2VtmIVGLEsYE0eI) | [Kannaamoochi](https://open.spotify.com/album/5UbrVTI1I3deiyXCa55X5s) | 3:36 |

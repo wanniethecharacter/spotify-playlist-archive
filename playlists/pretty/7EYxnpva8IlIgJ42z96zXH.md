@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,545 likes - 50 songs - 2 hr 36 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,542 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 47 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 |
 | 48 | [Days Like This](https://open.spotify.com/track/7ekGdD9l1YWFUngF9jVKcf) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Days Like This](https://open.spotify.com/album/6WV1Mmy9a5kmJkbDBicdLx) | 2:26 |
 | 49 | [Blessed](https://open.spotify.com/track/5Sqcm0TFvJd0SDDgrWgFSa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Blessed](https://open.spotify.com/album/5HHocvYdlIP6aEJZ6SDtkn) | 2:42 |
-| 50 | [Ki\-Ki \(feat\. ENNY\)](https://open.spotify.com/track/35REVjW2vGqWclKAtI1PqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Ki\-Ki \(feat\. ENNY\)](https://open.spotify.com/album/0t8GA7Bcs9mmlp3gqakWDX) | 2:20 |
+| 50 | [Ki\-Ki](https://open.spotify.com/track/35REVjW2vGqWclKAtI1PqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Ki\-Ki](https://open.spotify.com/album/0t8GA7Bcs9mmlp3gqakWDX) | 2:20 |
 
 Snapshot ID: `MjUxNyxhYjlmMTczMGY5NjUyNzVmYmQ4YWRiOTVjYjZkMjhkNTUwOTRkMTUx`

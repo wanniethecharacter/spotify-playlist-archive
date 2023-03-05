@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: BreezyLYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,924 likes - 65 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,953 likes - 65 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 19 | [Jezus](https://open.spotify.com/track/05wARYu1q6uUQKVxIiibct) | [Young Wabo](https://open.spotify.com/artist/6LbaaYyU43cIURZY9axhTE), [EAGZ580](https://open.spotify.com/artist/5HjiUevkVoIYCQ4Zcebnzl) | [Jezus](https://open.spotify.com/album/37BmeHaTqYeCKDCfDeU12o) | 2:04 |
 | 20 | [Busy](https://open.spotify.com/track/4wmkT0Amgglm4IPiUBZYi5) | [Kayykilo](https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG) | [Busy](https://open.spotify.com/album/6DVYVbOgVnCyndbmhx4bH4) | 2:56 |
 | 21 | [Big Bad Wolf](https://open.spotify.com/track/5QccbFykzI4ePpTCXx6Z0l) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX) | [Big Bad Wolf](https://open.spotify.com/album/040VJW8GgJQW9QHsVXajxc) | 3:24 |
-| 22 | [Pay 2 Play](https://open.spotify.com/track/55EUd4JKBvVdzqqja0SvYZ) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [4eva In My Bag \(Deluxe\)](https://open.spotify.com/album/2w7oPQogQpX0YVGOqvmTCm) | 2:16 |
+| 22 | [Pay 2 Play](https://open.spotify.com/track/75Aulubu1vDk9qYLkDn2DB) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [4eva In My Bag \(Deluxe\)](https://open.spotify.com/album/6WwJ1POM4DxE9GvdFHNCPl) | 2:16 |
 | 23 | [I Ain't Going Lie](https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [I Ain't Going Lie](https://open.spotify.com/album/3VT1FKvrbCv2FHIu5SdTCs) | 2:13 |
 | 24 | [Not Done](https://open.spotify.com/track/3CIbNHRrvqjgmWBCKe7bb8) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Not Done](https://open.spotify.com/album/00UOEFTRkKG1nvtD5Gh0pC) | 2:36 |
 | 25 | [This Is Why You Shouldn't Do Drugs](https://open.spotify.com/track/1KAsGLVdOWY6nxL1pNN0Xd) | [Cocanina](https://open.spotify.com/artist/6Jwx0B8JhSuBMy5ZBz7GIk) | [This Is Why You Shouldn't Do Drugs](https://open.spotify.com/album/7vqqJ4x520tM6sC1mFD7Ul) | 2:15 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 64 | [Trippin For No Reason](https://open.spotify.com/track/3qNBU8uyznXSeYaKRBhrmA) | [Rallyb](https://open.spotify.com/artist/5HwdNPbGU9sjjR1Eu9QhJw), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Trippin For No Reason](https://open.spotify.com/album/19AZlqiXP3YjRqUaj9s3tT) | 2:19 |
 | 65 | [No Cap Pt\. 2 \(feat\. Fredo Bang\)](https://open.spotify.com/track/74kpb349Y0Rnu2U489O9e8) | [Shoebox Baby](https://open.spotify.com/artist/3GXyMzBhozW9CaHPg54y9f), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [It Aint Over](https://open.spotify.com/album/1qTOiYn4ynjph6yXJ7TeH4) | 2:37 |
 
-Snapshot ID: `MTY3NzY5MDAwMCwwMDAwMDAwMDg5OWIxNmMzMjA1MTI0NzQ3MDllZGZjZjk2NzNmOTM3`
+Snapshot ID: `MTY3NzY5MDAwMCwwMDAwMDAwMDk4ZmZkZjNjYTNlNTJjZTQ4MTczMzk2MzQ1ZjhjNzUw`

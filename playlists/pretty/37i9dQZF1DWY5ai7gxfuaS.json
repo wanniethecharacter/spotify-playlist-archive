@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 221019,
+  "num_followers": 221267,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMGVmMTQ0MzFkY2I5OThjMWNjYTgyODQyNmM1MzMyZWVh",
+  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMDJjZmM4MGYzOTU5OTM2ODIyNDE0YjY3YmUzNTE2Zjhk",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -273,6 +273,22 @@
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
     },
     {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Handshakes With Snakes",
+        "url": "https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "duration_ms": 117857,
+      "name": "Handshakes With Snakes",
+      "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
+    },
+    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "FAIRY PHONK",
@@ -325,22 +341,6 @@
       "url": "https://open.spotify.com/track/34QE6KRYpX1GCnbhJ4Hqhx"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Handshakes With Snakes",
-        "url": "https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD"
-      },
-      "artists": [
-        {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
-        }
-      ],
-      "duration_ms": 117857,
-      "name": "Handshakes With Snakes",
-      "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
-    },
-    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "Dead World",
@@ -371,6 +371,22 @@
       "duration_ms": 206617,
       "name": "I Wish A Bitch Would",
       "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "FAIRY METAL",
+        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 161318,
+      "name": "FAIRY METAL",
+      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -419,22 +435,6 @@
       "duration_ms": 174758,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "FAIRY METAL",
-        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 161318,
-      "name": "FAIRY METAL",
-      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Caterpillar",
-        "url": "https://open.spotify.com/album/1su4sMJNmHerXssClObphO"
-      },
-      "artists": [
-        {
-          "name": "Hollow",
-          "url": "https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Caterpillar",
-      "url": "https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Yuve Yuve Yu",
         "url": "https://open.spotify.com/album/2ot7qJ6yU06AkwkAn9xeoP"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 282920,
       "name": "Yuve Yuve Yu",
       "url": "https://open.spotify.com/track/6J2VvzKwWc2f0JP5RQVZjq"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Caterpillar",
+        "url": "https://open.spotify.com/album/1su4sMJNmHerXssClObphO"
+      },
+      "artists": [
+        {
+          "name": "Hollow",
+          "url": "https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Caterpillar",
+      "url": "https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
-      },
-      "artists": [
-        {
-          "name": "Love Is Noise",
-          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
-        }
-      ],
-      "duration_ms": 254722,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "LXVE",
         "url": "https://open.spotify.com/album/4WxYoN03IGMt48MxwQaLhi"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 191301,
       "name": "LXVE",
       "url": "https://open.spotify.com/track/5RqMRQphaSAQekmaqRGpHH"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "duration_ms": 254722,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -757,20 +757,24 @@
       "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
+      "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Soul Revolution",
-        "url": "https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel"
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
       },
       "artists": [
         {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+          "name": "ALESTI",
+          "url": "https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J"
+        },
+        {
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
         }
       ],
-      "duration_ms": 214775,
-      "name": "Soul Revolution",
-      "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
+      "duration_ms": 183900,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -795,18 +799,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "RedZone / Dead or Alive",
-        "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel"
       },
       "artists": [
         {
-          "name": "Crossfaith",
-          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
         }
       ],
-      "duration_ms": 227706,
-      "name": "RedZone",
-      "url": "https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig"
+      "duration_ms": 214775,
+      "name": "Soul Revolution",
+      "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -827,18 +831,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "saw BONES",
-        "url": "https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC"
+        "name": "RedZone / Dead or Alive",
+        "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
       },
       "artists": [
         {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+          "name": "Crossfaith",
+          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
         }
       ],
-      "duration_ms": 147200,
-      "name": "saw BONES",
-      "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
+      "duration_ms": 227706,
+      "name": "RedZone",
+      "url": "https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -855,6 +859,22 @@
       "duration_ms": 166948,
       "name": "Touch the Corpse",
       "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "saw BONES",
+        "url": "https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC"
+      },
+      "artists": [
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "saw BONES",
+      "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -969,6 +989,22 @@
       "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Into The Void",
+        "url": "https://open.spotify.com/album/4NJtkDQbFepS3gzXRNCTwL"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 210927,
+      "name": "Into The Void - Single Edit",
+      "url": "https://open.spotify.com/track/7wrnCfwFrQtfj3JRl4c0uy"
+    },
+    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "REB00T MYSELF (feat. Tired Violence)",
@@ -987,22 +1023,6 @@
       "duration_ms": 184840,
       "name": "REB00T MYSELF (feat. Tired Violence)",
       "url": "https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Into The Void",
-        "url": "https://open.spotify.com/album/4NJtkDQbFepS3gzXRNCTwL"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 210927,
-      "name": "Into The Void - Single Edit",
-      "url": "https://open.spotify.com/track/7wrnCfwFrQtfj3JRl4c0uy"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1055,22 +1075,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Rust on the Gates of Heaven",
-        "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
-      },
-      "artists": [
-        {
-          "name": "Wear Your Wounds",
-          "url": "https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3"
-        }
-      ],
-      "duration_ms": 331015,
-      "name": "Shrinking Violet",
-      "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Black Brick",
         "url": "https://open.spotify.com/album/1A3Xjo3qosxiNetGhM5nVq"
       },
@@ -1087,18 +1091,46 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "be no one",
-        "url": "https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv"
+        "name": "Rust on the Gates of Heaven",
+        "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
       },
       "artists": [
         {
-          "name": "Sepha.",
-          "url": "https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA"
+          "name": "Wear Your Wounds",
+          "url": "https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3"
         }
       ],
-      "duration_ms": 261206,
-      "name": "be no one",
-      "url": "https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv"
+      "duration_ms": 331015,
+      "name": "Shrinking Violet",
+      "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "ANTAGONIST RETURNS",
+        "url": "https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb"
+      },
+      "artists": [
+        {
+          "name": "The Worst of Us",
+          "url": "https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW"
+        },
+        {
+          "name": "ALEX",
+          "url": "https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO"
+        },
+        {
+          "name": "TOKYO ROSE",
+          "url": "https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N"
+        },
+        {
+          "name": "THE AKUMA",
+          "url": "https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW"
+        }
+      ],
+      "duration_ms": 217308,
+      "name": "ANTAGONIST RETURNS",
+      "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1115,6 +1147,22 @@
       "duration_ms": 168160,
       "name": "WHATS UP?",
       "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "be no one",
+        "url": "https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv"
+      },
+      "artists": [
+        {
+          "name": "Sepha.",
+          "url": "https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA"
+        }
+      ],
+      "duration_ms": 261206,
+      "name": "be no one",
+      "url": "https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1159,6 +1207,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Wake of a Nation",
+        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "duration_ms": 78531,
+      "name": "I Can't Breathe",
+      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "May Our Chambers Be Full",
         "url": "https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc"
       },
@@ -1195,22 +1259,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Wake of a Nation",
-        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
-      },
-      "artists": [
-        {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
-        }
-      ],
-      "duration_ms": 78531,
-      "name": "I Can't Breathe",
-      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Kings Today",
         "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
       },
@@ -1231,22 +1279,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "80486DX",
-        "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
-      },
-      "artists": [
-        {
-          "name": "MASTER BOOT RECORD",
-          "url": "https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "80486DX",
-      "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Bleed Like You",
         "url": "https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj"
       },
@@ -1263,6 +1295,22 @@
       "duration_ms": 297381,
       "name": "Bleed Like You - Merzbow Version",
       "url": "https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "80486DX",
+        "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
+      },
+      "artists": [
+        {
+          "name": "MASTER BOOT RECORD",
+          "url": "https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "80486DX",
+      "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1299,22 +1347,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "ABYSS",
-        "url": "https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo"
-      },
-      "artists": [
-        {
-          "name": "Mimi Barks",
-          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
-        }
-      ],
-      "duration_ms": 151911,
-      "name": "ABYSS",
-      "url": "https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Providencia",
         "url": "https://open.spotify.com/album/5hqcP9226vpEkLWr8bzQRL"
       },
@@ -1331,34 +1363,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Synopsis",
-        "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
+        "name": "ABYSS",
+        "url": "https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo"
       },
       "artists": [
         {
-          "name": "Mountain Eye",
-          "url": "https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz"
+          "name": "Mimi Barks",
+          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
         }
       ],
-      "duration_ms": 202804,
-      "name": "Synopsis",
-      "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "White Noise",
-        "url": "https://open.spotify.com/album/5XK72MyNkvyWhgclcg0XvF"
-      },
-      "artists": [
-        {
-          "name": "Blanket",
-          "url": "https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6"
-        }
-      ],
-      "duration_ms": 277024,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/750uSPGwf5jqU1teWD5cdO"
+      "duration_ms": 151911,
+      "name": "ABYSS",
+      "url": "https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ"
     }
   ],
   "unique_name": "Alternative Metal",

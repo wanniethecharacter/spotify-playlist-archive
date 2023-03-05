@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKCtaSy7i9R.md) - [plain]
 
 > Quiet spring mornings, wake up early with the birds\. <br/>Take a moment with nature for a positive start of your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,559 likes - 38 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,588 likes - 38 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,6 +45,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKCtaSy7i9R.md) - [plain]
 | 35 | [Summer Breeze Bird](https://open.spotify.com/track/1z32JHysDBPvcNyxxn3N4y) | [Dominica del Foresta](https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ) | [Summer Breeze Bird](https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA) | 2:20 |
 | 36 | [Birds Of Yosemite In The Morning](https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2) | [Feathered Tranquility](https://open.spotify.com/artist/4hTxrVxFDmZqU10pME4YrC) | [Birds Of Yosemite](https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu) | 2:50 |
 | 37 | [A Chit\-Chat With Nature](https://open.spotify.com/track/5l7eXwfI0dz67heP7I8CfY) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Nature Sounds of Walden Pond: Forest Sounds, Lapping Waves, Soft Winds, Distant Thunder and Soothing Rains](https://open.spotify.com/album/0te5cli7s8MZ7dw0iwdmK9) | 4:10 |
-| 38 | [In the Midst of Nature](https://open.spotify.com/track/4M9fhkESWwMVlTQqJpHJUw) | [Neoaves](https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK) | [In the Midst of Nature](https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N) | 2:01 |
+| 38 | [Highway Birds](https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk) | [Betweetle](https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl) | [Highway Birds](https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC) | 1:47 |
 
-Snapshot ID: `MTY3Nzg0Nzc0MCwwMDAwMDAwMDU1NWQ2NmFkNWVkM2I0ZTQ1ZjcxNWEwMmQwMGQxMGNk`
+Snapshot ID: `MTY3Nzg0Nzc0MCwwMDAwMDAwMDM4ZDA2NDEyMjNmMzA5NGI5OGRmYTdhMGJhMDg5MTU5`

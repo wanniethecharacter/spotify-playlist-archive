@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-112 songs - 8 hr 50 min
+113 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,9 +106,10 @@
 | [Thank You](https://open.spotify.com/track/6NdP01if2haMSAhoMxVpMe) | [Kobby Mantey](https://open.spotify.com/artist/6EU94Iocwwem69yRk6DuOc), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Thank You](https://open.spotify.com/album/3FicrFn5np6XgUfj0GEXD6) | 5:16 | 2022-06-30 |  |
 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 | 2022-06-30 |  |
 | [The Word Is Working \(Refreshed\)](https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [The Word Is Working \(Refreshed\)](https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d) | 6:47 | 2022-07-14 |  |
+| [This can only be God](https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [This can only be God](https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q) | 3:38 | 2023-03-03 |  |
 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 | 2022-06-30 |  |
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2023-02-20 |  |
-| [VIBES](https://open.spotify.com/track/05ee5RwDmyeOpIQeshWlJq) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY) | [VIBES](https://open.spotify.com/album/1JB6EdMUgU9PwXNsGCvyAP) | 3:13 | 2022-06-30 |  |
+| [VIBES](https://open.spotify.com/track/05ee5RwDmyeOpIQeshWlJq) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY) | [VIBES](https://open.spotify.com/album/1JB6EdMUgU9PwXNsGCvyAP) | 3:13 | 2022-06-30 | 2023-03-05 |
 | [Victory](https://open.spotify.com/track/6yZu268Sq4D1xfEY0Q9x8f) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [Johnny Haick](https://open.spotify.com/artist/3uSVYg6uMnIBv06tyILBj3) | [Victory](https://open.spotify.com/album/1IJgW1LInx1jkRSSLegyRL) | 7:55 | 2022-06-30 | 2023-01-21 |
 | [W' agye Me](https://open.spotify.com/track/4JQofHiIEY6EuWLXAxe7SG) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 4:12 | 2022-06-30 | 2023-01-20 |
 | [W'asem](https://open.spotify.com/track/6tkg5oZJuhHOy99LyN1qfN) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [W'asem](https://open.spotify.com/album/1keGuqsg2oO5VeKV7EDa7f) | 3:39 | 2022-06-30 |  |

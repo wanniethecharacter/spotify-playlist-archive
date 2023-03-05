@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 445861,
+  "num_followers": 446017,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMDAwODk2NGJmYjViYjE4MDliNWYyMTIyNTkwOTNkZGM1",
+  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMGYyMDM5NDg4ZjNlYTA2YzZlNGI5YjFjZTkyMmQyNWQ2",
   "tracks": [
     {
       "added_at": "2023-01-13 13:30:00",
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
     },
     {
-      "added_at": "2023-03-04 01:25:12",
+      "added_at": "2023-03-05 00:41:40",
       "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/3hSEqztpBnREFLhQSFi2Yi"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi"
     },
     {
-      "added_at": "2023-03-04 01:25:12",
+      "added_at": "2023-03-05 00:41:40",
       "album": {
         "name": "If I Had Wings",
         "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
     },
     {
-      "added_at": "2023-03-04 01:25:12",
+      "added_at": "2023-03-05 00:41:40",
       "album": {
         "name": "The Selador Showcase - The Seventeenth Instalment",
         "url": "https://open.spotify.com/album/5fOPccNvJkKyuIxeZ0SAmW"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
     },
     {
-      "added_at": "2023-03-04 01:25:12",
+      "added_at": "2023-03-05 00:41:40",
       "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
@@ -383,74 +383,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Purple Days & Purple Nights",
-        "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
-      },
-      "artists": [
-        {
-          "name": "KlangTherapeuten",
-          "url": "https://open.spotify.com/artist/0QcOjrywD2cdYAZfbmeVCe"
-        },
-        {
-          "name": "Max Manie",
-          "url": "https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU"
-        }
-      ],
-      "duration_ms": 269531,
-      "name": "Purple Days",
-      "url": "https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "Allegri",
-        "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 322640,
-      "name": "Allegri",
-      "url": "https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        }
-      ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5rUrltKgAPbdGtKP7WATUL"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 340400,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/4dSH4QOSnQa6PutN1rDHOG"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Once in a Blue Moon",
         "url": "https://open.spotify.com/album/72jY4vupYe66p1lOeKwEpk"
       },
@@ -471,18 +403,86 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+        "name": "Purple Days & Purple Nights",
+        "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
       "artists": [
         {
-          "name": "Green Lake Project",
-          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+          "name": "KlangTherapeuten",
+          "url": "https://open.spotify.com/artist/0QcOjrywD2cdYAZfbmeVCe"
+        },
+        {
+          "name": "Max Manie",
+          "url": "https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU"
         }
       ],
-      "duration_ms": 389092,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
+      "duration_ms": 269531,
+      "name": "Purple Days",
+      "url": "https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "duration_ms": 479075,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Allegri",
+        "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 322640,
+      "name": "Allegri",
+      "url": "https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5rUrltKgAPbdGtKP7WATUL"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 340400,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/4dSH4QOSnQa6PutN1rDHOG"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "\ud63c\ub3c8 \uacfc \uc9c8\uc11c",
+        "url": "https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        }
+      ],
+      "duration_ms": 528959,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "\ud63c\ub3c8 \uacfc \uc9c8\uc11c",
-        "url": "https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7"
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
       },
       "artists": [
         {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
         }
       ],
-      "duration_ms": 528959,
-      "name": "Chaos",
-      "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Cliff (Einmusik Remix)",
-        "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
-      },
-      "artists": [
-        {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        },
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 444816,
-      "name": "Cliff - Einmusik Remix",
-      "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Crescendo",
         "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 364918,
       "name": "Crescendo",
       "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Cliff (Einmusik Remix)",
+        "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 444816,
+      "name": "Cliff - Einmusik Remix",
+      "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Pure Love EP",
-        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
-      },
-      "artists": [
-        {
-          "name": "Definition",
-          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
-        }
-      ],
-      "duration_ms": 393495,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Hailstorm (Ann Clue Remix)",
         "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Pure Love EP",
+        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
+      },
+      "artists": [
+        {
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        }
+      ],
+      "duration_ms": 393495,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/65rnuhXDFFky9hBX3ZhkFX"
+      },
+      "artists": [
+        {
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
+        }
+      ],
+      "duration_ms": 414053,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
         "name": "Orchestra (Remixes)",
         "url": "https://open.spotify.com/album/5COwPsSU5XZmd0iczT0tpM"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 412500,
       "name": "Entrudo - Booka Shade Remix",
       "url": "https://open.spotify.com/track/46SwXRrM099b9Oqugpwaxa"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/65rnuhXDFFky9hBX3ZhkFX"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 414053,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Black Ice",
-        "url": "https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
       },
       "artists": [
         {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+          "name": "Mainterm",
+          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
         }
       ],
-      "duration_ms": 380039,
-      "name": "Black Ice",
-      "url": "https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS"
+      "duration_ms": 358144,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
     },
     {
       "added_at": "2023-01-13 13:30:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvVDEhwyL17.md) - [plain]
 
 > Cozy acoustic covers to accompany all your DIY, painting and creative crafts projects.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,076 likes - 77 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,115 likes - 77 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

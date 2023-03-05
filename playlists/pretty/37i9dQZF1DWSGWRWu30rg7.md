@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Winaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,617 likes - 63 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,643 likes - 63 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 19 | [IMMA GO NOW](https://open.spotify.com/track/2fHUiVm7PVELTnvXYTaCHe) | [Tarrzankota](https://open.spotify.com/artist/6ptSpJVbC6f492Lt5IfpD2), [YOSH](https://open.spotify.com/artist/2wHazSJnTevLiiJzn70GX7) | [GENESIS](https://open.spotify.com/album/39uvywC9ucxHGlD91DhhQC) | 1:25 |
 | 20 | [Stay](https://open.spotify.com/track/65K8SeTHlvN0khRiZcqpC8) | [The Vacancies](https://open.spotify.com/artist/7mhWsGYpxYhVMvBnk9JiNt) | [Stay](https://open.spotify.com/album/7bYw394Q6YG626DEb6pUfK) | 3:41 |
 | 21 | [As We Talk](https://open.spotify.com/track/1xNoiDKbPQnPZknnOxLT6m) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9), [Leca Percussion](https://open.spotify.com/artist/3w7VheCMgx50I3vsFlmL2q), [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Scars Souvenir](https://open.spotify.com/album/1qvid202eOiUz6vI8xFca0) | 2:59 |
-| 22 | [Just Love Me For A While](https://open.spotify.com/track/4R3FhuA7iqiljQBzaTtPXE) | [Zerra](https://open.spotify.com/artist/0qfJuFOWgjteUxTVn2CTeE) | [What a Well\-made Tragedy](https://open.spotify.com/album/3LaGbxWOa2D1byzTAj3fRD) | 4:17 |
+| 22 | [Just Love Me For A While](https://open.spotify.com/track/3ttJNfUkSzoAYKN4jkLsJd) | [Zerra](https://open.spotify.com/artist/0qfJuFOWgjteUxTVn2CTeE) | [What a Well\-made Tragedy](https://open.spotify.com/album/0dy5MZ9S0Q2Pkg8Fgo0m3G) | 4:17 |
 | 23 | [Teman Saja](https://open.spotify.com/track/1quBRq19yOO1lsylElh3uu) | [REI SARAH](https://open.spotify.com/artist/2QkqTXubFT19pCJGoCKsRm) | [Teman Saja](https://open.spotify.com/album/1Uyz9Lephv0odZKukglQMh) | 3:22 |
 | 24 | [Catatan Singkat Sebuah Pertemuan](https://open.spotify.com/track/3sRdiWiBgYnJMltknpyESy) | [Spells](https://open.spotify.com/artist/1VaiaDZUknjg9aCukZsXZe) | [Sad Punk](https://open.spotify.com/album/1EP4p9pQYoFprbFp8cRixO) | 2:58 |
 | 25 | [In My Bed](https://open.spotify.com/track/1XOx9PbO83UQ0bOfdt3AAR) | [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL), [GALUH](https://open.spotify.com/artist/5e1GTe7pdNCGQOdcExtUoz) | [In My Bed](https://open.spotify.com/album/1si4dL7DI1wIDhrEOjVCFt) | 2:05 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 62 | [They Don't Mean a Thing](https://open.spotify.com/track/6uTaEiDGoRtzR2zpiQP2LY) | [Alvin Wardiman](https://open.spotify.com/artist/1C1xHPlFYwO4XsngjC87yt) | [They Don't Mean a Thing](https://open.spotify.com/album/4qld8aPUSIZkfReQYd1Kwm) | 4:06 |
 | 63 | [tequila on our 17th](https://open.spotify.com/track/7kQBD92BIaq8bHIjiU1t81) | [Calinn](https://open.spotify.com/artist/6SbqLtBLg1JMLhQWDt5r4E) | [tequila on our 17th](https://open.spotify.com/album/3ifkMTDTlVljVWGaSV8RLc) | 3:53 |
 
-Snapshot ID: `MTY3Nzg0Mjc2NSwwMDAwMDAwMDM1ZDBhOTk4Y2FiNWM3MTZhMTI3OGU5YTcwNDYyNTA0`
+Snapshot ID: `MTY3Nzg0Mjc2NSwwMDAwMDAwMDIzMTYxYjhkNjc3YmI4Nzg0ZmE3ZDQ0YWUzNDlhZDIw`

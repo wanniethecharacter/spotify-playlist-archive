@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: Bea Miller",
-  "num_followers": 85369,
+  "num_followers": 85387,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGQ1M2Y0MmY1ZWMyZTI2MGMxZjliOTI0MTJhNmFkNDQ0",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDc3MDkyOTFhMjQxMjM1ZGY2NmM5NDE2YzFiNWYxYjYx",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Georgia",
-        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
-      },
-      "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
+        "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
+      "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "spend the money (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 199669,
       "name": "spend the money (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
-        "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
-      "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 185944,
+      "name": "Wonderful Life - Edit",
+      "url": "https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Bumblebee",
         "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Wonderful Life",
-        "url": "https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 185944,
-      "name": "Wonderful Life - Edit",
-      "url": "https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Your Internet Sucks",
-        "url": "https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "Your Internet Sucks",
-      "url": "https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Pretender",
         "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 128906,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Your Internet Sucks",
+        "url": "https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Your Internet Sucks",
+      "url": "https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Elevator",
-        "url": "https://open.spotify.com/album/0bG8tpGG0eY8VW4PLXa6uC"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 165608,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/1YfbJV5J2V2fU5OcFmzi03"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "CHAOS NOW*",
         "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 171842,
       "name": "THREE HEADS*",
       "url": "https://open.spotify.com/track/3MzD5pFnJqESdvPfvhU6kM"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/0bG8tpGG0eY8VW4PLXa6uC"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 165608,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/1YfbJV5J2V2fU5OcFmzi03"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Future Shine",
+        "url": "https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX"
+      },
+      "artists": [
+        {
+          "name": "flor",
+          "url": "https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb"
+        }
+      ],
+      "duration_ms": 173363,
+      "name": "Skate",
+      "url": "https://open.spotify.com/track/0TMP3bNq86pf0wBS06GlAA"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Bookie's Dirtbag",
         "url": "https://open.spotify.com/album/5mxfUmBRoMzVoDW8bFeq1K"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 240002,
       "name": "Bookie's Dirtbag",
       "url": "https://open.spotify.com/track/4RWbO2RDo6yyA12R3TNVsx"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Future Shine",
-        "url": "https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX"
-      },
-      "artists": [
-        {
-          "name": "flor",
-          "url": "https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb"
-        }
-      ],
-      "duration_ms": 173363,
-      "name": "Skate",
-      "url": "https://open.spotify.com/track/0TMP3bNq86pf0wBS06GlAA"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Further Joy (Deluxe)",
-        "url": "https://open.spotify.com/album/3c5DNRo3UUU3DBGd96BgoW"
+        "name": "Hate You When You Party",
+        "url": "https://open.spotify.com/album/5oDm9L1HZpWELHtEpDamTn"
       },
       "artists": [
         {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+          "name": "Good Boy Daisy",
+          "url": "https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL"
         }
       ],
-      "duration_ms": 196466,
-      "name": "Dummy",
-      "url": "https://open.spotify.com/track/2Bc4O6c1kI99Ug2Xnv4RAI"
+      "duration_ms": 214226,
+      "name": "Hate You When You Party",
+      "url": "https://open.spotify.com/track/4fh7Ymv5hojW13vBLOJ8yj"
     }
   ],
   "unique_name": "Et Alt",

@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-150 songs - 8 hr 49 min
+151 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [DANDELION](https://open.spotify.com/track/5erdZRi65gQvc4m7znELQp) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'DANDELION'](https://open.spotify.com/album/0p6LcAuJfbKxZaPpsgUlF9) | 3:02 | 2022-06-13 | 2022-09-26 |
 | [Dawn \(Song by SARU\) \(Prod\. By Vische\)](https://open.spotify.com/track/55RGhiuNWGAbzjgB08ZM7O) | [SOUND PALETTE](https://open.spotify.com/artist/0vReM81CSMXlENdSzVSHQF) | [PALETTE C\#509.](https://open.spotify.com/album/4W8yKsryaOIeCVmKMlvZVu) | 3:34 | 2022-05-03 | 2022-07-28 |
 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 | 2022-05-03 |  |
+| [Do You Know My Heart \(Feat\. NUITNUIT\)](https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Do You Know My Heart](https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD) | 3:21 | 2023-03-03 |  |
 | [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 | 2022-06-18 |  |
 | [Dream](https://open.spotify.com/track/1xlFjLN4YvtwiFfsdsFJr1) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Dream](https://open.spotify.com/album/4KncPcPqHtRgmZjNtFB9Xy) | 6:14 | 2022-05-03 | 2022-07-29 |
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2022-05-03 |  |
@@ -157,6 +158,6 @@
 | [우리에게 쏟아지는 별들을 Starry Night \(feat\. Ku One Chan\)](https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [우리에게 쏟아지는 별들을 Starry Night \(feat\. Ku One Chan\)](https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87) | 3:40 | 2022-12-26 | 2023-01-10 |
 | [우리우리 겨울](https://open.spotify.com/track/4AN88Zg4Q7nI74DKbCvPzx) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [나무에 물방울 머금고](https://open.spotify.com/album/36bDnq3WeM8ORGUSUPyDtd) | 3:50 | 2022-05-03 | 2022-07-16 |
 | [젊음을 선사해요 Sending My Youth](https://open.spotify.com/track/5Y4tiUkw3QrvW2bMzGI5iO) | [Jo So Hyun](https://open.spotify.com/artist/4voH4qkhBVtoXgQbGOnfTF) | [스무살의 가을 Autumn](https://open.spotify.com/album/5COe5BZdAtmtdTh9s3jHOI) | 3:18 | 2022-05-03 | 2022-07-26 |
-| [지쳤어 Burned out](https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [건강하세모 Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 3:06 | 2023-01-25 |  |
+| [지쳤어 Burned out](https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [건강하세모 Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 3:06 | 2023-01-25 | 2023-03-05 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

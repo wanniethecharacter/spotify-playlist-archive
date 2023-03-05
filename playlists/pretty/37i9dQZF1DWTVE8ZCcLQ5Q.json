@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421584,
+  "num_followers": 421589,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDUxNDYwN2QyNTM2ZDhmMDkyMWQ2OTk1NGU0NjAyYWZh",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGUxZDA3YmEyMzNiM2MzNmM4ODVjNzE2ZDdhOWI3NGI3",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Capa de Revista",
+        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174314,
+      "name": "Capa de Revista",
+      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Vendaval (Ao Vivo)",
         "url": "https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 233236,
       "name": "Vendaval - Ao Vivo",
       "url": "https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Capa de Revista",
-        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174314,
-      "name": "Capa de Revista",
-      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
     },
     {
       "added_at": "2023-02-10 03:00:00",

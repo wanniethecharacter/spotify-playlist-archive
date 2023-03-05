@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: beabadoobee.
 
-400 songs - 21 hr 0 min
+401 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-07-29 | 2022-10-15 |
 | [how to love](https://open.spotify.com/track/0yo9larsomF52ozr81jCEm) | [JEN Z](https://open.spotify.com/artist/1fqQGhjVuevPcROlYKzn4b) | [how to love](https://open.spotify.com/album/6IYXm4IxC9QYNoYGwFIbWD) | 3:33 | 2022-12-02 |  |
 | [Hula Hoops](https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:23 | 2022-05-27 | 2022-08-16 |
+| [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 | 2023-03-05 |  |
 | [Hurricanes](https://open.spotify.com/track/4XH87UjBYFtVYar8CNmoTJ) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:22 | 2022-09-23 | 2022-10-08 |
 | [hurts 2 hate somebody \(with Chase Atlantic & No Rome\)](https://open.spotify.com/track/5D1D4CHCew0XWorrFv5jSg) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [hurts 2 hate somebody \(with Chase Atlantic & No Rome\)](https://open.spotify.com/album/7vn8aDaUDC46EAnXy0eht4) | 3:06 | 2022-05-27 |  |
 | [I Can't Sleep](https://open.spotify.com/track/43WhcZ84dxsSO9T2njoFIQ) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [I Can't Sleep](https://open.spotify.com/album/1OyyCqSwzipnyQn9Xany4Y) | 2:31 | 2022-05-27 | 2022-08-30 |
@@ -253,7 +254,7 @@
 | [Movie Star \(ft\. MOD SUN & Global Dan\)](https://open.spotify.com/track/10X6ueKex7MGPXgt0ESpEs) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [HiROQUEST: Genesis](https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg) | 3:33 | 2022-10-07 | 2023-02-27 |
 | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG) | 3:34 | 2023-01-13 |  |
 | [Need A Moment](https://open.spotify.com/track/54dfyiqH4Q8FQAyASqJNyt) | [SEKI](https://open.spotify.com/artist/2MdhltoGdV44xCcmAReBwQ) | [Need A Moment](https://open.spotify.com/album/0mfsoIAe1N7g7DBKBFQBsZ) | 3:15 | 2022-05-27 | 2022-07-14 |
-| [NEED IT FROM YOU](https://open.spotify.com/track/79bPtuYBpnNJTwCJEVzECO) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd) | [Spirits](https://open.spotify.com/album/0bkNnBx5lLhRT1xXELdBYC) | 2:55 | 2022-09-09 |  |
+| [NEED IT FROM YOU](https://open.spotify.com/track/79bPtuYBpnNJTwCJEVzECO) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd) | [Spirits](https://open.spotify.com/album/0bkNnBx5lLhRT1xXELdBYC) | 2:55 | 2022-09-09 | 2023-03-05 |
 | [Never Easy](https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Never Easy](https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo) | 3:44 | 2022-07-22 | 2023-02-19 |
 | [Nobody Sees Me Like You Do](https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Nobody Sees Me Like You Do](https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P) | 3:31 | 2022-05-27 |  |
 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 | 2022-07-08 |  |

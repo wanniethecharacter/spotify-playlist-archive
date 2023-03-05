@@ -400,7 +400,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 166748,
       "name": "1995",
       "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 160426,
       "name": "25 Mann",
       "url": "https://open.spotify.com/track/7gC8OO5ORfuqX4OrE9EQtE"
@@ -1096,6 +1096,28 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "album": {
+        "name": "Abziehen",
+        "url": "https://open.spotify.com/album/32bNw04jonhRIqvmG2mARJ"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150200,
+      "name": "Abziehen",
+      "url": "https://open.spotify.com/track/42MbpTDZWKc8uAJDhHcvQO"
     },
     {
       "album": {
@@ -2130,7 +2152,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2464,6 +2486,32 @@
       "duration_ms": 128602,
       "name": "Augenma\u00df (feat. Lucio101, Nizi19, Omar101 & Karamel19)",
       "url": "https://open.spotify.com/track/4kmOaW4Gb65QwiYxI62HAo"
+    },
+    {
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168560,
+      "name": "August",
+      "url": "https://open.spotify.com/track/6SYISkUBtn8rUrQuuQezl7"
     },
     {
       "album": {
@@ -2932,7 +2980,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
@@ -3436,7 +3484,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 174000,
       "name": "Bei Nacht",
       "url": "https://open.spotify.com/track/1kKvfCmzXzRcfszwQrXFPM"
@@ -4803,6 +4851,28 @@
     },
     {
       "album": {
+        "name": "LOVE MY LIFE",
+        "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150593,
+      "name": "BRODIES",
+      "url": "https://open.spotify.com/track/0vMoUsXGJbSzrwlYZ7XhvY"
+    },
+    {
+      "album": {
         "name": "BRODIES",
         "url": "https://open.spotify.com/album/5xSam2UgSOM6sXR7C6SuVc"
       },
@@ -5160,7 +5230,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -5646,7 +5716,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 195480,
       "name": "City nach City",
       "url": "https://open.spotify.com/track/2zNZyica9PueXijVVx1cEr"
@@ -7324,7 +7394,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 134478,
       "name": "DOCTOR",
       "url": "https://open.spotify.com/track/3giuo1sDdkKHIPJbsvLQhS"
@@ -8918,6 +8988,24 @@
       "duration_ms": 163631,
       "name": "Enzo",
       "url": "https://open.spotify.com/track/69xznVMwMjB3w8KdW33EON"
+    },
+    {
+      "album": {
+        "name": "ERKENNST DU MICH NOCH",
+        "url": "https://open.spotify.com/album/0vP3aXM2xnXNF1gG9jfYtj"
+      },
+      "artists": [
+        {
+          "name": "NGEE",
+          "url": "https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166686,
+      "name": "ERKENNST DU MICH NOCH",
+      "url": "https://open.spotify.com/track/6ATmypei74oTR7GAXcGbBN"
     },
     {
       "album": {
@@ -10639,6 +10727,36 @@
     },
     {
       "album": {
+        "name": "F\u00fcr dich da",
+        "url": "https://open.spotify.com/album/53ONUgQsNJqHijJUzagh2N"
+      },
+      "artists": [
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+        },
+        {
+          "name": "KitschKrieg",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182099,
+      "name": "F\u00fcr dich da",
+      "url": "https://open.spotify.com/track/3eS5cdQfliiWLWLjLdYodN"
+    },
+    {
+      "album": {
         "name": "Gabber Girl",
         "url": "https://open.spotify.com/album/3jauUtxG6zFpCt0zG4YTJq"
       },
@@ -12026,6 +12144,28 @@
       "duration_ms": 239696,
       "name": "Halligalli",
       "url": "https://open.spotify.com/track/1Mx3NgpvRq5zWCp7KzRzUQ"
+    },
+    {
+      "album": {
+        "name": "Hallow Kitty",
+        "url": "https://open.spotify.com/album/7DPL8ClopefjZeWVAIggXg"
+      },
+      "artists": [
+        {
+          "name": "Kwam.E",
+          "url": "https://open.spotify.com/artist/4H9W4cb3X0qRpv87yKV7fV"
+        },
+        {
+          "name": "OVE",
+          "url": "https://open.spotify.com/artist/42RwQlOWDVzGRQVa61O8VV"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "Hallow Kitty",
+      "url": "https://open.spotify.com/track/3YONiGJ9VB9KvpXEHgLMjF"
     },
     {
       "album": {
@@ -14351,6 +14491,24 @@
     },
     {
       "album": {
+        "name": "It doesn't matter",
+        "url": "https://open.spotify.com/album/4tJIjh5Y5PVPAAaNZ1UTu3"
+      },
+      "artists": [
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160238,
+      "name": "It doesn't matter",
+      "url": "https://open.spotify.com/track/5Gl6EtR47yLGkqAHpYARuK"
+    },
+    {
+      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -16249,6 +16407,24 @@
     },
     {
       "album": {
+        "name": "Es ist Abend und wir sitzen bei mir",
+        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "Lass es kreisen",
+      "url": "https://open.spotify.com/track/6Pn5YAIhhT85vxBD3YoIzG"
+    },
+    {
+      "album": {
         "name": "ALLES WAR SCH\u00d6N UND NICHTS TAT WEH",
         "url": "https://open.spotify.com/album/2g6eUnuvDUSkGdUDmc2vBy"
       },
@@ -17615,6 +17791,32 @@
     },
     {
       "album": {
+        "name": "LOVE MY LIFE",
+        "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        },
+        {
+          "name": "Anne Imhof",
+          "url": "https://open.spotify.com/artist/3JOuq4jD26hJ229ZaKHEe3"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161048,
+      "name": "LOVE MY LIFE",
+      "url": "https://open.spotify.com/track/1j6qr4E0seSdc6cq5pL6JD"
+    },
+    {
+      "album": {
         "name": "Love Not War (The Tampa Beat)",
         "url": "https://open.spotify.com/album/3CHys9v5aX1NS861o6r556"
       },
@@ -18196,7 +18398,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 174413,
       "name": "mailbox (feat. Hava)",
       "url": "https://open.spotify.com/track/7AuMPJMHY3TYeZEZsEy0CF"
@@ -19396,7 +19598,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 206019,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
@@ -19758,6 +19960,28 @@
       "duration_ms": 200217,
       "name": "MOLOTOV",
       "url": "https://open.spotify.com/track/0k5UCvZ1BDP28db9y7OymD"
+    },
+    {
+      "album": {
+        "name": "LOVE MY LIFE",
+        "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198294,
+      "name": "MOMMA",
+      "url": "https://open.spotify.com/track/2vvL12gufp1dCbgv4N9S1J"
     },
     {
       "album": {
@@ -21016,7 +21240,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 130561,
       "name": "Netflix & Chill",
       "url": "https://open.spotify.com/track/3Xmup3IXYvdgjXz8zgoRlB"
@@ -21715,6 +21939,24 @@
     },
     {
       "album": {
+        "name": "LOVE MY LIFE",
+        "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163099,
+      "name": "NUR SIE DARF",
+      "url": "https://open.spotify.com/track/0v5tJa9288xBvYEl9EBuNK"
+    },
+    {
+      "album": {
         "name": "NUR SIE DARF",
         "url": "https://open.spotify.com/album/5d84zXcceiTXG05BhMmGLU"
       },
@@ -21726,7 +21968,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 163099,
       "name": "NUR SIE DARF",
       "url": "https://open.spotify.com/track/3i5mGA6jZN6Mk8bmcE7Jbz"
@@ -23256,7 +23498,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -23746,6 +23988,24 @@
       "duration_ms": 178285,
       "name": "Pull Up - Remix",
       "url": "https://open.spotify.com/track/6k3LXWgmucXyPHU4C0BfOU"
+    },
+    {
+      "album": {
+        "name": "PUR AUF ICE",
+        "url": "https://open.spotify.com/album/0fJ5azW4LzC69Ct8ZPKR7J"
+      },
+      "artists": [
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188950,
+      "name": "PUR AUF ICE",
+      "url": "https://open.spotify.com/track/5uxrX6IKC5cQHeaZnzgm6k"
     },
     {
       "album": {
@@ -29686,7 +29946,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -30230,6 +30490,24 @@
       "duration_ms": 149601,
       "name": "Vergesse nie die Street",
       "url": "https://open.spotify.com/track/7Cdqo041677njveTGZtrLg"
+    },
+    {
+      "album": {
+        "name": "Vergessen wie",
+        "url": "https://open.spotify.com/album/5dAL9utqZdWTG2BK8Dusju"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224445,
+      "name": "Vergessen wie",
+      "url": "https://open.spotify.com/track/28yd3NLXZkDi5p9segSvcf"
     },
     {
       "album": {
@@ -32912,6 +33190,32 @@
       "duration_ms": 171061,
       "name": "Zu sp\u00e4t",
       "url": "https://open.spotify.com/track/7Lx0Kqy8E9Ud9aUU8gRFkZ"
+    },
+    {
+      "album": {
+        "name": "Soul \u00fcber Ego",
+        "url": "https://open.spotify.com/album/1UsBo0GLw8Ob7rotm0mgD5"
+      },
+      "artists": [
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        },
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        },
+        {
+          "name": "Cato",
+          "url": "https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135826,
+      "name": "Zug",
+      "url": "https://open.spotify.com/track/4HzI51MtylzWfyHt5M9dAX"
     },
     {
       "album": {

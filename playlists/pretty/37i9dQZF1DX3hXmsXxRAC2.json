@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 310485,
+  "num_followers": 310522,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDM2NDE2ZTBkMmUwNTUzNjAzN2YxYTI2NWFhMTNlNGY0",
+  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDJmMzk1ZDlhNmUzM2NmYTA0ZDhjMDZlODMyMjM3ZThi",
   "tracks": [
     {
       "added_at": "2021-12-29 23:38:25",
@@ -635,6 +635,26 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "M\u00e9xico & Amigos",
+        "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        },
+        {
+          "name": "Mario Domm",
+          "url": "https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/0X11BjKj05dR2v64FwR2ot"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "15 Exitos De Oro",
         "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 180066,
       "name": "La Diferencia - (En Vivo)",
       "url": "https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "M\u00e9xico & Amigos",
-        "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        },
-        {
-          "name": "Mario Domm",
-          "url": "https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/0X11BjKj05dR2v64FwR2ot"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -899,18 +899,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Eres tan distinta a todas",
-        "url": "https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb"
+        "name": "Antologia (Volumen 2)",
+        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
       },
       "artists": [
         {
-          "name": "Villa Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
+          "name": "Nelson Ned",
+          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
         }
       ],
-      "duration_ms": 303001,
-      "name": "As\u00ed fue",
-      "url": "https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe"
+      "duration_ms": 231093,
+      "name": "El Dia Que Me Acaricies Llorar\u00e9",
+      "url": "https://open.spotify.com/track/6zcdLtTcaqCT4KAtESlNiY"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -931,18 +931,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Antologia (Volumen 2)",
-        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
+        "name": "Eres tan distinta a todas",
+        "url": "https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb"
       },
       "artists": [
         {
-          "name": "Nelson Ned",
-          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
+          "name": "Villa Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
         }
       ],
-      "duration_ms": 231093,
-      "name": "El Dia Que Me Acaricies Llorar\u00e9",
-      "url": "https://open.spotify.com/track/6zcdLtTcaqCT4KAtESlNiY"
+      "duration_ms": 303001,
+      "name": "As\u00ed fue",
+      "url": "https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe"
     },
     {
       "added_at": "2021-12-29 23:38:25",

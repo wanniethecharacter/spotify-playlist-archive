@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 164284,
+  "num_followers": 164356,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MzU3NCwwMDAwMDAwMDc4OTJlZDc3ZTRmY2RmOTc3OWRlYTMxMGUyYzQ3YWM4",
+  "snapshot_id": "MTY3Nzg2MzU3NCwwMDAwMDAwMGY2ZDJhZmY4N2EyNmUxNzQ2MzE2ZWUyMzY0N2FhODE5",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
-      },
-      "artists": [
-        {
-          "name": "Thegiornalisti",
-          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
-        }
-      ],
-      "duration_ms": 249417,
-      "name": "Questa nostra stupida canzone d'amore",
-      "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Sorriso (Milano Dateo)",
         "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 177145,
       "name": "Sorriso (Milano Dateo)",
       "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
+      },
+      "artists": [
+        {
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        }
+      ],
+      "duration_ms": 249417,
+      "name": "Questa nostra stupida canzone d'amore",
+      "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "San Siro Live (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/7eVkAghlrN31cqwiVvuCT0"
       },
       "artists": [
         {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
         }
       ],
-      "duration_ms": 243453,
-      "name": "Meraviglioso - Live",
-      "url": "https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA"
+      "duration_ms": 185503,
+      "name": "Destri",
+      "url": "https://open.spotify.com/track/7nRFsITVaSHko2Fw2Gcy59"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "La Donna Cannone",
-        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
+        "name": "San Siro Live (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa"
       },
       "artists": [
         {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
         }
       ],
-      "duration_ms": 279706,
-      "name": "La donna cannone",
-      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
+      "duration_ms": 243453,
+      "name": "Meraviglioso - Live",
+      "url": "https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "La Donna Cannone",
+        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
+      },
+      "artists": [
+        {
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+        }
+      ],
+      "duration_ms": 279706,
+      "name": "La donna cannone",
+      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 264240,
       "name": "A Te",
       "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/5lws5rpO14cspkEls5WGpq"
-      },
-      "artists": [
-        {
-          "name": "Will",
-          "url": "https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq"
-        }
-      ],
-      "duration_ms": 186147,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/7AKMq2HTg8FQs9LE0v9uoy"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/5lws5rpO14cspkEls5WGpq"
+      },
+      "artists": [
+        {
+          "name": "Will",
+          "url": "https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq"
+        }
+      ],
+      "duration_ms": 186147,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/7AKMq2HTg8FQs9LE0v9uoy"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "MIA",
         "url": "https://open.spotify.com/album/6cncwJJC6PJW1JelJ6v71g"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 174725,
       "name": "MIA",
       "url": "https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Il giorno dopo (Gli Indimenticabili)",
-        "url": "https://open.spotify.com/album/2n9uS88r6JmABiCy4CbhBM"
-      },
-      "artists": [
-        {
-          "name": "Mia Martini",
-          "url": "https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3"
-        }
-      ],
-      "duration_ms": 283893,
-      "name": "Minuetto",
-      "url": "https://open.spotify.com/track/5DPp64xvym2n9tHE8nuhn7"
     }
   ],
   "unique_name": "Amore Davvero",

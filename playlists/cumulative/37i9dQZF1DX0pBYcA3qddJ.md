@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-321 songs - 21 hr 27 min
+322 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [I Wanna See You Smile](https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 3:19 | 2022-11-03 |  |
 | [Icicle](https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Icicle](https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc) | 2:57 | 2023-02-25 |  |
 | [Idaho Alien](https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Idaho Alien](https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY) | 3:23 | 2023-03-02 |  |
-| [Ieta](https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Ieta](https://open.spotify.com/album/5mbez8ICuEDgkSgmbCy899) | 3:19 | 2023-02-28 |  |
+| [Ieta](https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Ieta](https://open.spotify.com/album/5mbez8ICuEDgkSgmbCy899) | 3:19 | 2023-02-28 | 2023-03-05 |
 | [in a bad mood](https://open.spotify.com/track/2DYV8CJNubnEoC9SDW02FV) | [Saki Ideshima](https://open.spotify.com/artist/1EyeJihPNpFqi21fhxEvkh) | [in a bad mood](https://open.spotify.com/album/5oAiPDiYRt7Io4TjGU2WMi) | 5:05 | 2023-01-31 | 2023-03-01 |
 | [In a Landscape](https://open.spotify.com/track/394t75ucK7WwTOrpQRRP7r) | [LEO](https://open.spotify.com/artist/1WxBBV8qyCtx1H0f5oP2dS) | [In a Landscape](https://open.spotify.com/album/4q0ZalAdIxVz61oN8QScNP) | 14:00 | 2023-02-28 |  |
 | [In the Mist](https://open.spotify.com/track/3UrztnIFSszMogk91JNlci) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz) | [Arietta](https://open.spotify.com/album/6h9VfhYdxzNbCtoKWmnkYX) | 1:33 | 2022-12-01 | 2023-02-22 |
@@ -130,6 +130,7 @@
 | [LE TOMBEAU DE COUPERIN:V\. Menuet](https://open.spotify.com/track/0vdUSUa8qNz4m9T73rr17v) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [AYA NAGATOMI](https://open.spotify.com/artist/5yP9w1BcV6K0yW51Njt8tv) | [Maurice RAVEL: Gaspard de la Nuit](https://open.spotify.com/album/4wT32sKqzocmqsIs80Xtnu) | 5:26 | 2023-02-28 |  |
 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 | 2023-02-28 |  |
 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 | 2023-02-07 | 2023-03-01 |
+| [Let You Break My Heart Again \- Live at The Symphony](https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Iceland Symphony Orchestra](https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b) | [A Night At The Symphony](https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn) | 5:02 | 2023-03-02 |  |
 | [Levia](https://open.spotify.com/track/3IGhQg2Kto8vFgj3cTVyNL) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Levia](https://open.spotify.com/album/0FEsV9OkvUAEie5BZEUkU7) | 4:28 | 2023-02-21 | 2023-03-01 |
 | [Levia](https://open.spotify.com/track/4MWgA0WnupVRiZNtdY64bL) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532), [鳳小岳](https://open.spotify.com/artist/3pr7TMfQrob0tDAfN3UeUh) | [Levia](https://open.spotify.com/album/5UFVnvpUGMZbms0f4hoGLo) | 4:28 | 2023-02-21 | 2023-02-23 |
 | [Like a Child](https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Like a Child](https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV) | 2:35 | 2023-02-28 |  |

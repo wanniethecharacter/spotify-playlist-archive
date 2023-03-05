@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: PNG.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,881 likes - 111 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,885 likes - 111 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 40 | [2 Caras](https://open.spotify.com/track/2896licIi4DqC6nHDGvFhv) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [2 Caras](https://open.spotify.com/album/1bsGPdayiAx0fAV8FWJQyu) | 2:33 |
 | 41 | [Mente Chora](https://open.spotify.com/track/1IXZp0IZSK91o4locn1ghq) | [FR3DDY](https://open.spotify.com/artist/5D4bziCymPVk5UwjMLj33u) | [Mente Chora](https://open.spotify.com/album/6vdyncpUYEpvN8uQG1RKs3) | 2:05 |
 | 42 | [Darwin](https://open.spotify.com/track/2BmGKNe3gmxh8Nx65rwNen) | [Drew](https://open.spotify.com/artist/3VpAv7j8HvUdhcg8U7ZZEA), [Stavo](https://open.spotify.com/artist/14BtFyOsIojw0xiQ1dGM9a) | [Darwin](https://open.spotify.com/album/1KBSMFrvi0ER46ILzSgjy1) | 3:03 |
-| 43 | [Fundo](https://open.spotify.com/track/70RoY8wdFdF3rrnkHooxp1) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9), [Naife](https://open.spotify.com/artist/45rh6VhDYLqiKHZLFbFJhc) | [GANA](https://open.spotify.com/album/6xCXH2MTm96fgygr5GHUz1) | 3:24 |
+| 43 | [Fundo](https://open.spotify.com/track/70RoY8wdFdF3rrnkHooxp1) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9), [Naife](https://open.spotify.com/artist/7KTQQgroIAmGaopulh98Bi) | [GANA](https://open.spotify.com/album/6xCXH2MTm96fgygr5GHUz1) | 3:24 |
 | 44 | [MOISÉS](https://open.spotify.com/track/7FRLKyhv0TyMoI9lASUFx7) | [David Da Rapper](https://open.spotify.com/artist/5ipSKrIl4oWWd6Ew8GrLW4) | [MOISÉS](https://open.spotify.com/album/0PAUGHHXHuwVgvg9RDbWbM) | 2:21 |
 | 45 | [Mira](https://open.spotify.com/track/4P8halZmD87IBnWNXLgWfO) | [Lilbeyes](https://open.spotify.com/artist/1nM0klS9gLVqNJLlxZwZX3) | [Mira](https://open.spotify.com/album/0jAKUz2aAe7zzs5pK0IC3o) | 2:43 |
 | 46 | [Props](https://open.spotify.com/track/6sjcNE994V0OxAgaLOg8Kd) | [bengashit](https://open.spotify.com/artist/7xYocbA9547Y4xv4JoVr25) | [Props](https://open.spotify.com/album/1FGXLqzbD8V6xFlLqDghxm) | 3:32 |

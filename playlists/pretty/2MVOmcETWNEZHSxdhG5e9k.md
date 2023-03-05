@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 6 likes - 64 songs - 7 hr 21 min
+[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 6 likes - 65 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,6 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 | 62 | [Innerspace \- Dan & Sam Intro Mix](https://open.spotify.com/track/1oz228zg8R4Yqth9OFooYX) | [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy), [Dan & Sam](https://open.spotify.com/artist/1jNFCmMEhZotuBe2jZtge8) | [Silk Remixed 03](https://open.spotify.com/album/3fue71GveqwilSGaLEbIEu) | 8:36 |
 | 63 | [You Are \- Mixed](https://open.spotify.com/track/3MgtQaRXeaaWoKHY7z0HbG) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Silk Music Showcase 06 \(Mixed by Jacob Henry & Tom Fall\)](https://open.spotify.com/album/2ijKsn3vCglQ34m7mB6EgD) | 5:59 |
 | 64 | [Heavens \- Mono Suono Remix](https://open.spotify.com/track/2ka92kGIMOysEdBY2td6iN) | [Alex Pich](https://open.spotify.com/artist/6Fg5tw2IVCqxHe0BbqLEpR) | [Heavens](https://open.spotify.com/album/4V5fwELDjeeLNHRRWjtvQW) | 7:35 |
+| 65 | [Azure \- Roald Velden Remix](https://open.spotify.com/track/5SFE9nLsTSZi0rPPdF9rBj) | [Japeboy](https://open.spotify.com/artist/4RuPokVKSl4vK1skbGONyJ), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Azure](https://open.spotify.com/album/5rvsbHe2WSn0FOwE7BCswB) | 9:32 |
 
-Snapshot ID: `NzUsMTI2MjVjMzU1N2FmZThkYjc3YTAxNjM0NjRiOWQzMWUyMWE3ZDllMA==`
+Snapshot ID: `NzYsNWQ2YjNkZjA1Y2JkZDZmMmMwZGViNzZiOGJjMmIzNjk4ZTE1MWY2Yw==`

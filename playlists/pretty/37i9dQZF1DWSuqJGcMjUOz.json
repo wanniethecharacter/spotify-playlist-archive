@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2080,
+  "num_followers": 2081,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDZiNzQwODNkMGYxYWI3YWE0NmRjZjMyZTMwYjFhZTNl",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGQ2MzA0ZmVmZDY2MTc2Yjk3YjgyODUwZmNhYTJkMGE3",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Excalibur",
-        "url": "https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T"
-      },
-      "artists": [
-        {
-          "name": "Etienne Dufresne",
-          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
-        }
-      ],
-      "duration_ms": 188369,
-      "name": "Les Rois",
-      "url": "https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Homme Autonome",
         "url": "https://open.spotify.com/album/1HPHFA0duEoD5ewnAvrcHY"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 205373,
       "name": "Mot de passe",
       "url": "https://open.spotify.com/track/5DPdRHRTZHwxiz35F2FQCt"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Excalibur",
+        "url": "https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Les Rois",
+      "url": "https://open.spotify.com/track/0LYoSwbEATgEhaW08cnR3I"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
-        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
-      },
-      "artists": [
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 149226,
-      "name": "Entre mes jambes",
-      "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Le tour du Grand Bois",
         "url": "https://open.spotify.com/album/22ZzGyaIz2MN4cJWfuNngW"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 215066,
       "name": "Dans l'bois",
       "url": "https://open.spotify.com/track/0LI89ikl3gcJpFepnrfr38"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
+        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 149226,
+      "name": "Entre mes jambes",
+      "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Citoyen d'Am\u00e9rique",
-        "url": "https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas"
-      },
-      "artists": [
-        {
-          "name": "Jacques Michel",
-          "url": "https://open.spotify.com/artist/7MBV7HWVAY9naGIoBnJTAv"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Am\u00e8ne-toi chez nous",
-      "url": "https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Grand voyage d\u00e9sorganis\u00e9",
         "url": "https://open.spotify.com/album/1rLmRNRjmGvzDk1rGGKUET"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 155626,
       "name": "La grande \u00e9vasion",
       "url": "https://open.spotify.com/track/2aA0QjPKz8BDUHx2JTUVjp"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Citoyen d'Am\u00e9rique",
+        "url": "https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas"
+      },
+      "artists": [
+        {
+          "name": "Jacques Michel",
+          "url": "https://open.spotify.com/artist/7MBV7HWVAY9naGIoBnJTAv"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Am\u00e8ne-toi chez nous",
+      "url": "https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Haute M\u00e8re",
-        "url": "https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt"
-      },
-      "artists": [
-        {
-          "name": "Lynda Lemay",
-          "url": "https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Le souhait de Carmen",
-      "url": "https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Avec les yeux",
         "url": "https://open.spotify.com/album/7J8c8nCaZzNuClKzBjsplH"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 211706,
       "name": "Masque d'or",
       "url": "https://open.spotify.com/track/5d02AODpcUPHTLwY38ih1m"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Haute M\u00e8re",
+        "url": "https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt"
+      },
+      "artists": [
+        {
+          "name": "Lynda Lemay",
+          "url": "https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Le souhait de Carmen",
+      "url": "https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Airs pa\u00efens",
-        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Dyotte",
-          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
-        }
-      ],
-      "duration_ms": 149293,
-      "name": "J'esp\u00e8re",
-      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "OC\u00c9AN",
         "url": "https://open.spotify.com/album/49JXCaffV2JxIkhka67PLE"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 206373,
       "name": "Mon coeur pour te garder",
       "url": "https://open.spotify.com/track/3lCtEAvtIuCOtb4wi9k4Jn"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Airs pa\u00efens",
+        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        }
+      ],
+      "duration_ms": 149293,
+      "name": "J'esp\u00e8re",
+      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "All\u00f4 Fant\u00f4me",
-        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
-      },
-      "artists": [
-        {
-          "name": "All\u00f4 Fant\u00f4me",
-          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
-        }
-      ],
-      "duration_ms": 396142,
-      "name": "Sur la pointe des pieds",
-      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Encre rose",
         "url": "https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 204343,
       "name": "Nouveau monde",
       "url": "https://open.spotify.com/track/0OSJ5W0WTd6zfUn3fi2zFt"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "All\u00f4 Fant\u00f4me",
+        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
+      },
+      "artists": [
+        {
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+        }
+      ],
+      "duration_ms": 396142,
+      "name": "Sur la pointe des pieds",
+      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Qui a mis le feu",
-        "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
-      },
-      "artists": [
-        {
-          "name": "Mat Vezio",
-          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "Qui a mis le feu",
-      "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Je me souviens",
         "url": "https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 189027,
       "name": "Je me souviens",
       "url": "https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Qui a mis le feu",
+        "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
+      },
+      "artists": [
+        {
+          "name": "Mat Vezio",
+          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Qui a mis le feu",
+      "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
     },
     {
       "added_at": "2022-05-25 18:00:00",

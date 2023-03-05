@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: NICHIMI, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,827 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,839 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 3 | [Tanong=Sagot](https://open.spotify.com/track/0qjrH4A3i883rohSGhZZgQ) | [NICHIMI](https://open.spotify.com/artist/1rhYDmb4KM53o8F1WdaDMg), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Tanong=Sagot](https://open.spotify.com/album/2rk0mUREvjxeHckRRXUBAb) | 2:49 |
 | 4 | [I Wanna Know](https://open.spotify.com/track/4c1yfzKWcctKeG9fOref4Y) | [Ian Sndrz](https://open.spotify.com/artist/7nXqRAyNSiAiM0TpmKw0SC), [LVKE](https://open.spotify.com/artist/13rLafoYydN0Dv4IgYKjST), [Juliana Celine](https://open.spotify.com/artist/2RCkCOEvP4aLFW2IbJcSs4) | [I Wanna Know](https://open.spotify.com/album/44om0rNWARUIk8CNQfuTwT) | 2:51 |
 | 5 | [one night](https://open.spotify.com/track/1zI5gUifb91l59QIGSJF1R) | [lennnn.](https://open.spotify.com/artist/0hYiCyMrUkdDFsO7ud2dUX) | [one night](https://open.spotify.com/album/5vBPlwmu6SFQY7MjVAghFy) | 2:47 |
-| 6 | [Lazy](https://open.spotify.com/track/0YLQKnKN28I44qqzTGsTKc) | [Lorenz](https://open.spotify.com/artist/1aCHTq0Vbgs7ZzHO1YijAs) | [Lazy](https://open.spotify.com/album/1VzTIS71GxwPNwk8OgttCu) | 3:03 |
+| 6 | [Lazy](https://open.spotify.com/track/0YLQKnKN28I44qqzTGsTKc) | [Lorenz](https://open.spotify.com/artist/0fZcZCndBWE3BfnL6ivACA) | [Lazy](https://open.spotify.com/album/1VzTIS71GxwPNwk8OgttCu) | 3:03 |
 | 7 | [Aurora](https://open.spotify.com/track/3ApPICqobBUBcxzPHPs4v8) | [LuckyChan](https://open.spotify.com/artist/6wVI7vgz3JJKAHz6JJ3Vwi), [mrbs](https://open.spotify.com/artist/4OPC9VKSdSwUlqGjnNR78E), [NIAH](https://open.spotify.com/artist/3c0WsEt9CmDtAetIfpxdkr) | [Aurora](https://open.spotify.com/album/3hRdEjUJlhL0mA2qgLGGsw) | 3:37 |
 | 8 | [Pakakawalan](https://open.spotify.com/track/5D8aVTGWlcYHNpaSXZ4Lek) | [Kuju Fernandez](https://open.spotify.com/artist/6qN3DQ4Lc9c2B0ZtpAukdQ) | [Pakakawalan](https://open.spotify.com/album/1pwSVguUQVC2dv7sU7LV3c) | 4:00 |
 | 9 | [Bigla Kang Nawala](https://open.spotify.com/track/3dtKiaSfjbbzRyMQ4IVYKr) | [YooGo](https://open.spotify.com/artist/0C2UMiL7SHWJFBvrdGzdn7) | [Bigla Kang Nawala](https://open.spotify.com/album/0zV7fagucKSeoBGkiAtU4Y) | 3:23 |

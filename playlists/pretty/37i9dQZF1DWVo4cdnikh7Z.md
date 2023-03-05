@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Maaveeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,245 likes - 56 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,578 likes - 56 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

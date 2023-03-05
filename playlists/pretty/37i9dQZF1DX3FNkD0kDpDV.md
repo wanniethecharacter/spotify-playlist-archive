@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Amsterdam Dance Event takes over Amsterdam with an incredible line\-up of dance & electronic artists this month!
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,026 likes - 110 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,043 likes - 110 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 30 | [Lord of the Cockrings](https://open.spotify.com/track/3nqMzRp6zvVtbaI4aCGpVH) | [David Vunk](https://open.spotify.com/artist/1GWOp8EQ7wk8PHp27u9FBJ), [Alden Tyrell](https://open.spotify.com/artist/0UPIlxAvQQlquRCyGw5lFK) | [Lord of the Cockrings](https://open.spotify.com/album/3jDC6KiM4Qovisej9UBAgm) | 6:32 |
 | 31 | [Horses](https://open.spotify.com/track/4LrwWqYk8vjOke7CPiyXbT) | [Nastia Reigel](https://open.spotify.com/artist/4jdGTgmlRjIXreuTLKoO4m) | [Disarm to Surrender](https://open.spotify.com/album/6FCtqGk3Jj4EYXeNeXyjji) | 6:39 |
 | 32 | [Eye Nyam Nam 'A' Mensuro \- Henrik Schwarz Blend](https://open.spotify.com/track/3mNtJ94LS5gTrclSCE9w9r) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI), [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Ene Nyame \(Henrik Schwarz Blend\)](https://open.spotify.com/album/63GGAGH6zBUuXwOJpeC2ok) | 9:23 |
-| 33 | [Vortex](https://open.spotify.com/track/2SJTTaPaR8bP1r0yQe7Jy1) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y), [Setaoc Mass](https://open.spotify.com/artist/1VLqhTOnG3RulADitPNqLt) | [Pitch Black EP](https://open.spotify.com/album/6FIfSqa3kOMNyNR8Dc0pNv) | 6:39 |
+| 33 | [Vortex](https://open.spotify.com/track/2kWVdU692BetWjQ3LQ73TX) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y), [Setaoc Mass](https://open.spotify.com/artist/1VLqhTOnG3RulADitPNqLt) | [Pitch Black EP](https://open.spotify.com/album/1mTgbEwwU09omtXeGiImB9) | 6:39 |
 | 34 | [Circles \(feat\. Tom Adams\) \- Jan Blomqvist Remix](https://open.spotify.com/track/3icEqdzCoqEZjD61pkO9gU) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf), [Tom Adams](https://open.spotify.com/artist/16iuZANRzcO9KStBcMkeAC), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Another Night](https://open.spotify.com/album/7f0bkf8n6AeLyDf8pI2bnT) | 6:06 |
 | 35 | [Saving My Love \- Palms Trax Remix](https://open.spotify.com/track/0ZGFIsd5rhApwpPV9YqMjd) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [Send Return Remixes Pt\. 1](https://open.spotify.com/album/2d10S3TzEDbCwxnTSZH1Bq) | 4:30 |
 | 36 | [Howling \- Âme Remix](https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Howling \(Âme Remix\)](https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5) | 8:05 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 109 | [Kinda Strange](https://open.spotify.com/track/414JWnAfPyxZdg8A9nYf7j) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic) | [No Toning Down](https://open.spotify.com/album/2zksMS4U1ZevTXIQSFbqoC) | 4:12 |
 | 110 | [Ritmo](https://open.spotify.com/track/3pyGKMZ1OZCOTx8KyZnyiE) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Dapapa](https://open.spotify.com/artist/4MsFhnzGHZUXzNp5ymRZny) | [Ritmo](https://open.spotify.com/album/0S7uSiWLCeOVYgAVDFGzvO) | 4:15 |
 
-Snapshot ID: `MTY2NjAxNjU4OCwwMDAwMDAwMGFmZTNjNWU0NWRjYjA4MWZhZTRhZWIyMGIwZWEwNmU5`
+Snapshot ID: `MTY2NjAxNjU4OCwwMDAwMDAwMDMyNTE0MGE0MDU0M2IyOTQ0ZGM2ZDhjNzM1ZmZhMWZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,485 likes - 104 songs - 5 hr 24 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,501 likes - 104 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 2 | [All They Wanted](https://open.spotify.com/track/28Ymf40EoJ6776juQZNPoY) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Ferric Oxide \(Demos 1997 \- 2001\)](https://open.spotify.com/album/2XEgoiYtf35w31ZZm3isN0) | 2:07 |
 | 3 | [Nighttime Routine](https://open.spotify.com/track/2KgwVET4EKMAXGkQUGR6lF) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [Nighttime Routine](https://open.spotify.com/album/6h5PaMV7R6ItjrEXtC3Yxc) | 3:10 |
 | 4 | [3:33](https://open.spotify.com/track/3kXDAfHlPhkwwjTB1oYkQD) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX) | [3:33](https://open.spotify.com/album/2daMcpwyko12ipMkXkh0GQ) | 2:22 |
-| 5 | [Too much](https://open.spotify.com/track/0zFGVz8GnOj0cyzYq0yoXX) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW), [Chelsea Warner](https://open.spotify.com/artist/3Lb2tw0rDcP1ADtJ1BVh3h) | [Too much](https://open.spotify.com/album/3sh0n2bFvboFRjYX9HnATv) | 3:06 |
+| 5 | [Too Much](https://open.spotify.com/track/0zFGVz8GnOj0cyzYq0yoXX) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW), [Chelsea Warner](https://open.spotify.com/artist/3Lb2tw0rDcP1ADtJ1BVh3h) | [Too Much](https://open.spotify.com/album/3sh0n2bFvboFRjYX9HnATv) | 3:06 |
 | 6 | [BEST FRIEND](https://open.spotify.com/track/1fvkl0zK5QIRm8vIsTnd7l) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [BEST FRIEND](https://open.spotify.com/album/3fJd0rdfPO1ljDfKqQxfVc) | 2:55 |
 | 7 | [In My Mind](https://open.spotify.com/track/4QIujxtLqnP1AGndp7fNlR) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [In My mind](https://open.spotify.com/album/6t2MjbEdLrdir2i4bIN0kL) | 3:03 |
 | 8 | [Great Five Lakes \- KutMasta Kurt Mix](https://open.spotify.com/track/4Lt4Ay1GdDqx1gkM2r5UHR) | [Buffalo Daughter](https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby), [KutMasta Kurt](https://open.spotify.com/artist/2T3TY0bgKbi5lH3TfD0m7O) | [Great Five Lakes \(KutMasta Kurt Mix\)](https://open.spotify.com/album/7tMpMd3n8zaAZlsHpPjl7M) | 5:22 |

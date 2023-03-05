@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-173 songs - 11 hr 8 min
+174 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Don't Talk](https://open.spotify.com/track/4nKSjOkQ4CHJ11rR3jhySj) | [Jennie Abrahamson](https://open.spotify.com/artist/6Q6y2vf2DZm7yLWHKQr7Bx) | [Reverseries](https://open.spotify.com/album/4F9FZPhAlHcVEz4Hr7RXHH) | 6:39 | 2021-06-15 |  |
 | [Don’t Know How To Keep Loving You](https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:32 | 2021-06-15 |  |
 | [Dopamin](https://open.spotify.com/track/3FGAT7vALG7JY2QZ81MlB7) | [Maja Amcoff](https://open.spotify.com/artist/1rsfJb1udp1uOyUDKbxwsl) | [Dopamin](https://open.spotify.com/album/4dDmjEneAsduCQZjQGLUEc) | 3:10 | 2021-06-15 |  |
+| [Du kan nu dö](https://open.spotify.com/track/4eP1Q5ushSiXAoUsffB2aj) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing From the Grave](https://open.spotify.com/album/4rn3FV2buJHdwnUSJlGefa) | 6:22 | 2021-06-15 |  |
 | [Döda mig](https://open.spotify.com/track/5SbeOc3hiLtjSdUCCHtAKW) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY), [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Döda mig](https://open.spotify.com/album/7mgF19LOCuYQ5EE8Bti0yv) | 3:33 | 2021-06-15 |  |
 | [Döda mig](https://open.spotify.com/track/5tNn3yFfZzXasCtq9yU8Sa) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY), [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Döda mig](https://open.spotify.com/album/1CMRCHyu46YlOLpLwkTawx) | 3:33 | 2021-06-15 | 2022-07-29 |
 | [End of Time](https://open.spotify.com/track/10uqm85nQKFa49sT2JPPuB) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [End of Time](https://open.spotify.com/album/3U3XiBGlQSGzEQ9yXlVI57) | 3:22 | 2021-06-15 |  |
@@ -110,7 +111,7 @@
 | [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2021-06-15 |  |
 | [Nobody](https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 3:13 | 2021-06-15 | 2022-07-29 |
 | [Old Beauty/Du kan nu dö](https://open.spotify.com/track/4AZgW8ltohl2Oo7gvlcYta) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing From the Grave](https://open.spotify.com/album/1IjhiFTzIwD8WHYB53g5vy) | 6:22 | 2021-06-15 | 2022-07-29 |
-| [Old Beauty/Du Kan Nu Dö](https://open.spotify.com/track/4FJJq6FyEkdk6WZqQSKfMF) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing from the Grave](https://open.spotify.com/album/7sKxyjSSUkjq95jIR4oSiw) | 6:22 | 2021-06-15 |  |
+| [Old Beauty/Du Kan Nu Dö](https://open.spotify.com/track/4FJJq6FyEkdk6WZqQSKfMF) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing from the Grave](https://open.spotify.com/album/7sKxyjSSUkjq95jIR4oSiw) | 6:22 | 2021-06-15 | 2023-03-05 |
 | [Old Man](https://open.spotify.com/track/15xbkn7Layn9MhRTpFSdZP) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Beware of the Dogs](https://open.spotify.com/album/0E1M8jS13CQ4MibjrIqtpW) | 3:33 | 2021-06-15 |  |
 | [Old Man](https://open.spotify.com/track/6dZSq3SqjIVuU6IuZA9tTP) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Old Man](https://open.spotify.com/album/4BLAzanhdDtehNkInmq0f9) | 3:33 | 2021-06-15 | 2022-07-29 |
 | [OPEN SEA](https://open.spotify.com/track/1F08ERcR0x0T4pblOQmFoC) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [OPEN SEA](https://open.spotify.com/album/2c6OYljACs4DrtNqjfD5sb) | 4:29 | 2021-06-15 | 2022-10-13 |

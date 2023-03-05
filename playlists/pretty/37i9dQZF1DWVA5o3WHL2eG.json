@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: CATT",
-  "num_followers": 23604,
+  "num_followers": 23650,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzNjE3NiwwMDAwMDAwMDExNmZhZDI1ODQyMzkxZGE1NTc3NDcxMjdiZWMyZmU0",
+  "snapshot_id": "MTY3NzgzNjE3NiwwMDAwMDAwMGUzOTRlNWExNDA3NmU0ZjAxZTZiZTYzOTBlNDc2MWMw",
   "tracks": [
     {
       "added_at": "2023-03-03 09:36:16",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-03-03 09:36:16",
       "album": {
-        "name": "Winterherz",
-        "url": "https://open.spotify.com/album/4RKvRoMWIeyCvg5jCqqoCR"
-      },
-      "artists": [
-        {
-          "name": "Sira",
-          "url": "https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs"
-        }
-      ],
-      "duration_ms": 136588,
-      "name": "Winterherz",
-      "url": "https://open.spotify.com/track/3PI8dHTA2glK3zq0hm6tdW"
-    },
-    {
-      "added_at": "2023-03-03 09:36:16",
-      "album": {
         "name": "SOUL TO KEEP",
         "url": "https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 420408,
       "name": "SOUL TO KEEP",
       "url": "https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE"
+    },
+    {
+      "added_at": "2023-03-03 09:36:16",
+      "album": {
+        "name": "Winterherz",
+        "url": "https://open.spotify.com/album/4RKvRoMWIeyCvg5jCqqoCR"
+      },
+      "artists": [
+        {
+          "name": "Sira",
+          "url": "https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs"
+        }
+      ],
+      "duration_ms": 136588,
+      "name": "Winterherz",
+      "url": "https://open.spotify.com/track/3PI8dHTA2glK3zq0hm6tdW"
     },
     {
       "added_at": "2023-03-03 09:36:16",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-03-03 09:36:16",
       "album": {
-        "name": "Unter Uns",
-        "url": "https://open.spotify.com/album/7ABBR4IBQkgjeRZeHTR4BP"
-      },
-      "artists": [
-        {
-          "name": "Steiner & Madlaina",
-          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
-        }
-      ],
-      "duration_ms": 193446,
-      "name": "Unter Uns",
-      "url": "https://open.spotify.com/track/37rODg6X5gCPrxOw4cfp2O"
-    },
-    {
-      "added_at": "2023-03-03 09:36:16",
-      "album": {
         "name": "Heavy Objects",
         "url": "https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 123200,
       "name": "Heavy Objects",
       "url": "https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr"
+    },
+    {
+      "added_at": "2023-03-03 09:36:16",
+      "album": {
+        "name": "Unter Uns",
+        "url": "https://open.spotify.com/album/7ABBR4IBQkgjeRZeHTR4BP"
+      },
+      "artists": [
+        {
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+        }
+      ],
+      "duration_ms": 193446,
+      "name": "Unter Uns",
+      "url": "https://open.spotify.com/track/37rODg6X5gCPrxOw4cfp2O"
     },
     {
       "added_at": "2023-03-03 09:36:16",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-03 09:36:16",
       "album": {
-        "name": "Tritoness & The Scent of Rain",
-        "url": "https://open.spotify.com/album/7iM26B2rnhPRMwfXboYsCC"
-      },
-      "artists": [
-        {
-          "name": "benzii",
-          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/2S4sNPPGvAx4J5vrMrI3Ay"
-    },
-    {
-      "added_at": "2023-03-03 09:36:16",
-      "album": {
         "name": "call me cat",
         "url": "https://open.spotify.com/album/5FlC8xzZPpDAQQwKQPiT8U"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 140453,
       "name": "call me cat",
       "url": "https://open.spotify.com/track/1hkwO8e7X5wCgYEyod3jYE"
+    },
+    {
+      "added_at": "2023-03-03 09:36:16",
+      "album": {
+        "name": "Tritoness & The Scent of Rain",
+        "url": "https://open.spotify.com/album/7iM26B2rnhPRMwfXboYsCC"
+      },
+      "artists": [
+        {
+          "name": "benzii",
+          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/2S4sNPPGvAx4J5vrMrI3Ay"
     },
     {
       "added_at": "2023-03-03 09:36:16",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-03-03 09:36:16",
       "album": {
+        "name": "magnetic wave",
+        "url": "https://open.spotify.com/album/6Noy80dBq1RYXcXyM4rtfl"
+      },
+      "artists": [
+        {
+          "name": "Lore Vain",
+          "url": "https://open.spotify.com/artist/6DqrVKvdGRhx29OrkIolA5"
+        }
+      ],
+      "duration_ms": 224155,
+      "name": "magnetic wave",
+      "url": "https://open.spotify.com/track/0nwyYYdkOwGiwQNNLCUwSl"
+    },
+    {
+      "added_at": "2023-03-03 09:36:16",
+      "album": {
         "name": "AN DEN ALPTRAUM",
         "url": "https://open.spotify.com/album/1lsjKIqG8RfLmvx70Pn7YB"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2023-03-03 09:36:16",
       "album": {
-        "name": "magnetic wave",
-        "url": "https://open.spotify.com/album/6Noy80dBq1RYXcXyM4rtfl"
+        "name": "Only Human",
+        "url": "https://open.spotify.com/album/1RbYJYm3I6IXeVGwSzfutS"
       },
       "artists": [
         {
-          "name": "Lore Vain",
-          "url": "https://open.spotify.com/artist/6DqrVKvdGRhx29OrkIolA5"
+          "name": "Ja\u00ebl",
+          "url": "https://open.spotify.com/artist/0z0YozcOIqw3EDJnU2NgOe"
         }
       ],
-      "duration_ms": 224155,
-      "name": "magnetic wave",
-      "url": "https://open.spotify.com/track/0nwyYYdkOwGiwQNNLCUwSl"
+      "duration_ms": 205813,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/3msFndU6dPawydh1LtERRZ"
     },
     {
       "added_at": "2023-03-03 09:36:16",
@@ -659,22 +675,6 @@
     {
       "added_at": "2023-03-03 09:36:16",
       "album": {
-        "name": "Only Human",
-        "url": "https://open.spotify.com/album/1RbYJYm3I6IXeVGwSzfutS"
-      },
-      "artists": [
-        {
-          "name": "Ja\u00ebl",
-          "url": "https://open.spotify.com/artist/0z0YozcOIqw3EDJnU2NgOe"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Only Human",
-      "url": "https://open.spotify.com/track/3msFndU6dPawydh1LtERRZ"
-    },
-    {
-      "added_at": "2023-03-03 09:36:16",
-      "album": {
         "name": "modern disaster",
         "url": "https://open.spotify.com/album/12ten6jqQnPFzNFW8QYE4G"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-03 09:36:16",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/74BCmuVplEIbtDc4BpqIAy"
-      },
-      "artists": [
-        {
-          "name": "Pina Palau",
-          "url": "https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP"
-        }
-      ],
-      "duration_ms": 192428,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2FyNJ79bRat5riP6eyCAY2"
-    },
-    {
-      "added_at": "2023-03-03 09:36:16",
-      "album": {
         "name": "Opia EP",
         "url": "https://open.spotify.com/album/7jjxWvwVRvMcPjhkjaOTAn"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 439998,
       "name": "Opia",
       "url": "https://open.spotify.com/track/2iuh1TuXGRxLvr2frc8HFA"
+    },
+    {
+      "added_at": "2023-03-03 09:36:16",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/74BCmuVplEIbtDc4BpqIAy"
+      },
+      "artists": [
+        {
+          "name": "Pina Palau",
+          "url": "https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP"
+        }
+      ],
+      "duration_ms": 192428,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2FyNJ79bRat5riP6eyCAY2"
     },
     {
       "added_at": "2023-03-03 09:36:16",

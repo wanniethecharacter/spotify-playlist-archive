@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Brandee Younger
 
-757 songs - 2 day 13 hr 12 min
+758 songs - 2 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,7 +548,8 @@
 | [Silver Needle](https://open.spotify.com/track/5wd6BFck1slRZSsoniICZi) | [Tobias Wiklund](https://open.spotify.com/artist/60qX0LHYPPka2fkSsGhcsx) | [Silver Needle](https://open.spotify.com/album/1YS1pLb5x8Ot6OgSaQA04N) | 5:51 | 2022-05-06 | 2022-05-28 |
 | [Silverdust](https://open.spotify.com/track/21lWK01keyw5boPtU10UF3) | [Mike LeDonne](https://open.spotify.com/artist/5HOZypv3IkaUfwr6UwhOX7), [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX), [Eric Alexander](https://open.spotify.com/artist/4obfH4xleG9EzLN4NTNEfu), [Kenny Washington](https://open.spotify.com/artist/4ern8uIUTeqcI4AE8Q5ZnO), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL) | [Silverdust](https://open.spotify.com/album/4uGAuugs92gmIiXrXccJ5x) | 7:30 | 2022-10-21 | 2022-11-26 |
 | [Sincerity](https://open.spotify.com/track/4Gx5QvXS2fT0dlgnu2qVwq) | [Niels Vincentz](https://open.spotify.com/artist/06swMcwDI7ffGr3D3K10qF), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I), [David Wong](https://open.spotify.com/artist/2uvK3qQRe94yfxfJ4qsCCr), [Jacob Artved](https://open.spotify.com/artist/5d3accwB8PpQbK9ajwv1Re) | [Sincerity](https://open.spotify.com/album/2rL4QchZYhoHgIWPTHvHZp) | 8:02 | 2022-07-01 | 2022-07-23 |
-| [Singularity](https://open.spotify.com/track/6xol9iS7QVggKGLIcXIPNV) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Singularity](https://open.spotify.com/album/5zZJjvf7RJjbeNuTuhIJK3) | 3:10 | 2023-02-17 |  |
+| [Singularity](https://open.spotify.com/track/6DqhE2YrCDFLMTTicTmcCI) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Singularity](https://open.spotify.com/album/2ff6fUWBKC7E6HFP8IOL2T) | 3:10 | 2023-02-17 |  |
+| [Singularity](https://open.spotify.com/track/6xol9iS7QVggKGLIcXIPNV) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Singularity](https://open.spotify.com/album/5zZJjvf7RJjbeNuTuhIJK3) | 3:10 | 2023-02-17 | 2023-03-05 |
 | [Slosetta](https://open.spotify.com/track/6auCocFF7c6B5gWAMesI7w) | [Maik Krahl Quartet](https://open.spotify.com/artist/4UufeyG4k9f2dkxg50aCX7), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Slosetta](https://open.spotify.com/album/5KfGEC7FwRFuH07JLwJQhJ) | 7:01 | 2022-08-08 | 2022-09-03 |
 | [Slow Change](https://open.spotify.com/track/4RKHutMhMhCgqC9HeP2pZ0) | [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Jon Cowherd](https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE), [Myron Walden](https://open.spotify.com/artist/5wTziSHywk2CtCL463tSNR), [Monte Croft](https://open.spotify.com/artist/2lJS048alI10juGK1Z9J49), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq), [Rogerio Boccato](https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe), [John Hart](https://open.spotify.com/artist/3ndHyLdOcwpsVn1FCxIrLV) | [Slow Change](https://open.spotify.com/album/1IcqX9UmiHqNNH9wH5w6Zk) | 7:39 | 2022-11-25 | 2022-12-17 |
 | [Slow Hot Wind](https://open.spotify.com/track/5KLuxrGo0LBcyGvGj3NKai) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Slow Hot Wind](https://open.spotify.com/album/31CBhKMtQuIiols58fRWlR) | 5:19 | 2023-02-24 |  |

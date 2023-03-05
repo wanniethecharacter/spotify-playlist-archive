@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Egreen in cover.",
-  "num_followers": 30844,
+  "num_followers": 30866,
   "original_name": "Radici Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODA2MCwwMDAwMDAwMGJkNTY1NDk0M2U1NjY3NTI4MjI4ZDMwYTk2MmE0ZjIz",
+  "snapshot_id": "MTY3Nzc5ODA2MCwwMDAwMDAwMDQ5YzRhNzYwNDI3Njc3MDFhZjYwNjc5MDY4ZmI3NzU1",
   "tracks": [
     {
       "added_at": "2023-03-02 23:01:00",
@@ -931,30 +931,6 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "Universo (feat. Neffa & Fabri Fibra)",
-        "url": "https://open.spotify.com/album/6A6BCS63HUZtmdPUzdPX93"
-      },
-      "artists": [
-        {
-          "name": "Deda",
-          "url": "https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG"
-        },
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 204335,
-      "name": "Universo (feat. Neffa & Fabri Fibra)",
-      "url": "https://open.spotify.com/track/63njYQ4X8RtPni0YgoIaEJ"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -987,6 +963,30 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
+        "name": "Universo (feat. Neffa & Fabri Fibra)",
+        "url": "https://open.spotify.com/album/6A6BCS63HUZtmdPUzdPX93"
+      },
+      "artists": [
+        {
+          "name": "Deda",
+          "url": "https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG"
+        },
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 204335,
+      "name": "Universo (feat. Neffa & Fabri Fibra)",
+      "url": "https://open.spotify.com/track/63njYQ4X8RtPni0YgoIaEJ"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
         "name": "Riproduzione Vietata",
         "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 253683,
       "name": "L'Anima Giusta",
       "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
+        "name": "Foto di gruppo",
+        "url": "https://open.spotify.com/album/0OX04ldIVHEuZTZMDxpokA"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "duration_ms": 210946,
+      "name": "Foto di gruppo",
+      "url": "https://open.spotify.com/track/6fc22mbFV0QVn6gzdvehnK"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Quelli come noi",
-      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
         "name": "Mondo Marcio (2022 Remastered)",
         "url": "https://open.spotify.com/album/76VmOnyPsdl1fZRqnOhGkf"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "Foto di gruppo",
-        "url": "https://open.spotify.com/album/0OX04ldIVHEuZTZMDxpokA"
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
       },
       "artists": [
         {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
         }
       ],
-      "duration_ms": 210946,
-      "name": "Foto di gruppo",
-      "url": "https://open.spotify.com/track/6fc22mbFV0QVn6gzdvehnK"
+      "duration_ms": 181346,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1167,30 +1167,18 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
       "artists": [
         {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Stokka",
-          "url": "https://open.spotify.com/artist/4J7IDFi8WMrs8WpGnh8geP"
-        },
-        {
-          "name": "Mad Buddy",
-          "url": "https://open.spotify.com/artist/1xB5wW9mLQM0q8FEqY8OAJ"
-        },
-        {
-          "name": "Dj Double S",
-          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
         }
       ],
-      "duration_ms": 311000,
-      "name": "Ghettoblaster",
-      "url": "https://open.spotify.com/track/5JpWfVGafokOb3PBGlp98g"
+      "duration_ms": 295293,
+      "name": "Cani sciolti",
+      "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1211,22 +1199,6 @@
       "duration_ms": 202142,
       "name": "Pi\u00f9 forte di me",
       "url": "https://open.spotify.com/track/0PCvuLxAe3BrJdECjoDCyv"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 295293,
-      "name": "Cani sciolti",
-      "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1259,6 +1231,62 @@
       "duration_ms": 291757,
       "name": "Poeti estinti",
       "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
+        "name": "TOTEM (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/524xUYS5ydBPaiHA2R3GeD"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Kaiz\u00e9n",
+          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
+        },
+        {
+          "name": "Macaboro",
+          "url": "https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "duration_ms": 233363,
+      "name": "Un Bacio sulla Fronte",
+      "url": "https://open.spotify.com/track/5GBfDgJCZ2RdZw3U0C8d7g"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Stokka",
+          "url": "https://open.spotify.com/artist/4J7IDFi8WMrs8WpGnh8geP"
+        },
+        {
+          "name": "Mad Buddy",
+          "url": "https://open.spotify.com/artist/1xB5wW9mLQM0q8FEqY8OAJ"
+        },
+        {
+          "name": "Dj Double S",
+          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "Ghettoblaster",
+      "url": "https://open.spotify.com/track/5JpWfVGafokOb3PBGlp98g"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1355,30 +1383,18 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "TOTEM (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/524xUYS5ydBPaiHA2R3GeD"
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
       },
       "artists": [
         {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        },
-        {
-          "name": "Kaiz\u00e9n",
-          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
-        },
-        {
-          "name": "Macaboro",
-          "url": "https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9"
-        },
-        {
-          "name": "Silent Bob",
-          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
         }
       ],
-      "duration_ms": 233363,
-      "name": "Un Bacio sulla Fronte",
-      "url": "https://open.spotify.com/track/5GBfDgJCZ2RdZw3U0C8d7g"
+      "duration_ms": 143892,
+      "name": "Caramelle da uno sconosciuto",
+      "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1395,22 +1411,6 @@
       "duration_ms": 191893,
       "name": "Birre in lattina",
       "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Ferro del mestiere",
-        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
-      },
-      "artists": [
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        }
-      ],
-      "duration_ms": 143892,
-      "name": "Caramelle da uno sconosciuto",
-      "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1483,30 +1483,6 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "La volta buona",
-        "url": "https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP"
-      },
-      "artists": [
-        {
-          "name": "Stokka & Madbuddy",
-          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
-        },
-        {
-          "name": "Roc Beats",
-          "url": "https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
-        }
-      ],
-      "duration_ms": 234525,
-      "name": "La volta buona",
-      "url": "https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
         "name": "Guerra fra poveri",
         "url": "https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C"
       },
@@ -1575,6 +1551,30 @@
       "duration_ms": 202666,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
+        "name": "La volta buona",
+        "url": "https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP"
+      },
+      "artists": [
+        {
+          "name": "Stokka & Madbuddy",
+          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
+        },
+        {
+          "name": "Roc Beats",
+          "url": "https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d"
+        },
+        {
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+        }
+      ],
+      "duration_ms": 234525,
+      "name": "La volta buona",
+      "url": "https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
+        "name": "Max",
+        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        }
+      ],
+      "duration_ms": 260800,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
         "name": "Sotto effetto stono",
         "url": "https://open.spotify.com/album/63h7JtAfYi7W0e4lbGtzEE"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 276933,
       "name": "Solo lei ha quel che voglio (feat. Danny Losito)",
       "url": "https://open.spotify.com/track/6XuUJwcaTMdDS7rsasMNaM"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Max",
-        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        }
-      ],
-      "duration_ms": 260800,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1831,6 +1831,26 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Danno E Masito",
+          "url": "https://open.spotify.com/artist/0RwwVSLbtwrboAdbOPwYv6"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "Coltelli",
+      "url": "https://open.spotify.com/track/5FYJs2NzhioUpt8pJ6BnHo"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
         "name": "SFIGA",
         "url": "https://open.spotify.com/album/4dIsIgbAgNPt2v1VmBBOLE"
       },
@@ -1847,22 +1867,6 @@
       "duration_ms": 217865,
       "name": "SFIGA",
       "url": "https://open.spotify.com/track/5ajrfRBwHrOkozOl9hghr5"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Originali",
-        "url": "https://open.spotify.com/album/4DCWdIfX0huihDnmlsQyvU"
-      },
-      "artists": [
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        }
-      ],
-      "duration_ms": 202312,
-      "name": "Poco Male",
-      "url": "https://open.spotify.com/track/7zJ1aqU0mFdkVt3P71vRA6"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1891,22 +1895,18 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+        "name": "Originali",
+        "url": "https://open.spotify.com/album/4DCWdIfX0huihDnmlsQyvU"
       },
       "artists": [
         {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Danno E Masito",
-          "url": "https://open.spotify.com/artist/0RwwVSLbtwrboAdbOPwYv6"
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
         }
       ],
-      "duration_ms": 177400,
-      "name": "Coltelli",
-      "url": "https://open.spotify.com/track/5FYJs2NzhioUpt8pJ6BnHo"
+      "duration_ms": 202312,
+      "name": "Poco Male",
+      "url": "https://open.spotify.com/track/7zJ1aqU0mFdkVt3P71vRA6"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1931,6 +1931,30 @@
       "duration_ms": 180776,
       "name": "Beatrice",
       "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
+        "name": "Classe 73",
+        "url": "https://open.spotify.com/album/423Tq90iFAYsE639sLEuHH"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        },
+        {
+          "name": "Ape",
+          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
+        },
+        {
+          "name": "Zampa",
+          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Giorni matti",
+      "url": "https://open.spotify.com/track/1m0PHHaJ6RDMrkSMRZ1UjN"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1991,26 +2015,18 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "Classe 73",
-        "url": "https://open.spotify.com/album/423Tq90iFAYsE639sLEuHH"
+        "name": "Rebus",
+        "url": "https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz"
       },
       "artists": [
         {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        },
-        {
-          "name": "Ape",
-          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
-        },
-        {
-          "name": "Zampa",
-          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Giorni matti",
-      "url": "https://open.spotify.com/track/1m0PHHaJ6RDMrkSMRZ1UjN"
+      "duration_ms": 193706,
+      "name": "Bugie Bianche",
+      "url": "https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -2035,22 +2051,6 @@
       "duration_ms": 208636,
       "name": "Sabbie Mobili (feat. Davide Shorty)",
       "url": "https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Sotto lo stesso effetto",
-        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
-      },
-      "artists": [
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Amor de mi vida",
-      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
     }
   ],
   "unique_name": "Radici Hip Hop",

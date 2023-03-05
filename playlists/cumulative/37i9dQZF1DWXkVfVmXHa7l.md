@@ -4,7 +4,7 @@
 
 > Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-116 songs - 8 hr 40 min
+117 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [theDOGS](https://open.spotify.com/track/7oexMVSCaD9l35CAliJT4w) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [劇場版「進撃の巨人」後編\~自由の翼\~エンディングテーマ theDOGS produced by 澤野弘之](https://open.spotify.com/album/65i8TQtZ3KB2xpwe90FKRV) | 4:35 | 2022-02-08 | 2022-07-29 |
 | [TheWeightOfLives](https://open.spotify.com/track/0Q9wde6DM7ECi5FoBRJTFS) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [劇場版「進撃の巨人」後編\~自由の翼\~エンディングテーマ theDOGS produced by 澤野弘之](https://open.spotify.com/album/65i8TQtZ3KB2xpwe90FKRV) | 7:20 | 2022-02-08 | 2022-06-22 |
 | [True History](https://open.spotify.com/track/2bCZx1hDtyzTrwIq2HlKMe) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 5:20 | 2022-02-08 | 2022-06-22 |
-| [UNDER THE TREE](https://open.spotify.com/track/0KmCtn8UBbqidcIRduzARB) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [UNDER THE TREE](https://open.spotify.com/album/5lCwl44IhsSbBkQFAxgrFk) | 2:01 | 2023-03-03 |  |
+| [UNDER THE TREE](https://open.spotify.com/track/0KmCtn8UBbqidcIRduzARB) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [UNDER THE TREE](https://open.spotify.com/album/5lCwl44IhsSbBkQFAxgrFk) | 2:01 | 2023-03-03 | 2023-03-05 |
+| [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 | 2023-03-03 |  |
 | [Utsukushiki Zankokuna Sekai \(From "Attack on Titan"\)](https://open.spotify.com/track/3hdbzikxtK3sY5MT5wAAan) | [Yoko Hikasa](https://open.spotify.com/artist/432YeAgYRrioSdsY06F2CT) | [Couleur](https://open.spotify.com/album/10U7D2rtjPWDEX4XseGcwh) | 4:53 | 2022-06-21 |  |
 | [Vogel Im Kafig](https://open.spotify.com/track/7AEcphXUR52QGYxdZ8TDVI) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 6:20 | 2022-06-21 |  |
 | [Vogel im Käfig](https://open.spotify.com/track/06Lkh16UIG2CZfhCilMUT9) | [Cyua](https://open.spotify.com/artist/3gMQIwIzRRTX8tQg5COTaX), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 6:20 | 2022-02-08 | 2022-07-29 |

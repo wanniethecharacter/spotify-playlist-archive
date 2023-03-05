@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-195 songs - 12 hr 13 min
+196 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Higher Power](https://open.spotify.com/track/0u70IdyL5XsnryWI99Haqr) | [Cody Jasper](https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H) | [Higher Power](https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD) | 4:14 | 2022-02-25 |  |
 | [Hippies On Acid](https://open.spotify.com/track/4IdcUbuVe9VN6lnFJqCeIk) | [7Horse](https://open.spotify.com/artist/3P5NW1wQjcWpR0VsT1m0xr) | [The Last Resort](https://open.spotify.com/album/0ihKlGpDF5aXScqrJu7zUZ) | 3:45 | 2022-07-15 |  |
 | [Hold on It](https://open.spotify.com/track/7GXqZ0v1AovRQDV0NBIs4a) | [The Sideshow Tragedy](https://open.spotify.com/artist/3orDENaFfgt5gcLk24QHSS) | [Hold on It](https://open.spotify.com/album/4rdexywHhYUx0aouC1if9r) | 4:11 | 2020-10-16 |  |
-| [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 | 2020-10-16 |  |
+| [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 | 2020-10-16 | 2023-03-05 |
+| [Holy Ghost Fire](https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:22 | 2020-10-16 |  |
 | [Homesick Blues](https://open.spotify.com/track/0sL71NFPGTCMCylI0owpZN) | [True Strays](https://open.spotify.com/artist/2arsJQ0bB5uQyDJoR3MbOq) | [Homeward Bound](https://open.spotify.com/album/14KKcXPokDi6qo43F5ttV3) | 3:40 | 2020-10-16 |  |
 | [Hounds Loose](https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Hounds Loose](https://open.spotify.com/album/3QmIoMDXgmOIMj9oCPnjlO) | 3:44 | 2022-02-25 |  |
 | [How High](https://open.spotify.com/track/4BYD2s44Gzhnpw9XsyhfKk) | [Steve Marriner](https://open.spotify.com/artist/3gGtZLqY9EV0wTN8TjygoT) | [How High](https://open.spotify.com/album/5AImRUVECSvsxYnEeGVGMf) | 2:12 | 2021-07-02 |  |

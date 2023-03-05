@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Haugen",
+          "url": "https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161888,
+      "name": "Endless Hope",
+      "url": "https://open.spotify.com/track/76ph3BPshzbP1Ph4BLTSHU"
+    },
+    {
+      "album": {
         "name": "Enlightened",
         "url": "https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu"
       },
@@ -1824,7 +1842,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 203374,
       "name": "I Promise",
       "url": "https://open.spotify.com/track/1XH3miXC6EsroQKHct8ygN"

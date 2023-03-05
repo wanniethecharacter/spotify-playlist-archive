@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 112040,
+  "num_followers": 112128,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGRmMjlhMzFmYzAyOGIxMmI5N2FhOThjY2M5OGE0MTZi",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGMxOWNmMTU5ZDcxYzZmNzJiMmQyZDdmODA3NzEyNmRk",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 275960,
-      "name": "I Shall Be Released",
-      "url": "https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Bridge Of Sighs (2007 Remaster)",
         "url": "https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 451893,
       "name": "Too Rolling Stoned - 2007 Remaster",
       "url": "https://open.spotify.com/track/0aveCMNj686kG1oX4n80P6"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 275960,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Street Corner Talking",
-        "url": "https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown",
-          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
-        }
-      ],
-      "duration_ms": 323733,
-      "name": "Tell Mama",
-      "url": "https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Every Picture Tells A Story",
         "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 323733,
       "name": "(I Know) I'm Losing You",
       "url": "https://open.spotify.com/track/7s7ylhLGL0sV6TU9bzpN5S"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Street Corner Talking",
+        "url": "https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown",
+          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+        }
+      ],
+      "duration_ms": 323733,
+      "name": "Tell Mama",
+      "url": "https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Shapes of Things",
-      "url": "https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Thunder in the Sky",
@@ -759,6 +743,22 @@
       "duration_ms": 396106,
       "name": "Thunder in the Sky",
       "url": "https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Shapes of Things",
+      "url": "https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -841,6 +841,22 @@
       "url": "https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "What's It Gonna Be",
+        "url": "https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jones",
+          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "What's It Gonna Be",
+      "url": "https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd"
+    },
+    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "Truth",
@@ -861,20 +877,20 @@
       "url": "https://open.spotify.com/track/1zdIWwLewKA80dpjMHoZKc"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "What's It Gonna Be",
-        "url": "https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv"
+        "name": "Twice Removed from Yesterday",
+        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
       },
       "artists": [
         {
-          "name": "Laurence Jones",
-          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
         }
       ],
-      "duration_ms": 256733,
-      "name": "What's It Gonna Be",
-      "url": "https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd"
+      "duration_ms": 162426,
+      "name": "Man of the World",
+      "url": "https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -891,22 +907,6 @@
       "duration_ms": 189053,
       "name": "Blues Power",
       "url": "https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Twice Removed from Yesterday",
-        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        }
-      ],
-      "duration_ms": 162426,
-      "name": "Man of the World",
-      "url": "https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Stonedhenge (Re-Presents)",
-        "url": "https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l"
+        "name": "Blues & Gospel (Rare & Unreleased Recordings)",
+        "url": "https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi"
       },
       "artists": [
         {
-          "name": "Ten Years After",
-          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+          "name": "Jo Ann Kelly",
+          "url": "https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG"
         }
       ],
-      "duration_ms": 348240,
-      "name": "Hear Me Calling - Mono",
-      "url": "https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w"
+      "duration_ms": 216186,
+      "name": "Someday Baby Blues",
+      "url": "https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L"
     },
     {
       "added_at": "2021-04-22 22:35:02",

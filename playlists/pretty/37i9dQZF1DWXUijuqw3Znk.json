@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2928,
+  "num_followers": 2931,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIyODY5NCwwMDAwMDAwMDIzZThhYjZkNDVjNzIxNzI0NDI0MjcyZmIzYTZjNmYx",
+  "snapshot_id": "MTY3NzIyODY5NCwwMDAwMDAwMDEyMmEwM2U4ZmRlODQ0ZTM0NzBjMjA2NTE1ZTlmZjk4",
   "tracks": [
     {
       "added_at": "2023-02-14 07:04:41",
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV"
     },
     {
-      "added_at": "2023-03-04 00:33:21",
+      "added_at": "2023-03-05 01:16:10",
       "album": {
         "name": "LALALA Remix",
         "url": "https://open.spotify.com/album/70otDt0x1EX7RVIiGWPju3"
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 197096,
-      "name": "METEOR",
-      "url": "https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "Siren Remix",
         "url": "https://open.spotify.com/album/5c84PfOOqKLuE8WTtsgqbn"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 197093,
       "name": "Siren Remix (Feat. UNEDUCATED KID, Paul Blanco)",
       "url": "https://open.spotify.com/track/2S9FuNX2H2cCwxcIoTUtbM"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 197096,
+      "name": "METEOR",
+      "url": "https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
+        "name": "\u20a9 & ONLY",
+        "url": "https://open.spotify.com/album/1gH9rdHenF2tgGr5Q1EjNW"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 223087,
+      "name": "Simon Dominic",
+      "url": "https://open.spotify.com/track/2kbTe9JWzLAXa4MCp1FVNz"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 196706,
       "name": "Acceptance Speech (Feat. B.I)",
       "url": "https://open.spotify.com/track/07jvrbj5MwSRSzzkwrDQ3l"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
-        "name": "\u20a9 & ONLY",
-        "url": "https://open.spotify.com/album/1gH9rdHenF2tgGr5Q1EjNW"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 223087,
-      "name": "Simon Dominic",
-      "url": "https://open.spotify.com/track/2kbTe9JWzLAXa4MCp1FVNz"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "Show Me the Money 777 Semi Final",
-        "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
-      },
-      "artists": [
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 329487,
-      "name": "NoNo (Prod. by CODE KUNST)",
-      "url": "https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "BOYCOLD",
         "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 292109,
       "name": "h1ghr gang",
       "url": "https://open.spotify.com/track/2fFeKfvIEJxpFbeTZ0tsJ5"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "Show Me the Money 777 Semi Final",
+        "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
+      },
+      "artists": [
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 329487,
+      "name": "NoNo (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -955,8 +955,8 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "REBORN",
-        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/6JZcMszjclxpjaS3VPyOvw"
       },
       "artists": [
         {
@@ -964,17 +964,21 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         },
         {
-          "name": "Boi B",
-          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         }
       ],
-      "duration_ms": 235364,
-      "name": "REBORN",
-      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
+      "duration_ms": 221142,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/61J1dGU5RCNs6rMnPADv4r"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1179,8 +1183,8 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/6JZcMszjclxpjaS3VPyOvw"
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
       },
       "artists": [
         {
@@ -1188,21 +1192,17 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
         },
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
         }
       ],
-      "duration_ms": 221142,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/61J1dGU5RCNs6rMnPADv4r"
+      "duration_ms": 235364,
+      "name": "REBORN",
+      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "MEVIUS",
-        "url": "https://open.spotify.com/album/76tNouAAoq5UcyhYZ5zEUz"
-      },
-      "artists": [
-        {
-          "name": "J;KEY",
-          "url": "https://open.spotify.com/artist/4I42k3aXHgTQ7hUMx259WK"
-        },
-        {
-          "name": "Von Air",
-          "url": "https://open.spotify.com/artist/2d5pN8dJvMwQllTEbKs9m7"
-        }
-      ],
-      "duration_ms": 174587,
-      "name": "MEVIUS (Feat. Von Air)",
-      "url": "https://open.spotify.com/track/44GtWk95ctG99mgbjLUGkA"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "UNDERGROUND ROCKSTAR",
         "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 222014,
       "name": "Supernova (Feat. Dut2)",
       "url": "https://open.spotify.com/track/5by16CeSkrzyrSOrv1rdFx"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "MEVIUS",
+        "url": "https://open.spotify.com/album/76tNouAAoq5UcyhYZ5zEUz"
+      },
+      "artists": [
+        {
+          "name": "J;KEY",
+          "url": "https://open.spotify.com/artist/4I42k3aXHgTQ7hUMx259WK"
+        },
+        {
+          "name": "Von Air",
+          "url": "https://open.spotify.com/artist/2d5pN8dJvMwQllTEbKs9m7"
+        }
+      ],
+      "duration_ms": 174587,
+      "name": "MEVIUS (Feat. Von Air)",
+      "url": "https://open.spotify.com/track/44GtWk95ctG99mgbjLUGkA"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "MALIK THE CACTUS FLOWER",
-        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Infectious (Til Infinity)",
-      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 240773,
       "name": "Time Travel",
       "url": "https://open.spotify.com/track/65ny4Q03m0zC2a5C3VPO3I"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "MALIK THE CACTUS FLOWER",
+        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Infectious (Til Infinity)",
+      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 121425,
-      "name": "Be a pro",
-      "url": "https://open.spotify.com/track/6dyW3iGX7qLP4fiejy6gWy"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "P.O.E.M. II",
         "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 241777,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 121425,
+      "name": "Be a pro",
+      "url": "https://open.spotify.com/track/6dyW3iGX7qLP4fiejy6gWy"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
+        "name": "THE STRANGER",
+        "url": "https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 161631,
+      "name": "GOT TO KNOW",
+      "url": "https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
         "name": "Show Me the Money 9 Episode 2",
         "url": "https://open.spotify.com/album/212k31nG9gtLC4RbuDZ2fw"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 253800,
       "name": "Upgrade 2020",
       "url": "https://open.spotify.com/track/1yO2Tdk9kigVegslEzEWPN"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
-        "name": "THE STRANGER",
-        "url": "https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 161631,
-      "name": "GOT TO KNOW",
-      "url": "https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1975,30 +1975,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "IT\u2032S YOUR WAY",
-        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
-      },
-      "artists": [
-        {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
-        },
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "Ck",
-          "url": "https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy"
-        }
-      ],
-      "duration_ms": 189834,
-      "name": "Double Up (Feat. skinny brown, CK)",
-      "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "BLAZE",
         "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
       },
@@ -2035,6 +2011,30 @@
       "duration_ms": 199786,
       "name": "First Rollie (feat. Seori)",
       "url": "https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "IT\u2032S YOUR WAY",
+        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "Ck",
+          "url": "https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy"
+        }
+      ],
+      "duration_ms": 189834,
+      "name": "Double Up (Feat. skinny brown, CK)",
+      "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
     }
   ],
   "unique_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",

@@ -4,7 +4,7 @@
 
 > Extatische gevoelens met prachtige muziek
 
-74 songs - 4 hr 19 min
+75 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,8 +47,9 @@
 | [It's Not You \- Nightshade Remix](https://open.spotify.com/track/0AB7xxoxUjWA1yoEEx87lw) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Nightshade](https://open.spotify.com/artist/5jlxXMEsdRPKWI4DEnBWlT) | [It's Not You](https://open.spotify.com/album/3iy2S5rOvMYWHiYvBCmeDT) | 5:12 | 2023-02-23 |  |
 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 | 2023-02-23 |  |
 | [Just \(Good\) Enough](https://open.spotify.com/track/1SFnRRBob0uMlvTS0dY2FG) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Just \(Good\) Enough](https://open.spotify.com/album/6fbJuvJY02viWCVxXtND1g) | 3:55 | 2023-02-23 |  |
-| [Keep It Together](https://open.spotify.com/track/3kyL3FdLJvCIS9HIf1pPHj) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr) | [Keep It Together](https://open.spotify.com/album/4KDaXA0zbILlJO62i07plQ) | 3:16 | 2023-03-02 |  |
+| [Keep It Together](https://open.spotify.com/track/3kyL3FdLJvCIS9HIf1pPHj) | [Pip Blom](https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr) | [Keep It Together](https://open.spotify.com/album/4KDaXA0zbILlJO62i07plQ) | 3:16 | 2023-03-02 | 2023-03-05 |
 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2023-02-23 |  |
+| [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-02 |  |
 | [Leave Now](https://open.spotify.com/track/4SeLaRsfneY69BJH19G5IL) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Leave Now](https://open.spotify.com/album/67zrW9POiw6xEnzDae83QQ) | 3:47 | 2023-02-23 |  |
 | [Linger On \- Roosevelt Remix Edit](https://open.spotify.com/track/7H1ANIC9UvF8pllkQq9w6t) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Linger On \(Roosevelt Remix\)](https://open.spotify.com/album/3u8Mqoh9aU1a3OyhcjdYpA) | 4:15 | 2023-02-23 |  |
 | [Live It Up](https://open.spotify.com/track/3EuQ0cCmo81wMxM2wTn5Yh) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Always In My Head](https://open.spotify.com/album/5yNSrDrLVydHp5WjKAkKju) | 3:18 | 2023-02-23 |  |

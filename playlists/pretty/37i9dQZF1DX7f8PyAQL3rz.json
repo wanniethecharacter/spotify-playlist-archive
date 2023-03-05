@@ -1,12 +1,12 @@
 {
   "description": "tubar\u00e3o convocou tz l7 e djonga",
-  "num_followers": 1075677,
+  "num_followers": 1076241,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjU4MCwwMDAwMDAwMGIzMGRkZWJiYmNhYWZiMGY3MzBkYmEyODNmNWVhYzBk",
+  "snapshot_id": "MTY3NzgxMjU4MCwwMDAwMDAwMDdiNDFmZDdjNDhhZDA4MzUxY2ZiYmZlYzc4MjRhNDc5",
   "tracks": [
     {
       "added_at": "2023-03-03 03:03:00",
@@ -703,34 +703,6 @@
     {
       "added_at": "2023-03-03 03:03:00",
       "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
-    },
-    {
-      "added_at": "2023-03-03 03:03:00",
-      "album": {
         "name": "Pagodeiro",
         "url": "https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR"
       },
@@ -763,6 +735,34 @@
       "duration_ms": 458666,
       "name": "Pagodeiro",
       "url": "https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk"
+    },
+    {
+      "added_at": "2023-03-03 03:03:00",
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
     },
     {
       "added_at": "2023-03-03 03:03:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-03-03 03:03:00",
       "album": {
+        "name": "S\u00f3 de Mal",
+        "url": "https://open.spotify.com/album/4xZt0tVpMGl5jS3qFCJYQA"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "S\u00f3 de Mal",
+      "url": "https://open.spotify.com/track/4hWp2U1XNZkXK23iyyfWgh"
+    },
+    {
+      "added_at": "2023-03-03 03:03:00",
+      "album": {
         "name": "Louis V, Menina Linda",
         "url": "https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 212459,
       "name": "Invenc\u00edvel",
       "url": "https://open.spotify.com/track/6MFN6SOlKjYelQBTGHrbQ0"
-    },
-    {
-      "added_at": "2023-03-03 03:03:00",
-      "album": {
-        "name": "S\u00f3 de Mal",
-        "url": "https://open.spotify.com/album/4xZt0tVpMGl5jS3qFCJYQA"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "S\u00f3 de Mal",
-      "url": "https://open.spotify.com/track/4hWp2U1XNZkXK23iyyfWgh"
     },
     {
       "added_at": "2023-03-03 03:03:00",
@@ -1343,7 +1343,7 @@
     {
       "added_at": "2023-03-03 03:03:00",
       "album": {
-        "name": "Zero Amor (feat. MC Tuto)",
+        "name": "Zero Amor (feat. MC Tuto, DJ Glenner)",
         "url": "https://open.spotify.com/album/6GTiXru2Ol2oKab0AZ96us"
       },
       "artists": [
@@ -1360,12 +1360,16 @@
           "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
         },
         {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
           "name": "MC Tuto",
           "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
         }
       ],
       "duration_ms": 298666,
-      "name": "Zero Amor (feat. MC Tuto)",
+      "name": "Zero Amor (feat. MC Tuto, DJ Glenner)",
       "url": "https://open.spotify.com/track/1lDyYAzt18bbDVbhAmd7US"
     },
     {

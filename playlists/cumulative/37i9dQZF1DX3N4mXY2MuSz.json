@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159266,
+      "name": "Christmas Vacation",
+      "url": "https://open.spotify.com/track/4RYoD9TS5gUbYsTTsHZuZx"
+    },
+    {
+      "album": {
         "name": "'Tis The Season To Be Fearless",
         "url": "https://open.spotify.com/album/4GTtGYA6iRyRN2lAaOw0De"
       },
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 124066,
       "name": "Merry Christmas (I Don't Wanna Fight Tonight) - 2002 Remaster",
       "url": "https://open.spotify.com/track/2T3tEaSThdC9J9mnvxJWoZ"

@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33958,
+  "num_followers": 33962,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMDAxZjNjMWU1ODM1MDZhMTU5ZTM0NDg0NzNmYmUyMDFm",
+  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMGU1ZjMxM2QzMTUwYTE3NGFiMjk0MzA2ZmQwZTQxMmI0",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Gimme Fiction (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "I Summon You",
+      "url": "https://open.spotify.com/track/4k15blneKWudA2gBmlWFIW"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 348226,
       "name": "Burning",
       "url": "https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Gimme Fiction (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "I Summon You",
-      "url": "https://open.spotify.com/track/4k15blneKWudA2gBmlWFIW"
     },
     {
       "added_at": "2022-06-17 04:02:00",

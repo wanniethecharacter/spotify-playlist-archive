@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/5rvsbHe2WSn0FOwE7BCswB"
+      },
+      "artists": [
+        {
+          "name": "Japeboy",
+          "url": "https://open.spotify.com/artist/4RuPokVKSl4vK1skbGONyJ"
+        },
+        {
+          "name": "Roald Velden",
+          "url": "https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572908,
+      "name": "Azure - Roald Velden Remix",
+      "url": "https://open.spotify.com/track/5SFE9nLsTSZi0rPPdF9rBj"
+    },
+    {
+      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/540jX1jXLiiThtaWfAC8ti"
       },

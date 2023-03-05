@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 471441,
+  "num_followers": 471546,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMGZiMDlmMjQ1NzZiYjkzNGNjNTlmM2Q0ZTZiMjJjNWYy",
+  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMDgwMWE2ZGM4YjhkNzdkYzFlOWRkNWE0NzBiZGI2Yjk0",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -487,6 +487,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/31eNtoMOM0eUpPwJKtAxTL"
+      },
+      "artists": [
+        {
+          "name": "The Weather Girls",
+          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
+        }
+      ],
+      "duration_ms": 326333,
+      "name": "It's Raining Men",
+      "url": "https://open.spotify.com/track/7iFwfXNYy0goAL54aupC7Q"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "The Leif Garrett Collection",
         "url": "https://open.spotify.com/album/1FWTjROros7lbWXXmHKqJc"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 179013,
       "name": "Love Really Hurts Without You",
       "url": "https://open.spotify.com/track/1wZAaGMT6gnaCqck7dwjKv"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/31eNtoMOM0eUpPwJKtAxTL"
-      },
-      "artists": [
-        {
-          "name": "The Weather Girls",
-          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
-        }
-      ],
-      "duration_ms": 326333,
-      "name": "It's Raining Men",
-      "url": "https://open.spotify.com/track/7iFwfXNYy0goAL54aupC7Q"
     },
     {
       "added_at": "2020-04-14 18:41:41",

@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 4494,
+  "num_followers": 4506,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzNDc5MiwwMDAwMDAwMGEzYjkyMjljMmUwN2Q3NjhiM2E5ZmExZjcwMDRlMmYz",
+  "snapshot_id": "MTY3NDYzNDc5MiwwMDAwMDAwMGNhZGE3MTk3MWI0MzUyMjYwY2QwNTI0YjE4ZmQ1MzI5",
   "tracks": [
     {
       "added_at": "2023-01-25 08:19:52",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "Kim Hyung Joong",
-        "url": "https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN"
-      },
-      "artists": [
-        {
-          "name": "\uae40\ud615\uc911",
-          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
-        }
-      ],
-      "duration_ms": 269832,
-      "name": "\uadf8\ub7ac\ub098\ubd10",
-      "url": "https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
         "name": "Exhibition 2",
         "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 320055,
       "name": "Druken Truth",
       "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
+        "name": "Kim Hyung Joong",
+        "url": "https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN"
+      },
+      "artists": [
+        {
+          "name": "\uae40\ud615\uc911",
+          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
+        }
+      ],
+      "duration_ms": 269832,
+      "name": "\uadf8\ub7ac\ub098\ubd10",
+      "url": "https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz"
     },
     {
       "added_at": "2023-01-25 08:19:52",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
+        "name": "Chocolate, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Greeting",
+      "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
         "name": "Da Capo",
         "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 285586,
       "name": "Three of Us (With Sing Si Kyung)",
       "url": "https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
-        "name": "Chocolate, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Greeting",
-      "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
     },
     {
       "added_at": "2023-01-25 08:19:52",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-01-25 08:19:52",
       "album": {
-        "name": "Da Capo",
-        "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
-      },
-      "artists": [
-        {
-          "name": "TOY",
-          "url": "https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8"
-        },
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "She Said (With Kwon Jin Ah)",
-      "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
-    },
-    {
-      "added_at": "2023-01-25 08:19:52",
-      "album": {
         "name": "Jewel (feat. KURO)",
         "url": "https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 223258,
       "name": "Loving You is Loving Me",
       "url": "https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd"
+    },
+    {
+      "added_at": "2023-01-25 08:19:52",
+      "album": {
+        "name": "Da Capo",
+        "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
+      },
+      "artists": [
+        {
+          "name": "TOY",
+          "url": "https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8"
+        },
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "She Said (With Kwon Jin Ah)",
+      "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
     },
     {
       "added_at": "2023-01-25 08:19:52",

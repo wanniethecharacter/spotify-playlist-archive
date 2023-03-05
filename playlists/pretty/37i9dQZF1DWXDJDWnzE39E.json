@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: BABYMETAL",
-  "num_followers": 592895,
+  "num_followers": 593300,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5NDU1NCwwMDAwMDAwMDM0MmM3OWRmMDE2ZTQ1NWQwOWU3ODllNmQ2NmY1ZDgx",
+  "snapshot_id": "MTY3Nzc5NDU1NCwwMDAwMDAwMDQ2MDIyYzMzOTQwNGVhYzlkMzk0YzRkODczMDJkMWNi",
   "tracks": [
     {
       "added_at": "2022-11-18 01:31:53",
@@ -261,6 +261,22 @@
       "url": "https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez"
     },
     {
+      "added_at": "2023-03-02 22:02:34",
+      "album": {
+        "name": "Light and Darkness",
+        "url": "https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o"
+    },
+    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "Seize the Power",
@@ -279,22 +295,6 @@
       "duration_ms": 139728,
       "name": "Clique",
       "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
-    },
-    {
-      "added_at": "2023-03-02 22:02:34",
-      "album": {
-        "name": "Light and Darkness",
-        "url": "https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 244258,
-      "name": "Light and Darkness",
-      "url": "https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -557,6 +557,22 @@
       "url": "https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD"
     },
     {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
+    },
+    {
       "added_at": "2023-02-03 00:00:00",
       "album": {
         "name": "Off With Your Head",
@@ -573,20 +589,20 @@
       "url": "https://open.spotify.com/track/0rHCGInwbNkiZk7Etet5KK"
     },
     {
-      "added_at": "2022-11-18 01:31:53",
+      "added_at": "2023-03-02 22:02:34",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+        "name": "BEAVER CAGE",
+        "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
       },
       "artists": [
         {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
         }
       ],
-      "duration_ms": 225692,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
+      "duration_ms": 218487,
+      "name": "BEAVER CAGE",
+      "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -619,22 +635,6 @@
       "duration_ms": 211045,
       "name": "Entertain You",
       "url": "https://open.spotify.com/track/2yiDAvEEqGrkKZpNYCJ5Wm"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1"
     },
     {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 245470,
-      "name": "Better Without You",
-      "url": "https://open.spotify.com/track/2Mall0tN73JmkmihTZPlVt"
-    },
-    {
       "added_at": "2023-02-03 00:00:00",
       "album": {
         "name": "I Wish A Bitch Would",
@@ -715,6 +699,22 @@
       "duration_ms": 206617,
       "name": "I Wish A Bitch Would",
       "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 245470,
+      "name": "Better Without You",
+      "url": "https://open.spotify.com/track/2Mall0tN73JmkmihTZPlVt"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -753,10 +753,10 @@
       "url": "https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7"
     },
     {
-      "added_at": "2023-03-02 22:02:34",
+      "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "BEAVER CAGE",
-        "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
         }
       ],
-      "duration_ms": 218487,
-      "name": "BEAVER CAGE",
-      "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
+      "duration_ms": 211875,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Cover You",
-        "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
-      },
-      "artists": [
-        {
-          "name": "Kelsy Karter & The Heroines",
-          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
-        }
-      ],
-      "duration_ms": 181853,
-      "name": "Cover You",
-      "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Chapter I - Monarchy",
         "url": "https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 229880,
       "name": "See You In Hell",
       "url": "https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Cover You",
+        "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "duration_ms": 181853,
+      "name": "Cover You",
+      "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Apocalypse & Chill",
-        "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
-      },
-      "artists": [
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        }
-      ],
-      "duration_ms": 256040,
-      "name": "Burning Bridges",
-      "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Noise",
         "url": "https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 340281,
       "name": "Noise",
       "url": "https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Apocalypse & Chill",
+        "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "duration_ms": 256040,
+      "name": "Burning Bridges",
+      "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
     }
   ],
   "unique_name": "Heavy Queens",

@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 139015,
+  "num_followers": 139197,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMGQ3N2EyMjVhMmZiNzI5OWViYTM2ZTYzOTk0YjU1NjFi",
+  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDhjNTRiMGQ2ZmFkMmVkOWMzM2U5MGJkZmExZjIxMmZm",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Ascendance / Give It Up",
-        "url": "https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd"
-      },
-      "artists": [
-        {
-          "name": "Eynka",
-          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
-        }
-      ],
-      "duration_ms": 230673,
-      "name": "Ascendance",
-      "url": "https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Vivi",
         "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 236000,
       "name": "Vivi",
       "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Ascendance / Give It Up",
+        "url": "https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd"
+      },
+      "artists": [
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        }
+      ],
+      "duration_ms": 230673,
+      "name": "Ascendance",
+      "url": "https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1075,22 +1075,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Hope In Balance",
-        "url": "https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO"
+        "name": "Freedom Call",
+        "url": "https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo"
       },
       "artists": [
         {
-          "name": "S\u00e3o Miguel",
-          "url": "https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq"
+          "name": "Nick Warren",
+          "url": "https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN"
         },
         {
-          "name": "Sebastian Reynoso",
-          "url": "https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX"
+          "name": "Black 8",
+          "url": "https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju"
         }
       ],
-      "duration_ms": 278796,
-      "name": "Hope In Balance",
-      "url": "https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o"
+      "duration_ms": 239789,
+      "name": "Freedom Call",
+      "url": "https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB"
     }
   ],
   "unique_name": "Melodic & Euphoric",

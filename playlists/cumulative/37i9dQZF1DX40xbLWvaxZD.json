@@ -744,10 +744,28 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 282186,
       "name": "Moment de la Petite Sirene -\u5239\u90a3\u306e\u4eba\u9b5a\u59eb- - Full Spec Edition",
       "url": "https://open.spotify.com/track/09kXFMLhz3AAb1lYfBweU0"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3OXykbM2OLQgTEXuq1iyKy"
+      },
+      "artists": [
+        {
+          "name": "\u3086\u3044(\u30ad\u30e3\u30d0\u5b22)",
+          "url": "https://open.spotify.com/artist/4fEkryoARm02INZe34De3q"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282186,
+      "name": "Moment de la Petite Sirene -\u5239\u90a3\u306e\u4eba\u9b5a\u59eb- - Full Spec Edition",
+      "url": "https://open.spotify.com/track/1qfQpyJ6rPnYsWBG1R3LRj"
     },
     {
       "album": {
@@ -980,7 +998,7 @@
     {
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/6GVsIY1HyTGLeXnk989ZPL"
+        "url": "https://open.spotify.com/album/3OXykbM2OLQgTEXuq1iyKy"
       },
       "artists": [
         {
@@ -991,6 +1009,24 @@
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 279485,
+      "name": "TONIGHT-restart from this night- - Full Spec Edition",
+      "url": "https://open.spotify.com/track/1zjEnUbUuq7Kt1YzjQjZr4"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6GVsIY1HyTGLeXnk989ZPL"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f \u4e00\u99ac(\u9ed2\u7530 \u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-05",
       "duration_ms": 279485,
       "name": "TONIGHT-restart from this night- - Full Spec Edition",
       "url": "https://open.spotify.com/track/636lfobOQapmljr4NOgDIK"
@@ -1468,7 +1504,7 @@
     {
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/6GVsIY1HyTGLeXnk989ZPL"
+        "url": "https://open.spotify.com/album/3OXykbM2OLQgTEXuq1iyKy"
       },
       "artists": [
         {
@@ -1479,6 +1515,24 @@
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232188,
+      "name": "\u610f\u5730\u685c2000 - Full Spec Edition",
+      "url": "https://open.spotify.com/track/28LKuw2CNTZ6y1xI6NDyhf"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6GVsIY1HyTGLeXnk989ZPL"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f \u4e00\u99ac(\u9ed2\u7530 \u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-05",
       "duration_ms": 232188,
       "name": "\u610f\u5730\u685c2000 - Full Spec Edition",
       "url": "https://open.spotify.com/track/6izSFKc1KYwqzeCW5ICsUk"

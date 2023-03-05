@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: AKA",
-  "num_followers": 4854,
+  "num_followers": 4865,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDQ4OSwwMDAwMDAwMGI1MDJkYTE0NzJmZjNlNGNjZTQ4NTJmOWRlNDY4NDdi",
+  "snapshot_id": "MTY3NzgzMDQ4OSwwMDAwMDAwMDBhZjBmMzE4MDMyYmJkNTFkZjg1OTQ4MTBlMzZkYjBm",
   "tracks": [
     {
       "added_at": "2023-03-03 08:01:29",
@@ -899,6 +899,26 @@
     {
       "added_at": "2023-03-03 08:01:29",
       "album": {
+        "name": "Montega",
+        "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "duration_ms": 171645,
+      "name": "Blue Chills",
+      "url": "https://open.spotify.com/track/1jPI3QS7aUtAVvj6q0qQiQ"
+    },
+    {
+      "added_at": "2023-03-03 08:01:29",
+      "album": {
         "name": "Nyash (Current & Savings)",
         "url": "https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B"
       },
@@ -935,26 +955,6 @@
     {
       "added_at": "2023-03-03 08:01:29",
       "album": {
-        "name": "Montega",
-        "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        }
-      ],
-      "duration_ms": 171645,
-      "name": "Blue Chills",
-      "url": "https://open.spotify.com/track/1jPI3QS7aUtAVvj6q0qQiQ"
-    },
-    {
-      "added_at": "2023-03-03 08:01:29",
-      "album": {
         "name": "Big Energy",
         "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
       },
@@ -967,26 +967,6 @@
       "duration_ms": 185000,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
-    },
-    {
-      "added_at": "2023-03-03 08:01:29",
-      "album": {
-        "name": "BACK IN UNI",
-        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "BACK IN UNI",
-      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
     },
     {
       "added_at": "2023-03-03 08:01:29",
@@ -1011,6 +991,26 @@
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm"
+    },
+    {
+      "added_at": "2023-03-03 08:01:29",
+      "album": {
+        "name": "BACK IN UNI",
+        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "BACK IN UNI",
+      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
     },
     {
       "added_at": "2023-03-03 08:01:29",
@@ -1067,30 +1067,6 @@
     {
       "added_at": "2023-03-03 08:01:29",
       "album": {
-        "name": "Walking On Water",
-        "url": "https://open.spotify.com/album/08ErxtPGSClS8jfdtyHgdb"
-      },
-      "artists": [
-        {
-          "name": "Audiomarc",
-          "url": "https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj"
-        },
-        {
-          "name": "Zoocci Coke Dope",
-          "url": "https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 186900,
-      "name": "Walking On Water",
-      "url": "https://open.spotify.com/track/7dbSPhiAeHOuPSrGKQOdGc"
-    },
-    {
-      "added_at": "2023-03-03 08:01:29",
-      "album": {
         "name": "Montega",
         "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
       },
@@ -1111,6 +1087,30 @@
       "duration_ms": 227096,
       "name": "Keep It Real",
       "url": "https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ"
+    },
+    {
+      "added_at": "2023-03-03 08:01:29",
+      "album": {
+        "name": "Walking On Water",
+        "url": "https://open.spotify.com/album/08ErxtPGSClS8jfdtyHgdb"
+      },
+      "artists": [
+        {
+          "name": "Audiomarc",
+          "url": "https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj"
+        },
+        {
+          "name": "Zoocci Coke Dope",
+          "url": "https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 186900,
+      "name": "Walking On Water",
+      "url": "https://open.spotify.com/track/7dbSPhiAeHOuPSrGKQOdGc"
     },
     {
       "added_at": "2023-03-03 08:01:29",

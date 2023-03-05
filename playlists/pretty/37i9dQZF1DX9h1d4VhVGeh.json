@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 143737,
+  "num_followers": 143821,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzMjkyOCwwMDAwMDAwMDQwYTZhNTZjODk1MjYzYjEwNDY2YTRkNGYwZTkzMmE1",
+  "snapshot_id": "MTY3NzIzMjkyOCwwMDAwMDAwMGVhOWFlZTcxZTAxM2RjY2RhZDBiMjMzNzE4YzliNTkz",
   "tracks": [
     {
       "added_at": "2023-02-24 10:01:33",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-02-24 10:01:33",
       "album": {
+        "name": "Nancy 9 (Hassa Beek)",
+        "url": "https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "duration_ms": 263717,
+      "name": "El Hob Zay El Watar",
+      "url": "https://open.spotify.com/track/2md803CYlkw5ALEyeypWIP"
+    },
+    {
+      "added_at": "2023-02-24 10:01:33",
+      "album": {
         "name": "K'lma",
         "url": "https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 310000,
       "name": "Warda Ala Warda",
       "url": "https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD"
-    },
-    {
-      "added_at": "2023-02-24 10:01:33",
-      "album": {
-        "name": "Nancy 9 (Hassa Beek)",
-        "url": "https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz"
-      },
-      "artists": [
-        {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        }
-      ],
-      "duration_ms": 263717,
-      "name": "El Hob Zay El Watar",
-      "url": "https://open.spotify.com/track/2md803CYlkw5ALEyeypWIP"
     },
     {
       "added_at": "2023-02-24 10:01:33",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2023-02-24 10:01:33",
       "album": {
+        "name": "Leila",
+        "url": "https://open.spotify.com/album/2iw5NCNPUG8Wv0kg2ujCcc"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Bitar",
+          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
+        },
+        {
+          "name": "Abby Abdel-Khalek",
+          "url": "https://open.spotify.com/artist/6oF5zlYqpF2tYRrJnAc1VT"
+        }
+      ],
+      "duration_ms": 152816,
+      "name": "Leila",
+      "url": "https://open.spotify.com/track/2jkrGagEAt8WrQ6NyF8Lsy"
+    },
+    {
+      "added_at": "2023-02-24 10:01:33",
+      "album": {
         "name": "\u0639\u0633\u0627\u0641",
         "url": "https://open.spotify.com/album/4hLQnN3M5nTYN4NU4NG6NM"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 242947,
       "name": "Rouh Ya Amar",
       "url": "https://open.spotify.com/track/2lIKMzHpP3KzZpxK6QwM5O"
-    },
-    {
-      "added_at": "2023-02-24 10:01:33",
-      "album": {
-        "name": "Leila",
-        "url": "https://open.spotify.com/album/2iw5NCNPUG8Wv0kg2ujCcc"
-      },
-      "artists": [
-        {
-          "name": "Clarissa Bitar",
-          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
-        },
-        {
-          "name": "Abby Abdel-Khalek",
-          "url": "https://open.spotify.com/artist/6oF5zlYqpF2tYRrJnAc1VT"
-        }
-      ],
-      "duration_ms": 152816,
-      "name": "Leila",
-      "url": "https://open.spotify.com/track/2jkrGagEAt8WrQ6NyF8Lsy"
     },
     {
       "added_at": "2023-02-24 10:01:33",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-02-24 10:01:33",
       "album": {
-        "name": "Ya Bay - Live",
-        "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Ya Bay - Live",
-      "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
-    },
-    {
-      "added_at": "2023-02-24 10:01:33",
-      "album": {
         "name": "Life (Acoustic)",
         "url": "https://open.spotify.com/album/11TZPC3sgwUZukOoGrwfQk"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 254769,
       "name": "Life - Acoustic",
       "url": "https://open.spotify.com/track/24HKZoXy9lp7Yp3G7BlJ8v"
+    },
+    {
+      "added_at": "2023-02-24 10:01:33",
+      "album": {
+        "name": "Ya Bay - Live",
+        "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Ya Bay - Live",
+      "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
     },
     {
       "added_at": "2023-02-24 10:01:33",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-02-24 10:01:33",
       "album": {
-        "name": "\u062f\u0628\u0631\u0647\u0627",
-        "url": "https://open.spotify.com/album/3xNm30FkT7VJxtAgqtMUfs"
+        "name": "Lahn Al Hayat",
+        "url": "https://open.spotify.com/album/2ZgXApAMMNi9JUmuYPLXpi"
       },
       "artists": [
         {
-          "name": "Walla'at",
-          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
+          "name": "Yousef Kekhia",
+          "url": "https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw"
         }
       ],
-      "duration_ms": 289320,
-      "name": "\u062f\u0628\u0631\u0647\u0627",
-      "url": "https://open.spotify.com/track/4kAxcZDaVmVNgEAsTRfL8l"
+      "duration_ms": 249818,
+      "name": "Lahn Al Hayat",
+      "url": "https://open.spotify.com/track/06Sme47uE8eKah9Nm20EWg"
     },
     {
       "added_at": "2023-02-24 10:01:33",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-02-24 10:01:33",
       "album": {
-        "name": "Lahn Al Hayat",
-        "url": "https://open.spotify.com/album/2ZgXApAMMNi9JUmuYPLXpi"
+        "name": "\u062f\u0628\u0631\u0647\u0627",
+        "url": "https://open.spotify.com/album/3xNm30FkT7VJxtAgqtMUfs"
       },
       "artists": [
         {
-          "name": "Yousef Kekhia",
-          "url": "https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw"
+          "name": "Walla'at",
+          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
         }
       ],
-      "duration_ms": 249818,
-      "name": "Lahn Al Hayat",
-      "url": "https://open.spotify.com/track/06Sme47uE8eKah9Nm20EWg"
+      "duration_ms": 289320,
+      "name": "\u062f\u0628\u0631\u0647\u0627",
+      "url": "https://open.spotify.com/track/4kAxcZDaVmVNgEAsTRfL8l"
     },
     {
       "added_at": "2023-02-24 10:01:33",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-02-24 10:01:33",
       "album": {
-        "name": "Ensanein",
-        "url": "https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt"
-      },
-      "artists": [
-        {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
-        }
-      ],
-      "duration_ms": 189130,
-      "name": "Zuruni",
-      "url": "https://open.spotify.com/track/0dW503oQBCoCcwl2uTvnr6"
-    },
-    {
-      "added_at": "2023-02-24 10:01:33",
-      "album": {
         "name": "Mustaheel",
         "url": "https://open.spotify.com/album/43KCM5CLKO7V6kgLYpUP65"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 189332,
       "name": "Mustaheel",
       "url": "https://open.spotify.com/track/2ycSFamPmfqPFFr10kYkX0"
+    },
+    {
+      "added_at": "2023-02-24 10:01:33",
+      "album": {
+        "name": "Ensanein",
+        "url": "https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "duration_ms": 189130,
+      "name": "Zuruni",
+      "url": "https://open.spotify.com/track/0dW503oQBCoCcwl2uTvnr6"
     },
     {
       "added_at": "2023-02-24 10:01:33",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-02-24 10:01:33",
       "album": {
-        "name": "Ella Enta (Live Session)",
-        "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
-      },
-      "artists": [
-        {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
-        }
-      ],
-      "duration_ms": 248952,
-      "name": "Ella Enta (Live Session)",
-      "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
-    },
-    {
-      "added_at": "2023-02-24 10:01:33",
-      "album": {
         "name": "Rawquha",
         "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
@@ -1703,6 +1687,26 @@
       "duration_ms": 267098,
       "name": "Ansaki",
       "url": "https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA"
+    },
+    {
+      "added_at": "2023-02-24 10:01:33",
+      "album": {
+        "name": "Morabeza",
+        "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
+        },
+        {
+          "name": "Lotfi Bouchnak",
+          "url": "https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Ahwak (feat. Lotfi Bouchnak)",
+      "url": "https://open.spotify.com/track/2ChYfZwRqh3Es64zijiaM1"
     }
   ],
   "unique_name": "Arabic Coffee",

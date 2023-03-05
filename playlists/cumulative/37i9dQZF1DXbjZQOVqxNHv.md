@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-532 songs - 2 day 2 hr 6 min
+534 songs - 2 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Crisps](https://open.spotify.com/track/2svAObqaVuiiAFhkLhK28n) | [Wishmountain](https://open.spotify.com/artist/3OTxAJPE5mwEIB3zRujYcW) | [Wishmountain Is Dead](https://open.spotify.com/album/3ur1k6eVDcfVFPmCRk99Sg) | 3:42 | 2022-04-13 | 2022-07-28 |
 | [Crisps](https://open.spotify.com/track/2gw8zczXVPoJcaod6jtEEH) | [Wishmountain](https://open.spotify.com/artist/3OTxAJPE5mwEIB3zRujYcW), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Wishmountain Is Dead](https://open.spotify.com/album/6hfzDAdNLZ24QE3xDi9FM1) | 3:42 | 2022-04-13 | 2022-11-09 |
 | [Crystel](https://open.spotify.com/track/2rhy8BNOlmZAXtdw0Mmyic) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 4:37 | 2022-04-13 | 2023-02-02 |
-| [Currents \(220v Offshore\)](https://open.spotify.com/track/6zLlgYu7XKtDuOpVHRCyUp) | [Phonem](https://open.spotify.com/artist/7pjUq7YNrqJ4uZxHxsC3kR) | [Hydro Electric](https://open.spotify.com/album/1pVSeZjL46FibWZuOSM2XC) | 6:48 | 2022-04-13 |  |
+| [Currents \(220v Offshore\)](https://open.spotify.com/track/6zLlgYu7XKtDuOpVHRCyUp) | [Phonem](https://open.spotify.com/artist/7pjUq7YNrqJ4uZxHxsC3kR) | [Hydro Electric](https://open.spotify.com/album/1pVSeZjL46FibWZuOSM2XC) | 6:48 | 2022-04-13 | 2023-03-05 |
 | [Cyclic Sun](https://open.spotify.com/track/3SuQSBZYRzwzmKJgP3bUK1) | [Africa HiTech](https://open.spotify.com/artist/0NwdePm5jeQAtYt7dyFVEu) | [93 Million Miles](https://open.spotify.com/album/2eU2JKfw6eLmOuClVCpTe5) | 4:42 | 2022-04-13 | 2022-07-29 |
 | [Dancers](https://open.spotify.com/track/258BvHGOVi8YbchiORbR52) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA) | 5:00 | 2022-04-13 |  |
 | [Dancers](https://open.spotify.com/track/7bK8aDZrDPmvMHjMve0u6B) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/5QuV9YWaHQVSQZekh3VMe3) | 5:00 | 2022-04-13 | 2023-02-02 |
@@ -135,6 +135,7 @@
 | [Dreamland](https://open.spotify.com/track/7hUBknXQ5Z9kbIaKmxf59P) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [More Songs About Food and Revolutionary Art](https://open.spotify.com/album/1bGa8EVZerZTbJUo5dMbuU) | 6:05 | 2022-04-13 | 2023-02-26 |
 | [Dreamland](https://open.spotify.com/track/6l1LzWzwHjlHV385A0Ihaf) | [Carl Craig](https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns) | [More Songs About Food and Revolutionary Art](https://open.spotify.com/album/4IucsuxCKYYbKFGv4BDRrr) | 6:07 | 2022-04-13 | 2022-07-26 |
 | [Drip](https://open.spotify.com/track/5ZFslOkcftI1FCs88L99qn) | [Lukid](https://open.spotify.com/artist/3a2bPqijV6I1SBKKK9ikMg) | [Drip](https://open.spotify.com/album/45Tt8vVolyhmc1IeLxwmMn) | 6:40 | 2022-04-13 | 2023-02-02 |
+| [Drip](https://open.spotify.com/track/7zTwSgCXNNX3eIKojnKzWF) | [Lukid](https://open.spotify.com/artist/3a2bPqijV6I1SBKKK9ikMg) | [Drip](https://open.spotify.com/album/3LJ2OqIoqveqxgtV4p4iom) | 6:40 | 2022-04-13 |  |
 | [Earth \(Gaia\)](https://open.spotify.com/track/0FQlWadWvVqBulXV0fe4Ma) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL) | 9:48 | 2022-04-13 |  |
 | [Earth \(Gaia\)](https://open.spotify.com/track/120qQ1McNzHpwdB9fd7j4v) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 9:48 | 2022-04-13 | 2022-07-29 |
 | [Eastman](https://open.spotify.com/track/0YjvPqVH0mLttgXeBpPmtn) | [Move D](https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97) | [Kunststoff \(Remastered\)](https://open.spotify.com/album/6VI3eN7s8hzQXk5sUM8gvh) | 6:31 | 2022-04-13 |  |
@@ -315,7 +316,7 @@
 | [Object Orient](https://open.spotify.com/track/5qqxqi2RYEeDGUluJThJ3p) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Bytes](https://open.spotify.com/album/2tqE5QepWwrtCwQFj6ZOZP) | 5:44 | 2022-04-13 | 2023-02-02 |
 | [Object Orient](https://open.spotify.com/track/6zYaM3R6OslDcs7u1NuywH) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Bytes](https://open.spotify.com/album/3bVlfmSsqAhusT3IIyfHCW) | 5:44 | 2022-04-13 |  |
 | [Ol](https://open.spotify.com/track/3GFwamHqel97rE7CmBL0DS) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Not For Threes](https://open.spotify.com/album/5O4LYrdtTr4nMnkn2GwP74) | 4:55 | 2022-04-13 | 2023-02-02 |
-| [Ol](https://open.spotify.com/track/7DKMCyq4y4mXTdUaW0FXv2) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Not For Threes](https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL) | 4:55 | 2022-04-13 |  |
+| [Ol](https://open.spotify.com/track/7DKMCyq4y4mXTdUaW0FXv2) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Not For Threes](https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL) | 4:55 | 2022-04-13 | 2023-03-05 |
 | [Olympic](https://open.spotify.com/track/0SHZjn2r6iaAUUbIAIkvnk) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ex:el](https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z) | 4:24 | 2022-04-13 |  |
 | [Olympic](https://open.spotify.com/track/3RV8gcq5wIo7npJpflreby) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [EX:EL](https://open.spotify.com/album/0PbQC8LnwDcO02TiiAlpWc) | 4:24 | 2022-04-13 | 2022-07-28 |
 | [On](https://open.spotify.com/track/4UYW3jllzFyWdaxob0UVMr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [On](https://open.spotify.com/album/13yMvXe4YS3m2qFyC9aqID) | 7:12 | 2022-04-13 | 2022-07-29 |
@@ -397,6 +398,7 @@
 | [Schöneberg](https://open.spotify.com/track/2DNxdOs2XVD2H3wKuK0eyL) | [Marmion](https://open.spotify.com/artist/0oYWH7Hk2l25TKHJhO9gus) | [Schöneberg 2010 \- The Complete Mixes](https://open.spotify.com/album/2Pi2jnBFmsXP8Eh7iva1u1) | 6:26 | 2022-04-13 |  |
 | [Second Bad Vilbel](https://open.spotify.com/track/6IOIjAiwta1b4r2mVQ5leS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Anvil Vapre](https://open.spotify.com/album/6UcShvT8JIKOaHj39k6A8f) | 9:47 | 2022-04-13 | 2022-07-27 |
 | [Seph](https://open.spotify.com/track/4nBVt5WGmeEFhcfk6fyoJz) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Not For Threes](https://open.spotify.com/album/5O4LYrdtTr4nMnkn2GwP74) | 1:36 | 2022-04-13 | 2023-01-11 |
+| [Seph](https://open.spotify.com/track/7McrkRMy69W59IMEhAkVcc) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Not For Threes](https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL) | 1:36 | 2022-04-13 |  |
 | [Shell of Light](https://open.spotify.com/track/1WFGJPHAxb64hHsscftYOg) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 4:40 | 2022-04-13 |  |
 | [Shell of Light](https://open.spotify.com/track/29Gr10bFvvbsIrLRg7Yibi) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq) | 4:42 | 2022-04-13 | 2022-07-29 |
 | [Shimmer](https://open.spotify.com/track/1rsbnhLppI7cibuDHEVurM) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Beat Excursions \#5](https://open.spotify.com/album/3WuM7HpTwBFvzzNydSHiaP) | 5:16 | 2022-04-13 | 2023-03-02 |

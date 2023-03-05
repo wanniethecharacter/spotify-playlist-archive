@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. Cover, Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,978 likes - 65 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,006 likes - 65 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 45 | [Stream Of Consciousness](https://open.spotify.com/track/50yA4WGfSmKThoHvJe8HoK) | [Bobby Sessions](https://open.spotify.com/artist/1URwpSLjCBhRjnw4SUwNyL) | [I’d Rather Keep It To Myself](https://open.spotify.com/album/1C2n1iBEgtjvqlOeGPCAQ9) | 2:51 |
 | 46 | [Me Against the World](https://open.spotify.com/track/0wCIPR1DviDyQtt6s6oYGW) | [LilCJ Kasino](https://open.spotify.com/artist/4pORMflJEUW1OYfNgiMLH5), [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY) | [Me Against the World](https://open.spotify.com/album/6R35tWRtZV0OoodbrVw0q5) | 3:47 |
 | 47 | [What Kinda](https://open.spotify.com/track/6tK23xx5yhFkDKcw0qN66C) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Lebra Jolie](https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6) | 3:01 |
-| 48 | [Outside Lookin In](https://open.spotify.com/track/2E0GPxxASUGBkgZevrhr3V) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Outside Lookin In](https://open.spotify.com/album/5i4bMLcHAgno1DeDLa0FkP) | 2:07 |
+| 48 | [Outside Lookin In](https://open.spotify.com/track/6JMQeZd5yYP0fe6blygX6P) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Outside Lookin In](https://open.spotify.com/album/6hwMZyJYTyPex8eDKo1KMU) | 2:07 |
 | 49 | [SIMPLE \(feat\. I DONT KNOW HOW BUT THEY FOUND ME\)](https://open.spotify.com/track/3IppKdrpeNTGGxmPyo9clr) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [My Favorite Blue Jeans](https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8) | 2:51 |
 | 50 | [WAVE](https://open.spotify.com/track/6jc7hcVqCDGjjeRokClILI) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [WAVE](https://open.spotify.com/album/7ySlZx8l59eRiX7WYOAofF) | 2:10 |
 | 51 | [Better Days 2 \(Pain In The Ghetto\)](https://open.spotify.com/track/2KQrHFHMLiToEoSyNCyCkQ) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Better Days 2 \(Pain In The Ghetto\)](https://open.spotify.com/album/25gVtjurDgtCiz6nt0W4ZM) | 3:01 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 64 | [4AM In Charlotte](https://open.spotify.com/track/70sQaLOrIhlKF0iIS2Gjx0) | [Cico P](https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx) | [4AM In Charlotte](https://open.spotify.com/album/0McCjUthWgnZzXepI9f1SU) | 3:16 |
 | 65 | [Loyalty](https://open.spotify.com/track/5yHroDKvcyWhxK80rCcQEF) | [Mosa](https://open.spotify.com/artist/1cyaSULWtI17yYEk4301Pe) | [Loyalty](https://open.spotify.com/album/1uVyGsbbQWIt99zPXCe7Cp) | 3:05 |
 
-Snapshot ID: `MTY3NjM0MDk5OCwwMDAwMDAwMGRmNjQ3NjUzNDc5MmI3NWIxMGQ4OTM0OTg5ZGUyZjdi`
+Snapshot ID: `MTY3NjM0MDk5OCwwMDAwMDAwMDc0YjEwNTM1MTRkMDAwZGJkN2EzNzhiOGNhZDdmZjll`

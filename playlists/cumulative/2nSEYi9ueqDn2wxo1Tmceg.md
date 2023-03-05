@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-384 songs - 1 day 1 hr 56 min
+386 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Lick the Bag](https://open.spotify.com/track/0wRBKS4WWdAGZ90I7JD7kp) | [Pleasure Pool](https://open.spotify.com/artist/5UGoQ01tPHH2Cy3KGYaIx3) | [Love Without Illusion](https://open.spotify.com/album/659CQA2rGuSmOrEDZl5zAH) | 6:06 | 2023-01-11 | 2023-02-16 |
 | [Lights \- A\. G\. Cook Remix](https://open.spotify.com/track/5lZjuVUB34aCKhhdZLA9C2) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Lights \(A\. G\. Cook Remix\)](https://open.spotify.com/album/0EQRviEK9W0ctBjGw5Li3S) | 2:41 | 2022-06-29 | 2022-08-18 |
 | [Linden Boulevard](https://open.spotify.com/track/6t1KWQAwWKNY9tDIRMyw8a) | [Lowhency Pierre](https://open.spotify.com/artist/48wPPSAlcPE1sR9xRbcYQa) | [Linden Boulevard](https://open.spotify.com/album/52ONj5aau2jj1xow8VDiPq) | 2:43 | 2023-02-15 |  |
+| [Line In The Sand](https://open.spotify.com/track/6J4POnSPt3RcoWW5zUHVtl) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [goddess](https://open.spotify.com/artist/2UgwBiqMsWyiPeqv4Ed3pi) | [Line In The Sand](https://open.spotify.com/album/20BFfzO2b1Swuq5cBThsW0) | 3:02 | 2023-03-04 |  |
 | [Lines](https://open.spotify.com/track/4Xz875oKeO3vvEEh9N0Gu0) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Lines](https://open.spotify.com/album/7gzlVPN03faWxdOIBuUvNy) | 4:26 | 2023-02-22 |  |
 | [Living](https://open.spotify.com/track/4q5JVsHtnFPxIhfALUmWhD) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Living](https://open.spotify.com/album/1HqP0lqC33Y8SvloLtqBp7) | 3:30 | 2023-02-08 |  |
 | [Look at it in the Light](https://open.spotify.com/track/4hFwJpN49gRhIXD967q3MB) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:46 | 2022-06-08 | 2022-06-17 |
@@ -376,6 +377,7 @@
 | [Under No Nation \- Radio Edit](https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Under No Nation \(Radio Edit\)](https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm) | 3:04 | 2022-08-31 | 2022-10-07 |
 | [Unfold](https://open.spotify.com/track/5qVKHlxI3sOEylfdjj1IEx) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/4lnNOhPbB2kcYE44o65qUM) | 1:30 | 2022-08-23 | 2022-10-13 |
 | [Untethered](https://open.spotify.com/track/316Co4rvVxEFZ40FY8BbK8) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Untethered](https://open.spotify.com/album/4Vt4MU6r8NarsGofjJ6Bhv) | 3:36 | 2022-06-08 | 2022-06-30 |
+| [Upon My Soul](https://open.spotify.com/track/1E1MGS38KymkCJOENDPWlf) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU) | [Brothers & Sisters](https://open.spotify.com/album/6TraNOBSSA3snFw5gtbwwt) | 3:44 | 2023-03-04 |  |
 | [Vista](https://open.spotify.com/track/1RerULp9QIsCQbusc4Bl4U) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [Vista](https://open.spotify.com/album/3s4PzF5GcMvVH7nftHiPaM) | 4:38 | 2023-02-08 |  |
 | [Waiting Game](https://open.spotify.com/track/76k91hWeo3IEP9re5hKbt0) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Waiting Game](https://open.spotify.com/album/0SWx85JBX6hDzzWZZWbSuP) | 5:29 | 2022-10-12 | 2022-11-17 |
 | [Weather Alive](https://open.spotify.com/track/3OrhnPCD8HDTVSmp3FI9cY) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Weather Alive](https://open.spotify.com/album/1GlvLDvrCrUNFeNEQoyimx) | 7:04 | 2022-06-22 | 2022-08-04 |

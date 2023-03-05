@@ -1002,6 +1002,24 @@
     {
       "album": {
         "name": "Kning Disk 2005-2012 Box Set",
+        "url": "https://open.spotify.com/album/6iQDcE5Ne5rd6K7Ik8kxKf"
+      },
+      "artists": [
+        {
+          "name": "Erik Enocksson",
+          "url": "https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244312,
+      "name": "The Joy of D.H. Lawrence",
+      "url": "https://open.spotify.com/track/1DrShtK8uB2hD9YN3z5x9Y"
+    },
+    {
+      "album": {
+        "name": "Kning Disk 2005-2012 Box Set",
         "url": "https://open.spotify.com/album/2ArS0SJEyL8GAuV8lACeUu"
       },
       "artists": [
@@ -1030,7 +1048,7 @@
       ],
       "date_added": "2019-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 244312,
       "name": "The Joy of D.H. Lawrence",
       "url": "https://open.spotify.com/track/77KyNPhCUXjkBaj5yQ9GY9"

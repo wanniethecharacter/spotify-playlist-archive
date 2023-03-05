@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: 6LACK
 
-842 songs - 1 day 21 hr 16 min
+844 songs - 1 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Access Denied](https://open.spotify.com/track/2RtodA9O20qR1GcAqzhWLy) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Access Denied](https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv) | 3:45 | 2021-12-17 | 2022-01-22 |
 | [Achy](https://open.spotify.com/track/3BZEl44UzEcZA9t4lTCD6F) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Achy](https://open.spotify.com/album/2ObLlP6hOA8gKLBUy4e19O) | 2:47 | 2022-07-08 | 2022-09-10 |
 | [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-11-18 | 2023-02-04 |
+| [Again](https://open.spotify.com/track/5BsMtgFr6LEL8FqPOaN2oj) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Again](https://open.spotify.com/album/1cVgkUbzpEwQVcQJvWgYnI) | 2:15 | 2023-03-04 |  |
 | [Alarming](https://open.spotify.com/track/2UoJrCdK3wjkRO5eI2Nq6E) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Alarming](https://open.spotify.com/album/5kXCZPGdySsOUx6xhpVKFG) | 2:55 | 2022-07-08 | 2022-09-10 |
 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-16 | 2022-10-08 |
 | [All Bad](https://open.spotify.com/track/3Zjrxns777sXCu9nHGpac8) | [Remey Williams](https://open.spotify.com/artist/5PjEH2MNklNpDLPVtUvH0i), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP) | [08105](https://open.spotify.com/album/1TMVf0vAkU5Fxpytwt8O1k) | 3:19 | 2022-08-05 | 2022-08-27 |
@@ -589,6 +590,7 @@
 | [Past](https://open.spotify.com/track/5FOLC5vQdAS4CmUi1lKIZ1) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Past](https://open.spotify.com/album/5FdrJtnXc19gWY2WgCoUo8) | 3:36 | 2022-12-02 | 2023-01-06 |
 | [Pata Pata \(Remix\)](https://open.spotify.com/track/0UeFuD5wYxDx5hXuLxKcwp) | [Stainless](https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Pata Pata \(Remix\)](https://open.spotify.com/album/7jhzt3S0DnHb6E4uSqCOe0) | 3:04 | 2022-08-19 | 2022-09-10 |
 | [Patient \(02\)](https://open.spotify.com/track/77gaU2zZfncrzF9vxA8fEC) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 1:31 | 2023-02-10 |  |
+| [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(feat\. Ayra Starr & Omah Lay\) \[Remix\]](https://open.spotify.com/album/689njStjzEujqVZtSDlpha) | 3:04 | 2023-03-04 |  |
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-05 | 2022-09-17 |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-07-22 | 2022-09-10 |
 | [Petty](https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy \(Deluxe\)](https://open.spotify.com/album/79WcTJuCulopfqul1awYJk) | 3:03 | 2022-07-08 | 2022-08-06 |

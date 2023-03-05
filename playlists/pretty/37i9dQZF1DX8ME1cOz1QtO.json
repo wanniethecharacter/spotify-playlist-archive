@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 57895,
+  "num_followers": 57999,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4Njk1OCwwMDAwMDAwMDBmZmIyMGQ1MDA3M2RhNGRjOGFlNzhjMjY2ODI2ZjNm",
+  "snapshot_id": "MTY2NDg4Njk1OCwwMDAwMDAwMDg4MGNlZDA4N2Q1YzA1ODY1MDlhNjc2ZWFhZGJiODg5",
   "tracks": [
     {
       "added_at": "2022-10-04 12:35:58",
@@ -147,8 +147,8 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "White Winds (Seeker's Journey)",
-        "url": "https://open.spotify.com/album/3wrWgRYqBkpE5gE6Csl5FN"
+        "name": "Down to the Moon",
+        "url": "https://open.spotify.com/album/2DM9WPZiokvkAm4Y7xqXjF"
       },
       "artists": [
         {
@@ -162,11 +162,23 @@
         {
           "name": "Pedro Haldemann",
           "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
+        },
+        {
+          "name": "Jon Otis",
+          "url": "https://open.spotify.com/artist/1eYM0EaoFHS1YhPdBNeN0j"
+        },
+        {
+          "name": "Matthias Ziegler",
+          "url": "https://open.spotify.com/artist/0BJA103k5TtODCqNU9Aac5"
+        },
+        {
+          "name": "Christoph Ziegler",
+          "url": "https://open.spotify.com/artist/3ArHMvXvhmgMF8SdPHSSSj"
         }
       ],
-      "duration_ms": 217933,
-      "name": "Flight Feet and Root Hands",
-      "url": "https://open.spotify.com/track/64iGkQy5fe5gKVTpIvPtOX"
+      "duration_ms": 147240,
+      "name": "Down to the Moon",
+      "url": "https://open.spotify.com/track/6dsBkD1XP9EswRcUN0pOqN"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -291,8 +303,8 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Down to the Moon",
-        "url": "https://open.spotify.com/album/2DM9WPZiokvkAm4Y7xqXjF"
+        "name": "White Winds (Seeker's Journey)",
+        "url": "https://open.spotify.com/album/3wrWgRYqBkpE5gE6Csl5FN"
       },
       "artists": [
         {
@@ -306,23 +318,11 @@
         {
           "name": "Pedro Haldemann",
           "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
-        },
-        {
-          "name": "Jon Otis",
-          "url": "https://open.spotify.com/artist/1eYM0EaoFHS1YhPdBNeN0j"
-        },
-        {
-          "name": "Matthias Ziegler",
-          "url": "https://open.spotify.com/artist/0BJA103k5TtODCqNU9Aac5"
-        },
-        {
-          "name": "Christoph Ziegler",
-          "url": "https://open.spotify.com/artist/3ArHMvXvhmgMF8SdPHSSSj"
         }
       ],
-      "duration_ms": 147240,
-      "name": "Down to the Moon",
-      "url": "https://open.spotify.com/track/6dsBkD1XP9EswRcUN0pOqN"
+      "duration_ms": 217933,
+      "name": "Flight Feet and Root Hands",
+      "url": "https://open.spotify.com/track/64iGkQy5fe5gKVTpIvPtOX"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Oasis [Remastered]",
-        "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
-      },
-      "artists": [
-        {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
-        }
-      ],
-      "duration_ms": 384133,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Island",
         "url": "https://open.spotify.com/album/7FKNk8OPsuVSlAx9sBXtZr"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 288333,
       "name": "Carnation Lily Lily Rose",
       "url": "https://open.spotify.com/track/41SpUaJByH1FIxiYeZUmSi"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Oasis [Remastered]",
+        "url": "https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA"
+      },
+      "artists": [
+        {
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+        }
+      ],
+      "duration_ms": 384133,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1427,18 +1427,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Ki",
-        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
+        "name": "Spectrum Suite 45th Anniversary Collector's Edition",
+        "url": "https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21"
       },
       "artists": [
         {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        },
+        {
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
         }
       ],
-      "duration_ms": 418666,
-      "name": "Chi",
-      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
+      "duration_ms": 273180,
+      "name": "Be-Muse-Ment",
+      "url": "https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1463,22 +1467,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Spectrum Suite 45th Anniversary Collector's Edition",
-        "url": "https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21"
+        "name": "Ki",
+        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
       },
       "artists": [
         {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
-        },
-        {
-          "name": "Iasos",
-          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
         }
       ],
-      "duration_ms": 273180,
-      "name": "Be-Muse-Ment",
-      "url": "https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga"
+      "duration_ms": 418666,
+      "name": "Chi",
+      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 323693,
-      "name": "Processional: Root Chakra",
-      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Procession",
         "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 447000,
       "name": "Procession",
       "url": "https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "A Rainbow Path",
+        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 323693,
+      "name": "Processional: Root Chakra",
+      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
+        "name": "Procession",
+        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
       },
       "artists": [
         {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+          "name": "Bernard Xolotl",
+          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
         }
       ],
-      "duration_ms": 394826,
-      "name": "Soaring: Crown Chakra",
-      "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
+      "duration_ms": 936000,
+      "name": "Mirador",
+      "url": "https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
+        "name": "A Rainbow Path",
+        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
+      },
+      "artists": [
+        {
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
+        }
+      ],
+      "duration_ms": 394826,
+      "name": "Soaring: Crown Chakra",
+      "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
         "name": "Collected Ambient & Textural Works 1977-1987",
         "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 553800,
       "name": "Elysian E",
       "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "Procession",
-        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
-      },
-      "artists": [
-        {
-          "name": "Bernard Xolotl",
-          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
-        }
-      ],
-      "duration_ms": 936000,
-      "name": "Mirador",
-      "url": "https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP"
     }
   ],
   "unique_name": "Early New Age",

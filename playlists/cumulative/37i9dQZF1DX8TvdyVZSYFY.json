@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Coco - Summer Sessions",
+        "url": "https://open.spotify.com/album/1mTJGBsXbsOO1YuBrnqWpS"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216720,
+      "name": "Bubbly - Acoustic",
+      "url": "https://open.spotify.com/track/5RMjO7UAJUybWAwZ4t2wKz"
+    },
+    {
+      "album": {
         "name": "Early Morning Acoustic",
         "url": "https://open.spotify.com/album/1winL5fRwnB8Ed5P9NrChb"
       },
@@ -938,24 +956,6 @@
       "duration_ms": 216720,
       "name": "Bubbly - Acoustic Version",
       "url": "https://open.spotify.com/track/3rddEE4uTsAI8KS4WkNHS1"
-    },
-    {
-      "album": {
-        "name": "Coco - Summer Sessions",
-        "url": "https://open.spotify.com/album/1mTJGBsXbsOO1YuBrnqWpS"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "date_added": "2022-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216720,
-      "name": "Bubbly - Acoustic Version",
-      "url": "https://open.spotify.com/track/5RMjO7UAJUybWAwZ4t2wKz"
     },
     {
       "album": {

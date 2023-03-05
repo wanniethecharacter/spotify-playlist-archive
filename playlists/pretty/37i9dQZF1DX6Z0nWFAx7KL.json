@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 29710,
+  "num_followers": 29737,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODA2MCwwMDAwMDAwMDMzZTQ1MGYwMjhjOGVhY2I5MzdiMDNiZDlhY2YwMGJm",
+  "snapshot_id": "MTY3Nzc5ODA2MCwwMDAwMDAwMGM1ZGEyODVkYTQ4MjEyYzAzZWQ5ZGUzMmI4NzAxOWQx",
   "tracks": [
     {
       "added_at": "2023-03-02 23:01:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
+        "name": "Sunday Monday",
+        "url": "https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq"
+      },
+      "artists": [
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Sunday Monday",
+      "url": "https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
         "name": "In Another Lifetime",
         "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 284563,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Sunday Monday",
-        "url": "https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq"
-      },
-      "artists": [
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Sunday Monday",
-      "url": "https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "Never Give Up On You",
-        "url": "https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa"
-      },
-      "artists": [
-        {
-          "name": "Ryan Shepherd",
-          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
-        },
-        {
-          "name": "Georgi Kay",
-          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
-        }
-      ],
-      "duration_ms": 216538,
-      "name": "Never Give Up On You",
-      "url": "https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/5YfaJdPhaDcckpYgCdUYPl"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 206384,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/03YFjP88VNLZID5o112R3W"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
+        "name": "Never Give Up On You",
+        "url": "https://open.spotify.com/album/5SxcIZ1qmurQOKL7Io5xCa"
+      },
+      "artists": [
+        {
+          "name": "Ryan Shepherd",
+          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
+        },
+        {
+          "name": "Georgi Kay",
+          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+        }
+      ],
+      "duration_ms": 216538,
+      "name": "Never Give Up On You",
+      "url": "https://open.spotify.com/track/2gsB29hjEctVqLCtg7HsQS"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "In The Sun",
-        "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "In The Sun",
-      "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 169048,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
+        "name": "In The Sun",
+        "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "In The Sun",
+      "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr"
-      },
-      "artists": [
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        }
-      ],
-      "duration_ms": 180967,
-      "name": "Down To Earth",
-      "url": "https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
         "name": "Apologize",
         "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        }
+      ],
+      "duration_ms": 180967,
+      "name": "Down To Earth",
+      "url": "https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
@@ -1075,6 +1075,26 @@
       "duration_ms": 220644,
       "name": "Gold",
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
+        "name": "Lightning To Strike",
+        "url": "https://open.spotify.com/album/5ziGWAOle0QNNJw1iQRWgJ"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 178721,
+      "name": "Lightning To Strike",
+      "url": "https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1139,54 +1159,6 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "Lightning To Strike",
-        "url": "https://open.spotify.com/album/5ziGWAOle0QNNJw1iQRWgJ"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 178721,
-      "name": "Lightning To Strike",
-      "url": "https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Echo [Cha\u00ebl Remix]",
-        "url": "https://open.spotify.com/album/1QjzaTNqb5lC73XzhfG1Lv"
-      },
-      "artists": [
-        {
-          "name": "MKJ",
-          "url": "https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0"
-        },
-        {
-          "name": "YOTO",
-          "url": "https://open.spotify.com/artist/1oFSLlpB3eM6V7Ka71a8Lx"
-        },
-        {
-          "name": "AVY X",
-          "url": "https://open.spotify.com/artist/6CfEqFJScEOoO0meiW88px"
-        },
-        {
-          "name": "Cha\u00ebl",
-          "url": "https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Echo [Cha\u00ebl Remix]",
-      "url": "https://open.spotify.com/track/0tYWJ4GvHzNvcbh9hLRFAX"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s"
       },
@@ -1231,6 +1203,34 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
+        "name": "Echo [Cha\u00ebl Remix]",
+        "url": "https://open.spotify.com/album/1QjzaTNqb5lC73XzhfG1Lv"
+      },
+      "artists": [
+        {
+          "name": "MKJ",
+          "url": "https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0"
+        },
+        {
+          "name": "YOTO",
+          "url": "https://open.spotify.com/artist/1oFSLlpB3eM6V7Ka71a8Lx"
+        },
+        {
+          "name": "AVY X",
+          "url": "https://open.spotify.com/artist/6CfEqFJScEOoO0meiW88px"
+        },
+        {
+          "name": "Cha\u00ebl",
+          "url": "https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Echo [Cha\u00ebl Remix]",
+      "url": "https://open.spotify.com/track/0tYWJ4GvHzNvcbh9hLRFAX"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 167380,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1407,22 +1423,6 @@
       "duration_ms": 164531,
       "name": "Feelings After Dark (feat. NISHA)",
       "url": "https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-03-02 23:01:00",

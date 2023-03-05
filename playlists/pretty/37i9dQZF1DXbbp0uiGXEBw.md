@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,282 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,334 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 12 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 |
 | 13 | [See Tình](https://open.spotify.com/track/307iMiCYAKX6sUG7P4UKWt) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:05 |
 | 14 | [Falling In Love](https://open.spotify.com/track/5K67uEqrHOPJ5i5kcw0QS4) | [Na Ngọc Anh](https://open.spotify.com/artist/5Es1OAhewJhFhbfejSQA7O) | [Falling In Love](https://open.spotify.com/album/7glLUH9evIkEx4LiNIypyB) | 4:38 |
-| 15 | [ghệ iu dấu của em ơi](https://open.spotify.com/track/27fqy8VruqYZlKiK1qfwEd) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0), [Wokeupat4am](https://open.spotify.com/artist/1Qe80M5yCGc6LLpj6SpDrI) | [ghệ iu dấu của em ơi](https://open.spotify.com/album/0gzU4NsjKsWr646GHiPxbK) | 3:25 |
+| 15 | [ghệ iu dấu của em ơi](https://open.spotify.com/track/27fqy8VruqYZlKiK1qfwEd) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [ghệ iu dấu của em ơi](https://open.spotify.com/album/0gzU4NsjKsWr646GHiPxbK) | 3:25 |
 | 16 | [Em Là Coffee](https://open.spotify.com/track/2mC5v8NMmr6NjKyV7alPDu) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Em Là Coffee](https://open.spotify.com/album/6qagm5uRQf1OfpApaDGIEa) | 3:05 |
 | 17 | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/track/4zFgUpC8z88A9aEo7dnRPN) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:19 |
 | 18 | [Em Day Chang Phai Thuy Kieu](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 |

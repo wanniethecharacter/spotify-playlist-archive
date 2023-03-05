@@ -4,7 +4,7 @@
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: BreezyLYN
 
-657 songs - 1 day 4 hr 48 min
+658 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,8 @@
 | [participate](https://open.spotify.com/track/1mL9IalZM0lre130QZclJH) | [danny G](https://open.spotify.com/artist/55u10Zb9W8haN1zahVokOb) | [participate](https://open.spotify.com/album/12lYkxzDtnoNee3BIJK1Yl) | 2:16 | 2022-04-13 | 2022-05-26 |
 | [Paths](https://open.spotify.com/track/4UHUcV7KiI86HGZfCBigdV) | [Brandon Nembhard](https://open.spotify.com/artist/3iz36sr0k9vScDNDRPZtLS) | [Paths](https://open.spotify.com/album/106kGoWEDM1BJhus1oiUZt) | 2:26 | 2022-05-04 | 2022-05-26 |
 | [Patience \(feat\. NoCap\)](https://open.spotify.com/track/2KUoS9OMlDLszLly6JcJGi) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [State of Emergency](https://open.spotify.com/album/5ieJkFRIUKmwu4ltjL5fC5) | 2:46 | 2023-01-11 |  |
-| [Pay 2 Play](https://open.spotify.com/track/55EUd4JKBvVdzqqja0SvYZ) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [4eva In My Bag \(Deluxe\)](https://open.spotify.com/album/2w7oPQogQpX0YVGOqvmTCm) | 2:16 | 2023-02-08 |  |
+| [Pay 2 Play](https://open.spotify.com/track/55EUd4JKBvVdzqqja0SvYZ) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [4eva In My Bag \(Deluxe\)](https://open.spotify.com/album/2w7oPQogQpX0YVGOqvmTCm) | 2:16 | 2023-02-08 | 2023-03-05 |
+| [Pay 2 Play](https://open.spotify.com/track/75Aulubu1vDk9qYLkDn2DB) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [4eva In My Bag \(Deluxe\)](https://open.spotify.com/album/6WwJ1POM4DxE9GvdFHNCPl) | 2:16 | 2023-02-22 |  |
 | [Penthouse](https://open.spotify.com/track/0ylQEORP03XUBQSo040b0G) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/5LHgTWtVkk6GkahTDJ8cTu) | 2:24 | 2022-10-19 | 2022-10-24 |
 | [Penthouse](https://open.spotify.com/track/1e3jS5O9vxsLiHiL5SBU71) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/15M4bcl7Q4CSWkqIuX1ydt) | 2:24 | 2022-10-19 | 2022-11-07 |
 | [Penthouse](https://open.spotify.com/track/2QZPZf5ohXuuqV1ZnRJ9GS) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [17](https://open.spotify.com/album/4joJtfM9QKxT7Q1zVuaPFo) | 2:24 | 2022-10-19 | 2022-11-10 |

@@ -1285,32 +1285,6 @@
     },
     {
       "album": {
-        "name": "Faur\u00e9: Requiem / Koechlin: Choral sur le nom de Faur\u00e9",
-        "url": "https://open.spotify.com/album/7dczyAMYXYHnbqRFdcmuXo"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        }
-      ],
-      "date_added": "2020-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 388000,
-      "name": "Pavane pour une infante d\u00e9funte - Orchestral version",
-      "url": "https://open.spotify.com/track/2WpPklML14a0Lby1ZeqpIn"
-    },
-    {
-      "album": {
         "name": "Mademoiselle in New York - Pavane pour une infante d\u00e9funte, M. 19",
         "url": "https://open.spotify.com/album/0AlhwVyJXfOZvl243C3Xya"
       },
@@ -1368,6 +1342,32 @@
       "duration_ms": 224360,
       "name": "Pavane pour une infante d\u00e9funte, M. 19",
       "url": "https://open.spotify.com/track/4fyXmuO3wpHOsyCYoOUGI1"
+    },
+    {
+      "album": {
+        "name": "Faur\u00e9: Requiem / Koechlin: Choral sur le nom de Faur\u00e9",
+        "url": "https://open.spotify.com/album/7dczyAMYXYHnbqRFdcmuXo"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388000,
+      "name": "Pavane pour une infante d\u00e9funte, M. 19 (Orchestral Version)",
+      "url": "https://open.spotify.com/track/2WpPklML14a0Lby1ZeqpIn"
     },
     {
       "album": {

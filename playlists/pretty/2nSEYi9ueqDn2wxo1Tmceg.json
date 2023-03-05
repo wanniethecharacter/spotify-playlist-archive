@@ -1,13 +1,53 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78617,
+  "num_followers": 78616,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzYzNSxhNjcxZTU0MzQ1YzQwMTc1ZWMyYzFkZDNhNjY3NTI3MDY3NGY1OThm",
+  "snapshot_id": "MzYzNyxiNDk0OTJkNTkxYTU1NzM1NzgwYTBmMDQwYmFhM2M3ODVhNjdhMGQ4",
   "tracks": [
+    {
+      "added_at": "2023-03-04 19:23:42",
+      "album": {
+        "name": "Line In The Sand",
+        "url": "https://open.spotify.com/album/20BFfzO2b1Swuq5cBThsW0"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "goddess",
+          "url": "https://open.spotify.com/artist/2UgwBiqMsWyiPeqv4Ed3pi"
+        }
+      ],
+      "duration_ms": 182625,
+      "name": "Line In The Sand",
+      "url": "https://open.spotify.com/track/6J4POnSPt3RcoWW5zUHVtl"
+    },
+    {
+      "added_at": "2023-03-04 19:22:38",
+      "album": {
+        "name": "Brothers & Sisters",
+        "url": "https://open.spotify.com/album/6TraNOBSSA3snFw5gtbwwt"
+      },
+      "artists": [
+        {
+          "name": "Steve Mason",
+          "url": "https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU"
+        }
+      ],
+      "duration_ms": 224303,
+      "name": "Upon My Soul",
+      "url": "https://open.spotify.com/track/1E1MGS38KymkCJOENDPWlf"
+    },
     {
       "added_at": "2023-03-01 10:47:39",
       "album": {

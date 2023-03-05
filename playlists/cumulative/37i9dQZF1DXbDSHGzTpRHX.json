@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 200065,
       "name": "Light Personified",
       "url": "https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf"
@@ -1866,6 +1866,24 @@
       "duration_ms": 200065,
       "name": "Light Personified",
       "url": "https://open.spotify.com/track/1qtRjq4lKqilxJCQErodW8"
+    },
+    {
+      "album": {
+        "name": "Then We Fall",
+        "url": "https://open.spotify.com/album/741BgLLV8HHyGWkDkKMC1h"
+      },
+      "artists": [
+        {
+          "name": "Fintan",
+          "url": "https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200065,
+      "name": "Light Personified",
+      "url": "https://open.spotify.com/track/2JpU0BvQsFRJ6tukhc3ENx"
     },
     {
       "album": {

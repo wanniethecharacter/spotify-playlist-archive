@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Tsu Nami.
 
-314 songs - 19 hr 0 min
+315 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [three little words](https://open.spotify.com/track/0F7u39EASLrCAcThAXE1fM) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Anna Dellaria](https://open.spotify.com/artist/1VIvKUaSkkzbWE4oWVpGaR) | [three little words](https://open.spotify.com/album/5Xw17msGS4bB8NCXp4Sc2v) | 3:24 | 2023-02-10 |  |
 | [Tides](https://open.spotify.com/track/50YSCNyYuyZpgQ0QFmsqln) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE) | [Tides](https://open.spotify.com/album/6F39Vxaf4xtK02FL8DQ2Vj) | 4:27 | 2022-07-08 |  |
 | [To Another World](https://open.spotify.com/track/70f5P5Fim10r1PxlJu15dw) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [To Another World](https://open.spotify.com/album/4ymZf7MngtqVCgpiaHwu8P) | 4:11 | 2022-11-18 | 2023-02-19 |
+| [Too Long \(feat\. Cruel Youth\)](https://open.spotify.com/track/68eKAppHA0LgssmPmoRNv4) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Cruel Youth](https://open.spotify.com/artist/4YrURxtCHtPBfNDmMNp7IG) | [Too Long \(feat\. Cruel Youth\)](https://open.spotify.com/album/3eqY7BmjLIkfTTkimqO430) | 4:41 | 2023-03-03 |  |
 | [Treading Water](https://open.spotify.com/track/4cv3Hq71572CK731yfAVB0) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Treading Water](https://open.spotify.com/album/272T5Er6qPGusHv42ZcmEW) | 3:33 | 2022-07-08 | 2022-07-29 |
 | [Treading Water](https://open.spotify.com/track/4iQnJ1nbzIqRirVI1Q2ig8) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:33 | 2022-07-29 |  |
 | [Treading Water](https://open.spotify.com/track/7vQb9oBfIo2q8IggQ4Bkjy) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:33 | 2022-07-08 | 2022-08-04 |
@@ -303,7 +304,7 @@
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-07-08 |  |
 | [Walk On Water \- Love Is Gone pt\. 2](https://open.spotify.com/track/0ow0OPJOJKhvFvWyLqcHFJ) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RØRY](https://open.spotify.com/artist/1DxeVuzqAPt52cgjyGxwIj), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Walk On Water \- Love Is Gone pt\. 2](https://open.spotify.com/album/2vY3bVfVilUcZ9CfsAtb1e) | 6:23 | 2022-07-08 | 2023-03-04 |
 | [Walked Through Fire](https://open.spotify.com/track/5GjxlgXBgCMbp0zHLFUaug) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Isaac Warburton](https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk) | [Walked Through Fire](https://open.spotify.com/album/3K1a93RS9IWlIulb8Tkqhn) | 3:34 | 2022-08-26 |  |
-| [want u 2 stay](https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [want u 2 stay](https://open.spotify.com/album/4DwQhiao8stnXWX6R9uZfb) | 2:58 | 2022-07-08 |  |
+| [want u 2 stay](https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [want u 2 stay](https://open.spotify.com/album/4DwQhiao8stnXWX6R9uZfb) | 2:58 | 2022-07-08 | 2023-03-05 |
 | [Wasted Time](https://open.spotify.com/track/4h9AqdgRkK8m7TxjqWWhmX) | [Feather](https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi), [Badnights](https://open.spotify.com/artist/5CiCfM47n3cXeWvxtn5TVd) | [Wasted Time](https://open.spotify.com/album/6vRishxcEmdMeKR7LQ46Rd) | 3:29 | 2022-07-08 | 2022-09-19 |
 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 | 2022-07-08 |  |
 | [We Fall Down](https://open.spotify.com/track/5He8dKCynZPFzBPG5M5Ajy) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Shaley Scott](https://open.spotify.com/artist/1dkMJbf84C7saOwz1C7b4v) | [We Fall Down](https://open.spotify.com/album/5NwRnvEi6zKKMs41uX1CMu) | 4:23 | 2022-07-08 |  |

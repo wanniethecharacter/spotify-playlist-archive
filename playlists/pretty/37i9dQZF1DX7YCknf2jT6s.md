@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Brandee Younger
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,389 likes - 100 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,603 likes - 100 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 21 | [Rainfalls](https://open.spotify.com/track/3sKGscGC83tWCUGtC3JJgM) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Rainfalls](https://open.spotify.com/album/4ViIUQ6dcEZKgqmWsZGdGk) | 3:37 |
 | 22 | [You'd Be so Nice to Come Home To](https://open.spotify.com/track/0MLjBHCWlJftQ3vk5hzTPN) | [Sam Levine](https://open.spotify.com/artist/1CmCeIsw4tTFiufFAJx04M), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [You'd Be so Nice to Come Home To](https://open.spotify.com/album/6wmFNNSrd1eX58uXZ0UYu6) | 4:14 |
 | 23 | [Mischief](https://open.spotify.com/track/1VQRovwgb3trAXc6zhtRhZ) | [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [Mischief](https://open.spotify.com/album/1sxGrxD6yCKlXFbTQQfmfp) | 10:07 |
-| 24 | [Singularity](https://open.spotify.com/track/6xol9iS7QVggKGLIcXIPNV) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Singularity](https://open.spotify.com/album/5zZJjvf7RJjbeNuTuhIJK3) | 3:10 |
+| 24 | [Singularity](https://open.spotify.com/track/6DqhE2YrCDFLMTTicTmcCI) | [Astrocolor](https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD) | [Singularity](https://open.spotify.com/album/2ff6fUWBKC7E6HFP8IOL2T) | 3:10 |
 | 25 | [Autumn](https://open.spotify.com/track/1RvnKHy0hsMbCGe72D7JlW) | [Jakob Park](https://open.spotify.com/artist/7DBGD1kB432PN8vBOvT3it), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Autumn](https://open.spotify.com/album/59ntoOGSEuWpsBeJnBHaZt) | 3:19 |
 | 26 | [Slow Hot Wind](https://open.spotify.com/track/5KLuxrGo0LBcyGvGj3NKai) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Slow Hot Wind](https://open.spotify.com/album/31CBhKMtQuIiols58fRWlR) | 5:19 |
 | 27 | [Up and Up](https://open.spotify.com/track/6Lduosf81XUhbksNEy50a9) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Julian Lambert](https://open.spotify.com/artist/2S5uDAF0lONQPR1pzv6AZ8), [Jay Verma](https://open.spotify.com/artist/1L4uyjYgL11xq4oQ6e4OQB), [Jeremy Stein](https://open.spotify.com/artist/5fxI50NPqtkfu1T0xwfrGR) | [Up and Up](https://open.spotify.com/album/7c9EaipAkFIul2gOBuv9Ea) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Faith in Grace](https://open.spotify.com/track/1epeS242PWILHdDaZxt4PU) | [Tivon Pennicott](https://open.spotify.com/artist/3LDls2CFYVVqX9BUKnklCa) | [Faith In Grace](https://open.spotify.com/album/7M3IKDHdbvFszTGFVQnmUA) | 3:36 |
 | 100 | [Hudson](https://open.spotify.com/track/1Znw9hnCZBzlXqI3UC1phx) | [Nadje Noordhuis](https://open.spotify.com/artist/2gMxxfDcVbNcJH5VG2FCmY) | [Full Circle](https://open.spotify.com/album/7JEJzOuSLh5yDIYdZvuJfa) | 4:33 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDRmOGIzNmVmNzM1NTFlZmIyYTBkMTNkMDVhZWFlZTg5`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDViM2I3ODE4ZDU2MTBiNmM1MDAzNTRlNGI1NmM1OTkx`

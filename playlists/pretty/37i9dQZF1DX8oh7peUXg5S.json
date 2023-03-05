@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joan Manuel Serrat.",
-  "num_followers": 278772,
+  "num_followers": 278949,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDBmYzVmODQwMjMxMzQzMWNiMjQ2NDMyOTgxZDUwNTcx",
+  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDAyMWIwYTI5YWFkNjYxN2Y3Y2VkN2Y4ZWFlZmEyODM3",
   "tracks": [
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 157386,
-      "name": "Contigo en la Distancia",
-      "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "De Pana y Rub\u00ed",
         "url": "https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 249573,
       "name": "Querr\u00eda",
       "url": "https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 157386,
+      "name": "Contigo en la Distancia",
+      "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1339,22 +1339,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Cuando el R\u00edo Suena...",
-        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+        "name": "Maldita Vocaci\u00f3n",
+        "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
       },
       "artists": [
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
         },
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Diego Ojeda",
+          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
         }
       ],
-      "duration_ms": 234743,
-      "name": "Antes De Verte (with Kevin Johansen)",
-      "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
+      "duration_ms": 285341,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1375,22 +1375,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Maldita Vocaci\u00f3n",
-        "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
+        "name": "Cuando el R\u00edo Suena...",
+        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
       "artists": [
         {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         },
         {
-          "name": "Diego Ojeda",
-          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 285341,
-      "name": "Guapa",
-      "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
+      "duration_ms": 234743,
+      "name": "Antes De Verte (with Kevin Johansen)",
+      "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Mi Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/4zyCM7SjQk8UedzfWVAYjT"
+      },
+      "artists": [
+        {
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        },
+        {
+          "name": "Mikel Izal",
+          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
+        }
+      ],
+      "duration_ms": 233815,
+      "name": "Mi Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/4J2QcplOla4PXNU4zXt3vG"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Qu\u00e9 bonito",
         "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 264030,
       "name": "Toda la vida, un d\u00eda (feat. Liliana Herrero) - Mov.4: El Peso",
       "url": "https://open.spotify.com/track/2KZJSQqoiH6EfifV3Yn3ph"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Mi Paraca\u00eddas",
-        "url": "https://open.spotify.com/album/4zyCM7SjQk8UedzfWVAYjT"
-      },
-      "artists": [
-        {
-          "name": "Marw\u00e1n",
-          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
-        },
-        {
-          "name": "Mikel Izal",
-          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
-        }
-      ],
-      "duration_ms": 233815,
-      "name": "Mi Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/4J2QcplOla4PXNU4zXt3vG"
     },
     {
       "added_at": "2023-03-02 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 115249,
+  "num_followers": 115347,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDk2M2EzNTQ2MGQzYTRlMzcwNzg1YTNiMTRhNTJiOGFh",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDk5M2ExOWRiNGQ2NjliYWI4ZThiMjE1MzVkZGM4ODc3",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV"
     },
     {
-      "added_at": "2023-03-04 01:27:14",
+      "added_at": "2023-03-05 00:58:32",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -915,18 +915,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "New Tattoos",
-        "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
+        "name": "When Love Comes Around",
+        "url": "https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc"
       },
       "artists": [
         {
-          "name": "South Texas Tweek",
-          "url": "https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM"
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 157660,
-      "name": "New Tattoos",
-      "url": "https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx"
+      "duration_ms": 210437,
+      "name": "When Love Comes Around",
+      "url": "https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "When Love Comes Around",
-        "url": "https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc"
+        "name": "New Tattoos",
+        "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
       },
       "artists": [
         {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "South Texas Tweek",
+          "url": "https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM"
         }
       ],
-      "duration_ms": 210437,
-      "name": "When Love Comes Around",
-      "url": "https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm"
+      "duration_ms": 157660,
+      "name": "New Tattoos",
+      "url": "https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1057,7 +1057,23 @@
       "url": "https://open.spotify.com/track/3G6oU2xKe6pTiUzEXh1Nxt"
     },
     {
-      "added_at": "2023-03-04 01:27:14",
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Where Phones Don't Work",
+        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 213643,
+      "name": "Phones Don't Work",
+      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
+    },
+    {
+      "added_at": "2023-03-05 00:58:32",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1091,6 +1107,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Red Eye EP",
+        "url": "https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 319591,
+      "name": "Kill a Man",
+      "url": "https://open.spotify.com/track/1N6pD66bUuUuVX9CfXJxFA"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Cigarettes and Alcohol",
         "url": "https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ"
       },
@@ -1103,22 +1135,6 @@
       "duration_ms": 277171,
       "name": "Cigarettes and Alcohol",
       "url": "https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Where Phones Don't Work",
-        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 213643,
-      "name": "Phones Don't Work",
-      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Red Eye EP",
-        "url": "https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 319591,
-      "name": "Kill a Man",
-      "url": "https://open.spotify.com/track/1N6pD66bUuUuVX9CfXJxFA"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Burn Down EP",
-        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
-      },
-      "artists": [
-        {
-          "name": "Cade Holliday",
-          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "Picture",
-      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Hundred Dollar Bill",
         "url": "https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 223806,
       "name": "Hundred Dollar Bill",
       "url": "https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Burn Down EP",
+        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
+      },
+      "artists": [
+        {
+          "name": "Cade Holliday",
+          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "High on the Bottle",
+        "url": "https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr"
+      },
+      "artists": [
+        {
+          "name": "Creed Fisher",
+          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
+        }
+      ],
+      "duration_ms": 253952,
+      "name": "High on the Bottle",
+      "url": "https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "First Dirt Road",
         "url": "https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 258053,
       "name": "Any Other Guy",
       "url": "https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "High on the Bottle",
-        "url": "https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr"
-      },
-      "artists": [
-        {
-          "name": "Creed Fisher",
-          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
-        }
-      ],
-      "duration_ms": 253952,
-      "name": "High on the Bottle",
-      "url": "https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "When You're Coming Down",
-        "url": "https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "When You're Coming Down",
-      "url": "https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 184644,
       "name": "Slow",
       "url": "https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "When You're Coming Down",
+        "url": "https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "When You're Coming Down",
+      "url": "https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt"
     },
     {
       "added_at": "2022-05-27 04:00:00",

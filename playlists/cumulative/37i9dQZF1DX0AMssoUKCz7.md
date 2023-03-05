@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-577 songs - 1 day 5 hr 48 min
+578 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 | 2023-01-20 |  |
 | [Kiss Me](https://open.spotify.com/track/6kYkyeZHXPOj4s5swBEgvu) | [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Kiss Me](https://open.spotify.com/album/2k3nAAi31nOvj3wcuNwMYr) | 2:27 | 2023-01-20 |  |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/4zWbO2jh3xzgylLksw37Fu) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Knockin' On Heaven's Door](https://open.spotify.com/album/3Zhg5HmHcCJea6KvPBf5uu) | 2:29 | 2022-09-09 |  |
+| [Know](https://open.spotify.com/track/5bXBLKAQ4MTAyKRdVbryrg) | [Monartt](https://open.spotify.com/artist/5ABls0cOLH2fiOLy1Dgb4k) | [Know](https://open.spotify.com/album/5zg7MKg4dWpJToBKfDiDKN) | 2:11 | 2023-02-10 |  |
 | [Kuala Lumpur](https://open.spotify.com/track/2gK4qTOtzYQiiOW6I2bXj8) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Kuala Lumpur](https://open.spotify.com/album/4suO8UXZWFxmqEPtabQrCK) | 3:02 | 2022-05-20 | 2022-11-12 |
 | [Kyoto](https://open.spotify.com/track/6Uk70qpuVpIbJYfpgp7FOv) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 5:31 | 2022-04-01 | 2022-07-02 |
 | [Kyoto](https://open.spotify.com/track/4N0UHWYEc1DCn1UcsJtfmx) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Kyoto](https://open.spotify.com/album/0gZioMqEBnE55RyVPeoFrS) | 3:40 | 2022-04-01 | 2022-07-30 |
@@ -571,7 +572,7 @@
 | [Wild One \(feat\. Tep No\)](https://open.spotify.com/track/2pq9pe4fR25v736ZXa8IRn) | [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E), [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Wild One \(feat\. Tep No\)](https://open.spotify.com/album/4QGR93R7QtUthY6CFLgnBk) | 3:02 | 2022-02-18 | 2022-04-20 |
 | [Wishing Well](https://open.spotify.com/track/3a4UuAErF1VMAkwqzkc1tj) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 3:06 | 2022-01-14 | 2022-04-21 |
 | [Without You](https://open.spotify.com/track/4vN3YZKWDARkYVRjXaY4cx) | [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2) | [Without You](https://open.spotify.com/album/3OhvtkLA2X3mS4EgO5qFHX) | 2:43 | 2022-05-13 | 2022-07-29 |
-| [Without Your Love \- sunsets & sandals Remix](https://open.spotify.com/track/78KQ0GVdHsDbv2ilNYSIBf) | [Marcus Brodowski](https://open.spotify.com/artist/3U5sS2ernX7nUjFZ9GSxWh), [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA) | [Without Your Love \(sunsets & sandals Remix\)](https://open.spotify.com/album/67UQdAeEFHe18ANGfQ62ZP) | 2:50 | 2022-04-01 |  |
+| [Without Your Love \- sunsets & sandals Remix](https://open.spotify.com/track/78KQ0GVdHsDbv2ilNYSIBf) | [Marcus Brodowski](https://open.spotify.com/artist/3U5sS2ernX7nUjFZ9GSxWh), [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA) | [Without Your Love \(sunsets & sandals Remix\)](https://open.spotify.com/album/67UQdAeEFHe18ANGfQ62ZP) | 2:50 | 2022-04-01 | 2023-03-05 |
 | [Won't Let Go](https://open.spotify.com/track/7GEgzRRim9jP7AyxSskHaZ) | [leisse](https://open.spotify.com/artist/0uIEHVqB8Kkz3epLhyzjhs), [johnny joined](https://open.spotify.com/artist/66exOAuJOrcxkzoClCCMIt) | [Won't Let Go](https://open.spotify.com/album/1xLUbbvRIRcgM0yVgeqXSO) | 2:16 | 2022-04-15 |  |
 | [Won't Wait](https://open.spotify.com/track/6p4Bkm2WGn2uTEfZVWa2ge) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB) | [Won't Wait](https://open.spotify.com/album/1IGC6zUmV4ucToq1cnciaM) | 2:37 | 2022-05-27 |  |
 | [Wonderwall](https://open.spotify.com/track/79J0PGII53YzA3AGNe2AmJ) | [Deeply Dip](https://open.spotify.com/artist/46R0INPAvcOFsJ52xbYH3o), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [Lazorra](https://open.spotify.com/artist/2xabMeb3FuDyBhjSJptmj6) | [Wonderwall](https://open.spotify.com/album/3TvoPh4twYRq9DoAlpFLL4) | 2:51 | 2022-01-14 |  |

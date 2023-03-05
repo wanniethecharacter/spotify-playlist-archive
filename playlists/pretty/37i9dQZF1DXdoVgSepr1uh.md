@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Argentina en la casa! Foto: Lauty Gram & Omar Varela.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,736 likes - 99 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,764 likes - 99 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Lo Rockstar](https://open.spotify.com/track/4QTdOe3d50cfm37j4u8eB9) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [A Lo Rockstar](https://open.spotify.com/album/5vVISJWoJcnal3vT5MNLH1) | 2:46 |
+| 1 | [A Lo Rockstar](https://open.spotify.com/track/4QTdOe3d50cfm37j4u8eB9) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [A Lo Rockstar](https://open.spotify.com/album/5vVISJWoJcnal3vT5MNLH1) | 2:46 |
 | 2 | [Una Copa](https://open.spotify.com/track/1GSTIl2aoajD9UCQqW0SDX) | [Albere](https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Una Copa](https://open.spotify.com/album/1fT8eNTmfMdwv08d60IknK) | 2:21 |
 | 3 | [Vida Gangster](https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Vida Gangster](https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX) | 2:50 |
 | 4 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 |

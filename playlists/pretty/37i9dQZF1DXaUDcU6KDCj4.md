@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Jana Horn
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,342 likes - 150 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,546 likes - 150 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 82 | [Running from the Dawn](https://open.spotify.com/track/7jb6FDwrUuTgcgeE1iMGi4) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [though the world will tell me so, vol\. 1](https://open.spotify.com/album/1nht2bWHhw4ke6nUJwUkBB) | 3:31 |
 | 83 | [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 |
 | 84 | [Our Time](https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Our Time](https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH) | 3:24 |
-| 85 | [Worthy of Love](https://open.spotify.com/track/66GRHLr19DHo2q513qnBM3) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Worthy of Love](https://open.spotify.com/album/3XgCxu1CP5FAlldLmjM8iz) | 3:22 |
+| 85 | [Worthy of Love](https://open.spotify.com/track/5lOvsBMb3lj6WKHTTVJyTm) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Worthy of Love](https://open.spotify.com/album/6b9NIqOZxE6C7T9rFuA0gQ) | 3:22 |
 | 86 | [Witness](https://open.spotify.com/track/0gyF4C5bQduO9Qd1EgTupN) | [Me and My Friends](https://open.spotify.com/artist/4KewrgdzmKzWiJT3Znotp3) | [Witness](https://open.spotify.com/album/46tFc3Dh5NrobyPI6Rq4hJ) | 3:20 |
 | 87 | [Homemaker](https://open.spotify.com/track/7gkcXaqplvft0Gk0FbUteE) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/5JX6lCMslXIVUBeprDgGIY) | 4:13 |
 | 88 | [World's Greatest Sleeper](https://open.spotify.com/track/7Etfp59BHjo4Ud0x67r5st) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [World's Greatest Sleeper](https://open.spotify.com/album/1B1aaFNBIh4R8VINBjxdQ3) | 3:06 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Prodigal Daughter](https://open.spotify.com/track/42vqHuyCCHkdckWSeCmMTV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 3:42 |
 | 150 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/1ydzL5SIoSRCpEIYWhsWE5) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days \(Deluxe Edition\) In The Canyon Haze](https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q) | 4:17 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDM0Y2RlM2YxM2ZmOGU4YjViYjQzM2M4MWU2MzI2MTgx`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGNjYTg4NGQ5ODcwNDIyZWNhMjE0YmZlOTgwZDY5YzFl`

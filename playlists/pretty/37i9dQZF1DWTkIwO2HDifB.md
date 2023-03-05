@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Sem Aliança no Dedo e os funks mais 🔑 do Brasil\. Foto: MC Xenon
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,432,250 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,436,068 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 17 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 |
 | 18 | [Casei Com a Putaria](https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Casei Com a Putaria](https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi) | 2:37 |
 | 19 | [Aqui Na Parma Tu Vem Pra Fuder](https://open.spotify.com/track/3euydCfGHLFjuwHA7G7AUJ) | [DJ CIRILO DE CAXIAS](https://open.spotify.com/artist/4vU3LV354CpezI42tPRiVN), [Kaeny Mc](https://open.spotify.com/artist/0GM5Kxf1k00U2KzgFznWxi) | [Aqui Na Parma Tu Vem Pra Fuder](https://open.spotify.com/album/6TLHkb7dghgkYTlmtrZkM8) | 2:51 |
-| 20 | [Zero Amor \(feat\. MC Tuto\)](https://open.spotify.com/track/1lDyYAzt18bbDVbhAmd7US) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z) | [Zero Amor \(feat\. MC Tuto\)](https://open.spotify.com/album/6GTiXru2Ol2oKab0AZ96us) | 4:58 |
+| 20 | [Zero Amor \(feat\. MC Tuto, DJ Glenner\)](https://open.spotify.com/track/1lDyYAzt18bbDVbhAmd7US) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z) | [Zero Amor \(feat\. MC Tuto, DJ Glenner\)](https://open.spotify.com/album/6GTiXru2Ol2oKab0AZ96us) | 4:58 |
 | 21 | [Baile no Morro](https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD) | [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Mc Vitin Da Igrejinha](https://open.spotify.com/artist/6junQmlAntqTBJPTYCq25a), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [Baile no Morro](https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230) | 2:20 |
 | 22 | [Incendeia](https://open.spotify.com/track/4m1mqQuy34Nzh0480VR364) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Incendeia](https://open.spotify.com/album/6ljtMl412BhgFRHmfxrXYm) | 3:59 |
 | 23 | [Maldita](https://open.spotify.com/track/0byjneoANrqAMJuNrUXe3E) | [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Mc Scar](https://open.spotify.com/artist/59QeFVjDVrtm42TTVs4ZR0), [DJ FLS](https://open.spotify.com/artist/29yMWKeeXYWIbMbbQ9sRJy) | [Maldita](https://open.spotify.com/album/7FKx3dIj8BTapA7IalfJIO) | 2:13 |

@@ -783,6 +783,28 @@
     },
     {
       "album": {
+        "name": "Abziehen",
+        "url": "https://open.spotify.com/album/32bNw04jonhRIqvmG2mARJ"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150200,
+      "name": "Abziehen",
+      "url": "https://open.spotify.com/track/42MbpTDZWKc8uAJDhHcvQO"
+    },
+    {
+      "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
       },
@@ -2806,7 +2828,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
@@ -3777,6 +3799,28 @@
     },
     {
       "album": {
+        "name": "LOVE MY LIFE",
+        "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150593,
+      "name": "BRODIES",
+      "url": "https://open.spotify.com/track/0vMoUsXGJbSzrwlYZ7XhvY"
+    },
+    {
+      "album": {
         "name": "BRODIES",
         "url": "https://open.spotify.com/album/5xSam2UgSOM6sXR7C6SuVc"
       },
@@ -4154,7 +4198,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -9460,7 +9504,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 167613,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
@@ -9594,6 +9638,28 @@
       "duration_ms": 268960,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx"
+    },
+    {
+      "album": {
+        "name": "Hallow Kitty",
+        "url": "https://open.spotify.com/album/7DPL8ClopefjZeWVAIggXg"
+      },
+      "artists": [
+        {
+          "name": "Kwam.E",
+          "url": "https://open.spotify.com/artist/4H9W4cb3X0qRpv87yKV7fV"
+        },
+        {
+          "name": "OVE",
+          "url": "https://open.spotify.com/artist/42RwQlOWDVzGRQVa61O8VV"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "Hallow Kitty",
+      "url": "https://open.spotify.com/track/3YONiGJ9VB9KvpXEHgLMjF"
     },
     {
       "album": {
@@ -10494,7 +10560,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
@@ -11620,7 +11686,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 164936,
       "name": "Jeden Tag mehr",
       "url": "https://open.spotify.com/track/6y5LixQNwrWROFebIKQfFN"
@@ -12643,6 +12709,24 @@
     },
     {
       "album": {
+        "name": "Es ist Abend und wir sitzen bei mir",
+        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "Lass es kreisen",
+      "url": "https://open.spotify.com/track/6Pn5YAIhhT85vxBD3YoIzG"
+    },
+    {
+      "album": {
         "name": "Bitches brauchen Rap",
         "url": "https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp"
       },
@@ -12792,7 +12876,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
@@ -13776,6 +13860,32 @@
       "duration_ms": 195880,
       "name": "Love Me Now (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
+    },
+    {
+      "album": {
+        "name": "LOVE MY LIFE",
+        "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        },
+        {
+          "name": "Anne Imhof",
+          "url": "https://open.spotify.com/artist/3JOuq4jD26hJ229ZaKHEe3"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161048,
+      "name": "LOVE MY LIFE",
+      "url": "https://open.spotify.com/track/1j6qr4E0seSdc6cq5pL6JD"
     },
     {
       "album": {
@@ -15387,6 +15497,28 @@
     },
     {
       "album": {
+        "name": "LOVE MY LIFE",
+        "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198294,
+      "name": "MOMMA",
+      "url": "https://open.spotify.com/track/2vvL12gufp1dCbgv4N9S1J"
+    },
+    {
+      "album": {
         "name": "Das neue Album",
         "url": "https://open.spotify.com/album/76SEnBrRcbEnBYx3jKVTeR"
       },
@@ -16929,6 +17061,24 @@
     },
     {
       "album": {
+        "name": "LOVE MY LIFE",
+        "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163099,
+      "name": "NUR SIE DARF",
+      "url": "https://open.spotify.com/track/0v5tJa9288xBvYEl9EBuNK"
+    },
+    {
+      "album": {
         "name": "NUR SIE DARF",
         "url": "https://open.spotify.com/album/5d84zXcceiTXG05BhMmGLU"
       },
@@ -18036,7 +18186,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 137847,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
@@ -18715,6 +18865,24 @@
     },
     {
       "album": {
+        "name": "LOVE MY LIFE",
+        "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161002,
+      "name": "PRIVACY",
+      "url": "https://open.spotify.com/track/73DblRD10lRfbTM2NzSiTC"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -18792,6 +18960,24 @@
       "duration_ms": 124225,
       "name": "Pr\u00e4si Suite - A COLORS SHOW",
       "url": "https://open.spotify.com/track/72Mp1A8UUrYqNPi7GNTusj"
+    },
+    {
+      "album": {
+        "name": "PUR AUF ICE",
+        "url": "https://open.spotify.com/album/0fJ5azW4LzC69Ct8ZPKR7J"
+      },
+      "artists": [
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188950,
+      "name": "PUR AUF ICE",
+      "url": "https://open.spotify.com/track/5uxrX6IKC5cQHeaZnzgm6k"
     },
     {
       "album": {
@@ -19566,7 +19752,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
@@ -20124,7 +20310,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 165428,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/7zATY9hK0qeqkE4Gu357M5"
@@ -20426,7 +20612,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 159416,
       "name": "Sava i Dunav",
       "url": "https://open.spotify.com/track/64IFiUCsksRiHrUwfPKw6H"
@@ -21938,7 +22124,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
@@ -22462,7 +22648,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 150053,
       "name": "Sure Thing - Sped Up",
       "url": "https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"
@@ -24178,6 +24364,24 @@
       "duration_ms": 149601,
       "name": "Vergesse nie die Street",
       "url": "https://open.spotify.com/track/7Cdqo041677njveTGZtrLg"
+    },
+    {
+      "album": {
+        "name": "Vergessen wie",
+        "url": "https://open.spotify.com/album/5dAL9utqZdWTG2BK8Dusju"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224445,
+      "name": "Vergessen wie",
+      "url": "https://open.spotify.com/track/28yd3NLXZkDi5p9segSvcf"
     },
     {
       "album": {

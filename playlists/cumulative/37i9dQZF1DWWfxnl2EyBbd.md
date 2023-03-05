@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-422 songs - 1 day 9 hr 21 min
+423 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2022-11-12 | 2023-01-18 |
 | [Nocturnal](https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 6:52 | 2022-02-10 | 2022-11-09 |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-11-12 |  |
-| [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 | 2022-11-12 |  |
+| [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 | 2022-11-12 | 2023-03-05 |
 | [November](https://open.spotify.com/track/4qD7gLqAtSXFmS83Bj9Qyp) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Dimensions](https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8) | 4:29 | 2022-03-17 | 2023-01-21 |
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2022-11-12 |  |
 | [Old Folks \- Live](https://open.spotify.com/track/0w6BWAytSQFGUW5paTcKzd) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [After The Fall \(Live\)](https://open.spotify.com/album/6KCtVTAKemrqpVZLLdxB2c) | 9:23 | 2022-02-10 | 2022-11-09 |
@@ -321,6 +321,7 @@
 | [Some Day My Prince Will Come](https://open.spotify.com/track/7MOcps59D9EKIzO6jxivQg) | [The Alan Broadbent Trio](https://open.spotify.com/artist/3Al4iiw6OMtADaBw7NDWIG) | [Pacific Standard Time](https://open.spotify.com/album/3N8ehynLixrhNFbv98YbCV) | 4:42 | 2022-02-10 | 2022-11-12 |
 | [Somebody Else's Song](https://open.spotify.com/track/2yBSCJCk657ZGiUygwmgI6) | [Andrew McCormack](https://open.spotify.com/artist/6PWgeYcTjP4DKnDyhk36D4), [Joe Downard](https://open.spotify.com/artist/3beFQ9U7jhy8QoVjMqWrX2), [Rod Youngs](https://open.spotify.com/artist/2zmRb4Pa06CmpOYzwsGcxB) | [Somebody Else's Song](https://open.spotify.com/album/78ZqOcYJSDj449iWDc8e1G) | 5:24 | 2022-09-29 | 2022-11-12 |
 | [Sometime Ago](https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Sometime Ago](https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q) | 2:40 | 2022-11-12 |  |
+| [Sometimes We Do](https://open.spotify.com/track/4iWhQq5tD1XZVRhhpFdIS4) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Sometimes We Do](https://open.spotify.com/album/7cr2yeKvQHEpvvTPcl29zs) | 3:24 | 2023-03-02 |  |
 | [Sophisticated Lady](https://open.spotify.com/track/2Zx7yE2yykRkjhqU8blE1s) | [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz), [Gadi Lehavi](https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o), [Ben Tiberio](https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos) | [Golden Treasures](https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4) | 6:17 | 2022-06-03 | 2022-11-12 |
 | [Soul Train](https://open.spotify.com/track/6gbgvmLYZ3Ms3yXfZU3YtS) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Soft Summer Breeze](https://open.spotify.com/album/4943XSKD7cXKrUQIs1FdNL) | 6:51 | 2022-04-14 | 2022-11-12 |
 | [Souvenir](https://open.spotify.com/track/47yAskmqMUSR3W0lte2E1v) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja), [Scott Colley](https://open.spotify.com/artist/2xXlVRnJO7vxdGV8Z2nWjb), [Dennis Mackrel](https://open.spotify.com/artist/3PUIxfK6P8boslOXGpZPoK) | [Souvenir](https://open.spotify.com/album/3brxc2ayHoVUxk8PhXFZ8A) | 7:56 | 2022-02-10 | 2022-11-12 |

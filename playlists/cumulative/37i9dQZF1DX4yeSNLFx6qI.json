@@ -3113,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "Te La Dedico",
+        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Te La Dedico",
+      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
+    },
+    {
+      "album": {
         "name": "Te miro a ti",
         "url": "https://open.spotify.com/album/36Kd5LZGDeE7ZhJB39J2c2"
       },
@@ -3564,7 +3582,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 201034,
       "name": "Y Duele (feat. Pablo Albor\u00e1n)",
       "url": "https://open.spotify.com/track/1YlHuvmZCFIlt0O1JlReCb"

@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Egreen in cover.
 
-256 songs - 15 hr 25 min
+257 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [21 Grammi](https://open.spotify.com/track/3mALxpNkY2W4EzLldNCo9s) | [Duplici](https://open.spotify.com/artist/26LUOCEFlhNl9RjCPDruPT), [Dj Double S](https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0) | [Schiena Contro Schiena](https://open.spotify.com/album/5IwGNmcikVfFtiVtDmw5ff) | 4:19 | 2022-05-05 |  |
 | [Ad occhi chiusi](https://open.spotify.com/track/2NL4SJrNUrIrut27M8dzfH) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Elisa Aramonte](https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl) | [Ad occhi chiusi](https://open.spotify.com/album/4MIDqncZlxZ1ZzfUQM1QvJ) | 3:45 | 2022-09-22 |  |
 | [Always Ready](https://open.spotify.com/track/7Gp8EIlM1HzN6RXdVRIrN8) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz) | [Always Ready](https://open.spotify.com/album/3wlakbU1BE1CxvkXOraFe3) | 2:50 | 2022-09-09 | 2022-10-07 |
-| [Amor de mi vida](https://open.spotify.com/track/1V88gWT2lkujA6094zxA39) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Sotto lo stesso effetto](https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0) | 4:55 | 2022-05-19 |  |
+| [Amor de mi vida](https://open.spotify.com/track/1V88gWT2lkujA6094zxA39) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Sotto lo stesso effetto](https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0) | 4:55 | 2022-05-19 | 2023-03-05 |
 | [Anni Luce](https://open.spotify.com/track/3AouWRg7Ur50FqeJl9Kx2z) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dafa](https://open.spotify.com/artist/23xdPmYS80aHcswLkOTTfs), [Dope One](https://open.spotify.com/artist/3hkuxweLT2NqX7opoaRyKB) | [Young Veterans 1974](https://open.spotify.com/album/5Z0VqAJD6WqjgZw0xfdYzu) | 3:06 | 2022-05-12 | 2022-06-01 |
 | [Ardito Desio](https://open.spotify.com/track/65Bp7VWNGe672txTWvsm7Z) | [MxRxGxA](https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M), [GENTLE T](https://open.spotify.com/artist/2xlpLMpxPwAhjidh03QPw1), [Blo/B](https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH), [Gionni Gioielli](https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z) | [Gran Turismo](https://open.spotify.com/album/7akh9qFmIUXqmkNcaOqjU3) | 3:06 | 2022-05-12 | 2022-06-23 |
 | [Aspettando Il Sole \- Remastered](https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Giuliano Palma](https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I) | [Neffa E I Messaggeri Della Dopa \(Remastered\)](https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2) | 5:11 | 2022-05-12 | 2023-03-02 |
@@ -32,6 +32,7 @@
 | [Brothers Cavalera](https://open.spotify.com/track/3wCt0lbBjnpLuP1QikoGlb) | [Nex Cassel](https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Brothers Cavalera](https://open.spotify.com/album/1bH9kfwI27cy18IdV4cRZC) | 2:09 | 2022-10-06 |  |
 | [Brutto Figlio Di](https://open.spotify.com/track/0ljdS84N7do08kchJRm8uN) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 2:38 | 2022-05-12 |  |
 | [Bugie Bianche](https://open.spotify.com/track/4pMLcSYJgxfWtE5P7rpHPq) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX) | [Rebus](https://open.spotify.com/album/0Otjtd9sT4ZwhzX7AirKC6) | 3:13 | 2022-05-05 | 2023-02-25 |
+| [Bugie Bianche](https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX) | [Rebus](https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz) | 3:13 | 2023-03-02 |  |
 | [By Myself](https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn) | [Max](https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5) | 4:20 | 2022-07-28 |  |
 | [Camera mia](https://open.spotify.com/track/3nEwS4kH1G9QookCdI3W3w) | [Don Diegoh](https://open.spotify.com/artist/4EUJtRvapSIJrhtLlsrcIh), [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Addio, a domani.](https://open.spotify.com/album/2wEopDdUpTn4Z7yBEzK0gu) | 4:22 | 2022-06-16 | 2022-07-27 |
 | [Cani sciolti](https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0) | [Sangue Misto](https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL) | [SXM](https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E) | 4:55 | 2022-05-05 |  |

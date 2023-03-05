@@ -2045,6 +2045,28 @@
     },
     {
       "album": {
+        "name": "Let's Bora, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1jd2UnD7KAYtlTxmfmn59t"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154701,
+      "name": "Bombonzinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SCMVUZ21uYYB8cc0ScfbV"
+    },
+    {
+      "album": {
         "name": "Bombonzinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/2VXbLDxcWq4K4gsAEtLbBs"
       },
@@ -2060,7 +2082,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 154701,
       "name": "Bombonzinho - Ao Vivo",
       "url": "https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4"
@@ -8963,6 +8985,28 @@
     },
     {
       "album": {
+        "name": "Let's Bora, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1jd2UnD7KAYtlTxmfmn59t"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "Perdoou Nada - Ao Vivo",
+      "url": "https://open.spotify.com/track/18yZLabAj1liqEUcgxDgeJ"
+    },
+    {
+      "album": {
         "name": "Perdoou Nada (Ao Vivo)",
         "url": "https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ"
       },
@@ -8978,7 +9022,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 163120,
       "name": "Perdoou Nada - Ao Vivo",
       "url": "https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1"

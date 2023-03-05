@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: \u304f\u308b\u308a",
-  "num_followers": 251174,
+  "num_followers": 251295,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5NjQwMCwwMDAwMDAwMDkwNjFkYjQ0Nzk2OGJmMjA0ZGViMDY0ZDU3NzFmODYx",
+  "snapshot_id": "MTY3NzU5NjQwMCwwMDAwMDAwMDlmYmRhMmYwNThiNjRlNGYyMTE0NTdlOTZkNmNkZTUz",
   "tracks": [
     {
       "added_at": "2023-02-28 15:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "yes. I. do",
-        "url": "https://open.spotify.com/album/5WX0UesRT8mWRjZNtKBF40"
+        "name": "Memorable",
+        "url": "https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o"
       },
       "artists": [
         {
-          "name": "Elephant Kashimashi",
-          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
         }
       ],
-      "duration_ms": 288414,
-      "name": "yes. I. do",
-      "url": "https://open.spotify.com/track/1BHQjZCoGdfk6wmSRkFHyA"
+      "duration_ms": 193965,
+      "name": "Memorable",
+      "url": "https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Memorable",
-        "url": "https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o"
+        "name": "yes. I. do",
+        "url": "https://open.spotify.com/album/5WX0UesRT8mWRjZNtKBF40"
       },
       "artists": [
         {
-          "name": "BAND-MAID",
-          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+          "name": "Elephant Kashimashi",
+          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
         }
       ],
-      "duration_ms": 193965,
-      "name": "Memorable",
-      "url": "https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR"
+      "duration_ms": 288414,
+      "name": "yes. I. do",
+      "url": "https://open.spotify.com/track/1BHQjZCoGdfk6wmSRkFHyA"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "More Than Words",
-        "url": "https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL"
       },
       "artists": [
         {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+          "name": "ACIDMAN",
+          "url": "https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn"
         }
       ],
-      "duration_ms": 230542,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
+      "duration_ms": 221700,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
+        "name": "More Than Words",
+        "url": "https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "duration_ms": 230542,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 219146,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL"
-      },
-      "artists": [
-        {
-          "name": "ACIDMAN",
-          "url": "https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn"
-        }
-      ],
-      "duration_ms": 221700,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Blaze",
-        "url": "https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 219360,
-      "name": "Blaze",
-      "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "Adapt",
         "url": "https://open.spotify.com/album/7BsOkR1qRPkQCDC0JZ4Oe4"
       },
@@ -807,18 +791,34 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
-        "url": "https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT"
+        "name": "\u30c9\u30ec\u30df",
+        "url": "https://open.spotify.com/album/4m3Zz5ajxf9evbVOLySDc8"
       },
       "artists": [
         {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+          "name": "the dresscodes",
+          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
         }
       ],
-      "duration_ms": 189786,
-      "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
-      "url": "https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH"
+      "duration_ms": 247952,
+      "name": "\u30c9\u30ec\u30df",
+      "url": "https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "Blaze",
+        "url": "https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "duration_ms": 219360,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
     }
   ],
   "unique_name": "Big in Japan",

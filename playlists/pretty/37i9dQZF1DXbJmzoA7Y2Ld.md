@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 
 > Blues favorites released in 2020\. Cover: Shemekia Copeland
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,000 likes - 46 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,002 likes - 46 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 |
-| 2 | [Holy Ghost Fire](https://open.spotify.com/track/2cjmpXHMfblf5Z8Ddzav1w) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:22 |
+| 2 | [Holy Ghost Fire](https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:22 |
 | 3 | [No Place to Go](https://open.spotify.com/track/57U2smIiC2ch7MbuJMaWIY) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [No Place to Go](https://open.spotify.com/album/4x1bqAzlomirDTyqvjAaiI) | 4:25 |
 | 4 | [Royal Tea](https://open.spotify.com/track/6Xc97DvvgvgzisfpDfUKFY) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2) | 4:28 |
 | 5 | [Chocolate Samurai](https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 4:55 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 | 45 | [Just Beyond the Dawn](https://open.spotify.com/track/4Xy2i27HGAGENa13YMmKls) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Just Beyond the Dawn](https://open.spotify.com/album/3V4c8jFN21XSEEBGkXrmiL) | 3:10 |
 | 46 | [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 |
 
-Snapshot ID: `MTYwNzM4NzQxMSwwMDAwMDAwMGM5ZGMyODU3NDM4ZWI0ZWE3YzZmY2I2NWIwNDg4ZTc4`
+Snapshot ID: `MTYwNzM4NzQxMSwwMDAwMDAwMDRjYTQ4Y2ZmYzU1ZDRlYjA5MDcxOWNiZTRlZmRiNzE3`

@@ -4,7 +4,7 @@
 
 > Amsterdam Dance Event takes over Amsterdam with an incredible line\-up of dance & electronic artists this month!
 
-415 songs - 1 day 7 hr 41 min
+416 songs - 1 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,8 @@
 | [Vibe](https://open.spotify.com/track/0FV6WL3ZWgPrjVyFw3psz4) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Vibe](https://open.spotify.com/album/2dhuBvJE1DM0jWeUraTceH) | 3:30 | 2022-07-25 | 2022-08-06 |
 | [Vivaldi](https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Vivaldi](https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG) | 2:40 | 2022-07-15 | 2022-08-06 |
 | [Volition](https://open.spotify.com/track/0nGRMJGfNJVY9SNGckjP04) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Cronus / Volition](https://open.spotify.com/album/5yMK9RyecHKtrkFYfI7ye4) | 4:52 | 2022-06-09 | 2022-07-16 |
-| [Vortex](https://open.spotify.com/track/2SJTTaPaR8bP1r0yQe7Jy1) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y), [Setaoc Mass](https://open.spotify.com/artist/1VLqhTOnG3RulADitPNqLt) | [Pitch Black EP](https://open.spotify.com/album/6FIfSqa3kOMNyNR8Dc0pNv) | 6:39 | 2022-10-14 |  |
+| [Vortex](https://open.spotify.com/track/2SJTTaPaR8bP1r0yQe7Jy1) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y), [Setaoc Mass](https://open.spotify.com/artist/1VLqhTOnG3RulADitPNqLt) | [Pitch Black EP](https://open.spotify.com/album/6FIfSqa3kOMNyNR8Dc0pNv) | 6:39 | 2022-10-14 | 2023-03-05 |
+| [Vortex](https://open.spotify.com/track/2kWVdU692BetWjQ3LQ73TX) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y), [Setaoc Mass](https://open.spotify.com/artist/1VLqhTOnG3RulADitPNqLt) | [Pitch Black EP](https://open.spotify.com/album/1mTgbEwwU09omtXeGiImB9) | 6:39 | 2022-10-17 |  |
 | [Waiting For You](https://open.spotify.com/track/2FUGMupOJ7elS4JPclCqNB) | [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67) | [My Heart Bleeds Black EP](https://open.spotify.com/album/0NzfLHy2VxOuqDRpYVoakY) | 5:06 | 2022-10-14 |  |
 | [Walk Me Home](https://open.spotify.com/track/2qTtA6lgLLwfuYphfT4f8C) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Walk Me Home](https://open.spotify.com/album/4lTOWYSn48zhJ7KeXEJva3) | 3:36 | 2022-05-16 | 2022-06-10 |
 | [Water \- Stoneblue Remix](https://open.spotify.com/track/1OwlI9d2lFLIlNAfzsTn7J) | [Elysian](https://open.spotify.com/artist/6IPtgWMGTP1ZVcfMeo0XlO), [Stoneblue](https://open.spotify.com/artist/1GdY7Cww4HDYTnnayS9hqR) | [Water \(Stoneblue Remix\)](https://open.spotify.com/album/3baEHUypPC8PSBFGoENgT3) | 4:08 | 2022-08-30 | 2022-10-14 |

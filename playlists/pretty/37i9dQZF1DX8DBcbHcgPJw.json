@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Luck Ra + La T y la M + Rusherking",
-  "num_followers": 1176084,
+  "num_followers": 1176237,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg3NDIxNSwwMDAwMDAwMDE1N2VhM2RkNzYxYWE2ZTRlNGE4MjRkYzY3OTEwNzVj",
+  "snapshot_id": "MTY3Nzg3NDIxNSwwMDAwMDAwMDNkYzUyN2NhZmFiOTQ5MjU2ODRkOTYyZTQzODNhYmRl",
   "tracks": [
     {
       "added_at": "2023-02-27 19:18:04",
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
-      "added_at": "2023-03-04 01:05:36",
+      "added_at": "2023-03-05 01:08:15",
       "album": {
         "name": "Camila / Segu\u00ed la flecha / No pinto pajaritos",
         "url": "https://open.spotify.com/album/3Du6tfNXrSoamWDmsQ58Zr"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/0KvtuCa8aGD8SR39aLLLj5"
     },
     {
-      "added_at": "2023-03-04 01:05:36",
+      "added_at": "2023-03-05 01:08:15",
       "album": {
         "name": "Ya no vuelvas",
         "url": "https://open.spotify.com/album/1neUuj2OkhOvvsE8jz7gfg"
@@ -451,42 +451,6 @@
     {
       "added_at": "2023-02-27 19:18:04",
       "album": {
-        "name": "La Gira",
-        "url": "https://open.spotify.com/album/1r4macev7NFEbzNhsfSWft"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "La Gira",
-      "url": "https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6"
-    },
-    {
-      "added_at": "2023-03-04 01:05:36",
-      "album": {
-        "name": "Tr\u00e1tame Suavemente",
-        "url": "https://open.spotify.com/album/1VNBVLeGu6cYMuJk4FqXdx"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Bruno",
-          "url": "https://open.spotify.com/artist/4GiUBU5qC374SE66G2wYY2"
-        }
-      ],
-      "duration_ms": 196355,
-      "name": "Tr\u00e1tame Suavemente",
-      "url": "https://open.spotify.com/track/2v7coZkORX56UIDXh6P1kU"
-    },
-    {
-      "added_at": "2023-02-27 19:18:04",
-      "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
@@ -507,6 +471,42 @@
       "duration_ms": 158447,
       "name": "Ya No M\u00e1s",
       "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
+    },
+    {
+      "added_at": "2023-03-05 01:08:15",
+      "album": {
+        "name": "Tr\u00e1tame Suavemente",
+        "url": "https://open.spotify.com/album/1VNBVLeGu6cYMuJk4FqXdx"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Bruno",
+          "url": "https://open.spotify.com/artist/4GiUBU5qC374SE66G2wYY2"
+        }
+      ],
+      "duration_ms": 196355,
+      "name": "Tr\u00e1tame Suavemente",
+      "url": "https://open.spotify.com/track/2v7coZkORX56UIDXh6P1kU"
+    },
+    {
+      "added_at": "2023-02-27 19:18:04",
+      "album": {
+        "name": "La Gira",
+        "url": "https://open.spotify.com/album/1r4macev7NFEbzNhsfSWft"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "La Gira",
+      "url": "https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6"
     },
     {
       "added_at": "2023-02-27 19:18:04",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-02-27 19:18:04",
       "album": {
-        "name": "Tranquila",
-        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 183430,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
-    },
-    {
-      "added_at": "2023-02-27 19:18:04",
-      "album": {
         "name": "Flasheaste Amor",
         "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
       },
@@ -591,22 +571,6 @@
     {
       "added_at": "2023-02-27 19:18:04",
       "album": {
-        "name": "No Se",
-        "url": "https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 160689,
-      "name": "No Se",
-      "url": "https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l"
-    },
-    {
-      "added_at": "2023-02-27 19:18:04",
-      "album": {
         "name": "Copacabana (Remix)",
         "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
       },
@@ -627,6 +591,22 @@
     {
       "added_at": "2023-02-27 19:18:04",
       "album": {
+        "name": "No Se",
+        "url": "https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 160689,
+      "name": "No Se",
+      "url": "https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l"
+    },
+    {
+      "added_at": "2023-02-27 19:18:04",
+      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 201804,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
+    },
+    {
+      "added_at": "2023-02-27 19:18:04",
+      "album": {
+        "name": "Tranquila",
+        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 183430,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
     },
     {
       "added_at": "2023-02-27 19:18:04",

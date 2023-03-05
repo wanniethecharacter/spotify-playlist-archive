@@ -128,7 +128,7 @@
 | [Love Songs For Robots](https://open.spotify.com/track/3XlDJDs3udH7l0H7bwk0WY) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Love Songs For Robots](https://open.spotify.com/album/6ssJcFWde5qznoMHGM0XOs) | 3:37 | 2018-11-26 | 2022-07-27 |
 | [Low Roar](https://open.spotify.com/track/2kFvFeOcF299uiOJlP7at5) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/2j8FTdrsfSRZE0dWCBmuEL) | 2:13 | 2018-11-26 | 2022-07-29 |
 | [Low Roar](https://open.spotify.com/track/1PmzEt6a77dRdFtjLD2ZrW) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC) | 2:15 | 2018-11-26 |  |
-| [Made of Gold](https://open.spotify.com/track/2HdZcT7RL1cgVz5sbvmyQ5) | [Albert af Ekenstam](https://open.spotify.com/artist/4c6Qf7d1Zjv5ChEK9TTztG) | [Ashes](https://open.spotify.com/album/16NqLbiucfHH7W7yzDUNSA) | 3:49 | 2018-11-26 |  |
+| [Made of Gold](https://open.spotify.com/track/2HdZcT7RL1cgVz5sbvmyQ5) | [Albert af Ekenstam](https://open.spotify.com/artist/4c6Qf7d1Zjv5ChEK9TTztG) | [Ashes](https://open.spotify.com/album/16NqLbiucfHH7W7yzDUNSA) | 3:49 | 2018-11-26 | 2023-03-05 |
 | [Made of gold](https://open.spotify.com/track/5SRdU8ZiqR39RDEy4yku1K) | [Albert af Ekenstam](https://open.spotify.com/artist/4c6Qf7d1Zjv5ChEK9TTztG) | [Made of gold](https://open.spotify.com/album/1TAMyTk1JChX1SubkwvT13) | 3:49 | 2018-11-26 | 2022-07-29 |
 | [Mary](https://open.spotify.com/track/2l6aKj7mOu8MyYX4yFtlZ8) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 5:30 | 2018-11-26 |  |
 | [Mary](https://open.spotify.com/track/6dtB54Z7eICDUOPq3QwXuo) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/2hOYLjoRQFXcdviMiwtgxe) | 5:30 | 2018-11-26 | 2022-07-29 |
@@ -242,6 +242,6 @@
 | [You](https://open.spotify.com/track/6H179fTdaQXT4QHnNxNX4D) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Screws](https://open.spotify.com/album/2EaigzcT1RHV3ILasIOfJz) | 3:09 | 2018-11-26 | 2022-07-29 |
 | [Your Love Is An Island](https://open.spotify.com/track/6we39fF8PwBFH0Buthg1gH) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Wild Alee \(Deluxe Edition\)](https://open.spotify.com/album/3gaCoZyis2PjdhjQVgs1fF) | 3:56 | 2022-12-14 |  |
 | [Your Love Is an Island](https://open.spotify.com/track/79irqIr5JmGSHeLtu8tntd) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Your Love Is an Island](https://open.spotify.com/album/5k6cxdLfxmu1cIcgCInAkB) | 4:05 | 2018-11-26 | 2022-11-13 |
-| [Zombies](https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Zombies](https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs) | 3:12 | 2020-10-15 | 2023-03-02 |
+| [Zombies](https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Zombies](https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs) | 3:12 | 2020-10-15 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

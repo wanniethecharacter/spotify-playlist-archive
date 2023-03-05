@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 408253,
       "name": "Currents (220v Offshore)",
       "url": "https://open.spotify.com/track/6zLlgYu7XKtDuOpVHRCyUp"
@@ -2320,6 +2320,24 @@
       "duration_ms": 400985,
       "name": "Drip",
       "url": "https://open.spotify.com/track/5ZFslOkcftI1FCs88L99qn"
+    },
+    {
+      "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/3LJ2OqIoqveqxgtV4p4iom"
+      },
+      "artists": [
+        {
+          "name": "Lukid",
+          "url": "https://open.spotify.com/artist/3a2bPqijV6I1SBKKK9ikMg"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400985,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/7zTwSgCXNNX3eIKojnKzWF"
     },
     {
       "album": {
@@ -5602,7 +5620,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 295533,
       "name": "Ol",
       "url": "https://open.spotify.com/track/7DKMCyq4y4mXTdUaW0FXv2"
@@ -7088,6 +7106,24 @@
       "duration_ms": 96933,
       "name": "Seph",
       "url": "https://open.spotify.com/track/4nBVt5WGmeEFhcfk6fyoJz"
+    },
+    {
+      "album": {
+        "name": "Not For Threes",
+        "url": "https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96933,
+      "name": "Seph",
+      "url": "https://open.spotify.com/track/7McrkRMy69W59IMEhAkVcc"
     },
     {
       "album": {

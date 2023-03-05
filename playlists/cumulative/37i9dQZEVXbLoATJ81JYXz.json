@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 166062,
       "name": "BUBBEL P\u00c5 BALKONGEN",
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
@@ -4826,7 +4826,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 140046,
       "name": "Djurens vaggvisa",
       "url": "https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF"
@@ -5628,7 +5628,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 167826,
       "name": "Edelweiss",
       "url": "https://open.spotify.com/track/3lnm0gx9usupGiYbwnxH9o"
@@ -14102,10 +14102,28 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 164000,
       "name": "Mer av dig",
       "url": "https://open.spotify.com/track/5BunxZhNY1xaN9CsXvbBxx"
+    },
+    {
+      "album": {
+        "name": "Mer av dig",
+        "url": "https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp"
+      },
+      "artists": [
+        {
+          "name": "Theoz",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Mer av dig",
+      "url": "https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O"
     },
     {
       "album": {
@@ -15312,7 +15330,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 123506,
       "name": "Noyy",
       "url": "https://open.spotify.com/track/4W0pPaBJwKhxScJXDVIKhS"
@@ -16510,7 +16528,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 139415,
       "name": "Pistoler Poesi och Sex",
       "url": "https://open.spotify.com/track/5nVkBEk1qYgkFOEk2kLuMW"
@@ -23718,7 +23736,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 171253,
       "name": "Where Did You Go",
       "url": "https://open.spotify.com/track/1tPzSRXNZbPKQbVh3yv7rs"

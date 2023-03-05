@@ -4,7 +4,7 @@
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-65 songs - 7 hr 29 min
+66 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Love That's Hard To Find \- Swung Club Mix](https://open.spotify.com/track/75yjbBYF5SV9UqLBiLn3WG) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [A Love That's Hard To Find](https://open.spotify.com/album/0uHlUsS7W0B61Dwl2QmuHk) | 3:50 | 2021-03-23 |  |
 | [Ararat \- Sam Davies Remix](https://open.spotify.com/track/34bbmP1NAHml4bF23WDIz6) | [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy), [Sam Davies](https://open.spotify.com/artist/5fDK1GwOEyKqCjg7F9IiyG) | [Only Silk 04](https://open.spotify.com/album/2KcbzOFjjM1ErTXWTdDvkO) | 5:11 | 2021-03-23 |  |
 | [Atami](https://open.spotify.com/track/29WoQT4qjUMLTovZVPNwle) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Masanori Yasuda](https://open.spotify.com/artist/4t7SDTU2q6zEFW2Ecs9sNB), [TACT TOKYO](https://open.spotify.com/artist/65mp3d4qkueCz4K882g7BW) | [Atami](https://open.spotify.com/album/45q746X1SBTkUXqUkkJSPb) | 6:08 | 2021-09-02 |  |
+| [Azure \- Roald Velden Remix](https://open.spotify.com/track/5SFE9nLsTSZi0rPPdF9rBj) | [Japeboy](https://open.spotify.com/artist/4RuPokVKSl4vK1skbGONyJ), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Azure](https://open.spotify.com/album/5rvsbHe2WSn0FOwE7BCswB) | 9:32 | 2023-03-04 |  |
 | [Billion Stars](https://open.spotify.com/track/4xcRyEWsJ959FPBXBzJ4Sp) | [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP), [South Pole](https://open.spotify.com/artist/3vNPCpgA6iJvFoWQfP3Fli) | [Nowhere](https://open.spotify.com/album/540jX1jXLiiThtaWfAC8ti) | 7:38 | 2021-03-23 |  |
 | [Black Hole \- Original Mix](https://open.spotify.com/track/5ysAQ68P78SBLdVwS29wZd) | [Vasily Goodkov](https://open.spotify.com/artist/1oNOLGoVzt5vypyhplILbL) | [Black Hole](https://open.spotify.com/album/2YeK30xFtdUbts875MttP7) | 6:00 | 2021-04-12 |  |
 | [Calm Before the Storm](https://open.spotify.com/track/7dy1TqXaZhgjFLewy49Rh9) | [Katrin Souza](https://open.spotify.com/artist/6MIjBHPbfQsN2BP72arjSf) | [A Dark Forest](https://open.spotify.com/album/7HTA0qF60vVwgP2Zd29dpm) | 6:40 | 2021-03-23 |  |

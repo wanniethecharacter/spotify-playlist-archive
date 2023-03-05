@@ -1,12 +1,12 @@
 {
   "description": "Lebih dari sekedar kopi, ini kumpulan lagu akustik dalam negeri favoritmu.",
-  "num_followers": 543144,
+  "num_followers": 543338,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE2NDkyMSwwMDAwMDAwMDI3NTc1ODI0OWQzN2FhNGMwZGUxZDkyMGI0Mzc3N2Ji",
+  "snapshot_id": "MTY3NzE2NDkyMSwwMDAwMDAwMDMxNDRhYTY0ZGUxNTAyM2NlZGJmOTM1YmEzYjc0NjQ2",
   "tracks": [
     {
       "added_at": "2023-02-23 15:08:41",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-02-23 15:08:41",
       "album": {
+        "name": "Konspirasi Alam Semesta",
+        "url": "https://open.spotify.com/album/6d2K6Ku4sXH63OQnsGVbbe"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 213236,
+      "name": "Garis Terdepan",
+      "url": "https://open.spotify.com/track/4JozU4Ud30FGyDYzoUKasI"
+    },
+    {
+      "added_at": "2023-02-23 15:08:41",
+      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 262060,
       "name": "Cinta Dan Rahasia",
       "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
-    },
-    {
-      "added_at": "2023-02-23 15:08:41",
-      "album": {
-        "name": "Konspirasi Alam Semesta",
-        "url": "https://open.spotify.com/album/6d2K6Ku4sXH63OQnsGVbbe"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 213236,
-      "name": "Garis Terdepan",
-      "url": "https://open.spotify.com/track/4JozU4Ud30FGyDYzoUKasI"
     },
     {
       "added_at": "2023-02-23 15:08:41",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-02-23 15:08:41",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
       },
       "artists": [
         {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Jikalau",
-      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
+      "duration_ms": 195914,
+      "name": "Cahaya",
+      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
     },
     {
       "added_at": "2023-02-23 15:08:41",
@@ -875,6 +875,22 @@
       "duration_ms": 243413,
       "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
       "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
+    },
+    {
+      "added_at": "2023-02-23 15:08:41",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+      },
+      "artists": [
+        {
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Jikalau",
+      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
     },
     {
       "added_at": "2023-02-23 15:08:41",
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-02-23 15:08:41",
       "album": {
-        "name": "The 2000's Greatest",
-        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
-      },
-      "artists": [
-        {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
-        }
-      ],
-      "duration_ms": 279289,
-      "name": "Selimut Hati",
-      "url": "https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq"
-    },
-    {
-      "added_at": "2023-02-23 15:08:41",
-      "album": {
         "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
         "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-02-23 15:08:41",
       "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+        "name": "The 2000's Greatest",
+        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
       },
       "artists": [
         {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
         }
       ],
-      "duration_ms": 195914,
-      "name": "Cahaya",
-      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
+      "duration_ms": 279289,
+      "name": "Selimut Hati",
+      "url": "https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq"
     },
     {
       "added_at": "2023-02-23 15:08:41",
@@ -963,22 +963,6 @@
       "duration_ms": 250322,
       "name": "Tolong",
       "url": "https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U"
-    },
-    {
-      "added_at": "2023-02-23 15:08:41",
-      "album": {
-        "name": "Perspektif Bodoh, Vol. 2",
-        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
-      },
-      "artists": [
-        {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
-        }
-      ],
-      "duration_ms": 308349,
-      "name": "Pegang Tanganku",
-      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
     },
     {
       "added_at": "2023-02-23 15:08:41",
@@ -1027,6 +1011,22 @@
       "duration_ms": 358626,
       "name": "Fana Merah Jambu",
       "url": "https://open.spotify.com/track/463XKKFCPlcrhtlwGbEovu"
+    },
+    {
+      "added_at": "2023-02-23 15:08:41",
+      "album": {
+        "name": "Perspektif Bodoh, Vol. 2",
+        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
+      },
+      "artists": [
+        {
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        }
+      ],
+      "duration_ms": 308349,
+      "name": "Pegang Tanganku",
+      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
     },
     {
       "added_at": "2023-02-23 15:08:41",

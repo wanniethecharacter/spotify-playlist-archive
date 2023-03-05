@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 117489,
+  "num_followers": 117747,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI3ODQzMSwwMDAwMDAwMDkyY2YwZGUwMWYwYzc2YjYxZWU2NzEwZjBhY2Y4ZjM5",
+  "snapshot_id": "MTY3NjI3ODQzMSwwMDAwMDAwMDY5ZTMxNTNjZmIyNThmYjdkNWQ1NTE1MTBlMzkyMWJi",
   "tracks": [
     {
       "added_at": "2023-02-13 08:33:30",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
     },
     {
-      "added_at": "2023-03-04 01:21:10",
+      "added_at": "2023-03-05 01:37:23",
       "album": {
         "name": "Mailbox",
         "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
+        "name": "Die gute Seite (Die lange Seite)",
+        "url": "https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq"
+      },
+      "artists": [
+        {
+          "name": "Sportfreunde Stiller",
+          "url": "https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Ein Kompliment",
+      "url": "https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
         "name": "Vermissen (feat. Henning May)",
         "url": "https://open.spotify.com/album/2f1G3TDphZQx0jbv9qwMdB"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 161882,
       "name": "Vermissen (feat. Henning May)",
       "url": "https://open.spotify.com/track/1SSzM044DUbVpYNNHWIhYJ"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
-        "name": "Die gute Seite (Die lange Seite)",
-        "url": "https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq"
-      },
-      "artists": [
-        {
-          "name": "Sportfreunde Stiller",
-          "url": "https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Ein Kompliment",
-      "url": "https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Unique",
-        "url": "https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 162380,
-      "name": "Unique",
-      "url": "https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Dein ist mein ganzes Herz",
         "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 162380,
+      "name": "Unique",
+      "url": "https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
         "name": "Immer in Bewegung",
         "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "F\u00fcr Immer",
-        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
-      },
-      "artists": [
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "F\u00fcr Immer",
-      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Nur wegen dir",
         "url": "https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 203826,
       "name": "Nur wegen dir",
       "url": "https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "F\u00fcr Immer",
+        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "F\u00fcr Immer",
+      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Mit K",
-        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
-      },
-      "artists": [
-        {
-          "name": "Kraftklub",
-          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
-        }
-      ],
-      "duration_ms": 258360,
-      "name": "Kein Liebeslied",
-      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Blaue Augen",
         "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 167873,
       "name": "Blaue Augen",
       "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "Mit K",
+        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        }
+      ],
+      "duration_ms": 258360,
+      "name": "Kein Liebeslied",
+      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
     },
     {
       "added_at": "2023-02-13 08:33:30",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-02-13 08:33:30",
       "album": {
-        "name": "Sommerregen",
-        "url": "https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl"
-      },
-      "artists": [
-        {
-          "name": "RAUM27",
-          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
-        }
-      ],
-      "duration_ms": 225481,
-      "name": "Sommerregen",
-      "url": "https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi"
-    },
-    {
-      "added_at": "2023-02-13 08:33:30",
-      "album": {
         "name": "Vom selben Stern (Exklusive Version)",
         "url": "https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 228373,
       "name": "Vom selben Stern - Radio Edit",
       "url": "https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL"
+    },
+    {
+      "added_at": "2023-02-13 08:33:30",
+      "album": {
+        "name": "Sommerregen",
+        "url": "https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl"
+      },
+      "artists": [
+        {
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+        }
+      ],
+      "duration_ms": 225481,
+      "name": "Sommerregen",
+      "url": "https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi"
     }
   ],
   "unique_name": "Liebeslieder",

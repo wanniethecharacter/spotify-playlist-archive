@@ -4,7 +4,7 @@
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-230 songs - 15 hr 19 min
+231 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ay Amor](https://open.spotify.com/track/3PuT7cXPJNHCAnl0eZlZdp) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:49 | 2022-03-08 | 2022-07-29 |
 | [Ay Puebla Tu Me Vuelves Loco](https://open.spotify.com/track/0dAigU8qHkKULoBHs9kngN) | [Grupo Maravilla De Robin Revilla](https://open.spotify.com/artist/177ZoCuw8uX6dNSebXVGOn) | [El Sonidito](https://open.spotify.com/album/1Ev4qHoWq2o1jBqh7hNudP) | 3:34 | 2022-03-08 | 2022-11-13 |
 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 | 2021-11-30 |  |
+| [Cara Sucia](https://open.spotify.com/track/6dWwpgNSF82Ag6GRgQ4KZB) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Tu Presencia](https://open.spotify.com/album/6bMM14GAhjERSiV0CmICsD) | 4:25 | 2022-06-07 |  |
 | [Cara Sucia](https://open.spotify.com/track/2v41YxDzz0rIPSMlVBpqW5) | [Alberto Pedraza Con Su Ritmo Y Sabor](https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 4:25 | 2022-03-08 | 2022-11-14 |
 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 | 2021-11-30 |  |
 | [Cervecita](https://open.spotify.com/track/1N30BehuFIvGKwx5q5Swew) | [Kumbia Flow](https://open.spotify.com/artist/4q8TCRvhHjZ1dRpOQDsxBW) | [Cervecita](https://open.spotify.com/album/4os30d5A9kIChPAztcYqIv) | 3:51 | 2022-03-08 | 2022-11-14 |
@@ -56,7 +57,7 @@
 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2022-06-07 |  |
 | [Cumbia Buena](https://open.spotify.com/track/1JcHIgVQUT1HLFzU4GFQoU) | [Rocko Paez](https://open.spotify.com/artist/1zFPc155enhXpQFBxMpxkd), [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Cumbia Buena](https://open.spotify.com/album/2SAwTBkJjpbzSzM0SEzseC) | 3:50 | 2022-12-09 | 2023-01-11 |
 | [Cumbia Cholula](https://open.spotify.com/track/7pY2KAZTR53YbiLtbYLPvI) | [Chucho Ponce Los Daddys de Chinantla](https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im) | [Cumbia Cholula](https://open.spotify.com/album/08jIxZs7LBfg0BvbINxAE1) | 5:08 | 2021-11-30 | 2022-11-13 |
-| [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 | 2021-11-30 |  |
+| [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 | 2021-11-30 | 2023-03-05 |
 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 | 2021-11-30 |  |
 | [Cumbia en el Monte](https://open.spotify.com/track/7HhdWmhwqbGexRdR0nGwTc) | [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Historia Musical de Pedro Laza y Sus Pelayeros](https://open.spotify.com/album/2cTU8fP1nTHpCcrUc7DYdx) | 2:34 | 2022-03-08 | 2022-06-08 |
 | [Cumbia En La Playa](https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 5:24 | 2022-06-07 | 2023-02-03 |

@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTY1OCw3YmYzYjg1MWE3NmNhMTkzZDM1ZmMyODlmNjgxM2Q4NmNlMmEwMzdl",
+  "snapshot_id": "NTY1OSwzMjE3NzM1ZWI0YTI4NWM3NmVjZWU4OWY2N2MyNjlhNTM1ZDNhMTU5",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -1381,34 +1381,6 @@
       "url": "https://open.spotify.com/track/0gXnPON96qcv7etJz3q34V"
     },
     {
-      "added_at": "2022-11-04 17:48:46",
-      "album": {
-        "name": "Triste plaisir (Guillaume Du Fay and Burgundian Music)",
-        "url": "https://open.spotify.com/album/76T8mYCaQnf3eF0YnHzH4p"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Grenon",
-          "url": "https://open.spotify.com/artist/5AtTxL6ypYFM9o8QC3ieal"
-        },
-        {
-          "name": "Lena Susanne Norin",
-          "url": "https://open.spotify.com/artist/76MNv5eL3yqPHcroQtLUiz"
-        },
-        {
-          "name": "Susanne Ansorg",
-          "url": "https://open.spotify.com/artist/69pyioRGqjbQgwI5wfAi5P"
-        },
-        {
-          "name": "Randall Cook",
-          "url": "https://open.spotify.com/artist/6MF4F02XGwScN4ujsctMb0"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "La plus belle et doulce figure",
-      "url": "https://open.spotify.com/track/4L87NkwEcQXsVhGIBcJlDb"
-    },
-    {
       "added_at": "2018-02-09 19:10:59",
       "album": {
         "name": "Dante & Troubadours",
@@ -1435,6 +1407,34 @@
       "duration_ms": 667933,
       "name": "En amor trob alques en que'm refraing",
       "url": "https://open.spotify.com/track/1WOWuUEsCcBdpOy1LTWMV9"
+    },
+    {
+      "added_at": "2022-11-04 17:48:46",
+      "album": {
+        "name": "Triste plaisir (Guillaume Du Fay and Burgundian Music)",
+        "url": "https://open.spotify.com/album/76T8mYCaQnf3eF0YnHzH4p"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Grenon",
+          "url": "https://open.spotify.com/artist/5AtTxL6ypYFM9o8QC3ieal"
+        },
+        {
+          "name": "Lena Susanne Norin",
+          "url": "https://open.spotify.com/artist/76MNv5eL3yqPHcroQtLUiz"
+        },
+        {
+          "name": "Susanne Ansorg",
+          "url": "https://open.spotify.com/artist/69pyioRGqjbQgwI5wfAi5P"
+        },
+        {
+          "name": "Randall Cook",
+          "url": "https://open.spotify.com/artist/6MF4F02XGwScN4ujsctMb0"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "La plus belle et doulce figure",
+      "url": "https://open.spotify.com/track/4L87NkwEcQXsVhGIBcJlDb"
     },
     {
       "added_at": "2021-08-06 13:10:05",
@@ -1503,30 +1503,6 @@
       "duration_ms": 234266,
       "name": "Congaudeant catholici",
       "url": "https://open.spotify.com/track/5NXA7v4gGaUpM2nzqGG35P"
-    },
-    {
-      "added_at": "2022-09-24 03:28:17",
-      "album": {
-        "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
-        "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
-      },
-      "artists": [
-        {
-          "name": "Trebor",
-          "url": "https://open.spotify.com/artist/4PZoWmd11sAwUqyS25mhYx"
-        },
-        {
-          "name": "Ferrara Ensemble",
-          "url": "https://open.spotify.com/artist/7bgHwkBbX48cB9Zn2eJyeI"
-        },
-        {
-          "name": "Crawford Young",
-          "url": "https://open.spotify.com/artist/5vP8XjjQhcCd2sS5eJfnPt"
-        }
-      ],
-      "duration_ms": 365226,
-      "name": "Helas piti\u00e9 envers moy dort si fort",
-      "url": "https://open.spotify.com/track/10wxPwzGtW6G35gMgY9TWi"
     },
     {
       "added_at": "2019-02-22 17:37:45",
@@ -1635,6 +1611,30 @@
       "duration_ms": 194840,
       "name": "Quant voi la flour boutener",
       "url": "https://open.spotify.com/track/6sFgv5yANSTueVYgbWciJE"
+    },
+    {
+      "added_at": "2022-09-24 03:28:17",
+      "album": {
+        "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
+        "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
+      },
+      "artists": [
+        {
+          "name": "Trebor",
+          "url": "https://open.spotify.com/artist/4PZoWmd11sAwUqyS25mhYx"
+        },
+        {
+          "name": "Ferrara Ensemble",
+          "url": "https://open.spotify.com/artist/7bgHwkBbX48cB9Zn2eJyeI"
+        },
+        {
+          "name": "Crawford Young",
+          "url": "https://open.spotify.com/artist/5vP8XjjQhcCd2sS5eJfnPt"
+        }
+      ],
+      "duration_ms": 365226,
+      "name": "Helas piti\u00e9 envers moy dort si fort",
+      "url": "https://open.spotify.com/track/10wxPwzGtW6G35gMgY9TWi"
     },
     {
       "added_at": "2020-03-20 18:42:35",
@@ -2361,46 +2361,6 @@
       "url": "https://open.spotify.com/track/6AkrDT8gUeQOvyVm9cJ9PU"
     },
     {
-      "added_at": "2023-02-10 13:52:58",
-      "album": {
-        "name": "Boethius: Songs of Consolation",
-        "url": "https://open.spotify.com/album/4KEW5satTIwmKBTtuH3Xvn"
-      },
-      "artists": [
-        {
-          "name": "Anicius Manlius Severinus Boethius",
-          "url": "https://open.spotify.com/artist/3W5rAL2GY92Kd7ucM5AoXy"
-        },
-        {
-          "name": "Sequentia",
-          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
-        }
-      ],
-      "duration_ms": 419373,
-      "name": "Carmina qui quondam",
-      "url": "https://open.spotify.com/track/4R1VEypKnSxy12z396Trur"
-    },
-    {
-      "added_at": "2020-10-16 12:02:22",
-      "album": {
-        "name": "Troubadours & trouv\u00e8res",
-        "url": "https://open.spotify.com/album/4lJqokqbHflqKRe0Oy0ClQ"
-      },
-      "artists": [
-        {
-          "name": "Etienne de Meaux",
-          "url": "https://open.spotify.com/artist/7stLB0nwV7m0YVs0B9pOoP"
-        },
-        {
-          "name": "Thomas Binkley",
-          "url": "https://open.spotify.com/artist/4UX4twmKz2tGEpKLOjdPcm"
-        }
-      ],
-      "duration_ms": 288959,
-      "name": "\u00c9tienne de Meaux: Trop est mes maris jalos",
-      "url": "https://open.spotify.com/track/6jPkdYIckdsdgU9i0r4nD7"
-    },
-    {
       "added_at": "2018-02-09 19:10:59",
       "album": {
         "name": "Leonin / Perotin: Sacred Music From Notre-Dame Cathedral",
@@ -2423,6 +2383,46 @@
       "duration_ms": 374000,
       "name": "Beata viscera (monophonic conductus)",
       "url": "https://open.spotify.com/track/1gB7qtssuV9OCnlUnqhoYh"
+    },
+    {
+      "added_at": "2020-10-16 12:02:22",
+      "album": {
+        "name": "Troubadours & trouv\u00e8res",
+        "url": "https://open.spotify.com/album/4lJqokqbHflqKRe0Oy0ClQ"
+      },
+      "artists": [
+        {
+          "name": "Etienne de Meaux",
+          "url": "https://open.spotify.com/artist/7stLB0nwV7m0YVs0B9pOoP"
+        },
+        {
+          "name": "Thomas Binkley",
+          "url": "https://open.spotify.com/artist/4UX4twmKz2tGEpKLOjdPcm"
+        }
+      ],
+      "duration_ms": 288959,
+      "name": "\u00c9tienne de Meaux: Trop est mes maris jalos",
+      "url": "https://open.spotify.com/track/6jPkdYIckdsdgU9i0r4nD7"
+    },
+    {
+      "added_at": "2023-02-10 13:52:58",
+      "album": {
+        "name": "Boethius: Songs of Consolation",
+        "url": "https://open.spotify.com/album/4KEW5satTIwmKBTtuH3Xvn"
+      },
+      "artists": [
+        {
+          "name": "Anicius Manlius Severinus Boethius",
+          "url": "https://open.spotify.com/artist/3W5rAL2GY92Kd7ucM5AoXy"
+        },
+        {
+          "name": "Sequentia",
+          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
+        }
+      ],
+      "duration_ms": 419373,
+      "name": "Carmina qui quondam",
+      "url": "https://open.spotify.com/track/4R1VEypKnSxy12z396Trur"
     },
     {
       "added_at": "2021-01-29 09:00:09",
@@ -4017,30 +4017,6 @@
       "url": "https://open.spotify.com/track/01YOa7rRyzkzuisqmvbwri"
     },
     {
-      "added_at": "2022-12-30 17:02:22",
-      "album": {
-        "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
-        "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Ferrara Ensemble",
-          "url": "https://open.spotify.com/artist/7bgHwkBbX48cB9Zn2eJyeI"
-        },
-        {
-          "name": "Crawford Young",
-          "url": "https://open.spotify.com/artist/5vP8XjjQhcCd2sS5eJfnPt"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Adieu vous di, tres doulce compaynie",
-      "url": "https://open.spotify.com/track/0dJ8KicyZoW5sZWnsQ8FOb"
-    },
-    {
       "added_at": "2021-11-03 03:28:01",
       "album": {
         "name": "Dreams of Andalusia",
@@ -4111,6 +4087,30 @@
       "duration_ms": 184693,
       "name": "Cantigas de Santa Maria: Maravillosos e Piadosos",
       "url": "https://open.spotify.com/track/0WMhgLgM1zhYL4MkO7QKLC"
+    },
+    {
+      "added_at": "2022-12-30 17:02:22",
+      "album": {
+        "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
+        "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Ferrara Ensemble",
+          "url": "https://open.spotify.com/artist/7bgHwkBbX48cB9Zn2eJyeI"
+        },
+        {
+          "name": "Crawford Young",
+          "url": "https://open.spotify.com/artist/5vP8XjjQhcCd2sS5eJfnPt"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Adieu vous di, tres doulce compaynie",
+      "url": "https://open.spotify.com/track/0dJ8KicyZoW5sZWnsQ8FOb"
     },
     {
       "added_at": "2022-06-17 15:46:00",

@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Winaya
 
-1,563 songs - 3 day 23 hr 39 min
+1,564 songs - 3 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,7 +675,8 @@
 | [Just For You](https://open.spotify.com/track/1nfhZM0JegTK2EDK7Yxzb8) | [Dhani Saputra](https://open.spotify.com/artist/1CZa9fcJaWhjF6MiHmnEf4) | [Just For You](https://open.spotify.com/album/7alR8wRXKixExyGznlV2rw) | 4:33 | 2022-01-06 | 2022-01-14 |
 | [Just For You](https://open.spotify.com/track/4pNSeZ3zFtBH0vmlCuhGyd) | [Stefaldo](https://open.spotify.com/artist/3Tc2unuhdKex8NKaXdFrni), [Gess Gerald](https://open.spotify.com/artist/63UF0ZF1mHyyRINKgFPRCF) | [Just For You](https://open.spotify.com/album/1ae8gFk03PTdu3HQsGHITe) | 3:27 | 2022-05-05 | 2022-05-20 |
 | [Just Forget Everything We Said](https://open.spotify.com/track/0UqBQhaBI9NEFDd8BCslR6) | [BeverlyLine](https://open.spotify.com/artist/6Q43OdGCjfXv7cWX0L2VXx) | [Just Forget Everything We Said](https://open.spotify.com/album/1iASIngRAVx4kdC566JdKc) | 3:12 | 2023-02-09 | 2023-02-24 |
-| [Just Love Me For A While](https://open.spotify.com/track/4R3FhuA7iqiljQBzaTtPXE) | [Zerra](https://open.spotify.com/artist/0qfJuFOWgjteUxTVn2CTeE) | [What a Well\-made Tragedy](https://open.spotify.com/album/3LaGbxWOa2D1byzTAj3fRD) | 4:17 | 2023-03-02 |  |
+| [Just Love Me For A While](https://open.spotify.com/track/3ttJNfUkSzoAYKN4jkLsJd) | [Zerra](https://open.spotify.com/artist/0qfJuFOWgjteUxTVn2CTeE) | [What a Well\-made Tragedy](https://open.spotify.com/album/0dy5MZ9S0Q2Pkg8Fgo0m3G) | 4:17 | 2023-03-02 |  |
+| [Just Love Me For A While](https://open.spotify.com/track/4R3FhuA7iqiljQBzaTtPXE) | [Zerra](https://open.spotify.com/artist/0qfJuFOWgjteUxTVn2CTeE) | [What a Well\-made Tragedy](https://open.spotify.com/album/3LaGbxWOa2D1byzTAj3fRD) | 4:17 | 2023-03-02 | 2023-03-05 |
 | [Kabar](https://open.spotify.com/track/5j4IQnKe74KWjb2CnpiD11) | [Mati di Saturnus](https://open.spotify.com/artist/4OyIw0KK8TRzOdoXiGkIi5) | [Kabar](https://open.spotify.com/album/0ctZZnOp0CbdxpGfP7vqIm) | 3:58 | 2022-02-10 | 2022-02-25 |
 | [Kagum](https://open.spotify.com/track/2X6EKsCuuhy7uen3Xluaaz) | [Dodhoo](https://open.spotify.com/artist/32JAObMHGrrG9U3PXoVjl4) | [Kagum](https://open.spotify.com/album/330UkTxVUL4XMrHnoYy0ZZ) | 4:09 | 2022-03-04 | 2022-03-18 |
 | [Kagum Pada Senja](https://open.spotify.com/track/1vhQojtiFXjOioKo8w4AO0) | [Haifa Azzura](https://open.spotify.com/artist/0Z15VrUTKmTBuwDAa351pL) | [Kagum Pada Senja](https://open.spotify.com/album/7dGwpwLbIFBhpUwfVtpzQ7) | 2:46 | 2022-02-24 | 2022-03-11 |

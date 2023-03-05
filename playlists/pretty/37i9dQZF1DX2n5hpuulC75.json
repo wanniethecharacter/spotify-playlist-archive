@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 249218,
+  "num_followers": 249245,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDA3NmVlMDdjY2VjNmIxNTIwN2U0YThlMDY1NGU4MGMz",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDJjMGU1YjRmNGY1NTkxMjliN2M5Y2EzYzg4YmIzM2I2",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -603,22 +603,6 @@
     {
       "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "Your Own Truth",
-        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
-      },
-      "artists": [
-        {
-          "name": "James Forest",
-          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Your Own Truth",
-      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
-    },
-    {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
         "name": "Aisle of Palm",
         "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 218311,
       "name": "White Gemini",
       "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Your Own Truth",
+        "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
+      },
+      "artists": [
+        {
+          "name": "James Forest",
+          "url": "https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Your Own Truth",
+      "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -707,22 +707,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Island -EP",
-        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
-      },
-      "artists": [
-        {
-          "name": "Nuit Oce\u0101n",
-          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
-        }
-      ],
-      "duration_ms": 185758,
-      "name": "Together Alone",
-      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "VIII",
         "url": "https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 130271,
       "name": "(Interlude)",
       "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Island -EP",
+        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
+      },
+      "artists": [
+        {
+          "name": "Nuit Oce\u0101n",
+          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
+        }
+      ],
+      "duration_ms": 185758,
+      "name": "Together Alone",
+      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1"
-      },
-      "artists": [
-        {
-          "name": "Hazey Eyes",
-          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Our Story",
-      "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 218000,
       "name": "Brother",
       "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1"
+      },
+      "artists": [
+        {
+          "name": "Hazey Eyes",
+          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Our Story",
+      "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
     },
     {
       "added_at": "2018-12-11 21:12:31",

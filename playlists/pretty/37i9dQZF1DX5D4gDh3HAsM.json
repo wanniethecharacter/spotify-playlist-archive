@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 515015,
+  "num_followers": 514950,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGQwYWNmZjRjOGIwM2FkZGQxN2E1YTBlNzE5ZWMyNTFi",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMGQyZGY0NGEwNmMzNjhiMzZhY2RlMjA4OGZjNjYyOTIy",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Pretty/Groovy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker Quartet",
-          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
-        },
-        {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
-        }
-      ],
-      "duration_ms": 148026,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/1hEsEGLZZX4nfwtXmyerbb"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
@@ -815,6 +795,26 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Pretty/Groovy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker Quartet",
+          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
+        },
+        {
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
+        }
+      ],
+      "duration_ms": 148026,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1hEsEGLZZX4nfwtXmyerbb"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
       },
@@ -831,18 +831,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Billie Holiday Love Songs",
-        "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
+        "name": "Together Again (Remastered 2003)",
+        "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 174906,
-      "name": "I've Got My Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU"
+      "duration_ms": 194133,
+      "name": "A Child Is Born - Remastered 2003",
+      "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
     }
   ],
   "unique_name": "Christmas Jazz",

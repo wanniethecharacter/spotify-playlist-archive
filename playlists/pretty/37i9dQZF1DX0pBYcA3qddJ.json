@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 45234,
+  "num_followers": 45268,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2OTIwMCwwMDAwMDAwMDIzODFkYTQxNmE5Y2NiNjQwNzdmMmM2MTdmYWIzNjUw",
+  "snapshot_id": "MTY3Nzc2OTIwMCwwMDAwMDAwMGI0MTgzNjc3MTQwYmEzMzg3OWJkYTZhY2I4YjBlMmY1",
   "tracks": [
     {
       "added_at": "2023-03-02 15:00:00",
@@ -419,22 +419,22 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "Schumann: Kinderszenen; Arabesque; Fantasie; Tr\u00e4umerei",
-        "url": "https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         },
         {
-          "name": "Vladimir Horowitz",
-          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 93386,
-      "name": "Kinderszenen, Op. 15: No. 1, Von fremden L\u00e4ndern und Menschen",
-      "url": "https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj"
+      "duration_ms": 190433,
+      "name": "Chocolate Hills",
+      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -455,22 +455,22 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "Schumann: Kinderszenen; Arabesque; Fantasie; Tr\u00e4umerei",
+        "url": "https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Vladimir Horowitz",
+          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
         }
       ],
-      "duration_ms": 190433,
-      "name": "Chocolate Hills",
-      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
+      "duration_ms": 93386,
+      "name": "Kinderszenen, Op. 15: No. 1, Von fremden L\u00e4ndern und Menschen",
+      "url": "https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "Idaho Alien",
+        "url": "https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 203166,
+      "name": "Idaho Alien",
+      "url": "https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 230720,
-      "name": "Bye for now,",
-      "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "TREE",
-        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 278400,
-      "name": "TREE",
-      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
+      "duration_ms": 230720,
+      "name": "Bye for now,",
+      "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "Aselestine",
-        "url": "https://open.spotify.com/album/3YO4xzqS7a56VCkqxgsoy2"
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
       },
       "artists": [
         {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 230173,
-      "name": "Aselestine",
-      "url": "https://open.spotify.com/track/2M7TQ7SQVGxLhIV43yTN8I"
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1427,6 +1427,22 @@
       "duration_ms": 185373,
       "name": "\u308f\u305f\u3057\u3092\u6ce3\u304b\u305b\u3066\u304f\u3060\u3055\u3044 ~\u6b4c\u5287\u300c\u30ea\u30ca\u30eb\u30c9\u300d\u3088\u308a",
       "url": "https://open.spotify.com/track/6qViP5bbjV55GeHm881KiS"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "Aselestine",
+        "url": "https://open.spotify.com/album/3YO4xzqS7a56VCkqxgsoy2"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Aselestine",
+      "url": "https://open.spotify.com/track/2M7TQ7SQVGxLhIV43yTN8I"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "\u4eba\u751f\u3078\u306e\u53e4\u4ee3\u306e\u30b9\u30c6\u30c3\u30d7",
-        "url": "https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU"
-      },
-      "artists": [
-        {
-          "name": "Takare Tadame",
-          "url": "https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0"
-        }
-      ],
-      "duration_ms": 130483,
-      "name": "\u4eba\u751f\u3078\u306e\u53e4\u4ee3\u306e\u30b9\u30c6\u30c3\u30d7",
-      "url": "https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "Song",
         "url": "https://open.spotify.com/album/7oncxQ9LukVa3u0SOTAuWd"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 279840,
       "name": "Savior of the Nations, Come, BWV 659 (Arr. for 4 Cellos)",
       "url": "https://open.spotify.com/track/7Il5v7dknoshlFkQRpIqxm"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "\u4eba\u751f\u3078\u306e\u53e4\u4ee3\u306e\u30b9\u30c6\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU"
+      },
+      "artists": [
+        {
+          "name": "Takare Tadame",
+          "url": "https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0"
+        }
+      ],
+      "duration_ms": 130483,
+      "name": "\u4eba\u751f\u3078\u306e\u53e4\u4ee3\u306e\u30b9\u30c6\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "Idaho Alien",
-        "url": "https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY"
-      },
-      "artists": [
-        {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
-        }
-      ],
-      "duration_ms": 203166,
-      "name": "Idaho Alien",
-      "url": "https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "Haze Garden (Prayer)",
         "url": "https://open.spotify.com/album/7hu4RONzaQHEArMTBnBzgJ"
       },
@@ -1687,6 +1687,42 @@
       "duration_ms": 189166,
       "name": "TO BE LOVED",
       "url": "https://open.spotify.com/track/2CUR2LpKhtKTa9RlDhVi2q"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "A Night At The Symphony",
+        "url": "https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Iceland Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Let You Break My Heart Again - Live at The Symphony",
+      "url": "https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
+      },
+      "artists": [
+        {
+          "name": "Itoko Toma",
+          "url": "https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Leaves and Light",
+      "url": "https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1727,18 +1763,18 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
+        "name": "Shroud of Night",
+        "url": "https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp"
       },
       "artists": [
         {
-          "name": "Itoko Toma",
-          "url": "https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Leaves and Light",
-      "url": "https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC"
+      "duration_ms": 199136,
+      "name": "Shroud of Night",
+      "url": "https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1791,38 +1827,6 @@
       "duration_ms": 259869,
       "name": "\u6b69\u98a8",
       "url": "https://open.spotify.com/track/1XSAuGdPV3ptrtslbrgn8T"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
-        "name": "Ieta",
-        "url": "https://open.spotify.com/album/5mbez8ICuEDgkSgmbCy899"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 199784,
-      "name": "Ieta",
-      "url": "https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
-        "name": "Shroud of Night",
-        "url": "https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 199136,
-      "name": "Shroud of Night",
-      "url": "https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

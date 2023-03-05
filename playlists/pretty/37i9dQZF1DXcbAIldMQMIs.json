@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 481737,
+  "num_followers": 481872,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAxOTY4MSwwMDAwMDAwMGNiZGU4OWUyMjg3Mzc3Y2ZiZmI5ZTFlNGVjNjVhNDFj",
+  "snapshot_id": "MTY3NzAxOTY4MSwwMDAwMDAwMGYyM2U3ZTBkZGE3Mzk5Njk1NDhmOGY2ZTczZGU0ZjMz",
   "tracks": [
     {
       "added_at": "2023-02-21 22:48:01",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "Cayendo (Side A - Acoustic)",
-        "url": "https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Cayendo (Side A - Acoustic)",
-      "url": "https://open.spotify.com/track/72794Eag03xdy7TO0KNuid"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "Inbred",
         "url": "https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "Cayendo (Side A - Acoustic)",
+        "url": "https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Cayendo (Side A - Acoustic)",
+      "url": "https://open.spotify.com/track/72794Eag03xdy7TO0KNuid"
     },
     {
       "added_at": "2023-02-21 22:48:01",

@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-6,729 songs - 14 day 13 hr 54 min
+6,730 songs - 14 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4575,6 +4575,7 @@
 | [Pheelz Like Summer](https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:50 | 2023-02-09 | 2023-02-17 |
 | [Phoenix](https://open.spotify.com/track/0O1vEphpfuUwEN4bFk3f8q) | [Nair](https://open.spotify.com/artist/5RUXLGO2P1QXmJZx6z20FE) | [Phoenix](https://open.spotify.com/album/0Dinqv4TyYKaBJO23UVdCk) | 2:34 | 2022-03-10 | 2022-03-18 |
 | [Piano Love](https://open.spotify.com/track/7AmNgsApCocCTh9wnajhsR) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Piano Love](https://open.spotify.com/album/5pHaJ5OVQwzww81I7A0DGl) | 4:00 | 2022-02-24 | 2022-03-04 |
+| [Picadilly Circus](https://open.spotify.com/track/0xntKJvjZAy2O2vqT2MiH8) | [Lucianoz](https://open.spotify.com/artist/3RhiF9RmgXoDzqEOW3dWoP) | [Picadilly Circus](https://open.spotify.com/album/2axUPDcf2zfkgTwecuo9DE) | 2:51 | 2023-03-04 |  |
 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 | 2022-05-19 | 2022-05-27 |
 | [Pick and Choose](https://open.spotify.com/track/7yTeopUxZZrDc31m6AfwWo) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Pick and Choose](https://open.spotify.com/album/62pznCH0GxT1WTDheTB5uJ) | 2:43 | 2022-02-03 | 2022-02-11 |
 | [PICK ME UP](https://open.spotify.com/track/3wx0fGGBY8Csos0ZDsKXFE) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [PICK ME UP](https://open.spotify.com/album/47nAM4UWvRCjvXMWYsx8W9) | 2:27 | 2023-02-23 | 2023-03-03 |

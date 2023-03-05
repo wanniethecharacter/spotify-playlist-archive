@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: 3030, Costa Gold",
-  "num_followers": 261394,
+  "num_followers": 261500,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMDk3NzYwZDhlNWE2N2I3NzNmNDkzNWRjOWI2YmYwYTdl",
+  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMGQzOGFkNjE4ZTA5YTY5YjdlZDYzNDM1ODNmMGQ0YTdi",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -667,34 +667,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Ac\u00fastico Canc\u00fan",
-        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Irineu Bars\u00e9",
-          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Uma Linda Mulher - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Vem Pra C\u00e1",
         "url": "https://open.spotify.com/album/71LlHHvQZ8BGPnJy2eXgoF"
       },
@@ -723,6 +695,34 @@
       "duration_ms": 233328,
       "name": "Vem Pra C\u00e1",
       "url": "https://open.spotify.com/track/7zSVVDqYlQUxKkAiM3Jkb3"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico Canc\u00fan",
+        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Irineu Bars\u00e9",
+          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Uma Linda Mulher - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -802,6 +802,10 @@
         {
           "name": "Mc Don Juan",
           "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
         }
       ],
       "duration_ms": 196691,
@@ -1295,26 +1299,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Joga Menino",
-        "url": "https://open.spotify.com/album/1DbynDmqrlilv8DnMlgV2B"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Dj Paulo Beck",
-          "url": "https://open.spotify.com/artist/48pbGAcl4qnIULDoDpQ0tb"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Joga Menino",
-      "url": "https://open.spotify.com/track/1v1VMOiUiom4xqJuiqwuOE"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
       },
@@ -1331,6 +1315,26 @@
       "duration_ms": 169850,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Joga Menino",
+        "url": "https://open.spotify.com/album/1DbynDmqrlilv8DnMlgV2B"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Dj Paulo Beck",
+          "url": "https://open.spotify.com/artist/48pbGAcl4qnIULDoDpQ0tb"
+        }
+      ],
+      "duration_ms": 215999,
+      "name": "Joga Menino",
+      "url": "https://open.spotify.com/track/1v1VMOiUiom4xqJuiqwuOE"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1643,42 +1647,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "O Melhor Da Vida",
-        "url": "https://open.spotify.com/album/1kyr3LSz194Gd27mexeF33"
-      },
-      "artists": [
-        {
-          "name": "DOM7NICO",
-          "url": "https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Vamo Pra Praia",
-      "url": "https://open.spotify.com/track/0aiQJXRsKCHZKpSlZQDOqd"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Nada Comum",
         "url": "https://open.spotify.com/album/5mlcHnrFuiWZ4EQDtudkvO"
       },
@@ -1703,6 +1671,42 @@
       "duration_ms": 199750,
       "name": "Nada comum",
       "url": "https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "O Melhor Da Vida",
+        "url": "https://open.spotify.com/album/1kyr3LSz194Gd27mexeF33"
+      },
+      "artists": [
+        {
+          "name": "DOM7NICO",
+          "url": "https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Vamo Pra Praia",
+      "url": "https://open.spotify.com/track/0aiQJXRsKCHZKpSlZQDOqd"
     },
     {
       "added_at": "2023-03-03 03:00:00",

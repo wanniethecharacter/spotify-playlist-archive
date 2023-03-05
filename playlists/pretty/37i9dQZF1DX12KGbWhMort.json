@@ -1,12 +1,12 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 149115,
+  "num_followers": 149230,
   "original_name": "Enganchados: Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDg3MTYwMCwwMDAwMDAwMDI5YzI2MjhkZWRkNjRiNjM5OTE3ZDljOGEyNmY3M2Jl",
+  "snapshot_id": "MTYzNDg3MTYwMCwwMDAwMDAwMGQ2ODQ3OWEwZmQ1MjNmYWFlMjNmYWNmODI4ZDYzZGQ1",
   "tracks": [
     {
       "added_at": "2021-10-22 03:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
-        "name": "Pablo Alboran (Deluxe)",
-        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Solamente t\u00fa",
-      "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
         "name": "Entre El Agua Y El Fuego",
         "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 248000,
       "name": "\u00bfY c\u00f3mo es \u00e9l?",
       "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
+        "name": "Pablo Alboran (Deluxe)",
+        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Solamente t\u00fa",
+      "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
     },
     {
       "added_at": "2021-10-22 03:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "Dime Que No",
+      "url": "https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
         "name": "\u00bfQu\u00e9 pides t\u00fa? (Argentina)",
         "url": "https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 310866,
       "name": "Sin miedo a nada (feat. Amaia Montero)",
       "url": "https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
-        "name": "Qui\u00e9n Dijo Ayer",
-        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 264786,
-      "name": "Dime Que No",
-      "url": "https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq"
     },
     {
       "added_at": "2021-10-22 03:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
-        "name": "Sergio Dalma En Concierto",
-        "url": "https://open.spotify.com/album/0luSmXE3F4tZWmomnjLF0r"
-      },
-      "artists": [
-        {
-          "name": "Sergio Dalma",
-          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "Bailar Pegados - En Concierto",
-      "url": "https://open.spotify.com/track/4Z7hD7n1hmjbqAmitLFY5V"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
         "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
         "url": "https://open.spotify.com/album/2PvvCXswfTBnTHDg3GIh9p"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 259399,
       "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
+        "name": "Sergio Dalma En Concierto",
+        "url": "https://open.spotify.com/album/0luSmXE3F4tZWmomnjLF0r"
+      },
+      "artists": [
+        {
+          "name": "Sergio Dalma",
+          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "Bailar Pegados - En Concierto",
+      "url": "https://open.spotify.com/track/4Z7hD7n1hmjbqAmitLFY5V"
     },
     {
       "added_at": "2021-10-22 03:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 291040,
-      "name": "Entre La Tierra Y El Cielo",
-      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
         "name": "Laura Pausini: 25 Aniversario (Spanish Version)",
         "url": "https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 280666,
       "name": "Se fu\u00e9",
       "url": "https://open.spotify.com/track/6LU8uRM2fPgaHKD18I0Azk"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 291040,
+      "name": "Entre La Tierra Y El Cielo",
+      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
     },
     {
       "added_at": "2021-10-22 03:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/5bYw6PI3uwvfcNXKCAO84C"
+    },
+    {
+      "added_at": "2021-10-22 03:00:00",
+      "album": {
         "name": "Animales",
         "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
       },
@@ -1255,34 +1271,18 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
-        "name": "Yo Creo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0iWxtbk9nmFlbUIpoFYVBR"
+        "name": "A Un Mil\u00edmetro De Ti",
+        "url": "https://open.spotify.com/album/7aAYfzJAOZaETczNmMcoMY"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Voy a Amarte",
-      "url": "https://open.spotify.com/track/6BpNwnC1AhLye17vvScERY"
-    },
-    {
-      "added_at": "2021-10-22 03:00:00",
-      "album": {
-        "name": "Cosas Del Amor",
-        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/5bYw6PI3uwvfcNXKCAO84C"
+      "duration_ms": 208210,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/7wCqmkAjudO0oKRASmv8Wg"
     },
     {
       "added_at": "2021-10-22 03:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2021-10-22 03:00:00",
       "album": {
-        "name": "A Un Mil\u00edmetro De Ti",
-        "url": "https://open.spotify.com/album/7aAYfzJAOZaETczNmMcoMY"
+        "name": "Yo Creo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0iWxtbk9nmFlbUIpoFYVBR"
       },
       "artists": [
         {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 208210,
-      "name": "Me Haces Falta",
-      "url": "https://open.spotify.com/track/7wCqmkAjudO0oKRASmv8Wg"
+      "duration_ms": 248000,
+      "name": "Voy a Amarte",
+      "url": "https://open.spotify.com/track/6BpNwnC1AhLye17vvScERY"
     },
     {
       "added_at": "2021-10-22 03:00:00",

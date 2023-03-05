@@ -8044,10 +8044,32 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 399850,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/2SJTTaPaR8bP1r0yQe7Jy1"
+    },
+    {
+      "album": {
+        "name": "Pitch Black EP",
+        "url": "https://open.spotify.com/album/1mTgbEwwU09omtXeGiImB9"
+      },
+      "artists": [
+        {
+          "name": "MATRiXXMAN",
+          "url": "https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y"
+        },
+        {
+          "name": "Setaoc Mass",
+          "url": "https://open.spotify.com/artist/1VLqhTOnG3RulADitPNqLt"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399850,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/2kWVdU692BetWjQ3LQ73TX"
     },
     {
       "album": {

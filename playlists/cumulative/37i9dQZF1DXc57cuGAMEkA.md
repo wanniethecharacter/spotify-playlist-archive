@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Oliver Tree & David Guetta, Sigala, Linkin Park, NiziU and more! Cover: Oliver Tree & David Guetta
 
-496 songs - 1 day 4 hr 8 min
+497 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Amnesia](https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy \- Chapter 1](https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz) | 4:03 | 2023-02-09 | 2023-02-17 |
 | [Awake](https://open.spotify.com/track/4EJfHZ99jW6QIBgWOctQBP) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 8th MINI ALBUM \[BE AWAKE\]](https://open.spotify.com/album/1rxSHvDHLjLdz7x8G4Ssy5) | 2:17 | 2023-02-23 | 2023-03-03 |
 | [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-02-02 | 2023-02-10 |
-| [BABY LADY](https://open.spotify.com/track/0ouPg1mIhRxG8xQmCGuIK6) | [MUTA](https://open.spotify.com/artist/15qTTNmlfMhZMlawD5ctZj), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BABY LADY](https://open.spotify.com/album/5QHUExdC6pOmRygXp9yjJ2) | 2:49 | 2023-03-02 |  |
+| [BABY LADY \(feat\. MFS\)](https://open.spotify.com/track/0ouPg1mIhRxG8xQmCGuIK6) | [MUTA](https://open.spotify.com/artist/15qTTNmlfMhZMlawD5ctZj), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BABY LADY \(feat\. MFS\)](https://open.spotify.com/album/5QHUExdC6pOmRygXp9yjJ2) | 2:49 | 2023-03-02 |  |
 | [Bad](https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:42 | 2023-02-17 | 2023-02-24 |
 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 | 2023-02-16 | 2023-02-24 |
 | [Be Yourself \(From 'The Amazing Maurice'\)](https://open.spotify.com/track/48eVpe47KAAmMGbcghBOsR) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [The Amazing Maurice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ny6lB6g08PQgfPlkkR9U3) | 2:35 | 2023-02-09 | 2023-02-17 |
@@ -477,6 +477,7 @@
 | [いびつな心 \(feat\. むト\)](https://open.spotify.com/track/7GvEyd8fAT7VPagpYv0PSq) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum), [むト](https://open.spotify.com/artist/38gt1AsY6ZhEtrOP7e94ui) | [いびつな心 \(feat\. むト\)](https://open.spotify.com/album/6BcrL3SmRLPWpgWNIxXeqi) | 3:46 | 2023-03-02 |  |
 | [かまへん](https://open.spotify.com/track/4NfeLplLIUwLuIOONnnm9c) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [コーラ](https://open.spotify.com/artist/6aqpFZcblA9r01IzFzBVRe), [KBD](https://open.spotify.com/artist/37N9Y4NAPygkVMVzuDGxQT), [teppei](https://open.spotify.com/artist/2prlN3wUFSsbl5mHjdu8hi), [KZ](https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL), [ILL SWAG GAGA](https://open.spotify.com/artist/0aDq1adfK1gC9phu0eqGtc), [Cosaqu](https://open.spotify.com/artist/44ZQx3QiQvIGWhspW2PJwZ) | [かまへん](https://open.spotify.com/album/4CwGHUyCp8Kcr0wEtt22xh) | 4:11 | 2023-03-02 |  |
 | [きっと愛](https://open.spotify.com/track/6fK6tauA3ezRp7Xs2vqCJp) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [きっと愛](https://open.spotify.com/album/2H95SH82s3jXWt6XOAByC3) | 3:19 | 2023-02-23 | 2023-02-25 |
+| [きらきら](https://open.spotify.com/track/32lWfnbzsZTX02L3935VF7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [きらきら](https://open.spotify.com/album/411ShZaP7vuopafIAwrgZp) | 4:32 | 2023-03-02 |  |
 | [さくら巡礼](https://open.spotify.com/track/7dY9miJFEUvUoU4nhvsF3e) | [Kiyoshi Hikawa](https://open.spotify.com/artist/4ga8lGWWzgmXpWf9wRFmRR) | [氷川きよしベスト](https://open.spotify.com/album/7uTFqiwZBvCcul39eCYjof) | 4:55 | 2023-02-02 | 2023-02-10 |
 | [アドベンチャー](https://open.spotify.com/track/1w2tdCsX2yKFjbh3wHII94) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドベンチャー](https://open.spotify.com/album/1oniwzKzy5hIwoAHjACgsi) | 3:19 | 2023-02-16 | 2023-02-24 |
 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 | 2023-02-09 | 2023-02-17 |

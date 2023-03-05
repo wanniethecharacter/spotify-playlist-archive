@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Oruam, Borges, Chefin",
-  "num_followers": 88946,
+  "num_followers": 89105,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMGYyMTA0NjJmOTM1YzIyOGY2YmQ2OWVhMTk5ZTU1NGZj",
+  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMDk2YzcyM2U1ZjIzNzE4M2I0NmI4ZWU2NTg0NjMzZjUx",
   "tracks": [
     {
       "added_at": "2023-03-03 03:01:00",
@@ -591,26 +591,30 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Jovens do Reggae",
-        "url": "https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp"
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
       "artists": [
         {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
         },
         {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
         }
       ],
-      "duration_ms": 183652,
-      "name": "Jovens do Reggae",
-      "url": "https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o"
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -683,30 +687,26 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+        "name": "Jovens do Reggae",
+        "url": "https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp"
       },
       "artists": [
         {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
         },
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
         }
       ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+      "duration_ms": 183652,
+      "name": "Jovens do Reggae",
+      "url": "https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1183,6 +1183,30 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "Caracter\u00edsticas",
+        "url": "https://open.spotify.com/album/0mKyxZHRR7sS6EK2xl5nlv"
+      },
+      "artists": [
+        {
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "N\u00facleo Label",
+          "url": "https://open.spotify.com/artist/6VAhN8DojlOaHm37LEVc55"
+        }
+      ],
+      "duration_ms": 140541,
+      "name": "Caracter\u00edsticas",
+      "url": "https://open.spotify.com/track/31QpCmyiQqozO7nED7rIZS"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "Bulova",
         "url": "https://open.spotify.com/album/2m3g0xp5U8fdwPrfWiHKXT"
       },
@@ -1231,30 +1255,6 @@
       "duration_ms": 149707,
       "name": "Ford Ka",
       "url": "https://open.spotify.com/track/7g18mpJuwUeWhUIEczyFqw"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "Caracter\u00edsticas",
-        "url": "https://open.spotify.com/album/0mKyxZHRR7sS6EK2xl5nlv"
-      },
-      "artists": [
-        {
-          "name": "Romano",
-          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "N\u00facleo Label",
-          "url": "https://open.spotify.com/artist/6VAhN8DojlOaHm37LEVc55"
-        }
-      ],
-      "duration_ms": 140541,
-      "name": "Caracter\u00edsticas",
-      "url": "https://open.spotify.com/track/31QpCmyiQqozO7nED7rIZS"
     },
     {
       "added_at": "2023-03-03 03:01:00",

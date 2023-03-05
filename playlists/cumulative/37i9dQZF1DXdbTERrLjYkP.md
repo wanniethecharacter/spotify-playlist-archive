@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Abe Parker
 
-414 songs - 22 hr 20 min
+415 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [busy](https://open.spotify.com/track/7kdmDLwyzFL8jYLzfMvPwQ) | [Kira Kosarin](https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79) | [Something New](https://open.spotify.com/album/5pQLIMOOfKQlTufpnkV49Q) | 3:03 | 2022-07-15 | 2022-08-13 |
 | [Butterflies](https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Butterflies](https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U) | 3:03 | 2022-02-16 | 2022-02-19 |
 | [Butterfly](https://open.spotify.com/track/28h1mlM9GI9BPDwqm2plTI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Butterfly](https://open.spotify.com/album/7gc956PnIlEBzEqKRzT66f) | 2:46 | 2022-09-02 | 2022-12-24 |
+| [By Myself](https://open.spotify.com/track/5wsm1izwR2UEWtBhkxnUP9) | [Daisy Jones](https://open.spotify.com/artist/0Ez39SlEHcxFV6TQu8JDdO) | [Episode 1 – Come and Get It \(Amazon Original Series\)](https://open.spotify.com/album/2KBIXYhRFWQsefg327wVVn) | 2:45 | 2023-03-04 |  |
 | [california from the backseat](https://open.spotify.com/track/17vwIZ7XPQzJE91ljTjuM5) | [Molly Seger](https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9) | [california from the backseat](https://open.spotify.com/album/41uZXshRhF6F1ivv7l58F9) | 3:12 | 2022-07-01 | 2022-12-17 |
 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2022-01-14 | 2022-04-29 |
 | [Call My Own](https://open.spotify.com/track/2Tp03ZfNBqXL8Ny0g9e8sM) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Call My Own](https://open.spotify.com/album/6fKaC3BsUu5DeKzcvrg7ko) | 2:55 | 2022-03-25 | 2022-04-23 |
@@ -275,7 +276,7 @@
 | [Ordinary Love](https://open.spotify.com/track/0cFQYjYEgpoY0iP0vnOOoI) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Ordinary Love](https://open.spotify.com/album/56fSzLOj5xwc4nNLGUl51S) | 3:15 | 2022-08-19 | 2022-10-19 |
 | [Ordinary Love](https://open.spotify.com/track/4dmBhkfzO0LNyTpniMNEIX) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Ordinary Love](https://open.spotify.com/album/1M5loxljwC0wulbEqMODp4) | 3:15 | 2022-09-09 | 2022-12-24 |
 | [Out Of Excuses](https://open.spotify.com/track/64gsJzAYN3P7ROT7XlIHJj) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 3:17 | 2022-01-14 | 2022-03-18 |
-| [PARACHUTES](https://open.spotify.com/track/0yOZMyoTHgQhzYKJDVPWbA) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [PARACHUTES](https://open.spotify.com/album/5tPWEKJCUzH2sDV52i3Qcc) | 2:44 | 2023-01-13 |  |
+| [PARACHUTES](https://open.spotify.com/track/0yOZMyoTHgQhzYKJDVPWbA) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [PARACHUTES](https://open.spotify.com/album/5tPWEKJCUzH2sDV52i3Qcc) | 2:44 | 2023-01-13 | 2023-03-05 |
 | [parasite](https://open.spotify.com/track/5uryeSMcKUDIFVakxsjg6o) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [runaway](https://open.spotify.com/album/0BFInEkCDlkmq5R7pNaDLr) | 3:15 | 2023-02-24 |  |
 | [Paris](https://open.spotify.com/track/5B0j050zKYeRndttYP1zuH) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 3:35 | 2022-10-28 | 2022-12-24 |
 | [Past Life](https://open.spotify.com/track/5Y5GCQcDkcndKKiKel6tK8) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Past Life](https://open.spotify.com/album/1dTTM2vQpUbvmEYaMAS0rm) | 3:38 | 2022-07-15 | 2022-12-03 |

@@ -1,12 +1,12 @@
 {
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
-  "num_followers": 32568,
+  "num_followers": 32667,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDk5MSwwMDAwMDAwMDlhOWZlMmIyMjNjMTE1NTNlODYwNzA0YzFkNDRjMzgy",
+  "snapshot_id": "MTY3NzgzMDk5MSwwMDAwMDAwMDRmNzNhMmMxYjM0MWIwMTRhMTdhOTcxNjNiYTUxMzdm",
   "tracks": [
     {
       "added_at": "2023-03-03 08:09:51",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
+        "name": "I Get",
+        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 210124,
+      "name": "I Get",
+      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
         "name": "All That I Need",
         "url": "https://open.spotify.com/album/6alYBAfGKfBay4xZaRi97O"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 183529,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
-        "name": "I Get",
-        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 210124,
-      "name": "I Get",
-      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Adom Grace",
-        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 290527,
-      "name": "Adom Grace",
-      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "Never Leave Me",
         "url": "https://open.spotify.com/album/6mJv3BhqQ4n6XbSCYDRRyG"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 160959,
       "name": "Never Leave Me",
       "url": "https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "Adom Grace",
+        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 290527,
+      "name": "Adom Grace",
+      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Yehowah",
-        "url": "https://open.spotify.com/album/1HmdkNEK6p2lBsLp5nfqhp"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 325546,
-      "name": "Yehowah B\u025bhw\u025b",
-      "url": "https://open.spotify.com/track/7G7GIlgSM9eLi84zH9C6Oq"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "Morning Devotion",
         "url": "https://open.spotify.com/album/05u6kpaR8cFKzktUJxk3ds"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 127988,
       "name": "Morning Devotion",
       "url": "https://open.spotify.com/track/5AZ8G1XQM0I20LS61y44Qs"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "Yehowah",
+        "url": "https://open.spotify.com/album/1HmdkNEK6p2lBsLp5nfqhp"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 325546,
+      "name": "Yehowah B\u025bhw\u025b",
+      "url": "https://open.spotify.com/track/7G7GIlgSM9eLi84zH9C6Oq"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/0ixZo2uyDnmSU95hYll2jQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/73H0cSqI8qcSV5EvZ52LDg"
+        }
+      ],
+      "duration_ms": 324947,
+      "name": "Onye eze",
+      "url": "https://open.spotify.com/track/3Rr4jAOBZDxtvSQAjbFih8"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 161333,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
-        "name": "MELODY",
-        "url": "https://open.spotify.com/album/0ixZo2uyDnmSU95hYll2jQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/73H0cSqI8qcSV5EvZ52LDg"
-        }
-      ],
-      "duration_ms": 324947,
-      "name": "Onye eze",
-      "url": "https://open.spotify.com/track/3Rr4jAOBZDxtvSQAjbFih8"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1407,18 +1407,38 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Shower Me",
-        "url": "https://open.spotify.com/album/37SvA5fQ9ltthsyNThSHwe"
+        "name": "This can only be God",
+        "url": "https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q"
       },
       "artists": [
         {
-          "name": "Sam Oladotun",
-          "url": "https://open.spotify.com/artist/5Ai5qD3eCMMJU7GAzZ277c"
+          "name": "Jimmy D Psalmist",
+          "url": "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 211456,
-      "name": "Shower Me",
-      "url": "https://open.spotify.com/track/2I7O3n0IyrWewz96OSXzs6"
+      "duration_ms": 218644,
+      "name": "This can only be God",
+      "url": "https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "Lehin Jesu ko Se Nikan O (Special Version)",
+        "url": "https://open.spotify.com/album/0k4ekS1syiy4WRFhSztXSZ"
+      },
+      "artists": [
+        {
+          "name": "Enakeno",
+          "url": "https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "Lehin Jesu ko Se Nikan O - Special Version",
+      "url": "https://open.spotify.com/track/6cbXoWFKmVKAbaecq4lwhH"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1443,18 +1463,18 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Lehin Jesu ko Se Nikan O (Special Version)",
-        "url": "https://open.spotify.com/album/0k4ekS1syiy4WRFhSztXSZ"
+        "name": "Shower Me",
+        "url": "https://open.spotify.com/album/37SvA5fQ9ltthsyNThSHwe"
       },
       "artists": [
         {
-          "name": "Enakeno",
-          "url": "https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi"
+          "name": "Sam Oladotun",
+          "url": "https://open.spotify.com/artist/5Ai5qD3eCMMJU7GAzZ277c"
         }
       ],
-      "duration_ms": 117333,
-      "name": "Lehin Jesu ko Se Nikan O - Special Version",
-      "url": "https://open.spotify.com/track/6cbXoWFKmVKAbaecq4lwhH"
+      "duration_ms": 211456,
+      "name": "Shower Me",
+      "url": "https://open.spotify.com/track/2I7O3n0IyrWewz96OSXzs6"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1475,22 +1495,6 @@
       "duration_ms": 316290,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/6NdP01if2haMSAhoMxVpMe"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
-        "name": "VIBES",
-        "url": "https://open.spotify.com/album/1JB6EdMUgU9PwXNsGCvyAP"
-      },
-      "artists": [
-        {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        }
-      ],
-      "duration_ms": 193163,
-      "name": "VIBES",
-      "url": "https://open.spotify.com/track/05ee5RwDmyeOpIQeshWlJq"
     }
   ],
   "unique_name": "Praise and Worship",

@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 144942,
+  "num_followers": 144982,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMDU0MWQ3N2JiZDBmMjlkY2Q4MDZkOTQxMjEyNjNlNjcx",
+  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMGM5MjJhMDYxZDRmYTNlZmRiMzg3MGE3NTQzMzY1MTE1",
   "tracks": [
     {
       "added_at": "2023-03-03 03:01:00",
@@ -443,6 +443,26 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "Equa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182205,
+      "name": "Equa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "INVADIMO O LITORAL",
         "url": "https://open.spotify.com/album/3CgzmJJu1VlFyki08wMNL4"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 201142,
       "name": "INVADIMO O LITORAL",
       "url": "https://open.spotify.com/track/3Y5Mj6VW06khuUscQ1ibtW"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "Equa\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182205,
-      "name": "Equa\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -731,30 +731,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Original MTK #2 - Se Voc\u00ea Vier",
-        "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
-      },
-      "artists": [
-        {
-          "name": "MTK",
-          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
-        },
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 264547,
-      "name": "Original MTK #2 - Se Voc\u00ea Vier",
-      "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Mais um Som de Amor",
         "url": "https://open.spotify.com/album/4PPjHHz5ISLG7lhLiF4Orn"
       },
@@ -779,42 +755,26 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "O Melhor Da Vida",
-        "url": "https://open.spotify.com/album/1kyr3LSz194Gd27mexeF33"
+        "name": "Original MTK #2 - Se Voc\u00ea Vier",
+        "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
       },
       "artists": [
         {
-          "name": "DOM7NICO",
-          "url": "https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Vamo Pra Praia",
-      "url": "https://open.spotify.com/track/0aiQJXRsKCHZKpSlZQDOqd"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+          "name": "MTK",
+          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
         },
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
         },
         {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
         }
       ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+      "duration_ms": 264547,
+      "name": "Original MTK #2 - Se Voc\u00ea Vier",
+      "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -843,6 +803,46 @@
       "duration_ms": 199750,
       "name": "Nada comum",
       "url": "https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "O Melhor Da Vida",
+        "url": "https://open.spotify.com/album/1kyr3LSz194Gd27mexeF33"
+      },
+      "artists": [
+        {
+          "name": "DOM7NICO",
+          "url": "https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Vamo Pra Praia",
+      "url": "https://open.spotify.com/track/0aiQJXRsKCHZKpSlZQDOqd"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
+      },
+      "artists": [
+        {
+          "name": "Nitto",
+          "url": "https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT"
+        },
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 209378,
       "name": "Jeito Bom #2",
       "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
-      },
-      "artists": [
-        {
-          "name": "Nitto",
-          "url": "https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT"
-        },
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        }
-      ],
-      "duration_ms": 169472,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1479,31 +1479,7 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Meia Hora",
-        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Henriques",
-          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Meia Hora",
-      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "Tipo Ac\u00fastico 01 Partida",
+        "name": "Tipo Ac\u00fastico 01 - Partida",
         "url": "https://open.spotify.com/album/31Z6CWZNUy80Vv2a44JL20"
       },
       "artists": [
@@ -1541,24 +1517,32 @@
         }
       ],
       "duration_ms": 307373,
-      "name": "Tipo Ac\u00fastico 01 Partida",
+      "name": "Tipo Ac\u00fastico 01 - Partida",
       "url": "https://open.spotify.com/track/4nPiOvBP7kvNH04Yfz1wae"
     },
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Rosas Rositas",
-        "url": "https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt"
+        "name": "Meia Hora",
+        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
       "artists": [
         {
-          "name": "Inc\u00f3gnito",
-          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
+          "name": "Gabriel Henriques",
+          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
         }
       ],
-      "duration_ms": 309406,
-      "name": "Rosas Rositas",
-      "url": "https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg"
+      "duration_ms": 197142,
+      "name": "Meia Hora",
+      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1575,6 +1559,22 @@
       "duration_ms": 196729,
       "name": "Spoiler",
       "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Rosas Rositas",
+        "url": "https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt"
+      },
+      "artists": [
+        {
+          "name": "Inc\u00f3gnito",
+          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
+        }
+      ],
+      "duration_ms": 309406,
+      "name": "Rosas Rositas",
+      "url": "https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg"
     },
     {
       "added_at": "2023-03-03 03:01:00",

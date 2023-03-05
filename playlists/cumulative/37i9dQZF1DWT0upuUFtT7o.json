@@ -5085,6 +5085,24 @@
     },
     {
       "album": {
+        "name": "Diet Cokes",
+        "url": "https://open.spotify.com/album/6BsuAhvStKuwpSMtAV07t1"
+      },
+      "artists": [
+        {
+          "name": "Modern Love Child",
+          "url": "https://open.spotify.com/artist/5Re1DTCxspDf57qk07YOAP"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Diet Cokes",
+      "url": "https://open.spotify.com/track/3aTtIdw4Wsuf3Y9QUJp4zs"
+    },
+    {
+      "album": {
         "name": "Dinner for Breakfast",
         "url": "https://open.spotify.com/album/6lHf4cQrUkEQ2VssDRQG65"
       },
@@ -13152,7 +13170,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-05",
       "duration_ms": 223968,
       "name": "Nation Under Creep",
       "url": "https://open.spotify.com/track/35jz7oeLLwHZMimVDhxFkm"
@@ -13660,6 +13678,28 @@
       "duration_ms": 175168,
       "name": "Nobody More",
       "url": "https://open.spotify.com/track/2H921QdeSvA1bBLVTA5ljH"
+    },
+    {
+      "album": {
+        "name": "Nobody's Perfect",
+        "url": "https://open.spotify.com/album/2XzfgpDpycb4Kp57KJXfyg"
+      },
+      "artists": [
+        {
+          "name": "ZEV",
+          "url": "https://open.spotify.com/artist/66Nj7lUkbFw7ICIamxWvTY"
+        },
+        {
+          "name": "Modern Love Child",
+          "url": "https://open.spotify.com/artist/5Re1DTCxspDf57qk07YOAP"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156627,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/69nO19GZ58i8mpC1YGKnUu"
     },
     {
       "album": {

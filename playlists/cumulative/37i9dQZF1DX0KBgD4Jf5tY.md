@@ -4,7 +4,7 @@
 
 > Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:1eFOTBAGM0w0SH7jnTYSd1">BLUEM</a>
 
-618 songs - 1 day 7 hr 3 min
+618 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Il Re Cambia Sempre](https://open.spotify.com/track/4olowS6fzAA36724bAjfEq) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Il Re Cambia Sempre](https://open.spotify.com/album/5zlyG2KfBjooG7ohi69ZLn) | 2:56 | 2023-02-02 | 2023-03-03 |
 | [Il suono che ho dentro alla testa](https://open.spotify.com/track/6MfiKVSAiknuYP9XUXQYFg) | [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [Il suono che ho dentro alla testa](https://open.spotify.com/album/7qhpdfM1CRlV3DDrBIqSI2) | 2:05 | 2022-05-05 | 2022-06-10 |
 | [Immenso](https://open.spotify.com/track/5s6nHbPMsdm4dGrVomGUyq) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Immenso](https://open.spotify.com/album/59tvrT6m029YtsLniZ0eMC) | 3:31 | 2022-10-14 | 2022-12-01 |
-| [IN 7](https://open.spotify.com/track/5SRhy7NvDOD7VBFbW78Wd1) | [Bartowski](https://open.spotify.com/artist/1mNpUnAOSVj0zfZ76OOZLy) | [IN 7](https://open.spotify.com/album/3PsLzN9XXJVW1PSDZ9ETST) | 3:54 | 2023-03-02 |  |
+| [IN 7](https://open.spotify.com/track/5SRhy7NvDOD7VBFbW78Wd1) | [Bartowski](https://open.spotify.com/artist/1mNpUnAOSVj0zfZ76OOZLy) | [IN 7](https://open.spotify.com/album/3PsLzN9XXJVW1PSDZ9ETST) | 2:49 | 2023-03-02 |  |
 | [In Fissa \(feat\. Moonet, Zo Vivaldi, Hank\)](https://open.spotify.com/track/4xhCoCq3YTfp2Jzw4xjBfC) | [Loggia West Milano](https://open.spotify.com/artist/5isUAPOR83d2pZ2VRZi7Lv), [Hank](https://open.spotify.com/artist/212ZH0VQsr0lRbBFsJUPCh), [Moonet](https://open.spotify.com/artist/1NPVr13pYtGGQv6tQX1zWT), [Zo Vivaldi](https://open.spotify.com/artist/6Z3e8q2O7PGU16V88JKT1q) | [In Fissa \(feat\. Moonet, Zo Vivaldi, Hank\)](https://open.spotify.com/album/65pNuMCYZ9jpFdy3Z7mpsf) | 2:57 | 2022-06-23 | 2022-09-07 |
 | [in loop](https://open.spotify.com/track/2yfTs9jXTKNAxRZ9X3BlSU) | [ALLE](https://open.spotify.com/artist/31198cNlkvUbsM84iYyIdm) | [in loop](https://open.spotify.com/album/24BztsotMHiqpArEei5Y3f) | 3:28 | 2022-06-23 | 2022-07-15 |
 | [In tutti i miei giorni](https://open.spotify.com/track/10bHsZXxPU471xfrmTpEtb) | [Benedetta](https://open.spotify.com/artist/43ROMYbGGklo29rDk1N9Xo) | [In tutti i miei giorni](https://open.spotify.com/album/4YiVQddLuzveAiLuSQSI6H) | 2:17 | 2023-01-19 | 2023-03-03 |

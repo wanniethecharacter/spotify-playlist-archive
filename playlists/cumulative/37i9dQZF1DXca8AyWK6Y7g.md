@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: EMELINE
 
-1,547 songs - 3 day 6 hr 51 min
+1,548 songs - 3 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Dark Bird](https://open.spotify.com/track/1ig7fpdy2W1rl6SkIOMDjN) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Dark Bird](https://open.spotify.com/album/58fbHjXoQNXeNQ4VfWXU41) | 3:37 | 2022-02-25 | 2022-03-26 |
 | [dating montage,](https://open.spotify.com/track/0j1CrhTCWXw4jf3mzFlKzJ) | [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [dating montage,](https://open.spotify.com/album/52Ve9FndkZYzUwTjIBBFAd) | 3:02 | 2021-12-24 | 2022-01-29 |
 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:43 | 2020-08-22 | 2022-01-08 |
-| [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-02-24 |  |
+| [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-02-24 | 2023-03-05 |
 | [Death Wish](https://open.spotify.com/track/4A11c7LR0Nr2ENq2v6cXri) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Death Wish](https://open.spotify.com/album/7b7ry1Asg4hDM5yAsg64UH) | 3:08 | 2022-02-11 | 2022-03-12 |
 | [death wish](https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [death wish](https://open.spotify.com/album/17QnupwzhTXpi5H00qtPvE) | 3:17 | 2021-05-06 | 2021-05-27 |
 | [Deep Breaths](https://open.spotify.com/track/2rqR1bvEAmLHCNWBvyDt0V) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG), [Cal](https://open.spotify.com/artist/0hsokEgVmrRVMeirBtwr9p) | [Deep Breaths](https://open.spotify.com/album/6y85XgHPCzPuVm9k5eIMCn) | 3:02 | 2019-05-26\* | 2019-08-13 |
@@ -480,6 +480,7 @@
 | [Freaks](https://open.spotify.com/track/418c3nz1GneGpbMCJc7AM2) | [Kidmimself](https://open.spotify.com/artist/6flDyr2Z1phGHvupzKpBsG), [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA) | [Freaks](https://open.spotify.com/album/3Kr9U2Wb32hX4eQaveYPqS) | 3:10 | 2020-05-11 | 2020-05-25 |
 | [Free](https://open.spotify.com/track/0qjs1raRXtPL58LPSheApo) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/4Z49iUB2QmUAvMPIss85vb) | 2:42 | 2022-06-06 | 2022-07-16 |
 | [Free \(with Drew Love\) \- Party Favor Remix](https://open.spotify.com/track/5H5vK2EzkPoCsoYTXbkU90) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Free \(with Drew Love\) \[Party Favor Remix\]](https://open.spotify.com/album/2eSxK8DN270vT21TKrBfpE) | 4:18 | 2020-06-02 | 2021-03-21 |
+| [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 | 2023-03-03 |  |
 | [Friend Like Me](https://open.spotify.com/track/0ArW1iNq8D7qfL8acsL1Cs) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Friend Like Me](https://open.spotify.com/album/4KKDXgsupYDgjkXWah9Yea) | 2:32 | 2022-06-24 |  |
 | [Friendly Sex](https://open.spotify.com/track/0UIaM3C7aw2ao6ZDatzEir) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Friendly Sex](https://open.spotify.com/album/3KgVXRJUmbAS28XfHrJOs2) | 2:39 | 2022-04-08 | 2022-05-20 |
 | [Friends](https://open.spotify.com/track/1Vt4oAoHBIopxekC8KhT6X) | [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Friends](https://open.spotify.com/album/6OmzUBIzFkenjd3dJQhROK) | 2:50 | 2022-04-15 | 2023-01-28 |

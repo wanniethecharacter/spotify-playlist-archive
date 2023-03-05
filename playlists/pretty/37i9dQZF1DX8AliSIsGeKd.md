@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: biskuwi, Sylvie Miles
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,251 likes - 81 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,387 likes - 81 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 32 | [Touch](https://open.spotify.com/track/6SXGiNTFsiyGxwk44WqZu2) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [ROØZ](https://open.spotify.com/artist/1iAKb6RumNn2no2vwV4rLt) | [Touch](https://open.spotify.com/album/7ufEZBHqDse8VuHAAGjFbB) | 3:28 |
 | 33 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 |
 | 34 | [Molfar](https://open.spotify.com/track/1MHO5ebuwaSgGaccdC5VPr) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Molfar](https://open.spotify.com/album/1j0XrEQ6r8bAeNmJj5aoON) | 3:24 |
-| 35 | [Sacredilliac](https://open.spotify.com/track/3CAERjJwoukLFAB4jDMS0m) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp), [Kev Sheridan](https://open.spotify.com/artist/4rqPUulTdgCJfxITPHP2oY) | [I](https://open.spotify.com/album/6GaT3iopFy0vprrTseOSez) | 4:59 |
+| 35 | [Sacrediliac](https://open.spotify.com/track/3CAERjJwoukLFAB4jDMS0m) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp), [Kev Sheridan](https://open.spotify.com/artist/4rqPUulTdgCJfxITPHP2oY) | [I](https://open.spotify.com/album/6GaT3iopFy0vprrTseOSez) | 4:59 |
 | 36 | [The Core](https://open.spotify.com/track/5wnZiMUAGyVXDfQegtuEL6) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [The Core](https://open.spotify.com/album/1Xz2jOW0U5v4ItwjEWmUe5) | 7:38 |
 | 37 | [Beyond Light](https://open.spotify.com/track/1OkZNv4phBbCZt707CxM4c) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [Trinity](https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN) | 5:13 |
 | 38 | [To Hope](https://open.spotify.com/track/3jrHkWKbFMpv0h47O1oWJC) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [To Hope](https://open.spotify.com/album/0eauXE0fq4hMmVlzFUnXqs) | 3:16 |

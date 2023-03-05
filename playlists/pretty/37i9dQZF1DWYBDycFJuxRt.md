@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 羊文学 \*👉<a href="https://spice.eplus.jp/articles/315281?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,728 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,746 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 16 | [Falling](https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Falling](https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf) | 5:13 |
 | 17 | [We've Come So Far](https://open.spotify.com/track/6NPWhHGuKj5lHVOYCjqENO) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [We've Come So Far](https://open.spotify.com/album/6TdjKQw56ZFOExxjqQf7qo) | 3:58 |
 | 18 | [Awesome Day](https://open.spotify.com/track/0qqmOwDSPhH1PNHv72al3N) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Awesome Day](https://open.spotify.com/album/6gcG7112FkoCEeCN6ljP6T) | 3:18 |
-| 19 | [It's a Wonderful World](https://open.spotify.com/track/2JKI2Z2991aAGveXdVyG6l) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ), [マハラージャン](https://open.spotify.com/artist/77m3B5JqIr2YdD71lpezmd) | [It's a Wonderful World](https://open.spotify.com/album/235tEvTqTkcIF9BghlQr2y) | 4:05 |
+| 19 | [It's a Wonderful World](https://open.spotify.com/track/2JKI2Z2991aAGveXdVyG6l) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ), [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [It's a Wonderful World](https://open.spotify.com/album/235tEvTqTkcIF9BghlQr2y) | 4:05 |
 | 20 | [rainy](https://open.spotify.com/track/3gqtGVF7wSxbdNg3v5uRE2) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori](https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde) | 3:06 |
 | 21 | [where u at](https://open.spotify.com/track/03wAnOcM3XF4o3dzcvovyx) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [where u at](https://open.spotify.com/album/5ux6e6jvKDATPiaLHBr3NI) | 2:15 |
 | 22 | [W / X / Y \- Matt Cab & MATZ Remix](https://open.spotify.com/track/2ZfKULlMPtGr1kJ8tBFfNm) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX), [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD) | [W / X / Y Remixes "if"](https://open.spotify.com/album/0kbUjCWZBoMPBSFOt8wgbb) | 4:40 |

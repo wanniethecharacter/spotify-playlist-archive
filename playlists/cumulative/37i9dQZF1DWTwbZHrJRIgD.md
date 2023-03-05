@@ -4,7 +4,7 @@
 
 > Let these happy tunes put a smile on your face\. Cover \- Dear Zindagi
 
-97 songs - 6 hr 20 min
+98 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Thandi Hawa](https://open.spotify.com/track/47a8ZHfi1MYmiSVVdS7gId) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Thandi Hawa](https://open.spotify.com/album/3p8eF3bcvZP61JuVNKloJC) | 3:23 | 2022-03-09 | 2022-09-04 |
 | [Thandi Hawa](https://open.spotify.com/track/5tyReDTH3MpN7J5pk2LuGx) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:23 | 2022-08-08 | 2023-02-11 |
 | [Theher Ja](https://open.spotify.com/track/00juIvfvPtZ0CfAMwEkHaV) | [Abhishek Arora](https://open.spotify.com/artist/2FV0sdO6uDLDe73NGLUQQq), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [October](https://open.spotify.com/album/50K9juQj3cW0vn9usw7XgM) | 2:41 | 2022-03-09 | 2023-02-21 |
-| [Time Traveller 2](https://open.spotify.com/track/2zfpEisDJgUkJeIIBRQNqV) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Time Traveller 2](https://open.spotify.com/album/7CRdG6TtmTLYN4bTcszvCX) | 4:44 | 2023-03-03 |  |
+| [Time Traveller 2](https://open.spotify.com/track/1A773NO838tc7W7vF3f07u) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Time Traveller 2 \- Single](https://open.spotify.com/album/0WoIT0tcDkvW7rqW1ZQuYJ) | 4:44 | 2023-03-03 |  |
+| [Time Traveller 2](https://open.spotify.com/track/2zfpEisDJgUkJeIIBRQNqV) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Time Traveller 2](https://open.spotify.com/album/7CRdG6TtmTLYN4bTcszvCX) | 4:44 | 2023-03-03 | 2023-03-05 |
 | [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 4:42 | 2022-03-09 |  |
 | [Tum Mile \- Lofi Flip](https://open.spotify.com/track/1CsRoIeHaHRysPMoEaKRoQ) | [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Tum Mile \(Lofi Flip\)](https://open.spotify.com/album/3HLuAGbNIeDhx1MlR9auER) | 4:02 | 2022-03-09 |  |
 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 | 2022-07-17 | 2023-02-21 |

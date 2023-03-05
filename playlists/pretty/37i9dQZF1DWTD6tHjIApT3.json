@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u306b\u3057\u306a",
-  "num_followers": 92640,
+  "num_followers": 92694,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2OTIwMCwwMDAwMDAwMDBiZDk5YTNlMjJmNzU4ODdhZmNiMjY0YmRiMWU1M2Yz",
+  "snapshot_id": "MTY3Nzc2OTIwMCwwMDAwMDAwMDkwZDJhMjY4NzY4NTg4YmY0ZjQyMWIxMzk1OWY0MDcz",
   "tracks": [
     {
       "added_at": "2023-03-02 15:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
-        "url": "https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU"
+        "name": "\u30c1\u30ce\u30ab\u30c6",
+        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 215600,
-      "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
-      "url": "https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv"
+      "duration_ms": 248300,
+      "name": "\u30c1\u30ce\u30ab\u30c6",
+      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "\u30c1\u30ce\u30ab\u30c6",
-        "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
+        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
+        "url": "https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 248300,
-      "name": "\u30c1\u30ce\u30ab\u30c6",
-      "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
+      "duration_ms": 215600,
+      "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
+      "url": "https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "\u30aa\u30a2\u30a4\u30b3",
-        "url": "https://open.spotify.com/album/6Wa6Ga6TaKpFSeFGrVMs0M"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 234541,
-      "name": "\u30aa\u30a2\u30a4\u30b3",
-      "url": "https://open.spotify.com/track/3E5HwkuvaaW60z6lLHj5D4"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "Pre-Romance / Finale.",
         "url": "https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 242367,
       "name": "Finale.",
       "url": "https://open.spotify.com/track/3KvRIvP9kzP2JTljShpSJu"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "\u30aa\u30a2\u30a4\u30b3",
+        "url": "https://open.spotify.com/album/6Wa6Ga6TaKpFSeFGrVMs0M"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 234541,
+      "name": "\u30aa\u30a2\u30a4\u30b3",
+      "url": "https://open.spotify.com/track/3E5HwkuvaaW60z6lLHj5D4"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "\u5148\u99c6\u8005",
-        "url": "https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I"
-      },
-      "artists": [
-        {
-          "name": "Hoshimachi Suisei",
-          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "\u5148\u99c6\u8005",
-      "url": "https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "HUMAN",
         "url": "https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
+        "name": "\u5148\u99c6\u8005",
+        "url": "https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I"
+      },
+      "artists": [
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "\u5148\u99c6\u8005",
+      "url": "https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
         "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
         "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
       },
@@ -1415,6 +1415,26 @@
       "duration_ms": 260440,
       "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
       "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "\u661f\u306e\u30af\u30ba \u03b1",
+        "url": "https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0"
+      },
+      "artists": [
+        {
+          "name": "Salyu",
+          "url": "https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W"
+        },
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        }
+      ],
+      "duration_ms": 303627,
+      "name": "\u661f\u306e\u30af\u30ba \u03b1",
+      "url": "https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1439,22 +1459,18 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "\u661f\u306e\u30af\u30ba \u03b1",
-        "url": "https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0"
+        "name": "The Flame of Love",
+        "url": "https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz"
       },
       "artists": [
         {
-          "name": "Salyu",
-          "url": "https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W"
-        },
-        {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
         }
       ],
-      "duration_ms": 303627,
-      "name": "\u661f\u306e\u30af\u30ba \u03b1",
-      "url": "https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf"
+      "duration_ms": 199117,
+      "name": "The Flame of Love",
+      "url": "https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1503,22 +1519,6 @@
       "duration_ms": 306586,
       "name": "VITA",
       "url": "https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
-        "name": "The Flame of Love",
-        "url": "https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz"
-      },
-      "artists": [
-        {
-          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 199117,
-      "name": "The Flame of Love",
-      "url": "https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "WHOOPEE",
-        "url": "https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK"
-      },
-      "artists": [
-        {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "TRUMAN",
-      "url": "https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "\u82b1\u306e\u3088\u3046\u306b",
         "url": "https://open.spotify.com/album/4jzZEVYr06aWFxkfjnT83u"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 248809,
       "name": "\u82b1\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/5DvmqgXR9UOK6YyOqpIFce"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "WHOOPEE",
+        "url": "https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "TRUMAN",
+      "url": "https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP"
     },
     {
       "added_at": "2023-03-02 15:00:00",

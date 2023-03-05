@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Lo Rockstar](https://open.spotify.com/track/4QTdOe3d50cfm37j4u8eB9) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [A Lo Rockstar](https://open.spotify.com/album/5vVISJWoJcnal3vT5MNLH1) | 2:46 | 2023-03-03 |  |
+| [A Lo Rockstar](https://open.spotify.com/track/4QTdOe3d50cfm37j4u8eB9) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [A Lo Rockstar](https://open.spotify.com/album/5vVISJWoJcnal3vT5MNLH1) | 2:46 | 2023-03-03 |  |
 | [A Mi](https://open.spotify.com/track/1m51YRtMiW1o5sZVx4cIds) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [A Mi](https://open.spotify.com/album/2MgEssbkkaQtdmztMWUyRQ) | 3:34 | 2023-01-27 |  |
 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Veces \(feat\. Feid\)](https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC) | 3:11 | 2022-11-18 |  |
 | [Aayy](https://open.spotify.com/track/1t9ACqzC2bq1Sdbsmz9mB4) | [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Aayy](https://open.spotify.com/album/5zNmydFt8hQTXAicpO8voH) | 2:56 | 2022-12-23 |  |

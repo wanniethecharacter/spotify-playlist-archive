@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 60098,
+  "num_followers": 60112,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMGI3ZDFkYmYyN2QwMzQzYjU5ZTA0Zjg5NTE1ZGQwMWJm",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDljMTE3NDNkYTIyMmNmY2FkZGZhMTc5ZWIxN2Q5ZDhk",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "A Million Voices",
-        "url": "https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ"
-      },
-      "artists": [
-        {
-          "name": "Polina Gagarina",
-          "url": "https://open.spotify.com/artist/3Pdait6yo2LXvw2CwnagZr"
-        }
-      ],
-      "duration_ms": 180381,
-      "name": "A Million Voices",
-      "url": "https://open.spotify.com/track/6VlxdfLIfqf7saVOuerWyR"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Rockefeller Street - Single",
         "url": "https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 192992,
       "name": "Rockefeller Street",
       "url": "https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "A Million Voices",
+        "url": "https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ"
+      },
+      "artists": [
+        {
+          "name": "Polina Gagarina",
+          "url": "https://open.spotify.com/artist/3Pdait6yo2LXvw2CwnagZr"
+        }
+      ],
+      "duration_ms": 180381,
+      "name": "A Million Voices",
+      "url": "https://open.spotify.com/track/6VlxdfLIfqf7saVOuerWyR"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "J'ai cherch\u00e9",
-        "url": "https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "J'ai cherch\u00e9",
-      "url": "https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Secret Combination",
         "url": "https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 182586,
       "name": "Secret Combination - Eurovision 2008 Mix",
       "url": "https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "J'ai cherch\u00e9",
+        "url": "https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "J'ai cherch\u00e9",
+      "url": "https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/1UAZLLyBwoQB9T5CIG0VSE"
+        "name": "It's Been a While",
+        "url": "https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71"
       },
       "artists": [
         {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+          "name": "Anna Sahlene",
+          "url": "https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW"
         }
       ],
-      "duration_ms": 178226,
-      "name": "Fr\u00e4mling",
-      "url": "https://open.spotify.com/track/1FndLKa7Gs9S8WKVZuq4RL"
+      "duration_ms": 172666,
+      "name": "Runaway - Bonus Track",
+      "url": "https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC"
     }
   ],
   "unique_name": "Eurovision Party",

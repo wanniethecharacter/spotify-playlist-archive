@@ -1,12 +1,12 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 76051,
+  "num_followers": 76053,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMDUyZjE4NzRlYzYzN2VmYmIyYzVjZjlmNDc0MGFmMzNm",
+  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMDJjZDYzZTA4MWQ0YmI2MjdlZmE3OTliMjdmNzIxOTQ0",
   "tracks": [
     {
       "added_at": "2021-12-14 16:21:13",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Viento A Favor",
+        "url": "https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 250226,
+      "name": "Te Voy a Perder",
+      "url": "https://open.spotify.com/track/47dnUPPMWQD8y1l2cfpC1l"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "Contigo Siempre",
         "url": "https://open.spotify.com/album/1DuXr4GCQLue0kTKvI6Txa"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 201440,
       "name": "Contigo Siempre",
       "url": "https://open.spotify.com/track/17LxkTp8UNbPcYrDrI6UOq"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Viento A Favor",
-        "url": "https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 250226,
-      "name": "Te Voy a Perder",
-      "url": "https://open.spotify.com/track/47dnUPPMWQD8y1l2cfpC1l"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Confidencias",
-        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "A Pesar De Todo",
-      "url": "https://open.spotify.com/track/1gaEzLOIUBJvEpgqN5Mhc1"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "A Mis 80's",
         "url": "https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 180529,
       "name": "Cuando Me Digas",
       "url": "https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Confidencias",
+        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "A Pesar De Todo",
+      "url": "https://open.spotify.com/track/1gaEzLOIUBJvEpgqN5Mhc1"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Entre Tus Brazos",
-        "url": "https://open.spotify.com/album/2AL0jknRfCLnaEorY1M4Sa"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 268093,
-      "name": "H\u00e1blame",
-      "url": "https://open.spotify.com/track/3WpkrJzB5CqQQjqMkUR3K6"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Mis Canciones, Mis Amigos",
         "url": "https://open.spotify.com/album/3kK5fiiotnlN1G5W8iTH3t"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 143760,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/6UDlA3NYx8BbDmrTcDozLy"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Entre Tus Brazos",
+        "url": "https://open.spotify.com/album/2AL0jknRfCLnaEorY1M4Sa"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 268093,
+      "name": "H\u00e1blame",
+      "url": "https://open.spotify.com/track/3WpkrJzB5CqQQjqMkUR3K6"
     },
     {
       "added_at": "2021-12-14 16:21:13",

@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu adem untuk segala suasana.",
-  "num_followers": 394151,
+  "num_followers": 394322,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEzMjgzNiwwMDAwMDAwMDllYzE1OGJhZWUwYjE3MDE3NzBhN2ZiYjk1ZjQ2OTBl",
+  "snapshot_id": "MTY3NzEzMjgzNiwwMDAwMDAwMGQ2MTU3OTY1ZTAxYmJmMDA4MWU2ZDMyZGM1OWY3ZjMy",
   "tracks": [
     {
       "added_at": "2023-02-23 06:13:56",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
+        "name": "Konspirasi Alam Semesta",
+        "url": "https://open.spotify.com/album/6d2K6Ku4sXH63OQnsGVbbe"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 213236,
+      "name": "Garis Terdepan",
+      "url": "https://open.spotify.com/track/4JozU4Ud30FGyDYzoUKasI"
+    },
+    {
+      "added_at": "2023-02-23 06:13:56",
+      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 262060,
       "name": "Cinta Dan Rahasia",
       "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
-    },
-    {
-      "added_at": "2023-02-23 06:13:56",
-      "album": {
-        "name": "Konspirasi Alam Semesta",
-        "url": "https://open.spotify.com/album/6d2K6Ku4sXH63OQnsGVbbe"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 213236,
-      "name": "Garis Terdepan",
-      "url": "https://open.spotify.com/track/4JozU4Ud30FGyDYzoUKasI"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
-      },
-      "artists": [
-        {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Jikalau",
-      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
-    },
-    {
-      "added_at": "2023-02-23 06:13:56",
-      "album": {
         "name": "The Special One",
         "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 211933,
       "name": "Dia Milikku",
       "url": "https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD"
+    },
+    {
+      "added_at": "2023-02-23 06:13:56",
+      "album": {
+        "name": "Film Favorit",
+        "url": "https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Film Favorit",
+      "url": "https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Film Favorit",
-        "url": "https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
       "artists": [
         {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
         }
       ],
-      "duration_ms": 223500,
-      "name": "Film Favorit",
-      "url": "https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1"
+      "duration_ms": 186933,
+      "name": "Jikalau",
+      "url": "https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
+        "name": "Musim Yang Baik",
+        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 216295,
+      "name": "Lapang Dada",
+      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
+    },
+    {
+      "added_at": "2023-02-23 06:13:56",
+      "album": {
         "name": "Meant 2 Be",
         "url": "https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd"
       },
@@ -979,38 +995,6 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Seamin Tak Seiman",
-        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
-      },
-      "artists": [
-        {
-          "name": "Mahen",
-          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
-        }
-      ],
-      "duration_ms": 216448,
-      "name": "Seamin Tak Seiman",
-      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
-    },
-    {
-      "added_at": "2023-02-23 06:13:56",
-      "album": {
-        "name": "Musim Yang Baik",
-        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 216295,
-      "name": "Lapang Dada",
-      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
-    },
-    {
-      "added_at": "2023-02-23 06:13:56",
-      "album": {
         "name": "Handmade",
         "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Peace, Love And Respect",
-        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
+        "name": "Seamin Tak Seiman",
+        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
       },
       "artists": [
         {
-          "name": "Gigi",
-          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
+          "name": "Mahen",
+          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
         }
       ],
-      "duration_ms": 212026,
-      "name": "11 Januari",
-      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
+      "duration_ms": 216448,
+      "name": "Seamin Tak Seiman",
+      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -1055,6 +1039,22 @@
       "duration_ms": 207191,
       "name": "Cukup Tau",
       "url": "https://open.spotify.com/track/5Q1dOmmQ6u1ihYLD1912LR"
+    },
+    {
+      "added_at": "2023-02-23 06:13:56",
+      "album": {
+        "name": "Peace, Love And Respect",
+        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
+      },
+      "artists": [
+        {
+          "name": "Gigi",
+          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "11 Januari",
+      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -1091,6 +1091,22 @@
       "duration_ms": 213213,
       "name": "Menghujam Jantungku",
       "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
+    },
+    {
+      "added_at": "2023-02-23 06:13:56",
+      "album": {
+        "name": "Raisa",
+        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Serba Salah",
+      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Teman Bahagia",
-        "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 208104,
-      "name": "Teman Bahagia",
-      "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
-    },
-    {
-      "added_at": "2023-02-23 06:13:56",
-      "album": {
         "name": "Kesempurnaan Cinta",
         "url": "https://open.spotify.com/album/1Wl5QMNxmI9ABIAteayg8U"
       },
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Raisa",
-        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
+        "name": "Teman Bahagia",
+        "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
       },
       "artists": [
         {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
         }
       ],
-      "duration_ms": 262746,
-      "name": "Serba Salah",
-      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
+      "duration_ms": 208104,
+      "name": "Teman Bahagia",
+      "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Dari Mata",
-        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 223462,
-      "name": "Dari Mata",
-      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
-    },
-    {
-      "added_at": "2023-02-23 06:13:56",
-      "album": {
         "name": "Indah Pada Waktunya",
         "url": "https://open.spotify.com/album/4PuuRAc30rb3rPbTFHBWXx"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 240505,
       "name": "Indah Pada Waktunya",
       "url": "https://open.spotify.com/track/1S5aHAr1hpf3icpzq3ullG"
+    },
+    {
+      "added_at": "2023-02-23 06:13:56",
+      "album": {
+        "name": "Nowhere to Go",
+        "url": "https://open.spotify.com/album/5TE09M0eIZSl83RGPrusxU"
+      },
+      "artists": [
+        {
+          "name": "Endah N Rhesa",
+          "url": "https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/2XWsariqeTCH61B53r8yA3"
     }
   ],
   "unique_name": "Santai Sejenak",

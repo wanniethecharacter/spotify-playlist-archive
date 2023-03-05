@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: maye
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,521 likes - 55 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,578 likes - 55 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 8 | [Qué piensas hacer sin mi amor?](https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Qué piensas hacer sin mi amor?](https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h) | 4:08 |
 | 9 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 |
 | 10 | [Respiro](https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh) | [Paraísos](https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM), [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Respiro](https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF) | 3:15 |
-| 11 | [A la playa](https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [A la playa](https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU) | 3:13 |
+| 11 | [A La Playa](https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [A La Playa](https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU) | 3:13 |
 | 12 | [Aleros/Pompeii](https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:00 |
 | 13 | [Winnie Pooh](https://open.spotify.com/track/67ciCJna2mFDg1wzRFZzAO) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Winnie Pooh](https://open.spotify.com/album/2Znd00zVJpDEhwfID5Jc56) | 3:41 |
 | 14 | [Bonita](https://open.spotify.com/track/4RfbO5R23JI33EEyjWqHHU) | [Pønce](https://open.spotify.com/artist/0jlj70oquwYB21vxF107KT) | [Bonita](https://open.spotify.com/album/2FhnygvGvRWuE4RueywWyg) | 2:32 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 38 | [Alma Posesa](https://open.spotify.com/track/7sUfONWwffbiFquUGDAPVK) | [Indigo](https://open.spotify.com/artist/4Hy7H79rnIljAwnwDtislK), [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5) | [Alma Posesa](https://open.spotify.com/album/5Gx8Ngd5gzH615iLGU6cK4) | 4:23 |
 | 39 | [La Piedra](https://open.spotify.com/track/7wpR7podiFKB0s5lchiCyb) | [Sabela](https://open.spotify.com/artist/78fi6hiTjEQH8KQLzDqVRg) | [Ceniza](https://open.spotify.com/album/1y286dgv2byOpC82ZHTyuh) | 3:02 |
 | 40 | [Circo](https://open.spotify.com/track/2aiFmGSPZgtdpxw7UZs5JW) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [Circo](https://open.spotify.com/album/5MFpnf1UwxHNxcrZBV6gB1) | 3:08 |
-| 41 | [Lucha de gigantes](https://open.spotify.com/track/2YBAiKcswbZ1nLyMUUFWjr) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo), [Borja Muerza](https://open.spotify.com/artist/2kFcpLXRf5aeBxgmpAW6xo), [Nacho Muerza](https://open.spotify.com/artist/46C4q8cSfifMh52CBgM5sH), [Javier Indurain](https://open.spotify.com/artist/3i37WieKCnEdVPyCywv0ko) | [Lucha de gigantes](https://open.spotify.com/album/5iAsTERRETHw7eJ0woj8J5) | 3:13 |
+| 41 | [Lucha de gigantes](https://open.spotify.com/track/2YBAiKcswbZ1nLyMUUFWjr) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Lucha de gigantes](https://open.spotify.com/album/5iAsTERRETHw7eJ0woj8J5) | 3:13 |
 | 42 | [olvidar\(te\)](https://open.spotify.com/track/089RhKR39s3QSXLKKJKbwY) | [Rodricc](https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw), [Pablo Scapigliati](https://open.spotify.com/artist/515xoAPnROSPCteDHRm3i8) | [olvidar\(te\)](https://open.spotify.com/album/2kQEExDpk2PqyIGtCE1HES) | 2:04 |
 | 43 | [En mi cabeza](https://open.spotify.com/track/3nMx44RmpAxi1119eplESW) | [Mi Capitán](https://open.spotify.com/artist/5IFjdKpLNCRPCRxdeXlFY9) | [En mi cabeza](https://open.spotify.com/album/2ySWtUeh0sSUaI2OjWYYAm) | 5:19 |
 | 44 | [La ronda](https://open.spotify.com/track/0aMgJojSbRKgd3zc2LXN72) | [Vermú](https://open.spotify.com/artist/7cXnpdXUUN67Vr3niD2dAi) | [Duelo de ronda](https://open.spotify.com/album/1sCelPocFQY7ujxB1iPUJb) | 3:20 |

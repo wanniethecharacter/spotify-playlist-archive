@@ -4,7 +4,7 @@
 
 > Bollywood crooner's essential songs.
 
-92 songs - 7 hr 3 min
+93 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Mitra Re \- From "Runway 34"](https://open.spotify.com/track/4SmMVj2SnYXPA2M9LhtCnO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Mitra Re \(From "Runway 34"\)](https://open.spotify.com/album/5EHxqOSbp0XjSQDq8MfRXH) | 3:41 | 2022-04-02 |  |
 | [Naina](https://open.spotify.com/track/0Yld4eVEV6rBvpijVU2s6l) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dangal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xK8rPlzF8LDHIIVYsDJUD) | 3:45 | 2021-12-08 |  |
 | [Nashe Si Chadh Gayi](https://open.spotify.com/track/0biCSADTAblvLTLtJz4pXO) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Befikre](https://open.spotify.com/album/2NdNeBKi8ctKgKRH5UGRbO) | 3:57 | 2021-12-08 |  |
+| [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [O Bedardeya \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2) | 5:13 | 2023-03-04 |  |
 | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/album/3Ptq3ARmJ8iTLBb7M7Bho0) | 3:46 | 2021-12-08 |  |
 | [Pal](https://open.spotify.com/track/79hQvdTHNBkq2fp2ZrM8b2) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Jalebi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XSR5WDCh2PIYE0fp7C3cN) | 4:07 | 2021-12-08 |  |
 | [Pal Pal Dil Ke Paas\- Title Track](https://open.spotify.com/track/7lGhrfren1Zpwh0ds0zuUg) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Pal Pal Dil Ke Paas\- Title Track \(From "Pal Pal Dil Ke Paas"\)](https://open.spotify.com/album/0C9FXcECAeepJhmuvETNe1) | 4:14 | 2021-12-08 |  |

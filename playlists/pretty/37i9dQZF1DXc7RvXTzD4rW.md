@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 斉藤朱夏\(Shuka Saito\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,835 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,843 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 17 | [YOU](https://open.spotify.com/track/3PGCayP1i5SdFvrKZzFdhb) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [PROTOSTAR](https://open.spotify.com/artist/0ORPjKIVWn5h1T52foPAN1) | [YOU](https://open.spotify.com/album/1lrQAhpljFRYp3FK4qcRE0) | 4:26 |
 | 18 | [Happy\-go\-Journey](https://open.spotify.com/track/6JcmTPEHDLvwToGpeAukA2) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Happy\-go\-Journey](https://open.spotify.com/album/35AHPNHsfU1eezJfDJfWrN) | 3:37 |
 | 19 | [Invincible Love](https://open.spotify.com/track/0AGbLFnswjmsuNCl8Uqb3m) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Invincible Love](https://open.spotify.com/album/2MdBFOCJlHfVVdERAGFY4W) | 3:54 |
-| 20 | [Action](https://open.spotify.com/track/0iQUmjHgNQJSgaXSfI38Ty) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py), [Yusuke Saeki](https://open.spotify.com/artist/3ChXwHZFR7YqeuKi6OOA2m) | [Action](https://open.spotify.com/album/5BF4yE3mmMcdiwoJAr8Scb) | 3:39 |
+| 20 | [Action](https://open.spotify.com/track/4eBxnGsRwwZmy1A8b0jnGu) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py), [Yusuke Saeki](https://open.spotify.com/artist/3ChXwHZFR7YqeuKi6OOA2m) | [from here](https://open.spotify.com/album/7qAbSvs8VpfPOwqXJYlyGx) | 3:41 |
 | 21 | [sugar](https://open.spotify.com/track/2675zqM1O6irmmtUWamczG) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [sugar](https://open.spotify.com/album/2ZE4s8OFq6hrU2rBgn9nxs) | 3:58 |
 | 22 | [Key to My Heart](https://open.spotify.com/track/1NmvymljWwjFk64R6N24So) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [Key to My Heart](https://open.spotify.com/album/63H4TPHDzaIKYtcIGxTDzM) | 3:50 |
 | 23 | [神様だって決められない](https://open.spotify.com/track/1X1ifUFJiBuK9r6VfqzoVd) | [22/7](https://open.spotify.com/artist/7tn9UjhRgGnDjOWOXuzIgZ) | [神様だって決められない \(Special Edition\)](https://open.spotify.com/album/3MTBwqAJsTMUGmH23PtEyB) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Watashi to Sekai](https://open.spotify.com/track/46u9BAGpdHauFrFRRxkr0C) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Anata to Watashi wo Tsunagumono](https://open.spotify.com/album/5TL5jmTLrfk3KAplSZ4Uph) | 4:23 |
 | 50 | [LOVE&MOON](https://open.spotify.com/track/7c9jAu2ln1PFzqF2a2wD2X) | [高野麻里佳](https://open.spotify.com/artist/3d5BMnkKOiXyuPOxxaO50E) | [LOVE&MOON](https://open.spotify.com/album/6hodN3snVIv1TUixHMq6Xf) | 3:40 |
 
-Snapshot ID: `MTY3NzY2Mjg1NiwwMDAwMDAwMDc2OTU1YjE0ODE1NDI0ODY5ZWQwZjA3ZjE2YTRhOGU2`
+Snapshot ID: `MTY3NzY2Mjg1NiwwMDAwMDAwMDZhMzE1ZmQxMGIwMjM0YzZhYjRiZDE1YWZmY2ZmNGYy`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-298 songs - 14 hr 41 min
+299 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [dashstar\*](https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\*](https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG) | 3:18 | 2022-07-22 |  |
 | [Daybreak](https://open.spotify.com/track/4VgZlIY58oEZPLKahmLbeP) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Daybreak](https://open.spotify.com/album/2J8jC1c6qGfQEf8X7NlGy3) | 3:22 | 2021-10-29 | 2022-03-13 |
 | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo) | 3:46 | 2021-10-29 | 2022-12-17 |
-| [Direct Me](https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Direct Me](https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy) | 3:52 | 2022-07-22 |  |
+| [Direct Me](https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Direct Me](https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy) | 3:52 | 2022-07-22 | 2023-03-05 |
 | [Disco Tool \(Taiki Nulight Remix\)](https://open.spotify.com/track/6NxT9CHTUZx8BkOh6gCEvh) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Disco Tool \(Remixes\)](https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG) | 3:37 | 2022-07-22 |  |
 | [Disco Tool \- Taiki Nulight Remix](https://open.spotify.com/track/1P00RfRsTtjZP4AK6we2Gx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Disco Tool \(Taiki Nulight Remix\)](https://open.spotify.com/album/38VzHrE2lV74q5wKd4Nr21) | 3:37 | 2022-01-28 | 2022-07-29 |
 | [Distance \- Volac Remix](https://open.spotify.com/track/42BdPV3FB2HVsvdokaIDJt) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Distance \(Volac Remix\)](https://open.spotify.com/album/4DV2LgtYZbumkW6ifBZkzh) | 3:35 | 2021-10-29 |  |
@@ -112,6 +112,7 @@
 | [Good Catch](https://open.spotify.com/track/4o0DR32ubkdQCPT1onM18W) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Good Catch](https://open.spotify.com/album/6cnhQqH39ScPvQpBtQazGc) | 2:35 | 2022-01-28 | 2022-08-06 |
 | [Good For Me](https://open.spotify.com/track/4ajYMWEIDhn78UDHxIIK4s) | [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e) | [Good For Me](https://open.spotify.com/album/1oZPiBv5jwpMui671bdwPp) | 2:39 | 2022-08-26 | 2023-01-06 |
 | [Good Good](https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Good Good](https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc) | 2:22 | 2021-10-29 | 2022-11-19 |
+| [Goodies \- Knock2 Remix](https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Goodies \- Knock2 Remix](https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5) | 3:29 | 2023-03-03 |  |
 | [Goodnight \(feat\. JP Cooper\)](https://open.spotify.com/track/3UAeRjm3BXh9joNAGn2W6Q) | [Sleepwalkrs](https://open.spotify.com/artist/6yVrZt8f3TB1NXP5fIT193), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Goodnight \(feat\. JP Cooper\)](https://open.spotify.com/album/5LJOHCNAxofL23i7XGRY4o) | 2:57 | 2021-10-29 | 2022-08-06 |
 | [Got Me Feeling](https://open.spotify.com/track/4OehHyyY1vOOafiOEoiPFM) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB) | [Got Me Feeling](https://open.spotify.com/album/4BTrDK6QAOM64YRyaaPFN3) | 2:23 | 2021-10-29 | 2022-07-25 |
 | [Gotta Let U Go](https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [Gotta Let U Go](https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp) | 2:29 | 2022-03-18 |  |

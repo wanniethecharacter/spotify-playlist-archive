@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jN8Su7sLaI.md) - [plain]
 
 > Music from "Yowamushi Pedal", a series of cycle road race manga\. /自転車ロードレースアニメの金字塔、<a href="http://yowapeda.com/">『弱虫ペダル』</a>公式プレイリスト！©渡辺航（週刊少年チャンピオン）／弱虫ペダル04製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,630 likes - 39 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,646 likes - 39 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
-| 2 | [Action](https://open.spotify.com/track/0iQUmjHgNQJSgaXSfI38Ty) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py), [Yusuke Saeki](https://open.spotify.com/artist/3ChXwHZFR7YqeuKi6OOA2m) | [Action](https://open.spotify.com/album/5BF4yE3mmMcdiwoJAr8Scb) | 3:39 |
+| 2 | [Action](https://open.spotify.com/track/4eBxnGsRwwZmy1A8b0jnGu) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py), [Yusuke Saeki](https://open.spotify.com/artist/3ChXwHZFR7YqeuKi6OOA2m) | [from here](https://open.spotify.com/album/7qAbSvs8VpfPOwqXJYlyGx) | 3:41 |
 | 3 | [PRIDE](https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [PRIDE](https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb) | 3:37 |
 | 4 | [リクライム](https://open.spotify.com/track/3Kc7MCGYcgSw8RdOJE2oaO) | [ROOKiEZ is PUNK'D](https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C) | [リクライム](https://open.spotify.com/album/4b2ZaJ9CQCdKadWSOKCEuR) | 3:36 |
 | 5 | [ツヨサヨワサ](https://open.spotify.com/track/6egJ4mBsymW0x6O19Cfl4I) | [佐伯ユウスケ](https://open.spotify.com/artist/7bjHzqnMSYi84ljh01L8DM) | [ツヨサヨワサ/行かないと](https://open.spotify.com/album/2qw57WcsgI21f1lxRppVfg) | 3:30 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jN8Su7sLaI.md) - [plain]
 | 38 | [Link](https://open.spotify.com/track/6RoYQ8xtnD0iQLX91tjW7B) | [LASTGASP](https://open.spotify.com/artist/6DtWvcsqUEaxfTrEdGyXmS) | [弱虫ペダル テーマソングアルバム](https://open.spotify.com/album/10ySnvOAqlHznO85JSuGBW) | 4:29 |
 | 39 | [Dream Believer](https://open.spotify.com/track/28TmwytTJsmvkSfWgWIz1d) | [チーム総北 <小野田坂道\(cv.山下大輝\)、今泉俊輔\(cv.鳥海浩輔\)、鳴子章吉\(cv.福島潤\)、金城真護\(cv.安元洋貴\)、巻島裕介\(cv.森久保祥太郎\)、田所迅\(cv.伊藤健太郎\)>](https://open.spotify.com/artist/1b0DGO2FRixEDN9FerxtXI) | [TVアニメ「弱虫ペダル」オープニングテーマ「Be As One」](https://open.spotify.com/album/41D1qI7ozO3eTophC4TVWr) | 4:23 |
 
-Snapshot ID: `MTY3NTE3NzIwMCwwMDAwMDAwMDA1ZDQ4YjVlNmU0MjhiMTUxYzY3NWJhMGRiMzIxYjQ0`
+Snapshot ID: `MTY3NTE3NzIwMCwwMDAwMDAwMGQ0OTk5OWIxNTlhZmRhZDA0MjQwNjAxMWNjNDBiNmVm`

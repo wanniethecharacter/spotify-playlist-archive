@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 47195,
+  "num_followers": 47345,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjA1NSwwMDAwMDAwMGE4MGJiY2Y3NDYzNGQxZTU3MThhMTU0MjczOGQ0NjYx",
+  "snapshot_id": "MTY0OTc5NjA1NSwwMDAwMDAwMDVmZGQ5MjVkZGY4MTMzOGE3Nzc5YjEwYmEwZmFiYTk1",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -587,18 +587,18 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "2 Hype",
-        "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
       "artists": [
         {
-          "name": "Kid 'N Play",
-          "url": "https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw"
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 284040,
-      "name": "Gittin' Funky",
-      "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -635,18 +635,18 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+        "name": "2 Hype",
+        "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "Kid 'N Play",
+          "url": "https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw"
         }
       ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
+      "duration_ms": 284040,
+      "name": "Gittin' Funky",
+      "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
     },
     {
       "added_at": "2020-09-29 17:19:21",
