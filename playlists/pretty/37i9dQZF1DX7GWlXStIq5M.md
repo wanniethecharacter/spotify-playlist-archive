@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: Gaab
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,128 likes - 95 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,135 likes - 95 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

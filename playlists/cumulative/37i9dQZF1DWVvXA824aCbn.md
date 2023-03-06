@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-381 songs - 1 day 1 hr 15 min
+382 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [Little waltz](https://open.spotify.com/track/4QuXQLNCd3wruAmAKQG3rf) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [The Vanguard Date](https://open.spotify.com/album/73BDyNKwdzDNnA9fQ0WLUH) | 6:40 | 2021-01-31 | 2022-07-29 |
 | [Lonely Woman \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:02 | 2021-01-21 | 2021-12-21 |
 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 | 2020-10-20\* | 2021-01-07 |
-| [Lost in Orbit](https://open.spotify.com/track/7ijPIncR5k622S2j28ktCr) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Lost in Orbit](https://open.spotify.com/album/7L3O8woHpsgk4Us0PU7YdL) | 2:33 | 2020-10-20\* |  |
+| [Lost in Orbit](https://open.spotify.com/track/7ijPIncR5k622S2j28ktCr) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Lost in Orbit](https://open.spotify.com/album/7L3O8woHpsgk4Us0PU7YdL) | 2:33 | 2020-10-20\* | 2023-03-06 |
+| [Lost In Your Eyes](https://open.spotify.com/track/6LbXoojfOKm6iW4VIztDAT) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 4:02 | 2023-03-02 |  |
 | [Love by the Shore](https://open.spotify.com/track/3Eth4uBxjHksBSkAOf5SX4) | [Aurelius Markus Trio](https://open.spotify.com/artist/7GN5mWX88NsS7eNxAAOYrf) | [Love by the Shore](https://open.spotify.com/album/04xmsv425l9XJMIhNtKsM0) | 4:53 | 2021-11-12 |  |
 | [Love Is a Many\-Splendored Thing](https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 2:43 | 2020-10-20\* | 2023-01-07 |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-10-16 |  |

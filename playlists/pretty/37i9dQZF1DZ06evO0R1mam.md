@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,175 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,191 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 36 | [Already Won \- Live](https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 3:31 |
 | 37 | [Hold On](https://open.spotify.com/track/19vgIcw6SOe7Ss7EuWzxM7) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:06 |
 | 38 | [No Way \(The G.A\. Chant\)](https://open.spotify.com/track/796T4AcNsk8eFPrJRViYMX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Life](https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P) | 4:08 |
-| 39 | [He's Gonna Come Through \- Live](https://open.spotify.com/track/5WQjEbzqwdGbkwfzTuPTmO) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Smokie Norful Live](https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u) | 4:56 |
+| 39 | [Champion](https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:52 |
 | 40 | [Out Of Hiding / How He Loves / Good Good Father \- Medley/Live](https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 8:29 |
 | 41 | [Let Us Worship](https://open.spotify.com/track/135kZmHIhJhzomzKpV9IVm) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 4:17 |
-| 42 | [Champion](https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:52 |
+| 42 | [He's Gonna Come Through \- Live](https://open.spotify.com/track/5WQjEbzqwdGbkwfzTuPTmO) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Smokie Norful Live](https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u) | 4:56 |
 | 43 | [My Joy](https://open.spotify.com/track/00tk3yXvbdngvs5nuTysRJ) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Life](https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P) | 6:00 |
 | 44 | [Still Have Joy \- Live](https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 5:07 |
 | 45 | [Stand Out](https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 4:42 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 47 | [Take Over](https://open.spotify.com/track/2fY0CRWw4uzISL291dQymx) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 6:18 |
 | 48 | [You \(feat\. Tye Tribbett\)](https://open.spotify.com/track/5eD47cakdGoPPuvCQBhPeU) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Snoop Dogg Presents Bible of Love](https://open.spotify.com/album/4zeITicw3oKpOV5EMQIUQH) | 3:46 |
 | 49 | [I Need You](https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:36 |
-| 50 | [Good](https://open.spotify.com/track/6VQ74D15NKcHaVYVp8nizw) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:04 |
+| 50 | [Same God \- Live](https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 3:19 |
 
-Snapshot ID: `Mjc5NjU2NTksMDAwMDAwMDAxYzQ5ZGVhZjI3NjUwOWUwNDcwZThhOWY0OGI1OTA4YQ==`
+Snapshot ID: `Mjc5NjY5NzgsMDAwMDAwMDAxYjQ1MTU4YjUwNTFjMWJkYTQyN2M5NDhlMzk2ZTU5Yg==`

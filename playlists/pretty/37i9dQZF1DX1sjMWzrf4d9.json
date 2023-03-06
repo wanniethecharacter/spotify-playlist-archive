@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ\">Ziwe Fumudoh</a>",
-  "num_followers": 951,
+  "num_followers": 953,
   "original_name": "Ziwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTg4NTIwMCwwMDAwMDAwMDg5OGU4ODZjNjcwMjE5NTE3MDc5YWI2YWNhZGMyM2Nj",
+  "snapshot_id": "MTY2OTg4NTIwMCwwMDAwMDAwMDRhYzA4MzA2YWIwYWFmMWIxYTA2NmQxZWY0MThkYzA3",
   "tracks": [
     {
       "added_at": "2022-12-01 09:00:00",
@@ -563,26 +563,18 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Late Nights With Jeremih",
-        "url": "https://open.spotify.com/album/6BaIJnFDztZfnTCxyJxAo4"
+        "name": "Almost Famous",
+        "url": "https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv"
       },
       "artists": [
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Natasha Mosley",
-          "url": "https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ"
+          "name": "Lumidee",
+          "url": "https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9"
         }
       ],
-      "duration_ms": 263785,
-      "name": "All The Time (feat. Lil Wayne & Natasha Mosley)",
-      "url": "https://open.spotify.com/track/7JWmo14H5J8aUZ5b18kbev"
+      "duration_ms": 184906,
+      "name": "Never Leave You (Uh Oooh, Uh Oooh)",
+      "url": "https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -603,18 +595,26 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Almost Famous",
-        "url": "https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv"
+        "name": "Late Nights With Jeremih",
+        "url": "https://open.spotify.com/album/6BaIJnFDztZfnTCxyJxAo4"
       },
       "artists": [
         {
-          "name": "Lumidee",
-          "url": "https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Natasha Mosley",
+          "url": "https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ"
         }
       ],
-      "duration_ms": 184906,
-      "name": "Never Leave You (Uh Oooh, Uh Oooh)",
-      "url": "https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI"
+      "duration_ms": 263785,
+      "name": "All The Time (feat. Lil Wayne & Natasha Mosley)",
+      "url": "https://open.spotify.com/track/7JWmo14H5J8aUZ5b18kbev"
     },
     {
       "added_at": "2022-12-01 09:00:00",

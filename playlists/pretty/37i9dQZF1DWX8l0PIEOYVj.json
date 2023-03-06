@@ -1,12 +1,12 @@
 {
   "description": "Future & melodic bass. Cover: Tsu Nami.",
-  "num_followers": 87018,
+  "num_followers": 87071,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1NDA3MywwMDAwMDAwMDlhZjZlOWYyM2EyM2Q3YmMzODExZTdkMzY2NWMxNzI1",
+  "snapshot_id": "MTY3Nzg1NDA3MywwMDAwMDAwMDEyODAwNDM1Nzc5MDFmNjdlNWEyYjRjM2E4NDNhMzA2",
   "tracks": [
     {
       "added_at": "2023-03-03 14:34:33",
@@ -611,22 +611,18 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "far away (Crankdat Remix)",
-        "url": "https://open.spotify.com/album/44Drb1IMP5Ah4VXgndZojP"
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/3PWVOWAXx1wVNMK5ETYnl3"
       },
       "artists": [
         {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
-        },
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
         }
       ],
-      "duration_ms": 203076,
-      "name": "far away - Crankdat Remix",
-      "url": "https://open.spotify.com/track/4fj1ITLZ06PioSOZK8rhUc"
+      "duration_ms": 219047,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1Y3kQNV8sYztW5bk5JmyfC"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -651,18 +647,22 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/3PWVOWAXx1wVNMK5ETYnl3"
+        "name": "far away (Crankdat Remix)",
+        "url": "https://open.spotify.com/album/44Drb1IMP5Ah4VXgndZojP"
       },
       "artists": [
         {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
         }
       ],
-      "duration_ms": 219047,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1Y3kQNV8sYztW5bk5JmyfC"
+      "duration_ms": 203076,
+      "name": "far away - Crankdat Remix",
+      "url": "https://open.spotify.com/track/4fj1ITLZ06PioSOZK8rhUc"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -747,30 +747,6 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "Graduated (Sunset City Remix)",
-        "url": "https://open.spotify.com/album/7ByFQvISxuhyVwS8VeWNse"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        },
-        {
-          "name": "Sunset City",
-          "url": "https://open.spotify.com/artist/0YMeoEFy7Pjoa1xceWrsgc"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "Graduated - Sunset City Remix",
-      "url": "https://open.spotify.com/track/2ZmHIdYlFSA3QtrlnCVoHQ"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
         "name": "Back To The Top",
         "url": "https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw"
       },
@@ -795,26 +771,26 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "Colorblind (feat. Dayseeker)",
-        "url": "https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35"
+        "name": "Graduated (Sunset City Remix)",
+        "url": "https://open.spotify.com/album/7ByFQvISxuhyVwS8VeWNse"
       },
       "artists": [
         {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
         },
         {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
         },
         {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+          "name": "Sunset City",
+          "url": "https://open.spotify.com/artist/0YMeoEFy7Pjoa1xceWrsgc"
         }
       ],
-      "duration_ms": 199285,
-      "name": "Colorblind (feat. Dayseeker)",
-      "url": "https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv"
+      "duration_ms": 211636,
+      "name": "Graduated - Sunset City Remix",
+      "url": "https://open.spotify.com/track/2ZmHIdYlFSA3QtrlnCVoHQ"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -835,6 +811,30 @@
       "duration_ms": 229161,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/6ay07MXOmggaJyMoLT1fqC"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
+        "name": "Colorblind (feat. Dayseeker)",
+        "url": "https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 199285,
+      "name": "Colorblind (feat. Dayseeker)",
+      "url": "https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "Saving Lives",
-        "url": "https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 267676,
-      "name": "Saving Lives",
-      "url": "https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/3ZFzU8m52LCtZXnfKLvpao"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 293122,
       "name": "Call On Me (feat. Vancouver Sleep Clinic)",
       "url": "https://open.spotify.com/track/6IhHyxeOqS6LKgP2Lawj55"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
+        "name": "Saving Lives",
+        "url": "https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "duration_ms": 267676,
+      "name": "Saving Lives",
+      "url": "https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "Haunted Haus",
-        "url": "https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5"
-      },
-      "artists": [
-        {
-          "name": "GHASTLY",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
       },
@@ -1135,30 +1119,6 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "Moments (feat. Rynn)",
-        "url": "https://open.spotify.com/album/35vCTBiGCxmTih3qQCwoQ8"
-      },
-      "artists": [
-        {
-          "name": "Hoang",
-          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
-        },
-        {
-          "name": "MVSE",
-          "url": "https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb"
-        },
-        {
-          "name": "Rynn",
-          "url": "https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl"
-        }
-      ],
-      "duration_ms": 182069,
-      "name": "Moments (feat. Rynn)",
-      "url": "https://open.spotify.com/track/4zQiv23zrHU1iaplSdKffx"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
         "name": "Planet Oasis",
         "url": "https://open.spotify.com/album/1Hv4crdSeL4Zd2jVdV7dJG"
       },
@@ -1191,6 +1151,46 @@
       "duration_ms": 204671,
       "name": "three little words",
       "url": "https://open.spotify.com/track/0F7u39EASLrCAcThAXE1fM"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
+        "name": "Haunted Haus",
+        "url": "https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5"
+      },
+      "artists": [
+        {
+          "name": "GHASTLY",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
+        "name": "Moments (feat. Rynn)",
+        "url": "https://open.spotify.com/album/35vCTBiGCxmTih3qQCwoQ8"
+      },
+      "artists": [
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        },
+        {
+          "name": "MVSE",
+          "url": "https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb"
+        },
+        {
+          "name": "Rynn",
+          "url": "https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl"
+        }
+      ],
+      "duration_ms": 182069,
+      "name": "Moments (feat. Rynn)",
+      "url": "https://open.spotify.com/track/4zQiv23zrHU1iaplSdKffx"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "Think Of Me (feat. SOUNDR)",
-        "url": "https://open.spotify.com/album/23c9KX69PSfZIDaeVPvq9O"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "SOUNDR",
-          "url": "https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Think Of Me (feat. SOUNDR)",
-      "url": "https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
         "name": "Salvation",
         "url": "https://open.spotify.com/album/0n8SbBczPb02Qn18iNCgvt"
       },
@@ -1403,6 +1383,42 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
+        "name": "Think Of Me (feat. SOUNDR)",
+        "url": "https://open.spotify.com/album/23c9KX69PSfZIDaeVPvq9O"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "SOUNDR",
+          "url": "https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Think Of Me (feat. SOUNDR)",
+      "url": "https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
+        "name": "Initium",
+        "url": "https://open.spotify.com/album/7a7YloJDEqVN6sSGmZqgdV"
+      },
+      "artists": [
+        {
+          "name": "Pushing Daizies",
+          "url": "https://open.spotify.com/artist/0njkuk1aekstzAsc5QYLvf"
+        }
+      ],
+      "duration_ms": 202258,
+      "name": "I Would Never",
+      "url": "https://open.spotify.com/track/326nNqs0vqJ96Tr4FZBSt1"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
         "name": "Lucky Ones",
         "url": "https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 205281,
       "name": "Lucky Ones",
       "url": "https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
-        "name": "Initium",
-        "url": "https://open.spotify.com/album/7a7YloJDEqVN6sSGmZqgdV"
-      },
-      "artists": [
-        {
-          "name": "Pushing Daizies",
-          "url": "https://open.spotify.com/artist/0njkuk1aekstzAsc5QYLvf"
-        }
-      ],
-      "duration_ms": 202258,
-      "name": "I Would Never",
-      "url": "https://open.spotify.com/track/326nNqs0vqJ96Tr4FZBSt1"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
+        "name": "Not Giving In",
+        "url": "https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK"
+      },
+      "artists": [
+        {
+          "name": "Culture Code",
+          "url": "https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Not Giving In",
+      "url": "https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
         "name": "die 4 u",
         "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },
@@ -1523,18 +1539,42 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "Not Giving In",
-        "url": "https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK"
+        "name": "Sail Away (feat. Jay Mason)",
+        "url": "https://open.spotify.com/album/6UEOL9j71DS5c7yvHV5xUW"
       },
       "artists": [
         {
-          "name": "Culture Code",
-          "url": "https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ"
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Not Giving In",
-      "url": "https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB"
+      "duration_ms": 252200,
+      "name": "Sail Away (feat. Jay Mason)",
+      "url": "https://open.spotify.com/track/4r9qyANhnnv7q2ENG2ggre"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
+        "name": "Too Long (feat. Cruel Youth)",
+        "url": "https://open.spotify.com/album/3eqY7BmjLIkfTTkimqO430"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Cruel Youth",
+          "url": "https://open.spotify.com/artist/4YrURxtCHtPBfNDmMNp7IG"
+        }
+      ],
+      "duration_ms": 281175,
+      "name": "Too Long (feat. Cruel Youth)",
+      "url": "https://open.spotify.com/track/68eKAppHA0LgssmPmoRNv4"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -1555,26 +1595,6 @@
       "duration_ms": 194383,
       "name": "Stuck On You (feat. Donna Tella)",
       "url": "https://open.spotify.com/track/4YEakHI6sat9bV875QBNcW"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
-        "name": "Sail Away (feat. Jay Mason)",
-        "url": "https://open.spotify.com/album/6UEOL9j71DS5c7yvHV5xUW"
-      },
-      "artists": [
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "Sail Away (feat. Jay Mason)",
-      "url": "https://open.spotify.com/track/4r9qyANhnnv7q2ENG2ggre"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -1687,30 +1707,6 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "This Feeling (feat. Britt Lari)",
-        "url": "https://open.spotify.com/album/10VceQKEFDIcUfaIhzxfeG"
-      },
-      "artists": [
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        },
-        {
-          "name": "if found",
-          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
-        },
-        {
-          "name": "Britt Lari",
-          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "This Feeling (feat. Britt Lari)",
-      "url": "https://open.spotify.com/track/1eZKh4L2bIPxrWIOf9NUUw"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
         "name": "Crazy (feat. Casey Cook)",
         "url": "https://open.spotify.com/album/65oyOZzt4GYuAPNz7ckr27"
       },
@@ -1731,6 +1727,30 @@
       "duration_ms": 212800,
       "name": "Crazy (feat. Casey Cook)",
       "url": "https://open.spotify.com/track/61ilfNBj7SUVn3YYQlWy04"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
+        "name": "This Feeling (feat. Britt Lari)",
+        "url": "https://open.spotify.com/album/10VceQKEFDIcUfaIhzxfeG"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "This Feeling (feat. Britt Lari)",
+      "url": "https://open.spotify.com/track/1eZKh4L2bIPxrWIOf9NUUw"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -1779,6 +1799,22 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
+        "name": "My Wicked",
+        "url": "https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 233048,
+      "name": "My Wicked",
+      "url": "https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
         "name": "The Way Back Up",
         "url": "https://open.spotify.com/album/6JI14Iisr1vEyw3YiMe1rs"
       },
@@ -1795,22 +1831,6 @@
       "duration_ms": 267200,
       "name": "Half A World Away (feat. Sarah de Warren)",
       "url": "https://open.spotify.com/track/0Uyi3DHJMoGURtYihR6LAN"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
-        "name": "My Wicked",
-        "url": "https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 233048,
-      "name": "My Wicked",
-      "url": "https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -1879,6 +1899,26 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/4WvJjrZQhOLCTNnPUdZpQw"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Grant",
+          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
+        }
+      ],
+      "duration_ms": 187835,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/67Sb5mCfhpMDiD2ZbIGh4S"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
         "name": "Back to Me",
         "url": "https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp"
       },
@@ -1899,26 +1939,6 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "UNIVERSE",
-        "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        },
-        {
-          "name": "Courtney Paige Nelson",
-          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
-        }
-      ],
-      "duration_ms": 245828,
-      "name": "See You Go",
-      "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
         "name": "Waiting For Love",
         "url": "https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB"
       },
@@ -1935,6 +1955,26 @@
       "duration_ms": 262702,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
+        "name": "UNIVERSE",
+        "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "Courtney Paige Nelson",
+          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
+        }
+      ],
+      "duration_ms": 245828,
+      "name": "See You Go",
+      "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -1975,26 +2015,6 @@
       "duration_ms": 232315,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/4rGJKqbPpn5HUhMKeZMFhe"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/4WvJjrZQhOLCTNnPUdZpQw"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Grant",
-          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
-        }
-      ],
-      "duration_ms": 187835,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/67Sb5mCfhpMDiD2ZbIGh4S"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -2055,26 +2075,6 @@
       "duration_ms": 249600,
       "name": "Glow In The Dark",
       "url": "https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
-        "name": "Too Long (feat. Cruel Youth)",
-        "url": "https://open.spotify.com/album/3eqY7BmjLIkfTTkimqO430"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Cruel Youth",
-          "url": "https://open.spotify.com/artist/4YrURxtCHtPBfNDmMNp7IG"
-        }
-      ],
-      "duration_ms": 281175,
-      "name": "Too Long (feat. Cruel Youth)",
-      "url": "https://open.spotify.com/track/68eKAppHA0LgssmPmoRNv4"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "Out of Love",
-        "url": "https://open.spotify.com/album/1ucsmQ2EYTjnFdf5B9dzU2"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/4dj24SyTs5oxqWmTuQE8hn"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Out of Love",
-      "url": "https://open.spotify.com/track/6w2qrr2ir08VtisKOh8n4P"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/4e2RuY40WYjCMkFATNZRgm"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 196137,
       "name": "All I Need (feat. your friend polly)",
       "url": "https://open.spotify.com/track/41sFEVzcBymxGTnnZCUkzG"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
+        "name": "Out of Love",
+        "url": "https://open.spotify.com/album/1ucsmQ2EYTjnFdf5B9dzU2"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/4dj24SyTs5oxqWmTuQE8hn"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Out of Love",
+      "url": "https://open.spotify.com/track/6w2qrr2ir08VtisKOh8n4P"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -2363,6 +2363,26 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
+        "name": "Survive (with Luma)",
+        "url": "https://open.spotify.com/album/6tNXNRyY93e2m0jQMlRQ2g"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+        }
+      ],
+      "duration_ms": 227441,
+      "name": "Survive (with Luma)",
+      "url": "https://open.spotify.com/track/1MhdaEmBlc71o9ID1eP9Io"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
         "name": "As Above So Below",
         "url": "https://open.spotify.com/album/0XXmZS61tYClRAcJU5oXHG"
       },
@@ -2391,26 +2411,6 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "Survive (with Luma)",
-        "url": "https://open.spotify.com/album/6tNXNRyY93e2m0jQMlRQ2g"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Luma",
-          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
-        }
-      ],
-      "duration_ms": 227441,
-      "name": "Survive (with Luma)",
-      "url": "https://open.spotify.com/track/1MhdaEmBlc71o9ID1eP9Io"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
         "name": "Reach Across the Sky (Crystal Skies Remix)",
         "url": "https://open.spotify.com/album/6779vm0VGvO5ml9E53dF3h"
       },
@@ -2431,26 +2431,6 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "Afraid To Love",
-        "url": "https://open.spotify.com/album/4oTyTcvgXWAceOKX9LtspZ"
-      },
-      "artists": [
-        {
-          "name": "Far Out",
-          "url": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
-        },
-        {
-          "name": "Karra",
-          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Afraid To Love",
-      "url": "https://open.spotify.com/track/0p1cSoBK2iGy3NRCUDCgYs"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/6mmKc4M94vTYr2lKAZo2dD"
       },
@@ -2467,6 +2447,26 @@
       "duration_ms": 186052,
       "name": "Journey",
       "url": "https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
+        "name": "Afraid To Love",
+        "url": "https://open.spotify.com/album/4oTyTcvgXWAceOKX9LtspZ"
+      },
+      "artists": [
+        {
+          "name": "Far Out",
+          "url": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
+        },
+        {
+          "name": "Karra",
+          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Afraid To Love",
+      "url": "https://open.spotify.com/track/0p1cSoBK2iGy3NRCUDCgYs"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -2643,22 +2643,22 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "Sleepy Eyes",
-        "url": "https://open.spotify.com/album/2bIJRlNZNfuMacE6ZRIegc"
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/5tEMN11A8LyAzummT8irHV"
       },
       "artists": [
         {
-          "name": "Britt Lari",
-          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
         },
         {
-          "name": "Ray Le Fanue",
-          "url": "https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29"
+          "name": "Brooke Williams",
+          "url": "https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz"
         }
       ],
-      "duration_ms": 163500,
-      "name": "Sleepy Eyes",
-      "url": "https://open.spotify.com/track/1xtQcZUH8YDKPEAGMgS41P"
+      "duration_ms": 192036,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/2kXvk84Udu5hCOizgQCBmU"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -2699,26 +2699,6 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
-        "name": "Losing My Mind",
-        "url": "https://open.spotify.com/album/5tEMN11A8LyAzummT8irHV"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        },
-        {
-          "name": "Brooke Williams",
-          "url": "https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz"
-        }
-      ],
-      "duration_ms": 192036,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/2kXvk84Udu5hCOizgQCBmU"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
         "name": "Ghost Town (feat. David Frank)",
         "url": "https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l"
       },
@@ -2735,6 +2715,26 @@
       "duration_ms": 212470,
       "name": "Ghost Town (feat. David Frank)",
       "url": "https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
+        "name": "Sleepy Eyes",
+        "url": "https://open.spotify.com/album/2bIJRlNZNfuMacE6ZRIegc"
+      },
+      "artists": [
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        },
+        {
+          "name": "Ray Le Fanue",
+          "url": "https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Sleepy Eyes",
+      "url": "https://open.spotify.com/track/1xtQcZUH8YDKPEAGMgS41P"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -2863,6 +2863,22 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
+        "name": "Forever With U",
+        "url": "https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "duration_ms": 124845,
+      "name": "Forever With U",
+      "url": "https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
         "name": "High on Life",
         "url": "https://open.spotify.com/album/0uSam5GTUJioSK4DAQLlHx"
       },
@@ -2883,22 +2899,6 @@
       "duration_ms": 196363,
       "name": "High on Life",
       "url": "https://open.spotify.com/track/1GSCyF7EzsmYhfcXX5GEez"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
-        "name": "Forever With U",
-        "url": "https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        }
-      ],
-      "duration_ms": 124845,
-      "name": "Forever With U",
-      "url": "https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT"
     },
     {
       "added_at": "2023-03-03 14:34:33",
@@ -3039,6 +3039,26 @@
     {
       "added_at": "2023-03-03 14:34:33",
       "album": {
+        "name": "want u 2 stay",
+        "url": "https://open.spotify.com/album/4DwQhiao8stnXWX6R9uZfb"
+      },
+      "artists": [
+        {
+          "name": "Dot",
+          "url": "https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT"
+        },
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "duration_ms": 178470,
+      "name": "want u 2 stay",
+      "url": "https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE"
+    },
+    {
+      "added_at": "2023-03-03 14:34:33",
+      "album": {
         "name": "Save My Life",
         "url": "https://open.spotify.com/album/2shntfpFRCftNG6T52EPs0"
       },
@@ -3059,26 +3079,6 @@
       "duration_ms": 248780,
       "name": "Save My Life",
       "url": "https://open.spotify.com/track/0moeK5tOpJoI8AjAL8cl6b"
-    },
-    {
-      "added_at": "2023-03-03 14:34:33",
-      "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/5qEOQx66MDExxqg92Cv9Tf"
-      },
-      "artists": [
-        {
-          "name": "Somna",
-          "url": "https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 237637,
-      "name": "Satellites",
-      "url": "https://open.spotify.com/track/5kqKKun6uZweNkim4zuQwQ"
     }
   ],
   "unique_name": "Bass Lounge",

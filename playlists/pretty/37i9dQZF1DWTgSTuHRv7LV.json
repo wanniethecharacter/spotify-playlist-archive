@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Peso Pluma, Aleman. ",
-  "num_followers": 463223,
+  "num_followers": 463339,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTkwMTAzMSwwMDAwMDAwMDFlNjUyNGQxOWI3OTI5Zjg3NzA1YzM2MzM1MGM1OGVj",
+  "snapshot_id": "MTY3NTkwMTAzMSwwMDAwMDAwMDU4YTY2MTRmZmNhZWExNGZiOGI4YjA1MjgwYzE1OTVm",
   "tracks": [
     {
       "added_at": "2023-02-09 00:03:51",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 151750,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/0G9vVO54iCyJwWth6nrDFT"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
         "name": "Chambean",
         "url": "https://open.spotify.com/album/5JyYjkVmEgpPet9nOTvuL3"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 192000,
       "name": "Chambean",
       "url": "https://open.spotify.com/track/27xdbLOIQOd3wdAsDCbvBz"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 151750,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/0G9vVO54iCyJwWth6nrDFT"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 157880,
-      "name": "Yo Tengo un Novio",
-      "url": "https://open.spotify.com/track/2G4v9zseCOfdTvIs90qi6D"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
         "name": "Kachipun",
         "url": "https://open.spotify.com/album/55vu9TYS7vUdgBOp2Zo2CW"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 168080,
       "name": "Kachipun",
       "url": "https://open.spotify.com/track/0u6961dhguqEgq3U8e8GhF"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "Yo Tengo un Novio",
+      "url": "https://open.spotify.com/track/2G4v9zseCOfdTvIs90qi6D"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "WYS",
-        "url": "https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "WYS",
-      "url": "https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
         "name": "QUE SE ACABE EL MUNDO POR FAVOR",
         "url": "https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 175058,
       "name": "QUE SE ACABE EL MUNDO POR FAVOR",
       "url": "https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
+        "name": "WYS",
+        "url": "https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "WYS",
+      "url": "https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -1847,30 +1847,6 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "Freestyle",
-        "url": "https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7"
-      },
-      "artists": [
-        {
-          "name": "Darkiel",
-          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
-        },
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        }
-      ],
-      "duration_ms": 167565,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
         "name": "La Movie",
         "url": "https://open.spotify.com/album/3uSH8eA5bgrPCHLCBTRGss"
       },
@@ -1895,6 +1871,30 @@
       "duration_ms": 264776,
       "name": "La Movie",
       "url": "https://open.spotify.com/track/5vXtCT27kRaDJASx4HNlGO"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7"
+      },
+      "artists": [
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "duration_ms": 167565,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "Qlq",
-        "url": "https://open.spotify.com/album/5ko1GqEKpk2TLARFtHodbt"
-      },
-      "artists": [
-        {
-          "name": "Jeeiph",
-          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Qlq",
-      "url": "https://open.spotify.com/track/6xVr6Y0vzSBQv4Z01FMdVW"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
         "name": "YEYO",
         "url": "https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 179576,
       "name": "CLOACA",
       "url": "https://open.spotify.com/track/0hsE4KoZ14iXURFc8Lf4dU"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
+        "name": "Qlq",
+        "url": "https://open.spotify.com/album/5ko1GqEKpk2TLARFtHodbt"
+      },
+      "artists": [
+        {
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Qlq",
+      "url": "https://open.spotify.com/track/6xVr6Y0vzSBQv4Z01FMdVW"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "They Love Us",
-        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
-      },
-      "artists": [
-        {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "Triple H",
-      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 193010,
       "name": "Jorge Al Ni\u00f1o (feat. Lefty Sm)",
       "url": "https://open.spotify.com/track/13TdyyKFfD2a1G1Ze467t1"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
+        "name": "They Love Us",
+        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "Triple H",
+      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -2291,26 +2291,6 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "LA \u00daLTIMA VEZ QUE ME VISTE",
-        "url": "https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J"
-      },
-      "artists": [
-        {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 233286,
-      "name": "XKITTLEZ (with Arcangel)",
-      "url": "https://open.spotify.com/track/0EeeiUfFGbKYyvIQcI9TGf"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
         "name": "Chapter 1: Comentarios",
         "url": "https://open.spotify.com/album/7msrBR2PXYJy3epn5hbruN"
       },
@@ -2327,6 +2307,26 @@
       "duration_ms": 193125,
       "name": "Chapter 1: Comentarios",
       "url": "https://open.spotify.com/track/68UjQzzvXO0HTZvMEkcTsx"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
+        "name": "LA \u00daLTIMA VEZ QUE ME VISTE",
+        "url": "https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J"
+      },
+      "artists": [
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 233286,
+      "name": "XKITTLEZ (with Arcangel)",
+      "url": "https://open.spotify.com/track/0EeeiUfFGbKYyvIQcI9TGf"
     },
     {
       "added_at": "2023-02-09 00:03:51",

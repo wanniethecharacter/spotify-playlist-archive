@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Nabihah Iqbal
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,394 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,423 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 46 | [Just Come Home with Me Tonight](https://open.spotify.com/track/6zArUpWiIqCJ4dTThzRpxL) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home with Me Tonight](https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ) | 4:07 |
 | 47 | [Soul Smile](https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Soul Smile](https://open.spotify.com/album/0sRQ2kEsxMeeJ5v9cNUn2N) | 4:09 |
 | 48 | [Sweets & Cursing](https://open.spotify.com/track/31gDKux23LLWzQcd1lcYJJ) | [HousePlants](https://open.spotify.com/artist/5tnWhgpR0zucG8lhmd9HKn) | [Seaglass EP](https://open.spotify.com/album/1zXunCZOoGussPlwzP1Ymc) | 7:10 |
-| 49 | [My Witch](https://open.spotify.com/track/5wtZCIyobjMu4zvamGZX6T) | [Jen Cloher](https://open.spotify.com/artist/5L8TWHTc67vWhQhL15r4i5) | [My Witch](https://open.spotify.com/album/6DvYCj9hE1uhe2AbuniRzz) | 2:45 |
+| 49 | [My Witch](https://open.spotify.com/track/6zNAdPYxOiHYSIEmYBr1EN) | [Jen Cloher](https://open.spotify.com/artist/5L8TWHTc67vWhQhL15r4i5) | [I Am The River, The River Is Me](https://open.spotify.com/album/75geO0to3sl65EAzPSEMlw) | 2:45 |
 | 50 | [A Place To Lie](https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [A Place To Lie](https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM) | 5:23 |
 | 51 | [foolish thinking](https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [foolish thinking](https://open.spotify.com/album/3aazS3R5JRjdKi2CcbAA3N) | 5:53 |
 | 52 | [POINT OF NO RETURN](https://open.spotify.com/track/4GgFF0xemAwyhyXDbTsXG1) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [POINT OF NO RETURN](https://open.spotify.com/album/1B0A3zeqNO0EsFr3zaQxRq) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 99 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 |
 | 100 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 |
 
-Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDI5MGM3Y2Y4Y2M2M2UxNTU2YTYyYjMwNTFkMmViZDBi`
+Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDNkOTM1ZWJhYzQ2NWJmMWE2MDBkY2M4NDY1MGJlYTQz`

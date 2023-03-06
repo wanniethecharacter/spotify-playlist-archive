@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 106562,
       "name": "Brazilian Phonk Mano - Super Slowed",
       "url": "https://open.spotify.com/track/34lJpf1XeT6mS58S5Dwqn6"
@@ -7326,7 +7326,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 128004,
       "name": "Let U Go",
       "url": "https://open.spotify.com/track/29pUhY4WylF02TuUiPUYYV"
@@ -10536,7 +10536,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -13860,7 +13860,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 157261,
       "name": "Tinnitus (Wanna be a rock)",
       "url": "https://open.spotify.com/track/0f0SbtoKGe41cX5LzlnX6X"
@@ -14066,7 +14066,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 191204,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/30JqjpV2qLhBfewhuF3Pey"
@@ -14160,6 +14160,32 @@
       "duration_ms": 163160,
       "name": "Traktor! (with saymooon)",
       "url": "https://open.spotify.com/track/7tKl0VtxiEMtgQtYgf4JAZ"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "Trance (with Travis Scott & Young Thug)",
+      "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
     },
     {
       "album": {
@@ -15424,7 +15450,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 127730,
       "name": "Woop Baby",
       "url": "https://open.spotify.com/track/5FWPdgtQACI6DPE2CBPUpm"
@@ -16138,7 +16164,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 216833,
       "name": "\u042f\u0434",
       "url": "https://open.spotify.com/track/59vIllaE2ottAAAtAiAuLt"

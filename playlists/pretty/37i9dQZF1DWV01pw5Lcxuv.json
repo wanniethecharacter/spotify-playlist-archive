@@ -1,12 +1,12 @@
 {
   "description": "Disfruta con mam\u00e1 la era dorada de los 80's.  ",
-  "num_followers": 142481,
+  "num_followers": 142635,
   "original_name": "Mam\u00e1 80era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTU3MzUyNywwMDAwMDAwMDBjYTdhMzhiZTBlZjE4MTU4ZmM3YmE5NzdlNWRiOTYy",
+  "snapshot_id": "MTYyMTU3MzUyNywwMDAwMDAwMDEwNWI4MTk1MjY2NmNkYmE3NjM4Y2EyY2FiN2FmY2E3",
   "tracks": [
     {
       "added_at": "2021-05-21 05:05:27",
@@ -327,22 +327,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Hungry Like the Wolf - 2009 Remaster",
-      "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "La Cagaste... Burt Lancaster",
         "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 184360,
       "name": "El ataque de las chicas cocodrilo",
       "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Hungry Like the Wolf - 2009 Remaster",
+      "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "Amante Bandido",
-      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Spirits Having Flown",
         "url": "https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 303333,
       "name": "Tragedy",
       "url": "https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "Amante Bandido",
+      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
-      },
-      "artists": [
-        {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Luna m\u00e1gica",
-      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 154000,
       "name": "No Vale la Pena (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/1ZwK7tvuYHoQQju0LBnqWk"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Luna m\u00e1gica",
+      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "The Works (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "I Want To Break Free - Remastered 2011",
-      "url": "https://open.spotify.com/track/6NAEpcvbmNdT0cWP3LFDcY"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 214573,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "The Works (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "I Want To Break Free - Remastered 2011",
+      "url": "https://open.spotify.com/track/6NAEpcvbmNdT0cWP3LFDcY"
     }
   ],
   "unique_name": "Mam\u00e1 80era",

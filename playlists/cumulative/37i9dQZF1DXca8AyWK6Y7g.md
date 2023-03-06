@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: EMELINE
 
-1,548 songs - 3 day 6 hr 54 min
+1,549 songs - 3 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [eyeroll](https://open.spotify.com/track/4PmIgAWDClzcK8e3wVPUaz) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [eyeroll](https://open.spotify.com/album/42ZCXqkaOueRzUDba5L0Tt) | 2:49 | 2019-08-17 | 2021-01-30 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-18 |  |
 | [Eyes Wide Shut](https://open.spotify.com/track/3FhFlQuJiThN8PIUMHuikP) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Eyes Wide Shut](https://open.spotify.com/album/6dQOeD3fOJY5X5zU9GbjVM) | 3:43 | 2019-05-26\* | 2020-02-19 |
+| [F U Goodbye](https://open.spotify.com/track/205wK88loGkvq5Me6h3XZg) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [F U Goodbye](https://open.spotify.com/album/1qN1cdmp9anpdy8fohdvLo) | 2:46 | 2023-03-03 |  |
 | [Failed English](https://open.spotify.com/track/7kj0SRhn9ovQ8N5dBtCPna) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Failed English](https://open.spotify.com/album/1BVE4R2Ze79EwSJ55Ha5hW) | 2:43 | 2021-12-03 | 2022-01-29 |
 | [Fake It](https://open.spotify.com/track/0x3jopI5vshBrfiVUjiC2X) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Fake It](https://open.spotify.com/album/13n0zQiVLZ3gAj8VmMWaST) | 3:41 | 2019-05-26\* | 2019-09-14 |
 | [fall apart](https://open.spotify.com/track/3WSsxt8SeWwrMoSRVNYvLM) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [hold on I still want you](https://open.spotify.com/album/2Qw3h6IV99voV3iKBiNRT8) | 2:35 | 2021-07-16 | 2022-01-08 |
@@ -981,7 +982,7 @@
 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 | 2022-09-16 | 2022-11-12 |
 | [Nothing Really Matters](https://open.spotify.com/track/0NDeB1JOGniNUbc0z2LuFb) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Nothing Really Matters](https://open.spotify.com/album/0wX8o9FiMpnek9fWNJ52NH) | 2:44 | 2019-05-26\* | 2020-03-20 |
 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/49rILSmVLmGmknARFACh3N) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/0QvkS38s3iUF88PeNqeXzt) | 2:38 | 2021-06-24 | 2022-01-08 |
-| [Nothing to Lose](https://open.spotify.com/track/5OpEhKpaybK0hRwrq1yXEE) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [Nothing to Lose](https://open.spotify.com/album/1uCGYnhs8ZtHHzkI5ribT2) | 3:02 | 2022-10-28 |  |
+| [Nothing to Lose](https://open.spotify.com/track/5OpEhKpaybK0hRwrq1yXEE) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [Nothing to Lose](https://open.spotify.com/album/1uCGYnhs8ZtHHzkI5ribT2) | 3:02 | 2022-10-28 | 2023-03-06 |
 | [Nothing's All The Time](https://open.spotify.com/track/3m3bd62913zzUd48L53Lc1) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Nothing's All The Time](https://open.spotify.com/album/6mpySMwG3IZ7hSnqGF9Z2A) | 2:42 | 2022-05-06 | 2022-05-14 |
 | [nownow](https://open.spotify.com/track/4wxk5rwph1eACxBUJBZO9a) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [nownow](https://open.spotify.com/album/7qfjnlGz4ylUj4SHANZ5KM) | 2:49 | 2021-08-13 | 2021-08-20 |
 | [numb](https://open.spotify.com/track/4HEbMAQU85yFHiTpPcryRk) | [Noirre](https://open.spotify.com/artist/5zGw4HioHo687jNmzLUazl) | [x](https://open.spotify.com/album/6WHsyHt1FbF55FwNQ5mZVz) | 3:12 | 2019-06-27 | 2020-06-09 |

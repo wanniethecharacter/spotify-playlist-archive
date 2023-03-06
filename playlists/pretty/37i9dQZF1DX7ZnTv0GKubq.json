@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 339657,
+  "num_followers": 339687,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0NzcyNSwwMDAwMDAwMDI1M2Q3MTA3NTgxZWEwYjVjNTQwYTY5YjU4NjBiMjM1",
+  "snapshot_id": "MTY3Nzg0NzcyNSwwMDAwMDAwMGUxMjkxZGIzNWUzZjRlNjMwZTRmYTU5NGY4MjU3MWM0",
   "tracks": [
     {
       "added_at": "2023-03-03 12:47:34",
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
     },
     {
-      "added_at": "2023-03-05 01:36:07",
+      "added_at": "2023-03-06 01:35:33",
       "album": {
         "name": "Linger Awhile",
         "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-03 12:47:34",
       "album": {
-        "name": "The Hurtbook",
-        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
-      },
-      "artists": [
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "So Be It",
-      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
-    },
-    {
-      "added_at": "2023-03-03 12:47:34",
-      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 193173,
       "name": "Guess",
       "url": "https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb"
+    },
+    {
+      "added_at": "2023-03-03 12:47:34",
+      "album": {
+        "name": "The Hurtbook",
+        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
     },
     {
       "added_at": "2023-03-03 12:47:34",

@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: Foggieraw, artwork by Ian Woods",
-  "num_followers": 41446,
+  "num_followers": 41531,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI4MTM2MCwwMDAwMDAwMDE2NzNlODczNTZkZjY1MTgwYmU0OTQ5ODgwZTk3YTQy",
+  "snapshot_id": "MTY3NzI4MTM2MCwwMDAwMDAwMDYxYjJjODg5MmZhZTRiNGUxZmIzODZjZjgwMzU3ZTBi",
   "tracks": [
     {
       "added_at": "2023-02-17 08:47:35",
@@ -147,18 +147,22 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "You Got Me",
-        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
+        "name": "Air I Breathe",
+        "url": "https://open.spotify.com/album/5ucDyNcrTA8NI7khHMnCx2"
       },
       "artists": [
         {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        },
+        {
+          "name": "Isabelle Brown",
+          "url": "https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e"
         }
       ],
-      "duration_ms": 172327,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
+      "duration_ms": 161899,
+      "name": "Air I Breathe",
+      "url": "https://open.spotify.com/track/780mts4OTKBKYZwhF5eFL8"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -183,22 +187,18 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Air I Breathe",
-        "url": "https://open.spotify.com/album/5ucDyNcrTA8NI7khHMnCx2"
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
       },
       "artists": [
         {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        },
-        {
-          "name": "Isabelle Brown",
-          "url": "https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e"
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
         }
       ],
-      "duration_ms": 161899,
-      "name": "Air I Breathe",
-      "url": "https://open.spotify.com/track/780mts4OTKBKYZwhF5eFL8"
+      "duration_ms": 172327,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
+        "name": "Wade In The Water",
+        "url": "https://open.spotify.com/album/41ulKBEAa83QkPZC29LBnb"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 199010,
+      "name": "Wade In The Water - Live",
+      "url": "https://open.spotify.com/track/1xcC0GKNgEWDjWxawt29Nl"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
         "name": "CALL",
         "url": "https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 160000,
       "name": "CALL",
       "url": "https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "Wade In The Water",
-        "url": "https://open.spotify.com/album/41ulKBEAa83QkPZC29LBnb"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        }
-      ],
-      "duration_ms": 199010,
-      "name": "Wade In The Water - Live",
-      "url": "https://open.spotify.com/track/1xcC0GKNgEWDjWxawt29Nl"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "T.D. JAKES Presents FINALLY LOOSED",
-        "url": "https://open.spotify.com/album/0ZdjavcVdSEf2QSsSb7JEI"
-      },
-      "artists": [
-        {
-          "name": "Tamar Braxton",
-          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
-        },
-        {
-          "name": "New Breed",
-          "url": "https://open.spotify.com/artist/2Zly7rBPCwrCNxNgYQPoC9"
-        }
-      ],
-      "duration_ms": 374092,
-      "name": "THE GLORY ft. New Breed",
-      "url": "https://open.spotify.com/track/32PAhZGQ3BkfkaR2mJczFm"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Give Him Praise",
         "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 193385,
       "name": "The Divide",
       "url": "https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "T.D. JAKES Presents FINALLY LOOSED",
+        "url": "https://open.spotify.com/album/0ZdjavcVdSEf2QSsSb7JEI"
+      },
+      "artists": [
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        },
+        {
+          "name": "New Breed",
+          "url": "https://open.spotify.com/artist/2Zly7rBPCwrCNxNgYQPoC9"
+        }
+      ],
+      "duration_ms": 374092,
+      "name": "THE GLORY ft. New Breed",
+      "url": "https://open.spotify.com/track/32PAhZGQ3BkfkaR2mJczFm"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
+        "name": "I Get",
+        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 210124,
+      "name": "I Get",
+      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
         "name": "Not Forgotten",
         "url": "https://open.spotify.com/album/0NQK05D18EsBmnCsPo4ynv"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 284000,
       "name": "Not Forgotten",
       "url": "https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
-        "name": "I Get",
-        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 210124,
-      "name": "I Get",
-      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Wrong About You (Live)",
-        "url": "https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 393306,
-      "name": "Wrong About You (Live)",
-      "url": "https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Enemies and Foes",
         "url": "https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 289134,
       "name": "Enemies and Foes",
       "url": "https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Wrong About You (Live)",
+        "url": "https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 393306,
+      "name": "Wrong About You (Live)",
+      "url": "https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Take Me to the Fire",
-        "url": "https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 182552,
-      "name": "Take Me to the Fire",
-      "url": "https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 157706,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Take Me to the Fire",
+        "url": "https://open.spotify.com/album/6dGBJgONjwN3BS3lxfmGc2"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 182552,
+      "name": "Take Me to the Fire",
+      "url": "https://open.spotify.com/track/7qNjvijiO9XIEnUV5hNnNk"
     },
     {
       "added_at": "2023-02-02 02:25:09",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-02-02 02:25:09",
       "album": {
-        "name": "Journey: Acoustic Sessions",
-        "url": "https://open.spotify.com/album/2HvjY8R1wvlAO3qK6tGZYj"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 322083,
-      "name": "Okay - Acoustic",
-      "url": "https://open.spotify.com/track/02oApVYn8WQSLkahzSlgvF"
-    },
-    {
-      "added_at": "2023-02-02 02:25:09",
-      "album": {
         "name": "Be Real",
         "url": "https://open.spotify.com/album/6zv0299GsEbWGWSnQAXi8x"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 147000,
       "name": "Be Real",
       "url": "https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9"
+    },
+    {
+      "added_at": "2023-02-02 02:25:09",
+      "album": {
+        "name": "Journey: Acoustic Sessions",
+        "url": "https://open.spotify.com/album/2HvjY8R1wvlAO3qK6tGZYj"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 322083,
+      "name": "Okay - Acoustic",
+      "url": "https://open.spotify.com/track/02oApVYn8WQSLkahzSlgvF"
     },
     {
       "added_at": "2023-02-02 02:25:09",

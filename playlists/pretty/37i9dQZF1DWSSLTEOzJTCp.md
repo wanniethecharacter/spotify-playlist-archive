@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > why is this game so hard goddamnit \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,572 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,600 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 29 | [Shady Intentions](https://open.spotify.com/track/1dldHTwGWbTXgGmflUQlbC) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 3:05 |
 | 30 | [Lay Me Down](https://open.spotify.com/track/3GKN5PYjlS7baPtrbdLtev) | [Ranji](https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p), [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Berg](https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem) | [Lay Me Down](https://open.spotify.com/album/3WKRpjVkajtN99InvxdLwX) | 3:30 |
 | 31 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 |
-| 32 | [Kill Me With Your Love](https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Kill Me With Your Love](https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31) | 2:54 |
-| 33 | [IMY](https://open.spotify.com/track/6oosMYrpIekDxg67SV60Va) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [DISRUPTOR LP](https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa) | 2:46 |
+| 32 | [IMY](https://open.spotify.com/track/6oosMYrpIekDxg67SV60Va) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [DISRUPTOR LP](https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa) | 2:46 |
+| 33 | [Kill Me With Your Love](https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Kill Me With Your Love](https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31) | 2:54 |
 | 34 | [Bloodbath](https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Bloodbath](https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt) | 3:20 |
 | 35 | [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/track/5uwjwHf7gA1DqLvnsTM3aW) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [fuck ya go us](https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT) | 3:57 |
 | 36 | [Pain Killer](https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 49 | [Within The Boundaries](https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [EMBRACE](https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M) | 3:16 |
 | 50 | [Deathstalker](https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:45 |
 
-Snapshot ID: `MTY2OTgxOTgzOCwwMDAwMDAwMGRjMjZmZDg5MGQzY2Y2ZDcwMzA0NGE0ODY2MzMzMjlk`
+Snapshot ID: `MTY2OTgxOTgzOCwwMDAwMDAwMGY3MzY4Nzc3YmU0YTA1M2FjNzMwZDhiMWU4OTk4NjUw`

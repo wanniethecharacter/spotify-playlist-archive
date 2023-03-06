@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 328949,
+  "num_followers": 329093,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMGMxODMxZjNjZjM2OTg3MmYzOWUzNzY4YWMxNjllN2Vj",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDE5MGE4YTVhNjVjYTE3ZTFkMmQxNjYxNTg0NWM5ZjRj",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Right And A Wrong Way",
-      "url": "https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "Ventriloquism",
         "url": "https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 277985,
       "name": "Don't Disturb This Groove",
       "url": "https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Right And A Wrong Way",
+      "url": "https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH"
     }
   ],
   "unique_name": "Soul Revived",

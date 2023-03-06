@@ -1,12 +1,12 @@
 {
   "description": "your guide for a peaceful night.",
-  "num_followers": 45943,
+  "num_followers": 45937,
   "original_name": "night light ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDgyOTEwYTM5MWNlZjAyZTM2OGEzZWJmYjM3NWI1NDI4",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDY4MjdiMzgxZDA1ODc0ZGNlZTE5NTc0MGU0ZDY2Yzk5",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Idle Mind",
-        "url": "https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW"
-      },
-      "artists": [
-        {
-          "name": "Anna Mieke",
-          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
-        }
-      ],
-      "duration_ms": 295265,
-      "name": "Warped Window",
-      "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Evening Machines",
         "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 199906,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Idle Mind",
+        "url": "https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW"
+      },
+      "artists": [
+        {
+          "name": "Anna Mieke",
+          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
+        }
+      ],
+      "duration_ms": 295265,
+      "name": "Warped Window",
+      "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Santa Barbara",
-        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
       },
       "artists": [
         {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 194026,
-      "name": "Santa Barbara",
-      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
+      "duration_ms": 133773,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -787,6 +771,22 @@
       "duration_ms": 238560,
       "name": "Without A Word",
       "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Santa Barbara",
+        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Santa Barbara",
+      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "All Is Well",
-        "url": "https://open.spotify.com/album/21MiDyKUukfBWOtMeZa7Ul"
-      },
-      "artists": [
-        {
-          "name": "Sam Amidon",
-          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
-        }
-      ],
-      "duration_ms": 324186,
-      "name": "Sugar Baby",
-      "url": "https://open.spotify.com/track/2azVRgjUiKxEoUn9loNAFO"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Make Peace with That",
         "url": "https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "All Is Well",
+        "url": "https://open.spotify.com/album/21MiDyKUukfBWOtMeZa7Ul"
+      },
+      "artists": [
+        {
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+        }
+      ],
+      "duration_ms": 324186,
+      "name": "Sugar Baby",
+      "url": "https://open.spotify.com/track/2azVRgjUiKxEoUn9loNAFO"
     },
     {
       "added_at": "2023-02-10 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Z\u00f6elle en portada.",
-  "num_followers": 94040,
+  "num_followers": 94081,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMDhkNDE3YmFlZGE2ZjljODY3MTc3OTcyODRiMmQzMjk5",
+  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMDk4Zjc0ZjNiZGRiYmJmYzQ2MTg2MzZkOGJjYjYyMWE2",
   "tracks": [
     {
       "added_at": "2023-02-17 18:34:10",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-11-24 19:53:55",
       "album": {
-        "name": "Not The One",
-        "url": "https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih"
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
       },
       "artists": [
         {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
         }
       ],
-      "duration_ms": 144901,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ"
+      "duration_ms": 160243,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
     },
     {
       "added_at": "2022-11-24 19:53:55",
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-11-24 19:53:55",
       "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
+        "name": "Not The One",
+        "url": "https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih"
       },
       "artists": [
         {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
         }
       ],
-      "duration_ms": 160243,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
+      "duration_ms": 144901,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ"
     },
     {
       "added_at": "2022-11-24 19:53:55",

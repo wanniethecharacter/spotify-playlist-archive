@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Noizu & Westend
 
-921 songs - 2 day 6 hr 45 min
+922 songs - 2 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Drop That Shhh](https://open.spotify.com/track/7dGO8MqquDAivoLLVMD8Fr) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Drop That Shhh EP](https://open.spotify.com/album/0Bzj5NhafAn9EQu2YANa6f) | 3:42 | 2021-11-26 | 2022-01-06 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-08-19 | 2023-01-28 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-19 | 2022-09-30 |
+| [Drugs From Amsterdam \- Armand Van Helden Remix](https://open.spotify.com/track/1i7ystPYSrQGjDw3ykXTgR) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Drugs From Amsterdam \(Armand Van Helden Remix\)](https://open.spotify.com/album/5BJsik3qQYgBnm8mtwfTL4) | 2:36 | 2023-03-03 |  |
 | [Drummers Mind \- Original Edit](https://open.spotify.com/track/0iq6bJBeZYstW81rYEY5yT) | [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [Drummers Mind EP](https://open.spotify.com/album/6PMoVDzdggQqGjxUVv60ii) | 4:16 | 2022-11-18 | 2022-12-29 |
 | [Duro](https://open.spotify.com/track/1vDkc8P9SDkqXlXHs3uzjV) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Duro](https://open.spotify.com/album/3QuVE1YSF1gkqt4yoQ0W5L) | 3:08 | 2021-11-26 | 2022-02-26 |
 | [Eastern Dub](https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Eastern Dub](https://open.spotify.com/album/1Lssaw5dvG8riE4Uiyuv6U) | 2:58 | 2022-06-24 | 2022-07-23 |
@@ -413,7 +414,7 @@
 | [Keep An Eye](https://open.spotify.com/track/1eeMkl1riLTme891ShjpiI) | [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB) | [Keep An Eye](https://open.spotify.com/album/3bkvIPn6rp9fmoHJpiAkOs) | 4:05 | 2022-05-13 | 2022-06-11 |
 | [Keep It Goin](https://open.spotify.com/track/3LvKz6clKRSGm2hfLOVixK) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [Gold Lemonade](https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD) | [Your Soul EP](https://open.spotify.com/album/7sTirjHMUMYwWivQKkEQWT) | 4:22 | 2022-04-08 | 2022-06-11 |
 | [Kerching](https://open.spotify.com/track/3voNCdMNCd1M2Yh1Y7cm4Y) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Kerching](https://open.spotify.com/album/2EbLWvMUt7vknp9BZUXj2j) | 2:58 | 2022-07-22 | 2022-09-06 |
-| [Kiki](https://open.spotify.com/track/1ktkHmRDSvH971zF5Re1Ha) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [Kiki](https://open.spotify.com/album/5cqz8kbQQzovPfT5vAMxa7) | 3:32 | 2023-02-10 |  |
+| [Kiki](https://open.spotify.com/track/1ktkHmRDSvH971zF5Re1Ha) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [Kiki](https://open.spotify.com/album/5cqz8kbQQzovPfT5vAMxa7) | 3:32 | 2023-02-10 | 2023-03-06 |
 | [KILO](https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [KILO](https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y) | 5:10 | 2022-12-02 | 2023-02-25 |
 | [KLK](https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [KLK](https://open.spotify.com/album/2tPFlCPO1HxQ8DJFc5QLw3) | 3:10 | 2023-01-20 | 2023-02-18 |
 | [Know My Name \(Woo Dat\)](https://open.spotify.com/track/0O76moOQx3YIeqPJScB24c) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Know My Name \(Woo Dat\)](https://open.spotify.com/album/0EUPcYgMGtKlrNOh9Zje6H) | 2:16 | 2021-11-26 | 2022-01-06 |

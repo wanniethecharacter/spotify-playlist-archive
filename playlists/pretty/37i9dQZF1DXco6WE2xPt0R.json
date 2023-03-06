@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 87917,
+  "num_followers": 87968,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMGViNzlmNDBhYTlmOTNmMDE0ZGVmMTJkNTU3Y2ZiMGVh",
+  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMGVkYjNlMTU1ZjU2NDE0YTU3OTYzMGUzNjJjMTUyNzNi",
   "tracks": [
     {
       "added_at": "2023-03-03 03:01:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Floetic",
         "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 268373,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 162188,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
         "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 238965,
       "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
       "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 162188,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1535,22 +1535,18 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Wait On Me (Pt. 2 / Remix)",
-        "url": "https://open.spotify.com/album/3B3tvV3KG3MUdOUN7Jn0vN"
+        "name": "The Beauty Created",
+        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
       },
       "artists": [
         {
-          "name": "Raheem DeVaughn",
-          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
-        },
-        {
-          "name": "GeorgiaReign",
-          "url": "https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI"
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
         }
       ],
-      "duration_ms": 157640,
-      "name": "Wait On Me - Pt. 2 / Remix",
-      "url": "https://open.spotify.com/track/7t58YUFLnYocFypBbBlRHC"
+      "duration_ms": 271453,
+      "name": "Come To My Room",
+      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1571,18 +1567,22 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "The Beauty Created",
-        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
+        "name": "Wait On Me (Pt. 2 / Remix)",
+        "url": "https://open.spotify.com/album/3B3tvV3KG3MUdOUN7Jn0vN"
       },
       "artists": [
         {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "name": "GeorgiaReign",
+          "url": "https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI"
         }
       ],
-      "duration_ms": 271453,
-      "name": "Come To My Room",
-      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
+      "duration_ms": 157640,
+      "name": "Wait On Me - Pt. 2 / Remix",
+      "url": "https://open.spotify.com/track/7t58YUFLnYocFypBbBlRHC"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Mr. Midnight (Winter Time Remix)",
-        "url": "https://open.spotify.com/album/3ZEfnijyXzxMa6JR1xBa6i"
-      },
-      "artists": [
-        {
-          "name": "Raheem DeVaughn",
-          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
-        },
-        {
-          "name": "Bee Boy$oul",
-          "url": "https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Mr. Midnight - Winter Time Remix",
-      "url": "https://open.spotify.com/track/7Abompe9RyQ6qIng5kkgPP"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "silhouette",
         "url": "https://open.spotify.com/album/73rn1ZqAlqgCW9z8hGzHSH"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 165962,
       "name": "Look At You",
       "url": "https://open.spotify.com/track/2OzMvSU0CuklnI7tsoMUDO"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Mr. Midnight (Winter Time Remix)",
+        "url": "https://open.spotify.com/album/3ZEfnijyXzxMa6JR1xBa6i"
+      },
+      "artists": [
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "name": "Bee Boy$oul",
+          "url": "https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Mr. Midnight - Winter Time Remix",
+      "url": "https://open.spotify.com/track/7Abompe9RyQ6qIng5kkgPP"
     },
     {
       "added_at": "2023-03-03 03:01:00",

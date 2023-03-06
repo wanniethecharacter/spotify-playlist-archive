@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Micha\u00ebl Brun",
-  "num_followers": 74950,
+  "num_followers": 74977,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY3MzYwOCwwMDAwMDAwMDEzYmY1MmViYWJlNzVhYjBmZWM0N2YyYWQzNWY2MDhh",
+  "snapshot_id": "MTY3NjY3MzYwOCwwMDAwMDAwMDJjMmJiYjgzZGU0MzVjZWM1MjdmODNhMGMyNDg3YjU5",
   "tracks": [
     {
       "added_at": "2023-02-17 22:40:08",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
+      },
+      "artists": [
+        {
+          "name": "Emeline Michel",
+          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
+        }
+      ],
+      "duration_ms": 286840,
+      "name": "Flanm",
+      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 194976,
       "name": "Nou Pare",
       "url": "https://open.spotify.com/track/4MnggOv6w9gmdSlVTukec6"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
-      },
-      "artists": [
-        {
-          "name": "Emeline Michel",
-          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
-        }
-      ],
-      "duration_ms": 286840,
-      "name": "Flanm",
-      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
-      },
-      "artists": [
-        {
-          "name": "NEVRMIND",
-          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
-    },
-    {
-      "added_at": "2023-02-17 22:40:08",
-      "album": {
         "name": "Destine",
         "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2023-02-17 22:40:08",
       "album": {
-        "name": "Perle De Culture",
-        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
       },
       "artists": [
         {
-          "name": "Riva Nyri Precil",
-          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
+          "name": "NEVRMIND",
+          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
         }
       ],
-      "duration_ms": 265929,
-      "name": "Twa Fey",
-      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
+      "duration_ms": 153473,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
     },
     {
       "added_at": "2023-02-17 22:40:08",
@@ -1303,6 +1287,22 @@
       "duration_ms": 229991,
       "name": "Can't Catch Me",
       "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
+    },
+    {
+      "added_at": "2023-02-17 22:40:08",
+      "album": {
+        "name": "Perle De Culture",
+        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
+      },
+      "artists": [
+        {
+          "name": "Riva Nyri Precil",
+          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
+        }
+      ],
+      "duration_ms": 265929,
+      "name": "Twa Fey",
+      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
     },
     {
       "added_at": "2023-02-17 22:40:08",

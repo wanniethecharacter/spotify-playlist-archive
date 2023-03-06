@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: Jordan Ward",
-  "num_followers": 1342074,
+  "num_followers": 1342641,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzk1ODI3NywwMDAwMDAwMGYyNzRiMTcwMTUzNjBjMGI0ODQ0NWM3YTRjMTVhMmYw",
+  "snapshot_id": "MTY3Nzk1ODI3NywwMDAwMDAwMDUyMjZhNjc5MzA4ZmNjNDBhNWY0MThjZDQ5NWEwN2Ni",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -213,20 +213,20 @@
       "url": "https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
+      "added_at": "2023-02-24 05:23:50",
       "album": {
-        "name": "Do You Like Me?",
-        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 227663,
-      "name": "Do You Like Me?",
-      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -265,20 +265,20 @@
       "url": "https://open.spotify.com/track/2k3IJR9hf34ZfEnTdlcoSK"
     },
     {
-      "added_at": "2023-02-24 05:23:50",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+        "name": "Do You Like Me?",
+        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 187557,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+      "duration_ms": 227663,
+      "name": "Do You Like Me?",
+      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
-    },
-    {
       "added_at": "2023-02-17 19:52:38",
       "album": {
         "name": "3 Boys",
@@ -413,6 +397,22 @@
       "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
     },
     {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 116129,
+      "name": "Mad Riches",
+      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
+    },
+    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "flora + fana (deluxe)",
@@ -429,20 +429,20 @@
       "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
       },
       "artists": [
         {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 116129,
-      "name": "Mad Riches",
-      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2022-12-10 19:36:26",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "AZEB - EP",
@@ -731,6 +715,22 @@
       "duration_ms": 165186,
       "name": "Rider",
       "url": "https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/1rKdNSA119ByMxI9chV5J6"
     },
     {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
-        "name": "STEREO DRIVER",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "STEREO DRIVER",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
-    },
-    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Good For Now",
@@ -871,6 +855,22 @@
       "duration_ms": 189000,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "STEREO DRIVER",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "STEREO DRIVER",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 173377,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "deadman",
@@ -1055,6 +1039,22 @@
       "duration_ms": 130909,
       "name": "deadman",
       "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 173377,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
     },
     {
       "added_at": "2022-07-22 04:15:47",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X"
-    },
-    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "Good Mornin'",
@@ -1223,6 +1207,22 @@
       "duration_ms": 142351,
       "name": "Good Mornin'",
       "url": "https://open.spotify.com/track/31DhZKH7E1T41TAnK0qyC5"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1257,22 +1257,6 @@
       "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "exodus the north star",
-        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 205354,
-      "name": "exodus the north star",
-      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Seltzer",
@@ -1289,20 +1273,20 @@
       "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+        "name": "exodus the north star",
+        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
       },
       "artists": [
         {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
         }
       ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
+      "duration_ms": 205354,
+      "name": "exodus the north star",
+      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1319,6 +1303,42 @@
       "duration_ms": 220893,
       "name": "pressure",
       "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
+    },
+    {
+      "added_at": "2023-02-24 05:23:50",
+      "album": {
+        "name": "Water My Heart (feat. Mereba)",
+        "url": "https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 222334,
+      "name": "Water My Heart (feat. Mereba)",
+      "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1359,26 +1379,6 @@
       "duration_ms": 186531,
       "name": "THE SEASON (feat. PawPaw Rod)",
       "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
-    },
-    {
-      "added_at": "2023-02-24 05:23:50",
-      "album": {
-        "name": "Water My Heart (feat. Mereba)",
-        "url": "https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 222334,
-      "name": "Water My Heart (feat. Mereba)",
-      "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
     },
     {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
-        "name": "Dog Daze",
-        "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 144584,
-      "name": "Brewster",
-      "url": "https://open.spotify.com/track/3c2LHcsave8QZ2DTzQ2iln"
-    },
-    {
       "added_at": "2023-02-24 05:23:50",
       "album": {
         "name": "phases (feat. Kojey Radical)",
@@ -1491,6 +1475,22 @@
       "duration_ms": 243701,
       "name": "phases (feat. Kojey Radical)",
       "url": "https://open.spotify.com/track/2kLMWqTsPb3i5QfLmnOAhM"
+    },
+    {
+      "added_at": "2022-07-15 04:02:46",
+      "album": {
+        "name": "Dog Daze",
+        "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 144584,
+      "name": "Brewster",
+      "url": "https://open.spotify.com/track/3c2LHcsave8QZ2DTzQ2iln"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Dreams 2 Reality",
-        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 170937,
-      "name": "Divide",
-      "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Girl In The Half Pearl",
@@ -1571,6 +1555,22 @@
       "duration_ms": 215813,
       "name": "Wild Animals",
       "url": "https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Dreams 2 Reality",
+        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 170937,
+      "name": "Divide",
+      "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
     },
     {
       "added_at": "2022-12-16 05:17:19",
@@ -1645,6 +1645,22 @@
       "url": "https://open.spotify.com/track/2E25yFTkFXLwtWPMqftlbZ"
     },
     {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Girl In The Half Pearl",
+        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Find Out",
+      "url": "https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN"
+    },
+    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Just Say It (feat. Johnny Yukon)",
@@ -1679,22 +1695,6 @@
       "duration_ms": 205544,
       "name": "What About Me?",
       "url": "https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Girl In The Half Pearl",
-        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
-      },
-      "artists": [
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "Find Out",
-      "url": "https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN"
     },
     {
       "added_at": "2022-09-30 04:04:40",

@@ -4,7 +4,7 @@
 
 > La banda sonora para tus cenas en casa.
 
-195 songs - 12 hr 38 min
+196 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 | 2021-01-19 |  |
 | [Fly Me To The Moon \- 2008 Remastered](https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 2:27 | 2021-01-19 | 2022-10-14 |
 | [Fui a Buscar al Sol](https://open.spotify.com/track/72q51tZkGZeN92UAHca86o) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h) | [Eclíptica](https://open.spotify.com/album/7HqkDcXBIrGdvoFXZKYDkX) | 3:07 | 2021-01-19 | 2022-07-29 |
-| [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 | 2021-01-19 |  |
+| [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 | 2021-01-19 | 2023-03-06 |
 | [Ganando el Tiempo \(with Jorge Drexler\)](https://open.spotify.com/track/6vcggsPzVC9qWikamING0g) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Cantables](https://open.spotify.com/album/269SuIWx9DZ7poGQzNVbUD) | 3:50 | 2021-01-19 | 2022-07-29 |
 | [Get Lucky \- Acoustic](https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Get Lucky \(Acoustic\)](https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW) | 3:08 | 2021-01-19 | 2022-11-13 |
 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 | 2021-01-19 | 2022-11-13 |
@@ -118,6 +118,7 @@
 | [Love Vibration](https://open.spotify.com/track/4KvOPEKwp8Z83oUkNB7Km4) | [Josh Rouse](https://open.spotify.com/artist/38euc5ce2q2MMzaoJcPstz) | [1972](https://open.spotify.com/album/5SxkCsVQLLCt5edqjNvssO) | 4:51 | 2021-01-19 | 2022-07-29 |
 | [Lágrimas Negras](https://open.spotify.com/track/4cYr28vZOK1cSXiaefSXkO) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Lágrimas Negras](https://open.spotify.com/album/4VOwUaLAK3Ea6tWZzos79U) | 5:31 | 2021-01-19 | 2022-07-29 |
 | [María la Portuguesa](https://open.spotify.com/track/4UBD68Gl57igC6y1yndIjI) | [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A) | [Reinas del Matute](https://open.spotify.com/album/6UQCxm8zXegAPpW5FJhfCK) | 5:30 | 2021-01-19 | 2022-07-29 |
+| [Misread](https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:08 | 2021-01-19 |  |
 | [Misread](https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:08 | 2021-01-19 | 2023-01-28 |
 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 4:34 | 2021-01-19 |  |
 | [Morning Sun](https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Currency Of Man](https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD) | 5:05 | 2021-01-19 | 2022-11-13 |

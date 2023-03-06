@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 74721,
+  "num_followers": 74733,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0MzU5OSwwMDAwMDAwMDBhODU0MDljODRiYjgxZmRmMWM2ZWZhYzg3MjMzOTdk",
+  "snapshot_id": "MTY3NjY0MzU5OSwwMDAwMDAwMDk3NTUwYjEzOTAzYzMxNmU0MGM4YTZkYTM3MDAxMjFk",
   "tracks": [
     {
       "added_at": "2023-02-17 14:19:59",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "creep",
-      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
-    },
-    {
-      "added_at": "2023-02-17 14:19:59",
-      "album": {
         "name": "THE GRATITUDE PROJECT",
         "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 217258,
       "name": "SHOULD I BE OK?",
       "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
+    },
+    {
+      "added_at": "2023-02-17 14:19:59",
+      "album": {
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "creep",
+      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
     },
     {
       "added_at": "2023-02-17 14:19:59",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
+    },
+    {
+      "added_at": "2023-02-17 14:19:59",
+      "album": {
         "name": "trust (feat. RINI)",
         "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "bon iver",
-      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
-    },
-    {
-      "added_at": "2023-02-17 14:19:59",
-      "album": {
         "name": "I Like What I Like",
         "url": "https://open.spotify.com/album/13W5hU5lcNFTBUo72oJsWT"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
-      },
-      "artists": [
-        {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
-        }
-      ],
-      "duration_ms": 151150,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
-    },
-    {
-      "added_at": "2023-02-17 14:19:59",
-      "album": {
         "name": "LUCID",
         "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 218108,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
+    },
+    {
+      "added_at": "2023-02-17 14:19:59",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "duration_ms": 151150,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
     },
     {
       "added_at": "2023-02-17 14:19:59",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "damn Right",
-        "url": "https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 164605,
-      "name": "damn Right",
-      "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
-    },
-    {
-      "added_at": "2023-02-17 14:19:59",
-      "album": {
         "name": "Excuses",
         "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
+        "name": "damn Right",
+        "url": "https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 164605,
+      "name": "damn Right",
+      "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
+    },
+    {
+      "added_at": "2023-02-17 14:19:59",
+      "album": {
         "name": "Drunk Sleeping In Taxis",
         "url": "https://open.spotify.com/album/0SHth88PCHEHHhf2nysItm"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 213424,
       "name": "Drunk Sleeping In Taxis",
       "url": "https://open.spotify.com/track/6JsTJ7ScTRdqz2yotO5aNe"
+    },
+    {
+      "added_at": "2023-02-17 14:19:59",
+      "album": {
+        "name": "Catch Me In The Air",
+        "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 215814,
+      "name": "Catch Me In The Air",
+      "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
     },
     {
       "added_at": "2023-02-17 14:19:59",
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "Catch Me In The Air",
-        "url": "https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 215814,
-      "name": "Catch Me In The Air",
-      "url": "https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87"
-    },
-    {
-      "added_at": "2023-02-17 14:19:59",
-      "album": {
         "name": "Apollo 8",
         "url": "https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "Lover Like Me",
-        "url": "https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC"
-      },
-      "artists": [
-        {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
-        }
-      ],
-      "duration_ms": 177845,
-      "name": "Lover Like Me",
-      "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
-    },
-    {
-      "added_at": "2023-02-17 14:19:59",
-      "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
+        "name": "Lover Like Me",
+        "url": "https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "duration_ms": 177845,
+      "name": "Lover Like Me",
+      "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
+    },
+    {
+      "added_at": "2023-02-17 14:19:59",
+      "album": {
         "name": "That XX - Spotify Singles",
         "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 164169,
       "name": "Crying on the Subway",
       "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
-    },
-    {
-      "added_at": "2023-02-17 14:19:59",
-      "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr"
-      },
-      "artists": [
-        {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
-        }
-      ],
-      "duration_ms": 221218,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8"
     },
     {
       "added_at": "2023-02-17 14:19:59",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "duration_ms": 221218,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8"
+    },
+    {
+      "added_at": "2023-02-17 14:19:59",
+      "album": {
         "name": "Can you (Galcher Lustwerk Remix)",
         "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 219216,
       "name": "Can you",
       "url": "https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB"
+    },
+    {
+      "added_at": "2023-02-17 14:19:59",
+      "album": {
+        "name": "Dance Like Nobody's Watching",
+        "url": "https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 225267,
+      "name": "Dance Like Nobody's Watching",
+      "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
     },
     {
       "added_at": "2023-02-17 14:19:59",
@@ -1303,38 +1319,6 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 282110,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
-    },
-    {
-      "added_at": "2023-02-17 14:19:59",
-      "album": {
-        "name": "Dance Like Nobody's Watching",
-        "url": "https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 225267,
-      "name": "Dance Like Nobody's Watching",
-      "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
-    },
-    {
-      "added_at": "2023-02-17 14:19:59",
-      "album": {
         "name": "Moxie (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 161424,
       "name": "Rebel Girl",
       "url": "https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D"
+    },
+    {
+      "added_at": "2023-02-17 14:19:59",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 282110,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
     },
     {
       "added_at": "2023-02-17 14:19:59",

@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "6.5",
+        "url": "https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143374,
+      "name": "6.5",
+      "url": "https://open.spotify.com/track/24Jam2dilbARAWyR6K1L8v"
+    },
+    {
+      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
       },
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 200572,
       "name": "DEBI LLEVARTE FLORES",
       "url": "https://open.spotify.com/track/2sgRUvRB8dCGpqxmbOrsMO"
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 232857,
       "name": "Die For You - Remix",
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
@@ -7628,7 +7646,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-05",
+      "date_removed": null,
       "duration_ms": 272463,
       "name": "Na Na Na - Remix",
       "url": "https://open.spotify.com/track/7BFa8ACKFI2vvbn6Su16JY"
@@ -9488,6 +9506,24 @@
       "duration_ms": 153600,
       "name": "Qu\u00e9 Pasa?",
       "url": "https://open.spotify.com/track/5u0EnFzLd5WmsncTG5uMSP"
+    },
+    {
+      "album": {
+        "name": "6.5",
+        "url": "https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123434,
+      "name": "Ram",
+      "url": "https://open.spotify.com/track/3th0luN7pe8n10lHJDIDkg"
     },
     {
       "album": {
@@ -11548,7 +11584,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 167786,
       "name": "TUS GAFITAS",
       "url": "https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"

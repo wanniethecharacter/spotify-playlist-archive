@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,310 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,382 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 37 | [A História dos Animais](https://open.spotify.com/track/54p1PR4nMkq495gv1LIQxO) | [Arautos Do Rei](https://open.spotify.com/artist/7HMkkJU8KMSMpEZ1RA8gvK), [Társis Iraídes](https://open.spotify.com/artist/0p942FANsPACepQGy7HuF7), [Elson Gollub](https://open.spotify.com/artist/4CnTjFbM00kSSgLddqNgqh), [José Barbalho](https://open.spotify.com/artist/3nTd1c0vX2OvYS4cF6otAo), [Ronaldo Fagundes](https://open.spotify.com/artist/3k8WlBrUAmrPAAwGILLlMj) | [Arautos do Rei pra Baixinhos e Grandões](https://open.spotify.com/album/6hQ1VdOFsnwERYnnBuxsFK) | 3:54 |
 | 38 | [Com Jesus](https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2) | [Com Jesus](https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60) | 2:58 |
 | 39 | [Deus Grandão](https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Grandão](https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn) | 4:11 |
-| 40 | [Rock da Arca](https://open.spotify.com/track/7HzkYbSog275m1M5kaAUFW) | [Kelly Benigno](https://open.spotify.com/artist/2YYbZyhGyLlVQGfaE1Hn5X) | [Rock da Arca](https://open.spotify.com/album/1cNrPAjRtZWUKeMiSqJmEG) | 3:22 |
-| 41 | [Na Trilha da Criação](https://open.spotify.com/track/2AeUTBwpPLpEJbu6T7I335) | [Margem Norte Kids](https://open.spotify.com/artist/7MqM27ki9IN3dGwGttHIYa) | [Na Trilha da Criação](https://open.spotify.com/album/7L2eWc0MQm3Da6L80gd6jW) | 2:38 |
+| 40 | [Na Trilha da Criação](https://open.spotify.com/track/2AeUTBwpPLpEJbu6T7I335) | [Margem Norte Kids](https://open.spotify.com/artist/7MqM27ki9IN3dGwGttHIYa) | [Na Trilha da Criação](https://open.spotify.com/album/7L2eWc0MQm3Da6L80gd6jW) | 2:38 |
+| 41 | [Rock da Arca](https://open.spotify.com/track/7HzkYbSog275m1M5kaAUFW) | [Kelly Benigno](https://open.spotify.com/artist/2YYbZyhGyLlVQGfaE1Hn5X) | [Rock da Arca](https://open.spotify.com/album/1cNrPAjRtZWUKeMiSqJmEG) | 3:22 |
 | 42 | [Conectada Com Deus](https://open.spotify.com/track/0mdbQRBEonvAxHHJsS5UCj) | [Aline Nascimento](https://open.spotify.com/artist/5Iz1GoxCNhkBe8vn9fXQV4) | [Conectada Com Deus](https://open.spotify.com/album/58yeAD8aegEUHWbQBZp3mx) | 2:33 |
 | 43 | [Obra do Criador \- Ao Vivo](https://open.spotify.com/track/6H4h2cnyfeTnqAHfdqi5dw) | [Louvor Videira Kids](https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu) | [Comigo Sonhou](https://open.spotify.com/album/3tbgkAsVPkMHK4TBOwIwpV) | 3:07 |
 | 44 | [Meu Amigão do Peito](https://open.spotify.com/track/7kpsitoqNZGXXvxUtFg4Qj) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Meu Amigão do Peito](https://open.spotify.com/album/1CUbAbluxubTfpGKXg5BgA) | 3:52 |
 | 45 | [Ao Orarmos](https://open.spotify.com/track/0OCSLWbLai3RpfM4kjo5Ne) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Ao Orarmos](https://open.spotify.com/album/2bax4vbgz2FjqaV6kJDExx) | 3:09 |
-| 46 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
-| 47 | [A Tua Graça](https://open.spotify.com/track/58PgmYUic0mM7Qwi297ZG3) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [A Tua Graça](https://open.spotify.com/album/2gcCOA0Zi0ntszohuIbxVj) | 2:25 |
+| 46 | [A Tua Graça](https://open.spotify.com/track/58PgmYUic0mM7Qwi297ZG3) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [A Tua Graça](https://open.spotify.com/album/2gcCOA0Zi0ntszohuIbxVj) | 2:25 |
+| 47 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
 | 48 | [Galileia](https://open.spotify.com/track/1NxGlZCXHdExP3sPld6UV0) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Galileia](https://open.spotify.com/album/1WsqUCNmbFJOsA4Ukmu8lV) | 2:37 |
 | 49 | [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 |
 | 50 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
 
-Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMDE4Y2UzOGU0MGY0YjU5NTNkMmMxZWQyZGVkMTMzOGMw`
+Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMGI2ZWE4MzdjYTc3NjY0Y2UyOTkyZmQ5OTk0YWRhZTI0`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a nuestros artista Radar M\u00e9xico 2022!",
-  "num_followers": 67754,
+  "num_followers": 67775,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMGQ5ZWJlYzRiODFhN2I2OGRiZGQwOWI5NWZjN2M5ZDVh",
+  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMDYyNDU5ZjI4NTY5NzZkZmNhNjM3OTUyYTQ2YzUwMmM3",
   "tracks": [
     {
       "added_at": "2023-01-11 06:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 148370,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
       "added_at": "2022-05-13 21:33:14",

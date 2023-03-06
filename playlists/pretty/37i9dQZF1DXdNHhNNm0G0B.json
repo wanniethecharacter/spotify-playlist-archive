@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 69513,
+  "num_followers": 69535,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzA4NywwMDAwMDAwMDJiYzY3NzQ0ZGNkMTRiM2ViYTg5YmNlNTE1YjMzYTUw",
+  "snapshot_id": "MTY3Nzg2NzA4NywwMDAwMDAwMDZkMjJkODQ1ZDY1NTIwMWJlMzIwZDM5MGZiZTRhM2M4",
   "tracks": [
     {
       "added_at": "2023-03-03 18:11:27",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Lonely Days",
-      "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Willow Witchin' (Hot Take)",
         "url": "https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 150941,
       "name": "Willow Witchin' (Hot Take)",
       "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "Lonely Days",
+      "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -627,22 +627,6 @@
       "duration_ms": 141066,
       "name": "Focus (Rosie's Theme)",
       "url": "https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
-        "name": "In the Morning Twilight",
-        "url": "https://open.spotify.com/album/2kcdTK4BvfNIpipvvfmIBI"
-      },
-      "artists": [
-        {
-          "name": "Steffen Basho-Junghans",
-          "url": "https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "In the Morning Twilight",
-      "url": "https://open.spotify.com/track/4SnB7omg7hwcvr4tLlRiea"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -959,22 +943,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "That's All Right",
-        "url": "https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Mama Don't Tear Your Clothes",
-      "url": "https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Seasonal Hire",
         "url": "https://open.spotify.com/album/2QsROTjpIZO0bBYmHZ3tqz"
       },
@@ -995,18 +963,18 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Bottom's Up",
-        "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
+        "name": "That's All Right",
+        "url": "https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS"
       },
       "artists": [
         {
-          "name": "Will Harrison",
-          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
         }
       ],
-      "duration_ms": 172383,
-      "name": "Good Timin'",
-      "url": "https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6"
+      "duration_ms": 116173,
+      "name": "Mama Don't Tear Your Clothes",
+      "url": "https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -1023,6 +991,22 @@
       "duration_ms": 212000,
       "name": "Orange County Serenade",
       "url": "https://open.spotify.com/track/1c8RsqtiYSDmMDPhSrjkAS"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Bottom's Up",
+        "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
+      },
+      "artists": [
+        {
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+        }
+      ],
+      "duration_ms": 172383,
+      "name": "Good Timin'",
+      "url": "https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -1107,22 +1091,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Seven Pines",
-        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 245026,
-      "name": "Long Nights I",
-      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "The Blues Never End",
         "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
       },
@@ -1139,18 +1107,18 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Black Dog Blues",
-        "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
+        "name": "Seven Pines",
+        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
       },
       "artists": [
         {
-          "name": "Bayless Rose",
-          "url": "https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M"
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Frisco Blues",
-      "url": "https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW"
+      "duration_ms": 245026,
+      "name": "Long Nights I",
+      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -1167,6 +1135,22 @@
       "duration_ms": 134960,
       "name": "How Long Blues",
       "url": "https://open.spotify.com/track/7oqooYaiu59aIVRxWWKQX9"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Black Dog Blues",
+        "url": "https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72"
+      },
+      "artists": [
+        {
+          "name": "Bayless Rose",
+          "url": "https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Frisco Blues",
+      "url": "https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -1203,22 +1187,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 316048,
-      "name": "Dodge City",
-      "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Landscape and People",
         "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
       },
@@ -1231,6 +1199,22 @@
       "duration_ms": 379453,
       "name": "A Real State of Independence",
       "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 316048,
+      "name": "Dodge City",
+      "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -1299,18 +1283,34 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Landscape and People",
-        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
+        "name": "Golden Selection (Remastered)",
+        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
       },
       "artists": [
         {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
         }
       ],
-      "duration_ms": 245066,
-      "name": "Long River (Allegheny)",
-      "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
+      "duration_ms": 169214,
+      "name": "She Ain't Nowhere - Remastered",
+      "url": "https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "All The Classic Sides 1928 - 1937 CD C",
+        "url": "https://open.spotify.com/album/0eNsmN2JZlbtxTx3vBo60b"
+      },
+      "artists": [
+        {
+          "name": "Big Bill Broonzy",
+          "url": "https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Starvation Blues",
+      "url": "https://open.spotify.com/track/0w4hTuo1L6IVSRKns0BqSD"
     }
   ],
   "unique_name": "Rockin' Chair Blues",

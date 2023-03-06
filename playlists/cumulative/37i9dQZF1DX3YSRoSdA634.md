@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-493 songs - 1 day 6 hr 24 min
+494 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Beneath Your Beautiful](https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8) | 4:31 | 2022-02-07 | 2022-04-21 |
 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:31 | 2022-07-01 |  |
 | [Best Friend Breakup](https://open.spotify.com/track/28a302Jx34OM1z5qG7ykMJ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL) | 2:21 | 2023-02-10 | 2023-03-03 |
+| [Best Friend Breakup](https://open.spotify.com/track/5rKMN0bKdqcGWo1iLvv30Y) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/6mF1bVrioCxksnRBHUN7Ej) | 2:21 | 2023-02-17 |  |
 | [Better in Time](https://open.spotify.com/track/2iXBZ32Fz5VDCLeE0JIdX5) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 3:54 | 2022-02-07 |  |
 | [better off](https://open.spotify.com/track/5NlV5HVIfgk5eHxvAGGTfy) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [better off](https://open.spotify.com/album/22b1Y01K22BkoBUq2zO6WY) | 3:12 | 2021-12-15 | 2022-07-29 |
 | [better off](https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 3:13 | 2022-07-01 |  |
@@ -493,7 +494,7 @@
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2021-12-15 |  |
 | [You Don't Call Me Anymore](https://open.spotify.com/track/1O2HBnIhhNJx4xRe3oDFZF) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [You Don't Call Me Anymore](https://open.spotify.com/album/5z3JEwnU21eNIpxyuWhkgV) | 2:57 | 2023-02-10 |  |
 | [You Don't Know](https://open.spotify.com/track/2BlM00LsKY0pFKEChrQa9Y) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tired Eyes](https://open.spotify.com/album/7sj87mBaofDr9oJ0C22yFg) | 4:20 | 2021-12-15 | 2022-07-29 |
-| [You Don't Know](https://open.spotify.com/track/5F7dkkzWdHWPpn9zOYu8Ng) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tired Eyes](https://open.spotify.com/album/1fMzgbBLV4vdE4Wp21F3PF) | 4:20 | 2022-07-01 |  |
+| [You Don't Know](https://open.spotify.com/track/5F7dkkzWdHWPpn9zOYu8Ng) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tired Eyes](https://open.spotify.com/album/1fMzgbBLV4vdE4Wp21F3PF) | 4:20 | 2022-07-01 | 2023-03-06 |
 | [You Said You'd Grow Old With Me](https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Wide Awake](https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn) | 3:44 | 2021-12-15 |  |
 | [You There](https://open.spotify.com/track/3LSY9s9h6RmHRTXOtRA5oK) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Aquilo](https://open.spotify.com/album/44tUgx0z8pXtozzfofp7Hi) | 4:13 | 2021-12-15 | 2022-05-28 |
 | [You There](https://open.spotify.com/track/3oCd8HkxnzvAWHxaZi3jIB) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Aquilo](https://open.spotify.com/album/1zfixtwqwXpbH5pF8GfpnH) | 4:13 | 2022-07-01 | 2022-11-14 |

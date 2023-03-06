@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 
 > Classic soft rock\. For that free and easy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,288 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,439 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 39 | [Save It For A Rainy Day](https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:12 |
 | 40 | [A Pirate Looks At Forty](https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [A\-1\-A](https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ) | 3:55 |
 | 41 | [Year of the Cat](https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Year of the Cat](https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5) | 6:40 |
-| 42 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
-| 43 | [Me and You and a Dog Named Boo](https://open.spotify.com/track/6a0AGYos2HgtQNgMeDqEfC) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [I'd Love You To Want Me](https://open.spotify.com/album/4VMBciq1OqZxBXLurWn3ie) | 2:57 |
+| 42 | [Me and You and a Dog Named Boo](https://open.spotify.com/track/6a0AGYos2HgtQNgMeDqEfC) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [I'd Love You To Want Me](https://open.spotify.com/album/4VMBciq1OqZxBXLurWn3ie) | 2:57 |
+| 43 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
 | 44 | [Another Park, Another Sunday](https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [What Were Once Vices Are Now Habits](https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB) | 4:27 |
 | 45 | [Thunder Island](https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj) | [Jay Ferguson](https://open.spotify.com/artist/3aahGWIXwvG1fxduXjimtl) | [Thunder Island](https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj) | 4:00 |
 | 46 | [What Can I Say](https://open.spotify.com/track/4WSbbEjRQ7uE3IT9crL10B) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 79 | [Marina Del Rey](https://open.spotify.com/track/23TcFJ0XSv7jugzpucHNW7) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Mannequin](https://open.spotify.com/album/1jhT5nqbschpILLzEWkjX3) | 3:11 |
 | 80 | [Better Love Next Time](https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/6rZyWDvLwKIkfSZ8qcmmdK) | 3:00 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDg3ODk4OWFhNzI4OTA2OTkwMjQ4OTAzZGJmNDFjNWUw`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDkzYjA5ZjUxNWYxZjAzMzVmMDFmMTdlNGY4MWRiOTky`

@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 392008,
+  "num_followers": 392368,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwMjg2MCwwMDAwMDAwMGVjZDA2MjVmNzcwNzU4OWNmNTgyZTMyN2E5MjMxMTRj",
+  "snapshot_id": "MTY3NjYwMjg2MCwwMDAwMDAwMGYxNGM1NGJhM2Y1MWUzNTVmMTkwZjQ3YTEyNGJhOTI0",
   "tracks": [
     {
       "added_at": "2023-02-17 03:01:00",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
         "name": "Vintage Culture & Friends 2",
         "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 261818,
       "name": "C\u00e9u Azul - Vintage Culture & Santti Remix",
       "url": "https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2023-02-17 03:01:00",
@@ -1287,30 +1287,6 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "A Tal Can\u00e7\u00e3o Pra Lua (Madism Remix)",
-        "url": "https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        },
-        {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 206759,
-      "name": "A Tal Can\u00e7\u00e3o Pra Lua - Madism Remix",
-      "url": "https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
         "name": "Hoje Caminhei (Remix)",
         "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 140826,
       "name": "Hoje Caminhei - Remix",
       "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
+        "name": "A Tal Can\u00e7\u00e3o Pra Lua (Madism Remix)",
+        "url": "https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 206759,
+      "name": "A Tal Can\u00e7\u00e3o Pra Lua - Madism Remix",
+      "url": "https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c"
     },
     {
       "added_at": "2023-02-17 03:01:00",

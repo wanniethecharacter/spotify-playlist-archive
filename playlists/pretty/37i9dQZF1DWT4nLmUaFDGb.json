@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 354043,
+  "num_followers": 354873,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDBkMzhlYTNhMTBjYWJmYmY5NGYxZDc0MDM2NDk4OWRi",
+  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDhmYjQxNjNlZWY3OWQ0NWYzN2U3MDAwY2EwZGY2NjBh",
   "tracks": [
     {
       "added_at": "2023-03-02 23:00:00",
@@ -447,18 +447,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+        "name": "Genius Loves Company",
+        "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        },
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 171253,
-      "name": "What Love Will Do to You",
-      "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
+      "duration_ms": 210854,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -479,22 +483,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Genius Loves Company",
-        "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        },
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 210854,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep"
+      "duration_ms": 171253,
+      "name": "What Love Will Do to You",
+      "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Kisses On The Bottom",
-        "url": "https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
-      "url": "https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+        "name": "Kisses On The Bottom",
+        "url": "https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 216453,
-      "name": "Just Like Chet",
-      "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
+      "duration_ms": 155706,
+      "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
+      "url": "https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -643,6 +627,22 @@
       "duration_ms": 191946,
       "name": "Don't Wait Too Long",
       "url": "https://open.spotify.com/track/2JgQULmVwV0J3Gds7YfBCu"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Just Like Chet",
+      "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Standards (Deluxe)",
-        "url": "https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 272085,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/3rSygnXIRbxtJ9suj12MqW"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Eternal Beauty",
         "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Balm in Gilead",
-        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
+        "name": "Standards (Deluxe)",
+        "url": "https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy"
       },
       "artists": [
         {
-          "name": "Rickie Lee Jones",
-          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
         }
       ],
-      "duration_ms": 180493,
-      "name": "The Moon Is Made of Gold",
-      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
+      "duration_ms": 272085,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/3rSygnXIRbxtJ9suj12MqW"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -851,6 +835,22 @@
       "duration_ms": 240080,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Balm in Gilead",
+        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "The Moon Is Made of Gold",
+      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Creole Love Call",
-        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
-      },
-      "artists": [
-        {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "One Day I Fly Away",
-      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "American Classic",
         "url": "https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 261706,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Creole Love Call",
+        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
+      },
+      "artists": [
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "One Day I Fly Away",
+      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
+        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
+      },
+      "artists": [
+        {
+          "name": "Jacintha",
+          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Here's to Life",
+      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
         "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
-        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
       "artists": [
         {
-          "name": "Jacintha",
-          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
         }
       ],
-      "duration_ms": 287426,
-      "name": "Here's to Life",
-      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
+      "duration_ms": 388114,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1535,22 +1551,6 @@
       "duration_ms": 242666,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 388114,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
     },
     {
       "added_at": "2023-03-02 23:00:00",

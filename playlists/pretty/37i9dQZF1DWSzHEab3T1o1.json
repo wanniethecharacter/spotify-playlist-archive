@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7396,
+  "num_followers": 7398,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMDhlZjgyMTIwYmU2ZjlmOTE4MjBiZmY5MjY4YjNjYTQ1",
+  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMDEzNTUxNWQwMWZkM2ZmY2QyZWIxMzU3ODg1ODE2MDQ1",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -75,30 +75,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 193797,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -119,6 +95,30 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (feat. J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 193797,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -253,34 +253,6 @@
       "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
     },
     {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
-      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
       "added_at": "2022-01-21 04:37:53",
       "album": {
         "name": "Un Ratito",
@@ -311,6 +283,34 @@
       "duration_ms": 194906,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -499,26 +499,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Selfish Love (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Selfish Love (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Que Rica (Tocame)",
         "url": "https://open.spotify.com/album/2AW6HCRfGox94vO7GMQSLD"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 136200,
       "name": "B\u00e9same (I Need You) (with TINI & Reik)",
       "url": "https://open.spotify.com/track/25c15KvAiyM8DNmDoFqwzm"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Selfish Love (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Selfish Love (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -647,34 +647,6 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous",
       "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-        "url": "https://open.spotify.com/album/0nfzbzXtyqNclDemdScFnT"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-      "url": "https://open.spotify.com/track/7K5tOFxje8nlunmexOmWgo"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -779,6 +751,34 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+        "url": "https://open.spotify.com/album/0nfzbzXtyqNclDemdScFnT"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/7K5tOFxje8nlunmexOmWgo"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/3nsJwTzE4qc9aOLEi6zMZN"
       },
@@ -799,26 +799,22 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Know No Better",
-        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
+        "name": "Maldad (with Maluma)",
+        "url": "https://open.spotify.com/album/5HpsxOzKIW482MRcfK4K7Z"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 167310,
-      "name": "Sua Cara",
-      "url": "https://open.spotify.com/track/3XfsA0zVsrPkVkaDDEr73B"
+      "duration_ms": 168158,
+      "name": "Maldad (with Maluma)",
+      "url": "https://open.spotify.com/track/35HXnvswjdVWjQRmqtXPJD"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -847,6 +843,30 @@
       "duration_ms": 157444,
       "name": "Do It! - Dimitri Vegas Radio Edit",
       "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Know No Better",
+        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 167310,
+      "name": "Sua Cara",
+      "url": "https://open.spotify.com/track/3XfsA0zVsrPkVkaDDEr73B"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -911,26 +931,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Maldad (with Maluma)",
-        "url": "https://open.spotify.com/album/5HpsxOzKIW482MRcfK4K7Z"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168158,
-      "name": "Maldad (with Maluma)",
-      "url": "https://open.spotify.com/track/35HXnvswjdVWjQRmqtXPJD"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Mi Gente (Alesso Remix)",
         "url": "https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g"
       },
@@ -971,6 +971,30 @@
       "duration_ms": 167884,
       "name": "Algo M\u00e1gico - R3HAB Remix",
       "url": "https://open.spotify.com/track/0AKJnGrZazPQbEoGamsQT9"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Know No Better",
+        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 173909,
+      "name": "Buscando Huellas",
+      "url": "https://open.spotify.com/track/1i2bRNCJEBdJxbFDi4B8WQ"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -1035,26 +1059,22 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Know No Better",
-        "url": "https://open.spotify.com/album/0NYAre99G6yH7OzKOVt4KC"
+        "name": "Neon Future III",
+        "url": "https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
         }
       ],
-      "duration_ms": 173909,
-      "name": "Buscando Huellas",
-      "url": "https://open.spotify.com/track/1i2bRNCJEBdJxbFDi4B8WQ"
+      "duration_ms": 205333,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1hpXAtEeEpiQXHMwbDtGdp"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -1091,26 +1111,6 @@
       "duration_ms": 283187,
       "name": "No Te Enamores - Alan Walker Remix",
       "url": "https://open.spotify.com/track/2tfvxvWE1EwdHR6rAUTzGa"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Neon Future III",
-        "url": "https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/1hpXAtEeEpiQXHMwbDtGdp"
     },
     {
       "added_at": "2021-12-31 04:31:13",

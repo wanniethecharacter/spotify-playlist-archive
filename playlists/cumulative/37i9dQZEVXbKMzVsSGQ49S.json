@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 163809,
       "name": "Adrenal\u00edn",
       "url": "https://open.spotify.com/track/0CmT6Xj0zWpnX0RWhJARqQ"
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -4286,6 +4286,24 @@
       "duration_ms": 180426,
       "name": "Don\u2019t You Know",
       "url": "https://open.spotify.com/track/04woIMsNe3heO7JRgsR0cL"
+    },
+    {
+      "album": {
+        "name": "S\u00f6ngvakeppnin 2023",
+        "url": "https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd"
+      },
+      "artists": [
+        {
+          "name": "Celebs",
+          "url": "https://open.spotify.com/artist/6FX8zqZ4QQsnFduMkk0080"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175642,
+      "name": "Doomsday Dancing",
+      "url": "https://open.spotify.com/track/5P2d3or6TumevXtnDGOeqB"
     },
     {
       "album": {
@@ -6792,6 +6810,28 @@
       "duration_ms": 153244,
       "name": "GERI SIG FR\u00c6GA (feat. Herra Hnetusmj\u00f6r)",
       "url": "https://open.spotify.com/track/4p8133mAglBtWrr2smVm1p"
+    },
+    {
+      "album": {
+        "name": "Geridda",
+        "url": "https://open.spotify.com/album/2j8wTeBobG585FwRlwKj1h"
+      },
+      "artists": [
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        },
+        {
+          "name": "Izleifur",
+          "url": "https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166363,
+      "name": "Geridda",
+      "url": "https://open.spotify.com/track/56CImixrMsrjn7zbEf4wka"
     },
     {
       "album": {
@@ -15320,7 +15360,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 122070,
       "name": "PAINTING PICTURES",
       "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
@@ -18447,6 +18487,24 @@
     },
     {
       "album": {
+        "name": "S\u00f6ngvakeppnin 2023",
+        "url": "https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd"
+      },
+      "artists": [
+        {
+          "name": "BRAGI",
+          "url": "https://open.spotify.com/artist/6zDmSdnWH55mWy9oqqVEZE"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178746,
+      "name": "Sometimes The World's Against You",
+      "url": "https://open.spotify.com/track/5IdpBbnkOdAd0MiMikLqBT"
+    },
+    {
+      "album": {
         "name": "SPACE MAN",
         "url": "https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF"
       },
@@ -18942,7 +19000,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 182934,
       "name": "Stundum sn\u00fdst heimurinn gegn \u00fe\u00e9r",
       "url": "https://open.spotify.com/track/6yxe3mjWdK9hzDk61EG2ar"
@@ -21706,7 +21764,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"

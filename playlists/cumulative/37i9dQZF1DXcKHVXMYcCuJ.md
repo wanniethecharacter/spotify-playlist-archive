@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-318 songs - 19 hr 51 min
+319 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Drink the Sunshine](https://open.spotify.com/track/7CFu1EG7qOdp6IdXlVAkof) | [Symposium](https://open.spotify.com/artist/3YUqeikmjlNZDLLImxLPuq) | [One Day at a Time](https://open.spotify.com/album/2TJq6nTvk4gsnUlgwNsKN2) | 3:55 | 2022-11-02 | 2022-12-12 |
 | [Driveway to Driveway](https://open.spotify.com/track/1C65EMS98C2cnJZA5DEEq8) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish \(Remastered\)](https://open.spotify.com/album/1qmuiYImHKC0qwKQXH1U1O) | 4:41 | 2021-12-15 | 2022-07-29 |
 | [Driveway to Driveway](https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish](https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A) | 4:41 | 2022-06-23 |  |
-| [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 | 2021-12-15 |  |
+| [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 | 2021-12-15 | 2023-03-06 |
 | [Drugs](https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6) | [Ammonia](https://open.spotify.com/artist/1yaf2CGmvYuUIyrsL0GZOV) | [Mint 400](https://open.spotify.com/album/4A8BiSkjO2PvMBZAXHiSby) | 3:27 | 2021-12-15 |  |
 | [Empty Eyes](https://open.spotify.com/track/3Ct9bSfkgmX7MSMI6ZsqAf) | [Dead History](https://open.spotify.com/artist/719fbHkBe8sRhnokHm56Py) | [Dead History](https://open.spotify.com/album/3WdZpSVjNj5dnVKHDWqwux) | 3:43 | 2021-12-15 | 2022-07-29 |
 | [Encore](https://open.spotify.com/track/4LdImt7hg85uPpUOPKlLAy) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 2:45 | 2021-12-15 |  |
@@ -103,6 +103,7 @@
 | [Ghetto Blaster](https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [4 AM](https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq) | 5:02 | 2021-12-15 | 2023-01-06 |
 | [Ghost in the Mirror](https://open.spotify.com/track/2sxVGe2awPj7emt2btYnp1) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Asymmetry \(Deluxe\)](https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37) | 3:36 | 2022-04-15 |  |
 | [Glad That You're Gone](https://open.spotify.com/track/3zZhZxT1Rv2cgBSuGGElrL) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [Glad That You're Gone](https://open.spotify.com/album/1aYQKTRz4sQPvXXAkRZWSd) | 3:18 | 2021-12-15 | 2022-07-28 |
+| [Glorious Sunset](https://open.spotify.com/track/30ThXCf6ARvmaA89SjmNZi) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY) | 3:59 | 2023-02-27 |  |
 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 | 2023-01-25 | 2023-02-27 |
 | [Gold](https://open.spotify.com/track/4Kx4tZHPRKg7DVFeyh9xMA) | [Black Map](https://open.spotify.com/artist/6rCmNHjnotXZpGxnCM7tkq) | [...And We Explode](https://open.spotify.com/album/1xnNpamKRzpuKyF4pWNdZd) | 2:45 | 2021-12-15 | 2022-07-27 |
 | [Goldfinger](https://open.spotify.com/track/4Qtu0Y2KSnqwr5NJTDQX0C) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 4:31 | 2023-02-27 |  |

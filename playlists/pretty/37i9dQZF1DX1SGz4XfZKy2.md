@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,449 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,486 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 37 | [432hz Desert Pulse](https://open.spotify.com/track/0KQVSvwDuD7tWGbIqh9BGl) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Sounds from the Middle East](https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn) | 4:28 |
 | 38 | [Aseman](https://open.spotify.com/track/01cKqNr7bXthzoZg39sklw) | [Shahram Gholami](https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8) | [Persian Oud, Dirine Delkhah](https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4) | 5:04 |
 | 39 | [One day November](https://open.spotify.com/track/1wkF4uBhhP41Lm6CQpxKTS) | [Farhad Asadian](https://open.spotify.com/artist/1lVexJkMvQ6hs943AQ1j62) | [One day November](https://open.spotify.com/album/6HpOPx4W6b3gjZ84o9qzP8) | 4:30 |
-| 40 | [Ordibehesht](https://open.spotify.com/track/3wiiMG6DzG3B88FFfjpNbA) | [Soheil Mokhberi](https://open.spotify.com/artist/0tBKnYaIeoRQWpEPZs0eYm) | [Dorouj](https://open.spotify.com/album/60II2iJkFzrfi5E5b2Mfrj) | 5:52 |
-| 41 | [The Semuta Jig](https://open.spotify.com/track/4VoptqwF5p1nF5jRaLQH9m) | [Nava](https://open.spotify.com/artist/15QJPcEqdD3lc6zDhMOljR) | [Tapestry](https://open.spotify.com/album/3VzmfQJ0iuFxHC1T3AJ35N) | 5:13 |
+| 40 | [The Semuta Jig](https://open.spotify.com/track/4VoptqwF5p1nF5jRaLQH9m) | [Nava](https://open.spotify.com/artist/15QJPcEqdD3lc6zDhMOljR) | [Tapestry](https://open.spotify.com/album/3VzmfQJ0iuFxHC1T3AJ35N) | 5:13 |
+| 41 | [Ordibehesht](https://open.spotify.com/track/3wiiMG6DzG3B88FFfjpNbA) | [Soheil Mokhberi](https://open.spotify.com/artist/0tBKnYaIeoRQWpEPZs0eYm) | [Dorouj](https://open.spotify.com/album/60II2iJkFzrfi5E5b2Mfrj) | 5:52 |
 | 42 | [Jnan \(Interlude\)](https://open.spotify.com/track/5eIBJPx2AAeB4CzQOoViJ5) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Daba](https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R) | 0:46 |
 | 43 | [Lucent Path](https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 3:44 |
 | 44 | [Longing](https://open.spotify.com/track/4luIM6MFbBF3Dsf34hoDoa) | [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow), [Diwan Café](https://open.spotify.com/artist/33LAvkMX74zhQhtOskFavN), [Ousso Lotfy](https://open.spotify.com/artist/4DRl1RJuxljaIX29rTLDCg) | [Longing](https://open.spotify.com/album/6LcJnJHschmyhydB6AgpOI) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 59 | [Pause](https://open.spotify.com/track/7g3L86HLw2p9jXb3NPpMzD) | [Negâr Boubân](https://open.spotify.com/artist/16Tps1ORce0JdjrXbSx9mp) | [In Turn](https://open.spotify.com/album/6mxR9rdf3iF7HzTF6tsrPe) | 4:46 |
 | 60 | [Ikarus' Dream](https://open.spotify.com/track/4rgIn7tE7ZyC9HrxPYrQAz) | [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow) | [Flying Carpet](https://open.spotify.com/album/1Vep08NRl8GxaFy2BZrYxm) | 3:43 |
 
-Snapshot ID: `MTY3MDgzMTU4NCwwMDAwMDAwMDgzNDc5MjA4YjcxNTQwNTViNDdjMTgzNjAwZjAwYWE5`
+Snapshot ID: `MTY3MDgzMTU4NCwwMDAwMDAwMDEzNjk0NzcyNzUyNzU2OGQ2YTZmMDFlYzNjNDUxYWUx`

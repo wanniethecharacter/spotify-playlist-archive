@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 267804,
+  "num_followers": 267893,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDQxOWNhMmI4YjkxZGNjYWRmMmUxZjMwMjM4YWE4ZDU0",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGJmZDMwODE5YzNhMWQ0ZWM1MjdmZmQ5ZTUxN2U0M2Zk",
   "tracks": [
     {
       "added_at": "2022-04-01 04:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "(I\u2019m Gonna Get Over This) Some Day",
-      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Interstate Gospel",
         "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 174253,
       "name": "Got My Name Changed Back",
       "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "(I\u2019m Gonna Get Over This) Some Day",
+      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Like a Rose",
-        "url": "https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        }
-      ],
-      "duration_ms": 199923,
-      "name": "Weed Instead of Roses",
-      "url": "https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "My Gospel",
         "url": "https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 261730,
       "name": "I'll Be the One",
       "url": "https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Like a Rose",
+        "url": "https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "duration_ms": 199923,
+      "name": "Weed Instead of Roses",
+      "url": "https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Companion",
-      "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Jeremiah / Why\u2019d Ya Do It",
         "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 184558,
       "name": "Jeremiah",
       "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Companion",
+      "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
         }
       ],
-      "duration_ms": 228962,
-      "name": "I Feel Like Hank Williams Tonight",
-      "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
+      "duration_ms": 166231,
+      "name": "P-Town",
+      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1171,6 +1171,22 @@
       "duration_ms": 178973,
       "name": "Any Old Time",
       "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 228962,
+      "name": "I Feel Like Hank Williams Tonight",
+      "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 166231,
-      "name": "P-Town",
-      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Real Class Act",
         "url": "https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Broken Wing",
-        "url": "https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr"
-      },
-      "artists": [
-        {
-          "name": "Evil",
-          "url": "https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD"
-        }
-      ],
-      "duration_ms": 275114,
-      "name": "Broken Wing",
-      "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Silver Tears",
         "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 218641,
       "name": "Memphis Rain",
       "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Broken Wing",
+        "url": "https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr"
+      },
+      "artists": [
+        {
+          "name": "Evil",
+          "url": "https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD"
+        }
+      ],
+      "duration_ms": 275114,
+      "name": "Broken Wing",
+      "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "True Love's Face",
-        "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "True Love's Face",
-      "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Blue Kentucky Girl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "Family Reunion",
-        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
+        "name": "True Love's Face",
+        "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
       },
       "artists": [
         {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
         }
       ],
-      "duration_ms": 162697,
-      "name": "Dry Town",
-      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+      "duration_ms": 200480,
+      "name": "True Love's Face",
+      "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -1587,6 +1571,22 @@
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2022-04-01 04:00:00",
+      "album": {
+        "name": "Family Reunion",
+        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 162697,
+      "name": "Dry Town",
+      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
     },
     {
       "added_at": "2022-04-01 04:00:00",

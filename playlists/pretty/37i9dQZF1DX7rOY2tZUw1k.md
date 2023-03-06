@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rOY2tZUw1k.md) - [plain]
 
 > The ultimate romantic playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399,753 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,249 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

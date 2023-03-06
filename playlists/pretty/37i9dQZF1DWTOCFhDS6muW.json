@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 18309,
+  "num_followers": 18327,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMDVhMmY4YmQ0NTZiNzQwNTc4MDFjOTRhZWU1NGVjMmEz",
+  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMDcyYmZkMDZiODcyZTA4YjUyMzFiYzIzZjczYzFlZTE2",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -135,18 +135,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Punta Vibe",
-        "url": "https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f"
+        "name": "Batalla de las Puntas, Vol. 6",
+        "url": "https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T"
       },
       "artists": [
         {
-          "name": "Supa G",
-          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
+          "name": "La Gran Banda",
+          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
         }
       ],
-      "duration_ms": 193751,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ"
+      "duration_ms": 227813,
+      "name": "Mandele Gas",
+      "url": "https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -203,18 +203,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 6",
-        "url": "https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T"
+        "name": "Punta Vibe",
+        "url": "https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f"
       },
       "artists": [
         {
-          "name": "La Gran Banda",
-          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
+          "name": "Supa G",
+          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
         }
       ],
-      "duration_ms": 227813,
-      "name": "Mandele Gas",
-      "url": "https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe"
+      "duration_ms": 193751,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ"
     },
     {
       "added_at": "2020-05-26 15:53:13",

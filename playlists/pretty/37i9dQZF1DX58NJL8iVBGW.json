@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 542490,
+  "num_followers": 542685,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGQ3YWRjNjhhYzc0OWJkNWY4OGIxYTQwOTdhMmZhMzVh",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDhiZGI5NWRlNDdmN2NjNzE4ZGUxZGVjMGYzYTQ4MzE3",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/04Aq1J0F5FcUUSEhFziTYc"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Beat the Devil's Tattoo",
+      "url": "https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "King Arthur: Legend of the Sword (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1OVF4Ls0TgBVe8rMdUqcyz"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/04Aq1J0F5FcUUSEhFziTYc"
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
       "artists": [
         {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
         }
       ],
-      "duration_ms": 225760,
-      "name": "Beat the Devil's Tattoo",
-      "url": "https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG"
+      "duration_ms": 191000,
+      "name": "Fingers To The Bone",
+      "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -339,18 +355,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
       "artists": [
         {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Fingers To The Bone",
-      "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
+      "duration_ms": 156106,
+      "name": "Hades Pleads",
+      "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -367,22 +383,6 @@
       "duration_ms": 169254,
       "name": "Hammers and Nails",
       "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "Hades Pleads",
-      "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Things That Scare Me",
+      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 168066,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Blacklisted",
-        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "Things That Scare Me",
-      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
-      },
-      "artists": [
-        {
-          "name": "Bellstop",
-          "url": "https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 279733,
       "name": "Too Dry To Cry",
       "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
+      },
+      "artists": [
+        {
+          "name": "Bellstop",
+          "url": "https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Oh, Willie, Please...",
+        "url": "https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3"
+      },
+      "artists": [
+        {
+          "name": "Vandaveer",
+          "url": "https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A"
+        }
+      ],
+      "duration_ms": 228958,
+      "name": "Pretty Polly",
+      "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Anna & Elizabeth",
         "url": "https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 158533,
       "name": "Boy Got It Bad",
       "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Oh, Willie, Please...",
-        "url": "https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3"
-      },
-      "artists": [
-        {
-          "name": "Vandaveer",
-          "url": "https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A"
-        }
-      ],
-      "duration_ms": 228958,
-      "name": "Pretty Polly",
-      "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
+        "name": "I Am The Man Thomas",
+        "url": "https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8"
       },
       "artists": [
         {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+          "name": "The Devil Makes Three",
+          "url": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte"
         }
       ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
+      "duration_ms": 159101,
+      "name": "I Am The Man Thomas",
+      "url": "https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "I Am The Man Thomas",
-        "url": "https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8"
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
       "artists": [
         {
-          "name": "The Devil Makes Three",
-          "url": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte"
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
         }
       ],
-      "duration_ms": 159101,
-      "name": "I Am The Man Thomas",
-      "url": "https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK"
+      "duration_ms": 239093,
+      "name": "Saint Elizabeth",
+      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "A Mountain Is a Mouth",
-        "url": "https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH"
-      },
-      "artists": [
-        {
-          "name": "Bruce Peninsula",
-          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
-        }
-      ],
-      "duration_ms": 156706,
-      "name": "Crabapples",
-      "url": "https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 177359,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "A Mountain Is a Mouth",
+        "url": "https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH"
+      },
+      "artists": [
+        {
+          "name": "Bruce Peninsula",
+          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
+        }
+      ],
+      "duration_ms": 156706,
+      "name": "Crabapples",
+      "url": "https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh"
     },
     {
       "added_at": "2022-06-06 19:18:28",

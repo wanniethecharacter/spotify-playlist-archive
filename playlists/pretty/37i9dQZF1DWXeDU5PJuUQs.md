@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Los Palmeras & Axel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,749 likes - 64 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,861 likes - 64 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 56 | [Quiero Yo Saber \(Donde Esta El Amor\)](https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:13 |
 | 57 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
 | 58 | [Mi Condena \- En Vivo](https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Vivo](https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6) | 3:00 |
-| 59 | [Vamos A Bailar](https://open.spotify.com/track/3hV51n3q3lA9cZfsIYe6xt) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI) | 4:58 |
-| 60 | [La Ultima Cancion \- En Vivo](https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0) | 2:04 |
+| 59 | [La Ultima Cancion \- En Vivo](https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0) | 2:04 |
+| 60 | [Vamos A Bailar](https://open.spotify.com/track/3hV51n3q3lA9cZfsIYe6xt) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI) | 4:58 |
 | 61 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Cartucho](https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 3:15 |
 | 62 | [Te Hubieras Ido Antes \- En Vivo](https://open.spotify.com/track/1C3dp1xXzJjc9eUrWZ6QBv) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Los Forasteros](https://open.spotify.com/artist/6qBJpxk1RBoWp8XeYy8BmU) | [Te Hubieras Ido Antes \(En Vivo\)](https://open.spotify.com/album/1eCVJ8ZIMQ0OoC6TGBFleh) | 3:33 |
 | 63 | [Por Una Vez En La Vida \- En Vivo en el Luna Park](https://open.spotify.com/track/3DRk2Yf5JmNHAE6raUxrCo) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Por Una Vez En La Vida \(En Vivo en el Luna Park\)](https://open.spotify.com/album/6sEgcs4dMOP0yZc3ygcNBT) | 4:24 |
 | 64 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 |
 
-Snapshot ID: `MTY3Nzg3NDE3MSwwMDAwMDAwMDEzM2E5NTY0NTdmNTJjMjc1ZTk4ODQwNGE2NmY3OGEy`
+Snapshot ID: `MTY3Nzg3NDE3MSwwMDAwMDAwMDU1OWY0ZmE5MjY1ZDBiZGIzZmMzNjQ1ZTRiNmIxOGMz`

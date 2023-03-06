@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Verifiziert
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,776 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,474 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Love](https://open.spotify.com/track/5X0PDEd9BQIMrVPBeVQvS0) | [Lil\-K](https://open.spotify.com/artist/79hts1H3bhswabKZPnX9jB) | [My Love](https://open.spotify.com/album/0ptwsotnVJ0o53NHutCREC) | 3:02 |
+| 1 | [Ты и я](https://open.spotify.com/track/5nlkcDrfFsMBfaVcGXZWVT) | [SDM Nation](https://open.spotify.com/artist/6K1saPnrT3Gz5vo8WeKTWo), [Label C5](https://open.spotify.com/artist/08xb1eqJnQSE2SDLwnMKPC) | [Ты и я](https://open.spotify.com/album/1vp1JeGhZCBbb2JoLkIXDo) | 3:02 |
 | 2 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 |
 | 3 | [Hör mal mein Herz <3…](https://open.spotify.com/track/4TVTKtOqCfx9MIckLwSfca) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Hör mal mein Herz <3…](https://open.spotify.com/album/5uACPYkV733Y98ZHQE6QMA) | 1:26 |
 | 4 | [One Call away <3](https://open.spotify.com/track/0c1NsAvtTncDw7TlPB7Nkh) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [adhs](https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Eislaufen](https://open.spotify.com/track/60VPXRz8whne8goYlXmMpe) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN), [Sick & Tired](https://open.spotify.com/artist/2kg0dvxtCnkrfP7vf39w4D) | [Eislaufen](https://open.spotify.com/album/08nPh3jAfcmfxLS4cEZu5R) | 2:29 |
 | 100 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 
-Snapshot ID: `MTY3NzgzODI0MiwwMDAwMDAwMDc3OTQ4Y2RlMjliY2VlYWIyMDI0ZWFhOTY3MTYzYjMy`
+Snapshot ID: `MTY3NzgzODI0MiwwMDAwMDAwMGVkMjgwMjdlZWI4ODdiYWE4ODQyZmI0MDUzNjE5Njc5`

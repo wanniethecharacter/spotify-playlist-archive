@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Polodared, Royal 44, Fleeky Bang, YEOHO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,562 likes - 123 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,634 likes - 123 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

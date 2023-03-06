@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-189 songs - 11 hr 0 min
+190 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/track/5gpFpZOZ67HfKpwjZeQMkf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Charlotte Dipanda](https://open.spotify.com/artist/3qt4OYC2CeOuVjKtzGMobL) | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/album/0qLNkh0AwO8ospd87D4jxe) | 7:40 | 2022-12-02 | 2023-01-20 |
 | [Gbona](https://open.spotify.com/track/2Q20eWqSnV519ybPThUDWs) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Gbona](https://open.spotify.com/album/3OJY4Z5s479HvoAlwAOQRn) | 3:07 | 2021-10-11 | 2022-02-25 |
 | [Gidi](https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Gidi](https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt) | 2:47 | 2022-02-24 | 2022-10-14 |
-| [Gimme Love](https://open.spotify.com/track/7JWHJ6QRppXwwVpKs2iTYD) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Gimme Love](https://open.spotify.com/album/1cylbIhsALcS2cPOzCDvSb) | 3:52 | 2023-01-19 |  |
+| [Gimme Love](https://open.spotify.com/track/09fsj6ZZGs6mSeeuWFM788) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Soul Tropical](https://open.spotify.com/album/0G8qxLCQc0ZVAR1RKOYhDm) | 3:52 | 2023-03-03 |  |
+| [Gimme Love](https://open.spotify.com/track/7JWHJ6QRppXwwVpKs2iTYD) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Gimme Love](https://open.spotify.com/album/1cylbIhsALcS2cPOzCDvSb) | 3:52 | 2023-01-19 | 2023-03-06 |
 | [Give Me Love](https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:46 | 2023-02-16 |  |
 | [Glory \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/0D9Bnm77CkYlzpZijEKFuy) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:51 | 2022-07-07 | 2022-12-02 |
 | [Glory \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/0z8uQ7o34HDoRU02Cz26d1) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:51 | 2022-07-07 | 2022-07-29 |

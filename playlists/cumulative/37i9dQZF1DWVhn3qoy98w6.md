@@ -4,7 +4,7 @@
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Raimundo el Canastero.
 
-1,816 songs - 4 day 0 hr 28 min
+1,817 songs - 4 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,8 @@
 | [Chuche](https://open.spotify.com/track/25uroDtjvY0h1hXYmwaCmw) | [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [Chuche](https://open.spotify.com/album/7mMVhYDElmdcsELRexhYEP) | 2:08 | 2023-01-03 | 2023-01-11 |
 | [CiELO](https://open.spotify.com/track/3ENtenJ8VYQOgUgfTmdMQj) | [Ziris](https://open.spotify.com/artist/5Nn2PiwKStd9p9sCB6IyK9), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [CiELO](https://open.spotify.com/album/2h3taGncccCu4jJdFnqcIx) | 2:20 | 2023-01-10 | 2023-01-18 |
 | [Ciencia Ficción](https://open.spotify.com/track/1EwEHYVYkotmMaavmzAWXN) | [MALAFÉ](https://open.spotify.com/artist/14yhjUOuZ8fjIznI4QRDQ6), [Loli K](https://open.spotify.com/artist/2NkPZRB0RXMh5kncvkFjJQ) | [Ciencia Ficción](https://open.spotify.com/album/7I2l0L3ZsWCBAryiTE9HWC) | 3:34 | 2022-04-19 | 2022-04-27 |
-| [Cienmásuno](https://open.spotify.com/track/1dczyqiqhdSTX62OKvWsOI) | [Los Manises](https://open.spotify.com/artist/2PcGHnMXzeRbAsAZEIGLIh) | [Cienmásuno](https://open.spotify.com/album/2UrUtlb1OTc2moIX9tEUki) | 3:51 | 2023-02-28 |  |
+| [Cienmásuno](https://open.spotify.com/track/1dczyqiqhdSTX62OKvWsOI) | [Los Manises](https://open.spotify.com/artist/2PcGHnMXzeRbAsAZEIGLIh) | [Cienmásuno](https://open.spotify.com/album/2UrUtlb1OTc2moIX9tEUki) | 3:51 | 2023-02-28 | 2023-03-06 |
+| [Cienmásuno](https://open.spotify.com/track/5P9WjD2rH5l91AzFssHU8B) | [Los Manises](https://open.spotify.com/artist/2PcGHnMXzeRbAsAZEIGLIh) | [Todas Son Correctas](https://open.spotify.com/album/5deSxwaaBVnFHSOMaLWqaB) | 3:51 | 2023-02-28 |  |
 | [Cierra la boca](https://open.spotify.com/track/13KvNZHUUXIu1sudgpWPRM) | [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [Cierra la boca](https://open.spotify.com/album/5Bre8f44kL0865M5yKG17G) | 1:58 | 2022-11-22 | 2022-12-01 |
 | [Cierra xfa al salir](https://open.spotify.com/track/6Wz1kOfguv8Pxf4FeXsGMG) | [Tomás Roca](https://open.spotify.com/artist/7tUu2H6RCutqIgP88lLLpw) | [Cierra xfa al salir](https://open.spotify.com/album/1rghrvsgzLiB10PMRFMBf7) | 3:14 | 2022-02-08 | 2022-02-24 |
 | [CIUDAD 0, CIUDAD 1](https://open.spotify.com/track/2KrOCHeg7aiu5o1j8tzWmF) | [Laura Llera](https://open.spotify.com/artist/4toikQjmtZORLVE5oYZ8ej), [Mumbai Moon](https://open.spotify.com/artist/46n3zvHyU1ch6l6rFS9iQb) | [CIUDAD 0, CIUDAD 1](https://open.spotify.com/album/0odHo6NaatHMw2mGKqbjqW) | 3:33 | 2022-10-11 | 2022-10-26 |

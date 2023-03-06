@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Youth Lagoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,669 likes - 174 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,814 likes - 174 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 40 | [worth it](https://open.spotify.com/track/0j7cIOFS3nNTZyzkAuS2Rm) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Worth It](https://open.spotify.com/album/0awide22MyLQ6uMiFUzAFY) | 3:43 |
 | 41 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 |
 | 42 | [Would It Kill Ya](https://open.spotify.com/track/3KeqB89usi14NMN0QZ1GkZ) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Would It Kill Ya](https://open.spotify.com/album/5vxy0bh4A9ZiFpsAqmoa4f) | 2:45 |
-| 43 | [Vega](https://open.spotify.com/track/5iIFSRXjZ9lGGM9aACqyqP) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Vega](https://open.spotify.com/album/4DkMvuihJAlQHRAFdA6Rr3) | 3:23 |
+| 43 | [Vega](https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Music for the Future](https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm) | 3:23 |
 | 44 | [He Loves Me \(He Loves Me Not\)](https://open.spotify.com/track/4n9zRMC8orbZ8P53Hosi1A) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [He Loves Me \(He Loves Me Not\)](https://open.spotify.com/album/2sacTpbnFo7I9qUu91F1fc) | 3:51 |
 | 45 | [Starlight](https://open.spotify.com/track/6I7FMBBW5HTzOLQdW8S8Fj) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [Starlight](https://open.spotify.com/album/178AogD4KE27DekV3bpYHX) | 4:52 |
 | 46 | [American Blues](https://open.spotify.com/track/1YK4aRy8To5utgCR9YPczT) | [Varju](https://open.spotify.com/artist/5uCNbWBRebH8Si8AzJ5gIT) | [American Blues](https://open.spotify.com/album/1aToXLOFdeJneG5joVHMMy) | 2:36 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 173 | [Sick of Being Young](https://open.spotify.com/track/0B2K9f0kVANUarmZNHcTLw) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Sick of Being Young](https://open.spotify.com/album/6o8iNwAFCq5jcZm05ERIv6) | 2:59 |
 | 174 | [Highwire Days](https://open.spotify.com/track/1W3bzGF3V7mLGDa3cfYGpF) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Highwire Days](https://open.spotify.com/album/3EsY0dzU2ZGH15VC7MbwTi) | 3:38 |
 
-Snapshot ID: `MTY3NzkwNjIzMywwMDAwMDAwMDg4NTNkZDBjY2Y2NzM3NzBhYWVmNzQ0YmRmMjY3NTA1`
+Snapshot ID: `MTY3NzkwNjIzMywwMDAwMDAwMDk0ZjAyMGEyZjgxNjliMDM4Y2MwMjhjYTUyYTA5Mzcy`

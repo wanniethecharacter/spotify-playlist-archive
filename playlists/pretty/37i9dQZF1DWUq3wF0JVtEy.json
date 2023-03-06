@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 897560,
+  "num_followers": 897822,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDRhOTVjNTIyMjYwMzBjNjA3OGEyMzMzMDc5M2FhOTlh",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDIzMTU4N2U3N2NmYjc4ZjNjNGEzNDE5NDFjNTQ1Njg1",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -455,22 +455,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Lipstick (feat. Robbie Rise)",
-        "url": "https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7"
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
       },
       "artists": [
         {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Robbie Rise",
-          "url": "https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A"
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
         }
       ],
-      "duration_ms": 226615,
-      "name": "Lipstick (feat. Robbie Rise)",
-      "url": "https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw"
+      "duration_ms": 163124,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -507,22 +507,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
+        "name": "Lipstick (feat. Robbie Rise)",
+        "url": "https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
         },
         {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+          "name": "Robbie Rise",
+          "url": "https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A"
         }
       ],
-      "duration_ms": 163124,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
+      "duration_ms": 226615,
+      "name": "Lipstick (feat. Robbie Rise)",
+      "url": "https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Losing My Head",
-        "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 189289,
-      "name": "Losing My Head",
-      "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Wish He Knew",
         "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 157500,
       "name": "Wish He Knew",
       "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Losing My Head",
+        "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Losing My Head",
+      "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1183,26 +1183,26 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Your Body",
-        "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
       },
       "artists": [
         {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         },
         {
-          "name": "Famba",
-          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
+          "name": "Angemi",
+          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
         },
         {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
+          "name": "Laura White",
+          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
         }
       ],
-      "duration_ms": 165120,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
+      "duration_ms": 160047,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1227,26 +1227,26 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
       },
       "artists": [
         {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
         },
         {
-          "name": "Angemi",
-          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
+          "name": "Famba",
+          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
         },
         {
-          "name": "Laura White",
-          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
+          "name": "Kyra Mastro",
+          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
         }
       ],
-      "duration_ms": 160047,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38"
+      "duration_ms": 165120,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Goodies - Knock2 Remix",
+        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Goodies - Knock2 Remix",
+      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Kush",
         "url": "https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr"
       },
@@ -1399,26 +1419,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        },
-        {
-          "name": "Jake Tarry",
-          "url": "https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r"
-        }
-      ],
-      "duration_ms": 144677,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Gotta Let U Go",
         "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
       },
@@ -1435,6 +1435,26 @@
       "duration_ms": 149219,
       "name": "Gotta Let U Go",
       "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Jake Tarry",
+          "url": "https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r"
+        }
+      ],
+      "duration_ms": 144677,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1475,6 +1495,26 @@
       "duration_ms": 180480,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 141897,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1611,26 +1651,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Grimestar",
         "url": "https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt"
       },
@@ -1683,22 +1703,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Goodies - Knock2 Remix",
-        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
+        "name": "Cathedral (Piece Of Me) [feat. JEN]",
+        "url": "https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
         },
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "JEN",
+          "url": "https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx"
         }
       ],
-      "duration_ms": 209523,
-      "name": "Goodies - Knock2 Remix",
-      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
+      "duration_ms": 148809,
+      "name": "Cathedral (Piece Of Me) [feat. JEN]",
+      "url": "https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1723,26 +1743,6 @@
       "duration_ms": 201093,
       "name": "Broke Bitch",
       "url": "https://open.spotify.com/track/3Ay4JbFCfh7q7RIUScJQ1v"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Cathedral (Piece Of Me) [feat. JEN]",
-        "url": "https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        },
-        {
-          "name": "JEN",
-          "url": "https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx"
-        }
-      ],
-      "duration_ms": 148809,
-      "name": "Cathedral (Piece Of Me) [feat. JEN]",
-      "url": "https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1911,42 +1911,42 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Make a Living",
-        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/1W09O51MifKfx4XAl851q9"
       },
       "artists": [
         {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
         },
         {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
         }
       ],
-      "duration_ms": 177798,
-      "name": "Make a Living",
-      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
+      "duration_ms": 171076,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa"
     },
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/2d2ED1cEdtypHWeJR9RxOl"
+        "name": "It Doesn't Matter",
+        "url": "https://open.spotify.com/album/60pKd4GWa9RYzVRspilfHg"
       },
       "artists": [
         {
-          "name": "DallasK",
-          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
         },
         {
-          "name": "Dark Heart",
-          "url": "https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy"
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
         }
       ],
-      "duration_ms": 176632,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/55f2O4I6eZ8GLCinoWRF6y"
+      "duration_ms": 144922,
+      "name": "It Doesn't Matter",
+      "url": "https://open.spotify.com/track/5I9JYEaXmKsrHlXsnvNYjd"
     }
   ],
   "unique_name": "Shuffle Syndrome",

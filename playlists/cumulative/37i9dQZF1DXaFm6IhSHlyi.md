@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-240 songs - 15 hr 7 min
+241 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Alone](https://open.spotify.com/track/1pMJC3hRbJGIs3Qz6gjssl) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [From Midnight To Sunrise](https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8) | 4:24 | 2021-11-19 | 2022-07-29 |
 | [Alone](https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [From Midnight To Sunrise](https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h) | 4:24 | 2022-06-16 |  |
 | [Amazing](https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Amazing](https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC) | 3:25 | 2021-11-19 | 2022-12-13 |
-| [Ana Mesh Magroha](https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ana Mesh Magroha](https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI) | 2:35 | 2021-11-19 |  |
+| [Ana Mesh Magroha](https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ana Mesh Magroha](https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI) | 2:35 | 2021-11-19 | 2023-03-06 |
 | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS) | [Steph](https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i) | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN) | 4:32 | 2021-11-19 |  |
 | [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 | 2022-06-16 |  |
 | [Asal Mein](https://open.spotify.com/track/1StFDfq4raRws97W8Wb3QS) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein \- Single](https://open.spotify.com/album/3yFJOvXHvK0pgCllEWAyPV) | 3:44 | 2021-11-19 | 2022-07-29 |
@@ -178,6 +178,7 @@
 | [Stay Alive](https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:01 | 2022-06-16 |  |
 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 | 2021-11-19 |  |
 | [Stories](https://open.spotify.com/track/012l55g2dZOVMOZsF3ebbI) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 2:58 | 2022-08-16 | 2023-03-01 |
+| [Stories](https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [Stories](https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI) | 2:58 | 2022-10-17 |  |
 | [stuck in the friendzone](https://open.spotify.com/track/1kaLHit6xNoaR1PkuKPfT1) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [stuck in the friendzone](https://open.spotify.com/album/1c7TvxeGfHzoBlkQ3y5Fq3) | 2:57 | 2022-06-09 |  |
 | [Sumpah](https://open.spotify.com/track/7si2OcSkjkmTwuJu18b3NX) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Sumpah](https://open.spotify.com/album/0xv6KpP2RPfHd7Y1VTMxBL) | 3:50 | 2021-11-19 |  |
 | [Sunset](https://open.spotify.com/track/27srzsrTPJ2KiABGZ0rP5a) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J) | 3:36 | 2021-11-19 | 2022-07-29 |

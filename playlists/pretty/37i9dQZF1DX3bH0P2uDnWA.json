@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 332348,
+  "num_followers": 332546,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDI2YzZlYjkyMmZmODk1NzM1ZDg3MWFlZTNjZWFmYmE4",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDBjNzkxZDk2NmE0MDM1ZDg3ZjU0Yjc1YTYyY2FmMDhm",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8"
     },
     {
-      "added_at": "2022-11-11 17:00:00",
-      "album": {
-        "name": "Rum & Coke",
-        "url": "https://open.spotify.com/album/7o1x33fQlvcSDmlxhbr78P"
-      },
-      "artists": [
-        {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        }
-      ],
-      "duration_ms": 157229,
-      "name": "Rum & Coke",
-      "url": "https://open.spotify.com/track/72c1SNHSVF0nC6ajCDQN3B"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Big Bad Wolf",
@@ -423,6 +407,22 @@
       "duration_ms": 190615,
       "name": "Big Bad Wolf",
       "url": "https://open.spotify.com/track/7hX8gTlr7zENGb5imnIahE"
+    },
+    {
+      "added_at": "2022-11-11 17:00:00",
+      "album": {
+        "name": "Rum & Coke",
+        "url": "https://open.spotify.com/album/7o1x33fQlvcSDmlxhbr78P"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 157229,
+      "name": "Rum & Coke",
+      "url": "https://open.spotify.com/track/72c1SNHSVF0nC6ajCDQN3B"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Show Breaks",
-        "url": "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
-      },
-      "artists": [
-        {
-          "name": "AlgoRythmik",
-          "url": "https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe"
-        }
-      ],
-      "duration_ms": 218796,
-      "name": "Andrew's Break",
-      "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Still Dancing",
         "url": "https://open.spotify.com/album/6eOQ7cXX85wKgIx5S69Ma3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 198453,
       "name": "Still Dancing",
       "url": "https://open.spotify.com/track/39R88egli2YgXq1omv1Io7"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Show Breaks",
+        "url": "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
+      },
+      "artists": [
+        {
+          "name": "AlgoRythmik",
+          "url": "https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe"
+        }
+      ],
+      "duration_ms": 218796,
+      "name": "Andrew's Break",
+      "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -945,26 +945,6 @@
       "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "The Cat Came Back",
-        "url": "https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx"
-      },
-      "artists": [
-        {
-          "name": "Luca Lento",
-          "url": "https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh"
-        },
-        {
-          "name": "Bdd",
-          "url": "https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "The Cat Came Back - Bdd Remix Edit",
-      "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
-    },
-    {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "Parla pi\u00f9 piano / In cerca di te",
@@ -983,6 +963,26 @@
       "duration_ms": 168387,
       "name": "Parla pi\u00f9 piano / In cerca di te - Electro Swing Mix",
       "url": "https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Cat Came Back",
+        "url": "https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx"
+      },
+      "artists": [
+        {
+          "name": "Luca Lento",
+          "url": "https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh"
+        },
+        {
+          "name": "Bdd",
+          "url": "https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "The Cat Came Back - Bdd Remix Edit",
+      "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1017,38 +1017,6 @@
       "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Merry-Go-Round-And-Round",
-        "url": "https://open.spotify.com/album/3yXw16nAl3qa0f4egmHdXd"
-      },
-      "artists": [
-        {
-          "name": "The Fly Guy Five",
-          "url": "https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8"
-        }
-      ],
-      "duration_ms": 120761,
-      "name": "Extra Fries",
-      "url": "https://open.spotify.com/track/556y7EL1trkqGtevzn8684"
-    },
-    {
-      "added_at": "2021-04-02 04:01:00",
-      "album": {
-        "name": "Get This (Bang Bang)",
-        "url": "https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        }
-      ],
-      "duration_ms": 225728,
-      "name": "Get This (Bang Bang)",
-      "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Vintage Vibes",
@@ -1067,6 +1035,38 @@
       "duration_ms": 202946,
       "name": "Hep Cat Boogie",
       "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
+        "name": "Get This (Bang Bang)",
+        "url": "https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "duration_ms": 225728,
+      "name": "Get This (Bang Bang)",
+      "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Merry-Go-Round-And-Round",
+        "url": "https://open.spotify.com/album/3yXw16nAl3qa0f4egmHdXd"
+      },
+      "artists": [
+        {
+          "name": "The Fly Guy Five",
+          "url": "https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8"
+        }
+      ],
+      "duration_ms": 120761,
+      "name": "Extra Fries",
+      "url": "https://open.spotify.com/track/556y7EL1trkqGtevzn8684"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1197,6 +1197,22 @@
       "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "1925",
+        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "1925",
+      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
+    },
+    {
       "added_at": "2022-11-07 16:43:23",
       "album": {
         "name": "Watch Your Tongue",
@@ -1215,22 +1231,6 @@
       "duration_ms": 178320,
       "name": "Watch Your Tongue",
       "url": "https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "1925",
-        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
-      },
-      "artists": [
-        {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "1925",
-      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1285,20 +1285,20 @@
       "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
+      "added_at": "2021-02-19 05:01:00",
       "album": {
-        "name": "Speed Dating An Arsonist",
-        "url": "https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9"
+        "name": "Bongo Chic",
+        "url": "https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052"
       },
       "artists": [
         {
-          "name": "Diablo Swing Orchestra",
-          "url": "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          "name": "Minimatic",
+          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
         }
       ],
-      "duration_ms": 330893,
-      "name": "Speed Dating An Arsonist",
-      "url": "https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK"
+      "duration_ms": 231724,
+      "name": "The Jungle Jive",
+      "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -1315,22 +1315,6 @@
       "duration_ms": 227127,
       "name": "Big Blue Swing",
       "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
-    },
-    {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "Bongo Chic",
-        "url": "https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052"
-      },
-      "artists": [
-        {
-          "name": "Minimatic",
-          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "The Jungle Jive",
-      "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1351,6 +1335,22 @@
       "duration_ms": 186000,
       "name": "My 20s Woman",
       "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Speed Dating An Arsonist",
+        "url": "https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9"
+      },
+      "artists": [
+        {
+          "name": "Diablo Swing Orchestra",
+          "url": "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+        }
+      ],
+      "duration_ms": 330893,
+      "name": "Speed Dating An Arsonist",
+      "url": "https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK"
     }
   ],
   "unique_name": "Electro Swing",

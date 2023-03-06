@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Carlos & Jos\u00e9 en portada.",
-  "num_followers": 463684,
+  "num_followers": 464256,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ3ODE5NiwwMDAwMDAwMGJiOGVkNjYzYjk2MGQwMzgwNzUwZDRlMzA0OWNjZGYx",
+  "snapshot_id": "MTY0NzQ3ODE5NiwwMDAwMDAwMDE1NjFjZGQyMzBhMjM0YWZiM2RlMzNkYTMxNDZjM2Q2",
   "tracks": [
     {
       "added_at": "2022-03-17 00:49:56",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Serie Diamante- 15 S\u00faper \u00c9xitos",
-        "url": "https://open.spotify.com/album/1zMXzVHd4GCImZciz4Qf1n"
-      },
-      "artists": [
-        {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "No Me Conoces A\u00fan",
-      "url": "https://open.spotify.com/track/27OazZsnF6N1Hp75pCmBNI"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 163680,
       "name": "Apenas Te Fuistes Ayer",
       "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Serie Diamante- 15 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/1zMXzVHd4GCImZciz4Qf1n"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "No Me Conoces A\u00fan",
+      "url": "https://open.spotify.com/track/27OazZsnF6N1Hp75pCmBNI"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "30 Primeros Exitos",
-        "url": "https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf"
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
       },
       "artists": [
         {
-          "name": "Los Dinamicos Del Norte",
-          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
         }
       ],
-      "duration_ms": 217600,
-      "name": "Amigos Tuve Una Novia",
-      "url": "https://open.spotify.com/track/3Q5URFgTK8gBA7EwsSlatW"
+      "duration_ms": 184200,
+      "name": "Tu Delirio",
+      "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
+        "name": "30 Primeros Exitos",
+        "url": "https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf"
       },
       "artists": [
         {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+          "name": "Los Dinamicos Del Norte",
+          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
         }
       ],
-      "duration_ms": 184200,
-      "name": "Tu Delirio",
-      "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
+      "duration_ms": 217600,
+      "name": "Amigos Tuve Una Novia",
+      "url": "https://open.spotify.com/track/3Q5URFgTK8gBA7EwsSlatW"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "30 Primeros Exitos",
-        "url": "https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamicos Del Norte",
-          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Alta Y Delgadita",
-      "url": "https://open.spotify.com/track/2oF3tfZb9B0xS9ilXzc65D"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Colgado De Un \u00c1rbol (Remasterizado)",
         "url": "https://open.spotify.com/album/4h1FfxVfSqI7HI8ZHaoZJH"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
+        "name": "Norte\u00f1o",
+        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 145449,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/6ZUtg3ihWxuWGFVrEaPzRd"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
         "name": "Pu\u00f1o De Tierra",
         "url": "https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Norte\u00f1o",
-        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/20Sd7w6ZX6SrPHi9XEpaNj"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Los Rancheritos Del Topo Chico",
+          "url": "https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv"
         }
       ],
-      "duration_ms": 145449,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/6ZUtg3ihWxuWGFVrEaPzRd"
+      "duration_ms": 195226,
+      "name": "Chiquilla cari\u00f1osa",
+      "url": "https://open.spotify.com/track/4fxTowTk8mm3l3gfgypQ38"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/20Sd7w6ZX6SrPHi9XEpaNj"
+        "name": "30 Primeros Exitos",
+        "url": "https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf"
       },
       "artists": [
         {
-          "name": "Los Rancheritos Del Topo Chico",
-          "url": "https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv"
+          "name": "Los Dinamicos Del Norte",
+          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
         }
       ],
-      "duration_ms": 195226,
-      "name": "Chiquilla cari\u00f1osa",
-      "url": "https://open.spotify.com/track/4fxTowTk8mm3l3gfgypQ38"
+      "duration_ms": 185373,
+      "name": "Alta Y Delgadita",
+      "url": "https://open.spotify.com/track/2oF3tfZb9B0xS9ilXzc65D"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Norte\u00f1o",
-        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 145575,
-      "name": "Ojitos De Golondrina",
-      "url": "https://open.spotify.com/track/0IaCGBaevs1R7EMagCf8d5"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 147240,
       "name": "El Disgusto",
       "url": "https://open.spotify.com/track/4iqtAVs3kzqqPCri14en3D"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Norte\u00f1o",
+        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 145575,
+      "name": "Ojitos De Golondrina",
+      "url": "https://open.spotify.com/track/0IaCGBaevs1R7EMagCf8d5"
     },
     {
       "added_at": "2022-03-17 00:49:56",

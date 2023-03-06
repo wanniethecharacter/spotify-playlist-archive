@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 253392,
+  "num_followers": 254033,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5NzU0NiwwMDAwMDAwMDNjYjRjNjQ1N2UzMmJkYjc0Y2I5NjM3OTU5YjA0OTFi",
+  "snapshot_id": "MTY3NzU5NzU0NiwwMDAwMDAwMDg1NmVmZjE5ZmZkYjlmNGM4NDk1MWI0ZTFmOTFhMDhk",
   "tracks": [
     {
       "added_at": "2023-02-28 15:19:06",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-02-28 15:19:06",
       "album": {
-        "name": "Chante Prevert",
-        "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Les feuilles mortes",
-      "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
-    },
-    {
-      "added_at": "2023-02-28 15:19:06",
-      "album": {
         "name": "Bossa Nova",
         "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 170186,
       "name": "Samba Saravah",
       "url": "https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn"
+    },
+    {
+      "added_at": "2023-02-28 15:19:06",
+      "album": {
+        "name": "Chante Prevert",
+        "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Les feuilles mortes",
+      "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
     },
     {
       "added_at": "2023-02-28 15:19:06",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-02-28 15:19:06",
       "album": {
-        "name": "Hoping for Love",
-        "url": "https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e"
-      },
-      "artists": [
-        {
-          "name": "Isabelle Antena",
-          "url": "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Le Poisson Des Mers Du Sud",
-      "url": "https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY"
-    },
-    {
-      "added_at": "2023-02-28 15:19:06",
-      "album": {
         "name": "Rendez Vous",
         "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 217880,
       "name": "Le Temps Qui Passe",
       "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
+    },
+    {
+      "added_at": "2023-02-28 15:19:06",
+      "album": {
+        "name": "Hoping for Love",
+        "url": "https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Antena",
+          "url": "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Le Poisson Des Mers Du Sud",
+      "url": "https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY"
     },
     {
       "added_at": "2023-02-28 15:19:06",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-02-28 15:19:06",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
-        }
-      ],
-      "duration_ms": 146253,
-      "name": "La fille d'Ipanema",
-      "url": "https://open.spotify.com/track/54HjqZdYLyQTirAJTieAnx"
-    },
-    {
-      "added_at": "2023-02-28 15:19:06",
-      "album": {
         "name": "Lovely Difficult",
         "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 227026,
       "name": "Les mots d'amour",
       "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
+    },
+    {
+      "added_at": "2023-02-28 15:19:06",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 146253,
+      "name": "La fille d'Ipanema",
+      "url": "https://open.spotify.com/track/54HjqZdYLyQTirAJTieAnx"
     },
     {
       "added_at": "2023-02-28 15:19:06",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-02-28 15:19:06",
       "album": {
-        "name": "Le Temps D'un Jazz",
-        "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
-      },
-      "artists": [
-        {
-          "name": "DANIEL ROURE",
-          "url": "https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Le Temps D'Un Jazz",
-      "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
-    },
-    {
-      "added_at": "2023-02-28 15:19:06",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 111626,
       "name": "\u00c7a valait la peine",
       "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
+    },
+    {
+      "added_at": "2023-02-28 15:19:06",
+      "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Comme s'il en pleuvait",
+      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
     },
     {
       "added_at": "2023-02-28 15:19:06",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-02-28 15:19:06",
       "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
+        "name": "Le Temps D'un Jazz",
+        "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
       },
       "artists": [
         {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+          "name": "DANIEL ROURE",
+          "url": "https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO"
         }
       ],
-      "duration_ms": 222800,
-      "name": "Comme s'il en pleuvait",
-      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
+      "duration_ms": 233653,
+      "name": "Le Temps D'Un Jazz",
+      "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
     },
     {
       "added_at": "2023-02-28 15:19:06",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-02-28 15:19:06",
       "album": {
-        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
-        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
-      },
-      "artists": [
-        {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
-        }
-      ],
-      "duration_ms": 193586,
-      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
-      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
-    },
-    {
-      "added_at": "2023-02-28 15:19:06",
-      "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2023-02-28 15:19:06",
       "album": {
-        "name": "Jamais Seule",
-        "url": "https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY"
+        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
+        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
       },
       "artists": [
         {
-          "name": "Loane",
-          "url": "https://open.spotify.com/artist/1tuckVFkV6REMXZr5IQP19"
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
         }
       ],
-      "duration_ms": 187280,
-      "name": "Aim\u00e9",
-      "url": "https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ"
+      "duration_ms": 193586,
+      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
+      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
     },
     {
       "added_at": "2023-02-28 15:19:06",
@@ -1359,6 +1343,22 @@
       "duration_ms": 197480,
       "name": "Plus je t'embrasse",
       "url": "https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En"
+    },
+    {
+      "added_at": "2023-02-28 15:19:06",
+      "album": {
+        "name": "Jamais Seule",
+        "url": "https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY"
+      },
+      "artists": [
+        {
+          "name": "Loane",
+          "url": "https://open.spotify.com/artist/1tuckVFkV6REMXZr5IQP19"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Aim\u00e9",
+      "url": "https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ"
     },
     {
       "added_at": "2023-02-28 15:19:06",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-02-28 15:19:06",
       "album": {
-        "name": "Quelqu'un m'a dit",
-        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "Chanson triste",
-      "url": "https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om"
-    },
-    {
-      "added_at": "2023-02-28 15:19:06",
-      "album": {
         "name": "Paris Blues",
         "url": "https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 222840,
       "name": "Nuages - Studio recording",
       "url": "https://open.spotify.com/track/0ZozgJKoZhGJbkAtKzmzzM"
+    },
+    {
+      "added_at": "2023-02-28 15:19:06",
+      "album": {
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "Chanson triste",
+      "url": "https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om"
     },
     {
       "added_at": "2023-02-28 15:19:06",

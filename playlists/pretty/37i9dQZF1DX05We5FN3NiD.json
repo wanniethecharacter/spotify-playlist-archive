@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 35400,
+  "num_followers": 35448,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwNDAxNiwwMDAwMDAwMGFlNzc2NTNjNmExNDY0MTI5Y2JlYzZmYjYyNTI1OThm",
+  "snapshot_id": "MTY2MzMwNDAxNiwwMDAwMDAwMDNiZDBmYWFmMWFkOWRjZWU5YmU4YjJlNWNmYWY0OWY0",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -67,22 +67,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "YKWIM?",
-      "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 237800,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "YKWIM?",
+      "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Jinx",
-        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 126120,
-      "name": "Ghostride",
-      "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 288595,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 126120,
+      "name": "Ghostride",
+      "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "yikes!",
-        "url": "https://open.spotify.com/album/6Tu5CCCBJvyF0x6BQuzj0G"
-      },
-      "artists": [
-        {
-          "name": "Sophie Cates",
-          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
-        }
-      ],
-      "duration_ms": 200701,
-      "name": "drinking games",
-      "url": "https://open.spotify.com/track/1uE4onkFvDXyBjIGsu9PZ5"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 367093,
       "name": "Not",
       "url": "https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "yikes!",
+        "url": "https://open.spotify.com/album/6Tu5CCCBJvyF0x6BQuzj0G"
+      },
+      "artists": [
+        {
+          "name": "Sophie Cates",
+          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
+        }
+      ],
+      "duration_ms": 200701,
+      "name": "drinking games",
+      "url": "https://open.spotify.com/track/1uE4onkFvDXyBjIGsu9PZ5"
     },
     {
       "added_at": "2022-09-16 04:53:36",

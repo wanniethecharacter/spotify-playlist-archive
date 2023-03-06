@@ -1,12 +1,12 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Philip Ariaz, El Clooy",
-  "num_followers": 358344,
+  "num_followers": 358591,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0NjE1NiwwMDAwMDAwMDdhMjY1ZmJkYTBiZmVhNjYyODNjN2U3YjRiNDgyNmY3",
+  "snapshot_id": "MTY3Nzg0NjE1NiwwMDAwMDAwMDM1YTc4NTk5NWJhMDkzMWUzODA3YTIwY2U4NTQ0YTY1",
   "tracks": [
     {
       "added_at": "2023-03-03 12:22:36",
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-03-03 12:22:36",
       "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
-    },
-    {
-      "added_at": "2023-03-03 12:22:36",
-      "album": {
         "name": "Loca Remix",
         "url": "https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 346460,
       "name": "Loca - Remix",
       "url": "https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne"
+    },
+    {
+      "added_at": "2023-03-03 12:22:36",
+      "album": {
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2023-03-03 12:22:36",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2023-03-03 12:22:36",
       "album": {
-        "name": "Tu Gato Bellaco (Remix)",
-        "url": "https://open.spotify.com/album/6JNQ7Gic3xnJI40wG6keLy"
-      },
-      "artists": [
-        {
-          "name": "Milo Mae",
-          "url": "https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP"
-        },
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Tu Gato Bellaco - Remix",
-      "url": "https://open.spotify.com/track/6eB74UiUNkI7JJBhhr3Y6C"
-    },
-    {
-      "added_at": "2023-03-03 12:22:36",
-      "album": {
         "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
         "url": "https://open.spotify.com/album/4PTxbJPI4jj0Kx8hwr1v0T"
       },
@@ -1459,26 +1439,6 @@
       "duration_ms": 192745,
       "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
       "url": "https://open.spotify.com/track/6FuGJB290AQMAHTfjOYVaK"
-    },
-    {
-      "added_at": "2023-03-03 12:22:36",
-      "album": {
-        "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
-        "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 192698,
-      "name": "Carita de Inocente (feat. Myke Towers) - Remix",
-      "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
     },
     {
       "added_at": "2023-03-03 12:22:36",
@@ -1519,30 +1479,42 @@
     {
       "added_at": "2023-03-03 12:22:36",
       "album": {
-        "name": "Si T\u00fa Te Vas (feat. Yung Beef) [Remix]",
-        "url": "https://open.spotify.com/album/06if2TD3XBlZsDAg8OS9ch"
+        "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
+        "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
       },
       "artists": [
         {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         },
         {
-          "name": "Khaled",
-          "url": "https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K"
-        },
-        {
-          "name": "Kaydy Cain",
-          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 215600,
-      "name": "Si T\u00fa Te Vas (feat. Yung Beef) - Remix",
-      "url": "https://open.spotify.com/track/5cp1Nx2K3FUWIH6Rzt8u33"
+      "duration_ms": 192698,
+      "name": "Carita de Inocente (feat. Myke Towers) - Remix",
+      "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
+    },
+    {
+      "added_at": "2023-03-03 12:22:36",
+      "album": {
+        "name": "Tu Gato Bellaco (Remix)",
+        "url": "https://open.spotify.com/album/6JNQ7Gic3xnJI40wG6keLy"
+      },
+      "artists": [
+        {
+          "name": "Milo Mae",
+          "url": "https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP"
+        },
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Tu Gato Bellaco - Remix",
+      "url": "https://open.spotify.com/track/6eB74UiUNkI7JJBhhr3Y6C"
     },
     {
       "added_at": "2023-03-03 12:22:36",
@@ -1627,6 +1599,34 @@
     {
       "added_at": "2023-03-03 12:22:36",
       "album": {
+        "name": "Si T\u00fa Te Vas (feat. Yung Beef) [Remix]",
+        "url": "https://open.spotify.com/album/06if2TD3XBlZsDAg8OS9ch"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K"
+        },
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Si T\u00fa Te Vas (feat. Yung Beef) - Remix",
+      "url": "https://open.spotify.com/track/5cp1Nx2K3FUWIH6Rzt8u33"
+    },
+    {
+      "added_at": "2023-03-03 12:22:36",
+      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -1687,30 +1687,6 @@
     {
       "added_at": "2023-03-03 12:22:36",
       "album": {
-        "name": "2:50 Remix",
-        "url": "https://open.spotify.com/album/0hbwAcjGBGP2gutKpQHA8d"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 231708,
-      "name": "2:50 Remix",
-      "url": "https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy"
-    },
-    {
-      "added_at": "2023-03-03 12:22:36",
-      "album": {
         "name": "LA TERAPIA REMIX",
         "url": "https://open.spotify.com/album/6Kppd5kRaSfosl6UFXJqjC"
       },
@@ -1755,6 +1731,30 @@
     {
       "added_at": "2023-03-03 12:22:36",
       "album": {
+        "name": "2:50 Remix",
+        "url": "https://open.spotify.com/album/0hbwAcjGBGP2gutKpQHA8d"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 231708,
+      "name": "2:50 Remix",
+      "url": "https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy"
+    },
+    {
+      "added_at": "2023-03-03 12:22:36",
+      "album": {
         "name": "Caramelo (Remix)",
         "url": "https://open.spotify.com/album/7wwKVRpLdSYASP6dMDrLXQ"
       },
@@ -1779,30 +1779,26 @@
     {
       "added_at": "2023-03-03 12:22:36",
       "album": {
-        "name": "Soy Peor Remix",
-        "url": "https://open.spotify.com/album/059FBKRSxDxaHsk8xzfOUM"
+        "name": "FUMETEO (Remix)",
+        "url": "https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 315846,
-      "name": "Soy Peor - Remix",
-      "url": "https://open.spotify.com/track/1RijmOnza5p9CzaFKr8W1Y"
+      "duration_ms": 214880,
+      "name": "FUMETEO - Remix",
+      "url": "https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3"
     },
     {
       "added_at": "2023-03-03 12:22:36",
@@ -1851,26 +1847,30 @@
     {
       "added_at": "2023-03-03 12:22:36",
       "album": {
-        "name": "FUMETEO (Remix)",
-        "url": "https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD"
+        "name": "Soy Peor Remix",
+        "url": "https://open.spotify.com/album/059FBKRSxDxaHsk8xzfOUM"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 214880,
-      "name": "FUMETEO - Remix",
-      "url": "https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3"
+      "duration_ms": 315846,
+      "name": "Soy Peor - Remix",
+      "url": "https://open.spotify.com/track/1RijmOnza5p9CzaFKr8W1Y"
     },
     {
       "added_at": "2023-03-03 12:22:36",
@@ -1935,6 +1935,30 @@
     {
       "added_at": "2023-03-03 12:22:36",
       "album": {
+        "name": "Monumento (Remix)",
+        "url": "https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 208622,
+      "name": "Monumento - Remix",
+      "url": "https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws"
+    },
+    {
+      "added_at": "2023-03-03 12:22:36",
+      "album": {
         "name": "Travesuras (Remix)",
         "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
       },
@@ -1967,30 +1991,6 @@
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
-    },
-    {
-      "added_at": "2023-03-03 12:22:36",
-      "album": {
-        "name": "Monumento (Remix)",
-        "url": "https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 208622,
-      "name": "Monumento - Remix",
-      "url": "https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws"
     },
     {
       "added_at": "2023-03-03 12:22:36",
@@ -2103,30 +2103,6 @@
     {
       "added_at": "2023-03-03 12:22:36",
       "album": {
-        "name": "Prende la C\u00e1mara RMX",
-        "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 212629,
-      "name": "Prende la C\u00e1mara RMX",
-      "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
-    },
-    {
-      "added_at": "2023-03-03 12:22:36",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -2151,6 +2127,30 @@
       "duration_ms": 240365,
       "name": "Miss Lonely - Dimelo Flow Remix",
       "url": "https://open.spotify.com/track/1ndlOUUT3Eq1SDCSdKJASw"
+    },
+    {
+      "added_at": "2023-03-03 12:22:36",
+      "album": {
+        "name": "Prende la C\u00e1mara RMX",
+        "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 212629,
+      "name": "Prende la C\u00e1mara RMX",
+      "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
     }
   ],
   "unique_name": "Remixes Urbanos",

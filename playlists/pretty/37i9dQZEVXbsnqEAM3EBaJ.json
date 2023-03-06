@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5NjM1NDAsMDAwMDAwMDAxYWZiYjQwZWQyNDJjYWQ4N2E1Y2EwNWRjMWU1MDExMg==",
+  "snapshot_id": "Mjc5NjM1NDAsMDAwMDAwMDA1MmFjMGNlYmU3MGYxZjY2YWQzM2FkNmZmNjAyMDRmYg==",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Once Upon A Dramedy",
-        "url": "https://open.spotify.com/album/0CSqksehyVIMM7NFYhB5dG"
-      },
-      "artists": [
-        {
-          "name": "Klas Johan Wahl",
-          "url": "https://open.spotify.com/artist/74PUwAcMdO3wVdx10gmdB5"
-        },
-        {
-          "name": "Anders Paul Niska",
-          "url": "https://open.spotify.com/artist/4SHiUAYQytdFCjR5j8t7fI"
-        }
-      ],
-      "duration_ms": 122548,
-      "name": "L'Chaim!",
-      "url": "https://open.spotify.com/track/0ksVGwexpfFFXCGQcAEGda"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Almost Heaven (Live 1982)",
         "url": "https://open.spotify.com/album/6mRYJBKXgeJkNKH9IUz6eg"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 188226,
       "name": "Here Comes the Sun - Acoustic",
       "url": "https://open.spotify.com/track/41cpdd5Hvy577Ta7HV8FuV"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Once Upon A Dramedy",
+        "url": "https://open.spotify.com/album/0CSqksehyVIMM7NFYhB5dG"
+      },
+      "artists": [
+        {
+          "name": "Klas Johan Wahl",
+          "url": "https://open.spotify.com/artist/74PUwAcMdO3wVdx10gmdB5"
+        },
+        {
+          "name": "Anders Paul Niska",
+          "url": "https://open.spotify.com/artist/4SHiUAYQytdFCjR5j8t7fI"
+        }
+      ],
+      "duration_ms": 122548,
+      "name": "L'Chaim!",
+      "url": "https://open.spotify.com/track/0ksVGwexpfFFXCGQcAEGda"
     },
     {
       "added_at": "2023-03-03 03:00:00",

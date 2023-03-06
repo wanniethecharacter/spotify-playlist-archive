@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Karley Scott Collins
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,586 likes - 138 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,620 likes - 138 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

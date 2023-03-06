@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Hugo & Guilherme, DJ Biel do Furduncinho com Gloria Groove, Israel & Rodolffo com Mari Fernandez, Tropkillaz com Sango e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,843,035 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,843,520 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

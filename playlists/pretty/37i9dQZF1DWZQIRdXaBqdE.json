@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 340983,
+  "num_followers": 341229,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMGRlZDI3YzhhZWE0NDFlZmI4YWVkY2ZjMWYyZDRjMmFh",
+  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMDU5OTBkNGY1NDA1NzVkMWQwMzU2MWMxNDkyMTAwMDIx",
   "tracks": [
     {
       "added_at": "2022-05-06 19:37:58",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
+        "name": "The Best Of Sammi Smith",
+        "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
       },
       "artists": [
         {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+          "name": "Sammi Smith",
+          "url": "https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS"
         }
       ],
-      "duration_ms": 156293,
-      "name": "Take This Job and Shove It",
-      "url": "https://open.spotify.com/track/4XbxeoBeQnwpsyJyZEMoWc"
+      "duration_ms": 155533,
+      "name": "Help Me Make It Through The Night",
+      "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -803,34 +803,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "The Best Of Sammi Smith",
-        "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
       },
       "artists": [
         {
-          "name": "Sammi Smith",
-          "url": "https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS"
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
         }
       ],
-      "duration_ms": 155533,
-      "name": "Help Me Make It Through The Night",
-      "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
-        "name": "Too Cold At Home",
-        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
-      },
-      "artists": [
-        {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Brother Jukebox",
-      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+      "duration_ms": 156293,
+      "name": "Take This Job and Shove It",
+      "url": "https://open.spotify.com/track/4XbxeoBeQnwpsyJyZEMoWc"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -855,6 +839,22 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "Too Cold At Home",
+        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
+      },
+      "artists": [
+        {
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Brother Jukebox",
+      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "The Oak Ridge Boys Have Arrived",
         "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
+        "name": "Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
       },
       "artists": [
         {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
         }
       ],
-      "duration_ms": 174666,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
+      "duration_ms": 200493,
+      "name": "Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "Sentimentally Yours",
         "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 181800,
       "name": "She's Got You - Single Version",
       "url": "https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
-        "name": "Rose Colored Glasses",
-        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
-      },
-      "artists": [
-        {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Rose Colored Glasses",
-      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "When I Dream",
+        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "Talking In Your Sleep",
+      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "The Best Of Jimmy Dean",
         "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
       },
@@ -1211,6 +1227,22 @@
       "duration_ms": 182560,
       "name": "Big Bad John",
       "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "The Complete Capitol Hits Of Faron Young",
+        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
+      },
+      "artists": [
+        {
+          "name": "Faron Young",
+          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Hello Walls",
+      "url": "https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1231,22 +1263,6 @@
       "duration_ms": 204386,
       "name": "You're The Reason God Made Oklahoma",
       "url": "https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
-        "name": "The Complete Capitol Hits Of Faron Young",
-        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
-      },
-      "artists": [
-        {
-          "name": "Faron Young",
-          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Hello Walls",
-      "url": "https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "When I Dream",
-        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "Talking In Your Sleep",
-      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Chiseled In Stone",
         "url": "https://open.spotify.com/album/5uiVA8AloRMncawS0H1cJP"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "The Family's Fine, But This One's All Mine!",
-        "url": "https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469"
-      },
-      "artists": [
-        {
-          "name": "David Frizzell",
-          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "I'm Gonna Hire A Wino To Decorate Our Home",
-      "url": "https://open.spotify.com/track/5KW0yv8MLurjPifL8pajWn"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 200640,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/5pdKPY4O9CHuzDDp557j4N"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "The Family's Fine, But This One's All Mine!",
+        "url": "https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469"
+      },
+      "artists": [
+        {
+          "name": "David Frizzell",
+          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
+        }
+      ],
+      "duration_ms": 237306,
+      "name": "I'm Gonna Hire A Wino To Decorate Our Home",
+      "url": "https://open.spotify.com/track/5KW0yv8MLurjPifL8pajWn"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Anne Murray The Best Of...So Far - 20 Greatest Hits",
-        "url": "https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Could I Have This Dance",
-      "url": "https://open.spotify.com/track/7BCgPuJDZgPwOv1E4p6Cvq"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Best Of The Bellamy Brothers",
         "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 247040,
       "name": "Old Hippie",
       "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Anne Murray The Best Of...So Far - 20 Greatest Hits",
+        "url": "https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Could I Have This Dance",
+      "url": "https://open.spotify.com/track/7BCgPuJDZgPwOv1E4p6Cvq"
     },
     {
       "added_at": "2022-05-06 19:37:58",

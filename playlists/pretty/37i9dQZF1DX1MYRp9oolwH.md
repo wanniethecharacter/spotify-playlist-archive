@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,277 likes - 67 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,489 likes - 67 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

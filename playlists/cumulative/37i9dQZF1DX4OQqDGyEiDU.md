@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-468 songs - 1 day 2 hr 59 min
+469 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,8 +284,9 @@
 | [パラサイト](https://open.spotify.com/track/3nMZzgFVIIn9gH6BELlnO6) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [パラサイト](https://open.spotify.com/album/4RqyeNSVWthESSg676MKLr) | 2:45 | 2022-06-09 | 2022-07-27 |
 | [パラジクロロベンゼン](https://open.spotify.com/track/4wrFd2UDughQCsI4CMN9eQ) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ベンゼン\\\(^o^\)/](https://open.spotify.com/album/3ARyqgrYYrF5tcQU3i9HJZ) | 3:54 | 2022-07-05 | 2022-07-10 |
 | [パラジクロロベンゼン](https://open.spotify.com/track/301Ji2sLSGNSVatuDqRFPH) | [ガルナ\(オワタP\)](https://open.spotify.com/artist/57viXASNaJr5242v2OUGCd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:36 | 2022-06-09 | 2022-07-29 |
+| [ヒアソビ \(feat\. 初音ミク\)](https://open.spotify.com/track/6TaOHCEjas8b3Mm4tNZ31g) | [Camellia](https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M) | [ヒアソビ](https://open.spotify.com/album/7MaDGgu25WmGSSh4JZn22X) | 4:05 | 2023-02-28 |  |
 | [ヒガン](https://open.spotify.com/track/6ar2xVifUQwjHXyRGThlrw) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ミゼラブル](https://open.spotify.com/album/352noHeM2Iq8h1EcguExNC) | 3:34 | 2022-06-14 | 2022-07-07 |
-| [ヒトサマアレルギー](https://open.spotify.com/track/781eCm44DxjVZiln6OjN9G) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [一期一会](https://open.spotify.com/album/0AwjkkarpsHafMLm4om94j) | 3:18 | 2023-02-23 |  |
+| [ヒトサマアレルギー](https://open.spotify.com/track/781eCm44DxjVZiln6OjN9G) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [一期一会](https://open.spotify.com/album/0AwjkkarpsHafMLm4om94j) | 3:18 | 2023-02-23 | 2023-03-06 |
 | [ヒトサマアレルギー](https://open.spotify.com/track/5wzZpasFh4cOfFA8LbBMcB) | [かいりきベア feat.flower](https://open.spotify.com/artist/18pfezVicJROB7KoWV74Mc) | [一期一会](https://open.spotify.com/album/5R9hc0gwV3pBoiyz0jM3BM) | 3:18 | 2022-06-09 | 2022-07-28 |
 | [ヒバナ \-Reloaded\-](https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:26 | 2022-06-23 |  |
 | [ヒール](https://open.spotify.com/track/0sXDadhHOfTMgOWITjV3Hk) | [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [ヒール](https://open.spotify.com/album/4BzabrfUSNVwqqTU3TJ1Qx) | 3:40 | 2022-06-14 | 2022-07-29 |

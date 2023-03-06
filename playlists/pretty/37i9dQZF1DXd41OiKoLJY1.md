@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: NICHIMI, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,839 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,868 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 9 | [Bigla Kang Nawala](https://open.spotify.com/track/3dtKiaSfjbbzRyMQ4IVYKr) | [YooGo](https://open.spotify.com/artist/0C2UMiL7SHWJFBvrdGzdn7) | [Bigla Kang Nawala](https://open.spotify.com/album/0zV7fagucKSeoBGkiAtU4Y) | 3:23 |
 | 10 | [Panig](https://open.spotify.com/track/3OSi0DpXKd3VTKXVMEWGWL) | [Zyrus Gonzalvo](https://open.spotify.com/artist/54SktmFr8sMHqp1nQ9FIvN), [David Amarillo](https://open.spotify.com/artist/2YJOOuuXBLdG1ZKOzsxTxO) | [Panig](https://open.spotify.com/album/1VwtWqX40kRWFMmHmKEqMN) | 3:11 |
 | 11 | [Sweet Sixteen](https://open.spotify.com/track/4ughMxm8mF5jKGnQSOmrbd) | [ghen.](https://open.spotify.com/artist/5zpcDVAl7cn1EnYecqlOdi) | [Sweet Sixteen](https://open.spotify.com/album/3vytKtXrzd2RYNy9vGVju2) | 3:52 |
-| 12 | [HIGH](https://open.spotify.com/track/4eqTWC7u1Lo7xyIBx7hOCk) | [Terrance Léon](https://open.spotify.com/artist/67kRfcAw9AD699mlppY11H), [DJ Nicar](https://open.spotify.com/artist/55UMFd9r0qGYgueJPE93tW) | [HIGH](https://open.spotify.com/album/0Uesor45Wv0dci693n6WlI) | 2:36 |
+| 12 | [HIGH](https://open.spotify.com/track/4eqTWC7u1Lo7xyIBx7hOCk) | [Terrence Léon](https://open.spotify.com/artist/1faJFMrWV8RaqP9E9kmXHI), [DJ Nicar](https://open.spotify.com/artist/55UMFd9r0qGYgueJPE93tW) | [HIGH](https://open.spotify.com/album/0Uesor45Wv0dci693n6WlI) | 2:36 |
 | 13 | [WINNERS](https://open.spotify.com/track/5bvDOy9c414Kr5hd8NUaTW) | [$leepyHead](https://open.spotify.com/artist/1yTuGfjk4ijlf6W7NjpOlm) | [WINNERS](https://open.spotify.com/album/2tToaCUeDsPQwQSbY680ru) | 3:26 |
 | 14 | [21](https://open.spotify.com/track/70KUHzLVIHFvY3NnYHbBoU) | [reevxs](https://open.spotify.com/artist/2dH6JX7w7SFjd0EqGcwBJq) | [21](https://open.spotify.com/album/1QwpAHSMPKQQPdtPER8LT2) | 3:03 |
 | 15 | [Amber](https://open.spotify.com/track/6I72sIKUaCg6A3AJlwxPzy) | [NIQUE](https://open.spotify.com/artist/1WQe45y6Y82CVCdADvv1v9) | [Amber](https://open.spotify.com/album/2CocxbPkV3ILvWXcQNWFwU) | 2:26 |

@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Lojay",
-  "num_followers": 187828,
+  "num_followers": 187994,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1NDQ5NiwwMDAwMDAwMDg5OTkxMzRiYWQ3ZjBiZGVjODcwNTUwZDYwNjgxOTI5",
+  "snapshot_id": "MTY3Nzg1NDQ5NiwwMDAwMDAwMDg4ZjI0MjgwM2MyMTViOGQwNDE4ZWYxOGM3MzExZjlj",
   "tracks": [
     {
       "added_at": "2023-02-24 07:29:53",
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/5ydzXyCRG9AUq9w8pIf0Uc"
     },
     {
-      "added_at": "2023-03-05 00:45:52",
+      "added_at": "2023-03-06 00:54:32",
       "album": {
         "name": "Ouu Ahh",
         "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-02-24 07:29:53",
       "album": {
-        "name": "MOTO",
-        "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
+        "name": "Pheelz Good EP",
+        "url": "https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
         }
       ],
-      "duration_ms": 178579,
-      "name": "MOTO",
-      "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
+      "duration_ms": 170097,
+      "name": "Pheelz Like Summer",
+      "url": "https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q"
     },
     {
       "added_at": "2023-02-24 07:29:53",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-02-24 07:29:53",
       "album": {
+        "name": "MOTO",
+        "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 178579,
+      "name": "MOTO",
+      "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
+    },
+    {
+      "added_at": "2023-02-24 07:29:53",
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 168742,
       "name": "woman",
       "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2023-02-24 07:29:53",
-      "album": {
-        "name": "Pheelz Good EP",
-        "url": "https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 170097,
-      "name": "Pheelz Like Summer",
-      "url": "https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q"
     },
     {
       "added_at": "2023-02-24 07:29:53",
@@ -623,6 +623,22 @@
       "duration_ms": 177000,
       "name": "Fashion Killer",
       "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
+    },
+    {
+      "added_at": "2023-02-24 07:29:53",
+      "album": {
+        "name": "Stand By You",
+        "url": "https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 175792,
+      "name": "Stand By You",
+      "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
     },
     {
       "added_at": "2023-02-24 07:29:53",
@@ -695,22 +711,6 @@
     {
       "added_at": "2023-02-24 07:29:53",
       "album": {
-        "name": "Stand By You",
-        "url": "https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 175792,
-      "name": "Stand By You",
-      "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
-    },
-    {
-      "added_at": "2023-02-24 07:29:53",
-      "album": {
         "name": "Bad Since '97",
         "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-02-24 07:29:53",
       "album": {
+        "name": "AWAY",
+        "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "AWAY",
+      "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
+    },
+    {
+      "added_at": "2023-02-24 07:29:53",
+      "album": {
         "name": "Riddim 5",
         "url": "https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV"
       },
@@ -823,34 +839,22 @@
     {
       "added_at": "2023-02-24 07:29:53",
       "album": {
-        "name": "AWAY",
-        "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "AWAY",
-      "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
-    },
-    {
-      "added_at": "2023-02-24 07:29:53",
-      "album": {
-        "name": "Last Name",
-        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
-      },
-      "artists": [
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
         {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 121544,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
       "added_at": "2023-02-24 07:29:53",
@@ -875,22 +879,18 @@
     {
       "added_at": "2023-02-24 07:29:53",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+        "name": "Last Name",
+        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
         }
       ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+      "duration_ms": 121544,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
     },
     {
       "added_at": "2023-02-24 07:29:53",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-02-24 07:29:53",
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 175504,
-      "name": "you",
-      "url": "https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ"
-    },
-    {
-      "added_at": "2023-02-24 07:29:53",
-      "album": {
         "name": "Many Man - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 190621,
       "name": "Many Man - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+    },
+    {
+      "added_at": "2023-02-24 07:29:53",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "you",
+      "url": "https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ"
     },
     {
       "added_at": "2023-02-24 07:29:53",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-02-24 07:29:53",
       "album": {
-        "name": "Antidote (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "Antidote (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
-    },
-    {
-      "added_at": "2023-02-24 07:29:53",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 174117,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+    },
+    {
+      "added_at": "2023-02-24 07:29:53",
+      "album": {
+        "name": "Antidote (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Antidote (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
     },
     {
       "added_at": "2023-02-24 07:29:53",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-02-24 07:29:53",
       "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 208163,
-      "name": "Culture",
-      "url": "https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL"
-    },
-    {
-      "added_at": "2023-02-24 07:29:53",
-      "album": {
         "name": "Unconditionally",
         "url": "https://open.spotify.com/album/6oiBC8br4masllouRuOdP7"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 197227,
       "name": "Unconditionally",
       "url": "https://open.spotify.com/track/2Wa67iymOfKbetMWP2uYiV"
+    },
+    {
+      "added_at": "2023-02-24 07:29:53",
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL"
     },
     {
       "added_at": "2023-02-24 07:29:53",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-02-24 07:29:53",
       "album": {
-        "name": "My Only Baby",
-        "url": "https://open.spotify.com/album/0eWaXC5Yxcwjf4ieDMFUI9"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        }
-      ],
-      "duration_ms": 158069,
-      "name": "My Only Baby",
-      "url": "https://open.spotify.com/track/6ZF8NhfpndsCZeCW20i3AH"
-    },
-    {
-      "added_at": "2023-02-24 07:29:53",
-      "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 213580,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF"
+    },
+    {
+      "added_at": "2023-02-24 07:29:53",
+      "album": {
+        "name": "My Only Baby",
+        "url": "https://open.spotify.com/album/0eWaXC5Yxcwjf4ieDMFUI9"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 158069,
+      "name": "My Only Baby",
+      "url": "https://open.spotify.com/track/6ZF8NhfpndsCZeCW20i3AH"
     },
     {
       "added_at": "2023-02-24 07:29:53",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-02-24 07:29:53",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/0iQ6qfTr8QTT2w05C7CmuV"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 174587,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/1Gm3jwEy0cx0souTcRGEby"
-    },
-    {
-      "added_at": "2023-02-24 07:29:53",
-      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 179828,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv"
+    },
+    {
+      "added_at": "2023-02-24 07:29:53",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/0iQ6qfTr8QTT2w05C7CmuV"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 174587,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/1Gm3jwEy0cx0souTcRGEby"
     }
   ],
   "unique_name": "Ginger Me",

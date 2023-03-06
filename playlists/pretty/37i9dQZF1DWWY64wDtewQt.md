@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,553,052 likes - 98 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,563,846 likes - 98 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 19 | [Disaster's End](https://open.spotify.com/track/6QdHwnhlwUuJggJLMDoTMm) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster's End](https://open.spotify.com/album/28Wdk0CLM78i9xk7kpc8tF) | 2:21 |
 | 20 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 |
 | 21 | [SUPERIOR](https://open.spotify.com/track/5ZBIcXCuSKMbVEImXkReA8) | [FXRR](https://open.spotify.com/artist/18Aa5fsiPr4pXRAwezZN6i), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [SUPERIOR](https://open.spotify.com/album/4AZ37pTtG98HhTJdoWSHHO) | 1:44 |
-| 22 | [COWBELL GOTH](https://open.spotify.com/track/5jI7JAn4KnCYwDaqwumdzP) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/2idbWu0Hfggy19r33ZFjqh) | 2:21 |
+| 22 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 |
 | 23 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 |
 | 24 | [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 |
 | 25 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 97 | [DAMAGE](https://open.spotify.com/track/2YSm6BI1oDJwBayq3ey1QG) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DAMAGE](https://open.spotify.com/album/3ZBmbk49nEavSEHQ1ZZyv7) | 2:21 |
 | 98 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
 
-Snapshot ID: `MTY3Nzg2NTMxMywwMDAwMDAwMDZiNjk1NDkxOTk1OTM2NmQ4MGU5MTM3NWNjM2I1NDg3`
+Snapshot ID: `MTY3Nzg2NTMxMywwMDAwMDAwMDU4NjQxMDEwZTJjZGYzNzRiOTE5N2Y2OGFiZDcxNDQ3`

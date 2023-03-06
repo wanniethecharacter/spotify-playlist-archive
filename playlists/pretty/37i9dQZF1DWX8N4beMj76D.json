@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 8482,
+  "num_followers": 8488,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGZlNmM1Y2E0MTA0MmYxNTllNzJlYWM1ZDJmZDg0MGJh",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGE1YjJjNjM0Y2QxODJhYTUyMTFiZWE3ZTU3NWQ0YTJl",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -91,22 +91,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "One of Us Cannot Be Wrong",
-      "url": "https://open.spotify.com/track/2fmeEE8cOgVqUDU9foMVTj"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 248213,
       "name": "Hey, That's No Way to Say Goodbye",
       "url": "https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "One of Us Cannot Be Wrong",
+      "url": "https://open.spotify.com/track/2fmeEE8cOgVqUDU9foMVTj"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -309,6 +309,22 @@
       "url": "https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs"
     },
     {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Hymns of the 49th Parallel",
+        "url": "https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX"
+      },
+      "artists": [
+        {
+          "name": "k.d. lang",
+          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
+        }
+      ],
+      "duration_ms": 268733,
+      "name": "Bird on a Wire",
+      "url": "https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "You Want It Darker",
@@ -327,22 +343,6 @@
       "duration_ms": 304680,
       "name": "You Want It Darker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Hymns of the 49th Parallel",
-        "url": "https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX"
-      },
-      "artists": [
-        {
-          "name": "k.d. lang",
-          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
-        }
-      ],
-      "duration_ms": 268733,
-      "name": "Bird on a Wire",
-      "url": "https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2"
     },
     {
       "added_at": "2018-12-06 19:29:22",

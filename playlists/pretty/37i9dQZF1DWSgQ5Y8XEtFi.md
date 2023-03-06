@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,326 likes - 30 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,635 likes - 30 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,6 +37,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 27 | [Dat $tick](https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Dat $tick](https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA) | 2:06 |
 | 28 | [Sanjuro](https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:07 |
 | 29 | [Dead Shot \(with Lil Uzi Vert\)](https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:01 |
-| 30 | [Stadiums](https://open.spotify.com/track/5Sqya98MFN0RHN2oglnTTX) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [Stadiums](https://open.spotify.com/album/40F5ywKIXAvpWHrsRc0Ufo) | 2:52 |
+| 30 | [Rocket](https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe) | [Sogno](https://open.spotify.com/album/78mE3XmvNzocqHLzFj5CCG) | 1:46 |
 
-Snapshot ID: `MTY3NzU0MDAwNCwwMDAwMDAwMGQ1MjBiODliMTk3MzdjMjkyOWRkN2Q1MDM2MzU3NjNh`
+Snapshot ID: `MTY3NzU0MDAwNCwwMDAwMDAwMDdmY2RlZTE1YjJlY2QzZjdhNzQyY2E1MzQxM2I3ZWFl`

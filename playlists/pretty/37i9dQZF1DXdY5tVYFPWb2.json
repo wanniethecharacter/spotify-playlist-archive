@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 135482,
+  "num_followers": 135593,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5NjQwMCwwMDAwMDAwMDNkZDdjYjU1MGQxNzFmZGM1NjJmZDhjMmFiZjJlMWUy",
+  "snapshot_id": "MTY3NzU5NjQwMCwwMDAwMDAwMDFmY2E2OWZkYTJlZWMzZDliYTZiOGYwYmNhZjYxNGZk",
   "tracks": [
     {
       "added_at": "2023-02-28 15:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Smoky Valley",
-        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
-      },
-      "artists": [
-        {
-          "name": "I love you Orchestra Swing Style",
-          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
-        },
-        {
-          "name": "mahina",
-          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Night Distance",
-      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "HONDA",
         "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 201642,
       "name": "Amber",
       "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "Smoky Valley",
+        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
+      },
+      "artists": [
+        {
+          "name": "I love you Orchestra Swing Style",
+          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
+        },
+        {
+          "name": "mahina",
+          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Night Distance",
+      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "PRISMATICS",
-        "url": "https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt"
-      },
-      "artists": [
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        }
-      ],
-      "duration_ms": 210120,
-      "name": "FANTASY",
-      "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "U.F.O",
         "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 230319,
       "name": "U.F.O",
       "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "PRISMATICS",
+        "url": "https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "duration_ms": 210120,
+      "name": "FANTASY",
+      "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "TOKYO TOWER",
-        "url": "https://open.spotify.com/album/54r1yKfQSmUOHiConU2Heb"
-      },
-      "artists": [
-        {
-          "name": "Yoko Kuzuya",
-          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
-        }
-      ],
-      "duration_ms": 289626,
-      "name": "Seaside Hotel",
-      "url": "https://open.spotify.com/track/70lScDkHEcMOQuNqNMQEey"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "TICKETS",
         "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "TOKYO TOWER",
+        "url": "https://open.spotify.com/album/54r1yKfQSmUOHiConU2Heb"
+      },
+      "artists": [
+        {
+          "name": "Yoko Kuzuya",
+          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
+        }
+      ],
+      "duration_ms": 289626,
+      "name": "Seaside Hotel",
+      "url": "https://open.spotify.com/track/70lScDkHEcMOQuNqNMQEey"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "friends",
-        "url": "https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 229653,
-      "name": "friends",
-      "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "NOTE",
         "url": "https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa"
       },
@@ -1147,6 +1131,38 @@
       "duration_ms": 234936,
       "name": "\u3053\u306e\u307e\u307e\u5922\u3067 feat. AAAMYYY",
       "url": "https://open.spotify.com/track/7mYt61pj41CSwSiOovNzk0"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "friends",
+        "url": "https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "friends",
+      "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "TWO",
+        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1171,22 +1187,6 @@
       "duration_ms": 215160,
       "name": "Love All Day",
       "url": "https://open.spotify.com/track/6n2knovRHmA6fAMdNrLp51"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
-        "name": "TWO",
-        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
-      },
-      "artists": [
-        {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "Playback",
-      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "paradigm",
-        "url": "https://open.spotify.com/album/13usXSkWfKYDgD16x04n6M"
-      },
-      "artists": [
-        {
-          "name": "ame_no_parade",
-          "url": "https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28"
-        }
-      ],
-      "duration_ms": 213397,
-      "name": "paradigm",
-      "url": "https://open.spotify.com/track/7BDrycurDMB2OB5XSIQIWE"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "It's all about you",
         "url": "https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA"
       },
@@ -1259,6 +1243,58 @@
       "duration_ms": 191663,
       "name": "It's all about you",
       "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "paradigm",
+        "url": "https://open.spotify.com/album/13usXSkWfKYDgD16x04n6M"
+      },
+      "artists": [
+        {
+          "name": "ame_no_parade",
+          "url": "https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28"
+        }
+      ],
+      "duration_ms": 213397,
+      "name": "paradigm",
+      "url": "https://open.spotify.com/track/7BDrycurDMB2OB5XSIQIWE"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "\u5618\u5bdd",
+        "url": "https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "\u5618\u5bdd",
+      "url": "https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "Sentimental (Neon Mix)",
+        "url": "https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u7af9\u5185\u7f8e\u5ba5",
+          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
+        }
+      ],
+      "duration_ms": 203588,
+      "name": "Sentimental - Neon Mix",
+      "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1295,58 +1331,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "Sentimental (Neon Mix)",
-        "url": "https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "\u7af9\u5185\u7f8e\u5ba5",
-          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
-        }
-      ],
-      "duration_ms": 203588,
-      "name": "Sentimental - Neon Mix",
-      "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
-        "name": "\u5618\u5bdd",
-        "url": "https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "\u5618\u5bdd",
-      "url": "https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
-        "name": "fab",
-        "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
-      },
-      "artists": [
-        {
-          "name": "androp",
-          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
-        }
-      ],
-      "duration_ms": 219033,
-      "name": "Ravel",
-      "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 275912,
       "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "fab",
+        "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
+      },
+      "artists": [
+        {
+          "name": "androp",
+          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
+        }
+      ],
+      "duration_ms": 219033,
+      "name": "Ravel",
+      "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "LUPIN THE THIRD VS CAT'S EYE ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/12eUMGk9JZKeSHZ2z6UcMa"
-      },
-      "artists": [
-        {
-          "name": "Anri",
-          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
-        }
-      ],
-      "duration_ms": 169900,
-      "name": "CAT'S EYE 2023",
-      "url": "https://open.spotify.com/track/43yvgvumHPrqko99AlK1jX"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "RA MU - Night Tempo presents The Showa Groove",
         "url": "https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 302721,
       "name": "Aoyama Killer Story (Night Tempo Showa Groove Mix)",
       "url": "https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "LUPIN THE THIRD VS CAT'S EYE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/12eUMGk9JZKeSHZ2z6UcMa"
+      },
+      "artists": [
+        {
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+        }
+      ],
+      "duration_ms": 169900,
+      "name": "CAT'S EYE 2023",
+      "url": "https://open.spotify.com/track/43yvgvumHPrqko99AlK1jX"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "\u6d41\u6d6a",
-        "url": "https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "\u6d41\u6d6a",
-      "url": "https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 270133,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "\u6d41\u6d6a",
+        "url": "https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "\u6d41\u6d6a",
+      "url": "https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1531,6 +1531,22 @@
       "duration_ms": 241866,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "\u30d6\u30eb\u30fc\u30cf\u30ef\u30a4",
+        "url": "https://open.spotify.com/album/0oZLf6DhoyHhtDMGrybbCb"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30a3\u30f3\u30da\u30c3\u30c4",
+          "url": "https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1"
+        }
+      ],
+      "duration_ms": 226432,
+      "name": "\u30d6\u30eb\u30fc\u30cf\u30ef\u30a4",
+      "url": "https://open.spotify.com/track/6aAOQW6aYVfb1RZTpseu5K"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1571,38 +1587,6 @@
     {
       "added_at": "2023-02-28 15:00:00",
       "album": {
-        "name": "\u30d6\u30eb\u30fc\u30cf\u30ef\u30a4",
-        "url": "https://open.spotify.com/album/0oZLf6DhoyHhtDMGrybbCb"
-      },
-      "artists": [
-        {
-          "name": "\u30c6\u30a3\u30f3\u30da\u30c3\u30c4",
-          "url": "https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1"
-        }
-      ],
-      "duration_ms": 226432,
-      "name": "\u30d6\u30eb\u30fc\u30cf\u30ef\u30a4",
-      "url": "https://open.spotify.com/track/6aAOQW6aYVfb1RZTpseu5K"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
-        "name": "\u300c\u30b5\u30a4\u30ec\u30f3\u30c8\u3001\u5e7b\u300d",
-        "url": "https://open.spotify.com/album/41ifT8WylRVmPJ8R91TeCR"
-      },
-      "artists": [
-        {
-          "name": "Ghost like girlfriend",
-          "url": "https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2"
-        }
-      ],
-      "duration_ms": 277384,
-      "name": "\u300c\u30b5\u30a4\u30ec\u30f3\u30c8\u3001\u5e7b\u300d",
-      "url": "https://open.spotify.com/track/4b26gcDNgvu042KWwCEw2D"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
         "name": "Be With You (feat. Ai Furihata)",
         "url": "https://open.spotify.com/album/5ioiVEiv0AwDetSIgZs3is"
       },
@@ -1635,6 +1619,38 @@
       "duration_ms": 269569,
       "name": "MAGIC WAYS",
       "url": "https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "\u30d0\u30c3\u30c9\u30fb\u30e9\u30f4",
+        "url": "https://open.spotify.com/album/0DjAPzvefBWotibQ5nWABf"
+      },
+      "artists": [
+        {
+          "name": "NOMELON NOLEMON",
+          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "\u30d0\u30c3\u30c9\u30fb\u30e9\u30f4",
+      "url": "https://open.spotify.com/track/3snRYYwhtCnB73oyAB9PDM"
+    },
+    {
+      "added_at": "2023-02-28 15:00:00",
+      "album": {
+        "name": "\u300c\u30b5\u30a4\u30ec\u30f3\u30c8\u3001\u5e7b\u300d",
+        "url": "https://open.spotify.com/album/41ifT8WylRVmPJ8R91TeCR"
+      },
+      "artists": [
+        {
+          "name": "Ghost like girlfriend",
+          "url": "https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2"
+        }
+      ],
+      "duration_ms": 277384,
+      "name": "\u300c\u30b5\u30a4\u30ec\u30f3\u30c8\u3001\u5e7b\u300d",
+      "url": "https://open.spotify.com/track/4b26gcDNgvu042KWwCEw2D"
     },
     {
       "added_at": "2023-02-28 15:00:00",
@@ -1691,22 +1707,6 @@
       "duration_ms": 205253,
       "name": "Amber Bare Skin",
       "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
-    },
-    {
-      "added_at": "2023-02-28 15:00:00",
-      "album": {
-        "name": "\u30d0\u30c3\u30c9\u30fb\u30e9\u30f4",
-        "url": "https://open.spotify.com/album/0DjAPzvefBWotibQ5nWABf"
-      },
-      "artists": [
-        {
-          "name": "NOMELON NOLEMON",
-          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "\u30d0\u30c3\u30c9\u30fb\u30e9\u30f4",
-      "url": "https://open.spotify.com/track/3snRYYwhtCnB73oyAB9PDM"
     },
     {
       "added_at": "2023-02-28 15:00:00",

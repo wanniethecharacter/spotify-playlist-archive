@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 11756,
+  "num_followers": 11779,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDNjNmQ3MGM5OWViYWNlMjRkNjQxZWFmYTc5YzAzNGMx",
+  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDQ1MWY0Mzk3NTVlNzE2ZjdkOTYyZWJmNTJkOGE4MmJl",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -863,8 +863,8 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Aut\u00e9ntico Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
+        "name": "La Danzonera Joven de Mexico del Chamaco Aguilar, Vol. 2",
+        "url": "https://open.spotify.com/album/60Naej3w02R25knHK4eZwr"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
         }
       ],
-      "duration_ms": 258530,
-      "name": "Bodas de Oro",
-      "url": "https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX"
+      "duration_ms": 217546,
+      "name": "Ang\u00e9lica",
+      "url": "https://open.spotify.com/track/0RWQSk38aQTalfBgGLXfCH"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -911,8 +911,8 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Danzonera Joven de Mexico del Chamaco Aguilar, Vol. 2",
-        "url": "https://open.spotify.com/album/60Naej3w02R25knHK4eZwr"
+        "name": "Aut\u00e9ntico Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
         }
       ],
-      "duration_ms": 217546,
-      "name": "Ang\u00e9lica",
-      "url": "https://open.spotify.com/track/0RWQSk38aQTalfBgGLXfCH"
+      "duration_ms": 258530,
+      "name": "Bodas de Oro",
+      "url": "https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
+        "name": "La Danzonera Joven de Mexico del Chamaco Aguilar, Vol. 2",
+        "url": "https://open.spotify.com/album/60Naej3w02R25knHK4eZwr"
+      },
+      "artists": [
+        {
+          "name": "La Danzonera Joven De M\u00e9xico Del \"Chamaco Aguilar\"",
+          "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Dos Pastillas de Tequila",
+      "url": "https://open.spotify.com/track/2voUgUHqWOix5OqdzGmy2q"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
         "name": "El Embrujo del Danz\u00f3n",
         "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 239120,
       "name": "Espa\u00f1a",
       "url": "https://open.spotify.com/track/79jXyUuH85dVv1J2y6O7kc"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "La Danzonera Joven de Mexico del Chamaco Aguilar, Vol. 2",
-        "url": "https://open.spotify.com/album/60Naej3w02R25knHK4eZwr"
-      },
-      "artists": [
-        {
-          "name": "La Danzonera Joven De M\u00e9xico Del \"Chamaco Aguilar\"",
-          "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Dos Pastillas de Tequila",
-      "url": "https://open.spotify.com/track/2voUgUHqWOix5OqdzGmy2q"
     },
     {
       "added_at": "2022-08-02 23:28:22",

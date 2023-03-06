@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 104946,
+  "num_followers": 105012,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5ODYyNywwMDAwMDAwMDUwODI5MTM1NzViODM4YzQ0NDUxYWYwY2FiZGVlMGQy",
+  "snapshot_id": "MTY1NzI5ODYyNywwMDAwMDAwMGQxOTI1YTk1OTc1MDM5NmY5ZTA4NzVmOWZhNmJmZGZm",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1255,6 +1255,30 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
+      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Athalia",
         "url": "https://open.spotify.com/album/6tiExi2Ol2HpGMPTtBvAcU"
       },
@@ -1303,54 +1327,6 @@
       "duration_ms": 309360,
       "name": "Athalia, HWV 52: Part 1 - No. 1 Sinfonia: Allegro - Grave - Allegro",
       "url": "https://open.spotify.com/track/04OWdUznQBH1jS7WLPQvJL"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
-        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
-      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Laudate Pueri, Nisi Dominus",
-        "url": "https://open.spotify.com/album/6W9KFtCnix2uLaJtEBLPIx"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Alfred Deller",
-          "url": "https://open.spotify.com/artist/1A4CqshmD4SFeTbu1mJ8Q7"
-        },
-        {
-          "name": "The Deller Consort",
-          "url": "https://open.spotify.com/artist/3GIgkzvdc1l9dMzlhsnuZV"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
-      "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1431,6 +1407,30 @@
       "duration_ms": 261040,
       "name": "Gideon, Pt. 3: Air. Let the Trumpet's Sound Inviting",
       "url": "https://open.spotify.com/track/3pcjGfgnGS3TKuDdTpuOh4"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Laudate Pueri, Nisi Dominus",
+        "url": "https://open.spotify.com/album/6W9KFtCnix2uLaJtEBLPIx"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Alfred Deller",
+          "url": "https://open.spotify.com/artist/1A4CqshmD4SFeTbu1mJ8Q7"
+        },
+        {
+          "name": "The Deller Consort",
+          "url": "https://open.spotify.com/artist/3GIgkzvdc1l9dMzlhsnuZV"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
+      "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1555,34 +1555,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Rodelinda",
-        "url": "https://open.spotify.com/album/5XShHnZAUtGkczKq62J2o1"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Marijana Mijanovic",
-          "url": "https://open.spotify.com/artist/1vLaIsYTkk542cZ0ZUEnH7"
-        },
-        {
-          "name": "Il Complesso Barocco",
-          "url": "https://open.spotify.com/artist/0tEcOib2nBnCi6OM5jgC87"
-        },
-        {
-          "name": "Alan Curtis",
-          "url": "https://open.spotify.com/artist/5Y7iJYhrTiihtH6hmph8fR"
-        }
-      ],
-      "duration_ms": 324413,
-      "name": "Rodelinda / Act 3: Vivi, tiranno, io t'ho scampato",
-      "url": "https://open.spotify.com/track/1hc8nadCBhW9jyNyQyfaCh"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Coronation Anthems / Silete Venti",
         "url": "https://open.spotify.com/album/1korDY7V0uEE7W6RB7t4T2"
       },
@@ -1607,6 +1579,34 @@
       "duration_ms": 127440,
       "name": "Let thy Hand be strengthened, HWV 259: Alleluia",
       "url": "https://open.spotify.com/track/3udJMoXeAemwdJm2HH2eQT"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Rodelinda",
+        "url": "https://open.spotify.com/album/5XShHnZAUtGkczKq62J2o1"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marijana Mijanovic",
+          "url": "https://open.spotify.com/artist/1vLaIsYTkk542cZ0ZUEnH7"
+        },
+        {
+          "name": "Il Complesso Barocco",
+          "url": "https://open.spotify.com/artist/0tEcOib2nBnCi6OM5jgC87"
+        },
+        {
+          "name": "Alan Curtis",
+          "url": "https://open.spotify.com/artist/5Y7iJYhrTiihtH6hmph8fR"
+        }
+      ],
+      "duration_ms": 324413,
+      "name": "Rodelinda / Act 3: Vivi, tiranno, io t'ho scampato",
+      "url": "https://open.spotify.com/track/1hc8nadCBhW9jyNyQyfaCh"
     },
     {
       "added_at": "2022-06-28 08:56:25",

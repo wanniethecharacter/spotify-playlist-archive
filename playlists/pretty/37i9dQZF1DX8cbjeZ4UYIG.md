@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,253 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,477 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 14 | [Valley of the Shadows](https://open.spotify.com/track/6fzwardfFs6sVfNA5R1ypt) | [Origin Unknown](https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho) | [Valley of the Shadows](https://open.spotify.com/album/5fWVvxaSJgpESrUvNIk9PF) | 4:40 |
 | 15 | [It's a Fine Day](https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE) | [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Mind Fruit](https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz) | 5:30 |
 | 16 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 |
-| 17 | [Such A Good Feeling \- Radio Edit](https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2) | [Brothers In Rhythm](https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU) | [Such A Good Feeling](https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp) | 3:46 |
-| 18 | [Pulp Fiction](https://open.spotify.com/track/4bsF2ZJgmq2JiDfyIV3CaX) | [Alex Reece](https://open.spotify.com/artist/74AkwPErO7y6jYZwR7ggJA) | [Pulp Fiction](https://open.spotify.com/album/7CrelOKM75tC3HaQ8a7dsV) | 6:11 |
+| 17 | [Pulp Fiction](https://open.spotify.com/track/4bsF2ZJgmq2JiDfyIV3CaX) | [Alex Reece](https://open.spotify.com/artist/74AkwPErO7y6jYZwR7ggJA) | [Pulp Fiction](https://open.spotify.com/album/7CrelOKM75tC3HaQ8a7dsV) | 6:11 |
+| 18 | [Such A Good Feeling \- Radio Edit](https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2) | [Brothers In Rhythm](https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU) | [Such A Good Feeling](https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp) | 3:46 |
 | 19 | [Playing With Knives \[Quadrant Mix}](https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Playing With Knives \[Quadrant Mix\]](https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM) | 6:47 |
 | 20 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 |
 | 21 | [Don't Go \- Original Mix](https://open.spotify.com/track/7DOgJIDxCOsPYHXQZIuseF) | [Awesome 3](https://open.spotify.com/artist/4qonlcYcLvt22gP54K6oeL) | [Don't Go](https://open.spotify.com/album/70T1jyWOTEWxuvLIQjg1km) | 5:11 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 35 | [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/5AMGYRhiqZoCYkJEK3yqgi) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/1USvljUnnceyGwsJFf9IR8) | 5:19 |
 | 36 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
 | 37 | [Voodoo People](https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:27 |
-| 38 | [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 |
-| 39 | [Feel Real Good](https://open.spotify.com/track/0JaqIqqFzNkQFoCJTFrakV) | [Manix](https://open.spotify.com/artist/3NxpC1snwKVakSDm2hLNsI) | [Reinforced Presents Callin For Reinforcements](https://open.spotify.com/album/5w8cU8ixaBD5NjjNnFG7mA) | 4:40 |
+| 38 | [Feel Real Good](https://open.spotify.com/track/0JaqIqqFzNkQFoCJTFrakV) | [Manix](https://open.spotify.com/artist/3NxpC1snwKVakSDm2hLNsI) | [Reinforced Presents Callin For Reinforcements](https://open.spotify.com/album/5w8cU8ixaBD5NjjNnFG7mA) | 4:40 |
+| 39 | [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 |
 | 40 | [Far out](https://open.spotify.com/track/72qHsDcLYFyPTqKAmQcm4h) | [Sonz Of A Loop Da Loop Era](https://open.spotify.com/artist/7BVU0VCeUMAa18zDX5mOyh) | [Far Out/Higher](https://open.spotify.com/album/3OGpPRrKarUlNG4bF4sn6M) | 4:55 |
 | 41 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG) | 4:47 |
 | 42 | [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/0Y3VMlkIVyqG7Xkvdskdcz) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5oHQcV6vmrKk1suY99ORYK) | 5:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [Kinetic \- Frank De Wulf Remix](https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp) | [Golden Girls](https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 5:48 |
 | 50 | [Breaking Free](https://open.spotify.com/track/6IRt1vOT1AyMpmhfTZLDy8) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [Pure Rave \- The Very Best Of Old Skool](https://open.spotify.com/album/3v5BpAStWBBZpyHr1wsngS) | 5:40 |
 
-Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMDIwNDc3NDlmMzUzYTgzOTBiYjNiYjQwYTRkZDg5NzA3`
+Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMDc5YWY2NDJkNDMzNjE5ZWQ0NzgwODkwZDAzMDU5NGJi`

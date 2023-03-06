@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,286 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,379 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 47 | [Qué Falta Me Hace Mi Padre](https://open.spotify.com/track/6jkq3KyVOBcep5HKRHTvOB) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos Con Banda, Vol\. 4](https://open.spotify.com/album/2ji1g39cwZ9RNtYKC0t4c4) | 3:01 |
 | 48 | [Ando Que Me Lleva](https://open.spotify.com/track/5g3gJFLrcIpVW1G1JfO0uZ) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:22 |
 | 49 | [En Realidad](https://open.spotify.com/track/2m7I1EX7ogZVHFow6Q1jeC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:25 |
-| 50 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/4AH5SY6g1lITqkLwntQV75) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar te Acompaña en Navidad](https://open.spotify.com/album/5ecA4SaKr8pKR1tPHw2j3S) | 4:31 |
+| 50 | [Anillo Grabado](https://open.spotify.com/track/4M3A1xOY409r0cGLEKSDmf) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Tambora, Vol\. 3](https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx) | 2:27 |
 
-Snapshot ID: `MTY2MzkwOTIwMCwwMDAwMDAwMDlmYWVjMTNmY2MyYjdkYWYwNmQwY2UxZjg0NDI2NmUx`
+Snapshot ID: `MTY2MzkwOTIwMCwwMDAwMDAwMDBmOWEwZjlkNjNmNzRmYTM4M2IwMDZkMGIxZDJhZTY4`

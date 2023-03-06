@@ -1,12 +1,12 @@
 {
   "description": "Escucha la selecci\u00f3n que Se\u00f1oras Punk hicieron para Mam\u00e1 Cool. \ud83e\udd18\ud83c\udffc\ud83d\udda4",
-  "num_followers": 312687,
+  "num_followers": 312727,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjkxNzA5MiwwMDAwMDAwMDQzNzM1OTg5NmYyNTJkZjI3MzdjOWQyYmYwNmIyOTcz",
+  "snapshot_id": "MTY3NjkxNzA5MiwwMDAwMDAwMDZkZjdhNzYxZGVjNTEwZWFmY2E4NGMyZDdiOWFiODhk",
   "tracks": [
     {
       "added_at": "2023-02-20 18:18:12",
@@ -251,6 +251,34 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "$20",
+      "url": "https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "MY WOMAN",
         "url": "https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm"
       },
@@ -283,22 +311,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Monomania",
-        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
-      },
-      "artists": [
-        {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
-        }
-      ],
-      "duration_ms": 217756,
-      "name": "Eu Me Lembro",
-      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Santigold",
         "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
       },
@@ -311,6 +323,22 @@
       "duration_ms": 204906,
       "name": "L.E.S. Artistes",
       "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Monomania",
+        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
+      },
+      "artists": [
+        {
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+        }
+      ],
+      "duration_ms": 217756,
+      "name": "Eu Me Lembro",
+      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -343,34 +371,6 @@
       "duration_ms": 194009,
       "name": "Your Dog",
       "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 200093,
-      "name": "$20",
-      "url": "https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "Querer Querer",
         "url": "https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 207572,
       "name": "Querer Querer",
       "url": "https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -867,38 +867,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "He Gets Me High",
-        "url": "https://open.spotify.com/album/58LM8VscXpnW3ChqnrJ1a5"
-      },
-      "artists": [
-        {
-          "name": "Dum Dum Girls",
-          "url": "https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "There Is a Light That Never Goes Out",
-      "url": "https://open.spotify.com/track/7pz7gsTrhqHnYMJHhTUaqf"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Cerca",
-        "url": "https://open.spotify.com/album/7H9c1oaTs6DRLoRM1SR3it"
-      },
-      "artists": [
-        {
-          "name": "Silver Rose",
-          "url": "https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP"
-        }
-      ],
-      "duration_ms": 283963,
-      "name": "Cerca",
-      "url": "https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "\u00bfY C\u00f3mo?",
         "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
       },
@@ -919,6 +887,22 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "He Gets Me High",
+        "url": "https://open.spotify.com/album/58LM8VscXpnW3ChqnrJ1a5"
+      },
+      "artists": [
+        {
+          "name": "Dum Dum Girls",
+          "url": "https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "There Is a Light That Never Goes Out",
+      "url": "https://open.spotify.com/track/7pz7gsTrhqHnYMJHhTUaqf"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "The Voyager",
         "url": "https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 249520,
       "name": "She's Not Me",
       "url": "https://open.spotify.com/track/388mKnPdjaZ6FCRvmRmGlH"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Cerca",
+        "url": "https://open.spotify.com/album/7H9c1oaTs6DRLoRM1SR3it"
+      },
+      "artists": [
+        {
+          "name": "Silver Rose",
+          "url": "https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP"
+        }
+      ],
+      "duration_ms": 283963,
+      "name": "Cerca",
+      "url": "https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "Lo Que Te Pide el Cuerpo",
+        "url": "https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "duration_ms": 163795,
+      "name": "Todos Mis Amigos Tienen Covid",
+      "url": "https://open.spotify.com/track/67n0eh73NUPu8X3y042g4m"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "Plant a Seed",
         "url": "https://open.spotify.com/album/27SrdlvYNc69j8IuLXzl92"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 190938,
       "name": "Falso Verano",
       "url": "https://open.spotify.com/track/7GKmwwvAcOoxZBIAs2KyyP"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Songs + Canciones I",
-        "url": "https://open.spotify.com/album/7c8YtrYs0kseg29Tpnzsyd"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Del Pilar",
-          "url": "https://open.spotify.com/artist/3TxYrcQ59CvnDHFQg0Roji"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Pi\u00f1ata",
-      "url": "https://open.spotify.com/track/7u7rPHymNtUaDVusZ95ChJ"
     }
   ],
   "unique_name": "mam\u00e1 cool",

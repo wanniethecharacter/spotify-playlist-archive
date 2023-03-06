@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 78222,
+  "num_followers": 78319,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2MDg1MCwwMDAwMDAwMGI3MjYwOTAyNWIyYzkyNTEyNjNiMWNjNjIwMDY1MmRl",
+  "snapshot_id": "MTY3MzU2MDg1MCwwMDAwMDAwMDlkMjNmODM4YTQ1NzUzMzgyOTJiODcyYWU5ODllZjNm",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Puras Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        }
-      ],
-      "duration_ms": 206913,
-      "name": "Del Signo Libra",
-      "url": "https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Los Yaguaru",
         "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 234945,
       "name": "Suavemente Amor",
       "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Puras Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+        }
+      ],
+      "duration_ms": 206913,
+      "name": "Del Signo Libra",
+      "url": "https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "10 De Coleccion",
-        "url": "https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O"
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
       "artists": [
         {
-          "name": "Guardianes Del Amor",
-          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
         }
       ],
-      "duration_ms": 190560,
-      "name": "Amor Se Escribe Con Llanto",
-      "url": "https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7"
+      "duration_ms": 203253,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+        "name": "10 De Coleccion",
+        "url": "https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O"
       },
       "artists": [
         {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+          "name": "Guardianes Del Amor",
+          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
         }
       ],
-      "duration_ms": 203253,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
+      "duration_ms": 190560,
+      "name": "Amor Se Escribe Con Llanto",
+      "url": "https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -799,8 +799,8 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+        "name": "Nunca Te Olvidar\u00e9",
+        "url": "https://open.spotify.com/album/45zzHjXdJoNXKFLysKLj88"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 224786,
-      "name": "Sin Ti No S\u00e9 Vivir",
-      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
+      "duration_ms": 205333,
+      "name": "Ella Se Olvido De M\u00ed",
+      "url": "https://open.spotify.com/track/5eFByyYnqWv7euW1wTGUle"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "En La Luna",
-        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
-      },
-      "artists": [
-        {
-          "name": "Los Carlos",
-          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "P\u00eddeme La Luna",
-      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "20th Anniversary Series",
         "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 209040,
       "name": "Un Millon de Rosas",
       "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "En La Luna",
+        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
+      },
+      "artists": [
+        {
+          "name": "Los Carlos",
+          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "P\u00eddeme La Luna",
+      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "T\u00fa Me Quieres Lastimar",
-        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "T\u00fa Me Quieres Lastimar",
-      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "3 En 1 Super Show De Los Vaskez",
         "url": "https://open.spotify.com/album/5sFWeLEilmm41a93FXouql"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 266200,
       "name": "Jugo De Pi\u00f1a",
       "url": "https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "T\u00fa Me Quieres Lastimar",
+        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
+      },
+      "artists": [
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "T\u00fa Me Quieres Lastimar",
+      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1285,6 +1285,22 @@
       "url": "https://open.spotify.com/track/7xbRLQyE9t7zkA3osC8S2d"
     },
     {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "16 Exitos Super Tropicales",
+        "url": "https://open.spotify.com/album/3f4RJ24ZEtH5lgMy9hrTb4"
+      },
+      "artists": [
+        {
+          "name": "Los Plebeyos",
+          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+        }
+      ],
+      "duration_ms": 124995,
+      "name": "El Zancudito Loco",
+      "url": "https://open.spotify.com/track/0B6dN8EPnrZmM8OJGwlcRj"
+    },
+    {
       "added_at": "2022-01-25 19:05:16",
       "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
@@ -1317,20 +1333,20 @@
       "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
     },
     {
-      "added_at": "2023-01-10 17:48:12",
+      "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "16 Exitos Super Tropicales",
-        "url": "https://open.spotify.com/album/3f4RJ24ZEtH5lgMy9hrTb4"
+        "name": "Locura De Amor",
+        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
       },
       "artists": [
         {
-          "name": "Los Plebeyos",
-          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+          "name": "Grupo Karo's",
+          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
         }
       ],
-      "duration_ms": 124995,
-      "name": "El Zancudito Loco",
-      "url": "https://open.spotify.com/track/0B6dN8EPnrZmM8OJGwlcRj"
+      "duration_ms": 237080,
+      "name": "Amor Carnal",
+      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1351,22 +1367,6 @@
       "duration_ms": 231720,
       "name": "Por Muchas Razones Te Quiero",
       "url": "https://open.spotify.com/track/4y1mBgVKdjWODLPjHtaAqq"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Locura De Amor",
-        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Karo's",
-          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Amor Carnal",
-      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Cumbiando Este 5 De Mayo",
-        "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Cumbia En La Playa",
-      "url": "https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/1WgwIZMerQkpGMTesIlBHX"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 244506,
       "name": "Muchacha Triste",
       "url": "https://open.spotify.com/track/5aJtDBC3y4jyK63Af8yFbX"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Cumbiando Este 5 De Mayo",
+        "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Cumbia En La Playa",
+      "url": "https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1951,8 +1951,8 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Nunca Te Olvidar\u00e9",
-        "url": "https://open.spotify.com/album/45zzHjXdJoNXKFLysKLj88"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
@@ -1960,9 +1960,9 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Ella Se Olvido De M\u00ed",
-      "url": "https://open.spotify.com/track/5eFByyYnqWv7euW1wTGUle"
+      "duration_ms": 224786,
+      "name": "Sin Ti No S\u00e9 Vivir",
+      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
     },
     {
       "added_at": "2022-01-25 19:05:16",

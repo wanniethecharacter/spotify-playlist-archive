@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-123 songs - 8 hr 54 min
+124 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Dorothy](https://open.spotify.com/track/2GuIRSthEpYN5MO6PGD7Vx) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Dorothy](https://open.spotify.com/album/7lJXrA1jzqGVpLUyLIYXLK) | 5:16 | 2022-03-29 | 2022-04-27 |
 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 | 2022-07-26 |  |
 | [El Abuelo](https://open.spotify.com/track/1cmjjbzi9Hqe6IgHbB7gBp) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [El Abuelo](https://open.spotify.com/album/0x7kpSHrkQrqMxrvwbpAPU) | 5:31 | 2022-03-29 | 2022-07-08 |
-| [El Sueno](https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [El Sueno](https://open.spotify.com/album/67oNtjg4DE8CMeOtqcEwV7) | 2:51 | 2022-03-29 |  |
+| [El Sueno](https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [El Sueno](https://open.spotify.com/album/67oNtjg4DE8CMeOtqcEwV7) | 2:51 | 2022-03-29 | 2023-03-06 |
 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 | 2022-03-29 | 2023-01-14 |
 | [Epico](https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:07 | 2022-11-12 | 2022-11-25 |
 | [Fight to Love \- Radio Edit](https://open.spotify.com/track/0V2rtUVbb3Vpz2ZE5pu0Sa) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Maleh](https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i) | [Fight to Love \(Radio Edit\)](https://open.spotify.com/album/6ttCwZ0VxKrzDFnOhHlTj3) | 4:07 | 2022-05-06 | 2022-07-29 |
@@ -106,6 +106,7 @@
 | [Serotonina](https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Neneto](https://open.spotify.com/artist/4SRF0I10ZzUX6hFmV1RCXR) | [Serotonina](https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs) | 3:54 | 2022-07-26 | 2022-11-14 |
 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 | 2022-07-26 |  |
 | [Sexy Trippin'](https://open.spotify.com/track/3CHWc5zfSNC3tldOuKnu7P) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Freedom EP](https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO) | 4:33 | 2022-09-02 | 2022-10-13 |
+| [Shake It](https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay) | 2:47 | 2022-10-12 |  |
 | [Shake It](https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/00SLXiSfueGVaPZSpNeqRa) | 2:47 | 2022-03-29 | 2023-01-30 |
 | [Simple Hit](https://open.spotify.com/track/0C3QADQBYFjcSeU8bY7Oex) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Simple Hit](https://open.spotify.com/album/4cNRNpj5a81e2iF5cIb1n5) | 3:39 | 2022-03-29 | 2022-04-29 |
 | [Skywalking](https://open.spotify.com/track/0so587BGO1K3OU3fMqF25I) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Skywalking](https://open.spotify.com/album/0UbrZBSsBlWSNiUW9bRw5o) | 6:14 | 2022-03-29 | 2022-06-28 |

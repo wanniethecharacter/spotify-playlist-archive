@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4bGuyvrKl5.md) - [plain]
 
 > Swedish house icons <a href="spotify:artist:6rgEPiKjowlMKZC1DF6W75">Rebecca & Fiona</a> kicking off rave season with their gem filled spring mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,568 likes - 15 songs - 57 min 31 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,573 likes - 15 songs - 57 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Local Newspaper \- Mixed](https://open.spotify.com/track/3JgaSgkMSXwdf9MsM8wD9X) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Local Newspaper \(Mixed\)](https://open.spotify.com/album/1A7mKkVnLDdfK8mQXoT6RD) | 3:41 |
 | 2 | [All Night \- Kenny Summit Classic Mix \- Mixed](https://open.spotify.com/track/02gwPA6SD8wMyjGPIhWzIf) | [Chaka Kenn](https://open.spotify.com/artist/02gyom5ZGtTA1nHeBMIX3a), [Kenny Summit](https://open.spotify.com/artist/5ym4nlRGhF2l1gJE0dv77O) | [All Night \- Kenny Summit Classic Mix \(Mixed\)](https://open.spotify.com/album/1GACUjNQm3mGGJ0J5M31I4) | 2:24 |
-| 3 | [Make Me \- Mixed](https://open.spotify.com/track/7EVZACrGhiWqBuZUan1vUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO) | [Make Me \(Mixed\)](https://open.spotify.com/album/3TBrWoSrenee0m1kl6CuJY) | 3:34 |
+| 3 | [Make Me \- Mixed](https://open.spotify.com/track/6aE0RcdpbZyctw36dMyg8G) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1) | [Make Me \(Mixed\)](https://open.spotify.com/album/6QjdYpKjW1kB0UpdgpmaOj) | 3:34 |
 | 4 | [Kaleidoscope \- Mixed](https://open.spotify.com/track/0QZfoiPkdTyPtSqCfOVTLr) | [Will Easton](https://open.spotify.com/artist/2kPAmoZKlDB8ktz6SFPsLW) | [Kaleidoscope \(Mixed\)](https://open.spotify.com/album/35ImnGmiohoPJ58XIEj12w) | 4:03 |
 | 5 | [Hey Hey \- Riva Starr Paradise Garage Remix \- Mixed](https://open.spotify.com/track/5lFFId6cGPg3db4gSbz3rN) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [Hey Hey \- Riva Starr Paradise Garage Remix \(Mixed\)](https://open.spotify.com/album/6tOCtqPhdMJ376NmOSA2no) | 4:04 |
 | 6 | [Live at K\-Market \- Rescue Remix \- Mixed](https://open.spotify.com/track/5Sha6qkVWumS9TlouXyZkq) | [Conga Squad](https://open.spotify.com/artist/5aUIPdoeRAoDLRp4y3oA4s), [Rescue](https://open.spotify.com/artist/1GVjMZ1m9HUdFrUwchuadj) | [Live at K\-Market \- Rescue Remix \(Mixed\)](https://open.spotify.com/album/4JQSKDNVcbqIlr0P6NrV3f) | 5:05 |
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4bGuyvrKl5.md) - [plain]
 | 14 | [Come On \- Mixed](https://open.spotify.com/track/70whn106RAuxCd949WV8gw) | [Sam Akers](https://open.spotify.com/artist/0AwujcjMYhaCJ5pyMstX4F) | [Come On \(Mixed\)](https://open.spotify.com/album/1vNiHCPpSm2DrhyBfRO8YO) | 4:49 |
 | 15 | [Sweetest Delight \- DJ City Remix \- Mixed](https://open.spotify.com/track/76MKwYQhindFzqvpE20gB4) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [DJ CITY](https://open.spotify.com/artist/52c8wOVJiBoVy5csR9SSWj) | [Sweetest Delight \- DJ City Remix \(Mixed\)](https://open.spotify.com/album/1DVh6qIDSlQMs5TAEjMcRU) | 4:08 |
 
-Snapshot ID: `MTY2MDY2MTA1OSwwMDAwMDAwMDI5MzNjZmVhZDg2ZjlkZDI0ODU4ZjYwNjAyYmMxZWE1`
+Snapshot ID: `MTY2MDY2MTA1OSwwMDAwMDAwMDA0NGFiZTc1NDc5NjlhYzdjMzIzYTBmM2YyZTI2ZWI0`

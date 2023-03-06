@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 171824,
+  "num_followers": 161664,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1MjU2NCwwMDAwMDAwMDBmODVmMzkwOGM0MTI4YmM0MmNkNGY3MTNiY2Y4OWU3",
+  "snapshot_id": "MTY3Nzg1MjU2NCwwMDAwMDAwMDcxYmRlYmRmZTFhZTA5NzI1N2ZiZmNiNTI0YTFmZGNj",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -191,26 +191,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Off Of My Mind",
-        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Off Of My Mind",
+        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Have You Never Been Mellow",
+        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 147742,
+      "name": "Have You Never Been Mellow",
+      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "We Can Come Together",
         "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
       },
@@ -1043,26 +1059,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Release Me (feat. Kalhaader)",
-        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
-      },
-      "artists": [
-        {
-          "name": "Twelve",
-          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
-        },
-        {
-          "name": "Kalhaader",
-          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Release Me (feat. Kalhaader)",
-      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "All Comes Back To You",
         "url": "https://open.spotify.com/album/6PUjpfG3cjuo7D9nK2oqCb"
       },
@@ -1079,18 +1075,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Have You Never Been Mellow",
-        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
+        "name": "Release Me (feat. Kalhaader)",
+        "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
       },
       "artists": [
         {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+          "name": "Twelve",
+          "url": "https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb"
+        },
+        {
+          "name": "Kalhaader",
+          "url": "https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek"
         }
       ],
-      "duration_ms": 147742,
-      "name": "Have You Never Been Mellow",
-      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
+      "duration_ms": 146893,
+      "name": "Release Me (feat. Kalhaader)",
+      "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/431dPv3igSZocpya96M9Dm"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        }
-      ],
-      "duration_ms": 209663,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/5rbnKSSsith3hIrj9Pi1Yw"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Wave (feat. Mike Sabath) [The Remixes]",
         "url": "https://open.spotify.com/album/72EUZdCcIBmbtn9uydakvF"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 193920,
       "name": "Wave (feat. Mike Sabath) - R3HAB Remix",
       "url": "https://open.spotify.com/track/4owZgn8PCpafrhBzJD7wNj"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/431dPv3igSZocpya96M9Dm"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "duration_ms": 209663,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/5rbnKSSsith3hIrj9Pi1Yw"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Party To Survive",
+        "url": "https://open.spotify.com/album/0JEYg8YC63DbGeK7KtUEsH"
+      },
+      "artists": [
+        {
+          "name": "TADROS",
+          "url": "https://open.spotify.com/artist/1hMVsPngYpyuvTdACJLdFN"
+        }
+      ],
+      "duration_ms": 144761,
+      "name": "Party To Survive",
+      "url": "https://open.spotify.com/track/4WJhrzxISwyXPCozZTWsrI"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6BRqgfyxgBUT1Y6KhkoQLW"
       },
@@ -2079,22 +2095,6 @@
       "duration_ms": 137285,
       "name": "Home",
       "url": "https://open.spotify.com/track/0gavaUI3E0tGP2aAWH6asA"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Party To Survive",
-        "url": "https://open.spotify.com/album/0JEYg8YC63DbGeK7KtUEsH"
-      },
-      "artists": [
-        {
-          "name": "TADROS",
-          "url": "https://open.spotify.com/artist/1hMVsPngYpyuvTdACJLdFN"
-        }
-      ],
-      "duration_ms": 144761,
-      "name": "Party To Survive",
-      "url": "https://open.spotify.com/track/4WJhrzxISwyXPCozZTWsrI"
     },
     {
       "added_at": "2023-02-23 23:00:00",

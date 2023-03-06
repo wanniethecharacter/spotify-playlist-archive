@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-92 songs - 5 hr 7 min
+93 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Surrender](https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t) | 3:36 | 2022-03-11 | 2022-11-23 |
 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 | 2022-03-18 |  |
 | [Switchup](https://open.spotify.com/track/4Pt6kY4Q9wxiFj9QJspC1g) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 2:27 | 2021-02-12 |  |
-| [Tears Of Blue To Gold](https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:12 | 2021-02-12 |  |
+| [Tears Of Blue To Gold](https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:12 | 2021-02-12 | 2023-03-06 |
+| [Tears Of Blue To Gold](https://open.spotify.com/track/604I2KSZvAA3fjbZpAbJ5v) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:12 | 2022-08-31 |  |
 | [Tell Your Mother](https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m) | [Dr JOE](https://open.spotify.com/artist/2hQXLKSqrDLgj3r6LtUU0Y) | [Tell Your Mother](https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu) | 3:34 | 2022-08-31 |  |
 | [The Ballad of Johnny](https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 2:53 | 2022-08-31 |  |
 | [The Day Took My Sunshine Away](https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR) | [Howlin' Sun](https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw) | [Howlin' Sun](https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS) | 3:01 | 2021-02-12 |  |

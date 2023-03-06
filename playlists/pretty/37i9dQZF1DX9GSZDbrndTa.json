@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 78274,
+  "num_followers": 78340,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDQ1NjQxM2EzNWZlNTZjNWVlODUzY2ZlNDNhOTFkZDBj",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMDJmZDhkYzUwZTU4NTQ2N2JmZWNkNGRlM2Y5NTc1Njk3",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -151,22 +151,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
-        "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker Quartet",
-          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "Now's The Time",
-      "url": "https://open.spotify.com/track/0cvA7oe0YMEOl5L017P9lq"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Cool Struttin' (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/38ERGmBgDAsCTb4KNeopsX"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 563613,
       "name": "Cool Struttin'",
       "url": "https://open.spotify.com/track/7CnOzCWGrTINcDExG6u99y"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
+        "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker Quartet",
+          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "Now's The Time",
+      "url": "https://open.spotify.com/track/0cvA7oe0YMEOl5L017P9lq"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -199,6 +199,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 340333,
+      "name": "Bag's Groove",
+      "url": "https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Study In Brown",
         "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 297040,
       "name": "Sandu",
       "url": "https://open.spotify.com/track/7iOTBeLm5qR9N23fjQy8Kl"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 340333,
-      "name": "Bag's Groove",
-      "url": "https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Swedish Schnapps: The Genius Of Charlie Parker #8 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker Quintet",
-          "url": "https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V"
-        }
-      ],
-      "duration_ms": 166613,
-      "name": "Blues For Alice",
-      "url": "https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Swiss Nights, Vol. 3",
         "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 762666,
       "name": "Tenor madness",
       "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Swedish Schnapps: The Genius Of Charlie Parker #8 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker Quintet",
+          "url": "https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V"
+        }
+      ],
+      "duration_ms": 166613,
+      "name": "Blues For Alice",
+      "url": "https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN"
     },
     {
       "added_at": "2020-10-12 18:15:54",

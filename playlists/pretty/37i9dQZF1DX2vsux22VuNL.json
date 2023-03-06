@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: 3030, Costa Gold",
-  "num_followers": 261500,
+  "num_followers": 261555,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMGQzOGFkNjE4ZTA5YTY5YjdlZDYzNDM1ODNmMGQ0YTdi",
+  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMDY0ZmJjZDU4OGU4MTY4NTA0NzAxYWY4Y2E0ZWViMzNk",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -491,22 +491,26 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Facilitei",
-        "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
+        "name": "N\u00e3o Demora",
+        "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Facilitei",
-      "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
+      "duration_ms": 182003,
+      "name": "N\u00e3o Demora",
+      "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -535,26 +539,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "N\u00e3o Demora",
-        "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
+        "name": "Facilitei",
+        "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
       },
       "artists": [
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 182003,
-      "name": "N\u00e3o Demora",
-      "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
+      "duration_ms": 212000,
+      "name": "Facilitei",
+      "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Ela tem o dom",
-        "url": "https://open.spotify.com/album/1DBboPgk2gX2Iz2Sc76VT7"
-      },
-      "artists": [
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "Ela tem o dom",
-      "url": "https://open.spotify.com/track/1IxCZvkbIpCH7dUQyMQk7D"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Vem Pra C\u00e1",
         "url": "https://open.spotify.com/album/71LlHHvQZ8BGPnJy2eXgoF"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 212000,
       "name": "Uma Linda Mulher - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Ela tem o dom",
+        "url": "https://open.spotify.com/album/1DBboPgk2gX2Iz2Sc76VT7"
+      },
+      "artists": [
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "duration_ms": 142306,
+      "name": "Ela tem o dom",
+      "url": "https://open.spotify.com/track/1IxCZvkbIpCH7dUQyMQk7D"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Me Diz Se Vem",
-        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 177612,
-      "name": "Me Diz Se Vem",
-      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Teu Sorriso",
         "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 183265,
       "name": "Teu Sorriso",
       "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Me Diz Se Vem",
+        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 177612,
+      "name": "Me Diz Se Vem",
+      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Flores e Ra\u00edzes",
-        "url": "https://open.spotify.com/album/0mrcfLnnlLOFUuDSZTDc7C"
-      },
-      "artists": [
-        {
-          "name": "Cidade Verde Sounds",
-          "url": "https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8"
-        }
-      ],
-      "duration_ms": 225898,
-      "name": "Roda Gigante",
-      "url": "https://open.spotify.com/track/27fmExabEQJg00wcotSRIb"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Ainda \u00c9 Ver\u00e3o",
         "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 180000,
       "name": "PAIRAR\u00c1",
       "url": "https://open.spotify.com/track/2bNqAao6TzjdRluD0dCwqy"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Flores e Ra\u00edzes",
+        "url": "https://open.spotify.com/album/0mrcfLnnlLOFUuDSZTDc7C"
+      },
+      "artists": [
+        {
+          "name": "Cidade Verde Sounds",
+          "url": "https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8"
+        }
+      ],
+      "duration_ms": 225898,
+      "name": "Roda Gigante",
+      "url": "https://open.spotify.com/track/27fmExabEQJg00wcotSRIb"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Dire\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0dbn2sheleIRVpaThz9Vdy"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 141052,
+      "name": "Dire\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/45NQoSZq9wCX26LCXcG5Bf"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 168346,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Dire\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0dbn2sheleIRVpaThz9Vdy"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 141052,
-      "name": "Dire\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/45NQoSZq9wCX26LCXcG5Bf"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Pensando Em N\u00f3s",
-        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Pensando Em N\u00f3s",
-      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Org\u00e2nico Ver\u00e3o 2023",
         "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
       },
@@ -1547,6 +1523,30 @@
       "duration_ms": 210426,
       "name": "Te Espero",
       "url": "https://open.spotify.com/track/6Sl0RHD51w2vnb0M5TX09k"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Pensando Em N\u00f3s",
+        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Pensando Em N\u00f3s",
+      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
     },
     {
       "added_at": "2023-03-03 03:00:00",

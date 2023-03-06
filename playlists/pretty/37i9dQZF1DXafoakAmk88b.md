@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New Indie driving the current, every week\. Cover: Chiiild, by Ian Woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,534 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,656 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 3 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
 | 4 | [free flow](https://open.spotify.com/track/1UxiPpx3EC2SqFmGoqlXOy) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [free flow](https://open.spotify.com/album/01Fg6wIgT1NDXys8UPTJsK) | 3:23 |
 | 5 | [Hotel Window](https://open.spotify.com/track/1AiAQF07CLQmJq1oyc6gce) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Hotel Window](https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm) | 2:03 |
-| 6 | [Vega](https://open.spotify.com/track/5iIFSRXjZ9lGGM9aACqyqP) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Vega](https://open.spotify.com/album/4DkMvuihJAlQHRAFdA6Rr3) | 3:23 |
+| 6 | [Vega](https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Music for the Future](https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm) | 3:23 |
 | 7 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
 | 8 | [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 |
 | 9 | [Fight for it](https://open.spotify.com/track/6tYauukRQsMVED9eNqreNA) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [Fight for it](https://open.spotify.com/album/4E3yem5KfbaQQixWsBZnWC) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 99 | [Already free](https://open.spotify.com/track/45nFXvQK9RIi8zMip6ogzh) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 2:18 |
 | 100 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGRjMDU1YjE0MDZkMTAyZDQ2NTZhMTU2ZTNkOTU3YmQx`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDI0NzU2MDE4OWVhNTFhNzc2MDkyNDljOGZlMWQ4ZDlj`

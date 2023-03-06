@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > Cálmese, pa, acá están los corridos más placosos del 2022\. Luis R Conriquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,829 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,109 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 45 | [El Chaman](https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [El Chaman](https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE) | 4:41 |
 | 46 | [El Jami](https://open.spotify.com/track/0v4ySxml0fwgYJAYazBBJB) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [El Jami](https://open.spotify.com/album/1nRul8PMSoyoLfdJ2JDgne) | 2:59 |
 | 47 | [Pensando](https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Aprendimos A Jugar](https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o) | 2:32 |
-| 48 | [Serafín Zambada](https://open.spotify.com/track/2Qh9GkEx3EnFd7v8QzaFjW) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafín Zambada](https://open.spotify.com/album/6vHtXla1mECDpZS3ONUwvf) | 2:08 |
+| 48 | [Serafín Zambada](https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA) | 2:08 |
 | 49 | [Me Dicen Nini](https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Dicen Nini](https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5) | 3:35 |
 | 50 | [Los Mitotes \- En Vivo](https://open.spotify.com/track/26e8lUcchMWzFcNqtNTwYH) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servandozl](https://open.spotify.com/album/2Y0BOVe7O4scEDCbgVFJjR) | 3:09 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDlhOTIyNGZhMGY0ZjE1NTRjMTIzNzgzNTYxNmU1MTVi`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDgwOWIwMzA5MzMzNWQ5YWZjNDkzNDU3Y2VkMjI4NjI3`

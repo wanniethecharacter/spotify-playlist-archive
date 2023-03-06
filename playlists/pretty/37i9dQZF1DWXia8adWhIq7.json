@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Felipe Vilela",
-  "num_followers": 61496,
+  "num_followers": 61518,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNzc0MiwwMDAwMDAwMDBiODZhMWI5MTcxYTMwMzE4NzhhYTMwNzVhNDJjNjBi",
+  "snapshot_id": "MTY3NzIzNzc0MiwwMDAwMDAwMDJhYWRjOTU2ZTNjMjY4OTA5YmQyZmM4ZGQ2OTFmOWVh",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
     },
     {
-      "added_at": "2023-03-05 01:16:49",
+      "added_at": "2023-03-06 00:50:51",
       "album": {
         "name": "Melhor Lugar",
         "url": "https://open.spotify.com/album/67lLOGcSwcIDCiuBIfSjnL"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9"
     },
     {
-      "added_at": "2023-03-05 01:16:49",
+      "added_at": "2023-03-06 00:50:51",
       "album": {
         "name": "Vai Ser Melhor",
         "url": "https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL"
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
     },
     {
+      "added_at": "2023-03-06 00:50:51",
+      "album": {
+        "name": "Cora\u00e7\u00e3o de Aprendiz",
+        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
+      },
+      "artists": [
+        {
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
+        }
+      ],
+      "duration_ms": 303071,
+      "name": "Cora\u00e7\u00e3o de Aprendiz",
+      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
+    },
+    {
       "added_at": "2023-02-03 03:00:00",
       "album": {
         "name": "Tens o Meu Sim",
@@ -607,6 +623,22 @@
       "duration_ms": 224000,
       "name": "Tens o Meu Sim",
       "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Teu Reino Venha",
+        "url": "https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw"
+      },
+      "artists": [
+        {
+          "name": "Cord\u00e3o de Tr\u00eas",
+          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
+        }
+      ],
+      "duration_ms": 222103,
+      "name": "Teu Reino Venha",
+      "url": "https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -627,22 +659,6 @@
       "duration_ms": 233261,
       "name": "Levanto um Aleluia",
       "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Teu Reino Venha",
-        "url": "https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw"
-      },
-      "artists": [
-        {
-          "name": "Cord\u00e3o de Tr\u00eas",
-          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
-        }
-      ],
-      "duration_ms": 222103,
-      "name": "Teu Reino Venha",
-      "url": "https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -687,22 +703,6 @@
       "duration_ms": 196093,
       "name": "Agora",
       "url": "https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2"
-    },
-    {
-      "added_at": "2023-03-05 01:16:49",
-      "album": {
-        "name": "Cora\u00e7\u00e3o de Aprendiz",
-        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
-      },
-      "artists": [
-        {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
-        }
-      ],
-      "duration_ms": 303071,
-      "name": "Cora\u00e7\u00e3o de Aprendiz",
-      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Crescer",
-        "url": "https://open.spotify.com/album/7eodR01E7NwsvSRIm0JY9T"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 237244,
-      "name": "Crescer",
-      "url": "https://open.spotify.com/track/2rzHjYk44JJAeg0qiWx5us"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Crescer",
+        "url": "https://open.spotify.com/album/7eodR01E7NwsvSRIm0JY9T"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 237244,
+      "name": "Crescer",
+      "url": "https://open.spotify.com/track/2rzHjYk44JJAeg0qiWx5us"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Teu Calor",
+        "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
+      },
+      "artists": [
+        {
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Teu Calor",
+      "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Vivente Ac\u00fastico",
         "url": "https://open.spotify.com/album/1dzFWWFq7oEdbCc5xa2SN8"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 212000,
       "name": "Ensimesmo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/690Rz5W01uGPGm754L5diO"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Teu Calor",
-        "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
-      },
-      "artists": [
-        {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Teu Calor",
-      "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Amor de Pai",
-        "url": "https://open.spotify.com/album/7zFp6VVBpVZyGWatYgtwE2"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Lucas",
-          "url": "https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL"
-        }
-      ],
-      "duration_ms": 229523,
-      "name": "Amor de Pai",
-      "url": "https://open.spotify.com/track/2zvuGj62W1rYAmotN7H8nE"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Planos Melhores",
         "url": "https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 184991,
       "name": "Planos Melhores",
       "url": "https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Amor de Pai",
+        "url": "https://open.spotify.com/album/7zFp6VVBpVZyGWatYgtwE2"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Lucas",
+          "url": "https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL"
+        }
+      ],
+      "duration_ms": 229523,
+      "name": "Amor de Pai",
+      "url": "https://open.spotify.com/track/2zvuGj62W1rYAmotN7H8nE"
     },
     {
       "added_at": "2023-02-03 03:00:00",

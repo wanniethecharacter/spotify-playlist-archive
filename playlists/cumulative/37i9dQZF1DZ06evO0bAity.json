@@ -178,10 +178,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 172400,
       "name": "Cops / Capacity",
       "url": "https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/4JPYQvTQIjdvkJ4L5CTvgt"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168693,
+      "name": "Cops Capacity",
+      "url": "https://open.spotify.com/track/4Twx8RQYPsnBq1ZK3j11LN"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 495321,
+  "num_followers": 495503,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMGY4NDllY2ZlNGY3M2E3NzAyODNiMDRmM2VhNjRmMGZm",
+  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMDM0ZWU5MzRmOTFlODMwNjI3ODA1MDZhN2RlN2NiOGJj",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1539,30 +1539,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Better When You're Gone",
-        "url": "https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Brooks",
-          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
-        },
-        {
-          "name": "Loote",
-          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
-        }
-      ],
-      "duration_ms": 192402,
-      "name": "Better When You're Gone",
-      "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -1583,6 +1559,30 @@
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Better When You're Gone",
+        "url": "https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        },
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        }
+      ],
+      "duration_ms": 192402,
+      "name": "Better When You're Gone",
+      "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1611,18 +1611,26 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Be Kind",
-        "url": "https://open.spotify.com/album/1mWXLzWQS9hleyqLwPGu8r"
+        "name": "Whenever (feat. Conor Maynard)",
+        "url": "https://open.spotify.com/album/5so9rCf7p2L6w6o4KZahE9"
       },
       "artists": [
         {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "The Boy Next Door",
+          "url": "https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs"
+        },
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
         }
       ],
-      "duration_ms": 181516,
-      "name": "Be Kind",
-      "url": "https://open.spotify.com/track/5pE4OLVJh5rjaLERbUgBB2"
+      "duration_ms": 163636,
+      "name": "Whenever (feat. Conor Maynard)",
+      "url": "https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z"
     }
   ],
   "unique_name": "Powerwalk!",

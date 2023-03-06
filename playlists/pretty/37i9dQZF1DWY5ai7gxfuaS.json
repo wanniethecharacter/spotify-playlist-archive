@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 221267,
+  "num_followers": 221542,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMDJjZmM4MGYzOTU5OTM2ODIyNDE0YjY3YmUzNTE2Zjhk",
+  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMDFmMjU2MDg3OWM4M2RiY2U3MGMzYTQ1NmEyZmZhZWI1",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -253,6 +253,22 @@
       "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
     },
     {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Handshakes With Snakes",
+        "url": "https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "duration_ms": 117857,
+      "name": "Handshakes With Snakes",
+      "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
+    },
+    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "Don't Wait",
@@ -271,22 +287,6 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Handshakes With Snakes",
-        "url": "https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD"
-      },
-      "artists": [
-        {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
-        }
-      ],
-      "duration_ms": 117857,
-      "name": "Handshakes With Snakes",
-      "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -609,6 +609,26 @@
       "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
     },
     {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
+      },
+      "artists": [
+        {
+          "name": "ALESTI",
+          "url": "https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J"
+        },
+        {
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
+        }
+      ],
+      "duration_ms": 183900,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
+    },
+    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "Wake of a Nation",
@@ -759,26 +779,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Intoxicated",
-        "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
-      },
-      "artists": [
-        {
-          "name": "ALESTI",
-          "url": "https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J"
-        },
-        {
-          "name": "Until I Wake",
-          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
-        }
-      ],
-      "duration_ms": 183900,
-      "name": "Intoxicated",
-      "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "DODGE A BULLET",
         "url": "https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M"
       },
@@ -795,6 +795,34 @@
       "duration_ms": 166504,
       "name": "DODGE A BULLET",
       "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "ANTAGONIST RETURNS",
+        "url": "https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb"
+      },
+      "artists": [
+        {
+          "name": "The Worst of Us",
+          "url": "https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW"
+        },
+        {
+          "name": "ALEX",
+          "url": "https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO"
+        },
+        {
+          "name": "TOKYO ROSE",
+          "url": "https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N"
+        },
+        {
+          "name": "THE AKUMA",
+          "url": "https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW"
+        }
+      ],
+      "duration_ms": 217308,
+      "name": "ANTAGONIST RETURNS",
+      "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1005,6 +1033,22 @@
       "url": "https://open.spotify.com/track/7wrnCfwFrQtfj3JRl4c0uy"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
+      },
+      "artists": [
+        {
+          "name": "Death Blooms",
+          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
+        }
+      ],
+      "duration_ms": 204848,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
+    },
+    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "REB00T MYSELF (feat. Tired Violence)",
@@ -1023,22 +1067,6 @@
       "duration_ms": 184840,
       "name": "REB00T MYSELF (feat. Tired Violence)",
       "url": "https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
-      },
-      "artists": [
-        {
-          "name": "Death Blooms",
-          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
-        }
-      ],
-      "duration_ms": 204848,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1103,34 +1131,6 @@
       "duration_ms": 331015,
       "name": "Shrinking Violet",
       "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "ANTAGONIST RETURNS",
-        "url": "https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb"
-      },
-      "artists": [
-        {
-          "name": "The Worst of Us",
-          "url": "https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW"
-        },
-        {
-          "name": "ALEX",
-          "url": "https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO"
-        },
-        {
-          "name": "TOKYO ROSE",
-          "url": "https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N"
-        },
-        {
-          "name": "THE AKUMA",
-          "url": "https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW"
-        }
-      ],
-      "duration_ms": 217308,
-      "name": "ANTAGONIST RETURNS",
-      "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Kings Today",
-        "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
-      },
-      "artists": [
-        {
-          "name": "Sicksense",
-          "url": "https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc"
-        },
-        {
-          "name": "Vicky Psarakis",
-          "url": "https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ"
-        }
-      ],
-      "duration_ms": 235954,
-      "name": "Kings Today",
-      "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Bleed Like You",
         "url": "https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 272000,
       "name": "80486DX",
       "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Kings Today",
+        "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
+      },
+      "artists": [
+        {
+          "name": "Sicksense",
+          "url": "https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc"
+        },
+        {
+          "name": "Vicky Psarakis",
+          "url": "https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ"
+        }
+      ],
+      "duration_ms": 235954,
+      "name": "Kings Today",
+      "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
     },
     {
       "added_at": "2022-11-18 01:42:16",

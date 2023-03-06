@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: El Alfa",
-  "num_followers": 78111,
+  "num_followers": 78184,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDE3YzgxN2FiNzI0NTFkZTAwNzE3ZDZhZjNlNWFiOTRi",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGQ1OGI0ZmY0YTI5MDcyMDU0YTUyNTQwZDY1Y2Y5Yzdj",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Tumbala",
+        "url": "https://open.spotify.com/album/09oK38U1xFy88t6Iho7ojt"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Tumbala",
+      "url": "https://open.spotify.com/track/7oieFIG0uypkJeI1akfkQ5"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Zuculento",
         "url": "https://open.spotify.com/album/1scppHxJtrQhNHdi5HM9od"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 167168,
       "name": "Zuculento",
       "url": "https://open.spotify.com/track/7zmJxjG9P9if2WRBnNl81o"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Tumbala",
-        "url": "https://open.spotify.com/album/09oK38U1xFy88t6Iho7ojt"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Tumbala",
-      "url": "https://open.spotify.com/track/7oieFIG0uypkJeI1akfkQ5"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Dembow Hits",
-        "url": "https://open.spotify.com/album/3KmHYKhbEdO8CvzLzT46u6"
-      },
-      "artists": [
-        {
-          "name": "Paramba",
-          "url": "https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "Que Se Mueran de Envidia - Remix",
-      "url": "https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "El Kun Kun",
         "url": "https://open.spotify.com/album/20w0Oi13axY5skXpwhtuVZ"
       },
@@ -1271,22 +1251,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Limonada Coco (Remix)",
-        "url": "https://open.spotify.com/album/3liRtVXbGcDBNHoCwAS7i5"
+        "name": "Dembow Hits",
+        "url": "https://open.spotify.com/album/3KmHYKhbEdO8CvzLzT46u6"
       },
       "artists": [
         {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+          "name": "Paramba",
+          "url": "https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi"
         },
         {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 216816,
-      "name": "Limonada Coco - Remix",
-      "url": "https://open.spotify.com/track/2B6fcfcO3E54venwlb4N7B"
+      "duration_ms": 223026,
+      "name": "Que Se Mueran de Envidia - Remix",
+      "url": "https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1319,6 +1299,26 @@
       "duration_ms": 215301,
       "name": "La Chapa Que Vibran",
       "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Limonada Coco (Remix)",
+        "url": "https://open.spotify.com/album/3liRtVXbGcDBNHoCwAS7i5"
+      },
+      "artists": [
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        }
+      ],
+      "duration_ms": 216816,
+      "name": "Limonada Coco - Remix",
+      "url": "https://open.spotify.com/track/2B6fcfcO3E54venwlb4N7B"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Hip Hop Dominicano",
+        "url": "https://open.spotify.com/album/1d7x3KPX9Icc4AqG5oZau7"
+      },
+      "artists": [
+        {
+          "name": "Atomic Otro Way",
+          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+        }
+      ],
+      "duration_ms": 199052,
+      "name": "El Humo",
+      "url": "https://open.spotify.com/track/3KTlbM0gwYUiDfCiwpNBXs"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Ayayai",
         "url": "https://open.spotify.com/album/5La0K5s0ftUoLMUGAAHgjG"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 166025,
       "name": "Ayayai",
       "url": "https://open.spotify.com/track/0YI55FQIlBuy7CKSVZ5ygp"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Hip Hop Dominicano",
-        "url": "https://open.spotify.com/album/1d7x3KPX9Icc4AqG5oZau7"
-      },
-      "artists": [
-        {
-          "name": "Atomic Otro Way",
-          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
-        }
-      ],
-      "duration_ms": 199052,
-      "name": "El Humo",
-      "url": "https://open.spotify.com/track/3KTlbM0gwYUiDfCiwpNBXs"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1859,22 +1859,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "La Libreta",
-        "url": "https://open.spotify.com/album/1MZOBdiRgaQ7TvuGUzwzIN"
+        "name": "Hoy Me Desacato Dale Pipo",
+        "url": "https://open.spotify.com/album/1HkcysDSgRBGuPZoTvoMIn"
       },
       "artists": [
         {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        },
-        {
-          "name": "Atomic Otro Way",
-          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
         }
       ],
-      "duration_ms": 205348,
-      "name": "Ponte Freca",
-      "url": "https://open.spotify.com/track/66yTiMUt2nv74sPqiPqHEp"
+      "duration_ms": 162482,
+      "name": "Hoy Me Desacato Dale Pipo",
+      "url": "https://open.spotify.com/track/0q4DQ6tvmFhpQZFdcJLV1K"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1907,18 +1903,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Hoy Me Desacato Dale Pipo",
-        "url": "https://open.spotify.com/album/1HkcysDSgRBGuPZoTvoMIn"
+        "name": "La Libreta",
+        "url": "https://open.spotify.com/album/1MZOBdiRgaQ7TvuGUzwzIN"
       },
       "artists": [
         {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "Atomic Otro Way",
+          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
         }
       ],
-      "duration_ms": 162482,
-      "name": "Hoy Me Desacato Dale Pipo",
-      "url": "https://open.spotify.com/track/0q4DQ6tvmFhpQZFdcJLV1K"
+      "duration_ms": 205348,
+      "name": "Ponte Freca",
+      "url": "https://open.spotify.com/track/66yTiMUt2nv74sPqiPqHEp"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Serrucho Amolao",
+        "url": "https://open.spotify.com/album/2EKRKVugMMCQb5iDgWRw5N"
+      },
+      "artists": [
+        {
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
+        }
+      ],
+      "duration_ms": 232151,
+      "name": "Serrucho Amolao",
+      "url": "https://open.spotify.com/track/1kzs05g4L7sADL1JCBVH1s"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Flotaera",
         "url": "https://open.spotify.com/album/1pdt1WhLnsRZ2zZ9laqKe4"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 144406,
       "name": "Flotaera",
       "url": "https://open.spotify.com/track/0axj1N7mJkA71nD8qNqLPM"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Serrucho Amolao",
-        "url": "https://open.spotify.com/album/2EKRKVugMMCQb5iDgWRw5N"
-      },
-      "artists": [
-        {
-          "name": "Shelow Shaq",
-          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
-        }
-      ],
-      "duration_ms": 232151,
-      "name": "Serrucho Amolao",
-      "url": "https://open.spotify.com/track/1kzs05g4L7sADL1JCBVH1s"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2955,26 +2955,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Una Movie",
-        "url": "https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4"
-      },
-      "artists": [
-        {
-          "name": "Rickstarr",
-          "url": "https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ"
-        },
-        {
-          "name": "JoeyTheGawd",
-          "url": "https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv"
-        }
-      ],
-      "duration_ms": 150471,
-      "name": "Una Movie",
-      "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Llevo la Vainita",
         "url": "https://open.spotify.com/album/77uDtYXYbHgxQWvT7YCKAX"
       },
@@ -3011,6 +2991,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Una Movie",
+        "url": "https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4"
+      },
+      "artists": [
+        {
+          "name": "Rickstarr",
+          "url": "https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ"
+        },
+        {
+          "name": "JoeyTheGawd",
+          "url": "https://open.spotify.com/artist/7mDa1EIcZvO8P8IqeczUSv"
+        }
+      ],
+      "duration_ms": 150471,
+      "name": "Una Movie",
+      "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Vaina Bakana",
         "url": "https://open.spotify.com/album/63VzRHrUrmftA2NbRrgzk8"
       },
@@ -3023,22 +3023,6 @@
       "duration_ms": 197217,
       "name": "Vaina Bakana",
       "url": "https://open.spotify.com/track/6zv9M2zIHPSXOLOJsAPW0U"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/6Q600rdy08nCJuabWw7qeR"
-      },
-      "artists": [
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        }
-      ],
-      "duration_ms": 195492,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -3059,6 +3043,22 @@
       "duration_ms": 289201,
       "name": "Como Lo Capo",
       "url": "https://open.spotify.com/track/7f3QVHV8UEwbL2duHAcDGo"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/6Q600rdy08nCJuabWw7qeR"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "duration_ms": 195492,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G"
     },
     {
       "added_at": "2023-02-24 05:00:00",

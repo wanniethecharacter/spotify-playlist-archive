@@ -366,7 +366,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 207413,
       "name": "Bailando Lentos",
       "url": "https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE"
@@ -2796,6 +2796,24 @@
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "album": {
+        "name": "Tu Labial",
+        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227018,
+      "name": "Tu Labial",
+      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
     },
     {
       "album": {

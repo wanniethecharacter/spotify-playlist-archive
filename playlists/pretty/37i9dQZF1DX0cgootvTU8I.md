@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,018 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,073 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 46 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
 | 47 | [Casca](https://open.spotify.com/track/4Qu41yeeAQ3bCQ4Dd8JUuG) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S), [Tamen](https://open.spotify.com/artist/2HVIdpqXvq82kEqaXzWIc6) | [Casca EP](https://open.spotify.com/album/3M4zL1J2RN7sZrRb4LcG4j) | 5:55 |
 | 48 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 |
-| 49 | [DANGER!](https://open.spotify.com/track/7FW0vBBn9JB364K2aUOWCp) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [DANGER!](https://open.spotify.com/album/0A2QLAw1OqmIUleF57n52T) | 2:56 |
-| 50 | [Invisible Shell of Energy](https://open.spotify.com/track/7tr7SA0R0SmErK0KamRJ2O) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1) | [Post Modern](https://open.spotify.com/album/2oLnlmH72BZTuDM2TMWmxI) | 6:42 |
+| 49 | [Invisible Shell of Energy](https://open.spotify.com/track/7tr7SA0R0SmErK0KamRJ2O) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1) | [Post Modern](https://open.spotify.com/album/2oLnlmH72BZTuDM2TMWmxI) | 6:42 |
+| 50 | [DANGER!](https://open.spotify.com/track/7FW0vBBn9JB364K2aUOWCp) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [DANGER!](https://open.spotify.com/album/0A2QLAw1OqmIUleF57n52T) | 2:56 |
 
-Snapshot ID: `MTY3NDE4OTM4NCwwMDAwMDAwMGZiZDBkMWJhNWIwMGZjYzY3YWRiODA1YTlhZTkyMTQ5`
+Snapshot ID: `MTY3NDE4OTM4NCwwMDAwMDAwMGFmN2Y3YTNkZjQ4ZGRlNjVjYjEzMjExMjhlMWNjNjFl`

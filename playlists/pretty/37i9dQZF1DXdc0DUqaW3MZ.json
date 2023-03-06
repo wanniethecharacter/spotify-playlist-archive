@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 296503,
+  "num_followers": 296596,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGM0ZDczOTM3NzBlYmI1YjkxNjFlOWQxYTZlNWNlOGQ3",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDZmZTdiYTdlYzg4NGEwZWI1MmU4ODY5ZDg2YTA5MmZi",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 315608,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "FVR105 (p-rallel Remix)",
         "url": "https://open.spotify.com/album/6LMCxZc1m2uTJ1ZSNwgjYz"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 193000,
       "name": "FVR105 - p-rallel Remix",
       "url": "https://open.spotify.com/track/5F4jNQAtcorOBctGgpcjNh"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
-      },
-      "artists": [
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 315608,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Pleasure (Now & Forever)",
-        "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
-      },
-      "artists": [
-        {
-          "name": "Buddy Love",
-          "url": "https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Boy Blue",
-      "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Super Good Times",
         "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
       },
@@ -1139,22 +1123,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA"
-      },
-      "artists": [
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        }
-      ],
-      "duration_ms": 239178,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Big Bad Mood (feat. Miraa May)",
         "url": "https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ"
       },
@@ -1171,6 +1139,38 @@
       "duration_ms": 229090,
       "name": "Big Bad Mood (feat. Miraa May)",
       "url": "https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Pleasure (Now & Forever)",
+        "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
+      },
+      "artists": [
+        {
+          "name": "Buddy Love",
+          "url": "https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Boy Blue",
+      "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA"
+      },
+      "artists": [
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 239178,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD"
     },
     {
       "added_at": "2022-06-20 14:19:42",

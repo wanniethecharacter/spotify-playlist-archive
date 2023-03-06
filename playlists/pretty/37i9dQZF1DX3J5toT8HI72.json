@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas para voc\u00ea curtir com seu amor.",
-  "num_followers": 763170,
+  "num_followers": 763267,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDYzODAwMCwwMDAwMDAwMDIwNWZkZWMwODI5NWYyNzc2Yzg5ZTkxNzBmNWIwMzAy",
+  "snapshot_id": "MTYzMDYzODAwMCwwMDAwMDAwMDRiZTMyNjkyNzE0YmQ5NDk0NDA2YzFhYWM2NDc4OWQx",
   "tracks": [
     {
       "added_at": "2021-09-03 03:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Entrela\u00e7os/In\u00e9rcia",
-        "url": "https://open.spotify.com/album/0IiOAGrdsbhSZfxaHtFXgi"
+        "name": "Melhores Momentos",
+        "url": "https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa"
       },
       "artists": [
         {
-          "name": "Scalene",
-          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
-      "duration_ms": 197979,
-      "name": "Entrela\u00e7os",
-      "url": "https://open.spotify.com/track/7G8g5eNiXRtM96YAQ09Nsl"
+      "duration_ms": 151306,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Melhores Momentos",
-        "url": "https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa"
+        "name": "Entrela\u00e7os/In\u00e9rcia",
+        "url": "https://open.spotify.com/album/0IiOAGrdsbhSZfxaHtFXgi"
       },
       "artists": [
         {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+          "name": "Scalene",
+          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
         }
       ],
-      "duration_ms": 151306,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI"
+      "duration_ms": 197979,
+      "name": "Entrela\u00e7os",
+      "url": "https://open.spotify.com/track/7G8g5eNiXRtM96YAQ09Nsl"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Ideologia",
-        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Minha Flor Meu Beb\u00ea",
-      "url": "https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Alian\u00e7a",
         "url": "https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 206181,
       "name": "Trevo (Tu)",
       "url": "https://open.spotify.com/track/5q4JsfI9AB24MvocER0uOF"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Ideologia",
+        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Minha Flor Meu Beb\u00ea",
+      "url": "https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB"
     },
     {
       "added_at": "2021-09-03 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 920502,
+  "num_followers": 920617,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDAxZjA2NmZkMzVjODBkYzg1ZjE0MmQzNTdkZWVkMTNl",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDM1YThkYmQ0NTVhZjdlMzU3MDdkNzU1MWUxMzdlOGMw",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2021-06-07 17:28:18",
       "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
+    },
+    {
+      "added_at": "2021-06-07 17:28:18",
+      "album": {
         "name": "WITHOUT YOU (with Miley Cyrus)",
         "url": "https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT"
       },
@@ -449,22 +465,6 @@
       "url": "https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g"
     },
     {
-      "added_at": "2021-06-07 17:28:18",
-      "album": {
-        "name": "All The Little Lights",
-        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Numb Little Bug",
@@ -479,26 +479,6 @@
       "duration_ms": 169237,
       "name": "Numb Little Bug",
       "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
-    },
-    {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 241595,
-      "name": "Let Somebody Go",
-      "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
     },
     {
       "added_at": "2021-06-07 17:28:18",
@@ -519,6 +499,26 @@
       "duration_ms": 171374,
       "name": "Savage Love (Laxed - Siren Beat)",
       "url": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
+    },
+    {
+      "added_at": "2021-10-15 04:01:00",
+      "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 241595,
+      "name": "Let Somebody Go",
+      "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
     },
     {
       "added_at": "2021-06-07 17:28:18",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Sorry To Me Too",
-        "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 209596,
-      "name": "Sorry To Me Too",
-      "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
-    },
-    {
       "added_at": "2021-09-24 04:01:00",
       "album": {
         "name": "these words are all for you",
@@ -967,6 +951,22 @@
       "duration_ms": 182187,
       "name": "wish you well",
       "url": "https://open.spotify.com/track/1Y3Lv6ul3BeSQltSAfwZdo"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Sorry To Me Too",
+        "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 209596,
+      "name": "Sorry To Me Too",
+      "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "These Tears",
-        "url": "https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 169656,
-      "name": "These Tears",
-      "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
-    },
-    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "MANIAC (feat. Windser)",
@@ -1581,6 +1565,22 @@
       "url": "https://open.spotify.com/track/4Dmav01B2Fra0U4VYPPq4d"
     },
     {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "These Tears",
+        "url": "https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 169656,
+      "name": "These Tears",
+      "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
+    },
+    {
       "added_at": "2021-06-07 17:28:18",
       "album": {
         "name": "Almost Maybes",
@@ -1597,22 +1597,6 @@
       "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
     },
     {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
-    },
-    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "One Night",
@@ -1627,6 +1611,22 @@
       "duration_ms": 167280,
       "name": "One Night",
       "url": "https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq"
+    },
+    {
+      "added_at": "2021-07-09 04:01:00",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -1647,22 +1647,6 @@
       "duration_ms": 180596,
       "name": "Undeniable (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Waking Up Dreaming",
-        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 198802,
-      "name": "Waking Up Dreaming",
-      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
     },
     {
       "added_at": "2021-08-20 04:01:00",
@@ -1699,6 +1683,22 @@
       "duration_ms": 151500,
       "name": "ROOM FOR 2",
       "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Waking Up Dreaming",
+        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 198802,
+      "name": "Waking Up Dreaming",
+      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1757,22 +1757,6 @@
       "url": "https://open.spotify.com/track/2q9YHakYN697yPpEitqybk"
     },
     {
-      "added_at": "2021-09-17 04:02:00",
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 244635,
-      "name": "altar",
-      "url": "https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "Boy Alone",
@@ -1791,6 +1775,22 @@
       "duration_ms": 180563,
       "name": "attention",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
+    },
+    {
+      "added_at": "2021-09-17 04:02:00",
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 244635,
+      "name": "altar",
+      "url": "https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1913,22 +1913,6 @@
       "url": "https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "What's Been On Your Mind?",
-        "url": "https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 172490,
-      "name": "What's Been On Your Mind?",
-      "url": "https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2"
-    },
-    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "A LOT",
@@ -1943,6 +1927,22 @@
       "duration_ms": 181945,
       "name": "A LOT",
       "url": "https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "What's Been On Your Mind?",
+        "url": "https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 172490,
+      "name": "What's Been On Your Mind?",
+      "url": "https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2"
     },
     {
       "added_at": "2021-09-17 04:02:00",
@@ -2025,22 +2025,6 @@
       "url": "https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Dare You To Doubt Me",
-        "url": "https://open.spotify.com/album/5EUrcYE8wqM2tavV6GXDM3"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 191730,
-      "name": "Dare You To Doubt Me",
-      "url": "https://open.spotify.com/track/10RUyNnakybrdAhIm65Lkx"
-    },
-    {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "Another Day",
@@ -2055,6 +2039,22 @@
       "duration_ms": 153267,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/7sTcNcxIIRpEdSu3W6k8Ky"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Dare You To Doubt Me",
+        "url": "https://open.spotify.com/album/5EUrcYE8wqM2tavV6GXDM3"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 191730,
+      "name": "Dare You To Doubt Me",
+      "url": "https://open.spotify.com/track/10RUyNnakybrdAhIm65Lkx"
     },
     {
       "added_at": "2022-06-03 04:01:00",

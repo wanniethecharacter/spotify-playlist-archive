@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Luke Combs",
-  "num_followers": 491978,
+  "num_followers": 492219,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDVjMjhhZjg4ZGVkM2Q4YzU2NGQ2ZjZkOTYyMDc1Mjcz",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDg4ZjhiMGFhNGEzYjlhNDVhNGY0NjEyYjA2MTVlZTQ0",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Mr. Saturday Night",
-        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 161200,
-      "name": "Your Heart Or Mine",
-      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
+      "duration_ms": 166035,
+      "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
+      "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+        "name": "Mr. Saturday Night",
+        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 166035,
-      "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
-      "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
+      "duration_ms": 161200,
+      "name": "Your Heart Or Mine",
+      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "MACON",
+        "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 189306,
+      "name": "That's What Tequila Does",
+      "url": "https://open.spotify.com/track/6kCFt2ATuMIE5H9zVEJXei"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Giddy Up!",
         "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 167760,
       "name": "Gold",
       "url": "https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "MACON",
-        "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 189306,
-      "name": "That's What Tequila Does",
-      "url": "https://open.spotify.com/track/6kCFt2ATuMIE5H9zVEJXei"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Looking for You + All Dogs Go to Heaven",
+        "url": "https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "Looking for You",
+      "url": "https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Jackson Dean",
         "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
       },
@@ -1291,26 +1307,6 @@
       "duration_ms": 187957,
       "name": "Don't Come Lookin'",
       "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Famous Friends",
-        "url": "https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 165569,
-      "name": "Famous Friends",
-      "url": "https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1451,18 +1447,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Looking for You + All Dogs Go to Heaven",
-        "url": "https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j"
+        "name": "Famous Friends",
+        "url": "https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1"
       },
       "artists": [
         {
           "name": "Chris Young",
           "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 179973,
-      "name": "Looking for You",
-      "url": "https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9"
+      "duration_ms": 165569,
+      "name": "Famous Friends",
+      "url": "https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "what made you think?",
-        "url": "https://open.spotify.com/album/7bA8ZMcrVLEoNCIq7ZHutq"
-      },
-      "artists": [
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "what made you think?",
-      "url": "https://open.spotify.com/track/3IkCyX2KnQIyuAYQiT1wtR"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Bettie James",
         "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 212720,
       "name": "Freedom Was A Highway",
       "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "what made you think?",
+        "url": "https://open.spotify.com/album/7bA8ZMcrVLEoNCIq7ZHutq"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "what made you think?",
+      "url": "https://open.spotify.com/track/3IkCyX2KnQIyuAYQiT1wtR"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+        "name": "Damn Strait",
+        "url": "https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
         }
       ],
-      "duration_ms": 169306,
-      "name": "I Can't Love You Anymore",
-      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
+      "duration_ms": 230226,
+      "name": "Damn Strait",
+      "url": "https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b"
     }
   ],
   "unique_name": "Big Country",

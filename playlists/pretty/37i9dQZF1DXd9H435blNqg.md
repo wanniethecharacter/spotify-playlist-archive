@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,353 likes - 74 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,412 likes - 74 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 36 | [Reaching](https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Reaching](https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ) | 3:15 |
 | 37 | [Too Bad](https://open.spotify.com/track/0UxhRgcEhJdGkuLRKXbdHN) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Desert Dreams](https://open.spotify.com/album/71OHum7ucyhzFO7QnLiEhj) | 3:10 |
 | 38 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
-| 39 | [Tears Of Blue To Gold](https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:12 |
+| 39 | [Tears Of Blue To Gold](https://open.spotify.com/track/604I2KSZvAA3fjbZpAbJ5v) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:12 |
 | 40 | [Keep Diggin'](https://open.spotify.com/track/25unV5ocnBz4kZyhd554PT) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:13 |
 | 41 | [One Thing \(2020\)](https://open.spotify.com/track/5AU6psoPKvjkfgISTSrbCS) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/12etpmMvVYThaqygVi0UKE) | 4:06 |
 | 42 | [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 73 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 |
 | 74 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGRlZWIxYWZjYmQ2NTcyOWYxOWJkOTVhZjVkNTA3Yzg2`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGFlNzUwMzY3YmFjOTdiYmQzZjAzZjQwNTRjNWQ5ZWI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 643 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 648 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 4 | [Rev nou ancétres](https://open.spotify.com/track/2Bqtk3rEMJNCLGoGY52Xkd) | [Cassiya](https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo) | [Le meilleur de Cassiya avec Désiré François \(Best Of, vol\. 1\)](https://open.spotify.com/album/6KeVT9o7E0gqnyhugESYnh) | 4:33 |
 | 5 | [Roule Matak, Pt\. 1](https://open.spotify.com/track/1RQPzvQfwJlgCXL24cs3mj) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya), [Jor'dan](https://open.spotify.com/artist/5bfaXvOfbazvljanbZvHqu) | [Roule Matak](https://open.spotify.com/album/4v3b53w4gWZyHSUqBObEyf) | 2:23 |
 | 6 | [Pomper](https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv) | [Gary Victor](https://open.spotify.com/artist/34uDf9D2S1QCyFIt8TNcm1) | [Elle danse](https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV) | 3:22 |
-| 7 | [Kifer to Pale Danse](https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX) | [Jason Heerah](https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl), [Otentik Groove](https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK) | [Nou Sime](https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6) | 3:45 |
-| 8 | [Tik tike](https://open.spotify.com/track/5cTWHkZlLsAGF2yZKqSz5g) | [Laura Beg](https://open.spotify.com/artist/3CjANrHEK3lSf6TkuVuqSf) | [Tik tiker](https://open.spotify.com/album/6FPK9Rz9fKmNgOmtY7jQKW) | 4:06 |
+| 7 | [Tik tike](https://open.spotify.com/track/5cTWHkZlLsAGF2yZKqSz5g) | [Laura Beg](https://open.spotify.com/artist/3CjANrHEK3lSf6TkuVuqSf) | [Tik tiker](https://open.spotify.com/album/6FPK9Rz9fKmNgOmtY7jQKW) | 4:06 |
+| 8 | [Kifer to Pale Danse](https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX) | [Jason Heerah](https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl), [Otentik Groove](https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK) | [Nou Sime](https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6) | 3:45 |
 | 9 | [Di pain griyé](https://open.spotify.com/track/7oHhCJYWfrQC6000ZhGrEk) | [Désiré François](https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9), [Cassiya](https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo) | [Di pain griyé](https://open.spotify.com/album/2jCW2gVLxfJ7Sj1KtNyWgr) | 4:02 |
 | 10 | [La force l'amour](https://open.spotify.com/track/0JIvxiw7QnoNeyQSo9PV5D) | [Clara](https://open.spotify.com/artist/443OVqDhZDFnORwaL5QRuB) | [Mon univers](https://open.spotify.com/album/5qQ2QdNViIJp553V4KS86y) | 3:40 |
 | 11 | [Trottinette](https://open.spotify.com/track/7wRYnhZoNWtqcFJHAycRiC) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf), [Abdoul](https://open.spotify.com/artist/23IOAUeDv9mxdPgXvGW8ES), [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF) | [Trottinette](https://open.spotify.com/album/5pBlzWYCpI1ftHAEF5IE0Z) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [Anita\-Papa / Creole\-Barè](https://open.spotify.com/track/5j5DHnAYh4qN7r7wkocP7a) | [Denis Azor](https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf) | [Music from Mauritius](https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3) | 6:10 |
 | 50 | [Touletemp \(feat\. Sista Queen\)](https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX) | [Jah Mike](https://open.spotify.com/artist/5feVIF1cBHjeTWCFFVivoH), [Sista Queen](https://open.spotify.com/artist/7cI26ISQuWm0h8rlYL1so8) | [Enn lot kouler](https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok) | 3:57 |
 
-Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMDQ4OGRmZWM4M2VkODk1ZTQ5MWNkZWFiMWRjNWZjNjc1`
+Snapshot ID: `MTY2MDIxMjMxNiwwMDAwMDAwMDEzNzI5YTNiMDE4MmFkODAyMmY5Y2RjYWRlMmM1NjIw`

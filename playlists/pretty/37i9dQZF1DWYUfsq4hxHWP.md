@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Reyna Roberts, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,706 likes - 126 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,715 likes - 126 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Another Round \(feat\. Tayler Holder\)](https://open.spotify.com/track/4PDVSGSRqigxcgtlTSY8vf) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh), [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Another Round \(feat\. Tayler Holder\)](https://open.spotify.com/album/02mXeEgY8dVgrN7dGR04qU) | 2:56 |
+| 1 | [Another Round](https://open.spotify.com/track/4PDVSGSRqigxcgtlTSY8vf) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh), [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Another Round](https://open.spotify.com/album/02mXeEgY8dVgrN7dGR04qU) | 2:56 |
 | 2 | [Over a Girl](https://open.spotify.com/track/2f9t0AgnGsYwFguFLsyv19) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [Over a Girl](https://open.spotify.com/album/5DjVp2LUzfz8iBY3K4tgbp) | 2:53 |
 | 3 | [Downer](https://open.spotify.com/track/1taSR1rOPmFuvb06mULn1V) | [The Tuten Brothers](https://open.spotify.com/artist/1SKdnfGF5KypZsRJCb7M7h) | [Downer](https://open.spotify.com/album/6ok98TIesutjr53aSwSJbt) | 3:06 |
 | 4 | [Grew Up On It](https://open.spotify.com/track/0UyQpADQetej2NHaysUDo2) | [Melissa Livingstone](https://open.spotify.com/artist/4g9kvG3h1g9Y8EIAnuzzTY) | [Grew Up On It](https://open.spotify.com/album/3e1ZMEdS1PEHtV67w13IJF) | 2:58 |

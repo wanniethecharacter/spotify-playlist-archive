@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMjU4MTE2MCwwMDAwMDAwMGIyYjhmODAyOTI3MmIzZGJjOGI3NTY5MTcxZjk3ZTMz",
+  "snapshot_id": "MTYxMjU4MTE2MCwwMDAwMDAwMGI1N2VlYTYyMzU4ZjZjYjhiNjU5NTVhNzc5OTFjN2Rj",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -151,22 +151,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/2BqvfvkRMxwKB6wRlUO26R"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 251226,
-      "name": "Place de la R\u00e9publique",
-      "url": "https://open.spotify.com/track/2RSjgW4arutr9Q5Va9ur8U"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le mouvement des mar\u00e9es",
         "url": "https://open.spotify.com/album/1V3hJGztX39ZYfoTQOvi0E"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 228266,
       "name": "Blanc cass\u00e9",
       "url": "https://open.spotify.com/track/26ar8SJWPlzN4NMD38dyxS"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/2BqvfvkRMxwKB6wRlUO26R"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 251226,
+      "name": "Place de la R\u00e9publique",
+      "url": "https://open.spotify.com/track/2RSjgW4arutr9Q5Va9ur8U"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -307,22 +307,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/63RCfZKMzbxI8ltgzSzM1G"
-      },
-      "artists": [
-        {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "M'attends-tu",
-      "url": "https://open.spotify.com/track/1fxOtL0FoCD9kSY9Luis96"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Mara Tremblay",
         "url": "https://open.spotify.com/album/7xY5VWfJROGenbou4vtfz6"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 245093,
       "name": "Les Aurores",
       "url": "https://open.spotify.com/track/1AaMx4sHbjGx5h38jsjBCF"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/63RCfZKMzbxI8ltgzSzM1G"
+      },
+      "artists": [
+        {
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "M'attends-tu",
+      "url": "https://open.spotify.com/track/1fxOtL0FoCD9kSY9Luis96"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Fatale",
-        "url": "https://open.spotify.com/album/0RB7JoaGx5mcCcDbMDyRM9"
-      },
-      "artists": [
-        {
-          "name": "Dear Criminals",
-          "url": "https://open.spotify.com/artist/0RRHsaFaNgJg9vHSWsQ4kg"
-        }
-      ],
-      "duration_ms": 116575,
-      "name": "7",
-      "url": "https://open.spotify.com/track/6VyfmBp0tqEWBQAg2DkjyC"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Ce que je te donne ne dispara\u00eet pas",
         "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La grande nuit vid\u00e9o",
-        "url": "https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv"
+        "name": "Fatale",
+        "url": "https://open.spotify.com/album/0RB7JoaGx5mcCcDbMDyRM9"
       },
       "artists": [
         {
-          "name": "Philippe B",
-          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
+          "name": "Dear Criminals",
+          "url": "https://open.spotify.com/artist/0RRHsaFaNgJg9vHSWsQ4kg"
         }
       ],
-      "duration_ms": 204704,
-      "name": "Rouge-gorge",
-      "url": "https://open.spotify.com/track/7MVdiX7zo5AnRDmaL0Loc4"
+      "duration_ms": 116575,
+      "name": "7",
+      "url": "https://open.spotify.com/track/6VyfmBp0tqEWBQAg2DkjyC"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -843,6 +827,22 @@
       "duration_ms": 189000,
       "name": "Un Autre \u00c9t\u00e9",
       "url": "https://open.spotify.com/track/22sQRY8rd7fIbIgMHRc3eO"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "La grande nuit vid\u00e9o",
+        "url": "https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv"
+      },
+      "artists": [
+        {
+          "name": "Philippe B",
+          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
+        }
+      ],
+      "duration_ms": 204704,
+      "name": "Rouge-gorge",
+      "url": "https://open.spotify.com/track/7MVdiX7zo5AnRDmaL0Loc4"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Hisser haut",
-        "url": "https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8"
-      },
-      "artists": [
-        {
-          "name": "David Gigu\u00e8re",
-          "url": "https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "L'atelier",
-      "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le long chemin (Version acoustique)",
         "url": "https://open.spotify.com/album/3ucnDEuxr967xAyqfulDBl"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 220146,
       "name": "Le long chemin - Version acoustique",
       "url": "https://open.spotify.com/track/6V0ljhx2IN2V3WdN7rU5hs"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Hisser haut",
+        "url": "https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8"
+      },
+      "artists": [
+        {
+          "name": "David Gigu\u00e8re",
+          "url": "https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "L'atelier",
+      "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Pink Lady",
+        "url": "https://open.spotify.com/album/4b9ogUkhATCAiphTZ9HOFI"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+        }
+      ],
+      "duration_ms": 275533,
+      "name": "Je ne viendrai pas demain",
+      "url": "https://open.spotify.com/track/5GZmuKblUeXxGQMOlUkZod"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Parades",
         "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 215295,
       "name": "Le plein de r\u00e9confort",
       "url": "https://open.spotify.com/track/0zIxFGUFxSX6bsvi5rGpso"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Pink Lady",
-        "url": "https://open.spotify.com/album/4b9ogUkhATCAiphTZ9HOFI"
-      },
-      "artists": [
-        {
-          "name": "Rose",
-          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
-        }
-      ],
-      "duration_ms": 275533,
-      "name": "Je ne viendrai pas demain",
-      "url": "https://open.spotify.com/track/5GZmuKblUeXxGQMOlUkZod"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
+        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 186215,
+      "name": "Rien ne se perd, rien ne se cr\u00e9e",
+      "url": "https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Alexe",
         "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
-        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 186215,
-      "name": "Rien ne se perd, rien ne se cr\u00e9e",
-      "url": "https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Les filles sages vont au paradis les autres vont o\u00f9 elles veulent",
         "url": "https://open.spotify.com/album/60gk5lYerWSscx4ec7iNnn"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 256361,
       "name": "Dactylo",
       "url": "https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "M\u00e9lodica",
+        "url": "https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO"
+      },
+      "artists": [
+        {
+          "name": "Steve Marin",
+          "url": "https://open.spotify.com/artist/12DRXR9D3T4jBM9Y88FA7u"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Habiter l'avenir",
+      "url": "https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1575,22 +1591,6 @@
       "duration_ms": 194042,
       "name": "Le courant",
       "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "M\u00e9lodica",
-        "url": "https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO"
-      },
-      "artists": [
-        {
-          "name": "Steve Marin",
-          "url": "https://open.spotify.com/artist/12DRXR9D3T4jBM9Y88FA7u"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Habiter l'avenir",
-      "url": "https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg"
     },
     {
       "added_at": "2021-02-06 03:12:40",

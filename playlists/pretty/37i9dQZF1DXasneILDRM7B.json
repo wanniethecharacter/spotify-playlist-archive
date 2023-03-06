@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: Paramore",
-  "num_followers": 2902664,
+  "num_followers": 2903149,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NjM4MywwMDAwMDAwMDkyOGRlMTZlZjQ4ODkxYTgwZDk1NDQwMWVlNmI5MTY4",
+  "snapshot_id": "MTY3NjA0NjM4MywwMDAwMDAwMDI3NzkyNmExYmI0OWUzOTllMTNjMTkwZDY0MDBjZDlj",
   "tracks": [
     {
       "added_at": "2023-01-25 14:57:38",
@@ -645,22 +645,6 @@
       "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
     },
     {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Ocean Avenue",
-        "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"
-    },
-    {
       "added_at": "2023-02-10 16:26:23",
       "album": {
         "name": "Americana",
@@ -675,6 +659,22 @@
       "duration_ms": 172466,
       "name": "Why Don't You Get A Job",
       "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Ocean Avenue",
+        "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -743,6 +743,22 @@
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+    },
+    {
+      "added_at": "2023-02-10 16:26:23",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -829,22 +845,6 @@
       "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
     },
     {
-      "added_at": "2023-02-10 16:26:23",
-      "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Come Out and Play",
-      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
-    },
-    {
       "added_at": "2023-01-25 14:57:38",
       "album": {
         "name": "Take Off Your Pants And Jacket",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Dirty Little Secret",
-      "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "Let's Cheers To This",
         "url": "https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 190173,
       "name": "Lifestyles of the Rich & Famous",
       "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Dirty Little Secret",
+      "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
     },
     {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
-    },
-    {
       "added_at": "2023-02-10 16:26:23",
       "album": {
         "name": "Bleed American",
@@ -1083,6 +1067,22 @@
       "duration_ms": 220026,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-02-10 16:26:23",
       "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
-    },
-    {
-      "added_at": "2023-02-10 16:26:23",
-      "album": {
         "name": "Love Bites",
         "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 163693,
       "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
       "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
+    },
+    {
+      "added_at": "2023-02-10 16:26:23",
+      "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1"
     },
     {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Burnout (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1G2wZ64g38gD8q3e4XMzdH"
-      },
-      "artists": [
-        {
-          "name": "Anarbor",
-          "url": "https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "18",
-      "url": "https://open.spotify.com/track/21hbZ0yllYOoXEbiFDYMSI"
-    },
-    {
       "added_at": "2023-02-10 16:26:23",
       "album": {
         "name": "...And Out Come The Wolves",
@@ -1291,6 +1275,22 @@
       "duration_ms": 144333,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Burnout (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1G2wZ64g38gD8q3e4XMzdH"
+      },
+      "artists": [
+        {
+          "name": "Anarbor",
+          "url": "https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "18",
+      "url": "https://open.spotify.com/track/21hbZ0yllYOoXEbiFDYMSI"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
-      "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "Take This to Your Grave",
         "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 191373,
       "name": "Grand Theft Autumn / Where Is Your Boy",
       "url": "https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+      "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T"
     },
     {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Picture Perfect",
-        "url": "https://open.spotify.com/album/0MgL5MkrqC9wqDuiSedJ14"
-      },
-      "artists": [
-        {
-          "name": "Every Avenue",
-          "url": "https://open.spotify.com/artist/1IpSmgcN9F3KNa7j9JtAE4"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Tell Me I'm A Wreck",
-      "url": "https://open.spotify.com/track/203zTFd1zbfG0fiOG9OREv"
-    },
-    {
       "added_at": "2023-02-10 16:26:23",
       "album": {
         "name": "Pennybridge Pioneers",
@@ -1515,6 +1499,22 @@
       "duration_ms": 163226,
       "name": "No Cigar",
       "url": "https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Picture Perfect",
+        "url": "https://open.spotify.com/album/0MgL5MkrqC9wqDuiSedJ14"
+      },
+      "artists": [
+        {
+          "name": "Every Avenue",
+          "url": "https://open.spotify.com/artist/1IpSmgcN9F3KNa7j9JtAE4"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Tell Me I'm A Wreck",
+      "url": "https://open.spotify.com/track/203zTFd1zbfG0fiOG9OREv"
     },
     {
       "added_at": "2023-01-25 14:57:38",

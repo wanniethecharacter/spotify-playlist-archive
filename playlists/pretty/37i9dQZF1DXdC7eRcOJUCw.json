@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
-  "num_followers": 103624,
+  "num_followers": 103725,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MzI4NSwwMDAwMDAwMDBlMDkwMjg3MWNkMjliMDFhMmUzMDQyZjNlYzRiYjRm",
+  "snapshot_id": "MTY3Nzg2MzI4NSwwMDAwMDAwMGMwODBjZjQ2MjlhNGQ1NDg5YzkzZjYzN2E1NTZmY2Ux",
   "tracks": [
     {
       "added_at": "2023-02-17 06:00:00",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
     },
     {
-      "added_at": "2023-03-05 01:29:30",
+      "added_at": "2023-03-06 00:48:04",
       "album": {
         "name": "Te Mereces Un Amor",
         "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Tradicional",
-        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 270600,
       "name": "Hoja En Blanco",
       "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Tradicional",
+        "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "\u00a1 Ora pues !",
         "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
@@ -691,18 +675,34 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
       "artists": [
         {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 231418,
-      "name": "Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "No Voy A Llorar",
+        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "No Voy A Llorar",
-        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
         }
       ],
-      "duration_ms": 197253,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
+      "duration_ms": 231418,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Tradicional",
         "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 194066,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "T\u00fa Sigues Siendo El Mismo",
-        "url": "https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp"
-      },
-      "artists": [
-        {
-          "name": "Flor Silvestre",
-          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
-        }
-      ],
-      "duration_ms": 162829,
-      "name": "Con Mis Propias Manos",
-      "url": "https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Por Amor A M\u00e9xico",
         "url": "https://open.spotify.com/album/6EHM8eB3PTm9hVHAJtJlPj"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 215026,
       "name": "Cielo Rojo - Duet Version",
       "url": "https://open.spotify.com/track/5p6n8kvFV22SN20xwawZB5"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "T\u00fa Sigues Siendo El Mismo",
+        "url": "https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp"
+      },
+      "artists": [
+        {
+          "name": "Flor Silvestre",
+          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
+        }
+      ],
+      "duration_ms": 162829,
+      "name": "Con Mis Propias Manos",
+      "url": "https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB"
     },
     {
       "added_at": "2023-02-17 06:00:00",

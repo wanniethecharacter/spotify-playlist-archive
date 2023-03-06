@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 257399,
       "name": "Can't Give You More",
       "url": "https://open.spotify.com/track/4PriSB05yvskrIRuFVfr57"
@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 232813,
       "name": "Dirty Water",
       "url": "https://open.spotify.com/track/456bCHC8Uu1RUT703OXcAq"
@@ -5085,6 +5085,24 @@
     },
     {
       "album": {
+        "name": "Kongos",
+        "url": "https://open.spotify.com/album/5CT0WakYJ3Wvsllg4UO0HB"
+      },
+      "artists": [
+        {
+          "name": "John Kongos",
+          "url": "https://open.spotify.com/artist/15KbeP35gI9t2vgYzwsTjj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264266,
+      "name": "He's Gonna Step on You Again",
+      "url": "https://open.spotify.com/track/6oNjDtBcSSTC2Zuaa6pTXY"
+    },
+    {
+      "album": {
         "name": "Kongos (2014 Remastered Version)",
         "url": "https://open.spotify.com/album/0L12QTm0mPNvE5Lya3eJwx"
       },
@@ -5096,7 +5114,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 267786,
       "name": "He's Gonna Step On You Again - 2014 Remastered Version",
       "url": "https://open.spotify.com/track/18SFEVHt61HnNrAcK8Rlos"

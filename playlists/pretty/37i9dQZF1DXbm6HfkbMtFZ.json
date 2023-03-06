@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 651218,
+  "num_followers": 651464,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI2NTI4NiwwMDAwMDAwMDQ1NWY0MjcyNzQzYjI3MzExZGRhZWU0NTQxZmJkZWMx",
+  "snapshot_id": "MTY3NjI2NTI4NiwwMDAwMDAwMDUwYTFiN2RkM2M2MmVhMWRlODM0NmZiY2I5OWJhZmI4",
   "tracks": [
     {
       "added_at": "2023-02-10 03:21:22",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 175273,
       "name": "Only A Fool Would Say That",
       "url": "https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238679,
-      "name": "Why Why Why Why Why",
-      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 238679,
+      "name": "Why Why Why Why Why",
+      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Just Like You Used To",
-        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 188155,
-      "name": "Just Like You Used To",
-      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
       },
@@ -819,6 +803,38 @@
       "duration_ms": 164933,
       "name": "Spooky (Single Version)",
       "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 210726,
+      "name": "If Not for You - 2014 Remaster",
+      "url": "https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "Just Like You Used To",
+        "url": "https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 188155,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -851,22 +867,6 @@
       "duration_ms": 173133,
       "name": "You're so Fine",
       "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 210726,
-      "name": "If Not for You - 2014 Remaster",
-      "url": "https://open.spotify.com/track/5zUP3RRw1vmZAsswtE3GrP"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1195,22 +1195,22 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Always Afternoon",
-        "url": "https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi"
+        "name": "You Ain't The Problem (Claptone Remix)",
+        "url": "https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0"
       },
       "artists": [
         {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         },
         {
-          "name": "Kathleen",
-          "url": "https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 183226,
-      "name": "Always Afternoon",
-      "url": "https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9"
+      "duration_ms": 164714,
+      "name": "You Ain't The Problem - Claptone Remix",
+      "url": "https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1251,22 +1251,22 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "You Ain't The Problem (Claptone Remix)",
-        "url": "https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0"
+        "name": "Always Afternoon",
+        "url": "https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
         },
         {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+          "name": "Kathleen",
+          "url": "https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y"
         }
       ],
-      "duration_ms": 164714,
-      "name": "You Ain't The Problem - Claptone Remix",
-      "url": "https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG"
+      "duration_ms": 183226,
+      "name": "Always Afternoon",
+      "url": "https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy"
-      },
-      "artists": [
-        {
-          "name": "Vanilla",
-          "url": "https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn"
-        }
-      ],
-      "duration_ms": 239952,
-      "name": "Swept Away",
-      "url": "https://open.spotify.com/track/06YoxtZayqXJsMgRSB2X6G"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Make You",
         "url": "https://open.spotify.com/album/2R3BPuzo1srqdas4Y60gL7"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 170165,
       "name": "Make You",
       "url": "https://open.spotify.com/track/7DXQPLHpsoSkDCOmw6jdyf"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy"
+      },
+      "artists": [
+        {
+          "name": "Vanilla",
+          "url": "https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn"
+        }
+      ],
+      "duration_ms": 239952,
+      "name": "Swept Away",
+      "url": "https://open.spotify.com/track/06YoxtZayqXJsMgRSB2X6G"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
       },
@@ -1387,22 +1371,34 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 194373,
-      "name": "Goodbye My Love",
-      "url": "https://open.spotify.com/track/0O5H4Mg0iOhvRYsYMCZ07D"
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 390200,
+      "name": "Changes, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1423,18 +1419,22 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
       "artists": [
         {
-          "name": "Neal Francis",
-          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
         }
       ],
-      "duration_ms": 390200,
-      "name": "Changes, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
+      "duration_ms": 194373,
+      "name": "Goodbye My Love",
+      "url": "https://open.spotify.com/track/0O5H4Mg0iOhvRYsYMCZ07D"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "It'll All Be Over",
-        "url": "https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA"
-      },
-      "artists": [
-        {
-          "name": "Supreme Jubilees",
-          "url": "https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "It'll All Be Over",
-      "url": "https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Talk About It (B-Side)",
         "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 132096,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "It'll All Be Over",
+        "url": "https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA"
+      },
+      "artists": [
+        {
+          "name": "Supreme Jubilees",
+          "url": "https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "It'll All Be Over",
+      "url": "https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Pennied Days",
-        "url": "https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ"
-      },
-      "artists": [
-        {
-          "name": "Night Moves",
-          "url": "https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Carl Sagan",
-      "url": "https://open.spotify.com/track/24GCf1A4pOTEDDcBponpjn"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Rock Your Baby",
         "url": "https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM"
       },
@@ -1683,18 +1667,18 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Music and Dreams",
-        "url": "https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2"
+        "name": "Pennied Days",
+        "url": "https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ"
       },
       "artists": [
         {
-          "name": "Robert Lester Folsom",
-          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+          "name": "Night Moves",
+          "url": "https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4"
         }
       ],
-      "duration_ms": 168173,
-      "name": "My Stove's on Fire",
-      "url": "https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7"
+      "duration_ms": 232866,
+      "name": "Carl Sagan",
+      "url": "https://open.spotify.com/track/24GCf1A4pOTEDDcBponpjn"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Wiggle Room",
-        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
+        "name": "Music and Dreams",
+        "url": "https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2"
       },
       "artists": [
         {
-          "name": "Drug Cabin",
-          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
         }
       ],
-      "duration_ms": 147893,
-      "name": "Handsome",
-      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
+      "duration_ms": 168173,
+      "name": "My Stove's on Fire",
+      "url": "https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1775,6 +1759,54 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
+        "name": "Wiggle Room",
+        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
+      },
+      "artists": [
+        {
+          "name": "Drug Cabin",
+          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+        }
+      ],
+      "duration_ms": 147893,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Tumblin'",
+      "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Malibu Man",
+      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
+    },
+    {
+      "added_at": "2023-02-10 03:21:22",
+      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -1807,22 +1839,6 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Over My Shoulder",
-        "url": "https://open.spotify.com/album/5AhdDufRrLozZ9aMEExLia"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 240103,
-      "name": "Over My Shoulder",
-      "url": "https://open.spotify.com/track/5Km446B950EyLF0zAy1FhP"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
         "name": "Walk the Streets of Love",
         "url": "https://open.spotify.com/album/5FGRNVfQPJXBvmBdfQeUDB"
       },
@@ -1839,34 +1855,18 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+        "name": "Over My Shoulder",
+        "url": "https://open.spotify.com/album/5AhdDufRrLozZ9aMEExLia"
       },
       "artists": [
         {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
         }
       ],
-      "duration_ms": 216106,
-      "name": "Malibu Man",
-      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
-    },
-    {
-      "added_at": "2023-02-10 03:21:22",
-      "album": {
-        "name": "Soft Spot",
-        "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Tumblin'",
-      "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
+      "duration_ms": 240103,
+      "name": "Over My Shoulder",
+      "url": "https://open.spotify.com/track/5Km446B950EyLF0zAy1FhP"
     },
     {
       "added_at": "2023-02-10 03:21:22",
@@ -1923,18 +1923,22 @@
     {
       "added_at": "2023-02-10 03:21:22",
       "album": {
-        "name": "Dusk at Cubist Castle",
-        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
+        "name": "Always on My Mind (Acoustic)",
+        "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
       },
       "artists": [
         {
-          "name": "The Olivia Tremor Control",
-          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
+          "name": "Nan\u00e9",
+          "url": "https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7"
+        },
+        {
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
         }
       ],
-      "duration_ms": 112066,
-      "name": "Jumping Fences",
-      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
+      "duration_ms": 214820,
+      "name": "Always on My Mind (Acoustic)",
+      "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
     }
   ],
   "unique_name": "Feel Good Dinner",

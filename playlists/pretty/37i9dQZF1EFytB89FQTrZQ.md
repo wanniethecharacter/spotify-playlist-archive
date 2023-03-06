@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,244 likes - 267 songs - 15 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,246 likes - 267 songs - 15 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 63 | [Valentino](https://open.spotify.com/track/4ejTiGZJNOkc3RM6RUITJi) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:01 |
 | 64 | [The Rhythm](https://open.spotify.com/track/4laPvATil8SrIAlysZazYN) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:06 |
 | 65 | [Don’t You Feel It](https://open.spotify.com/track/1kW0EhrR7VdrXRexVIDIiB) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Don't You Feel It](https://open.spotify.com/album/0RkIZtap4bsBP2rEb3tJUQ) | 3:27 |
-| 66 | [At Night \(I Think About You\)](https://open.spotify.com/track/4lwthdbsRkAnZhFunjjgrs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5v636i01urX364kKa6vtqw) | 3:35 |
-| 67 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
+| 66 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
+| 67 | [At Night \(I Think About You\)](https://open.spotify.com/track/4lwthdbsRkAnZhFunjjgrs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5v636i01urX364kKa6vtqw) | 3:35 |
 | 68 | [GIRLS LIKE US](https://open.spotify.com/track/4M0eE7cZ9lx4ygXSSbfAtp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:38 |
 | 69 | [Dream On Me](https://open.spotify.com/track/1dCpERd2GVVFbKuOpJjgPm) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 3:02 |
 | 70 | [Who You Are](https://open.spotify.com/track/52qHwayfvn9tOjQN0bbCLc) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [22 \(Deluxe\)](https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd) | 3:25 |
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 86 | [Trash](https://open.spotify.com/track/5lzWrMDYLuAugJCHG5C2d0) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 2:53 |
 | 87 | [Don't Wanna Dance](https://open.spotify.com/track/6b56B8Ew3d0WDnd4Vq01Gh) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Don't Wanna Dance](https://open.spotify.com/album/3KY9oIQZYFg1w2h2DQFmpz) | 2:49 |
 | 88 | [Cheque](https://open.spotify.com/track/2PRjwWPjJHmjFmC3NPXrTy) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [FORΞVΞR \(DΞLUXΞ ΞDITION\)](https://open.spotify.com/album/53F4qZCDBwulb9eoMuWHf2) | 2:45 |
-| 89 | [Deeper](https://open.spotify.com/track/5XCJndUuktaxfVruAek3mT) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Deeper](https://open.spotify.com/album/2HhX8FC1y861CrSLMYwQLC) | 4:08 |
-| 90 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
+| 89 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
+| 90 | [Deeper](https://open.spotify.com/track/5XCJndUuktaxfVruAek3mT) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Deeper](https://open.spotify.com/album/2HhX8FC1y861CrSLMYwQLC) | 4:08 |
 | 91 | [Wish You Were Here](https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr) | 3:41 |
 | 92 | [Feels](https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Feels](https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK) | 2:27 |
-| 93 | [Radio](https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Radio](https://open.spotify.com/album/7udcz2WCVMk58UsJ7cPXH9) | 3:15 |
+| 93 | [Radio](https://open.spotify.com/track/6zsFddikwwAfBr3USkYSDx) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Every Cloud \- Silver Linings](https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo) | 3:15 |
 | 94 | [Cruel](https://open.spotify.com/track/69Q9unT80s08dUolhcgr4T) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [All I Need \(Deluxe Version\)](https://open.spotify.com/album/6fpZzsdzd04nqiDPWnF2iw) | 3:46 |
 | 95 | [More Than A Miracle](https://open.spotify.com/track/21AbakVGnrNSdineegyZnB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:05 |
 | 96 | [Belong \- Radio Mix](https://open.spotify.com/track/3rfdY1BDSQiQXNNzVaugYT) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Belong \(Radio Mix\)](https://open.spotify.com/album/16yzPSS8jIZNFUcmPlHAFZ) | 3:33 |
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 266 | [Breathe \- Extended Reggaeton Rough Mix](https://open.spotify.com/track/7m7rZmcChdxe3SphKJZtL0) | [Kar Vogue](https://open.spotify.com/artist/1P0BWH63MKkRzVDo6KENaB) | [Big Hits in Reggaeton Mix Vol\. 1](https://open.spotify.com/album/3gIlukVpz1M1t8rBYUBn0t) | 4:32 |
 | 267 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 
-Snapshot ID: `Mjc5NjYyNDQsMDAwMDAwMDAwMmIzNTBlNzYwNjQ3YTk5MTRlMDg3MzU3ZGRkMzMyMQ==`
+Snapshot ID: `Mjc5Njc2ODQsMDAwMDAwMDAwZTM3MzVlNzQzY2RlZjY1MDM3OTM5YWE2M2Y3Mzk2OA==`

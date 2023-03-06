@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: hey, nothing",
-  "num_followers": 61427,
+  "num_followers": 61516,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDk0YWZiMTgzYTdiZWRkNDNhZjgzZGE4YWM4NzA5NTJl",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMGY3YTBiZmQxZmQ0Y2I1ZjMwMjE2YmM2YmY0NTY3ODE5",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -375,6 +375,34 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Emily I'm Sorry",
+      "url": "https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "to Perth, before the border closes",
         "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
       },
@@ -403,34 +431,6 @@
       "duration_ms": 195376,
       "name": "Blouse",
       "url": "https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Emily I'm Sorry",
-      "url": "https://open.spotify.com/track/7spSF5EKaCeO6wOsvy5271"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Everything I had",
-      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 276880,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Everything I had",
+      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 300586,
-      "name": "Cool Dry Place",
-      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Closing the Door on Us",
         "url": "https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 135338,
       "name": "Closing the Door on Us",
       "url": "https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "squirrel song",
+        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 108794,
+      "name": "squirrel song",
+      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "gr\u00e6",
         "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 233984,
       "name": "Dr. Johann Averies",
       "url": "https://open.spotify.com/track/0FXTj56OeM7A1FDV6N3bmw"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "squirrel song",
-        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 108794,
-      "name": "squirrel song",
-      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Deep Routed",
-        "url": "https://open.spotify.com/album/6XebnDlCOM72VXtzJl0ePD"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 226699,
-      "name": "Deep Routed",
-      "url": "https://open.spotify.com/track/1SHekIQ0GuWgnFBJ8d615m"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Let The Radio Play",
         "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 209634,
       "name": "Let The Radio Play",
       "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Deep Routed",
+        "url": "https://open.spotify.com/album/6XebnDlCOM72VXtzJl0ePD"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 226699,
+      "name": "Deep Routed",
+      "url": "https://open.spotify.com/track/1SHekIQ0GuWgnFBJ8d615m"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Michelangelo",
-      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 247258,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Michelangelo",
+      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 229501,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "An Overview on Phenomenal Nature",
         "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 327440,
       "name": "Hard Drive",
       "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 229501,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Vagabon",
         "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 207078,
       "name": "Every Woman",
       "url": "https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD"
-      },
-      "artists": [
-        {
-          "name": "j solomon",
-          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/32irCtqVudXga5frCUDFVH"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD"
+      },
+      "artists": [
+        {
+          "name": "j solomon",
+          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/32irCtqVudXga5frCUDFVH"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "needy",
         "url": "https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 232419,
       "name": "needy",
       "url": "https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
-      },
-      "artists": [
-        {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Convention",
-      "url": "https://open.spotify.com/track/2QnSMKFZw9dD2Fhp0bO3lb"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "VBS",
         "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 236864,
       "name": "VBS",
       "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Convention",
+      "url": "https://open.spotify.com/track/2QnSMKFZw9dD2Fhp0bO3lb"
     },
     {
       "added_at": "2023-03-03 05:00:00",

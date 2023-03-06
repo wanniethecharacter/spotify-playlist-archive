@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: John Legend",
-  "num_followers": 91486,
+  "num_followers": 91587,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1MjM2NCwwMDAwMDAwMGNlOTMyZmViZmExZDViNzBjODc0MmM3MDUyMjc3YmNk",
+  "snapshot_id": "MTY3NzI1MjM2NCwwMDAwMDAwMDdkOWNmMjU4MmEyNTYwOWRkNmYzODQyNmJjNmFlZjgz",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/7AFlWfyhbBKQ93Y4wuNsqP"
     },
     {
-      "added_at": "2023-03-05 00:44:38",
+      "added_at": "2023-03-06 00:38:50",
       "album": {
         "name": "dancing in the moonlight",
         "url": "https://open.spotify.com/album/7Bh1i9QqJTdmtwi8DtXheN"
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 206187,
       "name": "As It Was - Spotify Singles",
       "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1352,22 +1352,6 @@
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
-      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
       },
       "artists": [
@@ -1379,6 +1363,22 @@
       "duration_ms": 194480,
       "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
       "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
+      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Better Now - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/7xpY3HpVuf7KsxPFXXU6nO"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 148514,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/4xni5u37UubdobwY7FpnqZ"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Better Now - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1660,22 +1660,6 @@
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 238439,
-      "name": "Complicated - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
       },
       "artists": [
@@ -1687,6 +1671,22 @@
       "duration_ms": 261977,
       "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 238439,
+      "name": "Complicated - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 200171,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Come As You Are",
         "url": "https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 319680,
       "name": "Just (feat. Phantom Planet)",
       "url": "https://open.spotify.com/track/341zzm98KLs7O1GGjErHzO"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "High Drama",
-        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 200171,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 152181,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
@@ -1983,6 +1999,22 @@
       "duration_ms": 243562,
       "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
       "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Covers by Cannons",
+        "url": "https://open.spotify.com/album/72TswqpNqHygmzS47oS4v4"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 176508,
+      "name": "Golden - Originally Performed By Harry Styles",
+      "url": "https://open.spotify.com/track/6OPbfOqtL7y51EwpDIiqMm"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2027,22 +2059,6 @@
       "duration_ms": 289276,
       "name": "A Million Dreams",
       "url": "https://open.spotify.com/track/40oSaFieDbdnNTlVr7YonY"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Covers by Cannons",
-        "url": "https://open.spotify.com/album/72TswqpNqHygmzS47oS4v4"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 176508,
-      "name": "Golden - Originally Performed By Harry Styles",
-      "url": "https://open.spotify.com/track/6OPbfOqtL7y51EwpDIiqMm"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2155,22 +2171,6 @@
       "duration_ms": 242915,
       "name": "Crush",
       "url": "https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0"
-      },
-      "artists": [
-        {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
-        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 218938,
-      "name": "22 - Recorded At Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Call Your Girlfriend",
         "url": "https://open.spotify.com/album/1ET8uKlskrO9yfPOL654UU"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 187428,
       "name": "Call Your Girlfriend",
       "url": "https://open.spotify.com/track/1P0h5mzonDDnntjobrHJsw"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
+        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 218938,
+      "name": "22 - Recorded At Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2547,22 +2547,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "If Your Man Only Knew",
-        "url": "https://open.spotify.com/album/0D7hzGTfLWhIi20HeWzfZn"
-      },
-      "artists": [
-        {
-          "name": "Erik Hassle",
-          "url": "https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "If Your Man Only Knew",
-      "url": "https://open.spotify.com/track/7H8kBmya327d7KTXsbln2v"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Chiquitita",
         "url": "https://open.spotify.com/album/40GDrRCewlZHmwWK9p04vw"
       },
@@ -2575,6 +2559,22 @@
       "duration_ms": 299280,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/1o04WVnY1OUmFE91hHg13O"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "If Your Man Only Knew",
+        "url": "https://open.spotify.com/album/0D7hzGTfLWhIi20HeWzfZn"
+      },
+      "artists": [
+        {
+          "name": "Erik Hassle",
+          "url": "https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "If Your Man Only Knew",
+      "url": "https://open.spotify.com/track/7H8kBmya327d7KTXsbln2v"
     }
   ],
   "unique_name": "Pop Covers",

@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5691\)
+## Playlists \(5692\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -1129,6 +1129,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Corridos Prohibidos](/playlists/pretty/37i9dQZF1DWU43UtgmzCjN.md)
 - [Corridos Tumbados](/playlists/pretty/37i9dQZF1DWWhMyyrqZlaY.md)
 - [Corridos de Antaño](/playlists/pretty/37i9dQZF1DWUuQG5KIiBcn.md)
+- [Corridos de Caballos](/playlists/pretty/37i9dQZF1DXaeJ0JA3OjZS.md)
 - [Corridos de la Muerte](/playlists/pretty/37i9dQZF1DWTjI92W86nZe.md)
 - [Corridos en Vivo](/playlists/pretty/37i9dQZF1DXdcb8m3Nt9YW.md)
 - [Corriente Alternativa](/playlists/pretty/37i9dQZF1DX309NIG5AnQn.md)

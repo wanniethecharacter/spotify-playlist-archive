@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Ease into the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,782 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,956 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 65 | [Vibin' to It](https://open.spotify.com/track/0VLur18KTXWpIoRHEni0OJ) | [Temple Haze](https://open.spotify.com/artist/1NbWsEhbWzwjAL2LfPCERk) | [Dreams](https://open.spotify.com/album/4FhvZMQJ984gNLhB5xaobl) | 4:05 |
 | 66 | [Any Way You Come \- Bonus Track](https://open.spotify.com/track/2Sn0qoBNjyQsbkrYOA2KB8) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell \(Deluxe\)](https://open.spotify.com/album/6tOEg8pBcr1IKImNngQHkc) | 3:25 |
 | 67 | [Pills](https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z) | [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx), [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Pills](https://open.spotify.com/album/3PX7TASSTR0GE1TjHD246d) | 3:20 |
-| 68 | [Ice Man](https://open.spotify.com/track/7ws05CDZQsE3l4lHQnTLbA) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [Stella, My Dear](https://open.spotify.com/album/1jkAaeHTQQ6D9xif7v1M0r) | 3:12 |
+| 68 | [Ice Man](https://open.spotify.com/track/0c3cFBp7IzXAiQKx6ucHbi) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [Stella, My Dear](https://open.spotify.com/album/0LwYhgUQAv5q9kBrc5yKQ0) | 3:12 |
 | 69 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 |
 | 70 | [Don't Want Your Love](https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Don't Want Your Love](https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d) | 3:32 |
 | 71 | [Yo Estaré \(feat\. Ally Brooke\)](https://open.spotify.com/track/6o0dZFIoclUiEBx0RQ1Evd) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Yo Estaré \(feat\. Ally Brooke\)](https://open.spotify.com/album/2GZbrUq8hVw5M7YkWbfgyr) | 5:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 99 | [Part of Me](https://open.spotify.com/track/6yHqOUZB0NzzL2prJQmZdB) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [A Pillar of Salt \(Deluxe\)](https://open.spotify.com/album/7pEhrrMcqjsQRLImLZNhCC) | 3:43 |
 | 100 | [Baby Blue](https://open.spotify.com/track/2n6mF6xULADljCtpQkFnyc) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [blablablue](https://open.spotify.com/album/4dXbWNfK5GP9RWbvthTgT8) | 2:12 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDZkYTA1MmU5OGJjMmRlMWI1ZGQ0ZGRlOWMyMWE5MzQ2`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGMwMjcxYjI0ZWI5NzFhZWZiNzVmOWE1ZTgzNDFmNmMy`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 13330,
+  "num_followers": 13392,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGExYTBlODljNTc2MGE2ZjFiZWNiOTk1YzVlZDIzMzY0",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGVhYTQxOWIxMmFhZDQ5OWQzNTc3NjkzYmQyNDU4ZWQy",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "High Maintenance",
-        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 109302,
-      "name": "ICY GRL",
-      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 222626,
       "name": "Give Me the Night",
       "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 109302,
+      "name": "ICY GRL",
+      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
     },
     {
       "added_at": "2022-10-01 16:00:00",

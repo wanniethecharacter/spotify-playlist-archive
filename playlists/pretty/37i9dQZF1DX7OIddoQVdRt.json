@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 615400,
+  "num_followers": 615491,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMDE4OTk5YWU5MTVmNWFhZGE4ODgzYzcyZDJmNTZlZWRm",
+  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMDVjNDUxNjQ4OTQ0OWEwZGUxMTVlYWM0NWRlNWNlNjZh",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -651,6 +651,22 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
+        "name": "I See Miracles",
+        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 260431,
+      "name": "I See Miracles",
+      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/5YhYF97P4OAVJCWr3Id5fz"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 282816,
       "name": "I Am (Radio Edit)",
       "url": "https://open.spotify.com/track/5gvwQLe4Z86vBVtTESworf"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
-        "name": "I See Miracles",
-        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "I See Miracles",
-      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
     },
     {
       "added_at": "2021-06-25 06:54:59",

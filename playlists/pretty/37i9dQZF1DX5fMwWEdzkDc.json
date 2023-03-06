@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 8037,
+  "num_followers": 8064,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMDE2ODliNDg0ODQ2NDY1MzVjNDJkZDczYzEzYjIwYWE1",
+  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMDU5MGQxZmQ5Y2Q3MjYwMzg3YTY1MzkzMWY4ZWNmYWEx",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "\uac70\uc9d3\ub9d0",
-        "url": "https://open.spotify.com/album/4oMBjLj06m5BzRVd5PB3b5"
+        "name": "N001",
+        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
       },
       "artists": [
         {
-          "name": "T-ARA",
-          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
         }
       ],
-      "duration_ms": 226038,
-      "name": "\uac70\uc9d3\ub9d0 Pt. 1",
-      "url": "https://open.spotify.com/track/0jH5fSIHvf8bG0QbVZ4NlM"
+      "duration_ms": 220000,
+      "name": "\uc548\ub155\uc774\ub780 \ub9d0 \ub300\uc2e0",
+      "url": "https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
+        "name": "\uac70\uc9d3\ub9d0",
+        "url": "https://open.spotify.com/album/4oMBjLj06m5BzRVd5PB3b5"
       },
       "artists": [
         {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+          "name": "T-ARA",
+          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
         }
       ],
-      "duration_ms": 220000,
-      "name": "\uc548\ub155\uc774\ub780 \ub9d0 \ub300\uc2e0",
-      "url": "https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo"
+      "duration_ms": 226038,
+      "name": "\uac70\uc9d3\ub9d0 Pt. 1",
+      "url": "https://open.spotify.com/track/0jH5fSIHvf8bG0QbVZ4NlM"
     },
     {
       "added_at": "2021-03-11 16:26:11",

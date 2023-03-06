@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,606 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,621 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 19 | [That's Alright](https://open.spotify.com/track/1jRIILpPBwSVssnrXGV5hS) | [Fab Samperi](https://open.spotify.com/artist/2ZX9eBv3ycTNpZrWMRtWte), [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Moonshine Crossroads](https://open.spotify.com/album/3XRHSUCqQBeIncHpIecSQG) | 2:41 |
 | 20 | [Grave](https://open.spotify.com/track/1wBICiJNPP9gj6o5nEPHfT) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [Grave](https://open.spotify.com/album/7mJKH7MLlY9AlGaIMUf8Bl) | 4:03 |
 | 21 | [Levee & Brick \(Down to This\)](https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [Levee & Brick \(Down to This\)](https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4) | 2:46 |
-| 22 | [Code Name Loppsi \- My Lowd demo](https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [The Well](https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ) | 4:13 |
+| 22 | [Black Blood](https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel), [Lukasoprom](https://open.spotify.com/artist/3d8NwLM2U7JYt2H97W5ls1), [Like Lions](https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo) | [Black Blood](https://open.spotify.com/album/1455tyjIuvboNbV6mAYSiZ) | 2:26 |
 | 23 | [The Fire](https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:42 |
-| 24 | [Black Blood](https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel), [Lukasoprom](https://open.spotify.com/artist/3d8NwLM2U7JYt2H97W5ls1), [Like Lions](https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo) | [Black Blood](https://open.spotify.com/album/1455tyjIuvboNbV6mAYSiZ) | 2:26 |
+| 24 | [Code Name Loppsi \- My Lowd demo](https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [The Well](https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ) | 4:13 |
 | 25 | [Shake 'Em on Down](https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [A Bothered Mind](https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm) | 3:29 |
 | 26 | [Stand Together \- Original Mix](https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Paul Naylor](https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5) | [This Is For Everyone](https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7) | 4:15 |
 | 27 | [I'm Back With Trouble](https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [I'm Back With Trouble](https://open.spotify.com/album/5YufvnETZxSN5wb3Q9sEqn) | 3:18 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 44 | [Hurricane](https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 4:15 |
 | 45 | [Robot Blues](https://open.spotify.com/track/5BlRXGAtNMv3LzmZfWKyxJ) | [Grand Commander](https://open.spotify.com/artist/7LiOk3poyQ3J06xpFs5n99) | [Robot Blues](https://open.spotify.com/album/66JlUb0UH5CfhSKqY5h4ZC) | 6:20 |
 | 46 | [Why Not?](https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Why Not?](https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY) | 3:33 |
-| 47 | [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 |
-| 48 | [Crossroads](https://open.spotify.com/track/6i5tylayRLCg5LrgUFqg4Z) | [Mason Murphy](https://open.spotify.com/artist/0iGR1dPENdfzoZbpsFlYug) | [Crossroads](https://open.spotify.com/album/7pPTrDwqzewb4h6cqJjl3w) | 2:21 |
-| 49 | [K.I.S.S\. \- Remix](https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [Citizens of Boomtown \(Deluxe\)](https://open.spotify.com/album/5twg48xOlAZwZsoPUxbyGm) | 6:01 |
+| 47 | [Crossroads](https://open.spotify.com/track/6i5tylayRLCg5LrgUFqg4Z) | [Mason Murphy](https://open.spotify.com/artist/0iGR1dPENdfzoZbpsFlYug) | [Crossroads](https://open.spotify.com/album/7pPTrDwqzewb4h6cqJjl3w) | 2:21 |
+| 48 | [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 |
+| 49 | [Midnight Dream](https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB) | 4:03 |
 | 50 | [Love Me \- KR3TURE Remix](https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S) | [DJ Taz Rashid](https://open.spotify.com/artist/2XvQyfssNbXYWcOkKaWYlx), [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu) | [High Vibe Remixes, Vol\. 1](https://open.spotify.com/album/3NlmTWejiSpfgnxD7CiVzt) | 3:49 |
 
-Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMGJlMzRlMjA2ZmRlMzFmZWMwOWQyMGUxNTM0ZWNlZTMy`
+Snapshot ID: `MTY3NTQwMDQ2MCwwMDAwMDAwMGUzNWM5Yjc5Mjg5M2RkN2MwNWI3ZDRlMTYzMGY4MTc5`

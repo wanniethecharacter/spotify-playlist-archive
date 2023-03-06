@@ -184,6 +184,24 @@
     {
       "album": {
         "name": "Make Me (Mixed)",
+        "url": "https://open.spotify.com/album/6QjdYpKjW1kB0UpdgpmaOj"
+      },
+      "artists": [
+        {
+          "name": "Borai & Denham Audio",
+          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Make Me - Mixed",
+      "url": "https://open.spotify.com/track/6aE0RcdpbZyctw36dMyg8G"
+    },
+    {
+      "album": {
+        "name": "Make Me (Mixed)",
         "url": "https://open.spotify.com/album/3TBrWoSrenee0m1kl6CuJY"
       },
       "artists": [
@@ -198,7 +216,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 214000,
       "name": "Make Me - Mixed",
       "url": "https://open.spotify.com/track/7EVZACrGhiWqBuZUan1vUs"

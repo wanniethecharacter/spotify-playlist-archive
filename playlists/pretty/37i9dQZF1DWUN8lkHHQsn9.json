@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMGFmY2Q0ZTkyNGI3NDZhYTUwMzI4YTBmY2I2ZmYwMmIz",
+  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMGNkMzkxMTJlNmVmM2Y4YTJkMWEwYWIzZmE1NWFmYTRj",
   "tracks": [
     {
       "added_at": "2023-01-24 14:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "Gus\u0142a (Human Rites)",
-        "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
       },
       "artists": [
         {
-          "name": "Avtomat",
-          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
         }
       ],
-      "duration_ms": 305869,
-      "name": "Nieludzie (Ignorance Ha)",
-      "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
+      "duration_ms": 224706,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
+        "name": "Gus\u0142a (Human Rites)",
+        "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
       },
       "artists": [
         {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
         }
       ],
-      "duration_ms": 224706,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
+      "duration_ms": 305869,
+      "name": "Nieludzie (Ignorance Ha)",
+      "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -911,8 +911,8 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "Technikolor",
-        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
+        "name": "VITAY (Avtomat Remix)",
+        "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
       },
       "artists": [
         {
@@ -920,17 +920,13 @@
           "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         },
         {
-          "name": "Twoja Stara",
-          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
-        },
-        {
-          "name": "Lola Eyeonyou Potocki",
-          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
         }
       ],
-      "duration_ms": 230906,
-      "name": "Technikolor",
-      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
+      "duration_ms": 250208,
+      "name": "VITAY - Avtomat Remix",
+      "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -1003,8 +999,8 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "VITAY (Avtomat Remix)",
-        "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
+        "name": "Technikolor",
+        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
       },
       "artists": [
         {
@@ -1012,13 +1008,17 @@
           "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         },
         {
-          "name": "Avtomat",
-          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+          "name": "Twoja Stara",
+          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
+        },
+        {
+          "name": "Lola Eyeonyou Potocki",
+          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
         }
       ],
-      "duration_ms": 250208,
-      "name": "VITAY - Avtomat Remix",
-      "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
+      "duration_ms": 230906,
+      "name": "Technikolor",
+      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
     },
     {
       "added_at": "2023-01-24 14:00:00",

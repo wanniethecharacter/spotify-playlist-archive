@@ -6009,6 +6009,28 @@
     },
     {
       "album": {
+        "name": "Do You Feel The Same? (OCULA Remix)",
+        "url": "https://open.spotify.com/album/6dgppkSkxLiCrZG3O50Q7L"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232131,
+      "name": "Do You Feel The Same? - OCULA Remix",
+      "url": "https://open.spotify.com/track/7MNXk2wXG0NNrNWT7grUyC"
+    },
+    {
+      "album": {
         "name": "it's good to hear your voice",
         "url": "https://open.spotify.com/album/5gaYJvbHf1NlOScEQvUSzZ"
       },
@@ -7924,7 +7946,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 261120,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG"

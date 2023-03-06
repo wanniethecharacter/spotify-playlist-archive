@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Luxembourg.",
-  "num_followers": 7616,
+  "num_followers": 7620,
   "original_name": "Top 50 - Luxembourg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzMxMjM5OTU4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzMxMzI2NjQ1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
@@ -25,23 +25,59 @@
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "Nose Bleeds",
-        "url": "https://open.spotify.com/album/5Mc1dqu89Z0bLQ8VhoP6fc"
+        "name": "Rien",
+        "url": "https://open.spotify.com/album/10AW4wqFISRK1x4YXrq5p2"
       },
       "artists": [
         {
-          "name": "Cadaver Ghoul",
-          "url": "https://open.spotify.com/artist/5apVcEELJhc2IUYWgklfsx"
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
         }
       ],
-      "duration_ms": 69874,
-      "name": "Nose Bleeds",
-      "url": "https://open.spotify.com/track/3h4QCgFIKGQsjw6Z8nK5Ga"
+      "duration_ms": 142813,
+      "name": "Rien",
+      "url": "https://open.spotify.com/track/02hXff8I9554osUyqOwYX2"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
+      "album": {
+        "name": "La bande \u00e0 Bimbim 1",
+        "url": "https://open.spotify.com/album/5xcNBM1W31hHODQz3vHAby"
+      },
+      "artists": [
+        {
+          "name": "Bimbim",
+          "url": "https://open.spotify.com/artist/1jVkYEim3l4F8IgNh6undg"
+        },
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "Bah ouais",
+      "url": "https://open.spotify.com/track/5EMfe1jqY5IIx13zjfOAmJ"
+    },
+    {
+      "added_at": "2023-03-05 10:17:25",
+      "album": {
+        "name": "DarkSkin",
+        "url": "https://open.spotify.com/album/5iAHiSA9BPjFuixUSQj8Xw"
+      },
+      "artists": [
+        {
+          "name": "FrenchRapQueen",
+          "url": "https://open.spotify.com/artist/1qk8LZyKNrvWZrIv0hGxIh"
+        }
+      ],
+      "duration_ms": 114882,
+      "name": "DarkSkin",
+      "url": "https://open.spotify.com/track/7hPDk1HmGu2Zz5v3CuOCwp"
+    },
+    {
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "Die For You (Remix)",
         "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
@@ -61,7 +97,7 @@
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -85,7 +121,7 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -105,27 +141,39 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+        "name": "H24 dimanche",
+        "url": "https://open.spotify.com/album/4ZgXlJiI8U4RVuIWVsqTta"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
         }
       ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
+      "duration_ms": 148961,
+      "name": "H24 dimanche",
+      "url": "https://open.spotify.com/track/3ux4Cxmi7ABEHEmdCeIjkU"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
+      "album": {
+        "name": "wewa",
+        "url": "https://open.spotify.com/album/5vLiB5pD5Enti3r4DDcxvm"
+      },
+      "artists": [
+        {
+          "name": "Pegguy Tabu",
+          "url": "https://open.spotify.com/artist/64YnF4w2bf0VU6eQrn1e5y"
+        }
+      ],
+      "duration_ms": 197551,
+      "name": "wewa",
+      "url": "https://open.spotify.com/track/5Tf94zg0bIWRxmCD6oUW7K"
+    },
+    {
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "Komet",
         "url": "https://open.spotify.com/album/2XWoQ5VUcmGYL1025mZ5dO"
@@ -145,23 +193,27 @@
       "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "LET GO",
-        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 174246,
-      "name": "LET GO",
-      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
@@ -181,27 +233,7 @@
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
-      "album": {
-        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 214945,
-      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
-    },
-    {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
@@ -221,7 +253,59 @@
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
+      "album": {
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 174246,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
+    },
+    {
+      "added_at": "2023-03-05 10:17:25",
+      "album": {
+        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 214945,
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "added_at": "2023-03-05 10:17:25",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
@@ -241,27 +325,7 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
-      "album": {
-        "name": "La bande \u00e0 Bimbim 1",
-        "url": "https://open.spotify.com/album/5xcNBM1W31hHODQz3vHAby"
-      },
-      "artists": [
-        {
-          "name": "Bimbim",
-          "url": "https://open.spotify.com/artist/1jVkYEim3l4F8IgNh6undg"
-        },
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "Bah ouais",
-      "url": "https://open.spotify.com/track/5EMfe1jqY5IIx13zjfOAmJ"
-    },
-    {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
@@ -277,39 +341,7 @@
       "url": "https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
-      "album": {
-        "name": "19 & Dangerous (Deluxe)",
-        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
-    },
-    {
-      "added_at": "2023-03-04 10:12:38",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
@@ -325,43 +357,39 @@
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "wewa",
-        "url": "https://open.spotify.com/album/5vLiB5pD5Enti3r4DDcxvm"
+        "name": "19 & Dangerous (Deluxe)",
+        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
       },
       "artists": [
         {
-          "name": "Pegguy Tabu",
-          "url": "https://open.spotify.com/artist/64YnF4w2bf0VU6eQrn1e5y"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 197551,
-      "name": "wewa",
-      "url": "https://open.spotify.com/track/5Tf94zg0bIWRxmCD6oUW7K"
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+        "name": "Nose Bleeds",
+        "url": "https://open.spotify.com/album/5Mc1dqu89Z0bLQ8VhoP6fc"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "Cadaver Ghoul",
+          "url": "https://open.spotify.com/artist/5apVcEELJhc2IUYWgklfsx"
         }
       ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+      "duration_ms": 69874,
+      "name": "Nose Bleeds",
+      "url": "https://open.spotify.com/track/3h4QCgFIKGQsjw6Z8nK5Ga"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
@@ -381,23 +409,23 @@
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "DarkSkin",
-        "url": "https://open.spotify.com/album/5iAHiSA9BPjFuixUSQj8Xw"
+        "name": "OneRepublic (Japan Paradise Tour Edition)",
+        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
       },
       "artists": [
         {
-          "name": "FrenchRapQueen",
-          "url": "https://open.spotify.com/artist/1qk8LZyKNrvWZrIv0hGxIh"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 114882,
-      "name": "DarkSkin",
-      "url": "https://open.spotify.com/track/7hPDk1HmGu2Zz5v3CuOCwp"
+      "duration_ms": 148120,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
@@ -413,63 +441,59 @@
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "Sinc\u00e8rement",
-        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
       "artists": [
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         },
         {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 229386,
-      "name": "Nocif",
-      "url": "https://open.spotify.com/track/4BZZTXcd5ROagKhynqj61X"
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "La Gaule, Vol.1",
-        "url": "https://open.spotify.com/album/0xkRuvISedgQKc7BesPxwP"
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
       },
       "artists": [
         {
-          "name": "GAULOIS",
-          "url": "https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 159573,
-      "name": "Jolie (feat. Ninho)",
-      "url": "https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd"
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "H24 dimanche",
-        "url": "https://open.spotify.com/album/4ZgXlJiI8U4RVuIWVsqTta"
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
       },
       "artists": [
         {
-          "name": "TheFrenchKris",
-          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 148961,
-      "name": "H24 dimanche",
-      "url": "https://open.spotify.com/track/3ux4Cxmi7ABEHEmdCeIjkU"
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -489,7 +513,7 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
@@ -505,23 +529,23 @@
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "AMBER",
         "url": "https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD"
@@ -537,55 +561,27 @@
       "url": "https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "OneRepublic (Japan Paradise Tour Edition)",
-        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
-    },
-    {
-      "added_at": "2023-03-04 10:12:38",
-      "album": {
-        "name": "KMT",
-        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
-      },
-      "artists": [
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         }
       ],
-      "duration_ms": 240413,
-      "name": "DIE",
-      "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
+      "duration_ms": 229386,
+      "name": "Nocif",
+      "url": "https://open.spotify.com/track/4BZZTXcd5ROagKhynqj61X"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
-    },
-    {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
@@ -601,7 +597,7 @@
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -617,27 +613,59 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "Abziehen",
-        "url": "https://open.spotify.com/album/32bNw04jonhRIqvmG2mARJ"
+        "name": "La Gaule, Vol.1",
+        "url": "https://open.spotify.com/album/0xkRuvISedgQKc7BesPxwP"
       },
       "artists": [
         {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+          "name": "GAULOIS",
+          "url": "https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT"
         },
         {
-          "name": "Gzuz",
-          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 150200,
-      "name": "Abziehen",
-      "url": "https://open.spotify.com/track/42MbpTDZWKc8uAJDhHcvQO"
+      "duration_ms": 159573,
+      "name": "Jolie (feat. Ninho)",
+      "url": "https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
+      "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 240413,
+      "name": "DIE",
+      "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
+    },
+    {
+      "added_at": "2023-03-05 10:17:25",
+      "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 156787,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
+    },
+    {
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
@@ -661,55 +689,7 @@
       "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
-      "album": {
-        "name": "5LBS OF PRESSURE",
-        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
-      },
-      "artists": [
-        {
-          "name": "Superstar Pride",
-          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
-        }
-      ],
-      "duration_ms": 122070,
-      "name": "PAINTING PICTURES",
-      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
-    },
-    {
-      "added_at": "2023-03-04 10:12:38",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
-    },
-    {
-      "added_at": "2023-03-04 10:12:38",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
@@ -725,7 +705,7 @@
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
@@ -741,7 +721,7 @@
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -757,39 +737,75 @@
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "DNK",
-        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 162373,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/3xrZCGMyXIDqesVz4QwJOL"
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 156787,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
+      "duration_ms": 196520,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2023-03-05 10:17:25",
+      "album": {
+        "name": "5LBS OF PRESSURE",
+        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "duration_ms": 122070,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
+    },
+    {
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
@@ -805,23 +821,55 @@
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
       "album": {
-        "name": "Still Alive (From the Original Motion Picture Scream VI)",
-        "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 185310,
-      "name": "Still Alive - From the Original Motion Picture Scream VI",
-      "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
-      "added_at": "2023-03-04 10:12:38",
+      "added_at": "2023-03-05 10:17:25",
+      "album": {
+        "name": "= (Tour Edition)",
+        "url": "https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU"
+    },
+    {
+      "added_at": "2023-03-05 10:17:25",
+      "album": {
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3xrZCGMyXIDqesVz4QwJOL"
+    },
+    {
+      "added_at": "2023-03-05 10:17:25",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -843,62 +891,6 @@
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
-    },
-    {
-      "added_at": "2023-03-04 10:12:38",
-      "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
-    },
-    {
-      "added_at": "2023-03-04 10:12:38",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
-    },
-    {
-      "added_at": "2023-03-04 10:12:38",
-      "album": {
-        "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
-        "url": "https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 168087,
-      "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u"
     }
   ],
   "unique_name": "Top 50 - Luxembourg",

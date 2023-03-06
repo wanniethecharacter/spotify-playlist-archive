@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-208 songs - 11 hr 5 min
+209 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,10 +165,11 @@
 | [Phone Sex](https://open.spotify.com/track/0SbwmVySMhXR47pGy9F5BA) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Phone Sex](https://open.spotify.com/album/7uPEOCp4fZcA83suKA39b3) | 3:13 | 2022-05-20 | 2023-01-07 |
 | [Planeando Madrid](https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Planeando Madrid](https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7) | 4:12 | 2022-05-20 |  |
 | [Plegarias \- Acústico Premios Gardel 2020](https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Plegarias \(Acústico Premios Gardel 2020\)](https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS) | 2:59 | 2022-05-20 |  |
-| [Promesa](https://open.spotify.com/track/7xEN9p3spnvGC891587UOO) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Promesa](https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk) | 3:01 | 2022-05-20 |  |
+| [Promesa](https://open.spotify.com/track/7xEN9p3spnvGC891587UOO) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Promesa](https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk) | 3:01 | 2022-05-20 | 2023-03-06 |
 | [PRONTO!](https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [PRONTO!](https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF) | 3:28 | 2022-05-20 | 2022-10-28 |
 | [Puente](https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:00 | 2022-05-20 |  |
 | [Quieres de mi](https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan) | [Anna Zarate](https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2), [Gamboa](https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu) | [Quieres de mi](https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq) | 3:12 | 2022-05-20 |  |
+| [Qué Bonito Es Lo Bonito](https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 4:16 | 2023-03-02 |  |
 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 | 2022-05-20 | 2022-10-28 |
 | [Qué Dirías?](https://open.spotify.com/track/3HPvXWekjDqIppRxhpHkDT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Qué Dirías?](https://open.spotify.com/album/6nz3906mjf2FD4EiuzBrGM) | 3:03 | 2022-05-20 | 2022-10-28 |
 | [Qué Dulce](https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W) | [Jorge Cajías](https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe), [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Qué Dulce](https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5) | 2:13 | 2022-05-20 |  |

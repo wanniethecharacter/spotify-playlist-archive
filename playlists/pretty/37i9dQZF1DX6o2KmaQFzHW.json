@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 158561,
+  "num_followers": 158653,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGFhYjEzNmU2ZjQxZGMyMGE0Y2Y2YWU4YzQ1YThhZDI4",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGFkMzQxOTc0YThlNTcwMTYzMzg0Y2FjYTRjZTBlYWY1",
   "tracks": [
     {
       "added_at": "2022-02-21 19:44:42",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Poncho Al Viento",
-        "url": "https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "Entre A Mi Pago Sin Golpear",
-      "url": "https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Todos Somos Chalchaleros",
         "url": "https://open.spotify.com/album/7LWRJuP4iXgbOH1Gt98GiO"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 234453,
       "name": "Zamba de Mi Esperanza (feat. Jorge Cafrune)",
       "url": "https://open.spotify.com/track/5L0QkgiZv1k6KjIk4Aptms"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Poncho Al Viento",
+        "url": "https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "Entre A Mi Pago Sin Golpear",
+      "url": "https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Nocheros",
-        "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "D\u00e9jame Que Me Vaya",
-      "url": "https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Este Destino Cantor",
         "url": "https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 214386,
       "name": "Mi Luna Cautiva",
       "url": "https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Nocheros",
+        "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "D\u00e9jame Que Me Vaya",
+      "url": "https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Canci\u00f3n Para Una Mentira",
-        "url": "https://open.spotify.com/album/5DS1KiJug4nVfpk4llnSeX"
-      },
-      "artists": [
-        {
-          "name": "Los Del Suqu\u00eda",
-          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
-        }
-      ],
-      "duration_ms": 191653,
-      "name": "Canci\u00f3n Para Una Mentira",
-      "url": "https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Desde Adentro",
         "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 162093,
       "name": "La Flor Azul",
       "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Canci\u00f3n Para Una Mentira",
+        "url": "https://open.spotify.com/album/5DS1KiJug4nVfpk4llnSeX"
+      },
+      "artists": [
+        {
+          "name": "Los Del Suqu\u00eda",
+          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
+        }
+      ],
+      "duration_ms": 191653,
+      "name": "Canci\u00f3n Para Una Mentira",
+      "url": "https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -943,22 +943,18 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Carnaval, Pasi\u00f3n del Norte",
-        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
+        "name": "Paisaje",
+        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
       },
       "artists": [
         {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        },
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
         }
       ],
-      "duration_ms": 202053,
-      "name": "Canto Nochero",
-      "url": "https://open.spotify.com/track/0omW2uqEb73K7uvzNFzRDm"
+      "duration_ms": 255400,
+      "name": "Agitando Pa\u00f1uelos",
+      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -979,18 +975,22 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Paisaje",
-        "url": "https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a"
+        "name": "Carnaval, Pasi\u00f3n del Norte",
+        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
       },
       "artists": [
         {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 255400,
-      "name": "Agitando Pa\u00f1uelos",
-      "url": "https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3"
+      "duration_ms": 202053,
+      "name": "Canto Nochero",
+      "url": "https://open.spotify.com/track/0omW2uqEb73K7uvzNFzRDm"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Amaneciendo",
-        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Con Todo Y Mi Tristeza",
-      "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Los 3 Del R\u00edo",
         "url": "https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 284769,
       "name": "El Preso N\u00ba 9",
       "url": "https://open.spotify.com/track/3GeFKVsojFAPxafcfnCsxX"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Con Todo Y Mi Tristeza",
+      "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "C\u00f3rdoba Sin Ti",
-      "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 236813,
       "name": "Viejo Pescador del Paran\u00e1 (with Teresa Parodi & Chango Spasiuk)",
       "url": "https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "C\u00f3rdoba Sin Ti",
+      "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "El Estilo Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2"
+        "name": "Inolvidable - Jorge Cafrune -",
+        "url": "https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5"
       },
       "artists": [
         {
-          "name": "Los Del Suqu\u00eda",
-          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
         }
       ],
-      "duration_ms": 220133,
-      "name": "Y Va Pasando la Vida",
-      "url": "https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0"
+      "duration_ms": 231400,
+      "name": "La atardecida",
+      "url": "https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Inolvidable - Jorge Cafrune -",
-        "url": "https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5"
+        "name": "El Estilo Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2"
       },
       "artists": [
         {
-          "name": "Jorge Cafrune",
-          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+          "name": "Los Del Suqu\u00eda",
+          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
         }
       ],
-      "duration_ms": 231400,
-      "name": "La atardecida",
-      "url": "https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O"
+      "duration_ms": 220133,
+      "name": "Y Va Pasando la Vida",
+      "url": "https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0"
     },
     {
       "added_at": "2022-02-21 19:44:42",

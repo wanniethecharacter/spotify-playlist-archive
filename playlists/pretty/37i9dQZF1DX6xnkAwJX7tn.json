@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 365382,
+  "num_followers": 366429,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDZiZTNhYzkyYzA0NDM0NDNlMTZkMTlkMmUxOGViNmZl",
+  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMGE0NGY1OTEyZmExZDA2NGJmZDJlNWQ1YzYxNzcxODNh",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z"
     },
     {
-      "added_at": "2021-03-22 14:12:29",
-      "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Never Too Much",
@@ -915,6 +899,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2021-03-22 14:12:29",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 302693,
-      "name": "Everything She Wants",
-      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 245600,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 302693,
+      "name": "Everything She Wants",
+      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1625,22 +1625,6 @@
       "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "True Blue (Reissue)",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Papa Don't Preach",
-      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Fame (Original Motion Picture Soundtrack)",
@@ -1657,20 +1641,20 @@
       "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Branigan",
-        "url": "https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA"
+        "name": "True Blue (Reissue)",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
       "artists": [
         {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 289853,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
+      "duration_ms": 268533,
+      "name": "Papa Don't Preach",
+      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1687,6 +1671,22 @@
       "duration_ms": 217200,
       "name": "Private Eyes",
       "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Branigan",
+        "url": "https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 289853,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1753,22 +1753,6 @@
       "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
-    },
-    {
       "added_at": "2021-09-18 06:09:03",
       "album": {
         "name": "Hands Up",
@@ -1783,42 +1767,6 @@
       "duration_ms": 208573,
       "name": "Hands Up - Single Version",
       "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Like a Prayer",
-        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 340866,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Keep On Movin'",
-        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
-      },
-      "artists": [
-        {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
-        },
-        {
-          "name": "Caron Wheeler",
-          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Back To Life",
-      "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1839,6 +1787,58 @@
       "duration_ms": 285253,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Keep On Movin'",
+        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        },
+        {
+          "name": "Caron Wheeler",
+          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Street Songs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Give It To Me Baby",
-      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 222626,
       "name": "Give Me the Night",
       "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Give It To Me Baby",
+      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2129,20 +2129,20 @@
       "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
+      "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "The Innocents",
-        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
+        "name": "Body Wishes",
+        "url": "https://open.spotify.com/album/065Q5LxNZPSjmqcZmGeRGc"
       },
       "artists": [
         {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 213373,
-      "name": "A Little Respect",
-      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
+      "duration_ms": 283493,
+      "name": "Baby Jane - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1wrT33b6HuKlpk9ziscEUY"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "The Innocents",
+        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "A Little Respect",
+      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "Love Songs (A Compilation Old and New)",
         "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
@@ -2175,22 +2191,6 @@
       "duration_ms": 204386,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Body Wishes",
-        "url": "https://open.spotify.com/album/065Q5LxNZPSjmqcZmGeRGc"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Baby Jane - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1wrT33b6HuKlpk9ziscEUY"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2241,22 +2241,6 @@
       "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Forever Your Girl",
-        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
-      },
-      "artists": [
-        {
-          "name": "Paula Abdul",
-          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Come On Eileen / Dubious",
@@ -2275,6 +2259,22 @@
       "duration_ms": 205933,
       "name": "Come On Eileen - Single Edit",
       "url": "https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Forever Your Girl",
+        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Crazy Nights",
-        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Crazy Crazy Nights",
-      "url": "https://open.spotify.com/track/3YSfGJNDtF8KrHlwCAaVns"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Straight from the Heart (Remastered)",
         "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 284506,
       "name": "Forget Me Nots - Remastered",
       "url": "https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Crazy Crazy Nights",
+      "url": "https://open.spotify.com/track/3YSfGJNDtF8KrHlwCAaVns"
     },
     {
       "added_at": "2021-09-08 13:09:25",

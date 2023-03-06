@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,676 likes - 100 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,768 likes - 100 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 78 | [God, You’re So Good \- Live](https://open.spotify.com/track/3OBG99yPHZwjhPpALz17jm) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [God, You're So Good \(Live\)](https://open.spotify.com/album/60oSR3Ij3WnoVvZGPqD12G) | 7:06 |
 | 79 | [Let It Happen \(Live\) \[feat\. Andrea Marie\]](https://open.spotify.com/track/1MCxM27lS1cDA7py53mqRt) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Andrea Marie](https://open.spotify.com/artist/5J59mmHP5QFfepuvMgL2gS) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 8:10 |
 | 80 | [Heal Our Land](https://open.spotify.com/track/51RuKnh1Fec9pZtKOVbO28) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 5:00 |
-| 81 | [Sing My Way Back](https://open.spotify.com/track/6h5pFZKZMvobTx6UVceeyX) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Blackout](https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8) | 3:47 |
-| 82 | [I Don't Have Much](https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [I Don't Have Much](https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw) | 5:14 |
+| 81 | [I Don't Have Much](https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [I Don't Have Much](https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw) | 5:14 |
+| 82 | [Sing My Way Back](https://open.spotify.com/track/6h5pFZKZMvobTx6UVceeyX) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Blackout](https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8) | 3:47 |
 | 83 | [At the Foot of the Cross \- Acoustic](https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 3:59 |
 | 84 | [I Am No Victim](https://open.spotify.com/track/2XkTROEhPw2Abzri1F20iL) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 4:41 |
 | 85 | [Move \- Live](https://open.spotify.com/track/4SsE5oHM1nOEH8XEbEpugm) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 6:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Not Afraid \- Live](https://open.spotify.com/track/5GY6JKRXebctv4T8dgEzGq) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 7:25 |
 | 100 | [You Satisfy \(feat\. Elyssa Smith\)](https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F) | [Upper Room Music](https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf), [Elyssa Smith](https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f) | [Center of Your Love](https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL) | 4:56 |
 
-Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMGJhNzc2M2IzMjYyM2M0NjcxNjI1OWZhNWJmODM2MGE2`
+Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDllMzMwOTllYTNmZTg2NjdmYThiMWM5MTk1YjQ4NTVm`

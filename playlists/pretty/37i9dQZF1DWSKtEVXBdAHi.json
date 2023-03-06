@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 157259,
+  "num_followers": 160391,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1NDEyMiwwMDAwMDAwMDUyMzQxMjA2N2Q4ZWJhN2YyYTBjZmRkMTIyZDUyM2Vm",
+  "snapshot_id": "MTY3Nzg1NDEyMiwwMDAwMDAwMGVkMTkyMWE0NjhmZmIxYTk2MTljNzY2MWU3NDhiZDkz",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -879,6 +879,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Breathe (feat. Ina Wroldsen)",
+      "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
         "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Snacks",
-        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Breathe (feat. Ina Wroldsen)",
-      "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Sun Is Shining",
+        "url": "https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Vince Freeman",
+          "url": "https://open.spotify.com/artist/74fA5V74G5FAxND01a42is"
+        }
+      ],
+      "duration_ms": 189243,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Complicated (Faustix Remix)",
         "url": "https://open.spotify.com/album/0llzH5uVLmppDsZQApY6du"
       },
@@ -1431,22 +1451,18 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Sun Is Shining",
-        "url": "https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ"
+        "name": "Don't Worry (Radio Edit)",
+        "url": "https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Vince Freeman",
-          "url": "https://open.spotify.com/artist/74fA5V74G5FAxND01a42is"
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
         }
       ],
-      "duration_ms": 189243,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN"
+      "duration_ms": 190278,
+      "name": "Don't Worry - Radio Edit",
+      "url": "https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1467,22 +1483,6 @@
       "duration_ms": 156283,
       "name": "High On Your Love",
       "url": "https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Don't Worry (Radio Edit)",
-        "url": "https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5"
-      },
-      "artists": [
-        {
-          "name": "Campsite Dream",
-          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
-        }
-      ],
-      "duration_ms": 190278,
-      "name": "Don't Worry - Radio Edit",
-      "url": "https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5"
     },
     {
       "added_at": "2020-02-18 13:31:30",

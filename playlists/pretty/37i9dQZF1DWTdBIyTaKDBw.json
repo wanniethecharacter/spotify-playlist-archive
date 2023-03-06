@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 42592,
+  "num_followers": 42665,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDkyOSwwMDAwMDAwMDNiMzU3OWFlYjAwZTEzODI3YmRmM2EyYzAyMDU0ZDQx",
+  "snapshot_id": "MTY3NzIzNDkyOSwwMDAwMDAwMDljMzFjMzYzMTQzODRmZTg2NWViOTFjYzc2OGI5ZTA3",
   "tracks": [
     {
       "added_at": "2023-01-25 08:21:22",
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/1eEHOnrNLP46aGKLb1LtMI"
     },
     {
-      "added_at": "2023-03-05 00:15:31",
+      "added_at": "2023-03-06 01:04:35",
       "album": {
         "name": "Snowy Stars",
         "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "Junggigo Sings Brazil",
-        "url": "https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K"
-      },
-      "artists": [
-        {
-          "name": "Junggigo Trio",
-          "url": "https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL"
-        }
-      ],
-      "duration_ms": 297706,
-      "name": "Fairy Of Shampoo",
-      "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "with HER",
         "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 210133,
       "name": "Love Encore (with Lee Sora)",
       "url": "https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "Junggigo Sings Brazil",
+        "url": "https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K"
+      },
+      "artists": [
+        {
+          "name": "Junggigo Trio",
+          "url": "https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL"
+        }
+      ],
+      "duration_ms": 297706,
+      "name": "Fairy Of Shampoo",
+      "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "Sweeet",
-        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
-      },
-      "artists": [
-        {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
-        }
-      ],
-      "duration_ms": 177999,
-      "name": "Sugardance",
-      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/3GugXnQJXNFzXCBNTZb02q"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 205854,
       "name": "\ub2ec\ucf64\ud55c \ube48\ub9d0 (feat. \ubc14\ubc84\ub81b\uce20) Sweet lies (feat. The Barberettes)",
       "url": "https://open.spotify.com/track/3F6eSiAXmjfZpR0vUOoOzN"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "Sweeet",
+        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "duration_ms": 177999,
+      "name": "Sugardance",
+      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "December's Spring",
-        "url": "https://open.spotify.com/album/4knx3cIPVE7wb6yNJhhS1A"
-      },
-      "artists": [
-        {
-          "name": "YUN HU",
-          "url": "https://open.spotify.com/artist/2yjxXnxo2b9nxPv6JbvDgp"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "December's Spring(Prod. Sam Kim)",
-      "url": "https://open.spotify.com/track/2gccCocSljvkKhBL7gkYLN"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "Thinking of you",
         "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 239086,
       "name": "Wish",
       "url": "https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "December's Spring",
+        "url": "https://open.spotify.com/album/4knx3cIPVE7wb6yNJhhS1A"
+      },
+      "artists": [
+        {
+          "name": "YUN HU",
+          "url": "https://open.spotify.com/artist/2yjxXnxo2b9nxPv6JbvDgp"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "December's Spring(Prod. Sam Kim)",
+      "url": "https://open.spotify.com/track/2gccCocSljvkKhBL7gkYLN"
     },
     {
       "added_at": "2023-01-25 08:21:22",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-25 08:21:22",
       "album": {
-        "name": "ONF:MY NAME",
-        "url": "https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3"
-      },
-      "artists": [
-        {
-          "name": "ONF",
-          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Thermometer - ON Team Version",
-      "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
-    },
-    {
-      "added_at": "2023-01-25 08:21:22",
-      "album": {
         "name": "ROSE",
         "url": "https://open.spotify.com/album/26fovYAowQaJmrucMlNztd"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 178886,
       "name": "ROSE",
       "url": "https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS"
+    },
+    {
+      "added_at": "2023-01-25 08:21:22",
+      "album": {
+        "name": "ONF:MY NAME",
+        "url": "https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Thermometer - ON Team Version",
+      "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
     }
   ],
   "unique_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",

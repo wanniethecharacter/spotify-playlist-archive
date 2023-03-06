@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 139197,
+  "num_followers": 139333,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDhjNTRiMGQ2ZmFkMmVkOWMzM2U5MGJkZmExZjIxMmZm",
+  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDMyOWZmYTVmOTZiZmRkNGNkZmZjODNkNmMxNWJjZDg0",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Hide",
-        "url": "https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd"
-      },
-      "artists": [
-        {
-          "name": "KARAAL",
-          "url": "https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b"
-        }
-      ],
-      "duration_ms": 206612,
-      "name": "Hide - Original Mix",
-      "url": "https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Vivi",
         "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 230673,
       "name": "Ascendance",
       "url": "https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Hide",
+        "url": "https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd"
+      },
+      "artists": [
+        {
+          "name": "KARAAL",
+          "url": "https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b"
+        }
+      ],
+      "duration_ms": 206612,
+      "name": "Hide - Original Mix",
+      "url": "https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn"
     },
     {
       "added_at": "2022-11-25 16:56:36",

@@ -1,12 +1,12 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 116279,
+  "num_followers": 116486,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NDkwNiwwMDAwMDAwMGFmYTViMjJiZDgxYTAwZjJhMmFiMjM4OTVhZDczZTcy",
+  "snapshot_id": "MTY2OTM5NDkwNiwwMDAwMDAwMDAzMzRlMWM5YjkzMmFiMjkxZmJkYzdhM2ZhODVmMmUw",
   "tracks": [
     {
       "added_at": "2022-11-25 16:48:26",
@@ -443,22 +443,18 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "Magical Thinking",
-        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
+        "name": "So Good To Me (Remixes)",
+        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
         }
       ],
-      "duration_ms": 217946,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/07dQEivh1UNFqtWOnEpyUC"
+      "duration_ms": 158677,
+      "name": "So Good to Me - Radio Edit",
+      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
     },
     {
       "added_at": "2022-11-25 16:48:26",
@@ -479,18 +475,22 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "So Good To Me (Remixes)",
-        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
       },
       "artists": [
         {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 158677,
-      "name": "So Good to Me - Radio Edit",
-      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
+      "duration_ms": 217946,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/07dQEivh1UNFqtWOnEpyUC"
     },
     {
       "added_at": "2022-11-25 16:48:26",
@@ -867,18 +867,26 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+        "name": "Her Revolution / His Rope",
+        "url": "https://open.spotify.com/album/4ciK8DtBglOBd0FYznsg98"
       },
       "artists": [
         {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        },
+        {
           "name": "Four Tet",
           "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
         }
       ],
-      "duration_ms": 343400,
-      "name": "Parallel 7",
-      "url": "https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh"
+      "duration_ms": 348973,
+      "name": "Her Revolution",
+      "url": "https://open.spotify.com/track/2MhDAsciLk9txdni5CL8iw"
     }
   ],
   "unique_name": "Melantronic",

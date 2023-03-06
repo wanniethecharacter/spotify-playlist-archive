@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,644 likes - 48 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,742 likes - 48 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 26 | [La Llamada De Mi Ex](https://open.spotify.com/track/3DsOQD00s3Z6Km4WvtMkJt) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Los Creadores Del Sonido](https://open.spotify.com/album/2tFZT8FiXb8GjEhTI03vCl) | 3:31 |
 | 27 | [Un beso](https://open.spotify.com/track/2gX34gCWPnUSvEhYLYEMH4) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Un beso](https://open.spotify.com/album/5YLIFTDokuqZWwAxuIqXRq) | 4:02 |
 | 28 | [Me Dicen Cuba](https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Me Dicen Cuba / Rosa la Peligrosa](https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN) | 4:58 |
-| 29 | [Ámame con Tu Experiencia \- Remasterizado](https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst) | [Juan Carlos Alfonso y su Dan Den](https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM) | [Fiestas de Cuba \(Remasterizado\)](https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u) | 4:42 |
-| 30 | [Dale Lo Que Lleva \(with Maykel Fonts\)](https://open.spotify.com/track/7HJlg4JTHFXsfFGXTkkeQq) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp), [Maykel Fonts](https://open.spotify.com/artist/25XlE014uP57NwPYobN64T) | [Latino 56 \- Salsa Bachata Merengue Reggaeton \(Latin Hits\)](https://open.spotify.com/album/7IziAogkGgcd7Xl5LCWIGl) | 5:02 |
-| 31 | [Fever](https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Reina de la Canción Latina](https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu) | 2:45 |
+| 29 | [Fever](https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Reina de la Canción Latina](https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu) | 2:45 |
+| 30 | [Ámame con Tu Experiencia \- Remasterizado](https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst) | [Juan Carlos Alfonso y su Dan Den](https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM) | [Fiestas de Cuba \(Remasterizado\)](https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u) | 4:42 |
+| 31 | [Dale Lo Que Lleva \(with Maykel Fonts\)](https://open.spotify.com/track/7HJlg4JTHFXsfFGXTkkeQq) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp), [Maykel Fonts](https://open.spotify.com/artist/25XlE014uP57NwPYobN64T) | [Latino 56 \- Salsa Bachata Merengue Reggaeton \(Latin Hits\)](https://open.spotify.com/album/7IziAogkGgcd7Xl5LCWIGl) | 5:02 |
 | 32 | [Yo Voy Pa Encima](https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Yo Voy Pa Encima \- Single](https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ) | 3:26 |
 | 33 | [Conmigo No](https://open.spotify.com/track/3yophgzbY958X32KOQqiYF) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [Con La Musica Cubana No!](https://open.spotify.com/album/6VSv71T72A9eQBritcJsTy) | 5:16 |
 | 34 | [La Boda de Belén](https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Grandes Éxitos](https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3) | 5:26 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Consumelo](https://open.spotify.com/track/5QB5D24Q2ZExArP6fG9BQh) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [Consumelo](https://open.spotify.com/album/1suANlvy8VuPkA2Vb7pvHK) | 4:41 |
 | 48 | [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 |
 
-Snapshot ID: `MTY3MjQyNDQ0NSwwMDAwMDAwMGViMGRiOTEyYTI2MmM4NzJjNjQ0YWY0OGMzZjhlODhj`
+Snapshot ID: `MTY3MjQyNDQ0NSwwMDAwMDAwMDkyZTgyMGFmMTAwZjZjYjE1M2JiZTQ1MGJkZTdiZDMz`

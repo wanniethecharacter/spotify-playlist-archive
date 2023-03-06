@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-130 songs - 9 hr 36 min
+131 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [HAPPY HAPPYミーティング](https://open.spotify.com/track/1UX6YQVjW7UwFzKql9Alqb) | [天ヶ瀬冬馬 \(CV.寺島拓篤\)](https://open.spotify.com/artist/5OETSxl0VRHQe0q5bpmZhl) | [THE IDOLM@STER SideM ORIGIN@L PIECES 06](https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB) | 4:43 | 2022-12-01 | 2022-12-16 |
 | [Happy's Birthday](https://open.spotify.com/track/3TRybkW20l5nukwmOXsBTx) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM NEW STAGE EPISODE:13 S.E.M](https://open.spotify.com/album/6zyvJTb3gNtd2dlQQBjtj8) | 4:15 | 2022-12-01 | 2023-01-15 |
 | [HIGH JUMP NO LIMIT](https://open.spotify.com/track/2xEQzDv6FN51uHBKnhsIcm) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ST@RTING LINE\-04 High Joker](https://open.spotify.com/album/0zYygSqzjxn3CdvZdSJtUV) | 4:41 | 2022-12-01 | 2022-12-21 |
-| [Hungry?](https://open.spotify.com/track/2tbKrlz5rUmjZKBzT4A4lu) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM NEW STAGE EPISODE:02 THE 虎牙道](https://open.spotify.com/album/0JvkledARWRgZDOvqEzVHx) | 3:41 | 2022-12-22 |  |
+| [Hungry?](https://open.spotify.com/track/2tbKrlz5rUmjZKBzT4A4lu) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM NEW STAGE EPISODE:02 THE 虎牙道](https://open.spotify.com/album/0JvkledARWRgZDOvqEzVHx) | 3:41 | 2022-12-22 | 2023-03-06 |
 | [JOKER オールマイティ](https://open.spotify.com/track/5TPX8WWXHjfiDWeMk83fGY) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ST@RTING LINE\-04 High Joker](https://open.spotify.com/album/0zYygSqzjxn3CdvZdSJtUV) | 5:26 | 2022-12-01 |  |
 | [LEADING YOUR DREAM](https://open.spotify.com/track/1vekJLRSAsjIznuT1qrjVE) | [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 03](https://open.spotify.com/album/0f7ipGixpoqOH09KNBGAUk) | 4:21 | 2022-12-01 |  |
 | [Learning Message](https://open.spotify.com/track/5ICy98VAWQfVgBialQdD6s) | [硲 道夫 \(CV.伊東健人\)](https://open.spotify.com/artist/4EhRW7ws3liEFllG66Nwlq) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 5:03 | 2022-12-01 | 2023-02-11 |
@@ -75,6 +75,7 @@
 | [Reason!!](https://open.spotify.com/track/1BelPw1RA4M0bjq0qKd2JR) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM ANIMATION PROJECT 01 Reason!!](https://open.spotify.com/album/2dWuenMwbM25FIFG8K7ACG) | 5:05 | 2022-12-01 |  |
 | [Reason!!](https://open.spotify.com/track/7iWxG9pHpaF3Fy7SimlqPZ) | [Beit](https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9) | [THE IDOLM@STER SideM ANIMATION PROJECT 02 TOMORROW DIAMOND](https://open.spotify.com/album/1Z04uyUlHNIhMyDveIRpO8) | 5:05 | 2022-12-01 | 2022-12-03 |
 | [Reflection BREAKERS](https://open.spotify.com/track/18x1jatyY4AsstgYN7KxoZ) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 49 ELEMENTS \-06 THE 虎牙道](https://open.spotify.com/album/6lx045j0mTaAyCzYyUF8Nz) | 3:48 | 2022-12-22 |  |
+| [Resonate Blessing](https://open.spotify.com/track/4Wb3NyRgnl8o3helEmmCUm) | [都築 圭 \(CV.土岐隼一\)](https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx) | [THE IDOLM@STER SideM 49 ELEMENTS \-07 Altessimo](https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4) | 5:09 | 2023-02-25 |  |
 | [Reversed Masquerade](https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 5:20 | 2022-12-01 |  |
 | [RULE\~牙ヲ穿テヨ\~](https://open.spotify.com/track/5wuI32XPpxSTUrh2CqSDVk) | [牙崎 漣 \(CV.小松昌平\)](https://open.spotify.com/artist/12UKr0NKzDGIckxk5QDknx) | [THE IDOLM@STER SideM ORIGIN@L PIECES 05](https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ) | 3:43 | 2022-12-01 |  |
 | [Secret Ornament](https://open.spotify.com/track/6nSVJPehM47RC9E4IjI4qg) | [Beit](https://open.spotify.com/artist/4kjd7D2GThtSXOHBgq0WA9) | [THE IDOLM@STER SideM NEW STAGE EPISODE:05 Beit](https://open.spotify.com/album/7mFygDZVNvNexSfKOuGAyS) | 4:08 | 2022-12-01 | 2022-12-06 |

@@ -3211,6 +3211,32 @@
     },
     {
       "album": {
+        "name": "Every Other Way (Adam Ellis Remix)",
+        "url": "https://open.spotify.com/album/5udCLW82EKRHiUtpcmHLn3"
+      },
+      "artists": [
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        },
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        },
+        {
+          "name": "Adam Ellis",
+          "url": "https://open.spotify.com/artist/5tGHR2wsaFZhRzRPRZDFds"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266086,
+      "name": "Every Other Way - Adam Ellis Remix",
+      "url": "https://open.spotify.com/track/4WNJB0p490ZNs3EO5IcFZA"
+    },
+    {
+      "album": {
         "name": "Everything You've Got",
         "url": "https://open.spotify.com/album/2fn9r7gYtiEnjxIQ5WvNFg"
       },
@@ -11078,7 +11104,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 196423,
       "name": "United",
       "url": "https://open.spotify.com/track/7xKATmfmkwgt8qvUaAdm1a"

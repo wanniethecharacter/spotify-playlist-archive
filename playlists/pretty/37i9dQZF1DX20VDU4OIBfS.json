@@ -1,12 +1,12 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3029150,
+  "num_followers": 3029689,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2NDQ2OCwwMDAwMDAwMDAwN2JiN2VlMGVmMzhkZjJlZTY0ZGEyZmY0NWIzZmNh",
+  "snapshot_id": "MTY3MzU2NDQ2OCwwMDAwMDAwMDNmNjg1ZjNhZWM2MmI2NThlMDRhMjg2OGUzMjU3MDVm",
   "tracks": [
     {
       "added_at": "2023-01-12 23:01:08",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
+        "name": "El Sonido Vol. 1",
+        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 171486,
+      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s",
+      "url": "https://open.spotify.com/track/0hTao6s03MkTStWfxAmnGk"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
-        "name": "El Sonido Vol. 1",
-        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 171486,
-      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s",
-      "url": "https://open.spotify.com/track/0hTao6s03MkTStWfxAmnGk"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Pra Sempre Em Espanhol - Vol. 2",
-        "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Cama y Mesa - Cama e Mesa",
-      "url": "https://open.spotify.com/track/426kUsOMW5p2VWEVNu5BxF"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Arriba Huentitan",
         "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 180733,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Pra Sempre Em Espanhol - Vol. 2",
+        "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Cama y Mesa - Cama e Mesa",
+      "url": "https://open.spotify.com/track/426kUsOMW5p2VWEVNu5BxF"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -899,8 +899,8 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
         }
       ],
-      "duration_ms": 168306,
-      "name": "D\u00e9jenme Si Estoy Llorando",
-      "url": "https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU"
+      "duration_ms": 243573,
+      "name": "Y Volver\u00e9",
+      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "El Sonido Vol. 2",
-        "url": "https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 261982,
-      "name": "Castillos",
-      "url": "https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh"
       },
@@ -1059,8 +1043,24 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+        "name": "El Sonido Vol. 2",
+        "url": "https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 261982,
+      "name": "Castillos",
+      "url": "https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
       },
       "artists": [
         {
@@ -1068,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
         }
       ],
-      "duration_ms": 243573,
-      "name": "Y Volver\u00e9",
-      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
+      "duration_ms": 168306,
+      "name": "D\u00e9jenme Si Estoy Llorando",
+      "url": "https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1103,22 +1103,6 @@
       "duration_ms": 218706,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/08Jr52g99jcHUYx9NhU0IE"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Qu\u00e9 pasar\u00e1 ma\u00f1ana",
-      "url": "https://open.spotify.com/track/588L3T9VgPngwtXUiFWnf6"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
         }
       ],
-      "duration_ms": 257440,
-      "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
-      "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
+      "duration_ms": 211000,
+      "name": "Qu\u00e9 pasar\u00e1 ma\u00f1ana",
+      "url": "https://open.spotify.com/track/588L3T9VgPngwtXUiFWnf6"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1199,6 +1183,22 @@
       "duration_ms": 199013,
       "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
       "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
+      "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "El Angel Del Rock Vol. 2",
-        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 254826,
-      "name": "Sue\u00f1os Compartidos",
-      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 250440,
       "name": "Claridad",
       "url": "https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "El Angel Del Rock Vol. 2",
+        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 254826,
+      "name": "Sue\u00f1os Compartidos",
+      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Grandes exitos 1997-2004",
-        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/73MuQb9jIoryiOig4hDQhT"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Palito Ortega y Sus Exitos",
         "url": "https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 202501,
       "name": "Prometimos No Llorar",
       "url": "https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Grandes exitos 1997-2004",
+        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/73MuQb9jIoryiOig4hDQhT"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Solo Lo Mejor - 20 Exitos",
-        "url": "https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "Popurri Juan Gabriel Medley",
-      "url": "https://open.spotify.com/track/2HtaztxlMW5bPI7ddDSXDd"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "De Nina A Mujer",
         "url": "https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 198200,
       "name": "De Ni\u00f1a a Mujer",
       "url": "https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Solo Lo Mejor - 20 Exitos",
+        "url": "https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "Popurri Juan Gabriel Medley",
+      "url": "https://open.spotify.com/track/2HtaztxlMW5bPI7ddDSXDd"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Eres M\u00eda (Remasterizado)",
-        "url": "https://open.spotify.com/album/5pW6xVlhMN3vnzroxGO5xj"
-      },
-      "artists": [
-        {
-          "name": "Chiquetete",
-          "url": "https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "Esta Cobard\u00eda - Remasterizado",
-      "url": "https://open.spotify.com/track/2qlmlFRhYMgaekmCuxxK0o"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
       },
@@ -1807,6 +1791,22 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
+        "name": "Eres M\u00eda (Remasterizado)",
+        "url": "https://open.spotify.com/album/5pW6xVlhMN3vnzroxGO5xj"
+      },
+      "artists": [
+        {
+          "name": "Chiquetete",
+          "url": "https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "Esta Cobard\u00eda - Remasterizado",
+      "url": "https://open.spotify.com/track/2qlmlFRhYMgaekmCuxxK0o"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
         "name": "Camilo Superstar",
         "url": "https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS"
       },
@@ -1819,22 +1819,6 @@
       "duration_ms": 232360,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
-        "name": "Pra Sempre Em Espanhol - Vol. 2",
-        "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 417533,
-      "name": "Camionero (Caminhoneiro) [Gentle On My Mind]",
-      "url": "https://open.spotify.com/track/2qndofldhCJ8D94cdWDuWH"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1859,18 +1843,34 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "20 \u00c9xitos Inmortales Vol. 2",
-        "url": "https://open.spotify.com/album/0EDFpCWCdEjLsUQANeu6DU"
+        "name": "Pra Sempre Em Espanhol - Vol. 2",
+        "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
       },
       "artists": [
         {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
         }
       ],
-      "duration_ms": 202400,
-      "name": "Mi Amor por Ti",
-      "url": "https://open.spotify.com/track/0UOH706F2rU84cbI1HnGto"
+      "duration_ms": 417533,
+      "name": "Camionero (Caminhoneiro) [Gentle On My Mind]",
+      "url": "https://open.spotify.com/track/2qndofldhCJ8D94cdWDuWH"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Mudanzas",
+        "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 231967,
+      "name": "Mudanzas",
+      "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
+        "name": "20 \u00c9xitos Inmortales Vol. 2",
+        "url": "https://open.spotify.com/album/0EDFpCWCdEjLsUQANeu6DU"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Mi Amor por Ti",
+      "url": "https://open.spotify.com/track/0UOH706F2rU84cbI1HnGto"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
         "name": "Llorar\u00e1s",
         "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 217129,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
-        "name": "Mudanzas",
-        "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
-      },
-      "artists": [
-        {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
-        }
-      ],
-      "duration_ms": 231967,
-      "name": "Mudanzas",
-      "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Tiempo De Vals",
-        "url": "https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Tiempo De Vals",
-      "url": "https://open.spotify.com/track/2d6m2u18196oYQS2mbaO6t"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Para La Eternidad",
         "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 249120,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Tiempo De Vals",
+        "url": "https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Tiempo De Vals",
+      "url": "https://open.spotify.com/track/2d6m2u18196oYQS2mbaO6t"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Thalia",
-        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 269120,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Natalie Cole En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/6X7BJSaM624cWdm4GQjZx5"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 231147,
       "name": "Mi\u00e9nteme una Vez",
       "url": "https://open.spotify.com/track/4rnTiuGY36NyQDM3zFmXPU"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Thalia",
+        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 269120,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -2443,18 +2443,18 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Estoy Vivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/4Zu8MMEmfN8UKLj2NwSHNj"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
         }
       ],
-      "duration_ms": 228613,
-      "name": "Qu\u00e9 Sufras M\u00e1s",
-      "url": "https://open.spotify.com/track/5896oDAbxu2P8PF6qKZze9"
+      "duration_ms": 185560,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/2KIUDhvmBGVNJW76YtjJ6C"
     }
   ],
   "unique_name": "Canciones del Recuerdo",

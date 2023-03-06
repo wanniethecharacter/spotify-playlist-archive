@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 53641,
+  "num_followers": 53709,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzIxNiwwMDAwMDAwMDVmYmM0YWY1MDM0NDE4M2Q5NTE3YjBkYWEwMzg4ZWNm",
+  "snapshot_id": "MTY3Nzg2NzIxNiwwMDAwMDAwMDcxZDY4Nzk5Y2ZlYTdkNWVmMWM2OTZmYThkY2M3NzJj",
   "tracks": [
     {
       "added_at": "2023-03-03 18:13:36",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-03 18:13:36",
       "album": {
-        "name": "Alabama Blues!",
-        "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Alabama Blues",
-      "url": "https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM"
-    },
-    {
-      "added_at": "2023-03-03 18:13:36",
-      "album": {
         "name": "I Am The Moon: IV. Farewell",
         "url": "https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 227893,
       "name": "I Can Feel You Smiling",
       "url": "https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ"
+    },
+    {
+      "added_at": "2023-03-03 18:13:36",
+      "album": {
+        "name": "Alabama Blues!",
+        "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "Alabama Blues",
+      "url": "https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM"
     },
     {
       "added_at": "2023-03-03 18:13:36",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-03-03 18:13:36",
       "album": {
-        "name": "His Best",
-        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Ooh Baby",
-      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
-    },
-    {
-      "added_at": "2023-03-03 18:13:36",
-      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 188813,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B"
+    },
+    {
+      "added_at": "2023-03-03 18:13:36",
+      "album": {
+        "name": "His Best",
+        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Ooh Baby",
+      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
     },
     {
       "added_at": "2023-03-03 18:13:36",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-03 18:13:36",
       "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "Rank Strangers",
-      "url": "https://open.spotify.com/track/75E8SwuE43G0bj3kHZlIts"
-    },
-    {
-      "added_at": "2023-03-03 18:13:36",
-      "album": {
         "name": "Blue River Rising",
         "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 190706,
       "name": "Won't Get Any Better",
       "url": "https://open.spotify.com/track/28r1vNoAGRfy3i8972hOS5"
+    },
+    {
+      "added_at": "2023-03-03 18:13:36",
+      "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Rank Strangers",
+      "url": "https://open.spotify.com/track/75E8SwuE43G0bj3kHZlIts"
     },
     {
       "added_at": "2023-03-03 18:13:36",
@@ -839,22 +839,6 @@
       "duration_ms": 176001,
       "name": "The Dolls Are Sleeping",
       "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
-    },
-    {
-      "added_at": "2023-03-03 18:13:36",
-      "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 154760,
-      "name": "Blues Up The River",
-      "url": "https://open.spotify.com/track/6OBefKGEDbQJndfnNXuu9T"
     },
     {
       "added_at": "2023-03-03 18:13:36",
@@ -935,6 +919,22 @@
       "duration_ms": 145057,
       "name": "Won't Be Around",
       "url": "https://open.spotify.com/track/28zPfiP5FbWKhsVTXoAoC1"
+    },
+    {
+      "added_at": "2023-03-03 18:13:36",
+      "album": {
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 154760,
+      "name": "Blues Up The River",
+      "url": "https://open.spotify.com/track/6OBefKGEDbQJndfnNXuu9T"
     },
     {
       "added_at": "2023-03-03 18:13:36",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-03-03 18:13:36",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 236182,
-      "name": "Money Talks",
-      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
-    },
-    {
-      "added_at": "2023-03-03 18:13:36",
-      "album": {
         "name": "Love Transcends",
         "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 258696,
       "name": "Rollin' On (Acoustic)",
       "url": "https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z"
+    },
+    {
+      "added_at": "2023-03-03 18:13:36",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 236182,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
     },
     {
       "added_at": "2023-03-03 18:13:36",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-03-03 18:13:36",
       "album": {
+        "name": "Great God Almighty (Demo, Summer 2018)",
+        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
+      },
+      "artists": [
+        {
+          "name": "Mike Trask",
+          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
+        }
+      ],
+      "duration_ms": 178276,
+      "name": "Great God Almighty - Demo, Summer 2018",
+      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
+    },
+    {
+      "added_at": "2023-03-03 18:13:36",
+      "album": {
         "name": "Brother Johnny",
         "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 237096,
       "name": "Lone Star Blues",
       "url": "https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm"
-    },
-    {
-      "added_at": "2023-03-03 18:13:36",
-      "album": {
-        "name": "Great God Almighty (Demo, Summer 2018)",
-        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
-      },
-      "artists": [
-        {
-          "name": "Mike Trask",
-          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
-        }
-      ],
-      "duration_ms": 178276,
-      "name": "Great God Almighty - Demo, Summer 2018",
-      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
     },
     {
       "added_at": "2023-03-03 18:13:36",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-03-03 18:13:36",
       "album": {
-        "name": "Make it Talk",
-        "url": "https://open.spotify.com/album/2j4v6Cr23fyOfsH8xG7vk9"
-      },
-      "artists": [
-        {
-          "name": "Danny Garrett",
-          "url": "https://open.spotify.com/artist/7iWrSICKr9CzNWAE0WwnYu"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Make it Talk",
-      "url": "https://open.spotify.com/track/0ImzLhRRph6jPzjPewwgd0"
-    },
-    {
-      "added_at": "2023-03-03 18:13:36",
-      "album": {
         "name": "Portrait",
         "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 216773,
       "name": "Good Morning Little School Girl",
       "url": "https://open.spotify.com/track/7d5qgjlsPTd1T2iSIALs4V"
+    },
+    {
+      "added_at": "2023-03-03 18:13:36",
+      "album": {
+        "name": "Make it Talk",
+        "url": "https://open.spotify.com/album/2j4v6Cr23fyOfsH8xG7vk9"
+      },
+      "artists": [
+        {
+          "name": "Danny Garrett",
+          "url": "https://open.spotify.com/artist/7iWrSICKr9CzNWAE0WwnYu"
+        }
+      ],
+      "duration_ms": 197386,
+      "name": "Make it Talk",
+      "url": "https://open.spotify.com/track/0ImzLhRRph6jPzjPewwgd0"
     },
     {
       "added_at": "2023-03-03 18:13:36",
@@ -1871,22 +1871,6 @@
       "duration_ms": 273245,
       "name": "Still a Fool",
       "url": "https://open.spotify.com/track/0QG3p3FOCHCsBeDY7OBDdg"
-    },
-    {
-      "added_at": "2023-03-03 18:13:36",
-      "album": {
-        "name": "Isolation Blues",
-        "url": "https://open.spotify.com/album/3aPnXFSkP9NVggOjdsH9Ho"
-      },
-      "artists": [
-        {
-          "name": "Ben Reel",
-          "url": "https://open.spotify.com/artist/2Ywn9itiS5z2zXx0xjYRcD"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Isolation Blues",
-      "url": "https://open.spotify.com/track/1YXtxPB2Q0ol5L4nIE3HJE"
     },
     {
       "added_at": "2023-03-03 18:13:36",
@@ -1927,6 +1911,22 @@
     {
       "added_at": "2023-03-03 18:13:36",
       "album": {
+        "name": "Isolation Blues",
+        "url": "https://open.spotify.com/album/3aPnXFSkP9NVggOjdsH9Ho"
+      },
+      "artists": [
+        {
+          "name": "Ben Reel",
+          "url": "https://open.spotify.com/artist/2Ywn9itiS5z2zXx0xjYRcD"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "Isolation Blues",
+      "url": "https://open.spotify.com/track/1YXtxPB2Q0ol5L4nIE3HJE"
+    },
+    {
+      "added_at": "2023-03-03 18:13:36",
+      "album": {
         "name": "Good, Good Man",
         "url": "https://open.spotify.com/album/2pSMTbVb4OZqESjjjwyRRG"
       },
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2023-03-03 18:13:36",
       "album": {
+        "name": "That's All Right (Mama) - the Fire Sessions",
+        "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
+      },
+      "artists": [
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "duration_ms": 155493,
+      "name": "Mean Old 'Frisco Blues",
+      "url": "https://open.spotify.com/track/1LqS5Vz8yCTejrVc1Qo7eP"
+    },
+    {
+      "added_at": "2023-03-03 18:13:36",
+      "album": {
         "name": "Mailman, Bring Me No More Blues",
         "url": "https://open.spotify.com/album/46HdwVjeZIiTS2SakpasBz"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 264573,
       "name": "I've Got the Blues This Morning",
       "url": "https://open.spotify.com/track/6M2kGctUec8qSlRX7WEHMm"
-    },
-    {
-      "added_at": "2023-03-03 18:13:36",
-      "album": {
-        "name": "That's All Right (Mama) - the Fire Sessions",
-        "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
-      },
-      "artists": [
-        {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
-        }
-      ],
-      "duration_ms": 155493,
-      "name": "Mean Old 'Frisco Blues",
-      "url": "https://open.spotify.com/track/1LqS5Vz8yCTejrVc1Qo7eP"
     }
   ],
   "unique_name": "Morning Blues",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 46369,
+  "num_followers": 46513,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMGViMGU5YzY3MWQxOGQxOGUzODJjNWRmZGYwMzkxMzJj",
+  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMDRlNjFlN2IwZDVkMjZjM2E1YzM5ZTZkNmU0NmZkMTQ3",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -363,26 +363,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Asesina",
         "url": "https://open.spotify.com/album/6oUM2IdI07Pif4bvIE0Ym8"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 187312,
       "name": "Asesina",
       "url": "https://open.spotify.com/track/3wowzpCsKdqW3u7jGgS1oO"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
     },
     {
       "added_at": "2021-12-16 01:11:32",

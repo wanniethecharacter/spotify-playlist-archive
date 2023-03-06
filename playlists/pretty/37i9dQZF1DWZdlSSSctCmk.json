@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 87056,
+  "num_followers": 87154,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0MDQwNCwwMDAwMDAwMDdlZWI1ZTQ1Nzk0ZWNiOThiNjE2NjliZmYxZGY2ZTEw",
+  "snapshot_id": "MTY3NjY0MDQwNCwwMDAwMDAwMDkwMTViZDhhMTQxNjIyZDc3ZmI0MzBhMjMzNWIzNDM3",
   "tracks": [
     {
       "added_at": "2023-02-02 23:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Purple Noon",
-        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 252409,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "You've Got It Bad Girl",
         "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "The Return of The Durutti Column",
-        "url": "https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW"
+        "name": "Purple Noon",
+        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
       },
       "artists": [
         {
-          "name": "The Durutti Column",
-          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Sketch for Summer",
-      "url": "https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2"
+      "duration_ms": 252409,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -439,6 +423,22 @@
       "duration_ms": 305546,
       "name": "Blurred",
       "url": "https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "The Return of The Durutti Column",
+        "url": "https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW"
+      },
+      "artists": [
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Sketch for Summer",
+      "url": "https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Mirrorwriting",
-        "url": "https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD"
-      },
-      "artists": [
-        {
-          "name": "Jamie Woon",
-          "url": "https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL"
-        }
-      ],
-      "duration_ms": 322400,
-      "name": "Night Air",
-      "url": "https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Carboot Soul",
         "url": "https://open.spotify.com/album/5c3DKyqo1I7vMqozsrEImO"
       },
@@ -607,22 +591,18 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Essential Levitation - 20 Years of Ibiza Chillout Music",
-        "url": "https://open.spotify.com/album/2m18LIEu3yRDXpe2C9lGQG"
+        "name": "Mirrorwriting",
+        "url": "https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD"
       },
       "artists": [
         {
-          "name": "Levitation",
-          "url": "https://open.spotify.com/artist/231kUXNyI5BYxIvZacVbCu"
-        },
-        {
-          "name": "Cathy Battistessa",
-          "url": "https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO"
+          "name": "Jamie Woon",
+          "url": "https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL"
         }
       ],
-      "duration_ms": 441160,
-      "name": "More Than Ever People - Late Night Mix",
-      "url": "https://open.spotify.com/track/2ESCeu4Z0WXGl6zezMQTvX"
+      "duration_ms": 322400,
+      "name": "Night Air",
+      "url": "https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -667,6 +647,26 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Essential Levitation - 20 Years of Ibiza Chillout Music",
+        "url": "https://open.spotify.com/album/2m18LIEu3yRDXpe2C9lGQG"
+      },
+      "artists": [
+        {
+          "name": "Levitation",
+          "url": "https://open.spotify.com/artist/231kUXNyI5BYxIvZacVbCu"
+        },
+        {
+          "name": "Cathy Battistessa",
+          "url": "https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO"
+        }
+      ],
+      "duration_ms": 441160,
+      "name": "More Than Ever People - Late Night Mix",
+      "url": "https://open.spotify.com/track/2ESCeu4Z0WXGl6zezMQTvX"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Pleasure Centre",
         "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Old Graffiti",
+      "url": "https://open.spotify.com/track/3uKuL94RnvekaDsDLHPOMD"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Final Days (Bonobo Remix)",
         "url": "https://open.spotify.com/album/7cPU3dVK7sRJKdQ6JNlAVB"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 340373,
       "name": "Final Days - Bonobo Remix",
       "url": "https://open.spotify.com/track/4RHMC3OE3oBpS32peJ6tR6"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "Old Graffiti",
-      "url": "https://open.spotify.com/track/3uKuL94RnvekaDsDLHPOMD"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Midnight Voyage",
-        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
-      },
-      "artists": [
-        {
-          "name": "Tunnelvisions",
-          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
-        }
-      ],
-      "duration_ms": 357500,
-      "name": "Gobi",
-      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "A Journey to You",
         "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Midnight Voyage",
+        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
+      },
+      "artists": [
+        {
+          "name": "Tunnelvisions",
+          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
+        }
+      ],
+      "duration_ms": 357500,
+      "name": "Gobi",
+      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Protection",
         "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
       },
@@ -887,26 +887,6 @@
       "duration_ms": 229066,
       "name": "Three",
       "url": "https://open.spotify.com/track/7FKhuZtIPchBVNIhFnNL5W"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
-      },
-      "artists": [
-        {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
-        }
-      ],
-      "duration_ms": 228897,
-      "name": "Gated Area",
-      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -931,18 +911,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Am\u00e9rica",
-        "url": "https://open.spotify.com/album/0EcZMXi07XsJDJEcDs8Cro"
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
       "artists": [
         {
-          "name": "Pietro Nicosia",
-          "url": "https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG"
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Am\u00e9rica",
-      "url": "https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8"
+      "duration_ms": 228897,
+      "name": "Gated Area",
+      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -963,6 +947,22 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Am\u00e9rica",
+        "url": "https://open.spotify.com/album/0EcZMXi07XsJDJEcDs8Cro"
+      },
+      "artists": [
+        {
+          "name": "Pietro Nicosia",
+          "url": "https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Pina Colada (And Other Early Tunes)",
+        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
+      },
+      "artists": [
+        {
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+        }
+      ],
+      "duration_ms": 359586,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Pina Colada (And Other Early Tunes)",
-        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
-      },
-      "artists": [
-        {
-          "name": "Digby Jones",
-          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
-        }
-      ],
-      "duration_ms": 359586,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 311413,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
-        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
-      },
-      "artists": [
-        {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "V\u00f4o sobre o horizonte",
-      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1331,6 +1315,22 @@
       "duration_ms": 295989,
       "name": "Verbana (feat. Hush Forever)",
       "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
+        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "V\u00f4o sobre o horizonte",
+      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Just Landed",
-        "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        }
-      ],
-      "duration_ms": 330973,
-      "name": "Tabarin",
-      "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Camino Del Sol",
         "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 222680,
       "name": "Camino Del Sol",
       "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Just Landed",
+        "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
+      },
+      "artists": [
+        {
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        }
+      ],
+      "duration_ms": 330973,
+      "name": "Tabarin",
+      "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "E.P.",
-        "url": "https://open.spotify.com/album/6ZCxOD387eOYLvwTkzgIvm"
-      },
-      "artists": [
-        {
-          "name": "Larry Heard",
-          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
-        },
-        {
-          "name": "Mr White",
-          "url": "https://open.spotify.com/artist/5aUUNSMJtijlIrD5RaBAOp"
-        }
-      ],
-      "duration_ms": 372640,
-      "name": "You Rock Me - Long Version",
-      "url": "https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6QTWDp9lo8zn2iTVRO9iAd"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 209311,
       "name": "My Boy - Edit",
       "url": "https://open.spotify.com/track/0WguORZMIHRuKEyXnzOioL"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "E.P.",
+        "url": "https://open.spotify.com/album/6ZCxOD387eOYLvwTkzgIvm"
+      },
+      "artists": [
+        {
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
+        },
+        {
+          "name": "Mr White",
+          "url": "https://open.spotify.com/artist/5aUUNSMJtijlIrD5RaBAOp"
+        }
+      ],
+      "duration_ms": 372640,
+      "name": "You Rock Me - Long Version",
+      "url": "https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Never Seen You Dance (Demi Riqu\u00edsimo Remix)",
-        "url": "https://open.spotify.com/album/7DUxxi3K83DylaxT9jqCC3"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        },
-        {
-          "name": "Demi Riqu\u00edsimo",
-          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
-        }
-      ],
-      "duration_ms": 328356,
-      "name": "Never Seen You Dance - Demi Riqu\u00edsimo Remix",
-      "url": "https://open.spotify.com/track/64kBKl5m9YXX2l8KCn9rVP"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Mendes & Mendes",
         "url": "https://open.spotify.com/album/4UqjJ3DpAQRa78hPNJhqB4"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 349565,
       "name": "Through Your Hands Love Can Shine - Turbotito Remix",
       "url": "https://open.spotify.com/track/1GXk8hH4VHZcUlNx7PpVUv"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Never Seen You Dance (Demi Riqu\u00edsimo Remix)",
+        "url": "https://open.spotify.com/album/7DUxxi3K83DylaxT9jqCC3"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        }
+      ],
+      "duration_ms": 328356,
+      "name": "Never Seen You Dance - Demi Riqu\u00edsimo Remix",
+      "url": "https://open.spotify.com/track/64kBKl5m9YXX2l8KCn9rVP"
     }
   ],
   "unique_name": "Balearic Beats",

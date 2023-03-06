@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: shame
 
-404 songs - 21 hr 39 min
+405 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,8 @@
 | [The Way It Shatters](https://open.spotify.com/track/1TGXiKyuajqiA242dBji7H) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The Way It Shatters](https://open.spotify.com/album/4LGidB7kQRA1vAKEizMotl) | 4:22 | 2022-02-11 | 2022-03-12 |
 | [There Are Good Times Coming](https://open.spotify.com/track/7oaxiEMC83bxiKVbYCXBa7) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [There Are Good Times Coming](https://open.spotify.com/album/03p5eM8AVDOEWzk7pVlrZ7) | 3:55 | 2022-06-10 | 2022-08-06 |
 | [There's A Moon On](https://open.spotify.com/track/7075wZ2Rmp2NSCsO4RjkPm) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [There's A Moon On](https://open.spotify.com/album/68fbHjtzq0wZR0tuhsZU7u) | 2:50 | 2022-06-10 | 2022-08-17 |
-| [Thin Air](https://open.spotify.com/track/1XrcBKoDKpJG76LvhzJbIZ) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Thin Air](https://open.spotify.com/album/6q4SXmm2PWBVqP8oE49bco) | 3:34 | 2023-01-20 |  |
+| [Thin Air](https://open.spotify.com/track/1XrcBKoDKpJG76LvhzJbIZ) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Thin Air](https://open.spotify.com/album/6q4SXmm2PWBVqP8oE49bco) | 3:34 | 2023-01-20 | 2023-03-06 |
+| [Thin Air](https://open.spotify.com/track/5oF81W6YniYDtd2MjkUd3n) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [GIZMO](https://open.spotify.com/album/269FeWvV32RFMhsmfNg1yd) | 3:34 | 2023-02-24 |  |
 | [Tidal River](https://open.spotify.com/track/1B6nqx7K8pvhyZMiGusS9J) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Tidal River](https://open.spotify.com/album/7CXBgilBzgYsjuv5VINrjv) | 4:26 | 2022-03-11 | 2022-07-29 |
 | [Tidal River](https://open.spotify.com/track/2IAWpK4ez7m987Xxy5hGMl) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:26 | 2022-07-08 |  |
 | [Tigers Jaw](https://open.spotify.com/track/0mlTB3e3CuVvgt8eyzjyhe) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [Tigers Jaw](https://open.spotify.com/album/3pz2smcCWWn4AP9nPZWLzG) | 4:50 | 2022-04-01 | 2022-11-22 |

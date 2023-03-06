@@ -1,12 +1,12 @@
 {
   "description": "R&B jams for the brokenhearted.",
-  "num_followers": 5342,
+  "num_followers": 5351,
   "original_name": "Heartbreak Hotel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ4NjYxNiwwMDAwMDAwMGQ2ZDU3MjkzNjRkYjg4ZDg1MGI4MDY4YzIwMzkyN2Zm",
+  "snapshot_id": "MTYzOTQ4NjYxNiwwMDAwMDAwMGJkZWQ4NjA2ZjlmZDc5NGEwZjdmMmFlZmJlNDYyMTk4",
   "tracks": [
     {
       "added_at": "2021-12-14 12:56:56",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 326533,
       "name": "Ex-Factor",
       "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 289760,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/5F7IJrXD6Fa3EmqoYE0gU4"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Open Letter",
-        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
+        "name": "21",
+        "url": "https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE"
       },
       "artists": [
         {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
         }
       ],
-      "duration_ms": 284666,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
+      "duration_ms": 256426,
+      "name": "Ice Box",
+      "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE"
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
       },
       "artists": [
         {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
         }
       ],
-      "duration_ms": 256426,
-      "name": "Ice Box",
-      "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
+      "duration_ms": 284666,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Never Say Never",
         "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 273440,
       "name": "Have You Ever",
       "url": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
       "added_at": "2021-12-14 12:56:56",

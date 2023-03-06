@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 169236,
+  "num_followers": 169228,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2OTg0MywwMDAwMDAwMGNlM2Y3M2MxMDRiNGFhOGM2MWU0N2I5NGUyMWQxYWI5",
+  "snapshot_id": "MTY3MTE2OTg0MywwMDAwMDAwMDI3OTQyOWZkOGQ4ODI5M2QyZjkyOTkxYTdkMTY5Yjk2",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -563,26 +563,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "This Christmas",
-        "url": "https://open.spotify.com/album/3bBMugmgG1UUMP8ez5V5Xj"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 181365,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/1s8KCi8neCwrRSyhREKmcA"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Home For The Holidays",
         "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 155933,
       "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
       "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/3bBMugmgG1UUMP8ez5V5Xj"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 181365,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/1s8KCi8neCwrRSyhREKmcA"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -759,6 +759,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Litmas",
+        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 188889,
+      "name": "Litmas",
+      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Christmas Soul 2020",
         "url": "https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 154920,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Litmas",
-        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 188889,
-      "name": "Litmas",
-      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "His Gift",
-        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Glory To The King - His Gift Version",
-      "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Someday At Christmas",
         "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "His Gift",
+        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Glory To The King - His Gift Version",
+      "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Spend Christmas With You",
         "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
       },
@@ -1103,26 +1103,6 @@
       "duration_ms": 195816,
       "name": "Spend Christmas With You",
       "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "The First Noel (feat. Cory Henry)",
-        "url": "https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 190286,
-      "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
-      "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
     },
     {
       "added_at": "2022-12-12 18:18:20",
@@ -1143,6 +1123,26 @@
       "duration_ms": 237393,
       "name": "Might As Well Have Coal (with Baby Tate)",
       "url": "https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "The First Noel (feat. Cory Henry)",
+        "url": "https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 190286,
+      "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
+      "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmas After Midnight",
-        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "December Baby",
         "url": "https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 237660,
       "name": "Wishlist (feat. PJ Morton)",
       "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas After Midnight",
+        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
     },
     {
       "added_at": "2022-11-25 20:23:30",

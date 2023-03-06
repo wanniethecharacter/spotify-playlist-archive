@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Anthony Brown",
+          "url": "https://open.spotify.com/artist/1HSMaq47ru6j0R2IFAgHDb"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425334,
+      "name": "All Yours (feat. Anthony Brown)",
+      "url": "https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE"
+    },
+    {
+      "album": {
         "name": "KIERRA",
         "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
       },
@@ -96,7 +118,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 189392,
       "name": "Better Than I Found It (feat. Kierra Sheard)",
       "url": "https://open.spotify.com/track/2nss3BcDr3j1xUN6S09kyf"
@@ -144,6 +166,28 @@
       "duration_ms": 204000,
       "name": "Don't Judge Me (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
+    },
+    {
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276111,
+      "name": "Done For Me (feat. Jekalyn Carr)",
+      "url": "https://open.spotify.com/track/4myxhQ5I0XeClzbRHliMOE"
     },
     {
       "album": {
@@ -334,7 +378,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 289240,
       "name": "Hear This",
       "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
@@ -488,7 +532,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 519586,
       "name": "Miracle Worker",
       "url": "https://open.spotify.com/track/7AR39XjLPz25foAZ4dvz4f"
@@ -841,6 +885,24 @@
     },
     {
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255848,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
+    },
+    {
+      "album": {
         "name": "Finally Karen",
         "url": "https://open.spotify.com/album/4KHuY9JjhOGZ29U2Ybca0c"
       },
@@ -856,7 +918,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 303560,
       "name": "The Will Of God",
       "url": "https://open.spotify.com/track/0zaH0C3D1GMnsaLCr6Q8SZ"
@@ -912,10 +974,28 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 385080,
       "name": "Victory - Live",
       "url": "https://open.spotify.com/track/4QZRa08aiH7wgQXAfjOwoL"
+    },
+    {
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345588,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1uCwbsjZRAFOCV6bfJbdvR"
     },
     {
       "album": {
@@ -1048,6 +1128,24 @@
       "duration_ms": 169453,
       "name": "You",
       "url": "https://open.spotify.com/track/7z6Jurf9Zop6ORA1FGGZPO"
+    },
+    {
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225990,
+      "name": "You Ain't Seen Nothing Yet",
+      "url": "https://open.spotify.com/track/6VQHvDhuHcI3af5GHI6t6G"
     },
     {
       "album": {

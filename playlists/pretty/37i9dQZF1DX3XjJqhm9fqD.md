@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Michaël Brun
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,950 likes - 82 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,977 likes - 82 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 41 | [Ke M Pa Sote](https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Vodoo Adjae](https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ) | 9:34 |
 | 42 | [Show Me Love \(feat\. Meer Colon\)](https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Meer Colon](https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP) | [Show Me Love \(feat\. Meer Colon\)](https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ) | 2:48 |
 | 43 | [Bal Tout](https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Bal Tout](https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn) | 3:11 |
-| 44 | [Nou Pare](https://open.spotify.com/track/4MnggOv6w9gmdSlVTukec6) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Coralie Hérard](https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 3:14 |
-| 45 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 |
+| 44 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 |
+| 45 | [Nou Pare](https://open.spotify.com/track/4MnggOv6w9gmdSlVTukec6) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Coralie Hérard](https://open.spotify.com/artist/3IfmJG3XCLi3hLhwO53eFR) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 3:14 |
 | 46 | [Imamou Lele](https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Revolution](https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv) | 1:42 |
 | 47 | [Kote'w Te Ye](https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw) | [Beken](https://open.spotify.com/artist/27JrHY7vnpdv1zEfe3F8FQ) | [Troubadour](https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z) | 3:35 |
 | 48 | [Ogou \(Pran Ka Mwen\)](https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Ogou \(Pran Ka Mwen\)](https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y) | 4:56 |
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 62 | [Fanm Chè](https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Trap King](https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK) | 3:06 |
 | 63 | [Na Va Wè Yo](https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA) | [ManitoNation](https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3), [Paul Beaubrun](https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot), [Kabysh](https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD) | [Trip Tropikal](https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn) | 4:12 |
 | 64 | [Bout Konpa \- Original Mix](https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M) | [DZgot](https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala) | [La Vibe Tropicale EP](https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH) | 3:50 |
-| 65 | [Mercy](https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Mercy](https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK) | 2:33 |
-| 66 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |
-| 67 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
-| 68 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
+| 65 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |
+| 66 | [Mercy](https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Mercy](https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK) | 2:33 |
+| 67 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
+| 68 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
 | 69 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 |
 | 70 | [Ayizan](https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY) | 6:40 |
 | 71 | [Bade Zile](https://open.spotify.com/track/37EoU9KaaOMKhFdECTArsN) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Bade Zile](https://open.spotify.com/album/1UjE3qnxksHjs7nJIY2kSW) | 3:45 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 81 | [Mr Diablo](https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Mr Diablo](https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa) | 2:46 |
 | 82 | [Fam](https://open.spotify.com/track/2v8G0VjL4H3ZcLMJrQJ1JJ) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX), [Nuaje](https://open.spotify.com/artist/5kFTN3cp3fXf25X95gL3CH) | [Fam](https://open.spotify.com/album/034S6quoJ1Z1hjE84MBtjM) | 3:23 |
 
-Snapshot ID: `MTY3NjY3MzYwOCwwMDAwMDAwMDEzYmY1MmViYWJlNzVhYjBmZWM0N2YyYWQzNWY2MDhh`
+Snapshot ID: `MTY3NjY3MzYwOCwwMDAwMDAwMDJjMmJiYjgzZGU0MzVjZWM1MjdmODNhMGMyNDg3YjU5`

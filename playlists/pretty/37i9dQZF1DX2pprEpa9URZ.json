@@ -1,15 +1,15 @@
 {
   "description": "A deep sound, combining electronic elements and organic instrumentation stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 692294,
+  "num_followers": 692567,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0Nzk5NywwMDAwMDAwMDU0ZGM3YTM1NDM0YzMzMzRmNzA3ZmYxNTBhYmZmYmJl",
+  "snapshot_id": "MTY3NjY0Nzk5NywwMDAwMDAwMDJjN2U0NzBlYzM1M2Y3OWE2NTc3N2Y4NmEwMTY4MmQ2",
   "tracks": [
     {
-      "added_at": "2023-03-05 01:02:42",
+      "added_at": "2023-03-06 00:51:14",
       "album": {
         "name": "Kamili",
         "url": "https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
     },
     {
-      "added_at": "2023-03-05 01:02:42",
+      "added_at": "2023-03-06 00:51:14",
       "album": {
         "name": "REKERE",
         "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Se Va, Se Va",
-        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 449509,
-      "name": "Se Va, Se Va",
-      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 410000,
       "name": "Alongside - Omeria & NU Edit",
       "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 449509,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -677,26 +677,6 @@
       "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
     },
     {
-      "added_at": "2023-03-05 01:02:42",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        },
-        {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
-    },
-    {
       "added_at": "2023-01-30 10:45:45",
       "album": {
         "name": "Global Entry 2",
@@ -711,22 +691,6 @@
       "duration_ms": 469335,
       "name": "State the Obvious",
       "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "Bosque",
-        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        }
-      ],
-      "duration_ms": 393428,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -751,6 +715,42 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
+        "name": "Bosque",
+        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 393428,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
+    },
+    {
+      "added_at": "2023-03-06 00:51:14",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
         "name": "Ritmo",
         "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 115090,
       "name": "Terra",
       "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "6 Years of Underyourskin Records",
-        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
-      },
-      "artists": [
-        {
-          "name": "Ameli Paul",
-          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
-        }
-      ],
-      "duration_ms": 418364,
-      "name": "Worak",
-      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -799,6 +783,22 @@
       "duration_ms": 433330,
       "name": "Ya Nahar Ya Gamel",
       "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "6 Years of Underyourskin Records",
+        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
+      },
+      "artists": [
+        {
+          "name": "Ameli Paul",
+          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
+        }
+      ],
+      "duration_ms": 418364,
+      "name": "Worak",
+      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 456745,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
         "name": "La Isla",
         "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 193306,
       "name": "La Isla - Radio Version",
       "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 456745,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
         "name": "Quetzal",
         "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
       },
@@ -983,18 +983,22 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Osam",
-        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
+        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
       },
       "artists": [
         {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+          "name": "Urban Village",
+          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
+        },
+        {
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
         }
       ],
-      "duration_ms": 482715,
-      "name": "Entrecote",
-      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
+      "duration_ms": 384330,
+      "name": "Izivunguvungu - Chlo\u00e9 Remix",
+      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -1035,42 +1039,18 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Fading Color",
-        "url": "https://open.spotify.com/album/4krvGAWH8jFgwItTRDZACf"
+        "name": "Osam",
+        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
       },
       "artists": [
         {
-          "name": "Zigan Aldi",
-          "url": "https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1"
-        },
-        {
-          "name": "Monoh\u00f8le",
-          "url": "https://open.spotify.com/artist/75Xo8Q2H05f294UEIA0N8c"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
         }
       ],
-      "duration_ms": 392353,
-      "name": "Fading Color",
-      "url": "https://open.spotify.com/track/2HVoB3Ajn9uZnUWt8DjwFJ"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
-        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
-      },
-      "artists": [
-        {
-          "name": "Urban Village",
-          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
-        },
-        {
-          "name": "Chlo\u00e9 (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
-        }
-      ],
-      "duration_ms": 384330,
-      "name": "Izivunguvungu - Chlo\u00e9 Remix",
-      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
+      "duration_ms": 482715,
+      "name": "Entrecote",
+      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
       "added_at": "2023-01-30 10:45:45",
@@ -1107,6 +1087,22 @@
       "duration_ms": 405213,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
+    },
+    {
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Samra Samra",
+        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
+      },
+      "artists": [
+        {
+          "name": "Karmakind",
+          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
+        }
+      ],
+      "duration_ms": 304418,
+      "name": "Samra Samra",
+      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
     }
   ],
   "unique_name": "Org\u00e1nica",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,772 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,851 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 33 | [Fue Por Ti](https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax) | [Raza For Christ](https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW) | [Nonstop](https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA) | 3:14 |
 | 34 | [Cuando Se Acaba El Amor](https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Solo Bachata](https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd) | 5:01 |
 | 35 | [Estoy Contento](https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Traigo Alabanza](https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c) | 4:11 |
-| 36 | [Ante Tus Pies](https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2) | [Pablo Caldarelli](https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Ante Tus Pies](https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3) | 3:32 |
-| 37 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
+| 36 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
+| 37 | [Ante Tus Pies](https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2) | [Pablo Caldarelli](https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Ante Tus Pies](https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3) | 3:32 |
 | 38 | [Sana Nuestra Tierra](https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 3:59 |
 | 39 | [Por Un Minuto Tu Presencia](https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8) | [Robert Felix](https://open.spotify.com/artist/5yGr7jNjfmBDVlOHPlsilG) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:47 |
 | 40 | [Agradecido Estoy](https://open.spotify.com/track/51fRcBcEdBddazx7L0qwpT) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:05 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 45 | [Soy Bendecido](https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Vivo Enamorado](https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5) | 4:23 |
 | 46 | [En Tu Presencia](https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW) | [Alex D' Castro](https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm) | [En Accion](https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0) | 4:42 |
 | 47 | [\#BendecidoAmen](https://open.spotify.com/track/7bgEoYgjwC1OG40Qv0PmFh) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [\#BendecidoAmen](https://open.spotify.com/album/291jzwipV9JQUcJdNXdhRt) | 3:58 |
-| 48 | [I Believe](https://open.spotify.com/track/3FMsFUwmzaAD7pPBQ81xAp) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7tJBOnefPMs9QEsLbd0oAe) | 3:30 |
+| 48 | [El Mismo De Ayer](https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC) | [Josue Escogido](https://open.spotify.com/artist/75Gl0anAafMmfj2gSUP2VK), [Yariel y Omy](https://open.spotify.com/artist/57rWlpin8dSDoSuO0bcr0f) | [Lo Que Dice El Alma](https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu) | 4:17 |
 | 49 | [Un adorador](https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:19 |
-| 50 | [El Mismo De Ayer](https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC) | [Josue Escogido](https://open.spotify.com/artist/75Gl0anAafMmfj2gSUP2VK), [Yariel y Omy](https://open.spotify.com/artist/57rWlpin8dSDoSuO0bcr0f) | [Lo Que Dice El Alma](https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu) | 4:17 |
+| 50 | [I Believe](https://open.spotify.com/track/3FMsFUwmzaAD7pPBQ81xAp) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7tJBOnefPMs9QEsLbd0oAe) | 3:30 |
 
-Snapshot ID: `MTYwMDQwNTMyMCwwMDAwMDAwMDA4OTFlOGE2MjUyOGMzZmI4YmExZGRlN2E5ODQxN2E1`
+Snapshot ID: `MTYwMDQwNTMyMCwwMDAwMDAwMDgwYjMxY2MwZGM2NmRiYmVjZjRkMTE1YmZiYjI3MTdh`

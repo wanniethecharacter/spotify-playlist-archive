@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 230569,
+  "num_followers": 230847,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU4MjgyMywwMDAwMDAwMDg4ZDVmZmNjMmU5MjRmN2YwZDA3Zjg3YjI4ZjRhYTQ1",
+  "snapshot_id": "MTY3NDU4MjgyMywwMDAwMDAwMDI1NDEzNmIyZTQ5OWQ1YjdiODNiZWFjNWU2ZWMxNWI0",
   "tracks": [
     {
       "added_at": "2023-01-24 17:53:43",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Sex & Food",
-        "url": "https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 268333,
-      "name": "Hunnybee",
-      "url": "https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 181922,
       "name": "Dragonball Durag",
       "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "Sex & Food",
+        "url": "https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 268333,
+      "name": "Hunnybee",
+      "url": "https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Ungodly Hour",
-        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Ungodly Hour",
-      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 175416,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "Ungodly Hour",
+        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Ungodly Hour",
+      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1187,30 +1187,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
-        "url": "https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 310340,
-      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
-      "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -1235,6 +1211,30 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
+        "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+        "url": "https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 310340,
+      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+      "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
         "name": "The Mission",
         "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1267,22 +1283,6 @@
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "6am",
-        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 221748,
-      "name": "6am",
-      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
         "name": "elated!",
         "url": "https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 217394,
       "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
       "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "If This Is House I Want My Money Back 3",
-        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 285440,
-      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
-      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Body Talk Pt. 1",
-        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 285973,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "Heybb!",
         "url": "https://open.spotify.com/album/5CfgvNG8Y0ZGXAx3rNvjC8"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 148607,
       "name": "Heybb!",
       "url": "https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "Body Talk Pt. 1",
+        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 285973,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "Gospel For A New Century",
+      "url": "https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
         "name": "YoSoyMatt (feat. Hermanu)",
         "url": "https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 237600,
       "name": "YoSoyMatt (feat. Hermanu)",
       "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "Gospel For A New Century",
-      "url": "https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
-        "name": "Life Is Yours",
-        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 266614,
-      "name": "2001",
-      "url": "https://open.spotify.com/track/18mdHJIozzktPJ93oXk39A"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 259173,
       "name": "Time",
       "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
+        "name": "Life Is Yours",
+        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 266614,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/18mdHJIozzktPJ93oXk39A"
     },
     {
       "added_at": "2023-01-24 17:53:43",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-01-24 17:53:43",
       "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 220550,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
+    },
+    {
+      "added_at": "2023-01-24 17:53:43",
+      "album": {
         "name": "Automatic (Orion Sun Remix)",
         "url": "https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 124736,
       "name": "Automatic - Orion Sun Remix",
       "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
-    },
-    {
-      "added_at": "2023-01-24 17:53:43",
-      "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
-      },
-      "artists": [
-        {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 220550,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
     },
     {
       "added_at": "2023-01-24 17:53:43",

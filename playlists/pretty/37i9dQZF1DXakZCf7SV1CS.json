@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 32700,
+  "num_followers": 32835,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMDAxN2ZhY2UxZDEwNmQwMzkwMzdlYTdhZTY0OTAyYjRj",
+  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMGI2NjNmZGVjMTZmMTcxMDc5NTc3OTBiZmYwZjg3NDVj",
   "tracks": [
     {
       "added_at": "2022-11-29 16:59:10",
@@ -919,22 +919,18 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "I <3 Harajuku",
-        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
+        "name": "Rich Bitch Juice",
+        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
       },
       "artists": [
         {
           "name": "Alice Longyu Gao",
           "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        },
-        {
-          "name": "Fraxiom",
-          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
         }
       ],
-      "duration_ms": 146938,
-      "name": "I <3 Harajuku",
-      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
+      "duration_ms": 120221,
+      "name": "Rich Bitch Juice",
+      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1051,18 +1047,18 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "FREAK",
-        "url": "https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF"
+        "name": "I Don't Want That Many Friends in the First Place",
+        "url": "https://open.spotify.com/album/2ka4LLM77O00KdcLNxLgui"
       },
       "artists": [
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "richiequinn",
+          "url": "https://open.spotify.com/artist/1qc4Ie27sWHNYeFgAkvwjd"
         }
       ],
-      "duration_ms": 167000,
-      "name": "FREAK",
-      "url": "https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI"
+      "duration_ms": 109091,
+      "name": "I Don't Want That Many Friends in the First Place",
+      "url": "https://open.spotify.com/track/490OK7QdkPnqAxOCUI2iHF"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1123,18 +1119,38 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Rich Bitch Juice",
-        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
+        "name": "I <3 Harajuku",
+        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
       },
       "artists": [
         {
           "name": "Alice Longyu Gao",
           "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
         }
       ],
-      "duration_ms": 120221,
-      "name": "Rich Bitch Juice",
-      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
+      "duration_ms": 146938,
+      "name": "I <3 Harajuku",
+      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "I Don't Want That Many Friends in the First Place",
-        "url": "https://open.spotify.com/album/2ka4LLM77O00KdcLNxLgui"
-      },
-      "artists": [
-        {
-          "name": "richiequinn",
-          "url": "https://open.spotify.com/artist/1qc4Ie27sWHNYeFgAkvwjd"
-        }
-      ],
-      "duration_ms": 109091,
-      "name": "I Don't Want That Many Friends in the First Place",
-      "url": "https://open.spotify.com/track/490OK7QdkPnqAxOCUI2iHF"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "PC Music, Vol. 1",
         "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 227750,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "Drive-By Lullabies",
+        "url": "https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 182386,
+      "name": "from paris, with love",
+      "url": "https://open.spotify.com/track/0OVFw7McsuYnBlRJXEh76b"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1255,22 +1271,6 @@
       "duration_ms": 159813,
       "name": "Kyoto (Glitch Gum Remix)",
       "url": "https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "Drive-By Lullabies",
-        "url": "https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 182386,
-      "name": "from paris, with love",
-      "url": "https://open.spotify.com/track/0OVFw7McsuYnBlRJXEh76b"
     },
     {
       "added_at": "2022-11-29 16:59:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 
 > Classic rockabilly and early rock 'n' roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,964 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,962 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 21 | [Red Hot](https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The Sun Records Sound of Billy Lee Riley \(20 Rockabilly Originals\)](https://open.spotify.com/album/12nGZsto8BTrIMNIEr4JRk) | 2:29 |
 | 22 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
 | 23 | [Rock Billy Boogie](https://open.spotify.com/track/4NazHwfKb4e9WSkFM2OC52) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Johnny Burnette And The Rock 'N Roll Trio](https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM) | 2:36 |
-| 24 | [Bluejean Bop](https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 2:22 |
+| 24 | [Hold Me, Hug Me, Rock Me](https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:15 |
 | 25 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 |
 | 26 | [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 |
 | 27 | [Mean, Mean Man \- Remastered](https://open.spotify.com/track/1Ssb9hQz8ha0oHGdsFsQ8N) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:13 |
 | 28 | [Jungle Rock](https://open.spotify.com/track/0XSHcO8JNMSA8kXvppB5bS) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Jungle Rock](https://open.spotify.com/album/21kqXS5qnYmFwDFZ9buKHb) | 2:48 |
 | 29 | [Baby, Let's Play House \- Remastered](https://open.spotify.com/track/4Ls0zLUccPv9o0G4Uio503) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 2:15 |
 | 30 | [The Fool](https://open.spotify.com/track/0JcE8h38d6tTuse4IkPLXn) | [Sanford Clark](https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2) | [Presenting Sandford Clark](https://open.spotify.com/album/5QCtTTUmVu4BaPOlupFecs) | 2:47 |
-| 31 | [Hold Me, Hug Me, Rock Me](https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:15 |
+| 31 | [Bluejean Bop](https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 2:22 |
 | 32 | [Believe What You Say \- Remastered](https://open.spotify.com/track/2Cr8d39cOPBWzmVKwcjmmP) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:05 |
 | 33 | [Sunglasses After Dark](https://open.spotify.com/track/0VL7bjfwdWsGOOwhGjEe7c) | [Dwight Pullen](https://open.spotify.com/artist/7jYk8W0dRSn0ivkerR9le2) | [Sunglasses After Dark](https://open.spotify.com/album/4zT5QSeTSk1iudy09RlCp8) | 2:08 |
 | 34 | [Rock House](https://open.spotify.com/track/36YXD9jFfw446zqlOVGFD2) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [At the Rock House](https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 49 | [Do Me No Wrong \(Demo\)](https://open.spotify.com/track/61vCg9VRY7AXw3rFRd39g9) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Presenting Pat Cupp](https://open.spotify.com/album/6uflDIt9eWuGJPE5soqSn8) | 2:24 |
 | 50 | [Get with It](https://open.spotify.com/track/16GMlvbWHeWXHYzJCVtD6d) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN), [Jody & Jerry](https://open.spotify.com/artist/60vvMCwC7lmGNhzcY4393t) | [Meteor Rockabilly & Hillbilly Recordings](https://open.spotify.com/album/2rQOB86QUXGmEHjWvduZbm) | 2:04 |
 
-Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMDcyNjJkZTQ1YzYwMWQzYmYwM2Y4OTRhOGNiNjM2NzAz`
+Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMDJjYTZlMjA5MDk3M2FiMWVjNzJhMzM4ODZkNDFhMDYx`

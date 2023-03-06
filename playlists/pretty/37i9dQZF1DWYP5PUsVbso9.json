@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 232679,
+  "num_followers": 232956,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGRhNDlkNTgyNzIxYmE1MGZiZjNiOTU3ZTg3MTEyMGQz",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGQ1OTk2NmFiMjYwNWJjMDNhMDk3MmU4MThiYzQ0ZjBm",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1063,58 +1063,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music",
-        "url": "https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB"
-      },
-      "artists": [
-        {
-          "name": "Eric Weissberg",
-          "url": "https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g"
-        },
-        {
-          "name": "Steve Mandell",
-          "url": "https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj"
-        }
-      ],
-      "duration_ms": 194879,
-      "name": "Dueling Banjos",
-      "url": "https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "The Essential Ray Price",
-        "url": "https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 227786,
-      "name": "For the Good Times",
-      "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "The Essential Dolly Parton",
-        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 140173,
-      "name": "Love Is Like a Butterfly",
-      "url": "https://open.spotify.com/track/4EmqbVer5FDGxjpx4858nM"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "The Essential Johnny Duncan",
         "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
       },
@@ -1135,6 +1083,58 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music",
+        "url": "https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB"
+      },
+      "artists": [
+        {
+          "name": "Eric Weissberg",
+          "url": "https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g"
+        },
+        {
+          "name": "Steve Mandell",
+          "url": "https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj"
+        }
+      ],
+      "duration_ms": 194879,
+      "name": "Dueling Banjos",
+      "url": "https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 140173,
+      "name": "Love Is Like a Butterfly",
+      "url": "https://open.spotify.com/track/4EmqbVer5FDGxjpx4858nM"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Essential Ray Price",
+        "url": "https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 227786,
+      "name": "For the Good Times",
+      "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "I'm Jessi Colter",
         "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
       },
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
+        "name": "The Freddy Fender Collection",
+        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
       },
       "artists": [
         {
-          "name": "Donna Fargo",
-          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
         }
       ],
-      "duration_ms": 151306,
-      "name": "The Happiest Girl In The Whole U.S.A.",
-      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
+      "duration_ms": 158306,
+      "name": "Before the Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Freddy Fender Collection",
-        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
       },
       "artists": [
         {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+          "name": "Donna Fargo",
+          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Before the Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
+      "duration_ms": 151306,
+      "name": "The Happiest Girl In The Whole U.S.A.",
+      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond",
-        "url": "https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM"
+        "name": "Phases And Stages",
+        "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
       },
       "artists": [
         {
-          "name": "Marie Osmond",
-          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 158973,
-      "name": "Paper Roses",
-      "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
+      "duration_ms": 168933,
+      "name": "Bloody Mary Morning",
+      "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Phases And Stages",
-        "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
+        "name": "20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond",
+        "url": "https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Marie Osmond",
+          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
         }
       ],
-      "duration_ms": 168933,
-      "name": "Bloody Mary Morning",
-      "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
+      "duration_ms": 158973,
+      "name": "Paper Roses",
+      "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
     },
     {
       "added_at": "2023-02-24 05:00:00",

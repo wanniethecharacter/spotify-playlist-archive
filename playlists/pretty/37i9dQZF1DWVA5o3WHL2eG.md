@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Listen to women at full volume\. Cover: CATT
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,650 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,695 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,18 +29,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 19 | [BBB \#40](https://open.spotify.com/track/75UAvAAZnHbKvkrC3kKdfN) | [TRINA](https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ) | [BBB \#40](https://open.spotify.com/album/5LuB1rFFATNhE2yKo17Stq) | 2:18 |
 | 20 | [Notfallkontakt](https://open.spotify.com/track/16OeWavQ9VW0lyrXIGcEiV) | [GINI](https://open.spotify.com/artist/6TBAZHXDXBywvVgYyQ8aCQ) | [Notfallkontakt](https://open.spotify.com/album/5nTfxllqpkVgBaV1p6o1bp) | 3:00 |
 | 21 | [SOUL TO KEEP](https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SOUL TO KEEP](https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC) | 7:00 |
-| 22 | [Winterherz](https://open.spotify.com/track/3PI8dHTA2glK3zq0hm6tdW) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Winterherz](https://open.spotify.com/album/4RKvRoMWIeyCvg5jCqqoCR) | 2:16 |
-| 23 | [Boys Don't Cry](https://open.spotify.com/track/2aZwLAGErg6yY3i68sUDuw) | [ESKE](https://open.spotify.com/artist/4WBzXEnsUE7dpyKjrZnF5D) | [Boys Don't Cry](https://open.spotify.com/album/0KQ9iYi8d7uHcOQYMW8xye) | 3:05 |
+| 22 | [Boys Don't Cry](https://open.spotify.com/track/2aZwLAGErg6yY3i68sUDuw) | [ESKE](https://open.spotify.com/artist/4WBzXEnsUE7dpyKjrZnF5D) | [Boys Don't Cry](https://open.spotify.com/album/0KQ9iYi8d7uHcOQYMW8xye) | 3:05 |
+| 23 | [Winterherz](https://open.spotify.com/track/3PI8dHTA2glK3zq0hm6tdW) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Winterherz](https://open.spotify.com/album/4RKvRoMWIeyCvg5jCqqoCR) | 2:16 |
 | 24 | [ALL I WANT](https://open.spotify.com/track/076eiWHHHFGmjduZQM4v5G) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [ALL I WANT](https://open.spotify.com/album/715TgYzWSZPq3i2BB5sOaV) | 3:53 |
 | 25 | [Boxes](https://open.spotify.com/track/724mj683MA2AeTe3kzyJ0o) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Boxes](https://open.spotify.com/album/5RYZA4UfF9LLPd3cmz4i1J) | 3:11 |
 | 26 | [Echt](https://open.spotify.com/track/5m1EmuvBcvReq1Wbsuzcl0) | [Phela](https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O) | [Echt](https://open.spotify.com/album/62ROhodMC9Pgx0O9o4QFde) | 2:56 |
 | 27 | [Running Round](https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Running Round](https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez) | 3:31 |
 | 28 | [MONDLICHT](https://open.spotify.com/track/2FSK3jttHrWDlVA3DigDPg) | [Bush.ida](https://open.spotify.com/artist/015bIyYjjyqiy9C74fBLGF), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [MONDLICHT](https://open.spotify.com/album/4yDyWOKjSLyruosIWQ7usx) | 3:02 |
-| 29 | [Halluzination](https://open.spotify.com/track/2fdDMK5ANWPYHzPlfmvSig) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD) | [Halluzination](https://open.spotify.com/album/5NagXEhakJxCJwWvwiEQFO) | 6:10 |
-| 30 | [Heavy Objects](https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Heavy Objects](https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm) | 2:03 |
+| 29 | [Heavy Objects](https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Heavy Objects](https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm) | 2:03 |
+| 30 | [Halluzination](https://open.spotify.com/track/2fdDMK5ANWPYHzPlfmvSig) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD) | [Halluzination](https://open.spotify.com/album/5NagXEhakJxCJwWvwiEQFO) | 6:10 |
 | 31 | [Unter Uns](https://open.spotify.com/track/37rODg6X5gCPrxOw4cfp2O) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Unter Uns](https://open.spotify.com/album/7ABBR4IBQkgjeRZeHTR4BP) | 3:13 |
-| 32 | [Love Love Love](https://open.spotify.com/track/1wvPjbb1hqSmr69lTHsbbW) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Oceanflower](https://open.spotify.com/album/7rtpjReu5z6o9nVQew35YR) | 3:46 |
-| 33 | [call me cat](https://open.spotify.com/track/1hkwO8e7X5wCgYEyod3jYE) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [call me cat](https://open.spotify.com/album/5FlC8xzZPpDAQQwKQPiT8U) | 2:20 |
+| 32 | [call me cat](https://open.spotify.com/track/1hkwO8e7X5wCgYEyod3jYE) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [call me cat](https://open.spotify.com/album/5FlC8xzZPpDAQQwKQPiT8U) | 2:20 |
+| 33 | [Love Love Love](https://open.spotify.com/track/1wvPjbb1hqSmr69lTHsbbW) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Oceanflower](https://open.spotify.com/album/7rtpjReu5z6o9nVQew35YR) | 3:46 |
 | 34 | [Tides](https://open.spotify.com/track/2S4sNPPGvAx4J5vrMrI3Ay) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [Tritoness & The Scent of Rain](https://open.spotify.com/album/7iM26B2rnhPRMwfXboYsCC) | 2:52 |
 | 35 | [Salt](https://open.spotify.com/track/2lPy2tSERqF7Hm542vqimv) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [Sophie Lindinger](https://open.spotify.com/album/3l5jkXQVX52tNOur0DUZ3G) | 4:06 |
 | 36 | [Therapies](https://open.spotify.com/track/0fLmaubC2WTaLjVqnDoQEW) | [Maria Gold](https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K) | [Therapies](https://open.spotify.com/album/5Zk6aKDnOCgKsUYxNlYFx5) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Hunger](https://open.spotify.com/track/7d9xvjLCcK0egWfG5i3LTS) | [AINIE](https://open.spotify.com/artist/4ws7LzBaXuN1H5b8FbLxqS) | [Amor](https://open.spotify.com/album/1wnqQGGmZi7o7jHZ8nhku4) | 2:36 |
 | 50 | [Power of Today](https://open.spotify.com/track/4g2eoUYfI9Ro3bEVClMMWI) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power Of Today EP](https://open.spotify.com/album/7EuAisoRLrG0b9XRKm5DvG) | 6:19 |
 
-Snapshot ID: `MTY3NzgzNjE3NiwwMDAwMDAwMGUzOTRlNWExNDA3NmU0ZjAxZTZiZTYzOTBlNDc2MWMw`
+Snapshot ID: `MTY3NzgzNjE3NiwwMDAwMDAwMGNlNWIyNTFjOTU4M2FiZTU4MDc4YWMzMDNjMjgyZWIw`

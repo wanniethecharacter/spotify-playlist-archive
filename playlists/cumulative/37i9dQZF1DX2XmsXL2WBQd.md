@@ -4,7 +4,7 @@
 
 > Anthems from the early days of recorded rap music.
 
-141 songs - 11 hr 56 min
+142 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Cha Cha Cha](https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [The Very Best Of MC Lyte](https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4) | 3:00 | 2022-07-07 |  |
 | [Children's Story](https://open.spotify.com/track/1uNYPqgrxPrvujVMnVDjna) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/0A9vjIMCxgEhfiyRfvj6WW) | 3:59 | 2021-12-21 | 2022-07-29 |
 | [Children's Story](https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 4:02 | 2022-07-07 |  |
-| [Cold Gettin' Dumb](https://open.spotify.com/track/5hGsUZIjiBZq4QRtjdulKB) | [Just\-Ice](https://open.spotify.com/artist/4o2YVQGcx3e2L4c95B3ZcU) | [Back to the Old School](https://open.spotify.com/album/2Ld5FTT4I7MtnvhzbAR8Yc) | 4:32 | 2021-12-21 |  |
+| [Cold Gettin' Dumb](https://open.spotify.com/track/5hGsUZIjiBZq4QRtjdulKB) | [Just\-Ice](https://open.spotify.com/artist/4o2YVQGcx3e2L4c95B3ZcU) | [Back to the Old School](https://open.spotify.com/album/2Ld5FTT4I7MtnvhzbAR8Yc) | 4:32 | 2021-12-21 | 2023-03-06 |
 | [Colors \- 2014 Remaster](https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Greatest Hits](https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1) | 4:26 | 2022-07-07 |  |
 | [Don't Believe The Hype](https://open.spotify.com/track/56hyMlVcfBJIBgSmmZM3qE) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/3fnVPzF3kChsDGYdBOkLZc) | 5:19 | 2021-12-21 | 2022-07-29 |
 | [Don't Believe The Hype](https://open.spotify.com/track/0VAoDsKh7Or84V8xP7p1Fs) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:19 | 2022-07-07 | 2023-03-02 |
@@ -109,6 +109,7 @@
 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 | 2021-12-21 |  |
 | [Raw \(Edit\) \- 45 Version](https://open.spotify.com/track/5TDEIDElkU2hrMnusjPLNu) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Raw \(Edit\) / Word to the Mother \(Land\) \[45 Version\]](https://open.spotify.com/album/1cr09OfD3IcHGTJ2pKiYQh) | 4:08 | 2021-12-21 | 2022-11-13 |
 | [Rebel Without A Pause](https://open.spotify.com/track/068leTp1TAkIupnGoRBT9O) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/3fnVPzF3kChsDGYdBOkLZc) | 5:02 | 2021-12-21 | 2022-07-29 |
+| [Rebel Without A Pause](https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:02 | 2023-02-27 |  |
 | [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 | 2022-07-07 | 2023-03-02 |
 | [Renegades of Funk \- 12" Vocal Version](https://open.spotify.com/track/1QKvGRCLVE4RmjJMBmQbtH) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [Afrika Bambaataa & The Soulsonic Force](https://open.spotify.com/artist/4J8cVSLFJ4T4ReYLtehLj0) | [Looking for the Perfect Beat 1980 \-1985](https://open.spotify.com/album/7c8s7VnzBUNEAxhJh439M0) | 6:43 | 2021-12-21 | 2022-07-24 |
 | [Renegades of Funk \- 12" Vocal Version](https://open.spotify.com/track/7iPXWodYIIDwXcbDTbLup5) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Looking for the Perfect Beat 1980 \-1985](https://open.spotify.com/album/2UrZ3obnsIpILX1x86hCfu) | 6:43 | 2022-09-21 | 2022-11-13 |

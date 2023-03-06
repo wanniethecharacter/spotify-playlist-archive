@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-846 songs - 2 day 11 hr 5 min
+847 songs - 2 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Can the Can](https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:34 | 2022-01-05 |  |
 | [Can the Can](https://open.spotify.com/track/6K0kK40E7PA2i9LsGmVCfK) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW) | 3:34 | 2022-01-05 | 2022-07-27 |
 | [Can't Give You More](https://open.spotify.com/track/6u7tH8eWSc4BlEUw0Q5VYP) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/5MsNoPWsiIbO6uz9KA6qDS) | 4:15 | 2022-01-05 | 2022-07-19 |
-| [Can't Give You More](https://open.spotify.com/track/4PriSB05yvskrIRuFVfr57) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 4:17 | 2022-01-05 |  |
+| [Can't Give You More](https://open.spotify.com/track/4PriSB05yvskrIRuFVfr57) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 4:17 | 2022-01-05 | 2023-03-06 |
 | [Can't You Hear Me Knocking \- 2009 Mix](https://open.spotify.com/track/1hIQPCM3oWXrpnXmgTDaKG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 7:16 | 2022-01-05 |  |
 | [Candy\-O](https://open.spotify.com/track/6tVcoaFJVBmHWctf8qC8pK) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Candy\-O](https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J) | 2:36 | 2022-01-05 |  |
 | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/track/6dix9mJZambkCkDOlXQTwG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 5:46 | 2022-01-05 |  |
@@ -178,7 +178,7 @@
 | [Die Young Stay Pretty \- Remastered](https://open.spotify.com/track/006pbYThBlBNz9fvJZFwin) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4SxhwzlhAfa0FgYHrGfGz8) | 3:34 | 2022-01-05 | 2022-07-29 |
 | [Dig A Pony \- Remastered 2009](https://open.spotify.com/track/4OUmlC67FoPLvQNuE5C7kF) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:55 | 2022-01-05 |  |
 | [Dirty Water](https://open.spotify.com/track/38li6mdTZikCk7OYglPaZS) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/5MsNoPWsiIbO6uz9KA6qDS) | 3:49 | 2022-01-05 | 2022-07-24 |
-| [Dirty Water](https://open.spotify.com/track/456bCHC8Uu1RUT703OXcAq) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 3:52 | 2022-01-05 | 2023-03-02 |
+| [Dirty Water](https://open.spotify.com/track/456bCHC8Uu1RUT703OXcAq) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 3:52 | 2022-01-05 |  |
 | [Do Anything You Want To](https://open.spotify.com/track/2lAbLCbTklfVd0YqeM3hSI) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Black Rose \(Deluxe Edition\)](https://open.spotify.com/album/74J4goYLcEur0WFYZeu4Js) | 3:51 | 2022-01-05 | 2022-07-29 |
 | [Doctor Doctor \- 2007 Remaster](https://open.spotify.com/track/1soxeK1ZBX9SsSjK4j4ECa) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Phenomenon \(2007 Remaster\)](https://open.spotify.com/album/0t7jKe5qt4N57sUWX33Zew) | 4:12 | 2022-01-05 |  |
 | [Doctor Doctor \- 2007 Remaster](https://open.spotify.com/track/5Okf7KBikV8we3uqCMFjiL) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Phenomenon \(2007 Remaster\)](https://open.spotify.com/album/7rIrjqUmeFTjw9JH9MWekS) | 4:12 | 2022-01-05 | 2022-07-29 |
@@ -290,7 +290,8 @@
 | [Hard Time](https://open.spotify.com/track/25OMiLgpJGrjnCB8HDcdYa) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/5MsNoPWsiIbO6uz9KA6qDS) | 4:45 | 2022-01-10 | 2022-07-24 |
 | [Hard Time](https://open.spotify.com/track/5NfhV14qa6TRCxvXBbn9j2) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 4:45 | 2022-01-10 | 2022-11-06 |
 | [He's Gonna Step on You Again](https://open.spotify.com/track/4Kqp11O4KoQ6cHAtH9Kf1x) | [John Kongos](https://open.spotify.com/artist/15KbeP35gI9t2vgYzwsTjj) | [Rocktober \(The Best South African Rock Hits of All Time\), Vol\. 2](https://open.spotify.com/album/7imHowytOIPb0w5RPViwWy) | 4:20 | 2022-01-05 | 2023-03-03 |
-| [He's Gonna Step On You Again \- 2014 Remastered Version](https://open.spotify.com/track/18SFEVHt61HnNrAcK8Rlos) | [John Kongos](https://open.spotify.com/artist/15KbeP35gI9t2vgYzwsTjj) | [Kongos \(2014 Remastered Version\)](https://open.spotify.com/album/0L12QTm0mPNvE5Lya3eJwx) | 4:27 | 2022-01-05 |  |
+| [He's Gonna Step on You Again](https://open.spotify.com/track/6oNjDtBcSSTC2Zuaa6pTXY) | [John Kongos](https://open.spotify.com/artist/15KbeP35gI9t2vgYzwsTjj) | [Kongos](https://open.spotify.com/album/5CT0WakYJ3Wvsllg4UO0HB) | 4:24 | 2022-11-17 |  |
+| [He's Gonna Step On You Again \- 2014 Remastered Version](https://open.spotify.com/track/18SFEVHt61HnNrAcK8Rlos) | [John Kongos](https://open.spotify.com/artist/15KbeP35gI9t2vgYzwsTjj) | [Kongos \(2014 Remastered Version\)](https://open.spotify.com/album/0L12QTm0mPNvE5Lya3eJwx) | 4:27 | 2022-01-05 | 2023-03-06 |
 | [Head Games](https://open.spotify.com/track/5nk6wxUSFUBxUKxjz0fKD6) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Head Games](https://open.spotify.com/album/05Z3MG7G3Vl5ThsFQkWjiJ) | 3:37 | 2022-01-05 |  |
 | [Heart Of The Night](https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 4:54 | 2022-01-05 |  |
 | [Heartbreak Hotel \- 2017 Remaster](https://open.spotify.com/track/0ejO0Gjn1tkqLk7AM3Nr2z) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Aggro\-Phobia \(2017 Remaster\)](https://open.spotify.com/album/3tICgmvyMNQrKQi5ALuZcq) | 3:53 | 2022-01-05 | 2022-07-28 |

@@ -4226,6 +4226,24 @@
     {
       "album": {
         "name": "Street Talk",
+        "url": "https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT"
+      },
+      "artists": [
+        {
+          "name": "Holodec",
+          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229367,
+      "name": "Street Talk",
+      "url": "https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag"
+    },
+    {
+      "album": {
+        "name": "Street Talk",
         "url": "https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv"
       },
       "artists": [
@@ -5340,7 +5358,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 475965,
       "name": "XO 4 - Wolf 1061c",
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"

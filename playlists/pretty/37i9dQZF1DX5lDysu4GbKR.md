@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,203 likes - 114 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,310 likes - 114 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All My Love](https://open.spotify.com/track/5zkU3MXBvHqMAfiqSuEYQX) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [I Told You I Would](https://open.spotify.com/album/2lIpGHB6SBjKsShyLRrZhM) | 3:28 |
 | 2 | [Coolin](https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 2:51 |
-| 3 | [Good Man Down](https://open.spotify.com/track/4c6m1Y1P5xTmvtwAkSZnKM) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW) | [Unproduced @ Pink Moon](https://open.spotify.com/album/0jpljAh1Ge8WspLPUXSSlK) | 3:40 |
+| 3 | [Good Man Down](https://open.spotify.com/track/4c6m1Y1P5xTmvtwAkSZnKM) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW), [Quincy Cochran](https://open.spotify.com/artist/5XnEu9rdIRuiZfDi1erWyg) | [Unproduced @ Pink Moon](https://open.spotify.com/album/0jpljAh1Ge8WspLPUXSSlK) | 3:40 |
 | 4 | [Coffee in the Morning](https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Coffee in the Morning](https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1) | 3:46 |
 | 5 | [Don't Lay It All On Me](https://open.spotify.com/track/1HRqrNwbigZTSvx4F6zyOb) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Don't Lay It All On Me](https://open.spotify.com/album/6cXnkR2AXOQyAAnOLe3OfH) | 3:51 |
 | 6 | [Good Things Fall Apart](https://open.spotify.com/track/5dIvHAv8t9d42b6lAO53K5) | [Rhonda](https://open.spotify.com/artist/1pqbZX6kOvaCi5IEd9zFkG) | [Good Things Fall Apart](https://open.spotify.com/album/10PQIbXGnyO4DKajt4iLx3) | 4:08 |

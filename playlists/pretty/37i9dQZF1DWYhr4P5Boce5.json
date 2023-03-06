@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 189406,
+  "num_followers": 189496,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMGVkODI5ODZhZWUxMjc3OGE5NzA3OWJiODFiYTQwZGJj",
+  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMGZhNTE2MDIxMDFiZTQ3MjdlNWUwMjgwMmI3ZDk4Njk5",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "It's Our Time",
-        "url": "https://open.spotify.com/album/1HP1KymMq8MzxzjqLgyjaZ"
-      },
-      "artists": [
-        {
-          "name": "The Light the Heat",
-          "url": "https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR"
-        }
-      ],
-      "duration_ms": 221979,
-      "name": "It's Our Time",
-      "url": "https://open.spotify.com/track/71p9FBPJZtc77fs4AxUX6T"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "What We Want, What We Get",
         "url": "https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 228960,
       "name": "God Gave Me You",
       "url": "https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "It's Our Time",
+        "url": "https://open.spotify.com/album/1HP1KymMq8MzxzjqLgyjaZ"
+      },
+      "artists": [
+        {
+          "name": "The Light the Heat",
+          "url": "https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR"
+        }
+      ],
+      "duration_ms": 221979,
+      "name": "It's Our Time",
+      "url": "https://open.spotify.com/track/71p9FBPJZtc77fs4AxUX6T"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "Girl of My Dreams",
+      "url": "https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "BUSY",
         "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 127058,
       "name": "BUSY",
       "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 209880,
-      "name": "Girl of My Dreams",
-      "url": "https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -683,26 +683,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
-      },
-      "artists": [
-        {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 214693,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Dosis",
         "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 250754,
       "name": "Amor De Telenovela",
       "url": "https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
+      },
+      "artists": [
+        {
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 214693,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Every Falling Tear",
-        "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
-      },
-      "artists": [
-        {
-          "name": "Matt Hammitt",
-          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
-        }
-      ],
-      "duration_ms": 246461,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "As for Me and My House",
         "url": "https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 245640,
       "name": "The Marriage Prayer",
       "url": "https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Every Falling Tear",
+        "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
+      },
+      "artists": [
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "duration_ms": 246461,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "I Love You (Remix)",
         "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 193170,
       "name": "I Love You (Remix)",
       "url": "https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
         }
       ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Enough Already",
         "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 191794,
       "name": "Another Song About Love",
       "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "No Far Away",
-        "url": "https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "Loving You Is Easy",
-      "url": "https://open.spotify.com/track/1HuGBQWHagNJLx57lp1rcP"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "NATIVE TONGUE",
         "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 125598,
       "name": "YOU'RE THE ONE I WANT",
       "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "No Far Away",
+        "url": "https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "Loving You Is Easy",
+      "url": "https://open.spotify.com/track/1HuGBQWHagNJLx57lp1rcP"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2"
-      },
-      "artists": [
-        {
-          "name": "Million Miles",
-          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 179271,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2"
+      },
+      "artists": [
+        {
+          "name": "Million Miles",
+          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi"
     },
     {
       "added_at": "2023-01-31 10:01:12",

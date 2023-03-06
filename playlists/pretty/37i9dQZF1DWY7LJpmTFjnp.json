@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Sergio Arau en portada.",
-  "num_followers": 980816,
+  "num_followers": 981031,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg3MTE3MywwMDAwMDAwMDhmMjAwN2Q4YWY3Yjg2ZTI1NTE0ZWUwZjhhMjBiZWRh",
+  "snapshot_id": "MTY3Nzg3MTE3MywwMDAwMDAwMDNiMjZiMTNlZThjNzI1ODkyMmEyZTkzYzc1NWY4N2U0",
   "tracks": [
     {
       "added_at": "2023-02-24 06:00:00",
@@ -27,21 +27,21 @@
     {
       "added_at": "2022-01-14 14:14:57",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 226626,
-      "name": "So\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
+      "duration_ms": 228426,
+      "name": "Amargo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
     },
     {
-      "added_at": "2023-03-05 00:22:31",
+      "added_at": "2023-03-06 01:06:04",
       "album": {
         "name": "Mu\u00e9rete de Todo, Pero No de las Ganas",
         "url": "https://open.spotify.com/album/1tGkQ1860maFz5wlWLEu2Y"
@@ -67,18 +67,18 @@
     {
       "added_at": "2022-01-14 14:14:57",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 228426,
-      "name": "Amargo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
+      "duration_ms": 226626,
+      "name": "So\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
     },
     {
       "added_at": "2022-01-14 14:14:57",
@@ -145,22 +145,6 @@
       "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
     },
     {
-      "added_at": "2022-04-19 19:45:44",
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
-    },
-    {
       "added_at": "2022-01-14 14:14:57",
       "album": {
         "name": "Avalancha de \u00e9xitos",
@@ -175,6 +159,22 @@
       "duration_ms": 214880,
       "name": "Como te extra\u00f1o mi amor",
       "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+    },
+    {
+      "added_at": "2022-04-19 19:45:44",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
     },
     {
       "added_at": "2022-01-14 14:14:57",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-01-14 14:14:57",
       "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Las flores",
+      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
+    },
+    {
+      "added_at": "2022-01-14 14:14:57",
+      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -313,22 +329,6 @@
       "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
     },
     {
-      "added_at": "2022-01-14 14:14:57",
-      "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 308946,
-      "name": "Lago en el Cielo",
-      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
-    },
-    {
       "added_at": "2023-01-13 03:40:59",
       "album": {
         "name": "Tocada y Fuga",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/3ib6XT17WcsAJ2Qgp13wc0"
     },
     {
-      "added_at": "2022-01-14 14:14:57",
-      "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Las flores",
-      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
-    },
-    {
       "added_at": "2022-05-27 19:01:16",
       "album": {
         "name": "Infame",
@@ -383,6 +367,22 @@
     {
       "added_at": "2022-01-14 14:14:57",
       "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 308946,
+      "name": "Lago en el Cielo",
+      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
+    },
+    {
+      "added_at": "2022-01-14 14:14:57",
+      "album": {
         "name": "Monitor",
         "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
       },
@@ -395,6 +395,38 @@
       "duration_ms": 237760,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
+    },
+    {
+      "added_at": "2022-01-14 14:14:57",
+      "album": {
+        "name": "Defecto Perfecto",
+        "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Sognare",
+      "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Delincuencia",
+        "url": "https://open.spotify.com/album/1XdVn2Lq2ozGM2iuxBiJ7f"
+      },
+      "artists": [
+        {
+          "name": "Rebel'd Punk",
+          "url": "https://open.spotify.com/artist/0IdBNIZmMIhMIUk8lfIuY4"
+        }
+      ],
+      "duration_ms": 142988,
+      "name": "Noticia Punk",
+      "url": "https://open.spotify.com/track/5y5i9ysVFW0GmyTD6r0MGh"
     },
     {
       "added_at": "2022-01-14 14:14:57",
@@ -417,36 +449,20 @@
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
     },
     {
-      "added_at": "2023-02-24 06:00:00",
+      "added_at": "2022-04-19 19:45:44",
       "album": {
-        "name": "Delincuencia",
-        "url": "https://open.spotify.com/album/1XdVn2Lq2ozGM2iuxBiJ7f"
+        "name": "Anoche",
+        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
       },
       "artists": [
         {
-          "name": "Rebel'd Punk",
-          "url": "https://open.spotify.com/artist/0IdBNIZmMIhMIUk8lfIuY4"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 142988,
-      "name": "Noticia Punk",
-      "url": "https://open.spotify.com/track/5y5i9ysVFW0GmyTD6r0MGh"
-    },
-    {
-      "added_at": "2022-01-14 14:14:57",
-      "album": {
-        "name": "Defecto Perfecto",
-        "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
-      },
-      "artists": [
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
-        }
-      ],
-      "duration_ms": 313933,
-      "name": "Sognare",
-      "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
+      "duration_ms": 160786,
+      "name": "El Colmo",
+      "url": "https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa"
     },
     {
       "added_at": "2022-04-19 19:45:44",
@@ -521,22 +537,6 @@
       "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
     },
     {
-      "added_at": "2022-04-19 19:45:44",
-      "album": {
-        "name": "Anoche",
-        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 160786,
-      "name": "El Colmo",
-      "url": "https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa"
-    },
-    {
       "added_at": "2022-01-14 14:14:57",
       "album": {
         "name": "La Invasion De Los Blatidos",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-01-14 14:14:57",
       "album": {
+        "name": "Libres Y Locos",
+        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 187493,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
+    },
+    {
+      "added_at": "2022-01-14 14:14:57",
+      "album": {
         "name": "Dance And Dense Denso",
         "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 282120,
       "name": "Pobre de Ti",
       "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
-    },
-    {
-      "added_at": "2022-01-14 14:14:57",
-      "album": {
-        "name": "Libres Y Locos",
-        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 187493,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
     },
     {
       "added_at": "2022-04-19 19:45:44",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
     },
     {
-      "added_at": "2022-01-14 14:14:57",
-      "album": {
-        "name": "40 A\u00f1os Vol. 1",
-        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 294586,
-      "name": "A.D.O.",
-      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
-    },
-    {
       "added_at": "2022-04-19 19:45:44",
       "album": {
         "name": "Apocalypshit",
@@ -739,6 +723,22 @@
       "duration_ms": 216600,
       "name": "Peligroso Pop",
       "url": "https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP"
+    },
+    {
+      "added_at": "2022-01-14 14:14:57",
+      "album": {
+        "name": "40 A\u00f1os Vol. 1",
+        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 294586,
+      "name": "A.D.O.",
+      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
     },
     {
       "added_at": "2022-06-03 16:22:37",

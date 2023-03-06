@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,057 songs - 4 day 22 hr 25 min
+2,058 songs - 4 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [ALREADY](https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:42 | 2020-08-20 | 2023-02-12 |
 | [Alright](https://open.spotify.com/track/5vPVxHRFg8cUwRr8j7yqXf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 3:20 | 2019-09-29\* | 2021-11-19 |
 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 | 2020-07-12 | 2020-08-20 |
+| [ALWAYS NOWHERE](https://open.spotify.com/track/0yzb7gPnOMuTI1hR8JqfEa) | [DESTROY BORING](https://open.spotify.com/artist/5BiDqBXwTV38xUhyYISGHQ), [Belis](https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD) | [ALWAYS NOWHERE](https://open.spotify.com/album/2uBcHRyXm7tITq6MKWXoqM) | 1:55 | 2023-03-06 |  |
 | [Always Tomorrow](https://open.spotify.com/track/6znQ8d94uFOfREB86KmgUw) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 4:50 | 2020-11-17 | 2020-12-02 |
 | [Amalgamation](https://open.spotify.com/track/10AB38gKSM7MmYGqsMqoVm) | [Blkgmmn](https://open.spotify.com/artist/5duDucqmFjPnD91X9Y3GHs) | [Amalgamation](https://open.spotify.com/album/7xWeWqb3JwFca19AKBRBCI) | 5:39 | 2021-04-10 | 2021-04-26 |
 | [And So It Begins](https://open.spotify.com/track/6N59LGxW3G0rfEX5a2lyx2) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Future Wars](https://open.spotify.com/album/1HKVUp4PyLJVpCvVdhEQI1) | 2:05 | 2022-05-06 | 2022-05-30 |

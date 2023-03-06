@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 130136,
+  "num_followers": 130237,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MTI5NywwMDAwMDAwMDAwODNjODM1MjhkZTY1OGExMWVkYTUzYmJkZGFhZjU5",
+  "snapshot_id": "MTY3MzU4MTI5NywwMDAwMDAwMDAxYTIzN2U0YTVjOWFkZDJlZWQyYWQzZThkYmRlZTZj",
   "tracks": [
     {
       "added_at": "2020-11-13 06:01:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "La Nueva Sangre del Rock, Vol. 2",
-        "url": "https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk"
-      },
-      "artists": [
-        {
-          "name": "Leyenda Urbana",
-          "url": "https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU"
-        }
-      ],
-      "duration_ms": 368720,
-      "name": "Que Nos Paso",
-      "url": "https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "15 Rolitas de Amor",
         "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 200053,
       "name": "Quien Te Cantara",
       "url": "https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "La Nueva Sangre del Rock, Vol. 2",
+        "url": "https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk"
+      },
+      "artists": [
+        {
+          "name": "Leyenda Urbana",
+          "url": "https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU"
+        }
+      ],
+      "duration_ms": 368720,
+      "name": "Que Nos Paso",
+      "url": "https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 278666,
-      "name": "De Que el Amor Apesta",
-      "url": "https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Caf\u00e9 Tacvba",
         "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 228693,
       "name": "La chica banda",
       "url": "https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 278666,
+      "name": "De Que el Amor Apesta",
+      "url": "https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk"
     },
     {
       "added_at": "2020-11-13 06:01:00",

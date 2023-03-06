@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,973 likes - 40 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,987 likes - 40 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 35 | [Mercy](https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Mercy](https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn) | 3:16 |
 | 36 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
 | 37 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
-| 38 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
-| 39 | [Medo](https://open.spotify.com/track/6dO8RYtvSOTr2VLXVEQRVu) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/2Bg6vk2wOHQj5HJtTulISZ) | [Yeesom Sika](https://open.spotify.com/album/1ZdQbM6DD603nNABFvAYJe) | 4:52 |
+| 38 | [Medo](https://open.spotify.com/track/6dO8RYtvSOTr2VLXVEQRVu) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/2Bg6vk2wOHQj5HJtTulISZ) | [Yeesom Sika](https://open.spotify.com/album/1ZdQbM6DD603nNABFvAYJe) | 4:52 |
+| 39 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
 | 40 | [Goodbye](https://open.spotify.com/track/7pU9YogbXoHZirg26M132Z) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Goodbye](https://open.spotify.com/album/2LWg8PF3z76jzhcPgFb8x1) | 4:24 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDU2YTMyZDY2OThiNjk2NDdlMTgxNDQ0YmM2NDZhMzVm`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDYyNWY4ZTRjYzU3MWViMTg4YWRjZWViYWI2ZDJiOGY0`

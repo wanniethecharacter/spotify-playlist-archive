@@ -1,12 +1,12 @@
 {
   "description": "Honramos la memoria de las leyendas de nuestra M\u00fasica Mexicana. Ariel Camacho en portada. ",
-  "num_followers": 195619,
+  "num_followers": 195965,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI2NjA1NCwwMDAwMDAwMGY5NDdiMmI4ZmRkODU2YWIzN2FhMTI5MWFmMjZkYmVk",
+  "snapshot_id": "MTY3NzI2NjA1NCwwMDAwMDAwMDMwNTRiOTA4ZDU2MjgyZjMzODBkMzIwMGM1NWY1ZTNi",
   "tracks": [
     {
       "added_at": "2023-02-24 19:14:14",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
+    },
+    {
+      "added_at": "2023-02-24 19:14:14",
+      "album": {
         "name": "Volver\u00e9 A Conquistarte",
         "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 236533,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp"
-    },
-    {
-      "added_at": "2023-02-24 19:14:14",
-      "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 138466,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
     },
     {
       "added_at": "2023-02-24 19:14:14",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
-        "name": "Solo Baladas",
-        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
+        "name": "Los Boleros Morunos Solis",
+        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Palabras Tristes",
-      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
+      "duration_ms": 177013,
+      "name": "Esclavo y Amo",
+      "url": "https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27"
     },
     {
       "added_at": "2023-02-24 19:14:14",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
-        "name": "Los Boleros Morunos Solis",
-        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
+        "name": "Solo Baladas",
+        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 177013,
-      "name": "Esclavo y Amo",
-      "url": "https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27"
+      "duration_ms": 206000,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
     },
     {
       "added_at": "2023-02-24 19:14:14",
@@ -851,24 +851,24 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
-        "name": "Los Yonic's",
-        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
+        "name": "Vida De Bohemio",
+        "url": "https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 192440,
-      "name": "Un Dolor",
-      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
+      "duration_ms": 180133,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU"
     },
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 222866,
-      "name": "Millonario De Amor",
-      "url": "https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub"
+      "duration_ms": 187760,
+      "name": "Cuando el Sol Salga Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
     },
     {
       "added_at": "2023-02-24 19:14:14",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
-        "name": "Vida De Bohemio",
-        "url": "https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi"
+        "name": "Los Yonic's",
+        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 180133,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU"
+      "duration_ms": 192440,
+      "name": "Un Dolor",
+      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
     },
     {
       "added_at": "2023-02-24 19:14:14",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
-        "name": "Valentin Elizalde En Vivo",
-        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
+        "name": "Boleros-Boleros-Bole",
+        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 239120,
-      "name": "El Pavido Navido - En Vivo Desde Delfos, Guadalajara/2002",
-      "url": "https://open.spotify.com/track/6HH26pfSrXhOvF7Tvy75R5"
+      "duration_ms": 131626,
+      "name": "Media Vuelta",
+      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
     },
     {
       "added_at": "2023-02-24 19:14:14",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
-        "name": "No Eres Tu Ahora Soy Yo",
-        "url": "https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck"
+        "name": "Valentin Elizalde En Vivo",
+        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
       },
       "artists": [
         {
-          "name": "Tito Y Su Torbellino",
-          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 154566,
-      "name": "No Eres Tu Soy Yo",
-      "url": "https://open.spotify.com/track/3pv9FKoXObVTMcS8gpLof4"
+      "duration_ms": 239120,
+      "name": "El Pavido Navido - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/6HH26pfSrXhOvF7Tvy75R5"
     },
     {
       "added_at": "2023-02-24 19:14:14",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
+        "name": "No Eres Tu Ahora Soy Yo",
+        "url": "https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck"
+      },
+      "artists": [
+        {
+          "name": "Tito Y Su Torbellino",
+          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
+        }
+      ],
+      "duration_ms": 154566,
+      "name": "No Eres Tu Soy Yo",
+      "url": "https://open.spotify.com/track/3pv9FKoXObVTMcS8gpLof4"
+    },
+    {
+      "added_at": "2023-02-24 19:14:14",
+      "album": {
         "name": "20 Canciones Banda y Norteno",
         "url": "https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt"
       },
@@ -1011,6 +1027,22 @@
       "duration_ms": 195866,
       "name": "Cosas Del Diablo",
       "url": "https://open.spotify.com/track/5AWc1V5Tou8j8lF9ngc3cg"
+    },
+    {
+      "added_at": "2023-02-24 19:14:14",
+      "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "Millonario De Amor",
+      "url": "https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub"
     },
     {
       "added_at": "2023-02-24 19:14:14",
@@ -1035,22 +1067,6 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Cuando el Sol Salga Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
-    },
-    {
-      "added_at": "2023-02-24 19:14:14",
-      "album": {
         "name": "Ya Despu\u00e9s De Muerto",
         "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 175891,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw"
-    },
-    {
-      "added_at": "2023-02-24 19:14:14",
-      "album": {
-        "name": "Boleros-Boleros-Bole",
-        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 131626,
-      "name": "Media Vuelta",
-      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
     },
     {
       "added_at": "2023-02-24 19:14:14",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
-        "name": "20 Canciones Banda y Norteno",
-        "url": "https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/75IgGouGFoepWfj2N6bQb6"
-    },
-    {
-      "added_at": "2023-02-24 19:14:14",
-      "album": {
         "name": "Borracho de Primera",
         "url": "https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy"
       },
@@ -1175,18 +1159,38 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+        "name": "Ya Despu\u00e9s De Muerto",
+        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 184293,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
+      "duration_ms": 179211,
+      "name": "Los Chismes",
+      "url": "https://open.spotify.com/track/2PP65VcRvkiNZUq7Wd0yP8"
+    },
+    {
+      "added_at": "2023-02-24 19:14:14",
+      "album": {
+        "name": "20 Canciones Banda y Norteno",
+        "url": "https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/75IgGouGFoepWfj2N6bQb6"
     },
     {
       "added_at": "2023-02-24 19:14:14",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2023-02-24 19:14:14",
       "album": {
-        "name": "Ya Despu\u00e9s De Muerto",
-        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
       },
       "artists": [
         {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 179211,
-      "name": "Los Chismes",
-      "url": "https://open.spotify.com/track/2PP65VcRvkiNZUq7Wd0yP8"
+      "duration_ms": 184293,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
     },
     {
       "added_at": "2023-02-24 19:14:14",

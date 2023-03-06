@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: J.YUNA(\uc81c\uc774\uc720\ub098)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 241237,
+  "num_followers": 241493,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzczOTc5OCwwMDAwMDAwMGZlOGU0OGNlYmY1OTAxY2Q3MGZjMTliNDc2YjQ2ZDA3",
+  "snapshot_id": "MTY3NzczOTc5OCwwMDAwMDAwMDE1N2EyZDg1MWIxMjQ0YmFlZWZlNmM5MDU3OWY3MjBj",
   "tracks": [
     {
       "added_at": "2023-03-02 06:49:58",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-03-02 06:49:58",
       "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt. 4)",
-        "url": "https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID"
+        "name": "Uncontrollably Fond OST Part.1",
+        "url": "https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c"
       },
       "artists": [
         {
-          "name": "JUNGHEUM BAND",
-          "url": "https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a"
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
         }
       ],
-      "duration_ms": 155708,
-      "name": "Looking at you",
-      "url": "https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ"
+      "duration_ms": 205683,
+      "name": "Ring My Bell",
+      "url": "https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk"
     },
     {
       "added_at": "2023-03-02 06:49:58",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-03-02 06:49:58",
       "album": {
-        "name": "Uncontrollably Fond OST Part.1",
-        "url": "https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c"
+        "name": "The Interest of Love (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID"
       },
       "artists": [
         {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+          "name": "JUNGHEUM BAND",
+          "url": "https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a"
         }
       ],
-      "duration_ms": 205683,
-      "name": "Ring My Bell",
-      "url": "https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk"
+      "duration_ms": 155708,
+      "name": "Looking at you",
+      "url": "https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ"
     },
     {
       "added_at": "2023-03-02 06:49:58",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-03-02 06:49:58",
       "album": {
-        "name": "The 3rd EP",
-        "url": "https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi"
+        "name": "Cape",
+        "url": "https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
         }
       ],
-      "duration_ms": 222826,
-      "name": "Yesterday You Left Me",
-      "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
+      "duration_ms": 264119,
+      "name": "Cape",
+      "url": "https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK"
     },
     {
       "added_at": "2023-03-02 06:49:58",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-03-02 06:49:58",
       "album": {
-        "name": "Cape",
-        "url": "https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu"
+        "name": "The 3rd EP",
+        "url": "https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi"
       },
       "artists": [
         {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 264119,
-      "name": "Cape",
-      "url": "https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK"
+      "duration_ms": 222826,
+      "name": "Yesterday You Left Me",
+      "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
     }
   ],
   "unique_name": "K-Pop Acoustic",

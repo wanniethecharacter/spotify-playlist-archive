@@ -1085,6 +1085,32 @@
     },
     {
       "album": {
+        "name": "Hungry Heart ft. Hayley Kiyoko",
+        "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182918,
+      "name": "Hungry Heart ft. Hayley Kiyoko",
+      "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
+    },
+    {
+      "album": {
         "name": "A Slushii Summer",
         "url": "https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn"
       },
@@ -1314,7 +1340,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 207000,
       "name": "Like That",
       "url": "https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC"

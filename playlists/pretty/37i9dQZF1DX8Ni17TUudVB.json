@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 134307,
+  "num_followers": 134336,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMDE5NDQ3YzUyYTk4MTc5MmQ3ZGExM2JlOWQ3NGE2MTVk",
+  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMDQxNDkyNmIwNWNhZTYzZGYyODdkOWQ4OWU2ZGQ1MWRj",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -951,6 +951,26 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Monsters (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 174643,
+      "name": "Monsters (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 195706,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Monsters (feat. 24kGoldn)",
-        "url": "https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 174643,
-      "name": "Monsters (feat. 24kGoldn)",
-      "url": "https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ"
     },
     {
       "added_at": "2022-10-12 15:43:07",

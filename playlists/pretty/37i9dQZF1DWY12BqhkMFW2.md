@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,949 likes - 35 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,093 likes - 35 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 31 | [Lately](https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Uptown MTV Unplugged](https://open.spotify.com/album/0CQcwTXgmXtXpMcORejZSM) | 6:13 |
 | 32 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 |
 | 33 | [Zoom](https://open.spotify.com/track/3OWjkfq3mlexSVFAGamhhr) | [Big Bub](https://open.spotify.com/artist/3CgFQVOvg4sK8vaGtXPIJ4) | [Timeless](https://open.spotify.com/album/5v1twLqXY1LP1L88HPYnDD) | 5:55 |
-| 34 | [Right And A Wrong Way](https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 5:11 |
-| 35 | [Don't Disturb This Groove](https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Ventriloquism](https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG) | 4:37 |
+| 34 | [Don't Disturb This Groove](https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Ventriloquism](https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG) | 4:37 |
+| 35 | [Right And A Wrong Way](https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 5:11 |
 
-Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMGMxODMxZjNjZjM2OTg3MmYzOWUzNzY4YWMxNjllN2Vj`
+Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMDE5MGE4YTVhNjVjYTE3ZTFkMmQxNjYxNTg0NWM5ZjRj`

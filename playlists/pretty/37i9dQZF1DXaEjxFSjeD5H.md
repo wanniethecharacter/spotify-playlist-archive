@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 
 > Nada que un buen danzón no pueda curar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,756 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,779 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 50 | [Linda Cubana](https://open.spotify.com/track/6w5CTA7ieQTNW4eEc2O1c6) | [NMR Digital](https://open.spotify.com/artist/442IRNWLgO6H9bvlsI3arN) | [Danzas del Mundo Danzón](https://open.spotify.com/album/6Q7HaW9yc2jPhHuos8h0NM) | 5:49 |
 | 51 | [Juan Va Pa'l Guerra](https://open.spotify.com/track/2DJDXmZcKjvSxtFbp7j97z) | [Danzonera La Playa](https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2) | [Homenaje A Gonzalo Varela](https://open.spotify.com/album/4hXkZQeGq4ucqpNYRIjHq2) | 4:54 |
 | 52 | [De Canela y Huevo](https://open.spotify.com/track/4vfGT2H5qXI8JTrxlBX51l) | [Alejandro Aguilar Alcántara](https://open.spotify.com/artist/4Dz6TV4oFEQGSK4B33MvCX) | [Danzón Inmortal](https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK) | 3:46 |
-| 53 | [Bodas de Oro](https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [Auténtico Danzón](https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL) | 4:18 |
+| 53 | [Angélica](https://open.spotify.com/track/0RWQSk38aQTalfBgGLXfCH) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [La Danzonera Joven de Mexico del Chamaco Aguilar, Vol\. 2](https://open.spotify.com/album/60Naej3w02R25knHK4eZwr) | 3:37 |
 | 54 | [Ofelia](https://open.spotify.com/track/2coXrhZjBOV8jjwNbpLyf2) | [Mario Álvarez](https://open.spotify.com/artist/3ewwxi1gRlSoYfjaDF5ltV) | [Danzón Inmortal](https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK) | 3:31 |
 | 55 | [Murmurando \(Whispering\)](https://open.spotify.com/track/4dyo74hkzmo3r263Cjiw82) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [RCA 100 Años De Musica](https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV) | 2:15 |
-| 56 | [Angélica](https://open.spotify.com/track/0RWQSk38aQTalfBgGLXfCH) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [La Danzonera Joven de Mexico del Chamaco Aguilar, Vol\. 2](https://open.spotify.com/album/60Naej3w02R25knHK4eZwr) | 3:37 |
+| 56 | [Bodas de Oro](https://open.spotify.com/track/0Afe0fqZHkVHndVK7NX3VX) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [Auténtico Danzón](https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL) | 4:18 |
 | 57 | [Hay Que Echar Manteca](https://open.spotify.com/track/2gp3a4KYsboX8thnGHtpmH) | [Danzonera La Playa](https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2) | [Dios Mio Amparame](https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A) | 6:19 |
 | 58 | [Egipto Heróico](https://open.spotify.com/track/01xlbAqU0ztqPLkuozMYuD) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [La Danzonera Joven de Mexico del Chamaco Aguilar, Vol\. 2](https://open.spotify.com/album/60Naej3w02R25knHK4eZwr) | 4:20 |
 | 59 | [Maria](https://open.spotify.com/track/6ftTw3iQQs4aUYAADPhJjc) | [Orquesta de Mexico de Pedro Mendoza](https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp) | [Danzones Y Cha Cha Cha](https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d) | 3:24 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 69 | [Humo en los Ojos](https://open.spotify.com/track/5ONyXiCDuwd1KVDUYUffuN) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 4:02 |
 | 70 | [El Coquero](https://open.spotify.com/track/5HvxasN4SgIqYSIp37YYOl) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD) | [La Leyenda Viviente del Danzón](https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD) | 5:02 |
 | 71 | [Josefina](https://open.spotify.com/track/19eylWjaNeiQThuH2dKKIc) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 4:16 |
-| 72 | [España](https://open.spotify.com/track/79jXyUuH85dVv1J2y6O7kc) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 3:59 |
-| 73 | [Dos Pastillas de Tequila](https://open.spotify.com/track/2voUgUHqWOix5OqdzGmy2q) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [La Danzonera Joven de Mexico del Chamaco Aguilar, Vol\. 2](https://open.spotify.com/album/60Naej3w02R25knHK4eZwr) | 3:00 |
+| 72 | [Dos Pastillas de Tequila](https://open.spotify.com/track/2voUgUHqWOix5OqdzGmy2q) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [La Danzonera Joven de Mexico del Chamaco Aguilar, Vol\. 2](https://open.spotify.com/album/60Naej3w02R25knHK4eZwr) | 3:00 |
+| 73 | [España](https://open.spotify.com/track/79jXyUuH85dVv1J2y6O7kc) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 3:59 |
 | 74 | [Dónde Estás Terrón](https://open.spotify.com/track/0uQFoFTqVAsZbB85s9xUbv) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD) | [La Leyenda Viviente del Danzón](https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD) | 5:07 |
 | 75 | [Elodia](https://open.spotify.com/track/17YaVYvTFsCwRbs4IokrAw) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 2](https://open.spotify.com/album/2hWEiNYl4fwtvULhcVZnvE) | 3:35 |
 
-Snapshot ID: `MTY1OTQ4MjkwMiwwMDAwMDAwMDNjNmQ3MGM5OWViYWNlMjRkNjQxZWFmYTc5YzAzNGMx`
+Snapshot ID: `MTY1OTQ4MjkwMiwwMDAwMDAwMDQ1MWY0Mzk3NTVlNzE2ZjdkOTYyZWJmNTJkOGE4MmJl`

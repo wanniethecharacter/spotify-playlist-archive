@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,755 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,770 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 21 | [You Goin' Miss Your Candyman](https://open.spotify.com/track/3teQ8pkzhuw4JILPFUADIu) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [What Color Is Love](https://open.spotify.com/album/61YKu9dRRskWOAT3ijKTr2) | 7:19 |
 | 22 | [Bad Luck \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 6:26 |
 | 23 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
-| 24 | [Jupiter](https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 3:11 |
-| 25 | [Can't Fake the Feeling](https://open.spotify.com/track/3WtL910PEMIjJkkpM4xMKU) | [Geraldine Hunt](https://open.spotify.com/artist/2VuXufMFvhdWTYGEVceBdV) | [Can't Fake the Feeling](https://open.spotify.com/album/1dGnvsgMyThFwpl9hhSGbI) | 5:16 |
+| 24 | [Can't Fake the Feeling](https://open.spotify.com/track/3WtL910PEMIjJkkpM4xMKU) | [Geraldine Hunt](https://open.spotify.com/artist/2VuXufMFvhdWTYGEVceBdV) | [Can't Fake the Feeling](https://open.spotify.com/album/1dGnvsgMyThFwpl9hhSGbI) | 5:16 |
+| 25 | [Jupiter](https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 3:11 |
 | 26 | [Waiting](https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Waiting](https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz) | 6:52 |
 | 27 | [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 |
 | 28 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [Morning Shift](https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Scented Trip](https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha) | 6:20 |
 | 50 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 |
 
-Snapshot ID: `MTY3NjA0OTQxNCwwMDAwMDAwMDllMDQ5MjA1MTQxZGMyMmQ3Y2YwY2I5OTY0NzBiM2Mx`
+Snapshot ID: `MTY3NjA0OTQxNCwwMDAwMDAwMDViNGNmZjlhMTg1YWVhMGQ3NzRkZTdkMWQ4MDBkNWQz`

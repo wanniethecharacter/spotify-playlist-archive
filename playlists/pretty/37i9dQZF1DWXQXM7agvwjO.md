@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: KIKI \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,292 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,352 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 57 | [Life Is Good](https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ugly beauty](https://open.spotify.com/album/28sDeJjrMZ6TmwiZQCJ0wY) | 4:24 |
 | 58 | [Inilah JalanNya](https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Inilah JalanNya](https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH) | 2:40 |
 | 59 | [Lucifer \(with ZOMBIE\-CHANG\)](https://open.spotify.com/track/7AKwZD4xfKyTlsn890SopS) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [Lucifer \(with ZOMBIE\-CHANG\)](https://open.spotify.com/album/6ySfq9uaapwG22pGbb8BHP) | 3:33 |
-| 60 | [Conformance](https://open.spotify.com/track/2JP2UUDmqxhXJ4BHJJhQP5) | [Cal](https://open.spotify.com/artist/3AYpJp0dag8xfkEZ0qoL1h) | [Conformance](https://open.spotify.com/album/64oj3eIQOds4neNe7x4z49) | 4:04 |
+| 60 | [Conformance](https://open.spotify.com/track/2JP2UUDmqxhXJ4BHJJhQP5) | [Cal](https://open.spotify.com/artist/3AYpJp0dag8xfkEZ0qoL1h) | [Conformance](https://open.spotify.com/album/64oj3eIQOds4neNe7x4z49) | 4:05 |
 | 61 | [Life of the Lovers](https://open.spotify.com/track/6MhzQJruXlaJA1b9KO188o) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [Life of the Lovers](https://open.spotify.com/album/4esHEpO4KBAQ511nWQZgtt) | 4:10 |
 | 62 | [Waste Your Time](https://open.spotify.com/track/3o0kjixQEOo1GwfyVxQMUR) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Waste Your Time](https://open.spotify.com/album/3rdEVjYsptk7fGpSHsxIzP) | 2:38 |
 | 63 | [Hey Molly](https://open.spotify.com/track/54IE9zQKLBvlwCWEN6AThL) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [ASYRAF NASIR](https://open.spotify.com/artist/0AuICTYmANWThRroYVxJrT) | [Hey Molly](https://open.spotify.com/album/0x4OQypKeySPVnldwJHS6u) | 2:32 |

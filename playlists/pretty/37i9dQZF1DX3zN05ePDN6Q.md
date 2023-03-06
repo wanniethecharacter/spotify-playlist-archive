@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Febre 90's
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,560 likes - 77 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,598 likes - 77 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Soldado sem Coração](https://open.spotify.com/track/2NzxxgUanq360r29LzuDQM) | [Boaventura](https://open.spotify.com/artist/5jclJvn6eulBAXMjqrprO8), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Soldado sem Coração](https://open.spotify.com/album/6ocAO0JnWL8I9Nup1s7XEJ) | 2:20 |
-| 2 | [Você Está Com Febre?](https://open.spotify.com/track/6hC66C3uYkWWqCXBmyLpLd) | [Febre90s](https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Você Está Com Febre?](https://open.spotify.com/album/7l5juy0pUDeyF9sKXt8mkL) | 2:45 |
+| 1 | [Você Está Com Febre?](https://open.spotify.com/track/6hC66C3uYkWWqCXBmyLpLd) | [Febre90s](https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Você Está Com Febre?](https://open.spotify.com/album/7l5juy0pUDeyF9sKXt8mkL) | 2:45 |
+| 2 | [Soldado sem Coração](https://open.spotify.com/track/2NzxxgUanq360r29LzuDQM) | [Boaventura](https://open.spotify.com/artist/5jclJvn6eulBAXMjqrprO8), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Soldado sem Coração](https://open.spotify.com/album/6ocAO0JnWL8I9Nup1s7XEJ) | 2:20 |
 | 3 | [DoisTrês](https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [DoisTrês](https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4) | 1:15 |
 | 4 | [Bom dia Vietnã 2](https://open.spotify.com/track/7f0PIXLhMDaLx0OtFXdW7d) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Bom dia Vietnã 2](https://open.spotify.com/album/3kZostoLBabq6nJRNoo1MV) | 2:45 |
 | 5 | [Melhor Que Ontem](https://open.spotify.com/track/5C1X9UxsnagxubGSrZ1zMH) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Melhor Que Ontem](https://open.spotify.com/album/3z75GAmcVXisxqwnQod4EM) | 3:19 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 76 | [Buenos Aires](https://open.spotify.com/track/0f8qfZHk9FKT3R7B3joJow) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Joe Sujera](https://open.spotify.com/artist/1l1aoY37uXAYtAZ7WESb5E), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Buenos Aires](https://open.spotify.com/album/10UeldDAt6YQ5E1KZgLN6k) | 3:03 |
 | 77 | [Vida De Cinema](https://open.spotify.com/track/6pV19HgJpUnkI4cV5uqgw5) | [Gabriel Terra](https://open.spotify.com/artist/1ziLod0n75PZojB7DAJIt0), [Coliseu](https://open.spotify.com/artist/5Ydr3k96ckQsVzAWEdHf6F), [Vítor Rêgo](https://open.spotify.com/artist/3GfexUs7NHwpx7eP0VAXlS), [Paulo Arthur](https://open.spotify.com/artist/1mM60Kn9oT7soffYbS1blg) | [Vida De Cinema](https://open.spotify.com/album/5Njc5TCgFIJYOGJfjjZwul) | 3:14 |
 
-Snapshot ID: `MTY3NzgxMjQ2MCwwMDAwMDAwMDJhZjYwN2ZlOWRlM2I5MjkxZTNjYmE0MzgwNTYxMzI0`
+Snapshot ID: `MTY3ODA1MTg0NCwwMDAwMDAwMGMxY2ExMWUzMmJmOGI5NjMyZjAxNWRhOTYxNjllMzYy`

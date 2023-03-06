@@ -417,6 +417,32 @@
     },
     {
       "album": {
+        "name": "Can't Be By Myself",
+        "url": "https://open.spotify.com/album/6GGqDtR8l4sebnwl7Zcqdj"
+      },
+      "artists": [
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+        },
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        },
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175613,
+      "name": "Can't Be By Myself",
+      "url": "https://open.spotify.com/track/30d5RsO6WvseuBB1UXQGM4"
+    },
+    {
+      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -2324,7 +2350,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 252413,
       "name": "Une autre histoire d'amour",
       "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"

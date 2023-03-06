@@ -1,12 +1,12 @@
 {
   "description": "The ultimate Lo-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 420717,
+  "num_followers": 420801,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2OTIwMCwwMDAwMDAwMDY5MmRkNGVjM2UyODJkZmZiODllOTZiMDY4NzNiYTg2",
+  "snapshot_id": "MTY3Nzc2OTIwMCwwMDAwMDAwMDY0MzFmNzAzMDgyOWVjYzVmYmU1NjdkYzRlZjEwYTQ1",
   "tracks": [
     {
       "added_at": "2023-03-02 15:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/18g0X9luZIPtcx0cr3wdoC"
-      },
-      "artists": [
-        {
-          "name": "TOSHIKI HAYASHI(%C)",
-          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
-        }
-      ],
-      "duration_ms": 216188,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/1tHDW0NXuPjYVnau1HSqs9"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/4MkRP9wJ457pLUwL4RIEo4"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "fog morning",
-        "url": "https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs"
+        "name": "distance",
+        "url": "https://open.spotify.com/album/18g0X9luZIPtcx0cr3wdoC"
       },
       "artists": [
         {
-          "name": "The LASTTRAK",
-          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
         }
       ],
-      "duration_ms": 158400,
-      "name": "fog morning",
-      "url": "https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG"
+      "duration_ms": 216188,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/1tHDW0NXuPjYVnau1HSqs9"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -819,6 +803,22 @@
       "duration_ms": 252473,
       "name": "ameagari",
       "url": "https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "fog morning",
+        "url": "https://open.spotify.com/album/3z2q7rEMB9VVQIiVOW1lVs"
+      },
+      "artists": [
+        {
+          "name": "The LASTTRAK",
+          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "fog morning",
+      "url": "https://open.spotify.com/track/1yzkFH5HZLVyH9imaRN1rG"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "China Town",
-        "url": "https://open.spotify.com/album/4ntLlHvS9lEOx3KS2Dz9cR"
-      },
-      "artists": [
-        {
-          "name": "Storkes",
-          "url": "https://open.spotify.com/artist/3UTdFWlJlDUIdrUz8LSKom"
-        }
-      ],
-      "duration_ms": 152877,
-      "name": "China Town",
-      "url": "https://open.spotify.com/track/701Pk1KCm0fvaaIvDOyxa9"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "Osaka Dreams",
         "url": "https://open.spotify.com/album/38tKGDcaJUmRh1C5hxV0kS"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 109714,
       "name": "Osaka Dreams",
       "url": "https://open.spotify.com/track/7HxJ4o4dId4o21IjTpS7GJ"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "China Town",
+        "url": "https://open.spotify.com/album/4ntLlHvS9lEOx3KS2Dz9cR"
+      },
+      "artists": [
+        {
+          "name": "Storkes",
+          "url": "https://open.spotify.com/artist/3UTdFWlJlDUIdrUz8LSKom"
+        }
+      ],
+      "duration_ms": 152877,
+      "name": "China Town",
+      "url": "https://open.spotify.com/track/701Pk1KCm0fvaaIvDOyxa9"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1075,6 +1075,22 @@
       "duration_ms": 96000,
       "name": "tasty greens",
       "url": "https://open.spotify.com/track/7cME0mO0KsRZsJ4IyoKRQG"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I"
+      },
+      "artists": [
+        {
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
+        }
+      ],
+      "duration_ms": 170109,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 160500,
       "name": "YOU",
       "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I"
-      },
-      "artists": [
-        {
-          "name": "ORANCHA",
-          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
-        }
-      ],
-      "duration_ms": 170109,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "Morning Glow",
-        "url": "https://open.spotify.com/album/1Y9ezSLdlZIRPgKnpK4pdD"
-      },
-      "artists": [
-        {
-          "name": "gummy3000",
-          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
-        },
-        {
-          "name": "vuefloor",
-          "url": "https://open.spotify.com/artist/4ut8eVBaW8x99Ibio3pfVe"
-        }
-      ],
-      "duration_ms": 175613,
-      "name": "Morning Glow",
-      "url": "https://open.spotify.com/track/5VcPFtpg0lgeU8MQa1q6E4"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "Memories of Furniture",
         "url": "https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv"
       },
@@ -1327,18 +1307,22 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "Fallin",
-        "url": "https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe"
+        "name": "Morning Glow",
+        "url": "https://open.spotify.com/album/1Y9ezSLdlZIRPgKnpK4pdD"
       },
       "artists": [
         {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        },
+        {
+          "name": "vuefloor",
+          "url": "https://open.spotify.com/artist/4ut8eVBaW8x99Ibio3pfVe"
         }
       ],
-      "duration_ms": 149589,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D"
+      "duration_ms": 175613,
+      "name": "Morning Glow",
+      "url": "https://open.spotify.com/track/5VcPFtpg0lgeU8MQa1q6E4"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
         "name": "Ukiyo",
         "url": "https://open.spotify.com/album/1ISCeVkUHvYiZrkVtAEVSk"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I"
-      },
-      "artists": [
-        {
-          "name": "ORANCHA",
-          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4sSfjd21b8ipFXaJfM5mV0"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "Late Summer",
         "url": "https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I"
+      },
+      "artists": [
+        {
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4sSfjd21b8ipFXaJfM5mV0"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
         "name": "Cold Concrete",
         "url": "https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "The Wondering Beats vol.1",
-        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
-      },
-      "artists": [
-        {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "BIG BLUE",
         "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 166392,
       "name": "BIG BLUE",
       "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "The Wondering Beats vol.1",
+        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
+      },
+      "artists": [
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "kageokuri",
-        "url": "https://open.spotify.com/album/1wLNWD7YpVkWnWhcy5pRoL"
-      },
-      "artists": [
-        {
-          "name": "ninomiya tatsuki",
-          "url": "https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep"
-        }
-      ],
-      "duration_ms": 215917,
-      "name": "kageokuri",
-      "url": "https://open.spotify.com/track/7iSSU0thqBlc4bfhIb2rxV"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "Kof\u016b II",
         "url": "https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 185380,
       "name": "Shurayuki hime",
       "url": "https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "kageokuri",
+        "url": "https://open.spotify.com/album/1wLNWD7YpVkWnWhcy5pRoL"
+      },
+      "artists": [
+        {
+          "name": "ninomiya tatsuki",
+          "url": "https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep"
+        }
+      ],
+      "duration_ms": 215917,
+      "name": "kageokuri",
+      "url": "https://open.spotify.com/track/7iSSU0thqBlc4bfhIb2rxV"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "meraki / cosmogyral",
-        "url": "https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6"
-      },
-      "artists": [
-        {
-          "name": "Kicktracks",
-          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
-        },
-        {
-          "name": "coldbrew",
-          "url": "https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "meraki",
-      "url": "https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "Streets of Kyoto",
         "url": "https://open.spotify.com/album/5cj8lMDcvX5kOOxFrDP5SY"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 96000,
       "name": "Streets of Kyoto",
       "url": "https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "meraki / cosmogyral",
+        "url": "https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6"
+      },
+      "artists": [
+        {
+          "name": "Kicktracks",
+          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
+        },
+        {
+          "name": "coldbrew",
+          "url": "https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "meraki",
+      "url": "https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ"
     },
     {
       "added_at": "2023-03-02 15:00:00",

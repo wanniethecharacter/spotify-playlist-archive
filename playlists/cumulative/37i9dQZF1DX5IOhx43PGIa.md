@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: beabadoobee.
 
-401 songs - 21 hr 3 min
+402 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 | 2022-05-27 |  |
 | [Find you in the dark](https://open.spotify.com/track/6cjLdb9U690pSxV6RUQ9cY) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Find you in the dark](https://open.spotify.com/album/56uJ7jcKVU3qdEoJdogi4t) | 3:53 | 2022-05-27 | 2022-06-04 |
 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 | 2022-05-27 |  |
+| [Firetruck](https://open.spotify.com/track/5D09TkOLzrkWTWqQxAId5V) | [SG5](https://open.spotify.com/artist/7D2TZnpK65Crptr2BgWrJ6) | [Firetruck](https://open.spotify.com/album/7bAkSGLaKkIcBb6RmhR8yN) | 2:24 | 2023-03-06 |  |
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-09-02 |  |
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-02-07 |  |
 | [for the girls](https://open.spotify.com/track/3KsjKXNeNMQ56baZH0RFq0) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:37 | 2022-09-23 | 2022-10-08 |
@@ -318,7 +319,7 @@
 | [Silver Into Rain](https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:21 | 2022-10-21 |  |
 | [Silver Into Rain](https://open.spotify.com/track/7IBI2S33PMaIM9pARvpIJY) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Silver Into Rain](https://open.spotify.com/album/6JlD7QPsUqPZQDoiYmENzd) | 3:21 | 2022-05-27 | 2022-10-13 |
 | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/track/11erW7pKvrR399ymf1eZwl) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/album/5EryJwl6ZmreizbfgEUgqC) | 4:02 | 2022-05-27 | 2022-07-29 |
-| [Smile](https://open.spotify.com/track/00wD7fpI1sOZsaDGDng5U1) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Smile](https://open.spotify.com/album/3Ts0nEHoi39Pi10zgWpAV8) | 2:18 | 2022-05-27 |  |
+| [Smile](https://open.spotify.com/track/00wD7fpI1sOZsaDGDng5U1) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Smile](https://open.spotify.com/album/3Ts0nEHoi39Pi10zgWpAV8) | 2:18 | 2022-05-27 | 2023-03-06 |
 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 | 2022-05-27 |  |
 | [so wrong but so right.](https://open.spotify.com/track/1DeQcRt8U7N6l5cPPYmGYY) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [so wrong but so right.](https://open.spotify.com/album/2APeiOBwLGStg3JvL8VLmq) | 2:59 | 2022-05-27 |  |
 | [social anxiety](https://open.spotify.com/track/7vdTmNVBvv7SXVk8WAsN7l) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [social anxiety](https://open.spotify.com/album/7fDqFxWbSym5KDEL32HWhc) | 1:31 | 2022-05-27 | 2022-07-28 |

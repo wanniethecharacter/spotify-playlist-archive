@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,877 likes - 95 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,224 likes - 95 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

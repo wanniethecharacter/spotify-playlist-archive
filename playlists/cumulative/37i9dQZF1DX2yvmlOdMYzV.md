@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-315 songs - 17 hr 44 min
+316 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Best Feature](https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Best Feature \(feat\. Devin Morrison\)](https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3) | 3:23 | 2023-02-07 |  |
 | [Between The Lines](https://open.spotify.com/track/1xVXwe9tzL11euCkfupQES) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Between The Lines](https://open.spotify.com/album/6lCouTlJCmzbCAysQCYXls) | 3:43 | 2021-12-15 | 2022-04-16 |
 | [BILL$](https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 2:23 | 2022-09-02 | 2023-01-28 |
+| [Black Anime](https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 4:20 | 2023-03-03 |  |
 | [Blessed](https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [Blessed](https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia) | 3:57 | 2021-12-15 |  |
 | [Blessed](https://open.spotify.com/track/7jrfqHvcRvJluOlCGJU54G) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Blessed](https://open.spotify.com/album/3e55MhiRUpp3FnfkLlr4aH) | 3:08 | 2022-04-07 | 2022-09-30 |
 | [Blind Man](https://open.spotify.com/track/0DQQRJ4sR3pxwom9L7D7QR) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Blind Man](https://open.spotify.com/album/5CN0cIlAqXEKvG46FEHp0X) | 4:02 | 2021-12-15 | 2022-04-03 |
@@ -131,7 +132,7 @@
 | [I Wish](https://open.spotify.com/track/79IirvCpDrry68JTKlmQdU) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [I Wish](https://open.spotify.com/album/3LaOgyaShyrdyet6ftXxDy) | 3:48 | 2022-10-19 |  |
 | [I Wonder Why](https://open.spotify.com/track/2HpDcssMlgQXfmAUYhePIP) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [I Wonder Why](https://open.spotify.com/album/1N7U7alOZtbA2m3AyAPEXf) | 3:48 | 2021-12-15 | 2022-10-13 |
 | [I Wonder Why](https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [I Wonder Why](https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD) | 3:48 | 2022-10-14 |  |
-| [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 | 2021-12-15 |  |
+| [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 | 2021-12-15 | 2023-03-06 |
 | [I'm a Rock](https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 3:24 | 2022-06-30 |  |
 | [I'm a Rock](https://open.spotify.com/track/4hpmG15B0IJcB88PgrHu1U) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/3AYbVMgPfYy8JcnTkHzktt) | 3:24 | 2021-12-15 | 2022-07-29 |
 | [I'm Thru](https://open.spotify.com/track/25AA0A6Qvq9leS9zyeWbln) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [I'm Thru](https://open.spotify.com/album/2R1NiiIPRBp4Jou2BGS0Mu) | 3:11 | 2021-12-15 | 2022-11-09 |

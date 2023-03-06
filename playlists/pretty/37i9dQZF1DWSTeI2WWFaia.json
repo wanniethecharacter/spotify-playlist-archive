@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Armani Caesar",
-  "num_followers": 1603324,
+  "num_followers": 1603493,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMGEzOWYwYjMzYjU2NGQ2MDI1YmNkOGYzMGY5Y2U1OWYy",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMGI5N2U4MzdiODRmMWRhMjkwN2FmZTJmNmNkYmM5NzM5",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "duration_ms": 102397,
+      "name": "ROUND HERE (PART ONE)",
+      "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Montega",
         "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
       },
@@ -735,18 +751,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "moMINTs",
-        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
+        "name": "Moon Roof",
+        "url": "https://open.spotify.com/album/3xm4cV4UPNCSqpLe4X8JMs"
       },
       "artists": [
         {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
         }
       ],
-      "duration_ms": 102397,
-      "name": "ROUND HERE (PART ONE)",
-      "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
+      "duration_ms": 181333,
+      "name": "Moon Roof",
+      "url": "https://open.spotify.com/track/4ViKU2hlW6dOMTJ7yzXTgR"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -787,26 +807,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Moon Roof",
-        "url": "https://open.spotify.com/album/3xm4cV4UPNCSqpLe4X8JMs"
-      },
-      "artists": [
-        {
-          "name": "Millyz",
-          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
-        },
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Moon Roof",
-      "url": "https://open.spotify.com/track/4ViKU2hlW6dOMTJ7yzXTgR"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Good Wine",
         "url": "https://open.spotify.com/album/6898YVDudEoCou54LQrbrd"
       },
@@ -819,26 +819,6 @@
       "duration_ms": 126114,
       "name": "Good Wine",
       "url": "https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
-        "url": "https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        },
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        }
-      ],
-      "duration_ms": 177030,
-      "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
-      "url": "https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -859,6 +839,26 @@
       "duration_ms": 182201,
       "name": "Flowers (feat. MAVI)",
       "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+        "url": "https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 177030,
+      "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
+      "url": "https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "247",
+        "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "247",
+      "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "DAMN (feat. Dave East)",
         "url": "https://open.spotify.com/album/2l9ANOEZxOwFbYxOlBlqYc"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 193603,
       "name": "DAMN (feat. Dave East)",
       "url": "https://open.spotify.com/track/4kSzGWmReSyUy09q2G5lbf"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "247",
-        "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "247",
-      "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
     },
     {
       "added_at": "2023-03-03 05:00:00",

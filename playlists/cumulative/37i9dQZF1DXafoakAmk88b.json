@@ -4498,10 +4498,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 203380,
       "name": "Vega",
       "url": "https://open.spotify.com/track/5iIFSRXjZ9lGGM9aACqyqP"
+    },
+    {
+      "album": {
+        "name": "Music for the Future",
+        "url": "https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm"
+      },
+      "artists": [
+        {
+          "name": "LANNDS",
+          "url": "https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203380,
+      "name": "Vega",
+      "url": "https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6"
     },
     {
       "album": {

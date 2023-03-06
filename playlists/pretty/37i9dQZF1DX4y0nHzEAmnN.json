@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1313,
+  "num_followers": 1315,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDc5ZWNmNGY3ZGJmNDcwMjc5NDRlMzUwNDBjMDUwOTgx",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDdkYjU1NjNmNGQwMmRlODgwOTNlYzA2MWRhMTMyYWFl",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -531,18 +531,18 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv"
       },
       "artists": [
         {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+          "name": "Love to Sing",
+          "url": "https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz"
         }
       ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
+      "duration_ms": 131600,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -563,18 +563,18 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv"
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
       },
       "artists": [
         {
-          "name": "Love to Sing",
-          "url": "https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz"
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
         }
       ],
-      "duration_ms": 131600,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff"
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2020-04-22 19:35:42",

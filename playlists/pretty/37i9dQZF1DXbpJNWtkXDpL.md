@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Presentamos a nuestros artista Radar México 2022!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,754 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,775 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 29 | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [¿Por Qué Me Dejaste de Querer?](https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX) | 3:16 |
 | 30 | [Que Si Fumo Tanto](https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Que Si Fumo Tanto](https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL) | 3:40 |
 | 31 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [No Lo Podía Hacer Mejor](https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL) | 2:58 |
-| 32 | [Contigo](https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Contigo](https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln) | 2:28 |
-| 33 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
+| 32 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
+| 33 | [Contigo](https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Contigo](https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln) | 2:28 |
 | 34 | [Todo Porque Te Amo](https://open.spotify.com/track/42xGhi8vZ7cowI55hWgYzP) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Un Viaje Diferente](https://open.spotify.com/album/0xNHJgl1s8jYp2AB4fjOSP) | 3:42 |
 | 35 | [Dinero, Fama y Poder](https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Dinero, Fama y Poder](https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL) | 2:34 |
 | 36 | [Barbie Ven](https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Barbie Ven](https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [un sueño raro](https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 3:12 |
 | 50 | [Empty Process](https://open.spotify.com/track/3nV6TxijHm8BJwZl7wjck8) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Glommy Afternoon](https://open.spotify.com/album/4k34ZmgvcK8b1ljA27Uu4d) | 2:56 |
 
-Snapshot ID: `MTY3MzQxNjgwMCwwMDAwMDAwMGQ5ZWJlYzRiODFhN2I2OGRiZGQwOWI5NWZjN2M5ZDVh`
+Snapshot ID: `MTY3MzQxNjgwMCwwMDAwMDAwMDYyNDU5ZjI4NTY5NzZkZmNhNjM3OTUyYTQ2YzUwMmM3`

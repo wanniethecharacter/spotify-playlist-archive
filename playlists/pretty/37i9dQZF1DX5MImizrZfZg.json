@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 46032,
+  "num_followers": 46067,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDRjMGU0YTFmOTU5YThkZjEwNDliNGIyMmUwZTkwYjdk",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDc5YmM1NDIyZjkyYjJlN2NkYWI3Y2VkZTEwNzM3YjI0",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -187,22 +187,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Night On The Town",
-        "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 289240,
-      "name": "Let It Flow",
-      "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 326213,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Night On The Town",
+        "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        }
+      ],
+      "duration_ms": 289240,
+      "name": "Let It Flow",
+      "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Tim Bowman",
-        "url": "https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Soul Dream",
-      "url": "https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 283266,
       "name": "Eye 2 Eye",
       "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Tim Bowman",
+        "url": "https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Soul Dream",
+      "url": "https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -283,22 +283,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Soul To Souls",
-        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 333880,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "It's On Tonight",
         "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Just Doing What I do",
-        "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
+        "name": "Soul To Souls",
+        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
       },
       "artists": [
         {
-          "name": "Marcus Johnson",
-          "url": "https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM"
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
         }
       ],
-      "duration_ms": 210773,
-      "name": "18th & M",
-      "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
+      "duration_ms": 333880,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -343,6 +327,22 @@
       "duration_ms": 270773,
       "name": "Who's That Lady",
       "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Just Doing What I do",
+        "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
+      },
+      "artists": [
+        {
+          "name": "Marcus Johnson",
+          "url": "https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "18th & M",
+      "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Talk of the Town",
-        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
-      },
-      "artists": [
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 255773,
-      "name": "Tale of Two Cities",
-      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Stay Awhile",
         "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 255093,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
+      },
+      "artists": [
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Tale of Two Cities",
+      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
     },
     {
       "added_at": "2020-08-19 19:15:51",

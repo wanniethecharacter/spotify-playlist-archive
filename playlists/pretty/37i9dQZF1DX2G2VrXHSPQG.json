@@ -1,12 +1,12 @@
 {
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
-  "num_followers": 61832,
+  "num_followers": 61874,
   "original_name": "Your Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDg2MCwwMDAwMDAwMDE3OWEwMDUyNzhhMDVkNTQyYjQ3ZjcxNzBjOTRmZGI1",
+  "snapshot_id": "MTY0Mzk1MDg2MCwwMDAwMDAwMDZiZTM0NzNmZjBiN2M2ZDZlODI0ZDk0NjU4NmFhMjNj",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Church Of Scars",
         "url": "https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 216133,
       "name": "River",
       "url": "https://open.spotify.com/track/3mRLHiSHYtC8Hk7bzZdUs1"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -739,6 +739,26 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
+        "name": "I Don\u2019t Live Here Anymore",
+        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 327546,
+      "name": "I Don't Live Here Anymore (feat. Lucius)",
+      "url": "https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -771,26 +791,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "I Don\u2019t Live Here Anymore",
-        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "I Don't Live Here Anymore (feat. Lucius)",
-      "url": "https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "We Are The Wrecks",
         "url": "https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 242306,
       "name": "Favorite Liar",
       "url": "https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 270892,
+      "name": "Salt And The Sea",
+      "url": "https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -839,22 +855,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 270892,
-      "name": "Salt And The Sea",
-      "url": "https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "OK ORCHESTRA",
-        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 189115,
-      "name": "Bummerland",
-      "url": "https://open.spotify.com/track/1N2gWqKHFtPSZ0zgoCr8WK"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Two Vines",
         "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 224840,
       "name": "High And Low",
       "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 189115,
+      "name": "Bummerland",
+      "url": "https://open.spotify.com/track/1N2gWqKHFtPSZ0zgoCr8WK"
     },
     {
       "added_at": "2022-02-04 05:01:00",

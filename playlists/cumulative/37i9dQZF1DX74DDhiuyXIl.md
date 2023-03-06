@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-257 songs - 18 hr 58 min
+258 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [男二號](https://open.spotify.com/track/1YTr9bx7g2JMwjApb72tes) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [男二號](https://open.spotify.com/album/1XhaXOXcCJIprINnCyMgxP) | 4:47 | 2022-06-27 | 2022-07-27 |
 | [當我們不在一起](https://open.spotify.com/track/2IrxQL5LAsqdXNOkDP4sAP) | [Quarterback](https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3) | [當我們不在一起](https://open.spotify.com/album/2aodkqwQyt6hPuMDMwL3Cd) | 4:24 | 2022-08-08 | 2023-03-02 |
 | [白鸽](https://open.spotify.com/track/0qrzbXs43YrxdaSAhLUA5v) | [你的上好佳](https://open.spotify.com/artist/1k06YlN2x0BDLE7EeBpGap) | [白鸽](https://open.spotify.com/album/2xtp5cx9nv9lJ4r6xhDLgV) | 3:28 | 2022-08-08 | 2023-02-01 |
+| [白鸽](https://open.spotify.com/track/3ZzjBnvlMgDpD4OH0LcGR4) | [你的上好佳](https://open.spotify.com/artist/14hDbC4uLLxDn19VsFrjsL) | [白鸽](https://open.spotify.com/album/6JQ6jGtfTpnjLU8yQawNO0) | 3:28 | 2023-03-02 |  |
 | [看起來不錯其實也還好](https://open.spotify.com/track/3zMmF25anSSUsnJmcYMbmF) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [巷子內](https://open.spotify.com/album/7aNRNUuP1X1f6B1MxUp9QX) | 4:00 | 2022-06-06 | 2022-07-29 |
 | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/track/7mCr6Rn5jx04Fisvts97Z3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/album/1kwz2DPjIizXiCnWz6ru2s) | 4:16 | 2022-06-06 | 2023-02-24 |
 | [眼淚記得你 \- 電影《想見你》主題曲](https://open.spotify.com/track/0USeB0Tykai3QZj5YAUclG) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [眼淚記得你](https://open.spotify.com/album/34b13gZHKmAMzg1uqviOxg) | 4:04 | 2022-12-27 |  |
@@ -222,7 +223,7 @@
 | [藍](https://open.spotify.com/track/1zFoPezkmIfR4TkKSNoxan) | [石白其](https://open.spotify.com/artist/4bRMSv20sBKRl1eikK5LWh) | [藍](https://open.spotify.com/album/0uxGHy0GFJxGbldtRc1cxO) | 4:31 | 2022-06-20 | 2022-07-09 |
 | [藍眼睛\(魚版\)](https://open.spotify.com/track/250KNabCJYzCWMMQ9RfukP) | [魚丁糸](https://open.spotify.com/artist/4TGQEYGf6Pu4tpMNGQ4tOR) | [陪我歌唱\(魚版\)](https://open.spotify.com/album/6SjHa52w5vzfMS9Zg3TMO9) | 3:49 | 2023-02-21 |  |
 | [藍色天空](https://open.spotify.com/track/2bY4nahVZwOulPuVf2pn2a) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [藍色天空](https://open.spotify.com/album/0gHfuFj9p6E7xogNy98T23) | 4:03 | 2022-06-06 | 2022-07-28 |
-| [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 | 2022-06-06 |  |
+| [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 | 2022-06-06 | 2023-03-06 |
 | [蜂鳥 \(電視劇《我在北京等你》片頭曲\)](https://open.spotify.com/track/6KjSRihg1U0Fn4kzrEuZb4) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [蜂鳥 \(電視劇《我在北京等你》片頭曲\)](https://open.spotify.com/album/5Mwt6x1fIXxndSnsoEIyH1) | 3:45 | 2022-06-13 | 2022-06-23 |
 | [行走的魚](https://open.spotify.com/track/1hM4pPeGTcH3yJImQPFrXt) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [行走的魚](https://open.spotify.com/album/5jdjB6M5n2JbbjUPYCEtlD) | 4:05 | 2022-09-19 |  |
 | [裹著心的光](https://open.spotify.com/track/4qasQt2JsuBK8ZwERwuAZO) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [裹著心的光](https://open.spotify.com/album/5Ahq8CVYewyMVVjIcHgqUO) | 4:33 | 2022-06-06 | 2023-01-02 |

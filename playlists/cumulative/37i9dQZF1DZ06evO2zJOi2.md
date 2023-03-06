@@ -4,7 +4,7 @@
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 38 min
+48 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Ain’t That Some](https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:38 | 2023-03-04 |  |
 | [American Nights](https://open.spotify.com/track/6B4LAyly39cv8Cat9nHObl) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [American Nights](https://open.spotify.com/album/2KymbriwFACll2ruFpeTqr) | 3:22 | 2022-09-08 | 2023-03-05 |
 | [Bandaid On A Bullet Hole](https://open.spotify.com/track/1RvoRAL612adAVrPUoAMHR) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album \(Bonus\)](https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX) | 3:54 | 2022-09-08 |  |
-| [Born With A Beer In My Hand](https://open.spotify.com/track/1BAU6v0fuAV914qMUEESR1) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:08 | 2023-03-04 |  |
+| [Born With A Beer In My Hand](https://open.spotify.com/track/1BAU6v0fuAV914qMUEESR1) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:08 | 2023-03-04 | 2023-03-06 |
 | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG) | 3:05 | 2022-09-08 |  |
 | [Chain Smokin'](https://open.spotify.com/track/1PTQ22h4JKA2u6BTbuZ5Oc) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Chain Smokin'](https://open.spotify.com/album/1Ci07wKuqbEHE1j6Ff5jVX) | 3:42 | 2022-09-08 |  |
 | [Chasin' You](https://open.spotify.com/track/5MwynWK9s4hlyKHqhkNn4A) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:25 | 2022-09-08 |  |
@@ -39,8 +39,9 @@
 | [Sleep When We're Dead](https://open.spotify.com/track/77Q8V48a8jGsghvaVNWMaP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 4:21 | 2022-09-08 | 2023-02-16 |
 | [Spin You Around](https://open.spotify.com/track/1yj1ZztSGITJ5Nf4mfH92c) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 3:32 | 2022-09-08 |  |
 | [Stand Alone](https://open.spotify.com/track/5Gy4y79aKl44KZ2BpmgY7P) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 4:09 | 2022-09-08 | 2023-02-01 |
-| [Stand Out](https://open.spotify.com/track/1obSAv22xGzYYrPWRcC4PD) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Out](https://open.spotify.com/album/1Kj2VOGUUTdOoZRplfR2rL) | 3:14 | 2022-09-08 |  |
+| [Stand Out](https://open.spotify.com/track/1obSAv22xGzYYrPWRcC4PD) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Out](https://open.spotify.com/album/1Kj2VOGUUTdOoZRplfR2rL) | 3:14 | 2022-09-08 | 2023-03-06 |
 | [Still Goin Down](https://open.spotify.com/track/096YtKWNRXdmYKFLelSBto) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Still Goin Down](https://open.spotify.com/album/1pizuXyasoOyxRbQFfmQqa) | 3:06 | 2022-09-08 | 2022-11-21 |
+| [Sunrise](https://open.spotify.com/track/0JtgoDDf0ggWaoXCGhcOoT) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:02 | 2023-03-05 |  |
 | [Talkin' Tennessee](https://open.spotify.com/track/7szRiHu6r91o2Po9GTPN4c) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:41 | 2022-09-08 |  |
 | [Tennessee Fan](https://open.spotify.com/track/3Ga7Uele3zN57vQ4F0HPTW) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:18 | 2022-12-03 |  |
 | [The Way I Talk](https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:28 | 2022-09-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 141303,
+  "num_followers": 141642,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMxNjAwNiwwMDAwMDAwMGFhOTY3ZjY5ZjBhZjljZmI3ZDc5ZTdjMjgxODg0NGQ1",
+  "snapshot_id": "MTY3NjMxNjAwNiwwMDAwMDAwMGNkOGQ3NGQ0MTg2M2Y1MWUyODEyZDliYzdiMWVjZTYy",
   "tracks": [
     {
       "added_at": "2023-01-20 04:21:17",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/0ikLV7zMypPFyLH57cKpRO"
     },
     {
-      "added_at": "2022-10-05 14:12:30",
-      "album": {
-        "name": "All Through The Day",
-        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
-      },
-      "artists": [
-        {
-          "name": "Las Los",
-          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "All Through The Day",
-      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
-    },
-    {
       "added_at": "2022-01-14 00:51:04",
       "album": {
         "name": "Warm Chris",
@@ -489,20 +473,20 @@
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
+      "added_at": "2022-10-05 14:12:30",
       "album": {
-        "name": "M3LL155X",
-        "url": "https://open.spotify.com/album/2RUX2ps4xMNTyI2iAwVyf3"
+        "name": "All Through The Day",
+        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "Las Los",
+          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
         }
       ],
-      "duration_ms": 258920,
-      "name": "Glass & Patron",
-      "url": "https://open.spotify.com/track/3U6CPINSKmZJ09FtO9PgUa"
+      "duration_ms": 182926,
+      "name": "All Through The Day",
+      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
       "added_at": "2022-01-20 01:49:28",
@@ -519,6 +503,22 @@
       "duration_ms": 316769,
       "name": "Shadow in the Frame",
       "url": "https://open.spotify.com/track/1AB51lhrNtecjP7qrfQ4fI"
+    },
+    {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "M3LL155X",
+        "url": "https://open.spotify.com/album/2RUX2ps4xMNTyI2iAwVyf3"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 258920,
+      "name": "Glass & Patron",
+      "url": "https://open.spotify.com/track/3U6CPINSKmZJ09FtO9PgUa"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO"
     },
     {
-      "added_at": "2021-10-15 03:46:13",
-      "album": {
-        "name": "Mouth Full of Glass",
-        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
-      },
-      "artists": [
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Garter Snake",
-      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
-    },
-    {
       "added_at": "2022-09-29 00:42:15",
       "album": {
         "name": "Blood Be Fluid",
@@ -605,20 +589,20 @@
       "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2021-10-15 03:46:13",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+        "name": "Mouth Full of Glass",
+        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
         }
       ],
-      "duration_ms": 317453,
-      "name": "Zoo Eyes",
-      "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
+      "duration_ms": 215583,
+      "name": "Garter Snake",
+      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2022-08-31 04:34:22",
@@ -635,6 +619,22 @@
       "duration_ms": 311948,
       "name": "If I Were A Butterfly - Single Version",
       "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 317453,
+      "name": "Zoo Eyes",
+      "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -745,26 +745,6 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
-      "added_at": "2022-02-04 15:20:01",
-      "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 171342,
-      "name": "Log In Your Fire",
-      "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
-    },
-    {
       "added_at": "2022-11-03 18:38:26",
       "album": {
         "name": "Loba",
@@ -789,40 +769,24 @@
       "url": "https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B"
     },
     {
-      "added_at": "2023-01-07 04:00:59",
+      "added_at": "2022-02-04 15:20:01",
       "album": {
-        "name": "Death in a Constellation",
-        "url": "https://open.spotify.com/album/4noSmDY9LL8oRSCXaHti9A"
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
       "artists": [
         {
-          "name": "R. Missing",
-          "url": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
         },
         {
-          "name": "Levingtquatre",
-          "url": "https://open.spotify.com/artist/1mksa9q8wjMTdaOzxtoOlA"
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
         }
       ],
-      "duration_ms": 269013,
-      "name": "Death in a Constellation",
-      "url": "https://open.spotify.com/track/72x6VhwpNjHOvo5OM4iKbe"
-    },
-    {
-      "added_at": "2022-09-12 20:09:14",
-      "album": {
-        "name": "When the Lights Go",
-        "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 266962,
-      "name": "Crosswalk",
-      "url": "https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs"
+      "duration_ms": 171342,
+      "name": "Log In Your Fire",
+      "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
     },
     {
       "added_at": "2022-09-06 17:57:02",
@@ -845,6 +809,22 @@
       "url": "https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7"
     },
     {
+      "added_at": "2022-09-12 20:09:14",
+      "album": {
+        "name": "When the Lights Go",
+        "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 266962,
+      "name": "Crosswalk",
+      "url": "https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs"
+    },
+    {
       "added_at": "2022-02-25 03:06:43",
       "album": {
         "name": "You Belong There",
@@ -859,6 +839,26 @@
       "duration_ms": 369231,
       "name": "Unpeopled Space",
       "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
+    },
+    {
+      "added_at": "2023-01-07 04:00:59",
+      "album": {
+        "name": "Death in a Constellation",
+        "url": "https://open.spotify.com/album/4noSmDY9LL8oRSCXaHti9A"
+      },
+      "artists": [
+        {
+          "name": "R. Missing",
+          "url": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+        },
+        {
+          "name": "Levingtquatre",
+          "url": "https://open.spotify.com/artist/1mksa9q8wjMTdaOzxtoOlA"
+        }
+      ],
+      "duration_ms": 269013,
+      "name": "Death in a Constellation",
+      "url": "https://open.spotify.com/track/72x6VhwpNjHOvo5OM4iKbe"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
-      "added_at": "2022-07-15 05:42:57",
-      "album": {
-        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
-        "url": "https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 176952,
-      "name": "Robot Riot",
-      "url": "https://open.spotify.com/track/0dG7GoHWWqJQc9wiYuPt2A"
-    },
-    {
       "added_at": "2022-08-31 04:38:50",
       "album": {
         "name": "Unfold",
@@ -971,6 +955,22 @@
       "duration_ms": 90127,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX"
+    },
+    {
+      "added_at": "2022-07-15 05:42:57",
+      "album": {
+        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
+        "url": "https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 176952,
+      "name": "Robot Riot",
+      "url": "https://open.spotify.com/track/0dG7GoHWWqJQc9wiYuPt2A"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -989,7 +989,27 @@
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
-      "added_at": "2023-03-05 01:14:24",
+      "added_at": "2022-09-22 17:52:51",
+      "album": {
+        "name": "The Order of the Rain",
+        "url": "https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "The Order of the Rain",
+      "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
+    },
+    {
+      "added_at": "2023-03-06 00:30:18",
       "album": {
         "name": "Invierno (Remix)",
         "url": "https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj"
@@ -1013,24 +1033,20 @@
       "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
     },
     {
-      "added_at": "2022-09-22 17:52:51",
+      "added_at": "2022-03-16 16:59:09",
       "album": {
-        "name": "The Order of the Rain",
-        "url": "https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK"
+        "name": "Petunia",
+        "url": "https://open.spotify.com/album/1Q7Vtfnna0m7ZCwf9nwEWj"
       },
       "artists": [
         {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
-        },
-        {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+          "name": "Tonstartssbandht",
+          "url": "https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW"
         }
       ],
-      "duration_ms": 300000,
-      "name": "The Order of the Rain",
-      "url": "https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm"
+      "duration_ms": 422240,
+      "name": "What Has Happened",
+      "url": "https://open.spotify.com/track/5JkXLujwK0t6zq2qwo5bon"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1051,22 +1067,6 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
-      "added_at": "2022-03-16 16:59:09",
-      "album": {
-        "name": "Petunia",
-        "url": "https://open.spotify.com/album/1Q7Vtfnna0m7ZCwf9nwEWj"
-      },
-      "artists": [
-        {
-          "name": "Tonstartssbandht",
-          "url": "https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW"
-        }
-      ],
-      "duration_ms": 422240,
-      "name": "What Has Happened",
-      "url": "https://open.spotify.com/track/5JkXLujwK0t6zq2qwo5bon"
     },
     {
       "added_at": "2022-09-11 03:49:06",
@@ -1169,6 +1169,22 @@
       "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Flock",
+        "url": "https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 301153,
+      "name": "The Revolution of Super Visions",
+      "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
+    },
+    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -1193,38 +1209,6 @@
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Flock",
-        "url": "https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 301153,
-      "name": "The Revolution of Super Visions",
-      "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
-    },
-    {
-      "added_at": "2023-01-07 04:00:59",
-      "album": {
-        "name": "Painted The Room",
-        "url": "https://open.spotify.com/album/3c6Pgmn56EIAVFH3PtXyUL"
-      },
-      "artists": [
-        {
-          "name": "Rozi Plain",
-          "url": "https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Painted the Room",
-      "url": "https://open.spotify.com/track/3iTYtpdS8JqWluLm92kuRH"
-    },
-    {
       "added_at": "2022-09-09 13:45:31",
       "album": {
         "name": "Jolene From Her Own Perspective",
@@ -1243,6 +1227,22 @@
       "duration_ms": 207253,
       "name": "Jolene From Her Own Perspective",
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
+    },
+    {
+      "added_at": "2023-01-07 04:00:59",
+      "album": {
+        "name": "Painted The Room",
+        "url": "https://open.spotify.com/album/3c6Pgmn56EIAVFH3PtXyUL"
+      },
+      "artists": [
+        {
+          "name": "Rozi Plain",
+          "url": "https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Painted the Room",
+      "url": "https://open.spotify.com/track/3iTYtpdS8JqWluLm92kuRH"
     },
     {
       "added_at": "2022-09-12 20:31:51",
@@ -1613,22 +1613,6 @@
       "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Sixty Years On - Album Edit",
-      "url": "https://open.spotify.com/track/1mrEMPv5beHI7BQQOd5F6n"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Ookii Gekkou",
@@ -1643,6 +1627,22 @@
       "duration_ms": 290373,
       "name": "Big Moonlight (Ookii Gekkou)",
       "url": "https://open.spotify.com/track/343FRF9gbsQRFesy9H2V5M"
+    },
+    {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 275373,
+      "name": "Sixty Years On - Album Edit",
+      "url": "https://open.spotify.com/track/1mrEMPv5beHI7BQQOd5F6n"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1697,20 +1697,20 @@
       "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2022-02-09 04:04:07",
       "album": {
-        "name": "Heartlow",
-        "url": "https://open.spotify.com/album/3uWfwfYAKxPBC0Ro4xof8i"
+        "name": "Tintagel",
+        "url": "https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs"
       },
       "artists": [
         {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
         }
       ],
-      "duration_ms": 218925,
-      "name": "Heartlow - Edit",
-      "url": "https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg"
+      "duration_ms": 228809,
+      "name": "Tintagel",
+      "url": "https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc"
     }
   ],
   "unique_name": "Oblique",

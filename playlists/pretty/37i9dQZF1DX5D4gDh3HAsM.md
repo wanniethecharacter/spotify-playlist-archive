@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,950 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,882 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 46 | [White Christmas](https://open.spotify.com/track/1Als47O3HnJ8NGg5je6s4A) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 4:57 |
 | 47 | [Little Jack Frost Get Lost](https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:34 |
 | 48 | [Winter Wonderland](https://open.spotify.com/track/1hEsEGLZZX4nfwtXmyerbb) | [Chet Baker Quartet](https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Pretty/Groovy \(Expanded Edition\)](https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ) | 2:28 |
-| 49 | [Have a Holly Jolly Christmas](https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:03 |
-| 50 | [A Child Is Born \- Remastered 2003](https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Together Again \(Remastered 2003\)](https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6) | 3:14 |
+| 49 | [A Child Is Born \- Remastered 2003](https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Together Again \(Remastered 2003\)](https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6) | 3:14 |
+| 50 | [Have a Holly Jolly Christmas](https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:03 |
 
-Snapshot ID: `MTY2OTk1NzI2MCwwMDAwMDAwMGQyZGY0NGEwNmMzNjhiMzZhY2RlMjA4OGZjNjYyOTIy`
+Snapshot ID: `MTY2OTk1NzI2MCwwMDAwMDAwMGE4ZWVjMWVhNDY3MDNhODZjMzdlNTJmYmUzZGEwYWEz`

@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150824,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
+    },
+    {
+      "album": {
         "name": "One BeyonD",
         "url": "https://open.spotify.com/album/5TPLQgRQsuInJAMo9mHUH1"
       },
@@ -6588,7 +6606,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 417800,
       "name": "Teen Age Riot (Album Version)",
       "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"

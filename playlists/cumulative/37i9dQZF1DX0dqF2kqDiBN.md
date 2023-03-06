@@ -4,7 +4,7 @@
 
 > Blues with a lighter, up\-beat feel\. Cover: Taj Mahal & Keb' Mo'
 
-54 songs - 3 hr 26 min
+55 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Deeper](https://open.spotify.com/track/4i3RkBecFpzy80taLWI1VF) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Deeper](https://open.spotify.com/album/1wFn28AuqA8PnDzl2OXmzZ) | 3:59 | 2020-12-01 | 2022-11-13 |
 | [Doin' What You Were Doin'](https://open.spotify.com/track/1OBfDqOeDZoyz5aMsXpVXh) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [1 Hopeful Rd.](https://open.spotify.com/album/7hEZhkFjaW8bH1cI1D6Dsd) | 4:02 | 2020-12-01 |  |
 | [Drinkin' Wine](https://open.spotify.com/track/0aTYDSglGbfhv1Zoj9PAR6) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 4:13 | 2020-12-01 |  |
-| [Easy Street](https://open.spotify.com/track/1JbHMSiZowEjVrRhXh3XjZ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:17 | 2020-12-01 |  |
+| [Easy Street](https://open.spotify.com/track/1JbHMSiZowEjVrRhXh3XjZ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:17 | 2020-12-01 | 2023-03-06 |
+| [Easy Street](https://open.spotify.com/track/6Xrax57hlpq52OARjKFXFo) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 2:17 | 2020-12-01 |  |
 | [Found The One](https://open.spotify.com/track/3djkFjq8d6o286nrxoNrZW) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 2:47 | 2020-12-01 |  |
 | [Found The One](https://open.spotify.com/track/5wPIxKk2MmWvgYXmGlIqrB) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Found The One](https://open.spotify.com/album/0Kjaf7RZmaxDXIxPbEu43N) | 2:47 | 2020-12-01 | 2022-07-29 |
 | [Get Yourself Some](https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Say the Word](https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb) | 3:00 | 2020-12-01 |  |

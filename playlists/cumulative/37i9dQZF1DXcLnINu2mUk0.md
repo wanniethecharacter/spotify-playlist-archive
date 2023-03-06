@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-236 songs - 12 hr 56 min
+238 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 | 2022-07-07 |  |
 | [Assim](https://open.spotify.com/track/5gjGfw1eaoMOW9Rq97j1Rp) | [Choro](https://open.spotify.com/artist/7jmNHJxPdNzErKwdI9Ts5D), [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b), [Matheus Paraizo](https://open.spotify.com/artist/10BT29sUZJ4ZIKOwIfONA4), [Inês Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn), [AVALANCHE](https://open.spotify.com/artist/1BRFw2SgH5VM5P0FLmFp3z) | [Assim](https://open.spotify.com/album/3eQ6r9soA8z9PluYL8U2vk) | 2:43 | 2022-07-07 | 2022-08-05 |
 | [Até que vc volte](https://open.spotify.com/track/3WYMFOTpwNfbuT8vS67V3D) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Até que vc volte](https://open.spotify.com/album/7kRzljKDGhYWAe6Z6kRMVr) | 2:01 | 2023-03-03 |  |
-| [Baby](https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3) | [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8) | [Baby](https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC) | 3:41 | 2023-03-03 |  |
+| [Baby](https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3) | [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8) | [Baby](https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC) | 3:41 | 2023-03-03 | 2023-03-06 |
 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 | 2022-07-07 |  |
 | [Bad Like You](https://open.spotify.com/track/2Gle4hosXEnrkdTu2YMwsH) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Come quarantine w me](https://open.spotify.com/album/4w38KrD6iNjnzUUEj8hfsi) | 4:27 | 2022-07-07 |  |
 | [BAE](https://open.spotify.com/track/7whAOEEZlRwbp0cLlCyICd) | [Luis Marvão](https://open.spotify.com/artist/0qKkgDdvYql0lH5OfWdPHS) | [BAE](https://open.spotify.com/album/3vdrJJMUftuYgEnOB4seca) | 3:20 | 2022-12-02 | 2023-01-21 |
@@ -90,7 +90,7 @@
 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 | 2022-07-07 |  |
 | [Fe.](https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:34 | 2022-11-25 |  |
 | [Feeling](https://open.spotify.com/track/7mOrrV6qtWJsIccPN8uVVM) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Feeling](https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm) | 3:45 | 2022-07-07 | 2022-09-30 |
-| [Feisty](https://open.spotify.com/track/1DQ9LTL8hdFkaErvlbCS10) | [Nova Wave](https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv) | [Feisty](https://open.spotify.com/album/0A6tqNmExdFyRCPJZ5uM39) | 2:41 | 2023-03-03 |  |
+| [Feisty](https://open.spotify.com/track/1DQ9LTL8hdFkaErvlbCS10) | [Nova Wave](https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv) | [Feisty](https://open.spotify.com/album/0A6tqNmExdFyRCPJZ5uM39) | 2:41 | 2023-03-03 | 2023-03-06 |
 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 | 2022-07-07 |  |
 | [Foste um Vício](https://open.spotify.com/track/205EI5BcZGUAmr2CDLT8Au) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Foste um Vício](https://open.spotify.com/album/0YRohggaep7lzKfXr1xfxs) | 3:21 | 2022-09-22 | 2022-10-14 |
 | [Friend Zone](https://open.spotify.com/track/4miuy3pvA6hu4P064319An) | [AYCIRE](https://open.spotify.com/artist/0TaEbExGFUq0KXTfQyaiDJ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Friend Zone](https://open.spotify.com/album/4nyYQUcbQiFIoeWKx6ra23) | 2:59 | 2023-03-01 |  |
@@ -152,6 +152,7 @@
 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 | 2022-07-07 |  |
 | [Naufrágio](https://open.spotify.com/track/3B1Dx1Aw35feOLmZXuGf7t) | [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a) | [Naufrágio](https://open.spotify.com/album/02LpaXLNwr4dcPDYMXl131) | 2:14 | 2022-10-27 | 2022-11-18 |
 | [NIKES](https://open.spotify.com/track/6X8jYXB1nCKWdwKqdzkT4D) | [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF), [Dysae](https://open.spotify.com/artist/4tBin3wXRG4NDEbiHVpOLR) | [NIKES](https://open.spotify.com/album/2eoUv4LT4XjeD7a6voLFZ5) | 3:30 | 2023-02-17 |  |
+| [NO MO Parties](https://open.spotify.com/track/0NDkqCKa5lLfz0yUfH4vCZ) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [NO MO Parties](https://open.spotify.com/album/10ZSwv9JsEhXYfWsniwvEh) | 3:47 | 2023-03-03 |  |
 | [No Stress No Money](https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [No Stress No Money](https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l) | 2:57 | 2022-08-04 | 2022-09-02 |
 | [Nossa História](https://open.spotify.com/track/0FMhIO3swGDiXrxEwX7JFh) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Nossa História](https://open.spotify.com/album/6C9301eC7ZSUcIGJMUyOfu) | 3:33 | 2022-09-16 | 2022-10-07 |
 | [Notas de 100](https://open.spotify.com/track/0HCEeojvXwak86NZRWX6S6) | [SilverMic](https://open.spotify.com/artist/4N3GOpYONtbrmzOV3ZXbH8) | [Tumtum](https://open.spotify.com/album/2Lkicqej5xP9GyWlI89h93) | 1:45 | 2022-09-16 | 2022-09-30 |
@@ -175,6 +176,7 @@
 | [Pode Deixar](https://open.spotify.com/track/5TlW9CmJgxWTmhUTwgwuVZ) | [Frankie "Tha Boy"](https://open.spotify.com/artist/6ZVCo8rzkhIAhFYukyvQJ1), [Vitinho Ferrari](https://open.spotify.com/artist/62Hped8KMeSwPABlhpcqst) | [Pode Deixar](https://open.spotify.com/album/47lfTSKfrswDdNhFYby5nx) | 2:46 | 2023-02-17 |  |
 | [Ponto Fraco](https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx) | [Veré](https://open.spotify.com/artist/22ETMn3YclHsYBIh4iKuQp) | [Ponto Fraco](https://open.spotify.com/album/4BLNPhgHzxIWpbKNlJn68y) | 3:04 | 2023-01-06 | 2023-03-02 |
 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 | 2022-07-07 |  |
+| [Por Ti](https://open.spotify.com/track/6GDXVeWVlHdNVrvzuzrzgU) | [Máry M](https://open.spotify.com/artist/6myextZ5obd54txCqZp7Ns) | [Por Ti](https://open.spotify.com/album/2q4FRXjv5jOWU8Az2n0Lfi) | 2:41 | 2023-03-03 |  |
 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 | 2023-01-27 |  |
 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-07-07 |  |
 | [Pretty](https://open.spotify.com/track/1TsJalUMdjzsuWK844ycbd) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [Pretty](https://open.spotify.com/album/2ouErWVGuO47sxiOTbGl6p) | 2:40 | 2023-01-06 | 2023-01-21 |

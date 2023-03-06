@@ -4,7 +4,7 @@
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 12 min
+88 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [No Le Hace Que Le Aunque](https://open.spotify.com/track/0ve58bCVhU6a1BDwsJOEvg) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Las Más Pedidas, Vol\. 1](https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK) | 2:41 | 2022-06-01 | 2022-08-07 |
 | [No Sabes Amar](https://open.spotify.com/track/6kxAZkr8hABBkG7dGWkkOX) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Íconos 25 Éxitos](https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP) | 2:43 | 2022-06-01 |  |
 | [No Te Paniquees](https://open.spotify.com/track/43fnr1Cv19VCF8YKrU6Wsv) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor Brutal](https://open.spotify.com/album/6SLPmv0FnxBJppKBWHbLI4) | 3:08 | 2022-06-01 |  |
+| [Noble Engaño](https://open.spotify.com/track/0DrotAHjAF5wkVRLrLLiGK) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:42 | 2023-03-05 |  |
 | [Palabras Tristes](https://open.spotify.com/track/0mrX7N28wFzFpkkeCGLCix) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:49 | 2022-06-01 |  |
 | [Paloma Negra](https://open.spotify.com/track/6xg5luJD50QQdwNZunIlCa) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Mas Mexicanos Que Nunca](https://open.spotify.com/album/0WmU0vKZo2Cj84Ri0J7L0M) | 3:34 | 2022-06-01 | 2022-10-13 |
 | [Por Motivos de Salud](https://open.spotify.com/track/21fwsNalbCexxQKxgTY4eR) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [El Adiós](https://open.spotify.com/album/4zzIZntIdoZ0bKy4GOqmjQ) | 3:30 | 2022-06-02 | 2022-10-05 |
@@ -82,7 +83,7 @@
 | [Soy Yo](https://open.spotify.com/track/3oPJCw88AtWLFRtFoEsoza) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:29 | 2022-10-07 |  |
 | [Toco Madera](https://open.spotify.com/track/2qyQTvoprTG6xk05FCtRt7) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 3:06 | 2022-06-01 |  |
 | [Tres Por Una](https://open.spotify.com/track/7961JijxsrpZXUzWkquseT) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Cesáreo Sánchez](https://open.spotify.com/artist/6swcGvbGZVTU3bXVWlOGif), [Salomon Robles](https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu) | [Ni Amores Ni Deudas](https://open.spotify.com/album/5fS4LxjG24Bqes41kyq7XY) | 3:04 | 2022-08-10 |  |
-| [Tres Veces Te Engañé](https://open.spotify.com/track/4FmlFs00vJVtRSNQddCQyJ) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Íconos 25 Éxitos](https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP) | 3:14 | 2022-06-01 |  |
+| [Tres Veces Te Engañé](https://open.spotify.com/track/4FmlFs00vJVtRSNQddCQyJ) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Íconos 25 Éxitos](https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP) | 3:14 | 2022-06-01 | 2023-03-06 |
 | [Trigueñita De Ojos Negros](https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8) | 2:38 | 2023-01-01 |  |
 | [Tus Labios Y Mi Copa](https://open.spotify.com/track/4uClaTjzYCrVHKSY1Y34Um) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Íconos 25 Éxitos](https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP) | 2:44 | 2022-07-29 | 2022-08-13 |
 | [Tus Ojos](https://open.spotify.com/track/6lmjd76MajyeChAApIDZJv) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:55 | 2022-09-24 | 2022-09-26 |

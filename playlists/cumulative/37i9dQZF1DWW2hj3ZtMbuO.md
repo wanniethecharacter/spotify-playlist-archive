@@ -4,7 +4,7 @@
 
 > Sapphic songs that defined your music taste as "yearning."
 
-325 songs - 19 hr 23 min
+326 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [I Love You So](https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Songs for Dads](https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5) | 2:40 | 2021-12-15 | 2022-07-29 |
 | [I Remember](https://open.spotify.com/track/6oIF4CygktMOqRkrwmGFa4) | [Molly Drake](https://open.spotify.com/artist/1789Un2gEvELbBTnHoS9Rl) | [The Tide's Magnificence: Songs and Poems of Molly Drake](https://open.spotify.com/album/2foAaJeadpPstoqTuDss5Y) | 3:04 | 2022-02-11 | 2022-02-25 |
 | [i saw you in a dream](https://open.spotify.com/track/0ltmioOsLQsL0OFgcPbdVi) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:20 | 2021-12-15 | 2023-01-07 |
+| [I Think I Like When It Rains](https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2) | 4:38 | 2023-02-09 |  |
 | [I Think I Like When It Rains](https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3) | 4:38 | 2022-06-01 | 2023-03-02 |
 | [i wanna be your girlfriend](https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr) | 3:24 | 2022-02-24 | 2022-06-11 |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2021-12-15 | 2022-02-05 |
@@ -171,7 +172,7 @@
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2023-02-09 |  |
 | [Little Queenie](https://open.spotify.com/track/2d9Xw1OiRL8ca2K4A03aD3) | [SadGirl](https://open.spotify.com/artist/39iRwJEhPG25CU7LYdNkQ2) | [Vol\. Three: The Hand That Did the Deed](https://open.spotify.com/album/76RlOpOj4GHhvJ9EY7NFSA) | 2:50 | 2022-01-08 | 2022-04-21 |
 | [Lonely](https://open.spotify.com/track/2LY95oBAiaHzWkqKjEwvOT) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [19](https://open.spotify.com/album/6lyg2ctb3LZBqmCY0I93ru) | 3:14 | 2021-12-15 | 2022-04-20 |
-| [Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 4:47 | 2022-04-14 |  |
+| [Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 4:47 | 2022-04-14 | 2023-03-06 |
 | [Look Who’s Inside Again](https://open.spotify.com/track/0lZZ8pibk6Zu3M9hTthk1a) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 1:23 | 2022-06-10 |  |
 | [Look Who’s Inside Again](https://open.spotify.com/track/7d8dqy6GbiUqotcTSs0jXg) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 1:23 | 2022-02-04 | 2022-07-29 |
 | [Loose Garment](https://open.spotify.com/track/1CE5yIkftpwJ3dhtfc3ndl) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:10 | 2022-07-14 | 2022-10-07 |

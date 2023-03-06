@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 
 > In Da Club and more classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,633 likes - 90 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,845 likes - 90 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 61 | [California Love \- Original Version](https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:44 |
 | 62 | [X](https://open.spotify.com/track/5stZnlPMYz3Ba8Hbo3ajlP) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [Restless](https://open.spotify.com/album/6FbOJTOKgRkWSh8kcV9NG3) | 4:15 |
 | 63 | [Ante Up \(feat\. Busta Rhymes, Teflon & Remi Martin\) \- Remix](https://open.spotify.com/track/5osSw3tL07Tuid7AWsvYcc) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Teflon](https://open.spotify.com/artist/7362Tj1IkoHp7oWveGTf51), [Remi Martin](https://open.spotify.com/artist/7MseR8aIHbFMXzMAkRPCZy) | [Warriorz](https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j) | 4:07 |
-| 64 | [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 |
-| 65 | [I Like That](https://open.spotify.com/track/4MMqj7HaLL8BphbBZnlsdq) | [Houston](https://open.spotify.com/artist/5yCd7bxcAc3MdQ1h54ESsD), [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [It's Already Written](https://open.spotify.com/album/5cCSKl7fCsFuNoTszec4MP) | 3:56 |
+| 64 | [I Like That](https://open.spotify.com/track/4MMqj7HaLL8BphbBZnlsdq) | [Houston](https://open.spotify.com/artist/5yCd7bxcAc3MdQ1h54ESsD), [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [It's Already Written](https://open.spotify.com/album/5cCSKl7fCsFuNoTszec4MP) | 3:56 |
+| 65 | [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 |
 | 66 | [Area Codes](https://open.spotify.com/track/3lcC9CnN7Rpo1ugATzmYjY) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 5:03 |
 | 67 | [Get Low](https://open.spotify.com/track/0jrz4ZQKCsC6h2vzqgHiEp) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Crunkest Hits](https://open.spotify.com/album/05jX3Kda6BmEpACV7unScz) | 5:34 |
 | 68 | [Clap Back](https://open.spotify.com/track/1FK0sZfZzCAIDUn7htCemp) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Blood In My Eye](https://open.spotify.com/album/0O11EhdLUWCOErqA4Xm3b6) | 4:56 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 89 | [Ante Up \(Robbin Hoodz Theory\)](https://open.spotify.com/track/55MzgLFlIz9I5s5CwAWXeE) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [B2K Presents "You Got Served" Soundtrack](https://open.spotify.com/album/56m66MCo7QzlpVr2EwGuHT) | 3:52 |
 | 90 | [X Gon' Give It to Ya \- Re\-Recorded](https://open.spotify.com/track/4L9bnjCjlBgRbwXcbRYBD7) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Greatest Hits with a Twist \- Deluxe Edition](https://open.spotify.com/album/0K2A6RaCTpcNKTZwvLMeqY) | 3:52 |
 
-Snapshot ID: `MTY3NzkxOTQ5MywwMDAwMDAwMDhhNzAyNTc0NzdjNTA4ZWNiNzcyYTBhZDUxZTY0NWZk`
+Snapshot ID: `MTY3NzkxOTQ5MywwMDAwMDAwMDc0ZmI4NmY4N2Y3NWE4Y2M2OTA0ZWJlOTkxNzcwOTdl`

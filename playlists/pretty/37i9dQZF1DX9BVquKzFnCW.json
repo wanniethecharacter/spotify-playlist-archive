@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
-  "num_followers": 14100,
+  "num_followers": 14191,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc0OTgyMCwwMDAwMDAwMGNhOWFhY2FlZmRmMGZkYjc3YTgzMzdjNjM3OWRjMWIy",
+  "snapshot_id": "MTY3Nzc0OTgyMCwwMDAwMDAwMDg5OTFkZGU4MmI1OGY2YTQ2ZjQzMzUyMThkODYxYmFm",
   "tracks": [
     {
       "added_at": "2023-02-23 10:33:01",
@@ -127,6 +127,34 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        },
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        },
+        {
+          "name": "Reginald Workman",
+          "url": "https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ"
+        },
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "duration_ms": 435440,
+      "name": "Night Dreamer - Remastered 2004",
+      "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -167,22 +195,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Oscar Peterson Plays The Cole Porter Songbook",
-        "url": "https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/6fqHlcomOg6NBwa25EK58m"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Kelly Blue (Keepnews Collection)",
         "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
@@ -199,30 +211,18 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+        "name": "Oscar Peterson Plays The Cole Porter Songbook",
+        "url": "https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7"
       },
       "artists": [
         {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        },
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        },
-        {
-          "name": "Reginald Workman",
-          "url": "https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ"
-        },
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 435440,
-      "name": "Night Dreamer - Remastered 2004",
-      "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
+      "duration_ms": 206933,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/6fqHlcomOg6NBwa25EK58m"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Quiet Kenny",
-        "url": "https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 524346,
-      "name": "Blue Friday - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/21YdGlpbMRU6k13KKU2A2z"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Heartsongs",
         "url": "https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 514897,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Quiet Kenny",
+        "url": "https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 524346,
+      "name": "Blue Friday - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/21YdGlpbMRU6k13KKU2A2z"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Nights Of Ballads & Blues",
-        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 304333,
-      "name": "Star Eyes",
-      "url": "https://open.spotify.com/track/4KNkkhjjYXyJMzq5fRi1gm"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
         "name": "Like Someone In Love",
         "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 484333,
       "name": "Like Someone In Love - Rudy Van Gelder Edition, 2004 Remaster",
       "url": "https://open.spotify.com/track/5oEUptjKIrQ4eVMdwTiYcM"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Nights Of Ballads & Blues",
+        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 304333,
+      "name": "Star Eyes",
+      "url": "https://open.spotify.com/track/4KNkkhjjYXyJMzq5fRi1gm"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1071,6 +1071,50 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
+        "name": "On a Slow Boat to China",
+        "url": "https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "On a Slow Boat to China",
+      "url": "https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        },
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        },
+        {
+          "name": "Reginald Workman",
+          "url": "https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ"
+        },
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "duration_ms": 414466,
+      "name": "Charcoal Blues - Remastered 2004",
+      "url": "https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
         "name": "Rollins Plays For Bird",
         "url": "https://open.spotify.com/album/7xdC42wA0bImc44aPgC6GW"
       },
@@ -1091,22 +1135,6 @@
       "duration_ms": 292426,
       "name": "I've Grown Accustomed To Your Face",
       "url": "https://open.spotify.com/track/48VD2hFqAloMuDn9fLRp43"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "On a Slow Boat to China",
-        "url": "https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "On a Slow Boat to China",
-      "url": "https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1147,30 +1175,18 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+        "name": "Gettin' Around",
+        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
       },
       "artists": [
         {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        },
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        },
-        {
-          "name": "Reginald Workman",
-          "url": "https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ"
-        },
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 414466,
-      "name": "Charcoal Blues - Remastered 2004",
-      "url": "https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ"
+      "duration_ms": 467626,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/6JtGvHxC6mW8aVy6ZEnWIA"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "Gettin' Around",
-        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
         }
       ],
-      "duration_ms": 467626,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/6JtGvHxC6mW8aVy6ZEnWIA"
+      "duration_ms": 331306,
+      "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1235,22 +1251,6 @@
       "duration_ms": 404826,
       "name": "Dear Old Stockholm - Rudy Van Gelder Edition; 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/4C64gYHQq6JKrKmw70QkLq"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "The Finest",
-        "url": "https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 561400,
-      "name": "Silver's Serenade - 20-Bit Remastering/1997",
-      "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1283,6 +1283,22 @@
       "duration_ms": 457186,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
+        "name": "The Finest",
+        "url": "https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 561400,
+      "name": "Silver's Serenade - 20-Bit Remastering/1997",
+      "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1323,22 +1339,6 @@
       "duration_ms": 402573,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/2XuM2irHH6kaHk4np8VIHL"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "4 to Go!",
-        "url": "https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ"
+        "name": "The Jazz Giants '56",
+        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
         }
       ],
-      "duration_ms": 331266,
-      "name": "Life Is a Ball",
-      "url": "https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg"
+      "duration_ms": 569880,
+      "name": "I Guess I'll Have To Change My Plan",
+      "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
+        "name": "4 to Go!",
+        "url": "https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 331266,
+      "name": "Life Is a Ball",
+      "url": "https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
         "name": "The Return Of Art Pepper",
         "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 344373,
       "name": "Yardbird Suite",
       "url": "https://open.spotify.com/track/4Fzc7Z3S4PRU85oWKnhIM1"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "The Jazz Giants '56",
-        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 569880,
-      "name": "I Guess I'll Have To Change My Plan",
-      "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
-        "name": "First Place Again",
-        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
+        "name": "Just You, Just Me",
+        "url": "https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
         }
       ],
-      "duration_ms": 518733,
-      "name": "I Get a Kick out of You",
-      "url": "https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV"
+      "duration_ms": 208400,
+      "name": "On the Sunny Side of the Street - 2003 Remastered Version",
+      "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
+        "name": "First Place Again",
+        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 518733,
+      "name": "I Get a Kick out of You",
+      "url": "https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
         "name": "The Procrastinator",
         "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 361973,
       "name": "Party Time",
       "url": "https://open.spotify.com/track/0uNoGfQIO8Jtx5vVhlhHg9"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "Just You, Just Me",
-        "url": "https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "On the Sunny Side of the Street - 2003 Remastered Version",
-      "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
     },
     {
       "added_at": "2023-02-23 10:33:01",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-02-23 10:33:01",
       "album": {
+        "name": "Laughin' to Keep From Cryin'",
+        "url": "https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 512266,
+      "name": "Salute To Benny",
+      "url": "https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu"
+    },
+    {
+      "added_at": "2023-02-23 10:33:01",
+      "album": {
         "name": "Bond: The Paris Sessions",
         "url": "https://open.spotify.com/album/7Gz8HtQfjCxFNNFD67MuI2"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 647946,
       "name": "Uh Huh - Remastered 2005",
       "url": "https://open.spotify.com/track/1ifrzoPqpThdTHnktdPTyu"
-    },
-    {
-      "added_at": "2023-02-23 10:33:01",
-      "album": {
-        "name": "Jump For Joy",
-        "url": "https://open.spotify.com/album/0A5J6BzWSkpp8l4ju04hCu"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Two Left Feet",
-      "url": "https://open.spotify.com/track/1USso5XOEXTvwWTwW5zS2V"
     }
   ],
   "unique_name": "Brunch Jazz",

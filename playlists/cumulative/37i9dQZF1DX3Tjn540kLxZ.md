@@ -4,10 +4,11 @@
 
 > all\-day bops you can always rely on ◡̈
 
-390 songs - 21 hr 54 min
+391 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [$20](https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:20 | 2023-01-18 |  |
 | [$20](https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:20 | 2023-01-18 | 2023-03-04 |
 | [10 Steps](https://open.spotify.com/track/4U2GQlVHIerwX78jHpkOYN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [10 Steps](https://open.spotify.com/album/2garISLyF8l9yII625vI6R) | 3:29 | 2021-12-22 | 2022-07-28 |
 | [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 | 2022-02-24 | 2022-06-20 |
@@ -87,7 +88,7 @@
 | [Depends On What I Know](https://open.spotify.com/track/3OwpLHUKP1y9PYIaSsxaew) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Depends On What I Know](https://open.spotify.com/album/2h8jILwZwRaN9hHzThEn4G) | 2:52 | 2022-02-04 | 2022-07-29 |
 | [Describe Stoke\-on\-Trent](https://open.spotify.com/track/2NfqiJwXzUPUXDCR2IUK2B) | [Jimothy Lacoste](https://open.spotify.com/artist/0sq3OExudqk1vOkbSuc8KW) | [Describe Stoke\-on\-Trent](https://open.spotify.com/album/3Z0LUzNgytpAR3BAJyp2KE) | 3:11 | 2022-03-31 | 2022-05-21 |
 | [Diet Mountain Dew](https://open.spotify.com/track/21xo9jhNSsYyNk8TRKBkY0) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die](https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI) | 3:42 | 2021-12-22 | 2022-07-06 |
-| [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4) | 2:38 | 2021-12-22 |  |
+| [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4) | 2:38 | 2021-12-22 | 2023-03-06 |
 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2022-11-27 |  |
 | [dog cuddles](https://open.spotify.com/track/23Z8zUlaNReUNgLcFFkcqx) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [dog cuddles](https://open.spotify.com/album/2qvZnPtgIQsXHn2Rzbh4GQ) | 2:31 | 2023-01-04 | 2023-01-19 |
 | [dog cuddles](https://open.spotify.com/track/7c2HKfs86p4Leyxh6SFAs8) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [dog cuddles](https://open.spotify.com/album/2NudU808g9JHUywNJpgd29) | 2:31 | 2021-12-22 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Youth Lagoon
 
-4,920 songs - 12 day 0 hr 31 min
+4,921 songs - 12 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4527,7 +4527,8 @@
 | [Vanta](https://open.spotify.com/track/6bwTJ1pTQYl72MoJFkrVfq) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Vanta](https://open.spotify.com/album/1pvANImf3RHxjtYICcKFVl) | 3:02 | 2021-07-17 | 2021-09-04 |
 | [Vault of Heaven](https://open.spotify.com/track/0g8SY6YeGKw3Tf54aKXziD) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Vault of Heaven](https://open.spotify.com/album/7qdCGuVbA0N9oU7wiTMoPe) | 3:59 | 2022-08-12 | 2022-09-24 |
 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 | 2021-05-22 | 2021-07-17 |
-| [Vega](https://open.spotify.com/track/5iIFSRXjZ9lGGM9aACqyqP) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Vega](https://open.spotify.com/album/4DkMvuihJAlQHRAFdA6Rr3) | 3:23 | 2023-03-03 |  |
+| [Vega](https://open.spotify.com/track/5iIFSRXjZ9lGGM9aACqyqP) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Vega](https://open.spotify.com/album/4DkMvuihJAlQHRAFdA6Rr3) | 3:23 | 2023-03-03 | 2023-03-06 |
+| [Vega](https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Music for the Future](https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm) | 3:23 | 2023-03-03 |  |
 | [Vegas](https://open.spotify.com/track/4sjqR16V0sXJ26WlrC2Llk) | [The Let Go](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [Vegas](https://open.spotify.com/album/0c6bbJ2dKB8ojrBjOX4h6e) | 3:20 | 2022-03-25 | 2022-04-23 |
 | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA) | 3:12 | 2021-12-03 | 2022-02-26 |
 | [Vendetta](https://open.spotify.com/track/00RqnHWC4WAHfq5fKBBc2g) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Vendetta](https://open.spotify.com/album/68qfGaEIcpRy3ofkfwkzaB) | 5:13 | 2021-02-19 | 2021-04-10 |

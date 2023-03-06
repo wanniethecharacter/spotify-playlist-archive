@@ -4,11 +4,11 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-286 songs - 20 hr 52 min
+287 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [.oOo.](https://open.spotify.com/track/2geihwLMsED3t9okk4Ag6k) | [Mette Henriette](https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP) | [Mette Henriette](https://open.spotify.com/album/6myWUuimrfYOjiXowul6L5) | 3:47 | 2022-06-29 |  |
+| [.oOo.](https://open.spotify.com/track/2geihwLMsED3t9okk4Ag6k) | [Mette Henriette](https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP) | [Mette Henriette](https://open.spotify.com/album/6myWUuimrfYOjiXowul6L5) | 3:47 | 2022-06-29 | 2023-03-06 |
 | [.oOo.](https://open.spotify.com/track/7vrUHvt40IKya566MZIQol) | [Mette Henriette](https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP) | [Mette Henriette](https://open.spotify.com/album/3H9E1flzXB693dYwZvuBwT) | 3:47 | 2021-12-17 | 2022-07-29 |
 | [22](https://open.spotify.com/track/14WHFYmB7bieMaJCQEQ8jE) | [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Harmen Fraanje](https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY) | [And Then Comes The Night](https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V) | 4:58 | 2022-05-25 | 2022-11-13 |
 | [22 \- Var.](https://open.spotify.com/track/4kYbo2VRkqIwF9joXPDAuH) | [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Harmen Fraanje](https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY) | [And Then Comes The Night](https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V) | 4:58 | 2022-06-01 | 2022-10-08 |
@@ -281,6 +281,7 @@
 | [We´ll Be Together Again](https://open.spotify.com/track/02albk71PUNANHHJ4HUZZE) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:05 | 2021-12-17 | 2022-08-18 |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2022-11-11 |  |
 | [Where Can I Go Without You](https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 9:32 | 2021-12-17 | 2022-03-12 |
+| [Where is Jack?](https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Where is Jack?](https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S) | 3:35 | 2023-02-23 |  |
 | [Winter](https://open.spotify.com/track/0TY99mhZgjAT1Nv3b2fnZr) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Winter](https://open.spotify.com/album/6y81cvtV64YclRmmivCI8U) | 5:29 | 2022-08-18 | 2022-09-01 |
 | [Winx](https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI) | [Echoes](https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx) | 5:07 | 2022-05-25 | 2022-11-11 |
 | [Withered Flowers](https://open.spotify.com/track/7zu57iXTCngCECQrUNVLSN) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Withered Flowers](https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU) | 3:53 | 2022-11-24 |  |

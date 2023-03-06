@@ -1,12 +1,12 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 18099,
+  "num_followers": 18140,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzQ4ODQ2MCwwMDAwMDAwMGM5NDM5NzEwYzhlYzQ0ZGI3OWNjMjBjNTkxZjRlZmQ3",
+  "snapshot_id": "MTY3NzQ4ODQ2MCwwMDAwMDAwMGMyNDUxNWExZjk3OTg3ZGViZmM3MGE5ZmRhOTNmYTFh",
   "tracks": [
     {
       "added_at": "2022-11-11 06:44:35",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "THE END OF EVERYTHING",
-        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "July",
-      "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "THE END OF EVERYTHING",
+        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "July",
+      "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 208826,
-      "name": "Train Wreck",
-      "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "A Thousand Years",
         "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 285120,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 208826,
+      "name": "Train Wreck",
+      "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "Get You The Moon (feat. Sn\u00f8w)",
         "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 212606,
       "name": "It's You",
       "url": "https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -767,6 +751,22 @@
       "duration_ms": 239000,
       "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
       "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "This City",
-        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "This City",
-      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "Without Me",
         "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "This City",
+        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "This City",
+      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "Feel Something (Deluxe)",
-        "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 228442,
-      "name": "Happiest Year",
-      "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "All The Little Lights",
         "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 252733,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "Feel Something (Deluxe)",
+        "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 228442,
+      "name": "Happiest Year",
+      "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "Supermarket Flowers",
+      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
         "name": "It's About Us",
         "url": "https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC"
       },
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "Supermarket Flowers",
-      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "Nervous System",
         "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 176320,
       "name": "Issues",
       "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 290900,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "Remember That Night?",
-        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Remember That Night?",
-      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 258373,
       "name": "The A Team",
       "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "Remember That Night?",
+        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Remember That Night?",
+      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "Melancholic",
-        "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 170830,
-      "name": "Lay By Me",
-      "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "Loma Vista",
         "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 190280,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "Melancholic",
+        "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 170830,
+      "name": "Lay By Me",
+      "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
-      },
-      "artists": [
-        {
-          "name": "Peter Manos",
-          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
@@ -2295,18 +2279,18 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "I Won't Give Up",
-        "url": "https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P"
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "Peter Manos",
+          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
         }
       ],
-      "duration_ms": 240165,
-      "name": "I Won't Give Up",
-      "url": "https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT"
+      "duration_ms": 214533,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -2323,6 +2307,22 @@
       "duration_ms": 310693,
       "name": "Looking Too Closely",
       "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "I Won't Give Up",
+        "url": "https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 240165,
+      "name": "I Won't Give Up",
+      "url": "https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT"
     },
     {
       "added_at": "2022-11-11 06:44:35",
@@ -2891,22 +2891,6 @@
     {
       "added_at": "2022-11-11 06:44:35",
       "album": {
-        "name": "Only Ticket Home",
-        "url": "https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 247842,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
-    },
-    {
-      "added_at": "2022-11-11 06:44:35",
-      "album": {
         "name": "The New Black and White, Pt. I, II, III & IV",
         "url": "https://open.spotify.com/album/4K256oZqmOjFZmTgDh1yYW"
       },
@@ -2919,6 +2903,22 @@
       "duration_ms": 265603,
       "name": "All I Wanna Do is Make Love to You",
       "url": "https://open.spotify.com/track/2zz7zsdNixKsag1pLFbpaE"
+    },
+    {
+      "added_at": "2022-11-11 06:44:35",
+      "album": {
+        "name": "Only Ticket Home",
+        "url": "https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 247842,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw"
     },
     {
       "added_at": "2022-11-11 06:44:35",

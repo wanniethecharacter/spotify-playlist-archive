@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de esta cumbia! Cover: Los \u00c1ngeles Azules.",
-  "num_followers": 240396,
+  "num_followers": 240489,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NjEyOCwwMDAwMDAwMDY1N2I3OGU1YjJiOTI3N2VlOGYyNGRiNDE4ODljOWY0",
+  "snapshot_id": "MTY3MzI0NjEyOCwwMDAwMDAwMDg3ZTc4ZmExNmE2ZmFhZjA5MGQ0MjRjM2NkM2Y4NjZi",
   "tracks": [
     {
       "added_at": "2023-01-09 06:35:28",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
         "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 226346,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Cumbia Pa' seguir Bailando",
-        "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
-      },
-      "artists": [
-        {
-          "name": "Cumbias Poblanas",
-          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
-        }
-      ],
-      "duration_ms": 289802,
-      "name": "Las Amo a Las Dos",
-      "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "Cumbias con Garra Vol. IV *",
         "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 202253,
       "name": "Mira oye",
       "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "Cumbia Pa' seguir Bailando",
+        "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
+      },
+      "artists": [
+        {
+          "name": "Cumbias Poblanas",
+          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
+        }
+      ],
+      "duration_ms": 289802,
+      "name": "Las Amo a Las Dos",
+      "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        },
+        {
+          "name": "Zaida y su Sonora La Tremenda",
+          "url": "https://open.spotify.com/artist/7jUKdlvwrJB1UDHMa7fP4x"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "Que nadie sepa mi sufrir (Amor de mis amores)",
+      "url": "https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1CJEE36qrJYAUXVJuVQ7ne"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 270506,
       "name": "Las Mujers No Se Acaban",
       "url": "https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        },
-        {
-          "name": "Zaida y su Sonora La Tremenda",
-          "url": "https://open.spotify.com/artist/7jUKdlvwrJB1UDHMa7fP4x"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "Que nadie sepa mi sufrir (Amor de mis amores)",
-      "url": "https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Tonto Cari\u00f1o",
-        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
-      },
-      "artists": [
-        {
-          "name": "Los Papis RA7",
-          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
-        }
-      ],
-      "duration_ms": 299284,
-      "name": "Estupido",
-      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
         "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
       },
@@ -995,22 +979,18 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Para Que La Cu\u00f1a Apriete",
-        "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
+        "name": "Tonto Cari\u00f1o",
+        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
       },
       "artists": [
         {
-          "name": "Grupo Kual? Dinastia Pedraza Es Grupo Kein?",
-          "url": "https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd"
-        },
-        {
-          "name": "Grupo Kien? Los Reyes Del Sabor",
-          "url": "https://open.spotify.com/artist/5bK0A1q7E0UgBFrXZtedtU"
+          "name": "Los Papis RA7",
+          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
         }
       ],
-      "duration_ms": 296680,
-      "name": "La Rumba Quimbumba",
-      "url": "https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau"
+      "duration_ms": 299284,
+      "name": "Estupido",
+      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1027,6 +1007,26 @@
       "duration_ms": 202000,
       "name": "La Cumbia de los Monjes",
       "url": "https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "Para Que La Cu\u00f1a Apriete",
+        "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual? Dinastia Pedraza Es Grupo Kein?",
+          "url": "https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd"
+        },
+        {
+          "name": "Grupo Kien? Los Reyes Del Sabor",
+          "url": "https://open.spotify.com/artist/5bK0A1q7E0UgBFrXZtedtU"
+        }
+      ],
+      "duration_ms": 296680,
+      "name": "La Rumba Quimbumba",
+      "url": "https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Lo Mas Ka-Bron Sonidero",
-        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
-      },
-      "artists": [
-        {
-          "name": "Kual",
-          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
-        }
-      ],
-      "duration_ms": 300906,
-      "name": "Soy Maraquero",
-      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "El Soltero",
         "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 146146,
       "name": "Cangrejito Playero",
       "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "Lo Mas Ka-Bron Sonidero",
+        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
+      },
+      "artists": [
+        {
+          "name": "Kual",
+          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
+        }
+      ],
+      "duration_ms": 300906,
+      "name": "Soy Maraquero",
+      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
+        "name": "Donde Estaras",
+        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 244924,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
         "name": "Baila As\u00ed (feat. Chiquis)",
         "url": "https://open.spotify.com/album/0SXbEP6U9u9JLzuPVYRIGQ"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 171866,
       "name": "Baila As\u00ed (feat. Chiquis)",
       "url": "https://open.spotify.com/track/4uZA7hxe5WZiQpOAu9lerj"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
-        "name": "Donde Estaras",
-        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 244924,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2"
     },
     {
       "added_at": "2023-01-09 06:35:28",

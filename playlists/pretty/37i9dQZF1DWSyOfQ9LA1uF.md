@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: Chromeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,161 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,189 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 |
+| 1 | [Shooting Stars](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Bag Raiders \(Deluxe\)](https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo) | 3:55 |
 | 2 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk) | 4:22 |
 | 3 | [Night by Night](https://open.spotify.com/track/5bgYTzUDzerRFN7fp86MkQ) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Business Casual](https://open.spotify.com/album/7iZU6KMPD0iT7QqtMkTmL1) | 3:45 |
 | 4 | [Heartbreaker \(feat\. John Legend\)](https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize) | 3:12 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 13 | [Pop The Glock](https://open.spotify.com/track/0fotWs4R5dPWw7YnJEtRw0) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Sex Dreams And Denim Jeans](https://open.spotify.com/album/53mU2L8Ngi8zFAD9JoXNqx) | 3:30 |
 | 14 | [Warp 1.9 \(feat\. Steve Aoki\)](https://open.spotify.com/track/1YjoltHfLwCcatHe6xydrm) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [ROMBORAMA](https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ) | 3:23 |
 | 15 | [Zombies!](https://open.spotify.com/track/3BxBeWuefRTDxzNy5qFG5H) | [Designer Drugs](https://open.spotify.com/artist/57cAxOmmlpgjNDQovRUuXA) | [Zombies! / Back Up in This](https://open.spotify.com/album/6L75qyadavEpgZJkNtxFJZ) | 4:46 |
-| 16 | [Shooting Stars](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Bag Raiders \(Deluxe\)](https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo) | 3:55 |
+| 16 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 |
 | 17 | [Bonkers](https://open.spotify.com/track/6ddQ5KCkvCggk3j6KdA0zL) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC) | 2:57 |
 | 18 | [I Think I Like It](https://open.spotify.com/track/5cPcd6pLrpDVmKnonjd3EQ) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Fix Your Accent](https://open.spotify.com/album/1kL1IqyXcsRJ54J5WyTjK0) | 5:35 |
 | 19 | [Baby I'm Yours](https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:35 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 28 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 |
 | 29 | [Nights Off](https://open.spotify.com/track/7kw4p4Nrs48BtlldKEBSUQ) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Mosaik](https://open.spotify.com/album/24LrUTOayWjn0qiEGDnlkE) | 4:07 |
 | 30 | [Flat Beat \- Radio Edit](https://open.spotify.com/track/5jaVyz2GDdesyu01cBbOSc) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Analog Worms Attack](https://open.spotify.com/album/7kAKGbrd7MHykmOzRlNPee) | 5:16 |
-| 31 | [Electric Feel \- Justice Remix](https://open.spotify.com/track/2eGHyarZyRvUgFI4d3G8GN) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Electric Feel \(Justice Remix\)](https://open.spotify.com/album/6wqufLWm8D5CUPB9A11opq) | 5:27 |
-| 32 | [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 |
-| 33 | [Je veux te voir](https://open.spotify.com/track/4H9637mkUDyk9Rq0WgDEwc) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Pop Up](https://open.spotify.com/album/2UiP7sGjSxl52QtlWAXYVy) | 4:21 |
+| 31 | [Je veux te voir](https://open.spotify.com/track/4H9637mkUDyk9Rq0WgDEwc) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Pop Up](https://open.spotify.com/album/2UiP7sGjSxl52QtlWAXYVy) | 4:21 |
+| 32 | [Electric Feel \- Justice Remix](https://open.spotify.com/track/2eGHyarZyRvUgFI4d3G8GN) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Electric Feel \(Justice Remix\)](https://open.spotify.com/album/6wqufLWm8D5CUPB9A11opq) | 5:27 |
+| 33 | [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 |
 | 34 | [NYC](https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:19 |
 | 35 | [Nightcall \- Breakbot Remix](https://open.spotify.com/track/199fvGLqoH23blptlIIz86) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 3:39 |
 | 36 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Stuck On Repeat \- Fake Blood Mix](https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30), [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Hands: Bonus Disc](https://open.spotify.com/album/7yxVBOqeXa8cIFwPLsxS7c) | 6:26 |
 | 75 | [I Get Around \- Midnight Juggernauts Remix](https://open.spotify.com/track/5JMD9oFmIh4PsVbTygcMB6) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Midnight Juggernauts](https://open.spotify.com/artist/2tGIh9kwbXuko0z3BTldBx) | [Kitsuné Maison Compilation 4](https://open.spotify.com/album/3cp2LC6H6viFxFsoZw9CBQ) | 5:55 |
 
-Snapshot ID: `MTY2MTM4MDE1MywwMDAwMDAwMDI0NmI2MTZlZGQ5MDExMDMxN2MzNmZkZTVjM2VhYzNi`
+Snapshot ID: `MTY2MTM4MDE1MywwMDAwMDAwMGM4Y2ZjNWExNWQxOGMxZmE1N2NiZWMxNmYzYTJlYTEz`

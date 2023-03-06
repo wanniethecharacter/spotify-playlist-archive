@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: Hak Baker
 
-206 songs - 10 hr 44 min
+207 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 | 2021-12-20 |  |
 | [ALL COPS ARE BASTARDS\*](https://open.spotify.com/track/6Bike9oqxqToe0XPwtVIhD) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [ALL COPS ARE BASTARDS\*](https://open.spotify.com/album/22GzbmGV3Uw6honxKUDSYr) | 3:04 | 2021-12-20 | 2022-12-09 |
 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 | 2022-11-18 |  |
-| [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 | 2022-08-05 |  |
+| [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 | 2022-08-05 | 2023-03-06 |
 | [antifreeze\*](https://open.spotify.com/track/4kUxJuInSVt8lNtcTGbjKD) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [antifreeze\*](https://open.spotify.com/album/0KcvKrAuuPIdpQmZpYx57o) | 2:02 | 2022-08-25 |  |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-08-05 |  |
 | [bad habit \(dramatic!\)](https://open.spotify.com/track/4cCYeQfBU2P3pWI7xmBTT3) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [bad habit \(dramatic!\)](https://open.spotify.com/album/00f1ID3GsvqytYByqFlq91) | 2:56 | 2021-12-20 | 2022-08-19 |
@@ -103,6 +103,7 @@
 | [i wanna bite your face](https://open.spotify.com/track/0TmhK8MuZrWow9HUp6fH5c) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [grim value](https://open.spotify.com/album/63se1zqIgvcKzzOfqIbR8m) | 2:26 | 2021-12-20 |  |
 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [OMG I MADE IT](https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp) | 2:50 | 2022-07-07 | 2022-08-26 |
 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0lcwE4dOsg3HB2BiUJxurh) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/album/7Jkkqjg8xAO7Jz4vV5H9oB) | 2:50 | 2021-12-20 | 2022-07-29 |
+| [I Want Attention](https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1H3SqVXlAOxhEf1RrU4gJf) | 2:45 | 2023-02-17 |  |
 | [I'm a Moth!!](https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [I'm a Moth!!](https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a) | 2:06 | 2022-02-15 | 2022-08-26 |
 | [I've Seen Footage](https://open.spotify.com/track/7nCONy10IHp7XD3oYZ0lcx) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:22 | 2022-08-28 |  |
 | [Idgaf](https://open.spotify.com/track/3GrYhvHbnMhp2CQFSU4Qeb) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Overcast](https://open.spotify.com/album/2fSq9tYVZHxi3lxub36rdA) | 2:45 | 2022-08-25 | 2023-03-04 |

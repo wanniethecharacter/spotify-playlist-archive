@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > מבחר שירים מיוחד שערכנו יחד עם כרקוקלי ליום האישה הבינלאומי
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,060 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,068 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [הבא שנוגע בי מת](https://open.spotify.com/track/1i4kcAV0Sbs9wJPmD8GPAD) | [Efrat Gosh](https://open.spotify.com/artist/31rjcnxNmi1OZHp6Ld7LLA) | [הבא שנוגע בי מת](https://open.spotify.com/album/7DUxPFr2TgIYc5jdLGBAWS) | 3:31 |
 | 50 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |
 
-Snapshot ID: `MTY3NzYyMTYwMCwwMDAwMDAwMDgyNDhhOTljOWNkYjBkY2YyYTk0ZTBjYWM2NmMxMmVj`
+Snapshot ID: `MTY3ODA1MzYwMCwwMDAwMDAwMDFiMzRlMjEwMzM0NWYzNDBmZTc0OTU0Y2Y1Y2FmOWY5`

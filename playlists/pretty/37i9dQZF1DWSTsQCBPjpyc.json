@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 20394,
+  "num_followers": 20424,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGM1OTdhNTQ1N2ExZDQ4YTI4N2RlZGJjNzQyZDlhM2Vj",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMDg4NTlmOGZlMDBkZTc2NmM2ZmE5ZTczOTAyMDIxOWM1",
   "tracks": [
     {
       "added_at": "2021-12-03 05:02:00",
@@ -35,18 +35,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I Wanna Get Funky",
-        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
       },
       "artists": [
         {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
         }
       ],
-      "duration_ms": 171200,
-      "name": "Travelin' Man",
-      "url": "https://open.spotify.com/track/2SXScqW8fvm22mCNtQktME"
+      "duration_ms": 208240,
+      "name": "Telephone Song",
+      "url": "https://open.spotify.com/track/3hGsDRUzPgXMDSRZzgXkhS"
     },
     {
       "added_at": "2022-11-07 19:08:41",
@@ -87,18 +87,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+        "name": "I Wanna Get Funky",
+        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
       },
       "artists": [
         {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
         }
       ],
-      "duration_ms": 208240,
-      "name": "Telephone Song",
-      "url": "https://open.spotify.com/track/3hGsDRUzPgXMDSRZzgXkhS"
+      "duration_ms": 171200,
+      "name": "Travelin' Man",
+      "url": "https://open.spotify.com/track/2SXScqW8fvm22mCNtQktME"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -149,22 +149,6 @@
       "url": "https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 323426,
-      "name": "Carry Yourself",
-      "url": "https://open.spotify.com/track/3mAiFmSq6tsZGBAZlpps4H"
-    },
-    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -183,6 +167,22 @@
       "duration_ms": 181939,
       "name": "Going to the Party",
       "url": "https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 323426,
+      "name": "Carry Yourself",
+      "url": "https://open.spotify.com/track/3mAiFmSq6tsZGBAZlpps4H"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Completely Well",
-        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+        "name": "I Wanna Get Funky",
+        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
         }
       ],
-      "duration_ms": 292800,
-      "name": "You're Losin' Me",
-      "url": "https://open.spotify.com/track/0DID8Ir6yeko5KoXCXwOnL"
+      "duration_ms": 203066,
+      "name": "Playing On Me",
+      "url": "https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I Wanna Get Funky",
-        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
       "artists": [
         {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 203066,
-      "name": "Playing On Me",
-      "url": "https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf"
+      "duration_ms": 292800,
+      "name": "You're Losin' Me",
+      "url": "https://open.spotify.com/track/0DID8Ir6yeko5KoXCXwOnL"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -489,38 +489,6 @@
       "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Satisfaction Guaranteed",
-        "url": "https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Brooks",
-          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "A Man's Got To Do What A Man's Got To Do",
-      "url": "https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "I Wanna Get Funky",
-        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 464373,
-      "name": "Crosscut Saw",
-      "url": "https://open.spotify.com/track/3YHEwYxevWWe4Agis11Gnf"
-    },
-    {
       "added_at": "2022-01-21 05:02:00",
       "album": {
         "name": "I Want My Crown",
@@ -539,6 +507,38 @@
       "duration_ms": 259226,
       "name": "I Want My Crown",
       "url": "https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "I Wanna Get Funky",
+        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 464373,
+      "name": "Crosscut Saw",
+      "url": "https://open.spotify.com/track/3YHEwYxevWWe4Agis11Gnf"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Satisfaction Guaranteed",
+        "url": "https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "A Man's Got To Do What A Man's Got To Do",
+      "url": "https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu"
     },
     {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Put That Back",
+      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
+    },
+    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "All The Way",
@@ -667,22 +683,6 @@
       "duration_ms": 356773,
       "name": "Greasy Man",
       "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Put That Back",
-      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Witch Doctor",
-        "url": "https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ"
-      },
-      "artists": [
-        {
-          "name": "Samuel Ashton",
-          "url": "https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Witch Doctor",
-      "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
-    },
-    {
       "added_at": "2022-01-28 05:00:00",
       "album": {
         "name": "Crown",
@@ -799,6 +783,22 @@
       "duration_ms": 183520,
       "name": "Take Me Just As I Am",
       "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Witch Doctor",
+        "url": "https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ"
+      },
+      "artists": [
+        {
+          "name": "Samuel Ashton",
+          "url": "https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2"
     },
     {
       "added_at": "2022-02-18 05:02:00",

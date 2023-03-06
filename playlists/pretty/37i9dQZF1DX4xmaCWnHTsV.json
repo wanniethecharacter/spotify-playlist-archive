@@ -1,12 +1,12 @@
 {
   "description": "Classic rockabilly and early rock 'n' roll.",
-  "num_followers": 16964,
+  "num_followers": 16962,
   "original_name": "Rockabilly Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3ODY3MTAzMSwwMDAwMDAwMDcyNjJkZTQ1YzYwMWQzYmYwM2Y4OTRhOGNiNjM2NzAz",
+  "snapshot_id": "MTU3ODY3MTAzMSwwMDAwMDAwMDJjYTZlMjA5MDk3M2FiMWVjNzJhMzM4ODZkNDFhMDYx",
   "tracks": [
     {
       "added_at": "2020-01-10 15:43:51",
@@ -387,8 +387,8 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
-        "name": "Blue Jean Bop",
-        "url": "https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En"
+        "name": "Gene Vincent And The Blue Caps",
+        "url": "https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
         }
       ],
-      "duration_ms": 142560,
-      "name": "Bluejean Bop",
-      "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
+      "duration_ms": 135373,
+      "name": "Hold Me, Hug Me, Rock Me",
+      "url": "https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd"
     },
     {
       "added_at": "2020-01-10 15:43:51",
@@ -499,8 +499,8 @@
     {
       "added_at": "2020-01-10 15:43:51",
       "album": {
-        "name": "Gene Vincent And The Blue Caps",
-        "url": "https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk"
+        "name": "Blue Jean Bop",
+        "url": "https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
         }
       ],
-      "duration_ms": 135373,
-      "name": "Hold Me, Hug Me, Rock Me",
-      "url": "https://open.spotify.com/track/0P9wPwqLUHzp5jeY1cHeAd"
+      "duration_ms": 142560,
+      "name": "Bluejean Bop",
+      "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
     },
     {
       "added_at": "2020-01-10 15:43:51",

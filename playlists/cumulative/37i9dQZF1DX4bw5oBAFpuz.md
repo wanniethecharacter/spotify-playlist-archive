@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-253 songs - 14 hr 50 min
+254 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 | 2023-02-23 |  |
 | [Blue](https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Blue](https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw) | 3:27 | 2023-02-23 |  |
 | [Blue Bittersweet](https://open.spotify.com/track/31MtA1bmM3PsiAX1sur7rM) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [After The Hurricane \- Greatest Hits & More](https://open.spotify.com/album/3c7XPav9lVFFeTfOTL8fyk) | 4:30 | 2023-02-23 |  |
+| [Bobbie's Song](https://open.spotify.com/track/07DydynEAQfvBrOOIuHNcz) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj) | [Bobbie's Song](https://open.spotify.com/album/6canaf9tWSYr7bhrCzQemP) | 2:25 | 2023-02-23 |  |
 | [Boston](https://open.spotify.com/track/2WZyfujzMweFLnozyUJBkW) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [All The Stars and Boulevards](https://open.spotify.com/album/36i3fUi7xuuE0UA8pXtdxK) | 4:05 | 2023-02-23 |  |
 | [Breezy](https://open.spotify.com/track/3BsV7QKK1mmN1TN8ItZJCj) | [Wouter Hamel](https://open.spotify.com/artist/7eK4wPcMgmSIxcGBS2lJl0) | [Hamel](https://open.spotify.com/album/3nBmAlu9hp91II2wl8LvWm) | 3:59 | 2023-02-23 |  |
 | [Bright Blue Skies](https://open.spotify.com/track/5zxwumO0laRosoeOvbVSvc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Mitch James \- Deluxe Edition](https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf) | 3:02 | 2023-02-23 |  |
@@ -231,7 +232,7 @@
 | [Till The River Runs Dry](https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [Till The River Runs Dry](https://open.spotify.com/album/429yX7wyM4aDx5PDsEiLYZ) | 2:48 | 2023-02-23 |  |
 | [Tilted](https://open.spotify.com/track/5dwMQwZvaPo9QzPqRF3aaR) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine \(Deluxe Edition\)](https://open.spotify.com/album/3jc4mNSSIjakdzeD63qpQt) | 3:53 | 2023-02-23 |  |
 | [To Tomorrow](https://open.spotify.com/track/4GfPkTIFaiI8wmc0lgTDzi) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [The Legend of the Goldkimono](https://open.spotify.com/album/6665kTeQp9goEiA3wZAxm8) | 3:24 | 2023-02-23 |  |
-| [Took a Hit](https://open.spotify.com/track/1pxHrvGMP01htMXg1RcaEy) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Liverpool Rain](https://open.spotify.com/album/5M1RrcD206EhfQzzXlDym8) | 3:44 | 2023-02-23 |  |
+| [Took a Hit](https://open.spotify.com/track/1pxHrvGMP01htMXg1RcaEy) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Liverpool Rain](https://open.spotify.com/album/5M1RrcD206EhfQzzXlDym8) | 3:44 | 2023-02-23 | 2023-03-06 |
 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 | 2023-02-23 |  |
 | [Tututu](https://open.spotify.com/track/60CDsfALVxdHCtWSGNEIib) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Irrational](https://open.spotify.com/album/1cNx0aM4urNQ0gMalkNnQ1) | 2:55 | 2023-02-23 |  |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2023-02-23 |  |

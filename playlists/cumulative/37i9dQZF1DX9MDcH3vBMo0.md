@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-591 songs - 1 day 1 hr 52 min
+592 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [Minutieux](https://open.spotify.com/track/2SQvzWBCdnNzleb1BJPdS1) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Minutieux](https://open.spotify.com/album/2BJvWhnfzswUQqhEmhvSEJ) | 2:25 | 2022-04-21 | 2022-09-24 |
 | [Mirror Image](https://open.spotify.com/track/6yPemeVzF0Ew5oYNxOYoqI) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Mirror Image](https://open.spotify.com/album/0aaLes9e9gY3KQ6LZwDmNJ) | 2:12 | 2022-04-21 | 2022-07-21 |
 | [Missing You](https://open.spotify.com/track/2KOmnyZGnaQIzmuPhOdAHk) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Missing You](https://open.spotify.com/album/1XsepKGcBPgDts44vfP3MQ) | 2:06 | 2022-04-21 | 2022-09-24 |
-| [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2022-04-21 |  |
+| [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2022-04-21 | 2023-03-06 |
 | [Moj najbolji prijatelj](https://open.spotify.com/track/1Ul3umwrsaKrjraG3isTVg) | [Suzana Tomić](https://open.spotify.com/artist/5MhlqMxEF4q8fUcxDLnPZL) | [Moj najbolji prijatelj](https://open.spotify.com/album/3iFMhFxQzkBDAmYWGTYvKU) | 2:01 | 2022-04-21 | 2022-09-24 |
 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 | 2022-04-21 |  |
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-04-21 | 2023-01-21 |
@@ -348,6 +348,7 @@
 | [Novaturient](https://open.spotify.com/track/41gGCoMU2mqRlEQPIosjL9) | [Viljar Iversen](https://open.spotify.com/artist/57zxco4Z1lUt03EMLy3GYl) | [Novaturient](https://open.spotify.com/album/6P4LVvmEFSQvzwqeBVpw4v) | 1:52 | 2022-04-21 | 2022-08-10 |
 | [November Birdie](https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt) | [El Pianista Manco](https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36) | [November Birdie](https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ) | 2:42 | 2023-01-20 |  |
 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 | 2022-04-21 |  |
+| [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 | 2023-03-06 |  |
 | [of view](https://open.spotify.com/track/4CK2atgvodyG3xJPXXt58U) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Thoughts of View](https://open.spotify.com/album/6hP9TRgcIHRY8NXYVEFQka) | 3:46 | 2022-07-20 | 2023-01-21 |
 | [Old Flame](https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/2Ghtml0EN6GDcy896wqkMO) | 2:08 | 2022-09-23 |  |
 | [Old Flame](https://open.spotify.com/track/64th3RAbJNNkh96S3lcMRZ) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/7sN26SlOzcl1ey6NuPPQfg) | 2:08 | 2022-04-21 | 2022-09-24 |

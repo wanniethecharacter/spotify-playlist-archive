@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2598315,
+  "num_followers": 2598777,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU2NTU1NiwwMDAwMDAwMDhkYzE3ODNiMjA5NDQxYTdiMWI2NDNhYzBjYWI0MzAy",
+  "snapshot_id": "MTY3NjU2NTU1NiwwMDAwMDAwMDk2M2FiMmY1MmFjOGZlNjlkYzNiMDNlMmM4MzRiYTVi",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "All That I Am",
@@ -337,20 +321,20 @@
       "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
+      "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Enter The Dru",
-        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
       },
       "artists": [
         {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
         }
       ],
-      "duration_ms": 272560,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
+      "duration_ms": 262266,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -371,6 +355,22 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "duration_ms": 272560,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -439,22 +439,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Blackstreet",
-        "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
-      },
-      "artists": [
-        {
-          "name": "Blackstreet",
-          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
-        }
-      ],
-      "duration_ms": 299800,
-      "name": "Before I Let You Go",
-      "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 262333,
       "name": "Nobody's Supposed to Be Here",
       "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Blackstreet",
+        "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
+      },
+      "artists": [
+        {
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        }
+      ],
+      "duration_ms": 299800,
+      "name": "Before I Let You Go",
+      "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
     },
     {
       "added_at": "2021-03-05 00:03:16",

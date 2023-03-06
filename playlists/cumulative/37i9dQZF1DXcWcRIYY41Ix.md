@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alex Ferreira.
 
-348 songs - 21 hr 23 min
+349 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Al Margen de Ojalá](https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Al Margen de Ojalá](https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus) | 5:26 | 2021-12-24 |  |
 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:41 | 2021-12-24 |  |
 | [Alfonsina Y El Mar](https://open.spotify.com/track/2LDFwmbyd2PsVEZFCsZFZZ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/529vSkrdGV4B5ZdpglN1CA) | 4:39 | 2022-07-22 | 2022-10-14 |
-| [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2022-12-23 |  |
+| [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2022-12-23 | 2023-03-06 |
 | [Alfonsina y el Mar](https://open.spotify.com/track/4QknKPpA2m8Yw8vQimkKHQ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina y el Mar](https://open.spotify.com/album/06MI02YQmQL6Vz2M4EckSg) | 4:39 | 2021-12-24 | 2022-07-23 |
 | [Alitas de mar \(feat\. Juanito Makandé\)](https://open.spotify.com/track/4YKIrD8XK51XIsqJEpB1Q0) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Juanito Makandé](https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z) | [Alitas de mar \(feat\. Juanito Makandé\)](https://open.spotify.com/album/1JH19MdY6rtR8AZziT1vcw) | 3:14 | 2021-12-24 |  |
 | [Alma Mantra](https://open.spotify.com/track/5LA6XlS8iZGbRlO4Z6lr4G) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Grupo Cluster](https://open.spotify.com/artist/6UaPnqedipLYiyEIj4edj6) | [El Viejo Comunista \(+ Adelantos\)](https://open.spotify.com/album/5SCD19jQdSs6g7RtJup5Po) | 3:09 | 2021-12-24 | 2022-07-29 |
@@ -184,6 +184,7 @@
 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 | 2021-12-24 |  |
 | [Lo que hay afuera](https://open.spotify.com/track/2bwGFuDKsVxfIV1nIWadcP) | [Volver al Mar](https://open.spotify.com/artist/29VStMD9gyW6PxNqpZAd2M) | [Lo que hay afuera](https://open.spotify.com/album/7xmlhbWss64Cozcucei7Ys) | 5:20 | 2022-04-01 | 2022-04-21 |
 | [lo que siento](https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [lo que siento](https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et) | 3:11 | 2023-01-20 |  |
+| [Lobo](https://open.spotify.com/track/7yRhEZ11EWwbHwIUQmxT49) | [Elena Gadel](https://open.spotify.com/artist/1xRDIbNubdwQ6WGevJWCHO) | [Lobo](https://open.spotify.com/album/2LOiM1ZumqvUE6Imy2AdwT) | 4:36 | 2023-03-02 |  |
 | [Los Andes](https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Los Andes](https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j) | 2:35 | 2022-07-22 | 2022-08-03 |
 | [Los Fugaces](https://open.spotify.com/track/1pmz5PiqPyhAWbRN5sSwpg) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Los Fugaces](https://open.spotify.com/album/25rWkoEU6iw4EBuvH7BrBr) | 3:28 | 2021-12-24 | 2022-05-24 |
 | [Los Pájaros de Ciudad](https://open.spotify.com/track/07IHpkOUmcE2wlNbWYnxQ9) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Los Pájaros de Ciudad](https://open.spotify.com/album/5ZFzN977yU8AAMkUmZwVfQ) | 3:19 | 2021-12-24 | 2022-04-29 |

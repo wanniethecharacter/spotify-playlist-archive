@@ -188,7 +188,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 192455,
       "name": "A Drug From God",
       "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
@@ -13293,7 +13293,7 @@
     },
     {
       "album": {
-        "name": "REACT (feat. Ella Henderson)",
+        "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
       "artists": [
@@ -13314,7 +13314,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201145,
-      "name": "REACT (feat. Ella Henderson)",
+      "name": "REACT",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
     },
     {
@@ -17698,6 +17698,28 @@
       "duration_ms": 240205,
       "name": "Where U Iz",
       "url": "https://open.spotify.com/track/2TNvuWY10fBok9OY8asAQZ"
+    },
+    {
+      "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
       "album": {

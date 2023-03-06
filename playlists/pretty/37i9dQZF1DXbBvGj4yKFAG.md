@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,729 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,179 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,20 +34,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 24 | [Bloodhail](https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 5:38 |
 | 25 | [town](https://open.spotify.com/track/2vQpuxsZ6vRzJBjGZZ4Qwm) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn) | 1:13 |
 | 26 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
-| 27 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
-| 28 | [Secret](https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Sckrpnch](https://open.spotify.com/album/46PCqFYcWdnQgra1P6Y7oz) | 1:41 |
-| 29 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 |
+| 27 | [True Blue](https://open.spotify.com/track/0q7lFwAB16sO7zgNdG4Wkl) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 4:56 |
+| 28 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
+| 29 | [Secret](https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Sckrpnch](https://open.spotify.com/album/46PCqFYcWdnQgra1P6Y7oz) | 1:41 |
 | 30 | [is there anyone home?](https://open.spotify.com/track/51tWaNW17bJvFoe8kpgwIe) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [is there anyone home?](https://open.spotify.com/album/47Ea7xLnKRXbn06XfhZXpK) | 3:37 |
-| 31 | [Suicide Cleanup](https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 2:21 |
+| 31 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 |
 | 32 | [In Two](https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [In Two](https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh) | 2:23 |
-| 33 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 |
-| 34 | [True Blue](https://open.spotify.com/track/0q7lFwAB16sO7zgNdG4Wkl) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 4:56 |
+| 33 | [Suicide Cleanup](https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 2:21 |
+| 34 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 |
 | 35 | [Fall With Me](https://open.spotify.com/track/5E1duMn3Gz5CtPeEF8Vty2) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [New Ways To Die](https://open.spotify.com/album/3H01vIyYQn5cYiL1QeFIGA) | 4:02 |
-| 36 | [Fight Club](https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 1:47 |
-| 37 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 |
+| 36 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 |
+| 37 | [punch](https://open.spotify.com/track/6WMIBMdrYL293siiQCxCGi) | [fairies in our house](https://open.spotify.com/artist/0MwasiNhS1Awj9dnl3slBM) | [fairies in our house](https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo) | 1:20 |
 | 38 | [song i made up to stop myself from having a panic attack just now \(ft\. rich\)](https://open.spotify.com/track/0LTOpiPy2PahUkpMYLW3JL) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [song i made up to stop myself from having a panic attack just now](https://open.spotify.com/album/7ubczqQBG332NdZGDYdtu0) | 0:41 |
-| 39 | [punch](https://open.spotify.com/track/6WMIBMdrYL293siiQCxCGi) | [fairies in our house](https://open.spotify.com/artist/0MwasiNhS1Awj9dnl3slBM) | [fairies in our house](https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo) | 1:20 |
-| 40 | [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 |
+| 39 | [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 |
+| 40 | [Fight Club](https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 1:47 |
 | 41 | [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 |
 | 42 | [Spinning](https://open.spotify.com/track/4ZtYV4eG1W40rWtyDy9SvA) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [trauma ray](https://open.spotify.com/album/6DxOT2chpx586JqiRbqviT) | 0:56 |
 | 43 | [Adderall](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 49 | [I cant commit to anything](https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I cant commit to anything](https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN) | 1:42 |
 | 50 | [fine](https://open.spotify.com/track/7whMBp15emD4yuMLMTazmA) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [fine](https://open.spotify.com/album/6DnW8qL9nSPpOeYOYlyluz) | 3:52 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDAzNDQ2MDg2YzEzOWUxODk0YzMyN2I3M2JmMDNiYjMx`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGZlYjA1YjM4ODEwZjQzZTRlOWY1NWUyYTllYjUxNWE0`

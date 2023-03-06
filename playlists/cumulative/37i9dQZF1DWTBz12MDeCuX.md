@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Verifiziert
 
-716 songs - 1 day 10 hr 24 min
+717 songs - 1 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,7 @@
 | [My All](https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [My All](https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg) | 3:17 | 2022-12-08 | 2023-01-10 |
 | [My G \(feat\. Ed Sheeran\)](https://open.spotify.com/track/6Iqz3QB6zSdn1N61acinau) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Close To Home](https://open.spotify.com/album/4ZBwKt9Zp3MF9iqqa9Z01R) | 3:18 | 2022-08-18 | 2022-09-02 |
 | [My Love](https://open.spotify.com/track/1z3WPf2k1yRyWtZLjVvRzV) | [Ctill](https://open.spotify.com/artist/47diE7gubS7rniBjkHsQPY) | [My Love](https://open.spotify.com/album/3UsBjs22X6tMtgSUMhaT0V) | 3:02 | 2023-01-05 | 2023-01-17 |
-| [My Love](https://open.spotify.com/track/5X0PDEd9BQIMrVPBeVQvS0) | [Lil\-K](https://open.spotify.com/artist/79hts1H3bhswabKZPnX9jB) | [My Love](https://open.spotify.com/album/0ptwsotnVJ0o53NHutCREC) | 3:02 | 2023-02-24 |  |
+| [My Love](https://open.spotify.com/track/5X0PDEd9BQIMrVPBeVQvS0) | [Lil\-K](https://open.spotify.com/artist/79hts1H3bhswabKZPnX9jB) | [My Love](https://open.spotify.com/album/0ptwsotnVJ0o53NHutCREC) | 3:02 | 2023-02-24 | 2023-03-06 |
 | [My Love](https://open.spotify.com/track/66qwuwSNqWrN31ZdPpLnmq) | [Reld Aurel](https://open.spotify.com/artist/47sh7ffaC7eOWDHWZJDm1b) | [My Love](https://open.spotify.com/album/107Wr2BVfkMihKvG2NgizY) | 3:02 | 2023-01-16 | 2023-01-19 |
 | [My Love \(feat\. T.I.\)](https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 4:36 | 2022-06-09 | 2022-07-14 |
 | [müde](https://open.spotify.com/track/71I89sp3uzWIWq9BGHZQTv) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [müde](https://open.spotify.com/album/4MAkTfejQZEuVORff0WeYF) | 3:25 | 2022-07-21 | 2022-08-26 |
@@ -724,5 +724,6 @@
 | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D) | 3:50 | 2022-11-01 | 2022-12-24 |
 | [ZWANNIS](https://open.spotify.com/track/3f2n0M2s1DovBN8DPoR0n5) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [ZWANNIS](https://open.spotify.com/album/5s9axapj8W2cHyTpdgHuMa) | 2:25 | 2022-12-15 | 2023-01-06 |
 | [Ты И Я](https://open.spotify.com/track/2SyHAnMkA9xME32P3Cpw1f) | [SDM Nation](https://open.spotify.com/artist/6K1saPnrT3Gz5vo8WeKTWo) | [Ты И Я](https://open.spotify.com/album/3DT4qPUBlBxEXkJanCRhAB) | 3:02 | 2023-01-19 | 2023-01-29 |
+| [Ты и я](https://open.spotify.com/track/5nlkcDrfFsMBfaVcGXZWVT) | [SDM Nation](https://open.spotify.com/artist/6K1saPnrT3Gz5vo8WeKTWo), [Label C5](https://open.spotify.com/artist/08xb1eqJnQSE2SDLwnMKPC) | [Ты и я](https://open.spotify.com/album/1vp1JeGhZCBbb2JoLkIXDo) | 3:02 | 2023-03-03 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

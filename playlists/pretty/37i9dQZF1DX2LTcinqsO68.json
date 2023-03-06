@@ -1,12 +1,12 @@
 {
   "description": "Like the old school sound of metal? Then you'll love this playlist! Cover: Megadeth",
-  "num_followers": 491455,
+  "num_followers": 102678,
   "original_name": "Old School Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyNTM5NSwwMDAwMDAwMDdlOWY4YTZmOGZkZDE1ZDVlYzg2ODQ1YmUzMjBiNmU4",
+  "snapshot_id": "MTY3NzgyNTM5NSwwMDAwMDAwMDYxYTZkZjQxNzFmOWE0NWRjMWQzYTVjM2IxMTg4M2Fj",
   "tracks": [
     {
       "added_at": "2022-12-01 16:34:32",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-12-01 16:34:32",
       "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
+      "duration_ms": 153840,
+      "name": "Breaking the Law",
+      "url": "https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT"
     },
     {
       "added_at": "2022-12-01 16:34:32",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-12-01 16:34:32",
       "album": {
-        "name": "British Steel",
-        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 153840,
-      "name": "Breaking the Law",
-      "url": "https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT"
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2022-12-01 16:34:32",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-12-01 16:34:32",
       "album": {
-        "name": "The Number of the Beast (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 290586,
-      "name": "The Number of the Beast - 2015 Remaster",
-      "url": "https://open.spotify.com/track/139RwLyp7r8F9ojvhGF5lC"
-    },
-    {
-      "added_at": "2022-12-01 16:34:32",
-      "album": {
         "name": "Love At First Sting",
         "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 249306,
       "name": "Big City Nights",
       "url": "https://open.spotify.com/track/5LDZbklcDwQeeScf7dUlo4"
+    },
+    {
+      "added_at": "2022-12-01 16:34:32",
+      "album": {
+        "name": "The Number of the Beast (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 290586,
+      "name": "The Number of the Beast - 2015 Remaster",
+      "url": "https://open.spotify.com/track/139RwLyp7r8F9ojvhGF5lC"
     },
     {
       "added_at": "2022-12-01 16:34:32",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2022-12-01 16:34:32",
       "album": {
-        "name": "Somewhere in Time (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/2O3sMtk9Zy2RxocOURUFhr"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
         }
       ],
-      "duration_ms": 309640,
-      "name": "Wasted Years - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2V0T2LS0pf2r3EFpOEkZFO"
+      "duration_ms": 228266,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/15RpfmFhrE5RRkf4vZ6kZu"
     },
     {
       "added_at": "2022-12-01 16:34:32",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2022-12-01 16:34:32",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
+        "name": "Somewhere in Time (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/2O3sMtk9Zy2RxocOURUFhr"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/15RpfmFhrE5RRkf4vZ6kZu"
+      "duration_ms": 309640,
+      "name": "Wasted Years - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2V0T2LS0pf2r3EFpOEkZFO"
     },
     {
       "added_at": "2022-12-01 16:34:32",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-12-01 16:34:32",
       "album": {
-        "name": "Powerslave (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/2HPWTaRPYl0Iu3lJrI5V2z"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 363586,
-      "name": "2 Minutes to Midnight - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4sAjWbPq6iSI6I0Ovr9CkY"
-    },
-    {
-      "added_at": "2022-12-01 16:34:32",
-      "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/29pafrkScKO52XQZ4eluRa"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 171960,
       "name": "Race with the Devil",
       "url": "https://open.spotify.com/track/3D8KAebbZgAFdVjTrsNgOI"
+    },
+    {
+      "added_at": "2022-12-01 16:34:32",
+      "album": {
+        "name": "Powerslave (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/2HPWTaRPYl0Iu3lJrI5V2z"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 363586,
+      "name": "2 Minutes to Midnight - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4sAjWbPq6iSI6I0Ovr9CkY"
     },
     {
       "added_at": "2022-12-01 16:34:32",

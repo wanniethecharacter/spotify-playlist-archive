@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro.",
-  "num_followers": 26993,
+  "num_followers": 27054,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDUwNzgxMTJjZDI2ZmE0ODgwZDAzMTFhNjFjNWQ0MGEw",
+  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMGRmMDVkM2Y3MTM1YjM5NzIxZDQxOWIyZDEyZGZjMjUx",
   "tracks": [
     {
       "added_at": "2023-03-03 00:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Madruga",
-        "url": "https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA"
-      },
-      "artists": [
-        {
-          "name": "Mike11",
-          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "Madruga",
-      "url": "https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Ser Tua",
         "url": "https://open.spotify.com/album/3eC2nn5A7uEXKNKTcrspu6"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Madruga",
+        "url": "https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA"
+      },
+      "artists": [
+        {
+          "name": "Mike11",
+          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "Madruga",
+      "url": "https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Jony Driver",
         "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Tequila (Studio Version)",
-        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
-      },
-      "artists": [
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 199376,
-      "name": "Tequila (Studio Version)",
-      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Ontem, Hoje e Nunca Mais",
         "url": "https://open.spotify.com/album/07mXUxjJp1RBEsQSxqafUx"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 234000,
       "name": "Bijuteria",
       "url": "https://open.spotify.com/track/3fAHAwjLKVAiSQqnvhNwYw"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Tequila (Studio Version)",
+        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 199376,
+      "name": "Tequila (Studio Version)",
+      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Gloss",
+        "url": "https://open.spotify.com/album/7KmJth0jOfGllWzKPDOEwp"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "duration_ms": 210309,
+      "name": "Gloss",
+      "url": "https://open.spotify.com/track/2HxXsZGRITgwkos69ZZtUe"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "In The Middle",
         "url": "https://open.spotify.com/album/6etc4KshHLH0RaeZrr0Vgi"
       },
@@ -1215,26 +1235,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Gloss",
-        "url": "https://open.spotify.com/album/7KmJth0jOfGllWzKPDOEwp"
-      },
-      "artists": [
-        {
-          "name": "Salah",
-          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
-        },
-        {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        }
-      ],
-      "duration_ms": 210309,
-      "name": "Gloss",
-      "url": "https://open.spotify.com/track/2HxXsZGRITgwkos69ZZtUe"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "NIKES",
         "url": "https://open.spotify.com/album/2eoUv4LT4XjeD7a6voLFZ5"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "why would u",
-        "url": "https://open.spotify.com/album/2M7a9lzVlZfJrgzb64ejyy"
-      },
-      "artists": [
-        {
-          "name": "David Da Rapper",
-          "url": "https://open.spotify.com/artist/5ipSKrIl4oWWd6Ew8GrLW4"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "why would u",
-      "url": "https://open.spotify.com/track/34wjYTIyNXiijsAgWTLdia"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "At\u00e9 que vc volte",
-        "url": "https://open.spotify.com/album/7kRzljKDGhYWAe6Z6kRMVr"
+        "name": "why would u",
+        "url": "https://open.spotify.com/album/2M7a9lzVlZfJrgzb64ejyy"
       },
       "artists": [
         {
-          "name": "Dougie Knight",
-          "url": "https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB"
+          "name": "David Da Rapper",
+          "url": "https://open.spotify.com/artist/5ipSKrIl4oWWd6Ew8GrLW4"
         }
       ],
-      "duration_ms": 121693,
-      "name": "At\u00e9 que vc volte",
-      "url": "https://open.spotify.com/track/3WYMFOTpwNfbuT8vS67V3D"
+      "duration_ms": 196000,
+      "name": "why would u",
+      "url": "https://open.spotify.com/track/34wjYTIyNXiijsAgWTLdia"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1319,34 +1303,50 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC"
+        "name": "NO MO Parties",
+        "url": "https://open.spotify.com/album/10ZSwv9JsEhXYfWsniwvEh"
       },
       "artists": [
         {
-          "name": "Fran2785",
-          "url": "https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8"
+          "name": "BiDU",
+          "url": "https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg"
         }
       ],
-      "duration_ms": 221198,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3"
+      "duration_ms": 227368,
+      "name": "NO MO Parties",
+      "url": "https://open.spotify.com/track/0NDkqCKa5lLfz0yUfH4vCZ"
     },
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Feisty",
-        "url": "https://open.spotify.com/album/0A6tqNmExdFyRCPJZ5uM39"
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/2q4FRXjv5jOWU8Az2n0Lfi"
       },
       "artists": [
         {
-          "name": "Nova Wave",
-          "url": "https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv"
+          "name": "M\u00e1ry M",
+          "url": "https://open.spotify.com/artist/6myextZ5obd54txCqZp7Ns"
         }
       ],
-      "duration_ms": 161404,
-      "name": "Feisty",
-      "url": "https://open.spotify.com/track/1DQ9LTL8hdFkaErvlbCS10"
+      "duration_ms": 161517,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/6GDXVeWVlHdNVrvzuzrzgU"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "At\u00e9 que vc volte",
+        "url": "https://open.spotify.com/album/7kRzljKDGhYWAe6Z6kRMVr"
+      },
+      "artists": [
+        {
+          "name": "Dougie Knight",
+          "url": "https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB"
+        }
+      ],
+      "duration_ms": 121693,
+      "name": "At\u00e9 que vc volte",
+      "url": "https://open.spotify.com/track/3WYMFOTpwNfbuT8vS67V3D"
     }
   ],
   "unique_name": "Seda",

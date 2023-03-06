@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,321 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,503 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 74 | [X \(with KAROL G\)](https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 3:05 |
 | 75 | [Speechless \(feat\. Erika Sirola\)](https://open.spotify.com/track/1rCcsYnmqbMYdkG7kS9GC5) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [Speechless \(feat\. Erika Sirola\)](https://open.spotify.com/album/6c9vwMfJN8ojcFFmPWEPRE) | 3:34 |
 | 76 | [90s Kids](https://open.spotify.com/track/34evGV6SaoRLHTcXXUVOpb) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [90s Kids](https://open.spotify.com/album/3AAFCYRP4Rje75J6FORJMJ) | 2:43 |
-| 77 | [Better When You're Gone](https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Better When You're Gone](https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o) | 3:12 |
-| 78 | [Beautiful People \(feat\. Khalid\) \- NOTD Remix](https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Beautiful People \(feat\. Khalid\) \[NOTD Remix\]](https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2) | 2:42 |
+| 77 | [Beautiful People \(feat\. Khalid\) \- NOTD Remix](https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Beautiful People \(feat\. Khalid\) \[NOTD Remix\]](https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2) | 2:42 |
+| 78 | [Better When You're Gone](https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Better When You're Gone](https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o) | 3:12 |
 | 79 | [Close Your Eyes](https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Close Your Eyes](https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE) | 2:40 |
-| 80 | [Be Kind](https://open.spotify.com/track/5pE4OLVJh5rjaLERbUgBB2) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Be Kind](https://open.spotify.com/album/1mWXLzWQS9hleyqLwPGu8r) | 3:01 |
+| 80 | [Whenever \(feat\. Conor Maynard\)](https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [The Boy Next Door](https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Whenever \(feat\. Conor Maynard\)](https://open.spotify.com/album/5so9rCf7p2L6w6o4KZahE9) | 2:43 |
 
-Snapshot ID: `MTYyOTQ0NzY1MywwMDAwMDAwMGY4NDllY2ZlNGY3M2E3NzAyODNiMDRmM2VhNjRmMGZm`
+Snapshot ID: `MTYyOTQ0NzY1MywwMDAwMDAwMDM0ZWU5MzRmOTFlODMwNjI3ODA1MDZhN2RlN2NiOGJj`

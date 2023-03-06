@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-438 songs - 17 hr 16 min
+439 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [COBRA TATE PHONK](https://open.spotify.com/track/3dQS8RE6XYCpCwAkdNXauN) | [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU) | [COBRA TATE PHONK](https://open.spotify.com/album/7kIG5Uj11WQH4TEv7zB3k9) | 2:32 | 2023-01-20 | 2023-02-11 |
 | [COURAGE](https://open.spotify.com/track/6Yh78OTsqdERLpivX8hcN5) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [COURAGE](https://open.spotify.com/album/07Q4VYf7jvAftXoj2jcYHj) | 1:56 | 2022-10-21 | 2022-11-26 |
 | [COURAGE](https://open.spotify.com/track/56kfvPwk9KARklFwz5jwjJ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [COURAGE](https://open.spotify.com/album/7GRSvHSXrLcOqw4SlUVqFz) | 2:09 | 2022-07-01 | 2022-10-22 |
-| [COWBELL GOTH](https://open.spotify.com/track/5jI7JAn4KnCYwDaqwumdzP) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/2idbWu0Hfggy19r33ZFjqh) | 2:21 | 2023-02-10 |  |
+| [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 | 2023-02-10 |  |
+| [COWBELL GOTH](https://open.spotify.com/track/5jI7JAn4KnCYwDaqwumdzP) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/2idbWu0Hfggy19r33ZFjqh) | 2:21 | 2023-02-10 | 2023-03-06 |
 | [COWBELL WARRIOR!](https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/5XyrJDyXLimURWjVboM1tC) | 2:29 | 2022-06-17 |  |
 | [COWBELL WARRIOR!](https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt) | 2:29 | 2022-06-17 | 2023-01-14 |
 | [Crazy Phonk \- Remix](https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Phonk MixTape \(Remix\)](https://open.spotify.com/album/6CPevPVAkExLmMzVu1EO5u) | 1:57 | 2022-09-30 | 2022-11-04 |

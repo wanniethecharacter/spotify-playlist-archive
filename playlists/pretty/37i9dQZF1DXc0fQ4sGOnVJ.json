@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 146834,
+  "num_followers": 146849,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGRkMzc4MmQ0MDM5MGIzODkzMjE2NGI2NTBhM2E4YzU5",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDYwNzI3OGNlZWYxMmY1ZWNiYWZjNTBkYjIwM2ZhN2E0",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Mud Digger 4",
+        "url": "https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        },
+        {
+          "name": "JJ Lawhorn",
+          "url": "https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "Field Party",
+      "url": "https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Shawty In The Truck",
         "url": "https://open.spotify.com/album/3rzBqaNxEiFZ0Qjd0Isf8A"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 273501,
       "name": "Shawty In The Truck",
       "url": "https://open.spotify.com/track/0gvThRb8Wfo7Lotup0uVTg"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Mud Digger 4",
-        "url": "https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        },
-        {
-          "name": "JJ Lawhorn",
-          "url": "https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "Field Party",
-      "url": "https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Redneck for Life",
+        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        }
+      ],
+      "duration_ms": 172848,
+      "name": "Redneck for Life",
+      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Lethal",
         "url": "https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Redneck for Life",
-        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        }
-      ],
-      "duration_ms": 172848,
-      "name": "Redneck for Life",
-      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Was it Worth the Wait",
         "url": "https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm"
       },
@@ -1435,22 +1435,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Mustang on Mud Tires",
-        "url": "https://open.spotify.com/album/1wS58BaXXAfljI25qgTR4D"
+        "name": "Mud Digger 10",
+        "url": "https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp"
       },
       "artists": [
         {
-          "name": "Jay Allen",
-          "url": "https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0"
-        },
-        {
-          "name": "Nate Kenyon",
-          "url": "https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4"
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
         }
       ],
-      "duration_ms": 220595,
-      "name": "Mustang on Mud Tires",
-      "url": "https://open.spotify.com/track/3QkxCzzUXEGjqNlXeB0fMy"
+      "duration_ms": 162332,
+      "name": "Kiss My Ass",
+      "url": "https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid"
     }
   ],
   "unique_name": "Field Party",

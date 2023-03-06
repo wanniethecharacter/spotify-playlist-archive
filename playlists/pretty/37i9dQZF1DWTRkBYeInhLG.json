@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu adem untuk segala suasana.",
-  "num_followers": 394322,
+  "num_followers": 394496,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEzMjgzNiwwMDAwMDAwMGQ2MTU3OTY1ZTAxYmJmMDA4MWU2ZDMyZGM1OWY3ZjMy",
+  "snapshot_id": "MTY3NzEzMjgzNiwwMDAwMDAwMDQyYzliNTU5YWEzZjI3N2UyNjg2MDU1NzEwMDBmZGM4",
   "tracks": [
     {
       "added_at": "2023-02-23 06:13:56",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Melawan Restu",
-        "url": "https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 219896,
-      "name": "Melawan Restu",
-      "url": "https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL"
-    },
-    {
-      "added_at": "2023-02-23 06:13:56",
-      "album": {
         "name": "Tulus",
         "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Dunia Batas",
-        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+        "name": "Melawan Restu",
+        "url": "https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0"
       },
       "artists": [
         {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
         }
       ],
-      "duration_ms": 342000,
-      "name": "Untuk Perempuan Yang Sedang Di Pelukan",
-      "url": "https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8"
+      "duration_ms": 219896,
+      "name": "Melawan Restu",
+      "url": "https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -467,6 +451,22 @@
       "duration_ms": 207937,
       "name": "Kenangan Manis",
       "url": "https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn"
+    },
+    {
+      "added_at": "2023-02-23 06:13:56",
+      "album": {
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+      },
+      "artists": [
+        {
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Untuk Perempuan Yang Sedang Di Pelukan",
+      "url": "https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Gajah",
-        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 219284,
-      "name": "Sepatu",
-      "url": "https://open.spotify.com/track/73DWDOjVUyJ8sAiAcySvgS"
-    },
-    {
-      "added_at": "2023-02-23 06:13:56",
-      "album": {
         "name": "Aku Yang Salah",
         "url": "https://open.spotify.com/album/3H5eQDyoOyoOy9yYXnyTPh"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 250122,
       "name": "Aku Yang Salah",
       "url": "https://open.spotify.com/track/0OgwkVbQ4jVfsZJO4Xs9hC"
+    },
+    {
+      "added_at": "2023-02-23 06:13:56",
+      "album": {
+        "name": "Gajah",
+        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 219284,
+      "name": "Sepatu",
+      "url": "https://open.spotify.com/track/73DWDOjVUyJ8sAiAcySvgS"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Labirin",
-        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 182656,
-      "name": "Labirin",
-      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
-    },
-    {
-      "added_at": "2023-02-23 06:13:56",
-      "album": {
         "name": "Tempat Aku Pulang",
         "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
+        "name": "Labirin",
+        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 182656,
+      "name": "Labirin",
+      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
+    },
+    {
+      "added_at": "2023-02-23 06:13:56",
+      "album": {
         "name": "RAN For Your Life",
         "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
       },
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Tulus",
-        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
+        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
+        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
       "artists": [
         {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
         }
       ],
-      "duration_ms": 222893,
-      "name": "Teman Hidup",
-      "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
+      "duration_ms": 249503,
+      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
+      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
+        "name": "Tulus",
+        "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Teman Hidup",
+      "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
+    },
+    {
+      "added_at": "2023-02-23 06:13:56",
+      "album": {
         "name": "Ego & Fungsi Otak",
         "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 243413,
       "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
       "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
-    },
-    {
-      "added_at": "2023-02-23 06:13:56",
-      "album": {
-        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
-        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 249503,
-      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
-      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -943,18 +943,22 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Like All My Friends",
-        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
+        "name": "Meant 2 Be",
+        "url": "https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd"
       },
       "artists": [
         {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+          "name": "Shakira Jasmine",
+          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+        },
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
         }
       ],
-      "duration_ms": 187918,
-      "name": "Like All My Friends",
-      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
+      "duration_ms": 277359,
+      "name": "Meant 2 Be",
+      "url": "https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -975,22 +979,18 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Meant 2 Be",
-        "url": "https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd"
+        "name": "Like All My Friends",
+        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
       },
       "artists": [
         {
-          "name": "Shakira Jasmine",
-          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
-        },
-        {
-          "name": "Nuca",
-          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
         }
       ],
-      "duration_ms": 277359,
-      "name": "Meant 2 Be",
-      "url": "https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4"
+      "duration_ms": 187918,
+      "name": "Like All My Friends",
+      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
       "added_at": "2023-02-23 06:13:56",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-02-23 06:13:56",
       "album": {
-        "name": "Nowhere to Go",
-        "url": "https://open.spotify.com/album/5TE09M0eIZSl83RGPrusxU"
+        "name": "Harus Bahagia",
+        "url": "https://open.spotify.com/album/5Hb50nIh6byYRzkyTYHxUG"
       },
       "artists": [
         {
-          "name": "Endah N Rhesa",
-          "url": "https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7"
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
         }
       ],
-      "duration_ms": 271653,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/2XWsariqeTCH61B53r8yA3"
+      "duration_ms": 173809,
+      "name": "Harus Bahagia",
+      "url": "https://open.spotify.com/track/6nPZx4xtBSX1x641ktitSY"
     }
   ],
   "unique_name": "Santai Sejenak",

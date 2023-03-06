@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 38964,
+  "num_followers": 39026,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMDBmZmUxNmI0NWE0ZmVhYmNlMTg2MjkwZmFkMjAwMjVm",
+  "snapshot_id": "MTY3MjQ0NzE4NSwwMDAwMDAwMGUzZDY1ZTMzMzQ0Njk1NDVhYzJmYWRjNDYwN2YwZTMw",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "I Love The Nightlife",
-        "url": "https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v"
-      },
-      "artists": [
-        {
-          "name": "Alicia Bridges",
-          "url": "https://open.spotify.com/artist/1UY4oIFpjCKe5qIhKDcloe"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "I Love The Nightlife (Disco 'Round)",
-      "url": "https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "The Boss (Expanded Edition)",
         "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 274560,
       "name": "It's My House",
       "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "I Love The Nightlife",
+        "url": "https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v"
+      },
+      "artists": [
+        {
+          "name": "Alicia Bridges",
+          "url": "https://open.spotify.com/artist/1UY4oIFpjCKe5qIhKDcloe"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "I Love The Nightlife (Disco 'Round)",
+      "url": "https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 221026,
       "name": "Burn This Disco Out",
       "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "The Boss",
-      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Stand on the Word",
-        "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
-      },
-      "artists": [
-        {
-          "name": "The Joubert Singers",
-          "url": "https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9"
-        }
-      ],
-      "duration_ms": 303692,
-      "name": "Stand on the Word (Studio Version)",
-      "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Keep On Jumpin'",
         "url": "https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 339946,
       "name": "Keep On Jumpin'",
       "url": "https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Stand on the Word",
+        "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
+      },
+      "artists": [
+        {
+          "name": "The Joubert Singers",
+          "url": "https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9"
+        }
+      ],
+      "duration_ms": 303692,
+      "name": "Stand on the Word (Studio Version)",
+      "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Don't You Want My Love",
-        "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
-      },
-      "artists": [
-        {
-          "name": "Debbie Jacobs",
-          "url": "https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL"
-        }
-      ],
-      "duration_ms": 468831,
-      "name": "Don't You Want My Love - Remastered",
-      "url": "https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Inner Life",
         "url": "https://open.spotify.com/album/7ldc7KAIZ3JmsuCwIHcS2B"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 479600,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/51uChSR8zp4cui4tLqiXb6"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Don't You Want My Love",
+        "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
+      },
+      "artists": [
+        {
+          "name": "Debbie Jacobs",
+          "url": "https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL"
+        }
+      ],
+      "duration_ms": 468831,
+      "name": "Don't You Want My Love - Remastered",
+      "url": "https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
-        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
-      },
-      "artists": [
-        {
-          "name": "Ashford & Simpson",
-          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
-        }
-      ],
-      "duration_ms": 423240,
-      "name": "Found a Cure - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Take A Bite",
         "url": "https://open.spotify.com/album/5zf588YtEJAR9rQBP8NeOb"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 360506,
       "name": "Touch Me In The Morning",
       "url": "https://open.spotify.com/track/4RoYXfnJ0HHDPUDAlrXDPa"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
+        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
+      },
+      "artists": [
+        {
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
+        }
+      ],
+      "duration_ms": 423240,
+      "name": "Found a Cure - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
     },
     {
       "added_at": "2022-12-31 00:39:45",

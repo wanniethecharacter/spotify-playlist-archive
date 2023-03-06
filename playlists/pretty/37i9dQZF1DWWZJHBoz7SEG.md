@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Vivir Quintana, Thalia y Kenia Os, Nicki, Bruses y más morras power para iniciar Marzo con todo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,716 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,788 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

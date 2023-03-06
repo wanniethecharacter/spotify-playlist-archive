@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Lana Del Rey
 
-438 songs - 1 day 2 hr 42 min
+439 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [as good as it gets](https://open.spotify.com/track/2dzxhYF58sHCpdW9Gzmomu) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [as good as it gets](https://open.spotify.com/album/45MIdoIvO9PgGZAJ1U80Ei) | 2:56 | 2021-09-03 | 2022-07-17 |
 | [Ashes to Ashes](https://open.spotify.com/track/50q5nJF04f4SXabsfFYWq1) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Ashes to Ashes](https://open.spotify.com/album/1kBAmnC0PDWR9IqA1y51gX) | 5:10 | 2022-03-08 | 2022-04-19 |
 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 | 2023-03-02 |  |
+| [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 | 2023-03-02 |  |
 | [Bada Bing Bada Boom \(feat\. Zag\)](https://open.spotify.com/track/1lUD1nH1Kegd1cfFnRmi5c) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf), [Zag](https://open.spotify.com/artist/0K0shHKytYy0r1v29fK719) | [One BeyonD](https://open.spotify.com/album/5TPLQgRQsuInJAMo9mHUH1) | 3:12 | 2021-09-03 | 2022-04-21 |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2022-03-08 |  |
 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 | 2021-09-03 | 2022-03-10 |
@@ -366,7 +367,7 @@
 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 | 2021-09-03 | 2022-04-21 |
 | [Sword](https://open.spotify.com/track/1JD7KawV8TrUPz0aDUrTwA) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Sword](https://open.spotify.com/album/3Rp4BZIa3FPB1KV8bpinZm) | 3:02 | 2021-09-03 | 2022-07-29 |
 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Take Care of You / Summertime](https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa) | 3:34 | 2021-09-03 | 2022-04-18 |
-| [Teen Age Riot \(Album Version\)](https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Deluxe Edition\)](https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI) | 6:57 | 2022-03-08 |  |
+| [Teen Age Riot \(Album Version\)](https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Deluxe Edition\)](https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI) | 6:57 | 2022-03-08 | 2023-03-06 |
 | [Teeth](https://open.spotify.com/track/4xgXivGYKauPmdv8YoBWbp) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Teeth](https://open.spotify.com/album/22La1ks9s5n2pNQgEhW0Xj) | 3:09 | 2022-03-08 | 2022-07-29 |
 | [Tenderness](https://open.spotify.com/track/2HsKkeVWys5Ts20z3e5lT0) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/6ufXh8u7kIJE5EiutbOjyj) | 4:01 | 2021-09-03 | 2022-07-29 |
 | [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 | 2023-03-02 |  |

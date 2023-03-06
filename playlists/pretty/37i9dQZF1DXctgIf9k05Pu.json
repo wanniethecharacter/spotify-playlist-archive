@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 226231,
+  "num_followers": 226387,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMGU3MWYwMjg1Yzc1OWQ5OTA0ZTZiNDRkZWUxODI2YTU5",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDIwYWFiY2ZiMjhiMzJkNzU1MjNkNGRhNTEwMTdhZjQz",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Collection",
-        "url": "https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9"
-      },
-      "artists": [
-        {
-          "name": "90sFlav",
-          "url": "https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C"
-        }
-      ],
-      "duration_ms": 126250,
-      "name": "Call me",
-      "url": "https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Holo",
         "url": "https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 164000,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9"
+      },
+      "artists": [
+        {
+          "name": "90sFlav",
+          "url": "https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C"
+        }
+      ],
+      "duration_ms": 126250,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "lovesick",
-        "url": "https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "lovesick",
-      "url": "https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Sorry, I Like You",
         "url": "https://open.spotify.com/album/7EZ0zxMKXkJZGZBESFJZGA"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 122790,
       "name": "Sorry, I Like You",
       "url": "https://open.spotify.com/track/34MqDD3411uJQvXsqpZv3D"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "lovesick",
+        "url": "https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "lovesick",
+      "url": "https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "waking up in the park",
-        "url": "https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod"
-      },
-      "artists": [
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        }
-      ],
-      "duration_ms": 68571,
-      "name": "waking up in the park",
-      "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "unexpected",
         "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 86571,
       "name": "viola",
       "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "waking up in the park",
+        "url": "https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod"
+      },
+      "artists": [
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        }
+      ],
+      "duration_ms": 68571,
+      "name": "waking up in the park",
+      "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
     },
     {
       "added_at": "2022-02-02 00:21:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: أصالة نصري
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,402 likes - 52 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,425 likes - 52 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 16 | [Taraf Thaleth](https://open.spotify.com/track/4o6I7GW1LXGpEV3upoYxlb) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Taraf Thaleth](https://open.spotify.com/album/10nwn4BzwNQAnePtj07bwo) | 3:54 |
 | 17 | [يذكرني الشتاء](https://open.spotify.com/track/7m8xFOiG78eaTpnWCVT5Xp) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [يذكرني الشتاء](https://open.spotify.com/album/2H1sagWhwYpDkxI3lprHUC) | 2:55 |
 | 18 | [Dayem As2al](https://open.spotify.com/track/4P5CkS0Omk3weM19g82WXb) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Dayem As2al](https://open.spotify.com/album/4Es99k05nZJfeVH300PR8Q) | 3:46 |
-| 19 | [Wetha Yaani](https://open.spotify.com/track/1AVs6owHMcViBmCphwxICa) | [Nasser Naaif](https://open.spotify.com/artist/33bjbNhbiBxt1GoUQeYl96) | [Wetha Yaani](https://open.spotify.com/album/0tRiqBGwVie1KHRqABqXOU) | 3:17 |
+| 19 | [واذا يعني](https://open.spotify.com/track/1AVs6owHMcViBmCphwxICa) | [ناصر نايف](https://open.spotify.com/artist/3nyPw7YNMNY6acdKOCj45r) | [واذا يعني](https://open.spotify.com/album/0tRiqBGwVie1KHRqABqXOU) | 3:17 |
 | 20 | [جماله](https://open.spotify.com/track/5Eummjh47ivk2y8y7OEaBX) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [جماله](https://open.spotify.com/album/5YDNtwvDQbQObi32lPZqq1) | 3:52 |
 | 21 | [هنيالو](https://open.spotify.com/track/28L8RTHgg9XPvDtL3R0pmX) | [أروى](https://open.spotify.com/artist/6Rl7uv3qQrsZOhgu7Xj9Zj) | [هنيالو](https://open.spotify.com/album/24San4mNpcyhkYH4oiu0iO) | 3:40 |
 | 22 | [Ana Al Sadeq](https://open.spotify.com/track/5oVHTvO2sQ2xPknS1umd0p) | [Moner Zayed](https://open.spotify.com/artist/5cEK4do8F3Ln4G7XOvcpXa) | [Ana Al Sadeq](https://open.spotify.com/album/73VepX2okJI7LPnJ43BHDN) | 3:20 |

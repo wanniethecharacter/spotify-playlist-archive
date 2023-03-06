@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=sQ87jc2iSR6nDQ6ak2mC9g">Myztro</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,204 likes - 50 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,939 likes - 50 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

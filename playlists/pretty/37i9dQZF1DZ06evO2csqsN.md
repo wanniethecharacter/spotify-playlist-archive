@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,383 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,408 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Longway](https://open.spotify.com/track/25AujQLIytQyTmdEIVRE8V) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Latto](https://open.spotify.com/album/3JfwblqPm4qtegXObm9ZiM) | 2:41 |
 | 50 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap \(feat\. Latto\)](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 |
 
-Snapshot ID: `Mjc5NjU2NTksMDAwMDAwMDA1NzMxZjE0ZDVjNzlkMDRiNDUyNjljZWM4NGM2NTExNg==`
+Snapshot ID: `Mjc5NjY5NzgsMDAwMDAwMDAzNzk2NDlmNDVjMGVlZTEyNTcwYmFiZTQ4ZDEwYWFjYw==`

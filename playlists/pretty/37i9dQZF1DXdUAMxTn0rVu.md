@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Jean Grae
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,571 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,872 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 21 | [Mastermind](https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz) | [Deltron 3030](https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl), [Dan The Automator](https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01), [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Deltron 3030](https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye) | 3:34 |
 | 22 | [Blast](https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K) | [Reflection Eternal](https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [Train Of Thought](https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx) | 3:07 |
 | 23 | [Thieves In The Night](https://open.spotify.com/track/7tx1TUJrT6qxXFXAELqbev) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 5:11 |
-| 24 | [Your Fuckin’ Head Split](https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9) | [Necro](https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7) | [I Need Drugs](https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f) | 3:02 |
-| 25 | [Design in Malice](https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG) | [Jedi Mind Tricks](https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc), [Young Zee](https://open.spotify.com/artist/4OqgHlGnIFHukth5CY1Ejj), [Pacewon](https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt) | [Violence Begets Violence](https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5) | 3:38 |
+| 24 | [Design in Malice](https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG) | [Jedi Mind Tricks](https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc), [Young Zee](https://open.spotify.com/artist/4OqgHlGnIFHukth5CY1Ejj), [Pacewon](https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt) | [Violence Begets Violence](https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5) | 3:38 |
+| 25 | [Your Fuckin’ Head Split](https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9) | [Necro](https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7) | [I Need Drugs](https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f) | 3:02 |
 | 26 | [Forest Whitiker](https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Shadows On The Sun](https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K) | 3:00 |
 | 27 | [The Look of Love, Pt\. 1](https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [J\-88](https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta) | 3:38 |
 | 28 | [Workinonit](https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW) | 2:57 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 44 | [Deception](https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR) | [Blackalicious](https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG) | [Nia](https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I) | 5:11 |
 | 45 | [Never Fallin'](https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z) | [Living Legends](https://open.spotify.com/artist/0E4UA1bttJjSFNgAkLyQuo) | [Classic](https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt) | 5:22 |
 | 46 | [Don't Play](https://open.spotify.com/track/51DHGAvIbCO1HJMDjq45rT) | [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [The Best Part](https://open.spotify.com/album/7lvkfeGllsua86JXtLunNG) | 5:04 |
-| 47 | [Western Ways, Pt\. 2 \(La Seleccion\) \(feat\. Big Punisher & JuJu\)](https://open.spotify.com/track/0dUKYPzjFe0tJYCKf3USWi) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U), [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [Here Come The Horns](https://open.spotify.com/album/0crKVrdcLTyzjfZL2QpwTq) | 4:00 |
-| 48 | [Clear Blue Skies](https://open.spotify.com/track/7f8dNc5pNiwCZIX6A7uYKB) | [Juggaknots](https://open.spotify.com/artist/0kU2Phi8xn8Sd6pC2qXxs5) | [Re:Release](https://open.spotify.com/album/250mnkB8GWZaBKVTC1yLP0) | 3:55 |
+| 47 | [Clear Blue Skies](https://open.spotify.com/track/7f8dNc5pNiwCZIX6A7uYKB) | [Juggaknots](https://open.spotify.com/artist/0kU2Phi8xn8Sd6pC2qXxs5) | [Re:Release](https://open.spotify.com/album/250mnkB8GWZaBKVTC1yLP0) | 3:55 |
+| 48 | [Western Ways, Pt\. 2 \(La Seleccion\) \(feat\. Big Punisher & JuJu\)](https://open.spotify.com/track/0dUKYPzjFe0tJYCKf3USWi) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U), [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [Here Come The Horns](https://open.spotify.com/album/0crKVrdcLTyzjfZL2QpwTq) | 4:00 |
 | 49 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 | 50 | [Thick](https://open.spotify.com/track/3UB7VJpumOOpJ0gKfq7Hgk) | [D.I.T.C.](https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [D.I.T.C.](https://open.spotify.com/album/1LtskoW9DkoA4xgST9LXJW) | 3:42 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDg4YjM0NThjMDg2YTMxOTE0MDczZTk1NDdhYjA2YzUz`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDM0NWRlNmJhZTg0YWRlNTMwNWQzMTE3NzA0NTAxYzI5`

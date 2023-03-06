@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,249 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,290 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 27 | [The Joint is Jumpin'](https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1) | [Ray Gelato](https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3) | [Salutes the Great Entertainers](https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s) | 2:45 |
 | 28 | [Oo Poppa Do](https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [One Hour Mama](https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk) | 3:13 |
 | 29 | [The Ding Dong Daddy of the D Car Line](https://open.spotify.com/track/4uxRacg0PBqOIan3lhJ3Xt) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [rapid city muscle car](https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i) | 3:34 |
-| 30 | [Planet Jive](https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Planet Jive](https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7) | 3:52 |
-| 31 | [Hey Señorita](https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:15 |
+| 30 | [Hey Señorita](https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:15 |
+| 31 | [Planet Jive](https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Planet Jive](https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7) | 3:52 |
 | 32 | [Go Daddy O](https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 3:12 |
 | 33 | [Swing Baby!](https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC) | [Big Rude Jake](https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA) | [Blue Pariah](https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS) | 3:22 |
 | 34 | [Swing Sweet Pussycat](https://open.spotify.com/track/5EK0gbkVLrLtOvwXy7PWEW) | [The Atomic Fireballs](https://open.spotify.com/artist/3gv1hh37jyGKfyAjFvv7No) | [Torch This Place](https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [Jumptown](https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:40 |
 | 50 | [prozac](https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 4:45 |
 
-Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMGZlYTA5YjRiZGIzZDVjZmNhZDRjM2Q4ODJjZmFiNzc3`
+Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMGM5MjZiOGJkODg3YzI4NmQ4MDJmMjNmNmQyOTg5MDM2`

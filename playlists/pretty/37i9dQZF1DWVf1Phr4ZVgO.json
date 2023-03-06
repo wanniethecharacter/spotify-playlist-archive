@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 973525,
+  "num_followers": 973844,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY2MDYxOCwwMDAwMDAwMDFhMzQyNmJkMDNiZGVmNzllZDkyMWYzYmY3ZTQ5YTQx",
+  "snapshot_id": "MTY3NzY2MDYxOCwwMDAwMDAwMGE5ZGFlY2E4ODYxMjdlOTkyMDM4OThjMzE4ZTExMTA4",
   "tracks": [
     {
       "added_at": "2023-03-01 08:50:18",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-03-01 08:50:18",
       "album": {
+        "name": "The Legendary Bobby Darin",
+        "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 145933,
+      "name": "More - Remastered 2004",
+      "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
+    },
+    {
+      "added_at": "2023-03-01 08:50:18",
+      "album": {
         "name": "Ultimate Sinatra",
         "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 147146,
       "name": "Fly Me To The Moon",
       "url": "https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa"
-    },
-    {
-      "added_at": "2023-03-01 08:50:18",
-      "album": {
-        "name": "The Legendary Bobby Darin",
-        "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 145933,
-      "name": "More - Remastered 2004",
-      "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
     },
     {
       "added_at": "2023-03-01 08:50:18",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-03-01 08:50:18",
       "album": {
-        "name": "A Swingin' Affair! (Remastered)",
-        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "The Lady Is A Tramp - Remastered",
-      "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
-    },
-    {
-      "added_at": "2023-03-01 08:50:18",
-      "album": {
         "name": "The Genius Of Ray Charles",
         "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 283093,
       "name": "When I Fall in Love (feat. Chris Botti)",
       "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
+    },
+    {
+      "added_at": "2023-03-01 08:50:18",
+      "album": {
+        "name": "A Swingin' Affair! (Remastered)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "The Lady Is A Tramp - Remastered",
+      "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
     },
     {
       "added_at": "2023-03-01 08:50:18",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-03-01 08:50:18",
       "album": {
-        "name": "Sinatra And Swingin' Brass",
-        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
-    },
-    {
-      "added_at": "2023-03-01 08:50:18",
-      "album": {
         "name": "Michael Bubl\u00e9",
         "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2023-03-01 08:50:18",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 172480,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S"
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
     },
     {
       "added_at": "2023-03-01 08:50:18",
@@ -663,6 +647,22 @@
     {
       "added_at": "2023-03-01 08:50:18",
       "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/2EIaO5knwUA3F2qnf9LV3S"
+    },
+    {
+      "added_at": "2023-03-01 08:50:18",
+      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
         "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 165133,
       "name": "Sway (Quien Sera)",
       "url": "https://open.spotify.com/track/3QyPsavxL681NX7SPVGd5T"
-    },
-    {
-      "added_at": "2023-03-01 08:50:18",
-      "album": {
-        "name": "Ultimate Sinatra",
-        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/6lTTzSk1hRrxp4VMwXBp2l"
     },
     {
       "added_at": "2023-03-01 08:50:18",
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-03-01 08:50:18",
       "album": {
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/6lTTzSk1hRrxp4VMwXBp2l"
+    },
+    {
+      "added_at": "2023-03-01 08:50:18",
+      "album": {
         "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
         "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6"
       },
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-03-01 08:50:18",
       "album": {
-        "name": "Someone To Watch Over Me",
-        "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Let's Do It (Let's Fall In Love)",
-      "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
-    },
-    {
-      "added_at": "2023-03-01 08:50:18",
-      "album": {
         "name": "Johnny's Greatest Hits",
         "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
       },
@@ -867,18 +847,22 @@
     {
       "added_at": "2023-03-01 08:50:18",
       "album": {
-        "name": "Begin The Beguine",
-        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
+        "name": "Someone To Watch Over Me",
+        "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
       },
       "artists": [
         {
-          "name": "Artie Shaw",
-          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
+      "duration_ms": 215520,
+      "name": "Let's Do It (Let's Fall In Love)",
+      "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
     },
     {
       "added_at": "2023-03-01 08:50:18",
@@ -899,6 +883,22 @@
     {
       "added_at": "2023-03-01 08:50:18",
       "album": {
+        "name": "Begin The Beguine",
+        "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
+      },
+      "artists": [
+        {
+          "name": "Artie Shaw",
+          "url": "https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0"
+    },
+    {
+      "added_at": "2023-03-01 08:50:18",
+      "album": {
         "name": "To Be Loved",
         "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 185693,
       "name": "You Make Me Feel so Young",
       "url": "https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2"
-    },
-    {
-      "added_at": "2023-03-01 08:50:18",
-      "album": {
-        "name": "My One And Only Thrill",
-        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Baby I'm A Fool",
-      "url": "https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr"
     },
     {
       "added_at": "2023-03-01 08:50:18",
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-03-01 08:50:18",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
+    },
+    {
+      "added_at": "2023-03-01 08:50:18",
+      "album": {
         "name": "I Wanna Be Around",
         "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
       },
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-03-01 08:50:18",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
         }
       ],
-      "duration_ms": 194040,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
+      "duration_ms": 210693,
+      "name": "Baby I'm A Fool",
+      "url": "https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr"
     },
     {
       "added_at": "2023-03-01 08:50:18",

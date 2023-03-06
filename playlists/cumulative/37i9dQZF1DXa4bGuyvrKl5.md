@@ -4,7 +4,7 @@
 
 > Swedish house icons <a href="spotify:artist:6rgEPiKjowlMKZC1DF6W75">Rebecca & Fiona</a> kicking off rave season with their gem filled spring mix!
 
-16 songs - 1 hr 0 min
+17 songs - 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Kaleidoscope \- Mixed](https://open.spotify.com/track/0QZfoiPkdTyPtSqCfOVTLr) | [Will Easton](https://open.spotify.com/artist/2kPAmoZKlDB8ktz6SFPsLW) | [Kaleidoscope \(Mixed\)](https://open.spotify.com/album/35ImnGmiohoPJ58XIEj12w) | 4:03 | 2022-05-04 |  |
 | [Live at K\-Market \- Rescue Remix \- Mixed](https://open.spotify.com/track/5Sha6qkVWumS9TlouXyZkq) | [Conga Squad](https://open.spotify.com/artist/5aUIPdoeRAoDLRp4y3oA4s), [Rescue](https://open.spotify.com/artist/1GVjMZ1m9HUdFrUwchuadj) | [Live at K\-Market \- Rescue Remix \(Mixed\)](https://open.spotify.com/album/4JQSKDNVcbqIlr0P6NrV3f) | 5:05 | 2022-05-04 |  |
 | [Local Newspaper \- Mixed](https://open.spotify.com/track/3JgaSgkMSXwdf9MsM8wD9X) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Local Newspaper \(Mixed\)](https://open.spotify.com/album/1A7mKkVnLDdfK8mQXoT6RD) | 3:41 | 2022-05-04 |  |
-| [Make Me \- Mixed](https://open.spotify.com/track/7EVZACrGhiWqBuZUan1vUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO) | [Make Me \(Mixed\)](https://open.spotify.com/album/3TBrWoSrenee0m1kl6CuJY) | 3:34 | 2022-05-04 |  |
+| [Make Me \- Mixed](https://open.spotify.com/track/6aE0RcdpbZyctw36dMyg8G) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1) | [Make Me \(Mixed\)](https://open.spotify.com/album/6QjdYpKjW1kB0UpdgpmaOj) | 3:34 | 2022-05-04 |  |
+| [Make Me \- Mixed](https://open.spotify.com/track/7EVZACrGhiWqBuZUan1vUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO) | [Make Me \(Mixed\)](https://open.spotify.com/album/3TBrWoSrenee0m1kl6CuJY) | 3:34 | 2022-05-04 | 2023-03-06 |
 | [On My Mind \- Mixed](https://open.spotify.com/track/1JtX0q1ssnTqBa5uhWzyWG) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [On My Mind \(Mixed\)](https://open.spotify.com/album/0FOilUTNNhhoms3lKs2mVy) | 2:17 | 2022-05-04 |  |
 | [Sweetest Delight \- DJ City Remix \- Mixed](https://open.spotify.com/track/76MKwYQhindFzqvpE20gB4) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [DJ CITY](https://open.spotify.com/artist/52c8wOVJiBoVy5csR9SSWj) | [Sweetest Delight \- DJ City Remix \(Mixed\)](https://open.spotify.com/album/1DVh6qIDSlQMs5TAEjMcRU) | 4:08 | 2022-05-04 |  |
 | [Tell Me Something Good \- Mixed](https://open.spotify.com/track/1WbGQJrIv5XQXS2nHuurSe) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good \(Mixed\)](https://open.spotify.com/album/3fAROdZSAuyTBd5CikWj9K) | 3:57 | 2022-05-04 |  |

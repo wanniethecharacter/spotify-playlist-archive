@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-73 songs - 6 hr 8 min
+74 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Fi Madinati](https://open.spotify.com/track/1XIiHP2ho4Oump990NN1jR) | [Wass On Earth](https://open.spotify.com/artist/3gaOU8JQKa7Ux72eCUSok8) | [Axis of Love](https://open.spotify.com/album/6Cl8n0TpMSWj0euSmYe8QH) | 9:42 | 2022-05-30 | 2023-03-05 |
 | [Fi Madinati](https://open.spotify.com/track/6GJ1pjmqotteD9lA4rNOtV) | [Wass On Earth](https://open.spotify.com/artist/3gaOU8JQKa7Ux72eCUSok8) | [Axis of Love](https://open.spotify.com/album/67ov4zrvRkfQ2lWLlPax7b) | 9:42 | 2022-10-04 |  |
 | [FIRAQ \- Live Album](https://open.spotify.com/track/3Vh0j8QfllQZfXDijRfnmS) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 3:14 | 2022-05-30 |  |
-| [Flix Bus Nach Beirut](https://open.spotify.com/track/2jM7YpoXbuiRPqeAWipy35) | [Wass On Earth](https://open.spotify.com/artist/3gaOU8JQKa7Ux72eCUSok8) | [Axis of Love](https://open.spotify.com/album/6Cl8n0TpMSWj0euSmYe8QH) | 9:10 | 2022-05-30 |  |
+| [Flix Bus Nach Beirut](https://open.spotify.com/track/1WDSEV3fF4DhY8amPG3XUy) | [Wass On Earth](https://open.spotify.com/artist/3gaOU8JQKa7Ux72eCUSok8) | [Axis of Love](https://open.spotify.com/album/67ov4zrvRkfQ2lWLlPax7b) | 9:10 | 2022-10-04 |  |
+| [Flix Bus Nach Beirut](https://open.spotify.com/track/2jM7YpoXbuiRPqeAWipy35) | [Wass On Earth](https://open.spotify.com/artist/3gaOU8JQKa7Ux72eCUSok8) | [Axis of Love](https://open.spotify.com/album/6Cl8n0TpMSWj0euSmYe8QH) | 9:10 | 2022-05-30 | 2023-03-06 |
 | [Galah Waji](https://open.spotify.com/track/2JfxHSKimPmQ82IkxB9OwR) | [Etyen](https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk), [Salwa Jaradat](https://open.spotify.com/artist/1B1k1AzYdmZThsTLMnKMZa) | [Galah Waji](https://open.spotify.com/album/4xGaabwEk3IpHngMwjVS99) | 2:26 | 2022-05-30 |  |
 | [Goats Notes](https://open.spotify.com/track/0WK4eXhMyfvPhWHpszpKXV) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Monohøle](https://open.spotify.com/artist/75Xo8Q2H05f294UEIA0N8c) | [Goats Notes](https://open.spotify.com/album/6Za5x0KT7HHY2svIRUVdf4) | 6:44 | 2022-05-30 |  |
 | [Hashrab Hashish](https://open.spotify.com/track/039Zb2ZG9vf6q1uCEpUHyR) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK) | [Hashrab Hashish](https://open.spotify.com/album/0bH0hj3BPOXO5jGUDc0ApX) | 3:04 | 2022-10-04 | 2022-11-14 |

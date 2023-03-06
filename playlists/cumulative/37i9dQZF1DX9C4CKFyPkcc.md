@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-168 songs - 9 hr 56 min
+169 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/6rCdJDoe9gCKDtf2J5ms9A) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Rockin' Around the Christmas Tree](https://open.spotify.com/album/2r0s6DBklPX2xf4tTPenEQ) | 3:20 | 2022-11-26 |  |
 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2021-12-24 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 | 2021-12-24 |  |
+| [Santa la Noche](https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ) | 3:56 | 2022-12-11 |  |
 | [Saviour](https://open.spotify.com/track/7g6DscMtOV2ddOUsanh9Eo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Saviour](https://open.spotify.com/album/7noLUyCB1UokVaRfd7Zgom) | 4:18 | 2022-11-26 |  |
 | [Silent Night](https://open.spotify.com/track/3z63V6OraICzWEyTCcbezn) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift](https://open.spotify.com/album/1wI9NGtQCnhyweuVACpXW4) | 3:31 | 2021-12-24 |  |
 | [Silver Bells](https://open.spotify.com/track/3gndDjG0Lxsm2b1eH5nA0Z) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:17 | 2021-12-24 |  |
@@ -169,7 +170,7 @@
 | [What Christmas Is All About](https://open.spotify.com/track/3PhrcJwFctvygMmBkbrIal) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [What Christmas Is All About](https://open.spotify.com/album/2V2iD07k1eyamnVHAWcZDY) | 3:15 | 2022-12-11 |  |
 | [What Christmas Means to Me](https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [The Christmas Collection, Vol\. II](https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9) | 2:44 | 2022-12-11 |  |
 | [What Christmas Means To Me](https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:28 | 2021-12-24 |  |
-| [What Christmas Really Means](https://open.spotify.com/track/0ADx1ssYtTWJODfaTAfL8O) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [What Christmas Really Means](https://open.spotify.com/album/4ZNkaeKVTxeVewNBM9fLLw) | 4:07 | 2022-12-11 |  |
+| [What Christmas Really Means](https://open.spotify.com/track/0ADx1ssYtTWJODfaTAfL8O) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [What Christmas Really Means](https://open.spotify.com/album/4ZNkaeKVTxeVewNBM9fLLw) | 4:07 | 2022-12-11 | 2023-03-06 |
 | [White Christmas](https://open.spotify.com/track/5g3MZjhHJQAhqwP8jz2ahr) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [From Seed To Sequoia](https://open.spotify.com/album/3Aa8olM4RJ0Gc820cqvREs) | 1:33 | 2021-12-24 |  |
 | [White Christmas](https://open.spotify.com/track/5pteOm3ioLG03qmNL1lZJn) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [All Heaven And Nature Sing](https://open.spotify.com/album/3yGqcUTfaxgJVcjAmn3FWQ) | 4:23 | 2021-12-24 |  |
 | [White Christmas](https://open.spotify.com/track/1BtsXyRo4KHHhlJ3daoRXB) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [White Christmas](https://open.spotify.com/album/2M0e3x6XRFJClaE5qOL3lT) | 3:06 | 2021-12-24 |  |

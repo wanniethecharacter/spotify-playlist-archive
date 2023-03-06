@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 46185,
+  "num_followers": 46246,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDVjZjYxNmZlYjUyN2ZmYmQzZjI4MjAwZWFlYzA5YTkz",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDNiNDY4MWIxOTQ1ODFiMjMzMTQyMTFhN2M4ZWNiMDNj",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "The Joy of Music",
-        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "Living My Best Life",
-      "url": "https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Sleep Deprivation",
         "url": "https://open.spotify.com/album/59ISpDbHu7goYQimMo9oZp"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 155660,
       "name": "Sleep Deprivation",
       "url": "https://open.spotify.com/track/2A1FGotEDhN5UjBiLsUwnk"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "The Joy of Music",
+        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "Living My Best Life",
+      "url": "https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Optimist",
-        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 205286,
-      "name": "A Concert Six Months From Now",
-      "url": "https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x"
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -835,6 +819,22 @@
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Optimist",
+        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 205286,
+      "name": "A Concert Six Months From Now",
+      "url": "https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Castleman",
-          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
-        }
-      ],
-      "duration_ms": 248210,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Favorite Peeps",
         "url": "https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 193733,
       "name": "Favorite Peeps",
       "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Castleman",
+          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
+        }
+      ],
+      "duration_ms": 248210,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Foreign Sea",
+        "url": "https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 192489,
+      "name": "Far from Home",
+      "url": "https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
         "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 270426,
       "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
       "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Foreign Sea",
-        "url": "https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 192489,
-      "name": "Far from Home",
-      "url": "https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "With The Band / Bruises & Scratches",
-        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
-      },
-      "artists": [
-        {
-          "name": "Sophie May",
-          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
-        }
-      ],
-      "duration_ms": 173070,
-      "name": "With The Band",
-      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Colour Your World",
         "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 193367,
       "name": "If Not My Heart",
       "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "With The Band / Bruises & Scratches",
+        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "duration_ms": 173070,
+      "name": "With The Band",
+      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1539,22 +1539,6 @@
       "duration_ms": 252640,
       "name": "So Are We",
       "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/51V6vLEvHhYyFZgUXGqVFI"
-      },
-      "artists": [
-        {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
-        }
-      ],
-      "duration_ms": 181514,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/5tP2NMeAOujUeK0w3C96nh"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1679,6 +1663,22 @@
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "I Hope You Change Your Mind",
+        "url": "https://open.spotify.com/album/6cgwjBET2eGuuATztT790Q"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 172633,
+      "name": "I Hope You Change Your Mind",
+      "url": "https://open.spotify.com/track/0ZBLyBuUpOqMlLuRSgcnFh"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

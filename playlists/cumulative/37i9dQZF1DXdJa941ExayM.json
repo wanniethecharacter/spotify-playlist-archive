@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 244877,
       "name": "Ann",
       "url": "https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ"
@@ -1756,6 +1756,24 @@
       "duration_ms": 170080,
       "name": "I WANNA DIE BUT I CAN\u2019T (CUZ I GOTTA KEEP LIVING)",
       "url": "https://open.spotify.com/track/0lcwE4dOsg3HB2BiUJxurh"
+    },
+    {
+      "album": {
+        "name": "I Want Attention",
+        "url": "https://open.spotify.com/album/1H3SqVXlAOxhEf1RrU4gJf"
+      },
+      "artists": [
+        {
+          "name": "ZELA",
+          "url": "https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165354,
+      "name": "I Want Attention",
+      "url": "https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF"
     },
     {
       "album": {

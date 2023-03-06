@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 8462,
+  "num_followers": 8611,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDI5MmNlOTMyNzRlNTcwMGExNDM0ZTljNDcwN2M4Nzk5",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMGQ2MjcxYzg4NzIxNDI4NzA4ZmM1NDAwMGJiODc1ZDlm",
   "tracks": [
     {
       "added_at": "2022-09-14 09:57:38",
@@ -417,26 +417,6 @@
       "url": "https://open.spotify.com/track/3ynnErvgu27QSAuRIqoXYm"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Forever (TekniQ Remixes)",
-        "url": "https://open.spotify.com/album/5RjTdCcb2ECdmVTRmv3WN3"
-      },
-      "artists": [
-        {
-          "name": "Darque",
-          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
-        },
-        {
-          "name": "Presss",
-          "url": "https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354"
-        }
-      ],
-      "duration_ms": 355766,
-      "name": "Forever - TekniQ Soulful Mix",
-      "url": "https://open.spotify.com/track/2FzeNOgDgJvmfZS0dREVNA"
-    },
-    {
       "added_at": "2022-11-10 21:59:00",
       "album": {
         "name": "Next Generation",
@@ -455,6 +435,26 @@
       "duration_ms": 342887,
       "name": "Monomotapa",
       "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Forever (TekniQ Remixes)",
+        "url": "https://open.spotify.com/album/5RjTdCcb2ECdmVTRmv3WN3"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Presss",
+          "url": "https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354"
+        }
+      ],
+      "duration_ms": 355766,
+      "name": "Forever - TekniQ Soulful Mix",
+      "url": "https://open.spotify.com/track/2FzeNOgDgJvmfZS0dREVNA"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -549,28 +549,20 @@
       "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
+      "added_at": "2022-11-10 21:59:00",
       "album": {
-        "name": "Passage of Time",
-        "url": "https://open.spotify.com/album/7xojzMFeBooCCD0dxKx6OU"
+        "name": "Synonymous",
+        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
       },
       "artists": [
         {
-          "name": "DysFonik",
-          "url": "https://open.spotify.com/artist/4nXzfkdJt25bPkJ6JdcjsD"
-        },
-        {
-          "name": "Da Real Emkay",
-          "url": "https://open.spotify.com/artist/3fCLla6NLpXvcKZ6GYZxmt"
-        },
-        {
-          "name": "Odarka",
-          "url": "https://open.spotify.com/artist/1xmrPo8aAiz5r8zBSeCjoD"
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
         }
       ],
-      "duration_ms": 456430,
-      "name": "I Don't Wanna Feel This",
-      "url": "https://open.spotify.com/track/6BlBVZ4OfkGogpvknlLXNE"
+      "duration_ms": 412813,
+      "name": "Synonymous",
+      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -613,20 +605,28 @@
       "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
+      "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Synonymous",
-        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
+        "name": "Passage of Time",
+        "url": "https://open.spotify.com/album/7xojzMFeBooCCD0dxKx6OU"
       },
       "artists": [
         {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+          "name": "DysFonik",
+          "url": "https://open.spotify.com/artist/4nXzfkdJt25bPkJ6JdcjsD"
+        },
+        {
+          "name": "Da Real Emkay",
+          "url": "https://open.spotify.com/artist/3fCLla6NLpXvcKZ6GYZxmt"
+        },
+        {
+          "name": "Odarka",
+          "url": "https://open.spotify.com/artist/1xmrPo8aAiz5r8zBSeCjoD"
         }
       ],
-      "duration_ms": 412813,
-      "name": "Synonymous",
-      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
+      "duration_ms": 456430,
+      "name": "I Don't Wanna Feel This",
+      "url": "https://open.spotify.com/track/6BlBVZ4OfkGogpvknlLXNE"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -665,26 +665,6 @@
       "url": "https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "OOO: AFRO",
-        "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
-      },
-      "artists": [
-        {
-          "name": "OUT OF ORDER",
-          "url": "https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC"
-        },
-        {
-          "name": "C-Blak",
-          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
-        }
-      ],
-      "duration_ms": 466467,
-      "name": "Don't 4get To Call Me",
-      "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
-    },
-    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
@@ -707,6 +687,26 @@
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "OOO: AFRO",
+        "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
+      },
+      "artists": [
+        {
+          "name": "OUT OF ORDER",
+          "url": "https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC"
+        },
+        {
+          "name": "C-Blak",
+          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
+        }
+      ],
+      "duration_ms": 466467,
+      "name": "Don't 4get To Call Me",
+      "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -821,6 +821,22 @@
       "url": "https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN"
     },
     {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+      },
+      "artists": [
+        {
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+        }
+      ],
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+    },
+    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "With You",
@@ -847,18 +863,38 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+        "name": "Old but New Last Episode",
+        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
       },
       "artists": [
         {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
         }
       ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+      "duration_ms": 412264,
+      "name": "Sunday Showers",
+      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Multiverse Theory",
+        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
+      },
+      "artists": [
+        {
+          "name": "Devine Maestro",
+          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+        },
+        {
+          "name": "Ottis Blake",
+          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
+        }
+      ],
+      "duration_ms": 374257,
+      "name": "Multiverse Theory",
+      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -879,18 +915,18 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Old but New Last Episode",
-        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
+        "name": "BAUHAUS",
+        "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
       },
       "artists": [
         {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+          "name": "TimAdeep",
+          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
         }
       ],
-      "duration_ms": 412264,
-      "name": "Sunday Showers",
-      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
+      "duration_ms": 482979,
+      "name": "BAUHAUS",
+      "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -917,42 +953,6 @@
       "url": "https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "BAUHAUS",
-        "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
-      },
-      "artists": [
-        {
-          "name": "TimAdeep",
-          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
-        }
-      ],
-      "duration_ms": 482979,
-      "name": "BAUHAUS",
-      "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Multiverse Theory",
-        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
-      },
-      "artists": [
-        {
-          "name": "Devine Maestro",
-          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
-        },
-        {
-          "name": "Ottis Blake",
-          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
-        }
-      ],
-      "duration_ms": 374257,
-      "name": "Multiverse Theory",
-      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
-    },
-    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Thinking 'bout you",
@@ -973,6 +973,22 @@
       "url": "https://open.spotify.com/track/3rpMcYjuP9GZ1Ijoau4iUS"
     },
     {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/1cuuxsujV2CDpUAK2B4mnj"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        }
+      ],
+      "duration_ms": 368326,
+      "name": "Safari - Original Mix",
+      "url": "https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf"
+    },
+    {
       "added_at": "2022-11-10 21:59:00",
       "album": {
         "name": "Necessary",
@@ -991,22 +1007,6 @@
       "duration_ms": 395709,
       "name": "Love I Know",
       "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/1cuuxsujV2CDpUAK2B4mnj"
-      },
-      "artists": [
-        {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
-        }
-      ],
-      "duration_ms": 368326,
-      "name": "Safari - Original Mix",
-      "url": "https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf"
     }
   ],
   "unique_name": "Deep House Session",

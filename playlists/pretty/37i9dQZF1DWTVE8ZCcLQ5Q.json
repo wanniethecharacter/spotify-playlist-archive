@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421589,
+  "num_followers": 421571,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGUxZDA3YmEyMzNiM2MzNmM4ODVjNzE2ZDdhOWI3NGI3",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGViYWM5ZDljZTFlOGZkOWE1ZDMyMjY4MWQxYzUyOGE1",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Comum - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
-      },
-      "artists": [
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Comum - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "O \u00daltimo Xote do Ano",
         "url": "https://open.spotify.com/album/6B04k65vhdRfHltr7Gy18s"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 192170,
       "name": "O \u00daltimo Xote do Ano",
       "url": "https://open.spotify.com/track/23r1Kyn3hD7gRAgxWkW5Bb"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Comum - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
+      },
+      "artists": [
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Comum - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Capa de Revista",
-        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174314,
-      "name": "Capa de Revista",
-      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Vendaval (Ao Vivo)",
         "url": "https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF"
       },
@@ -1031,22 +1015,18 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+        "name": "Capa de Revista",
+        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
       },
       "artists": [
         {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 205718,
-      "name": "Jogo Sujo",
-      "url": "https://open.spotify.com/track/4dr0AjgSS9kfTD9U8bfOnF"
+      "duration_ms": 174314,
+      "name": "Capa de Revista",
+      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1063,6 +1043,26 @@
       "duration_ms": 163879,
       "name": "Que Amigo \u00c9 Esse (Ao Vivo)",
       "url": "https://open.spotify.com/track/6Ur3usqEbguXdqoc1WjA3K"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 205718,
+      "name": "Jogo Sujo",
+      "url": "https://open.spotify.com/track/4dr0AjgSS9kfTD9U8bfOnF"
     },
     {
       "added_at": "2023-02-10 03:00:00",

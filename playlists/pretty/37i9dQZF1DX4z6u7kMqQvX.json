@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 97152,
+  "num_followers": 97231,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMDhjYmIzOTAwOTY4NjlkNTg2NGJjMTdkOTdlYzAyYTA2",
+  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMGQ1ZjZiNmExMDA3YzdiNGNjNDMzNTA2ZGM4MjMyOTAw",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Parque Acu\u00e1tico",
-        "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 172646,
-      "name": "Parque Acu\u00e1tico",
-      "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "La Declaraci\u00f3n",
         "url": "https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 277573,
       "name": "La Declaraci\u00f3n",
       "url": "https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Parque Acu\u00e1tico",
+        "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 172646,
+      "name": "Parque Acu\u00e1tico",
+      "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Aparato",
-        "url": "https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 212574,
-      "name": "Aparato",
-      "url": "https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "INFINITO",
         "url": "https://open.spotify.com/album/3PC4MT0segdFElRt70lMH8"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 185432,
       "name": "INFINITO",
       "url": "https://open.spotify.com/track/6R36OoRubqAoD81wSDx3YZ"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Aparato",
+        "url": "https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 212574,
+      "name": "Aparato",
+      "url": "https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 204653,
       "name": "Love",
       "url": "https://open.spotify.com/track/5nasO0nXcUNWriFdJR9Lp5"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 184736,
       "name": "24/7",
       "url": "https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "AYER",
-        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 235909,
-      "name": "AYER",
-      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "TKM",
         "url": "https://open.spotify.com/album/3nygqNGAb9LEbK4yV20sqt"
       },
@@ -1319,22 +1303,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 250790,
-      "name": "Te Dej\u00e9 una Carta",
-      "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Ni una Gota de Amor",
         "url": "https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y"
       },
@@ -1347,6 +1315,38 @@
       "duration_ms": 151953,
       "name": "Ni una Gota de Amor",
       "url": "https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "AYER",
+        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 235909,
+      "name": "AYER",
+      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 250790,
+      "name": "Te Dej\u00e9 una Carta",
+      "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Sin m\u00ed :(",
-        "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
-      },
-      "artists": [
-        {
-          "name": "PADAWVN",
-          "url": "https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE"
-        },
-        {
-          "name": "Ussi",
-          "url": "https://open.spotify.com/artist/7LttRGU0XWmv7IbukE57sF"
-        }
-      ],
-      "duration_ms": 227274,
-      "name": "Sin m\u00ed :(",
-      "url": "https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Sin m\u00ed :(",
+        "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
+      },
+      "artists": [
+        {
+          "name": "PADAWVN",
+          "url": "https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE"
+        },
+        {
+          "name": "Ussi",
+          "url": "https://open.spotify.com/artist/7LttRGU0XWmv7IbukE57sF"
+        }
+      ],
+      "duration_ms": 227274,
+      "name": "Sin m\u00ed :(",
+      "url": "https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "INFRUTESCENCIA",
-        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
-      },
-      "artists": [
-        {
-          "name": "CATALINA",
-          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
-        }
-      ],
-      "duration_ms": 139264,
-      "name": "PARA VERTE",
-      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Ciclo Lunar",
         "url": "https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 213310,
       "name": "Ciclo Lunar",
       "url": "https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "INFRUTESCENCIA",
+        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
+      },
+      "artists": [
+        {
+          "name": "CATALINA",
+          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
+        }
+      ],
+      "duration_ms": 139264,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
     },
     {
       "added_at": "2023-03-03 03:00:00",

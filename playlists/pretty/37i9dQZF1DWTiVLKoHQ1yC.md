@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,197 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,333 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 41 | [All We Have Is Now](https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [All We Have Is Now / Stay The Same](https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny) | 4:12 |
 | 42 | [Столица закатов](https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4) | [Столица закатов](https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS) | 4:43 |
 | 43 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
-| 44 | [Hide \- Original Mix](https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn) | [KARAAL](https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b) | [Hide](https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd) | 3:26 |
-| 45 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 |
-| 46 | [Ascendance](https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Ascendance / Give It Up](https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd) | 3:50 |
+| 44 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 |
+| 45 | [Ascendance](https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Ascendance / Give It Up](https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd) | 3:50 |
+| 46 | [Hide \- Original Mix](https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn) | [KARAAL](https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b) | [Hide](https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd) | 3:26 |
 | 47 | [How Often \- Ben Böhmer Remix](https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Brightest Lights Remixed](https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW) | 4:55 |
 | 48 | [Selbst](https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Home](https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP) | 5:23 |
 | 49 | [Faya](https://open.spotify.com/track/014CvkxnvQX6GhBqwzMK68) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Faya / The Crack](https://open.spotify.com/album/0izMn5RtpSfigpljdTtKXF) | 5:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Shimmer](https://open.spotify.com/track/7AbYGhAapbr9yxFe6IycxR) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Shimmer](https://open.spotify.com/album/3fuaGLXhZvnGJKd2HfOLev) | 3:10 |
 | 60 | [Freedom Call](https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Black 8](https://open.spotify.com/artist/4cYiFuL9moK820ABEN99ju) | [Freedom Call](https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo) | 3:59 |
 
-Snapshot ID: `MTY2OTM5NTM5NiwwMDAwMDAwMDhjNTRiMGQ2ZmFkMmVkOWMzM2U5MGJkZmExZjIxMmZm`
+Snapshot ID: `MTY2OTM5NTM5NiwwMDAwMDAwMDMyOWZmYTVmOTZiZmRkNGNkZmZjODNkNmMxNWJjZDg0`

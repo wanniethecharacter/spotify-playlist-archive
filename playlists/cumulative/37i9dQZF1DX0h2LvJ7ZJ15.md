@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-173 songs - 9 hr 52 min
+174 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [Soul \(Slowed Down\)](https://open.spotify.com/track/18M3uYhVXQVPsKw88stW30) | [Ice Bear](https://open.spotify.com/artist/6GXkLQCKY9AGc4F4yYGHqV), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Soul \(Slowed Down\)](https://open.spotify.com/album/1EjGzdXbIN4HSbUPNGNGPb) | 1:56 | 2021-10-01 | 2022-07-19 |
 | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/track/3lsh4fIbGeHZDFovC0InnY) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/4aEUYgi1AZ8iERXsJB7yt0) | 7:28 | 2021-10-01 | 2022-07-29 |
 | [Swing Lynn \- Slowed Version](https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn) | 7:28 | 2022-07-22 |  |
-| [Tard le soir..](https://open.spotify.com/track/2YKyUpP9lNlWQQSsxep1lj) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3) | [drowning](https://open.spotify.com/album/4RIdbEZCQyK0aPh2YTbJIX) | 2:25 | 2023-02-28 |  |
+| [Tard le soir..](https://open.spotify.com/track/2YKyUpP9lNlWQQSsxep1lj) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3) | [drowning](https://open.spotify.com/album/4RIdbEZCQyK0aPh2YTbJIX) | 2:25 | 2023-02-28 | 2023-03-06 |
+| [Tard le soir..](https://open.spotify.com/track/6SKUWBbE7N8TfymEPgW7fX) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3) | [Tard le soir..](https://open.spotify.com/album/4nJ2ISjg5obAlwFWDd8EAL) | 2:25 | 2023-02-28 |  |
 | [These Days \- Slowed + Reverb](https://open.spotify.com/track/2eZEXkiZmRhbFLkU7WPhDE) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [These Days \(Slowed + Reverb\)](https://open.spotify.com/album/5ata1vs5hb7Zpurc5gUKKr) | 4:23 | 2022-02-04 | 2022-04-19 |
 | [This December \- slow](https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [This December \(slow\)](https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li) | 3:33 | 2021-12-03 | 2022-12-25 |
 | [This December \- slow](https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Slowed Down Songs + Reverb](https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:33 | 2023-01-12 |  |

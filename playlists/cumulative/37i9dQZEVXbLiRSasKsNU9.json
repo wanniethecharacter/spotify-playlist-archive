@@ -6211,6 +6211,24 @@
     },
     {
       "album": {
+        "name": "Dumb Ways to Die",
+        "url": "https://open.spotify.com/album/4Bd3TKczuye0zb8w9i45R6"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Kitty",
+          "url": "https://open.spotify.com/artist/3pJh0RWw3DrGBnS70xcI2T"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180022,
+      "name": "Dumb Ways to Die",
+      "url": "https://open.spotify.com/track/180MVaidIYWpB1MSYEv5BI"
+    },
+    {
+      "album": {
         "name": "Tutur Batin",
         "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
       },
@@ -18083,6 +18101,24 @@
     },
     {
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196085,
+      "name": "Regret Me",
+      "url": "https://open.spotify.com/track/3l5qEpePfGDv6ZFYWRNNtq"
+    },
+    {
+      "album": {
         "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
         "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
       },
@@ -24118,7 +24154,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 200120,
       "name": "X SI VOLVEMOS",
       "url": "https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe"
@@ -24788,7 +24824,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 135416,
       "name": "\u00d6z\u00fcr",
       "url": "https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi"

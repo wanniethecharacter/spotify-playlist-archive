@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: Love Revolution \(연애혁명\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,515 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,621 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 28 | [Painful, Angry and Sorry](https://open.spotify.com/track/5nYbI8sOHwRGBEGsSLh9bM) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Painful, Angry and Sorry](https://open.spotify.com/album/6qPARj3DqxMNepmW1cnMLO) | 2:57 |
 | 29 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 |
 | 30 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 |
-| 31 | [I still miss you](https://open.spotify.com/track/707JA03fZSI9FJGSzenyMf) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [Coffee Fox Kim Sam Wol \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/2E2XzUwbkkjeOkCVIScLmO) | 3:57 |
+| 31 | [I still miss you](https://open.spotify.com/track/707JA03fZSI9FJGSzenyMf) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [Coffee Fox Kim Sam Wol OST Part.1 \(Soundtrack\)](https://open.spotify.com/album/2E2XzUwbkkjeOkCVIScLmO) | 3:57 |
 | 32 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 |
 | 33 | [내가 미안해](https://open.spotify.com/track/4aoDe43Tdn2bd8hXWn0cgX) | [Rumy](https://open.spotify.com/artist/56q60vgstYOBFxfFQ6Q0PL) | [바이트미 \(Original Webtoon Soundtrack\) Pt\. 9](https://open.spotify.com/album/0BHhkr4LxrVN0GcEtLrUG6) | 3:26 |
 | 34 | [Propose Song \(WEBTOON 'Discovery of Love' X LEE RAON\)](https://open.spotify.com/track/73whlfYeKmtBeOOuNFLeqT) | [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Propose Song \(WEBTOON 'Discovery of Love' X LEE RAON\)](https://open.spotify.com/album/2SxtplELKtfdrzQesuUTRR) | 3:37 |

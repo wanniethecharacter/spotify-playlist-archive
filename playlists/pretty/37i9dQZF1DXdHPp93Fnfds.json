@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: RENEE",
-  "num_followers": 145169,
+  "num_followers": 145190,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMGFiOTBmNzZjYzIzZmJhNTJmM2EyOWJmMmMzNDJlMTYz",
+  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMGUyZDliMzliZmZlOGY5Mzc3YmJlZWQ4MmEzMDY5OWZi",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -191,8 +191,8 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "I Like 2 Be",
-        "url": "https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8"
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 174923,
-      "name": "I Like 2 Be",
-      "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
+      "duration_ms": 203076,
+      "name": "Monstruos (est\u00e1 bn estar mal)",
+      "url": "https://open.spotify.com/track/2aQ9TR46OFGE40DSGhxc5o"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -323,8 +323,8 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+        "name": "I Like 2 Be",
+        "url": "https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 203076,
-      "name": "Monstruos (est\u00e1 bn estar mal)",
-      "url": "https://open.spotify.com/track/2aQ9TR46OFGE40DSGhxc5o"
+      "duration_ms": 174923,
+      "name": "I Like 2 Be",
+      "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Entremundos",
-        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 205911,
-      "name": "Entremundos",
-      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Wannabe - Spotify Singles",
         "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 152109,
       "name": "Wannabe - Spotify Singles",
       "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "El Club",
-        "url": "https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "El Club",
-      "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Mango Negro",
         "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 269331,
       "name": "P\u00e1jaro Azul",
       "url": "https://open.spotify.com/track/32me2vQrXYrGHvtJxpxHhz"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "El Club",
+        "url": "https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "El Club",
+      "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Helado de Mango",
         "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 208434,
       "name": "Helado de Mango",
       "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "LIBERTAD",
-        "url": "https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        }
-      ],
-      "duration_ms": 216961,
-      "name": "LIBERTAD",
-      "url": "https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Emotion",
         "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 233680,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "LIBERTAD",
+        "url": "https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        }
+      ],
+      "duration_ms": 216961,
+      "name": "LIBERTAD",
+      "url": "https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Algo",
+        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 168841,
+      "name": "Algo",
+      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "Lo Primero",
         "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Algo",
-        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
       },
       "artists": [
         {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
         }
       ],
-      "duration_ms": 168841,
-      "name": "Algo",
-      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1051,22 +1067,6 @@
       "duration_ms": 220005,
       "name": "Running Up That Hill - Spotify Singles",
       "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Ni tan Bien",
-        "url": "https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB"
+        "name": "Todo Va A Cambiar",
+        "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
       },
       "artists": [
         {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         },
         {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+          "name": "Karma C",
+          "url": "https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh"
         }
       ],
-      "duration_ms": 187690,
-      "name": "Buen viaje",
-      "url": "https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L"
+      "duration_ms": 147386,
+      "name": "Todo Va A Cambiar",
+      "url": "https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Todo Va A Cambiar",
-        "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
+        "name": "Ni tan Bien",
+        "url": "https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
         },
         {
-          "name": "Karma C",
-          "url": "https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh"
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 147386,
-      "name": "Todo Va A Cambiar",
-      "url": "https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj"
+      "duration_ms": 187690,
+      "name": "Buen viaje",
+      "url": "https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Antibi\u00f3ticx",
+        "url": "https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "DISFRAZ",
         "url": "https://open.spotify.com/album/0aNHmrgKLB5pGoj1bZ16RQ"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Antibi\u00f3ticx",
-        "url": "https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02"
+        "name": "Una Linterna",
+        "url": "https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Candelaria Zamar",
+          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
         }
       ],
-      "duration_ms": 223500,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN"
+      "duration_ms": 162546,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/4Yggxw9G0xi3GgHrCuvAJs"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 192800,
       "name": "Dwele",
       "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Una Linterna",
-        "url": "https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO"
-      },
-      "artists": [
-        {
-          "name": "Candelaria Zamar",
-          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/4Yggxw9G0xi3GgHrCuvAJs"
     }
   ],
   "unique_name": "Mujeres del Indie",

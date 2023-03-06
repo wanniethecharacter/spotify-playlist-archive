@@ -426,6 +426,24 @@
     {
       "album": {
         "name": "Axis of Love",
+        "url": "https://open.spotify.com/album/67ov4zrvRkfQ2lWLlPax7b"
+      },
+      "artists": [
+        {
+          "name": "Wass On Earth",
+          "url": "https://open.spotify.com/artist/3gaOU8JQKa7Ux72eCUSok8"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550000,
+      "name": "Flix Bus Nach Beirut",
+      "url": "https://open.spotify.com/track/1WDSEV3fF4DhY8amPG3XUy"
+    },
+    {
+      "album": {
+        "name": "Axis of Love",
         "url": "https://open.spotify.com/album/6Cl8n0TpMSWj0euSmYe8QH"
       },
       "artists": [
@@ -436,7 +454,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 550000,
       "name": "Flix Bus Nach Beirut",
       "url": "https://open.spotify.com/track/2jM7YpoXbuiRPqeAWipy35"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=x15V8jy1TdCLR6G7m\_Z5KQ">Jemma Catherine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,660 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,729 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

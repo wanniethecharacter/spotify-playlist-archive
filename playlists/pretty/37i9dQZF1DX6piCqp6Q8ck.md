@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,013 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,006 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 40 | [The Very Best Day This Year](https://open.spotify.com/track/4tS8ySaehAjC9hd54xCesZ) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb), [Mark Armstrong](https://open.spotify.com/artist/2heBrCXNrnKh0sOfaaThiy), [Steve Memmolo](https://open.spotify.com/artist/316EMLib9M7s8r6hxFnBtv) | [The Season's Back Again](https://open.spotify.com/album/1TFxAeGNb72icOOpa5jxHE) | 2:56 |
 | 41 | [Poppa Santa Claus](https://open.spotify.com/track/6xF6R6029v5XsSL0yFFW2X) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Their Complete Recordings Together](https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7) | 3:13 |
 | 42 | [Little Saint Nick](https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Little Saint Nick](https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw) | 3:35 |
-| 43 | [Jingle Bell Rock](https://open.spotify.com/track/76zNFKrXOPYwHoiYGZ4xmV) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Roberto Bobo Facchinetti](https://open.spotify.com/artist/5s1zZW6PDPTqwtBRXCKAIz) | [My Christmas Night](https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo) | 2:55 |
-| 44 | [O Little Town Of Bethlehem](https://open.spotify.com/track/6V23uUPhBn3NZuUVq1aOlz) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:26 |
+| 43 | [O Little Town Of Bethlehem](https://open.spotify.com/track/6V23uUPhBn3NZuUVq1aOlz) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:26 |
+| 44 | [Jingle Bell Rock](https://open.spotify.com/track/76zNFKrXOPYwHoiYGZ4xmV) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Roberto Bobo Facchinetti](https://open.spotify.com/artist/5s1zZW6PDPTqwtBRXCKAIz) | [My Christmas Night](https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo) | 2:55 |
 | 45 | [Round & Round the Christmas Tree](https://open.spotify.com/track/2xWqam73LOsenwNiI5kveT) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 2:46 |
 | 46 | [Mele Kalikimaka](https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:33 |
 | 47 | [We Three Kings](https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E), [Dan Brubeck](https://open.spotify.com/artist/5oNGGsBfgmOvE1chDG7d7l), [Bill Smith](https://open.spotify.com/artist/4Omy5P9r7PiXYje9h4jMkz), [Jack Six](https://open.spotify.com/artist/1U4WRe8pBbGcOghtCrcstX), [Randy Jones](https://open.spotify.com/artist/4kOaMV5TNik6XpIE0med9d) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [Santa Claus Got Stuck \(In My Chimney\)](https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Complete Decca Singles Vol\. 4: 1950\-1955](https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM) | 3:09 |
 | 70 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 |
 
-Snapshot ID: `MTY3MTgwMDY5MywwMDAwMDAwMGNjNmVkYTRiYzdhMTExOTc5NWI2MzYwOGQ1N2UzZTk0`
+Snapshot ID: `MTY3MTgwMDY5MywwMDAwMDAwMDE2OWU5OWEyMzA4MGFiZGI0YTA0M2NmNWI1ZTRiYTFm`

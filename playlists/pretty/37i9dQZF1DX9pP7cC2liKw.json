@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 106336,
+  "num_followers": 106633,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU1ODc4NSwwMDAwMDAwMDU0OTNkZjg5MGNiYzM3MzUwYmFhYWI3OWZiNDJlN2Y3",
+  "snapshot_id": "MTY3NzU1ODc4NSwwMDAwMDAwMGM0YWZkODVmZWU0MWJiOGE2ZmNkZTdhNzMyM2ZkMjJm",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/4bndkI1TTh7itdsyixtDoD"
     },
     {
-      "added_at": "2023-03-05 01:39:02",
+      "added_at": "2023-03-06 01:05:24",
       "album": {
         "name": "Crux Australis",
         "url": "https://open.spotify.com/album/5NnNrnljeZVpPsW2lPfg4M"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
     },
     {
-      "added_at": "2023-03-05 01:39:02",
+      "added_at": "2023-03-06 01:05:24",
       "album": {
         "name": "Big Night",
         "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV"
     },
     {
-      "added_at": "2023-03-05 01:39:02",
+      "added_at": "2023-03-06 01:05:24",
       "album": {
         "name": "Regresar (Vibes4YourSoul Remix)",
         "url": "https://open.spotify.com/album/2ek84DXerG63Z5QhSz79lA"
@@ -335,22 +335,6 @@
       "duration_ms": 251428,
       "name": "Regresar (Vibes4YourSoul Remix)",
       "url": "https://open.spotify.com/track/2Rzt5D3eOg7I12ZWozGX4w"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -375,6 +359,22 @@
       "duration_ms": 469995,
       "name": "Muy\u00e8",
       "url": "https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "TANDEM",
         "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 170158,
       "name": "SALTA",
       "url": "https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
     },
     {
+      "added_at": "2022-08-02 22:05:40",
+      "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/4wTAcLALGFyUt5Ck34lga3"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "duration_ms": 216163,
+      "name": "Arte",
+      "url": "https://open.spotify.com/track/48lZeIvSLUaeJewLX1KGwF"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Santa Teresa",
@@ -881,38 +897,6 @@
       "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
     },
     {
-      "added_at": "2023-01-02 21:43:35",
-      "album": {
-        "name": "Noest\u00e1saqu\u00ed",
-        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
-      },
-      "artists": [
-        {
-          "name": "Caramelo Haze",
-          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
-    },
-    {
-      "added_at": "2022-08-02 22:05:40",
-      "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/4wTAcLALGFyUt5Ck34lga3"
-      },
-      "artists": [
-        {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        }
-      ],
-      "duration_ms": 216163,
-      "name": "Arte",
-      "url": "https://open.spotify.com/track/48lZeIvSLUaeJewLX1KGwF"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Better When We're Close",
@@ -931,6 +915,22 @@
       "duration_ms": 213453,
       "name": "Better When We're Close",
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
+    },
+    {
+      "added_at": "2023-01-02 21:43:35",
+      "album": {
+        "name": "Noest\u00e1saqu\u00ed",
+        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
+      },
+      "artists": [
+        {
+          "name": "Caramelo Haze",
+          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1055,22 +1055,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Ch'usay Remixes",
-        "url": "https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl"
+        "name": "Laberinto (Bosq Remix)",
+        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
       },
       "artists": [
         {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
         }
       ],
-      "duration_ms": 207621,
-      "name": "Paso a Huella - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/157GatsyJwcoaLGDD43duL"
+      "duration_ms": 224211,
+      "name": "Laberinto - Bosq Remix",
+      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Ch'usay Remixes",
+        "url": "https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl"
+      },
+      "artists": [
+        {
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 207621,
+      "name": "Paso a Huella - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/157GatsyJwcoaLGDD43duL"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Claremont 56: 10 Years, Pt. 1",
         "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
       },
@@ -1131,26 +1151,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Laberinto (Bosq Remix)",
-        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        }
-      ],
-      "duration_ms": 224211,
-      "name": "Laberinto - Bosq Remix",
-      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Hustler's Lullaby",
         "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Apolinar",
-        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Temazcal",
-      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Forevernevermore",
         "url": "https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 264360,
       "name": "Don\u2019t You Want My Love",
       "url": "https://open.spotify.com/track/4L60ULqvJpqFReaNwmq8F0"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Apolinar",
+        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Temazcal",
+      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1249,6 +1249,22 @@
       "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Ondatr\u00f3pica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2clte0oolrkkXFTJy72us2"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Cumbia Espacial",
+      "url": "https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz"
+    },
+    {
       "added_at": "2022-11-03 18:27:44",
       "album": {
         "name": "Mientras Tanto",
@@ -1275,34 +1291,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Ondatr\u00f3pica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2clte0oolrkkXFTJy72us2"
+        "name": "Xaxoeira",
+        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
       },
       "artists": [
         {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         }
       ],
-      "duration_ms": 245280,
-      "name": "Cumbia Espacial",
-      "url": "https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Grind / Prelims",
-        "url": "https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs"
-      },
-      "artists": [
-        {
-          "name": "Les Sins",
-          "url": "https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL"
-        }
-      ],
-      "duration_ms": 318014,
-      "name": "Grind",
-      "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
+      "duration_ms": 347600,
+      "name": "1542",
+      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
     }
   ],
   "unique_name": "Tulum Vibes",

@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 600319,
+  "num_followers": 600883,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY2NTUyOCwwMDAwMDAwMDE3NTA3OWYxZTAxY2FiOGVkZDQyMWE4ZmZkMDNiMjgx",
+  "snapshot_id": "MTY3NzY2NTUyOCwwMDAwMDAwMDkxOWNlMGMyYTc2ODU2NmJmMjcxOWMyMDdlMjkxZWM0",
   "tracks": [
     {
       "added_at": "2023-02-13 10:17:02",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-02-13 10:17:02",
       "album": {
-        "name": "Mejor No Nos Vemos",
-        "url": "https://open.spotify.com/album/0aHJ2SLyt8oeyWdvEMN3IS"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 189187,
-      "name": "Mejor No Nos Vemos",
-      "url": "https://open.spotify.com/track/6NT4RZ6CF6qFJqslGdqaRM"
-    },
-    {
-      "added_at": "2023-02-13 10:17:02",
-      "album": {
         "name": "Dream Girl (Remix)",
         "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 192452,
       "name": "Dream Girl - Remix",
       "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
+    },
+    {
+      "added_at": "2023-02-13 10:17:02",
+      "album": {
+        "name": "Mejor No Nos Vemos",
+        "url": "https://open.spotify.com/album/0aHJ2SLyt8oeyWdvEMN3IS"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 189187,
+      "name": "Mejor No Nos Vemos",
+      "url": "https://open.spotify.com/track/6NT4RZ6CF6qFJqslGdqaRM"
     },
     {
       "added_at": "2023-02-13 10:17:02",
@@ -1283,22 +1283,22 @@
     {
       "added_at": "2023-02-13 10:17:02",
       "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+        "name": "NASTU",
+        "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         },
         {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+          "name": "Pablo Mas",
+          "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
         }
       ],
-      "duration_ms": 195769,
-      "name": "COSITAS",
-      "url": "https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH"
+      "duration_ms": 168367,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/4FjkjrvfbB3C4eUqWlw3vB"
     },
     {
       "added_at": "2023-02-13 10:17:02",
@@ -1339,42 +1339,22 @@
     {
       "added_at": "2023-02-13 10:17:02",
       "album": {
-        "name": "NASTU",
-        "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
       "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Pablo Mas",
-          "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
-        }
-      ],
-      "duration_ms": 168367,
-      "name": "Mami",
-      "url": "https://open.spotify.com/track/4FjkjrvfbB3C4eUqWlw3vB"
-    },
-    {
-      "added_at": "2023-02-13 10:17:02",
-      "album": {
-        "name": "Suelta",
-        "url": "https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
         {
           "name": "Mora",
           "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
         }
       ],
-      "duration_ms": 243934,
-      "name": "Suelta",
-      "url": "https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY"
+      "duration_ms": 195769,
+      "name": "COSITAS",
+      "url": "https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH"
     },
     {
       "added_at": "2023-02-13 10:17:02",
@@ -1403,6 +1383,26 @@
     {
       "added_at": "2023-02-13 10:17:02",
       "album": {
+        "name": "Suelta",
+        "url": "https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Suelta",
+      "url": "https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY"
+    },
+    {
+      "added_at": "2023-02-13 10:17:02",
+      "album": {
         "name": "7 L\u00e1grimas (Remix)",
         "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
       },
@@ -1427,6 +1427,30 @@
     {
       "added_at": "2023-02-13 10:17:02",
       "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6OWLWa5E6O0GaQ3flVPioL"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Pablo Mas",
+          "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Dominicana",
+      "url": "https://open.spotify.com/track/7qetypYpvINP4AJ3fZNsGm"
+    },
+    {
+      "added_at": "2023-02-13 10:17:02",
+      "album": {
         "name": "Dime Cuantas Veces",
         "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
       },
@@ -1443,6 +1467,26 @@
       "duration_ms": 213959,
       "name": "Dime Cuantas Veces",
       "url": "https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP"
+    },
+    {
+      "added_at": "2023-02-13 10:17:02",
+      "album": {
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Imaginaste",
+      "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
     },
     {
       "added_at": "2023-02-13 10:17:02",
@@ -1475,22 +1519,18 @@
     {
       "added_at": "2023-02-13 10:17:02",
       "album": {
-        "name": "Famouz",
-        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+        "name": "Para Mi Ex",
+        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 198613,
-      "name": "Imaginaste",
-      "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
+      "duration_ms": 187191,
+      "name": "Extasy",
+      "url": "https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A"
     },
     {
       "added_at": "2023-02-13 10:17:02",
@@ -1511,22 +1551,6 @@
       "duration_ms": 203951,
       "name": "Respuesta Cero",
       "url": "https://open.spotify.com/track/07piZvs54drv7466oPLTt0"
-    },
-    {
-      "added_at": "2023-02-13 10:17:02",
-      "album": {
-        "name": "Para Mi Ex",
-        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 187191,
-      "name": "Extasy",
-      "url": "https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A"
     },
     {
       "added_at": "2023-02-13 10:17:02",
@@ -1563,30 +1587,6 @@
     {
       "added_at": "2023-02-13 10:17:02",
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/6OWLWa5E6O0GaQ3flVPioL"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Pablo Mas",
-          "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Dominicana",
-      "url": "https://open.spotify.com/track/7qetypYpvINP4AJ3fZNsGm"
-    },
-    {
-      "added_at": "2023-02-13 10:17:02",
-      "album": {
         "name": "+Linda",
         "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
       },
@@ -1617,23 +1617,7 @@
       "url": "https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid"
     },
     {
-      "added_at": "2023-02-13 10:17:02",
-      "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150853,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
-    },
-    {
-      "added_at": "2023-03-05 00:17:00",
+      "added_at": "2023-03-06 00:52:31",
       "album": {
         "name": "Como Amigos",
         "url": "https://open.spotify.com/album/2RxpDHtD9R3VYCGdxDiNdU"
@@ -1651,6 +1635,22 @@
       "duration_ms": 230838,
       "name": "Como Amigos",
       "url": "https://open.spotify.com/track/3ymNNjeQsobL39vXi6KmK6"
+    },
+    {
+      "added_at": "2023-02-13 10:17:02",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150853,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
     },
     {
       "added_at": "2023-02-13 10:17:02",

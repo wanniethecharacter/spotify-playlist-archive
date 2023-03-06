@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 38227,
+  "num_followers": 38258,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU2NzgyMCwwMDAwMDAwMGVjNjAyMjgxNjZlMDFkODA1MjM0NTk1NTVlMTFlYWNk",
+  "snapshot_id": "MTY2NzU2NzgyMCwwMDAwMDAwMDRhYjNlNDU4ZjY3ZTBhZTdmOTcwN2Y4ZDU0ZGQ1NGU3",
   "tracks": [
     {
       "added_at": "2022-11-04 13:17:00",
@@ -275,26 +275,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Carnaval, Davidsb\u00fcndlert\u00e4nze & Papillons",
-        "url": "https://open.spotify.com/album/6KX1EazmfugSG0FPBfAqQN"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Boris Giltburg",
-          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
-        }
-      ],
-      "duration_ms": 142853,
-      "name": "Papillons, Op. 2: XII. Finale",
-      "url": "https://open.spotify.com/track/3XyvgqwifZAcKOli6PHcas"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
         "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 176920,
       "name": "Schumann: Kinderszenen, Op. 15: No. 13, Der Dichter spricht",
       "url": "https://open.spotify.com/track/1DSNobLV59uOAaNrZnGXZs"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Carnaval, Davidsb\u00fcndlert\u00e4nze & Papillons",
+        "url": "https://open.spotify.com/album/6KX1EazmfugSG0FPBfAqQN"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Boris Giltburg",
+          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
+        }
+      ],
+      "duration_ms": 142853,
+      "name": "Papillons, Op. 2: XII. Finale",
+      "url": "https://open.spotify.com/track/3XyvgqwifZAcKOli6PHcas"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Humoreske, Op. 20 / Fantasia In C, Op. 17",
-        "url": "https://open.spotify.com/album/3udA4oqeaONjqWRcudxaCo"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Richard Goode",
-          "url": "https://open.spotify.com/artist/1OBaEwgkgZqtb6ePRHm58A"
-        }
-      ],
-      "duration_ms": 1579000,
-      "name": "Humoreske, op. 20",
-      "url": "https://open.spotify.com/track/59vvQ1vzVLkGZ8CsaaaJDi"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann.: Lied Edition, Vol. 5: Frauenliebe Und -Leben, Op. 42 - Gedichte Der Konigin Maria Stuart, Op. 135 - 7 Lieder, Op. 104",
         "url": "https://open.spotify.com/album/58cWPG3vuU5tWsuNBHjJCz"
       },
@@ -483,6 +463,70 @@
       "duration_ms": 108253,
       "name": "7 Lieder, Op. 104: No. 6, Die letzten Blumen starben",
       "url": "https://open.spotify.com/track/0yo0vw091q0O4zQZm7PhaR"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Humoreske, Op. 20 / Fantasia In C, Op. 17",
+        "url": "https://open.spotify.com/album/3udA4oqeaONjqWRcudxaCo"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Richard Goode",
+          "url": "https://open.spotify.com/artist/1OBaEwgkgZqtb6ePRHm58A"
+        }
+      ],
+      "duration_ms": 1579000,
+      "name": "Humoreske, op. 20",
+      "url": "https://open.spotify.com/track/59vvQ1vzVLkGZ8CsaaaJDi"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
+        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 332160,
+      "name": "Arabeske in C Major, Op. 18",
+      "url": "https://open.spotify.com/track/15BPdDo1pKfq4nyxIcMpdC"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
+        "url": "https://open.spotify.com/album/6ucj1lc7fJKkUghOv2CLq7"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
+      "url": "https://open.spotify.com/track/22O2MEvTDmsVdbbn5J6jYT"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -515,50 +559,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
-        "url": "https://open.spotify.com/album/6ucj1lc7fJKkUghOv2CLq7"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Staatskapelle Berlin",
-          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
-      "url": "https://open.spotify.com/track/22O2MEvTDmsVdbbn5J6jYT"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
-        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 332160,
-      "name": "Arabeske in C Major, Op. 18",
-      "url": "https://open.spotify.com/track/15BPdDo1pKfq4nyxIcMpdC"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
         "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
       },
@@ -583,6 +583,26 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann, R.: Fantasie Op. 17 / Bunte Blatter Op. 99",
+        "url": "https://open.spotify.com/album/71F4hUTu6bw5xDTRSAjBJj"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "D\u00e9nes V\u00e1rjon",
+          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
+        }
+      ],
+      "duration_ms": 593373,
+      "name": "Fantasie in C Major, Op. 17: III. Langsam getragen. Durchaus leise zu halten",
+      "url": "https://open.spotify.com/track/2uLi3RIKPSw49fdS3DKa08"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann, R.: Works for Oboe and Piano",
         "url": "https://open.spotify.com/album/7CijIoQoh5qLsfAPOZix3e"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 214000,
       "name": "3 Romanzen, Op. 94: Einfach, innig",
       "url": "https://open.spotify.com/track/6ibGOXbknLnQtG5pmSUGSu"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann, R.: Fantasie Op. 17 / Bunte Blatter Op. 99",
-        "url": "https://open.spotify.com/album/71F4hUTu6bw5xDTRSAjBJj"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "D\u00e9nes V\u00e1rjon",
-          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
-        }
-      ],
-      "duration_ms": 593373,
-      "name": "Fantasie in C Major, Op. 17: III. Langsam getragen. Durchaus leise zu halten",
-      "url": "https://open.spotify.com/track/2uLi3RIKPSw49fdS3DKa08"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -731,6 +731,26 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann, R.: Kreisleriana / Waldszenen / Blumenstuck",
+        "url": "https://open.spotify.com/album/7ACtKPpQI4ahJg8tRw6zbj"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Paul Gulda",
+          "url": "https://open.spotify.com/artist/3YhVnqwZFmH7JRoGrf6v6N"
+        }
+      ],
+      "duration_ms": 386893,
+      "name": "Blumenstuck, Op. 19",
+      "url": "https://open.spotify.com/track/7F5eYGRqDcJzGdLz3uOV9A"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schubert: Arpeggione Sonata / Schumann: Fantasiestucke",
         "url": "https://open.spotify.com/album/5UHzBpKCHYZpr04YnJP0vy"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 316800,
       "name": "Adagio and Allegro, Op. 70: Allegro",
       "url": "https://open.spotify.com/track/57V1s2MwyMEXWZcZV6Pzjl"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann, R.: Kreisleriana / Waldszenen / Blumenstuck",
-        "url": "https://open.spotify.com/album/7ACtKPpQI4ahJg8tRw6zbj"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Paul Gulda",
-          "url": "https://open.spotify.com/artist/3YhVnqwZFmH7JRoGrf6v6N"
-        }
-      ],
-      "duration_ms": 386893,
-      "name": "Blumenstuck, Op. 19",
-      "url": "https://open.spotify.com/track/7F5eYGRqDcJzGdLz3uOV9A"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -907,6 +907,34 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann",
+        "url": "https://open.spotify.com/album/3ckSyqB9V7Po09OD2jYLf5"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        }
+      ],
+      "duration_ms": 758440,
+      "name": "Introduction And Concert-Allegro, Op. 134",
+      "url": "https://open.spotify.com/track/0gSnNcZ8wpHpczpJ45KFkT"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann - Great Recordings",
         "url": "https://open.spotify.com/album/3cJJIw6UF33nIpKFxFPJwB"
       },
@@ -955,34 +983,6 @@
       "duration_ms": 116200,
       "name": "Liederkreis, Op. 39: In der Fremde",
       "url": "https://open.spotify.com/track/4kStvokm1k1PFT5mTuoU1B"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann",
-        "url": "https://open.spotify.com/album/3ckSyqB9V7Po09OD2jYLf5"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jan Lisiecki",
-          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        }
-      ],
-      "duration_ms": 758440,
-      "name": "Introduction And Concert-Allegro, Op. 134",
-      "url": "https://open.spotify.com/track/0gSnNcZ8wpHpczpJ45KFkT"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1123,34 +1123,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
-        "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Marianne Crebassa",
-          "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
-        },
-        {
-          "name": "Les Cris De Paris",
-          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
-        },
-        {
-          "name": "Geoffroy Jourdain",
-          "url": "https://open.spotify.com/artist/7zYG8ixRuJNyuc00Lyq5EF"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Missa Sacra Op. 147: IV. Offertorium",
-      "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Symphony No. 4, Overture, Scherzo & Finale & Konzertstuck",
         "url": "https://open.spotify.com/album/2ayXNQZo9DicCQxyFsEXvr"
       },
@@ -1215,6 +1187,34 @@
       "duration_ms": 738560,
       "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
       "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
+        "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Marianne Crebassa",
+          "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
+        },
+        {
+          "name": "Les Cris De Paris",
+          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
+        },
+        {
+          "name": "Geoffroy Jourdain",
+          "url": "https://open.spotify.com/artist/7zYG8ixRuJNyuc00Lyq5EF"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Missa Sacra Op. 147: IV. Offertorium",
+      "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
     },
     {
       "added_at": "2022-11-04 13:17:00",

@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 50603,
+  "num_followers": 50657,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MjQwNywwMDAwMDAwMDA5MGYyOTVhOThjODIwODMyOGM0ZDAxZDQ2ZTBmNmFm",
+  "snapshot_id": "MTY3Njk5MjQwNywwMDAwMDAwMGMxYmI0Y2VkY2VkMmY1NTUxZDgwNmIzNjY5M2FiMWZl",
   "tracks": [
     {
       "added_at": "2023-02-17 12:29:49",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-02-17 12:29:49",
       "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Man of the Universe",
+      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
+    },
+    {
+      "added_at": "2023-02-17 12:29:49",
+      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 212116,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
-    },
-    {
-      "added_at": "2023-02-17 12:29:49",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "Man of the Universe",
-      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
     },
     {
       "added_at": "2023-02-17 12:29:49",
@@ -1217,7 +1217,7 @@
       "url": "https://open.spotify.com/track/3aJ0bZfRxG7WxuYfEp5GxD"
     },
     {
-      "added_at": "2023-03-05 00:26:57",
+      "added_at": "2023-03-06 00:23:04",
       "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"

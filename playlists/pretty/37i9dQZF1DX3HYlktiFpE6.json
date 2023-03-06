@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 97987,
+  "num_followers": 98011,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGMxZDBhZDllM2FiZjZkZTlmNjk5MWM5MjllZjk2OThl",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDdmZWExYzU1ZWRhMGUyN2E0NDQyNmViYmZhYWE3Njk5",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -571,6 +571,26 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "I Knew You Were Trouble (feat. KRNFX)",
+        "url": "https://open.spotify.com/album/5lnK6yv9zcn1TYbZtTZxYS"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "KRNFX",
+          "url": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "I Knew You Were Trouble (feat. KRNFX)",
+      "url": "https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Send My Love (To Your New Lover)",
         "url": "https://open.spotify.com/album/0dAsLsV88EZovxVFjbSZHa"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 210731,
       "name": "Send My Love (To Your New Lover)",
       "url": "https://open.spotify.com/track/3YlqY0ICO5DZj2ay8vRjJ1"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "I Knew You Were Trouble (feat. KRNFX)",
-        "url": "https://open.spotify.com/album/5lnK6yv9zcn1TYbZtTZxYS"
-      },
-      "artists": [
-        {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        },
-        {
-          "name": "KRNFX",
-          "url": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "I Knew You Were Trouble (feat. KRNFX)",
-      "url": "https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -665,42 +665,6 @@
       "url": "https://open.spotify.com/track/379pQhTWVBdSEe8cfUmlHy"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/5YlPDNMn5nCCBaI3YroCZN"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        },
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 214604,
-      "name": "Best Days (feat. Pentatonix)",
-      "url": "https://open.spotify.com/track/4njogTgUkTuKHWBiY9qUsB"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Shut up and Dance",
-      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
-    },
-    {
       "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Surface Pressure",
@@ -723,18 +687,38 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Sing On",
-        "url": "https://open.spotify.com/album/5UPAYGrQMGmGO3vPUXF1ou"
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
       },
       "artists": [
         {
-          "name": "On The Rocks",
-          "url": "https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx"
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
         }
       ],
-      "duration_ms": 276526,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/7EZjj4CRzBfeEAVfQMDqWu"
+      "duration_ms": 167933,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/5YlPDNMn5nCCBaI3YroCZN"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        },
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 214604,
+      "name": "Best Days (feat. Pentatonix)",
+      "url": "https://open.spotify.com/track/4njogTgUkTuKHWBiY9qUsB"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -751,6 +735,22 @@
       "duration_ms": 245500,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/5QxAO4f3EuP40hhHkiRcO1"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Sing On",
+        "url": "https://open.spotify.com/album/5UPAYGrQMGmGO3vPUXF1ou"
+      },
+      "artists": [
+        {
+          "name": "On The Rocks",
+          "url": "https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx"
+        }
+      ],
+      "duration_ms": 276526,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/7EZjj4CRzBfeEAVfQMDqWu"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Full Disclosure",
-        "url": "https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu"
+        "name": "Circle of Life/He Lives in You",
+        "url": "https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27"
       },
       "artists": [
         {
-          "name": "Cornell Class Notes",
-          "url": "https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF"
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
         }
       ],
-      "duration_ms": 236708,
-      "name": "Set Fire to the Rain",
-      "url": "https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq"
+      "duration_ms": 218386,
+      "name": "Circle of Life/He Lives in You",
+      "url": "https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Circle of Life/He Lives in You",
-        "url": "https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27"
+        "name": "Full Disclosure",
+        "url": "https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu"
       },
       "artists": [
         {
-          "name": "DCappella",
-          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+          "name": "Cornell Class Notes",
+          "url": "https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF"
         }
       ],
-      "duration_ms": 218386,
-      "name": "Circle of Life/He Lives in You",
-      "url": "https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN"
+      "duration_ms": 236708,
+      "name": "Set Fire to the Rain",
+      "url": "https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -881,6 +881,22 @@
       "url": "https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ"
     },
     {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Kiss the Girl",
+        "url": "https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "duration_ms": 131893,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Best of BOCA: The First 20 Years",
@@ -899,6 +915,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "All About That Bass (No Tenors)",
+      "url": "https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Tongue Tied",
         "url": "https://open.spotify.com/album/36qmdetWLEU1ZLFMMrZtEP"
       },
@@ -911,26 +943,6 @@
       "duration_ms": 232698,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5rbOLgXDaMbQnPS5TgBsYv"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Under the Influence: Holiday Edition",
-        "url": "https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        },
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Text Me Merry Christmas (feat. Kristen Bell)",
-      "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -965,6 +977,22 @@
       "url": "https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90"
     },
     {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Disney's Broadway Is Back Medley",
+        "url": "https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "duration_ms": 148160,
+      "name": "Disney's Broadway Is Back Medley",
+      "url": "https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Refraction",
@@ -979,38 +1007,6 @@
       "duration_ms": 243958,
       "name": "Some Nights",
       "url": "https://open.spotify.com/track/6SJ7e6SzmytWXe8hWdPnTn"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "The GP",
-        "url": "https://open.spotify.com/album/7EyFTJ9y1YcXA5S3WFwWeO"
-      },
-      "artists": [
-        {
-          "name": "The Michigan G-Men",
-          "url": "https://open.spotify.com/artist/0p4IV6lgprujWIzDZ7mkW7"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Radioactive",
-      "url": "https://open.spotify.com/track/6BD0x5rIhqscFOg4u3Y2I9"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Kiss the Girl",
-        "url": "https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V"
-      },
-      "artists": [
-        {
-          "name": "DCappella",
-          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
-        }
-      ],
-      "duration_ms": 131893,
-      "name": "Kiss the Girl",
-      "url": "https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY"
     }
   ],
   "unique_name": "All A Cappella",

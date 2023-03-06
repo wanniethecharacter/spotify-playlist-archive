@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 121938,
+  "num_followers": 122128,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDQ1YzNmYmRmM2M4MmM5M2I2NDg4MzY5YzY0NWExYTZh",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDUyNWZkYTJhZGI0MTg1OGQxODVmMjFkMzE1NjgwYTM4",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Um Corpo no Mundo",
+        "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 385093,
+      "name": "Um Corpo no Mundo",
+      "url": "https://open.spotify.com/track/5uSnNITp4UvRePHXo9vGV7"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -659,34 +675,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Ameixa",
-        "url": "https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "Fejuca",
-          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
-        }
-      ],
-      "duration_ms": 246177,
-      "name": "Ameixa",
-      "url": "https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -775,6 +763,34 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Ameixa",
+        "url": "https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "Fejuca",
+          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
+        }
+      ],
+      "duration_ms": 246177,
+      "name": "Ameixa",
+      "url": "https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "C\u00e9U",
         "url": "https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 212040,
       "name": "Concrete Jungle",
       "url": "https://open.spotify.com/track/0WAZhuiNHBnFVluqlFK5Qb"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Um Corpo no Mundo",
-        "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 385093,
-      "name": "Um Corpo no Mundo",
-      "url": "https://open.spotify.com/track/5uSnNITp4UvRePHXo9vGV7"
     },
     {
       "added_at": "2022-11-25 03:00:00",

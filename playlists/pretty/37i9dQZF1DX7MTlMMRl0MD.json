@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Mike Bah\u00eda & Greeicy",
-  "num_followers": 1889679,
+  "num_followers": 1889926,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY5NjQ2NiwwMDAwMDAwMDFmODBlNWM1MTliNWYwMjUzMTM3YjVlODE2YTJjNTAx",
+  "snapshot_id": "MTY3NzY5NjQ2NiwwMDAwMDAwMDg4ZGIwNjc5YmNmM2ZjZmY5MmRmMDg1MjQwOTE3OTQz",
   "tracks": [
     {
       "added_at": "2023-03-01 18:47:46",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-03-01 18:47:46",
       "album": {
-        "name": "Volvio el Dolor",
-        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Volvio el dolor",
-      "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
-    },
-    {
-      "added_at": "2023-03-01 18:47:46",
-      "album": {
         "name": "Llora Alma Mia",
         "url": "https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 261519,
       "name": "Llora Alma M\u00eda",
       "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
+    },
+    {
+      "added_at": "2023-03-01 18:47:46",
+      "album": {
+        "name": "Volvio el Dolor",
+        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Volvio el dolor",
+      "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
     },
     {
       "added_at": "2023-03-01 18:47:46",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-03-01 18:47:46",
       "album": {
+        "name": "El Duque de la Bachata",
+        "url": "https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx"
+      },
+      "artists": [
+        {
+          "name": "Joan Soriano",
+          "url": "https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry"
+        }
+      ],
+      "duration_ms": 310613,
+      "name": "Vocales de amor",
+      "url": "https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa"
+    },
+    {
+      "added_at": "2023-03-01 18:47:46",
+      "album": {
         "name": "Friends & Legends",
         "url": "https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1"
       },
@@ -1143,38 +1159,6 @@
     {
       "added_at": "2023-03-01 18:47:46",
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/2YHB2aqmMs5WrzLZK6hfSP"
-      },
-      "artists": [
-        {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/58dDbQWXLM1Fop74OWCxl0"
-    },
-    {
-      "added_at": "2023-03-01 18:47:46",
-      "album": {
-        "name": "El Duque de la Bachata",
-        "url": "https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx"
-      },
-      "artists": [
-        {
-          "name": "Joan Soriano",
-          "url": "https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry"
-        }
-      ],
-      "duration_ms": 310613,
-      "name": "Vocales de amor",
-      "url": "https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa"
-    },
-    {
-      "added_at": "2023-03-01 18:47:46",
-      "album": {
         "name": "Canciones Inmortales Bachatas",
         "url": "https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 472546,
       "name": "Loco de Amor",
       "url": "https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA"
+    },
+    {
+      "added_at": "2023-03-01 18:47:46",
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/2YHB2aqmMs5WrzLZK6hfSP"
+      },
+      "artists": [
+        {
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/58dDbQWXLM1Fop74OWCxl0"
     },
     {
       "added_at": "2023-03-01 18:47:46",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-03-01 18:47:46",
       "album": {
-        "name": "Y Los Claveles Mios",
-        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "El Verde de Tus Ojos",
-      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
-    },
-    {
-      "added_at": "2023-03-01 18:47:46",
-      "album": {
         "name": "Cuando Te Toco",
         "url": "https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR"
       },
@@ -1307,6 +1291,38 @@
     {
       "added_at": "2023-03-01 18:47:46",
       "album": {
+        "name": "Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "duration_ms": 206412,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
+    },
+    {
+      "added_at": "2023-03-01 18:47:46",
+      "album": {
+        "name": "Y Los Claveles Mios",
+        "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "El Verde de Tus Ojos",
+      "url": "https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY"
+    },
+    {
+      "added_at": "2023-03-01 18:47:46",
+      "album": {
         "name": "Hablame De Ti",
         "url": "https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 267572,
       "name": "Hablame De Ti",
       "url": "https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF"
-    },
-    {
-      "added_at": "2023-03-01 18:47:46",
-      "album": {
-        "name": "I Love Bachata (Bachata Hits)",
-        "url": "https://open.spotify.com/album/466Tc4F5S8Lfg5df80aL6s"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 274613,
-      "name": "Vete Y Al\u00e9jate De M\u00ed",
-      "url": "https://open.spotify.com/track/4cLaSHyfYxkr9bBuYCPM1B"
     },
     {
       "added_at": "2023-03-01 18:47:46",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-03-01 18:47:46",
       "album": {
-        "name": "Momentos de Cine",
-        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
+        "name": "I Love Bachata (Bachata Hits)",
+        "url": "https://open.spotify.com/album/466Tc4F5S8Lfg5df80aL6s"
       },
       "artists": [
         {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 210008,
-      "name": "Verdad O Reto",
-      "url": "https://open.spotify.com/track/5qfKObjdXnUosQcls4IiqT"
+      "duration_ms": 274613,
+      "name": "Vete Y Al\u00e9jate De M\u00ed",
+      "url": "https://open.spotify.com/track/4cLaSHyfYxkr9bBuYCPM1B"
     },
     {
       "added_at": "2023-03-01 18:47:46",
@@ -1383,6 +1383,22 @@
       "duration_ms": 258866,
       "name": "Tengo un Amor",
       "url": "https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr"
+    },
+    {
+      "added_at": "2023-03-01 18:47:46",
+      "album": {
+        "name": "Momentos de Cine",
+        "url": "https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        }
+      ],
+      "duration_ms": 210008,
+      "name": "Verdad O Reto",
+      "url": "https://open.spotify.com/track/5qfKObjdXnUosQcls4IiqT"
     },
     {
       "added_at": "2023-03-01 18:47:46",
@@ -1415,22 +1431,6 @@
       "duration_ms": 161906,
       "name": "Los Recuerdos",
       "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
-    },
-    {
-      "added_at": "2023-03-01 18:47:46",
-      "album": {
-        "name": "Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
-      },
-      "artists": [
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        }
-      ],
-      "duration_ms": 206412,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
     },
     {
       "added_at": "2023-03-01 18:47:46",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-03-01 18:47:46",
       "album": {
-        "name": "Saborearte de Nuevo",
-        "url": "https://open.spotify.com/album/7mUe69AI4KYHKg7elasxYd"
-      },
-      "artists": [
-        {
-          "name": "Bori",
-          "url": "https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt"
-        }
-      ],
-      "duration_ms": 216290,
-      "name": "Saborearte de Nuevo",
-      "url": "https://open.spotify.com/track/5NvuNnG0LOe7VXjdoX5ZXl"
-    },
-    {
-      "added_at": "2023-03-01 18:47:46",
-      "album": {
         "name": "Adicta",
         "url": "https://open.spotify.com/album/5VfoZy7Ge4Le12RDRRZVt5"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 211653,
       "name": "Adicta",
       "url": "https://open.spotify.com/track/0TrltbGlB8TyzKnYLWGaM8"
+    },
+    {
+      "added_at": "2023-03-01 18:47:46",
+      "album": {
+        "name": "Saborearte de Nuevo",
+        "url": "https://open.spotify.com/album/7mUe69AI4KYHKg7elasxYd"
+      },
+      "artists": [
+        {
+          "name": "Bori",
+          "url": "https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt"
+        }
+      ],
+      "duration_ms": 216290,
+      "name": "Saborearte de Nuevo",
+      "url": "https://open.spotify.com/track/5NvuNnG0LOe7VXjdoX5ZXl"
     },
     {
       "added_at": "2023-03-01 18:47:46",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-03-01 18:47:46",
       "album": {
-        "name": "Me Provocas",
-        "url": "https://open.spotify.com/album/7bnfanPjPlW2BeBqq6aFUQ"
-      },
-      "artists": [
-        {
-          "name": "Jay Ramirez",
-          "url": "https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Me Provocas",
-      "url": "https://open.spotify.com/track/0Sn3X6TZI6NK73DX6hMnhD"
-    },
-    {
-      "added_at": "2023-03-01 18:47:46",
-      "album": {
         "name": "Duos Entre Amigos",
         "url": "https://open.spotify.com/album/2aZsa1dc6ynwuv3yXjyZDC"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 245054,
       "name": "En Cada Aniversario",
       "url": "https://open.spotify.com/track/5p8f4fXfH83ixykJnIkUMD"
+    },
+    {
+      "added_at": "2023-03-01 18:47:46",
+      "album": {
+        "name": "Me Provocas",
+        "url": "https://open.spotify.com/album/7bnfanPjPlW2BeBqq6aFUQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Ramirez",
+          "url": "https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Me Provocas",
+      "url": "https://open.spotify.com/track/0Sn3X6TZI6NK73DX6hMnhD"
     }
   ],
   "unique_name": "Bachata Lovers",

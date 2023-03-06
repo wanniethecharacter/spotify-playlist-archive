@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 150277,
+  "num_followers": 150521,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0NDY5MywwMDAwMDAwMDk2YzkyNGM1MDc5N2EzMWE0YTUwYzM4ZjllMGFhNDk5",
+  "snapshot_id": "MTY3Nzg0NDY5MywwMDAwMDAwMGMwZGRhN2RkZjQxNGE2MDQ0NDc1ZDk2M2FkY2Q5ODAz",
   "tracks": [
     {
       "added_at": "2023-02-23 23:20:40",
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
     },
     {
-      "added_at": "2023-03-05 01:39:24",
+      "added_at": "2023-03-06 01:39:02",
       "album": {
         "name": "\u00c1mame",
         "url": "https://open.spotify.com/album/4swAxvFAAKtzCLFDZjM6mz"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"
     },
     {
-      "added_at": "2023-03-05 01:39:24",
+      "added_at": "2023-03-06 01:39:02",
       "album": {
         "name": "As\u00ed Era Ella",
         "url": "https://open.spotify.com/album/3NdIjdU9Zp7FquEfnZsFtA"
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-02-23 23:20:40",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
-    },
-    {
-      "added_at": "2023-02-23 23:20:40",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 161239,
       "name": "Yo Tomo Licor",
       "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
+    },
+    {
+      "added_at": "2023-02-23 23:20:40",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
     },
     {
       "added_at": "2023-02-23 23:20:40",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-23 23:20:40",
       "album": {
-        "name": "SOMOS NOSOTROS",
-        "url": "https://open.spotify.com/album/7mxxb19XlmY9nhFhumFmSD"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "SOMOS NOSOTROS",
-      "url": "https://open.spotify.com/track/2u3Hwa2fckCMGb5vo8DBbJ"
-    },
-    {
-      "added_at": "2023-02-23 23:20:40",
-      "album": {
         "name": "Un Homenaje Al Cielo",
         "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 210586,
       "name": "Se Me Ha Perdido Un Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP"
+    },
+    {
+      "added_at": "2023-02-23 23:20:40",
+      "album": {
+        "name": "SOMOS NOSOTROS",
+        "url": "https://open.spotify.com/album/7mxxb19XlmY9nhFhumFmSD"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "SOMOS NOSOTROS",
+      "url": "https://open.spotify.com/track/2u3Hwa2fckCMGb5vo8DBbJ"
     },
     {
       "added_at": "2023-02-23 23:20:40",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-02-23 23:20:40",
       "album": {
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Yo Que Te Am\u00e9",
+      "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"
+    },
+    {
+      "added_at": "2023-02-23 23:20:40",
+      "album": {
         "name": "Mensajeros del Amor",
         "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 192120,
       "name": "El Soy Yo",
       "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
-    },
-    {
-      "added_at": "2023-02-23 23:20:40",
-      "album": {
-        "name": "Olv\u00eddame Si Puedes",
-        "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
-      },
-      "artists": [
-        {
-          "name": "Noa - Noa",
-          "url": "https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Me Extra\u00f1ar\u00e1s",
-      "url": "https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe"
     },
     {
       "added_at": "2023-02-23 23:20:40",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-02-23 23:20:40",
       "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6"
+        "name": "Olv\u00eddame Si Puedes",
+        "url": "https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Noa - Noa",
+          "url": "https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Yo Que Te Am\u00e9",
-      "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"
+      "duration_ms": 231880,
+      "name": "Me Extra\u00f1ar\u00e1s",
+      "url": "https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe"
     },
     {
       "added_at": "2023-02-23 23:20:40",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-02-23 23:20:40",
       "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A"
+      },
+      "artists": [
+        {
+          "name": "Sonora Skandalo",
+          "url": "https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i"
+        }
+      ],
+      "duration_ms": 206629,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/1eBGzGyfBTv1FsLoZVC2ib"
+    },
+    {
+      "added_at": "2023-02-23 23:20:40",
+      "album": {
         "name": "Paso la Vida Pensando",
         "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 229093,
       "name": "Pega la Vuelta",
       "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
-    },
-    {
-      "added_at": "2023-02-23 23:20:40",
-      "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A"
-      },
-      "artists": [
-        {
-          "name": "Sonora Skandalo",
-          "url": "https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i"
-        }
-      ],
-      "duration_ms": 206629,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/1eBGzGyfBTv1FsLoZVC2ib"
     },
     {
       "added_at": "2023-02-23 23:20:40",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-02-23 23:20:40",
       "album": {
-        "name": "Lo Que Son las Cosas",
-        "url": "https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        },
-        {
-          "name": "La San Francisco",
-          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
-        }
-      ],
-      "duration_ms": 235035,
-      "name": "Lo Que Son las Cosas",
-      "url": "https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq"
-    },
-    {
-      "added_at": "2023-02-23 23:20:40",
-      "album": {
         "name": "Te Hubieras Ido Antes",
         "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
       },
@@ -1287,6 +1267,26 @@
     {
       "added_at": "2023-02-23 23:20:40",
       "album": {
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        },
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "duration_ms": 235035,
+      "name": "Lo Que Son las Cosas",
+      "url": "https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq"
+    },
+    {
+      "added_at": "2023-02-23 23:20:40",
+      "album": {
         "name": "Maravillosa Esta Noche",
         "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
-    },
-    {
-      "added_at": "2023-02-23 23:20:40",
-      "album": {
-        "name": "Hecho con Amor",
-        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 225293,
-      "name": "Cosas Del Amor",
-      "url": "https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo"
     },
     {
       "added_at": "2023-02-23 23:20:40",
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2023-02-23 23:20:40",
       "album": {
+        "name": "Hecho con Amor",
+        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 225293,
+      "name": "Cosas Del Amor",
+      "url": "https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo"
+    },
+    {
+      "added_at": "2023-02-23 23:20:40",
+      "album": {
         "name": "Un Homenaje Al Cielo",
         "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
       },
@@ -1347,22 +1347,6 @@
       "duration_ms": 240586,
       "name": "Con El No Soportas",
       "url": "https://open.spotify.com/track/0j5LSmUUUqyo2xBOUvpoQn"
-    },
-    {
-      "added_at": "2023-02-23 23:20:40",
-      "album": {
-        "name": "Te Sigo Queriendo",
-        "url": "https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK"
-      },
-      "artists": [
-        {
-          "name": "Volcan",
-          "url": "https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "Esa Malvada",
-      "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
     },
     {
       "added_at": "2023-02-23 23:20:40",
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-02-23 23:20:40",
       "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+        "name": "Te Sigo Queriendo",
+        "url": "https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK"
       },
       "artists": [
         {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+          "name": "Volcan",
+          "url": "https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk"
         }
       ],
-      "duration_ms": 191333,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
+      "duration_ms": 177533,
+      "name": "Esa Malvada",
+      "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
     },
     {
       "added_at": "2023-02-23 23:20:40",
@@ -1415,6 +1399,22 @@
       "duration_ms": 264149,
       "name": "Cumbia de los Dos",
       "url": "https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q"
+    },
+    {
+      "added_at": "2023-02-23 23:20:40",
+      "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
     },
     {
       "added_at": "2023-02-23 23:20:40",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-02-23 23:20:40",
       "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 211044,
+      "name": "Quitame Ese Hombre",
+      "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
+    },
+    {
+      "added_at": "2023-02-23 23:20:40",
+      "album": {
         "name": "La Gata",
         "url": "https://open.spotify.com/album/00oXPHfuBNr2qDN7ORn6YP"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 195893,
       "name": "Amor Pirata",
       "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
-    },
-    {
-      "added_at": "2023-02-23 23:20:40",
-      "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 211044,
-      "name": "Quitame Ese Hombre",
-      "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
     },
     {
       "added_at": "2023-02-23 23:20:40",
@@ -1567,6 +1567,22 @@
       "duration_ms": 209066,
       "name": "Lloraras mas de diez veces",
       "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
+    },
+    {
+      "added_at": "2023-02-23 23:20:40",
+      "album": {
+        "name": "Muero por Ti",
+        "url": "https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "Muero por T\u00ed",
+      "url": "https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl"
     },
     {
       "added_at": "2023-02-23 23:20:40",
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2023-02-23 23:20:40",
       "album": {
-        "name": "Muero por Ti",
-        "url": "https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
         }
       ],
-      "duration_ms": 236840,
-      "name": "Muero por T\u00ed",
-      "url": "https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl"
+      "duration_ms": 215186,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
     },
     {
       "added_at": "2023-02-23 23:20:40",
@@ -1671,22 +1687,6 @@
       "duration_ms": 256702,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
-    },
-    {
-      "added_at": "2023-02-23 23:20:40",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
-      },
-      "artists": [
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
     }
   ],
   "unique_name": "Cumbia y Romance",

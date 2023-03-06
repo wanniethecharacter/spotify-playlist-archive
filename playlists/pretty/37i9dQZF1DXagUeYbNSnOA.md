@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Digiannia\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,072 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,061 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,20 +27,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 17 | [Hola Qué Tal](https://open.spotify.com/track/3ne3ikSjTbCBENG8CoT9ge) | [El Grupillo](https://open.spotify.com/artist/19HmVwfeIXS6ZcFv4FVIeW) | [Hola Qué Tal](https://open.spotify.com/album/3sKiAfMEgSDuDp0oioXjXp) | 3:31 |
 | 18 | [Quererte Igual](https://open.spotify.com/track/2CSptzE2Sh7l0V5O6e8RFw) | [Paola Guanche](https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G) | [Quererte Igual](https://open.spotify.com/album/3RxtjXBIiWqCgtE9DE7VHe) | 2:50 |
 | 19 | [soñar contigo](https://open.spotify.com/track/1OKV4QvY9t4uQFG4hFtG4e) | [Azel](https://open.spotify.com/artist/7jJ3YJxEOavjy2lvcHyPPa), [Divase](https://open.spotify.com/artist/4vjRyqRrNl49xRnCyvkgdq) | [soñar contigo](https://open.spotify.com/album/7FoxzhMx1BZlJG4lb1uL9x) | 2:55 |
-| 20 | [Luna \- Versión Acústica](https://open.spotify.com/track/3Ev1bShzfAfll36Sg3uUBi) | [Mireia De La Torre](https://open.spotify.com/artist/79hHqOo4tkldFLWZLwF0tG) | [Luna Rota](https://open.spotify.com/album/4Qt9PFlNzo9e6oXs5LtbT5) | 2:31 |
-| 21 | [Bubalu](https://open.spotify.com/track/1gtyJiiPwLQin53n7BKjMC) | [Ryhan](https://open.spotify.com/artist/7ybeozC8yTsxkDEoCqoBIB) | [EXOTIK](https://open.spotify.com/album/3iJg6qhysMNVTnACGMs57R) | 3:21 |
-| 22 | [Eres](https://open.spotify.com/track/3PZr746QPiUvRCOLy4uVsb) | [Drea](https://open.spotify.com/artist/20fywzlqbWbjl0HlrJ3MqL) | [Eres](https://open.spotify.com/album/5UtGslIGfnN5XBi6HWsx0l) | 2:49 |
-| 23 | [Noche No Te Vayas](https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Noche No Te Vayas](https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8) | 2:50 |
+| 20 | [Bubalu](https://open.spotify.com/track/1gtyJiiPwLQin53n7BKjMC) | [Ryhan](https://open.spotify.com/artist/7ybeozC8yTsxkDEoCqoBIB) | [EXOTIK](https://open.spotify.com/album/3iJg6qhysMNVTnACGMs57R) | 3:21 |
+| 21 | [Luna \- Versión Acústica](https://open.spotify.com/track/3Ev1bShzfAfll36Sg3uUBi) | [Mireia De La Torre](https://open.spotify.com/artist/79hHqOo4tkldFLWZLwF0tG) | [Luna Rota](https://open.spotify.com/album/4Qt9PFlNzo9e6oXs5LtbT5) | 2:31 |
+| 22 | [Noche No Te Vayas](https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Noche No Te Vayas](https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8) | 2:50 |
+| 23 | [Eres](https://open.spotify.com/track/3PZr746QPiUvRCOLy4uVsb) | [Drea](https://open.spotify.com/artist/20fywzlqbWbjl0HlrJ3MqL) | [Eres](https://open.spotify.com/album/5UtGslIGfnN5XBi6HWsx0l) | 2:49 |
 | 24 | [El Proceso](https://open.spotify.com/track/0XuoNwg645L5YBl2NvhbGw) | [Joel el negrito](https://open.spotify.com/artist/5gK51UR8WyIQPkHKRT41cR) | [El Proceso](https://open.spotify.com/album/0AUZP4CxPWnMBZQoCewqFf) | 4:02 |
-| 25 | [Normalidad](https://open.spotify.com/track/6Z6oIEeUbTotePo1cmJKQv) | [Patricio Tello](https://open.spotify.com/artist/7jwFNt4XttPDouOwMzTWse) | [Normalidad](https://open.spotify.com/album/3dJhTBEGyG82Qxgg7ImrBO) | 2:22 |
-| 26 | [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 |
+| 25 | [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 |
+| 26 | [Normalidad](https://open.spotify.com/track/6Z6oIEeUbTotePo1cmJKQv) | [Patricio Tello](https://open.spotify.com/artist/7jwFNt4XttPDouOwMzTWse) | [Normalidad](https://open.spotify.com/album/3dJhTBEGyG82Qxgg7ImrBO) | 2:22 |
 | 27 | [De un Solo Aliento](https://open.spotify.com/track/5rJ4jVrC8Tp5h48UTxCQ9h) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [De un Solo Aliento](https://open.spotify.com/album/2bvzmcBIkNkurpqbRAzgTI) | 3:36 |
-| 28 | [Ansiedad y TV](https://open.spotify.com/track/4fgyRpHJridkqa6um7x47e) | [Rococó](https://open.spotify.com/artist/69a8n82mR2VGTcVejFM2Dq), [Meeky](https://open.spotify.com/artist/5ZvA5aP68LHgdCh0kFF2J5) | [No me sale querer](https://open.spotify.com/album/42g65upSU5sj7NtC6dZth3) | 3:03 |
-| 29 | [Doble Vida](https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Doble Vida](https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV) | 3:34 |
-| 30 | [cuidao](https://open.spotify.com/track/6B2xmQgcYZzDESQUjh2l55) | [henry semler](https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS) | [cuidao](https://open.spotify.com/album/2h9bXFYYMaykZ3FlSGOSlj) | 3:25 |
-| 31 | [Mar](https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Mar](https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid) | 3:24 |
-| 32 | [Brujeria](https://open.spotify.com/track/2WuyWhsKH1nun0VZyWstjS) | [Dru Flecha](https://open.spotify.com/artist/7lmfWJUSLCLveumavOrth2) | [LINDA](https://open.spotify.com/album/7dgG5bAzBXJcG2Q0CmXcf6) | 2:26 |
-| 33 | [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 |
+| 28 | [Doble Vida](https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Doble Vida](https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV) | 3:34 |
+| 29 | [Ansiedad y TV](https://open.spotify.com/track/4fgyRpHJridkqa6um7x47e) | [Rococó](https://open.spotify.com/artist/69a8n82mR2VGTcVejFM2Dq), [Meeky](https://open.spotify.com/artist/5ZvA5aP68LHgdCh0kFF2J5) | [No me sale querer](https://open.spotify.com/album/42g65upSU5sj7NtC6dZth3) | 3:03 |
+| 30 | [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 |
+| 31 | [cuidao](https://open.spotify.com/track/6B2xmQgcYZzDESQUjh2l55) | [henry semler](https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS) | [cuidao](https://open.spotify.com/album/2h9bXFYYMaykZ3FlSGOSlj) | 3:25 |
+| 32 | [Mar](https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Mar](https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid) | 3:24 |
+| 33 | [Brujeria](https://open.spotify.com/track/2WuyWhsKH1nun0VZyWstjS) | [Dru Flecha](https://open.spotify.com/artist/7lmfWJUSLCLveumavOrth2) | [LINDA](https://open.spotify.com/album/7dgG5bAzBXJcG2Q0CmXcf6) | 2:26 |
 | 34 | [Que tal si](https://open.spotify.com/track/6NB6MFsGPrOxPGVqKk2R4I) | [Elio](https://open.spotify.com/artist/1HPJQk3RATpRhuHPzRxx7V), [Zeron](https://open.spotify.com/artist/3mHIRxQ7MhV8yBR2tk5xSn) | [Que tal si](https://open.spotify.com/album/269AjbumPxai7Bv8sa0ADT) | 3:03 |
 | 35 | [No Se Puede Brillar Siempre <3](https://open.spotify.com/track/0Qx7KbI7VGxPjVmyZZIOUj) | [Loyalkidx](https://open.spotify.com/artist/408serMk8u851EicZV2R2w) | [No Se Puede Brillar Siempre <3](https://open.spotify.com/album/2sPDwluC3aQNMsN4AFFEjv) | 1:50 |
 | 36 | [Mi Cuerpo Subira](https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S) | [Wekaforé](https://open.spotify.com/artist/73qySwnVMlJZsR9Lk5MOpn) | [Mi Cuerpo Subira](https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Rey de la India](https://open.spotify.com/track/1aFe2l0eJVyYppuKG5nplO) | [Pablo Prisma y las Pirámides](https://open.spotify.com/artist/0YFQlX7xBX1SD9nJNbw9EL), [Gúdar](https://open.spotify.com/artist/3LqgCszyAUGMwBSlVO3KKM) | [Rey de la India](https://open.spotify.com/album/1YEWYM0AMugYzZ4ZSjpbGR) | 2:09 |
 | 50 | [Clase Turista](https://open.spotify.com/track/2m1HYnpusyGj81Zw0eAfqX) | [Almera](https://open.spotify.com/artist/5sIlYZFkKF7tZom5y5IrrZ), [El Santanás](https://open.spotify.com/artist/6rFCMzspkSijL5f49P7gyP) | [Clase Turista](https://open.spotify.com/album/2XMFEaurcpsP0FfXLYr9TS) | 3:09 |
 
-Snapshot ID: `MTY3NzY5MzYwMCwwMDAwMDAwMDIzNTEwZWZmNTkxYTM2ZTRlNTc0YjRjODBmMjU4ZjU2`
+Snapshot ID: `MTY3NzY5MzYwMCwwMDAwMDAwMDA1OGRjMjlhM2Y2NGY1MzAyNDc2MzlkYzI0MTMyOTI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Lou Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,342 likes - 72 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,379 likes - 72 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 14 | [Marionettes](https://open.spotify.com/track/62cGlQHyY68JzvWYfsDnm4) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Marionettes](https://open.spotify.com/album/3WzEUeHTF99XBwQVwBQklC) | 2:46 |
 | 15 | [Certificar](https://open.spotify.com/track/39iKqBJvPwW3HspCErgLSc) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Certificar](https://open.spotify.com/album/4OOrg2MvhCdEoAbsvyg6yp) | 2:50 |
 | 16 | [Quando Eu Falei Pra Ela](https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Quando Eu Falei Pra Ela](https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY) | 3:03 |
-| 17 | [Pra Trás](https://open.spotify.com/track/7cANXE6LzQAXobgvIjMNVN) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Pra Trás](https://open.spotify.com/album/4RTToZRDYATXkCt0URRxJQ) | 3:11 |
+| 17 | [Pra Trás](https://open.spotify.com/track/5Ke6ddTLTyu9GgzwcW8lD9) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:11 |
 | 18 | [Essa Pessoa Esquisita](https://open.spotify.com/track/4RFxUmgvlVrXAjhrPGI89v) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Essa Pessoa Esquisita](https://open.spotify.com/album/5GgT8TquIycrVOjzSyC6yv) | 4:56 |
 | 19 | [A Sociedade dos Nerds Psicóticos](https://open.spotify.com/track/4YCJNxlr9rUdgXrGEkCLlx) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [A Sociedade dos Nerds Psicóticos](https://open.spotify.com/album/6mJ4cn0DAOhRbv6FiE1qfr) | 3:08 |
 | 20 | [Querido](https://open.spotify.com/track/0PwSwGyOUT0HqCOOgY2ny3) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29) | [Querido](https://open.spotify.com/album/3X25A4Wln0BapqgiEWjy3E) | 3:16 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 71 | [festa estranha](https://open.spotify.com/track/5Gj78z3zpdXoZzlpEIibOb) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [festa estranha](https://open.spotify.com/album/3ngy9z7zLwytb1QVECUTnz) | 2:51 |
 | 72 | [Suco de Umbu](https://open.spotify.com/track/6fZsGcrr8ee5BErIAqb8Sw) | [Florais Da Terra Quente](https://open.spotify.com/artist/4o2BxKIeP7nFrkIQZCNl1R), [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [Suco de Umbu](https://open.spotify.com/album/5XzQwlFEVncfk4BvGaFeIt) | 3:54 |
 
-Snapshot ID: `MTY3Nzg2MTY2NCwwMDAwMDAwMDcxMDdlM2FhNDYxYjdkZjg2ZDg4YWE2MjUxNmEwMjBl`
+Snapshot ID: `MTY3Nzg2MTY2NCwwMDAwMDAwMDE5ZDVmNWEwNDQwYmQ0MzM0NzM3MDYyYjczOTc5MDQ2`

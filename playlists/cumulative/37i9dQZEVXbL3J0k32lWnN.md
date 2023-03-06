@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,004 songs - 2 day 4 hr 32 min
+1,005 songs - 2 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [Nu & Her](https://open.spotify.com/track/3aO7mDhieREXwY0sLBj3JU) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [30 Somre](https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS) | 3:11 | 2022-06-18 | 2022-06-20 |
 | [Nu Er Det Jul \(Nissebanden\)](https://open.spotify.com/track/5Jqo99jKKbaSYKQ7P0SM54) | [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8) | [Et Barn Af Jul](https://open.spotify.com/album/2NoVdaZGygsj673n8ndWyV) | 3:00 | 2021-11-28 | 2022-12-28 |
 | [Ny Agenda \(Artigeardit X Lamin\)](https://open.spotify.com/track/17LOXwgfFEYvKEwMuyKyCr) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Agenda](https://open.spotify.com/album/04DGAw94srEOUmHovIOyWW) | 3:24 | 2021-10-17 | 2021-10-23 |
+| [Ny I Byen](https://open.spotify.com/track/4USLnI3inBG5610CsU3mEz) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Ny I Byen](https://open.spotify.com/album/49tgpltjDjyzE0YFz4q5dN) | 2:27 | 2023-03-05 |  |
 | [Når Mænd Græder](https://open.spotify.com/track/1bIxLnZasVLJbol55wDU5r) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når Mænd Græder](https://open.spotify.com/album/5Hk2j3xL9WIU3oE7TWoBsv) | 3:30 | 2022-05-07 | 2022-10-23 |
 | [Når Mænd Græder](https://open.spotify.com/track/2Hmxz24PvWk3B1vvSyzwV3) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:30 | 2022-10-22 | 2022-11-06 |
 | [Når Sneen Falder](https://open.spotify.com/track/2jW0MuNkctmqajdnoNZvyg) | [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj), [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [Når Sneen Falder](https://open.spotify.com/album/33JmHahHVIbTiosKLN5QSm) | 4:21 | 2021-11-28 | 2022-12-28 |
@@ -827,7 +828,7 @@
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-08-13 | 2022-11-06 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-22 | 2022-11-06 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-07 | 2022-12-29 |
-| [Snubler](https://open.spotify.com/track/6oNgurLd0pCnLMWPOxt5Es) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [LÆNGE LEVE](https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7) | 3:22 | 2023-01-28 |  |
+| [Snubler](https://open.spotify.com/track/6oNgurLd0pCnLMWPOxt5Es) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [LÆNGE LEVE](https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7) | 3:22 | 2023-01-28 | 2023-03-06 |
 | [Solen Op](https://open.spotify.com/track/3riJzTjTvRcuvUfG7q7x25) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Solen Op](https://open.spotify.com/album/7sHCxQKeu6O7D54wXnvBVm) | 2:24 | 2023-02-04 | 2023-02-21 |
 | [Solhverv](https://open.spotify.com/track/5x6ggDM895CRGHxS3dwRHz) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Solhverv](https://open.spotify.com/album/00knk068AEGY1pN5O7Y4Ax) | 3:33 | 2021-03-27\* | 2023-01-03 |
 | [Solskin](https://open.spotify.com/track/2hDrbSyhJstGmPDmZDlDTH) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [LÆNGE LEVE](https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7) | 3:02 | 2023-01-28 | 2023-02-05 |

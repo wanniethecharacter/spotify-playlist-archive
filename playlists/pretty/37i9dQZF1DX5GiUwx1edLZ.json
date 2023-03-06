@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 273814,
+  "num_followers": 273829,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMDkwNzVmYmZlMjJkN2Y4MGU3NjEzNzQ1M2NlMzVjODQw",
+  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMDc1NzUyYWVjNDFlOGI3MzE4ZjQ3NDhhM2I4YzVlMzg1",
   "tracks": [
     {
       "added_at": "2023-01-02 17:43:59",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "All That Really Matters (Stripped Version)",
-        "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 198568,
-      "name": "All That Really Matters - Stripped Version",
-      "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "Sun Comes Up (Acoustic)",
         "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 255582,
       "name": "Sun Comes Up - Acoustic",
       "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "All That Really Matters (Stripped Version)",
+        "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 198568,
+      "name": "All That Really Matters - Stripped Version",
+      "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Tri-State",
-        "url": "https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 251760,
-      "name": "Tri-State",
-      "url": "https://open.spotify.com/track/35TLjgolZVn4NlnaMyWh3p"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 191327,
       "name": "By Your Side (feat. Tom Grennan) - Acoustic",
       "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "Tri-State",
+        "url": "https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "Tri-State",
+      "url": "https://open.spotify.com/track/35TLjgolZVn4NlnaMyWh3p"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -811,6 +811,26 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Believe In The Kingdom",
+        "url": "https://open.spotify.com/album/4sE1bvg8n6rQ7kKk63zwIB"
+      },
+      "artists": [
+        {
+          "name": "King Topher",
+          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
+        },
+        {
+          "name": "Meaco",
+          "url": "https://open.spotify.com/artist/5UwpTlMi49AhrEbQK71xNh"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Praise You (feat. Meaco) - Chill Mix",
+      "url": "https://open.spotify.com/track/36ILWiQk8S98bGF3waUpna"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Better Days (NEIKED x Mae Muller) [Acoustic]",
         "url": "https://open.spotify.com/album/0gxFT2phYifzYo74xqx5q0"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 304983,
       "name": "Satellite / Stealing Time",
       "url": "https://open.spotify.com/track/1zZEeO528oaVVBixuEgX7K"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Believe In The Kingdom",
-        "url": "https://open.spotify.com/album/4sE1bvg8n6rQ7kKk63zwIB"
-      },
-      "artists": [
-        {
-          "name": "King Topher",
-          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
-        },
-        {
-          "name": "Meaco",
-          "url": "https://open.spotify.com/artist/5UwpTlMi49AhrEbQK71xNh"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Praise You (feat. Meaco) - Chill Mix",
-      "url": "https://open.spotify.com/track/36ILWiQk8S98bGF3waUpna"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -967,6 +967,26 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 293946,
+      "name": "Looking For Your Name",
+      "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Say Nothing (MAY-A\u2019s Version)",
         "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 288026,
       "name": "Sun & Moon",
       "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 293946,
-      "name": "Looking For Your Name",
-      "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "End Of The World (Acoustic Mix)",
-        "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "End Of The World - Acoustic Mix",
-      "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "Mad World (Acoustic Version)",
         "url": "https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 169200,
       "name": "Mad World - Acoustic Version",
       "url": "https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "End Of The World (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "End Of The World - Acoustic Mix",
+      "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
     },
     {
       "added_at": "2023-01-02 17:43:59",

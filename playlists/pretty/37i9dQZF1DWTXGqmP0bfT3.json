@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 233054,
+  "num_followers": 233333,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg3NTcxMCwwMDAwMDAwMGNkNDk5MjkxNzJkNTA4MjY5YzkzMTFmZTk1MDQzZWQ4",
+  "snapshot_id": "MTY3NTg3NTcxMCwwMDAwMDAwMDFmOWNlZDg1YThhMWQ4NTZjYjBmZjJiM2FiOTc3ZWYw",
   "tracks": [
     {
       "added_at": "2022-12-01 16:27:37",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-12-01 16:27:37",
       "album": {
-        "name": "MASSIVE ADDICTIVE",
-        "url": "https://open.spotify.com/album/0GCcO9StyRRAGumjCOTSpN"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Drop Dead Cynical",
-      "url": "https://open.spotify.com/track/5VToMJACRoeT0YZNs5CYyp"
-    },
-    {
-      "added_at": "2022-12-01 16:27:37",
-      "album": {
         "name": "Piece of Mind (2015 - Remaster)",
         "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 252733,
       "name": "The Trooper - 2015 Remaster",
       "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
+    },
+    {
+      "added_at": "2022-12-01 16:27:37",
+      "album": {
+        "name": "MASSIVE ADDICTIVE",
+        "url": "https://open.spotify.com/album/0GCcO9StyRRAGumjCOTSpN"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Drop Dead Cynical",
+      "url": "https://open.spotify.com/track/5VToMJACRoeT0YZNs5CYyp"
     },
     {
       "added_at": "2022-12-01 16:27:37",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-12-01 16:27:37",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+        "name": "Blessed & Possessed",
+        "url": "https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm"
       },
       "artists": [
         {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
         }
       ],
-      "duration_ms": 202158,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+      "duration_ms": 201386,
+      "name": "Army of the Night",
+      "url": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela"
     },
     {
       "added_at": "2022-12-01 16:27:37",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-12-01 16:27:37",
       "album": {
-        "name": "Blessed & Possessed",
-        "url": "https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 201386,
-      "name": "Army of the Night",
-      "url": "https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela"
-    },
-    {
-      "added_at": "2022-12-01 16:27:37",
-      "album": {
         "name": "The Great War",
         "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 197413,
       "name": "Fields of Verdun",
       "url": "https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T"
+    },
+    {
+      "added_at": "2022-12-01 16:27:37",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
     },
     {
       "added_at": "2022-12-01 16:27:37",
@@ -731,38 +731,6 @@
     {
       "added_at": "2022-12-01 16:27:37",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 253317,
-      "name": "My Own Grave",
-      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
-    },
-    {
-      "added_at": "2022-12-01 16:27:37",
-      "album": {
-        "name": "The Gathering",
-        "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
-    },
-    {
-      "added_at": "2022-12-01 16:27:37",
-      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
       },
@@ -783,18 +751,18 @@
     {
       "added_at": "2022-12-01 16:27:37",
       "album": {
-        "name": "Vengeance Falls (Special Edition)",
-        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
         }
       ],
-      "duration_ms": 269266,
-      "name": "Strife",
-      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0"
+      "duration_ms": 203680,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
     },
     {
       "added_at": "2022-12-01 16:27:37",
@@ -811,6 +779,38 @@
       "duration_ms": 218080,
       "name": "Demons Are a Girl's Best Friend",
       "url": "https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s"
+    },
+    {
+      "added_at": "2022-12-01 16:27:37",
+      "album": {
+        "name": "Vengeance Falls (Special Edition)",
+        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 269266,
+      "name": "Strife",
+      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0"
+    },
+    {
+      "added_at": "2022-12-01 16:27:37",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 253317,
+      "name": "My Own Grave",
+      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
       "added_at": "2022-12-01 16:27:37",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-12-01 16:27:37",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 223655,
-      "name": "Letting You Go",
-      "url": "https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm"
-    },
-    {
-      "added_at": "2022-12-01 16:27:37",
-      "album": {
         "name": "Blood of the Saints",
         "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 265720,
       "name": "Sanctified with Dynamite",
       "url": "https://open.spotify.com/track/2ZUUturolW3VpzXWzPEy2X"
+    },
+    {
+      "added_at": "2022-12-01 16:27:37",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 223655,
+      "name": "Letting You Go",
+      "url": "https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm"
     },
     {
       "added_at": "2022-12-01 16:27:37",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-12-01 16:27:37",
       "album": {
-        "name": "The Nexus",
-        "url": "https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "The Nexus",
-      "url": "https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1"
-    },
-    {
-      "added_at": "2022-12-01 16:27:37",
-      "album": {
         "name": "Sunset on the Golden Age",
         "url": "https://open.spotify.com/album/72D0zzcevLTiS9XSEJ1hg7"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 202586,
       "name": "Drink",
       "url": "https://open.spotify.com/track/0SPHbfBIe0mdRnae2MWuzr"
+    },
+    {
+      "added_at": "2022-12-01 16:27:37",
+      "album": {
+        "name": "The Nexus",
+        "url": "https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "The Nexus",
+      "url": "https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1"
     },
     {
       "added_at": "2022-12-01 16:27:37",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-12-01 16:27:37",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
+        "name": "Brotherhood of the Snake",
+        "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
       },
       "artists": [
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
         }
       ],
-      "duration_ms": 227864,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
+      "duration_ms": 253988,
+      "name": "Brotherhood of the Snake",
+      "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
     },
     {
       "added_at": "2022-12-01 16:27:37",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-12-01 16:27:37",
       "album": {
-        "name": "Brotherhood of the Snake",
-        "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
       },
       "artists": [
         {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
         }
       ],
-      "duration_ms": 253988,
-      "name": "Brotherhood of the Snake",
-      "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
+      "duration_ms": 227864,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
     },
     {
       "added_at": "2022-12-01 16:27:37",
@@ -1527,8 +1527,8 @@
     {
       "added_at": "2022-12-01 16:27:37",
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
       "artists": [
         {
@@ -1536,9 +1536,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
+      "duration_ms": 256573,
+      "name": "Of Wolf and Man (Remastered)",
+      "url": "https://open.spotify.com/track/55bio2ZtgCnUWsbANOEETT"
     },
     {
       "added_at": "2022-12-01 16:27:37",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-12-01 16:27:37",
       "album": {
-        "name": "Erase Me",
-        "url": "https://open.spotify.com/album/7431Bc80pipMjt6v3qm0UL"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/1kM2VS4HfIU6gNl1LTOQk0"
-    },
-    {
-      "added_at": "2022-12-01 16:27:37",
-      "album": {
         "name": "Incarnate",
         "url": "https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 226786,
       "name": "Hate by Design",
       "url": "https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD"
+    },
+    {
+      "added_at": "2022-12-01 16:27:37",
+      "album": {
+        "name": "Erase Me",
+        "url": "https://open.spotify.com/album/7431Bc80pipMjt6v3qm0UL"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/1kM2VS4HfIU6gNl1LTOQk0"
     },
     {
       "added_at": "2022-12-01 16:27:37",

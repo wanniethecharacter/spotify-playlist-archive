@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Blessd & Pirlo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,314 likes - 101 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,639 likes - 101 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

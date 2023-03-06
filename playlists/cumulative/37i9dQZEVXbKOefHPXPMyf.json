@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 280920,
       "name": "Carolyne",
       "url": "https://open.spotify.com/track/20qIbginYSMrvpWYzYZNuu"
@@ -3806,7 +3806,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
@@ -4184,7 +4184,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 213750,
       "name": "Cracker Island (feat. Thundercat)",
       "url": "https://open.spotify.com/track/4J3I4jpAtNjsclcs99jzeF"
@@ -4614,7 +4614,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 136951,
       "name": "De Nada",
       "url": "https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC"
@@ -9392,7 +9392,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
@@ -11360,7 +11360,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 174048,
       "name": "Me Lo Pienso",
       "url": "https://open.spotify.com/track/3DjD6fj8uxzMqsLT8iUerq"
@@ -12666,7 +12666,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3"
@@ -13656,7 +13656,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 212253,
       "name": "OMG",
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
@@ -16726,7 +16726,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 117528,
       "name": "SMOKE IT OFF!",
       "url": "https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym"
@@ -20920,6 +20920,24 @@
       "duration_ms": 197578,
       "name": "Yes t0 Heaven",
       "url": "https://open.spotify.com/track/5KMfWGgk4YhuGLHthUuhjG"
+    },
+    {
+      "album": {
+        "name": "Yes To Heaven",
+        "url": "https://open.spotify.com/album/7APax7lenlO06aVlVFh0fw"
+      },
+      "artists": [
+        {
+          "name": "August",
+          "url": "https://open.spotify.com/artist/14OTXivoPN0qTfPwf22FUF"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197625,
+      "name": "Yes To Heaven",
+      "url": "https://open.spotify.com/track/3jGSKgN7bx9RZzDyjxwMNK"
     },
     {
       "album": {

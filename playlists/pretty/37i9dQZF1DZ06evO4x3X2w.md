@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,045 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,275 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 44 | [Let The Music Do The Talking](https://open.spotify.com/track/2oUp3nS5lhoHZsoaLaKdRa) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Done With Mirrors](https://open.spotify.com/album/4V95fty2dd1ig3a1JzmjYf) | 3:47 |
 | 45 | [Can't Stop Lovin' You](https://open.spotify.com/track/795ERoqNFbElIkkGNJV58Y) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 4:04 |
 | 46 | [Blind Man](https://open.spotify.com/track/269kNUOWTdD20N0s4ISsfN) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2JgnqOt5m0QNEo3VbplePI) | 4:01 |
-| 47 | [One Way Street](https://open.spotify.com/track/06ql7n0Wz0QLSFb9hWF3v1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 7:02 |
-| 48 | [Shut Up And Dance](https://open.spotify.com/track/3BbWOytu8sLDD2pgU5z5xz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 4:55 |
+| 47 | [Shut Up And Dance](https://open.spotify.com/track/3BbWOytu8sLDD2pgU5z5xz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 4:55 |
+| 48 | [One Way Street](https://open.spotify.com/track/06ql7n0Wz0QLSFb9hWF3v1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 7:02 |
 | 49 | [Nine Lives](https://open.spotify.com/track/1baMSM7DZXYKVTHyxnYgzd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 4:01 |
 | 50 | [Young Lust](https://open.spotify.com/track/1NBBGTzsBg9gZxJHiXcDD1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 4:18 |
 
-Snapshot ID: `Mjc5NjU2NjAsMDAwMDAwMDBmODhlMTA2M2NlZWIyYzAzODc1ZjllZjQwYWI0YWNmZg==`
+Snapshot ID: `Mjc5NjY5NzgsMDAwMDAwMDBmOGUwM2YzMWY2NGYwMzEzMmZlYWExYTdlY2U0ZDE2Yg==`

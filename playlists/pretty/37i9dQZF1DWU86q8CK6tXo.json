@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists, co-curated by  <a href=\u201chttps://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs?si=ynZhn3bXQ5S1M1yxXVpkmg\u201d>Janelle Mon\u00e1e</a>  for International Women\u2019s Day.",
-  "num_followers": 34634,
+  "num_followers": 34655,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMDExMjNkNWUxZmQxMTgyOGQ2YjU4NzY1OWIzZmI3OGVj",
+  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMGYzYWM1MjAwNTNiMzhmZmJmYTkyYmZmMGZiODVhY2M5",
   "tracks": [
     {
       "added_at": "2023-03-01 05:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Lady Like",
-      "url": "https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 250653,
       "name": "GIRL",
       "url": "https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "Lady Like",
+      "url": "https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -551,38 +551,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 166799,
-      "name": "latin girl",
-      "url": "https://open.spotify.com/track/42uno8Ku7ydFRwjD7OcXDI"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
-        "name": "Hey Girl",
-        "url": "https://open.spotify.com/album/4kWRAruWZf0kKMgPdsRyhv"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Hey Girl",
-      "url": "https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "LP Giobbi x Insomniac Records Presents Femme House",
         "url": "https://open.spotify.com/album/2PPOz5uvKbjugSgFZHTMNi"
       },
@@ -603,6 +571,22 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 166799,
+      "name": "latin girl",
+      "url": "https://open.spotify.com/track/42uno8Ku7ydFRwjD7OcXDI"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
         "name": "Cambio De Canci\u00f3n",
         "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 169548,
       "name": "Cambio De Canci\u00f3n",
       "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "Hey Girl",
+        "url": "https://open.spotify.com/album/4kWRAruWZf0kKMgPdsRyhv"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 193791,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "Break My Heart",
         "url": "https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 252981,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 193791,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
+        "name": "Ojos Cerrados",
+        "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
+      },
+      "artists": [
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "duration_ms": 156354,
+      "name": "Ojos Cerrados",
+      "url": "https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
         "name": "La Sustancia X",
         "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 228186,
       "name": "Mujer (Ft. iLe)",
       "url": "https://open.spotify.com/track/0EFxVewPdGJG4LzBONflSE"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
-        "name": "Ojos Cerrados",
-        "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
-      },
-      "artists": [
-        {
-          "name": "Natalie L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
-        }
-      ],
-      "duration_ms": 156354,
-      "name": "Ojos Cerrados",
-      "url": "https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM"
     },
     {
       "added_at": "2023-03-01 05:00:00",

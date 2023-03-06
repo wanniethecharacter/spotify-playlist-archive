@@ -1,12 +1,12 @@
 {
   "description": "2013 highlights from the home of indie music.",
-  "num_followers": 52003,
+  "num_followers": 52068,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ1MiwwMDAwMDAwMGY4M2YxY2QwOWE0NjA4ZTFiZWVhNGVjZWVjZDYxZjc2",
+  "snapshot_id": "MTY1MDkxNjQ1MiwwMDAwMDAwMDRlZjljYzY3YWJmZTQyYzczOGIzYjU1ZDdlMWJlYmQ1",
   "tracks": [
     {
       "added_at": "2021-09-02 08:24:19",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "The 1975",
-        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Spreading Rumours",
         "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 196026,
       "name": "Raspberry",
       "url": "https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "The 1975 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 240670,
-      "name": "Fallingforyou",
-      "url": "https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
       },
@@ -591,22 +575,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Let's Be Still",
         "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
       },
@@ -619,6 +587,38 @@
       "duration_ms": 274200,
       "name": "Another Story",
       "url": "https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 240670,
+      "name": "Fallingforyou",
+      "url": "https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Spreading Rumours",
-        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
-      },
-      "artists": [
-        {
-          "name": "Grouplove",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Heza",
         "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 224933,
       "name": "Put a Light On",
       "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Spreading Rumours",
+        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
+      },
+      "artists": [
+        {
+          "name": "Grouplove",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 532306,
-      "name": "Under The Pressure",
-      "url": "https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Evil Friends",
         "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 194053,
       "name": "Modern Jesus",
       "url": "https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 532306,
+      "name": "Under The Pressure",
+      "url": "https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -983,6 +983,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "Seven + Mary",
+        "url": "https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Devil Like Me",
+      "url": "https://open.spotify.com/track/6pSliMukEwAdpMPgCKTKDH"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "Melophobia",
         "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
       },
@@ -995,6 +1011,22 @@
       "duration_ms": 207320,
       "name": "Take It or Leave It",
       "url": "https://open.spotify.com/track/43O3Iu8mDJy10i6k8SVRXX"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Don't Swallow the Cap",
+      "url": "https://open.spotify.com/track/3l3SbRkrK1aQ5Dk1h7vroV"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1015,22 +1047,6 @@
       "duration_ms": 254037,
       "name": "This Song Is Not About A Girl",
       "url": "https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "Don't Swallow the Cap",
-      "url": "https://open.spotify.com/track/3l3SbRkrK1aQ5Dk1h7vroV"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Seven + Mary",
-        "url": "https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Devil Like Me",
-      "url": "https://open.spotify.com/track/6pSliMukEwAdpMPgCKTKDH"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Evil Friends",
         "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "6 Feet Beneath The Moon",
-        "url": "https://open.spotify.com/album/6uvdXVgHsioxRIo0cFnkD7"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/6Ko6VLnveSju6IZiwONLTt"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Reflektor",
         "url": "https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 450983,
       "name": "Reflektor",
       "url": "https://open.spotify.com/track/7uMZy0bALAdneerERyr7Ks"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "6 Feet Beneath The Moon",
+        "url": "https://open.spotify.com/album/6uvdXVgHsioxRIo0cFnkD7"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/6Ko6VLnveSju6IZiwONLTt"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Secondhand Rapture",
-        "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
-      },
-      "artists": [
-        {
-          "name": "MS MR",
-          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Evil Friends",
         "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 227253,
       "name": "Atomic Man",
       "url": "https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Secondhand Rapture",
+        "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
+      },
+      "artists": [
+        {
+          "name": "MS MR",
+          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
     },
     {
       "added_at": "2021-09-02 08:24:19",

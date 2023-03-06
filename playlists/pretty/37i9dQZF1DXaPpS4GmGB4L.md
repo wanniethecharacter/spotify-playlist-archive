@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,541 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,636 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 39 | [Done Somebody Wrong \- Live At The Fillmore East, March 1971](https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [At Fillmore East](https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy) | 4:35 |
 | 40 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 |
 | 41 | [Just Your Fool](https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:24 |
-| 42 | [Don't You Just Know It](https://open.spotify.com/track/1Ufhe0CbCnDLC7LvycY4t4) | [Huey "Piano" Smith](https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu) | [This Is..\. Huey 'Piano' Smith](https://open.spotify.com/album/2O3iFb9B97JGcQt1IxvEfD) | 2:34 |
-| 43 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 |
-| 44 | [That's What You Do](https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:23 |
-| 45 | [Bayou Blues \- Demo Version](https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm) | [Lily Belle](https://open.spotify.com/artist/52JMyJYhF7HqCb0Ric9Zqd) | [Bayou Blues \(Demo Version\)](https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM) | 3:37 |
-| 46 | [Stop Messin' Round](https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 3:37 |
+| 42 | [That's What You Do](https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:23 |
+| 43 | [Don't You Just Know It](https://open.spotify.com/track/1Ufhe0CbCnDLC7LvycY4t4) | [Huey "Piano" Smith](https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu) | [This Is..\. Huey 'Piano' Smith](https://open.spotify.com/album/2O3iFb9B97JGcQt1IxvEfD) | 2:34 |
+| 44 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 |
+| 45 | [Stop Messin' Round](https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 3:37 |
+| 46 | [Bayou Blues \- Demo Version](https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm) | [Lily Belle](https://open.spotify.com/artist/52JMyJYhF7HqCb0Ric9Zqd) | [Bayou Blues \(Demo Version\)](https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM) | 3:37 |
 | 47 | [Take It Back](https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Take It Back](https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL) | 5:35 |
 | 48 | [Poor Boy](https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:36 |
 | 49 | [Shake Your Money\-Maker](https://open.spotify.com/track/5GHZ9UH4L3r6UK1A2zHWf3) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 2:26 |
 | 50 | [Watch Me Change](https://open.spotify.com/track/01jQJSRH05Y1GnldY8nhp1) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC), [Roberto Luti](https://open.spotify.com/artist/33Cme6gMFRML19GrfipNMH) | [If These Walls Could Talk](https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw) | 3:36 |
 
-Snapshot ID: `MTY3Nzg2NzEyNiwwMDAwMDAwMGNkYzczNzlhNzcxYWRjNzdiMTcxNDkyNmRiZGJhMmZl`
+Snapshot ID: `MTY3Nzg2NzEyNiwwMDAwMDAwMDkwZmU0ODIwZjY5NjAzZWMwMmZhMjMwMGQ3NDQ3N2Y4`

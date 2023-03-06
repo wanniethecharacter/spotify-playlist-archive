@@ -1,12 +1,12 @@
 {
   "description": "Laid back electronic soundscapes rooted in experimental and ambient sensibilities.",
-  "num_followers": 83569,
+  "num_followers": 83636,
   "original_name": "Refractions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxNzk4NiwwMDAwMDAwMDljOGI5YWI3ZThkN2Q5NWUyZGFiNGNiMjEyZjI4NzQz",
+  "snapshot_id": "MTY3NzgxNzk4NiwwMDAwMDAwMDZmYjk1NmRhNTczOGRiNTZhODg2MTM1YzJhZjIwNmQ0",
   "tracks": [
     {
       "added_at": "2021-10-06 04:42:05",
@@ -225,22 +225,6 @@
       "url": "https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Articulation",
-        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "Melodica",
-      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
-    },
-    {
       "added_at": "2022-07-08 04:56:00",
       "album": {
         "name": "Spirit Exit",
@@ -257,20 +241,20 @@
       "url": "https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H"
     },
     {
-      "added_at": "2021-11-25 22:12:36",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Haut",
-        "url": "https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm"
+        "name": "Articulation",
+        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
       },
       "artists": [
         {
-          "name": "Ralph Heidel",
-          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 252733,
-      "name": "Haut",
-      "url": "https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU"
+      "duration_ms": 219820,
+      "name": "Melodica",
+      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
       "added_at": "2022-12-20 22:24:39",
@@ -287,6 +271,22 @@
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
+      "added_at": "2021-11-25 22:12:36",
+      "album": {
+        "name": "Haut",
+        "url": "https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm"
+      },
+      "artists": [
+        {
+          "name": "Ralph Heidel",
+          "url": "https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Haut",
+      "url": "https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -319,22 +319,6 @@
       "duration_ms": 191413,
       "name": "Kalimba Heart",
       "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
-    },
-    {
-      "added_at": "2022-07-06 16:48:39",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 331514,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
     },
     {
       "added_at": "2022-09-21 01:59:31",
@@ -419,6 +403,22 @@
       "duration_ms": 397000,
       "name": "Yulquen",
       "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
+    },
+    {
+      "added_at": "2022-07-06 16:48:39",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 331514,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
     },
     {
       "added_at": "2022-08-03 02:34:20",
@@ -541,6 +541,22 @@
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
+      "added_at": "2022-03-29 02:05:38",
+      "album": {
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
+    },
+    {
       "added_at": "2022-08-03 03:12:27",
       "album": {
         "name": "Sons Of",
@@ -559,22 +575,6 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
-    },
-    {
-      "added_at": "2022-03-29 02:05:38",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/7Cf9U4IO5YXjaNbh45sImM"
     },
     {
-      "added_at": "2022-03-30 15:08:41",
-      "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
-      },
-      "artists": [
-        {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
-    },
-    {
       "added_at": "2021-11-25 22:12:36",
       "album": {
         "name": "Patterns Of Consciousness",
@@ -639,6 +623,22 @@
       "duration_ms": 947500,
       "name": "Gravity that Binds",
       "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
+    },
+    {
+      "added_at": "2022-03-30 15:08:41",
+      "album": {
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
       "added_at": "2022-03-30 04:41:43",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "Oquo Quooon",
+      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
+    },
+    {
       "added_at": "2022-08-24 01:27:39",
       "album": {
         "name": "Eve",
@@ -755,22 +771,6 @@
       "duration_ms": 250400,
       "name": "Kompod",
       "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Oquo Quooon",
-      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
     },
     {
-      "added_at": "2022-12-16 01:59:41",
-      "album": {
-        "name": "Catalog Number Sta122",
-        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
-      },
-      "artists": [
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "5",
-      "url": "https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "The Alias Sessions",
@@ -955,6 +939,22 @@
       "duration_ms": 320933,
       "name": "Underwater Lament",
       "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
+    },
+    {
+      "added_at": "2022-12-16 01:59:41",
+      "album": {
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "5",
+      "url": "https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN"
     },
     {
-      "added_at": "2022-12-29 18:34:46",
-      "album": {
-        "name": "Nannou (Mixed)",
-        "url": "https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "Nannou - Mixed",
-      "url": "https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Treat Em Right (Boards Of Canada Remix)",
@@ -1223,6 +1207,22 @@
       "duration_ms": 269987,
       "name": "Treat Em Right - Boards of Canada Remix Instrumental",
       "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
+    },
+    {
+      "added_at": "2022-12-29 18:34:46",
+      "album": {
+        "name": "Nannou (Mixed)",
+        "url": "https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "Nannou - Mixed",
+      "url": "https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz"
     },
     {
       "added_at": "2022-11-09 13:54:27",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "No era s\u00f3lida",
-        "url": "https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 138405,
-      "name": "Seca",
-      "url": "https://open.spotify.com/track/1ZEzXlxCAHHdooAXNyeecB"
-    },
-    {
       "added_at": "2022-01-11 02:28:09",
       "album": {
         "name": "Amuleto",
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Blinking/Aubades",
-        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
+        "name": "No era s\u00f3lida",
+        "url": "https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u"
       },
       "artists": [
         {
-          "name": "rAHHH",
-          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
         }
       ],
-      "duration_ms": 220212,
-      "name": "Aubades",
-      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
+      "duration_ms": 138405,
+      "name": "Seca",
+      "url": "https://open.spotify.com/track/1ZEzXlxCAHHdooAXNyeecB"
     },
     {
       "added_at": "2022-03-11 06:16:07",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Blinking/Aubades",
+        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
+      },
+      "artists": [
+        {
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "Aubades",
+      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "I Can Hear the Birds",
         "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
       },
@@ -1401,20 +1401,20 @@
       "url": "https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN"
     },
     {
-      "added_at": "2022-04-29 18:23:46",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+        "name": "Glass Bird Movement",
+        "url": "https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm"
       },
       "artists": [
         {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+          "name": "Isan",
+          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
         }
       ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+      "duration_ms": 338734,
+      "name": "Every Since And Then",
+      "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
     },
     {
       "added_at": "2022-02-25 03:47:46",
@@ -1433,20 +1433,20 @@
       "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-04-29 18:23:46",
       "album": {
-        "name": "Glass Bird Movement",
-        "url": "https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm"
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
       },
       "artists": [
         {
-          "name": "Isan",
-          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
         }
       ],
-      "duration_ms": 338734,
-      "name": "Every Since And Then",
-      "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1481,22 +1481,6 @@
       "url": "https://open.spotify.com/track/3LLih0W5lB0xEAQxSxoBW6"
     },
     {
-      "added_at": "2023-01-02 20:32:45",
-      "album": {
-        "name": "ADDLE",
-        "url": "https://open.spotify.com/album/1xD85z87BbTL8jtOEHPCK5"
-      },
-      "artists": [
-        {
-          "name": "Bogdan Raczynski",
-          "url": "https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA"
-        }
-      ],
-      "duration_ms": 244002,
-      "name": "LADDE",
-      "url": "https://open.spotify.com/track/1uescVu7fcevtmnW9vps7A"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "1234,8",
@@ -1529,20 +1513,20 @@
       "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
-      "added_at": "2022-08-31 03:57:27",
+      "added_at": "2023-01-02 20:32:45",
       "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+        "name": "ADDLE",
+        "url": "https://open.spotify.com/album/1xD85z87BbTL8jtOEHPCK5"
       },
       "artists": [
         {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+          "name": "Bogdan Raczynski",
+          "url": "https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA"
         }
       ],
-      "duration_ms": 687536,
-      "name": "A2",
-      "url": "https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg"
+      "duration_ms": 244002,
+      "name": "LADDE",
+      "url": "https://open.spotify.com/track/1uescVu7fcevtmnW9vps7A"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1559,6 +1543,22 @@
       "duration_ms": 228000,
       "name": "Ecovocative",
       "url": "https://open.spotify.com/track/0CFgpPfYd1KJRNMLEpatzL"
+    },
+    {
+      "added_at": "2022-08-31 03:57:27",
+      "album": {
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 687536,
+      "name": "A2",
+      "url": "https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Brainwave Technology",
-        "url": "https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf"
-      },
-      "artists": [
-        {
-          "name": "Michael Mayer",
-          "url": "https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI"
-        }
-      ],
-      "duration_ms": 407991,
-      "name": "Brainwave Technology",
-      "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Ficciones Del Tr\u00f3pico",
         "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 269142,
       "name": "Phasma Gigas",
       "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Brainwave Technology",
+        "url": "https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf"
+      },
+      "artists": [
+        {
+          "name": "Michael Mayer",
+          "url": "https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI"
+        }
+      ],
+      "duration_ms": 407991,
+      "name": "Brainwave Technology",
+      "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
     },
     {
       "added_at": "2021-10-06 04:42:05",

@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Lizzy McAlpine",
-  "num_followers": 806432,
+  "num_followers": 806663,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDQ4NDM4NmE0MGUwNzgwNDhlM2IzZmZjNzNiOGJiYjEz",
+  "snapshot_id": "MTY3NjYxMDAwMCwwMDAwMDAwMDAyYmYyOTRiMjU4ZWFlNjliN2U1ZDQ4ODRmY2ViN2Uw",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj"
-      },
-      "artists": [
-        {
-          "name": "Roses & Revolutions",
-          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
-        },
-        {
-          "name": "Lostboycrow",
-          "url": "https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2"
-        }
-      ],
-      "duration_ms": 185663,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "The Worth Of The Wait",
         "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj"
+      },
+      "artists": [
+        {
+          "name": "Roses & Revolutions",
+          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
+        },
+        {
+          "name": "Lostboycrow",
+          "url": "https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2"
+        }
+      ],
+      "duration_ms": 185663,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/75sVhPaNpMaypvDzhPbjXa"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Goin' Back",
-        "url": "https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g"
-      },
-      "artists": [
-        {
-          "name": "WILD",
-          "url": "https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Keeps Me Coming Back",
-      "url": "https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Yellow Paper Daisy",
         "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 199772,
       "name": "Yellow Paper Daisy",
       "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Goin' Back",
+        "url": "https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g"
+      },
+      "artists": [
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Keeps Me Coming Back",
+      "url": "https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Part of Me",
-        "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 237230,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Yours to Break",
         "url": "https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 211826,
       "name": "Wintergreen",
       "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 237230,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Omaha",
-        "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
+        "name": "Juniors",
+        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
       },
       "artists": [
         {
-          "name": "Falls",
-          "url": "https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l"
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 198600,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
+      "duration_ms": 233533,
+      "name": "Hear It Again",
+      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Juniors",
-        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
+        "name": "Omaha",
+        "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Falls",
+          "url": "https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l"
         }
       ],
-      "duration_ms": 233533,
-      "name": "Hear It Again",
-      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
+      "duration_ms": 198600,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Carving Canyons",
-        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
+        "name": "In Tokens & Charms",
+        "url": "https://open.spotify.com/album/1O6ouUiZXpuAOjINj1JYul"
       },
       "artists": [
         {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
         }
       ],
-      "duration_ms": 188619,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
+      "duration_ms": 211193,
+      "name": "Oh Love",
+      "url": "https://open.spotify.com/track/02sas1xqIwRm7iWSoHDvKe"
     }
   ],
   "unique_name": "Folk Pop",

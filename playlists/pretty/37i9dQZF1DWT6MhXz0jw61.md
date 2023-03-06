@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200,768 likes - 98 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,201,402 likes - 98 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 497456,
+  "num_followers": 497627,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDRjNGNhNjQxYjM1Y2ZhNTYwNzQ5NmVmZjc0Mzk5NmU0",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGQ0MjljNmM3Mjg3NDBhOWI2NTc5NzFkYjJhOTVmODIw",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -339,8 +339,8 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Sergio Mendes & Brasil \u201966-86: Classics Volume 18",
-        "url": "https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt"
+        "name": "Herb Alpert Presents",
+        "url": "https://open.spotify.com/album/1mCGVMMa6TQzjxrrC0jcBN"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
         }
       ],
-      "duration_ms": 161306,
-      "name": "Mas Que Nada",
-      "url": "https://open.spotify.com/track/6clrt5x5viq13LZwEnHcur"
+      "duration_ms": 149453,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/6WniximOsNpUYr6HL6fiTz"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -463,8 +463,8 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Herb Alpert Presents",
-        "url": "https://open.spotify.com/album/1mCGVMMa6TQzjxrrC0jcBN"
+        "name": "Sergio Mendes & Brasil \u201966-86: Classics Volume 18",
+        "url": "https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
         }
       ],
-      "duration_ms": 149453,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/6WniximOsNpUYr6HL6fiTz"
+      "duration_ms": 161306,
+      "name": "Mas Que Nada",
+      "url": "https://open.spotify.com/track/6clrt5x5viq13LZwEnHcur"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 283786,
-      "name": "Tres Palabras",
-      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
+      "duration_ms": 224173,
+      "name": "L\u00e1grimas Negras",
+      "url": "https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Plays The Contemporary Music Of Mexico And Brazil",
-        "url": "https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 170440,
-      "name": "Que Tristeza",
-      "url": "https://open.spotify.com/track/2hLADzCEa13ep3z40UtpqE"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Tocororo",
         "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 194706,
       "name": "Ay, Mam\u00e1 In\u00e9s",
       "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Plays The Contemporary Music Of Mexico And Brazil",
+        "url": "https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 170440,
+      "name": "Que Tristeza",
+      "url": "https://open.spotify.com/track/2hLADzCEa13ep3z40UtpqE"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -800,25 +800,9 @@
           "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 224173,
-      "name": "L\u00e1grimas Negras",
-      "url": "https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 439893,
-      "name": "Caravan",
-      "url": "https://open.spotify.com/track/6GV4qDo0rsamI1XitBnFCs"
+      "duration_ms": 283786,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -835,6 +819,22 @@
       "duration_ms": 446040,
       "name": "Yeah!",
       "url": "https://open.spotify.com/track/24cOWyNs4aTr4Ol1dtXhh8"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 439893,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/6GV4qDo0rsamI1XitBnFCs"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 131386,
-      "name": "Seven Steps To Heaven",
-      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 250933,
       "name": "Manteca Theme",
       "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 131386,
+      "name": "Seven Steps To Heaven",
+      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1515,42 +1515,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Que Bonita Bandera",
-        "url": "https://open.spotify.com/album/49hdJ2sefH3emVv9UHltI9"
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
       "artists": [
         {
-          "name": "Stretch And Bobbito",
-          "url": "https://open.spotify.com/artist/4gFujhX9cvrVpq2U5hOAQj"
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
         },
         {
-          "name": "The M19s Band",
-          "url": "https://open.spotify.com/artist/4XjdMgBFds1IcaeshYjDgE"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        },
-        {
-          "name": "Danny Rivera",
-          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
-        },
-        {
-          "name": "Jeimy Osorio",
-          "url": "https://open.spotify.com/artist/7HNDChAMfH5OKlcFHUJrBv"
-        },
-        {
-          "name": "Mireya",
-          "url": "https://open.spotify.com/artist/6nmhKuSX86VY9oD1rNPF06"
-        },
-        {
-          "name": "Chamir Bonano",
-          "url": "https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0"
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 290847,
-      "name": "Que Bonita Bandera",
-      "url": "https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH"
+      "duration_ms": 209813,
+      "name": "Son de la Loma",
+      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1615,6 +1595,46 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Que Bonita Bandera",
+        "url": "https://open.spotify.com/album/49hdJ2sefH3emVv9UHltI9"
+      },
+      "artists": [
+        {
+          "name": "Stretch And Bobbito",
+          "url": "https://open.spotify.com/artist/4gFujhX9cvrVpq2U5hOAQj"
+        },
+        {
+          "name": "The M19s Band",
+          "url": "https://open.spotify.com/artist/4XjdMgBFds1IcaeshYjDgE"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        },
+        {
+          "name": "Danny Rivera",
+          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
+        },
+        {
+          "name": "Jeimy Osorio",
+          "url": "https://open.spotify.com/artist/7HNDChAMfH5OKlcFHUJrBv"
+        },
+        {
+          "name": "Mireya",
+          "url": "https://open.spotify.com/artist/6nmhKuSX86VY9oD1rNPF06"
+        },
+        {
+          "name": "Chamir Bonano",
+          "url": "https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0"
+        }
+      ],
+      "duration_ms": 290847,
+      "name": "Que Bonita Bandera",
+      "url": "https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Trane's Delight",
         "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
       },
@@ -1647,26 +1667,6 @@
       "duration_ms": 226653,
       "name": "Bacalao Con Pan",
       "url": "https://open.spotify.com/track/0Nyk38VivffSW8dTVaroEC"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1843,18 +1843,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
       "artists": [
         {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Mercy, Mercy, Mercy",
-      "url": "https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE"
+      "duration_ms": 289986,
+      "name": "Descarga Vald\u00e9s",
+      "url": "https://open.spotify.com/track/2fKIOUrSKTpI6LlRRELZ7a"
     }
   ],
   "unique_name": "Latin Jazz",

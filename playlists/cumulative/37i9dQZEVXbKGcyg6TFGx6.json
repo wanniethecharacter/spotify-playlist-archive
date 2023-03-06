@@ -594,7 +594,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 150200,
       "name": "Abziehen",
       "url": "https://open.spotify.com/track/42MbpTDZWKc8uAJDhHcvQO"
@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-05",
+      "date_removed": null,
       "duration_ms": 209026,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU"
@@ -5100,7 +5100,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-05",
+      "date_removed": null,
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
@@ -15017,6 +15017,24 @@
     },
     {
       "album": {
+        "name": "Rien",
+        "url": "https://open.spotify.com/album/10AW4wqFISRK1x4YXrq5p2"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142813,
+      "name": "Rien",
+      "url": "https://open.spotify.com/track/02hXff8I9554osUyqOwYX2"
+    },
+    {
+      "album": {
         "name": "Multitude",
         "url": "https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw"
       },
@@ -16868,7 +16886,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 185310,
       "name": "Still Alive - From the Original Motion Picture Scream VI",
       "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
@@ -18210,7 +18228,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 168087,
       "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
       "url": "https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u"

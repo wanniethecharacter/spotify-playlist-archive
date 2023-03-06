@@ -1,12 +1,12 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Javier Sol\u00eds",
-  "num_followers": 211570,
+  "num_followers": 211999,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MTU3MywwMDAwMDAwMGQ2YzRiOGQ1MWVkMGRjNzA3ZjY0MGRiMjQ2NjYzNzRk",
+  "snapshot_id": "MTY2MTk2MTU3MywwMDAwMDAwMDE2OWZiZDliNTk4OWQ0YzAwMGY3M2E4ZTg4ZDFiMTE4",
   "tracks": [
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
-        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Reyes",
-          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
-        }
-      ],
-      "duration_ms": 128400,
-      "name": "Libro Abierto",
-      "url": "https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "Con el Mariachi de Am\u00e9rica de Jes\u00fas Rodr\u00edguez de Hijar",
         "url": "https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 245133,
       "name": "Inocente Pobre Amigo",
       "url": "https://open.spotify.com/track/2CvbBW72Rj5MXokvLpWsXZ"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
+        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Reyes",
+          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
+        }
+      ],
+      "duration_ms": 128400,
+      "name": "Libro Abierto",
+      "url": "https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi"
     },
     {
       "added_at": "2022-08-31 15:59:33",

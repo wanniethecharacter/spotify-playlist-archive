@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Gabi Sampaio, Rebeca Carvalho
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,349 likes - 75 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,420 likes - 75 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 33 | [Dependente](https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Dependente](https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI) | 5:01 |
 | 34 | [Misericórdia És](https://open.spotify.com/track/5AKt5pJIlou7XCZvWH1hGV) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Misericórdia És](https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG) | 2:34 |
 | 35 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 |
-| 36 | [Rei do Meu Coração](https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rei do Meu Coração](https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT) | 6:00 |
-| 37 | [Jesus](https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Jesus](https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc) | 5:10 |
+| 36 | [Jesus](https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Jesus](https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc) | 5:10 |
+| 37 | [Rei do Meu Coração](https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rei do Meu Coração](https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT) | 6:00 |
 | 38 | [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 |
 | 39 | [Estratégia](https://open.spotify.com/track/25JkALxjdPgDSpb9onSbao) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Estratégia](https://open.spotify.com/album/0AgmbghBFTxFKMmJcQohqr) | 6:04 |
 | 40 | [Vinde A Mim](https://open.spotify.com/track/74x0zAixJTR1kaXQRzO9uJ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Vinde A Mim](https://open.spotify.com/album/7bOk8D9ftAplKwunRQamun) | 5:29 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 61 | [Acalma](https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Acalma](https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts) | 4:56 |
 | 62 | [Amigas da Cruz: Coral das Mulheres 10](https://open.spotify.com/track/1qGvQHGy8EzD2k8KR23eb5) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O), [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz), [Kesia Mara](https://open.spotify.com/artist/45CkIraQ30WnzVCKnBC9Tu), [Felicia Lima](https://open.spotify.com/artist/2cvnS5GB47p0sy6SCw2uSg) | [Amigas da Cruz: Coral das Mulheres 10](https://open.spotify.com/album/4LHRMLBOALFCa4vVncHump) | 6:01 |
 | 63 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
-| 64 | [100% Homem, 100% Deus \- Ao Vivo](https://open.spotify.com/track/1MKh99as2azJTRC43Yi6Zu) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [100% Homem, 100% Deus \(Ao Vivo\)](https://open.spotify.com/album/6LHyXTUDHlGbrfbFuOl2HT) | 4:34 |
-| 65 | [Não Há Outro Lugar](https://open.spotify.com/track/5ArrwR5Id3g6yCufTNFptT) | [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Não Há Outro Lugar](https://open.spotify.com/album/087Z4NDbG4LrzfpagQctxU) | 4:05 |
-| 66 | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/track/6KH0A2ktOEZ5iF82Zhgf9o) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/album/3xbFeQp4PVjFC4gWAyhpec) | 4:16 |
-| 67 | [Ora Um Pouco Mais](https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ora Um Pouco Mais](https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702) | 4:38 |
+| 64 | [Ora Um Pouco Mais](https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ora Um Pouco Mais](https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702) | 4:38 |
+| 65 | [100% Homem, 100% Deus \- Ao Vivo](https://open.spotify.com/track/1MKh99as2azJTRC43Yi6Zu) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [100% Homem, 100% Deus \(Ao Vivo\)](https://open.spotify.com/album/6LHyXTUDHlGbrfbFuOl2HT) | 4:34 |
+| 66 | [Não Há Outro Lugar](https://open.spotify.com/track/5ArrwR5Id3g6yCufTNFptT) | [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Não Há Outro Lugar](https://open.spotify.com/album/087Z4NDbG4LrzfpagQctxU) | 4:05 |
+| 67 | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/track/6KH0A2ktOEZ5iF82Zhgf9o) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/album/3xbFeQp4PVjFC4gWAyhpec) | 4:16 |
 | 68 | [Não Se Cobre Tanto \- Ao Vivo](https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Não Se Cobre Tanto \(Ao Vivo\)](https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo) | 4:58 |
 | 69 | [Deus da Graça \(Ao Vivo\)](https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 4:58 |
 | 70 | [Purificados](https://open.spotify.com/track/0DYqL9ijMsiUZEqMkyTUHL) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Purificados](https://open.spotify.com/album/1FChfjyeKe3iD83te6z5Xs) | 5:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 74 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 | 75 | [Uma Hora é Pouco \- Ao Vivo](https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 10:21 |
 
-Snapshot ID: `MTY3Nzg4NDY4MSwwMDAwMDAwMDE2ODFhMmExYmUxYmMyYmE0ZjA3NGE2YjQyNGU5Y2U1`
+Snapshot ID: `MTY3Nzg4NDY4MSwwMDAwMDAwMGI3MmVkZjExOWUyMjgxYzg1ZDVkZGI5NGNiYjVhZjdj`

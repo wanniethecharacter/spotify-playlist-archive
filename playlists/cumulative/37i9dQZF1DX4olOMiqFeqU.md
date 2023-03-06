@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo
 
-111 songs - 8 hr 12 min
+112 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Hiling](https://open.spotify.com/track/6xQs6y6CpDqK9VKCktApEL) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Hiling](https://open.spotify.com/album/6E5TwOXhw6KyhX4P0p9vdK) | 3:55 | 2022-04-19 | 2022-07-28 |
 | [Hindi Tayo Pwede](https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N) | 5:03 | 2022-06-13 |  |
 | [Hindi Tayo Pwede](https://open.spotify.com/track/6VqZS3Wmf53pbfDBVEYvnP) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/2m8pNsbpAvJYe7rbRpkhFF) | 5:03 | 2022-04-19 | 2022-07-29 |
-| [Huling Sayaw](https://open.spotify.com/track/20WgDtVSk24lprETchbTt1) | [Kamikazee](https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Romantico](https://open.spotify.com/album/3rx77n7XvlsBj9N2u4pb2r) | 4:55 | 2023-01-04 |  |
+| [Huling Sayaw](https://open.spotify.com/track/20WgDtVSk24lprETchbTt1) | [Kamikazee](https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Romantico](https://open.spotify.com/album/3rx77n7XvlsBj9N2u4pb2r) | 4:55 | 2023-01-04 | 2023-03-06 |
 | [Huling Sayaw](https://open.spotify.com/track/7L8GQLm6e7cGoMMUAgWCVp) | [Kamikazee](https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A), [Kyla](https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S) | [Romantico](https://open.spotify.com/album/0HYAcVSUVkfxzHKgHu6DqR) | 4:55 | 2022-04-19 | 2023-01-07 |
 | [I Need You More Today](https://open.spotify.com/track/761frfZtZ8I2g70UsjFfBK) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M) | [I Need You More Today](https://open.spotify.com/album/4TyVEjoScAou6qVjhXyYfp) | 3:53 | 2022-04-19 | 2022-07-29 |
 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 | 2022-06-13 |  |
@@ -74,6 +74,7 @@
 | [Miracle Nights](https://open.spotify.com/track/4pUM81y5Rq7vAUeFhJRBXa) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [L.A\. GOON$](https://open.spotify.com/artist/58DoiT68nhZoGfdiIZiiUw), [Peso Mercado](https://open.spotify.com/artist/4mHU0bUvlVfiq0oarPYlAn) | [Miracle Nights](https://open.spotify.com/album/0rfMYevzZnaPqqFWtnY9NO) | 6:14 | 2023-01-04 | 2023-01-15 |
 | [Mundo](https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV) | 5:49 | 2022-04-19 |  |
 | [Nadarang](https://open.spotify.com/track/6LJ1p1h5EcMK4VPeCLDSoF) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/7MCYCgE6fQHYkhj29FHRcY) | 3:52 | 2022-06-13 | 2023-01-09 |
+| [Nadarang](https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx) | 3:54 | 2023-01-04 |  |
 | [Nang Dumating Ka](https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Nang Dumating Ka](https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9) | 6:19 | 2022-05-11 | 2023-01-28 |
 | [Ngayong Gabi](https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Ngayong Gabi](https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot) | 4:27 | 2022-06-13 |  |
 | [Ngiti](https://open.spotify.com/track/1YY6iA00Q58TvDEh6rYaWf) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Songs of Love](https://open.spotify.com/album/386MjtGdyMGEqjldwGVfFd) | 3:30 | 2022-04-19 | 2022-07-29 |

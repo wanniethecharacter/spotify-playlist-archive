@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Third Eye Blind.",
-  "num_followers": 1220960,
+  "num_followers": 1221261,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NzEwNCwwMDAwMDAwMDA0YzFhZWQ4YzI2YmRmYjgwMmRjNmIwOGFiMmJkZDA2",
+  "snapshot_id": "MTY3NDA3NzEwNCwwMDAwMDAwMGNkMTA3YmY5YWI4MmE4YmQyNzFhM2Q0NmZlZWMxMzBi",
   "tracks": [
     {
       "added_at": "2023-01-18 21:25:04",
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
         }
       ],
-      "duration_ms": 238666,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
+      "duration_ms": 225946,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 305533,
-      "name": "Undone - The Sweater Song",
-      "url": "https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Violent Femmes",
         "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 305533,
+      "name": "Undone - The Sweater Song",
+      "url": "https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
         "name": "Yourself or Someone Like You",
         "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
         }
       ],
-      "duration_ms": 225946,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
+      "duration_ms": 238666,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Different Class",
         "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 351626,
       "name": "Common People",
       "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Outside Looking In: The Best Of The Gin Blossoms",
-        "url": "https://open.spotify.com/album/4lTXWu1mQo8m8BKwU8Rp6f"
-      },
-      "artists": [
-        {
-          "name": "Gin Blossoms",
-          "url": "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Hey Jealousy",
-      "url": "https://open.spotify.com/track/1ZoHRnS5U4m7V5pgvFiK1N"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Beautiful Freak",
         "url": "https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 188693,
       "name": "Novocaine For The Soul",
       "url": "https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Outside Looking In: The Best Of The Gin Blossoms",
+        "url": "https://open.spotify.com/album/4lTXWu1mQo8m8BKwU8Rp6f"
+      },
+      "artists": [
+        {
+          "name": "Gin Blossoms",
+          "url": "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Hey Jealousy",
+      "url": "https://open.spotify.com/track/1ZoHRnS5U4m7V5pgvFiK1N"
     },
     {
       "added_at": "2023-01-18 21:25:04",

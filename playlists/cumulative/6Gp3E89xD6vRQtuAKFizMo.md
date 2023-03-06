@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-141 songs - 6 hr 58 min
+142 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Home 2 Me](https://open.spotify.com/track/34fH6Q1MOz5xT4PMItdvnV) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Home 2 Me](https://open.spotify.com/album/4W4GQvDqlb18eNR4tl87vE) | 2:38 | 2022-07-08 | 2022-10-12 |
 | [Hooyah!](https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Hooyah!](https://open.spotify.com/album/15IjJw4B6jvRPPtbuwHHkI) | 2:12 | 2023-02-03 |  |
 | [How I Do It](https://open.spotify.com/track/333fbxlbE3rVYSp0OCkabS) | [Ailow](https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB) | [How I Do It](https://open.spotify.com/album/1M9bBhw0L43VhmhwksYYFo) | 2:08 | 2022-06-09 | 2022-07-16 |
+| [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 | 2023-03-05 |  |
 | [I Don't Miss U](https://open.spotify.com/track/5yHpXftp1WadoINgFucZTz) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:43 | 2022-09-23 | 2022-12-10 |
 | [I Want You \(Feat\. Sai Sen & SBF\)](https://open.spotify.com/track/7M58XwtXlqzuRvf25OnWy7) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [Sai Sen](https://open.spotify.com/artist/0ObVSKfdMjPuYydCBG4TX3), [Iamsbf](https://open.spotify.com/artist/21vmR8ceieOHaiCvuwlLpI) | [I Want You \(Feat\. Sai Sen & SBF\)](https://open.spotify.com/album/67B3KMyswV6p4zF49Sns8Y) | 2:57 | 2022-06-03 | 2022-10-29 |
 | [Illusion](https://open.spotify.com/track/7Kqqg2agWjcT0nBVpzqA4B) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Illusion](https://open.spotify.com/album/159iw0k9cDQehxfOECRZgW) | 3:27 | 2022-10-27 | 2023-02-04 |
@@ -71,7 +72,7 @@
 | [Like I Used To](https://open.spotify.com/track/6zBmmiGwTPmiYS6Xz3rAm3) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Like I Used To](https://open.spotify.com/album/7EXcj1UAHyOotIw8GSziCp) | 2:27 | 2022-07-27 | 2022-10-22 |
 | [Like It How It Is](https://open.spotify.com/track/2RisShAmmnAgsYcI659wgv) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Like It How It Is](https://open.spotify.com/album/0e5igAhmesSJMLTWr7nV1D) | 3:36 | 2022-05-06 | 2022-07-07 |
 | [Like Me \(feat\. Hooli\)](https://open.spotify.com/track/5NIRCmno5NeeDl8Bu5z0M9) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [Hooli](https://open.spotify.com/artist/2WyNeweHZJAuEy3Mrtj0iW) | [Like Me \(feat\. Hooli\)](https://open.spotify.com/album/0rpyBk3C7Ttr7AyzlSyULH) | 2:23 | 2022-10-07 |  |
-| [Like That](https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Like That](https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9) | 3:27 | 2022-11-18 |  |
+| [Like That](https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Like That](https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9) | 3:27 | 2022-11-18 | 2023-03-06 |
 | [Loco](https://open.spotify.com/track/0jpJNvfr7oBTn5AQnpjEoC) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SAYMYNAME](https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv) | [Loco](https://open.spotify.com/album/6mhUBbGECknvUeH5TzmrCi) | 2:45 | 2022-07-27 |  |
 | [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-01 | 2022-12-21 |
 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2022-05-06 | 2022-06-25 |

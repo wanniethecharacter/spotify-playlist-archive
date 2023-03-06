@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 432263,
+  "num_followers": 432554,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1MDIzNiwwMDAwMDAwMDI4MjBiZTdkNmIyM2M3MzhiMzhlMWVkMjIyY2E0Y2Fk",
+  "snapshot_id": "MTY3Nzg1MDIzNiwwMDAwMDAwMGM1NzUxMDA1Zjk0NzdlYjA1MWUwNzVlMTFiNTNmYWMz",
   "tracks": [
     {
       "added_at": "2023-02-17 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "LYR",
-        "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
-      },
-      "artists": [
-        {
-          "name": "Aeden Azora",
-          "url": "https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "LYR",
-      "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "Sigur R\u00f3s: Flj\u00f3tav\u00edk",
         "url": "https://open.spotify.com/album/5lTDQh05XStGCWjbEuKW45"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
+        "name": "LYR",
+        "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
+      },
+      "artists": [
+        {
+          "name": "Aeden Azora",
+          "url": "https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "LYR",
+      "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
         "name": "Longhope",
         "url": "https://open.spotify.com/album/4lSb0FHWXuVNF4aQCSJqI0"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "The Open",
-        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 214862,
-      "name": "The Open",
-      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "Still / Sound \u2014 piano reworks",
         "url": "https://open.spotify.com/album/5KmLU0k60tDKnEhgRAqG2N"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 291000,
       "name": "Still / Sound \u2013 piano reworks",
       "url": "https://open.spotify.com/track/1n6ouOiQpRXaWVTeDOGxDW"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "The Open",
+        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 214862,
+      "name": "The Open",
+      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "A Tiny Ripple That Becomes A Giant Wave",
-        "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
-      },
-      "artists": [
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "A Tiny Ripple That Becomes A Giant Wave",
-      "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "The Vasulka Effect: Music for the Motion Picture",
         "url": "https://open.spotify.com/album/6BciCC7yejXpGpVE4oq4Bg"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 238333,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/5rmSiOcI7xPIOhMTakVxa0"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "A Tiny Ripple That Becomes A Giant Wave",
+        "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "A Tiny Ripple That Becomes A Giant Wave",
+      "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Tripping with Nils Frahm",
-        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 368668,
-      "name": "My Friend the Forest",
-      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "Modulations: EP2",
         "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 201335,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "Tripping with Nils Frahm",
+        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 368668,
+      "name": "My Friend the Forest",
+      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "Everything Has Its Echo",
         "url": "https://open.spotify.com/album/1nn06r5BqRTpe1cKpmofzC"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
       },
       "artists": [
         {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
         }
       ],
-      "duration_ms": 238046,
-      "name": "Beginnings",
-      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -1171,6 +1155,22 @@
       "duration_ms": 127147,
       "name": "Berceuse",
       "url": "https://open.spotify.com/track/4xVyVtz7RnAlmlbBh2lJO2"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        }
+      ],
+      "duration_ms": 238046,
+      "name": "Beginnings",
+      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
-        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
-      },
-      "artists": [
-        {
-          "name": "Slow Shiver",
-          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
-      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
         "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 233253,
       "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
       "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
+        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
+        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+      },
+      "artists": [
+        {
+          "name": "Slow Shiver",
+          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
+      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
-      },
-      "artists": [
-        {
-          "name": "Sisulu",
-          "url": "https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
-    },
-    {
-      "added_at": "2023-02-17 04:00:00",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Parliament Of Owls",
-        "url": "https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
       },
       "artists": [
         {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+          "name": "Sisulu",
+          "url": "https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC"
         }
       ],
-      "duration_ms": 149751,
-      "name": "Parliament Of Owls",
-      "url": "https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6"
+      "duration_ms": 137500,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
     },
     {
       "added_at": "2023-02-17 04:00:00",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/4e7oJ12PgNYRY0tjPditKL"
+      },
+      "artists": [
+        {
+          "name": "BPMoore",
+          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
+        }
+      ],
+      "duration_ms": 183653,
+      "name": "From All Who Came Before",
+      "url": "https://open.spotify.com/track/0iO5O7uyrySeuvOS4O5Azg"
+    },
+    {
+      "added_at": "2023-02-17 04:00:00",
+      "album": {
         "name": "Vitamin String Quartet Performs Bjork",
         "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
       },
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-02-17 04:00:00",
       "album": {
-        "name": "Komorebi",
-        "url": "https://open.spotify.com/album/4e7oJ12PgNYRY0tjPditKL"
+        "name": "Parliament Of Owls",
+        "url": "https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A"
       },
       "artists": [
         {
-          "name": "BPMoore",
-          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
         }
       ],
-      "duration_ms": 183653,
-      "name": "From All Who Came Before",
-      "url": "https://open.spotify.com/track/0iO5O7uyrySeuvOS4O5Azg"
+      "duration_ms": 149751,
+      "name": "Parliament Of Owls",
+      "url": "https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6"
     },
     {
       "added_at": "2023-02-17 04:00:00",

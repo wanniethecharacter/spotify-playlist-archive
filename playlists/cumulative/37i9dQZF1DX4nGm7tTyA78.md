@@ -4,7 +4,7 @@
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-74 songs - 4 hr 54 min
+75 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,8 +69,9 @@
 | [Quieren Parame \- Remix](https://open.spotify.com/track/3f105nHZdOZQEqSCasqM9v) | [Uptimo](https://open.spotify.com/artist/6RvRrpIIvNlUNTpH5M6KmI), [Villa\-Nova](https://open.spotify.com/artist/3xpLm61g4deDK3mXSyr6AM), [Feliton](https://open.spotify.com/artist/2viSfGPo6a6fwfV4PuzPPY), [Super Samy](https://open.spotify.com/artist/5q4cA2u5bqGanXcqIINJZM), [Yerkis La Esencia](https://open.spotify.com/artist/6jVEPqB0kcWTh1mu81CYDz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0), [Romy Ram](https://open.spotify.com/artist/5LWrWUgBewPv4FbDmy1svs) | [Quieren Parame \(Remix\)](https://open.spotify.com/album/0X7SB89lgl6ubjeWGGshui) | 6:48 | 2020-08-28 |  |
 | [Quién Contra Mí \(feat\. El Leo Pa´\)](https://open.spotify.com/track/2hfPsOrzBF5bPFsRNYC3ZK) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Trapstornadores](https://open.spotify.com/album/6USTDDk6DVZ8DYtyGnl6iG) | 4:16 | 2020-08-28 |  |
 | [Rico De Cuna](https://open.spotify.com/track/6Z7JjhxyAoREUDcIssHTQw) | [Aposento Alto](https://open.spotify.com/artist/3K8yCJYKujMaVR2e15ozVU) | [Almas](https://open.spotify.com/album/25jmngIndRphyAJg6tjbUm) | 4:04 | 2020-08-28 |  |
+| [Sigo Aqui](https://open.spotify.com/track/2B9V26aUnjWWGb0Ykp3RQc) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Volver a Amar](https://open.spotify.com/album/6reJlWkjSNBTc9QDtOfBVb) | 4:05 | 2023-02-18 |  |
 | [Sigo Aqui](https://open.spotify.com/track/4zZIUKmD3amRQQ4peFF2tV) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Volver a Amar](https://open.spotify.com/album/5Y5GMC6Ijec7rYVdTvmOgn) | 4:05 | 2020-08-28 | 2022-07-29 |
-| [Sigo Aqui](https://open.spotify.com/track/7w7eGYjrkCY6VBihvYux8S) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Volver a Amar](https://open.spotify.com/album/25Q7oWUhX2dZXcrUWaurM9) | 4:05 | 2020-08-28 |  |
+| [Sigo Aqui](https://open.spotify.com/track/7w7eGYjrkCY6VBihvYux8S) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Volver a Amar](https://open.spotify.com/album/25Q7oWUhX2dZXcrUWaurM9) | 4:05 | 2020-08-28 | 2023-03-06 |
 | [Superé](https://open.spotify.com/track/08qcoqqMipWulibdQqCeAo) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Superé](https://open.spotify.com/album/79OTAEbSUBtSrNpo27hT8q) | 4:20 | 2020-08-28 |  |
 | [Toy' Bendecio'](https://open.spotify.com/track/5YCZC0RXyiQEDntvVwPteD) | [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Toy' Bendecio'](https://open.spotify.com/album/4diNrmRmByPfYjfKL0MLVA) | 3:58 | 2020-08-28 |  |
 | [Trapstorno \(feat\. Natan El Profeta, Rubinsky Rbk & Philipe\)](https://open.spotify.com/track/3x5IHbEDkbwIYcge3iWazt) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Philipe](https://open.spotify.com/artist/1bc9FaSQWyiPsUDml7mlkA) | [Trapstorno \(feat\. Natan El Profeta, Rubinsky Rbk & Philipe\)](https://open.spotify.com/album/2N8AkvMsmquoA1PImPfS7e) | 5:56 | 2020-08-28 | 2022-07-29 |

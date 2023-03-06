@@ -1,12 +1,12 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? Cover: OnlyOneOf(\uc628\ub9ac\uc6d0\uc624\ube0c) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 790738,
+  "num_followers": 791115,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc0NzYwMCwwMDAwMDAwMGExMjMzNzU3MDE3OTljOWY0NDQ5MzdiZDI2NmFhNTRh",
+  "snapshot_id": "MTY3Nzc0NzYwMCwwMDAwMDAwMDZhNjAwZWJmZjFhMzUzZTEwMDE5MThmZjg5OTdkNjAw",
   "tracks": [
     {
       "added_at": "2023-02-27 09:13:43",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN"
     },
     {
-      "added_at": "2023-03-05 01:03:23",
+      "added_at": "2023-03-06 01:22:01",
       "album": {
         "name": "seOul cOllectiOn",
         "url": "https://open.spotify.com/album/5eeMvNkW3nD4gbWLuDQGk5"
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-02-27 09:13:43",
       "album": {
-        "name": "THE SECOND STEP : CHAPTER ONE",
-        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 220716,
-      "name": "DARARI",
-      "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
-    },
-    {
-      "added_at": "2023-02-27 09:13:43",
-      "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 200306,
       "name": "Love Shot",
       "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
+    },
+    {
+      "added_at": "2023-02-27 09:13:43",
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 220716,
+      "name": "DARARI",
+      "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
     },
     {
       "added_at": "2023-02-27 09:13:43",

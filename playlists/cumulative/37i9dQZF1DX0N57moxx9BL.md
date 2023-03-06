@@ -4,13 +4,14 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Skillet
 
-139 songs - 9 hr 11 min
+140 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adhd](https://open.spotify.com/track/2tPy8C6z3eUWGC1iQr4ysZ) | [Truslow](https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv) | [Hurricane](https://open.spotify.com/album/36VsMgbY28pCqkiO95mRm9) | 3:13 | 2021-05-28 |  |
 | [Alive Again](https://open.spotify.com/track/2Qs5QhWKIA0rIwTluk1eC6) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Closer To Chaos](https://open.spotify.com/album/6sBVH05QGfPRLAH99AeKH9) | 3:34 | 2021-05-28 | 2022-03-12 |
 | [All of Me](https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [All of Me](https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl) | 3:43 | 2021-05-28 |  |
+| [All That Matters](https://open.spotify.com/track/3an1jZuGuItXCfcfZFkdvu) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [All That Matters](https://open.spotify.com/album/0faMG5obG4JTbHyjehxJK5) | 3:17 | 2023-02-17 |  |
 | [Angels vs Demons](https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Angels vs Demons](https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW) | 4:18 | 2022-10-29 |  |
 | [Anger](https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Anger](https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb) | 6:16 | 2022-03-11 | 2023-02-18 |
 | [ANOTHER PLACE](https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [EXILE](https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3) | 4:16 | 2022-10-29 |  |
@@ -99,7 +100,7 @@
 | [Promise You're Coming Home](https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Stronger Than Death](https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh) | 3:42 | 2023-02-17 |  |
 | [Psycho In My Head](https://open.spotify.com/track/6VWocK4U2rcTQeVrfDlCMV) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Psycho In My Head](https://open.spotify.com/album/4Zc1iqCZrZFjR8XGI9gecJ) | 3:17 | 2023-02-17 |  |
 | [Pulp](https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Pulp](https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ) | 3:59 | 2022-10-29 | 2023-02-18 |
-| [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 | 2021-05-28 |  |
+| [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 | 2021-05-28 | 2023-03-06 |
 | [Ready to Roll](https://open.spotify.com/track/0EXcCSchvgDuLnR7ZspnPJ) | [LAST DAY RISING](https://open.spotify.com/artist/06a678upYFB5zg0Kriv5LZ) | [Last Day Rising](https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp) | 4:02 | 2021-05-28 | 2022-10-30 |
 | [Rise to the Call](https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Rise to the Call](https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb) | 3:47 | 2022-10-29 |  |
 | [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 | 2022-10-29 |  |

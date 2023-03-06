@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 440 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 442 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 12 | [Bajooga](https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Bajooga](https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH) | 2:55 |
 | 13 | [Bango](https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Bango](https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR) | 3:28 |
 | 14 | [Kyoyina Omanya \(Remix\)](https://open.spotify.com/track/1JZvvNFskJttTabmaJA2ji) | [Crysto Panda](https://open.spotify.com/artist/3z5uVPKm4ddcD43sK0dxAX), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kyoyina Omanya \(Remix\)](https://open.spotify.com/album/3tbEc4SFKe31ayuw09YmLD) | 3:00 |
-| 15 | [Banger](https://open.spotify.com/track/6s50uTx8qzel7HwNuz0xZW) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Suspekt Leizor](https://open.spotify.com/artist/2JPOWH88plI7HcSWZugaip) | [Banger](https://open.spotify.com/album/4o2MON66Cp04sCMhbJAa7U) | 3:15 |
-| 16 | [Boss Lady](https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Boss Lady](https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf) | 2:58 |
+| 15 | [Boss Lady](https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Boss Lady](https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf) | 2:58 |
+| 16 | [Banger](https://open.spotify.com/track/6s50uTx8qzel7HwNuz0xZW) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Suspekt Leizor](https://open.spotify.com/artist/2JPOWH88plI7HcSWZugaip) | [Banger](https://open.spotify.com/album/4o2MON66Cp04sCMhbJAa7U) | 3:15 |
 | 17 | [Bwogana](https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Bwogana](https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY) | 3:01 |
 | 18 | [Basheshe](https://open.spotify.com/track/494DKelh71AKorLmulm5C7) | [Zagazillions](https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Basheshe](https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to) | 2:19 |
 | 19 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 41 | [The One](https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [The One](https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU) | 3:28 |
 | 42 | [Nkwatewa](https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Nkwatewa](https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe) | 3:01 |
 | 43 | [Misege](https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Misege](https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br) | 3:08 |
-| 44 | [Bakuwe](https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst) | [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bakuwe](https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ) | 3:06 |
-| 45 | [Marijuana](https://open.spotify.com/track/3KknqI9ODWVO7IeUGf2nuR) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Bruno K](https://open.spotify.com/artist/0DToGxUXxyiGk3sAbwwCtD), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [Marijuana](https://open.spotify.com/album/4Digf6fW7I9SjMeyB9VHdg) | 3:39 |
-| 46 | [Best Friend](https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [King Saha](https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3) | [Kokonya](https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS) | 3:49 |
+| 44 | [Best Friend](https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [King Saha](https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3) | [Kokonya](https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS) | 3:49 |
+| 45 | [Bakuwe](https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst) | [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bakuwe](https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ) | 3:06 |
+| 46 | [Marijuana](https://open.spotify.com/track/3KknqI9ODWVO7IeUGf2nuR) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Bruno K](https://open.spotify.com/artist/0DToGxUXxyiGk3sAbwwCtD), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [Marijuana](https://open.spotify.com/album/4Digf6fW7I9SjMeyB9VHdg) | 3:39 |
 | 47 | [Sunset](https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM) | [Cindy Sanyu](https://open.spotify.com/artist/18t4XuHqIzZRypjviaepTs) | [Kisses at Midnight](https://open.spotify.com/album/0vj2zDD1YqVkAinMPj3XpM) | 3:16 |
 | 48 | [Kiriza \- Remix](https://open.spotify.com/track/3CJJBRNeQ7ypuw4uT4VqSg) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Kiriza \(Remix\)](https://open.spotify.com/album/6JSkoPNtL66yYRhDR8hcsd) | 2:42 |
 | 49 | [Bubble Up](https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0) | [Deejay Xp](https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj), [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Second of All](https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh) | 2:56 |
 | 50 | [I'm Blessed](https://open.spotify.com/track/6saAkb9ZbwkwRtJyiYM5vR) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Chronicles Of A Woman](https://open.spotify.com/album/3aZbRfKKvhnPtuYgaEdxSD) | 3:11 |
 
-Snapshot ID: `MTY3NDc2Njc0MCwwMDAwMDAwMDgzMDYxZDQ4NjU0ZGIwMWYxMTU5NDk5YmQ2ZWM2NjE0`
+Snapshot ID: `MTY3NDc2Njc0MCwwMDAwMDAwMGVjNTIxYWQxZTAxZTdlNGY3OGExYTRhMjAzYjNhMTAw`

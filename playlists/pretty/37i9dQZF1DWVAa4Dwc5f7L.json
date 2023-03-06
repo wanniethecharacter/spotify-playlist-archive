@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Daniel Santacruz & Olga Ta\u00f1\u00f3n",
-  "num_followers": 377783,
+  "num_followers": 377841,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMDQ0NGY4NzMwNGQ2ZWViNjhmYmNkZjg4Y2VkNmYzMThm",
+  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMGY4OTQ5ZjcyMjhjZmM3NzZjMzQ5ZmU4MmVkNTAzNTk0",
   "tracks": [
     {
       "added_at": "2023-03-03 05:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Puro Mambo",
-        "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
-      },
-      "artists": [
-        {
-          "name": "La Banda Gorda",
-          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
-        }
-      ],
-      "duration_ms": 261146,
-      "name": "Traigo Fuego",
-      "url": "https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "Lo Mejor De...To\u00f1o Rosario",
         "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 400266,
       "name": "Kiliki Taka Ti",
       "url": "https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Puro Mambo",
+        "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
+      },
+      "artists": [
+        {
+          "name": "La Banda Gorda",
+          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
+        }
+      ],
+      "duration_ms": 261146,
+      "name": "Traigo Fuego",
+      "url": "https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Paso a Paso",
-        "url": "https://open.spotify.com/album/5U4bRc3qJu9cK6KtVSVoX7"
-      },
-      "artists": [
-        {
-          "name": "Kalimete",
-          "url": "https://open.spotify.com/artist/0Vcb967TZdQLzpGd4OlWdw"
-        }
-      ],
-      "duration_ms": 238327,
-      "name": "Dominicano de Pura Cepa",
-      "url": "https://open.spotify.com/track/0HNUDkgeq44zX2kPXYyUZz"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
         "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 148986,
       "name": "El Costo De La Vida",
       "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Paso a Paso",
+        "url": "https://open.spotify.com/album/5U4bRc3qJu9cK6KtVSVoX7"
+      },
+      "artists": [
+        {
+          "name": "Kalimete",
+          "url": "https://open.spotify.com/artist/0Vcb967TZdQLzpGd4OlWdw"
+        }
+      ],
+      "duration_ms": 238327,
+      "name": "Dominicano de Pura Cepa",
+      "url": "https://open.spotify.com/track/0HNUDkgeq44zX2kPXYyUZz"
     },
     {
       "added_at": "2023-03-03 05:01:00",

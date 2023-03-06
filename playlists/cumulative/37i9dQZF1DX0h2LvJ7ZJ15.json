@@ -3052,10 +3052,28 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 145738,
       "name": "Tard le soir..",
       "url": "https://open.spotify.com/track/2YKyUpP9lNlWQQSsxep1lj"
+    },
+    {
+      "album": {
+        "name": "Tard le soir..",
+        "url": "https://open.spotify.com/album/4nJ2ISjg5obAlwFWDd8EAL"
+      },
+      "artists": [
+        {
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145738,
+      "name": "Tard le soir..",
+      "url": "https://open.spotify.com/track/6SKUWBbE7N8TfymEPgW7fX"
     },
     {
       "album": {

@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 40 | [Chances](https://open.spotify.com/track/4W9AwjzkVUIvdZr4eOnMu6) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:28 |
 | 41 | [15](https://open.spotify.com/track/0uR3XG3utMf03QR2Sg2V6l) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:16 |
 | 42 | [Surpresa do Céu](https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky) | [Márcia Christiny](https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe) | [Surpresa do Céu](https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9) | 5:01 |
-| 43 | [Vem Sabendo](https://open.spotify.com/track/6xw0ym9rtm8qxP9DYCzW8q) | [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz) | [Tudo Novo](https://open.spotify.com/album/2GdUy47fwXjOrOjU9v12Pg) | 4:59 |
-| 44 | [Only Fans](https://open.spotify.com/track/3qsGv2tG8A8HFBkIUwk9Oa) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:11 |
+| 43 | [Only Fans](https://open.spotify.com/track/3qsGv2tG8A8HFBkIUwk9Oa) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:11 |
+| 44 | [Vem Sabendo](https://open.spotify.com/track/6xw0ym9rtm8qxP9DYCzW8q) | [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz) | [Tudo Novo](https://open.spotify.com/album/2GdUy47fwXjOrOjU9v12Pg) | 4:59 |
 
-Snapshot ID: `Mjc5NjYyNDEsMDAwMDAwMDAzODU2NTk2MmM0YmUyNDY2ODQ3NDI0NzJhNTQxYjdkNg==`
+Snapshot ID: `Mjc5Njc2ODEsMDAwMDAwMDAyMDQ2OTRkYzAxZmUzMDlhOWZjMDQ3MDAwNmE3MTM4Yw==`

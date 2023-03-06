@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 336291,
+  "num_followers": 336617,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MTYwMCwwMDAwMDAwMDc1NDUzM2EwN2UwNWZmNDM3MjQ3MjdiMzdjNzIyODJk",
+  "snapshot_id": "MTY3Njk5MTYwMCwwMDAwMDAwMGJjNGIxNjliOTBjYTVjMzgxZDBlYTExMTQ2YThiZjA2",
   "tracks": [
     {
       "added_at": "2023-02-21 15:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
-      },
-      "artists": [
-        {
-          "name": "Miriam Raye",
-          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
-        }
-      ],
-      "duration_ms": 191980,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "L\u00e9opoldine",
         "url": "https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 165293,
       "name": "L\u00e9opoldine",
       "url": "https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
+      },
+      "artists": [
+        {
+          "name": "Miriam Raye",
+          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
+        }
+      ],
+      "duration_ms": 191980,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Pascoal",
-          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
-        }
-      ],
-      "duration_ms": 219565,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "November Birdie",
         "url": "https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 162178,
       "name": "November Birdie",
       "url": "https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Pascoal",
+          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
+        }
+      ],
+      "duration_ms": 219565,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "As I Dream",
-        "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
-      },
-      "artists": [
-        {
-          "name": "Johannes Bornl\u00f6f",
-          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
-        }
-      ],
-      "duration_ms": 184583,
-      "name": "As I Dream",
-      "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "Truth - The Solo Piano Collection",
         "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 176457,
       "name": "Papillon - Solo Piano Version",
       "url": "https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "As I Dream",
+        "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "duration_ms": 184583,
+      "name": "As I Dream",
+      "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Je t'ai vu",
-        "url": "https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X"
-      },
-      "artists": [
-        {
-          "name": "Projet Calmant",
-          "url": "https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ"
-        }
-      ],
-      "duration_ms": 180030,
-      "name": "Je t'ai vu",
-      "url": "https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Je t'ai vu",
+        "url": "https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X"
+      },
+      "artists": [
+        {
+          "name": "Projet Calmant",
+          "url": "https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ"
+        }
+      ],
+      "duration_ms": 180030,
+      "name": "Je t'ai vu",
+      "url": "https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "A New Path",
-        "url": "https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw"
-      },
-      "artists": [
-        {
-          "name": "Damien Jeunet",
-          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
-        }
-      ],
-      "duration_ms": 113758,
-      "name": "A New Path",
-      "url": "https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "A subtle joy",
         "url": "https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 179253,
       "name": "A subtle joy",
       "url": "https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "A New Path",
+        "url": "https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw"
+      },
+      "artists": [
+        {
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+        }
+      ],
+      "duration_ms": 113758,
+      "name": "A New Path",
+      "url": "https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Evenings",
-        "url": "https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge"
-      },
-      "artists": [
-        {
-          "name": "Richard Sauzal",
-          "url": "https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI"
-        }
-      ],
-      "duration_ms": 112152,
-      "name": "Evenings",
-      "url": "https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 143000,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Evenings",
+        "url": "https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge"
+      },
+      "artists": [
+        {
+          "name": "Richard Sauzal",
+          "url": "https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI"
+        }
+      ],
+      "duration_ms": 112152,
+      "name": "Evenings",
+      "url": "https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Wolken Traum",
-        "url": "https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Schulmann",
-          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
-        }
-      ],
-      "duration_ms": 152690,
-      "name": "Sternennacht",
-      "url": "https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "The Water Floats",
         "url": "https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 139500,
       "name": "The Water Floats",
       "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Wolken Traum",
+        "url": "https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Schulmann",
+          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
+        }
+      ],
+      "duration_ms": 152690,
+      "name": "Sternennacht",
+      "url": "https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "Sicilienne",
-        "url": "https://open.spotify.com/album/3zOBVDSipEOvDzHVfhSwG0"
-      },
-      "artists": [
-        {
-          "name": "Sounds from a Box",
-          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
-        }
-      ],
-      "duration_ms": 180224,
-      "name": "Sicilienne",
-      "url": "https://open.spotify.com/track/0ATCSA5YcOdy8jRY3FRJSe"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "Os ventos do amor",
         "url": "https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
+        "name": "Sicilienne",
+        "url": "https://open.spotify.com/album/3zOBVDSipEOvDzHVfhSwG0"
+      },
+      "artists": [
+        {
+          "name": "Sounds from a Box",
+          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
+        }
+      ],
+      "duration_ms": 180224,
+      "name": "Sicilienne",
+      "url": "https://open.spotify.com/track/0ATCSA5YcOdy8jRY3FRJSe"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/50svMr0LINrszUhzYD4vmK"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 108800,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/6JQYaWXutl3Dqul7H5Zif0"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Woods",
+          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
+        }
+      ],
+      "duration_ms": 163916,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2023-02-21 15:00:00",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Woods",
-          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
-        }
-      ],
-      "duration_ms": 163916,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
         "name": "White Butterfly",
         "url": "https://open.spotify.com/album/7kRdP9sK6uKzQbBrGQ54yN"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 154305,
       "name": "White Butterfly",
       "url": "https://open.spotify.com/track/08YpIbdhqosOuZl9cddBHF"
+    },
+    {
+      "added_at": "2023-02-21 15:00:00",
+      "album": {
+        "name": "Hour of Rest",
+        "url": "https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO"
+      },
+      "artists": [
+        {
+          "name": "William Cas",
+          "url": "https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO"
+        }
+      ],
+      "duration_ms": 112653,
+      "name": "Hour of Rest",
+      "url": "https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id"
     },
     {
       "added_at": "2023-02-21 15:00:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 147124,
       "name": "A Simpler Time",
       "url": "https://open.spotify.com/track/5Xg2TWsPN5JK4k0FcgOwYJ"
-    },
-    {
-      "added_at": "2023-02-21 15:00:00",
-      "album": {
-        "name": "Hour of Rest",
-        "url": "https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO"
-      },
-      "artists": [
-        {
-          "name": "William Cas",
-          "url": "https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO"
-        }
-      ],
-      "duration_ms": 112653,
-      "name": "Hour of Rest",
-      "url": "https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id"
     }
   ],
   "unique_name": "Coffee and Piano",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,107 likes - 100 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,297 likes - 100 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 90 | [Holy Desire \(From Worship Nights at the Barn\)](https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 9:29 |
 | 91 | [A Thousand More \- Live](https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y) | 5:59 |
 | 92 | [Calm the Storm \(Live\)](https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [Calm the Storm \(Live\)](https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p) | 5:11 |
-| 93 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
-| 94 | [Oxygen](https://open.spotify.com/track/78w8tPmfZIMZ2853pe0I6d) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Oxygen](https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi) | 3:29 |
+| 93 | [Oxygen](https://open.spotify.com/track/78w8tPmfZIMZ2853pe0I6d) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Oxygen](https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi) | 3:29 |
+| 94 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
 | 95 | [This Is Love \- Live](https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx) | [New Wine Worship](https://open.spotify.com/artist/2G5uXRzRvQILLfvQCsnSUV) | [This Is Love \(Live\)](https://open.spotify.com/album/2vBQ6WdlR01gc6iJbwFJdI) | 5:20 |
 | 96 | [Jesus Only You](https://open.spotify.com/track/5Q8jVqmSihneKmuvQ5qnOF) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [New Stories](https://open.spotify.com/album/0tLz79s8kT9LGp5KFrBNhO) | 4:43 |
 | 97 | [Abraham](https://open.spotify.com/track/3zfgd4lsN0OJh4t4oYpdFo) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 6:32 |
 | 98 | [Awe + Wonder \- Live](https://open.spotify.com/track/6LIbc0JN4nvodJzln08lFo) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 5:26 |
-| 99 | [Maker](https://open.spotify.com/track/2KE7Gi8dYbflFHLf0cxaqp) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls) | [Live](https://open.spotify.com/album/4ZMCjXFFNlIIwp5uI20Njt) | 8:13 |
+| 99 | [Mover Of Mountains \- Live](https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Aaron Lucas](https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N) | [Mover Of Mountains \(Live\)](https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS) | 5:44 |
 | 100 | [Always Loved Me](https://open.spotify.com/track/2fepfnn0tCwSSAVReXQpPh) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 5:16 |
 
-Snapshot ID: `MTU5MzE0NDEyMCwwMDAwMDAwMDU1NzBjMmJjNTI3Mzk1MDkwYzJhNGJlYjlhYWYyMTQ3`
+Snapshot ID: `MTU5MzE0NDEyMCwwMDAwMDAwMDE3N2ViNjhiMDUwZDBiNWE1MmMxNDhiYWRmZTY5MTA3`

@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 45625,
+  "num_followers": 45646,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwNTIwNiwwMDAwMDAwMDk3NDczOGZjZDU3ZTdkYzI0NjBkYTY0MGY2ZGZkNTZi",
+  "snapshot_id": "MTY3NjYwNTIwNiwwMDAwMDAwMDg4M2VjNzUzMWFjYWE4NTg3ZGMxOGE1NjkyODI2OGFj",
   "tracks": [
     {
       "added_at": "2023-02-17 03:40:06",
@@ -539,22 +539,18 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Qu\u00e9 L\u00e1stima",
-        "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
+        "name": "Los del Vacile",
+        "url": "https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z"
       },
       "artists": [
         {
           "name": "ChocQuibTown",
           "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 224869,
-      "name": "Qu\u00e9 L\u00e1stima",
-      "url": "https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb"
+      "duration_ms": 213285,
+      "name": "Los del Vacile",
+      "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -691,18 +687,22 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Los del Vacile",
-        "url": "https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z"
+        "name": "Qu\u00e9 L\u00e1stima",
+        "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
       },
       "artists": [
         {
           "name": "ChocQuibTown",
           "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 213285,
-      "name": "Los del Vacile",
-      "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
+      "duration_ms": 224869,
+      "name": "Qu\u00e9 L\u00e1stima",
+      "url": "https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Flavors 3",
-        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 180375,
-      "name": "Acu\u00e9rdate De M\u00ed",
-      "url": "https://open.spotify.com/track/0KV5E5nAh0zU9M5eSORUgG"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
         "name": "Sigue y Sigue",
         "url": "https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 146269,
       "name": "Sigue y Sigue",
       "url": "https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
+        "name": "Flavors 3",
+        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 180375,
+      "name": "Acu\u00e9rdate De M\u00ed",
+      "url": "https://open.spotify.com/track/0KV5E5nAh0zU9M5eSORUgG"
     },
     {
       "added_at": "2023-02-17 03:40:06",

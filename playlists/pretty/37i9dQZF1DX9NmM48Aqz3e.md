@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,005 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,021 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It's All Coming Back to Me Now](https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 7:36 |
-| 2 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
-| 3 | [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 |
+| 2 | [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 |
+| 3 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
 | 4 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 |
 | 5 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 |
 | 6 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 |
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 26 | [Numb](https://open.spotify.com/track/7eH1GkchdFvNN4ZUx767G3) | [Holly McNarland](https://open.spotify.com/artist/26YoEndupBcezyzcSmbcw2) | [Stuff](https://open.spotify.com/album/2pLU6e4KE2773H1OjOfRZ9) | 3:57 |
 | 27 | [Remote Control](https://open.spotify.com/track/7zPRpUujRke7mpt61KIC5U) | [The Age Of Electric](https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR) | [Make a Pest a Pet](https://open.spotify.com/album/47wRkLjmX69P80q7adpxjs) | 3:39 |
 | 28 | [Song Instead of a Kiss](https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Rockinghorse](https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO) | 5:03 |
-| 29 | [One More Astronaut](https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 5:24 |
-| 30 | [When You're Gone](https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT) | 3:24 |
+| 29 | [When You're Gone](https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT) | 3:24 |
+| 30 | [One More Astronaut](https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 5:24 |
 | 31 | [Out of My Head](https://open.spotify.com/track/1hdrmUDjFHPYigKYwf6aJC) | [Junkhouse](https://open.spotify.com/artist/7HTWYaZzuODnDc5dJN4EM3) | [Strays](https://open.spotify.com/album/7BKDjfyOFnHDbhguK5GZBO) | 3:47 |
 | 32 | [Midnight Rain](https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Wide Mouth Mason](https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E) | 3:47 |
 | 33 | [Any Day Now](https://open.spotify.com/track/4WwoxyC5V29j0cupsBy9Or) | [The Watchmen](https://open.spotify.com/artist/7MJSeuocRuASrNOZaYawlD) | [Silent Radar](https://open.spotify.com/album/0sLgYWg2M3FVOu3bkLGHxQ) | 4:41 |
 | 34 | [Northern Touch \(feat\. Kardinal Offishall, Thrust, Choclair & Checkmate\)](https://open.spotify.com/track/4IfK0yQdVsWVoQO44DedEG) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Thrust](https://open.spotify.com/artist/38tN2aiWTtY8lhwXPKbIYk), [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS), [Checkmate](https://open.spotify.com/artist/6nfguy4Wxd0sQ8Bq7O3zYT) | [Cash Crop + Bonus Track](https://open.spotify.com/album/5mJHJ4ycYgFtNK5mEF68MM) | 4:07 |
 | 35 | [You're a Superstar \- Radio Edit](https://open.spotify.com/track/0F7HW6u4LdXDxuCJynN9bF) | [Love Inc.](https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx), [Simone Denny](https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs) | [00s Party Mixtape](https://open.spotify.com/album/6uEj5L8M2kF3TrxjcnH5q0) | 3:30 |
 | 36 | [End Of The World](https://open.spotify.com/track/0HZM2O3KZT5vYYP763dm2I) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Play](https://open.spotify.com/album/0aDWCrEQxS7RH66v20qezy) | 2:45 |
-| 37 | [London Rain \(Nothing Heals Me Like You Do\)](https://open.spotify.com/track/2CCxzA9QAVSki6OR2t1Jhl) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Songs from Dawson's Creek](https://open.spotify.com/album/0hSUxdwxk9RKLRIfjH0BAd) | 3:50 |
-| 38 | [Diggin' A Hole](https://open.spotify.com/track/1DJ4sDZgj56rBUZYj4ZHRu) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Hemi\-Vision](https://open.spotify.com/album/1Zj6HNUUmO1WVmrH8TgU2i) | 4:37 |
+| 37 | [Diggin' A Hole](https://open.spotify.com/track/1DJ4sDZgj56rBUZYj4ZHRu) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Hemi\-Vision](https://open.spotify.com/album/1Zj6HNUUmO1WVmrH8TgU2i) | 4:37 |
+| 38 | [London Rain \(Nothing Heals Me Like You Do\)](https://open.spotify.com/track/2CCxzA9QAVSki6OR2t1Jhl) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Songs from Dawson's Creek](https://open.spotify.com/album/0hSUxdwxk9RKLRIfjH0BAd) | 3:50 |
 | 39 | [Wayne](https://open.spotify.com/track/5RCyu62J9pk1PqgFfCxgn8) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Under These Rocks And Stones](https://open.spotify.com/album/3PMSWzK8diDoaMdOZTHzFJ) | 4:45 |
 | 40 | [I Don't Want To Think About It](https://open.spotify.com/track/0mLzR7UE4so9fUfi3MX3rf) | [Wild Strawberries](https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y) | [Heroine](https://open.spotify.com/album/3TwFXy7ldbkDmSC9EiUTcB) | 3:46 |
 | 41 | [apparitions](https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/7ljqmefDOpPyqYswrk6Uc4) | 5:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 49 | [A List Of Things](https://open.spotify.com/track/6N76d0uy2c5ylz5bIvEn3W) | [Damhnait Doyle](https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB) | [Shadows Wake Me](https://open.spotify.com/album/5L5MeaOvuUccIFwRiLVrJI) | 3:16 |
 | 50 | [O Siem](https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU) | 4:27 |
 
-Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMDM2NDY3MjkzZmVjZTMyMGM1Yzc4NGNmODUzYjc1MGM5`
+Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMGRjMGFkMjEwNGFjMDdmYTk5Njg5OTg2MDViZmJkNDBl`

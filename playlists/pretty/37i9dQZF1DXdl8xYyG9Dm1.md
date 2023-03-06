@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX?si=fojlNFrTTAqXuhHrXxWftA"> AKA </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,901 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,989 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 32 | [Walking On Water](https://open.spotify.com/track/7dbSPhiAeHOuPSrGKQOdGc) | [Audiomarc](https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj), [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Walking On Water](https://open.spotify.com/album/08ErxtPGSClS8jfdtyHgdb) | 3:06 |
 | 33 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 |
 | 34 | [Headliner](https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:27 |
-| 35 | [Never Forget \[Feat\. Chef 187, Tio Nason, Mwanjé\]](https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Chef 187](https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Never Forget](https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q) | 3:37 |
-| 36 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 |
+| 35 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 |
+| 36 | [Never Forget \[Feat\. Chef 187, Tio Nason, Mwanjé\]](https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Chef 187](https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Never Forget](https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q) | 3:37 |
 | 37 | [Style & Fashion \(feat\. Obongjayar\)](https://open.spotify.com/track/3BhgQ0PWWyy7xaSd3ZjwWw) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Afrikan Rebel](https://open.spotify.com/album/4iEeNMH7ooC4Hwy0J6rQB4) | 4:26 |
 | 38 | [Bigger \(feat\. Olamide & Nas\)](https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The Guy](https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u) | 3:22 |
 | 39 | [Ye x4](https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Ye x4](https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a) | 2:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Vibration](https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Vibration](https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV) | 3:28 |
 | 70 | [4 Door Jeep](https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:12 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGMzMzlkMDQ2ZTBjMDZjNmVjYmE5MDg2ODA5OTM5Yzlh`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGY3ODQyNDdhZDUzZTMzNDEzNmIxNjk2YTg1MzZlOTQ1`

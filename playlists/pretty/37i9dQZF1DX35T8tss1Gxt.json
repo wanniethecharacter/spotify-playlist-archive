@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Gene Moore",
-  "num_followers": 176786,
+  "num_followers": 177067,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMGVlZWQxOWFiNjI5ZGY5OTFjMWZmMzc4YjYwOTcwMTJm",
+  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMDAzNmJmNTA3NDkxOWQ0ZmY0N2RiNzk5MWQ4Y2RjM2Jl",
   "tracks": [
     {
       "added_at": "2023-01-20 09:20:39",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "You Got Me",
-        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 172327,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Air I Breathe",
         "url": "https://open.spotify.com/album/5ucDyNcrTA8NI7khHMnCx2"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 161899,
       "name": "Air I Breathe",
       "url": "https://open.spotify.com/track/780mts4OTKBKYZwhF5eFL8"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 172327,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Not Moved",
+        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 273283,
+      "name": "Not Moved",
+      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Positive",
         "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
       },
@@ -443,26 +459,6 @@
       "duration_ms": 211203,
       "name": "Positive",
       "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Miracles (feat. Pastor Mike Jr.)",
-        "url": "https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 358885,
-      "name": "Miracles (feat. Pastor Mike Jr.)",
-      "url": "https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -487,18 +483,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Not Moved",
-        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
+        "name": "Miracles (feat. Pastor Mike Jr.)",
+        "url": "https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD"
       },
       "artists": [
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
         }
       ],
-      "duration_ms": 273283,
-      "name": "Not Moved",
-      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
+      "duration_ms": 358885,
+      "name": "Miracles (feat. Pastor Mike Jr.)",
+      "url": "https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Down (Remix)",
         "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 185510,
       "name": "Down (Remix)",
       "url": "https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Get to Me",
+        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Get to Me",
+      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Amidst",
         "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 240500,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Get to Me",
-        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Get to Me",
-      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Waiting (Reimagined)",
-        "url": "https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 225804,
-      "name": "Waiting (Reimagined)",
-      "url": "https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/1HRBLYxSqYQGK2Z0LJOSXD"
       },
@@ -1283,22 +1267,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
+        "name": "Waiting (Reimagined)",
+        "url": "https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur"
       },
       "artists": [
         {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
         }
       ],
-      "duration_ms": 180375,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
+      "duration_ms": 225804,
+      "name": "Waiting (Reimagined)",
+      "url": "https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1323,18 +1303,42 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
       "artists": [
         {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
         }
       ],
-      "duration_ms": 275726,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
+      "duration_ms": 180375,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        },
+        {
+          "name": "KDNS",
+          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1379,22 +1383,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
       },
       "artists": [
         {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        },
-        {
-          "name": "KDNS",
-          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+      "duration_ms": 275726,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "NO WORRIES",
-        "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
-      },
-      "artists": [
-        {
-          "name": "RED Hands",
-          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
-        },
-        {
-          "name": "Jermaine Dolly",
-          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
-        }
-      ],
-      "duration_ms": 212615,
-      "name": "NO WORRIES",
-      "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/36GXbwa9TQmAQ8BfCaU1y5"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 255008,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5b5Pi5oP4FWNcEPVmr8MIa"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "NO WORRIES",
+        "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
+      },
+      "artists": [
+        {
+          "name": "RED Hands",
+          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
+        },
+        {
+          "name": "Jermaine Dolly",
+          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
+        }
+      ],
+      "duration_ms": 212615,
+      "name": "NO WORRIES",
+      "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Back to You",
-        "url": "https://open.spotify.com/album/1Xqk8mkHHeF6UPpqQpjA83"
-      },
-      "artists": [
-        {
-          "name": "Albert Posis",
-          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
-        }
-      ],
-      "duration_ms": 194139,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/0BXUW4wib9sg9SH20Nwdam"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 248057,
       "name": "First Love",
       "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/1Xqk8mkHHeF6UPpqQpjA83"
+      },
+      "artists": [
+        {
+          "name": "Albert Posis",
+          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
+        }
+      ],
+      "duration_ms": 194139,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/0BXUW4wib9sg9SH20Nwdam"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Audacity",
-        "url": "https://open.spotify.com/album/70rbSpQQGPzM0Gxcv0HLj1"
-      },
-      "artists": [
-        {
-          "name": "Tatiana Barnett",
-          "url": "https://open.spotify.com/artist/6Bn6E8yuXSJHpNEckXX7hi"
-        }
-      ],
-      "duration_ms": 213937,
-      "name": "Illuminate",
-      "url": "https://open.spotify.com/track/3oSy6Kfqr3LGMB32RUqmnk"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Unguilty Pleasure",
         "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 193398,
       "name": "Unguilty Pleasure",
       "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Audacity",
+        "url": "https://open.spotify.com/album/70rbSpQQGPzM0Gxcv0HLj1"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Barnett",
+          "url": "https://open.spotify.com/artist/6Bn6E8yuXSJHpNEckXX7hi"
+        }
+      ],
+      "duration_ms": 213937,
+      "name": "Illuminate",
+      "url": "https://open.spotify.com/track/3oSy6Kfqr3LGMB32RUqmnk"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Love Money",
-        "url": "https://open.spotify.com/album/6Orz1ukWtOi9u2OW6lvE0K"
+        "name": "VANILLA",
+        "url": "https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB"
       },
       "artists": [
         {
-          "name": "Ciara Leah",
-          "url": "https://open.spotify.com/artist/7FNnF6wVawmhhqUbwLGeo2"
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
         }
       ],
-      "duration_ms": 270826,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/6owRPnezJsGhlbKfbRAfqi"
+      "duration_ms": 148318,
+      "name": "VANILLA",
+      "url": "https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1787,38 +1787,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Divine Time",
-        "url": "https://open.spotify.com/album/2UXsqyyOhaNUJhkiuvoCQb"
+        "name": "Love Money",
+        "url": "https://open.spotify.com/album/6Orz1ukWtOi9u2OW6lvE0K"
       },
       "artists": [
         {
-          "name": "Ryan Brockington",
-          "url": "https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b"
+          "name": "Ciara Leah",
+          "url": "https://open.spotify.com/artist/7FNnF6wVawmhhqUbwLGeo2"
         }
       ],
-      "duration_ms": 152327,
-      "name": "Divine Time",
-      "url": "https://open.spotify.com/track/7KbbymeevVUF5BCz1WvmxJ"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0"
-      },
-      "artists": [
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        },
-        {
-          "name": "Denise Bamfo",
-          "url": "https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO"
-        }
-      ],
-      "duration_ms": 176062,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ"
+      "duration_ms": 270826,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/6owRPnezJsGhlbKfbRAfqi"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1835,6 +1815,22 @@
       "duration_ms": 179382,
       "name": "NONCHALANT",
       "url": "https://open.spotify.com/track/3btBIKiTNd63mNOmPNuIUG"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Divine Time",
+        "url": "https://open.spotify.com/album/2UXsqyyOhaNUJhkiuvoCQb"
+      },
+      "artists": [
+        {
+          "name": "Ryan Brockington",
+          "url": "https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b"
+        }
+      ],
+      "duration_ms": 152327,
+      "name": "Divine Time",
+      "url": "https://open.spotify.com/track/7KbbymeevVUF5BCz1WvmxJ"
     }
   ],
   "unique_name": "Rhythm & Praise",

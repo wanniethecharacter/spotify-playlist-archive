@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Busty and The Bass & Magi Merlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,723 likes - 101 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,765 likes - 101 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 5 | [On the Run](https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN) | [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [On the Run](https://open.spotify.com/album/17L5JLhFSSaLuhYg10u8U8) | 3:51 |
 | 6 | [Phoenix & Panther](https://open.spotify.com/track/7jl8cROOmTLw7Cj097oN5m) | [TRIBEZ.](https://open.spotify.com/artist/5xokgYo3SoZ7alvWyTrWJ8), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Phoenix & Panther](https://open.spotify.com/album/24xFSjfuzWfu6rrENgmzO5) | 3:59 |
 | 7 | [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 |
-| 8 | [Bitches Are Back](https://open.spotify.com/track/4PwQK1PvtFcfI1c3G0CeGE) | [M.E.B.](https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Bitches Are Back](https://open.spotify.com/album/3m2IraIFP2TKLSfq0QITrm) | 3:28 |
+| 8 | [Bitches Are Back \(feat\. Blu\)](https://open.spotify.com/track/4PwQK1PvtFcfI1c3G0CeGE) | [M.E.B.](https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [Bitches Are Back \(feat\. Blu\)](https://open.spotify.com/album/3m2IraIFP2TKLSfq0QITrm) | 3:28 |
 | 9 | [Wish You Well \(Remix\)](https://open.spotify.com/track/567xp1AburiUaug9wNgSB6) | [Tommy Lehman](https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [SmokeFace](https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf), [Floco Torres](https://open.spotify.com/artist/3pP7W1MNjStGyikY4aN6ov) | [Wish You Well \(Remix\)](https://open.spotify.com/album/0l7WEfNCk44WT7byzWcjU2) | 2:46 |
 | 10 | [You've Grown](https://open.spotify.com/track/7ytRHQTDDIKZLZsAIsE7x7) | [Substantial](https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw), [MLLN](https://open.spotify.com/artist/6cm9fsI3WSMNSJkJp74L1e) | [You've Grown](https://open.spotify.com/album/4IyM1usiviJxx2zwdyZj4l) | 3:31 |
 | 11 | [Wish You the Best](https://open.spotify.com/track/5qm6wyQXDPnEUWM3LAIIkR) | [BRAVE JAMES](https://open.spotify.com/artist/6fbZXklegkoeleZeWTgxx7), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Wish You the Best](https://open.spotify.com/album/1bOb9XYlOOesWwEEH2DhHq) | 3:23 |

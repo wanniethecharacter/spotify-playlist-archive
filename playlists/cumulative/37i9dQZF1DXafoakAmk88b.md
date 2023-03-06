@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week\. Cover: Chiiild, by Ian Woods.
 
-257 songs - 13 hr 32 min
+258 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,8 @@
 | [Too Hot](https://open.spotify.com/track/1XkVvLrmSfJFjWwFFlkzaM) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Shall I Continue?](https://open.spotify.com/album/6gDab4r7qX3FeJAofIsTe9) | 1:48 | 2022-02-18 | 2022-03-12 |
 | [UnderWater](https://open.spotify.com/track/12KqWaml7aLBQipmX5mSK0) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [UnderWater](https://open.spotify.com/album/4aXSv8hM9UUxmlXCuvomon) | 3:50 | 2022-02-18 | 2022-10-04 |
 | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu) | 2:18 | 2022-06-17 | 2022-10-04 |
-| [Vega](https://open.spotify.com/track/5iIFSRXjZ9lGGM9aACqyqP) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Vega](https://open.spotify.com/album/4DkMvuihJAlQHRAFdA6Rr3) | 3:23 | 2023-03-03 |  |
+| [Vega](https://open.spotify.com/track/5iIFSRXjZ9lGGM9aACqyqP) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Vega](https://open.spotify.com/album/4DkMvuihJAlQHRAFdA6Rr3) | 3:23 | 2023-03-03 | 2023-03-06 |
+| [Vega](https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Music for the Future](https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm) | 3:23 | 2023-03-03 |  |
 | [VEHICLE](https://open.spotify.com/track/5jMUso85VnswHLihS6g6Pb) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [VEHICLE](https://open.spotify.com/album/1nYiFTWWqYA10ynJgbm7Rl) | 2:49 | 2023-03-03 |  |
 | [Veronica](https://open.spotify.com/track/7uAlf2KtylpPbXCqaB38EJ) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Veronica](https://open.spotify.com/album/2n1i0zYQTMmmj8b8nJpVPA) | 2:15 | 2023-02-03 |  |
 | [Vest & Boxers](https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC) | 2:57 | 2022-05-13 | 2023-02-11 |

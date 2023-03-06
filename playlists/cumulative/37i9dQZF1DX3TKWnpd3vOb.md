@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Pettinellis
 
-225 songs - 14 hr 21 min
+226 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amar en Silencio](https://open.spotify.com/track/1VzT9tQGhJIxfPo6ydPBiV) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Amar en Silencio](https://open.spotify.com/album/6hoovBhEVxWz74nN37ZCoU) | 3:11 | 2022-04-08 | 2022-12-17 |
 | [Amor Violento](https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres Unplugged 20 Años](https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P) | 4:45 | 2022-04-08 |  |
 | [Autodaño](https://open.spotify.com/track/5hn4Hto1X3BKt8zqNQ6Cn2) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/0vMvyrCPhbm7gYDhUYr9Nu) | 3:09 | 2022-04-08 | 2023-02-01 |
+| [Autodaño](https://open.spotify.com/track/7tAxQz9Hc53CTna3613OcY) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR) | 3:15 | 2023-03-03 |  |
 | [Barbaridad](https://open.spotify.com/track/5I8icolCLnyGH6KceHWwlE) | [Chicanota](https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS) | [Barbaridad](https://open.spotify.com/album/5rmeyjO9VebVcGDei9BSwg) | 6:23 | 2022-04-08 | 2022-07-16 |
 | [Bella Vu](https://open.spotify.com/track/7lgYAj4KluzeOBxQlzOrB0) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Bella Vu](https://open.spotify.com/album/3WKc52F7u48leqswyZqwoR) | 2:35 | 2022-10-14 |  |
 | [Besos de Mentira](https://open.spotify.com/track/4Q8tPuSefGBkqA0Di28SHV) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/2OzfXW8ByllSXhVx8AFSVe) | 4:18 | 2022-07-08 | 2022-12-17 |
@@ -187,7 +188,7 @@
 | [Simetría](https://open.spotify.com/track/3M5dIqhYOkHLhvsjxLn05b) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Conducción](https://open.spotify.com/album/2FlMmTEO3k9TAHZiVEIgdr) | 4:01 | 2022-04-08 |  |
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2022-04-08 | 2023-03-03 |
 | [Sociedad Capital](https://open.spotify.com/track/2ONPbjbmgkLt7c1yoW0fU5) | [Yosef Salvo](https://open.spotify.com/artist/27w1PE4zUCZPHqRXnoyTRc) | [Sociedad Capital](https://open.spotify.com/album/3Z19V0sgumnxc8phk6LAKQ) | 3:05 | 2022-04-08 | 2023-01-15 |
-| [Soldados](https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk) | [Kapitol](https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt) | [Santos](https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG) | 3:45 | 2022-04-08 |  |
+| [Soldados](https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk) | [Kapitol](https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt) | [Santos](https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG) | 3:45 | 2022-04-08 | 2023-03-06 |
 | [Solo Humanos](https://open.spotify.com/track/7fpw9e5SwHgS0EZqz9qoE4) | [Los Insolentes](https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc) | [Solo Humanos](https://open.spotify.com/album/5UxyHRIZnHbOeQNYNBFvVe) | 3:44 | 2022-04-08 | 2023-03-03 |
 | [Sombras](https://open.spotify.com/track/7yty7k7SUnbm61GvnXPho3) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Sombras](https://open.spotify.com/album/489Zh5KhMDcsJsbmiUlSIe) | 3:53 | 2022-04-08 | 2023-03-03 |
 | [Somos Más](https://open.spotify.com/track/5JmVYyk9IQIsYqlNm6XpQQ) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Somos Más](https://open.spotify.com/album/5SdKXgGkKl6BdDYyzhOPKa) | 2:55 | 2022-04-08 | 2022-07-05 |

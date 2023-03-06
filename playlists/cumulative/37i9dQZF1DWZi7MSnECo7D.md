@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Lou Garcia
 
-333 songs - 18 hr 59 min
+334 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,8 @@
 | [Por um Fio](https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4) | [Sulamericana](https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ) | [Por um Fio](https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd) | 3:09 | 2022-09-02 | 2022-10-15 |
 | [Pra Curar](https://open.spotify.com/track/1DIBq09mcWCWuXc0TIqoOx) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fragmentos 2](https://open.spotify.com/album/7tsqDAZfHq81EE3i81EOXG) | 3:06 | 2022-01-28 | 2022-06-18 |
 | [pra perto de mim](https://open.spotify.com/track/0qEEoCPxNgQjXtwQB4AeNe) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [tres](https://open.spotify.com/album/7LGefeRWzqVdHgdDC4GgGh) | 3:12 | 2022-09-02 | 2022-10-29 |
-| [Pra Trás](https://open.spotify.com/track/7cANXE6LzQAXobgvIjMNVN) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Pra Trás](https://open.spotify.com/album/4RTToZRDYATXkCt0URRxJQ) | 3:11 | 2023-02-13 |  |
+| [Pra Trás](https://open.spotify.com/track/5Ke6ddTLTyu9GgzwcW8lD9) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:11 | 2023-03-03 |  |
+| [Pra Trás](https://open.spotify.com/track/7cANXE6LzQAXobgvIjMNVN) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Pra Trás](https://open.spotify.com/album/4RTToZRDYATXkCt0URRxJQ) | 3:11 | 2023-02-13 | 2023-03-06 |
 | [PRAZER](https://open.spotify.com/track/4yn9IyH77LOTESnOIq43WU) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [PRAZER](https://open.spotify.com/album/6F1skja7UE5VvAC1DQQgll) | 3:48 | 2022-06-03 | 2022-06-25 |
 | [Primeira Pessoa](https://open.spotify.com/track/0a3M6e6nChwzrex3W6H4EU) | [Titcho Looper](https://open.spotify.com/artist/37pi9jWX60WC51BeByvvcJ), [Rodrigo Samsara](https://open.spotify.com/artist/16mPOeAPUyjIP11rtquMRC) | [Primeira Pessoa](https://open.spotify.com/album/3oAyKdq4UMS094SH61ky5V) | 3:36 | 2022-01-14 | 2022-03-18 |
 | [Projeto Psiquiatria](https://open.spotify.com/track/2Z5oPMEQgBdfj1tLS8HIp5) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [Projeto Psiquiatria](https://open.spotify.com/album/5r4sReyehHwEXuTM5wJQJ5) | 2:36 | 2022-04-29 | 2022-05-07 |

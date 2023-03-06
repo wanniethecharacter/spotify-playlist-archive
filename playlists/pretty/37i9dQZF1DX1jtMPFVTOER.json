@@ -1,6 +1,6 @@
 {
   "description": "Explore a genre bending universe centered around jazz. Cover: Busty and The Bass & Magi Merlin",
-  "num_followers": 74723,
+  "num_followers": 74765,
   "original_name": "Orbit",
   "owner": {
     "name": "Spotify",
@@ -143,7 +143,7 @@
     {
       "added_at": "2023-02-17 05:01:00",
       "album": {
-        "name": "Bitches Are Back",
+        "name": "Bitches Are Back (feat. Blu)",
         "url": "https://open.spotify.com/album/3m2IraIFP2TKLSfq0QITrm"
       },
       "artists": [
@@ -154,10 +154,14 @@
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K"
         }
       ],
       "duration_ms": 208706,
-      "name": "Bitches Are Back",
+      "name": "Bitches Are Back (feat. Blu)",
       "url": "https://open.spotify.com/track/4PwQK1PvtFcfI1c3G0CeGE"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 2000s. Cover: Mariah Carey",
-  "num_followers": 4283051,
+  "num_followers": 4284644,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzk1OTAwNCwwMDAwMDAwMDA4MGU3YjIwZjM3NzY5OWU5MmRiOTY4MTU5MmEyOGZm",
+  "snapshot_id": "MTY3Nzk1OTAwNCwwMDAwMDAwMDI3MzBlMzUyYThhYjFiOTZhNjg2MGRkMjI5NDc1YmJh",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "When I See U",
-      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "8701",
         "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 266893,
       "name": "U Remind Me",
       "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "When I See U",
+      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 266306,
-      "name": "Bust Your Windows",
-      "url": "https://open.spotify.com/track/56z2qI0gKcPthQF6l8AW3E"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "The Evolution of Robin Thicke",
         "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 254146,
       "name": "Lost Without U",
       "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "Bust Your Windows",
+      "url": "https://open.spotify.com/track/56z2qI0gKcPthQF6l8AW3E"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1013,24 +1013,24 @@
       "url": "https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Southside",
-        "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
       "artists": [
         {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         },
         {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 277840,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
+      "duration_ms": 256346,
+      "name": "Oh (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1053,24 +1053,24 @@
       "url": "https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
         },
         {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 256346,
-      "name": "Oh (feat. Ludacris)",
-      "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
+      "duration_ms": 277840,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/5cvMzT7kEvcxcdtcJz1vQY"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Open Letter",
-        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
-      },
-      "artists": [
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "21",
@@ -1319,6 +1303,22 @@
       "duration_ms": 256426,
       "name": "Ice Box",
       "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
+      },
+      "artists": [
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Pleasure & Pain",
-        "url": "https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "U Already Know",
-      "url": "https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "4 Ever (feat. Fabolous)",
         "url": "https://open.spotify.com/album/33virfI7yTPHbUXJnsVHHm"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/0qEfwM5awxL1CIUXMDE1ah"
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72"
       },
       "artists": [
         {
-          "name": "LeToya",
-          "url": "https://open.spotify.com/artist/5xenrbYhp4IRydrWpBe4Bx"
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
         }
       ],
-      "duration_ms": 249253,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/6GPiKalxD23rJirHKJm00X"
+      "duration_ms": 198880,
+      "name": "U Already Know",
+      "url": "https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1459,6 +1443,22 @@
       "duration_ms": 265706,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/0qEfwM5awxL1CIUXMDE1ah"
+      },
+      "artists": [
+        {
+          "name": "LeToya",
+          "url": "https://open.spotify.com/artist/5xenrbYhp4IRydrWpBe4Bx"
+        }
+      ],
+      "duration_ms": 249253,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/6GPiKalxD23rJirHKJm00X"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "It's Over Now",
-      "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Nivea",
         "url": "https://open.spotify.com/album/6tXzTKfHd9fR1OPsvstxVt"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 213226,
       "name": "Don't Mess With My Man (feat. Brian Casey & Brandon Casey)",
       "url": "https://open.spotify.com/track/39YovPslPCXbFYhlYjsZ2Y"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "It's Over Now",
+      "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
     },
     {
       "added_at": "2022-08-21 11:22:08",

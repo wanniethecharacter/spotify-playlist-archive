@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 54572,
+  "num_followers": 54627,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMDgwNmVmMjA1YzI2MDFmMTE1MzNiZDhkMTc3YTg5NDJk",
+  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMDEyOWM3NjdmZjRjMDU1YTJlNTZmNzEyZjY5M2ExYTUz",
   "tracks": [
     {
       "added_at": "2023-02-03 16:31:51",
@@ -139,26 +139,18 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Ostatni (Rojst '97 | Netflix)",
-        "url": "https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ"
+        "name": "Zawsze tam gdzie Ty",
+        "url": "https://open.spotify.com/album/4nvLyoLUbyrn0kB0sNzxIu"
       },
       "artists": [
         {
-          "name": "Tymek",
-          "url": "https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh"
-        },
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        },
-        {
-          "name": "Urbanski",
-          "url": "https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE"
+          "name": "Lady Pank",
+          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
         }
       ],
-      "duration_ms": 219546,
-      "name": "Ostatni (Rojst '97 | Netflix)",
-      "url": "https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq"
+      "duration_ms": 258586,
+      "name": "Zawsze tam gdzie Ty",
+      "url": "https://open.spotify.com/track/1f3C0tSFKsjcflvMCa3X27"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -211,18 +203,26 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Zawsze tam gdzie Ty",
-        "url": "https://open.spotify.com/album/4nvLyoLUbyrn0kB0sNzxIu"
+        "name": "Ostatni (Rojst '97 | Netflix)",
+        "url": "https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ"
       },
       "artists": [
         {
-          "name": "Lady Pank",
-          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
+          "name": "Tymek",
+          "url": "https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh"
+        },
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        },
+        {
+          "name": "Urbanski",
+          "url": "https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE"
         }
       ],
-      "duration_ms": 258586,
-      "name": "Zawsze tam gdzie Ty",
-      "url": "https://open.spotify.com/track/1f3C0tSFKsjcflvMCa3X27"
+      "duration_ms": 219546,
+      "name": "Ostatni (Rojst '97 | Netflix)",
+      "url": "https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
+        "name": "Pi\u0142a tango",
+        "url": "https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx"
+      },
+      "artists": [
+        {
+          "name": "Strachy Na Lachy",
+          "url": "https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Dzie\u0144 dobry, kocham Ci\u0119",
+      "url": "https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
         "name": "Zakryj (Deluxe)",
         "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 197764,
       "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
       "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Pi\u0142a tango",
-        "url": "https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx"
-      },
-      "artists": [
-        {
-          "name": "Strachy Na Lachy",
-          "url": "https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Dzie\u0144 dobry, kocham Ci\u0119",
-      "url": "https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
+        "name": "Z\u0142oto",
+        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
         "name": "Marek Grechuta - 40 piosenek",
         "url": "https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 104733,
       "name": "B\u0119dziesz moj\u0105 pani\u0105",
       "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Z\u0142oto",
-        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Moje piosenki edycja zwykla",
-        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "Znam cie na pamiec",
-      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/4kgB9pui0fAMwB44axR3C1"
       },
@@ -1093,7 +1077,23 @@
       "url": "https://open.spotify.com/track/0CBj18X3J7MabwDqKeMxuo"
     },
     {
-      "added_at": "2023-03-05 01:00:25",
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Moje piosenki edycja zwykla",
+        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "Znam cie na pamiec",
+      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
+    },
+    {
+      "added_at": "2023-03-06 00:58:35",
       "album": {
         "name": "Nie zrozumie nas - z filmu \u201eJohnny\u201d",
         "url": "https://open.spotify.com/album/1ps4zilmJwT8YRPfIrmv30"
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
     },
     {
-      "added_at": "2023-03-05 01:00:25",
+      "added_at": "2023-03-06 00:58:35",
       "album": {
         "name": "Osobista kolekcja 2",
         "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Oddycham",
-        "url": "https://open.spotify.com/album/754tuVtUml3dvC0YysRpZK"
-      },
-      "artists": [
-        {
-          "name": "Kamil Bednarek",
-          "url": "https://open.spotify.com/artist/5UUsQ38YTugFjdLX82IDAE"
-        }
-      ],
-      "duration_ms": 290481,
-      "name": "List",
-      "url": "https://open.spotify.com/track/427wJVMJuEPYdxjwDhFiBY"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Omamy",
         "url": "https://open.spotify.com/album/4izFXcjIxPzX86R1hRAUbD"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 230826,
       "name": "Nie mam dla Ciebie mi\u0142o\u015bci - Kayax XX Rework",
       "url": "https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Oddycham",
+        "url": "https://open.spotify.com/album/754tuVtUml3dvC0YysRpZK"
+      },
+      "artists": [
+        {
+          "name": "Kamil Bednarek",
+          "url": "https://open.spotify.com/artist/5UUsQ38YTugFjdLX82IDAE"
+        }
+      ],
+      "duration_ms": 290481,
+      "name": "List",
+      "url": "https://open.spotify.com/track/427wJVMJuEPYdxjwDhFiBY"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

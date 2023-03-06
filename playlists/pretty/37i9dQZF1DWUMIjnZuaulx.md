@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Monica and James Fortune
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,685 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,954 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Trusting God](https://open.spotify.com/track/2IwAiKFnyflwHLSrElGUTl) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Trusting God](https://open.spotify.com/album/6JxQ4CIIRe9IVcnLFIhbzO) | 4:51 |
-| 2 | [All Yours \(feat\. Anthony Brown\)](https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Anthony Brown](https://open.spotify.com/artist/1W7DATOf6IUurjV5M5ZWyC) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 7:05 |
+| 2 | [All Yours \(feat\. Anthony Brown\)](https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Anthony Brown](https://open.spotify.com/artist/1HSMaq47ru6j0R2IFAgHDb) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 7:05 |
 | 3 | [Come In](https://open.spotify.com/track/7gXPEZH5f13ER9tYujntDa) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Four Walls](https://open.spotify.com/album/2vzCyDyMFuc7p46Tuv2E69) | 4:11 |
 | 4 | [Able](https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn) | 5:02 |
 | 5 | [I Believe God](https://open.spotify.com/track/33VfUGMjszgfYoUT301B9F) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I Believe God](https://open.spotify.com/album/33GxwGNiIBJX4uKSzzvPrG) | 4:56 |

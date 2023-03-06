@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-349 songs - 1 day 6 hr 22 min
+350 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Burn the Witch](https://open.spotify.com/track/5knAIdfCrDg5NCf3s4JpWT) | [Bloody Falls](https://open.spotify.com/artist/70aIXAYbZd48wRhXJfa39r), [Salla Flinkman](https://open.spotify.com/artist/71UgFcuxzgiAFdwTu26Qlg) | [Burn the Witch](https://open.spotify.com/album/33djeHekh7U3g2MudCPIg0) | 4:47 | 2021-12-17 | 2022-07-28 |
 | [Calendula](https://open.spotify.com/track/2Xdk8F4L6TCaKCxOiZHOQw) | [Elcrost](https://open.spotify.com/artist/6QA513IBQrcc4PXZWwri64) | [Calendula](https://open.spotify.com/album/3kZc7YfVWkEf1WwD5K5M6g) | 5:24 | 2021-12-17 | 2022-04-09 |
 | [Call from the Grave](https://open.spotify.com/track/2v74ik56b9FHNwdhoAEVOd) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Under the Sign of the Black Mark](https://open.spotify.com/album/5HT0xp5AqEzzAzzjj9gPZN) | 4:54 | 2022-07-13 |  |
-| [Caravan of Broken Ghosts](https://open.spotify.com/track/7CYKHsr8Wgx90CyWpHtVzl) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Caravan of Broken Ghosts](https://open.spotify.com/album/75NgJLpx9Sd36o6kzXihOG) | 7:53 | 2022-10-21 |  |
+| [Caravan of Broken Ghosts](https://open.spotify.com/track/7CYKHsr8Wgx90CyWpHtVzl) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Caravan of Broken Ghosts](https://open.spotify.com/album/75NgJLpx9Sd36o6kzXihOG) | 7:53 | 2022-10-21 | 2023-03-06 |
 | [Chapter I: Escape](https://open.spotify.com/track/50wNXncjCWM87QlNQ5bmKq) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter I: Escape](https://open.spotify.com/album/6RetrQBkhFn2SXftzZODXG) | 4:26 | 2022-01-21 | 2022-04-15 |
 | [Chapter III: Nest](https://open.spotify.com/track/5YDmEeIn2zJrsxO1rvfzrj) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter III: Nest](https://open.spotify.com/album/09XAlMXjuegy1rbEZf94Sj) | 3:43 | 2022-04-15 | 2022-07-29 |
 | [Chernobyl Blues \- Live at Slipper Room](https://open.spotify.com/track/4coCbcc2diO04CaUquMQ4W) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [An Evening With Imperial Triumphant \(Live at Slipper Room\)](https://open.spotify.com/album/1gKZvyVWVA4rtfJNRWe08H) | 7:32 | 2021-12-17 | 2022-07-29 |
@@ -276,6 +276,7 @@
 | [She is a Fire](https://open.spotify.com/track/4y1FN6vpHYUAaJVEOsgCHp) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [She is a Fire](https://open.spotify.com/album/03xxDa7rJRB4fl7ZB2B5qg) | 5:22 | 2023-03-03 |  |
 | [Shrines in Cinder](https://open.spotify.com/track/5iitxeQ3eMPteFo9EmSpyb) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Shrines in Cinder](https://open.spotify.com/album/6oreJErT6gkTrUR6WFhABi) | 3:49 | 2022-04-22 | 2022-07-29 |
 | [Silence/Motion](https://open.spotify.com/track/42TSRptSYJCEiUHGDJgqFE) | [Blackwater Holylight](https://open.spotify.com/artist/2fqEhs5dZBrDLUqHvWRtBc) | [Silence/Motion](https://open.spotify.com/album/06rY9A3QaKVqDZRXXSjUYf) | 5:37 | 2021-12-17 | 2022-01-15 |
+| [Slasher](https://open.spotify.com/track/5QsYwX1DDvuhpsOCaCn4YP) | [Omnium Gatherum](https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu) | [Slasher](https://open.spotify.com/album/0qlglHVwWrCCkvFYCuSifB) | 4:21 | 2023-03-03 |  |
 | [Slaughterday \(The Heathen Blood Of Ours\)](https://open.spotify.com/track/1YIQen5eaBq0x0qvN4bKm7) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [Memoria Vetusta I \- Fathers Of The Icy Age](https://open.spotify.com/album/3hVaadUlQTPQLoixWP6RDw) | 6:47 | 2022-07-13 | 2022-07-20 |
 | [Slaughterer of Souls](https://open.spotify.com/track/65lPFRIFFc1BPZaQMZAOx2) | [Autopsy](https://open.spotify.com/artist/6hR8mUd2yyHFazoCuweiIJ) | [Morbidity Triumphant](https://open.spotify.com/album/0rNeQyZdV5rD6U4xjXj21T) | 4:26 | 2022-10-04 | 2023-02-07 |
 | [Slaves](https://open.spotify.com/track/4US8QCvhkPnO1D8pTznkom) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Massive Cauldron of Chaos](https://open.spotify.com/album/5KkMZp4jYbFgwwe8S9w13f) | 4:53 | 2022-07-13 | 2022-07-25 |

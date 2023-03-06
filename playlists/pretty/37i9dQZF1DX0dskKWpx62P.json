@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 27910,
+  "num_followers": 27949,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDRkYTViY2QxNGZhYzg1NDFmN2FjOTIwOWE5ZDY4NDEw",
+  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDFhMmM1ZTk5MmJiZDJiYWYwZTQyOTcwNzZhZTUxYWI3",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Los Errantes",
-        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
-      },
-      "artists": [
-        {
-          "name": "Los Errantes",
-          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "Llanto por Llanto",
-      "url": "https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "LO MEJOR DE LO ANTERIOR",
         "url": "https://open.spotify.com/album/7MzodXzKWxlxylBShZGnSW"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 277333,
       "name": "AY CORAZ\u00d3N",
       "url": "https://open.spotify.com/track/14XLX8xbjueFBRMnrUNiRk"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Los Errantes",
+        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
+      },
+      "artists": [
+        {
+          "name": "Los Errantes",
+          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Llanto por Llanto",
+      "url": "https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Bodas de Plata: Concierto en Vivo",
-        "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
       },
       "artists": [
         {
-          "name": "Ra\u00fal Arqu\u00ednigo",
-          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
         }
       ],
-      "duration_ms": 237826,
-      "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
-      "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
+      "duration_ms": 160200,
+      "name": "Carrito del Gobierno",
+      "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+        "name": "Bodas de Plata: Concierto en Vivo",
+        "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
       },
       "artists": [
         {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+          "name": "Ra\u00fal Arqu\u00ednigo",
+          "url": "https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO"
         }
       ],
-      "duration_ms": 160200,
-      "name": "Carrito del Gobierno",
-      "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
+      "duration_ms": 237826,
+      "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
+      "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Wistu Vida",
-        "url": "https://open.spotify.com/album/5vm7rrxB7W8VUPUsiJyd9k"
+        "name": "Como Siempre Con El Mayor Cari\u00f1o",
+        "url": "https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn"
       },
       "artists": [
         {
-          "name": "Duo Retama",
-          "url": "https://open.spotify.com/artist/3RW7F1HCOJ2j0rCgVOc3Kf"
+          "name": "Trio Ayacucho",
+          "url": "https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8"
         }
       ],
-      "duration_ms": 388813,
-      "name": "Flor de Retana",
-      "url": "https://open.spotify.com/track/26cc7Xk07PeBLj8aH2sGmE"
+      "duration_ms": 224773,
+      "name": "Adi\u00f3s Pueblo De Ayacucho",
+      "url": "https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Como Siempre Con El Mayor Cari\u00f1o",
-        "url": "https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn"
+        "name": "Wistu Vida",
+        "url": "https://open.spotify.com/album/5vm7rrxB7W8VUPUsiJyd9k"
       },
       "artists": [
         {
-          "name": "Trio Ayacucho",
-          "url": "https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8"
+          "name": "Duo Retama",
+          "url": "https://open.spotify.com/artist/3RW7F1HCOJ2j0rCgVOc3Kf"
         }
       ],
-      "duration_ms": 224773,
-      "name": "Adi\u00f3s Pueblo De Ayacucho",
-      "url": "https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe"
+      "duration_ms": 388813,
+      "name": "Flor de Retana",
+      "url": "https://open.spotify.com/track/26cc7Xk07PeBLj8aH2sGmE"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Calaveras Serranas",
-        "url": "https://open.spotify.com/album/4BpC4Ap05hVHTqZf91YwY2"
-      },
-      "artists": [
-        {
-          "name": "Luis Mendoza",
-          "url": "https://open.spotify.com/artist/4MmslUYXQXsZjNAXrgyYA2"
-        }
-      ],
-      "duration_ms": 171415,
-      "name": "Dejame Asi",
-      "url": "https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Mis \u00c9xitos Eternos Vol. 2",
         "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 222973,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Calaveras Serranas",
+        "url": "https://open.spotify.com/album/4BpC4Ap05hVHTqZf91YwY2"
+      },
+      "artists": [
+        {
+          "name": "Luis Mendoza",
+          "url": "https://open.spotify.com/artist/4MmslUYXQXsZjNAXrgyYA2"
+        }
+      ],
+      "duration_ms": 171415,
+      "name": "Dejame Asi",
+      "url": "https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z"
     },
     {
       "added_at": "2022-02-04 14:45:56",

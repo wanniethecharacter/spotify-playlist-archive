@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night time hours
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,645 likes - 70 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,669 likes - 70 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 15 | [Second Message](https://open.spotify.com/track/06XrfqtYM0celpC8EsPu16) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [Second Message](https://open.spotify.com/album/4dLy0cz5saZrAdeBizJVL4) | 5:01 |
 | 16 | [Blush](https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush](https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts) | 3:45 |
 | 17 | [Sweet Memory](https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD) | [Kloyd](https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7) | [Sweet Memory](https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z) | 3:31 |
-| 18 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
-| 19 | [Blue Hour](https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:31 |
+| 18 | [Blue Hour](https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:31 |
+| 19 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
 | 20 | [Take Me Home](https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB) | [Take Me Home](https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck) | 4:30 |
 | 21 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 |
 | 22 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 54 | [meserole](https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [meserole](https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD) | 3:33 |
 | 55 | [Shapeless](https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW) | 4:34 |
 | 56 | [Shallow Water](https://open.spotify.com/track/1lJPVwuvM9b8wpdZIYRNq9) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 4:41 |
-| 57 | [The Antidote](https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Jewels from the Sun EP](https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW) | 4:50 |
-| 58 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
+| 57 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
+| 58 | [The Antidote](https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Jewels from the Sun EP](https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW) | 4:50 |
 | 59 | [Have You Felt Lately? \- Brijean Remix](https://open.spotify.com/track/0wR3uEmtFQLqNVkXbB219d) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Have You Felt Lately? \(Brijean Remix\)](https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM) | 3:58 |
 | 60 | [Sueños](https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa) | [Waleed](https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs) | [Sueños](https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe) | 4:58 |
 | 61 | [Inperspect](https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR) | 8:18 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 66 | [Boo's Mood](https://open.spotify.com/track/3NpY3kZ5NDJVZZDjzAlBaz) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Boo's Mood](https://open.spotify.com/album/37XnGed9rFSMci9ljdWSOQ) | 4:23 |
 | 67 | [Komodo](https://open.spotify.com/track/5OH67rxvZ9KHFInp9t4XjW) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Komodo / Flores](https://open.spotify.com/album/72sEoUBxoXL0SczjZzjNT3) | 4:21 |
 | 68 | [Leave Here](https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9) | 4:57 |
-| 69 | [by the reservoir](https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:08 |
-| 70 | [Eyes On Me](https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Can Do This](https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW) | 3:48 |
+| 69 | [Eyes On Me](https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Can Do This](https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW) | 3:48 |
+| 70 | [by the reservoir](https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:08 |
 
-Snapshot ID: `MTY3Nzc2MjAwMCwwMDAwMDAwMDdhYzdmYWYzMTBhZTA4MjJiN2E2YjM3NWE3OTJjMDdj`
+Snapshot ID: `MTY3Nzc2MjAwMCwwMDAwMDAwMDI5Yjc2MjQ2NjljMDJhYTFmNTMxODBkYzgyMzAxYzQ1`

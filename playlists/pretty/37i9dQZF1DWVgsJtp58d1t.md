@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Artwork by Ian Woods Cover: <a href="spotify:artist:1U0sIzpRtDkvu1hXXzxh60">Kelela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,299 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,498 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-249 songs - 13 hr 31 min
+250 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Diamant](https://open.spotify.com/track/3b4wIxzd5f8C9k8azA9hPx) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Diamant](https://open.spotify.com/album/72SQDw88bPAybqZ1wICJ9e) | 3:31 | 2022-05-27 | 2022-07-29 |
 | [Diamonds](https://open.spotify.com/track/1hJIbOjWpid6LtnozHmzRS) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 3:33 | 2022-05-27 | 2022-06-18 |
 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2022-07-26 |  |
-| [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2022-05-27 |  |
+| [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2022-05-27 | 2023-03-06 |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2022-07-26 |  |
 | [Douchebag](https://open.spotify.com/track/3Z9tTtoCgQDUPzQerBg1jv) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Douchebag](https://open.spotify.com/album/1EeCf52PdUbgMKCpbbV9Pk) | 2:58 | 2022-05-27 | 2022-07-29 |
 | [Dégaine \(feat\. Damso\)](https://open.spotify.com/track/5cqLFudVQryezmVFmmyRJN) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Dégaine \(feat\. Damso\)](https://open.spotify.com/album/0qHraUEsPCcdTqCFBFDQvn) | 3:30 | 2022-05-27 | 2022-07-24 |
@@ -252,6 +252,7 @@
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-07-26 |  |
 | [With You \- Frank Walker Remix](https://open.spotify.com/track/06Z7Hy2LUzbcSFmWzwkun1) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [With You \(Frank Walker Remix\)](https://open.spotify.com/album/7mgxrTvbIw7k1Vaij5EPbE) | 3:26 | 2022-06-24 | 2022-07-09 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2022-05-27 |  |
+| [X](https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:52 | 2022-08-27 |  |
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2022-06-17 | 2022-11-14 |
 | [À ma manière](https://open.spotify.com/track/0N0ym8cUNFLLK2PhiENWrh) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Acrophobie](https://open.spotify.com/album/6zBf71wZueuPdcCUq7FjzE) | 2:13 | 2022-05-27 | 2022-07-28 |
 | [Ça fait mal](https://open.spotify.com/track/1sAB7fCrQ4YUIdoP24qlO1) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Micro](https://open.spotify.com/artist/0QAE7vtf7znl9nN6822bM5) | [Sainte\-Foy](https://open.spotify.com/album/7BEPwXmSWLXN8iaNP3683g) | 4:12 | 2022-05-27 | 2022-07-17 |

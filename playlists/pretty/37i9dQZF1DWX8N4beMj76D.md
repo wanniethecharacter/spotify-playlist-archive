@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,482 likes - 40 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,488 likes - 40 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 3 | [Hallelujah](https://open.spotify.com/track/5S0pF13mOsTnYweFwFy4D0) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 5:08 |
 | 4 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 |
 | 5 | [Save the Last Dance for Me \- Live in Dublin](https://open.spotify.com/track/4gF4435jcJGLXvQe7hovtp) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live In Dublin](https://open.spotify.com/album/4CKs4nbhva7asiYqsZpMOi) | 4:09 |
-| 6 | [One of Us Cannot Be Wrong](https://open.spotify.com/track/2fmeEE8cOgVqUDU9foMVTj) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:55 |
-| 7 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 |
+| 6 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 |
+| 7 | [One of Us Cannot Be Wrong](https://open.spotify.com/track/2fmeEE8cOgVqUDU9foMVTj) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:55 |
 | 8 | [If It Be Your Will \(feat\. Leonard Cohen\) \- Live in London](https://open.spotify.com/track/6MgxI462nuWQkMowINdZkw) | [The Webb Sisters](https://open.spotify.com/artist/5WVYK25IDrN0y1ExA69Lr7), [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live In London](https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY) | 5:22 |
 | 9 | [Here It Is](https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 5:12 |
 | 10 | [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 16 | [Bird On A Wire](https://open.spotify.com/track/0iBSH25UyYu5Wu3WZHOZMx) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American Recordings](https://open.spotify.com/album/19rYWxZfMdEOxTDODFjLyb) | 4:01 |
 | 17 | [Tower Of Song](https://open.spotify.com/track/1NpNxgzZRCPIbtXHmWX9dV) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:44 |
 | 18 | [Ain't No Cure For Love](https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 4:33 |
-| 19 | [You Want It Darker \(feat\. Iggy Pop\)](https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [You Want It Darker](https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp) | 5:04 |
-| 20 | [Bird on a Wire](https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Hymns of the 49th Parallel](https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX) | 4:28 |
+| 19 | [Bird on a Wire](https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Hymns of the 49th Parallel](https://open.spotify.com/album/7aTcKEqDqi1NoR2RggubbX) | 4:28 |
+| 20 | [You Want It Darker \(feat\. Iggy Pop\)](https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [You Want It Darker](https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp) | 5:04 |
 | 21 | [Be for Real](https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Future](https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo) | 4:28 |
 | 22 | [I'm Your Man \- Live](https://open.spotify.com/track/7En4Z5ngp4wYeFkq69BXry) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 4:31 |
 | 23 | [Famous Blue Raincoat](https://open.spotify.com/track/7dU7EHElNeLOCkNnQXQtZs) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 5:37 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 39 | [Who by Fire \(feat\. Jenn Grant\)](https://open.spotify.com/track/1HrWXSbm7z0qykZCxBn4CT) | [Buck 65](https://open.spotify.com/artist/6jbuMVAvWgoPxEb1wMglyz) | [20 ODD YEARS](https://open.spotify.com/album/5fMNoW6lhkb7o1XFR4EmXj) | 3:35 |
 | 40 | [Chelsea Hotel \#2](https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi) | 3:35 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGZlNmM1Y2E0MTA0MmYxNTllNzJlYWM1ZDJmZDg0MGJh`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGE1YjJjNjM0Y2QxODJhYTUyMTFiZWE3ZTU3NWQ0YTJl`

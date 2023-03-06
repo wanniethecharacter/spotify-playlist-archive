@@ -1,12 +1,12 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 52253,
+  "num_followers": 52322,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU3NDE5NiwwMDAwMDAwMDMwNTgzYzAxYjU3N2UzMmE5YjFkNWQzZWZmOGY1ODUy",
+  "snapshot_id": "MTY3NDU3NDE5NiwwMDAwMDAwMDkxN2ZkNGIwNTdiMTkwODdkNjU3MDg1MDIxOWI0ODNi",
   "tracks": [
     {
       "added_at": "2021-07-02 05:03:05",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 283360,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2021-07-02 05:03:05",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-07-02 05:03:05",
       "album": {
-        "name": "W.A.S.P.",
-        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
-      },
-      "artists": [
-        {
-          "name": "W.A.S.P.",
-          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "I Wanna Be Somebody",
-      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
-    },
-    {
-      "added_at": "2021-07-02 05:03:05",
-      "album": {
         "name": "Ultimate Santana",
         "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 195866,
       "name": "Black Magic Woman",
       "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
+    },
+    {
+      "added_at": "2021-07-02 05:03:05",
+      "album": {
+        "name": "W.A.S.P.",
+        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
+      },
+      "artists": [
+        {
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "I Wanna Be Somebody",
+      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
     },
     {
       "added_at": "2021-07-02 05:03:05",

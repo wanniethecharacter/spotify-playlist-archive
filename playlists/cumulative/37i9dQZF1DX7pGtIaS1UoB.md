@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-265 songs - 15 hr 53 min
+266 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Valentine's Day](https://open.spotify.com/track/0ZSHpad1O6qybnxaEj0lyL) | [A\-do](https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz) | [第9次初戀](https://open.spotify.com/album/77pNXNu9FeYHfBIJOSSFhZ) | 4:03 | 2022-07-25 | 2022-07-27 |
 | [Will You Be My Love \~ 問問 \- WBL系列影集第一季<永遠的第一名>片頭曲](https://open.spotify.com/track/0X0yv9i8T1YdeGbOI0PnwN) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [Will You Be My Love \~ 問問 \(WBL系列影集第一季<永遠的第一名>片頭曲\)](https://open.spotify.com/album/6zFcUqZETFY38EQOhZgeHL) | 3:23 | 2022-06-06 | 2022-07-27 |
 | [Xiao Guai Guai](https://open.spotify.com/track/2uPnipbrzbRK6FBjpZmUNP) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [0 cm to YO](https://open.spotify.com/album/7z2oSPZDtelkc6cT4ymViw) | 3:45 | 2022-06-06 | 2022-07-17 |
-| [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 | 2022-06-13 |  |
+| [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 | 2022-06-13 | 2023-03-06 |
 | [⼀直在⼀起好嗎](https://open.spotify.com/track/70cB4HoaERBIDIzIZcIOg5) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [⼀直在⼀起好嗎](https://open.spotify.com/album/4KnTEJL7azTJwzgS5XCGVd) | 2:59 | 2022-09-05 | 2022-09-20 |
 | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [黃宣](https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL) | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 | 2022-06-06 |  |
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0n620D2UF9SNRKny1vFdQo) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/album/6mVkOMZ2W2fZX0WLPijazf) | 2:24 | 2022-06-06 | 2022-07-25 |
@@ -114,6 +114,7 @@
 | [夏色17号\-比尔的歌](https://open.spotify.com/track/5Dr6LweBUX9A0w4Fm0oaB0) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E), [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [夏色17号\-比尔的歌](https://open.spotify.com/album/0ZO8r4sN5eymZG4YMozKT1) | 3:13 | 2022-08-29 | 2022-10-17 |
 | [天使見證的愛情](https://open.spotify.com/track/46k8JnUuYVu8yWtC3VN8wo) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1), [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [凡人](https://open.spotify.com/album/1MZZXzwEPXBvwG29dpGCDZ) | 3:23 | 2022-06-27 | 2022-07-28 |
 | [天气预报](https://open.spotify.com/track/29PXFwJJJhbv3qSvW1GD0H) | [Cindy大蟠桃子](https://open.spotify.com/artist/3bdkqX2OKcnxvqnG5DmBSH) | [天气预报](https://open.spotify.com/album/5GJpp6vX5tAvJhzV0HWptC) | 2:51 | 2022-10-04 | 2023-02-02 |
+| [天气预报](https://open.spotify.com/track/50SGE9aLTkKSDrItBB2Ob4) | [Cindy大蟠桃子](https://open.spotify.com/artist/4smFNl33CX73ssmIQk8PqI) | [天气预报](https://open.spotify.com/album/6UusQKiwOoG9pUQZkzUpGA) | 2:51 | 2023-02-27 |  |
 | [天生一對](https://open.spotify.com/track/2zHy0qGu8LmpG7EHP2QzkB) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [天生一對](https://open.spotify.com/album/5uSx00qbtn0iZbyM44YXYY) | 4:03 | 2022-06-06 | 2022-07-29 |
 | [好久不見](https://open.spotify.com/track/1qjkBEqOHZoT95xhEKISLZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/7oz7WhrdSfsC3GkAUPOzgL) | 4:12 | 2022-06-20 | 2022-07-10 |
 | [好像都一樣 \(電視劇《兩個人的小森林》片尾曲\)](https://open.spotify.com/track/7nX4mpxrY71HCtzRa3zmrn) | [虞書欣](https://open.spotify.com/artist/5zPqM8LgROl23YebfY1a7B), [張彬彬](https://open.spotify.com/artist/3mqdyRN0qBJFC2K8QtaOoe) | [好像都一樣 \(電視劇《兩個人的小森林》片尾曲\)](https://open.spotify.com/album/5yMcA6cG26E9Hfgy81EBl6) | 2:57 | 2022-10-24 |  |

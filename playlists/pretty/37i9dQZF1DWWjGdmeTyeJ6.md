@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Meg Smith\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,636 likes - 82 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,595 likes - 82 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

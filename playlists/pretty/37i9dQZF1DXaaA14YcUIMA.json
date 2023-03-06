@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Bukis en portada. ",
-  "num_followers": 310457,
+  "num_followers": 310711,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ3NjM4NywwMDAwMDAwMDk0YTYyZDY2YzAwODJiOTdiNjM4MWFhYTUwZDBiZWMz",
+  "snapshot_id": "MTY0NzQ3NjM4NywwMDAwMDAwMDYxYzBhZmMzNzRiMTE2ZjhjZWE2YTRmM2NkOWJmMmI3",
   "tracks": [
     {
       "added_at": "2022-03-17 00:19:47",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Vanidosa",
-        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
-      },
-      "artists": [
-        {
-          "name": "Los Fugitivos",
-          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
-        }
-      ],
-      "duration_ms": 254440,
-      "name": "La Loca",
-      "url": "https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "En El Camino",
         "url": "https://open.spotify.com/album/6JckkNzJVY33kAwZ7FOd4J"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 158373,
       "name": "Te V\u00ed Con El",
       "url": "https://open.spotify.com/track/3TK5wK5bPpM4vIpAmkhkuX"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Vanidosa",
+        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
+      },
+      "artists": [
+        {
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
+        }
+      ],
+      "duration_ms": 254440,
+      "name": "La Loca",
+      "url": "https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "10 De Coleccion",
-        "url": "https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O"
+        "name": "Los Sonidos De Su Esp\u00edritu",
+        "url": "https://open.spotify.com/album/1JmNtIeUHlp2vHxddTj5iA"
       },
       "artists": [
         {
-          "name": "Guardianes Del Amor",
-          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
         }
       ],
-      "duration_ms": 190560,
-      "name": "Amor Se Escribe Con Llanto",
-      "url": "https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7"
+      "duration_ms": 226386,
+      "name": "Contra El Drag\u00f3n",
+      "url": "https://open.spotify.com/track/7I7Cs5Xr776qavPMjNJknC"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Los Sonidos De Su Esp\u00edritu",
-        "url": "https://open.spotify.com/album/1JmNtIeUHlp2vHxddTj5iA"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 226386,
-      "name": "Contra El Drag\u00f3n",
-      "url": "https://open.spotify.com/track/7I7Cs5Xr776qavPMjNJknC"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 203253,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "10 De Coleccion",
+        "url": "https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O"
+      },
+      "artists": [
+        {
+          "name": "Guardianes Del Amor",
+          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Amor Se Escribe Con Llanto",
+      "url": "https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "Y T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Los Yonic's",
         "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 192440,
       "name": "Un Dolor",
       "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "Y T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -975,22 +975,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Contigo Aprend\u00ed",
-        "url": "https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb"
+        "name": "Juntos Para Siempre",
+        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        },
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+          "name": "Los Mismos",
+          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Adoro (with Armando Manzanero)",
-      "url": "https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB"
+      "duration_ms": 205400,
+      "name": "Me Est\u00e1 Doliendo Dejarte",
+      "url": "https://open.spotify.com/track/1S05r50Qef8J6Yh6sGtjPj"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1011,18 +1007,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Juntos Para Siempre",
-        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
+        "name": "12 Super Exitos",
+        "url": "https://open.spotify.com/album/3iUfFo7KFlu647f3PL6Jdc"
       },
       "artists": [
         {
-          "name": "Los Mismos",
-          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
+          "name": "Los Rodarte",
+          "url": "https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Me Est\u00e1 Doliendo Dejarte",
-      "url": "https://open.spotify.com/track/1S05r50Qef8J6Yh6sGtjPj"
+      "duration_ms": 191026,
+      "name": "Y Me Dijo Eres Tu",
+      "url": "https://open.spotify.com/track/1iTBq0Ux2qwvZKshWnXHyt"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1043,18 +1039,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "12 Super Exitos",
-        "url": "https://open.spotify.com/album/3iUfFo7KFlu647f3PL6Jdc"
+        "name": "Contigo Aprend\u00ed",
+        "url": "https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb"
       },
       "artists": [
         {
-          "name": "Los Rodarte",
-          "url": "https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
         }
       ],
-      "duration_ms": 191026,
-      "name": "Y Me Dijo Eres Tu",
-      "url": "https://open.spotify.com/track/1iTBq0Ux2qwvZKshWnXHyt"
+      "duration_ms": 213466,
+      "name": "Adoro (with Armando Manzanero)",
+      "url": "https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1095,8 +1095,8 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ"
+        "name": "Un D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
         }
       ],
-      "duration_ms": 218066,
-      "name": "Contigo O Sin Ti",
-      "url": "https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK"
+      "duration_ms": 214346,
+      "name": "Un D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Un D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
+        "name": "Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ"
       },
       "artists": [
         {
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
         }
       ],
-      "duration_ms": 214346,
-      "name": "Un D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
+      "duration_ms": 218066,
+      "name": "Contigo O Sin Ti",
+      "url": "https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK"
     },
     {
       "added_at": "2022-03-17 00:19:47",

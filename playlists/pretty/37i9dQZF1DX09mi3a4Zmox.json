@@ -1,29 +1,13 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 4040320,
+  "num_followers": 4040858,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDI5YzM0MmNiNWQ1MmJhNTgxNzFiMGE2OWQ5OTA4ZGUw",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMGMyZmY3NzVlYTdiZDE2NThmYTNkNmQ5MThkZjBlNGU1",
   "tracks": [
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
-    },
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 257026,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 239426,
       "name": "Abr\u00e1zame Muy Fuerte",
       "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Vicentico 5",
-        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "No Te Apartes de M\u00ed",
-      "url": "https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -239,8 +239,24 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+        "name": "Vicentico 5",
+        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "No Te Apartes de M\u00ed",
+      "url": "https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
       "artists": [
         {
@@ -248,9 +264,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -363,22 +379,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Te Esper\u00e9",
-      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Estemos Donde Estemos",
         "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+      "duration_ms": 216000,
+      "name": "Te Esper\u00e9",
+      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Rom\u00e1ntico Desliz",
-        "url": "https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt"
+        "name": "Revoluci\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
       },
       "artists": [
         {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 217426,
-      "name": "Corazones Invencibles",
-      "url": "https://open.spotify.com/track/1vrq0gc8U6kxkNNnD79gEp"
+      "duration_ms": 327600,
+      "name": "Eres Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3NTaEHQg5iVrRRNWlnK4RY"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Revoluci\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
+        "name": "Rom\u00e1ntico Desliz",
+        "url": "https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
         }
       ],
-      "duration_ms": 327600,
-      "name": "Eres Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3NTaEHQg5iVrRRNWlnK4RY"
+      "duration_ms": 217426,
+      "name": "Corazones Invencibles",
+      "url": "https://open.spotify.com/track/1vrq0gc8U6kxkNNnD79gEp"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Nido de \u00e1guilas",
+        "url": "https://open.spotify.com/album/32WuCQwrBEno4ofZMvr0tC"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/53xN2jnRERbs7bg9t8hKDd"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Nido de \u00e1guilas",
-        "url": "https://open.spotify.com/album/32WuCQwrBEno4ofZMvr0tC"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/53xN2jnRERbs7bg9t8hKDd"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Begin the Beguine",
+        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 300600,
+      "name": "Hey - Spanish",
+      "url": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Deje de Amar",
         "url": "https://open.spotify.com/album/1WL8muZp8DwnP4XDuovUou"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Begin the Beguine",
-        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
+        "name": "Hasta Ahora",
+        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
       },
       "artists": [
         {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 300600,
-      "name": "Hey - Spanish",
-      "url": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
+      "duration_ms": 195133,
+      "name": "Te Vi Venir",
+      "url": "https://open.spotify.com/track/45xU99QgWETDFGhgivpYce"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1455,22 +1471,6 @@
       "duration_ms": 218320,
       "name": "Por Lo Que Reste de Vida",
       "url": "https://open.spotify.com/track/7qDkY9Y9v9eFV53AalBcSd"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Hasta Ahora",
-        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Te Vi Venir",
-      "url": "https://open.spotify.com/track/45xU99QgWETDFGhgivpYce"
     },
     {
       "added_at": "2023-03-03 05:00:00",

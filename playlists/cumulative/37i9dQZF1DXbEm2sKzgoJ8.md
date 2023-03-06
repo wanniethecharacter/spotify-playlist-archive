@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-298 songs - 16 hr 36 min
+299 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Unfair](https://open.spotify.com/track/0xD23i0X1WjqMSYIxRfO80) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\#000000 & \#FFFFFF](https://open.spotify.com/album/2mKqHATk7WVbtazVkSe9w0) | 2:26 | 2022-03-25 | 2022-04-19 |
 | [universe](https://open.spotify.com/track/7B4UxdHwRKJYRhvXxmgZhM) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:06 | 2022-03-25 | 2023-02-25 |
 | [Until The End Of Time \- Spotify Singles](https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Spotify Singles](https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y) | 4:43 | 2023-02-14 |  |
-| [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-01 |  |
+| [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-01 | 2023-03-06 |
 | [Upwards](https://open.spotify.com/track/1bahNfOZV6WJFVZbbkpcBQ) | [JUICEB☮X](https://open.spotify.com/artist/6HIRyO3O2mbkdwih0Mi4vR), [WES WAX](https://open.spotify.com/artist/3GbBn19KtJVNImZndKoxtF) | [Upwards / After 2](https://open.spotify.com/album/5ovJITeDg3iwFR5VwXwKBb) | 3:45 | 2022-01-14 | 2022-06-11 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-11-11 |  |
 | [Vibez](https://open.spotify.com/track/709F3MwiVvLD0LQXeKs5Cz) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Vibez](https://open.spotify.com/album/18VcdfV5jJVjn10mh0vOYt) | 2:43 | 2021-12-10 | 2022-11-14 |
@@ -298,6 +298,7 @@
 | [Wildest Dreams](https://open.spotify.com/track/6rp1MrZlgg22oAdptVGXUR) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 3:12 | 2022-05-20 | 2022-07-11 |
 | [wish that i could](https://open.spotify.com/track/5w4q9Es264UdYYr2AjnPhU) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 3:27 | 2022-06-17 | 2023-01-18 |
 | [Worth It](https://open.spotify.com/track/1bWBqEOlBwHnsYWViiBOFC) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [November Love Notes](https://open.spotify.com/album/4fQ1Dn0bHqfqKD9R6TRws5) | 2:49 | 2021-12-24 | 2022-06-30 |
+| [Worth the Wait \(feat\. Omar Apollo\)](https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:30 | 2023-03-03 |  |
 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 | 2023-02-03 |  |
 | [You](https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:37 | 2021-12-10 | 2022-12-14 |
 | [You Belong To Somebody Else](https://open.spotify.com/track/7izlgARoZsidRx23DOBhad) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Fuck A Friend Zone](https://open.spotify.com/album/51OWMVKHXRYaXdizydeRSd) | 3:38 | 2022-07-13 | 2022-09-10 |

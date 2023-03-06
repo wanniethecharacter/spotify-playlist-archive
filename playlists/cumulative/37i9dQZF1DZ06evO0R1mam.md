@@ -4,7 +4,7 @@
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-50 songs - 4 hr 27 min
+51 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Craving \- Live](https://open.spotify.com/track/0hxMfzavtNltGovNVGqNGD) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 7:21 | 2023-03-04 |  |
 | [Everything Part I, Part II / Bow Before the King \- Live](https://open.spotify.com/track/3RGTo92TDaI3t6HKLTD4pQ) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 4:22 | 2023-03-04 |  |
 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 | 2023-03-04 |  |
-| [Good](https://open.spotify.com/track/6VQ74D15NKcHaVYVp8nizw) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:04 | 2023-03-04 |  |
+| [Good](https://open.spotify.com/track/6VQ74D15NKcHaVYVp8nizw) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:04 | 2023-03-04 | 2023-03-06 |
 | [He Turned It \- Live](https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 9:24 | 2023-03-04 |  |
 | [He's Gonna Come Through \- Live](https://open.spotify.com/track/5WQjEbzqwdGbkwfzTuPTmO) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Smokie Norful Live](https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u) | 4:56 | 2023-03-04 |  |
 | [Hold On](https://open.spotify.com/track/19vgIcw6SOe7Ss7EuWzxM7) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 5:06 | 2023-03-04 |  |
@@ -45,6 +45,7 @@
 | [Nobody \- Live](https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 5:34 | 2023-03-04 |  |
 | [Out Of Hiding / How He Loves / Good Good Father \- Medley/Live](https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 8:29 | 2023-03-04 |  |
 | [Reppin' The Kingdom \(feat\. J Moss, Canton Jones, Tye Tribbett & T Haddy\)](https://open.spotify.com/track/6NabK7p4Fcor1gwBgv2jLQ) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Canton Jones](https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [T Haddy](https://open.spotify.com/artist/5nzstLIZDM5ky0D61AJEGd) | [Church On The Moon](https://open.spotify.com/album/7tAv6YInjBhHbBjs8tqNlk) | 5:01 | 2023-03-04 |  |
+| [Same God \- Live](https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 3:19 | 2023-03-05 |  |
 | [Stand Out](https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 4:42 | 2023-03-04 |  |
 | [Still Have Joy \- Live](https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 5:07 | 2023-03-04 |  |
 | [Take Over](https://open.spotify.com/track/2fY0CRWw4uzISL291dQymx) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 6:18 | 2023-03-04 |  |

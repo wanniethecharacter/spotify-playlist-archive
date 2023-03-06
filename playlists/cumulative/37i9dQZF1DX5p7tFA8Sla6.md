@@ -4,7 +4,7 @@
 
 > Funk \- new and old \- to accompany your drive.
 
-100 songs - 7 hr 19 min
+101 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [What Is Hip?](https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Tower Of Power](https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ) | 5:04 | 2019-08-22 |  |
 | [Who Is She \(And What Is She To You\)](https://open.spotify.com/track/7aqJzVdVIAwCokmju1Oid8) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Neither One Of Us](https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd) | 4:13 | 2019-08-22 |  |
 | [Wild](https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI), [Mammal Dap](https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq) | [Wild](https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK) | 3:32 | 2019-08-22 |  |
-| [Word Is Out](https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva) | [Chelsea Wilson](https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk) | [Chasing Gold](https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ) | 4:34 | 2019-08-22 |  |
+| [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 | 2019-09-06 |  |
+| [Word Is Out](https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva) | [Chelsea Wilson](https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk) | [Chasing Gold](https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ) | 4:34 | 2019-08-22 | 2023-03-06 |
 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 | 2019-08-22 |  |
 | [You're Gone](https://open.spotify.com/track/2auIQ3gf99I7wFz2DbZKWk) | [Smoove & Turrell](https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn), [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Mount Pleasant](https://open.spotify.com/album/080iszZgRFPqymcbo1qlOK) | 3:42 | 2019-08-22 |  |
 

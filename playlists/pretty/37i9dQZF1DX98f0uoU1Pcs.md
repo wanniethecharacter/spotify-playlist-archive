@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: shame
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,048 likes - 127 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,170 likes - 127 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 33 | [It's Just A Bit Of Blood](https://open.spotify.com/track/2lToI26o842YtPLOQHPM7r) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [It's Just A Bit Of Blood](https://open.spotify.com/album/12DSMvIltoBDrMGwFgDLgn) | 4:46 |
 | 34 | [Doomscrollers](https://open.spotify.com/track/31vMYl1rfrcgyqc7tLOXYD) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Breaking the Balls of History](https://open.spotify.com/album/6DVuykMkZf4s7P6hMlnvns) | 4:23 |
 | 35 | [Ride On](https://open.spotify.com/track/1MEhbR2no3zdS1EuvuCE2E) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Ride On](https://open.spotify.com/album/3X3uvP1QBimhhgz8w7we1Z) | 4:44 |
-| 36 | [Thin Air](https://open.spotify.com/track/1XrcBKoDKpJG76LvhzJbIZ) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Thin Air](https://open.spotify.com/album/6q4SXmm2PWBVqP8oE49bco) | 3:34 |
+| 36 | [Thin Air](https://open.spotify.com/track/5oF81W6YniYDtd2MjkUd3n) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [GIZMO](https://open.spotify.com/album/269FeWvV32RFMhsmfNg1yd) | 3:34 |
 | 37 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 |
 | 38 | [Cadillac](https://open.spotify.com/track/3273Kpy786sstHxwBMMlnn) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Cadillac](https://open.spotify.com/album/572Ib97f5WARs6JjEEsKQS) | 2:28 |
 | 39 | [Life in the Void](https://open.spotify.com/track/5QiZwq0VvqREkkEKm2m41t) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [Life In The Void](https://open.spotify.com/album/7zeWrxLRDsvIC3zLLKrkK6) | 2:40 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 126 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
 | 127 | [Lighthouse](https://open.spotify.com/track/2h2bAydGjKeCW81EmbrOGs) | [Mattiel](https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q) | [Lighthouse](https://open.spotify.com/album/2KudKrwmWH9dsQILx8Kouk) | 3:43 |
 
-Snapshot ID: `MTY3NzYzMjE5MiwwMDAwMDAwMDE1MmE3OTlkMDYwMWJiYTc0OTU1NWU3ZWZlNjdiODYx`
+Snapshot ID: `MTY3NzYzMjE5MiwwMDAwMDAwMGExNjA0OTE5NWMwYzgzMmYxNWU3NTg5NjU0NWQzOWNj`

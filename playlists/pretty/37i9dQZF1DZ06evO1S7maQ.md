@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,009 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,208 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 50 | [Tumbling Dice \- Live](https://open.spotify.com/track/4mn5riACKGOZbADntB95wE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [GRRR Live!](https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2) | 4:53 |
 | 51 | [The Power Of Prayer](https://open.spotify.com/track/0bsFL9VF0BQCIvF2cRn0Sk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 3:36 |
 
-Snapshot ID: `Mjc5NjU2NjAsMDAwMDAwMDAzZGZiM2Q5ZDAzMWNkNDQ5OTJlNWU3MWM0YmU1OGE0Yw==`
+Snapshot ID: `Mjc5NjY5NzgsMDAwMDAwMDA1MjA4ZjkyNjFlOWVkNTBkYzY0ZTE2MTA2MjdjOWY2ZQ==`

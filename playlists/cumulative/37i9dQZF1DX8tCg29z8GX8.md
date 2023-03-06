@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-205 songs - 10 hr 39 min
+206 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Gimme Love](https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Gimme Love](https://open.spotify.com/album/2mzILBdUdQi0KIo61th1k4) | 2:51 | 2023-02-23 |  |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 | 2023-02-24 |
 | [Give Me Love](https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:46 | 2023-02-16 |  |
-| [Great Is He](https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf) | 3:21 | 2023-01-20 |  |
+| [Great Is He](https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf) | 3:21 | 2023-01-20 | 2023-03-06 |
 | [Grinding](https://open.spotify.com/track/0sItsKRwMl82xCtz7oeemH) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Grinding](https://open.spotify.com/album/5FfzLcgWLJPIO6XlH9pLCE) | 2:26 | 2022-08-25 | 2022-10-14 |
 | [H.G.P](https://open.spotify.com/track/18iGUgdPv3j0JAt7dkceip) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [H.G.P](https://open.spotify.com/album/6LF7lz1IEsfRiZaeiz8Msc) | 2:42 | 2022-11-18 | 2023-01-21 |
 | [Happy Day](https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Happy Day](https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk) | 3:32 | 2022-06-09 | 2022-08-07 |
@@ -208,6 +208,7 @@
 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 | 2023-01-27 |  |
 | [When I See You](https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [When I See You](https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0) | 2:39 | 2022-09-09 | 2023-02-01 |
 | [Who Is Your Guy?](https://open.spotify.com/track/50Fnn6VgRmPXcCKKBFUxm0) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/3l2DGZPCX1tkzV3O9tqiq4) | 2:40 | 2023-02-03 |  |
+| [Who Is Your Guy? \- Remix](https://open.spotify.com/track/5ZUMDhlhC6GmjQKdAkUxrh) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Who Is Your Guy? \(Remix\)](https://open.spotify.com/album/0ASoti9sg1ffkaHutFhATQ) | 3:31 | 2023-03-03 |  |
 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 | 2022-10-13 |  |
 | [Yenda](https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo) | [Kay T](https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr), [MEDIKAL](https://open.spotify.com/artist/1HCBjtUbCVE4NasMBXZwuE), [Qv](https://open.spotify.com/artist/4RCEQmuBR1ZdMNJjZrNMl8) | [Yenda](https://open.spotify.com/album/1baZLRUcO2HmEXWrxoG5Mp) | 3:51 | 2022-09-30 | 2022-10-31 |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-10-01 |

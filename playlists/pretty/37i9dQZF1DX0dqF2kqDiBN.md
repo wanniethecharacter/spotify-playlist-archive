@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dqF2kqDiBN.md) - [plain]
 
 > Blues with a lighter, up\-beat feel\. Cover: Taj Mahal & Keb' Mo'
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,429 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,445 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dqF2kqDiBN.md) - [plain]
 | 26 | [Travelin' Man](https://open.spotify.com/track/2SXScqW8fvm22mCNtQktME) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 2:51 |
 | 27 | [Under the Falling Sky \- 2008 Remaster](https://open.spotify.com/track/2wRnK8Rmj4Q7ht4ywSE8lS) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:43 |
 | 28 | [Get Yourself Some](https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Say the Word](https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb) | 3:00 |
-| 29 | [Easy Street](https://open.spotify.com/track/1JbHMSiZowEjVrRhXh3XjZ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:17 |
+| 29 | [Easy Street](https://open.spotify.com/track/6Xrax57hlpq52OARjKFXFo) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 2:17 |
 | 30 | [Give Me Time](https://open.spotify.com/track/19qtOi2KTItS9Jp4w5BseK) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:17 |
 | 31 | [Love Song](https://open.spotify.com/track/1YpPzjF3LgUr6htLKCnVei) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:03 |
 | 32 | [Soul](https://open.spotify.com/track/3JD3Mtjo7c05NZNDCPXh37) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 5:59 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dqF2kqDiBN.md) - [plain]
 | 44 | [Hooked On Your Love](https://open.spotify.com/track/2BNHEQAzAJAkWr2555Hsbp) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Hooked On Your Love](https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1) | 4:45 |
 | 45 | [World Of Love](https://open.spotify.com/track/78E77b3kMt9NQAlcuqZzIT) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [Jump Start](https://open.spotify.com/album/06UMQMztopw3oyrWF5RjHz) | 4:00 |
 
-Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMDRjMmM1YjEzOTNmOTExYWQ1ZjRhN2MzZjRkNTI4YzBi`
+Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMDc5OWZhOTUyZTk3NzA2MjBiODI5OGI1OWExZDMxZGZm`

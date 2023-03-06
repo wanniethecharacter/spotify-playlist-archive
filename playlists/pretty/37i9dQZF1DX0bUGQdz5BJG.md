@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Kassi Ashton
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,727 likes - 149 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,789 likes - 149 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 7 | [Wide Open](https://open.spotify.com/track/0YShQ5alIoF9aSPUtWUryx) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Wide Open](https://open.spotify.com/album/26t4uVVqQ4noVrMQPt3lAl) | 3:30 |
 | 8 | [Don’t Mess With Exes](https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Don’t Mess With Exes](https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956) | 3:27 |
 | 9 | [Hope You're Happy](https://open.spotify.com/track/1b428LIjkiLcHOZYaSWzh1) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Hope You're Happy](https://open.spotify.com/album/50hbDCBLVacouxQiKbMHoJ) | 3:32 |
-| 10 | [Another Round \(feat\. Tayler Holder\)](https://open.spotify.com/track/4PDVSGSRqigxcgtlTSY8vf) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh), [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Another Round \(feat\. Tayler Holder\)](https://open.spotify.com/album/02mXeEgY8dVgrN7dGR04qU) | 2:56 |
+| 10 | [Another Round](https://open.spotify.com/track/4PDVSGSRqigxcgtlTSY8vf) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh), [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Another Round](https://open.spotify.com/album/02mXeEgY8dVgrN7dGR04qU) | 2:56 |
 | 11 | [Close as I'll get to you](https://open.spotify.com/track/62Rvb6YURYiTeEQrI6hcoO) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Close as I'll get to you](https://open.spotify.com/album/3DP6NtV8F34x5HHem6PSGS) | 3:30 |
 | 12 | [Motel On the Moon](https://open.spotify.com/track/1s6081YVpuKRS4cZp5zyne) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Motel On the Moon](https://open.spotify.com/album/6Pbmoox4o7GVCyQDkgOWaX) | 3:58 |
 | 13 | [Wolves Cry](https://open.spotify.com/track/39SzkM3x0JGY6b7HV0wi4E) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Wolves Cry](https://open.spotify.com/album/6C6MV8pVQJLMtXGIjSlRtC) | 2:43 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-557 songs - 1 day 8 hr 43 min
+558 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Leave The Door Open](https://open.spotify.com/track/1LPSkqVhWVRUkKE03YUkpB) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 4:02 | 2021-11-14 | 2021-12-10 |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-03-27\* | 2021-11-09 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-25 | 2022-10-09 |
-| [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:34 | 2022-10-09 |  |
+| [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:34 | 2022-10-09 | 2023-03-06 |
 | [Lemonade](https://open.spotify.com/track/6txVOdSbg928oeGhlVUrdK) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:10 | 2021-09-19 | 2021-09-25 |
 | [Life Goes On](https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:27 | 2021-05-23 | 2021-05-30 |
 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 | 2022-06-11 | 2023-01-12 |
@@ -388,6 +388,7 @@
 | [Yun \(with Erykah Badu\)](https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:53 | 2022-12-03 | 2022-12-05 |
 | [กลับก่อนนะ \(GOODBYE\)](https://open.spotify.com/track/7EtCnq7brD1RU8ldqKWB0I) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [กลับก่อนนะ \(GOODBYE\)](https://open.spotify.com/album/2507HhYDLaRcCcJMX7lh8C) | 4:00 | 2022-02-04 | 2022-04-29 |
 | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/track/1MEYfWVtU338815OD0ixDp) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/album/2iHkmf0YTr5VtbEI8R23UH) | 3:28 | 2022-10-05 | 2023-01-27 |
+| [กลิ่นดอกไม้](https://open.spotify.com/track/5OaXaynJZgklXEwzhouey5) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [กลิ่นดอกไม้](https://open.spotify.com/album/1ipMHOoVycUlbnkNMBuWvl) | 3:52 | 2023-03-05 |  |
 | [กอดได้ไหม](https://open.spotify.com/track/4hccrJgNG1BwPa3CWw4NNg) | [UrboyTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:29 | 2021-03-27\* | 2021-05-03 |
 | [กักตัว](https://open.spotify.com/track/2ozCc0MSm3ybXugQqfnKOn) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [กักตัว](https://open.spotify.com/album/19nOIqVWJw0EksLVbpWo5x) | 3:33 | 2021-05-30 | 2021-07-11 |
 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/5AukYCDfrtIPvlqG6ZsFR9) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/3iaCbQ38BeeaqKFLrGXeuE) | 3:41 | 2021-10-17 | 2021-12-04 |

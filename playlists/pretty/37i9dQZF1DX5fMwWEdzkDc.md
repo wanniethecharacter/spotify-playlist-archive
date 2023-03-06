@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,037 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,064 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 86 | [Hot Stuff](https://open.spotify.com/track/0mBqZHt102BjZ6Rb6EQJ2a) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [My Fair Lady \(Original Television Soundtrack\)](https://open.spotify.com/album/6IPH808fsWagTBK9SusndW) | 3:41 |
 | 87 | [Crazy \(feat.Eric\)](https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn) | [Son Dam Bi](https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU), [Eric](https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m) | [Son Dam Bi Mini Album vol\. 2](https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL) | 4:01 |
 | 88 | [Snow Prince](https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [SS501 \(Single\) 2집](https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq) | 3:24 |
-| 89 | [거짓말 Pt\. 1](https://open.spotify.com/track/0jH5fSIHvf8bG0QbVZ4NlM) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [거짓말](https://open.spotify.com/album/4oMBjLj06m5BzRVd5PB3b5) | 3:46 |
+| 89 | [안녕이란 말 대신](https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [N001](https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS) | 3:40 |
 | 90 | [When I Can't Sing \(내가 노래를 못해도\)](https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [SE7EN New Mini Album](https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI) | 3:55 |
-| 91 | [안녕이란 말 대신](https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [N001](https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS) | 3:40 |
+| 91 | [거짓말 Pt\. 1](https://open.spotify.com/track/0jH5fSIHvf8bG0QbVZ4NlM) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [거짓말](https://open.spotify.com/album/4oMBjLj06m5BzRVd5PB3b5) | 3:46 |
 | 92 | [널 사랑하겠어](https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:35 |
 | 93 | [김밥](https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [The Jadu 3](https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4) | 3:45 |
 | 94 | [그녀가 웃잖아....](https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [그녀가 웃잖아](https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 99 | [Tell Me One More Time](https://open.spotify.com/track/3aQAxjZAl2lhXD1OISjKuQ) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv), [장한나](https://open.spotify.com/artist/6hIrFuDMvnr5nNGqmwrB3V) | [Tell Me One More Time](https://open.spotify.com/album/0EMCROFAU9wlGTzdSycGHO) | 3:15 |
 | 100 | [MY LOVE](https://open.spotify.com/track/2q0vsC4RXXGtTsyAm6qHP1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [LEE SEUNG CHUL\-THE BEST LIVE \(WORLD TOUR\)](https://open.spotify.com/album/00KwiwUMAW7d13SUOgQhmN) | 3:04 |
 
-Snapshot ID: `MTYxNTQ3OTk3MSwwMDAwMDAwMDE2ODliNDg0ODQ2NDY1MzVjNDJkZDczYzEzYjIwYWE1`
+Snapshot ID: `MTYxNTQ3OTk3MSwwMDAwMDAwMDU5MGQxZmQ5Y2Q3MjYwMzg3YTY1MzkzMWY4ZWNmYWEx`

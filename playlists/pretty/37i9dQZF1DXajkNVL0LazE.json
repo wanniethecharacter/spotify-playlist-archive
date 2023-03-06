@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 51091,
+  "num_followers": 51252,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDQ3YTY3YjYwNzYxMzhjZGZhYmVjYTJkZDc0OTJjNGFi",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDA4NWE0MmI4MjA2ZjcwNjg1ZjUyMTIwZDhlZTllMGNh",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Furr",
-        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
-      },
-      "artists": [
-        {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
-        }
-      ],
-      "duration_ms": 247515,
-      "name": "Furr",
-      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Greatest",
         "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 202560,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Furr",
+        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "duration_ms": 247515,
+      "name": "Furr",
+      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Alas I Cannot Swim",
-        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 209026,
       "name": "I'd Rather Dance With You",
       "url": "https://open.spotify.com/track/119MXpXxpY20WUkDIdE6U4"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Alas I Cannot Swim",
+        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Mushaboom",
-      "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Trials of Van Occupanther",
         "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 442106,
       "name": "Farewell Transmission",
       "url": "https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Mushaboom",
+      "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Mountain Rock",
-        "url": "https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy"
-      },
-      "artists": [
-        {
-          "name": "Dear Nora",
-          "url": "https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5"
-        }
-      ],
-      "duration_ms": 91320,
-      "name": "The Lonesome Border, Pt. 1",
-      "url": "https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "All Hail West Texas (Remastered)",
         "url": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 156960,
       "name": "The Best Ever Death Metal Band in Denton",
       "url": "https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Mountain Rock",
+        "url": "https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy"
+      },
+      "artists": [
+        {
+          "name": "Dear Nora",
+          "url": "https://open.spotify.com/artist/1imEozQrzLhh9b8LOZESx5"
+        }
+      ],
+      "duration_ms": 91320,
+      "name": "The Lonesome Border, Pt. 1",
+      "url": "https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Woke On A Whaleheart",
-        "url": "https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 335800,
-      "name": "Sycamore",
-      "url": "https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Cassadaga",
         "url": "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 256262,
       "name": "Four Winds",
       "url": "https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Woke On A Whaleheart",
+        "url": "https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 335800,
+      "name": "Sycamore",
+      "url": "https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT"
     },
     {
       "added_at": "2022-02-04 22:01:34",

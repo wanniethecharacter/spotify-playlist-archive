@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,783 likes - 28 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,815 likes - 28 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 6 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
 | 7 | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/track/2c8XhH3CD3Ztja2MIBxILf) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/album/2PH99JWwjb865QK15qvO0m) | 2:18 |
 | 8 | [Unh Unh](https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:49 |
-| 9 | [Blessed](https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Blessed](https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v) | 3:36 |
-| 10 | [Tomorrow](https://open.spotify.com/track/7v6B1kRUvNbkVGfqSkrwuS) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Tomorrow](https://open.spotify.com/album/358jvrijvWrD1zDXk8uL3G) | 1:53 |
+| 9 | [Tomorrow](https://open.spotify.com/track/7v6B1kRUvNbkVGfqSkrwuS) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Tomorrow](https://open.spotify.com/album/358jvrijvWrD1zDXk8uL3G) | 1:53 |
+| 10 | [Blessed](https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Blessed](https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v) | 3:36 |
 | 11 | [Nut Quick](https://open.spotify.com/track/0WEpjj9YZTbvvIzNiRBAtW) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Nut Quick](https://open.spotify.com/album/4dxjlUOxRmGsC6ss1H5VWY) | 2:38 |
 | 12 | [No More Love](https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:10 |
 | 13 | [JUST SAY THAT \(feat\. GLORILLA\)](https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [CRUNKSTAR](https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV) | 3:35 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 27 | [R\-A\-T\-C\-H\-E\-T \(FNF FREESTYLE\) \- Remix](https://open.spotify.com/track/5CbtJ0GNYO7wlybagnOLrg) | [Nosym](https://open.spotify.com/artist/0nKzbENsP5VM3J28NTNxQ4), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [R\-A\-T\-C\-H\-E\-T \(FNF FREESTYLE\) \[Remix\]](https://open.spotify.com/album/2cMuNulihFoYJFPwWaNHtr) | 2:30 |
 | 28 | [Afford Me](https://open.spotify.com/track/6zNYUZJGEs70HIH40SFhYX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [JaTavia Akiaa](https://open.spotify.com/artist/2zanO9oR7cBRKmEdi4Gzll) | [Afford Me](https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ) | 3:29 |
 
-Snapshot ID: `Mjc5NjU2NTksMDAwMDAwMDAwYzgxNDJiNDA1YmVhZGZjOTdkNTdiNjVjMmJkNDY2ZQ==`
+Snapshot ID: `Mjc5NjY5NzgsMDAwMDAwMDA0MDdkODM4NDRiMWMyYTNkYzliOGQ5ZTFjODY4NGVjNg==`

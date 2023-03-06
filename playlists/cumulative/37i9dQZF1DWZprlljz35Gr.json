@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 361306,
       "name": "K.I.S.S. - Remix",
       "url": "https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ"
@@ -746,6 +746,24 @@
       "duration_ms": 243973,
       "name": "Midnight Dream",
       "url": "https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul"
+    },
+    {
+      "album": {
+        "name": "Hard Grind",
+        "url": "https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB"
+      },
+      "artists": [
+        {
+          "name": "Little Axe",
+          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243986,
+      "name": "Midnight Dream",
+      "url": "https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0"
     },
     {
       "album": {

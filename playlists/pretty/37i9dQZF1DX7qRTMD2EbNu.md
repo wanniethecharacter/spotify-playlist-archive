@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY?si=UGie09nDRpuCxr7RKmgPRw"> Kwesi Arthur </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,785 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,831 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 34 | [Green Means Go](https://open.spotify.com/track/3GSr6iTdh5lLjVyC67qCMk) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Logos II](https://open.spotify.com/album/5xnNMlDkuF2Ocy2RJ1M7Gp) | 2:40 |
 | 35 | [No Fugazy](https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Fugazy](https://open.spotify.com/album/25mKwZuJQ0eD1Rl9BJ1WME) | 2:58 |
 | 36 | [Stand Firm](https://open.spotify.com/track/0YcxvwO8PUGQgxUER2C2bM) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Stand Firm](https://open.spotify.com/album/3sr8Z6gGLvnzOKXnejZs3r) | 2:12 |
-| 37 | [ON TEN](https://open.spotify.com/track/4Sbtvgkqpay8iMF6xDKZzF) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg), [DRILL SZN](https://open.spotify.com/artist/5XFxkRmijQ1JmSHmGSBSzj) | [ON TEN](https://open.spotify.com/album/3PmvDqSRCk9UkW94hFFvr4) | 1:47 |
+| 37 | [ON TEN](https://open.spotify.com/track/4Sbtvgkqpay8iMF6xDKZzF) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg), [DRILL SZN](https://open.spotify.com/artist/5XFxkRmijQ1JmSHmGSBSzj) | [ON TEN](https://open.spotify.com/album/3PmvDqSRCk9UkW94hFFvr4) | 1:46 |
 | 38 | [Bang](https://open.spotify.com/track/6tihOaexrFJpNs1WfhN7Dg) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Joey B](https://open.spotify.com/artist/4yd9pnjGwTVh3azJCoJrzT) | [Acheampong Boys](https://open.spotify.com/album/0XdOVWE2y2A5XOGpTdr6pZ) | 2:46 |
 | 39 | [ANADWO](https://open.spotify.com/track/0yJwoXiQgvWGRI0zC4fBkc) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Black Sheriff](https://open.spotify.com/artist/1zNmTgU8HEjyvdD1UDpOi9), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP) | [ANADWO](https://open.spotify.com/album/1zBWBi9V1zJ1wU6yKCMC8b) | 2:43 |
 | 40 | [Greedy](https://open.spotify.com/track/2xIdaOSJRVLepIiuRaWzeT) | [Delis](https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP), [Gidochi](https://open.spotify.com/artist/1PzQSg9P40FrD2Z92SQMa6) | [Greedy](https://open.spotify.com/album/7ndvhcJS8tJtLsDlOIwik9) | 2:51 |

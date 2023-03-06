@@ -1,12 +1,12 @@
 {
   "description": "Put a spring in your step with these mood boosting tracks.",
-  "num_followers": 1487162,
+  "num_followers": 1488010,
   "original_name": "Fun Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc1MDgxNCwwMDAwMDAwMDQ0MDNjNmJiYWE2NTBhNmVhNGQ2YzhlOTUxMTU4MTk2",
+  "snapshot_id": "MTY3Nzc1MDgxNCwwMDAwMDAwMDNmMmE3ZjYxNGRiN2JjOGIxZDFmYzMyMDY3ZjZhZDNj",
   "tracks": [
     {
       "added_at": "2023-02-17 11:17:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2023-02-17 11:17:00",

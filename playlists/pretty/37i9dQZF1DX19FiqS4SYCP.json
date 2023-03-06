@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 141581,
+  "num_followers": 141587,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMGMyY2Y0YjI4NzJjNjM1ZWU5NDY0MjczOTMwZGE4YjUz",
+  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMDkwOTA4ZmY3Zjk0ZTFmNWFiMGYwODRiNGY5YTE3ZGY1",
   "tracks": [
     {
       "added_at": "2023-01-27 17:40:01",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Escapate",
-        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
-      },
-      "artists": [
-        {
-          "name": "Mia",
-          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
-        }
-      ],
-      "duration_ms": 185232,
-      "name": "Escapate",
-      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Me Dec\u00edas",
         "url": "https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 197965,
       "name": "Me Dec\u00edas",
       "url": "https://open.spotify.com/track/4i827y4gh3TA5mgFhCVDov"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Escapate",
+        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
+      },
+      "artists": [
+        {
+          "name": "Mia",
+          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
+        }
+      ],
+      "duration_ms": 185232,
+      "name": "Escapate",
+      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Nunca Me Imagine",
-        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
-      },
-      "artists": [
-        {
-          "name": "Adaly",
-          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
-        }
-      ],
-      "duration_ms": 167507,
-      "name": "Nunca Me Imagine",
-      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Porque Sera",
         "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Acu\u00e9rdate",
-        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
+        "name": "Nunca Me Imagine",
+        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
       },
       "artists": [
         {
-          "name": "Miguel Hernandez",
-          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
+          "name": "Adaly",
+          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
         }
       ],
-      "duration_ms": 182080,
-      "name": "Acu\u00e9rdate - Radio Edit",
-      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
+      "duration_ms": 167507,
+      "name": "Nunca Me Imagine",
+      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -711,6 +695,22 @@
       "duration_ms": 205438,
       "name": "Final De Tu Amor",
       "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Acu\u00e9rdate",
+        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
+      },
+      "artists": [
+        {
+          "name": "Miguel Hernandez",
+          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Acu\u00e9rdate - Radio Edit",
+      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
     },
     {
       "added_at": "2023-01-27 17:40:01",

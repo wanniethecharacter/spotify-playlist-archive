@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > selena all the way baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,227 likes - 634 songs - 1 day 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,509 likes - 634 songs - 1 day 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

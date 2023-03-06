@@ -3135,6 +3135,32 @@
     },
     {
       "album": {
+        "name": "Hungry Heart ft. Hayley Kiyoko",
+        "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182918,
+      "name": "Hungry Heart ft. Hayley Kiyoko",
+      "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
+    },
+    {
+      "album": {
         "name": "Fallen Embers (Deluxe Version)",
         "url": "https://open.spotify.com/album/0KgcBsDY5uFt4EaG3roI3x"
       },
@@ -4554,6 +4580,32 @@
       "duration_ms": 197142,
       "name": "Mercy (2022 Edit)",
       "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
+    },
+    {
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153109,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy"
     },
     {
       "album": {
@@ -7460,7 +7512,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 191200,
       "name": "Tell Me Why - Maddix Remix",
       "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C"
@@ -8404,7 +8456,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 192000,
       "name": "Wish It Was You",
       "url": "https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd"

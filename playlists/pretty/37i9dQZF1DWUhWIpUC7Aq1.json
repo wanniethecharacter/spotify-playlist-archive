@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 86326,
+  "num_followers": 86437,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMGRmMTU1M2I0N2UyZWY1M2I5MDQ0N2IzNWZlNTIzN2Zj",
+  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMGNjZWZiNTNjYzg4NGI2MTJhZmNjYmRkYmI1N2UwN2Jj",
   "tracks": [
     {
       "added_at": "2022-08-26 20:04:38",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "In the Aeroplane Over the Sea",
-        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
-      },
-      "artists": [
-        {
-          "name": "Neutral Milk Hotel",
-          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "In the Aeroplane Over the Sea",
-      "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 173040,
       "name": "God Only Knows - Mono / 1997 Remastered",
       "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "In the Aeroplane Over the Sea",
+        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "In the Aeroplane Over the Sea",
+      "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "For Emma",
-      "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 238413,
       "name": "The Only Living Boy in New York",
       "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Blood Bank",
-      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 215293,
       "name": "America",
       "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "For Emma",
+      "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -675,38 +675,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "The Moldy Peaches",
-        "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
-      },
-      "artists": [
-        {
-          "name": "The Moldy Peaches",
-          "url": "https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "Anyone Else But You",
-      "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Yoshimi Battles the Pink Robots",
         "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
@@ -723,6 +691,22 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
+        "name": "The Moldy Peaches",
+        "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
+      },
+      "artists": [
+        {
+          "name": "The Moldy Peaches",
+          "url": "https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "Anyone Else But You",
+      "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 219920,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Mushaboom",
-      "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Louder Than Bombs",
         "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 112706,
       "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
       "url": "https://open.spotify.com/track/1oA0tDRFjY5xoNDXuMBGGA"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Mushaboom",
+      "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "The Pains of Being Pure at Heart",
-        "url": "https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI"
-      },
-      "artists": [
-        {
-          "name": "The Pains Of Being Pure At Heart",
-          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
-        }
-      ],
-      "duration_ms": 199999,
-      "name": "A Teenager in Love",
-      "url": "https://open.spotify.com/track/03h8yG6LxpmSLgeSJXQDeu"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "The Sunlandic Twins",
         "url": "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 210840,
       "name": "I Was Never Young",
       "url": "https://open.spotify.com/track/4E0aFRH5Nr8cIPm1CnqTvG"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "The Pains of Being Pure at Heart",
+        "url": "https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI"
+      },
+      "artists": [
+        {
+          "name": "The Pains Of Being Pure At Heart",
+          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+        }
+      ],
+      "duration_ms": 199999,
+      "name": "A Teenager in Love",
+      "url": "https://open.spotify.com/track/03h8yG6LxpmSLgeSJXQDeu"
     },
     {
       "added_at": "2022-08-26 20:04:38",

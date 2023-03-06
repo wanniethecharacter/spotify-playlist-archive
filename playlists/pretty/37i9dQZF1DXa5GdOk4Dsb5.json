@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 89888,
+  "num_followers": 90066,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY1MDU0MywwMDAwMDAwMDY2NDYyN2VmZWY2ZjA2NTM0YTc2MTUxNjc1YzRiMmFl",
+  "snapshot_id": "MTY3NjY1MDU0MywwMDAwMDAwMDc1ZDQ0MjlmNDdmM2UwN2IxY2VjZTM1YTZmOGIwZDhj",
   "tracks": [
     {
       "added_at": "2023-02-14 17:37:19",
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
-      "added_at": "2023-03-05 01:33:08",
+      "added_at": "2023-03-06 00:45:32",
       "album": {
         "name": "Desarmada - Spotify Singles",
         "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
@@ -151,22 +151,18 @@
     {
       "added_at": "2023-02-14 17:37:19",
       "album": {
-        "name": "Solita (En Vivo)",
-        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
+        "name": "As\u00ed Es Esto",
+        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 215984,
-      "name": "Solita (En Vivo)",
-      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
+      "duration_ms": 186360,
+      "name": "El Precio De La Soledad",
+      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
     },
     {
       "added_at": "2023-02-14 17:37:19",
@@ -223,18 +219,22 @@
     {
       "added_at": "2023-02-14 17:37:19",
       "album": {
-        "name": "As\u00ed Es Esto",
-        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
+        "name": "Solita (En Vivo)",
+        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 186360,
-      "name": "El Precio De La Soledad",
-      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
     },
     {
       "added_at": "2023-02-14 17:37:19",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-02-14 17:37:19",
       "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+    },
+    {
+      "added_at": "2023-02-14 17:37:19",
+      "album": {
         "name": "Las Locuras M\u00edas",
         "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 225213,
       "name": "Las Locuras M\u00edas",
       "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
-    },
-    {
-      "added_at": "2023-02-14 17:37:19",
-      "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "Por Mujeres Como T\u00fa",
-      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
     },
     {
       "added_at": "2023-02-14 17:37:19",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-02-14 17:37:19",
       "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
+    },
+    {
+      "added_at": "2023-02-14 17:37:19",
+      "album": {
         "name": "Me Bebi Tu Recuerdo",
         "url": "https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 222285,
       "name": "Guaro - Remix",
       "url": "https://open.spotify.com/track/3PmqejsYxlhII2zo7zXtQ8"
-    },
-    {
-      "added_at": "2023-02-14 17:37:19",
-      "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
     },
     {
       "added_at": "2023-02-14 17:37:19",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-02-14 17:37:19",
       "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
+    },
+    {
+      "added_at": "2023-02-14 17:37:19",
+      "album": {
         "name": "Aventurero",
         "url": "https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 252440,
       "name": "Si Quieres",
       "url": "https://open.spotify.com/track/3E4fIAY3BmI6ZzMaJ3pr0j"
-    },
-    {
-      "added_at": "2023-02-14 17:37:19",
-      "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
     },
     {
       "added_at": "2023-02-14 17:37:19",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-02-14 17:37:19",
       "album": {
-        "name": "Cuando Nadie Ve",
-        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
-      },
-      "artists": [
-        {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
-    },
-    {
-      "added_at": "2023-02-14 17:37:19",
-      "album": {
         "name": "El Rey del Despecho - Internacional",
         "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 219559,
       "name": "Sobrevivir\u00e9",
       "url": "https://open.spotify.com/track/7q5aOEf299r3G9Xj27UE0H"
+    },
+    {
+      "added_at": "2023-02-14 17:37:19",
+      "album": {
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "added_at": "2023-02-14 17:37:19",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-02-14 17:37:19",
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 180165,
-      "name": "Muri\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
-    },
-    {
-      "added_at": "2023-02-14 17:37:19",
-      "album": {
         "name": "Dulce Pecado",
         "url": "https://open.spotify.com/album/4uKTBb1RCAHdxo5kGeT3q3"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 175456,
       "name": "Dulce Pecado",
       "url": "https://open.spotify.com/track/6dESHIzqYPl9TXwjNvpWY7"
+    },
+    {
+      "added_at": "2023-02-14 17:37:19",
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 180165,
+      "name": "Muri\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
     },
     {
       "added_at": "2023-02-14 17:37:19",
@@ -1623,22 +1623,18 @@
     {
       "added_at": "2023-02-14 17:37:19",
       "album": {
-        "name": "La Conquista",
-        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
+        "name": "De Pura Rabia",
+        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
       },
       "artists": [
         {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 186378,
-      "name": "La Conquista",
-      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
+      "duration_ms": 187397,
+      "name": "De Pura Rabia",
+      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
     },
     {
       "added_at": "2023-02-14 17:37:19",
@@ -1659,18 +1655,22 @@
     {
       "added_at": "2023-02-14 17:37:19",
       "album": {
-        "name": "De Pura Rabia",
-        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
+        "name": "La Conquista",
+        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
       },
       "artists": [
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 187397,
-      "name": "De Pura Rabia",
-      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
+      "duration_ms": 186378,
+      "name": "La Conquista",
+      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
     },
     {
       "added_at": "2023-02-14 17:37:19",

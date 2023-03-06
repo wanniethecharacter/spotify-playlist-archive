@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Raimundo el Canastero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,718 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,719 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 18 | [si mai ens haguéssim conegut](https://open.spotify.com/track/0yqYkN8c8MBqlgpVWiiUzb) | [roserona](https://open.spotify.com/artist/50Gz3aUc4gTUXQYskqIWza) | [si mai ens haguéssim conegut](https://open.spotify.com/album/1RHAaN2DRw15zu6WNDPihO) | 2:00 |
 | 19 | [va a doler](https://open.spotify.com/track/2q30dCgBiqV4jAvePxVI1h) | [Claudia Allmang](https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh) | [UN HUEQUITO EN MI MENTE](https://open.spotify.com/album/2AHqLb4curifAKRzEtgENl) | 2:09 |
 | 20 | [Un viento de amnesia](https://open.spotify.com/track/4GWcRyNfjTawfSSNF1nBOd) | [Vermú](https://open.spotify.com/artist/7cXnpdXUUN67Vr3niD2dAi) | [Un viento de amnesia](https://open.spotify.com/album/79e0Cbkt1dWXUWEYoSKZTN) | 3:31 |
-| 21 | [Cienmásuno](https://open.spotify.com/track/1dczyqiqhdSTX62OKvWsOI) | [Los Manises](https://open.spotify.com/artist/2PcGHnMXzeRbAsAZEIGLIh) | [Cienmásuno](https://open.spotify.com/album/2UrUtlb1OTc2moIX9tEUki) | 3:51 |
+| 21 | [Cienmásuno](https://open.spotify.com/track/5P9WjD2rH5l91AzFssHU8B) | [Los Manises](https://open.spotify.com/artist/2PcGHnMXzeRbAsAZEIGLIh) | [Todas Son Correctas](https://open.spotify.com/album/5deSxwaaBVnFHSOMaLWqaB) | 3:51 |
 | 22 | [Boviscopofobia](https://open.spotify.com/track/0c0nfqSnDQIOKkNa1vZ89j) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [Boviscopofobia](https://open.spotify.com/album/6cBa51mAyeqPtK9zOcE3tl) | 2:47 |
 | 23 | [Un Amor de Verano](https://open.spotify.com/track/3jyjPYmDQoUVlWt3eGahR4) | [BERNARDA](https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW) | [Un Amor de Verano](https://open.spotify.com/album/2rIlDjDimIZM4U5epKlrvb) | 3:30 |
 | 24 | [La vida es pa mi](https://open.spotify.com/track/4cKf3wfoGDW9r2IKYATENs) | [Nestor Sarabia](https://open.spotify.com/artist/436Js26Qvup8G3tV2cpfy0) | [La vida es pa mi](https://open.spotify.com/album/49QXh23UWUYWtK6HaLQDMw) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Tu Estrella](https://open.spotify.com/track/65lYImuXhcPB2QkWb3xcQb) | [Entalpía](https://open.spotify.com/artist/2ttOCwacWTfLos1qSfWZDg), [TTM Prod](https://open.spotify.com/artist/5aTHRHzjxamo4oDzfyLG2y) | [Tu Estrella](https://open.spotify.com/album/6nZBpjlsqlrzl2YdNiVbVb) | 3:06 |
 | 50 | [Pansequito](https://open.spotify.com/track/1wjB84uPM55JuiBlm9j9T9) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d), [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu) | [Pansequito](https://open.spotify.com/album/2OYFKPnrFZdZczJAuENE61) | 3:17 |
 
-Snapshot ID: `MTY3NzYyNTIwMCwwMDAwMDAwMDE5N2M2YjllZDIwN2M0N2Y1ZGRkOTQ4ZGJmMzIwNTE3`
+Snapshot ID: `MTY3NzYyNTIwMCwwMDAwMDAwMDE2ZTc0MjAyNzU5MjIzNmM3ZGQxZDQxNzMxMGI4YmEw`

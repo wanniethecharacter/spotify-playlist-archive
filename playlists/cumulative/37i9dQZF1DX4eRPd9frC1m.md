@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-260 songs - 14 hr 17 min
+261 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Close To Hell](https://open.spotify.com/track/6tSa72Ivd9ltEV9qJsQTfw) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Goja](https://open.spotify.com/artist/2Gy4HwdmVmRPWDBQO3lw3d) | [Close To Hell](https://open.spotify.com/album/5L0lzeDFIl1qMSO4T0sZBC) | 3:18 | 2021-11-19 | 2022-01-08 |
 | [Control](https://open.spotify.com/track/1YVPBX1nfpWOlp6rSrg0C4) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Control](https://open.spotify.com/album/6UDJu02Yx57vyNTqAfEMr7) | 2:57 | 2021-11-19 | 2022-01-08 |
 | [Crossfire](https://open.spotify.com/track/1cScOu41mPgWKFzBXbBaSS) | [Alpha AF](https://open.spotify.com/artist/1avz8uLnB3bKQvDnHQko5o) | [Crossfire](https://open.spotify.com/album/3DOZibhKgdUYQ9qBzQcO5w) | 3:28 | 2021-11-19 | 2022-01-08 |
+| [DAMN](https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7) | 3:40 | 2023-02-24 |  |
 | [DAMN \- Bonus Track](https://open.spotify.com/track/3sGJmCUfZKbbjtZ24eaepn) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:40 | 2021-11-19 | 2023-02-25 |
 | [damn Right Pt\. 2](https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [damn Right Pt\. 2](https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4) | 3:06 | 2021-11-19 |  |
 | [dashstar\* \- Yellow Claw Trap Edit](https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [dashstar\* \(Yellow Claw Trap Edit\)](https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62) | 2:32 | 2023-01-06 |  |
@@ -91,7 +92,7 @@
 | [FOOTWORK](https://open.spotify.com/track/1LDAyB24s26kvMt6hXFBks) | [Dropwizz](https://open.spotify.com/artist/3t4Po0hp4Vi8XqKipK3WJQ) | [FOOTWORK](https://open.spotify.com/album/0oi8NQS13uy43aHcy3xSFi) | 3:53 | 2021-11-19 | 2022-01-08 |
 | [Forever](https://open.spotify.com/track/0gWQBwxwQRum86Rx4DaDHL) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Forever](https://open.spotify.com/album/3NkRNGqhU0WONr1ob77DKD) | 3:25 | 2021-11-19 | 2022-01-08 |
 | [FUCK IT UP](https://open.spotify.com/track/5s5Iv5IJ0hz0KDLXi14jRY) | [M?STIC](https://open.spotify.com/artist/0xlnHj0LM8ohKxoVEu56L4), [808GONG](https://open.spotify.com/artist/0JjEnXvT2nZMKYGmkZY5qC), [KEWL JERK](https://open.spotify.com/artist/0OCxBT7jOo0arczn7H4aKT) | [FUCK IT UP](https://open.spotify.com/album/3lnshycm7c7Kv24RpPTXWb) | 2:53 | 2021-11-19 | 2022-01-08 |
-| [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-27 |  |
+| [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-27 | 2023-03-06 |
 | [Gainz](https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU) | [Deadlyft](https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY) | [Gainz](https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr) | 3:53 | 2021-11-19 |  |
 | [Gang Shit](https://open.spotify.com/track/2dDDwAvdVHHNTnfRFzGMgK) | [Dotcom](https://open.spotify.com/artist/3mS6BpiviqsTL1uuYghf3s), [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [Gang Shit](https://open.spotify.com/album/5mQTotzqXAyEpQXiWrXaDV) | 3:20 | 2021-11-19 | 2022-01-08 |
 | [Gassed Up](https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Gassed Up](https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b) | 3:58 | 2022-01-07 |  |

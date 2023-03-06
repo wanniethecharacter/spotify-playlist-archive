@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-283 songs - 18 hr 37 min
+284 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 6:59 | 2022-06-29 |  |
 | [A Sleepin' Bee](https://open.spotify.com/track/6JbvbDMUh0X2seQPxx0Y2n) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [A Sleepin' Bee](https://open.spotify.com/album/5kNzBcZqlr7x4hLt1ugC1p) | 3:42 | 2022-09-29 |  |
 | [A Time For Love](https://open.spotify.com/track/5hlXjAmHmvbLNR169UW394) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [A Time For Love](https://open.spotify.com/album/5VQ209Y2ATo0ehJJbwpSi5) | 3:48 | 2022-09-29 |  |
-| [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2022-06-29 |  |
+| [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2022-06-29 | 2023-03-06 |
 | [Adrift](https://open.spotify.com/track/1bMvqBFGPYsNVRCxYFUkRu) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Adrift](https://open.spotify.com/album/1xbQp1I63p3105CriGuV6n) | 3:46 | 2022-12-23 |  |
 | [After You've Gone](https://open.spotify.com/track/1dtR7BTT8888rsckbuzwod) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [After You've Gone](https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i) | 3:04 | 2022-06-29 |  |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-06-29 |  |
@@ -154,6 +154,7 @@
 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 | 2022-06-29 |  |
 | [Lost In Your Eyes](https://open.spotify.com/track/6LbXoojfOKm6iW4VIztDAT) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 4:02 | 2023-01-19 |  |
 | [Love in the First Degree](https://open.spotify.com/track/69eesFTk1HKajniFSF2Z9n) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Love in the First Degree](https://open.spotify.com/album/489cU8nNEb4pS0bBMjcS00) | 3:12 | 2023-02-16 |  |
+| [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 | 2023-03-02 |  |
 | [Love Is a Many\-Splendored Thing](https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 2:43 | 2022-06-29 |  |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-10-13 |  |
 | [Love Waiting Endlessly](https://open.spotify.com/track/4LqPbk7Mcm48KciBUa88sM) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Common View](https://open.spotify.com/album/0MKZB0Q3tyrI0jtacgtQZF) | 4:35 | 2022-06-29 | 2022-11-27 |

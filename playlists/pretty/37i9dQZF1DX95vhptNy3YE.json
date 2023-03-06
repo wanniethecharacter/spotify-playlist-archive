@@ -1,12 +1,12 @@
 {
   "description": "Orochi e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 185983,
+  "num_followers": 186164,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5MTQ0MCwwMDAwMDAwMDdlMGM4ZDJlNDRhYjg3NzdhNzNhMDNlZWZkNWExZTlm",
+  "snapshot_id": "MTY3Nzc5MTQ0MCwwMDAwMDAwMDU4ZTk5NjEyMDkxNDNiMWJhNjQ0N2Q3NGZkMTAzYzFm",
   "tracks": [
     {
       "added_at": "2023-03-02 21:10:40",
@@ -731,6 +731,30 @@
     {
       "added_at": "2023-03-02 21:10:40",
       "album": {
+        "name": "Nasci Pra Vencer / Sou M\u00e1",
+        "url": "https://open.spotify.com/album/7ad7erETGKaJg6q5i4bIXb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Sou M\u00e1",
+      "url": "https://open.spotify.com/track/34H4IXC9nFhmxYQlFm5PzJ"
+    },
+    {
+      "added_at": "2023-03-02 21:10:40",
+      "album": {
         "name": "Gucci, Prada",
         "url": "https://open.spotify.com/album/2bEgdwaosXzPsnvfKKIYTb"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 184421,
       "name": "Gucci, Prada",
       "url": "https://open.spotify.com/track/6iKT8x1sTotyl1ye0lgD5I"
-    },
-    {
-      "added_at": "2023-03-02 21:10:40",
-      "album": {
-        "name": "Nasci Pra Vencer / Sou M\u00e1",
-        "url": "https://open.spotify.com/album/7ad7erETGKaJg6q5i4bIXb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Sou M\u00e1",
-      "url": "https://open.spotify.com/track/34H4IXC9nFhmxYQlFm5PzJ"
     },
     {
       "added_at": "2023-03-02 21:10:40",

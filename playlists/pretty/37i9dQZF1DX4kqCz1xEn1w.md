@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,182 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,183 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 39 | [What A Beautiful Name \- Live](https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 5:41 |
 | 40 | [Hosanna](https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [All Of The Above](https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D) | 5:30 |
 | 41 | [Set A Fire \- Live](https://open.spotify.com/track/0WFaQNCdmyONO7GIWL8mDZ) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 5:15 |
-| 42 | [Rest On Us \- Live](https://open.spotify.com/track/6TYAbOGCUk4jvJhc8W9QZv) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [Land Of The Living \(Live\)](https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa) | 5:25 |
-| 43 | [Wonderful, Merciful Savior](https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Greatest Hymns, Vol\. 2](https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP) | 3:51 |
+| 42 | [Wonderful, Merciful Savior](https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Greatest Hymns, Vol\. 2](https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP) | 3:51 |
+| 43 | [Rest On Us \- Live](https://open.spotify.com/track/6TYAbOGCUk4jvJhc8W9QZv) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [Land Of The Living \(Live\)](https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa) | 5:25 |
 | 44 | [Better Word \- Single Version](https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67) | 3:22 |
 | 45 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 | 46 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 99 | [Halls Of Heaven \- Live](https://open.spotify.com/track/70TzqOqUzJsZTLilqh9LzX) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Love Has A Name \(Deluxe/Live\)](https://open.spotify.com/album/5acKLBGuSEu7LkrXdG41PA) | 5:06 |
 | 100 | [Endlessly](https://open.spotify.com/track/3JrygX9aQ8rAHoQ0Tsm3cq) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 4:35 |
 
-Snapshot ID: `MTY3NjY5OTcxOSwwMDAwMDAwMGY5YjdhZTM5ZTg4ZWZkMDgyNGMwZDJiZjk4MGNjODU1`
+Snapshot ID: `MTY3NjY5OTcxOSwwMDAwMDAwMGMzOTRhNmZjNjllOTVmMTkxNjY0ZTgwNmI4MmQ2MGRj`

@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 11052,
+  "num_followers": 11059,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDQxOSwwMDAwMDAwMDczZTdmZTg3YmNkODUwMDk4MWUzYzMyZDBlZjBhNjQ5",
+  "snapshot_id": "MTY3NzgzMDQxOSwwMDAwMDAwMDU1YzBlOTJhYjZjNmEzMTU2YzQ4YmJjMjY5ZDBhNjFl",
   "tracks": [
     {
       "added_at": "2023-03-03 08:00:19",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
-        "name": "Fine Wine (ft. Amaarae)",
-        "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
-      },
-      "artists": [
-        {
-          "name": "Kelechief",
-          "url": "https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Fine Wine (ft. Amaarae)",
-      "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 177946,
       "name": "History",
       "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
+        "name": "Fine Wine (ft. Amaarae)",
+        "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
+      },
+      "artists": [
+        {
+          "name": "Kelechief",
+          "url": "https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Fine Wine (ft. Amaarae)",
+      "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/03vkzwvqbc8JQFoURzmqRA"
+      },
+      "artists": [
+        {
+          "name": "Phizbarz",
+          "url": "https://open.spotify.com/artist/07PoOuz1igSIxz9IlHMTX9"
+        },
+        {
+          "name": "J. Brown",
+          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
+        }
+      ],
+      "duration_ms": 139249,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/0sDY8QicmHzSA209oyINBy"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
         "name": "Vanity",
         "url": "https://open.spotify.com/album/2NNV633QV0mNfqRDoFx0q0"
       },
@@ -1359,26 +1379,6 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/03vkzwvqbc8JQFoURzmqRA"
-      },
-      "artists": [
-        {
-          "name": "Phizbarz",
-          "url": "https://open.spotify.com/artist/07PoOuz1igSIxz9IlHMTX9"
-        },
-        {
-          "name": "J. Brown",
-          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
-        }
-      ],
-      "duration_ms": 139249,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/0sDY8QicmHzSA209oyINBy"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
         "name": "BAD 4 ME",
         "url": "https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN"
       },
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
-        "name": "SPACE COWBOY",
-        "url": "https://open.spotify.com/album/6dWdz1zf7BXz9mtNW2tjHX"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        },
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        }
-      ],
-      "duration_ms": 201682,
-      "name": "SPACE COWBOY",
-      "url": "https://open.spotify.com/track/5f68045DHI297ti1WI8qUr"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
         "name": "Somali Rose",
         "url": "https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu"
       },
@@ -1459,6 +1439,22 @@
       "duration_ms": 259673,
       "name": "Somali Rose",
       "url": "https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
+        "name": "4 Play",
+        "url": "https://open.spotify.com/album/3Ms9uKVOdEp42Y9cZeZukQ"
+      },
+      "artists": [
+        {
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 143248,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/3ewBGRjaqmMCkTmyzk3yVw"
     }
   ],
   "unique_name": "Chill Bops",

@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-239 songs - 13 hr 18 min
+240 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Doubts](https://open.spotify.com/track/10Iafk2IS4TyUsfP4C4kPE) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Down Here with You](https://open.spotify.com/album/6WqF77ilKp8ui2RlGIYmAp) | 3:15 | 2021-12-09 | 2022-02-27 |
 | [dustland](https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [dustland](https://open.spotify.com/album/2fFsnUpoimIqQSeaBPGTC2) | 2:41 | 2022-02-26 | 2022-11-27 |
 | [FADED](https://open.spotify.com/track/5gWCNZX5T9aNKOagwUMNQQ) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [OASIS \(Prelude\)](https://open.spotify.com/album/41YLj80mj5GEaNkZnNLpYx) | 3:36 | 2022-03-25 | 2022-04-17 |
-| [Fall In Love](https://open.spotify.com/track/2nJ2lKCSKBUjqrEUlTyi9c) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA), [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [Fall In Love](https://open.spotify.com/album/5BVxHRFGDTzrpeer3z5BHP) | 2:55 | 2022-03-11 |  |
+| [Fall In Love](https://open.spotify.com/track/2nJ2lKCSKBUjqrEUlTyi9c) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA), [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [Fall In Love](https://open.spotify.com/album/5BVxHRFGDTzrpeer3z5BHP) | 2:55 | 2022-03-11 | 2023-03-06 |
 | [Feel Good](https://open.spotify.com/track/3BOcy4WD4qgILGC3D9SyUH) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Feel Good](https://open.spotify.com/album/4O2cQ8Oz8v2TMm7kGXlHfy) | 3:50 | 2021-12-09 |  |
 | [Five Points](https://open.spotify.com/track/1gJZCp9PiRv0oyzmiomMlo) | [Lo & Fozzi](https://open.spotify.com/artist/70Q05jq5O6Y1hKiB8QxjjW) | [Five Points](https://open.spotify.com/album/2YQst9sLvIkUD9ti0UWAp6) | 3:14 | 2021-12-09 | 2022-07-28 |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2021-12-09 |  |
@@ -79,6 +79,7 @@
 | [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 | 2022-06-02 |  |
 | [Follow Me](https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Follow Me](https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq) | 3:03 | 2021-12-09 | 2022-11-13 |
 | [Follow Up](https://open.spotify.com/track/7sxfrgHZkrpl74e7UlJGNH) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Follow Up](https://open.spotify.com/album/7cjTvqHIXbcN0qmNmSfZmO) | 2:48 | 2021-12-09 | 2022-04-20 |
+| [Forever](https://open.spotify.com/track/0d3aVK5p4ULp4r2Nmd7f3C) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Forever](https://open.spotify.com/album/608b83QDjBMRWUyeKuPqHR) | 3:37 | 2023-02-17 |  |
 | [Forrest Glade](https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Forrest Glade](https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r) | 7:17 | 2021-12-09 |  |
 | [Free Spirit](https://open.spotify.com/track/6gJE25UxGpGXv2WC01VCt0) | [Cozy Corner](https://open.spotify.com/artist/43Mi1E2W4bDMqtajienKXY) | [Gratitude](https://open.spotify.com/album/0YuuEP9RnrI3OVtJiug7jr) | 2:33 | 2022-03-25 | 2022-04-21 |
 | [Fugue State](https://open.spotify.com/track/19YsbHChoiVouSEJHuWFxm) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Fugue State](https://open.spotify.com/album/6u4X16JVGz3WBj2x4t6rjg) | 3:25 | 2021-12-09 | 2022-07-28 |
@@ -201,7 +202,7 @@
 | [Sundown](https://open.spotify.com/track/07GHJiyxs9nbOUXuo33DEp) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Sundown](https://open.spotify.com/album/56WWOnVnKXVIPOww1TGvk0) | 2:29 | 2022-06-02 |  |
 | [Sundown](https://open.spotify.com/track/5XIUgxFkVbv2ckJiLUbGlb) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Sundown](https://open.spotify.com/album/2AJg6YLd8FMwIyQbClExND) | 2:29 | 2021-12-09 | 2022-07-29 |
 | [Sunny Cruisin](https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo) | [Marcos Berretini](https://open.spotify.com/artist/5JmI54Dii7SFTo2b5VGJDl) | [Sunny Cruisin](https://open.spotify.com/album/7pAD2HJ6Q0SDx7HNwBcgRw) | 2:40 | 2021-12-09 | 2022-08-02 |
-| [Sunrise](https://open.spotify.com/track/5x1RPNP8Uydtz23MR0T2UG) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Sunrise](https://open.spotify.com/album/5jVu8AJnEQngLJKrcW3mbV) | 3:49 | 2021-12-09 |  |
+| [Sunrise](https://open.spotify.com/track/5x1RPNP8Uydtz23MR0T2UG) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Sunrise](https://open.spotify.com/album/5jVu8AJnEQngLJKrcW3mbV) | 3:49 | 2021-12-09 | 2023-03-06 |
 | [Sunset Memories](https://open.spotify.com/track/23B9GzNM75qjKY60qLEA0P) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Sunset Memories](https://open.spotify.com/album/5KBL6nZZewDKWvZqcHRpsa) | 2:32 | 2023-02-17 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2021-12-09 |  |
 | [Sunsets & Birds](https://open.spotify.com/track/3meIBFSPh9Ub6zloZRFhuQ) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sunsets & Birds](https://open.spotify.com/album/5QG6HT610I43dQBQIIE82v) | 2:28 | 2021-12-09 | 2022-07-29 |
@@ -246,6 +247,6 @@
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-12-09 | 2022-08-06 |
 | [Wonderful People \- Original Mix](https://open.spotify.com/track/40sgR4OCBYNMpE3bQmlqJL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Piano Lessons](https://open.spotify.com/album/0F4jOKzO7GXng1LR31BV0s) | 7:47 | 2021-12-09 |  |
 | [Writings](https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Above](https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I) | 4:47 | 2022-05-20 | 2022-07-29 |
-| [You and You](https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf) | [Mute Surrender](https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE) | [You and You](https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp) | 3:21 | 2021-12-09 | 2022-11-26 |
+| [You and You](https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf) | [Mute Surrender](https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE) | [You and You](https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp) | 3:21 | 2021-12-09 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

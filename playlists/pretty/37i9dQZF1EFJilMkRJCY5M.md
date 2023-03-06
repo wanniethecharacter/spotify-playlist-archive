@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 28 | [Side Of My Heart](https://open.spotify.com/track/1Ek06P8GYs1HF5ePUsW0mx) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Side Of My Heart](https://open.spotify.com/album/23EzioEmU2OX3sZOi6YgJb) | 3:13 |
 | 29 | [Numb](https://open.spotify.com/track/17XexdiAjHvTdNj24ayQle) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [FOSTER](https://open.spotify.com/artist/4wl3djIA2tCPxv3pH7Rs0M) | [Numb](https://open.spotify.com/album/1MSGqY6VGYPektAZVtGosL) | 3:34 |
 | 30 | [I Didn't Love You](https://open.spotify.com/track/0PgPGluNJgg4Tzy9sTmTeq) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [I Didn't Love You](https://open.spotify.com/album/0pdfobBNkrXR21XW204Sws) | 2:59 |
-| 31 | [Mean To Me](https://open.spotify.com/track/0UzuBW8HXoez3hmI1AoN3J) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:01 |
-| 32 | [Someone Else's Heartbreak](https://open.spotify.com/track/4EKvXD76hhYuKAXWokpyRB) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Someone Else's Heartbreak](https://open.spotify.com/album/3xccw93KgxWuesYmkkJsLp) | 3:35 |
+| 31 | [Someone Else's Heartbreak](https://open.spotify.com/track/4EKvXD76hhYuKAXWokpyRB) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Someone Else's Heartbreak](https://open.spotify.com/album/3xccw93KgxWuesYmkkJsLp) | 3:35 |
+| 32 | [Mean To Me](https://open.spotify.com/track/0UzuBW8HXoez3hmI1AoN3J) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:01 |
 | 33 | [nervous](https://open.spotify.com/track/7gacDtNNBGmV4D1ZzjSsHJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [nervous](https://open.spotify.com/album/5vBpXxwiH2nZS3K4mB3Wm5) | 2:58 |
 | 34 | [Hope](https://open.spotify.com/track/096ZnSaLLYkslAd9oVXtp4) | [Texada](https://open.spotify.com/artist/39PgoLIR1mXfy0AktyYumn) | [Hope](https://open.spotify.com/album/6cHlVeJ95y7fhhaSjARwyN) | 3:33 |
 | 35 | [Same Team](https://open.spotify.com/track/52MFjMbUfxVJw3N1Ue7aQR) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:54 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 75 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 76 | [Love's Contagious](https://open.spotify.com/track/0UjBGfWrjApND3MKR6winT) | [Darby](https://open.spotify.com/artist/151Z1Ly2l0u5Vm4zugwQTT) | [Love's Contagious](https://open.spotify.com/album/6iZ25yelMx8XcA85uW96dR) | 2:19 |
 
-Snapshot ID: `Mjc5NjYyNTcsMDAwMDAwMDBhZTlhZjhhYTNhYWI2NjRlN2M0MTdkOGRlMzhiMDY1ZA==`
+Snapshot ID: `Mjc5Njc2OTcsMDAwMDAwMDAxYzlmMTJhNTE3ZWQ3YzVlZGYzZDc2MjRiMTUwYzQyZg==`

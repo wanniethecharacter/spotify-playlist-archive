@@ -1,12 +1,12 @@
 {
   "description": "West African love stories wrapped up in song",
-  "num_followers": 4172,
+  "num_followers": 4188,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1NDI3NCwwMDAwMDAwMDQ5NjZhNzJhOWZkN2U3YzUyYTdmNjdkYzkzNTFlZTU4",
+  "snapshot_id": "MTY3Nzg1NDI3NCwwMDAwMDAwMDVmODM1NWI5MGQyOGZmMWE2NzJlMGY2ZTI5OWE1MzY5",
   "tracks": [
     {
       "added_at": "2023-03-03 08:15:59",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-03-03 08:15:59",
       "album": {
-        "name": "Hide & Seek",
-        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 208350,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
-    },
-    {
-      "added_at": "2023-03-03 08:15:59",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "added_at": "2023-03-03 08:15:59",
+      "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 208350,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
     },
     {
       "added_at": "2023-03-03 08:15:59",
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr"
     },
     {
-      "added_at": "2023-03-05 00:47:45",
+      "added_at": "2023-03-06 00:34:26",
       "album": {
         "name": "Ouu Ahh",
         "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-03-03 08:15:59",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2023-03-03 08:15:59",
-      "album": {
         "name": "Pheelz Good EP",
         "url": "https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx"
       },
@@ -635,22 +619,38 @@
     {
       "added_at": "2023-03-03 08:15:59",
       "album": {
-        "name": "Philo",
-        "url": "https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
         {
           "name": "Omah Lay",
           "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 165309,
-      "name": "Philo",
-      "url": "https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP"
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2023-03-03 08:15:59",
+      "album": {
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
     },
     {
       "added_at": "2023-03-03 08:15:59",
@@ -675,6 +675,26 @@
     {
       "added_at": "2023-03-03 08:15:59",
       "album": {
+        "name": "Philo",
+        "url": "https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 165309,
+      "name": "Philo",
+      "url": "https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP"
+    },
+    {
+      "added_at": "2023-03-03 08:15:59",
+      "album": {
         "name": "Bad To Me",
         "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
-    },
-    {
-      "added_at": "2023-03-03 08:15:59",
-      "album": {
-        "name": "My Baby",
-        "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
     },
     {
       "added_at": "2023-03-03 08:15:59",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-03 08:15:59",
       "album": {
-        "name": "Stand By You",
-        "url": "https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 175792,
-      "name": "Stand By You",
-      "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
-    },
-    {
-      "added_at": "2023-03-03 08:15:59",
-      "album": {
         "name": "Bad Since '97",
         "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
@@ -799,34 +783,18 @@
     {
       "added_at": "2023-03-03 08:15:59",
       "album": {
-        "name": "No Dey Form",
-        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
+        "name": "Stand By You",
+        "url": "https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc"
       },
       "artists": [
         {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
         }
       ],
-      "duration_ms": 140540,
-      "name": "No Dey Form",
-      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
-    },
-    {
-      "added_at": "2023-03-03 08:15:59",
-      "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+      "duration_ms": 175792,
+      "name": "Stand By You",
+      "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
     },
     {
       "added_at": "2023-03-03 08:15:59",
@@ -847,6 +815,22 @@
       "duration_ms": 164705,
       "name": "Clueless (with Oxlade)",
       "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
+    },
+    {
+      "added_at": "2023-03-03 08:15:59",
+      "album": {
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2023-03-03 08:15:59",
@@ -883,6 +867,22 @@
     {
       "added_at": "2023-03-03 08:15:59",
       "album": {
+        "name": "No Dey Form",
+        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 140540,
+      "name": "No Dey Form",
+      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "added_at": "2023-03-03 08:15:59",
+      "album": {
         "name": "Holiday / Reason You",
         "url": "https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 206750,
       "name": "Reason You",
       "url": "https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu"
+    },
+    {
+      "added_at": "2023-03-03 08:15:59",
+      "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 189014,
+      "name": "Contour",
+      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
     },
     {
       "added_at": "2023-03-03 08:15:59",
@@ -915,22 +931,6 @@
       "duration_ms": 227328,
       "name": "Many Ways (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
-    },
-    {
-      "added_at": "2023-03-03 08:15:59",
-      "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 189014,
-      "name": "Contour",
-      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
     },
     {
       "added_at": "2023-03-03 08:15:59",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-03 08:15:59",
       "album": {
-        "name": "Last Name",
-        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 121544,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
-    },
-    {
-      "added_at": "2023-03-03 08:15:59",
-      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
+    },
+    {
+      "added_at": "2023-03-03 08:15:59",
+      "album": {
+        "name": "Last Name",
+        "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "duration_ms": 121544,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
     },
     {
       "added_at": "2023-03-03 08:15:59",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-03-03 08:15:59",
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 196712,
-      "name": "mmadu",
-      "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
-    },
-    {
-      "added_at": "2023-03-03 08:15:59",
-      "album": {
         "name": "TOP BOY",
         "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 226377,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA"
+    },
+    {
+      "added_at": "2023-03-03 08:15:59",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 196712,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
     },
     {
       "added_at": "2023-03-03 08:15:59",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-03-03 08:15:59",
       "album": {
-        "name": "In My Mind - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "In My Mind - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
-    },
-    {
-      "added_at": "2023-03-03 08:15:59",
-      "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 218130,
       "name": "Somebody\u2019s Son (Ft Brandy)",
       "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
+    },
+    {
+      "added_at": "2023-03-03 08:15:59",
+      "album": {
+        "name": "In My Mind - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "In My Mind - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
     },
     {
       "added_at": "2023-03-03 08:15:59",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-03-03 08:15:59",
       "album": {
-        "name": "For Days",
-        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 164557,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
-    },
-    {
-      "added_at": "2023-03-03 08:15:59",
-      "album": {
         "name": "Shakara",
         "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
       },
@@ -1415,18 +1399,38 @@
     {
       "added_at": "2023-03-03 08:15:59",
       "album": {
-        "name": "The Brother's Keeper",
-        "url": "https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX"
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
       },
       "artists": [
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 168275,
-      "name": "Pour Me a Drink",
-      "url": "https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P"
+      "duration_ms": 164557,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
+    },
+    {
+      "added_at": "2023-03-03 08:15:59",
+      "album": {
+        "name": "When I See You",
+        "url": "https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        },
+        {
+          "name": "Jaywillz",
+          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
+        }
+      ],
+      "duration_ms": 159127,
+      "name": "When I See You",
+      "url": "https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J"
     },
     {
       "added_at": "2023-03-03 08:15:59",

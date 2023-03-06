@@ -1,12 +1,12 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 91081,
+  "num_followers": 91086,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE0MjI4MywwMDAwMDAwMDVlMzlkMTQ4NmE0MGYzMmZjMjc1YmM0OTc3OTZhOWQ3",
+  "snapshot_id": "MTY3NDE0MjI4MywwMDAwMDAwMGE1Mjk4YTZmNmZhYzhjN2UzYjdmNmVjY2FhNTQxMDNh",
   "tracks": [
     {
       "added_at": "2023-01-19 15:31:23",
@@ -467,18 +467,26 @@
     {
       "added_at": "2023-01-19 15:31:23",
       "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 226652,
-      "name": "Praise God",
-      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
+      "duration_ms": 228759,
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
     },
     {
       "added_at": "2023-01-19 15:31:23",
@@ -503,18 +511,18 @@
     {
       "added_at": "2023-01-19 15:31:23",
       "album": {
-        "name": "True 2 Myself",
-        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
       "artists": [
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 162453,
-      "name": "Sex Sounds",
-      "url": "https://open.spotify.com/track/5JtvedSVWW9McnoEAPJwQm"
+      "duration_ms": 226652,
+      "name": "Praise God",
+      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
     },
     {
       "added_at": "2023-01-19 15:31:23",
@@ -543,26 +551,18 @@
     {
       "added_at": "2023-01-19 15:31:23",
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+        "name": "True 2 Myself",
+        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 228759,
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
+      "duration_ms": 162453,
+      "name": "Sex Sounds",
+      "url": "https://open.spotify.com/track/5JtvedSVWW9McnoEAPJwQm"
     },
     {
       "added_at": "2023-01-19 15:31:23",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-01-19 15:31:23",
       "album": {
+        "name": "Blueberry Faygo",
+        "url": "https://open.spotify.com/album/6rBennOYWR1OZQnsU39PKL"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "Blueberry Faygo",
+      "url": "https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh"
+    },
+    {
+      "added_at": "2023-01-19 15:31:23",
+      "album": {
         "name": "Night Away (Dance) (feat. Tion Wayne)",
         "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 175774,
       "name": "Night Away (Dance) (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
-    },
-    {
-      "added_at": "2023-01-19 15:31:23",
-      "album": {
-        "name": "Blueberry Faygo",
-        "url": "https://open.spotify.com/album/6rBennOYWR1OZQnsU39PKL"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "Blueberry Faygo",
-      "url": "https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh"
     },
     {
       "added_at": "2023-01-19 15:31:23",
@@ -955,18 +955,22 @@
     {
       "added_at": "2023-01-19 15:31:23",
       "album": {
-        "name": "Latest Trends",
-        "url": "https://open.spotify.com/album/0vkahJN8SNXT05PgGc46nu"
+        "name": "Enna Boost",
+        "url": "https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx"
       },
       "artists": [
         {
-          "name": "A1 x J1",
-          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
         }
       ],
-      "duration_ms": 158117,
-      "name": "Latest Trends",
-      "url": "https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR"
+      "duration_ms": 194266,
+      "name": "Attentat",
+      "url": "https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl"
     },
     {
       "added_at": "2023-01-19 15:31:23",
@@ -987,6 +991,22 @@
     {
       "added_at": "2023-01-19 15:31:23",
       "album": {
+        "name": "Latest Trends",
+        "url": "https://open.spotify.com/album/0vkahJN8SNXT05PgGc46nu"
+      },
+      "artists": [
+        {
+          "name": "A1 x J1",
+          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Latest Trends",
+      "url": "https://open.spotify.com/track/7pnQ23WgZca9jEfMts9qsR"
+    },
+    {
+      "added_at": "2023-01-19 15:31:23",
+      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 181714,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
-    },
-    {
-      "added_at": "2023-01-19 15:31:23",
-      "album": {
-        "name": "Enna Boost",
-        "url": "https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        },
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Attentat",
-      "url": "https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl"
     },
     {
       "added_at": "2023-01-19 15:31:23",
@@ -1119,46 +1119,6 @@
     {
       "added_at": "2023-01-19 15:31:23",
       "album": {
-        "name": "24 (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "24 (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy"
-    },
-    {
-      "added_at": "2023-01-19 15:31:23",
-      "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Coco (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/6MGRweoLPBAaPcXTMpMWsA"
-    },
-    {
-      "added_at": "2023-01-19 15:31:23",
-      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -1179,6 +1139,26 @@
       "duration_ms": 176772,
       "name": "NUOVO RANGE (con SFERA EBBASTA)",
       "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
+    },
+    {
+      "added_at": "2023-01-19 15:31:23",
+      "album": {
+        "name": "24 (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "24 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy"
     },
     {
       "added_at": "2023-01-19 15:31:23",
@@ -1207,6 +1187,26 @@
       "duration_ms": 205106,
       "name": "Body (Remix) [feat. Capo Plaza & Rondodasosa]",
       "url": "https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp"
+    },
+    {
+      "added_at": "2023-01-19 15:31:23",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Coco (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/6MGRweoLPBAaPcXTMpMWsA"
     },
     {
       "added_at": "2023-01-19 15:31:23",

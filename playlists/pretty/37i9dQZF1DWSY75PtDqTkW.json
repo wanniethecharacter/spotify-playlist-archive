@@ -1,12 +1,12 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 73142,
+  "num_followers": 73179,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzQ4OTkzNywwMDAwMDAwMGFjM2RhMjJlMjJmZGIyM2MzOWEwNWE2YmQ2NGRlMGRm",
+  "snapshot_id": "MTY3NzQ4OTkzNywwMDAwMDAwMGFiMzFlODA4ZmViYTU0YjU5OTFiZmMzOGZjMzZhMGRi",
   "tracks": [
     {
       "added_at": "2021-12-28 12:54:47",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Point Of Know Return (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Dust in the Wind",
-      "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Point Of Know Return (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Dust in the Wind",
+      "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 200560,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Building The Perfect Beast",
         "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 288733,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Lost on You",
-        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 268105,
-      "name": "Lost on You",
-      "url": "https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Once Upon A Time (Super Deluxe)",
         "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Too Rye Ay",
-        "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
       },
       "artists": [
         {
-          "name": "Dexys Midnight Runners",
-          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
         }
       ],
-      "duration_ms": 287306,
-      "name": "Come On Eileen",
-      "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
+      "duration_ms": 268105,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -823,6 +807,22 @@
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Too Rye Ay",
+        "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
+      },
+      "artists": [
+        {
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        }
+      ],
+      "duration_ms": 287306,
+      "name": "Come On Eileen",
+      "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Greatest Hits Volume One - The Singles",
-        "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289906,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Seal",
         "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 288426,
       "name": "Kiss from a Rose",
       "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Greatest Hits Volume One - The Singles",
+        "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289906,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 183733,
       "name": "Red Red Wine",
       "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Ronan",
-        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
-      },
-      "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Ronan",
+        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
+      },
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready - Medley",
-      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 258693,
-      "name": "Smooth Operator - Single Version",
-      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "...Nothing Like The Sun",
         "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 267266,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Jolene (Expanded Edition)",
         "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Backspacer",
-        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
+        "name": "Foreigner (Expanded)",
+        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
         }
       ],
-      "duration_ms": 215853,
-      "name": "Just Breathe",
-      "url": "https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2"
+      "duration_ms": 200213,
+      "name": "Cold as Ice",
+      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
+        "name": "Backspacer",
+        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Just Breathe",
+      "url": "https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
         "name": "Dolly",
         "url": "https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 249360,
       "name": "Islands in the Stream",
       "url": "https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
-        "name": "Foreigner (Expanded)",
-        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Cold as Ice",
-      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 256653,
       "name": "Chan Chan",
       "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Out Of Reach",
-      "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -2103,18 +2087,18 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
       },
       "artists": [
         {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
         }
       ],
-      "duration_ms": 243053,
-      "name": "I Need A Dollar",
-      "url": "https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS"
+      "duration_ms": 196986,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2131,6 +2115,22 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 243053,
+      "name": "I Need A Dollar",
+      "url": "https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
-        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 306373,
-      "name": "Home - 2019 - Remaster",
-      "url": "https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "All the Lost Souls",
         "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 280026,
       "name": "1973",
       "url": "https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
+        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Home - 2019 - Remaster",
+      "url": "https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2215,18 +2215,18 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Be My Baby: The Very Best of The Ronettes",
-        "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
+        "name": "Ice On Fire",
+        "url": "https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24"
       },
       "artists": [
         {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 160906,
-      "name": "Be My Baby",
-      "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
+      "duration_ms": 343240,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2247,18 +2247,18 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Ice On Fire",
-        "url": "https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24"
+        "name": "Be My Baby: The Very Best of The Ronettes",
+        "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
         }
       ],
-      "duration_ms": 343240,
-      "name": "Nikita",
-      "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
+      "duration_ms": 160906,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2311,38 +2311,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Talking Book",
         "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
@@ -2359,6 +2327,22 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
         "name": "Atlantic Crossing",
         "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 277960,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Desireless",
-        "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
-      },
-      "artists": [
-        {
-          "name": "Eagle-Eye Cherry",
-          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Save Tonight",
-      "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 217400,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Desireless",
+        "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
+      },
+      "artists": [
+        {
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2555,38 +2555,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "Keep Your Head Up",
-      "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
-        "name": "Get Lifted",
-        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 281466,
-      "name": "Ordinary People",
-      "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -2603,6 +2571,22 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
         "name": "With A Little Help From My Friends",
         "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 312173,
       "name": "With A Little Help From My Friends",
       "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 281466,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2847,6 +2847,22 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
+        "name": "Would I Lie To You?",
+        "url": "https://open.spotify.com/album/3fdyhYkAKnfNIDSNUwZIPR"
+      },
+      "artists": [
+        {
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+        }
+      ],
+      "duration_ms": 223706,
+      "name": "Would I Lie To You? - Album Edit",
+      "url": "https://open.spotify.com/track/1XFyebjye69ZVGR2WOze2U"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
         "name": "It's A Man's Man's Man's World",
         "url": "https://open.spotify.com/album/3WQOQKNq8COxy0Ozv6YBb1"
       },
@@ -2879,22 +2895,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Would I Lie To You?",
-        "url": "https://open.spotify.com/album/3fdyhYkAKnfNIDSNUwZIPR"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 223706,
-      "name": "Would I Lie To You? - Album Edit",
-      "url": "https://open.spotify.com/track/1XFyebjye69ZVGR2WOze2U"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -2907,6 +2907,22 @@
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "White On Blonde",
+        "url": "https://open.spotify.com/album/6BVlA2NLGg3OKYemGJgo2v"
+      },
+      "artists": [
+        {
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "Say What You Want",
+      "url": "https://open.spotify.com/track/6h6Ccbgvhibl2XQ0SQNR70"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2939,22 +2955,6 @@
       "duration_ms": 204653,
       "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
       "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
-        "name": "White On Blonde",
-        "url": "https://open.spotify.com/album/6BVlA2NLGg3OKYemGJgo2v"
-      },
-      "artists": [
-        {
-          "name": "Texas",
-          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
-        }
-      ],
-      "duration_ms": 233866,
-      "name": "Say What You Want",
-      "url": "https://open.spotify.com/track/6h6Ccbgvhibl2XQ0SQNR70"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -3219,22 +3219,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "The Collection (Standard Edition)",
-        "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "Ironic",
-      "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
         "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
       },
@@ -3247,6 +3231,22 @@
       "duration_ms": 180253,
       "name": "Girl, You'll Be A Woman Soon",
       "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "The Collection (Standard Edition)",
+        "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "Ironic",
+      "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -3399,22 +3399,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "A Cupid's Valentine",
-        "url": "https://open.spotify.com/album/0cvF6655OPZeLDYeU8UqL6"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/24lvdbt9pS7DFEjhEWSl49"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Tourist (Remastered)",
         "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
       },
@@ -3427,6 +3411,22 @@
       "duration_ms": 380497,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/1msXkHv84LKikJGKcfdGBu"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "A Cupid's Valentine",
+        "url": "https://open.spotify.com/album/0cvF6655OPZeLDYeU8UqL6"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/24lvdbt9pS7DFEjhEWSl49"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -3643,22 +3643,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "A Kind of Magic (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "A Kind Of Magic - Remastered 2011",
-      "url": "https://open.spotify.com/track/1LFK84nUerBbYfFd1LmnTm"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Half Mile Harvest",
         "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
       },
@@ -3671,6 +3655,22 @@
       "duration_ms": 240912,
       "name": "Pain and Misery",
       "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "A Kind of Magic (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "A Kind Of Magic - Remastered 2011",
+      "url": "https://open.spotify.com/track/1LFK84nUerBbYfFd1LmnTm"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -3971,22 +3971,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 265613,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/0QMK2WVjKy3iKdqajgDB1P"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Hotel New York",
         "url": "https://open.spotify.com/album/3sxva4N6mtDiOa6zvBa8T3"
       },
@@ -3999,6 +3983,22 @@
       "duration_ms": 242906,
       "name": "One Word",
       "url": "https://open.spotify.com/track/4ZGfL4rKgXgelNgYHFaJoI"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 265613,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/0QMK2WVjKy3iKdqajgDB1P"
     },
     {
       "added_at": "2021-12-28 12:54:47",

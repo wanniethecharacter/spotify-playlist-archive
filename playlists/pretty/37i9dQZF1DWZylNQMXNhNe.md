@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Jotta A
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,781 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,791 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 26 | [Explícito](https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:53 |
 | 27 | [te vi na festa \(e nem doeu\)](https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [te vi na festa \(e nem doeu\)](https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc) | 2:01 |
 | 28 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 |
-| 29 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 |
+| 29 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 |
 | 30 | [Emoji de Fogo \(Danny Bond & Cyberkills Remix\)](https://open.spotify.com/track/2Xr1tVdvdGBTKuGfGQMIsw) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [Emoji de Fogo \(Danny Bond & Cyberkills Remix\)](https://open.spotify.com/album/4OcBz7AFm3PVFIB6aLIrXU) | 2:48 |
 | 31 | [Eu Viciei](https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Eu Viciei](https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF) | 2:14 |
 | 32 | [MIL GRAU](https://open.spotify.com/track/3zmkCbsIVTXH5LvQ5twitZ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:25 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 41 | [VRAU](https://open.spotify.com/track/3oNteV2lmIV0R19Jalc7Pd) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [LIA \(pt.1\)](https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX) | 2:17 |
 | 42 | [Brazindia](https://open.spotify.com/track/1WientaXF0b6Q8mPN9dvrU) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8) | [Brazindia](https://open.spotify.com/album/4Lb1jAAYAPSy5hoexNgJoQ) | 2:38 |
 | 43 | [Éden](https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Éden](https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18) | 2:58 |
-| 44 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 |
+| 44 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 |
 | 45 | [GRETA](https://open.spotify.com/track/6Li2optWeB4GobWGCzN4wf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 |
 | 46 | [Maniac](https://open.spotify.com/track/1jTJ4Al2gI1mTLuSkj0kIj) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Maniac](https://open.spotify.com/album/4DDPUqTKpyD90srBMNYCYh) | 3:26 |
 | 47 | [Triste com T](https://open.spotify.com/track/34mhUL0A8oPJbg1DWe1HMK) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 49 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 |
 | 50 | [Lovezinho \- Ao Vivo](https://open.spotify.com/track/0UHnBCzJ7EYsdkApglyqf6) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:15 |
 
-Snapshot ID: `MTY3NjA1MDk2OCwwMDAwMDAwMDBhNWFkNjBkNDlhOGQyZjE3MTExMTRjNDY0ZGY5ODA1`
+Snapshot ID: `MTY3NjA1MDk2OCwwMDAwMDAwMDhhNDRmYWZhMzEwMDJmMzcxMzc5N2U4OWUyYTU5Y2Zl`

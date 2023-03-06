@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-221 songs - 14 hr 54 min
+222 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2022-07-28 |  |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/7KAhj1obJrK5Avezca7YVL) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/4q7WSRlVNR02cyiCrCj2bo) | 4:00 | 2022-06-02 | 2022-07-29 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/5QGgJpeO4EHR1KTa0L8yKK) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/7xBe5EKRxZk4icCZw91SMM) | 3:41 | 2022-06-02 | 2022-07-29 |
-| [不用告訴我 \- 東森戲劇台韓劇「巧克力」片尾曲](https://open.spotify.com/track/1GWsEPe6pIYlqrNFEMExdX) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Sounds of My Life](https://open.spotify.com/album/2LmBCs61pclie64NIWqPWS) | 4:28 | 2022-06-02 |  |
+| [不用告訴我 \- 東森戲劇台韓劇「巧克力」片尾曲](https://open.spotify.com/track/1GWsEPe6pIYlqrNFEMExdX) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Sounds of My Life](https://open.spotify.com/album/2LmBCs61pclie64NIWqPWS) | 4:28 | 2022-06-02 | 2023-03-06 |
 | [不能寂寞的人](https://open.spotify.com/track/7yI3EmfG2SCjoB1PkjcwrX) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [愚者](https://open.spotify.com/album/4GtICvnqTjOdv9htYsqqG7) | 5:30 | 2022-06-02 | 2022-07-21 |
 | [不該擁有的事情 \(孤單版\) \[傻傻愛你,傻傻愛我 電影主題曲\]](https://open.spotify.com/track/2KKG5iSWFTEDhXj4plGNJD) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [不該擁有的事情 \(傻傻愛你,傻傻愛我 電影主題曲\)](https://open.spotify.com/album/0rjpWpqLzccQOVG7X5hnZu) | 5:22 | 2022-06-02 | 2022-06-10 |
 | [为自己而微笑 \- Bonus Track](https://open.spotify.com/track/1dorFJsUrP4jgo8a96PQgV) | [Ben Hum](https://open.spotify.com/artist/4ATqdfAOYsKwaVVPEktade) | [为自己而微笑 \(Bonus Track\)](https://open.spotify.com/album/740fp6IsyxCpa9y5ChyyJQ) | 3:52 | 2022-08-11 | 2022-08-19 |
@@ -204,6 +204,7 @@
 | [貪](https://open.spotify.com/track/0eUN4ME3OZsaIC3ecHjbtg) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [貪](https://open.spotify.com/album/7FUtIQFGU1OvQTpehWkeI6) | 5:00 | 2022-06-10 | 2022-06-16 |
 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 | 2022-06-30 | 2022-07-24 |
 | [这世界那么多人 \- 电影《我要我们在一起》主题曲](https://open.spotify.com/track/0CIndp98sle6N5oubW92Jp) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [这世界那么多人 \(电影《我要我们在一起》主题曲\)](https://open.spotify.com/album/7loUfq99zoKzh5n2g68UkH) | 4:45 | 2022-12-08 | 2023-03-02 |
+| [这世界那么多人\(电影《我要我们在一起》主题曲\)](https://open.spotify.com/track/3k1xxwqfIM47bLiqOG1kfs) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [这世界那么多人\(电影《我要我们在一起》主题曲\)](https://open.spotify.com/album/0unRhNGDViXGX5H7OwEWqL) | 4:45 | 2023-02-23 |  |
 | [逆火](https://open.spotify.com/track/6omo7jncB9I0KaHqf6B4Df) | [深白色二人組](https://open.spotify.com/artist/6n64O3TcrHboyT9eMrdjrb) | [逆火](https://open.spotify.com/album/0MKzY1UsLNQMrV3UVe9kF4) | 4:01 | 2023-01-02 | 2023-01-27 |
 | [這世界那麼多人 \- 電影《我要我們在一起》主題曲](https://open.spotify.com/track/4JhfCkWMH7qdQmfxuaF3oh) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [這世界那麼多人 \(電影《我要我們在一起》主題曲\)](https://open.spotify.com/album/7xNMoK2CIWGwBjDkJPVPlr) | 4:45 | 2022-06-02 | 2022-07-29 |
 | [這世界那麼多人 \- 電影《我要我們在一起》主題曲](https://open.spotify.com/track/7uupMVckq9ta7ei9ghX8q0) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [這世界那麼多人 \(電影《我要我們在一起》主題曲\)](https://open.spotify.com/album/5FnNKdAIdmlLIabRoAuL90) | 4:45 | 2022-07-28 | 2022-11-30 |

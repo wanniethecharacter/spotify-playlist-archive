@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 71048,
+  "num_followers": 71227,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NDgwOCwwMDAwMDAwMDM4OWQ5NGJiNTZmNjYwMDhiZjJiMGM1Y2EyZGI2Y2Qx",
+  "snapshot_id": "MTY3MzU4NDgwOCwwMDAwMDAwMGVmOGQwNmE2NjQ3NGFlOWY3NWVlMzk3OTM2OGU4NjQx",
   "tracks": [
     {
       "added_at": "2023-01-13 04:40:08",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
-        "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 264438,
-      "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
-      "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
+        "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 264438,
+      "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
+      "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 249933,
       "name": "Who You Love (feat. Katy Perry)",
       "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -375,6 +375,22 @@
       "duration_ms": 214249,
       "name": "Cabelo De Anjo",
       "url": "https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "Battle Studies",
+        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "Who Says",
+      "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -455,22 +471,6 @@
       "duration_ms": 228000,
       "name": "cardigan - cabin in candlelight version",
       "url": "https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
-        "name": "Battle Studies",
-        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 175480,
-      "name": "Who Says",
-      "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "Simples",
-        "url": "https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 170409,
-      "name": "A Vida \u00c9 Boa Com Voc\u00ea - Voz E Viol\u00e3o",
-      "url": "https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
         "name": "Girassol",
         "url": "https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 224000,
       "name": "Era uma Vez",
       "url": "https://open.spotify.com/track/16v1xv9QCx1kGXl6fJvTIz"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "Simples",
+        "url": "https://open.spotify.com/album/7xVxIAZOM8ac4viH06lVD9"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 170409,
+      "name": "A Vida \u00c9 Boa Com Voc\u00ea - Voz E Viol\u00e3o",
+      "url": "https://open.spotify.com/track/7w36CnYumoRl1ryZOWsJnk"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "Better Part of Me",
-        "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Better Part of Me",
-      "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
         "name": "Princess of China",
         "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 206693,
       "name": "Princess of China - Acoustic",
       "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "Better Part of Me",
+        "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Better Part of Me",
+      "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
     },
     {
       "added_at": "2023-01-13 04:40:08",

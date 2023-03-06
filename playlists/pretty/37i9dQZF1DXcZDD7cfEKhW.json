@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Taylor Swift",
-  "num_followers": 3377916,
+  "num_followers": 3378280,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg3ODAwMSwwMDAwMDAwMDJiZTgzOWE5MjE2NTg1YTQwYjhjNDJjZThmOTc1MmZk",
+  "snapshot_id": "MTY3Nzg3ODAwMSwwMDAwMDAwMDgzZTQ5NjdjZjE5NGYwNmIyYjFlZjFhYTYzOGQzNjE4",
   "tracks": [
     {
       "added_at": "2023-03-03 21:13:21",
@@ -275,6 +275,30 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
+        "name": "Sunroof (Loud Luxury Remix)",
+        "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        },
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "Sunroof - Loud Luxury Remix",
+      "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
+    },
+    {
+      "added_at": "2023-03-03 21:13:21",
+      "album": {
         "name": "Bad Memories (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl"
       },
@@ -303,30 +327,6 @@
       "duration_ms": 149565,
       "name": "Bad Memories - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep"
-    },
-    {
-      "added_at": "2023-03-03 21:13:21",
-      "album": {
-        "name": "Sunroof (Loud Luxury Remix)",
-        "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        },
-        {
-          "name": "dazy",
-          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
-        },
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        }
-      ],
-      "duration_ms": 173658,
-      "name": "Sunroof - Loud Luxury Remix",
-      "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
     },
     {
       "added_at": "2023-03-03 21:13:21",
@@ -483,30 +483,6 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
-        "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
-        "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 234411,
-      "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
-      "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
-    },
-    {
-      "added_at": "2023-03-03 21:13:21",
-      "album": {
         "name": "Hold Me Closer (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 248594,
       "name": "Hold Me Closer - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
+    },
+    {
+      "added_at": "2023-03-03 21:13:21",
+      "album": {
+        "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
+        "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 234411,
+      "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
+      "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
     },
     {
       "added_at": "2023-03-03 21:13:21",
@@ -779,30 +779,6 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
-        "name": "Believe (feat. Goodboys) [Galantis Remix]",
-        "url": "https://open.spotify.com/album/0xe6QNeyXktGipggjECGK7"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "Believe (feat. Goodboys) [Galantis Remix]",
-      "url": "https://open.spotify.com/track/1E5x0AEn7hFZlNwPNRtTGm"
-    },
-    {
-      "added_at": "2023-03-03 21:13:21",
-      "album": {
         "name": "Hallucination (Navos Remix)",
         "url": "https://open.spotify.com/album/0WKL2d7faG0lR3HLJuvT6v"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 150040,
       "name": "Hallucination - Navos Remix",
       "url": "https://open.spotify.com/track/5VrfQqPD5hymxVQzd5pkkw"
+    },
+    {
+      "added_at": "2023-03-03 21:13:21",
+      "album": {
+        "name": "Believe (feat. Goodboys) [Galantis Remix]",
+        "url": "https://open.spotify.com/album/0xe6QNeyXktGipggjECGK7"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "Believe (feat. Goodboys) [Galantis Remix]",
+      "url": "https://open.spotify.com/track/1E5x0AEn7hFZlNwPNRtTGm"
     },
     {
       "added_at": "2023-03-03 21:13:21",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
-        "name": "Original Sin (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/77FbpXGyS9pbEaiHymovlP"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 187923,
-      "name": "Original Sin - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/0bczsNCHpJzjUnI45UShrx"
-    },
-    {
-      "added_at": "2023-03-03 21:13:21",
-      "album": {
         "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
         "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 152672,
       "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
       "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
+    },
+    {
+      "added_at": "2023-03-03 21:13:21",
+      "album": {
+        "name": "Original Sin (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/77FbpXGyS9pbEaiHymovlP"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 187923,
+      "name": "Original Sin - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/0bczsNCHpJzjUnI45UShrx"
     },
     {
       "added_at": "2023-03-03 21:13:21",
@@ -2051,6 +2051,26 @@
     {
       "added_at": "2023-03-03 21:13:21",
       "album": {
+        "name": "Somebody I F*cked Once (The Extras)",
+        "url": "https://open.spotify.com/album/5koenPf1RyTKDr13IT5nXO"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        },
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 145849,
+      "name": "Somebody I F*cked Once - Lady Bee Remix",
+      "url": "https://open.spotify.com/track/3PlpAfyyeuicW1HP0IebLM"
+    },
+    {
+      "added_at": "2023-03-03 21:13:21",
+      "album": {
         "name": "Why Can't You Wait (3LAU Remix)",
         "url": "https://open.spotify.com/album/1nUpGyJyMaqU9fL5qEG3eI"
       },
@@ -2071,26 +2091,6 @@
       "duration_ms": 221612,
       "name": "Why Can't You Wait - 3LAU Remix",
       "url": "https://open.spotify.com/track/6KXmKsgyW8EtRHlMk1ehKi"
-    },
-    {
-      "added_at": "2023-03-03 21:13:21",
-      "album": {
-        "name": "Somebody I F*cked Once (The Extras)",
-        "url": "https://open.spotify.com/album/5koenPf1RyTKDr13IT5nXO"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        },
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 145849,
-      "name": "Somebody I F*cked Once - Lady Bee Remix",
-      "url": "https://open.spotify.com/track/3PlpAfyyeuicW1HP0IebLM"
     },
     {
       "added_at": "2023-03-03 21:13:21",

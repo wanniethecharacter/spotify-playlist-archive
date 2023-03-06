@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to mall walking... once upon a time.",
-  "num_followers": 4487,
+  "num_followers": 4533,
   "original_name": "Mall Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDAxNTMzOSwwMDAwMDAwMDY4NmY1Zjg1ZDZiMzAzNTRmZjFmMmJlYmQ2ZjNiNTBk",
+  "snapshot_id": "MTY3NDAxNTMzOSwwMDAwMDAwMGYyNDdkZDE4M2UxNDI1NmNjOWQ3MGIxY2FiOWMxODU5",
   "tracks": [
     {
       "added_at": "2023-01-18 04:15:39",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-01-18 04:15:39",
       "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+    },
+    {
+      "added_at": "2023-01-18 04:15:39",
+      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
-    },
-    {
-      "added_at": "2023-01-18 04:15:39",
-      "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2023-01-18 04:15:39",

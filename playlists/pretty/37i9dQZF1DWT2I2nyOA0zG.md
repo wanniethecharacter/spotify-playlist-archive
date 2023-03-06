@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,982 likes - 79 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,994 likes - 79 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 27 | [No No No](https://open.spotify.com/track/1zhw7Isr1B4UdYUrALHXhJ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:00 |
 | 28 | [All My Days](https://open.spotify.com/track/052blcya1EJNErdYq2HHbA) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [All My Days](https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP) | 3:06 |
 | 29 | [Abobi](https://open.spotify.com/track/7echDVorySYxnup1HrR15b) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Abobi](https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1) | 3:21 |
-| 30 | [Gimme Love](https://open.spotify.com/track/7JWHJ6QRppXwwVpKs2iTYD) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Gimme Love](https://open.spotify.com/album/1cylbIhsALcS2cPOzCDvSb) | 3:52 |
+| 30 | [Gimme Love](https://open.spotify.com/track/09fsj6ZZGs6mSeeuWFM788) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Soul Tropical](https://open.spotify.com/album/0G8qxLCQc0ZVAR1RKOYhDm) | 3:52 |
 | 31 | [Bebe](https://open.spotify.com/track/12QrAlDPrS5WWPEal9q4Ph) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Bebe](https://open.spotify.com/album/5qorlwtXy1nBY2kvhwkXdu) | 4:48 |
 | 32 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
 | 33 | [Ring Ring Ring](https://open.spotify.com/track/2m1rSnIazzgbksxAiS4gpk) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Ring Ring Ring](https://open.spotify.com/album/7IZrlKiOYoJrvn6xF2ZZFd) | 5:47 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 78 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
 | 79 | [How Are You \(My Friend\)](https://open.spotify.com/track/2QdqML21AFaQPWxmhuv1KW) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [How Are You \(My Friend\)](https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq) | 3:16 |
 
-Snapshot ID: `MTY3NzgyODkyMCwwMDAwMDAwMDc5MjVlMzRlMGI5N2EyYmQ1NWMyYmI2ODg3MjNmNjI5`
+Snapshot ID: `MTY3NzgyODkyMCwwMDAwMDAwMDM4NWEwMzZlNjEzZGM2OTdlOWVjODMwMWM0MzNiYzk2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,547 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,567 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 38 | [Fear Get Out of Here](https://open.spotify.com/track/4eBEZDnYDOrCJqBLg6JobM) | [Orange Kids Music](https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu) | [All Good](https://open.spotify.com/album/1vVS1HB8nkk0jn2rcyfHdS) | 2:40 |
 | 39 | [Signs](https://open.spotify.com/track/2iLIzTOmpyPv24l0mfdhLA) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [How Could I Be Silent](https://open.spotify.com/album/5MQxNJ9Fg8AyhHmHf4VUdY) | 3:32 |
 | 40 | [Alive \- Studio Version](https://open.spotify.com/track/1li9zybQQ8XX9J8mNsTr8u) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [We Are Young & Free \(Live\)](https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ) | 3:47 |
-| 41 | [Louder](https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Louder](https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf) | 3:02 |
-| 42 | [Amazing Grace](https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Hymns](https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd) | 2:06 |
+| 41 | [Amazing Grace](https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Hymns](https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd) | 2:06 |
+| 42 | [Louder](https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Louder](https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf) | 3:02 |
 | 43 | [Nothing Is Impossible](https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Ultimate Kids Worship](https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd) | 3:52 |
 | 44 | [My Strength \(feat\. Emily Hearn\)](https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb), [Emily Hearn](https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1) | [Alive](https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k) | 3:00 |
 | 45 | [Lift You Higher](https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714) | [Copper Pointe Worship](https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV) | [New Sound](https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf) | 3:08 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [Every Move I Make](https://open.spotify.com/track/1HBWWoS8rdvZtPLdK4UY6g) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Praise And Worship Top 40](https://open.spotify.com/album/41yxtxd3tOJ7CXlUPGnfWg) | 3:59 |
 | 53 | [The Golden Rule](https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 7](https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV) | 2:58 |
 
-Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMGM4MGE0Y2JhNmI4ZGQ5N2M2M2QyYTcyYjEzZjM5ZTQ0`
+Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMGE1YmZiNmNlYTA1ZDQxMTU1M2NlMTI2NmVlOTc0MDA1`

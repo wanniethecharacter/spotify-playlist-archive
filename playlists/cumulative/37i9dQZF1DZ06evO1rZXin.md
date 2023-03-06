@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-57 songs - 2 hr 45 min
+58 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Pa'Yo](https://open.spotify.com/track/3qgQfKKwAWbW6SMg82jsZt) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 2:50 | 2022-06-01 |  |
 | [Pa'Yo \(29 Aniversario\)](https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Pa'Yo \(29 Aniversario\)](https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ) | 2:51 | 2022-06-01 |  |
 | [Palo Bonito](https://open.spotify.com/track/7yldON0oRBFYzW4H1cz7au) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:40 | 2022-06-01 |  |
-| [Provócame](https://open.spotify.com/track/1L07qYzsQyoAH8yactEpLt) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:03 | 2022-06-01 |  |
+| [Provócame](https://open.spotify.com/track/6rGUVwXPZfeOAcqmFlhPua) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y) | 3:00 | 2023-03-05 |  |
+| [Provócame](https://open.spotify.com/track/1L07qYzsQyoAH8yactEpLt) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:03 | 2022-06-01 | 2023-03-06 |
 | [Puño De Tierra](https://open.spotify.com/track/7BXuEt4g7zQyRQ4d48gVN2) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:37 | 2022-06-01 |  |
 | [Recuerdos](https://open.spotify.com/track/6IqFKEgroCXz9dBWXz3qUe) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [De Tuba Y Acordeon](https://open.spotify.com/album/2L5CrSYs1TPtMi6SebSk0P) | 2:53 | 2022-06-01 |  |
 | [Rock y Banda](https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:37 | 2022-06-01 |  |

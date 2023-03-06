@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 24909,
+  "num_followers": 24918,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMDNjZDE3MTdlYWU0MDQ2MjhlMzcwN2YwNjQ1MWVkZWI0",
+  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMDU4YjQ0NzJjMmZkMWExNTk4NWFlOWE3YjRkMzAwZDkw",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "My Feet Are on the Rock",
-      "url": "https://open.spotify.com/track/33q4ENIRByGmdKeRWoIfSm"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 203324,
       "name": "Fight For Me",
       "url": "https://open.spotify.com/track/0mfpBXjYkiYt4Qrr2aFQ6U"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "My Feet Are on the Rock",
+      "url": "https://open.spotify.com/track/33q4ENIRByGmdKeRWoIfSm"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Order, Disorder, Reorder",
-        "url": "https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc"
+        "name": "Faultlines Vol. I",
+        "url": "https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC"
       },
       "artists": [
         {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
         }
       ],
-      "duration_ms": 189626,
-      "name": "I'm Gonna Let It Go",
-      "url": "https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK"
+      "duration_ms": 172500,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Faultlines Vol. I",
-        "url": "https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC"
+        "name": "Order, Disorder, Reorder",
+        "url": "https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc"
       },
       "artists": [
         {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo"
+      "duration_ms": 189626,
+      "name": "I'm Gonna Let It Go",
+      "url": "https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Just Want You",
-      "url": "https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/1ArqSTfoWMgeVRmDzCa8bq"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 204897,
       "name": "All Good",
       "url": "https://open.spotify.com/track/7iMhd9oIQEM4REnLM0GSwu"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Just Want You",
+      "url": "https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Fountain (I Am Good) [Live]",
-        "url": "https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 318874,
-      "name": "Fountain (I Am Good) - Live",
-      "url": "https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/7LXqxH6bSaN395nIDyYPPl"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 174813,
       "name": "Born Ready",
       "url": "https://open.spotify.com/track/5RBlhuY6iXpnc4De5nDOvO"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Fountain (I Am Good) [Live]",
+        "url": "https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 318874,
+      "name": "Fountain (I Am Good) - Live",
+      "url": "https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Not Too Far",
-        "url": "https://open.spotify.com/album/0QlOVnfV5mMUYWughwqoP8"
-      },
-      "artists": [
-        {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
-        }
-      ],
-      "duration_ms": 181598,
-      "name": "Not Too Far",
-      "url": "https://open.spotify.com/track/6YvfFdBKpgYMuV1Q8beFax"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Snapshot",
         "url": "https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Not Too Far",
+        "url": "https://open.spotify.com/album/0QlOVnfV5mMUYWughwqoP8"
+      },
+      "artists": [
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        }
+      ],
+      "duration_ms": 181598,
+      "name": "Not Too Far",
+      "url": "https://open.spotify.com/track/6YvfFdBKpgYMuV1Q8beFax"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "HAPPY",
         "url": "https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "What Freedom Feels Like",
-        "url": "https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 185692,
-      "name": "What Freedom Feels Like",
-      "url": "https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "\u00a1hola!",
         "url": "https://open.spotify.com/album/0sUWrDj3EHzCQtXJF9rFTe"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 195944,
       "name": "\u00a1hola!",
       "url": "https://open.spotify.com/track/6vM0MZDQ3cjd5oR9IGNdIm"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "What Freedom Feels Like",
+        "url": "https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 185692,
+      "name": "What Freedom Feels Like",
+      "url": "https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Light of Your Grace",
+        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 189307,
+      "name": "Light of Your Grace",
+      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "City Lights (feat. Mitch Wong)",
         "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 238573,
       "name": "City Lights (feat. Mitch Wong)",
       "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Light of Your Grace",
-        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 189307,
-      "name": "Light of Your Grace",
-      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
     },
     {
       "added_at": "2020-08-13 14:39:00",

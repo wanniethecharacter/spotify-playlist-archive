@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 138017,
+  "num_followers": 138165,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDA3ZThiM2ZlNjgwNWQ3ODdmM2M3M2M0MzlkYTBlYzZk",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDk3OWJjMzMzOTQ4MjA1NmRkMWM4NmY0ZDkwMGY4ZWNj",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 146815,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "TKN (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 129370,
       "name": "TKN (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 146815,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "INMORTALES",
-        "url": "https://open.spotify.com/album/1BgFh3hB11NofWQ2ok6sN3"
-      },
-      "artists": [
-        {
-          "name": "Drago200",
-          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "TOTA",
-      "url": "https://open.spotify.com/track/6YzLykAZTro3znbspER5Cd"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/6hT06wrQnW4g3zhlt9mx5m"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 224267,
       "name": "La Llamada",
       "url": "https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "INMORTALES",
+        "url": "https://open.spotify.com/album/1BgFh3hB11NofWQ2ok6sN3"
+      },
+      "artists": [
+        {
+          "name": "Drago200",
+          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "TOTA",
+      "url": "https://open.spotify.com/track/6YzLykAZTro3znbspER5Cd"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1955,6 +1955,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Deseos",
+        "url": "https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 203070,
+      "name": "Deseos",
+      "url": "https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Parcera",
         "url": "https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j"
       },
@@ -1975,26 +1995,6 @@
       "duration_ms": 213652,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Deseos",
-        "url": "https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 203070,
-      "name": "Deseos",
-      "url": "https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz"
     },
     {
       "added_at": "2022-11-18 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,688 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,689 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 18 | [Mamacita](https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [Yellow Is The New White](https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u) | [Mamacita](https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc) | 2:19 |
 | 19 | [Party's Jumpin](https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Ossey James](https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX) | [Party's Jumpin](https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy) | 2:55 |
 | 20 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 |
-| 21 | [Diamonds](https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Diamonds](https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk) | 2:55 |
-| 22 | [Los Tamales](https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Los Tamales](https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW) | 5:34 |
-| 23 | [Alma Roja \- DJ Chus Remix](https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Alma Roja \(DJ CHUS Remix\)](https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w) | 3:04 |
+| 21 | [Alma Roja \- DJ Chus Remix](https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Alma Roja \(DJ CHUS Remix\)](https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w) | 3:04 |
+| 22 | [Diamonds](https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Diamonds](https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk) | 2:55 |
+| 23 | [Los Tamales](https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Los Tamales](https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW) | 5:34 |
 | 24 | [Si Tu Sabe](https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Dipzy](https://open.spotify.com/artist/5piZAMtqB9RrIxmXSWJ7q9) | [Si Tu Sabe](https://open.spotify.com/album/03V2IM59Iri9BtuHB1Vlll) | 3:25 |
 | 25 | [Bailar Riddim](https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Bailar Riddim](https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx) | 3:31 |
 | 26 | [Jaleo](https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Jaleo](https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 49 | [Cuban Riddim](https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Cuban Riddim](https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1) | 2:47 |
 | 50 | [Why Can't We Live Together \- Gregor Salto & Ibitaly Edit](https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Ibitaly](https://open.spotify.com/artist/2w2qxed232KjsPPcr2FMlb) | [Why Can't We Live Together \(Gregor Salto & Ibitaly Remix\)](https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB) | 3:30 |
 
-Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDM1NDg2NTVkZWNiYjcxNDYzNmMyMzJjZDcxNDliM2Jh`
+Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMGJkM2U1ZDkwYzI3YzQ4NDI2N2EyNTEwYzc4Y2EyZjE1`

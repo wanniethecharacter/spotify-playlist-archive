@@ -2910,6 +2910,24 @@
     {
       "album": {
         "name": "Y As\u00ed Suena el 3030",
+        "url": "https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179610,
+      "name": "El Jami",
+      "url": "https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk"
+    },
+    {
+      "album": {
+        "name": "Y As\u00ed Suena el 3030",
         "url": "https://open.spotify.com/album/74tiD1EECHUoifQuTexkZb"
       },
       "artists": [
@@ -6988,7 +7006,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-06",
       "duration_ms": 128532,
       "name": "Seraf\u00edn Zambada",
       "url": "https://open.spotify.com/track/2Qh9GkEx3EnFd7v8QzaFjW"
