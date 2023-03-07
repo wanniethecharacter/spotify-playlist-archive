@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 60533,
+  "num_followers": 60575,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDE5YjY2N2VjMDNmZDA4MjljZTNmNDQzNjZjMGJjNmI4",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDQ2NDIyNmFiOWMxZDUyZTZlZDVkYTUxMjY2NGE3YjA2",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Leftovers",
+        "url": "https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 192628,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/0dcuGoAIPAT7OrP5CGSVBA"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 208395,
       "name": "Jet Black (feat. Brandy)",
       "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Leftovers",
-        "url": "https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 192628,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/0dcuGoAIPAT7OrP5CGSVBA"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Measure of a Man (feat. Central Cee)",
-        "url": "https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Measure of a Man (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/5SEQL40XcXX1FUHtiqa8PG"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 210279,
       "name": "Time",
       "url": "https://open.spotify.com/track/05v5mPkLAOoa7M5tnXXOwq"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Measure of a Man (feat. Central Cee)",
+        "url": "https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Measure of a Man (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Coco Blood",
+        "url": "https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 215848,
+      "name": "Coco Blood",
+      "url": "https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "TyrTape (Deluxe)",
         "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 200168,
       "name": "I Blodet (feat. Natnael)",
       "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Coco Blood",
-        "url": "https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 215848,
-      "name": "Coco Blood",
-      "url": "https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "And Then Life Was Beautiful",
-        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Seasons (with Khalid)",
         "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 250001,
       "name": "Seasons (with Khalid)",
       "url": "https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "And Then Life Was Beautiful",
+        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1499,30 +1499,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "like you",
-        "url": "https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo"
-      },
-      "artists": [
-        {
-          "name": "Braden Ross",
-          "url": "https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic"
-        },
-        {
-          "name": "Days to Waste",
-          "url": "https://open.spotify.com/artist/3atbVRVOuIUxjoxeuNbd26"
-        },
-        {
-          "name": "fawlin",
-          "url": "https://open.spotify.com/artist/1u5hEHvd4fpHDUye3r9lAm"
-        }
-      ],
-      "duration_ms": 194831,
-      "name": "like you",
-      "url": "https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) [Remix]",
         "url": "https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO"
       },
@@ -1543,6 +1519,30 @@
       "duration_ms": 211707,
       "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) - Remix",
       "url": "https://open.spotify.com/track/6G0XqXVBx2PHaOrSuHaWP0"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "like you",
+        "url": "https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo"
+      },
+      "artists": [
+        {
+          "name": "Braden Ross",
+          "url": "https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic"
+        },
+        {
+          "name": "Days to Waste",
+          "url": "https://open.spotify.com/artist/3atbVRVOuIUxjoxeuNbd26"
+        },
+        {
+          "name": "fawlin",
+          "url": "https://open.spotify.com/artist/1u5hEHvd4fpHDUye3r9lAm"
+        }
+      ],
+      "duration_ms": 194831,
+      "name": "like you",
+      "url": "https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
-      },
-      "artists": [
-        {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 195572,
       "name": "21",
       "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
+      },
+      "artists": [
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Who Do You Pray To?",
-        "url": "https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z"
+        "name": "Peder",
+        "url": "https://open.spotify.com/album/3YjRY4GAEC4PQTSIUuJ3Eb"
       },
       "artists": [
         {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+          "name": "Lido",
+          "url": "https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk"
         }
       ],
-      "duration_ms": 189092,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW"
+      "duration_ms": 238800,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1y5cs2YiO2dBsoh5xzZxnF"
     }
   ],
   "unique_name": "Laid Back Beats",

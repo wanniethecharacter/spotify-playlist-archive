@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 
 > One in a million! TWICE! MOONLIGHT SUNRISE is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,336 likes - 113 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,831 likes - 113 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlCv3D85m6m.md) - [plain]
 | 112 | [GIRLS LIKE US](https://open.spotify.com/track/2mJAZlRKj2egyDPuOgSaFz) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 2:38 |
 | 113 | [STUCK IN MY HEAD](https://open.spotify.com/track/19rOI8tvgnNUQaNyz0n2TP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 2:56 |
 
-Snapshot ID: `MTY3NDgwMTc5NiwwMDAwMDAwMGI0M2MwMGRkYWE0ZmI2YTYwNmQyMTgyZGQ3ODYwMjYy`
+Snapshot ID: `MTY3NDgwMTc5NiwwMDAwMDAwMDM1NmMxYjkwM2M3MGZhOTBhM2EwOTIwN2MzYzY4NTky`

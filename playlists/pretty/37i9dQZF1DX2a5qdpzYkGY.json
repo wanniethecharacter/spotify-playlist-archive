@@ -1,12 +1,12 @@
 {
   "description": "Music for Imaginary Films",
-  "num_followers": 9217,
+  "num_followers": 9230,
   "original_name": "Nocturna Cinematica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxNzI4NCwwMDAwMDAwMGY5N2QwMzliYmUxYTAwNTM0NjYxZmUzOTVlZDU2MjNk",
+  "snapshot_id": "MTY3ODEzMTE1OSwwMDAwMDAwMGU1NTljNzI1YWRlNWM3ZmFlOTA4OWZjMWI3MmQ3ZGQ0",
   "tracks": [
     {
       "added_at": "2023-03-03 03:04:26",
@@ -113,6 +113,26 @@
       "url": "https://open.spotify.com/track/6KNLUSRViRg5bG0E1y1feX"
     },
     {
+      "added_at": "2023-03-07 02:56:03",
+      "album": {
+        "name": "Fenomeno",
+        "url": "https://open.spotify.com/album/2bCYmMuzZsimxTQWDrTEw4"
+      },
+      "artists": [
+        {
+          "name": "Delphi",
+          "url": "https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe"
+        },
+        {
+          "name": "Spalato Wyale",
+          "url": "https://open.spotify.com/artist/4B6N6t2bTzsNH4n3gF74y5"
+        }
+      ],
+      "duration_ms": 169077,
+      "name": "Lobanovski",
+      "url": "https://open.spotify.com/track/2JClgrHLY8T64gCF8spaQw"
+    },
+    {
       "added_at": "2023-01-04 01:15:24",
       "album": {
         "name": "PMA",
@@ -149,6 +169,22 @@
       "url": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN"
     },
     {
+      "added_at": "2023-03-03 03:04:26",
+      "album": {
+        "name": "Manuale Illusione",
+        "url": "https://open.spotify.com/album/05ALsLSyP3uHJP8e9MxAJ5"
+      },
+      "artists": [
+        {
+          "name": "Ai!",
+          "url": "https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ"
+        }
+      ],
+      "duration_ms": 238250,
+      "name": "Manuale Illusione",
+      "url": "https://open.spotify.com/track/6tWdTaIH49W7Zmy2kyyHkQ"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Open",
@@ -165,10 +201,10 @@
       "url": "https://open.spotify.com/track/4ygSSIuPuM0EYu22s8YF4t"
     },
     {
-      "added_at": "2023-03-03 03:04:26",
+      "added_at": "2023-03-06 19:29:47",
       "album": {
         "name": "Manuale Illusione",
-        "url": "https://open.spotify.com/album/05ALsLSyP3uHJP8e9MxAJ5"
+        "url": "https://open.spotify.com/album/5mbSRdkta9YJNrE5enrRQp"
       },
       "artists": [
         {
@@ -176,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ"
         }
       ],
-      "duration_ms": 238250,
-      "name": "Manuale Illusione",
-      "url": "https://open.spotify.com/track/6tWdTaIH49W7Zmy2kyyHkQ"
+      "duration_ms": 612500,
+      "name": "Dimensioni",
+      "url": "https://open.spotify.com/track/5PyuNTJsfks0Ub77EvdOQ5"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -311,22 +347,6 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "v2.0 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7rXrjbrYcXG8EkqXpt0weK"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 252754,
-      "name": "Murmuration",
-      "url": "https://open.spotify.com/track/6DNWsuWuAXAlpmsad1sGfz"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
         "name": "Talk Memory",
         "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
       },
@@ -363,6 +383,22 @@
       "duration_ms": 304386,
       "name": "Prowler",
       "url": "https://open.spotify.com/track/3aBIGzDlzBpYj9dPPBn9yj"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "v2.0 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7rXrjbrYcXG8EkqXpt0weK"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 252754,
+      "name": "Murmuration",
+      "url": "https://open.spotify.com/track/6DNWsuWuAXAlpmsad1sGfz"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -433,38 +469,6 @@
       "url": "https://open.spotify.com/track/6rihywZn0l3Gc3ggHrmNis"
     },
     {
-      "added_at": "2022-02-23 18:08:16",
-      "album": {
-        "name": "Marginalia III",
-        "url": "https://open.spotify.com/album/6biHewklP04G9dU2nu5jhM"
-      },
-      "artists": [
-        {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Marginalia #48",
-      "url": "https://open.spotify.com/track/6wVZmYHeNd4TJioyfMFdiV"
-    },
-    {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 387666,
-      "name": "Constant Fear",
-      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "IV",
@@ -483,6 +487,22 @@
       "duration_ms": 384717,
       "name": "Confessions Pt. II",
       "url": "https://open.spotify.com/track/0leupRPZ98IZxDRLFbfH3W"
+    },
+    {
+      "added_at": "2022-02-23 18:08:16",
+      "album": {
+        "name": "Marginalia III",
+        "url": "https://open.spotify.com/album/6biHewklP04G9dU2nu5jhM"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Marginalia #48",
+      "url": "https://open.spotify.com/track/6wVZmYHeNd4TJioyfMFdiV"
     },
     {
       "added_at": "2023-01-12 02:08:10",
@@ -521,20 +541,20 @@
       "url": "https://open.spotify.com/track/4WdUMgVMYdn1xeu3X2z9Ai"
     },
     {
-      "added_at": "2023-01-02 20:54:03",
+      "added_at": "2022-09-03 03:50:05",
       "album": {
-        "name": "Glass Effect",
-        "url": "https://open.spotify.com/album/7aGcbrgSOp6pgTC0AQ1oc6"
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
       },
       "artists": [
         {
-          "name": "Ben Marc",
-          "url": "https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ"
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
         }
       ],
-      "duration_ms": 206746,
-      "name": "Way We Are",
-      "url": "https://open.spotify.com/track/7BL0yd3SW6TgTxPV6ORWQI"
+      "duration_ms": 387666,
+      "name": "Constant Fear",
+      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -551,6 +571,22 @@
       "duration_ms": 334040,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
+    },
+    {
+      "added_at": "2023-01-02 20:54:03",
+      "album": {
+        "name": "Glass Effect",
+        "url": "https://open.spotify.com/album/7aGcbrgSOp6pgTC0AQ1oc6"
+      },
+      "artists": [
+        {
+          "name": "Ben Marc",
+          "url": "https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Way We Are",
+      "url": "https://open.spotify.com/track/7BL0yd3SW6TgTxPV6ORWQI"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -781,22 +817,6 @@
       "url": "https://open.spotify.com/track/6NdiQtxFYkcoo3NDxqOIiV"
     },
     {
-      "added_at": "2023-01-07 03:49:19",
-      "album": {
-        "name": "Coaxial",
-        "url": "https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6"
-      },
-      "artists": [
-        {
-          "name": "Bandler Ching",
-          "url": "https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR"
-        }
-      ],
-      "duration_ms": 310464,
-      "name": "Smooch",
-      "url": "https://open.spotify.com/track/0mxkPFP9OWqJNdqq5TlmzQ"
-    },
-    {
       "added_at": "2022-09-03 03:50:05",
       "album": {
         "name": "Black Earth",
@@ -811,6 +831,22 @@
       "duration_ms": 458693,
       "name": "Maximum Black",
       "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
+    },
+    {
+      "added_at": "2023-01-07 03:49:19",
+      "album": {
+        "name": "Coaxial",
+        "url": "https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6"
+      },
+      "artists": [
+        {
+          "name": "Bandler Ching",
+          "url": "https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR"
+        }
+      ],
+      "duration_ms": 310464,
+      "name": "Smooch",
+      "url": "https://open.spotify.com/track/0mxkPFP9OWqJNdqq5TlmzQ"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -859,22 +895,6 @@
       "duration_ms": 229623,
       "name": "Spring's Theme",
       "url": "https://open.spotify.com/track/6cF8Z623V1z9sovxUEdWYW"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "The Last Retention",
-        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
-      },
-      "artists": [
-        {
-          "name": "Ronnie & Clyde",
-          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "The Last Retention",
-      "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
     },
     {
       "added_at": "2022-09-03 02:57:57",
@@ -941,20 +961,20 @@
       "url": "https://open.spotify.com/track/2kBonSflRzcJY7Xndvvtl3"
     },
     {
-      "added_at": "2022-01-07 01:26:10",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Isola",
-        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
+        "name": "The Last Retention",
+        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
       },
       "artists": [
         {
-          "name": "Rumpistol",
-          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
+          "name": "Ronnie & Clyde",
+          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
         }
       ],
-      "duration_ms": 315960,
-      "name": "Vindheks",
-      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
+      "duration_ms": 244773,
+      "name": "The Last Retention",
+      "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -971,6 +991,38 @@
       "duration_ms": 159158,
       "name": "The Pillow Sisters",
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
+    },
+    {
+      "added_at": "2022-01-07 01:26:10",
+      "album": {
+        "name": "Isola",
+        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
+      },
+      "artists": [
+        {
+          "name": "Rumpistol",
+          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
+        }
+      ],
+      "duration_ms": 315960,
+      "name": "Vindheks",
+      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
+    },
+    {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Midnight Radio",
+        "url": "https://open.spotify.com/album/6l8mnq08KVmXmsaIKSBCuX"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 1353960,
+      "name": "Midnight Radio Track 1",
+      "url": "https://open.spotify.com/track/6shFSMxTjCAK20k5N3LeRA"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1003,22 +1055,6 @@
       "duration_ms": 238000,
       "name": "Klass - MISSUXO Film Edit",
       "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
-    },
-    {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Midnight Radio",
-        "url": "https://open.spotify.com/album/6l8mnq08KVmXmsaIKSBCuX"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 1353960,
-      "name": "Midnight Radio Track 1",
-      "url": "https://open.spotify.com/track/6shFSMxTjCAK20k5N3LeRA"
     },
     {
       "added_at": "2022-08-03 04:26:51",
@@ -1173,6 +1209,22 @@
       "url": "https://open.spotify.com/track/26b7DkpsVvOSnHgFnHJ4RV"
     },
     {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+    },
+    {
       "added_at": "2022-01-07 01:30:59",
       "album": {
         "name": "Mountains, Go",
@@ -1203,22 +1255,6 @@
       "duration_ms": 519893,
       "name": "Management Of Sorrows",
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
-    },
-    {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1301,22 +1337,6 @@
       "url": "https://open.spotify.com/track/4xGDICSoSOZ9MKJO9U4z0G"
     },
     {
-      "added_at": "2022-02-18 04:38:12",
-      "album": {
-        "name": "atomic bombs atomic bonds i love you",
-        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
-      },
-      "artists": [
-        {
-          "name": "Askjell",
-          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
-        }
-      ],
-      "duration_ms": 327600,
-      "name": "atomic bombs atomic bonds i love you",
-      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
-    },
-    {
       "added_at": "2022-05-24 01:08:19",
       "album": {
         "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
@@ -1331,6 +1351,22 @@
       "duration_ms": 265200,
       "name": "Exile on \u00c6r\u00f8",
       "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
+    },
+    {
+      "added_at": "2022-02-18 04:38:12",
+      "album": {
+        "name": "atomic bombs atomic bonds i love you",
+        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
+      },
+      "artists": [
+        {
+          "name": "Askjell",
+          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
+        }
+      ],
+      "duration_ms": 327600,
+      "name": "atomic bombs atomic bonds i love you",
+      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1469,22 +1505,6 @@
       "url": "https://open.spotify.com/track/12iSO9IrdXEQpSMdzBNYxi"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Kissing Rosy in the Rain",
-        "url": "https://open.spotify.com/album/50FEEQKJa8YI9bfKDSxmuz"
-      },
-      "artists": [
-        {
-          "name": "Mason Lindahl",
-          "url": "https://open.spotify.com/artist/1JHWVGXM8J7dAaLZpCqFcP"
-        }
-      ],
-      "duration_ms": 264093,
-      "name": "Sky Breaking, Clouds Falling",
-      "url": "https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3"
-    },
-    {
       "added_at": "2022-05-17 23:06:45",
       "album": {
         "name": "Genesis",
@@ -1499,6 +1519,22 @@
       "duration_ms": 199058,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Kissing Rosy in the Rain",
+        "url": "https://open.spotify.com/album/50FEEQKJa8YI9bfKDSxmuz"
+      },
+      "artists": [
+        {
+          "name": "Mason Lindahl",
+          "url": "https://open.spotify.com/artist/1JHWVGXM8J7dAaLZpCqFcP"
+        }
+      ],
+      "duration_ms": 264093,
+      "name": "Sky Breaking, Clouds Falling",
+      "url": "https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3"
     },
     {
       "added_at": "2022-02-25 04:13:05",
@@ -1663,46 +1699,6 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Strange Town (Remixes)",
-        "url": "https://open.spotify.com/album/3IWvpskD2SS8YToV4Dkt7T"
-      },
-      "artists": [
-        {
-          "name": "Buzzy Lee",
-          "url": "https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ"
-        },
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 315111,
-      "name": "Strange Town - Julia Holter Edit",
-      "url": "https://open.spotify.com/track/2bKdcXm8NZ0yavonGR86Vf"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Wandering II (Ed Carlsen Rework)",
-        "url": "https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        },
-        {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
-        }
-      ],
-      "duration_ms": 190754,
-      "name": "Wandering II - Ed Carlsen Rework",
-      "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
         "name": "Flamagra (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5isX5uxyIzjzvuOwLZ1GME"
       },
@@ -1719,18 +1715,22 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Prince Blimey (Expanded Version)",
-        "url": "https://open.spotify.com/album/3sO8WNFbXBj9uPos7BlXaV"
+        "name": "Strange Town (Remixes)",
+        "url": "https://open.spotify.com/album/3IWvpskD2SS8YToV4Dkt7T"
       },
       "artists": [
         {
-          "name": "Red Snapper",
-          "url": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
+          "name": "Buzzy Lee",
+          "url": "https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ"
+        },
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
         }
       ],
-      "duration_ms": 341400,
-      "name": "Thomas The Fib",
-      "url": "https://open.spotify.com/track/24BUtbyeWfHzL0SDCdnywp"
+      "duration_ms": 315111,
+      "name": "Strange Town - Julia Holter Edit",
+      "url": "https://open.spotify.com/track/2bKdcXm8NZ0yavonGR86Vf"
     }
   ],
   "unique_name": "Nocturna Cinematica",

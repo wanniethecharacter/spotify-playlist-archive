@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Photo : Robin Mckelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,784 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,815 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Lady \(Ezra Collective Version\)](https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Lady \(Ezra Collective Version\)](https://open.spotify.com/album/4yw5JJgvqt2Lv8aT24tqK3) | 5:47 |
 | 50 | [I Saw Her Standing There](https://open.spotify.com/track/3aVmoxYkKf1Hgv7JzRr6OJ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know: Brad Mehldau Plays The Beatles](https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT) | 3:54 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDU4MWU0MzhhZDUwYmIyOTQxNDg4Yjk1ZDBiNzdhMmYz`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDRkOGI3ZDVhNWZmYjEwN2RjNTZlOTk2ODEzN2ZjODZl`

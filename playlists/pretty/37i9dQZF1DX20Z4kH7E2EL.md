@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,002 likes - 85 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,040 likes - 85 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 84 | [Body Movin' \- Extended Mix](https://open.spotify.com/track/1NbwhMd3rU73r2xadoLgyF) | [Hotswing](https://open.spotify.com/artist/4c1uPButBrvsYP2XDrY0fe) | [Body Movin'](https://open.spotify.com/album/1wkjX7QnObM0Q5nzd4y09u) | 5:20 |
 | 85 | [Late Hours](https://open.spotify.com/track/49URGYhb2o6Q2WoU6PJnhB) | [Furcloud](https://open.spotify.com/artist/6iRHTNWYmHJekug9RLajZQ), [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [Late Hours / Patterns](https://open.spotify.com/album/5ISRZSfT7Kk74e564UozWG) | 3:16 |
 
-Snapshot ID: `MTY3NjY0NjAwMCwwMDAwMDAwMDI3ZTFjMjE1MjhjZGE4N2E4NmZhMzlmOGViZDQ3ZGYx`
+Snapshot ID: `MTY3NjY0NjAwMCwwMDAwMDAwMDc0Mzk5MTIyY2E0NGM3ZjU1YTM5MDJjMGE0MjUwODM2`

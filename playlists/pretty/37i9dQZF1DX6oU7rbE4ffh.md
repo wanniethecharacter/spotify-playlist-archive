@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,944 likes - 116 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,988 likes - 116 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 115 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |
 | 116 | [Canes Venatici](https://open.spotify.com/track/2P64F9RPwQos7ELkKotqW5) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Canes Venatici](https://open.spotify.com/album/4FcA1I4Xjgy2fpry8zNlK3) | 3:43 |
 
-Snapshot ID: `MTY3Nzg2NjUyMywwMDAwMDAwMGY5YjU5NGI4YmRmYmRiN2Q0ZjY5NWIxZjcyZGU2NzJj`
+Snapshot ID: `MTY3Nzg2NjUyMywwMDAwMDAwMDIxM2VjNGE3MmU3YTA5YTQwYjVlZTkxN2NjNjIzOTk3`

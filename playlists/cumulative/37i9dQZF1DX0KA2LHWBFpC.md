@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0KA2LHWBFpC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0KA2LHWBFpC)
 
-### [ 新海誠 音楽の扉 \- Songs from Makoto Shinkai's Movies \-](https://open.spotify.com/playlist/37i9dQZF1DX0KA2LHWBFpC)
+### ["Suzume" & Songs from Makoto Shinkai's Movies \-](https://open.spotify.com/playlist/37i9dQZF1DX0KA2LHWBFpC)
 
-> 映画<a href="https://suzume\-tojimari\-movie.jp/">『すずめの戸締まり』</a>の公開を記念して、新海誠監督作品を彩ってきた数多くの名曲をひとつのプレイリストにしました。 <a href="spotify:show:5nlDsmpul9enHhSHgkfPD5">音声版『聴く小説・すずめの戸締まり』はこちら</a> © 2022「すずめの戸締まり」製作委員会
+> Collection of the greatest songs from Makoto Shinkai's movies, including the latest movie, <a href="https://suzume\-tojimari\-movie.jp/">"Suzume"</a>\.   2022 "Suzume" Film Partners
 
 72 songs - 5 hr 35 min
 

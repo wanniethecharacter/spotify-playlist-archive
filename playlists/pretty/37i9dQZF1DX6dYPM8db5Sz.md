@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph?si=RA0yX1ZOSaunDLHgzBtmeg">Tanaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,566 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,572 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 74 | [Nightlife](https://open.spotify.com/track/2Tl6JJicXPbQn0pLcysIhC) | [Reino Brink](https://open.spotify.com/artist/02IxvUvOYgFtnt0SFWi3aq) | [Break and Bend](https://open.spotify.com/album/7HbwlUsjRYdzOPwGtpOC7q) | 3:30 |
 | 75 | [Triomf](https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a) | [The Great Yawn](https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6) | [Triomf](https://open.spotify.com/album/4KtfSPfZHnrRquL9dg13r5) | 4:49 |
 
-Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMDI3ZmFmYzA0Y2Y4YTkwNDM4NTU3Y2Y2YTM5ZWJiOGVl`
+Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMGJiMmM4MTNlNGMwM2M4OTY3NjdjNGI4OTc1YWQ4MDgz`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Achis achis los mariachis! ",
-  "num_followers": 16075,
+  "num_followers": 16088,
   "original_name": "Mariachi Loco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYwMjgwMSwwMDAwMDAwMDgwZjJlMTI4Y2Q3YjNiMTE2YzlhOGU2MWIyOTNlMTcw",
+  "snapshot_id": "MTY3NDYwMjgwMSwwMDAwMDAwMDJiZTQzOTViZmM1ZDVjYmE5M2RlY2YwYzE4ZDk3YzI4",
   "tracks": [
     {
       "added_at": "2023-01-24 23:26:41",
@@ -43,8 +43,8 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+        "name": "Que Seas Muy Feliz",
+        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 229053,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u"
+      "duration_ms": 213733,
+      "name": "Como Quien Pierde una Estrella",
+      "url": "https://open.spotify.com/track/4tfawx7oL39IUS0GyOlmcP"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Sabes Una Cosa",
+      "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
         "name": "Cien a\u00f1os... pensando en ti",
         "url": "https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc"
       },
@@ -171,24 +187,24 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 200386,
-      "name": "Sabes Una Cosa",
-      "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
+      "duration_ms": 209184,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/2sPKpLQFem7ScAbUQDAzeh"
     },
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
       "artists": [
         {
@@ -196,9 +212,25 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 213733,
-      "name": "Como Quien Pierde una Estrella",
-      "url": "https://open.spotify.com/track/4tfawx7oL39IUS0GyOlmcP"
+      "duration_ms": 229053,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "duration_ms": 150952,
+      "name": "Botellitas",
+      "url": "https://open.spotify.com/track/11jLJ2m6vrdCyHl0kaOdz3"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -219,34 +251,18 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 209184,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/2sPKpLQFem7ScAbUQDAzeh"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        }
-      ],
-      "duration_ms": 150952,
-      "name": "Botellitas",
-      "url": "https://open.spotify.com/track/11jLJ2m6vrdCyHl0kaOdz3"
+      "duration_ms": 175920,
+      "name": "Serenata huasteca",
+      "url": "https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -299,18 +315,18 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Vicente Fernandez La Leyenda Viviente (Digi-Pack)",
-        "url": "https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW"
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 212573,
-      "name": "M\u00e9xico Lindo Y Querido",
-      "url": "https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr"
+      "duration_ms": 178689,
+      "name": "Ay, Chabela",
+      "url": "https://open.spotify.com/track/2LyHh2xmfD5nOWNwfkueUH"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -324,9 +340,25 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 175920,
-      "name": "Serenata huasteca",
-      "url": "https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO"
+      "duration_ms": 164413,
+      "name": "La fiesta del mariachi",
+      "url": "https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "Vicente Fernandez La Leyenda Viviente (Digi-Pack)",
+        "url": "https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "M\u00e9xico Lindo Y Querido",
+      "url": "https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -363,18 +395,18 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+        "name": "Fiesta Mexicana Con Mariachi (USA)",
+        "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 178689,
-      "name": "Ay, Chabela",
-      "url": "https://open.spotify.com/track/2LyHh2xmfD5nOWNwfkueUH"
+      "duration_ms": 179000,
+      "name": "El son de la negra",
+      "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -411,18 +443,18 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Fiesta Mexicana Con Mariachi (USA)",
-        "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
+        "name": "Antonio Aguilar",
+        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
       },
       "artists": [
         {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 179000,
-      "name": "El son de la negra",
-      "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
+      "duration_ms": 173940,
+      "name": "Alta Y Delgadita",
+      "url": "https://open.spotify.com/track/6pMOQCVMyHPo7TgL0Rv0vA"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -443,54 +475,6 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Mexican Music: Best Mariachi Music. Traditional & Popular Mexican Songs, Rancheras & Corridos",
-        "url": "https://open.spotify.com/album/7ynAgcVHO5LuUTQ8SkkG2L"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Pablo Olmedo",
-          "url": "https://open.spotify.com/artist/57eFfYB14GxTUGPoZCCtvR"
-        }
-      ],
-      "duration_ms": 179902,
-      "name": "Negrita de Mis Pesares",
-      "url": "https://open.spotify.com/track/4yHL70akK2dL99EU0DviKH"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 164413,
-      "name": "La fiesta del mariachi",
-      "url": "https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
-        "name": "De Buen Humor, Con Las Canciones Y La Voz De Chava Flores",
-        "url": "https://open.spotify.com/album/3AS7o4ZD2AYKG5VhuOJSmg"
-      },
-      "artists": [
-        {
-          "name": "Chava Flores",
-          "url": "https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2"
-        }
-      ],
-      "duration_ms": 141440,
-      "name": "La Interesada",
-      "url": "https://open.spotify.com/track/5UbjsmHa2M69q2Q1bzmDBE"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
         "name": "Las Canciones Mexicanas Que El Mundo Canta",
         "url": "https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM"
       },
@@ -507,18 +491,34 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Antonio Aguilar",
-        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
+        "name": "Mexican Music: Best Mariachi Music. Traditional & Popular Mexican Songs, Rancheras & Corridos",
+        "url": "https://open.spotify.com/album/7ynAgcVHO5LuUTQ8SkkG2L"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Mariachi Pablo Olmedo",
+          "url": "https://open.spotify.com/artist/57eFfYB14GxTUGPoZCCtvR"
         }
       ],
-      "duration_ms": 173940,
-      "name": "Alta Y Delgadita",
-      "url": "https://open.spotify.com/track/6pMOQCVMyHPo7TgL0Rv0vA"
+      "duration_ms": 179902,
+      "name": "Negrita de Mis Pesares",
+      "url": "https://open.spotify.com/track/4yHL70akK2dL99EU0DviKH"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "De Buen Humor, Con Las Canciones Y La Voz De Chava Flores",
+        "url": "https://open.spotify.com/album/3AS7o4ZD2AYKG5VhuOJSmg"
+      },
+      "artists": [
+        {
+          "name": "Chava Flores",
+          "url": "https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2"
+        }
+      ],
+      "duration_ms": 141440,
+      "name": "La Interesada",
+      "url": "https://open.spotify.com/track/5UbjsmHa2M69q2Q1bzmDBE"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
+        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 214439,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/1sglM2aQR5DikqDqj2W8N9"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
         "name": "Y Tenerte Otra Vez",
         "url": "https://open.spotify.com/album/3XOL5NajeukV0zKqmexjC5"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
-        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 214439,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/1sglM2aQR5DikqDqj2W8N9"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
         "name": "Puras Rancheritas",
         "url": "https://open.spotify.com/album/55D5G5C78fRVD5pcDKO2Ev"
       },
@@ -679,38 +679,6 @@
       "duration_ms": 161985,
       "name": "La Huevona",
       "url": "https://open.spotify.com/track/7BfMKclY3GQ0opA0fK7d9N"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
-        "name": "Tesoros De Coleccion - Eleazar Garcia \"Chelelo\"",
-        "url": "https://open.spotify.com/album/2X07iqs573O0zHmMbJwtml"
-      },
-      "artists": [
-        {
-          "name": "Eleazar Garcia \"Chelelo\"",
-          "url": "https://open.spotify.com/artist/0VsagfYKzqyBGt6O6tzIHP"
-        }
-      ],
-      "duration_ms": 132733,
-      "name": "La Ventana S\u00f3nica",
-      "url": "https://open.spotify.com/track/72GbXDJ7g7sm0iGitCGqC6"
-    },
-    {
-      "added_at": "2023-01-24 23:26:41",
-      "album": {
-        "name": "Rancheras & Mariachi",
-        "url": "https://open.spotify.com/album/3ToEMff8iNoGuVuOPQXnMk"
-      },
-      "artists": [
-        {
-          "name": "Luis P\u00e9rez Meza",
-          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
-        }
-      ],
-      "duration_ms": 140921,
-      "name": "El G\u00fciri G\u00fciri",
-      "url": "https://open.spotify.com/track/17rmz3Z7kpqQruM9PGbySw"
     },
     {
       "added_at": "2023-01-24 23:26:41",
@@ -731,6 +699,22 @@
     {
       "added_at": "2023-01-24 23:26:41",
       "album": {
+        "name": "Tesoros De Coleccion - Eleazar Garcia \"Chelelo\"",
+        "url": "https://open.spotify.com/album/2X07iqs573O0zHmMbJwtml"
+      },
+      "artists": [
+        {
+          "name": "Eleazar Garcia \"Chelelo\"",
+          "url": "https://open.spotify.com/artist/0VsagfYKzqyBGt6O6tzIHP"
+        }
+      ],
+      "duration_ms": 132733,
+      "name": "La Ventana S\u00f3nica",
+      "url": "https://open.spotify.com/track/72GbXDJ7g7sm0iGitCGqC6"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
         "name": "Rico Vacil\u00f3n (16 Tracks)",
         "url": "https://open.spotify.com/album/39sZRumghk9zw60fJ01fzt"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 193266,
       "name": "La tertulia",
       "url": "https://open.spotify.com/track/0Kt3S2259SxIOfwvM8YV0f"
+    },
+    {
+      "added_at": "2023-01-24 23:26:41",
+      "album": {
+        "name": "Rancheras & Mariachi",
+        "url": "https://open.spotify.com/album/3ToEMff8iNoGuVuOPQXnMk"
+      },
+      "artists": [
+        {
+          "name": "Luis P\u00e9rez Meza",
+          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
+        }
+      ],
+      "duration_ms": 140921,
+      "name": "El G\u00fciri G\u00fciri",
+      "url": "https://open.spotify.com/track/17rmz3Z7kpqQruM9PGbySw"
     },
     {
       "added_at": "2023-01-24 23:26:41",

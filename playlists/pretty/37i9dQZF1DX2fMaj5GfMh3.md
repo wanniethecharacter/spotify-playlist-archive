@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Mia Nicolai & Dion Cooper vormen dit jaar TeamNL tijdens het Eurovisie Songfestival 2023 met 'Burning Daylight'\. 🔥🔥🔥 🇳🇱🇳🇱🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,987 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,013 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [I Want It All](https://open.spotify.com/track/66qkBxuwjKxEbvLxo4tY0C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [I Want It All](https://open.spotify.com/album/3GwSedcMHVElOaF9Wm5Tqx) | 3:12 |
 | 100 | [Weapons](https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Weapons](https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO) | 2:31 |
 
-Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMGM3ZDg0MmVlYTE1YTE2YzA4NTk5MTc1MDcwYWFmMDZm`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDVhOTQ0NWMxNGQwODdmOTQ5NTU3NjNiNTdhZDczNDU4`

@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 135285,
       "name": "De Novo",
       "url": "https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp"
@@ -5638,6 +5638,24 @@
       "duration_ms": 160000,
       "name": "Todo Mundo Ama o Sol",
       "url": "https://open.spotify.com/track/2wWsNCdgtkFRX5xVhKYCXT"
+    },
+    {
+      "album": {
+        "name": "Todo Mundo Ama O Sol",
+        "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
+      },
+      "artists": [
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Todo Mundo Ama o Sol",
+      "url": "https://open.spotify.com/track/30KnuGgwh6EtBCTFT3iGLe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-771 songs - 1 day 18 hr 49 min
+772 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [50 Ft](https://open.spotify.com/track/6Y3sIFJugSl4lULQb1TZzW) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Jared Anthony](https://open.spotify.com/artist/5jojdq6ltCT6cbv6WpKikI) | [50 Ft](https://open.spotify.com/album/6Q6zPcPCBT01MsQOq8687H) | 3:03 | 2021-03-30 | 2021-10-16 |
 | [661](https://open.spotify.com/track/3ospStorNDG6tgVymlv7Z9) | [Ariaa](https://open.spotify.com/artist/1QRPeX2c9ua8VuUvZjpTTJ) | [661](https://open.spotify.com/album/5yaBHVmdBjL7EYRo2lZzu5) | 2:40 | 2021-03-27 | 2021-12-11 |
 | [8](https://open.spotify.com/track/5b7Ry44gTWXNNMtHuvna5K) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Madden NFL 22 Soundtrack](https://open.spotify.com/album/42WcUIaTj6ggCHj6bNelpB) | 2:22 | 2021-08-18 | 2021-10-16 |
+| [>one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-03-06 |  |
 | [A Dark Knight](https://open.spotify.com/track/5QFdOfeQlX8gp7ick31XRG) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 16:15 | 2019-09-29\* | 2021-03-09 |
 | [A Dub](https://open.spotify.com/track/5S8q49WwnmoSoeWTTE7P9o) | [Ro$$ Mac](https://open.spotify.com/artist/1Wp4pz27ln2IJoV9nIreFF) | [Maconomics 101](https://open.spotify.com/album/5AL3J6voDVSxxVJSbQmnBN) | 2:35 | 2021-04-04 | 2021-04-21 |
 | [A Hard Teacher](https://open.spotify.com/track/3UOFrelbGLUWJpRRzH3hbZ) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Last Samurai: Original Motion Picture Score](https://open.spotify.com/album/1EqLdtiBSgULHA01ooROeY) | 5:44 | 2019-09-29 | 2021-03-14 |

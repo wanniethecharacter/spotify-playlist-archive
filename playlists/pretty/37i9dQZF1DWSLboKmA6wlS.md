@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: Methane\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,543 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,553 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 79 | [ดาวที่ถูกลืม \(Star\)](https://open.spotify.com/track/6urPFv9cHS42eQQE8cigir) | [Sense & Cold](https://open.spotify.com/artist/7x25mmHajFFYu7kA8sVVPw) | [ดาวที่ถูกลืม \(Star\)](https://open.spotify.com/album/0Bhn9CuFbXMSVMayuyGNeC) | 5:11 |
 | 80 | [Out of Touch](https://open.spotify.com/track/1A3oSFobVzAfT11rk4RfJw) | [JULAJUCK](https://open.spotify.com/artist/6iKRVjDDnnab0BxXDP4nXS) | [Out of Touch](https://open.spotify.com/album/1iSHX8RxPTS68EbWv3CiLW) | 4:44 |
 
-Snapshot ID: `MTY3Nzg0MDMxMSwwMDAwMDAwMDE4OGZkZWY1MDZhOTc2NmNmNmM1NTBhMTEwOTFkYjdi`
+Snapshot ID: `MTY3Nzg0MDMxMSwwMDAwMDAwMDNjMzkzMjQ2OTg0NjlmZTgwN2NhNDY4ODNmOGJhNGVi`

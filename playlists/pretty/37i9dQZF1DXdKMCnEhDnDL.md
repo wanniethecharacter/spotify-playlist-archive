@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De grootste Nederlandse hits van vroeger en nu\. Cover: Maan & Goldband
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,142 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,220 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Dit Is De Dag](https://open.spotify.com/track/5KzAMpIepQFFNQvj0gkxuU) | [Dwight Dissels](https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f) | [Dit Is De Dag](https://open.spotify.com/album/3lhTzgO1x5G48bqsOGG3Kn) | 2:53 |
 | 100 | [Slapeloze Nachten](https://open.spotify.com/track/25JNDWUvZeZpvfXfarMpzJ) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Best Of The 10s: Party Hits](https://open.spotify.com/album/5P65bxTP4Bq4f6EBhsuSMU) | 3:49 |
 
-Snapshot ID: `MTY3NzQ5NDUxOSwwMDAwMDAwMGVmZTBhNTJjNzY3NzU3ZTk4MDVlMDUwZGEyZGVhYjhi`
+Snapshot ID: `MTY3NzQ5NDUxOSwwMDAwMDAwMGM0MDU0YTdlZGEyNTE5MDBhN2IyNDE0OTM2ZGMyOWZj`

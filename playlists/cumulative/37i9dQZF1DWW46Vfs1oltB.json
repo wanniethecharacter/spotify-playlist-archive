@@ -8321,6 +8321,40 @@
     },
     {
       "album": {
+        "name": "THE:RISE 5 with Baund",
+        "url": "https://open.spotify.com/album/0u5wY8PVDFTQdBMMx2sMrB"
+      },
+      "artists": [
+        {
+          "name": "PULLIK",
+          "url": "https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z"
+        },
+        {
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+        },
+        {
+          "name": "XINSAYNE",
+          "url": "https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS"
+        },
+        {
+          "name": "omyo",
+          "url": "https://open.spotify.com/artist/3JSXU3pLFj86gq9bjdPcrJ"
+        },
+        {
+          "name": "JP",
+          "url": "https://open.spotify.com/artist/1MZvn2OoRX4PO4KA85NwdD"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289706,
+      "name": "Input + Output",
+      "url": "https://open.spotify.com/track/6i6LUTHaEPRKteaWNIhHKc"
+    },
+    {
+      "album": {
         "name": "BEIGE 0.5",
         "url": "https://open.spotify.com/album/6GJsO34pG8npccTFqeOY0U"
       },
@@ -9571,6 +9605,32 @@
     },
     {
       "album": {
+        "name": "THE:RISE 5 with Baund",
+        "url": "https://open.spotify.com/album/0u5wY8PVDFTQdBMMx2sMrB"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/5ZmB3eXx6oDmzicmFdcqmr"
+        },
+        {
+          "name": "Chillin Homie",
+          "url": "https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM"
+        },
+        {
+          "name": "EPTEND",
+          "url": "https://open.spotify.com/artist/3X5atTeD09WXIpSzEq1Mez"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188210,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/4emIEej0tph5aZGzUfNWEP"
+    },
+    {
+      "album": {
         "name": "NEO CHRISTIAN",
         "url": "https://open.spotify.com/album/53L4UEcxgbL0XE1XXN6B3h"
       },
@@ -9790,7 +9850,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 167172,
       "name": "LIL BABY (Feat. KHAN)",
       "url": "https://open.spotify.com/track/5G9BqSOlFkFKrY7aLJoJJK"
@@ -11240,7 +11300,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 156960,
       "name": "Monster (feat.\ub178\uc724\ud558)",
       "url": "https://open.spotify.com/track/0MsOPluJ1VgCND8FgQEFBx"
@@ -13952,6 +14012,24 @@
       "duration_ms": 164699,
       "name": "Rhymonic Storm",
       "url": "https://open.spotify.com/track/1qNXErOFFCV5tHA2yehGIq"
+    },
+    {
+      "album": {
+        "name": "THE:RISE 5 with Baund",
+        "url": "https://open.spotify.com/album/0u5wY8PVDFTQdBMMx2sMrB"
+      },
+      "artists": [
+        {
+          "name": "Youth Hostel",
+          "url": "https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165361,
+      "name": "rhythm of the city",
+      "url": "https://open.spotify.com/track/76bK4fjOmHUQStlH1n9NVq"
     },
     {
       "album": {
@@ -16703,6 +16781,24 @@
     },
     {
       "album": {
+        "name": "THE:RISE 5 with Baund",
+        "url": "https://open.spotify.com/album/0u5wY8PVDFTQdBMMx2sMrB"
+      },
+      "artists": [
+        {
+          "name": "99' Nasty Kidz",
+          "url": "https://open.spotify.com/artist/4tg3yil6hmZM8xe5wz7rh5"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "TikiTaka",
+      "url": "https://open.spotify.com/track/2l7LuP74607k2A1m2hazN4"
+    },
+    {
+      "album": {
         "name": "Time Will Tell",
         "url": "https://open.spotify.com/album/7xAFMrJ5IA2Ay5dH0zT0qa"
       },
@@ -17502,7 +17598,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 182144,
       "name": "Waiting For You (feat. Jay Park)",
       "url": "https://open.spotify.com/track/0nC94WBww2j23UVqWCIq12"

@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-243 songs - 15 hr 24 min
+244 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Cruize](https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr) | 2:40 | 2022-05-30 |  |
 | [curly](https://open.spotify.com/track/3IqwiPbdJ53pT6es1utnqK) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 4:38 | 2022-04-22 | 2022-06-03 |
 | [Dat It](https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 4:46 | 2022-04-22 |  |
-| [Day By Day](https://open.spotify.com/track/2ehV1aHQC92xL9T7X5NDeq) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Gary Bartz JID006](https://open.spotify.com/album/1XN0Mj1xIRhvTStoqlsCXZ) | 4:55 | 2022-06-22 |  |
+| [Day By Day](https://open.spotify.com/track/2ehV1aHQC92xL9T7X5NDeq) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Gary Bartz JID006](https://open.spotify.com/album/1XN0Mj1xIRhvTStoqlsCXZ) | 4:55 | 2022-06-22 | 2023-03-07 |
 | [Day By Day](https://open.spotify.com/track/2nJTbCUSqva9qCjLFFQJhu) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Day By Day](https://open.spotify.com/album/48n17knZcV17EROw3ndSRm) | 4:55 | 2022-02-17 | 2022-07-29 |
 | [Diaspora](https://open.spotify.com/track/5nrz4ZupadbDIMasACxQzt) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Axiom](https://open.spotify.com/album/7wpNfF5Qh0ZT3EE6cy0yxQ) | 5:49 | 2022-02-17 | 2022-09-22 |
 | [Dilla Impresses Me](https://open.spotify.com/track/6eKOnF2DVCMxs8pH6O6DBJ) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Dilla Impresses Me](https://open.spotify.com/album/1tAmxMIuBVFvbB78TVUwFn) | 2:34 | 2022-02-17 |  |
@@ -84,6 +84,7 @@
 | [Fork In The Rhodes](https://open.spotify.com/track/3x5ZyzDcGUHVTfpKJXoevK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:58 | 2022-12-09 |  |
 | [Fork In The Rhodes](https://open.spotify.com/track/4bnlVHD6HzfiXsSfSR8uWO) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3) | 3:58 | 2022-06-02 | 2022-11-20 |
 | [Frank's Tune](https://open.spotify.com/track/0j5BDpqfAAzF4mtu4vE68P) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:37 | 2022-04-22 |  |
+| [Fresh Bloom](https://open.spotify.com/track/7qmcHozSGwsH5I7IjF16eU) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Fresh Bloom](https://open.spotify.com/album/2tc7pWoDXmlpiWrGuaeyPA) | 1:45 | 2023-03-02 |  |
 | [Friends](https://open.spotify.com/track/62ETSS8iVAoE47L0nNinTK) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Friends](https://open.spotify.com/album/19hBcwOsKTRuOclZ5bDoXP) | 1:44 | 2022-12-22 | 2023-02-23 |
 | [Frontline \- CARRTOONS Remix](https://open.spotify.com/track/3Qhv1YKYj84eJ6JSVO6E5n) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Frontline \(CARRTOONS Remix\)](https://open.spotify.com/album/20J2i6BDv9gNl2ytEXSHSL) | 3:06 | 2022-02-17 | 2022-06-03 |
 | [Fruit Market Jazz](https://open.spotify.com/track/2rUed9JkrDpHCU0KR1AYEh) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Fruit Market Jazz](https://open.spotify.com/album/7mTU3mxr061prOhmRKuHzQ) | 1:59 | 2022-02-17 |  |

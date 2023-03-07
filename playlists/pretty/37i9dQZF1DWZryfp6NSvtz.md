@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Webbed Wing
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,289 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,426 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Ashes to Thrive](https://open.spotify.com/track/7pa4hULvI1FWJOprcI6qHk) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Trance](https://open.spotify.com/album/5YV1I2FwPMDdEeRaAoZeNq) | 3:27 |
 | 50 | [Vicious Mind](https://open.spotify.com/track/5B2SzZVptFUzlya0Kur63W) | [Pamplemousse](https://open.spotify.com/artist/5mfSroygyqh7OOonNCJ4Z1) | [Vicious Mind](https://open.spotify.com/album/5Hrz53M9jj93YEMtv09dng) | 3:30 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDA1OGRjYTFmZmRhMjRiNWI0NGFhNjk5OWJiZTIyNDRl`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGUzNmY2NjZhYzk0MjI1ZGE1NDgxZDliNTk0ZGU3N2Zk`

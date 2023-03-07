@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-339 songs - 21 hr 25 min
+340 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Teddy Picker](https://open.spotify.com/track/5kxVyCgEUND7E2QKG7JmoF) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 2:45 | 2022-01-18 | 2022-07-17 |
 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2021-12-16 |  |
 | [That's What You Get](https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:40 | 2022-03-24 | 2022-04-21 |
-| [That's What You Get](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:40 | 2022-03-31 |  |
+| [That's What You Get](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:40 | 2022-03-31 | 2023-03-07 |
 | [The Ballad Of Chasey Lain](https://open.spotify.com/track/0l481RtogQ2BHsSecANMed) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 2:21 | 2021-12-16 | 2022-07-27 |
 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 | 2021-12-16 |  |
 | [The Chemicals Between Us \- Remastered](https://open.spotify.com/track/2zS8FkQaSNHAIpqePh95JB) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Science Of Things \(Remastered\)](https://open.spotify.com/album/4nyIZOdTVoGo94fIYU3foo) | 3:37 | 2021-12-16 | 2022-07-28 |
@@ -341,6 +341,7 @@
 | [Wicked Game](https://open.spotify.com/track/1eVYwIlxbOgSiiD0uvEhSy) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Love Songs Vol\. 666](https://open.spotify.com/album/3jw3OeaF1peR1uhDZMwBn6) | 3:53 | 2021-12-16 | 2022-07-01 |
 | [Wicked Garden](https://open.spotify.com/track/278jOl7gFMJ9WMnUbGxWRe) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core](https://open.spotify.com/album/7k1YOwYf369EX0aHeXApWp) | 4:05 | 2021-12-16 | 2022-04-30 |
 | [Wolf in Sheep's Clothing](https://open.spotify.com/track/55Fpeuuc2sbQiy74eA1gTt) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [William Beckett](https://open.spotify.com/artist/7CtuVv4AQbupHTsr3E4d9p) | [Duality](https://open.spotify.com/album/4mPWTksMsByAvomErPtJwK) | 3:07 | 2022-03-24 | 2022-04-21 |
+| [Wolf in Sheep's Clothing \(feat\. William Beckett\)](https://open.spotify.com/track/4WXFDVe299Po8ih6Np54n2) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt) | 3:07 | 2023-02-27 |  |
 | [Wolves in the Dark](https://open.spotify.com/track/1kiT87f5XRcGQEglXfnQp2) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Wolves in the Dark](https://open.spotify.com/album/3Sl6oWwQpPj8jeQNhVwEwm) | 3:34 | 2022-01-05 | 2022-01-07 |
 | [Woman](https://open.spotify.com/track/1k0hXbEQPT4IRDVAUqA135) | [Electric Mary](https://open.spotify.com/artist/5L1rOWU3saDGam8QkWPDqO) | [Mother](https://open.spotify.com/album/5dr0xxDeUqQZ1RzIh8ImsR) | 2:39 | 2022-01-05 | 2022-01-17 |
 | [World On Fire](https://open.spotify.com/track/7BPK61iM3LKNMv1qVOjIyf) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [World On Fire](https://open.spotify.com/album/2dU6SY6QOscg983uZhKi4E) | 3:35 | 2021-12-16 | 2022-04-30 |

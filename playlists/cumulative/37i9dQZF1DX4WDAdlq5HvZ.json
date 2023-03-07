@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "O God Our Mother",
+        "url": "https://open.spotify.com/album/0QRDfO8uH9FiyoETaU4Vda"
+      },
+      "artists": [
+        {
+          "name": "Samantha McCabe",
+          "url": "https://open.spotify.com/artist/7jEdW0KbQk4baXIdRNHArL"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221732,
+      "name": "O God Our Mother",
+      "url": "https://open.spotify.com/track/1CFsZ1rppH7wb9tJ6BW3Wm"
+    },
+    {
+      "album": {
         "name": "This Moment",
         "url": "https://open.spotify.com/album/0D5Xb7LlTG0qQjdtKv92LM"
       },
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 227855,
       "name": "You Have Provided",
       "url": "https://open.spotify.com/track/00bTXTGgdFZDo46TmY52Rv"

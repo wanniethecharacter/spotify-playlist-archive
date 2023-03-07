@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,321 likes - 106 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,325 likes - 106 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 105 | [Sun City Lights](https://open.spotify.com/track/7yyAUsOWK0uXFCVI1Ck4Fe) | [Molnet](https://open.spotify.com/artist/6iTfSUN2Lp2Gx9JAyKTVGX) | [Sun City Lights](https://open.spotify.com/album/2GuuSwfJHpF8IjGmljqNcL) | 3:10 |
 | 106 | [Vengeance \(The Pact\)](https://open.spotify.com/track/6VsoZxgcoFZ9RBtFKpyuo2) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Vengeance](https://open.spotify.com/album/4efoSIUuNZP6mkzb21ccXp) | 4:46 |
 
-Snapshot ID: `MTY3Nzk2MTgwMCwwMDAwMDAwMDkyOTRjYTQwM2U0NmJhMTg5MjhkYzlhMjAzZjE4OWI2`
+Snapshot ID: `MTY3Nzk2MTgwMCwwMDAwMDAwMGVjMDU4MGEzMzAyYjIwZmI0MzQwNGViYzJkYTc2ZjEw`

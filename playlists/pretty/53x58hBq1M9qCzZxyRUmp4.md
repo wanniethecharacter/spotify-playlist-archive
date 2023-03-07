@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 
 > 50 of each week's best new rock and metal tracks\. New updates every Friday!  🔊 🤘🏿🤘🤘🏽
 
-[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 12,220 likes - 50 songs - 3 hr 13 min
+[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 12,227 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 | 7 | [Eulogy](https://open.spotify.com/track/4JfMlJsDGIu1bVOYUnUYYH) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Eulogy](https://open.spotify.com/album/1yoLIxqTVxN9O5U5KmwIIj) | 2:21 |
 | 8 | [Mother Betrayal](https://open.spotify.com/track/7kwL7xDax2vDYpe8NRNOZ5) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [Mother Betrayal](https://open.spotify.com/album/2sQrmm5jNeVjLyVJ1F62R4) | 3:31 |
 | 9 | [Dom Andra](https://open.spotify.com/track/6w0jYoUuRzyNwCp0HdagvY) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za), [Jonas Renske](https://open.spotify.com/artist/2O1c4QD1ND5Qb60ImHdVpw) | [Dom Andra](https://open.spotify.com/album/0ozRtnZ9AjY2DwWDQTAiby) | 3:41 |
-| 10 | [RISE](https://open.spotify.com/track/1Q99lciGepKxOoUO0JxDAh) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [RISE](https://open.spotify.com/album/6SA6Ml0cEluSLl5NdqU0Bp) | 4:35 |
-| 11 | [Death of Darkness](https://open.spotify.com/track/2ZhucBjDMScbNTZdBH49mX) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Death of Darkness](https://open.spotify.com/album/0W8GrbYOd4s33C4HCtTzkW) | 4:00 |
-| 12 | [Thing in the Cage](https://open.spotify.com/track/4bZOAMlw6xSAmnuEDQ8EoJ) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Thing in the Cage](https://open.spotify.com/album/5YkxVDvSRVBXAmsn8k8ebj) | 5:13 |
-| 13 | [Hanged by My Hand](https://open.spotify.com/track/1mdTyzlaJo6P8CzeAM4iMq) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Hanged by My Hand](https://open.spotify.com/album/3SeBDjQIHpxvO8Te1OjbDy) | 3:13 |
-| 14 | [Hell Hounds](https://open.spotify.com/track/1C9UeIP1QjjyuQHtQqpnO4) | [Texas Hippie Coalition](https://open.spotify.com/artist/6LG6fIvh2XpjqHUuR7NRtt) | [Hell Hounds](https://open.spotify.com/album/1PUzI6G9bC5mn1iiugY6Zg) | 3:47 |
+| 10 | [Death of Darkness](https://open.spotify.com/track/2ZhucBjDMScbNTZdBH49mX) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Death of Darkness](https://open.spotify.com/album/0W8GrbYOd4s33C4HCtTzkW) | 4:00 |
+| 11 | [Thing in the Cage](https://open.spotify.com/track/4bZOAMlw6xSAmnuEDQ8EoJ) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Thing in the Cage](https://open.spotify.com/album/5YkxVDvSRVBXAmsn8k8ebj) | 5:13 |
+| 12 | [Hanged by My Hand](https://open.spotify.com/track/1mdTyzlaJo6P8CzeAM4iMq) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Hanged by My Hand](https://open.spotify.com/album/3SeBDjQIHpxvO8Te1OjbDy) | 3:13 |
+| 13 | [Hell Hounds](https://open.spotify.com/track/1C9UeIP1QjjyuQHtQqpnO4) | [Texas Hippie Coalition](https://open.spotify.com/artist/6LG6fIvh2XpjqHUuR7NRtt) | [Hell Hounds](https://open.spotify.com/album/1PUzI6G9bC5mn1iiugY6Zg) | 3:47 |
+| 14 | [RISE](https://open.spotify.com/track/1Q99lciGepKxOoUO0JxDAh) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [RISE](https://open.spotify.com/album/6SA6Ml0cEluSLl5NdqU0Bp) | 4:35 |
 | 15 | [The Death Of Me](https://open.spotify.com/track/3NTFEYvnCnkiMxVc21jGor) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/4SvwujGdVPbHhAR3DIQCc4) | 3:49 |
 | 16 | [Before I Knew the Truth](https://open.spotify.com/track/5U4YwDPK6pK6cTsGmv9Kr4) | [Liturgy](https://open.spotify.com/artist/5PIuMlRY9PSLUSFzs6lQu1) | [Before I Knew the Truth](https://open.spotify.com/album/32xqRBF1Ol66V8Eugvpbnx) | 4:26 |
 | 17 | [Eternal Spirits](https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Eternal Spirits](https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 | 49 | [Six](https://open.spotify.com/track/7GzuvHDso61Y9HcLT76qrj) | [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK) | [Six](https://open.spotify.com/album/58zgW3bCz0WHfJP5aAUfRc) | 4:54 |
 | 50 | [2340](https://open.spotify.com/track/5jQYFs9LXBqqPp2vvjpnKX) | [Oceanlord](https://open.spotify.com/artist/4tJey90LrftPqlAQLCfbB8) | [2340](https://open.spotify.com/album/6G7kZvQGDiUlvlvUV0gbya) | 6:05 |
 
-Snapshot ID: `MzU3MywwZjhlMjdmMzJiZjM2ZDMxNjk5YTY2NmVjMzMxMDhkN2ZhMjliODA1`
+Snapshot ID: `MzU3NCwwYTRhNTg1NGNlZGFjZmM2ZWI4NDg5YjVkY2E1NGY3ZWIwM2QwMGU2`

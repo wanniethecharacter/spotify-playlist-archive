@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Noah Pope",
-  "num_followers": 171589,
+  "num_followers": 171669,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzkwNjczNCwwMDAwMDAwMGE5NzM1MjdiMzdiOWZkNjc3NjAyODcxNTIwMzk4NDA1",
+  "snapshot_id": "MTY3ODEzNjEwMiwwMDAwMDAwMDBkOGE2ZjYyNGMxNzRmZTJiY2FmZGNmOWZmYzU5N2Ez",
   "tracks": [
     {
       "added_at": "2023-03-04 05:12:14",
@@ -109,6 +109,22 @@
       "url": "https://open.spotify.com/track/3aTtIdw4Wsuf3Y9QUJp4zs"
     },
     {
+      "added_at": "2023-03-06 20:55:02",
+      "album": {
+        "name": "Only Me",
+        "url": "https://open.spotify.com/album/2VkhUYQyYJMeRBNCEJkOTX"
+      },
+      "artists": [
+        {
+          "name": "Bliss Samsa",
+          "url": "https://open.spotify.com/artist/5Jb935Bdh5o2pBYzXFSFU6"
+        }
+      ],
+      "duration_ms": 161074,
+      "name": "Only Me",
+      "url": "https://open.spotify.com/track/7rsTbTq5J6roqC6iNTV3OI"
+    },
+    {
       "added_at": "2023-03-01 05:34:28",
       "album": {
         "name": "Pain Cargo",
@@ -139,6 +155,22 @@
       "duration_ms": 146973,
       "name": "Talk to Death",
       "url": "https://open.spotify.com/track/4Nf2W4NxnFTE9u6M2gKEoG"
+    },
+    {
+      "added_at": "2023-03-06 17:08:55",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/178AogD4KE27DekV3bpYHX"
+      },
+      "artists": [
+        {
+          "name": "Tanaka",
+          "url": "https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph"
+        }
+      ],
+      "duration_ms": 292500,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/6I7FMBBW5HTzOLQdW8S8Fj"
     },
     {
       "added_at": "2023-03-01 05:34:28",
@@ -1001,22 +1033,6 @@
       "url": "https://open.spotify.com/track/6KUfAYSpuZGdb1jPyBMKWS"
     },
     {
-      "added_at": "2023-02-08 05:46:04",
-      "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
-      },
-      "artists": [
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
-    },
-    {
       "added_at": "2023-02-01 18:12:41",
       "album": {
         "name": "ur self",
@@ -1115,22 +1131,6 @@
       "duration_ms": 208750,
       "name": "Virgo",
       "url": "https://open.spotify.com/track/555j37nNg3zppVNEBXHsAV"
-    },
-    {
-      "added_at": "2023-02-15 01:54:00",
-      "album": {
-        "name": "Air Conditioner",
-        "url": "https://open.spotify.com/album/3RopKTfo8EP7bq7RZJ8ZPL"
-      },
-      "artists": [
-        {
-          "name": "Japan, Man",
-          "url": "https://open.spotify.com/artist/54MEW8n5kP8oN7qSvb72Nb"
-        }
-      ],
-      "duration_ms": 211060,
-      "name": "Air Conditioner",
-      "url": "https://open.spotify.com/track/7ey9wdCqiRTOFWnc2gWQVv"
     },
     {
       "added_at": "2023-02-15 01:54:00",
@@ -1435,22 +1435,6 @@
       "duration_ms": 143000,
       "name": "glow",
       "url": "https://open.spotify.com/track/10UeoHlOUMXiRXcgaCO7pJ"
-    },
-    {
-      "added_at": "2023-02-08 05:46:04",
-      "album": {
-        "name": "elsie",
-        "url": "https://open.spotify.com/album/4pWfJR7DS0DMbpU4dh3U4Y"
-      },
-      "artists": [
-        {
-          "name": "Martin Luke Brown",
-          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
-        }
-      ],
-      "duration_ms": 203995,
-      "name": "elsie",
-      "url": "https://open.spotify.com/track/5dSAVONexmt8XipPux7QjZ"
     },
     {
       "added_at": "2023-02-08 05:46:04",

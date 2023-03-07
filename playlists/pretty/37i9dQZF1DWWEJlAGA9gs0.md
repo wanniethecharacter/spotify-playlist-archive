@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEJlAGA9gs0.md) - [plain]
 
 > A selection of the greatest classical tunes; the perfect starting point for anyone who's keen to explore the world of classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,154,536 likes - 150 songs - 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,155,696 likes - 150 songs - 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEJlAGA9gs0.md) - [plain]
 | 149 | [The Promise](https://open.spotify.com/track/53ann6bENp7BF8uklrzQAp) | [Michael Nyman](https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8) | [The Piano: Music From The Motion Picture](https://open.spotify.com/album/2QxIR22Sj9xGc4mOTN550A) | 4:16 |
 | 150 | [Rigoletto, Act III: La donna è mobile](https://open.spotify.com/track/5cR6xfzyicyDyAr52zB48k) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Richard Bonynge](https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ) | [Verdi](https://open.spotify.com/album/1iY9IQB9avls47I3shc9s7) | 2:21 |
 
-Snapshot ID: `MTY3MjkzNDE5NiwwMDAwMDAwMDRjYjRiNTM1YjIyZGFiMTQ5ZDRjYzhmOTM4MDc1MzM5`
+Snapshot ID: `MTY3MjkzNDE5NiwwMDAwMDAwMDAyYTQyYzcwMWQ5ZjZhMzMwN2JlYzZkZDAwZmEwNDEy`

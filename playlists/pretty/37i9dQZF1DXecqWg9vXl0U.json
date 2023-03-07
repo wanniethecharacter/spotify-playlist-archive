@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Foudeqush.",
-  "num_followers": 41475,
+  "num_followers": 41501,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI3NTM1NSwwMDAwMDAwMDViMGQ4ZTdkMTM0ZjZkODZjMDM5YTBkZjJiMjNjMDcz",
+  "snapshot_id": "MTY3NzI3NTM1NSwwMDAwMDAwMDA1MTk0OTk3MjMwMDhhNWRlYTc2NGE1MzVlOThhZTgw",
   "tracks": [
     {
       "added_at": "2023-02-24 21:49:14",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2023-02-24 21:49:14",
+      "album": {
         "name": "DAMN!",
         "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 182426,
       "name": "n la disco",
       "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
-    },
-    {
-      "added_at": "2023-02-24 21:49:14",
-      "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
     },
     {
       "added_at": "2023-02-24 21:49:14",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7fynD3Yq0jxuxKhgYxiNMi"
-      },
-      "artists": [
-        {
-          "name": "Francely Abreuu",
-          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
-        }
-      ],
-      "duration_ms": 126923,
-      "name": "dime",
-      "url": "https://open.spotify.com/track/42UGcqh6NpVuEFHZekjrqJ"
-    },
-    {
-      "added_at": "2023-02-24 21:49:14",
-      "album": {
         "name": "Fin Del Mundo (with Bratty)",
         "url": "https://open.spotify.com/album/2er3W6mBnmly9PuRHL74aj"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 174117,
       "name": "Fin Del Mundo (with Bratty)",
       "url": "https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46"
+    },
+    {
+      "added_at": "2023-02-24 21:49:14",
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7fynD3Yq0jxuxKhgYxiNMi"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "duration_ms": 126923,
+      "name": "dime",
+      "url": "https://open.spotify.com/track/42UGcqh6NpVuEFHZekjrqJ"
     },
     {
       "added_at": "2023-02-24 21:49:14",
@@ -555,38 +555,6 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
-        "name": "Cielo",
-        "url": "https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 169919,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k"
-    },
-    {
-      "added_at": "2023-02-24 21:49:14",
-      "album": {
-        "name": "Muchas Cosas",
-        "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Muchas Cosas",
-      "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
-    },
-    {
-      "added_at": "2023-02-24 21:49:14",
-      "album": {
         "name": "yo sad, t\u00fa feliz",
         "url": "https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5"
       },
@@ -603,6 +571,22 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 169919,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k"
+    },
+    {
+      "added_at": "2023-02-24 21:49:14",
+      "album": {
         "name": "Fosis Met Amor",
         "url": "https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 192150,
       "name": "un sue\u00f1o raro",
       "url": "https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR"
+    },
+    {
+      "added_at": "2023-02-24 21:49:14",
+      "album": {
+        "name": "Muchas Cosas",
+        "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Muchas Cosas",
+      "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
     },
     {
       "added_at": "2023-02-24 21:49:14",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3"
-      },
-      "artists": [
-        {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        }
-      ],
-      "duration_ms": 242407,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8"
-    },
-    {
-      "added_at": "2023-02-24 21:49:14",
-      "album": {
         "name": "He comprado \u2741",
         "url": "https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 156000,
       "name": "He comprado \u2741",
       "url": "https://open.spotify.com/track/6z1PKqF3jdLP24olrQnCbE"
+    },
+    {
+      "added_at": "2023-02-24 21:49:14",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3"
+      },
+      "artists": [
+        {
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
+        }
+      ],
+      "duration_ms": 242407,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8"
     },
     {
       "added_at": "2023-02-24 21:49:14",
@@ -895,22 +895,18 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
-        "name": "deja de estudiar",
-        "url": "https://open.spotify.com/album/5F6c6rMQktJjbB1s06xZCI"
+        "name": "Oniros (Bacalar)",
+        "url": "https://open.spotify.com/album/3PA5CHZiXWtBHlaebey22e"
       },
       "artists": [
         {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "Azain",
+          "url": "https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8"
         }
       ],
-      "duration_ms": 157824,
-      "name": "deja de estudiar",
-      "url": "https://open.spotify.com/track/5s4fyhzcUH7BJvONjNap6B"
+      "duration_ms": 246500,
+      "name": "Oniros (Bacalar)",
+      "url": "https://open.spotify.com/track/7Fj4QOaGNsZjco1Px0Jt75"
     },
     {
       "added_at": "2023-02-24 21:49:14",
@@ -931,18 +927,22 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
-        "name": "Oniros (Bacalar)",
-        "url": "https://open.spotify.com/album/3PA5CHZiXWtBHlaebey22e"
+        "name": "deja de estudiar",
+        "url": "https://open.spotify.com/album/5F6c6rMQktJjbB1s06xZCI"
       },
       "artists": [
         {
-          "name": "Azain",
-          "url": "https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8"
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 246500,
-      "name": "Oniros (Bacalar)",
-      "url": "https://open.spotify.com/track/7Fj4QOaGNsZjco1Px0Jt75"
+      "duration_ms": 157824,
+      "name": "deja de estudiar",
+      "url": "https://open.spotify.com/track/5s4fyhzcUH7BJvONjNap6B"
     },
     {
       "added_at": "2023-02-24 21:49:14",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
-        "name": "Fantas\u00eda",
-        "url": "https://open.spotify.com/album/3Yl0XPm4OntG2nmL9BqYbb"
-      },
-      "artists": [
-        {
-          "name": "Pollo Bruxo",
-          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
-        },
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 176679,
-      "name": "Fantas\u00eda",
-      "url": "https://open.spotify.com/track/2wzIkmA7ckiuwBfYFChacL"
-    },
-    {
-      "added_at": "2023-02-24 21:49:14",
-      "album": {
         "name": "Siempre Hago Lo Que Quiero",
         "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 224000,
       "name": "Siempre Hago Lo Que Quiero",
       "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
+    },
+    {
+      "added_at": "2023-02-24 21:49:14",
+      "album": {
+        "name": "Fantas\u00eda",
+        "url": "https://open.spotify.com/album/3Yl0XPm4OntG2nmL9BqYbb"
+      },
+      "artists": [
+        {
+          "name": "Pollo Bruxo",
+          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
+        },
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 176679,
+      "name": "Fantas\u00eda",
+      "url": "https://open.spotify.com/track/2wzIkmA7ckiuwBfYFChacL"
     },
     {
       "added_at": "2023-02-24 21:49:14",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
-        "name": "Recuerdos y Cenizas",
-        "url": "https://open.spotify.com/album/4apIpuJxGjMTqpa7Ifi2Nb"
-      },
-      "artists": [
-        {
-          "name": "Quemarlo Todo Por Error",
-          "url": "https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG"
-        }
-      ],
-      "duration_ms": 203140,
-      "name": "No te alejas no me alejo",
-      "url": "https://open.spotify.com/track/6RwqlFaWlsz38XFNxdZcnd"
-    },
-    {
-      "added_at": "2023-02-24 21:49:14",
-      "album": {
         "name": "Nada Mal",
         "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 140952,
       "name": "Nada Mal",
       "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
+    },
+    {
+      "added_at": "2023-02-24 21:49:14",
+      "album": {
+        "name": "Recuerdos y Cenizas",
+        "url": "https://open.spotify.com/album/4apIpuJxGjMTqpa7Ifi2Nb"
+      },
+      "artists": [
+        {
+          "name": "Quemarlo Todo Por Error",
+          "url": "https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG"
+        }
+      ],
+      "duration_ms": 203140,
+      "name": "No te alejas no me alejo",
+      "url": "https://open.spotify.com/track/6RwqlFaWlsz38XFNxdZcnd"
     },
     {
       "added_at": "2023-02-24 21:49:14",

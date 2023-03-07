@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Feist
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,771 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,785 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [The Sweetest Lie](https://open.spotify.com/track/3M0hEMN4OZSet5nnh1PKGZ) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [The Sweetest Lie](https://open.spotify.com/album/6tGjHzgMwiHP7oVKzFofVF) | 2:33 |
 | 100 | [Never Not Sunday](https://open.spotify.com/track/0I4MoWFuqj48cBzbIMgZ6D) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Never Not Sunday](https://open.spotify.com/album/4pZYb4QMYfa0Yx1YCEaVn2) | 2:39 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDUyYWEzMjllNTZlMzMxYjk4YWQyYmQ1YWU1MTFiNGQ0`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDU0OTY0MTkyYTNkOTJjODNjMjdkMjIyM2E5YTc3MWJh`

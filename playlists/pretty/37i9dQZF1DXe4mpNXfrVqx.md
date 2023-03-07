@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,571 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,602 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [Quatro Paredes](https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Quatro Paredes](https://open.spotify.com/album/0NN1rT8qJ500FoBN7xV9Aw) | 3:44 |
 | 75 | [Autentik](https://open.spotify.com/track/0iakCJvnYl4a4O8OlZmIzH) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [Autentik](https://open.spotify.com/album/6u3TylmFcGwrf1Hh67X1e8) | 2:51 |
 
-Snapshot ID: `MTY3NzgxMjQ2MCwwMDAwMDAwMDM4Njg0NzRiNDJjNGQ3MDVjZjM2Y2ZlZDUyZmFhZTlm`
+Snapshot ID: `MTY3NzgxMjQ2MCwwMDAwMDAwMDQ4YTNjZGY5NTE5MGY4OTUzMmVmN2Q0OWVhYjc0OWVm`

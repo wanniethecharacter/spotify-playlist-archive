@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Little Simz
 
-443 songs - 1 day 0 hr 14 min
+445 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Broke](https://open.spotify.com/track/4PuK5qsM9yF2x4MhM5sjkT) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Broke](https://open.spotify.com/album/0xZKaOjDHI0Kx3IfS2eb0M) | 2:59 | 2022-11-04 |  |
 | [Brotherly Love](https://open.spotify.com/track/1mjL7HkkyN1NbkvKCP9hvs) | [Phay](https://open.spotify.com/artist/1GMPMhz8k6gLNYMGoz9hYB) | [Brotherly Love](https://open.spotify.com/album/3NAl8JnImRMaP2vRu8mRlM) | 2:40 | 2023-01-06 |  |
 | [Brown Liquor](https://open.spotify.com/track/5FXxvduiTlw8NwS26EFC8Q) | [Joey Aich](https://open.spotify.com/artist/4LAP3lPQHAnrlyyCUXojFT) | [Brown Liquor](https://open.spotify.com/album/3rfKhga3RAaF8efdxn6x5D) | 3:42 | 2022-11-18 |  |
+| [Burn Bridges \(with Lute, Cozz, REASON & Arin Ray\)](https://open.spotify.com/track/5CRnOqHHcREG9NPtq7xHge) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 4:13 | 2023-03-06 |  |
 | [C Carter](https://open.spotify.com/track/37kW9eEI0EJFM0ip2mf1Wy) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:13 | 2022-01-14 | 2022-09-17 |
 | [Cali Love](https://open.spotify.com/track/0RXOaIBQn6Fd164xQXtA14) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Cali Love](https://open.spotify.com/album/4GeaXClSylgd7gnKwAtPc8) | 3:12 | 2021-05-21 | 2022-02-19 |
 | [Callin' \(feat\. Big K.R.I.T\. & WESTSIDE BOOGIE\)](https://open.spotify.com/track/3zQwqYVqMOOGddjx1eQsDs) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Callin' All My Children](https://open.spotify.com/album/2r8q8lWjoaBRQpQvLPsEqt) | 3:17 | 2022-05-20 | 2022-10-15 |
@@ -232,6 +233,7 @@
 | [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 | 2022-06-10 | 2022-10-09 |
 | [Jupiter & Mars](https://open.spotify.com/track/1qJlpodv8hEJGmhdo3NERe) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/7JczLjVoMsk8fG9pJz0MPT) | 3:16 | 2022-10-07 | 2023-02-16 |
 | [Jupiter & Mars](https://open.spotify.com/track/6YwwmcamIeDCOBQC8yrgxA) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/4ncZCdSB9YcHmmK51P2ld1) | 3:16 | 2023-02-10 |  |
+| [Just Face It \(with Blxst\)](https://open.spotify.com/track/25aUa8vgKi4NqwxQ4cfcrD) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:07 | 2023-03-06 |  |
 | [Just So You Remember](https://open.spotify.com/track/6XC3zX8dEiFTpd2hPpOA9y) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:58 | 2022-04-22 | 2022-10-22 |
 | [Just What it Seem](https://open.spotify.com/track/1EX11t2KcrBqQmi5v3AyuG) | [NCognita](https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI) | [The Playbook](https://open.spotify.com/album/4CT6nY5XxTTrhEDFinV3mH) | 2:06 | 2022-04-15 | 2022-10-08 |
 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 | 2022-12-09 |  |

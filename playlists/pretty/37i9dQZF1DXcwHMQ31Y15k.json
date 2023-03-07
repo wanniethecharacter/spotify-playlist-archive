@@ -1,12 +1,12 @@
 {
   "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Evan Loss",
-  "num_followers": 121116,
+  "num_followers": 121164,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc3NjQwMCwwMDAwMDAwMDE4YzUyMDJiMTNhNGQyNzNkMGIwM2ExOGM0MzljZTA1",
+  "snapshot_id": "MTY3ODExMzY3NSwwMDAwMDAwMDhkM2QyYmRlM2ViMjlkODBkMmFhMzE4OWViYjRmMmEx",
   "tracks": [
     {
       "added_at": "2023-03-02 17:00:00",
@@ -77,6 +77,26 @@
       "url": "https://open.spotify.com/track/0dokrFBhI5MAJ9UYGplJWx"
     },
     {
+      "added_at": "2023-03-06 14:41:15",
+      "album": {
+        "name": "Raiso Dadi Siji",
+        "url": "https://open.spotify.com/album/3cfccXUASX1GMldjNhn3tV"
+      },
+      "artists": [
+        {
+          "name": "Difarina Indra Adella",
+          "url": "https://open.spotify.com/artist/0ForVkf5ioNFzly6SjAzkC"
+        },
+        {
+          "name": "Fendik Adella",
+          "url": "https://open.spotify.com/artist/6dNBjlIEj3aWcYBvH82XQq"
+        }
+      ],
+      "duration_ms": 326455,
+      "name": "Raiso Dadi Siji",
+      "url": "https://open.spotify.com/track/3gA9NVMBvhfztFQRYxCzx8"
+    },
+    {
       "added_at": "2023-03-02 17:00:00",
       "album": {
         "name": "Klebus",
@@ -107,6 +127,22 @@
       "duration_ms": 415047,
       "name": "Tangise Sarangan",
       "url": "https://open.spotify.com/track/2NjOl7W9zT3ZnyUFsEyrmU"
+    },
+    {
+      "added_at": "2023-03-06 14:41:15",
+      "album": {
+        "name": "Infone Masseehh Ninu Ninu Ninu",
+        "url": "https://open.spotify.com/album/2KefeoP3xev9BYBtpzE8Ay"
+      },
+      "artists": [
+        {
+          "name": "Yeni Inka",
+          "url": "https://open.spotify.com/artist/5nGrN7nXi41J2SbT6dGPp8"
+        }
+      ],
+      "duration_ms": 278973,
+      "name": "Infone Masseehh Ninu Ninu Ninu",
+      "url": "https://open.spotify.com/track/13ST1j3gzTiDPAgnLiJHZT"
     },
     {
       "added_at": "2023-03-02 17:00:00",

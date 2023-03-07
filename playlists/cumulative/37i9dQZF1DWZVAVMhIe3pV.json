@@ -5206,7 +5206,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 220480,
       "name": "That's What You Get",
       "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
@@ -6032,6 +6032,24 @@
       "duration_ms": 187880,
       "name": "Wolf in Sheep's Clothing",
       "url": "https://open.spotify.com/track/55Fpeuuc2sbQiy74eA1gTt"
+    },
+    {
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "Wolf in Sheep's Clothing (feat. William Beckett)",
+      "url": "https://open.spotify.com/track/4WXFDVe299Po8ih6Np54n2"
     },
     {
       "album": {

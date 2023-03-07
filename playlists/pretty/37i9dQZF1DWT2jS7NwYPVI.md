@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: grandson
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,652 likes - 101 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,764 likes - 101 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 100 | [gfgf](https://open.spotify.com/track/1g5xGsMhlveEthRWzEahZh) | [baej Lambeaux](https://open.spotify.com/artist/7yB6e34bRQLTSrSh4hFY70) | [gfgf](https://open.spotify.com/album/5CUBzvAPsIr25SjvX7yoWD) | 2:57 |
 | 101 | [Dinner For One](https://open.spotify.com/track/1otdfx71wVb8TXgdkbYa8v) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Dinner For One](https://open.spotify.com/album/5nemInefPKhUqRKMjfzV6R) | 2:23 |
 
-Snapshot ID: `MTY3Nzg3OTIyOCwwMDAwMDAwMDNiMjIwNTFjNjJmZDYzNDE2YmEwNTEwMTZhNzU2OWQ3`
+Snapshot ID: `MTY3Nzg3OTIyOCwwMDAwMDAwMDg5ZTAyNWQ5ZDRmNWRlZGUxMTRmZWNjMTg5MWY4NDRm`

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Ghetto Kids en portada.",
-  "num_followers": 55497,
+  "num_followers": 55502,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1OTEyNCwwMDAwMDAwMDgxYWM3N2Q1NDI5YmZmZGZhZGUxNGMzZTdlZDFlYWVl",
+  "snapshot_id": "MTY3Nzg1OTEyNCwwMDAwMDAwMGE4MTI4Nzg3ZTg3ZjUwYmMzODU1MGZkZjM1YmU4N2E4",
   "tracks": [
     {
       "added_at": "2023-03-03 06:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Bien Beb\u00e9",
-        "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 163469,
-      "name": "Bien Beb\u00e9",
-      "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "BORRACHA",
         "url": "https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex"
       },
@@ -507,18 +487,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Imperio",
-        "url": "https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6"
+        "name": "Bien Beb\u00e9",
+        "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
       },
       "artists": [
         {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Imperio",
-      "url": "https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20"
+      "duration_ms": 163469,
+      "name": "Bien Beb\u00e9",
+      "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -535,6 +519,22 @@
       "duration_ms": 127264,
       "name": "Uy K Raro",
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Imperio",
+        "url": "https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Imperio",
+      "url": "https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -595,22 +595,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Ya No Somos",
-        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
         }
       ],
-      "duration_ms": 189152,
-      "name": "Ya No Somos",
-      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -647,6 +643,26 @@
       "duration_ms": 149433,
       "name": "LA DEA",
       "url": "https://open.spotify.com/track/1L9TXxy6RxbGFRyR8ocM2L"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Ya No Somos",
+        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Ya No Somos",
+      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -693,22 +709,6 @@
       "url": "https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ"
     },
     {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
-    },
-    {
       "added_at": "2023-01-27 18:00:00",
       "album": {
         "name": "Maldita Urgencia",
@@ -729,42 +729,6 @@
       "url": "https://open.spotify.com/track/5fhriWk2qGy6ZopaKcek6g"
     },
     {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "Hollywood",
-        "url": "https://open.spotify.com/album/2JIAfuvQfZRpCSxAVxb4Og"
-      },
-      "artists": [
-        {
-          "name": "Zailor",
-          "url": "https://open.spotify.com/artist/6vr59vSBFI4Xp4qs1Hbilt"
-        }
-      ],
-      "duration_ms": 180696,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/6viV9n8f7e3peUY3od4jyj"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ely Blancarte",
-          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
-        }
-      ],
-      "duration_ms": 177570,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
-    },
-    {
       "added_at": "2022-09-29 23:31:37",
       "album": {
         "name": "B-Day",
@@ -779,6 +743,22 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/2JIAfuvQfZRpCSxAVxb4Og"
+      },
+      "artists": [
+        {
+          "name": "Zailor",
+          "url": "https://open.spotify.com/artist/6vr59vSBFI4Xp4qs1Hbilt"
+        }
+      ],
+      "duration_ms": 180696,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/6viV9n8f7e3peUY3od4jyj"
     },
     {
       "added_at": "2022-11-25 02:28:29",
@@ -823,6 +803,26 @@
       "duration_ms": 164000,
       "name": "Canciones de Don",
       "url": "https://open.spotify.com/track/578E0MbbgdwDuUTqpWbeOD"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ely Blancarte",
+          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+        }
+      ],
+      "duration_ms": 177570,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "LA PUERTA",
-        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
-      },
-      "artists": [
-        {
-          "name": "Steff",
-          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
-        }
-      ],
-      "duration_ms": 183225,
-      "name": "LA PUERTA",
-      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Necesito un Break de Tanta Pendejad*",
         "url": "https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 178741,
       "name": "Necesito un Break de Tanta Pendejad*",
       "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "LA PUERTA",
+        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
+      },
+      "artists": [
+        {
+          "name": "Steff",
+          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
+        }
+      ],
+      "duration_ms": 183225,
+      "name": "LA PUERTA",
+      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
     },
     {
       "added_at": "2022-09-29 23:31:37",

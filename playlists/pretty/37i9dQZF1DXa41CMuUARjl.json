@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Eliza Rose.",
-  "num_followers": 425118,
+  "num_followers": 425226,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMGQxMjk5MzZmMDExNjdmZDRiMDZlMTQ0M2FkNmFkNzA3",
+  "snapshot_id": "MTY3ODEzMTExMCwwMDAwMDAwMGUwNjEzNDM4ZjdhMTMyNjc2ZGY0NzE4MDU5NjBjM2I5",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Deceiver (VIP)",
+        "url": "https://open.spotify.com/album/0ZoupfyYTGUYKWTaZ8rymq"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 155845,
+      "name": "Deceiver - VIP",
+      "url": "https://open.spotify.com/track/39aowVnxyzMDZOmrgsN4MU"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Highs And Lows",
         "url": "https://open.spotify.com/album/2yfHta0dmPYSlOvpMhmt3P"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 158095,
       "name": "Highs And Lows",
       "url": "https://open.spotify.com/track/5ahreMEX9oBKkDlv6pWWlE"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Deceiver (VIP)",
-        "url": "https://open.spotify.com/album/0ZoupfyYTGUYKWTaZ8rymq"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        }
-      ],
-      "duration_ms": 155845,
-      "name": "Deceiver - VIP",
-      "url": "https://open.spotify.com/track/39aowVnxyzMDZOmrgsN4MU"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Molotov",
-        "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 178065,
-      "name": "Molotov",
-      "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "My Mind",
         "url": "https://open.spotify.com/album/5Dk6CuF9SdE23YdfJUZLDd"
       },
@@ -719,22 +699,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Too Long (feat. Cruel Youth)",
-        "url": "https://open.spotify.com/album/3eqY7BmjLIkfTTkimqO430"
+        "name": "Molotov",
+        "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
       },
       "artists": [
         {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
         },
         {
-          "name": "Cruel Youth",
-          "url": "https://open.spotify.com/artist/4YrURxtCHtPBfNDmMNp7IG"
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         }
       ],
-      "duration_ms": 281175,
-      "name": "Too Long (feat. Cruel Youth)",
-      "url": "https://open.spotify.com/track/68eKAppHA0LgssmPmoRNv4"
+      "duration_ms": 178065,
+      "name": "Molotov",
+      "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -759,6 +739,42 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Azure EP",
+        "url": "https://open.spotify.com/album/5M4iiiphjdlqSq9Yutm6QU"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 222232,
+      "name": "Mine To Love",
+      "url": "https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Too Long (feat. Cruel Youth)",
+        "url": "https://open.spotify.com/album/3eqY7BmjLIkfTTkimqO430"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Cruel Youth",
+          "url": "https://open.spotify.com/artist/4YrURxtCHtPBfNDmMNp7IG"
+        }
+      ],
+      "duration_ms": 281175,
+      "name": "Too Long (feat. Cruel Youth)",
+      "url": "https://open.spotify.com/track/68eKAppHA0LgssmPmoRNv4"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Bone Breaker",
         "url": "https://open.spotify.com/album/0we83U8seNkwbGiDxwbBld"
       },
@@ -771,26 +787,6 @@
       "duration_ms": 155617,
       "name": "Bone Breaker",
       "url": "https://open.spotify.com/track/4WOP1OvhqxEZT2PvQfjERA"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Big Talk",
-        "url": "https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp"
-      },
-      "artists": [
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        }
-      ],
-      "duration_ms": 160887,
-      "name": "Big Talk",
-      "url": "https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -815,6 +811,26 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Big Talk",
+        "url": "https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 160887,
+      "name": "Big Talk",
+      "url": "https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Regulate",
         "url": "https://open.spotify.com/album/67OiUqqH4IBKVeJA1nU9JO"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 154550,
       "name": "Regulate",
       "url": "https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Azure EP",
-        "url": "https://open.spotify.com/album/5M4iiiphjdlqSq9Yutm6QU"
-      },
-      "artists": [
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 222232,
-      "name": "Mine To Love",
-      "url": "https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "JIYO",
-        "url": "https://open.spotify.com/album/3J5KcU7pzOFvTvGn9JQTgD"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "Chitralekha Sen",
-          "url": "https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w"
-        }
-      ],
-      "duration_ms": 247619,
-      "name": "JIYO",
-      "url": "https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/3PbKTYH2g4or5eeizzwOQ4"
       },
@@ -935,22 +915,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Moshomo",
-        "url": "https://open.spotify.com/album/2rQxu2rXhS3bLxbr8Qcoi8"
+        "name": "JIYO",
+        "url": "https://open.spotify.com/album/3J5KcU7pzOFvTvGn9JQTgD"
       },
       "artists": [
         {
-          "name": "Mr Brown",
-          "url": "https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr"
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
         },
         {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+          "name": "Chitralekha Sen",
+          "url": "https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w"
         }
       ],
-      "duration_ms": 454347,
-      "name": "Moshomo",
-      "url": "https://open.spotify.com/track/2XUiwOyTFDIWmkThYiGNUg"
+      "duration_ms": 247619,
+      "name": "JIYO",
+      "url": "https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -971,6 +951,26 @@
       "duration_ms": 160367,
       "name": "Shakedown",
       "url": "https://open.spotify.com/track/7sXuBbvVc7ntRShABTEcm5"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Moshomo",
+        "url": "https://open.spotify.com/album/2rQxu2rXhS3bLxbr8Qcoi8"
+      },
+      "artists": [
+        {
+          "name": "Mr Brown",
+          "url": "https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "duration_ms": 454347,
+      "name": "Moshomo",
+      "url": "https://open.spotify.com/track/2XUiwOyTFDIWmkThYiGNUg"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1023,6 +1023,26 @@
       "duration_ms": 186621,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/0fVnwHlZGkqM0mzmrSOPtr"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Drugs From Amsterdam (Armand Van Helden Remix)",
+        "url": "https://open.spotify.com/album/5BJsik3qQYgBnm8mtwfTL4"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Drugs From Amsterdam - Armand Van Helden Remix",
+      "url": "https://open.spotify.com/track/1i7ystPYSrQGjDw3ykXTgR"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1095,6 +1115,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/3exQ4HL1e66YnZGd2bYNgz"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "You're The Voice",
         "url": "https://open.spotify.com/album/5p0gzjEtN8H2wNxjrSZnHA"
       },
@@ -1107,26 +1143,6 @@
       "duration_ms": 162312,
       "name": "You're The Voice",
       "url": "https://open.spotify.com/track/6zQLRsQnoJHL96LzUuR6gQ"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Drugs From Amsterdam (Armand Van Helden Remix)",
-        "url": "https://open.spotify.com/album/5BJsik3qQYgBnm8mtwfTL4"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Drugs From Amsterdam - Armand Van Helden Remix",
-      "url": "https://open.spotify.com/track/1i7ystPYSrQGjDw3ykXTgR"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/3exQ4HL1e66YnZGd2bYNgz"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 214108,
       "name": "Money",
       "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Four Tet Is My Godmother",
-        "url": "https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 300200,
-      "name": "Four Tet Is My Godmother",
-      "url": "https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1235,6 +1219,22 @@
       "duration_ms": 208392,
       "name": "1999",
       "url": "https://open.spotify.com/track/5ABy6tQKNoAAZfwStB0DcS"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Four Tet Is My Godmother",
+        "url": "https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 300200,
+      "name": "Four Tet Is My Godmother",
+      "url": "https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1295,58 +1295,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Lost & Found EP, Vol. 2",
-        "url": "https://open.spotify.com/album/5sCgxUhV1LjWdAv5gCvh6g"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 506000,
-      "name": "Fluff Rehab",
-      "url": "https://open.spotify.com/track/4e3ZVOp6VN3Lp8krsh5tQd"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/3qz43DVuhqC5uegrzfCANu"
-      },
-      "artists": [
-        {
-          "name": "DJ Planet Express",
-          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
-        },
-        {
-          "name": "Gab Ferreira",
-          "url": "https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU"
-        }
-      ],
-      "duration_ms": 134750,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/3PaunyhsLdbbRSwcAvAZ7p"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Sweet Moment",
-        "url": "https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10"
-      },
-      "artists": [
-        {
-          "name": "Alice DiMar",
-          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Sweet Moment",
-      "url": "https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Rave Shake",
         "url": "https://open.spotify.com/album/5QPR7iKTyHlRQVKFO5gP7b"
       },
@@ -1363,42 +1311,34 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Long Ago",
-        "url": "https://open.spotify.com/album/0q5IFGu4CPd21YiEbbr81y"
+        "name": "Lost & Found EP, Vol. 2",
+        "url": "https://open.spotify.com/album/5sCgxUhV1LjWdAv5gCvh6g"
       },
       "artists": [
         {
-          "name": "Wassu",
-          "url": "https://open.spotify.com/artist/0jxabdMr8MK0OQgpsMVQDq"
-        },
-        {
-          "name": "Lumynesynth",
-          "url": "https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD"
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
         }
       ],
-      "duration_ms": 260163,
-      "name": "Long Ago",
-      "url": "https://open.spotify.com/track/3qfMRghmtjtuHTFG3gTjtE"
+      "duration_ms": 506000,
+      "name": "Fluff Rehab",
+      "url": "https://open.spotify.com/track/4e3ZVOp6VN3Lp8krsh5tQd"
     },
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Start Small (Lamorn Remix)",
-        "url": "https://open.spotify.com/album/54SAgYdUypGi1rRlc58GVN"
+        "name": "Sweet Moment",
+        "url": "https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10"
       },
       "artists": [
         {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Lamorn",
-          "url": "https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9"
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
         }
       ],
-      "duration_ms": 298754,
-      "name": "Start Small - Lamorn Remix",
-      "url": "https://open.spotify.com/track/79HLHHL8xuSumcE6ZV2tOP"
+      "duration_ms": 174193,
+      "name": "Sweet Moment",
+      "url": "https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1427,22 +1367,42 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/0Cooxxp3LNfSRLdpGENkdg"
+        "name": "Here",
+        "url": "https://open.spotify.com/album/3qz43DVuhqC5uegrzfCANu"
       },
       "artists": [
         {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
         },
         {
-          "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+          "name": "Gab Ferreira",
+          "url": "https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU"
         }
       ],
-      "duration_ms": 171580,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/1BX9C8u8C9kKYkPgjKUKwy"
+      "duration_ms": 134750,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/3PaunyhsLdbbRSwcAvAZ7p"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Long Ago",
+        "url": "https://open.spotify.com/album/0q5IFGu4CPd21YiEbbr81y"
+      },
+      "artists": [
+        {
+          "name": "Wassu",
+          "url": "https://open.spotify.com/artist/0jxabdMr8MK0OQgpsMVQDq"
+        },
+        {
+          "name": "Lumynesynth",
+          "url": "https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD"
+        }
+      ],
+      "duration_ms": 260163,
+      "name": "Long Ago",
+      "url": "https://open.spotify.com/track/3qfMRghmtjtuHTFG3gTjtE"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1487,6 +1447,46 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/0Cooxxp3LNfSRLdpGENkdg"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+        }
+      ],
+      "duration_ms": 171580,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/1BX9C8u8C9kKYkPgjKUKwy"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Start Small (Lamorn Remix)",
+        "url": "https://open.spotify.com/album/54SAgYdUypGi1rRlc58GVN"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Lamorn",
+          "url": "https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9"
+        }
+      ],
+      "duration_ms": 298754,
+      "name": "Start Small - Lamorn Remix",
+      "url": "https://open.spotify.com/track/79HLHHL8xuSumcE6ZV2tOP"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "With You (with Morgin Madison)",
         "url": "https://open.spotify.com/album/3ao0vhcYn0YR92cGNC9kW5"
       },
@@ -1503,6 +1503,54 @@
       "duration_ms": 178571,
       "name": "With You (with Morgin Madison)",
       "url": "https://open.spotify.com/track/5lW36ZLCGu81VzbIsMD2Rz"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Music For Dark Spaces",
+        "url": "https://open.spotify.com/album/7DVmkL0riHAf0zcbEQaADo"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        }
+      ],
+      "duration_ms": 258250,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/1R19e1DuE9LAYUFddZLJii"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Summer Heartbreak",
+        "url": "https://open.spotify.com/album/4UsiZwvSNd0r3RVbVo6xMR"
+      },
+      "artists": [
+        {
+          "name": "DJ Kent",
+          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
+        }
+      ],
+      "duration_ms": 229045,
+      "name": "Summer Heartbreak",
+      "url": "https://open.spotify.com/track/0xw0qj3GB1EmVPHNgNQuPk"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Mala (La Noche)",
+        "url": "https://open.spotify.com/album/25sQxILp4Yj9ILnmHmEXIF"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 348145,
+      "name": "Mala (La Noche)",
+      "url": "https://open.spotify.com/track/2qjPvUYCX5zE7WbvOKsUQd"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1527,22 +1575,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Music For Dark Spaces",
-        "url": "https://open.spotify.com/album/7DVmkL0riHAf0zcbEQaADo"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Hart",
-          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
-        }
-      ],
-      "duration_ms": 258250,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/1R19e1DuE9LAYUFddZLJii"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "all i can do is miss you",
         "url": "https://open.spotify.com/album/4tNxWMShCxtaPR1ELqjOLJ"
       },
@@ -1563,18 +1595,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Mala (La Noche)",
-        "url": "https://open.spotify.com/album/25sQxILp4Yj9ILnmHmEXIF"
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/0tkUOfw6kG8h6gt7kN7Fl8"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "AKZENTH",
+          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
+        },
+        {
+          "name": "V\u00d8R",
+          "url": "https://open.spotify.com/artist/02gkdTPcKnn6BzYMqAsJsT"
         }
       ],
-      "duration_ms": 348145,
-      "name": "Mala (La Noche)",
-      "url": "https://open.spotify.com/track/2qjPvUYCX5zE7WbvOKsUQd"
+      "duration_ms": 336716,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/0lAKkVfCiW0i9qQq8D9UmF"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1631,26 +1667,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/0tkUOfw6kG8h6gt7kN7Fl8"
-      },
-      "artists": [
-        {
-          "name": "AKZENTH",
-          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
-        },
-        {
-          "name": "V\u00d8R",
-          "url": "https://open.spotify.com/artist/02gkdTPcKnn6BzYMqAsJsT"
-        }
-      ],
-      "duration_ms": 336716,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/0lAKkVfCiW0i9qQq8D9UmF"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Since I Fell For You",
         "url": "https://open.spotify.com/album/4Ux5BJDBmvdF4JCGZ5FGVH"
       },
@@ -1697,20 +1713,20 @@
       "url": "https://open.spotify.com/track/0OZ80Lvoxxd0c0ig8O8scg"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-03-07 02:41:47",
       "album": {
-        "name": "Summer Heartbreak",
-        "url": "https://open.spotify.com/album/4UsiZwvSNd0r3RVbVo6xMR"
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/6lSzDYFE6TWrkhJJ24zU7j"
       },
       "artists": [
         {
-          "name": "DJ Kent",
-          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
+          "name": "Ares Carter",
+          "url": "https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF"
         }
       ],
-      "duration_ms": 229045,
-      "name": "Summer Heartbreak",
-      "url": "https://open.spotify.com/track/0xw0qj3GB1EmVPHNgNQuPk"
+      "duration_ms": 174720,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/7czIOE1HXljjFXAE1JRgai"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1843,26 +1859,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Akekho (feat. Toshi)",
-        "url": "https://open.spotify.com/album/1PEVesj0ugztr8TR7JJS7z"
-      },
-      "artists": [
-        {
-          "name": "Bokkieult",
-          "url": "https://open.spotify.com/artist/3OrezIU15I7bCrXN7NAijo"
-        },
-        {
-          "name": "Toshi",
-          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
-        }
-      ],
-      "duration_ms": 338885,
-      "name": "Akekho (feat. Toshi)",
-      "url": "https://open.spotify.com/track/6s8o6llfHMtoeI4bIK7ZHO"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Uu003",
         "url": "https://open.spotify.com/album/3gm06y1TNKQ2RMCgROAEAm"
       },
@@ -1879,6 +1875,26 @@
       "duration_ms": 317793,
       "name": "Southern Clouds",
       "url": "https://open.spotify.com/track/524JHo9cEbYarhzU8457z4"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Akekho (feat. Toshi)",
+        "url": "https://open.spotify.com/album/1PEVesj0ugztr8TR7JJS7z"
+      },
+      "artists": [
+        {
+          "name": "Bokkieult",
+          "url": "https://open.spotify.com/artist/3OrezIU15I7bCrXN7NAijo"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        }
+      ],
+      "duration_ms": 338885,
+      "name": "Akekho (feat. Toshi)",
+      "url": "https://open.spotify.com/track/6s8o6llfHMtoeI4bIK7ZHO"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1951,26 +1967,6 @@
       "duration_ms": 316197,
       "name": "Can't Go Home - Club Edit",
       "url": "https://open.spotify.com/track/788FL2IuhUcdPIcwiuZfGp"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/7FKi9jiWuzd0iXtiSGlT6n"
-      },
-      "artists": [
-        {
-          "name": "HUTS",
-          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
-        },
-        {
-          "name": "PRISKA",
-          "url": "https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/7vEXyKVE9HENxoIooEReez"
     }
   ],
   "unique_name": "New Music Friday Dance",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Una speciale selezione curata insieme a Emma per la Giornata Internazionale della Donna! \#IWD
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,709 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,804 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [The Waves Are Calling Us](https://open.spotify.com/track/2WxnZWGdkGZNSaSRwIB9xA) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [The Waves Are Calling Us](https://open.spotify.com/album/7Ac7px1tf2hVYgCy5kIDLt) | 3:12 |
 | 50 | [Sali \(Canto dell'anima\)](https://open.spotify.com/track/2jeeJUdskWxxB8ivvTk0Z5) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN) | [Sali \(Canto dell'anima\)](https://open.spotify.com/album/1QrP5ZqxdIeeUVbVOH5CpV) | 4:12 |
 
-Snapshot ID: `MTY3NzYyNTI2MCwwMDAwMDAwMGU0OWQ2YTBmNDg1YTAyYTg1NTg3OTZkODI2NjVmODk1`
+Snapshot ID: `MTY3ODA5MTgwMSwwMDAwMDAwMDI4Zjg5ODU5NGM2YWQzNjU5NTMwYTM2ZmUxYWU1ZmEz`

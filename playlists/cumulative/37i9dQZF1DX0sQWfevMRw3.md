@@ -4,7 +4,7 @@
 
 > Ingen kamera på iPhone 2!!
 
-540 songs - 23 hr 48 min
+541 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 | 2023-02-16 |  |
 | [KAN INTE GÅ](https://open.spotify.com/track/1zl6Uaza9IGqkoAv5XxCHj) | [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g), [BRÖDERNA](https://open.spotify.com/artist/4a6DvPdDlrWhE2JuxL3eyT), [Svardh](https://open.spotify.com/artist/5ej3VmUU1KXMHdBd78563w) | [KAN INTE GÅ](https://open.spotify.com/album/2VFtadO0PYYNyDZOffACgO) | 2:43 | 2023-02-16 |  |
 | [KAN INTE STÅ](https://open.spotify.com/track/6hTCGlOMC0T0DWRw1Jktcu) | [ShotLine](https://open.spotify.com/artist/7El3MpnDRD7JMdhvhrW3pn), [Fucktoyz](https://open.spotify.com/artist/3Dbyn9rbYNg2zgGBxoEulO), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [KAN INTE STÅ](https://open.spotify.com/album/4vddsTJmkRzrJOyeOa0RWG) | 2:16 | 2023-01-05 |  |
+| [KAPTEN KAPTEN \- Radio Edit](https://open.spotify.com/track/6ZnNBc9aadApyNnQ3hgS8S) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [KAPTEN KAPTEN \(Radio Edit\)](https://open.spotify.com/album/3qawlLrgiH0LvtXGOS8rKC) | 2:36 | 2023-03-06 |  |
 | [KASSANOVA](https://open.spotify.com/track/7d9BbXQi6mWb4xAiJUGb7T) | [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf), [Markoolio](https://open.spotify.com/artist/0cAOG10Gh3ORpBRZ9c7Zam) | [KASSANOVA](https://open.spotify.com/album/1pLLCRuOFDujv3BXWR7jEa) | 2:02 | 2022-09-29 | 2023-01-20 |
 | [Kill Me Slow](https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [New Rave](https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml) | 3:28 | 2021-12-16 | 2022-04-16 |
 | [KLAMYDIA](https://open.spotify.com/track/5B1DtTYmgPEuGN26kPhE43) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [KLAMYDIA](https://open.spotify.com/album/5mIF1TlZRyKw7RqZpfCN7w) | 2:39 | 2022-08-25 | 2022-12-16 |
@@ -395,7 +396,7 @@
 | [Rush](https://open.spotify.com/track/1J5vGH8c3SRbOjZ6jQppyz) | [Rentz](https://open.spotify.com/artist/7vzyj0u6QMnKkN60TEaLqx), [Trevor Omoto](https://open.spotify.com/artist/4pPAzgTbXAwdRjMokhcwtx), [Chandler Blasé](https://open.spotify.com/artist/6sn3bLOdOYUyLaFuCgNozh) | [Rush](https://open.spotify.com/album/2jGilBxBmfAiXeMqypCpH6) | 3:35 | 2022-03-24 | 2022-06-05 |
 | [Sabotage](https://open.spotify.com/track/4DZFPEK6yH8MQYj3pld4tP) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Sabotage](https://open.spotify.com/album/0NOy19wwB8BkHIphvgVbWn) | 2:39 | 2022-11-17 |  |
 | [Saint Tropez \(feat\. Irma\)](https://open.spotify.com/track/5vJNNukmV73WwAnGmsPht8) | [Draze](https://open.spotify.com/artist/64MGkui6smX2VENoeh6D3Q), [Michelle Collin](https://open.spotify.com/artist/0JCIIVMatHevg7wqdpuNxg), [Hallasen](https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C), [Irma](https://open.spotify.com/artist/2VEpJ3EGI4R9VVUnmJTPl0) | [Saint Tropez \(feat\. Irma\)](https://open.spotify.com/album/3vyzERUeAeLudiOul9IyOi) | 2:24 | 2021-12-16 | 2022-07-27 |
-| [Samurai](https://open.spotify.com/track/3iKyG1U1x9fXu4KVZRs4Uh) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Samurai](https://open.spotify.com/album/0bEk1oSbj6LL6N6Gy9YCaA) | 2:57 | 2022-11-03 |  |
+| [Samurai](https://open.spotify.com/track/3iKyG1U1x9fXu4KVZRs4Uh) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Samurai](https://open.spotify.com/album/0bEk1oSbj6LL6N6Gy9YCaA) | 2:57 | 2022-11-03 | 2023-03-07 |
 | [Sandstorm](https://open.spotify.com/track/1o6Wucld04vGF4UBeyHGwF) | [Freejak](https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11) | [Sandstorm](https://open.spotify.com/album/1on4DjUpgOCvULb3FTp9mO) | 2:39 | 2022-04-21 | 2022-08-26 |
 | [Sao Paulo](https://open.spotify.com/track/6XubRj327VPMQCUgJJpCub) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [The Lost Shepherds](https://open.spotify.com/artist/0n5RLOUDVIpQopAEUbY0zU), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Sao Paulo](https://open.spotify.com/album/521mw9CgSRTzUDE594y3PK) | 3:10 | 2022-04-21 | 2022-08-26 |
 | [SATISFYER](https://open.spotify.com/track/5Hz79qfFkTjXI4GNATCnDW) | [Fucktoyz](https://open.spotify.com/artist/3Dbyn9rbYNg2zgGBxoEulO), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [Russebassisten](https://open.spotify.com/artist/3KMDuL3T8s1cMvN2PntlLZ) | [SATISFYER](https://open.spotify.com/album/03ZjquvHVqs5LhfAet3QtU) | 2:14 | 2022-10-13 | 2023-01-13 |

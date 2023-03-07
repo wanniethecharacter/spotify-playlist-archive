@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5NjY5NzgsMDAwMDAwMDBkN2Y2ODQ2NGE1ZjU0ZjljMGU5YzY0MTEwM2UxZGRkZg==",
+  "snapshot_id": "Mjc5Njg0MDEsMDAwMDAwMDAwNjdmY2ZhMmZiNGZkZjM1YmM3ZWNlN2ZhYmZlMTZiOA==",
   "tracks": [
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Deep Listening",
         "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
@@ -33,23 +33,7 @@
       "url": "https://open.spotify.com/track/2x5fSlFZdB8mmvjt5AEGKM"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "Ghostdance",
-        "url": "https://open.spotify.com/album/1afT49NTjWCHoPQ0js4ZrG"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "Monkey",
-      "url": "https://open.spotify.com/track/47uq9KFLFlQ1sFEPf15DR2"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Altamirage",
         "url": "https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf"
@@ -73,7 +57,23 @@
       "url": "https://open.spotify.com/track/6FsBdZhfDo6UmvcOgyHSus"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "Ghostdance",
+        "url": "https://open.spotify.com/album/1afT49NTjWCHoPQ0js4ZrG"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "Monkey",
+      "url": "https://open.spotify.com/track/47uq9KFLFlQ1sFEPf15DR2"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "The Roots of the Movement",
         "url": "https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/026dDUn3z1TBRKadpaDeyO"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Deep Listening",
         "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
@@ -113,23 +113,7 @@
       "url": "https://open.spotify.com/track/445T5d8Ep5XP1hqmaslhmX"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "The Well / The Gentle",
-        "url": "https://open.spotify.com/album/5F2uMoqbxsCOMRAJFtf0VI"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        }
-      ],
-      "duration_ms": 289067,
-      "name": "A Love Song - Live Field Recording",
-      "url": "https://open.spotify.com/track/3fBb0JYQQmm1sOWcUzEHVU"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Altamirage",
         "url": "https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf"
@@ -153,7 +137,7 @@
       "url": "https://open.spotify.com/track/3uGtWlBXagHxKL3yIk205z"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Accordion & Voice",
         "url": "https://open.spotify.com/album/2linjQ8fQvdsrbGScOvwap"
@@ -169,7 +153,23 @@
       "url": "https://open.spotify.com/track/1J889Ry1ETg8IPa6mGgKMU"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "The Well / The Gentle",
+        "url": "https://open.spotify.com/album/5F2uMoqbxsCOMRAJFtf0VI"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 289067,
+      "name": "A Love Song - Live Field Recording",
+      "url": "https://open.spotify.com/track/3fBb0JYQQmm1sOWcUzEHVU"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "New Sounds In Electronic Music",
         "url": "https://open.spotify.com/album/3BYafbZd7fagfbsd10HItL"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/77rz0oP8SyYU6blsUaSITK"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Botanikk",
         "url": "https://open.spotify.com/album/1UVrkMiSPQsSkql2DCQdm1"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/5xGlqc9x6bnSAEDWWMF5oP"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "New Music for Electronic and Recorded Media: Women In Electronic Music - 1977",
         "url": "https://open.spotify.com/album/45IBJV76uqLXXsm9SMAFzO"
@@ -229,95 +229,7 @@
       "url": "https://open.spotify.com/track/3sqvayIhGIvWcYG6G1pf8m"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "phase/transitions (vol. 1)",
-        "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "Doug Van Nort",
-          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
-        },
-        {
-          "name": "Jonas Braasch",
-          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
-        }
-      ],
-      "duration_ms": 191186,
-      "name": "Drone Wash for Melody",
-      "url": "https://open.spotify.com/track/3UX7JxZTMPKJx2BgHO5AR1"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "Sound Unbound : Excerpts And Allegories From The Sub Rosa Audio Archives",
-        "url": "https://open.spotify.com/album/5BUeojPDPRPojhAJfw7i0s"
-      },
-      "artists": [
-        {
-          "name": "Evan Parker",
-          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
-        },
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "Anthony Braxton",
-          "url": "https://open.spotify.com/artist/3UXq4fckDmcPmleixlrl6i"
-        }
-      ],
-      "duration_ms": 52226,
-      "name": "The First Set / Area 4 (Solo) / A Little Noise In The System (Moog System)",
-      "url": "https://open.spotify.com/track/2mCEerG0OqhoQIxXQFISXo"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "Altamirage",
-        "url": "https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "James Ilgenfritz",
-          "url": "https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE"
-        },
-        {
-          "name": "Anagram Ensemble",
-          "url": "https://open.spotify.com/artist/2FX44ZQpUxNDbSlYFLMSQs"
-        }
-      ],
-      "duration_ms": 75520,
-      "name": "Trio For Trumpet, Accordion, and String Bass IV",
-      "url": "https://open.spotify.com/track/2vs2TJ453S5erpmLmFbkSf"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "The Roots of the Movement",
-        "url": "https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        }
-      ],
-      "duration_ms": 380893,
-      "name": "Grains",
-      "url": "https://open.spotify.com/track/6yTUAU3G9akFsnSHKVB7Ux"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "phase/transitions (vol. 1)",
         "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
@@ -341,10 +253,74 @@
       "url": "https://open.spotify.com/track/4O6J19ZtPJBzYaOYXPvRlE"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
-        "name": "phase/transitions (vol. 2)",
-        "url": "https://open.spotify.com/album/4wPO0QWu1IknF6CcK7pma5"
+        "name": "Sound Unbound : Excerpts And Allegories From The Sub Rosa Audio Archives",
+        "url": "https://open.spotify.com/album/5BUeojPDPRPojhAJfw7i0s"
+      },
+      "artists": [
+        {
+          "name": "Evan Parker",
+          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Anthony Braxton",
+          "url": "https://open.spotify.com/artist/3UXq4fckDmcPmleixlrl6i"
+        }
+      ],
+      "duration_ms": 52226,
+      "name": "The First Set / Area 4 (Solo) / A Little Noise In The System (Moog System)",
+      "url": "https://open.spotify.com/track/2mCEerG0OqhoQIxXQFISXo"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "Altamirage",
+        "url": "https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "James Ilgenfritz",
+          "url": "https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE"
+        },
+        {
+          "name": "Anagram Ensemble",
+          "url": "https://open.spotify.com/artist/2FX44ZQpUxNDbSlYFLMSQs"
+        }
+      ],
+      "duration_ms": 75520,
+      "name": "Trio For Trumpet, Accordion, and String Bass IV",
+      "url": "https://open.spotify.com/track/2vs2TJ453S5erpmLmFbkSf"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "The Roots of the Movement",
+        "url": "https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 380893,
+      "name": "Grains",
+      "url": "https://open.spotify.com/track/6yTUAU3G9akFsnSHKVB7Ux"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "phase/transitions (vol. 1)",
+        "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
       },
       "artists": [
         {
@@ -360,12 +336,40 @@
           "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
         }
       ],
-      "duration_ms": 329586,
-      "name": "Shear Viscosity",
-      "url": "https://open.spotify.com/track/1ddvHU5FBTRdvoqsNTYKBK"
+      "duration_ms": 191186,
+      "name": "Drone Wash for Melody",
+      "url": "https://open.spotify.com/track/3UX7JxZTMPKJx2BgHO5AR1"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "Quartet for the End of Space",
+        "url": "https://open.spotify.com/album/1vvpBnmpzosVx8njXLSXq5"
+      },
+      "artists": [
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Francisco L\u00f3pez",
+          "url": "https://open.spotify.com/artist/2NIo9CSlxx2pArdKee4hes"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "duration_ms": 555893,
+      "name": "Untitled #273",
+      "url": "https://open.spotify.com/track/5IZeF6Cn3v6ePZalWN2G5R"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Altamirage",
         "url": "https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf"
@@ -389,7 +393,7 @@
       "url": "https://open.spotify.com/track/2ZZtFGWyY3tWQphYricM1b"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "The Roots of the Movement",
         "url": "https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9"
@@ -405,31 +409,7 @@
       "url": "https://open.spotify.com/track/6SnA1NoyrtxZrqHxqYWnmE"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "phase/transitions (vol. 1)",
-        "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "Doug Van Nort",
-          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
-        },
-        {
-          "name": "Jonas Braasch",
-          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Venus Rising",
-      "url": "https://open.spotify.com/track/5m7ZLZHWo6ibtEvtSPrJxf"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Ghostdance",
         "url": "https://open.spotify.com/album/1afT49NTjWCHoPQ0js4ZrG"
@@ -445,43 +425,7 @@
       "url": "https://open.spotify.com/track/4zpP00UCCZsYs9DkUHQkjx"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "Altamirage",
-        "url": "https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "James Ilgenfritz",
-          "url": "https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE"
-        }
-      ],
-      "duration_ms": 365568,
-      "name": "Altamirage IV",
-      "url": "https://open.spotify.com/track/5zTUDJzSp6AuGHCFlD8Z33"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "The Roots of the Movement",
-        "url": "https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        }
-      ],
-      "duration_ms": 545000,
-      "name": "Traces",
-      "url": "https://open.spotify.com/track/53lH61JaOTUJXX9fU6Fzns"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "phase/transitions (vol. 1)",
         "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
@@ -509,31 +453,7 @@
       "url": "https://open.spotify.com/track/0LIfj51l30JOgZkGcUiLiV"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "Cicada Dream Band",
-        "url": "https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "Timothy Hill",
-          "url": "https://open.spotify.com/artist/5DbeSCqFNABmMeFodQ6WjS"
-        },
-        {
-          "name": "David Rothenberg",
-          "url": "https://open.spotify.com/artist/2j8Uk5mWrGqT7bce5kD4YR"
-        }
-      ],
-      "duration_ms": 204698,
-      "name": "Arc Hive",
-      "url": "https://open.spotify.com/track/3MyJ4MYNczi8sjZb4eiJrF"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Altamirage",
         "url": "https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf"
@@ -548,12 +468,28 @@
           "url": "https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE"
         }
       ],
-      "duration_ms": 193194,
-      "name": "Altamirage V",
-      "url": "https://open.spotify.com/track/73XUdV2DFnlyq1gE8qrS6I"
+      "duration_ms": 365568,
+      "name": "Altamirage IV",
+      "url": "https://open.spotify.com/track/5zTUDJzSp6AuGHCFlD8Z33"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "The Roots of the Movement",
+        "url": "https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 545000,
+      "name": "Traces",
+      "url": "https://open.spotify.com/track/53lH61JaOTUJXX9fU6Fzns"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Botanikk",
         "url": "https://open.spotify.com/album/1UVrkMiSPQsSkql2DCQdm1"
@@ -581,7 +517,7 @@
       "url": "https://open.spotify.com/track/0KaZK2XsEioFtIoPGclo0K"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "phase/transitions (vol. 1)",
         "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
@@ -605,7 +541,27 @@
       "url": "https://open.spotify.com/track/6xD4CD2VXU8eueuUZzNpU3"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "Altamirage",
+        "url": "https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "James Ilgenfritz",
+          "url": "https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE"
+        }
+      ],
+      "duration_ms": 193194,
+      "name": "Altamirage V",
+      "url": "https://open.spotify.com/track/73XUdV2DFnlyq1gE8qrS6I"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "The Roots of the Movement",
         "url": "https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9"
@@ -621,7 +577,7 @@
       "url": "https://open.spotify.com/track/1lYAR84S7YGcxI8HGGDItr"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "The Well / The Gentle",
         "url": "https://open.spotify.com/album/5F2uMoqbxsCOMRAJFtf0VI"
@@ -632,12 +588,12 @@
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         }
       ],
-      "duration_ms": 925067,
-      "name": "The Well / The Gentle",
-      "url": "https://open.spotify.com/track/59SZv609GUnvh07DzT0zRp"
+      "duration_ms": 1188587,
+      "name": "The Well",
+      "url": "https://open.spotify.com/track/6EfxOHVU60PPw3snTNhFuI"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Cicada Dream Band",
         "url": "https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu"
@@ -656,12 +612,12 @@
           "url": "https://open.spotify.com/artist/2j8Uk5mWrGqT7bce5kD4YR"
         }
       ],
-      "duration_ms": 388229,
-      "name": "Who Said What?",
-      "url": "https://open.spotify.com/track/3w5M8aXMyeDTv6EtEDZUnu"
+      "duration_ms": 204698,
+      "name": "Arc Hive",
+      "url": "https://open.spotify.com/track/3MyJ4MYNczi8sjZb4eiJrF"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Ghostdance",
         "url": "https://open.spotify.com/album/1afT49NTjWCHoPQ0js4ZrG"
@@ -677,7 +633,7 @@
       "url": "https://open.spotify.com/track/0KKtoErDaqimf2hZfEw3VL"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "phase/transitions (vol. 1)",
         "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
@@ -701,7 +657,7 @@
       "url": "https://open.spotify.com/track/4EiNKvrhChXtR5iyB9o2TT"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "The Well / The Gentle",
         "url": "https://open.spotify.com/album/5F2uMoqbxsCOMRAJFtf0VI"
@@ -712,12 +668,36 @@
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         }
       ],
-      "duration_ms": 1188587,
-      "name": "The Well",
-      "url": "https://open.spotify.com/track/6EfxOHVU60PPw3snTNhFuI"
+      "duration_ms": 925067,
+      "name": "The Well / The Gentle",
+      "url": "https://open.spotify.com/track/59SZv609GUnvh07DzT0zRp"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "Cicada Dream Band",
+        "url": "https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Timothy Hill",
+          "url": "https://open.spotify.com/artist/5DbeSCqFNABmMeFodQ6WjS"
+        },
+        {
+          "name": "David Rothenberg",
+          "url": "https://open.spotify.com/artist/2j8Uk5mWrGqT7bce5kD4YR"
+        }
+      ],
+      "duration_ms": 388229,
+      "name": "Who Said What?",
+      "url": "https://open.spotify.com/track/3w5M8aXMyeDTv6EtEDZUnu"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "The Roots of the Movement",
         "url": "https://open.spotify.com/album/4dEbsGvz8uXEd93HPOzMc9"
@@ -733,7 +713,39 @@
       "url": "https://open.spotify.com/track/5lGMFA7uZrJgJRBxIyb8yi"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "Electro Acoustic Music, Vol. V",
+        "url": "https://open.spotify.com/album/3ZdUy4EpzcSkYH0B5uXA7r"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 989680,
+      "name": "II of IV",
+      "url": "https://open.spotify.com/track/3sqQlkAEoUYYzYKGoOqhbi"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "Ghostdance",
+        "url": "https://open.spotify.com/album/1afT49NTjWCHoPQ0js4ZrG"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 223960,
+      "name": "Reverberations",
+      "url": "https://open.spotify.com/track/6QhWeoGPAlrNOhnyhmQyLF"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Cicada Dream Band",
         "url": "https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu"
@@ -757,39 +769,7 @@
       "url": "https://open.spotify.com/track/1BM7lk6k0LDimeSaolCKpW"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "Electro Acoustic Music, Vol. V",
-        "url": "https://open.spotify.com/album/3ZdUy4EpzcSkYH0B5uXA7r"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        }
-      ],
-      "duration_ms": 989680,
-      "name": "II of IV",
-      "url": "https://open.spotify.com/track/3sqQlkAEoUYYzYKGoOqhbi"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "Ghostdance",
-        "url": "https://open.spotify.com/album/1afT49NTjWCHoPQ0js4ZrG"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        }
-      ],
-      "duration_ms": 223960,
-      "name": "Reverberations",
-      "url": "https://open.spotify.com/track/6QhWeoGPAlrNOhnyhmQyLF"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Tara's Room",
         "url": "https://open.spotify.com/album/2zKiV8mhZXxo4pZK5i1vUe"
@@ -805,10 +785,10 @@
       "url": "https://open.spotify.com/track/078txIRiyvxbjjYesA9qy6"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
-        "name": "Cicada Dream Band",
-        "url": "https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu"
+        "name": "phase/transitions (vol. 1)",
+        "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
       },
       "artists": [
         {
@@ -816,20 +796,24 @@
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         },
         {
-          "name": "Timothy Hill",
-          "url": "https://open.spotify.com/artist/5DbeSCqFNABmMeFodQ6WjS"
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
         },
         {
-          "name": "David Rothenberg",
-          "url": "https://open.spotify.com/artist/2j8Uk5mWrGqT7bce5kD4YR"
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        },
+        {
+          "name": "Chris Chafe",
+          "url": "https://open.spotify.com/artist/7nVIbVC1823oRcakpFbiWd"
         }
       ],
-      "duration_ms": 412294,
-      "name": "All Creatures Get It",
-      "url": "https://open.spotify.com/track/175dH359woZbiN6qTMQdwR"
+      "duration_ms": 214440,
+      "name": "Quartetto Telematico #1",
+      "url": "https://open.spotify.com/track/6gJwQqlBcKKS2M3K3MkuOr"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "The Space Between with Barre Phillips",
         "url": "https://open.spotify.com/album/2zKXJwGI8jRnRadiQHgtQS"
@@ -857,47 +841,7 @@
       "url": "https://open.spotify.com/track/2OtzKgyyOyq0cqTTZz687I"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "phase/transitions (vol. 2)",
-        "url": "https://open.spotify.com/album/4wPO0QWu1IknF6CcK7pma5"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "Doug Van Nort",
-          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
-        },
-        {
-          "name": "Jonas Braasch",
-          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "Jupiter Smiles",
-      "url": "https://open.spotify.com/track/3USmotICBcaGGxPfqATu64"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "The Wanderer",
-        "url": "https://open.spotify.com/album/3QUlA6fpjPF7b2n2dYIVk6"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        }
-      ],
-      "duration_ms": 948600,
-      "name": "Duo for Accordion & Bandoneon",
-      "url": "https://open.spotify.com/track/0Q7j4wnChUGkIhxVfmVzDv"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Cicada Dream Band",
         "url": "https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu"
@@ -921,35 +865,123 @@
       "url": "https://open.spotify.com/track/4y3wgiAx0GbD28bnNxHTEQ"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
-        "name": "The Space Between with Barre Phillips",
-        "url": "https://open.spotify.com/album/2zKXJwGI8jRnRadiQHgtQS"
+        "name": "phase/transitions (vol. 2)",
+        "url": "https://open.spotify.com/album/4wPO0QWu1IknF6CcK7pma5"
       },
       "artists": [
         {
-          "name": "Philip Gelb",
-          "url": "https://open.spotify.com/artist/072w1Ic6TAlSH4svuUIlPE"
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Jupiter Smiles",
+      "url": "https://open.spotify.com/track/3USmotICBcaGGxPfqATu64"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "Quartet for the End of Space",
+        "url": "https://open.spotify.com/album/1vvpBnmpzosVx8njXLSXq5"
+      },
+      "artists": [
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Francisco L\u00f3pez",
+          "url": "https://open.spotify.com/artist/2NIo9CSlxx2pArdKee4hes"
         },
         {
           "name": "Pauline Oliveros",
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         },
         {
-          "name": "Dana Reason",
-          "url": "https://open.spotify.com/artist/3b22DdZo7z9wyXQxgHiijf"
-        },
-        {
-          "name": "Barre Phillips",
-          "url": "https://open.spotify.com/artist/7fYB8T3bHPQNqVGBJMRony"
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
         }
       ],
-      "duration_ms": 539293,
-      "name": "King Kong Passes Through the Gates of Shaolin Temple and Contemplates Life",
-      "url": "https://open.spotify.com/track/1fqHEFT7LL9gsVGCMzNXGo"
+      "duration_ms": 435000,
+      "name": "Snow Drifts",
+      "url": "https://open.spotify.com/track/0RDaGU8rrfG6MFZq2YPBvz"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "The Wanderer",
+        "url": "https://open.spotify.com/album/3QUlA6fpjPF7b2n2dYIVk6"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "duration_ms": 948600,
+      "name": "Duo for Accordion & Bandoneon",
+      "url": "https://open.spotify.com/track/0Q7j4wnChUGkIhxVfmVzDv"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "Cicada Dream Band",
+        "url": "https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Timothy Hill",
+          "url": "https://open.spotify.com/artist/5DbeSCqFNABmMeFodQ6WjS"
+        },
+        {
+          "name": "David Rothenberg",
+          "url": "https://open.spotify.com/artist/2j8Uk5mWrGqT7bce5kD4YR"
+        }
+      ],
+      "duration_ms": 412294,
+      "name": "All Creatures Get It",
+      "url": "https://open.spotify.com/track/175dH359woZbiN6qTMQdwR"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
+      "album": {
+        "name": "phase/transitions (vol. 2)",
+        "url": "https://open.spotify.com/album/4wPO0QWu1IknF6CcK7pma5"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "duration_ms": 329586,
+      "name": "Shear Viscosity",
+      "url": "https://open.spotify.com/track/1ddvHU5FBTRdvoqsNTYKBK"
+    },
+    {
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Ghostdance",
         "url": "https://open.spotify.com/album/1afT49NTjWCHoPQ0js4ZrG"
@@ -960,12 +992,12 @@
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         }
       ],
-      "duration_ms": 635413,
-      "name": "Procession",
-      "url": "https://open.spotify.com/track/07UUzMNgw4G1z7e9Vwv20C"
+      "duration_ms": 59000,
+      "name": "In the Houses of My Families",
+      "url": "https://open.spotify.com/track/4siYbu927SstAZU6VHoNXp"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Air Texture III Deadbeat + DJ Olive",
         "url": "https://open.spotify.com/album/1Vg5UR63LolNKuhgC5ZB06"
@@ -981,7 +1013,7 @@
       "url": "https://open.spotify.com/track/4vvCbnChsEcrbNFjfjaj94"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Cicada Dream Band",
         "url": "https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu"
@@ -1005,7 +1037,7 @@
       "url": "https://open.spotify.com/track/14KI3MCgh7scFAQkA5aNBW"
     },
     {
-      "added_at": "2023-03-05 12:18:36",
+      "added_at": "2023-03-06 12:01:19",
       "album": {
         "name": "Tara's Room",
         "url": "https://open.spotify.com/album/2zKiV8mhZXxo4pZK5i1vUe"
@@ -1019,34 +1051,6 @@
       "duration_ms": 1651080,
       "name": "Tara's Room",
       "url": "https://open.spotify.com/track/2BcRnZTZbFmvEBSDoBc8z4"
-    },
-    {
-      "added_at": "2023-03-05 12:18:36",
-      "album": {
-        "name": "Quartet for the End of Space",
-        "url": "https://open.spotify.com/album/1vvpBnmpzosVx8njXLSXq5"
-      },
-      "artists": [
-        {
-          "name": "Doug Van Nort",
-          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
-        },
-        {
-          "name": "Francisco L\u00f3pez",
-          "url": "https://open.spotify.com/artist/2NIo9CSlxx2pArdKee4hes"
-        },
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "Jonas Braasch",
-          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
-        }
-      ],
-      "duration_ms": 555893,
-      "name": "Untitled #273",
-      "url": "https://open.spotify.com/track/5IZeF6Cn3v6ePZalWN2G5R"
     }
   ],
   "unique_name": "This Is Pauline Oliveros",

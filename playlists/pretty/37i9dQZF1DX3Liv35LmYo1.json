@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 102669,
+  "num_followers": 102691,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2MjAwMCwwMDAwMDAwMDI5Yjc2MjQ2NjljMDJhYTFmNTMxODBkYzgyMzAxYzQ1",
+  "snapshot_id": "MTY3Nzc2MjAwMCwwMDAwMDAwMGY4NDIxMTM4NWI0YjM1ODhhN2UxMTBmNDhlYzc3ZmM5",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -155,21 +155,25 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Please Keep Shimmering",
-        "url": "https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV"
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
       },
       "artists": [
         {
-          "name": "Tom VR",
-          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
         }
       ],
-      "duration_ms": 263842,
-      "name": "Keep Shimmering",
-      "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
+      "duration_ms": 211845,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
     },
     {
-      "added_at": "2023-03-06 00:49:15",
+      "added_at": "2023-03-07 02:35:38",
       "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI"
@@ -221,7 +225,7 @@
       "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
     },
     {
-      "added_at": "2023-03-06 00:49:15",
+      "added_at": "2023-03-07 02:35:38",
       "album": {
         "name": "Don\u2019t Get Too Close",
         "url": "https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE"
@@ -307,22 +311,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Continua",
-        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
+        "name": "Please Keep Shimmering",
+        "url": "https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV"
       },
       "artists": [
         {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+          "name": "Tom VR",
+          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
         }
       ],
-      "duration_ms": 211845,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
+      "duration_ms": 263842,
+      "name": "Keep Shimmering",
+      "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
     },
     {
-      "added_at": "2023-03-06 00:49:15",
+      "added_at": "2023-03-07 02:35:38",
       "album": {
         "name": "MY DEAR",
         "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
     },
     {
-      "added_at": "2023-03-06 00:49:15",
+      "added_at": "2023-03-07 02:35:38",
       "album": {
         "name": "Mike (desert island duvet)",
         "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "TIOLI",
-        "url": "https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B"
-      },
-      "artists": [
-        {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
-        }
-      ],
-      "duration_ms": 278561,
-      "name": "TIOLI",
-      "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 288038,
       "name": "I Know",
       "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "TIOLI",
+        "url": "https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "duration_ms": 278561,
+      "name": "TIOLI",
+      "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
     },
     {
-      "added_at": "2023-03-06 00:49:15",
+      "added_at": "2023-03-07 02:35:38",
       "album": {
         "name": "Cellular",
         "url": "https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP"
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Someone Close",
-        "url": "https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 492316,
-      "name": "Someone Close",
-      "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Call of the Whipbird",
         "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 388735,
       "name": "Whipbird Dub",
       "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Someone Close",
+        "url": "https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 492316,
+      "name": "Someone Close",
+      "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
     },
     {
-      "added_at": "2023-03-06 00:49:15",
+      "added_at": "2023-03-07 02:35:38",
       "album": {
         "name": "Have You Felt Lately? (Brijean Remix)",
         "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Control EP",
-        "url": "https://open.spotify.com/album/5XqTrQdLMhuCxtxKwxDTFx"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        }
-      ],
-      "duration_ms": 239678,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/3aCHltJ5vsCJI94VxpWhf2"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Poly 61",
         "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 273300,
       "name": "Poly 61",
       "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Control EP",
+        "url": "https://open.spotify.com/album/5XqTrQdLMhuCxtxKwxDTFx"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        }
+      ],
+      "duration_ms": 239678,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3aCHltJ5vsCJI94VxpWhf2"
     },
     {
       "added_at": "2023-02-09 13:00:00",

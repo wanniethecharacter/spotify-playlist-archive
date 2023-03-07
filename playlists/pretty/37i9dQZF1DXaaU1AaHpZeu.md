@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: maye
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,622 likes - 55 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,667 likes - 55 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 54 | [Figuras de Papel](https://open.spotify.com/track/1JPMsY6LAYPK1Q3Q0vLdrf) | [Mon Band](https://open.spotify.com/artist/42nB1CSVZPYkElCS6FFTob) | [Figuras de Papel](https://open.spotify.com/album/1zlQBOHLtyZ5lnXY8d77yn) | 4:46 |
 | 55 | [Presente Continuo](https://open.spotify.com/track/54RJ8ENLdiDyejhvBrRdJI) | [Billy Flamingos](https://open.spotify.com/artist/5QNMZfk7EjvlD56OhO2CHu) | [Oscuro Baile De Salón](https://open.spotify.com/album/7iPt407kDh4HPwEoTwUMtj) | 4:24 |
 
-Snapshot ID: `MTY3NzgyMzIwMCwwMDAwMDAwMDY4NjUzOWE2ODMwN2I2OWJiZWI5MWEzOTg0MjQ4ZWMz`
+Snapshot ID: `MTY3NzgyMzIwMCwwMDAwMDAwMDkzMjEyMTFiZDMwYTFjODk1NjBmYmY1YWVmNzExNzBj`

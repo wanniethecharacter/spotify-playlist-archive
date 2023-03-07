@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 11059,
+  "num_followers": 11073,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDQxOSwwMDAwMDAwMDU1YzBlOTJhYjZjNmEzMTU2YzQ4YmJjMjY5ZDBhNjFl",
+  "snapshot_id": "MTY3NzgzMDQxOSwwMDAwMDAwMGVjYzkzYWNkOTFiZTFmYTliMjdjOTEyY2ViMmNiMTc4",
   "tracks": [
     {
       "added_at": "2023-03-03 08:00:19",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 185619,
-      "name": "Confident",
-      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
         "name": "FOR MY BABY",
         "url": "https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z"
       },
@@ -883,22 +863,6 @@
       "duration_ms": 137727,
       "name": "FOR MY BABY",
       "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 187206,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -919,6 +883,22 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 187206,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
         "name": "What Have We Done",
         "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 180773,
       "name": "Confession",
       "url": "https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 185619,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -967,6 +967,26 @@
       "duration_ms": 177946,
       "name": "History",
       "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/03vkzwvqbc8JQFoURzmqRA"
+      },
+      "artists": [
+        {
+          "name": "Phizbarz",
+          "url": "https://open.spotify.com/artist/07PoOuz1igSIxz9IlHMTX9"
+        },
+        {
+          "name": "J. Brown",
+          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
+        }
+      ],
+      "duration_ms": 139249,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/0sDY8QicmHzSA209oyINBy"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/03vkzwvqbc8JQFoURzmqRA"
-      },
-      "artists": [
-        {
-          "name": "Phizbarz",
-          "url": "https://open.spotify.com/artist/07PoOuz1igSIxz9IlHMTX9"
-        },
-        {
-          "name": "J. Brown",
-          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
-        }
-      ],
-      "duration_ms": 139249,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/0sDY8QicmHzSA209oyINBy"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
         "name": "Vanity",
         "url": "https://open.spotify.com/album/2NNV633QV0mNfqRDoFx0q0"
       },
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
+        "name": "alright, ok",
+        "url": "https://open.spotify.com/album/26biEQILFteBPAUgAeYxP7"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "alright, ok",
+      "url": "https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
         "name": "R-/LBT",
         "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 254326,
       "name": "Suga Candy",
       "url": "https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
-        "name": "alright, ok",
-        "url": "https://open.spotify.com/album/26biEQILFteBPAUgAeYxP7"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "alright, ok",
-      "url": "https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL"
     },
     {
       "added_at": "2023-03-03 08:00:19",

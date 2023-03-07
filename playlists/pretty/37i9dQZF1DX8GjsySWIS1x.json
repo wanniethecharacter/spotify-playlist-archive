@@ -1,28 +1,32 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 1004606,
+  "num_followers": 1004775,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc4MzE2NiwwMDAwMDAwMDNjMTJhYzM1YTkzODZmNGQ3MGFhMDUxYTNmODYwYWJl",
+  "snapshot_id": "MTY3ODEyMDgxMywwMDAwMDAwMDNiN2RmM2M0YWFlZTMzNjNkNzVlYmIzNzkwZWU1NmI3",
   "tracks": [
     {
-      "added_at": "2023-03-02 18:52:46",
+      "added_at": "2023-03-06 16:40:13",
       "album": {
-        "name": "Monkeys",
-        "url": "https://open.spotify.com/album/6rgFsAR7t0fOKI5wWSQrSC"
+        "name": ">one",
+        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
       },
       "artists": [
         {
-          "name": "TheFatRat",
-          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 157090,
-      "name": "Monkeys",
-      "url": "https://open.spotify.com/track/4mPAxO918YuLgviTMMqw8P"
+      "duration_ms": 130666,
+      "name": ">one",
+      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     },
     {
       "added_at": "2022-12-16 06:01:00",
@@ -43,6 +47,22 @@
       "duration_ms": 99804,
       "name": "Demon (featuring $NOT)",
       "url": "https://open.spotify.com/track/4OGkTQRmsTjodBox6nMzFU"
+    },
+    {
+      "added_at": "2023-03-02 18:52:46",
+      "album": {
+        "name": "Monkeys",
+        "url": "https://open.spotify.com/album/6rgFsAR7t0fOKI5wWSQrSC"
+      },
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "Monkeys",
+      "url": "https://open.spotify.com/track/4mPAxO918YuLgviTMMqw8P"
     },
     {
       "added_at": "2023-01-19 17:48:37",

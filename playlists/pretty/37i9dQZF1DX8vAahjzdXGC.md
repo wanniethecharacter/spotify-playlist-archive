@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Andmesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,658 likes - 117 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,697 likes - 117 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 116 | [For Once](https://open.spotify.com/track/55aAg3WavEg2F70ha4kWi9) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:32 |
 | 117 | [Dancing With The Moon \- English Version](https://open.spotify.com/track/27lzwQmfUvdLkuhXW1CEMC) | [Alfred Sun](https://open.spotify.com/artist/4HnjYY4OILxDwX93n0KUHB) | [Dancing With The Moon \(English Version\)](https://open.spotify.com/album/1ONwjrTHaZ04SBYTPXQSPC) | 2:52 |
 
-Snapshot ID: `MTY3Nzc3NjQwMCwwMDAwMDAwMDEyODA1N2UwZmM1N2U0MWRlZDBhYjk0MzI5NGQyMWYw`
+Snapshot ID: `MTY3Nzc3NjQwMCwwMDAwMDAwMDViZGU5ODQwZDJkNDBkYjM5NGQ1N2VlMWViMDVmOTcx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation Cover: Faye Webster
 
-[Spotify](https://open.spotify.com/user/spotify) - 261 likes - 63 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 290 likes - 63 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 62 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 |
 | 63 | [Carthage](https://open.spotify.com/track/5T2rPvGAbs5Z6CLXXbh3jX) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 5:30 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGNlNWU2Y2RlYmQ5ZDQwMTcxMGFlMjIwYTg3MjkxZGM3`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGNlN2QwYTA2ZDc1NTQ2Mjk3YmQxMTE2NzNiNWZjNTE4`

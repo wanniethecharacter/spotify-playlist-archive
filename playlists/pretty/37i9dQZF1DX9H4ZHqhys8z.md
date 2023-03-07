@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Anna Vissi
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,732 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,769 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Foul](https://open.spotify.com/track/3qrUZUzacU2dNsPeqXmZKp) | [Antonella](https://open.spotify.com/artist/0YxYR1RIIJE7laQUtAYPMx) | [Foul](https://open.spotify.com/album/24WEOsgTq9EQtt93NGMzfC) | 2:57 |
 | 50 | [Vradi Hristougenna](https://open.spotify.com/track/0MtSUNiFWpW7xM5iOJJwmp) | [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Vradi Hristougenna](https://open.spotify.com/album/2lgU0cuRLlz83fbHyut1O4) | 2:27 |
 
-Snapshot ID: `MTY3NzYyMTYwMCwwMDAwMDAwMGUxNzVhYWExNjc2OTkyNThjNWYwZWFhYmQxMDFmMWFi`
+Snapshot ID: `MTY3NzYyMTYwMCwwMDAwMDAwMDY3MjRjOTA0OGE5YjMxOWI3NWNiODE4ZGE1M2EzY2Ni`

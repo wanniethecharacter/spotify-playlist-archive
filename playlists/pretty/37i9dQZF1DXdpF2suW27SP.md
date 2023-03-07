@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Wet Bed Gang entram na zona.
+> 9 Miller e Mizzy Miles entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,105 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,132 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Atalhos](https://open.spotify.com/track/5mdUqRqx7px0ZHCDQQDrk7) | [Rafa G](https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi) | [Atalhos](https://open.spotify.com/album/1dOUh9n9KcKa18wOgcuyub) | 2:54 |
 | 75 | [Não](https://open.spotify.com/track/3BoOl2GNbhf9an8wsRHhF0) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Não](https://open.spotify.com/album/1d2c3KSL2HHoiIatAeMSEZ) | 3:30 |
 
-Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDI4ZjFiODM3NTI0NDBlNDk3Y2E2M2NhNzFjZWM1MzE4`
+Snapshot ID: `MTY3ODExNzkyMSwwMDAwMDAwMDE2ZWIyZjNlYjQ0ZjBkMDUzZWM2NDgwNzhmNzc4NWEz`

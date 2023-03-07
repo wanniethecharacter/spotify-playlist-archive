@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:39i5B6umzWzkfMe12JrMwW">TiaCorine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,741,456 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,741,770 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Gang Nem \(feat\. EST Gee\)](https://open.spotify.com/track/6t4OP550372zgiAof928AR) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Survivor Of The Trenches](https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13) | 2:23 |
 | 100 | [Gah Damn](https://open.spotify.com/track/0VQucSKq1xINBeqQZRt69w) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Gah Damn](https://open.spotify.com/album/7xMqiBsn4iTnFw172KnxaA) | 3:12 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDFjMWE4MWMzODcyNDJmMzFjNGFjMTQyZGJmYzJmOWVj`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDllMTQ4MzZmNWQ2YWJjMDc3YWExMjg1NGE5ZDkzODM1`

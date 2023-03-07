@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Ankush Bhardwaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,402 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,444 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Dil Churane Lage Ho \- From "Jannatein"](https://open.spotify.com/track/2FqN10gkrCZIeKlcEka9r1) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA), [Poonam Naruka](https://open.spotify.com/artist/3ltJAEPIqC61hhtZDH4E17) | [Dil Churane Lage Ho \(From "Jannatein"\)](https://open.spotify.com/album/43BR8qpwQjs9S7dSE7t3M7) | 3:24 |
 | 50 | [Socho](https://open.spotify.com/track/5pZntMo01v4GRaWKWRqyTE) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Socho](https://open.spotify.com/album/7oOlVtccWmt39tQJU61eLb) | 3:18 |
 
-Snapshot ID: `MTY3NzgzNDgxMiwwMDAwMDAwMDdkYjBkYTgzMDIwNzY1YzMxYWUxZmY5MTYwZjEwM2Vj`
+Snapshot ID: `MTY3NzgzNDgxMiwwMDAwMDAwMDBiY2Q1ODIzOGVmOTUxZGE4ZTUwMzQwMjgxYTc0MWM0`

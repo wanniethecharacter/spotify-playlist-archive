@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,543 likes - 135 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,824 likes - 135 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 134 | [Roller](https://open.spotify.com/track/5di8kYa0GOK3wEI0ZECcXL) | [Quilt](https://open.spotify.com/artist/0S4yEUTvpxWhfXux925405) | [Plaza](https://open.spotify.com/album/2jT4DbuDmofOryMYKXIVBS) | 4:14 |
 | 135 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 
-Snapshot ID: `MTY3NjA3NjQ2NywwMDAwMDAwMDVmMGM4MjhkMTQwYjM4OTc4ZDA5YTk5NWQyMDRjMzgz`
+Snapshot ID: `MTY3NjA3NjQ2NywwMDAwMDAwMGJkNWE2NzhmMGQ1MTkzODE0NjdmN2MxMmE5NWVkMzM5`

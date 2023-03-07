@@ -3619,6 +3619,32 @@
     },
     {
       "album": {
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "rSUN",
+          "url": "https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo"
+        },
+        {
+          "name": "Deliriousninja",
+          "url": "https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177441,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B"
+    },
+    {
+      "album": {
         "name": "Emotion Sickness",
         "url": "https://open.spotify.com/album/7wxZ1xnjbPodzxj3uOxwAe"
       },
@@ -13296,7 +13322,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 176408,
       "name": "Threat",
       "url": "https://open.spotify.com/track/3aVpwI8alwe9eZgtipTO4o"

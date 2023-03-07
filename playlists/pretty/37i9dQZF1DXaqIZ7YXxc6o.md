@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Sigala, Caity Baser, Stefflon Don, Mae Muller
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,260 likes - 111 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,271 likes - 111 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 110 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 |
 | 111 | [Walk Away](https://open.spotify.com/track/2CrKkK4Bd3TPkBVtI6IXi0) | [REPAIR](https://open.spotify.com/artist/0xLqXvK6horF4enARe8AIN), [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi), [Alimish](https://open.spotify.com/artist/2gbXRkygfEuz0WIjtN2vpR) | [Walk Away](https://open.spotify.com/album/59uxFHzPPuMiX2UwuU8PBN) | 4:24 |
 
-Snapshot ID: `MTY3NzgwNDA5MCwwMDAwMDAwMDM2NmM0M2RmMzQ1NDE1NjY2MzUzZjMwNGMwMjdiOTIw`
+Snapshot ID: `MTY3NzgwNDA5MCwwMDAwMDAwMDk4NmY0M2E4MWRkNDBkMDgzMjQ0NGU5MmIxYzRiZGJi`

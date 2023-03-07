@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,662 likes - 70 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,675 likes - 70 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 69 | [Night Journeys II \- Jessy Lanza Remix](https://open.spotify.com/track/60VjArH5XWBvpahor9I7RF) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Night Journeys Remixes](https://open.spotify.com/album/6evedkkGMc4VTjdL5CROVz) | 4:37 |
 | 70 | [Marixylo](https://open.spotify.com/track/6hCpieIoM2tBlpn8JBBvUJ) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Marixylo / Log 0ut](https://open.spotify.com/album/1RVJiWQ10iL6LdIwSwqCyI) | 3:55 |
 
-Snapshot ID: `MTY3NTk4MzY2MCwwMDAwMDAwMGQxYmFmZWE1MjZjMDc3NjI0MDUxNmVjYjYwY2IzYzVm`
+Snapshot ID: `MTY3NTk4MzY2MCwwMDAwMDAwMGNkZDlhYThkYWEzYmYwMzg5M2M0MDIwOTJiYWQ0NTIw`

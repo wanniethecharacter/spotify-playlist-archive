@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,044 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,139,136 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [Chedda Cheese \(feat\. Babyface Ray\)](https://open.spotify.com/track/05a0oCC4u0uIwtHf2xgYGM) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Gift Of The Ghetto](https://open.spotify.com/album/3lr8MX7RXraKBsQjxxEDBc) | 2:50 |
 | 50 | [Mary Jane](https://open.spotify.com/track/36vV3s25myQTEhRJIqzSz9) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Mary Jane](https://open.spotify.com/album/4gzjx1UbhuVa5bgLFg0m8O) | 3:40 |
 
-Snapshot ID: `MTY3Nzg2MDA4NCwwMDAwMDAwMDMyNThmZDY4ZDAzMjQ4N2RhMmViOTM3ZTk5OGE4Nzk3`
+Snapshot ID: `MTY3Nzg2MDA4NCwwMDAwMDAwMDIwMDA2ODdlMjM1Nzc2ZjczMjViZTRjY2Q4ZTdmMmM2`

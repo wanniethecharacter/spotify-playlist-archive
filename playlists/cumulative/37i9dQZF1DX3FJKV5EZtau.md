@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-341 songs - 19 hr 44 min
+342 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [do\-re\-mi\-fa\-so\-la\-ti\-do](https://open.spotify.com/track/6MDBkIEBEodrBPG5CPb8IG) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:34 | 2022-01-07 |  |
 | [Dolph's Aerobics 2020](https://open.spotify.com/track/3OmBBXU2eyxqgDy314Tcoj) | [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8), [Rymdkraft](https://open.spotify.com/artist/2PA8UtTP897oYGZhUEyGpg) | [Dolph's Aerobics 2020](https://open.spotify.com/album/6ERNyHn1YeHX4GHqanxvcl) | 2:19 | 2022-01-07 | 2022-07-28 |
 | [Don't Need You](https://open.spotify.com/track/0se8mCFDYQohVqP6cFoToK) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Don't Need You](https://open.spotify.com/album/76yfAYufLuG6wYQRRnJTx5) | 3:17 | 2022-01-07 |  |
-| [Dracodraco](https://open.spotify.com/track/1989YquYFYsPa4PutqJunf) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Dracodraco](https://open.spotify.com/album/13YQaMzrLZziaj9PgpQppO) | 4:19 | 2022-01-07 |  |
+| [Dracodraco](https://open.spotify.com/track/1989YquYFYsPa4PutqJunf) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Dracodraco](https://open.spotify.com/album/13YQaMzrLZziaj9PgpQppO) | 4:19 | 2022-01-07 | 2023-03-07 |
 | [DRAG](https://open.spotify.com/track/1E7ziN1yrE18pJ55ech2XR) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [DRAG](https://open.spotify.com/album/6qItSBH2995bdjIe0qdoZx) | 3:15 | 2022-04-15 | 2022-07-28 |
 | [Dragonflame](https://open.spotify.com/track/5YT0Pjym5S1kgZoUdOMZU3) | [Kirara Magic](https://open.spotify.com/artist/7IPe93LySFSStLX4J5j5Lr) | [Dragonflame](https://open.spotify.com/album/5yV6JmK0w8b7BMt29lJ42k) | 3:18 | 2023-01-06 |  |
 | [DREADED NOTE](https://open.spotify.com/track/0ysOmEVVYJjenh64P5dN3l) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [DREADED NOTE](https://open.spotify.com/album/3yhKVJspZP2p9T76PPQxTp) | 3:19 | 2022-02-11 | 2022-07-16 |
@@ -267,6 +267,7 @@
 | [Ryu's Theme \- The Moe’s Pizzeria Steve Aoki Remix](https://open.spotify.com/track/0IT73kNAnWd3UUsVToD79B) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Ryu's Theme \(The Moe’s Pizzeria Steve Aoki Remix\)](https://open.spotify.com/album/7jwd71HeseQVzYyJ4WiEev) | 3:54 | 2022-01-07 | 2022-05-09 |
 | [Safe](https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Safe](https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV) | 2:43 | 2022-01-07 | 2023-02-05 |
 | [Safe](https://open.spotify.com/track/3ScwHPClq79GwSsGhGfaqb) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Safe](https://open.spotify.com/album/5oTrNkAWpKePxECOBbBIHV) | 2:43 | 2023-02-03 | 2023-02-22 |
+| [Safe](https://open.spotify.com/track/6MtY84ZQEzwWteHUUaNofQ) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Apotheosis](https://open.spotify.com/album/0bjQhZgb32LrZ6SXK2luDT) | 2:43 | 2023-02-17 |  |
 | [Sakura](https://open.spotify.com/track/04wJvtcz0bjaCr8bwoaFjm) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [The Giant](https://open.spotify.com/album/72J29lc160d3sxr8FBTPKe) | 2:24 | 2022-01-07 | 2022-07-28 |
 | [SATURN](https://open.spotify.com/track/31LVJ4CwvN2LmCZppHbSPf) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO) | [SATURN](https://open.spotify.com/album/0daAG6oStppxPhgRvDQW0Z) | 3:45 | 2022-01-07 | 2022-07-29 |
 | [SATURN](https://open.spotify.com/track/300FdNRzAAGKn9uYDLw1JU) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [VISUALS \(DELUXE\)](https://open.spotify.com/album/1uV3CJwt4iG0IVIYFWt7OZ) | 3:45 | 2022-08-05 |  |

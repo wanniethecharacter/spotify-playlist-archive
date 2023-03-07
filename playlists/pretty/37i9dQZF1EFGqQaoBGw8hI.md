@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,954 likes - 477 songs - 1 day 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,957 likes - 477 songs - 1 day 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,8 +217,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 207 | [Son Of Your Father](https://open.spotify.com/track/0LiczY4DOe2qDlTw6KgcJg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 3:48 |
 | 208 | [Hey Ahab](https://open.spotify.com/track/3x8Cv7Mf7zufMptbs1s09o) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 5:39 |
 | 209 | [The Cage](https://open.spotify.com/track/0DCyXrySuYSRIVDIuLPzdd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:26 |
-| 210 | [Shine](https://open.spotify.com/track/6a1dyMMHUZ0TomsCO9ueQt) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 6:06 |
-| 211 | [Kann es wirklich Liebe sein](https://open.spotify.com/track/0758USGXMKnV7zxOqSed5y) | [Magdalena Turba](https://open.spotify.com/artist/1nvfvxzqAFadd4w0SeMRx5), [Pat Lawson](https://open.spotify.com/artist/3vgMnGRwgc3WxbKwvJhD4G), [Marius Claren](https://open.spotify.com/artist/0vXW2Fi2LQhE3lal9GS18s), [Daniel Zillmann](https://open.spotify.com/artist/37kqV9ZD4aSq86OtU5nNsc) | [Der König der Löwen \(Deutscher Original Film\-Soundtrack\)](https://open.spotify.com/album/65Pc4bvmswcUqyslXK17vm) | 3:02 |
+| 210 | [Kann es wirklich Liebe sein](https://open.spotify.com/track/0758USGXMKnV7zxOqSed5y) | [Magdalena Turba](https://open.spotify.com/artist/1nvfvxzqAFadd4w0SeMRx5), [Pat Lawson](https://open.spotify.com/artist/3vgMnGRwgc3WxbKwvJhD4G), [Marius Claren](https://open.spotify.com/artist/0vXW2Fi2LQhE3lal9GS18s), [Daniel Zillmann](https://open.spotify.com/artist/37kqV9ZD4aSq86OtU5nNsc) | [Der König der Löwen \(Deutscher Original Film\-Soundtrack\)](https://open.spotify.com/album/65Pc4bvmswcUqyslXK17vm) | 3:02 |
+| 211 | [Shine](https://open.spotify.com/track/6a1dyMMHUZ0TomsCO9ueQt) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 6:06 |
 | 212 | [Street Kids](https://open.spotify.com/track/20FnYowQOrLxU92iyA94ed) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 6:25 |
 | 213 | [Gone To Shiloh](https://open.spotify.com/track/65ncFY9Uh30l8cUPwYabMk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 4:50 |
 | 214 | [Dream \# 2](https://open.spotify.com/track/1NnhhUjWekAAJNwvB66dbG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board](https://open.spotify.com/album/7nXmwymeNTvJd1CnpEugH2) | 0:43 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Gnomeo and Juliet](https://open.spotify.com/track/7GpjK6c4S7ihN8fGX3y9lK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:22 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc5Njc3MDEsMDAwMDAwMDBlYjI0OGQwNzU2ZmQyYmE4ZTM2ODYzMTMxMTZhMDQ1MQ==`
+Snapshot ID: `Mjc5NjkzMjEsMDAwMDAwMDA0ZmI1NDlmOTFhODMyZjZlMzU5Mzg2ZTcyYTYyOWY1MQ==`

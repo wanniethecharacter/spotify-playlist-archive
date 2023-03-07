@@ -1131,6 +1131,36 @@
     },
     {
       "album": {
+        "name": "Dawaran",
+        "url": "https://open.spotify.com/album/5a4sKU38KMZaclSzV5aPkf"
+      },
+      "artists": [
+        {
+          "name": "Zap Tharwat",
+          "url": "https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv"
+        },
+        {
+          "name": "Sary Hany",
+          "url": "https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK"
+        },
+        {
+          "name": "Hudz",
+          "url": "https://open.spotify.com/artist/1ffKtN3dRJOQKTUm1pkDGM"
+        },
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209093,
+      "name": "Dawaran",
+      "url": "https://open.spotify.com/track/502J71DT2SOAVz6lj0sl7b"
+    },
+    {
+      "album": {
         "name": "Dayy Al Qamar",
         "url": "https://open.spotify.com/album/1d2AMpEgkfhHYjVvBbusCn"
       },
@@ -2508,7 +2538,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 139743,
       "name": "Heya El7lwa",
       "url": "https://open.spotify.com/track/0cEKtYoSyofkTQR1KVrXxJ"
@@ -4635,6 +4665,24 @@
     },
     {
       "album": {
+        "name": "Tayeh",
+        "url": "https://open.spotify.com/album/6plScIvVMfDrLp56hqN2ro"
+      },
+      "artists": [
+        {
+          "name": "Nasser",
+          "url": "https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202182,
+      "name": "Tayeh",
+      "url": "https://open.spotify.com/track/5RewmMI1PlDpFSKeo1VL9G"
+    },
+    {
+      "album": {
         "name": "Tegy Ntrahn",
         "url": "https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av"
       },
@@ -5676,7 +5724,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 237600,
       "name": "\u0628\u062d\u0628\u0643 \u0648 \u062e\u0627\u064a\u0641",
       "url": "https://open.spotify.com/track/5QUsDMbLJc8b4h4gNXIyxr"

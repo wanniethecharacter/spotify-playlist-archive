@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Neima Ezza, Icy Subzero&Tony Effe \(cover\), Bresh e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,729 likes - 73 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,758 likes - 73 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 72 | [Polvere 2 \- Piano Version](https://open.spotify.com/track/43SCnZKrexM5T7C8AlsDBk) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [Polvere 2 \(Piano Version\)](https://open.spotify.com/album/444H1b2kQtSy0elVuls7kG) | 1:52 |
 | 73 | [Weakness](https://open.spotify.com/track/7MJR2ENLQvUiMrXH60FH8b) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt) | [Weakness](https://open.spotify.com/album/27WwvhtKuplSMhdvIehcZl) | 2:55 |
 
-Snapshot ID: `MTY3NzgwMTY2MCwwMDAwMDAwMDViOTAzMTE4MjljNTg2ZTVkODk5YmUxYjI3OWU1NTI2`
+Snapshot ID: `MTY3NzgwMTY2MCwwMDAwMDAwMGZlYzE5OWY4NmVmMjEwZmNjOTlmNGExOGFiOWVjOThk`

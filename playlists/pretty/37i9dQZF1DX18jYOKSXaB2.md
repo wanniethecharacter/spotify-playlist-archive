@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > consider this an RSVP to littest wedding parties
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,461 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,471 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 54 | [Open Gate](https://open.spotify.com/track/4tKpMrJrClcxp6EAc1PeLu) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Open Gate](https://open.spotify.com/album/1KzYxd51HBeLtJ3ZW2w3TY) | 2:59 |
 | 55 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 |
 
-Snapshot ID: `MTY3NTM5ODk3NSwwMDAwMDAwMDUxZDQ1YjFkMzhkMWJlZmMzMjg3MTc4NzVlY2NmODMy`
+Snapshot ID: `MTY3NTM5ODk3NSwwMDAwMDAwMGE4NzM1ZjMyMzk2MWU5YjFkY2MxYjY4ZTY1ZWVhYTU4`

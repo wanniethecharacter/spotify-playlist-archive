@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-449 songs - 18 hr 17 min
+450 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [re: Belief](https://open.spotify.com/track/0g1Pc2u4bltu3qWzidT1Yk) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [re: Belief](https://open.spotify.com/album/0QWsMY7mIJFA7Rj4gDiHIN) | 2:03 | 2022-07-28 | 2022-08-01 |
 | [re: Belief](https://open.spotify.com/track/1zJGVQOqRG5n3Tkdg56ZbM) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [re: Belief](https://open.spotify.com/album/7scWksNtviv53vicGDfGQr) | 2:03 | 2022-07-07 | 2022-07-29 |
 | [Recollection](https://open.spotify.com/track/7a55wM8GN7WcT7UXX3zBRK) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Recollection](https://open.spotify.com/album/5hPbTTsCGBDi5XVUUBYqge) | 2:41 | 2020-10-02 | 2021-09-10 |
-| [Recuring Dream](https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL) | [The Scenic Route](https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo) | 2:53 | 2019-05-26\* |  |
+| [Recuring Dream](https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL) | [The Scenic Route](https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo) | 2:53 | 2019-05-26\* | 2023-03-07 |
 | [Red moon](https://open.spotify.com/track/2F66lTUMuqkuuFCBSbXn0t) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc) | [Red moon](https://open.spotify.com/album/3TKBZuqZUWoFxFZ1M1TqhA) | 2:21 | 2019-05-26\* | 2022-07-28 |
 | [Red moon](https://open.spotify.com/track/5TGFhHolLkIp7ZO799qypV) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc) | [Red moon](https://open.spotify.com/album/1Avmt8F962GtbwfKTylowU) | 2:21 | 2022-08-04 | 2022-09-23 |
 | [Red Phase, Part One](https://open.spotify.com/track/6riOshSCGusBuhC9okwNBS) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The Crucible \(Red Phase\)](https://open.spotify.com/album/4zcIVoAVEim9lIROJk7fhv) | 2:58 | 2021-06-12 | 2021-09-02 |
@@ -444,6 +444,7 @@
 | [what you doin'](https://open.spotify.com/track/6suR5CukTxeaNORNX4aw03) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5) | [what you doin'](https://open.spotify.com/album/09uEXgtbEd6RHF2ujnwmfm) | 1:45 | 2019-06-14 | 2019-08-13 |
 | [Whatsreal](https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Whatsreal](https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T) | 2:28 | 2020-06-29 |  |
 | [Whiskey Sour](https://open.spotify.com/track/2VfsGpk0cMWyzM42hqKu5r) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Whiskey Sour / Strammer Max](https://open.spotify.com/album/5XGfotYYtQVErNef3THqQ8) | 1:42 | 2020-07-18 | 2022-04-06 |
+| [Whispers in the Night](https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [PAREIDOLIA](https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC) | 3:01 | 2023-03-02 |  |
 | [White Tea](https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ) | [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [White Tea](https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ) | 1:28 | 2019-06-14 |  |
 | [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-16 | 2022-12-24 |
 | [winter in rio](https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe) | 1:40 | 2022-07-28 |  |

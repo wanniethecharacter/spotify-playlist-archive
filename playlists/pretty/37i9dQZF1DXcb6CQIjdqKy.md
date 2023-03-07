@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.   Cover:  Kierra Sheard
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,523,533 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,523,764 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Take It To Jesus](https://open.spotify.com/track/5JXc6DbeEZzPqunepkd1HF) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Take It To Jesus](https://open.spotify.com/album/2tPojTbfapvOHxUcdiWwkO) | 4:32 |
 | 100 | [Rest On Us \- Single Version](https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Rest On Us](https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX) | 3:44 |
 
-Snapshot ID: `MTY3Nzg0MTE0MSwwMDAwMDAwMDE5NDBhOTg5ZjVjM2E2NDQzYzBkM2FiMGYyZTk2YzA5`
+Snapshot ID: `MTY3Nzg0MTE0MSwwMDAwMDAwMGYwOWFlNzQxNTUwODVkOTViMWFjNmNhODUxNTM2MWE2`

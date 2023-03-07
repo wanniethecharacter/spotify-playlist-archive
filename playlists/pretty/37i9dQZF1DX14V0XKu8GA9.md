@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,023 likes - 35 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,048 likes - 35 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 20 | [Run It Up](https://open.spotify.com/track/1oUArtekFELwY7XvRUiSB1) | [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Run It Up](https://open.spotify.com/album/0w2ljyq80oNCthKKKhS7Nl) | 2:21 |
 | 21 | [Cosos](https://open.spotify.com/track/41Fjg2nCpGifEPc7BLKQNG) | [CRIMEAPPLE](https://open.spotify.com/artist/0giUOGLTAaVVbdr7aSwM0N) | [El Cantante](https://open.spotify.com/album/5AMPEhbfGqSNfhImCslYzS) | 3:27 |
 | 22 | [Vivid Dreams](https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Vivid Dreams](https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK) | 2:56 |
-| 23 | [Dangerous](https://open.spotify.com/track/1w50Z3O8mqE3Sioor80Aft) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Jewl$](https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF), [Lil Bouncer](https://open.spotify.com/artist/2K4Rk5N285uJvldQ6nenDh) | [Dangerous](https://open.spotify.com/album/1vyjmDQjPezDYw0NTxR7bK) | 2:42 |
-| 24 | [One Day Left](https://open.spotify.com/track/7MohmRhHrAwJ3kkAE5H02O) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [Thicker Than Water](https://open.spotify.com/album/0Rm2QWl2jMihQP5Ml1398x) | 4:25 |
-| 25 | [All The Good Die Young](https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [All The Good Die Young](https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE) | 2:01 |
+| 23 | [One Day Left](https://open.spotify.com/track/7MohmRhHrAwJ3kkAE5H02O) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [Thicker Than Water](https://open.spotify.com/album/0Rm2QWl2jMihQP5Ml1398x) | 4:25 |
+| 24 | [All The Good Die Young](https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [All The Good Die Young](https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE) | 2:01 |
+| 25 | [Dangerous](https://open.spotify.com/track/1w50Z3O8mqE3Sioor80Aft) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Jewl$](https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF), [Lil Bouncer](https://open.spotify.com/artist/2K4Rk5N285uJvldQ6nenDh) | [Dangerous](https://open.spotify.com/album/1vyjmDQjPezDYw0NTxR7bK) | 2:42 |
 | 26 | [Face](https://open.spotify.com/track/3xZTXYCcXMj7gAEw6PtcOA) | [G\-Mainey](https://open.spotify.com/artist/6iwdaFkSnuPOovNDg8Wx94), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Face](https://open.spotify.com/album/0mPlZdCyMtoDtHJOylRGzk) | 2:40 |
 | 27 | [Gahdamn](https://open.spotify.com/track/3y1zka5AZI6PWmuSdfr681) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Gahdamn](https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0) | 2:33 |
 | 28 | [SLIDIN](https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [SLIDIN](https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk) | 2:38 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 34 | [Vámonos](https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Chris Obannon](https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4) | [Vámonos](https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV) | 3:51 |
 | 35 | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL), [$tonehardt](https://open.spotify.com/artist/6L0fEdbyPCFjfm8f0Ap58i), [Dexter Cayn](https://open.spotify.com/artist/2xOGNq8UOojSAnw31dYfq2) | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk) | 2:55 |
 
-Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMGMxYTIwZmE2NTc4NTQwMDc0MmMyYWVhNzhiYTRmNDg1`
+Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMDc3MDg2YmE1MjgwYWM0ODI0OWMyNTdiZmFlNjk4NTgy`

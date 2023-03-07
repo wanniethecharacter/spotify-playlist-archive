@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Numidia & Bilal Wahib op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,813 likes - 117 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,853 likes - 117 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 116 | [Dansen Met Het Licht Uit](https://open.spotify.com/track/7E3Lo5lZo50eddRleg6y6Q) | [Jerry Island](https://open.spotify.com/artist/46tAkwcuqLpuqBMC1V1fp1) | [Dansen Met Het Licht Uit](https://open.spotify.com/album/4XHHeomMEP8WpdkyRbjldH) | 2:57 |
 | 117 | [Liever Leven](https://open.spotify.com/track/7LykDowuuZgfTjDlVqUIGT) | [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Gewoon Willem](https://open.spotify.com/album/5IOhdflOGOIy28OGwCzw5h) | 2:48 |
 
-Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDA4M2ZlMDc0MjQwYWJjYzlmM2VmMGJkZDA5MTMwY2Rj`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMGEwODJkYWRhMjgwZGIzOWViM2MzNDM3YWVmN2VmMWVi`

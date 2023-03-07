@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: YESUNG(\uc608\uc131)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
+  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: ONEW(\uc628\uc720)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "New Music K-Pop",
   "tracks": [
     {
@@ -21863,6 +21863,24 @@
     },
     {
       "album": {
+        "name": "Faith, Love !",
+        "url": "https://open.spotify.com/album/0dSmPeT7SrT6wDQHE1MYi2"
+      },
+      "artists": [
+        {
+          "name": "JA!L",
+          "url": "https://open.spotify.com/artist/4LdTnV4hw7wNUoH3X9SdSJ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Faith, Love !",
+      "url": "https://open.spotify.com/track/5G7X9QDNzMZKjXF7Gw2bL3"
+    },
+    {
+      "album": {
         "name": "Faithful (feat. Choi Yu Ree)",
         "url": "https://open.spotify.com/album/1jzqC7js5BW3f0G2UyxZfG"
       },
@@ -28007,6 +28025,24 @@
     },
     {
       "album": {
+        "name": "MASTER : PIECE",
+        "url": "https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202053,
+      "name": "Groovy",
+      "url": "https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph"
+    },
+    {
+      "album": {
         "name": "Ground",
         "url": "https://open.spotify.com/album/5x8yJ9AIXEBTSxhCuRNgJV"
       },
@@ -28044,6 +28080,24 @@
       "duration_ms": 171750,
       "name": "Ground Zero (Feat. punchnello)",
       "url": "https://open.spotify.com/track/4AJZDFoq6uKpBAwTL3TEpY"
+    },
+    {
+      "album": {
+        "name": "Grown up Child",
+        "url": "https://open.spotify.com/album/6r1J0T01TnQWficDfPhLwf"
+      },
+      "artists": [
+        {
+          "name": "Kang Huh Dalrim",
+          "url": "https://open.spotify.com/artist/1s00dyIphzjCGr2I1EeN7P"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262882,
+      "name": "Grown up Child",
+      "url": "https://open.spotify.com/track/43bsAXphz5g8yQvksF3ENN"
     },
     {
       "album": {
@@ -29799,6 +29853,24 @@
     },
     {
       "album": {
+        "name": "Hide and seek",
+        "url": "https://open.spotify.com/album/2gwhdGxjqNSXKRcjZa6iKe"
+      },
+      "artists": [
+        {
+          "name": "406 Project",
+          "url": "https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143334,
+      "name": "Hide and seek",
+      "url": "https://open.spotify.com/track/3CCV5tvVQqnlrWboCbeC1p"
+    },
+    {
+      "album": {
         "name": "Hide and Seek",
         "url": "https://open.spotify.com/album/1QgeqdZEcBZXSUqykXvyDZ"
       },
@@ -30920,6 +30992,28 @@
       "duration_ms": 160750,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2fjB4nrW8yaDvaDddhO06a"
+    },
+    {
+      "album": {
+        "name": "hope (feat. Han Yo Han)",
+        "url": "https://open.spotify.com/album/7cZRKZlLsa6y2vmtsY7Ngj"
+      },
+      "artists": [
+        {
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
+        },
+        {
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "hope (feat. Han Yo Han)",
+      "url": "https://open.spotify.com/track/0ljbNroDCLL0GgDmDq00yF"
     },
     {
       "album": {
@@ -36720,6 +36814,24 @@
       "duration_ms": 211000,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/2oGCuDkdDmd1OTVNMJqfFO"
+    },
+    {
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/2rykqnBOvbG4jPI82epGu3"
+      },
+      "artists": [
+        {
+          "name": "Kisnue",
+          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239503,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/2Jb3wm5dZEHKjf9b0XXDDU"
     },
     {
       "album": {
@@ -48883,6 +48995,24 @@
     },
     {
       "album": {
+        "name": "Myosotis",
+        "url": "https://open.spotify.com/album/6maedJtLbAv6hEQ7tjq0HB"
+      },
+      "artists": [
+        {
+          "name": "qman(9.10000)",
+          "url": "https://open.spotify.com/artist/6kov6ZeLUVYXsXbZ0mRu7a"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283044,
+      "name": "Myosotis",
+      "url": "https://open.spotify.com/track/6CiUL49oQknpwypCd5z4mZ"
+    },
+    {
+      "album": {
         "name": "Mystery Happy",
         "url": "https://open.spotify.com/album/0bqb26fZao4mdtE8TOolNF"
       },
@@ -51216,6 +51346,24 @@
       "duration_ms": 262813,
       "name": "O",
       "url": "https://open.spotify.com/track/4iieYHqajyQxMcCTDQhVOi"
+    },
+    {
+      "album": {
+        "name": "Circle - The 1st Album",
+        "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "O (Circle)",
+      "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
     },
     {
       "album": {
@@ -64003,6 +64151,24 @@
     },
     {
       "album": {
+        "name": "SPF",
+        "url": "https://open.spotify.com/album/2Wczf7pRRFOveAqvYRJxmk"
+      },
+      "artists": [
+        {
+          "name": "Risso",
+          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208053,
+      "name": "SPF",
+      "url": "https://open.spotify.com/track/1sahSmH3EeJivtDILAciVk"
+    },
+    {
+      "album": {
         "name": "SPOTLIGHT",
         "url": "https://open.spotify.com/album/1eaaj3WRvBrBBASbVc3d4L"
       },
@@ -68889,6 +69055,24 @@
     },
     {
       "album": {
+        "name": "The dawn light resembles you",
+        "url": "https://open.spotify.com/album/4ucUi8KbApK7Ov4HqP6rG7"
+      },
+      "artists": [
+        {
+          "name": "Joori",
+          "url": "https://open.spotify.com/artist/0A5FokBLN8HWzKhWxB0eZk"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192063,
+      "name": "The dawn light resembles you",
+      "url": "https://open.spotify.com/track/7n6NrNYKpsl0xxgZPKl0ZA"
+    },
+    {
+      "album": {
         "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.1",
         "url": "https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c"
       },
@@ -71386,6 +71570,24 @@
       "duration_ms": 261586,
       "name": "Time for the glory",
       "url": "https://open.spotify.com/track/0VCWeQuUFTz2MkivIbJVXo"
+    },
+    {
+      "album": {
+        "name": "GIRL'S RE:VERSE - FINAL",
+        "url": "https://open.spotify.com/album/6IOuDw0dPF7NMipATIpfJT"
+      },
+      "artists": [
+        {
+          "name": "GIRL'S RE:VERSE",
+          "url": "https://open.spotify.com/artist/691nG77QK1V34PpSQX89pd"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186875,
+      "name": "Time takes me to love",
+      "url": "https://open.spotify.com/track/6iWpogzByFa2r7aj1iRbry"
     },
     {
       "album": {
@@ -77193,6 +77395,24 @@
     },
     {
       "album": {
+        "name": "When I Miss You and Miss You",
+        "url": "https://open.spotify.com/album/2XZBBmbMpQePYcYrHAMM8y"
+      },
+      "artists": [
+        {
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158680,
+      "name": "When I Miss You and Miss You",
+      "url": "https://open.spotify.com/track/7aS4JgL7hDd1P3gI1qRUO5"
+    },
+    {
+      "album": {
         "name": "MOVE AGAIN",
         "url": "https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk"
       },
@@ -77866,6 +78086,28 @@
       "duration_ms": 204053,
       "name": "Where the Wind Rises",
       "url": "https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM"
+    },
+    {
+      "album": {
+        "name": "Where you at",
+        "url": "https://open.spotify.com/album/2vQFdr7DmIuhlGE7cIMPOn"
+      },
+      "artists": [
+        {
+          "name": "Private Story",
+          "url": "https://open.spotify.com/artist/2d7sJ0zIcqj1jDMYBkw4S6"
+        },
+        {
+          "name": "Wang Jun Hyup",
+          "url": "https://open.spotify.com/artist/2F6k5xMpJhWOw3TsaUoEKq"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "Where you at (feat. Wang Jun Hyup)",
+      "url": "https://open.spotify.com/track/3cyfJ4sIeN8QKB8EHT2l9l"
     },
     {
       "album": {
@@ -83578,6 +83820,24 @@
       "duration_ms": 217865,
       "name": "\ubcf4\uace0 \uc2f6\uc740 \uc21c\uac04",
       "url": "https://open.spotify.com/track/2OM8UY7YROyhDcgfCEnyux"
+    },
+    {
+      "album": {
+        "name": "\ubd04\uc744 \ub9cc\ub4e0\ub2e4 face the mind",
+        "url": "https://open.spotify.com/album/3fzmbo0H3P0qmm6lVynYmj"
+      },
+      "artists": [
+        {
+          "name": "Siwa",
+          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229946,
+      "name": "\ubd04\uc744 \ub9cc\ub4e0\ub2e4 face the mind",
+      "url": "https://open.spotify.com/track/5yZGnlT29dyBsvFpTjgMvU"
     },
     {
       "album": {

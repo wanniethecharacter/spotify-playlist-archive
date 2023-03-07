@@ -585,6 +585,28 @@
     },
     {
       "album": {
+        "name": "Unrest (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6aJWaGzLDm7ksyczc3B7Gr"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Ren",
+          "url": "https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227059,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/6TZDBHQjRSbCd88c1yg6ki"
+    },
+    {
+      "album": {
         "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
       },

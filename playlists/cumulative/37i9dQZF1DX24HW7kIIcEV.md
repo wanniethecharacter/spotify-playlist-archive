@@ -2,7 +2,7 @@
 
 ### [after school club 🪄](https://open.spotify.com/playlist/37i9dQZF1DX24HW7kIIcEV)
 
-> Joining the formal campaign to get the Lizzie McGuire reboot back in production.
+> Life’s what you make it\. So let’s make it rock!
 
 119 songs - 6 hr 30 min
 

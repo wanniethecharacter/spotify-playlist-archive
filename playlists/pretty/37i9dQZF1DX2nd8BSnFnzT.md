@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Supercombo
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,985 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,989 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Veneno](https://open.spotify.com/track/5JcRGsmaV5nBVp3TiyqdlO) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Balla e os Cristais](https://open.spotify.com/artist/3FGzyFpLecpQSUzx46x6h0) | [Veneno](https://open.spotify.com/album/5X6ItCVdeZvBugR9j0P8GM) | 3:54 |
 | 75 | [Kind](https://open.spotify.com/track/5knlppPUmTNFVkTul5EjnI) | [10mg](https://open.spotify.com/artist/6QjMOUyw2ZgPM5mIB61PF6) | [Kind](https://open.spotify.com/album/3EmC0PchFOT5eRyXIvy8N2) | 5:01 |
 
-Snapshot ID: `MTY3NzgxMjQ2MCwwMDAwMDAwMDUyMTM3NWQzZWI2MmFlMGMwYWM1Y2QyYTQ0NGM0ZmMx`
+Snapshot ID: `MTY3NzgxMjQ2MCwwMDAwMDAwMDkxNWZiYWIxMWUxODVmZDUxOTYzZTk1Y2FjMWI2YWY1`

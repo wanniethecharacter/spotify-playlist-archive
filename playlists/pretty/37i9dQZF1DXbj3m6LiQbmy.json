@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ e dai suoi alleati. Sans Soucis in cover, e <a href=\"spotify:playlist:37i9dQZF1DX3LyU0mhfqgP\">nella playlist global</a> \u2728 ",
-  "num_followers": 5252,
+  "num_followers": 5257,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5MDM0NCwwMDAwMDAwMDUwMzIzYTg1ZTYxNmMwYzUxODZmMzI3MjlkMDI1YTgz",
+  "snapshot_id": "MTY3NzU5MDM0NCwwMDAwMDAwMGVkMmU2NmRmNDA3YjM3MTY0Y2NlNzk1MDA3ZGRhOTJi",
   "tracks": [
     {
       "added_at": "2023-02-28 13:19:04",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-02-28 13:19:04",
       "album": {
-        "name": "Perch\u00e9 piangi Palermo",
-        "url": "https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey"
-      },
-      "artists": [
-        {
-          "name": "Dov'\u00e8 Liana",
-          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
-        }
-      ],
-      "duration_ms": 349133,
-      "name": "Perch\u00e9 piangi Palermo",
-      "url": "https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo"
-    },
-    {
-      "added_at": "2023-02-28 13:19:04",
-      "album": {
         "name": "Moonbaton Vol. 1",
         "url": "https://open.spotify.com/album/3T5s9mE6LhH5KR5AlZAId8"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 142852,
       "name": "Flauta Magica",
       "url": "https://open.spotify.com/track/4SZskM7pn7z0gAL7onqeI7"
+    },
+    {
+      "added_at": "2023-02-28 13:19:04",
+      "album": {
+        "name": "Perch\u00e9 piangi Palermo",
+        "url": "https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "duration_ms": 349133,
+      "name": "Perch\u00e9 piangi Palermo",
+      "url": "https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo"
     },
     {
       "added_at": "2023-02-28 13:19:04",
@@ -991,6 +991,30 @@
     {
       "added_at": "2023-02-28 13:19:04",
       "album": {
+        "name": "CLUB TOPPERIA",
+        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "Kiddy Smile",
+          "url": "https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx"
+        },
+        {
+          "name": "David Blank",
+          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "MOVESET (feat. Kiddy Smile & David Blank)",
+      "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
+    },
+    {
+      "added_at": "2023-02-28 13:19:04",
+      "album": {
         "name": "Dulce de Leche (feat. M\u00a5SS KETA) [M\u00a5SS KETA remix]",
         "url": "https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla"
       },
@@ -1043,30 +1067,6 @@
       "duration_ms": 213950,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/0AwjnkfYhpjZOO6eDSFFxx"
-    },
-    {
-      "added_at": "2023-02-28 13:19:04",
-      "album": {
-        "name": "CLUB TOPPERIA",
-        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        },
-        {
-          "name": "Kiddy Smile",
-          "url": "https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx"
-        },
-        {
-          "name": "David Blank",
-          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "MOVESET (feat. Kiddy Smile & David Blank)",
-      "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
     },
     {
       "added_at": "2023-02-28 13:19:04",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-02-28 13:19:04",
       "album": {
-        "name": "Nuda",
-        "url": "https://open.spotify.com/album/5q3Qt3eOUcVfSxeeWrVIHs"
-      },
-      "artists": [
-        {
-          "name": "Lilith Primavera",
-          "url": "https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019"
-        },
-        {
-          "name": "La Tosa",
-          "url": "https://open.spotify.com/artist/4ewa6gzbDQiCfDgjVpOGYl"
-        }
-      ],
-      "duration_ms": 196940,
-      "name": "Amami - La Tosa Disco Remix",
-      "url": "https://open.spotify.com/track/17x9hPgr15m3Sfvj2rZjf8"
-    },
-    {
-      "added_at": "2023-02-28 13:19:04",
-      "album": {
         "name": "Tendres Tenebres",
         "url": "https://open.spotify.com/album/7GV3u6Of9ZC5tSeBJJjtIZ"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 231774,
       "name": "LANCIA DELTA INTEGRALE",
       "url": "https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI"
+    },
+    {
+      "added_at": "2023-02-28 13:19:04",
+      "album": {
+        "name": "Nuda",
+        "url": "https://open.spotify.com/album/5q3Qt3eOUcVfSxeeWrVIHs"
+      },
+      "artists": [
+        {
+          "name": "Lilith Primavera",
+          "url": "https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019"
+        },
+        {
+          "name": "La Tosa",
+          "url": "https://open.spotify.com/artist/4ewa6gzbDQiCfDgjVpOGYl"
+        }
+      ],
+      "duration_ms": 196940,
+      "name": "Amami - La Tosa Disco Remix",
+      "url": "https://open.spotify.com/track/17x9hPgr15m3Sfvj2rZjf8"
     },
     {
       "added_at": "2023-02-28 13:19:04",

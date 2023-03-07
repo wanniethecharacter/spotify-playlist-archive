@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,556 likes - 98 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,610 likes - 98 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 97 | [lo siento](https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [lo siento](https://open.spotify.com/album/7tOSMJmUWT0vEvhSxloyZv) | 3:12 |
 | 98 | [Where Do We Go?](https://open.spotify.com/track/1TgsOHSom5y3iJjfi22jN2) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Where Do We Go?](https://open.spotify.com/album/5Pu4peLlucW4vNr3rJJaTd) | 2:50 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGIyZDAyMjEyZmVhZTdmNWFmYjE0YjFlNGUzZGU3ZjQ3`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDdmYTZiMzljOGEzNTZiMzQ2NDM4Y2UyZWFmMDgwODNl`

@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alex Ferreira.
 
-349 songs - 21 hr 27 min
+350 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Buena Suerte](https://open.spotify.com/track/71iaqPqdztdnNjOtbp7cd6) | [Borja Mompó](https://open.spotify.com/artist/2PWJ25ZIEw45wC8VHW6g4l) | [Buena Suerte](https://open.spotify.com/album/03AcOq36bBDcytuBfI3QWp) | 3:47 | 2021-12-24 | 2022-01-11 |
 | [Cachorros](https://open.spotify.com/track/7hK251hXVLoNPkQ7f4yz7u) | [CHUS](https://open.spotify.com/artist/03Ti07lMY1vSVctkbIADLG) | [Cachorros](https://open.spotify.com/album/778keyuS5PtBnrLl9LGbmA) | 4:10 | 2022-02-25 | 2022-04-21 |
 | [Cada vez](https://open.spotify.com/track/4gS7CAVZulGuTzSbKbHaew) | [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Diez fotos de alguien que ya no soy yo](https://open.spotify.com/album/7Gs3my2xOGxmvDqxhuQSOX) | 3:22 | 2022-07-01 | 2022-07-26 |
+| [Calma](https://open.spotify.com/track/7wKz16Le77RMTt0eOGPp0v) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Calma](https://open.spotify.com/album/5DSlYtdAQ7x3KxldkrAwBg) | 2:26 | 2023-03-02 |  |
 | [Caminar y Silbar](https://open.spotify.com/track/5iMjqRdsME17iDsAGTkHiL) | [Izqui y los Pequeños Planetas](https://open.spotify.com/artist/4rIMxwqlZeHtdFBGonACct) | [Caminar y Silbar](https://open.spotify.com/album/0cxtvqa04vMLpshMs5szhb) | 2:45 | 2022-05-13 | 2022-07-09 |
 | [Caminata](https://open.spotify.com/track/10q58ySzhr4lUvqFQHwoUD) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Caminata](https://open.spotify.com/album/04JEuJTa7Uf1KROL7gTnUt) | 2:58 | 2022-10-21 | 2022-12-03 |
 | [Camino Que Pasa](https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Camino Que Pasa](https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl) | 3:00 | 2022-07-22 |  |
@@ -174,7 +175,7 @@
 | [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2023-01-06 | 2023-01-17 |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-05-13 | 2022-10-20 |
 | [La Verbena y el Moriviví](https://open.spotify.com/track/3IQcQJgFhKusvVRMb52Twe) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Verbena y el Moriviví](https://open.spotify.com/album/06wwHze6wq4qk3lcuz6ttw) | 3:46 | 2022-02-04 | 2022-04-21 |
-| [Las Bestias Que Me Acompañan](https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Las Bestias Que Me Acompañan](https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa) | 3:42 | 2022-03-11 |  |
+| [Las Bestias Que Me Acompañan](https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Las Bestias Que Me Acompañan](https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa) | 3:42 | 2022-03-11 | 2023-03-07 |
 | [Las Cinco Disonante](https://open.spotify.com/track/0jgdxy6KbfweX6liNYOoGv) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Las Cinco Disonante](https://open.spotify.com/album/0IG5NKTssLEZqXZq1u19uD) | 5:23 | 2021-12-24 | 2022-07-29 |
 | [Las Curanderas](https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Las Curanderas](https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3) | 3:26 | 2021-12-24 |  |
 | [Las Palmeras y el Viento](https://open.spotify.com/track/3CjKoT9BGRkBz2sJIOCJDv) | [Daniel Cros](https://open.spotify.com/artist/2EBnlu2fEvZOfOIAnv7TUQ) | [Las Palmeras y el Viento](https://open.spotify.com/album/79aUZpDngdq8hpSG2Cl8vz) | 4:40 | 2021-12-24 | 2021-12-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: KIKI \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,352 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,404 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 74 | [Eksplisit](https://open.spotify.com/track/0VIvXVm6RN2Dm0cCZxKHTq) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Eksplisit](https://open.spotify.com/album/28x4n2ncfpIByC8Q76lxVU) | 3:32 |
 | 75 | [Afterglow](https://open.spotify.com/track/38wNASXJl6tNRoVFpnctt9) | [Oakë](https://open.spotify.com/artist/5FFEE3urupCaWwOzfAfV4I) | [Afterglow](https://open.spotify.com/album/44WOydQRUhz1JihfRZT6Zi) | 3:29 |
 
-Snapshot ID: `MTY3Nzc3MzIxMywwMDAwMDAwMDdmYTkwNGZiZTRkMjM1NmIyNzAzZDY2ZGFhMjQ3YmI1`
+Snapshot ID: `MTY3Nzc3MzIxMywwMDAwMDAwMDA2NTY2MmFkM2JkNGM2N2QwMDZjYjZiMTk2OTI0NTk4`

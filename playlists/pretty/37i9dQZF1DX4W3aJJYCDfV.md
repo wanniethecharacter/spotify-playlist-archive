@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Mimi Webb \(pictured\), Nicki Minaj, slowthai and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,284 likes - 126 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,306 likes - 126 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 125 | [Regulate](https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Regulate](https://open.spotify.com/album/67OiUqqH4IBKVeJA1nU9JO) | 2:34 |
 | 126 | [The New York Trader](https://open.spotify.com/track/4E8adJfg82ZSghGefjTj5f) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The New York Trader](https://open.spotify.com/album/3tc7DU37X5m7LTC1Bk4J5S) | 7:40 |
 
-Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDI3OWRjMDE0OTE4YTIxNmM4MDMwOWE1YTY4ZWVkYWQw`
+Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMGI1YmM0ODU3ZGQ1ZWQ3N2Y2OTdlZWQwODFlYmRhNGEw`

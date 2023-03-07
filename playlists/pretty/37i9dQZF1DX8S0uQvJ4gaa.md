@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Tyler Braden
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,700 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,635 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [One Of Us](https://open.spotify.com/track/4G1i8QJ2htH4Syo2vDeqSt) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [One Of Us](https://open.spotify.com/album/23xj6FVIi4bGBMevFQWQn8) | 3:02 |
 | 100 | [Small Town](https://open.spotify.com/track/6oklsftiYsTcGap5JvEwft) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Small Town](https://open.spotify.com/album/1e6Glg5MJwCyfx23uD2NWP) | 3:41 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDQwODFlMjVlYzc4NmUzNzIxYjMxY2FjN2UyZWU2NjA0`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGY2MDFhMjIxMWIwMjkwOTJmMjg0YmQwMGEwODZhODU3`

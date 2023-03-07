@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 
 > Celebrating 50 years of the original artists, songs, and recordings from the iconic 1969 Woodstock Music Festival
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,165 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,206 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 | 99 | [Everything's Gonna Be Alright](https://open.spotify.com/track/2xDBsjOW7TQCYVXz0jOGBS) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [Complete Albums 1965\-1980](https://open.spotify.com/album/74Q5wVKJAvWBv2wDOSoJPg) | 2:58 |
 | 100 | [Driftin' and Driftin'](https://open.spotify.com/track/690y2K7VeXxOpXOA14snTd) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Resurrection Of Pigboy Crabshaw](https://open.spotify.com/album/5nEOJtjR1clDZQZwAlA7Qs) | 9:09 |
 
-Snapshot ID: `MTU2NTg4Nzg2MCwwMDAwMDAwMGU5Y2YyN2VmODQ3NWM1ODM3MDhlYzdiZTkwNDA2Nzg1`
+Snapshot ID: `MTU2NTg4Nzg2MCwwMDAwMDAwMDMyNGI1NGEwYjBhOTg5ODgwMWU3ZjU5ZmNmYTcwOGY0`

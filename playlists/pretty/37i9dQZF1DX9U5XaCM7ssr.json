@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 959139,
+  "num_followers": 959924,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAxOTM0MiwwMDAwMDAwMDg5MGY2ODJiZmZkMGQ2NzZiZTBjNTE2ZGYwODZjMGVm",
+  "snapshot_id": "MTY3NjAxOTM0MiwwMDAwMDAwMDE1Y2U2MTNjMzA0YThkNThiOTg1NzE1NTM0ZjhhNDQ4",
   "tracks": [
     {
       "added_at": "2023-02-03 05:18:14",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-02-03 05:18:14",
       "album": {
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 202950,
+      "name": "Langit Abu-Abu",
+      "url": "https://open.spotify.com/track/2FaquTc3FYvNm7RuO1gD6O"
+    },
+    {
+      "added_at": "2023-02-03 05:18:14",
+      "album": {
         "name": "Blue Jeans",
         "url": "https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 254863,
       "name": "Sisa Rasa",
       "url": "https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w"
-    },
-    {
-      "added_at": "2023-02-03 05:18:14",
-      "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 202950,
-      "name": "Langit Abu-Abu",
-      "url": "https://open.spotify.com/track/2FaquTc3FYvNm7RuO1gD6O"
     },
     {
       "added_at": "2023-02-03 05:18:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-02-03 05:18:14",
       "album": {
-        "name": "Kisah Sempurna",
-        "url": "https://open.spotify.com/album/39fz0raJs02USfEzd71c8b"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 276019,
-      "name": "Kisah Sempurna",
-      "url": "https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR"
-    },
-    {
-      "added_at": "2023-02-03 05:18:14",
-      "album": {
         "name": "Lyodra",
         "url": "https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 262734,
       "name": "Mesin Waktu",
       "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
+    },
+    {
+      "added_at": "2023-02-03 05:18:14",
+      "album": {
+        "name": "Kisah Sempurna",
+        "url": "https://open.spotify.com/album/39fz0raJs02USfEzd71c8b"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 276019,
+      "name": "Kisah Sempurna",
+      "url": "https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR"
     },
     {
       "added_at": "2023-02-03 05:18:14",
@@ -643,38 +643,6 @@
     {
       "added_at": "2023-02-03 05:18:14",
       "album": {
-        "name": "Tiara Andini",
-        "url": "https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl"
-      },
-      "artists": [
-        {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Menjadi Dia",
-      "url": "https://open.spotify.com/track/3Z0K4sFU1fOiBOe7Nf3kix"
-    },
-    {
-      "added_at": "2023-02-03 05:18:14",
-      "album": {
-        "name": "Walk The Talk",
-        "url": "https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 220163,
-      "name": "I Love You but I'm Letting Go",
-      "url": "https://open.spotify.com/track/01beCqR9wsVnwzkAJZyTqq"
-    },
-    {
-      "added_at": "2023-02-03 05:18:14",
-      "album": {
         "name": "Apa Mungkin",
         "url": "https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31"
       },
@@ -691,6 +659,22 @@
     {
       "added_at": "2023-02-03 05:18:14",
       "album": {
+        "name": "Tiara Andini",
+        "url": "https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Menjadi Dia",
+      "url": "https://open.spotify.com/track/3Z0K4sFU1fOiBOe7Nf3kix"
+    },
+    {
+      "added_at": "2023-02-03 05:18:14",
+      "album": {
         "name": "Orang Yang Sama",
         "url": "https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 268534,
       "name": "Orang Yang Sama",
       "url": "https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1"
+    },
+    {
+      "added_at": "2023-02-03 05:18:14",
+      "album": {
+        "name": "Walk The Talk",
+        "url": "https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 220163,
+      "name": "I Love You but I'm Letting Go",
+      "url": "https://open.spotify.com/track/01beCqR9wsVnwzkAJZyTqq"
     },
     {
       "added_at": "2023-02-03 05:18:14",

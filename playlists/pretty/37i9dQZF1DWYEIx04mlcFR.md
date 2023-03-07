@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Vanessa Zamora en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,970 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,986 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 79 | [Madrid](https://open.spotify.com/track/2RZBRW0bViEHUgoeagzD7m) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Madrid](https://open.spotify.com/album/5a6ehCg907H8WCa5oSD0HS) | 2:48 |
 | 80 | [Recaídas](https://open.spotify.com/track/2Cg87BdrAzZpx4SnjpJPar) | [Alex Soto](https://open.spotify.com/artist/5pzb04LnJQrbs8U6qQ6KxC) | [Recaídas](https://open.spotify.com/album/32bUYoMwwEd85f12JyGPuz) | 3:24 |
 
-Snapshot ID: `MTY3NzI2ODM0MSwwMDAwMDAwMGNkN2M3OTdiMmY4ZjI0MzViOTIxMmZhZTYwMTI5NzVk`
+Snapshot ID: `MTY3NzI2ODM0MSwwMDAwMDAwMDNhNjFkMDJkNjQ3MTM4YmExN2QxZjU2M2UwMjkyYmVk`

@@ -1,12 +1,12 @@
 {
   "description": "The new wave of rock from the UK & Ireland. Cover: SPIDER",
-  "num_followers": 5616,
+  "num_followers": 5624,
   "original_name": "shockwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMGE2NzFhNDc4Zjg2MWEyYjYzN2FiZGViMWU2NDVmOTVm",
+  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDgyODI5OGNiZDgyZWY0YzVhZWVhODJiZTA2NTQ2ZDVm",
   "tracks": [
     {
       "added_at": "2023-03-03 00:00:00",
@@ -651,6 +651,334 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/0vC6K5RFvqdE2CSpYZQXIz"
+      },
+      "artists": [
+        {
+          "name": "lozeak",
+          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
+        }
+      ],
+      "duration_ms": 140693,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/1miBcqjGpcoTBcdjnFjJrG"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Are You Diagnosed?",
+        "url": "https://open.spotify.com/album/2stzbaDdGD3NjWOxtyl2QT"
+      },
+      "artists": [
+        {
+          "name": "Eaves Wilder",
+          "url": "https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ"
+        }
+      ],
+      "duration_ms": 214688,
+      "name": "Are You Diagnosed?",
+      "url": "https://open.spotify.com/track/3BXTJdDGc6DnAUFrqHQCC1"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "good boys remember well",
+        "url": "https://open.spotify.com/album/1m7ZzHsSp6EqucLAt57O3S"
+      },
+      "artists": [
+        {
+          "name": "Humour",
+          "url": "https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "good boys remember well",
+      "url": "https://open.spotify.com/track/4syzVAkmE49hs9WjY7j0o7"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Save It For Myself",
+        "url": "https://open.spotify.com/album/5bzfUN9nM3mCr7goLdbrVF"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        },
+        {
+          "name": "You Over Me",
+          "url": "https://open.spotify.com/artist/5se7CBddY96rvFP3oQ6Pim"
+        }
+      ],
+      "duration_ms": 199613,
+      "name": "Save It For Myself",
+      "url": "https://open.spotify.com/track/5AWQZVceAinzjsCQH50WlX"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Rip My Calendar",
+        "url": "https://open.spotify.com/album/6Zpc6socD4ELy4hwiB6kac"
+      },
+      "artists": [
+        {
+          "name": "Valerie Rose",
+          "url": "https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "Rip My Calendar",
+      "url": "https://open.spotify.com/track/2iREiP77hQ4oR5eS3HpIMN"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Wayfinding",
+        "url": "https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Wayfinding",
+      "url": "https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/7l8Yu9tPWQsXXeOsMWXioC"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/6BwhFZ9G4KMJ2njYMjRtZc"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/6M5P7gqhMtgvhgDkNMcn4L"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/5xAMwGNFraXPC04VF3PtRX"
+      },
+      "artists": [
+        {
+          "name": "Passionflower",
+          "url": "https://open.spotify.com/artist/2JDENMXTGFUFtq5sE3Pohr"
+        }
+      ],
+      "duration_ms": 242218,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/6ykD5g5JQ4n5iQKstly8M2"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Sick Moon",
+        "url": "https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd"
+      },
+      "artists": [
+        {
+          "name": "False Heads",
+          "url": "https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "Day Glow",
+      "url": "https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Past Vibration",
+        "url": "https://open.spotify.com/album/423cCingFcQ64dla8mdJ6C"
+      },
+      "artists": [
+        {
+          "name": "Supera Morza",
+          "url": "https://open.spotify.com/artist/1On3aSzms3SvHl2obPqAx5"
+        }
+      ],
+      "duration_ms": 156409,
+      "name": "Past Vibration",
+      "url": "https://open.spotify.com/track/2jLe4rXo1X8o529i7f4k7q"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Like You Do",
+        "url": "https://open.spotify.com/album/0v16l7GQAeUKZrFIRSKLSz"
+      },
+      "artists": [
+        {
+          "name": "Tom A. Smith",
+          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
+        }
+      ],
+      "duration_ms": 185897,
+      "name": "Like You Do",
+      "url": "https://open.spotify.com/track/6ZVCjPMf1rHdGrNrdUguIm"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "This Part of Me",
+        "url": "https://open.spotify.com/album/6t3pu0a7OPjjiMKvPGSEtQ"
+      },
+      "artists": [
+        {
+          "name": "7xvn",
+          "url": "https://open.spotify.com/artist/1B6XpURxZFBE9B2BT5JI7h"
+        },
+        {
+          "name": "ZANDV",
+          "url": "https://open.spotify.com/artist/3MCb4hKg6bu2Ivg6ZBM4B0"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "This Part of Me",
+      "url": "https://open.spotify.com/track/1aEoyo49oGyAv47gVqvvSe"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "What a Feeling, What a Day",
+        "url": "https://open.spotify.com/album/4MnjBxtaHm6gh99JDgBYhC"
+      },
+      "artists": [
+        {
+          "name": "Cheap Teeth",
+          "url": "https://open.spotify.com/artist/5xSUCTkvySb5EiUjKQljYe"
+        }
+      ],
+      "duration_ms": 223677,
+      "name": "What a Feeling, What a Day",
+      "url": "https://open.spotify.com/track/31CVU6BQWYnAUMbBoVuM0c"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Some Things Never Change",
+        "url": "https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4"
+      },
+      "artists": [
+        {
+          "name": "Priestgate",
+          "url": "https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i"
+        }
+      ],
+      "duration_ms": 217870,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/4clBv8sHZ7gqyH7xhlmCCC"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/3YNhAijuyRViQoHGFNVDyC"
+      },
+      "artists": [
+        {
+          "name": "KIDS",
+          "url": "https://open.spotify.com/artist/1KuaHyOmy7OyS3BO6u055P"
+        }
+      ],
+      "duration_ms": 159111,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/2WtIhJpUy1p0t1dg6Tq8bZ"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Perpetual States of Boredom",
+        "url": "https://open.spotify.com/album/0d3mjWzH04Ggs8aS2dfZOl"
+      },
+      "artists": [
+        {
+          "name": "Deijuvhs",
+          "url": "https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C"
+        }
+      ],
+      "duration_ms": 133567,
+      "name": "Sweet One",
+      "url": "https://open.spotify.com/track/2keqxI0IrJUrdBbXpswQpI"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/2avlwtPBYNGSb08LXQrI9S"
+      },
+      "artists": [
+        {
+          "name": "FLOWVERS",
+          "url": "https://open.spotify.com/artist/3XoX4Dj24vKTKVNRvlFksP"
+        }
+      ],
+      "duration_ms": 173419,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2KMefBHwUJBmP9w2XZKnoa"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Tramlines",
+        "url": "https://open.spotify.com/album/0PUA4ZxX3CkJCeryebqYzo"
+      },
+      "artists": [
+        {
+          "name": "Beach Riot",
+          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
+        }
+      ],
+      "duration_ms": 196922,
+      "name": "Tramlines",
+      "url": "https://open.spotify.com/track/2TeHRE4Rl4YvuhlNuBXJVM"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Detrimental",
+        "url": "https://open.spotify.com/album/4nNme6bRCBvRxyYy8Vl7UY"
+      },
+      "artists": [
+        {
+          "name": "Suga Knuckle",
+          "url": "https://open.spotify.com/artist/6q05UMnrAwdqUuKj5OWGDZ"
+        }
+      ],
+      "duration_ms": 205011,
+      "name": "Detrimental",
+      "url": "https://open.spotify.com/track/2NzPodb1SiSHLK5ycVywb4"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Small Matters",
         "url": "https://open.spotify.com/album/0ya8cuwKlFlOvFrlgvdD37"
       },
@@ -763,8 +1091,8 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/6oPA6UqARi3sZqg8ysQ73c"
+        "name": "Burning Throne",
+        "url": "https://open.spotify.com/album/4SvwujGdVPbHhAR3DIQCc4"
       },
       "artists": [
         {
@@ -774,7 +1102,7 @@
       ],
       "duration_ms": 225999,
       "name": "Hold On",
-      "url": "https://open.spotify.com/track/6iGRB390nCX5QKcu3QQVI4"
+      "url": "https://open.spotify.com/track/4szyuz8OAhkgX4cdO90kAZ"
     },
     {
       "added_at": "2023-03-03 00:00:00",

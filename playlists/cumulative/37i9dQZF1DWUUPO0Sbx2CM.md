@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-362 songs - 20 hr 7 min
+363 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Hold On](https://open.spotify.com/track/4mTSFX7iAk4JN3IHu1qghA) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Hold On](https://open.spotify.com/album/2qJLcPbOmq2x6Cj0vOs9l5) | 3:54 | 2021-10-31 | 2022-05-06 |
 | [Hold You Tight](https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Hold You Tight](https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR) | 2:55 | 2023-02-08 |  |
 | [Holding Me Down](https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Holding Me Down](https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q) | 3:15 | 2021-10-31 | 2023-02-08 |
-| [Hosanna](https://open.spotify.com/track/0PGxqxuMbaCSkwmblGakuR) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [NEON Worship](https://open.spotify.com/artist/2j8LVMBgv0dkPvGrkh2k7z), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Hosanna](https://open.spotify.com/album/5g6eDFmLlTk0vyYH1YcKlF) | 3:28 | 2023-02-25 |  |
+| [Hosanna](https://open.spotify.com/track/0PGxqxuMbaCSkwmblGakuR) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [NEON Worship](https://open.spotify.com/artist/2j8LVMBgv0dkPvGrkh2k7z), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Hosanna](https://open.spotify.com/album/5g6eDFmLlTk0vyYH1YcKlF) | 3:28 | 2023-02-25 | 2023-03-07 |
 | [How You Love](https://open.spotify.com/track/1I2NEALPO5AC8mhgiXyBuV) | [Marci Coleman](https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs) | [How You Love](https://open.spotify.com/album/2eFIRZLzXKmFXsck5wNVyO) | 3:57 | 2021-10-31 | 2022-03-18 |
 | [Human \(Matthew Parker Remix\)](https://open.spotify.com/track/2NwLHtXx1LDo3wmjDbQVUH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Human \(Matthew Parker Remix\)](https://open.spotify.com/album/6ZIZXM1DADD0cdLNv654k8) | 4:05 | 2021-10-31 | 2022-06-05 |
 | [Human \(Matthew Parker Remix\)](https://open.spotify.com/track/5Vrm9AmA4OabpgwcHdLvFc) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Human \(Deluxe Edition\)](https://open.spotify.com/album/6GVLKFf3wY3iqtSvIRkznK) | 4:05 | 2021-10-31 | 2022-07-17 |
@@ -357,6 +357,7 @@
 | [Without You](https://open.spotify.com/track/3SA2Ao8KCeGGAL4AjmI3nx) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Without You](https://open.spotify.com/album/43A7XIVa5atx6NunUajkcd) | 3:41 | 2021-10-31 | 2022-07-28 |
 | [Without You \- Abe Parker Remix](https://open.spotify.com/track/4zSnb8fvewyGGV1U4R9Dx0) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Without You](https://open.spotify.com/album/1zF2M4uUPg8qrKDzOkOYJy) | 3:47 | 2021-10-31 | 2022-08-31 |
 | [Won't He Do It \(Remix\)](https://open.spotify.com/track/2r4Lz9fx64cblkTiTIXdU9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:31 | 2021-10-31 | 2023-01-15 |
+| [Won't Rain Anymore](https://open.spotify.com/track/64h4pQK96zb7qB5QYhEymz) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Won't Rain Anymore](https://open.spotify.com/album/049iy74GNjD4hiJtfhnsQ9) | 2:39 | 2023-03-07 |  |
 | [Won't Stop \- Reyer Remix](https://open.spotify.com/track/5scmtvav3joe03DAihMTd6) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Won't Stop \(Reyer Remix\)](https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh) | 3:04 | 2023-02-08 |  |
 | [Working On It](https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:13 | 2021-10-31 | 2023-02-08 |
 | [Worry](https://open.spotify.com/track/4qzoaJGCnbwe8S8tDt0Ndz) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Worry](https://open.spotify.com/album/43ojYDCvq2qfmzx82dU6R9) | 3:07 | 2021-10-31 | 2023-02-08 |

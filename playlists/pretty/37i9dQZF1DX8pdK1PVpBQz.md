@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: GLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,067 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,076 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Show I Care](https://open.spotify.com/track/0G8ptvRO6eIUD6O8rr2nEV) | [Good Lekker](https://open.spotify.com/artist/0N8baTywD0HTek7BvdMIv5) | [Show I Care](https://open.spotify.com/album/061t56CtqnzJSw0wnvq7Em) | 2:51 |
 | 100 | [Something New](https://open.spotify.com/track/1TWBsQA0pQqV5dPEu83yv9) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Something New](https://open.spotify.com/album/1F3OffAbOInLUHAmFYBCNY) | 2:46 |
 
-Snapshot ID: `MTY3NzY1NTM5MiwwMDAwMDAwMDIyY2VkMmIyMGE3NmY4YWU4MmU0NmUzOWRkYTk3YTQ5`
+Snapshot ID: `MTY3NzY1NTM5MiwwMDAwMDAwMGY0MjU1M2YyN2E2YjQwOGFjZjI0NDVlMDg3N2FlM2Fl`

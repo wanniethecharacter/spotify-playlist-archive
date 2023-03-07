@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto:Dois P, Amabbi,  1Kilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,341 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,487 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Pode Me Esperar \(feat\. Meucci, Tasdan & Agatha\)](https://open.spotify.com/track/62FCtdHru9nNAJOGbzObi4) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Meucci](https://open.spotify.com/artist/7q5inmN8Sb3wfNtaLYZf8G), [Tasdan](https://open.spotify.com/artist/65qqCVZrZgynhVrsFka5HM), [Agatha](https://open.spotify.com/artist/5EGXi3LtVsybMb4XMnsNjY) | [Pode Me Esperar \(feat\. Meucci, Tasdan & Agatha\)](https://open.spotify.com/album/00rcJMuYMSrKDj1oKpzTCM) | 3:30 |
 | 75 | [Foda Que Ela É Linda \- Ao Vivo](https://open.spotify.com/track/0FqxX09KVZLIPDKv5kjA1e) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Tropicalia, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0q3IIJ0dg3D6PnVrVTcPTx) | 3:03 |
 
-Snapshot ID: `MTY3NzgxMjQ2MCwwMDAwMDAwMGZhM2IwZmM3NGVlMDNiY2Q1Yjg5MmMyOTExNjNlYjMw`
+Snapshot ID: `MTY3NzgxMjQ2MCwwMDAwMDAwMDUwNmQ2NmQ4NTFmMGQ3OWYxYjM0NGU5MmQxYWI0ZWRj`

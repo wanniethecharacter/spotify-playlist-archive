@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,510 likes - 213 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,661 likes - 213 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 212 | [The Way You Look Tonight](https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Way You Look Tonight](https://open.spotify.com/album/4ICm9ovrQ3ytWtCDq6oU8L) | 3:46 |
 | 213 | [I Fall In Love Too Easily](https://open.spotify.com/track/0ZuEKQKcR0Zm53Bhb2wgLO) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [I Fall In Love Too Easily](https://open.spotify.com/album/5xh9QdbDD89FmJ44R1CA0e) | 2:27 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDRiMjliOTQ4ZjE5MDgyNTY1YmVkYzgyYTNlYjVhYTM4`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMGQzMzcwOWUzNTQwMGMwNmU0ODg3NTMyYzhiMmY0OGM3`

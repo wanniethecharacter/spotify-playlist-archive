@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,018 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,035 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 79 | [Mein Hoon](https://open.spotify.com/track/2gU0WQqw8sN39k58r9l3cX) | [Shahrukh Sarfraz](https://open.spotify.com/artist/5hKq3AUOAwEIBCic2Jqfsm), [Neha Karim Ullah](https://open.spotify.com/artist/08aOaVi90Pza2qG0i9e9RA) | [Mein Hoon](https://open.spotify.com/album/2e7VmVvCxZhBCHIQVGeO6B) | 2:59 |
 | 80 | [Faaslay](https://open.spotify.com/track/34MruoNGQNNy5OZJ9czg0x) | [Miracle Mangal](https://open.spotify.com/artist/2V1XXUtkW6Xr9pUSqoggfI), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Wali Aleem](https://open.spotify.com/artist/4yAZWHrBK6G6d7gOzJJqlF) | [MM005](https://open.spotify.com/album/5k5Pm7PhTPmxOY6RfYMUxF) | 4:29 |
 
-Snapshot ID: `MTY3NzY1Njk2OCwwMDAwMDAwMGIyYmUwNmIxZTdhNmZjNTk1ZWQ0MWEzOWY1MmU1M2I4`
+Snapshot ID: `MTY3NzY1Njk2OCwwMDAwMDAwMGE2M2NmZmQwNDU4MWE5MmQxYmY4NDBiYmE4NDNjZWRi`

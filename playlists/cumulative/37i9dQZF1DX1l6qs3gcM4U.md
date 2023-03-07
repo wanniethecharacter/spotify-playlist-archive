@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Deejay Telio & Yasmine.
 
-295 songs - 17 hr 52 min
+296 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I) | [Master Jake](https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX), [Eddy Flow](https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi) | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN) | 4:08 | 2021-12-10 |  |
 | [Jamais](https://open.spotify.com/track/4ZvWMjmldmt1XVmRYHtWlx) | [SamySam Beats](https://open.spotify.com/artist/2tIwY9RiPuPVjYnrGz0aXZ), [Pegguy Tabu](https://open.spotify.com/artist/64YnF4w2bf0VU6eQrn1e5y) | [Vida](https://open.spotify.com/album/3qkt4e3sxMHwJA5pDVqsz9) | 2:54 | 2022-01-14 | 2022-03-05 |
 | [Jeito Dela](https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Jeito Dela](https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1) | 3:28 | 2021-12-10 |  |
-| [Já Deu](https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Já Deu](https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G) | 3:47 | 2021-12-10 |  |
+| [Já Deu](https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Já Deu](https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G) | 3:47 | 2021-12-10 | 2023-03-07 |
 | [Já Não Sei](https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Já Não Sei](https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO) | 4:21 | 2021-12-10 |  |
 | [Já Te Conheço \(feat\. Bruna Tatiana\) \- Remix](https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Bruna Tatiana](https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H) | [Já Te Conheço \(feat\. Bruna Tatiana\) \[Remix\]](https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n) | 3:57 | 2021-12-10 |  |
 | [Ka Ta Importa](https://open.spotify.com/track/4xt4lAUBCPRYtIIWmm9XPk) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm), [Oliver](https://open.spotify.com/artist/056V8xAmMi81LgOJZhjTob) | [Ka Ta Importa](https://open.spotify.com/album/0j6nUQtgHdtcCdYhgs6eJJ) | 3:50 | 2022-08-25 | 2022-09-30 |
@@ -136,6 +136,7 @@
 | [Madrugada](https://open.spotify.com/track/5EJm65BcKaozbl4aabantT) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Madrugada](https://open.spotify.com/album/226EA8JuTzjROUvbVIPECb) | 3:52 | 2022-12-16 | 2023-03-03 |
 | [Magia](https://open.spotify.com/track/7ISGcym2XbHCaIMAfN3OSl) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Magia](https://open.spotify.com/album/46hdoSNACICzcXfEOsfFqi) | 3:22 | 2021-12-10 | 2022-02-19 |
 | [Magico](https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Sem Limite](https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB) | 3:57 | 2021-12-10 |  |
+| [Magui](https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Magui](https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf) | 3:37 | 2023-03-03 |  |
 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 | 2023-01-27 |  |
 | [Malembe Malembe](https://open.spotify.com/track/5u2FrLHKEoKjUMguaffQ0t) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Vanda May](https://open.spotify.com/artist/1bNarEsCgTgkC04nAi8I7J), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [African Prince](https://open.spotify.com/album/7K0p3XgUd0ZlcJ7kjMu8Rf) | 4:04 | 2021-12-10 | 2022-02-09 |
 | [Maluco](https://open.spotify.com/track/62MFlcVghmm0TzTNAlYN0j) | [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Do Jeito Que Eu Sou \(Part.2\)](https://open.spotify.com/album/3z89VRMwfVNZebtOrDfao9) | 4:22 | 2021-12-10 | 2022-07-21 |

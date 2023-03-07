@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,010 songs - 2 day 8 hr 40 min
+1,012 songs - 2 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,7 @@
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-12 |
 | [No morë talk](https://open.spotify.com/track/7qPiAhk71D2RqLRtnjDL76) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:58 | 2023-02-25 | 2023-03-02 |
 | [NO NO NO](https://open.spotify.com/track/1AijSlz8a86fxr0WUO8iwH) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW) | [DEVA](https://open.spotify.com/album/5sSk1zBXbMZ1KLWnvox8Qk) | 2:52 | 2021-03-27\* | 2021-04-02 |
-| [Nqma Kak](https://open.spotify.com/track/5nuqX3R4iAhbXO1sGrBLqi) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd), [BM](https://open.spotify.com/artist/7dIMk9WD4Q6zenoCibMWyu) | [Masquerade](https://open.spotify.com/album/47oLHYHuwdGtZ70V7hVxQL) | 3:35 | 2023-02-17 |  |
+| [Nqma Kak](https://open.spotify.com/track/5nuqX3R4iAhbXO1sGrBLqi) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd), [BM](https://open.spotify.com/artist/7dIMk9WD4Q6zenoCibMWyu) | [Masquerade](https://open.spotify.com/album/47oLHYHuwdGtZ70V7hVxQL) | 3:35 | 2023-02-17 | 2023-03-07 |
 | [NQMA KO DA STANE](https://open.spotify.com/track/7IDxMPA2kEhDP2wFcKOqBL) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Alex & Vladi](https://open.spotify.com/artist/7jWNuWVbbbg9z1Er19DkGj) | [LOTUS](https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8) | 3:31 | 2022-06-04 | 2022-07-09 |
 | [Nun id change](https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:31 | 2023-02-25 | 2023-03-02 |
 | [Obikalyam](https://open.spotify.com/track/5lQe0BwLKG8Znq9TeFECwn) | [Marso](https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv) | [Obikalyam](https://open.spotify.com/album/1vwxraGg1XDSBvdtnLIufF) | 2:50 | 2022-03-27 | 2022-04-04 |
@@ -637,6 +637,7 @@
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-05 |
 | [Prikazka](https://open.spotify.com/track/7EJY73wRWjj6OLJH22K6VK) | [P.I.F.](https://open.spotify.com/artist/6BIkx3SICqqdmLbFOBauVv) | [P.I.F.](https://open.spotify.com/album/1MJfwSnWB1pOlcWrpEmZyG) | 5:00 | 2022-03-30 | 2022-04-01 |
 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 | 2021-03-27\* | 2021-05-03 |
+| [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 | 2023-03-06 |  |
 | [Privileged Rappers](https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:40 | 2022-11-05 | 2022-11-13 |
 | [PUFFIN ON ZOOTIEZ](https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:52 | 2022-04-30 | 2022-05-03 |
 | [Pure Souls](https://open.spotify.com/track/7up5MwPUHQdv4DkzQRHRWP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:58 | 2021-08-31 | 2021-09-02 |
@@ -657,6 +658,7 @@
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-13 | 2022-10-05 |
 | [RAVE](https://open.spotify.com/track/4U9uSvL6LuJC5XzT8dLkhm) | [xelent](https://open.spotify.com/artist/2cSlxv2Z8UVqmZQzkmozsG) | [RAVE](https://open.spotify.com/album/6Oc6Ev0AV4iLqC5xxoox5h) | 2:49 | 2022-09-14 | 2022-09-17 |
 | [REAL](https://open.spotify.com/track/2lWXs5JjC573OnIuavg6YL) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [EMIL TRF](https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB) | [DEVA](https://open.spotify.com/album/5sSk1zBXbMZ1KLWnvox8Qk) | 2:45 | 2021-03-27\* | 2021-04-09 |
+| [Reminder](https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:38 | 2023-03-06 |  |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-02 |
 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 | 2022-02-28 | 2022-05-12 |
 | [Rich \- Interlude](https://open.spotify.com/track/2Az5ykbQiZtFWtACCMvWlP) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 1:43 | 2022-05-14 | 2022-05-16 |
@@ -714,7 +716,7 @@
 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 | 2021-04-18 | 2021-04-19 |
 | [Skupa](https://open.spotify.com/track/6LpL3NUIJuJ3zyBfdMXD2O) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd) | [FACTOR](https://open.spotify.com/album/4UryWPho5YcedoV2E8ukOE) | 2:57 | 2021-05-03 | 2023-02-25 |
 | [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2021-10-16 | 2022-01-08 |
-| [Sladkoto zlo](https://open.spotify.com/track/16rryuFZpdvWzKllkUw0ri) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg), [Konstantin](https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8) | [Sladkoto zlo](https://open.spotify.com/album/7v1bD7rUtU56j72aXNhJHp) | 3:45 | 2022-05-01 |  |
+| [Sladkoto zlo](https://open.spotify.com/track/16rryuFZpdvWzKllkUw0ri) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg), [Konstantin](https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8) | [Sladkoto zlo](https://open.spotify.com/album/7v1bD7rUtU56j72aXNhJHp) | 3:45 | 2022-05-01 | 2023-03-07 |
 | [Slamm](https://open.spotify.com/track/0XXKBSqgvxNmj4315mJirM) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:25 | 2023-02-25 | 2023-02-27 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-24 | 2022-12-28 |
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2021-04-04 | 2021-05-22 |

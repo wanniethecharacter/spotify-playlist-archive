@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Avalon Emerson
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,570 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,589 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Crystal in my mind](https://open.spotify.com/track/4RrITAqhxC4qVfDOJzFoSV) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB) | [Crystal in my mind](https://open.spotify.com/album/6EisBZu7B53qLzjKkeCgY6) | 3:41 |
 | 75 | [A Place To Lie](https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [A Place To Lie](https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM) | 5:23 |
 
-Snapshot ID: `MTY3Nzc5ODMxNywwMDAwMDAwMDBjODdjZjkzM2VmMGI3MmM1OGU2ZjliNDM5YWFmN2Ji`
+Snapshot ID: `MTY3Nzc5ODMxNywwMDAwMDAwMDUyZDJhYjEyOWMzYzYxNzBmZGM1M2I1YWVmNWVkODk0`

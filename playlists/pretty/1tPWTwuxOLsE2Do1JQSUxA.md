@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain](/playlists/plain/1tPWTwuxOLsE2Do1JQSUxA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1tPWTwuxOLsE2Do1JQSUxA)
 
-### [2010s Hits 🔥 ](https://open.spotify.com/playlist/1tPWTwuxOLsE2Do1JQSUxA)
+### [2010s HITS \| TOP 100 SONGS 🔥](https://open.spotify.com/playlist/1tPWTwuxOLsE2Do1JQSUxA)
 
 > The biggest 2010s throwback anthems of the decade from Beyoncé, Alicia Keys, John Legend and many more\. Image: Harry Styles.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 452,386 likes - 110 songs - 6 hr 53 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 452,328 likes - 110 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 | 109 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 |
 | 110 | [Skin](https://open.spotify.com/track/6y2Kaz9QI01XBKJ8mTb7Pf) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:59 |
 
-Snapshot ID: `MjM1NiwyYzlmOWFhY2U5MWExNDkzNGE3YTdjNzY5Mjg5NWYwMzFiODZkNDBj`
+Snapshot ID: `MjM1Nyw4ZTc1MTZmZTE5ZDQ1MDY5ZjRlNWJkZWYyYzcxNTMxY2IwM2YwOWU4`

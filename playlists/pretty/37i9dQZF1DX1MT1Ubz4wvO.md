@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Bruses en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,522 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,541 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 |
 | 50 | [Protagonista](https://open.spotify.com/track/0ikC6gtZB1azE9fBSi0gZk) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Protagonista](https://open.spotify.com/album/0mdLJy0L6rC7egu8cGTOH6) | 4:24 |
 
-Snapshot ID: `MTY3NzgxODYzOSwwMDAwMDAwMGFkMTMzYWJjODIwZDYwZmUzMzAwNzAyOWZmMDI1YmZi`
+Snapshot ID: `MTY3NzgxODYzOSwwMDAwMDAwMDllZjliYzcwOWQzZWZiM2ZlYWRjZjhlOWJkYTc4ZjZl`

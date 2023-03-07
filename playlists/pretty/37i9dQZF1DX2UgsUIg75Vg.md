@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Masego
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,311,328 likes - 140 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,311,601 likes - 140 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 139 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
 | 140 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
 
-Snapshot ID: `MTY3NzgyMDc3NiwwMDAwMDAwMGNhMDJmNmFkYWVmNzBjZGY1ZjEwYWU5OGEwMDRlYTc2`
+Snapshot ID: `MTY3NzgyMDc3NiwwMDAwMDAwMDFmZjM2MWNhMjU3NmY0NzBmNzYzODJlYTQyMTJkMzg1`

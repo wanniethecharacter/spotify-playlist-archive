@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Marshmello, Manuel Turizo
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,538 likes - 440 songs - 23 hr 55 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,539 likes - 440 songs - 23 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

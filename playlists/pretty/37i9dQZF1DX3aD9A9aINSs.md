@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Melis Fis
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,146 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,145 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 49 | [Kırık Merdiven](https://open.spotify.com/track/3UMkEiZsQHA549vlU7EutD) | [Efsâ](https://open.spotify.com/artist/5jo1BHPnWbejqs7FiDEyp6) | [Kırık Merdiven](https://open.spotify.com/album/2hm8FpmxN0pj5k6Wkkb75x) | 3:25 |
 | 50 | [Elveda](https://open.spotify.com/track/6I1T28cMxjcJHlbMqVMX8v) | [Gökçe Özgül](https://open.spotify.com/artist/5zHvcIv8dp2JeSA3oNbJkd) | [Elveda](https://open.spotify.com/album/7H9jbsm1GCdgew8ppu99GD) | 2:51 |
 
-Snapshot ID: `MTY3NTE5ODgwMCwwMDAwMDAwMDI5NDQxNDhhMTVjY2FjNzMzYzk0NzA3NDM5YzQ4NGUw`
+Snapshot ID: `MTY3NTE5ODgwMCwwMDAwMDAwMGMxNDQ1MmZjYTJjYjlhOTY4ZGIxNDZhYzc2ZGRkNzBh`

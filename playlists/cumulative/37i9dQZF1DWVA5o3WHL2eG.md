@@ -2,7 +2,7 @@
 
 ### [EQUAL GSA](https://open.spotify.com/playlist/37i9dQZF1DWVA5o3WHL2eG)
 
-> Listen to women at full volume\. Cover: CATT
+> Co\-curated by CATT\. Learn more in our playlist clips!
 
 774 songs - 1 day 16 hr 51 min
 

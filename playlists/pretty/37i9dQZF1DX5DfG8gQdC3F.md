@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Nicki Minaj, Morgan Wallen, Chiiild & Charlotte Cardin, and Kali Uchis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,036 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,048 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Pearl](https://open.spotify.com/track/0Qy0ydBu4VsKdnKNTazNrf) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Pearl](https://open.spotify.com/album/75iDlOeKjJUihaEryUECiH) | 5:25 |
 | 100 | [A Beautiful Darkness](https://open.spotify.com/track/06Z65ytAIPcSdlU8lgZyEO) | [Sultans Of String](https://open.spotify.com/artist/6GUPR8j10gupeAmKJYgP3I), [Nadjiwan](https://open.spotify.com/artist/6Awd9zbhqyJqAwjDSOlAko) | [A Beautiful Darkness](https://open.spotify.com/album/5uSc9KcRIB0rnx2a81hZcY) | 3:36 |
 
-Snapshot ID: `MTY3NzgyMDA2MywwMDAwMDAwMDA3ODc2MThhMDY0NTk5N2Q1MTU0N2IwZGUwODljMGJh`
+Snapshot ID: `MTY3NzgyMDA2MywwMDAwMDAwMDk3YjExYzU4NDFlZDUzMTU3YzJlNmM5MDhkZTBmMzcy`

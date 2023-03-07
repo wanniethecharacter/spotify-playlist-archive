@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > The journey to Los Angeles to crown "the emperor" of college football starts now\. Check out some amazing anthems and inspiring tracks to underscore the 2022 College football season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,444 likes - 46 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,411 likes - 46 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 45 | [DNA.](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:05 |
 | 46 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 
-Snapshot ID: `MTY1OTcxOTQ0NiwwMDAwMDAwMDJhMTg3YTY1NGIwNjdlYzBkNGIzZDJhZmE5NWZkMzAx`
+Snapshot ID: `MTY1OTcxOTQ0NiwwMDAwMDAwMDc1YmYyMGY2ZGNkYzYzZDIzMjVkN2E1NmFjM2JkZDg2`

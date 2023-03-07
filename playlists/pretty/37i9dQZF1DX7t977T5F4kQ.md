@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:  <a href="https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi?si=BlraLf2eQtqbgRSe9JEpTA"> Camidoh </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,828 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,843 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/album/4kQjfos3CoetMeTYxZoGxe) | 3:23 |
 | 80 | [Enjoyment Minister](https://open.spotify.com/track/43V8TDkcCo2ehn1pOxVTkI) | [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Loyalty](https://open.spotify.com/album/3NSn9lEh3zcn9hkNA0Stvg) | 4:18 |
 
-Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDFiM2ZkZTNmMjgzYmE0MjU2OWFiOGFkNjRkNzAxMDM5`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDgzNGNiY2EyZTRkZmZhZWUwY2E0ZDk1N2U1OGYyZGY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: grandson
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,649 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,644 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
 | 100 | [Moon Rock Shawty](https://open.spotify.com/track/5QIhnElSIr6PY6bslsFDjf) | [$LOTHBOI](https://open.spotify.com/artist/6pqww89mdTNMrYjqcCzi1x) | [Moon Rock Shawty](https://open.spotify.com/album/5jupYgTQVBZFFx2UVUUs0Q) | 2:40 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGU5NTI4ZmFiZThhNmEzZDkxMmM0NmU0NmU1NmI2OTU4`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGVlNmQ3Nzc0Mjk4YzdhNmNkOWU3YWMzZDA1Y2Y2Y2Zh`

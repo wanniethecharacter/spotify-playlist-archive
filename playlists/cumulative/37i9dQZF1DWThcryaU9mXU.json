@@ -1495,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "Midnight Call",
+        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
+      },
+      "artists": [
+        {
+          "name": "Fran McGillivray Band",
+          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288240,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
+    },
+    {
+      "album": {
         "name": "Peepin' And Hidin'",
         "url": "https://open.spotify.com/album/4H1Je07DZvE2WszZkW0FjV"
       },
@@ -1600,7 +1618,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 259000,
       "name": "You'll Never Find Anyone To Be A Slave Like Me - Remastered 2022",
       "url": "https://open.spotify.com/track/2CUoa5qyfnFMnViDYrSsWw"

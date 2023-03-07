@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Coyote",
-  "num_followers": 21023,
+  "num_followers": 21048,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM5NTQ3MiwwMDAwMDAwMGMxYTIwZmE2NTc4NTQwMDc0MmMyYWVhNzhiYTRmNDg1",
+  "snapshot_id": "MTY3NTM5NTQ3MiwwMDAwMDAwMDc3MDg2YmE1MjgwYWM0ODI0OWMyNTdiZmFlNjk4NTgy",
   "tracks": [
     {
       "added_at": "2023-02-03 03:37:52",
@@ -411,30 +411,6 @@
     {
       "added_at": "2023-02-03 03:37:52",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/1vyjmDQjPezDYw0NTxR7bK"
-      },
-      "artists": [
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "Jewl$",
-          "url": "https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF"
-        },
-        {
-          "name": "Lil Bouncer",
-          "url": "https://open.spotify.com/artist/2K4Rk5N285uJvldQ6nenDh"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/1w50Z3O8mqE3Sioor80Aft"
-    },
-    {
-      "added_at": "2023-02-03 03:37:52",
-      "album": {
         "name": "Thicker Than Water",
         "url": "https://open.spotify.com/album/0Rm2QWl2jMihQP5Ml1398x"
       },
@@ -471,6 +447,30 @@
       "duration_ms": 121690,
       "name": "All The Good Die Young",
       "url": "https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL"
+    },
+    {
+      "added_at": "2023-02-03 03:37:52",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/1vyjmDQjPezDYw0NTxR7bK"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Jewl$",
+          "url": "https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF"
+        },
+        {
+          "name": "Lil Bouncer",
+          "url": "https://open.spotify.com/artist/2K4Rk5N285uJvldQ6nenDh"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/1w50Z3O8mqE3Sioor80Aft"
     },
     {
       "added_at": "2023-02-03 03:37:52",

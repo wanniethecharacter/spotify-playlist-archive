@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:1eFOTBAGM0w0SH7jnTYSd1">BLUEM</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,597 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,602 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [Madrid](https://open.spotify.com/track/3Jhis8KUVqGHGucAIJ7gZj) | [Serni](https://open.spotify.com/artist/7C6H0dyN6J76NT1oOIK6Vr), [illVeno](https://open.spotify.com/artist/4m4T3yni8geaTZRC7S0Vdq) | [Madrid](https://open.spotify.com/album/6mCDC9SPRnoEqrKqTBQvM4) | 3:13 |
 | 55 | [NCSA \- feat\. Lil Cosse](https://open.spotify.com/track/0X0rzLEeDgmgHjGnY1qEsk) | [CENERE](https://open.spotify.com/artist/6GQsIhkz0bMdCjCb4sKkxM), [Lil Cosse](https://open.spotify.com/artist/75jvCdf9ii6EVSsJtKYOXT) | [NCSA \(feat\. Lil Cosse\)](https://open.spotify.com/album/7qdSr5kyUUKqxJxPj3ziLB) | 3:01 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDBhYmUzYTg2YzMyMWNiOGViYWU4MzkxY2IxNGUwNDZk`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMGI5Y2QxMzI4ZTFlOTU1MDgwZWY5NjZkZjkyMDgxMTBi`

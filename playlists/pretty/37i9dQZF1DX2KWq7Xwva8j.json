@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Queralt Lahoz",
-  "num_followers": 20908,
+  "num_followers": 20913,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU4MzI3OSwwMDAwMDAwMDM3YjNiNWZjMjAzMWQ2Y2FkZGMwNjAzYWE2YWIyZTc1",
+  "snapshot_id": "MTY3NzU4MzI3OSwwMDAwMDAwMDkxNGExOThmNThkNGJlYjU5Y2ZiNzljOTM3YjkzYTc2",
   "tracks": [
     {
       "added_at": "2023-02-21 12:17:01",
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
     },
     {
-      "added_at": "2023-03-06 01:23:27",
+      "added_at": "2023-03-07 02:38:18",
       "album": {
         "name": "Mil Laberintos",
         "url": "https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX"
@@ -247,6 +247,22 @@
       "duration_ms": 158000,
       "name": "Mil Laberintos",
       "url": "https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S"
+    },
+    {
+      "added_at": "2023-03-07 02:38:18",
+      "album": {
+        "name": "Tiro Al Aire",
+        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 200145,
+      "name": "Tiro Al Aire",
+      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/0t7Sn2HbOk7inow65D6na5"
     },
     {
-      "added_at": "2023-03-06 01:23:27",
+      "added_at": "2023-03-07 02:38:18",
       "album": {
         "name": "Porque t\u00fa lo sabr\u00edas",
         "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
@@ -283,22 +299,6 @@
       "duration_ms": 191806,
       "name": "Porque t\u00fa lo sabr\u00edas",
       "url": "https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3"
-    },
-    {
-      "added_at": "2023-03-06 01:23:27",
-      "album": {
-        "name": "Tiro Al Aire",
-        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 200145,
-      "name": "Tiro Al Aire",
-      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -321,20 +321,24 @@
       "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
     },
     {
-      "added_at": "2023-02-21 12:17:01",
+      "added_at": "2023-03-07 02:38:18",
       "album": {
-        "name": "Bloque",
-        "url": "https://open.spotify.com/album/7g5WUQbHQ8f3A8FV8hXoJ8"
+        "name": "C\u00e1psula Espacial",
+        "url": "https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr"
       },
       "artists": [
         {
-          "name": "Nickzzy",
-          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
         }
       ],
-      "duration_ms": 163384,
-      "name": "Bloque",
-      "url": "https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet"
+      "duration_ms": 156800,
+      "name": "C\u00e1psula Espacial",
+      "url": "https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -353,24 +357,20 @@
       "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
     },
     {
-      "added_at": "2023-03-06 01:23:27",
+      "added_at": "2023-02-21 12:17:01",
       "album": {
-        "name": "C\u00e1psula Espacial",
-        "url": "https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr"
+        "name": "Bloque",
+        "url": "https://open.spotify.com/album/7g5WUQbHQ8f3A8FV8hXoJ8"
       },
       "artists": [
         {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+          "name": "Nickzzy",
+          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
         }
       ],
-      "duration_ms": 156800,
-      "name": "C\u00e1psula Espacial",
-      "url": "https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD"
+      "duration_ms": 163384,
+      "name": "Bloque",
+      "url": "https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-02-21 12:17:01",
       "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "Miki N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
+        }
+      ],
+      "duration_ms": 179055,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
+    },
+    {
+      "added_at": "2023-02-21 12:17:01",
+      "album": {
         "name": "Solo me gustas cuando yo te gusto a ti",
         "url": "https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao"
       },
@@ -459,6 +479,22 @@
     {
       "added_at": "2023-02-21 12:17:01",
       "album": {
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
+    },
+    {
+      "added_at": "2023-02-21 12:17:01",
+      "album": {
         "name": "Entre T\u00fa y Yo",
         "url": "https://open.spotify.com/album/4lGHtFxzkgixaplUBUCCva"
       },
@@ -479,22 +515,6 @@
     {
       "added_at": "2023-02-21 12:17:01",
       "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
-    },
-    {
-      "added_at": "2023-02-21 12:17:01",
-      "album": {
         "name": "la pesta\u00f1a que sopl\u00e9",
         "url": "https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 140823,
       "name": "la pesta\u00f1a que sopl\u00e9",
       "url": "https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT"
-    },
-    {
-      "added_at": "2023-02-21 12:17:01",
-      "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "Miki N\u00fa\u00f1ez",
-          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
-        }
-      ],
-      "duration_ms": 179055,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -561,23 +561,7 @@
       "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
     },
     {
-      "added_at": "2023-02-21 12:17:01",
-      "album": {
-        "name": "Prom\u00e9teme",
-        "url": "https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        }
-      ],
-      "duration_ms": 159307,
-      "name": "Prom\u00e9teme",
-      "url": "https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL"
-    },
-    {
-      "added_at": "2023-03-06 01:23:27",
+      "added_at": "2023-03-07 02:38:18",
       "album": {
         "name": "Muchas gracias por venir",
         "url": "https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5"
@@ -595,22 +579,6 @@
     {
       "added_at": "2023-02-21 12:17:01",
       "album": {
-        "name": "CHINO CADA MARTES",
-        "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 163125,
-      "name": "chino cada martes",
-      "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
-    },
-    {
-      "added_at": "2023-02-21 12:17:01",
-      "album": {
         "name": "Cosas Que Dijimos De Hacer",
         "url": "https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH"
       },
@@ -623,6 +591,38 @@
       "duration_ms": 175058,
       "name": "Cosas Que Dijimos De Hacer",
       "url": "https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf"
+    },
+    {
+      "added_at": "2023-02-21 12:17:01",
+      "album": {
+        "name": "Prom\u00e9teme",
+        "url": "https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "duration_ms": 159307,
+      "name": "Prom\u00e9teme",
+      "url": "https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL"
+    },
+    {
+      "added_at": "2023-02-21 12:17:01",
+      "album": {
+        "name": "CHINO CADA MARTES",
+        "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "chino cada martes",
+      "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-02-21 12:17:01",
       "album": {
+        "name": "La Broma De Mis Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "duration_ms": 173200,
+      "name": "La Broma De Mis Sue\u00f1os",
+      "url": "https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew"
+    },
+    {
+      "added_at": "2023-02-21 12:17:01",
+      "album": {
         "name": "Cuchillos",
         "url": "https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 170322,
       "name": "Iniciales",
       "url": "https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843"
-    },
-    {
-      "added_at": "2023-02-21 12:17:01",
-      "album": {
-        "name": "La Broma De Mis Sue\u00f1os",
-        "url": "https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 173200,
-      "name": "La Broma De Mis Sue\u00f1os",
-      "url": "https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew"
     },
     {
       "added_at": "2023-02-21 12:17:01",

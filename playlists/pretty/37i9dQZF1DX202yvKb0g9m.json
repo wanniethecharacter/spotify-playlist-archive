@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 81901,
+  "num_followers": 82088,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDlhMGNkZjc1MmMwY2VkZjk5YzMwMzA5YjQ1MjBjMDA3",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGU1ZDExNGE3ZjE2Y2Y1OWVkY2I4YzUwOWJhNjYyZDM3",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "TB Resucitation",
-        "url": "https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN"
-      },
-      "artists": [
-        {
-          "name": "Hardfloor",
-          "url": "https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk"
-        }
-      ],
-      "duration_ms": 542939,
-      "name": "Acperience 1",
-      "url": "https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Richard D. James Album",
         "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 134840,
       "name": "Cornish Acid",
       "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "TB Resucitation",
+        "url": "https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN"
+      },
+      "artists": [
+        {
+          "name": "Hardfloor",
+          "url": "https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk"
+        }
+      ],
+      "duration_ms": 542939,
+      "name": "Acperience 1",
+      "url": "https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "I Have a Question",
-        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 361402,
-      "name": "Sound 6",
-      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Sector II: Acid",
         "url": "https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 465312,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "I Have a Question",
+        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 361402,
+      "name": "Sound 6",
+      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -727,22 +727,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Frequencies",
-        "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
-      },
-      "artists": [
-        {
-          "name": "LFO",
-          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "LFO - Leeds Warehouse Mix",
-      "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Phuture and Other Classics from DJ Pierre",
         "url": "https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 709466,
       "name": "Acid Trax",
       "url": "https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Frequencies",
+        "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
+      },
+      "artists": [
+        {
+          "name": "LFO",
+          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "LFO - Leeds Warehouse Mix",
+      "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -795,6 +795,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Trax Classix",
+        "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
+      },
+      "artists": [
+        {
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Land Of Confusion",
+      "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Double Cup",
         "url": "https://open.spotify.com/album/21dsgJBSUM6IvAGFjfotgF"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 204579,
       "name": "Acid Bit (feat. Addison Groove)",
       "url": "https://open.spotify.com/track/2L2PKs5qpu0atU6MBVfIyS"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Trax Classix",
-        "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
-      },
-      "artists": [
-        {
-          "name": "Armando",
-          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Land Of Confusion",
-      "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
     },
     {
       "added_at": "2021-10-22 11:07:27",

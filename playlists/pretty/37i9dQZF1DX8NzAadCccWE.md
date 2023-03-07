@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,431 likes - 60 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,448 likes - 60 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 59 | [Goes Around](https://open.spotify.com/track/5a4Y4TnykqvnKOnKv78Of1) | [Desired State](https://open.spotify.com/artist/0RTQBPcao3QGythpPmZrgQ) | [Goes Around / Here and Now](https://open.spotify.com/album/2BFf0lXitRqKcE3puBHKa3) | 6:52 |
 | 60 | [Follow Me \- Skeptical Remix](https://open.spotify.com/track/040XDv8exmt03jJNMB6BhQ) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Skeptical](https://open.spotify.com/artist/28ee6rnxMl8AqwcroPfivP) | [Follow Me \(Remixes\)](https://open.spotify.com/album/2PuyaW7cXMyhikQ95l2jXU) | 3:49 |
 
-Snapshot ID: `MTY3MDg2NDU1NywwMDAwMDAwMDNlMDBjNzM1NDk3MGE0NzU2MjExM2NkNGIxNDUxZWY3`
+Snapshot ID: `MTY3MDg2NDU1NywwMDAwMDAwMDAzMjNlN2ZlNWU3OTZkMmY1OGFmMGM5MDVkY2U4M2E3`

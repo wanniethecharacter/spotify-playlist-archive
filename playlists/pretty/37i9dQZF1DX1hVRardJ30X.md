@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: TIMØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,338 likes - 63 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,387 likes - 63 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 62 | [Man On The Street](https://open.spotify.com/track/10qoABz08W73FAtcqUquM4) | [The Bromigos](https://open.spotify.com/artist/7IstQm3HsOZGoNhX0LJo0C) | [Man On The Street](https://open.spotify.com/album/4gD8i6JTx9g2zRZjmJ5nLl) | 3:21 |
 | 63 | [No Perdamos Tiempo](https://open.spotify.com/track/3IpMsfYeYDKswplYn68UVc) | [Juan Dyego](https://open.spotify.com/artist/19aF0gkXT7wcjS2WfwKn8K) | [Mucho Gusto](https://open.spotify.com/album/0bdHJqwT4o4azzQF30pmu0) | 3:29 |
 
-Snapshot ID: `MTY3Nzg2OTM5MCwwMDAwMDAwMDJjMzNkMTE3ODdmNmViOGUzZjU2ZjU4NjY1OTcyY2Nk`
+Snapshot ID: `MTY3Nzg2OTM5MCwwMDAwMDAwMGRmZGIyZGFmMjViYWQ0NzdhMzRmYzkyYzdmYThmYTA4`

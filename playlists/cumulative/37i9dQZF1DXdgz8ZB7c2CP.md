@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Skrillex.
 
-355 songs - 19 hr 57 min
+356 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Data Loss](https://open.spotify.com/track/01dDqYaIA4XfEYGZE0z5fc) | [JKuch](https://open.spotify.com/artist/7oRWzmj2sdRKqbgwbEmODT), [Adam Tell](https://open.spotify.com/artist/0yQhlu3llmo7FbSRTnwofc) | [Data Loss](https://open.spotify.com/album/14HAMBubGgZ3Z8a5reC8XI) | 2:45 | 2021-08-06 | 2022-04-20 |
 | [Data Loss](https://open.spotify.com/track/6of2wpwEfFaxH7nW264R2O) | [JKuch](https://open.spotify.com/artist/7oRWzmj2sdRKqbgwbEmODT), [Adam Tell](https://open.spotify.com/artist/1t8LijuXy59r0O5qlLkENl) | [Data Loss](https://open.spotify.com/album/68GSrWXN43c2nSzFNRjV5W) | 2:45 | 2021-08-06 | 2023-02-04 |
 | [Daydream](https://open.spotify.com/track/6i4EnLC2vUgww1BotS8xRs) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Daydream](https://open.spotify.com/album/0ynRpNRMKtNtpBy8Ref95Q) | 3:06 | 2021-10-15 | 2023-02-17 |
-| [Demons](https://open.spotify.com/track/4WlSrA0dALD8NXSOTNhjNT) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Demons](https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG) | 4:44 | 2023-02-24 |  |
+| [Demons](https://open.spotify.com/track/4WlSrA0dALD8NXSOTNhjNT) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Demons](https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG) | 4:44 | 2023-02-24 | 2023-03-07 |
 | [Dish](https://open.spotify.com/track/5z9Kr86slPgEzTApULjoxy) | [Pheeno](https://open.spotify.com/artist/4C1Mbwae9oliXTKjl8vzbD) | [Dish](https://open.spotify.com/album/1zUmUJ2iSbCnafPoZRkSg1) | 2:17 | 2021-08-06 |  |
 | [dive in](https://open.spotify.com/track/5r4Ng8Yg5ekJOQVSqHYkaE) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [dive in](https://open.spotify.com/album/1eL6sP8iKnZGZiEEdzF5d5) | 2:51 | 2022-04-08 | 2022-07-09 |
 | [do you](https://open.spotify.com/track/5d5LfzyA5IqqEr31Wxjw2Y) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [life support](https://open.spotify.com/album/4usDFSWnjxy6p0kGTN6W67) | 2:28 | 2021-08-06 | 2022-07-29 |
@@ -351,6 +351,7 @@
 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 | 2023-02-10 |  |
 | [Who We Are](https://open.spotify.com/track/0YtKptsHPmje5CEXbwmnPi) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Who We Are](https://open.spotify.com/album/6F520hQ7Mc4QVoFSRggMNS) | 3:13 | 2022-12-21 |  |
 | [Wild](https://open.spotify.com/track/0UapLurjls7TjbtsX5QW7l) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Rising](https://open.spotify.com/album/05pxwAHOdXuatMuOFIeI6c) | 4:54 | 2021-08-06 | 2023-03-01 |
+| [Wild](https://open.spotify.com/track/0WQnDBo5oqSnCDag5hSwVw) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Rising](https://open.spotify.com/album/07ebiMBNS8qR2Lx6c3Sgy0) | 4:54 | 2023-03-03 |  |
 | [Windhorse](https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [Windhorse](https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu) | 3:54 | 2021-10-08 |  |
 | [With You](https://open.spotify.com/track/6ndFWbDp7AXBBTRCLNrbdn) | [Kislaw](https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh) | [With You](https://open.spotify.com/album/29bhKQU4hVbcED0qMVyTGR) | 2:30 | 2021-08-06 | 2022-04-21 |
 | [Would I Believe](https://open.spotify.com/track/5J7z4X615BmONq0bRNC0x3) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Would I Believe](https://open.spotify.com/album/0bS7F6oNnt7rMf9S9g3jq4) | 4:24 | 2022-01-21 | 2022-07-25 |

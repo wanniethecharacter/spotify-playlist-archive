@@ -37155,6 +37155,24 @@
     },
     {
       "album": {
+        "name": "Te Quiero (Live)",
+        "url": "https://open.spotify.com/album/6YV2xEVGlp9PLTv2wHS04X"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Te Quiero - Live",
+      "url": "https://open.spotify.com/track/1Z6mjxGzbilLNnRDXlZ61Z"
+    },
+    {
+      "album": {
         "name": "Te Quiero Besar",
         "url": "https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr"
       },

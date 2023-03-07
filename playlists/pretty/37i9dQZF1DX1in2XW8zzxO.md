@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,052 likes - 70 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,100 likes - 70 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 69 | [Jabula](https://open.spotify.com/track/4xMAU5EoZ4vIVRKB0degt4) | [Mfana Kah Gogo](https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1) | [Jabula](https://open.spotify.com/album/3q8Qzr7YmiISGyKv88LLTW) | 6:05 |
 | 70 | [Tsela Tse Nyane](https://open.spotify.com/track/7IQbOBVEQTb3lGNNi1e71i) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ) | [Ghetto Gospel](https://open.spotify.com/album/195GWiPzBeREYEZv0sNnRN) | 7:26 |
 
-Snapshot ID: `MTY3NzIyNDAxOCwwMDAwMDAwMGU4NzQ1MTQxYTE2MWI1MDdlMzgzOWQ2OTBhODJmNTBj`
+Snapshot ID: `MTY3NzIyNDAxOCwwMDAwMDAwMDAyNWFhYTA1NTcxNGIyNTMxNzk1NDEwYTQ3ZWYyZjc3`

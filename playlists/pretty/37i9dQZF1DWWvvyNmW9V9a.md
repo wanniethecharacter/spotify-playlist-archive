@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > I don't care what anyone says but John B and Sarah together is the definition of a teenage dream!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,004,371 likes - 105 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,006,416 likes - 105 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 104 | [Only Love Can Hurt Like This \- Sped Up Version](https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Only Love Can Hurt Like This \(Sped Up Version\)](https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8) | 2:45 |
 | 105 | [Habits \(Stay High\)](https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE) | 3:29 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGYxZDVlMDlhNGI4ZmYxNmM2ZDlmNzk5NDA4NzNjNWQ1`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDQyODEyOWRhYTk1YjkzZDQ3OTcxY2NlYWRhZmU5NzI0`

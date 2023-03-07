@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Ingrid Andress, Morgan Wallen, Tyler Braden and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,644 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,827 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 64 | [Nothing Is The Same](https://open.spotify.com/track/1efgevxTxE245A7Trqo4Qt) | [Blane Rudd](https://open.spotify.com/artist/5RE1D7Dj0jwZOgbPw08HBq) | [Nothing Is The Same](https://open.spotify.com/album/4Cjlao0AQZA2yTp4PGipm6) | 4:00 |
 | 65 | [Swerve](https://open.spotify.com/track/2vGmYHsH37W53xPmW973fs) | [Kevin Nichols](https://open.spotify.com/artist/0Dxxyu2C5xNLuRz0M4VmQs) | [Swerve](https://open.spotify.com/album/1pnI858I3rBB1iE1Kn83zA) | 3:33 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGU2ZjQ1NmU3NmIwNzE5MzUzOTcwNjZlOTYwZjM5YjE4`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGZiMDIwZDFlMzc4YmM4NjM0MDZiNmQzOGYyNzFlZTA3`

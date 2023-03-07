@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/1cVgkUbzpEwQVcQJvWgYnI"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135653,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5BsMtgFr6LEL8FqPOaN2oj"
+    },
+    {
+      "album": {
         "name": "ALIENS!",
         "url": "https://open.spotify.com/album/6Cku9aqsY8j70iK7iuoeOj"
       },
@@ -3106,7 +3124,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 174533,
       "name": "Let's Go Get Stoned",
       "url": "https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9"

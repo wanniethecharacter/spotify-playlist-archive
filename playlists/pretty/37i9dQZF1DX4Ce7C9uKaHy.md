@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,795 likes - 80 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,796 likes - 80 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 64 | [Sunset](https://open.spotify.com/track/1dvpoWiJMAp6FoIWAR1LJd) | [Barney Coleman](https://open.spotify.com/artist/36K3p9zmpNUhrKrdwjbmXh) | [Low Fidelity EP](https://open.spotify.com/album/0g75kGrqzYlV0QfFzUYsXj) | 2:21 |
 | 65 | [I Need a Drink](https://open.spotify.com/track/1AyUQ8VrPQh37txjLYb3KC) | [Wishkid](https://open.spotify.com/artist/0fBiX79fGtRfNkfv2yR5Rw) | [I Need a Drink](https://open.spotify.com/album/6tXoiYc2Qm2oZPeonX3s9Q) | 2:32 |
 | 66 | [Stay](https://open.spotify.com/track/3VmOcYg433TPhPcp2ADuoG) | [smlr](https://open.spotify.com/artist/1FG84tTPToBCGS5Zn0ARDo) | [Stay](https://open.spotify.com/album/42DGmFWwVsub49PiAwteNv) | 2:08 |
-| 67 | [I still dream of you](https://open.spotify.com/track/72Y9PQKgbZNDDqtJsYuOOI) | [Dysphoria](https://open.spotify.com/artist/0SjvG9TO02Only9hkIBswM) | [Restless](https://open.spotify.com/album/6VzMemVHUEpsdXODPAtOKL) | 1:42 |
+| 67 | [I still dream of you](https://open.spotify.com/track/4x9m7xMXMro3A704qZk35Z) | [Dysphoria](https://open.spotify.com/artist/0SjvG9TO02Only9hkIBswM) | [Restless](https://open.spotify.com/album/2oDjmE7lflcUgQljfAm66p) | 1:42 |
 | 68 | [Sassy](https://open.spotify.com/track/7v81zDad0PAPjJ45mphEul) | [Suwanti](https://open.spotify.com/artist/48QEanQFa6GOiSGR3uyiOi) | [Sassy](https://open.spotify.com/album/39cCVhyG7YYWMKLm4yxlp5) | 1:51 |
 | 69 | [Meet You in the Park](https://open.spotify.com/track/4it9vYyCde5RrYXxqBbxKo) | [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Calm Lands](https://open.spotify.com/album/4dglmAUDnppEU1kx3zRCPJ) | 2:31 |
 | 70 | [Pure Imagination](https://open.spotify.com/track/6redzaZ6sGkqvZiUxKLYB8) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Discography](https://open.spotify.com/album/6d5aTFlnrl6n2U9Q7f8HNV) | 1:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 79 | [Take Five](https://open.spotify.com/track/11ppb9MvpzxbmChaakrKKK) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Take Five](https://open.spotify.com/album/1lIfPSq2TmUxaGOiUKmUP0) | 2:18 |
 | 80 | [Moonlight](https://open.spotify.com/track/0fgWMwqn3me97RFl2CTOKP) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 3](https://open.spotify.com/album/2AldFXJiuHfti8YgkUNQTG) | 3:38 |
 
-Snapshot ID: `MTU4ODc3NDkzMCwwMDAwMDAwMGQ1OTVlN2VlZmNiNzdhZjRiMDUyYmEyOTg5MzRiYjYw`
+Snapshot ID: `MTU4ODc3NDkzMCwwMDAwMDAwMGY5NzExZTg4YWNlZDAyY2MxOTViODU2ODUxNzJkODcz`

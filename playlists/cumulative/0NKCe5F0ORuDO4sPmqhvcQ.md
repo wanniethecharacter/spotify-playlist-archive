@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-412 songs - 23 hr 7 min
+413 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Call Me](https://open.spotify.com/track/3MIhKhsLkAqeeZYxGVCvEV) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Call Me](https://open.spotify.com/album/1OJZct2mXQSrB7ZJbs4eVc) | 2:29 | 2021-11-23 | 2022-01-08 |
 | [Calle De Silva 6](https://open.spotify.com/track/4bzvRGIfL83G3RzasLgUH3) | [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Calle De Silva 6](https://open.spotify.com/album/5OpqN5kyrLcxsyJMwwYGP5) | 2:29 | 2022-07-07 | 2022-11-12 |
 | [Can't Say No](https://open.spotify.com/track/1q8w7j7ukxaHGAWsAgotEa) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:20 | 2021-12-07 | 2022-01-08 |
+| [Capsize \(feat\. Sarah de Warren\)](https://open.spotify.com/track/6FxILeOa0DIDHq5oD05zpI) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [HER](https://open.spotify.com/album/00YaZIXwhtyUVAQW1XSNZH) | 2:53 | 2023-03-06 |  |
 | [care about u](https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2) | 3:21 | 2021-12-07 | 2022-01-08 |
 | [CATALYST](https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [CATALYST](https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU) | 3:26 | 2023-02-22 |  |
 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 | 2022-01-21 | 2022-03-10 |

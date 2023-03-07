@@ -4,7 +4,7 @@
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-132 songs - 4 hr 41 min
+133 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [hygge](https://open.spotify.com/track/3FZmsVepjKdjlswITUY8iV) | [Miro](https://open.spotify.com/artist/5xvi5IOvzPsJxrQwVYrOXw) | [hi, i'm minty](https://open.spotify.com/album/4EYbb8gsQGvQveOC4KzMDn) | 3:56 | 2020-05-06 |  |
 | [I know you better](https://open.spotify.com/track/1U5feIyPWBl8tRkSk4cwWR) | [hiraeth.](https://open.spotify.com/artist/5oLTLuHsqyA78zxL9l3Udp) | [I know you better](https://open.spotify.com/album/4iKYslxWY70QS5XpofwuC2) | 1:25 | 2020-05-06 |  |
 | [I Need a Drink](https://open.spotify.com/track/1AyUQ8VrPQh37txjLYb3KC) | [Wishkid](https://open.spotify.com/artist/0fBiX79fGtRfNkfv2yR5Rw) | [I Need a Drink](https://open.spotify.com/album/6tXoiYc2Qm2oZPeonX3s9Q) | 2:32 | 2020-05-06 |  |
-| [I still dream of you](https://open.spotify.com/track/72Y9PQKgbZNDDqtJsYuOOI) | [Dysphoria](https://open.spotify.com/artist/0SjvG9TO02Only9hkIBswM) | [Restless](https://open.spotify.com/album/6VzMemVHUEpsdXODPAtOKL) | 1:42 | 2020-05-06 |  |
+| [I still dream of you](https://open.spotify.com/track/4x9m7xMXMro3A704qZk35Z) | [Dysphoria](https://open.spotify.com/artist/0SjvG9TO02Only9hkIBswM) | [Restless](https://open.spotify.com/album/2oDjmE7lflcUgQljfAm66p) | 1:42 | 2020-05-06 |  |
+| [I still dream of you](https://open.spotify.com/track/72Y9PQKgbZNDDqtJsYuOOI) | [Dysphoria](https://open.spotify.com/artist/0SjvG9TO02Only9hkIBswM) | [Restless](https://open.spotify.com/album/6VzMemVHUEpsdXODPAtOKL) | 1:42 | 2020-05-06 | 2023-03-07 |
 | [i'm here](https://open.spotify.com/track/4ROO38nMUzqSVxxU1D2sBO) | [redrose](https://open.spotify.com/artist/5DDsxWPT3cel3BxAC5oAvZ) | [still//waiting](https://open.spotify.com/album/5Efl0oiTN6EmJkDvcoUuA9) | 1:26 | 2020-05-06 |  |
 | [i'm not letting go](https://open.spotify.com/track/56DuyLpmV3q57fbskF2iRt) | [bearbare](https://open.spotify.com/artist/6PKlFeLEuDwKi9jOLf6qWi) | [i'm not letting go](https://open.spotify.com/album/19ZpYYVbRiSGz4BwL5jtCy) | 2:05 | 2020-05-06 | 2022-07-29 |
 | [i'm not letting go](https://open.spotify.com/track/7aBbWuqVFbghu6BvGubcwr) | [bearbare](https://open.spotify.com/artist/6PKlFeLEuDwKi9jOLf6qWi), [IWL](https://open.spotify.com/artist/0WCI8FhrRg1eGElGlN6vD4) | [i'm not letting go](https://open.spotify.com/album/2I5qkZFD97FGh77QmoXRqf) | 2:05 | 2020-05-06 |  |

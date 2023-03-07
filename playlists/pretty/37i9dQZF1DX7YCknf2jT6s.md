@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Brandee Younger
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,798 likes - 100 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,923 likes - 100 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Faith in Grace](https://open.spotify.com/track/1epeS242PWILHdDaZxt4PU) | [Tivon Pennicott](https://open.spotify.com/artist/3LDls2CFYVVqX9BUKnklCa) | [Faith In Grace](https://open.spotify.com/album/7M3IKDHdbvFszTGFVQnmUA) | 3:36 |
 | 100 | [Hudson](https://open.spotify.com/track/1Znw9hnCZBzlXqI3UC1phx) | [Nadje Noordhuis](https://open.spotify.com/artist/2gMxxfDcVbNcJH5VG2FCmY) | [Full Circle](https://open.spotify.com/album/7JEJzOuSLh5yDIYdZvuJfa) | 4:33 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDViM2I3ODE4ZDU2MTBiNmM1MDAzNTRlNGI1NmM1OTkx`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDU2ZTlmNGEzOTBhMzA5MzZmOTU0OGVmYTJhNGUwYWY5`

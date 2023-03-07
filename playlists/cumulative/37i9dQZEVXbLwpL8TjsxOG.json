@@ -118,7 +118,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 190028,
       "name": "2nd Favourite \u7b2c\u4e8c\u6700\u611b",
       "url": "https://open.spotify.com/track/1Pt5syTlJvn3FOqAET84WF"
@@ -4044,7 +4044,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-06",
+      "date_removed": null,
       "duration_ms": 214701,
       "name": "on the street (with J. Cole)",
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
@@ -6037,6 +6037,28 @@
     },
     {
       "album": {
+        "name": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
+        "url": "https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "\u5341\u660e",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "\u3059\u305a\u3081",
+      "url": "https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR"
+    },
+    {
+      "album": {
         "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
         "url": "https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I"
       },
@@ -7382,7 +7404,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 274400,
       "name": "\u5982\u679c\u53ef\u4ee5 - \u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"

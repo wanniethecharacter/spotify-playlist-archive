@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Grandmas House
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,608 likes - 126 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,692 likes - 126 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 125 | [Hell of Mine](https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hell of Mine](https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T) | 2:05 |
 | 126 | [Self Portraiture](https://open.spotify.com/track/0f0ZK51QoNGm1o4fS2Mdqx) | [Nuha Ruby Ra](https://open.spotify.com/artist/6tqTRVcajCVWmibmempM9m) | [Self Portraiture](https://open.spotify.com/album/7faVdESYPABrC4njHhX5eD) | 3:28 |
 
-Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMGE5MzBkNTRlMTUwODhmZTljMDA5ZWI2ZWI1YTE0NDNk`
+Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDNlNWFjNTk2NzEwMjRlNzI5OGNlZTBiZDFlOTM1YTI4`

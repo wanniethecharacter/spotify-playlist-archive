@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Mia Nicolai & Dion Cooper
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,672 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,659 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 100 | [A Brand New Day](https://open.spotify.com/track/5LL8Q95glEwoWxkYdJMOaf) | [Ezra Veda](https://open.spotify.com/artist/4flBtK8GbKmqQStO5GbecX) | [A Brand New Day](https://open.spotify.com/album/44WjR8plQVO1L9251xUgMj) | 4:18 |
 | 101 | [Pink](https://open.spotify.com/track/2DdVJpHLbqV9u1JSxFqYMg) | [James Burki](https://open.spotify.com/artist/4G8wfydMXBt8bJQNitLqMM) | [Pink](https://open.spotify.com/album/4tL2FCNVQqpV2WXalv7KFh) | 3:14 |
 
-Snapshot ID: `MTY3NzgzNDA0MiwwMDAwMDAwMDUyNjU5M2IzZDU1MGM0NGIwYjk1YThhY2RhMjc4M2Ey`
+Snapshot ID: `MTY3NzgzNDA0MiwwMDAwMDAwMDA0NDg2ZmNmZjQzMjhkYWM4YzFmNzU5MmFlMzA1MWQ1`

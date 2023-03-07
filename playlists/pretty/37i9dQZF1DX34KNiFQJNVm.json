@@ -1,12 +1,12 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem Hugo & Guilherme, DJ Biel do Furduncinho com Gloria Groove, Israel & Rodolffo com Mari Fernandez, Tropkillaz com Sango e muito mais!",
-  "num_followers": 1843520,
+  "num_followers": 1843919,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMGY1NTBiM2EzODcxMGEzYmY5MjVkMGQzZTM2MThmMjg5",
+  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMDQ2ZDUyZTY2NzNlZjU2ODAwYjRlNGJkODg2YzIwNzdm",
   "tracks": [
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1272,10 +1272,6 @@
           "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
         },
         {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
           "name": "MC Liro",
           "url": "https://open.spotify.com/artist/3i7YFHRKEJmsz4cVqeF2eG"
         },
@@ -1298,6 +1294,10 @@
         {
           "name": "MC Tuto",
           "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
       "duration_ms": 576000,

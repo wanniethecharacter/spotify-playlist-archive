@@ -4,7 +4,7 @@
 
 > Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.
 
-278 songs - 14 hr 11 min
+279 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Da Cama Pro Coração](https://open.spotify.com/track/7lc3EORoGIEpQmZPMeoQKg) | [Ciro Netto e Manuel](https://open.spotify.com/artist/4V1lwrcs4a4JDSslNDLbJE), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Da Cama Pro Coração](https://open.spotify.com/album/7xsXWQgMxOGuEAhBTnJWUE) | 2:26 | 2021-11-19 | 2022-01-05 |
 | [da primeira vez \(from the first time\)](https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [da primeira vez \(from the first time\)](https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY) | 3:21 | 2022-02-14 | 2022-05-02 |
 | [De Fé](https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ikinya](https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU) | [De Fé](https://open.spotify.com/album/7yvEzXsMNAIGBQtd0luLDZ) | 2:24 | 2022-02-14 | 2022-07-28 |
-| [De Novo](https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Luísa Nascim](https://open.spotify.com/artist/5j1I6HLmRd52lplPaEl6uU), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH), [Tombc](https://open.spotify.com/artist/6xWZS3GMWCdADhHYLW2gb6) | [De Novo](https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ) | 2:15 | 2021-11-19 |  |
+| [De Novo](https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Luísa Nascim](https://open.spotify.com/artist/5j1I6HLmRd52lplPaEl6uU), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH), [Tombc](https://open.spotify.com/artist/6xWZS3GMWCdADhHYLW2gb6) | [De Novo](https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ) | 2:15 | 2021-11-19 | 2023-03-07 |
 | [Deixa Eu Falar pra Você](https://open.spotify.com/track/0f1xsopmPwjGv5lJooglnD) | [Josué Bom de Faixa](https://open.spotify.com/artist/6yEKZXXjkBPBcAQAFdvSlz) | [Josué Bom de Faixa](https://open.spotify.com/album/7czmWB0X3OOf9VWgHGSfDw) | 4:02 | 2021-11-19 | 2022-02-15 |
 | [Deixar na B](https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Deixar na B](https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3) | 2:09 | 2022-05-01 | 2022-07-24 |
 | [Delírio](https://open.spotify.com/track/3ke603EC1sN89TUk3Y3mzC) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Delírio](https://open.spotify.com/album/2kSC9rkTJ8jywg5yQJSPO2) | 2:25 | 2021-11-19 | 2022-01-16 |
@@ -266,6 +266,7 @@
 | [Tentação](https://open.spotify.com/track/0U5kY6qm3RtQdOeQ3BqpSs) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Beijo De Judas](https://open.spotify.com/album/4LQYnCZhSWeT2aO0O2dQFw) | 2:54 | 2021-11-19 | 2022-05-02 |
 | [Tipo Gringa](https://open.spotify.com/track/3oxk3UVbKJiPcPokw9h64D) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Tipo Gringa](https://open.spotify.com/album/2GzMlVeoje0wmHbl3bGASp) | 1:54 | 2021-11-19 | 2022-02-09 |
 | [Todo Mundo Ama o Sol](https://open.spotify.com/track/2wWsNCdgtkFRX5xVhKYCXT) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Todo Mundo Ama o Sol](https://open.spotify.com/album/2NgVCkUvypsuwrxloKor6X) | 2:40 | 2022-02-14 | 2022-07-28 |
+| [Todo Mundo Ama o Sol](https://open.spotify.com/track/30KnuGgwh6EtBCTFT3iGLe) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Todo Mundo Ama O Sol](https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3) | 2:40 | 2023-02-10 |  |
 | [Toma](https://open.spotify.com/track/4jLBB4wljHaKsILN6Bs9ss) | [Afrocidade](https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL) | [Vivão](https://open.spotify.com/album/5lbpIV9r76xxqSrj23f6LQ) | 3:34 | 2022-02-14 | 2022-07-29 |
 | [Tu tem jeito de quem gosta](https://open.spotify.com/track/1xOpAC7Wv465c51iK4Tgkv) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Tu tem jeito de quem gosta](https://open.spotify.com/album/5vrKMwJ2laISjYY0nWzZ2o) | 2:37 | 2022-02-14 | 2022-07-28 |
 | [Tudo o Que Tem Você](https://open.spotify.com/track/3AC2TNQZ644AKANPHUW1UV) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Planos](https://open.spotify.com/album/6xPUrpsSm8ICSqCehzwhAA) | 4:13 | 2022-02-14 | 2022-05-02 |

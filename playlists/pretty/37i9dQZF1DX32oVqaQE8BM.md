@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,250 likes - 256 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,337 likes - 256 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 255 | [Twigs](https://open.spotify.com/track/4mXIW02IV45ryBCq3HKDnU) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Twigs](https://open.spotify.com/album/50pBVjlXEMrAoNQcjgq6qP) | 2:24 |
 | 256 | [Flow](https://open.spotify.com/track/2X74XD1uMFMrl2MXgG95Y1) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Flow](https://open.spotify.com/album/2LMpczTAWQqqK35la4mJcq) | 1:45 |
 
-Snapshot ID: `MTY3Nzg4ODA2MCwwMDAwMDAwMGI5ODY5MTA5NmU0ZDhkZGEwZmFjYWYzNmEwMTViMzI4`
+Snapshot ID: `MTY3Nzg4ODA2MCwwMDAwMDAwMDljMDU0M2U3MTljNWNjMmYzMWZhZDc1ZjU3ODZhZDA1`

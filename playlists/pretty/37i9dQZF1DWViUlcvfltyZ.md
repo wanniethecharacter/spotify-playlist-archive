@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. In cover, Giorgieness!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,208 likes - 59 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,221 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [VADO DI MATTO](https://open.spotify.com/track/6ENWZUAwZJBazFJqMu2wWq) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [VADO DI MATTO](https://open.spotify.com/album/0kUAowt4UlLQK2NSYZ9wXf) | 2:15 |
-| 2 | [Spaccio \(feat\. Fast Animals and Slow Kids\)](https://open.spotify.com/track/3QeGRIk6yOx6RRrXD2whlJ) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR), [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [in fieri](https://open.spotify.com/album/1PbpWl95wrYdqDXQjGzZfD) | 2:34 |
+| 2 | [Nudi + Crudi](https://open.spotify.com/track/4EXOAj9ra0lxWg8y6VZANO) | [ULTRANOIA](https://open.spotify.com/artist/6cGw5bSzyixem0tMv0k434) | [Nudi + Crudi](https://open.spotify.com/album/5OB8BVcoN0iuhpbq963zbS) | 2:38 |
 | 3 | [Eclissi](https://open.spotify.com/track/72HI1aZn1i1eoTpuVQtcKn) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Eclissi](https://open.spotify.com/album/2DZNZYc4ZanD5PrNlSsmuo) | 3:49 |
-| 4 | [Posso Tenerti Con Me](https://open.spotify.com/track/0SpalTBYUi9tZ66Ack8GcT) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU), [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Posso Tenerti Con Me](https://open.spotify.com/album/1yJSX28RfmbnlkCLD2gyfJ) | 3:09 |
-| 5 | [Dubbi](https://open.spotify.com/track/2wtWiOYLxZeWotEXMGqH56) | [Federico Dragogna](https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm) | [Dubbi](https://open.spotify.com/album/6omoVtfeupG4wYjvJGbmnK) | 2:21 |
-| 6 | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/album/0YFbYRdWVJ8bqvjOSZ1D2v) | 2:53 |
-| 7 | [Nudi + Crudi](https://open.spotify.com/track/4EXOAj9ra0lxWg8y6VZANO) | [ULTRANOIA](https://open.spotify.com/artist/6cGw5bSzyixem0tMv0k434) | [Nudi + Crudi](https://open.spotify.com/album/5OB8BVcoN0iuhpbq963zbS) | 2:38 |
-| 8 | [TRAGEDIA MODERNA](https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [TRAGEDIA MODERNA](https://open.spotify.com/album/2syk13vkvcOaq37g60JGGS) | 2:39 |
-| 9 | [Volpi](https://open.spotify.com/track/3OHRaBl0M2X5UWfgevbyVK) | [Ricche le Mura](https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB) | [Volpi](https://open.spotify.com/album/2ipqyNnq2rcaJqVoVMFkJB) | 3:40 |
+| 4 | [Volpi](https://open.spotify.com/track/3OHRaBl0M2X5UWfgevbyVK) | [Ricche le Mura](https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB) | [Volpi](https://open.spotify.com/album/2ipqyNnq2rcaJqVoVMFkJB) | 3:40 |
+| 5 | [Posso Tenerti Con Me](https://open.spotify.com/track/0SpalTBYUi9tZ66Ack8GcT) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU), [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Posso Tenerti Con Me](https://open.spotify.com/album/1yJSX28RfmbnlkCLD2gyfJ) | 3:09 |
+| 6 | [Dubbi](https://open.spotify.com/track/2wtWiOYLxZeWotEXMGqH56) | [Federico Dragogna](https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm) | [Dubbi](https://open.spotify.com/album/6omoVtfeupG4wYjvJGbmnK) | 2:21 |
+| 7 | [Spaccio \(feat\. Fast Animals and Slow Kids\)](https://open.spotify.com/track/3QeGRIk6yOx6RRrXD2whlJ) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR), [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [in fieri](https://open.spotify.com/album/1PbpWl95wrYdqDXQjGzZfD) | 2:34 |
+| 8 | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/album/0YFbYRdWVJ8bqvjOSZ1D2v) | 2:53 |
+| 9 | [TRAGEDIA MODERNA](https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [TRAGEDIA MODERNA](https://open.spotify.com/album/2syk13vkvcOaq37g60JGGS) | 2:39 |
 | 10 | [Come mi vuoi](https://open.spotify.com/track/50Q4NLN9n0p5XF3VObLq9T) | [Wepro](https://open.spotify.com/artist/3R3siKabWuT0KIC6JfruVp) | [Come mi vuoi](https://open.spotify.com/album/4FDhJ1zKCY51vAjCxNRSRX) | 3:02 |
-| 11 | [Preda](https://open.spotify.com/track/0atyKPRQkBohLByxwbAC2u) | [Solaris](https://open.spotify.com/artist/3RFeodZEt6cNZo0DPQMd4S) | [Preda](https://open.spotify.com/album/6WmM7P2msBOZaXLMtUpu1A) | 5:28 |
-| 12 | [Da questo momento in poi](https://open.spotify.com/track/5aMXkADzSKqZ5QGYWY9roY) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Da questo momento in poi](https://open.spotify.com/album/1ALi5lN60hGaXWXX6q7GmO) | 3:32 |
+| 11 | [Da questo momento in poi](https://open.spotify.com/track/5aMXkADzSKqZ5QGYWY9roY) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Da questo momento in poi](https://open.spotify.com/album/1ALi5lN60hGaXWXX6q7GmO) | 3:32 |
+| 12 | [Freddo Inverno](https://open.spotify.com/track/7qh7Vn7b8xANVrNHSOKaHg) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Freddo Inverno](https://open.spotify.com/album/3x4zhsXgv8pzod8dFC1nvB) | 3:44 |
 | 13 | [Schifo](https://open.spotify.com/track/7faEMnYmpiNWxQoGcIDIbf) | [Colla](https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6) | [Schifo](https://open.spotify.com/album/30eeeEsrnWFz8wDaP5DRm1) | 3:02 |
-| 14 | [TRANNE LA MIA](https://open.spotify.com/track/3Wpfd2r7ETAC33g4kxcQMm) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TRANNE LA MIA](https://open.spotify.com/album/11HIYudpkn92btFtYIFdTm) | 2:21 |
-| 15 | [Che benessere !? \(con NASKA\)](https://open.spotify.com/track/29wow7ReefY8giiopcBNGc) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM), [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Che benessere !? \(con NASKA\)](https://open.spotify.com/album/1SCO68v3VmuaIV4Ow9XlYx) | 3:51 |
-| 16 | [Open Access](https://open.spotify.com/track/4181R1o6hcVe8LMmGhkxWJ) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Open Access](https://open.spotify.com/album/4KFYFGfZewWABulugtQqSF) | 2:40 |
-| 17 | [Freddo Inverno](https://open.spotify.com/track/7qh7Vn7b8xANVrNHSOKaHg) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Freddo Inverno](https://open.spotify.com/album/3x4zhsXgv8pzod8dFC1nvB) | 3:44 |
+| 14 | [Preda](https://open.spotify.com/track/0atyKPRQkBohLByxwbAC2u) | [Solaris](https://open.spotify.com/artist/3RFeodZEt6cNZo0DPQMd4S) | [Preda](https://open.spotify.com/album/6WmM7P2msBOZaXLMtUpu1A) | 5:28 |
+| 15 | [TRANNE LA MIA](https://open.spotify.com/track/3Wpfd2r7ETAC33g4kxcQMm) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TRANNE LA MIA](https://open.spotify.com/album/11HIYudpkn92btFtYIFdTm) | 2:21 |
+| 16 | [Che benessere !? \(con NASKA\)](https://open.spotify.com/track/29wow7ReefY8giiopcBNGc) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM), [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Che benessere !? \(con NASKA\)](https://open.spotify.com/album/1SCO68v3VmuaIV4Ow9XlYx) | 3:51 |
+| 17 | [Open Access](https://open.spotify.com/track/4181R1o6hcVe8LMmGhkxWJ) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Open Access](https://open.spotify.com/album/4KFYFGfZewWABulugtQqSF) | 2:40 |
 | 18 | [The Helmet](https://open.spotify.com/track/3UhlUXB6PX98gJl4SYLdfM) | [Yonic South](https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg) | [Devo Challenge Cup](https://open.spotify.com/album/1bdOWTmAP6KfLK4YInXpW2) | 2:56 |
 | 19 | [ho sentito il tuo cuore](https://open.spotify.com/track/4TdtIFAJvvn7Hrg1DHkier) | [ciliegia suicidio](https://open.spotify.com/artist/4SEMUz1c0Z8kEc9E9NbnS3) | [i mostri col cazzo che si nascondono sotto alle lenzuola](https://open.spotify.com/album/7LCf7e9ejfOnOqAE7oFSvJ) | 2:11 |
 | 20 | [Figli dei fiori](https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Figli dei fiori](https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs) | 2:43 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 58 | [Storia di un bacio](https://open.spotify.com/track/06KPJCrNZmp1QwG0kJhyUe) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Dormi](https://open.spotify.com/album/0o43FP6kzT5GH7opmU9dCo) | 2:52 |
 | 59 | [FLOWER POWER](https://open.spotify.com/track/7AJ00s3H7TehVRdPN8ANou) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [FLOWER POWER](https://open.spotify.com/album/64R18cc1rLixwFQvTMKqLW) | 2:32 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDFlZjY1ZTUxOTI2ZTM3OWJhOWIxNGZkM2I0MGYzYzNm`
+Snapshot ID: `MTY3ODA5NjMwOCwwMDAwMDAwMGFlMmFkNWM3ODc5N2JhNzFlZTMxNDMwYjY3MGZjMWIz`

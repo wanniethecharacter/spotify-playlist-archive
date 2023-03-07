@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Uwa
 
-99 songs - 5 hr 0 min
+100 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Desire](https://open.spotify.com/track/38hOrmc7D0YqWZ2QYdxgK2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Desire](https://open.spotify.com/album/2QPzJrnYkpPBU4kCD15Hcw) | 3:24 | 2022-09-11 |  |
 | [Drunk](https://open.spotify.com/track/2rnvrDQFl4EkoK9ySEJFKG) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Drunk](https://open.spotify.com/album/6DESTJsBybhYK4ZQL82C7G) | 5:21 | 2022-12-16 |  |
 | [Easy!](https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Easy!](https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU) | 2:45 | 2022-07-30 |  |
-| [Efficient](https://open.spotify.com/track/2RFl6yLQk6qZNJ1if9LW7o) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Efficient](https://open.spotify.com/album/18HwWXrgptkhI2krmkHav2) | 2:44 | 2022-07-30 |  |
+| [Efficient](https://open.spotify.com/track/2RFl6yLQk6qZNJ1if9LW7o) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Efficient](https://open.spotify.com/album/18HwWXrgptkhI2krmkHav2) | 2:44 | 2022-07-30 | 2023-03-07 |
 | [Favor](https://open.spotify.com/track/62SfxrGZChnlj7JMgUj7X8) | [Soltune](https://open.spotify.com/artist/1PFwvjnnz3gPAAJvmhY9fq), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Favor](https://open.spotify.com/album/6X2gMqX3ExUhv24Z9v8X7D) | 3:14 | 2023-01-05 | 2023-01-23 |
 | [Feeling Good](https://open.spotify.com/track/1hjfRY5lZd5XYAVRgCg1g8) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Greg Cox](https://open.spotify.com/artist/0sSaM0P7mPCUyS7QE0HANt) | [Feeling Good](https://open.spotify.com/album/6sYCJnsF6Io91R5GOVlvFs) | 3:26 | 2022-12-16 |  |
 | [For Me](https://open.spotify.com/track/4PKCwcRW3GKzmVJT7tpu3h) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [For Me](https://open.spotify.com/album/7vVLq5Jzpqevd43tAIx4eA) | 3:21 | 2023-02-10 |  |
@@ -62,6 +62,7 @@
 | [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 | 2022-10-01 |  |
 | [Never Leave Me \- Amapiano Remix](https://open.spotify.com/track/0eh2R4p0kOY1UEvBSZYPsE) | [Sarah Téibo](https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT) | [Never Leave Me \(Amapiano Remix\)](https://open.spotify.com/album/77S0G5BQrMjwa9tUi7KosI) | 3:31 | 2022-12-16 |  |
 | [No Other](https://open.spotify.com/track/1QWpcivzYF7HeK9DzOxxiy) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Amanda Kono](https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7) | [No Other](https://open.spotify.com/album/08VFAkkeRqSiinFdQ83M7a) | 2:57 | 2022-07-30 | 2022-09-09 |
+| [No Other](https://open.spotify.com/track/4i1cAl9bCBnskqNgvsoynV) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Amanda Kono](https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7) | [No Other](https://open.spotify.com/album/2MLwfwU0owiSiuywucm4iN) | 2:57 | 2023-02-10 |  |
 | [No Other](https://open.spotify.com/track/78kOBQyMmJstTJDj0PS0l7) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Amanda Kono](https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7) | [No Other](https://open.spotify.com/album/76oS8RSrWRRUtwYfqx5bTC) | 2:57 | 2022-08-16 | 2023-03-02 |
 | [No Play](https://open.spotify.com/track/3LP9gtouosFKgwQw3KkrWb) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [No Play](https://open.spotify.com/album/3Op5W7Mf4IAD8jLEBynDeh) | 2:30 | 2022-07-30 | 2022-09-12 |
 | [No Stress](https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z) | [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn), [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl) | [No Stress](https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL) | 3:20 | 2022-10-01 |  |

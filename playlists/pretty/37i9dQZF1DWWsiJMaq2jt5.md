@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Roxie Węgiel
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,075 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,100 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Duo](https://open.spotify.com/track/1XDhmo20fwSFLa8OHDlBz8) | [Pepi](https://open.spotify.com/artist/3JbGY7nLMaWRrhhejWU4jK), [Steven](https://open.spotify.com/artist/4dBlLmecgiq7Xg2tZbfVp4) | [Duo](https://open.spotify.com/album/2cdprWfa0aR3S6S4VJ7pfU) | 2:10 |
 | 50 | [Poddaj Się](https://open.spotify.com/track/4Ncu4uKMQkf9mYA3NaLseZ) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [Poddaj Się](https://open.spotify.com/album/3jhYCRE0L23IseZYNx0iUM) | 3:57 |
 
-Snapshot ID: `MTY3NzYyNTIwMCwwMDAwMDAwMGQxMzQ3YjYzZDE3YzFiMDA1YmJkYTQwYWM4MzY1MzQ2`
+Snapshot ID: `MTY3ODA5MTU5OSwwMDAwMDAwMDAxNWE3MWMyZDBiZjE1MjQwY2Q3YzJmYWZiNDJjMGNh`

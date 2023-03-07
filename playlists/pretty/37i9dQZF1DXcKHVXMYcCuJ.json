@@ -1,15 +1,15 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 94045,
+  "num_followers": 94225,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUzNDA1OCwwMDAwMDAwMDE1MGIwNTFiNzllOGMzZmRmMWFkOWQxNmNjNjM4NThl",
+  "snapshot_id": "MTY3NzUzNDA1OCwwMDAwMDAwMDU0Njg2ODQxNDc0NjcxMTNhN2RjNjQxZGZmMmYyNjI5",
   "tracks": [
     {
-      "added_at": "2023-03-06 01:07:39",
+      "added_at": "2023-03-07 03:09:56",
       "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
     },
     {
-      "added_at": "2023-03-06 01:07:39",
-      "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "Abuse Me",
-      "url": "https://open.spotify.com/track/6lgsxp4M1RmnkivCqp6kPa"
-    },
-    {
       "added_at": "2023-02-27 20:55:38",
       "album": {
         "name": "Cheer",
@@ -583,6 +567,22 @@
       "duration_ms": 282121,
       "name": "Weed Pin",
       "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
+    },
+    {
+      "added_at": "2023-03-07 03:09:56",
+      "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 239893,
+      "name": "Abuse Me",
+      "url": "https://open.spotify.com/track/6lgsxp4M1RmnkivCqp6kPa"
     },
     {
       "added_at": "2023-02-27 20:55:38",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-02-27 20:55:38",
       "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "No Association",
-      "url": "https://open.spotify.com/track/0lrY8m1pYczjiup6f0HhoR"
-    },
-    {
-      "added_at": "2023-02-27 20:55:38",
-      "album": {
         "name": "spin",
         "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
       },
@@ -695,22 +679,6 @@
       "duration_ms": 203546,
       "name": "June",
       "url": "https://open.spotify.com/track/4ztx0lpE5Vx3yg7FereOtS"
-    },
-    {
-      "added_at": "2023-02-27 20:55:38",
-      "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 204975,
-      "name": "Vertigo Flowers",
-      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
     },
     {
       "added_at": "2023-02-27 20:55:38",
@@ -731,6 +699,22 @@
     {
       "added_at": "2023-02-27 20:55:38",
       "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 204975,
+      "name": "Vertigo Flowers",
+      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
+    },
+    {
+      "added_at": "2023-02-27 20:55:38",
+      "album": {
         "name": "All These Countless Nights",
         "url": "https://open.spotify.com/album/4LYAbf8kMPXzghMcS9SiYm"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 180111,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/154P8pqseR6k7BaMKffzeM"
+    },
+    {
+      "added_at": "2023-02-27 20:55:38",
+      "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "No Association",
+      "url": "https://open.spotify.com/track/0lrY8m1pYczjiup6f0HhoR"
     },
     {
       "added_at": "2023-02-27 20:55:38",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-02-27 20:55:38",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
-      },
-      "artists": [
-        {
-          "name": "Money",
-          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
-        }
-      ],
-      "duration_ms": 207620,
-      "name": "Fuct",
-      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
-    },
-    {
-      "added_at": "2023-02-27 20:55:38",
-      "album": {
         "name": "Whenever, If Ever",
         "url": "https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 341906,
       "name": "Heartbeat in the Brain",
       "url": "https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL"
+    },
+    {
+      "added_at": "2023-02-27 20:55:38",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
+      },
+      "artists": [
+        {
+          "name": "Money",
+          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
+        }
+      ],
+      "duration_ms": 207620,
+      "name": "Fuct",
+      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
     },
     {
       "added_at": "2023-02-27 20:55:38",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-02-27 20:55:38",
       "album": {
+        "name": "Jar",
+        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 309136,
+      "name": "Around The Railing",
+      "url": "https://open.spotify.com/track/2Fcz9olH3OgfFMj3auXTjA"
+    },
+    {
+      "added_at": "2023-02-27 20:55:38",
+      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2023-02-27 20:55:38",
       "album": {
-        "name": "Jar",
-        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
+        "name": "Workbook",
+        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
       },
       "artists": [
         {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+          "name": "Bob Mould",
+          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
         }
       ],
-      "duration_ms": 309136,
-      "name": "Around The Railing",
-      "url": "https://open.spotify.com/track/2Fcz9olH3OgfFMj3auXTjA"
+      "duration_ms": 212066,
+      "name": "See A Little Light",
+      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
     },
     {
       "added_at": "2023-02-27 20:55:38",
@@ -1495,22 +1511,6 @@
       "duration_ms": 186000,
       "name": "Misplaced",
       "url": "https://open.spotify.com/track/0fmbchkYzQHMQHRKJmX2uu"
-    },
-    {
-      "added_at": "2023-02-27 20:55:38",
-      "album": {
-        "name": "Workbook",
-        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
-      },
-      "artists": [
-        {
-          "name": "Bob Mould",
-          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "See A Little Light",
-      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
     },
     {
       "added_at": "2023-02-27 20:55:38",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-02-27 20:55:38",
       "album": {
+        "name": "Glorious Sunset",
+        "url": "https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Glorious Sunset",
+      "url": "https://open.spotify.com/track/30ThXCf6ARvmaA89SjmNZi"
+    },
+    {
+      "added_at": "2023-02-27 20:55:38",
+      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 198160,
       "name": "Used For Glue",
       "url": "https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH"
-    },
-    {
-      "added_at": "2023-02-27 20:55:38",
-      "album": {
-        "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Glorious Sunset",
-      "url": "https://open.spotify.com/track/30ThXCf6ARvmaA89SjmNZi"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

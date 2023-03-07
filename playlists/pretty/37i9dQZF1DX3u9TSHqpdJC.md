@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: SG5
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,741 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,803 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [Something New](https://open.spotify.com/track/1TWBsQA0pQqV5dPEu83yv9) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Something New](https://open.spotify.com/album/1F3OffAbOInLUHAmFYBCNY) | 2:46 |
 | 100 | [Modern Love](https://open.spotify.com/track/6f9RSJ9y9DfqdHcuOzg8fI) | [Sophie Griffiths](https://open.spotify.com/artist/1ScQHshsghfh1H0r7VXEEe) | [Modern Love](https://open.spotify.com/album/0FP823lJ58rnrgmZeM4D0E) | 2:24 |
 
-Snapshot ID: `MTY3NzY5MDAwMCwwMDAwMDAwMDZjYjdlYTYyZDc2NThlOThjN2FlYTQ5YWJlNmQ3MDEy`
+Snapshot ID: `MTY3NzY5MDAwMCwwMDAwMDAwMDcwNjY3Y2Y2M2MzYzUxNDk3NmM5YmUzZjhjNTVlNjM3`

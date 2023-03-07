@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Lojay \. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,995 likes - 140 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,075 likes - 140 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 139 | [If You Leave](https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [If You Leave](https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m) | 3:09 |
 | 140 | [Ride](https://open.spotify.com/track/4olvqOBWTo3avaGFdeJAic) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Ride](https://open.spotify.com/album/5JdNEDADKC0WVWCa0Gd3GC) | 2:53 |
 
-Snapshot ID: `MTY3NzgyMTcxNCwwMDAwMDAwMGFmYzFjZDk4ZTAxMzFhYzczYjZiZTY2NjFiYWRkZTA2`
+Snapshot ID: `MTY3NzgyMTcxNCwwMDAwMDAwMGMwYWJmYTk0ZGY2MDkxNWM5ZWExYjk3YjA4ODRmYTBk`

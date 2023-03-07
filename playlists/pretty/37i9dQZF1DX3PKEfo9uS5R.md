@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,284 likes - 112 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,339 likes - 112 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 111 | [Amalfi](https://open.spotify.com/track/19QYUIYkUEyIixnSbVej4W) | [Lagoa Verde](https://open.spotify.com/artist/2rj97Navn2jTJOZdsrwvWr) | [Amalfi](https://open.spotify.com/album/3GUtE7Dy2XpyOdg1V8uTuF) | 2:45 |
 | 112 | [On My Mind](https://open.spotify.com/track/0Hj0kGeZLDahlACb0Rp19P) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [On My Mind](https://open.spotify.com/album/4puVnK4L2kmdacIudsFgn3) | 3:14 |
 
-Snapshot ID: `MTY3Nzg2NTAyOCwwMDAwMDAwMGVjOTE3Yjc4ZmYzNmViMzYxN2JhYjEzZGUyMTk0M2Rh`
+Snapshot ID: `MTY3Nzg2NTAyOCwwMDAwMDAwMDdiNjA0YzJlZGIyNWNiMmEyMzA0YzAwYjQwNDYwNDZh`

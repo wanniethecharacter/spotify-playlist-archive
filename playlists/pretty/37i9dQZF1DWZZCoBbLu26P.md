@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.<br/>Cover: Bob The Drag Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,977 likes - 91 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,990 likes - 91 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 90 | [To the Moon \- Cast Version](https://open.spotify.com/track/5xzSubIQvRSH5ryDk6EhU1) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race UK](https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc) | [To the Moon \(Cast Version\)](https://open.spotify.com/album/7fMIVWlRIrPSe1H8ceFcaG) | 3:02 |
 | 91 | [Jungle Kitty](https://open.spotify.com/track/6aoIbBF71WGdWJhifeoi5V) | [Bebe Zahara Benet](https://open.spotify.com/artist/4d5CbyJTqjfFvn9ZgU5bEa) | [Jungle Kitty](https://open.spotify.com/album/6dgRWADx9TcH1osLAXWV90) | 3:05 |
 
-Snapshot ID: `MTY3NTk4NjUzNSwwMDAwMDAwMDEyM2E2NDgwNWEzOWEzODI4ZGZkZjlkMjc4M2UxZGM3`
+Snapshot ID: `MTY3NTk4NjUzNSwwMDAwMDAwMDNjM2Q5ODQ5OWFiZDk2OWE5ODhmNzU3YjRmMjMxZjg0`

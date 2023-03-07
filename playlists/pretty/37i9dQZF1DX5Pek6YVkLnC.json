@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Young Miko & Jovaan",
-  "num_followers": 226237,
+  "num_followers": 226242,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYyNDUwNCwwMDAwMDAwMDAwOWVmODk1NmU3ZTc0ZjViYTk0ZTZhMzliN2NlODNk",
+  "snapshot_id": "MTY3NjYyNDUwNCwwMDAwMDAwMDI1N2M3MTAzMGFiYjIwMWYxMTBjN2YxMWJhYzRlOGI0",
   "tracks": [
     {
       "added_at": "2023-02-17 09:01:44",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-17 09:01:44",
       "album": {
-        "name": "VVS",
-        "url": "https://open.spotify.com/album/22aX6gdTEGRsX7qJWSLEdf"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 164822,
-      "name": "VVS",
-      "url": "https://open.spotify.com/track/39ybYY9pRl1F2YZv1NdkmZ"
-    },
-    {
-      "added_at": "2023-02-17 09:01:44",
-      "album": {
         "name": "Amandita",
         "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 223469,
       "name": "Amandita",
       "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+    },
+    {
+      "added_at": "2023-02-17 09:01:44",
+      "album": {
+        "name": "VVS",
+        "url": "https://open.spotify.com/album/22aX6gdTEGRsX7qJWSLEdf"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 164822,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/39ybYY9pRl1F2YZv1NdkmZ"
     },
     {
       "added_at": "2023-02-17 09:01:44",
@@ -731,30 +731,6 @@
     {
       "added_at": "2023-02-17 09:01:44",
       "album": {
-        "name": "Los Palos",
-        "url": "https://open.spotify.com/album/7IIXEfoZCt2CTTqHbhF9E0"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 280204,
-      "name": "Los Palos",
-      "url": "https://open.spotify.com/track/4k6vZMg6TlrLyGHreUmsv1"
-    },
-    {
-      "added_at": "2023-02-17 09:01:44",
-      "album": {
         "name": "LOS DUE\u00d1OS DE LA CALLE",
         "url": "https://open.spotify.com/album/7icb0keRMS05h8wgPN94NG"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 224500,
       "name": "LOS DUE\u00d1OS DE LA CALLE",
       "url": "https://open.spotify.com/track/1aWiVOJDIKVW13w1earaQf"
+    },
+    {
+      "added_at": "2023-02-17 09:01:44",
+      "album": {
+        "name": "Los Palos",
+        "url": "https://open.spotify.com/album/7IIXEfoZCt2CTTqHbhF9E0"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 280204,
+      "name": "Los Palos",
+      "url": "https://open.spotify.com/track/4k6vZMg6TlrLyGHreUmsv1"
     },
     {
       "added_at": "2023-02-17 09:01:44",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-02-17 09:01:44",
       "album": {
+        "name": "Baby Schai",
+        "url": "https://open.spotify.com/album/2Wqz2QJ5XyofmG6xqWHAEa"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 190608,
+      "name": "Baby Schai",
+      "url": "https://open.spotify.com/track/1p01JS6Kpbwvizl2VXjkbZ"
+    },
+    {
+      "added_at": "2023-02-17 09:01:44",
+      "album": {
         "name": "BRUJULA",
         "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 216774,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/5DzljhZkcRzMEEeS9aiwfH"
-    },
-    {
-      "added_at": "2023-02-17 09:01:44",
-      "album": {
-        "name": "Baby Schai",
-        "url": "https://open.spotify.com/album/2Wqz2QJ5XyofmG6xqWHAEa"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 190608,
-      "name": "Baby Schai",
-      "url": "https://open.spotify.com/track/1p01JS6Kpbwvizl2VXjkbZ"
     },
     {
       "added_at": "2023-02-17 09:01:44",

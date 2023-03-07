@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Half Moon Run
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,371 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,465 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Colin](https://open.spotify.com/track/6QiWtxs1JaZqD0IONUOBst) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Colin](https://open.spotify.com/album/6CdBVQJ5x5Te4skZZjcPK7) | 3:39 |
 | 100 | [Until It's Gone](https://open.spotify.com/track/6cAp800doeJL8cAa8oE03C) | [Marcus Paquin](https://open.spotify.com/artist/6jyDCVeG7H5SZVdnRrDYdH) | [Our Love](https://open.spotify.com/album/5AuA42z5TeQDB0wXfYKF9L) | 3:43 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDliMmFiYzEwZWRkZGQ3NjNiODE1MzJkYjAzMDQ2NDFl`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDg0ZjYzN2JhMmI5NWZkNmUwNjc5YmVlZDYwYzNiOTBj`

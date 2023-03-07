@@ -4,10 +4,11 @@
 
 > Fourth quarter, two minutes left .\. get locked in
 
-451 songs - 22 hr 58 min
+452 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [0 To 100 / The Catch Up](https://open.spotify.com/track/4jtyUzZm9WLc2AdaJ1dso7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [0 To 100 / The Catch Up](https://open.spotify.com/album/5OkxLN5XaE9rLbgK2FuKBE) | 4:35 | 2023-03-07 |  |
 | [1.5](https://open.spotify.com/track/2wOXxtHZgRkkrkEbKLzzqs) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 2:28 | 2021-09-02 | 2022-06-25 |
 | [10 F\*CKS \(with Mansa\)](https://open.spotify.com/track/7DHNcoR73yUYCSn6PqBgkH) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Mansa](https://open.spotify.com/artist/09OSlbN2DUUOG9cbRWdWuT) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:49 | 2021-09-02 | 2022-06-25 |
 | [10 Freaky Girls \(with 21 Savage\)](https://open.spotify.com/track/0AluA5RNsa4Cx6XRhf2hWZ) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:28 | 2021-09-02 |  |

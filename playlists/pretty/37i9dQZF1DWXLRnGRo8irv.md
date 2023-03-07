@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: So!YoON! \(황소윤\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,072 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,086 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [without you \(feat\. 오창미\)](https://open.spotify.com/track/1duVXWnfilaXdUxtI3Z6y7) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [오창미](https://open.spotify.com/artist/28uMX21wblo5P8gkdOA7lr) | [without you](https://open.spotify.com/album/3sEV060UxECpyp1Vtk35Ld) | 3:30 |
 | 50 | [I mean \(feat\. 진새벽\)](https://open.spotify.com/track/5vgMTZxKtccOJugRVy1bHm) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [진새벽](https://open.spotify.com/artist/5eK12UfXuAWG1AGEgp4yqu) | [I mean](https://open.spotify.com/album/4Ewtz7NesUJHhd9JkWe5hs) | 3:40 |
 
-Snapshot ID: `MTY3NzU5NjQwMCwwMDAwMDAwMGJmODNhMGNhZjEzNzlhMTJhMWM4YTg4OTQ0NDE5ZTA2`
+Snapshot ID: `MTY3NzU5NjQwMCwwMDAwMDAwMDZiN2I4ODU1N2ZkODk4NDdlYTcwMmI0N2ZkYzUwZmJm`

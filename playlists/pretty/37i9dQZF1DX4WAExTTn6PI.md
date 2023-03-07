@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Bella White
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,389 likes - 105 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,424 likes - 105 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 104 | [Jack of Fools](https://open.spotify.com/track/2K3tyFoVNYUwIjwHqmsB5W) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/61RWLc1ytbWD3XRHbGWkIw) | 4:48 |
 | 105 | [Further Away \- Acoustic](https://open.spotify.com/track/11nyQyvVojrSOutyVtaNF3) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj), [Brit Taylor](https://open.spotify.com/artist/5602llJ8wtfS1YSbwSNraO) | [Further Away \(Acoustic\)](https://open.spotify.com/album/51KArM9lLuMna0nFzWz2Wy) | 3:56 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGY3ZWU2YjQ1MWU4MmQ4YTllNmJjNWUzNTEyYTFiYzk4`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGJmOTcyNTQ5Mjc4Y2VjMmU1ZWQ2MDUyNTFmYTY0MWFl`

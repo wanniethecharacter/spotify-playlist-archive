@@ -4,7 +4,7 @@
 
 > Co\-curated by a number of our ambassadors for International Women’s Day\. Cover: Jamala.
 
-1,050 songs - 2 day 10 hr 6 min
+1,051 songs - 2 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,7 +601,7 @@
 | [Nicht allein](https://open.spotify.com/track/0gocDi3YsNnoRqq7h0phrO) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Nicht allein](https://open.spotify.com/album/2yBf4nxTUP8l12Hy7fG3u1) | 2:23 | 2022-02-02 | 2022-02-10 |
 | [Niebo było różowe](https://open.spotify.com/track/60KK0iXcaShxA55KXy1WcF) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Niebo było różowe](https://open.spotify.com/album/361lqwHWr1wDsFvp8AgP9s) | 4:14 | 2021-12-11 | 2022-01-06 |
 | [Nioneshe \(feat\. Alikiba\)](https://open.spotify.com/track/6oLjaEGYQzinmglh4IwqIt) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Cinema](https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK) | 3:32 | 2022-06-01 | 2022-07-07 |
-| [Nipple To The Bottle](https://open.spotify.com/track/0DhpUlPutqrpTPnu5qNeSc) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Living My Life](https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC) | 5:57 | 2023-03-01 |  |
+| [Nipple To The Bottle](https://open.spotify.com/track/0DhpUlPutqrpTPnu5qNeSc) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Living My Life](https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC) | 5:57 | 2023-03-01 | 2023-03-07 |
 | [Nisila/Ako Naman Muna](https://open.spotify.com/track/22fybZX41douwz8eQCJTz0) | [CLR](https://open.spotify.com/artist/6vCnF48qqPHgVMBEvcbgkU), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Nisila/Ako Naman Muna](https://open.spotify.com/album/2Yw6rPt0WMLI3Wz3ZbdpEi) | 4:16 | 2022-01-05 | 2022-02-03 |
 | [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 | 2022-07-06 | 2022-08-04 |
 | [No Fool](https://open.spotify.com/track/1HZQxsJHV5cZmSBZBDuhXH) | [Grace](https://open.spotify.com/artist/3GKpXtb9Zb3QvDg9uzNi98) | [No Fool](https://open.spotify.com/album/6RPCehQmjAX0JRR6z9oAyW) | 2:24 | 2022-08-03 | 2022-09-09 |
@@ -686,6 +686,7 @@
 | [Play](https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [\[REC.\]](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) | 3:21 | 2022-02-02 | 2022-03-09 |
 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 | 2022-09-07 | 2022-10-05 |
 | [Por Que Se Fue la Paloma](https://open.spotify.com/track/7MfqQD9POKCfuxn5GxEO7Y) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Por Que Se Fue la Paloma](https://open.spotify.com/album/3TW1yBSvYhoFflREstW8Cd) | 4:03 | 2022-06-01 | 2022-07-07 |
+| [Praias desertas](https://open.spotify.com/track/7gZ23X1e0zDNTZ8Z8UAvcu) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Portuguesa](https://open.spotify.com/album/3YYC6lQ2PV71ncQrJbV1HE) | 4:00 | 2023-03-05 |  |
 | [Pressure](https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Pressure](https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU) | 2:36 | 2022-03-08 | 2022-04-07 |
 | [Pressurized](https://open.spotify.com/track/1SmlpzSJLpt3puZ9Zv3zTo) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Pressurized](https://open.spotify.com/album/1PiYQn2LWd1S5EFZhCNqOe) | 2:16 | 2022-02-02 | 2022-03-09 |
 | [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 | 2023-01-04 |  |

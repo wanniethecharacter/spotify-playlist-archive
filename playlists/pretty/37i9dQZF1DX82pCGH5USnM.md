@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,682,020 likes - 302 songs - 14 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,682,133 likes - 302 songs - 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -311,4 +311,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 301 | [Seadrift](https://open.spotify.com/track/3L3Zugtoy4iSpky2oiOjDI) | [Joshua Kimiko](https://open.spotify.com/artist/0rseV1mtdhrtR6FEHuvOIm) | [Seadrift](https://open.spotify.com/album/6EQYRA1zDcrhK0N9faGKbe) | 2:46 |
 | 302 | [Beautiful Mistakes](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z) | [Maurice Mills](https://open.spotify.com/artist/0ZcVnAa1FuqddOKuw0Ok6Q) | [Beautiful Mistakes](https://open.spotify.com/album/54b551w06UPS9Bt1a4yl6E) | 2:03 |
 
-Snapshot ID: `MTY3Nzg2Mzg1NCwwMDAwMDAwMDEwMTc4MDFhMjJmYTQ1ZWEyMGE3MjM0M2Y5MzljMWZi`
+Snapshot ID: `MTY3Nzg2Mzg1NCwwMDAwMDAwMGRkY2VmNTA1M2RjZTE0OTE0MmRiMTkzMDcwYjIwYzMx`

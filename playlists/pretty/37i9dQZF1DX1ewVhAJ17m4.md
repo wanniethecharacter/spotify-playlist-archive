@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Stand Atlantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,592 likes - 86 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,717 likes - 86 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 85 | [Unstoppable](https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Unstoppable](https://open.spotify.com/album/2wJWPmjFjIAu4z8SlQkHjt) | 3:05 |
 | 86 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 |
 
-Snapshot ID: `MTY3Nzc2NjU5MywwMDAwMDAwMDA2NWM2ZWYwYTU1ODA1NDM4YzNjNjUwOWZmNThmMmU2`
+Snapshot ID: `MTY3Nzc2NjU5MywwMDAwMDAwMGIzMjE4YzY5NTdhNDQ3OTk2ZDIwNzE0ZDBlNjY1YTgy`

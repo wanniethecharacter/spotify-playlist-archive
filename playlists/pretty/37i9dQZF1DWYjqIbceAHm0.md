@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 
 > Meet the soundtrack and exclusive unreleased videos of JTBC's global idol audition 'Peak Time'! \(JTBC의 글로벌 아이돌 오디션 '피크타임'의 사운드 트랙과 독점 미공개 영상들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,392 likes - 16 songs - 42 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 6,461 likes - 16 songs - 42 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 | 15 | [Never Ever](https://open.spotify.com/track/54yalx0ONuGj0mMyBNZxhm) | [TEAM 14:00](https://open.spotify.com/artist/2a48RPt8sy9kUQx54MPTd1) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:47 |
 | 16 | [Beautiful](https://open.spotify.com/track/3oTqTIaSQw1A7pPabZLwtw) | [TEAM 15:00](https://open.spotify.com/artist/44qUs2UwzLHgKPkC8rsSdn) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:39 |
 
-Snapshot ID: `MTY3NzEzMTUzNiwwMDAwMDAwMDkxNjA3ZWRhOWRkMWM0ZGZiODQwY2U5MDBlNzY0OGRh`
+Snapshot ID: `MTY3NzEzMTUzNiwwMDAwMDAwMGZlNWQ5MjE3YzM0M2Q4Y2FlMjZmODM3ZDI0ODkyMzcw`

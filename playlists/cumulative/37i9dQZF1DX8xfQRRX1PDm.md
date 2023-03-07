@@ -2,7 +2,7 @@
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Best of Bollywood dance from last 10 years\. Cover \- Bhediya
+> Best of Bollywood dance from last 10 years\. Cover \- Kriti Sanon
 
 174 songs - 10 hr 25 min
 

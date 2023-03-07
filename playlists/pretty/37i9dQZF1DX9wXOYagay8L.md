@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=Jxo12rkVRJmeBp\-BEV8i6g">Bongeziwe Mabandla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,420 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,491 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Jabula](https://open.spotify.com/track/5e2vMDSGRmgjPEfJxOE2C2) | [Thalie MaMbooica](https://open.spotify.com/artist/4QDUrDd9oDGPYb7Rgl8fy7) | [Jabula](https://open.spotify.com/album/1PByTxEEJePPHAhWmXGaIS) | 3:19 |
 | 50 | [Byala](https://open.spotify.com/track/4hmJCqRxK1mzvc8EKyTykO) | [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [Byala](https://open.spotify.com/album/6IzPFY46mM8rSY9R2b4uu8) | 5:28 |
 
-Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMDBmZGNlMWI5MmI5ZTY4OTEwZDVmMjljMzU4NGIwZGMz`
+Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMGFiZjE2OWExYThmNTg2YTk2NTg3NGQ1NDk1MGJhODRi`

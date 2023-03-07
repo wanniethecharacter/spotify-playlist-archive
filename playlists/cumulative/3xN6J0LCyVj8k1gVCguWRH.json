@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "ADDICTED",
+        "url": "https://open.spotify.com/album/1GyprbGBubIOIaMvClhFEt"
+      },
+      "artists": [
+        {
+          "name": "MADNIK",
+          "url": "https://open.spotify.com/artist/6Z0ZpfsNLeVU7c88gBa62V"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198602,
+      "name": "ADDICTED",
+      "url": "https://open.spotify.com/track/4jVEHJXqOgXXwZDv0idl5d"
+    },
+    {
+      "album": {
         "name": "Kris James",
         "url": "https://open.spotify.com/album/4kSYwT6XJPQHMKmey578XS"
       },

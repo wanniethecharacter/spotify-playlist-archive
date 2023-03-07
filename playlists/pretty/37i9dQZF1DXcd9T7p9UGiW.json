@@ -1,12 +1,12 @@
 {
   "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl?si=BviskDqxQW-iSertWWgiVA\"> Kuami Eugene</a>  and  <a href=\"https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf?si=mhjY-We8Rhe89DSFpam0KA\"> Rotimi</a>  ",
-  "num_followers": 10982,
+  "num_followers": 11006,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyOTg1MCwwMDAwMDAwMGM2MWQ4ZTdhODY2YTUzYzA4N2MyMzkxYmVhZDM4NmQ4",
+  "snapshot_id": "MTY3NzgyOTg1MCwwMDAwMDAwMGQ4MjE4YjU1OGRkMzk5MWFiM2ZjNjk2NWU4ZjJiNDRi",
   "tracks": [
     {
       "added_at": "2023-03-03 07:50:50",
@@ -298,6 +298,10 @@
         {
           "name": "Kelly Rowland",
           "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Loud Urban Choir",
+          "url": "https://open.spotify.com/artist/70XlHZiSwP7V4WiOi0sm3z"
         }
       ],
       "duration_ms": 189000,

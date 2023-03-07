@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: 1tbsp
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,508 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,517 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 74 | [Without You](https://open.spotify.com/track/6zvutAcF7S2uJyNWVYeyk8) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Without You](https://open.spotify.com/album/5HzikeJkDjre6mvkabWM1g) | 3:17 |
 | 75 | [The Rite Time \- Radio Edit](https://open.spotify.com/track/1FD1QJDanGbIvlzISHezws) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/0ieNOineZMrDVzWV9iLPYC) | 3:49 |
 
-Snapshot ID: `MTY3Nzc2MjAwMCwwMDAwMDAwMGJkNmQ0Zjg4ZDFhZmE4OTM1ZWJlNDU2NWM5Njk1MDY1`
+Snapshot ID: `MTY3Nzc2MjAwMCwwMDAwMDAwMDExMjhiMTY3YzdmYzk3Yjc3NmI0MjZiMjE1ODkwOWM1`

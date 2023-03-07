@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Dijon
 
-1,905 songs - 4 day 11 hr 9 min
+1,906 songs - 4 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,6 +753,7 @@
 | [HEATING ROCKS](https://open.spotify.com/track/3mL1frnTR0o83A3viBbIX8) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:51 | 2022-03-04 | 2022-05-28 |
 | [Heaven](https://open.spotify.com/track/5RMe2tA7RRyWP3cb3upPLd) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [R&B?](https://open.spotify.com/album/1OTZupPjEaLRA8mbO4qvKz) | 2:59 | 2021-12-17 | 2022-04-09 |
 | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly) | 2:18 | 2023-03-03 |  |
+| [Heaven Surrounds Us Like a Hood](https://open.spotify.com/track/3nEGqUkkHyrDE9od2Uh2FM) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven Surrounds Us Like a Hood](https://open.spotify.com/album/5t7N8dFT1XvMnDekrjfHkb) | 4:06 | 2023-03-06 |  |
 | [Heck](https://open.spotify.com/track/3cM9mZM59JS4KWmypstz3Z) | [Nathan Bajar](https://open.spotify.com/artist/0daIfyaenO89T2oFsr2vqc) | [Playroom](https://open.spotify.com/album/5WJEkg1Vu7perRsmpYQ8Cq) | 1:59 | 2019-07-30\* | 2019-09-20 |
 | [Helen](https://open.spotify.com/track/6J4gaubSjwTGrtCkXKs91T) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Helen](https://open.spotify.com/album/38SJkjc2r7EQGdBaTRCBu0) | 2:37 | 2020-03-27 | 2020-06-29 |
 | [Hell Bound \- Ad 01](https://open.spotify.com/track/6tTy7jzu0pDDn6bE5NaaEJ) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Hell Bound \(Ad 01\)](https://open.spotify.com/album/1bSClsUZiaNRzifTz0YMu9) | 2:11 | 2019-12-21 | 2020-04-24 |

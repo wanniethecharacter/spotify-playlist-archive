@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: Doechii",
-  "num_followers": 923391,
+  "num_followers": 923418,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDkyMzgxNzZhOGI0ZDMyY2QxN2FkZWEwMDM4ZDgwMTFh",
+  "snapshot_id": "MTY3ODE0MTE0MSwwMDAwMDAwMGExNDQ1YWJkMzhjMDE0NmJjYzBlYjQ3YzgxZWE0NDhl",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -91,6 +91,34 @@
       "duration_ms": 183687,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD"
+    },
+    {
+      "added_at": "2023-03-06 22:19:01",
+      "album": {
+        "name": "Creed III: The Soundtrack",
+        "url": "https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "In The Room (with JID, Tierra Whack & BJ The Chicago Kid)",
+      "url": "https://open.spotify.com/track/22hdnPB5hmyzOJLQQrcDSS"
     },
     {
       "added_at": "2023-03-03 05:00:00",

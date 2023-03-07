@@ -1,12 +1,12 @@
 {
   "description": "Escucha la selecci\u00f3n que Se\u00f1oras Punk hicieron para Mam\u00e1 Cool. \ud83e\udd18\ud83c\udffc\ud83d\udda4",
-  "num_followers": 312727,
+  "num_followers": 312790,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjkxNzA5MiwwMDAwMDAwMDZkZjdhNzYxZGVjNTEwZWFmY2E4NGMyZDdiOWFiODhk",
+  "snapshot_id": "MTY3NjkxNzA5MiwwMDAwMDAwMDk5OGU1Y2I1NDY3ZjVkODkxNDNhZjM3NTMxZjYzMTAx",
   "tracks": [
     {
       "added_at": "2023-02-20 18:18:12",
@@ -231,26 +231,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Lose You (feat. Soccer Mommy)",
-        "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
-      },
-      "artists": [
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        },
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Lose You (feat. Soccer Mommy)",
-      "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Lose You (feat. Soccer Mommy)",
+        "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        },
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "Lose You (feat. Soccer Mommy)",
+      "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 219480,
+      "name": "I Feel It All",
+      "url": "https://open.spotify.com/track/3ghgwo0BTPm329zGMQRfn7"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "The Woods",
         "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
       },
@@ -643,6 +659,22 @@
       "duration_ms": 181453,
       "name": "Modern Girl",
       "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 225632,
+      "name": "Before You Gotta Go",
+      "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -663,38 +695,6 @@
       "duration_ms": 189782,
       "name": "Qu\u00e9 Maldici\u00f3n",
       "url": "https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 219480,
-      "name": "I Feel It All",
-      "url": "https://open.spotify.com/track/3ghgwo0BTPm329zGMQRfn7"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Things Take Time, Take Time",
-        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 225632,
-      "name": "Before You Gotta Go",
-      "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -779,6 +779,26 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "Lotta Sea Lice",
+        "url": "https://open.spotify.com/album/6Va3brVieuLkZIjJYf3orN"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        },
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 379853,
+      "name": "Over Everything",
+      "url": "https://open.spotify.com/track/72EIWFWM88oEnIgxQEoqQz"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "Querer Querer",
         "url": "https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh"
       },
@@ -847,22 +867,18 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Lotta Sea Lice",
-        "url": "https://open.spotify.com/album/6Va3brVieuLkZIjJYf3orN"
+        "name": "He Gets Me High",
+        "url": "https://open.spotify.com/album/58LM8VscXpnW3ChqnrJ1a5"
       },
       "artists": [
         {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        },
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+          "name": "Dum Dum Girls",
+          "url": "https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS"
         }
       ],
-      "duration_ms": 379853,
-      "name": "Over Everything",
-      "url": "https://open.spotify.com/track/72EIWFWM88oEnIgxQEoqQz"
+      "duration_ms": 255826,
+      "name": "There Is a Light That Never Goes Out",
+      "url": "https://open.spotify.com/track/7pz7gsTrhqHnYMJHhTUaqf"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -883,22 +899,6 @@
       "duration_ms": 212693,
       "name": "\u00bfY C\u00f3mo?",
       "url": "https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "He Gets Me High",
-        "url": "https://open.spotify.com/album/58LM8VscXpnW3ChqnrJ1a5"
-      },
-      "artists": [
-        {
-          "name": "Dum Dum Girls",
-          "url": "https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "There Is a Light That Never Goes Out",
-      "url": "https://open.spotify.com/track/7pz7gsTrhqHnYMJHhTUaqf"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Electric Version",
-        "url": "https://open.spotify.com/album/1OS4Dzrs6o778JUf8tnlCz"
-      },
-      "artists": [
-        {
-          "name": "The New Pornographers",
-          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "The Laws Have Changed",
-      "url": "https://open.spotify.com/track/0mgAzpg1dOmr2meovmlBwp"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Pod",
         "url": "https://open.spotify.com/album/0xx56m5AMEIMZlSjdJwxf5"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 141866,
       "name": "Hellbound",
       "url": "https://open.spotify.com/track/2Tx3e4tOlmiTs6mTa9aIdz"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Electric Version",
+        "url": "https://open.spotify.com/album/1OS4Dzrs6o778JUf8tnlCz"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "The Laws Have Changed",
+      "url": "https://open.spotify.com/track/0mgAzpg1dOmr2meovmlBwp"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "La Sera",
-        "url": "https://open.spotify.com/album/1odmFE7bGktpIRAiunqEUS"
-      },
-      "artists": [
-        {
-          "name": "La Sera",
-          "url": "https://open.spotify.com/artist/3zsjvhvKAuD6GY7i1R5zER"
-        }
-      ],
-      "duration_ms": 122146,
-      "name": "Never Come Around",
-      "url": "https://open.spotify.com/track/2pPO4hUnx33EcngI0teFDZ"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Totally Crushed Out",
         "url": "https://open.spotify.com/album/7iOZmlcwEiP2oTCveIcLwW"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 145733,
       "name": "Ms. Wrong",
       "url": "https://open.spotify.com/track/3xTpY0ZNad6RLINR9gCgQT"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "La Sera",
+        "url": "https://open.spotify.com/album/1odmFE7bGktpIRAiunqEUS"
+      },
+      "artists": [
+        {
+          "name": "La Sera",
+          "url": "https://open.spotify.com/artist/3zsjvhvKAuD6GY7i1R5zER"
+        }
+      ],
+      "duration_ms": 122146,
+      "name": "Never Come Around",
+      "url": "https://open.spotify.com/track/2pPO4hUnx33EcngI0teFDZ"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "Pink is the Colour of Unconditional Love",
+        "url": "https://open.spotify.com/album/4ugFepbosq35f1RvtOLdjU"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Cohen",
+          "url": "https://open.spotify.com/artist/1akKMgG2tm6Wgx83VmBSMy"
+        }
+      ],
+      "duration_ms": 249358,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1qakUMRZyh8Y1IrioSOZbU"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "Comatised",
         "url": "https://open.spotify.com/album/0m7GzodmVBjFbLdzgHtBet"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 193080,
       "name": "La Loose",
       "url": "https://open.spotify.com/track/3Wiat6aC9Ib3LFJnfeQOlt"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Pink is the Colour of Unconditional Love",
-        "url": "https://open.spotify.com/album/4ugFepbosq35f1RvtOLdjU"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Cohen",
-          "url": "https://open.spotify.com/artist/1akKMgG2tm6Wgx83VmBSMy"
-        }
-      ],
-      "duration_ms": 249358,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1qakUMRZyh8Y1IrioSOZbU"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Sue\u00f1o Electrico",
-        "url": "https://open.spotify.com/album/398gt7uSHxtdIq9IyYpIGO"
-      },
-      "artists": [
-        {
-          "name": "Riel",
-          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
-        }
-      ],
-      "duration_ms": 133177,
-      "name": "Vertiginosamente",
-      "url": "https://open.spotify.com/track/2FnuhhGFR1xa2JyHWL4WAs"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "The New Romance",
         "url": "https://open.spotify.com/album/0eMdX2PZS5iMStFJuzbdgk"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 223960,
       "name": "This Is Our Emergency",
       "url": "https://open.spotify.com/track/0A3lCPgHitALWZwYx85ZvE"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Sue\u00f1o Electrico",
+        "url": "https://open.spotify.com/album/398gt7uSHxtdIq9IyYpIGO"
+      },
+      "artists": [
+        {
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
+        }
+      ],
+      "duration_ms": 133177,
+      "name": "Vertiginosamente",
+      "url": "https://open.spotify.com/track/2FnuhhGFR1xa2JyHWL4WAs"
     },
     {
       "added_at": "2023-02-20 18:18:12",

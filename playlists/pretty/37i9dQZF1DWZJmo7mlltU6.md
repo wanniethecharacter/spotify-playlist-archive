@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: BoyWithUke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,264 likes - 106 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,539 likes - 106 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 105 | [Último Adiós](https://open.spotify.com/track/7lBhTIVEhFmuptaX7Cs1vD) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf), [Baltazar Clusellas](https://open.spotify.com/artist/37hRvfW8T7lfdU7XdpZ6nX) | [Último Adiós](https://open.spotify.com/album/3NypapKHKGVY92ONbBSy3M) | 3:57 |
 | 106 | [Home to Me](https://open.spotify.com/track/1WY8mEupCbjNIZp4q3jmhk) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Home to Me](https://open.spotify.com/album/1oXsApyn1b19ACBW7NkY11) | 2:43 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDdhZWI0YTJkZTRlZDMwYmRlZjkzMmZhYzhmMmMxYzQx`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDY2NjYzYjA0OGM2ZmYwMjk4ZDE2MzdlM2ZlNTkyMGZi`

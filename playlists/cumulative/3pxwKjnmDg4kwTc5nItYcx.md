@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-663 songs - 1 day 11 hr 46 min
+664 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Night Crawls](https://open.spotify.com/track/4J36A69pQBk0LQ7DWQTbAD) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [Night Crawls](https://open.spotify.com/album/382wpIAZi3e5m7oWuggBfw) | 3:46 | 2022-05-06 |  |
 | [Nightmare](https://open.spotify.com/track/0jFRhkOuxKuSiXCgr40jdE) | [Sloan Peterson](https://open.spotify.com/artist/6opB1rIN0KzlWbK5ZlHz61) | [Nightmare](https://open.spotify.com/album/1DJynIZMk0xKoqGy2MEc8D) | 2:46 | 2020-10-23 |  |
 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/7e4KQkp5ZR1gXCAalRjX6B) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/26g9o6rTzxnnrD2VNefpye) | 3:21 | 2019-08-27\* | 2019-11-11 |
+| [NO BAD DAYS \(feat\. Collett\)](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Collett](https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9) | [BEN](https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS) | 2:53 | 2023-03-06 |  |
 | [No Cryin \(feat\. Future\)](https://open.spotify.com/track/6P0Ki6KDNiCo03buu3fYGt) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Cryin \(feat\. Future\)](https://open.spotify.com/album/2Dav5M9HCbEhCWp6Rn4BKz) | 3:24 | 2019-11-01 | 2021-05-12 |
 | [No Fears \(feat\. Wretch 32\)](https://open.spotify.com/track/4GxAN3yX09xAulYecL53us) | [169](https://open.spotify.com/artist/39YXk0KLGQwWNHIAkrQngR), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [No Fears \(feat\. Wretch 32\)](https://open.spotify.com/album/0cZIOQKwbIoxFlRdzaEVdT) | 3:07 | 2019-11-18 | 2020-02-12 |
 | [no song without you](https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa) | 2:41 | 2020-06-12 | 2021-05-12 |

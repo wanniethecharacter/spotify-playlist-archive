@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,797 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,829 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Barbie](https://open.spotify.com/track/5wwIUZVGc2ypBa6Z717HHh) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Barbie](https://open.spotify.com/album/6lkmWmRKFbC8LZlC7RxoIl) | 2:41 |
 | 80 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGY5ZDEzNjBhNmVjMjU0YmNmZDk2YmE1ZjE1MTYwN2Y4`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDNiYWRkNzkwY2FlNjRiYWU5MjIzYzhmNTZmODkyZTlk`

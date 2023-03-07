@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-241 songs - 13 hr 17 min
+242 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Just Enough](https://open.spotify.com/track/6O7EqSCpQTiU8GECX1KDIA) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Dark Skies & Holy Grail](https://open.spotify.com/album/3gMbIi1OkJnQZiKhHs1QTO) | 3:49 | 2021-11-19 | 2022-02-02 |
 | [Kaleidoscope \(Feat\. Crystalline\)](https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI) | [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f), [Crystalline](https://open.spotify.com/artist/4NRLMX0IRHkm2qI1WFLxHZ) | [Starman](https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z) | 3:31 | 2022-02-01 |  |
 | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW) | 3:18 | 2022-11-11 |  |
+| [Kindred](https://open.spotify.com/track/7a9XJvHtk48KWlbXoFST5e) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd) | [Kindred](https://open.spotify.com/album/18utaWOKDrEGnQBsj1PWTE) | 3:37 | 2023-03-03 |  |
 | [Kings](https://open.spotify.com/track/6X38QEOERzDXI5HPvwAJw7) | [Bailo](https://open.spotify.com/artist/3oLbNoZxAYO4KsXmx6PjTC), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Kings](https://open.spotify.com/album/2FBcJivmFru1auQqyrSKwl) | 2:34 | 2021-11-19 | 2022-02-02 |
 | [Let You Go](https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Go](https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ) | 3:21 | 2022-11-28 |  |
 | [Light](https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [Light](https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H) | 3:59 | 2022-02-01 |  |
@@ -169,7 +170,7 @@
 | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H) | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J) | 2:40 | 2021-11-19 | 2022-02-02 |
 | [NO TOMORROW](https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [NO TOMORROW](https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr) | 2:54 | 2022-07-14 |  |
 | [NO TOMORROW](https://open.spotify.com/track/0dLHJRrBKfLM3OwLHvrmEd) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [NO TOMORROW](https://open.spotify.com/album/4v7TAHvOlgbPlwojDlcyi3) | 2:54 | 2021-11-19 | 2022-07-29 |
-| [Nothing Less](https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo) | [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [futura](https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND) | 3:26 | 2021-11-19 |  |
+| [Nothing Less](https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo) | [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [futura](https://open.spotify.com/album/49kOKHWAnwopvnfKvRodND) | 3:26 | 2021-11-19 | 2023-03-07 |
 | [O.G.](https://open.spotify.com/track/0mSpqNpgwwLvVGNuRpuFVL) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [O.G.](https://open.spotify.com/album/6eOqfgcrRtd1ty07lMi0zv) | 2:50 | 2022-07-14 | 2023-03-05 |
 | [Oblivion](https://open.spotify.com/track/1YbYFYLlJvqcuEnawPyxlD) | [Calli Boom](https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8) | [Oblivion](https://open.spotify.com/album/4ePrBbPSL2DoSyjqfH4aKX) | 2:55 | 2021-11-19 | 2022-01-24 |
 | [Octavia](https://open.spotify.com/track/5jvIE049KDxFEGJdbKOA7Q) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Octavia](https://open.spotify.com/album/7pLF40nSHudOnKd0i4m30m) | 3:30 | 2021-11-19 | 2022-02-02 |

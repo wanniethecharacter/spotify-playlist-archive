@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 
 > From across the globe\. New Songwriters on the horizon\. Cover: <a href="spotify:playlist:37i9dQZF1EFNQOtgvYf8sH">Matt Schaeffer</a>, <a href="spotify:playlist:37i9dQZF1EFPfGQQdiNNNO">Jake Kosich</a> and <a href="spotify:playlist:37i9dQZF1EFyBQlHaB2TvT">Johnny Kosich</a> of Beach Noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,283 likes - 35 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285 likes - 35 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 | 34 | [Things You Said](https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy) | 3:23 |
 | 35 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
 
-Snapshot ID: `MTY3NzY5MDEwNSwwMDAwMDAwMDMzYWU3MDc0NWNkM2FhZGZlNDAxNDhjZjhlZjk2NDAx`
+Snapshot ID: `MTY3NzY5MDEwNSwwMDAwMDAwMDk4ZjY0NzdkYzY5MGYzNjE5ODI3OWZmMDU0MmEwOWM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 
 > Meet the lineup of HIPHOPPLAYA FESTIVAL 2022, the largest outdoor hip\-hop festival in Korea! \(한국 최대 규모의 야외 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2022의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,041 likes - 74 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,063 likes - 74 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 | 73 | [J2B](https://open.spotify.com/track/60Gr8uHBBIQyRSVBVDFYOv) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Dingo X DAMOIM Pt\. 3](https://open.spotify.com/album/3DWCLOaIxaO5n3gIwPporl) | 4:35 |
 | 74 | [RUN DAMOIM](https://open.spotify.com/track/69tNPP4pKkRmXGqFAMxlyE) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Dingo X DAMOIM Pt\. 4](https://open.spotify.com/album/7rx1WSSYwxyUkH30KbqftE) | 3:51 |
 
-Snapshot ID: `MTY2Mzc0NDEwMCwwMDAwMDAwMDMyZWQ0NzUyNjVkZTc1ZjA5ODAyZWJhNWE4MGRjYTYz`
+Snapshot ID: `MTY2Mzc0NDEwMCwwMDAwMDAwMGJiNjQ4ZGQxYWIyMTY3YTBhNDg0YmQzMmEyODI1M2U4`

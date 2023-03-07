@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > 🎸 canzoni da gridare e in cover nessa barrett 🎸
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,528 likes - 77 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,541 likes - 77 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 76 | [Ma non erano te](https://open.spotify.com/track/0B1LI7BXzvtxDVdpyxCWKb) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Ma non erano te](https://open.spotify.com/album/2XaVVwShBDQsoF20aHYGFM) | 2:33 |
 | 77 | [BENE DA SOLA](https://open.spotify.com/track/1awWd0CV6H0cm5NnZ0FAI0) | [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [BENE DA SOLA](https://open.spotify.com/album/4Fo2F1PyIvtB0E03gu0uAX) | 2:33 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDZmNTk4NTczNTU4M2E1OTY0OWMxYmJmNjU1NzU3Y2Yx`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMGE4MWQ0NzBmZWVmNTMzNmE3YTgyOTJkNDJmNTNkZTBl`

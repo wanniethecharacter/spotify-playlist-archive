@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 141587,
+  "num_followers": 141599,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMDkwOTA4ZmY3Zjk0ZTFmNWFiMGYwODRiNGY5YTE3ZGY1",
+  "snapshot_id": "MTY3NDg0MTIwMSwwMDAwMDAwMGZmYjVmZTk5OGIzOTYyNTIzODVlNzNlNTIzOWNmM2U2",
   "tracks": [
     {
       "added_at": "2023-01-27 17:40:01",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/0x1psk0bOqvKzFIXg0kKa4"
-      },
-      "artists": [
-        {
-          "name": "Texas Latino",
-          "url": "https://open.spotify.com/artist/4kPRMVSvX8w6G8bNIOLDaa"
-        }
-      ],
-      "duration_ms": 141455,
-      "name": "Completamente Enamorados",
-      "url": "https://open.spotify.com/track/1BlB8hz7J2RWgfyfPb56IH"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Qu\u00e9date Con El",
         "url": "https://open.spotify.com/album/0VAvg1yg2eL7TmReNFopnt"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 214605,
       "name": "Qu\u00e9date Con El",
       "url": "https://open.spotify.com/track/11QBmPdodhQsekFGZNYenY"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/0x1psk0bOqvKzFIXg0kKa4"
+      },
+      "artists": [
+        {
+          "name": "Texas Latino",
+          "url": "https://open.spotify.com/artist/4kPRMVSvX8w6G8bNIOLDaa"
+        }
+      ],
+      "duration_ms": 141455,
+      "name": "Completamente Enamorados",
+      "url": "https://open.spotify.com/track/1BlB8hz7J2RWgfyfPb56IH"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/24zRLTmgWMv01DSs1E3eQI"
-      },
-      "artists": [
-        {
-          "name": "Zenzio",
-          "url": "https://open.spotify.com/artist/6ByST7GNSkwOdZNonKr1Dg"
-        }
-      ],
-      "duration_ms": 175447,
-      "name": "Que Mentira",
-      "url": "https://open.spotify.com/track/0uj22DquolnlzugVhJyL3L"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Me AventaronTus Brazos",
         "url": "https://open.spotify.com/album/0HyEqogdn00njcAvcERo0U"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 188653,
       "name": "Me AventaronTus Brazos",
       "url": "https://open.spotify.com/track/7g3iaR8GqMxSu3aoioQVB6"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/24zRLTmgWMv01DSs1E3eQI"
+      },
+      "artists": [
+        {
+          "name": "Zenzio",
+          "url": "https://open.spotify.com/artist/6ByST7GNSkwOdZNonKr1Dg"
+        }
+      ],
+      "duration_ms": 175447,
+      "name": "Que Mentira",
+      "url": "https://open.spotify.com/track/0uj22DquolnlzugVhJyL3L"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Ni Un Beso",
-        "url": "https://open.spotify.com/album/0XLIIlnNmBnwOnZgvjePLp"
-      },
-      "artists": [
-        {
-          "name": "Adassa",
-          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Ni Un Beso",
-      "url": "https://open.spotify.com/track/2y14VU6cH3CrwW4dK38rlR"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Y Sigues Siendo Tu",
         "url": "https://open.spotify.com/album/1LoHFvlwyybAXlR2uyr7JJ"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 198216,
       "name": "Nunca Voy A Olvidarte - Radio Mix",
       "url": "https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Ni Un Beso",
+        "url": "https://open.spotify.com/album/0XLIIlnNmBnwOnZgvjePLp"
+      },
+      "artists": [
+        {
+          "name": "Adassa",
+          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Ni Un Beso",
+      "url": "https://open.spotify.com/track/2y14VU6cH3CrwW4dK38rlR"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Sweet City Style",
-        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
-      },
-      "artists": [
-        {
-          "name": "Anjelique",
-          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "La Primavera",
         "url": "https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 192003,
       "name": "La Primavera",
       "url": "https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Sweet City Style",
+        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
+      },
+      "artists": [
+        {
+          "name": "Anjelique",
+          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Girls Night",
-        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
-      },
-      "artists": [
-        {
-          "name": "ANGELICA",
-          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
-        }
-      ],
-      "duration_ms": 208979,
-      "name": "Nunca Fuiste Mio",
-      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "Me Dec\u00edas",
         "url": "https://open.spotify.com/album/0NXgONfNEWQjke0cnaNKkZ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 197965,
       "name": "Me Dec\u00edas",
       "url": "https://open.spotify.com/track/4i827y4gh3TA5mgFhCVDov"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Girls Night",
+        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
+      },
+      "artists": [
+        {
+          "name": "ANGELICA",
+          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
+        }
+      ],
+      "duration_ms": 208979,
+      "name": "Nunca Fuiste Mio",
+      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
-      },
-      "artists": [
-        {
-          "name": "Rene Ramirez Y Maduro",
-          "url": "https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH"
-        }
-      ],
-      "duration_ms": 200159,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
         "name": "N\u00famero Dos",
         "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 251239,
       "name": "Me Enamor\u00e9 de un \u00c1ngel",
       "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
+      },
+      "artists": [
+        {
+          "name": "Rene Ramirez Y Maduro",
+          "url": "https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH"
+        }
+      ],
+      "duration_ms": 200159,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
+        "name": "Mentias",
+        "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
+      },
+      "artists": [
+        {
+          "name": "Brooke T",
+          "url": "https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ"
+        }
+      ],
+      "duration_ms": 199870,
+      "name": "Mentias",
+      "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
+    },
+    {
+      "added_at": "2023-01-27 17:40:01",
+      "album": {
         "name": "Baby Luna",
         "url": "https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 177748,
       "name": "Baby Luna",
       "url": "https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo"
-    },
-    {
-      "added_at": "2023-01-27 17:40:01",
-      "album": {
-        "name": "Mentias",
-        "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
-      },
-      "artists": [
-        {
-          "name": "Brooke T",
-          "url": "https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ"
-        }
-      ],
-      "duration_ms": 199870,
-      "name": "Mentias",
-      "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "El Besito",
-        "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
+        "name": "Trampa De Amor",
+        "url": "https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6"
       },
       "artists": [
         {
-          "name": "Laura Linda",
-          "url": "https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K"
+          "name": "VIRGINIA Y VALOR",
+          "url": "https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u"
         }
       ],
-      "duration_ms": 180651,
-      "name": "El Besito",
-      "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
+      "duration_ms": 161610,
+      "name": "Trampa De Amor",
+      "url": "https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr"
     },
     {
       "added_at": "2023-01-27 17:40:01",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-01-27 17:40:01",
       "album": {
-        "name": "Entre El Frio Y El Calor",
-        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
+        "name": "El Besito",
+        "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
       },
       "artists": [
         {
-          "name": "Andie",
-          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
+          "name": "Laura Linda",
+          "url": "https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K"
         }
       ],
-      "duration_ms": 215640,
-      "name": "Entre El Frio Y El Calor",
-      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
+      "duration_ms": 180651,
+      "name": "El Besito",
+      "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
     }
   ],
   "unique_name": "New Tejano",

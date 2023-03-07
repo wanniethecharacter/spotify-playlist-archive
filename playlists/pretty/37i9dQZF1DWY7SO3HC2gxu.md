@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,492 likes - 60 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,501 likes - 60 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 59 | [Nzaui](https://open.spotify.com/track/1gVvEiFHMWlG6XJxRmVVz3) | [DJ Fita](https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49), [Kimina](https://open.spotify.com/artist/0uvY69V1mp1IgYgq8LvZXq) | [Nzaui](https://open.spotify.com/album/1Wt7M1tUJBg9ODXHi3OSoG) | 4:37 |
 | 60 | [My Heart](https://open.spotify.com/track/5vJoZemSLeeUhRjgB2Tz8w) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [My Heart](https://open.spotify.com/album/5YVh5IwF22UwnE6sQ6qv9x) | 2:24 |
 
-Snapshot ID: `MTY3NzgyODY2MywwMDAwMDAwMGY5MDJhYmJkODg1NjExZmExMzQ5Zjk5NWY0NGRiOTVh`
+Snapshot ID: `MTY3NzgyODY2MywwMDAwMDAwMDEwNjhjYTE4NGMwMzhmZjJhM2I2MDNmYWM0NmM2Yzk1`

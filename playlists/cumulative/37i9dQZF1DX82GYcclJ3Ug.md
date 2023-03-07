@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. Cover: slowthai
 
-862 songs - 1 day 21 hr 51 min
+863 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 | 2021-11-26 | 2021-12-24 |
 | [LUV \(I KNOW I WANT THIS FOR REAL\)](https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [LUV \(I KNOW I WANT THIS FOR REAL\)](https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU) | 3:13 | 2023-01-27 |  |
 | [Lying On The Hood Of Your Car](https://open.spotify.com/track/0Y3JsDJo1xJz86KLnEJnwT) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Lying On The Hood Of Your Car](https://open.spotify.com/album/5WLjvcdxg3YMyDTPobKw4L) | 3:33 | 2023-01-13 |  |
+| [m.i.a.](https://open.spotify.com/track/4SZsO44hUGeMb5dVJbncez) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [m.i.a.](https://open.spotify.com/album/48dzjyMdd8UILx5WRIF1v8) | 2:32 | 2023-03-06 |  |
 | [Mad At Me](https://open.spotify.com/track/3wbXyVBbFXczjXcLL46GH4) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [Mad At Me](https://open.spotify.com/album/3jo28hZqatoB93dyt9nMQt) | 3:38 | 2022-11-11 | 2023-03-04 |
 | [Madman's Eyes \- Edit](https://open.spotify.com/track/0CZfKy4VcrgvEedefAWY8w) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Madman's Eyes](https://open.spotify.com/album/1Y8TRP3ChXq8q45QT65ecf) | 4:00 | 2023-01-27 | 2023-02-18 |
 | [Maestro \(Tears Don't Lie\)](https://open.spotify.com/track/6N8hCmutQjQ3zZevRbJk36) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Maestro \(Tears Don't Lie\)](https://open.spotify.com/album/70M68ZXCoG4pdeUdN4yzhm) | 3:22 | 2023-01-13 |  |

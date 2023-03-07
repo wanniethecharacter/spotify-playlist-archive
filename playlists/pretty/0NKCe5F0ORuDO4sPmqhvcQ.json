@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21087,
+  "num_followers": 21085,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAyNDAsM2RiOWM5ZjNlNmNlNWIxYzlkMmFmZWM2ZGY2ODI3YWNkMzRhYTIyMg==",
+  "snapshot_id": "MTAyNDEsMmJkNzg3YTRkNzJlNTNjM2E1ZmM2NjJkNThjNzI2MTYxODM0NzYxNg==",
   "tracks": [
     {
       "added_at": "2023-02-22 21:57:47",
@@ -2475,6 +2475,26 @@
       "duration_ms": 205714,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/1qkGT5wBhfWwbbHtkm2GMZ"
+    },
+    {
+      "added_at": "2023-03-06 17:14:16",
+      "album": {
+        "name": "HER",
+        "url": "https://open.spotify.com/album/00YaZIXwhtyUVAQW1XSNZH"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 173615,
+      "name": "Capsize (feat. Sarah de Warren)",
+      "url": "https://open.spotify.com/track/6FxILeOa0DIDHq5oD05zpI"
     }
   ],
   "unique_name": "Moving Castle Monthly",

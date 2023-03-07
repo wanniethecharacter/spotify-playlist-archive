@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Anna Bates \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,699 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,783 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Ella](https://open.spotify.com/track/2gaW5ipLhRzLkDJB9ATZNY) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Ella](https://open.spotify.com/album/07emV4JgFOz8ld0BgVakV1) | 3:07 |
 | 100 | [Dorian Gray](https://open.spotify.com/track/23Hv5mNDIyYDqk02vTGu0G) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Dorian Gray](https://open.spotify.com/album/0jKocMWiAQNEE6a2ZglBjs) | 3:37 |
 
-Snapshot ID: `MTY3NzY5MDAwMCwwMDAwMDAwMDgxNjgxZDVhZDdhZDMyMTljMjJlMmM3MzBiOGE1ZGRk`
+Snapshot ID: `MTY3NzY5MDAwMCwwMDAwMDAwMDU3YjliZjE3Y2NmYjNhMTNlYjg1NTIzZjdlZWE5MjEz`

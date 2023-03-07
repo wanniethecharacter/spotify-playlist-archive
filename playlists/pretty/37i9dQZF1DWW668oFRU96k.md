@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Steve Aoki x Galantis x Hayley Kiyoko
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,806 likes - 79 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,817 likes - 79 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 78 | [Coca\-Cola](https://open.spotify.com/track/5SBFE8l79rSAcFLyqtZW1X) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Coca\-Cola](https://open.spotify.com/album/0m3Db6w6S8bxZFtsppsziM) | 2:14 |
 | 79 | [Problem](https://open.spotify.com/track/1Y1FnMyAhGJ7VOS4czycLc) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Problem](https://open.spotify.com/album/2k9dKQz3sN4CAwkSKFcsEA) | 2:31 |
 
-Snapshot ID: `MTY3Nzc3MjgwMCwwMDAwMDAwMDQ5Yzg0OTUxMjY0ZjdjMWYxMmU5Njk3NDg2YjJiMjhm`
+Snapshot ID: `MTY3Nzc3MjgwMCwwMDAwMDAwMDczMmRmZmRlOGQwNTY3ZDE1MTdmZDk2NTUxMTYwZDc4`

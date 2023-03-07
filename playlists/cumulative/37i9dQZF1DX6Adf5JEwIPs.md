@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Oscar Maydon & Gerardo Ortiz
 
-2,191 songs - 4 day 19 hr 40 min
+2,192 songs - 4 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1939,6 +1939,7 @@
 | [Te Quedó Muy Grande](https://open.spotify.com/track/2gdc0pA6y3T9BIKZAg4m3k) | [José Pablo](https://open.spotify.com/artist/6lz9w2ef4gx4VuGEs0GugL) | [Te Quedó Muy Grande](https://open.spotify.com/album/4OaqKmdUoIyEa0sEBv77bU) | 3:31 | 2022-07-01 | 2022-07-09 |
 | [Te Quiere Te Ama \- En Vivo](https://open.spotify.com/track/51m8m04c1zEsRJQTbqZuA9) | [Joaquin Lira](https://open.spotify.com/artist/0YlNQpSDdLL1hyY3i0iL1S) | [Te Quiere Te Ama \(En Vivo\)](https://open.spotify.com/album/28whWUir24JU8GvGgD4sy5) | 2:42 | 2022-07-15 | 2022-07-23 |
 | [TE QUIERO](https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [TE QUIERO](https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq) | 2:33 | 2023-01-20 | 2023-01-28 |
+| [Te Quiero \- Live](https://open.spotify.com/track/1Z6mjxGzbilLNnRDXlZ61Z) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Te Quiero \(Live\)](https://open.spotify.com/album/6YV2xEVGlp9PLTv2wHS04X) | 3:02 | 2023-03-03 |  |
 | [Te Quiero Besar](https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Quiero Besar](https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr) | 3:10 | 2023-02-17 | 2023-02-25 |
 | [Te Quiero Mil](https://open.spotify.com/track/741g3I9tKBq0GHEx0up03Z) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Te Quiero Mil](https://open.spotify.com/album/1lj9LmpujBYxwvM5IOvwBc) | 3:03 | 2023-01-13 | 2023-01-21 |
 | [Te Regalo](https://open.spotify.com/track/3Vsx2aTTs6cTGnoTADHdUh) | [Peligro](https://open.spotify.com/artist/7J9IRSc5ZxqMMdH5bmjqtP) | [Te Regalo](https://open.spotify.com/album/4HvWmPaGmmzIuUfChtdC8r) | 4:01 | 2022-12-23 | 2023-01-07 |

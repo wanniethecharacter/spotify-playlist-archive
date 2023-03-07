@@ -4,7 +4,7 @@
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-124 songs - 7 hr 55 min
+125 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Love](https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:32 | 2022-06-01 |  |
 | [Love](https://open.spotify.com/track/6uGQm999flrd5mB0RIoATp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Get Up And Start To Shine](https://open.spotify.com/album/7FNHQJwC4r9uZKk6Zd966f) | 4:32 | 2022-06-01 | 2022-11-13 |
 | [Love](https://open.spotify.com/track/0n2bvWvMwr0gbjcuTm92eW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Love](https://open.spotify.com/album/4vwkTKo2LxoaN5o0DgbXel) | 4:38 | 2021-08-19 | 2022-07-29 |
-| [Love Pocket](https://open.spotify.com/track/1VmjjzWu2bfSzEDYoUskGR) | [SaraCortez](https://open.spotify.com/artist/6r14qqaIQA7lLEezQkQ8Hm) | [Love Pocket](https://open.spotify.com/album/1AG0EVWWRdtX9o7hxEqRX0) | 2:55 | 2021-08-19 |  |
+| [Love Pocket](https://open.spotify.com/track/1VmjjzWu2bfSzEDYoUskGR) | [SaraCortez](https://open.spotify.com/artist/6r14qqaIQA7lLEezQkQ8Hm) | [Love Pocket](https://open.spotify.com/album/1AG0EVWWRdtX9o7hxEqRX0) | 2:55 | 2021-08-19 | 2023-03-07 |
+| [Love Pocket](https://open.spotify.com/track/6cjZgQBK1bXdbcFYjHxMAy) | [SaraCortez](https://open.spotify.com/artist/6r14qqaIQA7lLEezQkQ8Hm) | [Love Pocket](https://open.spotify.com/album/05rkn9YXm66phKIK5qMVzD) | 2:55 | 2023-02-15 |  |
 | [Love U](https://open.spotify.com/track/2FOfZMaqsuKxetBLUyvjm8) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Love U](https://open.spotify.com/album/3YwdsyrPOFPUxhGKiTQNEm) | 3:30 | 2021-08-19 | 2022-07-29 |
 | [love u](https://open.spotify.com/track/4pxBGvdDoLLYtzs2Z8AC6e) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [days to morning glory](https://open.spotify.com/album/6sYWO4IATLL7LZtgkwm2eU) | 3:30 | 2022-06-01 |  |
 | [Lovers](https://open.spotify.com/track/3CQt4XAgI8i3cZYlgkLfza) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/27OLRsypRNOsLlP5BsVpUJ) | 3:35 | 2021-08-19 | 2022-07-29 |

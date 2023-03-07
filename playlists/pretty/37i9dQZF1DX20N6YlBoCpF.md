@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=x15V8jy1TdCLR6G7m\_Z5KQ">Jemma Catherine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,729 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,763 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Lekker In Suid\-Afrika](https://open.spotify.com/track/1WhdprkjiCK9xECfcIpH5A) | [Lallie](https://open.spotify.com/artist/4uSmTI5DC3mlZne6QOuSwo) | [Lekker In Suid\-Afrika](https://open.spotify.com/album/6tY0nQArsx8hwTIjPG3Gc6) | 3:28 |
 | 50 | [Toe Roep Ek Jou Naam](https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Toe Roep Ek Jou Naam Velvet Blohm](https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi) | 3:45 |
 
-Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMGRiNTliMTkyNzZmMGNjNWQzNDQ1ZmQ5ZmNhNzE5YTJj`
+Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMDNhZGRmOTgzYzU4ZTlhNzQ0NmJmMTA3MDIzMDc4MjVk`

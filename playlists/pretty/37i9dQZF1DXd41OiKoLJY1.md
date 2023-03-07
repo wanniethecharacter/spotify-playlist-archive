@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: NICHIMI, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,868 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,903 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Di Ma G Kay Choppy](https://open.spotify.com/track/6hBN3cdFEuzZQHXUiTkWqq) | [Flyva](https://open.spotify.com/artist/4MzwE5yjUswPP0wlMde33c), [Big Moe](https://open.spotify.com/artist/22WifcePfZjRcdJDbkFqgJ) | [Di Ma G Kay Choppy](https://open.spotify.com/album/7325JeVyI4M2e05tXFuXM8) | 3:35 |
 | 75 | [Doobie Sa Baguio](https://open.spotify.com/track/78z2QOUk1ND0Ea33pyphmE) | [YUN](https://open.spotify.com/artist/1KHYsn8dT0PXqVWz1d3Sgh) | [Doobie Sa Baguio](https://open.spotify.com/album/2gARWlp7S2athG94zKx3oZ) | 3:56 |
 
-Snapshot ID: `MTY3Nzc3Mzc4MCwwMDAwMDAwMDQ2MmM4NGRjNzI1ZjBiMjVjMDk0Yzg2ZDQ3NTg5ZWJj`
+Snapshot ID: `MTY3Nzc3Mzc4MCwwMDAwMDAwMDlhMzYzM2IwODMyYzY5OTc1ZjA1OThlZDk0OGZjZGRj`

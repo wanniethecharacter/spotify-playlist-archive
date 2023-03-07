@@ -5401,6 +5401,32 @@
     },
     {
       "album": {
+        "name": "KAPTEN KAPTEN (Radio Edit)",
+        "url": "https://open.spotify.com/album/3qawlLrgiH0LvtXGOS8rKC"
+      },
+      "artists": [
+        {
+          "name": "KaptenX",
+          "url": "https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "KAPTEN KAPTEN - Radio Edit",
+      "url": "https://open.spotify.com/track/6ZnNBc9aadApyNnQ3hgS8S"
+    },
+    {
+      "album": {
         "name": "KASSANOVA",
         "url": "https://open.spotify.com/album/1pLLCRuOFDujv3BXWR7jEa"
       },
@@ -8326,7 +8352,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 177324,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/3iKyG1U1x9fXu4KVZRs4Uh"

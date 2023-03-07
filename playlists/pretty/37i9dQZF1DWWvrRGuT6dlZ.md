@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: hongjoin\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,884 likes - 106 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,882 likes - 106 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 105 | [Change Your Mind](https://open.spotify.com/track/0PfHYUyIkw55EztJ13P9fQ) | [Cravism](https://open.spotify.com/artist/5VJEmiTk1xkj60ts3ZmoHf), [Maya Diegel](https://open.spotify.com/artist/3hzkGIJ8l5mkn2L7XhSCxW) | [Caryatid EP](https://open.spotify.com/album/1GjK8gU15W82DQbXmhpvNZ) | 2:36 |
 | 106 | [Take Me Away](https://open.spotify.com/track/3SfBG1R9yj5B6V9NZiUzQD) | [Rayvn Young](https://open.spotify.com/artist/1nCiPylMGNtJuHO6XUyHV2) | [Take Me Away](https://open.spotify.com/album/3OSro8swuSQVfADsvUaOb9) | 2:47 |
 
-Snapshot ID: `MTY3Nzc3MjgwMCwwMDAwMDAwMGE3NmFlMDVjMzU1M2FmZmZjNTgwYjU0YjhkNThkNzUy`
+Snapshot ID: `MTY3Nzc3MjgwMCwwMDAwMDAwMDViZTE4OTQ1NWFjZDFjMTIyNTI0MWNlZDUxY2VkZGUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Joabe Reis Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,728 likes - 75 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,773 likes - 75 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Boca Nº 0 \(Funk Carioca\)](https://open.spotify.com/track/6X39zLwUdy7COfVc2JZVbt) | [Josiel Konrad](https://open.spotify.com/artist/7u5P0wZUf4nn17jAuSZDbN), [Vinicius Chagas](https://open.spotify.com/artist/26F0wZCY2C6IsX6J6zzZWE), [Lucas Gomes](https://open.spotify.com/artist/6Xim56rwhqwMleyKG4eDO2), [Marcelo De Lamare](https://open.spotify.com/artist/7H7FNN2AMrvSv6UgjIGR3W), [Natan Gomes](https://open.spotify.com/artist/5pBWviF6S5gwkkCQT2eGRB) | [Boca Nº 0](https://open.spotify.com/album/6XgniKjSeYedpH14o5BVCj) | 5:18 |
 | 75 | [The Visit](https://open.spotify.com/track/3dTQEq2p8fBCJWwoSpnoNe) | [Daniel Meron](https://open.spotify.com/artist/76s4ROiz2P8oHaRsTDnrgr) | [The Visit](https://open.spotify.com/album/5EfGZAs0iyqYLlnGMhNqoY) | 3:29 |
 
-Snapshot ID: `MTY3NzY4MzIwOCwwMDAwMDAwMDc4NGNiYzU5ZWVhZDAyOTFhYTM0ZGY2ZDFhMDAyYTUx`
+Snapshot ID: `MTY3NzY4MzIwOCwwMDAwMDAwMGJhODExMzI2YTQyNjdjNWQ1NzU3NmM1ZTY2MDczZjE1`

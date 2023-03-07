@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,775 likes - 152 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,860 likes - 152 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 151 | [Beach & Towel](https://open.spotify.com/track/0S2WwkBNYpiXWssKc6Nwrf) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Beach & Towel](https://open.spotify.com/album/19IWLkyd4dr67RCRMbIyGG) | 2:40 |
 | 152 | [Tropicae](https://open.spotify.com/track/0rexhQFkP4bgMSLeSyZjpH) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Secrets](https://open.spotify.com/album/5tN8Lg9AXBSO4Q5ELOM4Fs) | 4:19 |
 
-Snapshot ID: `MTY3Nzg2NDI1MSwwMDAwMDAwMDRmM2IwZTg4YmQ3MzU5NDM0NzNmYmMxODVhZWQ5MmUx`
+Snapshot ID: `MTY3Nzg2NDI1MSwwMDAwMDAwMDIzYjYxNDZiMGJjNzY0OWMyYmUyMjRiNzUyZDliYTMz`

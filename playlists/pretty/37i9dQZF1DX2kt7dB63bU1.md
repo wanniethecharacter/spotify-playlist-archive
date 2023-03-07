@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,649 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,769 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [On Green Dolphin Street](https://open.spotify.com/track/0MHAUC8TiE8lD8ciIZ9Zga) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Blue Skies](https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum) | 3:04 |
 | 100 | [My Parade](https://open.spotify.com/track/72C3qcVhTWmaN8K2ijM3I5) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB), [Jordan Brown](https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6) | [KARNEVAL](https://open.spotify.com/album/78OnKUK4yFB3bv7VGsEaZL) | 1:44 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGY2MDZlODRmYTJkMzM5ZWI3YjllYzU1NGY0MmU4YTM1`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGQyODMzMGQ1MDE5NDllYmU4M2VhNTUxNTIzMTdjOTI4`

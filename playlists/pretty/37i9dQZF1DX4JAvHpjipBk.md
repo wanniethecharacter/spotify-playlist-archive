@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Nicki Minaj, Morgan Wallen, Kali Uchis, Mimi Webb, 6LACK and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,069,526 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,069,876 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Superglue](https://open.spotify.com/track/2PT6irzoP482s4ziCla3XS) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [SUPERGLUE](https://open.spotify.com/album/67NJuyd4ElTpVyEZYoh9UX) | 3:34 |
 | 100 | [El After](https://open.spotify.com/track/2B4r1buyZVW0nwuiRWLvVp) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [El After](https://open.spotify.com/album/2f7IYd3xMsDWPvFih6RseJ) | 3:19 |
 
-Snapshot ID: `MTY3NzgxOTk2MSwwMDAwMDAwMGUyNmFkZGQ1ZmUzZGFiMzgxNDMxNThmNzEzNzA1MGU2`
+Snapshot ID: `MTY3NzgxOTk2MSwwMDAwMDAwMDcyZWQwNDczOTAzZDk3NzVlNWQ5ZWViOGQxMzRkNDBi`

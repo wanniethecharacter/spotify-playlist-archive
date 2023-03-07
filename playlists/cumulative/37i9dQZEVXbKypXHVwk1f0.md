@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-699 songs - 1 day 16 hr 5 min
+700 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2021-08-05 | 2021-12-22 |
 | [Dale](https://open.spotify.com/track/0E2Z5bEriQ2V7Nq6Rwn17v) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:30 | 2022-03-12 | 2022-03-27 |
 | [Darte](https://open.spotify.com/track/01mWlpEyZqCGhBux8Dzgwv) | [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Legado ARM](https://open.spotify.com/artist/5GpMQrgxNjUa38cPXLtwbe), [Drei Alva](https://open.spotify.com/artist/6AVIeFa086ZaYFspAj7fNz) | [Darte](https://open.spotify.com/album/5uvlpwrn9Fs6b80NMwZyQ4) | 2:23 | 2022-11-02 | 2023-01-01 |
-| [DAÑAMOS LA AMISTAD](https://open.spotify.com/track/3jUDqkHatwtprUmZ8epP8P) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:54 | 2023-02-25 |  |
+| [DAÑAMOS LA AMISTAD](https://open.spotify.com/track/3jUDqkHatwtprUmZ8epP8P) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:54 | 2023-02-25 | 2023-03-07 |
 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 | 2021-07-08 | 2021-08-23 |
 | [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 | 2022-11-25 | 2022-11-27 |
 | [Deja Que Tus Manos](https://open.spotify.com/track/1ONKgvfAhcbgHp4AKWAidI) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E) | [Deja Que Tus Manos](https://open.spotify.com/album/2vjLUBzC5KJq7Fhgjzj5ju) | 2:40 | 2022-06-20 | 2022-08-27 |
@@ -456,6 +456,7 @@
 | [Pa Ti](https://open.spotify.com/track/0yqp9lIHBEGCF9uPTuMETr) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Pa Ti](https://open.spotify.com/album/7FybUtQEqck51Rd6o02Oui) | 3:44 | 2022-10-20 | 2022-10-22 |
 | [Pa' La Gente Panameña](https://open.spotify.com/track/5AYhD676kHBDPHx18ibt8Z) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Felicidades](https://open.spotify.com/album/024yNADGjvnhSVjscpD5qG) | 5:04 | 2021-12-25 | 2022-12-28 |
 | [Pa' Que Tú Me Vea](https://open.spotify.com/track/4GNWV92BLC1cc8UQuFciAf) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Qué Prefieres?](https://open.spotify.com/album/5EswK2NXREOYyhrPk8lXb1) | 3:16 | 2022-09-24 | 2022-09-26 |
+| [Pal Muro](https://open.spotify.com/track/62JKwv9Xiz8NkyDGnddNaR) | [Sherman Smith](https://open.spotify.com/artist/0AHS7Ls2S2SqYAruOvl9b0), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Iski](https://open.spotify.com/artist/0tZOZeWb2vdXJwhuL7RPLx) | [Pal Muro](https://open.spotify.com/album/0GpMUPdOHyAX8E92QHRm6S) | 3:03 | 2023-03-06 |  |
 | [PANAMÁ](https://open.spotify.com/track/7fz7HrFRF4y8YEe0duWTDW) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PANAMÁ](https://open.spotify.com/album/5965FckNzWypHw7yXNGd92) | 2:51 | 2021-06-06 | 2021-06-23 |
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-03-20 | 2022-07-17 |
 | [Papa Noel](https://open.spotify.com/track/7iSzHI1PsFudcDPd5IUPIr) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:34 | 2022-12-03 | 2022-12-05 |

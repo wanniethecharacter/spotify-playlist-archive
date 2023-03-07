@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyj0bHlj8N3.md) - [plain]
 
 > Canciones y beats que te llevan al siguiente nivel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,630 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,930 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyj0bHlj8N3.md) - [plain]
 | 59 | [Tell Me A Lie](https://open.spotify.com/track/4ccYRZ7WptUbPD3RZ0BhvP) | [Jonas Aden](https://open.spotify.com/artist/1qq5e02CcWNFqZMbmdrIcj) | [Tell Me A Lie](https://open.spotify.com/album/02NfjCu6aYB6k14uNchflD) | 2:41 |
 | 60 | [The G.O.A.T.](https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [The G.O.A.T.](https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh) | 3:21 |
 
-Snapshot ID: `MTYzOTc3ODQwMywwMDAwMDAwMDkxNmIwN2UzMGIzYjEwMDc2Yzk3ZWQ2NTNjOWM5MDFm`
+Snapshot ID: `MTYzOTc3ODQwMywwMDAwMDAwMGY2MDIyN2VjYzY4NmNjYTllOTA1OGQwM2IxNzJiNWQ4`

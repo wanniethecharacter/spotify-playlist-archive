@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421571,
+  "num_followers": 421560,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGViYWM5ZDljZTFlOGZkOWE1ZDMyMjY4MWQxYzUyOGE1",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDgwNTYwZmM2ZmVlMWFlY2VmMzIyZWMyNWExMjc2MjFj",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -299,6 +299,26 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Formosa",
+        "url": "https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI"
+      },
+      "artists": [
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "MC CJ",
+          "url": "https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp"
+        }
+      ],
+      "duration_ms": 185831,
+      "name": "Formosa",
+      "url": "https://open.spotify.com/track/1QmupixsVNc0osesKXraZC"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Doce Veneno",
         "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
       },
@@ -323,22 +343,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Formosa",
-        "url": "https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI"
+        "name": "Red de Maracuj\u00e1",
+        "url": "https://open.spotify.com/album/6vSJkKFM9XI4Pmy23P5MJO"
       },
       "artists": [
         {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         },
         {
-          "name": "MC CJ",
-          "url": "https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp"
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
         }
       ],
-      "duration_ms": 185831,
-      "name": "Formosa",
-      "url": "https://open.spotify.com/track/1QmupixsVNc0osesKXraZC"
+      "duration_ms": 142153,
+      "name": "Red de Maracuj\u00e1",
+      "url": "https://open.spotify.com/track/1Ox6cNiWa6diK3mIImaq1P"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -359,26 +379,6 @@
       "duration_ms": 110769,
       "name": "Incrivel Jogando a Potranca",
       "url": "https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Red de Maracuj\u00e1",
-        "url": "https://open.spotify.com/album/6vSJkKFM9XI4Pmy23P5MJO"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Red de Maracuj\u00e1",
-      "url": "https://open.spotify.com/track/1Ox6cNiWa6diK3mIImaq1P"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1215,30 +1215,18 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ"
+        "name": "Todo Mundo Ama O Sol",
+        "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
       },
       "artists": [
         {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
-        },
-        {
-          "name": "Lu\u00edsa Nascim",
-          "url": "https://open.spotify.com/artist/5j1I6HLmRd52lplPaEl6uU"
-        },
-        {
-          "name": "Marley no Beat",
-          "url": "https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH"
-        },
-        {
-          "name": "Tombc",
-          "url": "https://open.spotify.com/artist/6xWZS3GMWCdADhHYLW2gb6"
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
         }
       ],
-      "duration_ms": 135285,
-      "name": "De Novo",
-      "url": "https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp"
+      "duration_ms": 160000,
+      "name": "Todo Mundo Ama o Sol",
+      "url": "https://open.spotify.com/track/30KnuGgwh6EtBCTFT3iGLe"
     }
   ],
   "unique_name": "RADAR Brasil",

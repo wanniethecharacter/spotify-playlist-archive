@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: Gaab
 
-341 songs - 18 hr 36 min
+342 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Fui Eu](https://open.spotify.com/track/0WNvVEICbJHAqNzGFCDbGy) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [ESTEVEZ](https://open.spotify.com/artist/5yH9W1LzE41x3JLYZg3Bkb) | [Maloqueiro Romântico](https://open.spotify.com/album/7Bxps6gouwgh9yoUuDx78K) | 2:32 | 2023-03-03 |  |
 | [Fuuga](https://open.spotify.com/track/27C3ZWAo3xPFR6rXw2sfHI) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw), [Dj Coala](https://open.spotify.com/artist/2GrFc0VerkHwntKlGXoToI) | [Fuuga](https://open.spotify.com/album/1hMEnHTNEDjElq7I7SGMuT) | 2:15 | 2020-10-20 | 2022-07-26 |
 | [Gangorra](https://open.spotify.com/track/32z2XMNAqSNOB9lAxctyce) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Gangorra](https://open.spotify.com/album/3RT2HCFAmlvkJ6eopeEYR5) | 3:47 | 2020-10-20 | 2022-07-29 |
+| [Garota Nota 100](https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Garota Nota 100](https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi) | 3:15 | 2023-03-06 |  |
 | [Gatinha](https://open.spotify.com/track/3fFP5qW0JBpqcSJ14XFNKU) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Gatinha](https://open.spotify.com/album/7cG0tGPI9KcNO7v6So6UFW) | 3:15 | 2020-10-20 | 2022-07-29 |
 | [Geminiana](https://open.spotify.com/track/4KiXDE5NqGi5v4vh2Wpfuh) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Geminiana](https://open.spotify.com/album/6KSRPaeIBBlYcXsyTT8JeT) | 2:44 | 2023-02-14 |  |
 | [Glockada](https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Glockada](https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF) | 2:01 | 2020-10-20 | 2022-07-28 |

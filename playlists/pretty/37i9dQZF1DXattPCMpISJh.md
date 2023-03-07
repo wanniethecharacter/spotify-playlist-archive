@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jake Shears
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,303 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,425 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [JuiceBoy](https://open.spotify.com/track/6IKtPHIDG6a26oRcNxJq8f) | [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB), [Mondgomery](https://open.spotify.com/artist/05eMmbSBU5u0L6XIAU0esH) | [Girls](https://open.spotify.com/album/33FgsjVBCwStpk8cnzooPr) | 2:51 |
 | 100 | [Queen \- Cool Company Remix](https://open.spotify.com/track/0AgZmFOM3Yq0Zok6OlvHve) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Queen \(Cool Company Remix\)](https://open.spotify.com/album/1UOeukefSXVZIOA4s8qt3O) | 2:36 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGE2YTNkYzQ4YmE1YjI1MzJmNDc5Njk5NTI0NTk3Y2Vi`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDVjYzMxZTBlOWY3NWUwZmY1YzNkZDNhNmM1ZmJhZWZj`

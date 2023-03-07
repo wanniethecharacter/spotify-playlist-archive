@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=HrYwM7ehQHSWoTJRp8Ig\_Q"> Sarkodie</a> takes over with the best new music by independent artists and labels from Ghana\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,045 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,071 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 39 | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d) | 3:00 |
 | 40 | [Tonight](https://open.spotify.com/track/3bjsY0nIoCOOrSYv5vqsgD) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT) | [Tonight](https://open.spotify.com/album/3dSTG0aATuRTB8rbYXiXvQ) | 3:20 |
 
-Snapshot ID: `MTY3ODAxNDc4OSwwMDAwMDAwMDc0ZmNjZDM3OGNiNGVjMTZkMzQ2ZTg4ZjdkMDZiMjcx`
+Snapshot ID: `MTY3ODAxNDc4OSwwMDAwMDAwMDE4NmQwZTE0YTZjMmNmNjE3NjRjZWUwOWQ3ZWUwYmRj`

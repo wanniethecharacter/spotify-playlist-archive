@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Doechii
 
-382 songs - 19 hr 1 min
+383 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 | 2022-06-17 | 2022-10-15 |
 | [In My Room](https://open.spotify.com/track/3RcVlasiiuUSF9cQWDtPAA) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [In My Room](https://open.spotify.com/album/6wHtvk49fos5YKb0Q9eEsV) | 3:31 | 2021-09-03 | 2022-07-22 |
 | [In N Out \(feat\. TheHxliday & Rico Nasty\)](https://open.spotify.com/track/0RcKrEJIn4OhDGsaTW7g9K) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD) | [War](https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX) | 2:11 | 2022-02-04 | 2022-02-19 |
+| [In The Room \(with JID, Tierra Whack & BJ The Chicago Kid\)](https://open.spotify.com/track/22hdnPB5hmyzOJLQQrcDSS) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:52 | 2023-03-06 |  |
 | [Is What It Is](https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Is What It Is](https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga) | 2:57 | 2022-06-17 | 2022-11-18 |
 | [JD's REVENGE](https://open.spotify.com/track/1cRK9E0MUzxjiVSWhgYCDC) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [JD's REVENGE](https://open.spotify.com/album/1wyTY0dWTlbntVOgdvXtyL) | 2:04 | 2023-02-10 |  |
 | [Jerry Curl \(feat\. Larry June\)](https://open.spotify.com/track/24SFpuDN6GswRSG1uXuNf1) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Jerry Curl \(feat\. Larry June\)](https://open.spotify.com/album/1E9FHhsy0KqudxNbZ8HFZb) | 3:14 | 2022-04-08 | 2022-07-28 |

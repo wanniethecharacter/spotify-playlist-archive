@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,058 songs - 4 day 22 hr 27 min
+2,059 songs - 4 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-07-06 | 2022-07-27 |
 | [ABYSS](https://open.spotify.com/track/3epolh4SfvMrqvC8Atm0HA) | [Amara](https://open.spotify.com/artist/52F2aDMq8CHtduF5nLXRrw) | [ABYSS](https://open.spotify.com/album/2dM26keu4SUTayflswYYFp) | 3:26 | 2021-04-24 | 2021-05-09 |
 | [Addicted](https://open.spotify.com/track/002za8woBKJsCCbj30TlPS) | [KelKeyz](https://open.spotify.com/artist/6lKXtmwJnGCpPoPIOit5Oy) | [Addicted](https://open.spotify.com/album/7JijvRD9EIvdwRxGb7GhKo) | 2:44 | 2022-04-08 | 2022-04-24 |
+| [ADDICTED](https://open.spotify.com/track/4jVEHJXqOgXXwZDv0idl5d) | [MADNIK](https://open.spotify.com/artist/6Z0ZpfsNLeVU7c88gBa62V) | [ADDICTED](https://open.spotify.com/album/1GyprbGBubIOIaMvClhFEt) | 3:18 | 2023-03-07 |  |
 | [Addicted to You](https://open.spotify.com/track/2esiR5CXxJeiOFTBy117m2) | [Kris James](https://open.spotify.com/artist/2CV7lJG6UyNRDuVM8SzNv8) | [Kris James](https://open.spotify.com/album/4kSYwT6XJPQHMKmey578XS) | 3:10 | 2021-12-08 | 2022-01-07 |
 | [Affinity](https://open.spotify.com/track/6qPe8aLtxdGH3xfTJBh0sl) | [Tnola](https://open.spotify.com/artist/3qsiuJcX1xermvwbJ6mg6O) | [Affinity](https://open.spotify.com/album/4y4bBrQWEhqVgXWwbmKgA7) | 3:12 | 2022-11-02 | 2022-11-21 |
 | [After All \- Radio Edit](https://open.spotify.com/track/3o3dy08AQwxYuEKfoY6TQ3) | [Thomas Will](https://open.spotify.com/artist/3BSndMDvNNBCHSVjvxNqmV), [Roni Tran](https://open.spotify.com/artist/0tefsWejwv0Z61sfWzlUe6) | [After All](https://open.spotify.com/album/2QrelLyiYbgwOY1tuH9c17) | 3:34 | 2021-03-19 | 2021-04-04 |

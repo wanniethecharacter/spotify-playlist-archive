@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 259049,
       "name": "Dracodraco",
       "url": "https://open.spotify.com/track/1989YquYFYsPa4PutqJunf"
@@ -5292,6 +5292,24 @@
       "duration_ms": 163669,
       "name": "Safe",
       "url": "https://open.spotify.com/track/3ScwHPClq79GwSsGhGfaqb"
+    },
+    {
+      "album": {
+        "name": "Apotheosis",
+        "url": "https://open.spotify.com/album/0bjQhZgb32LrZ6SXK2luDT"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163669,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/6MtY84ZQEzwWteHUUaNofQ"
     },
     {
       "album": {

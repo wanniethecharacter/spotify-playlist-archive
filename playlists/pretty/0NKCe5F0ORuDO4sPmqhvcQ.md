@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,087 likes - 130 songs - 7 hr 32 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,085 likes - 131 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 128 | [NO TIME](https://open.spotify.com/track/3iuznCnL4DnWnElyIqJ5CR) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 4:04 |
 | 129 | [BLUE LIGHT](https://open.spotify.com/track/2blHAJSeclS036DmrQxOvE) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 4:42 |
 | 130 | [Falling In Love](https://open.spotify.com/track/1qkGT5wBhfWwbbHtkm2GMZ) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [Falling In Love](https://open.spotify.com/album/4RM7dK7ScgLW1UG1k8kInQ) | 3:25 |
+| 131 | [Capsize \(feat\. Sarah de Warren\)](https://open.spotify.com/track/6FxILeOa0DIDHq5oD05zpI) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [HER](https://open.spotify.com/album/00YaZIXwhtyUVAQW1XSNZH) | 2:53 |
 
-Snapshot ID: `MTAyNDAsM2RiOWM5ZjNlNmNlNWIxYzlkMmFmZWM2ZGY2ODI3YWNkMzRhYTIyMg==`
+Snapshot ID: `MTAyNDEsMmJkNzg3YTRkNzJlNTNjM2E1ZmM2NjJkNThjNzI2MTYxODM0NzYxNg==`

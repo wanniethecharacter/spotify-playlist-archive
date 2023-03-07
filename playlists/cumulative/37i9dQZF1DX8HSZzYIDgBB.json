@@ -1619,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "I Want 2",
+        "url": "https://open.spotify.com/album/4Vc751bJD0eQkOdqc4IiSj"
+      },
+      "artists": [
+        {
+          "name": "Banana Leaf Boy",
+          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273322,
+      "name": "I Want 2",
+      "url": "https://open.spotify.com/track/6jd3IIlPej4QU0cSKUehsx"
+    },
+    {
+      "album": {
         "name": "Ild\u00e9 Pa\u2019 Beberte",
         "url": "https://open.spotify.com/album/7CDuf3GTMDB759dQwH0yPw"
       },
@@ -3790,7 +3808,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 168939,
       "name": "Un Manhattan",
       "url": "https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl"

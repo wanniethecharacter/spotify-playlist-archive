@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. lvra
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,200 likes - 84 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,232 likes - 84 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 83 | [GO!](https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [GO!](https://open.spotify.com/album/6QxSkWL0OqrjfJFtlVX9Dx) | 3:00 |
 | 84 | [Cut It](https://open.spotify.com/track/380qafcE09hZXE5g5ubju9) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Cut It](https://open.spotify.com/album/6VNsH5eNH0HYI6UHJNiGl9) | 2:58 |
 
-Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMGQwNDlmNWExNWRiOWNiMDM1NDcyYjJmMGYzZTU5MjFl`
+Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDhmNGE4MDNjYmIxZjc3YzI3YmMxZjViYWZmMmE1YmZm`

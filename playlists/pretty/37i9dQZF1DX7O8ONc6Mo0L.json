@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Israel Salazar",
-  "num_followers": 236333,
+  "num_followers": 236522,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI0NzkzMSwwMDAwMDAwMDZkNGIzN2JmODdjYjE5ZThlMDliZDhhNjA3ZGEyZmYz",
+  "snapshot_id": "MTY3NzI0NzkzMSwwMDAwMDAwMGFlZmM2ZjZhODI4MGU5YTcyZDc3N2IxZGZhYWRmZGI5",
   "tracks": [
     {
       "added_at": "2023-02-24 11:07:17",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
+        "name": "A Reforma",
+        "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 320361,
+      "name": "A Reforma",
+      "url": "https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R"
+    },
+    {
+      "added_at": "2023-02-24 11:07:17",
+      "album": {
         "name": "Nos Bra\u00e7os do Pai",
         "url": "https://open.spotify.com/album/3il2SE9rmAIqStzbzGm94l"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
-        "name": "A Reforma",
-        "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 320361,
-      "name": "A Reforma",
-      "url": "https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R"
-    },
-    {
-      "added_at": "2023-02-24 11:07:17",
-      "album": {
         "name": "Al\u00e9m do Rio Azul (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/179cAV1v2sG8INY8xv2OZK"
       },
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
-        "name": "O Tamanho da Tua Dor",
-        "url": "https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg"
+        "name": "Ecoar",
+        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
       },
       "artists": [
         {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 216000,
-      "name": "O Tamanho da Tua Dor",
-      "url": "https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90"
+      "duration_ms": 314861,
+      "name": "Nenhuma Condena\u00e7\u00e3o H\u00e1",
+      "url": "https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA"
     },
     {
       "added_at": "2023-02-24 11:07:17",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
-        "name": "Ecoar",
-        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 314861,
-      "name": "Nenhuma Condena\u00e7\u00e3o H\u00e1",
-      "url": "https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA"
-    },
-    {
-      "added_at": "2023-02-24 11:07:17",
-      "album": {
         "name": "Algo Novo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5mT4Ohgb4ZJe2AN22B62mG"
       },
@@ -299,6 +283,38 @@
       "duration_ms": 217826,
       "name": "Algo Novo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7xIoYG2DgfZ92SkIzHZzXm"
+    },
+    {
+      "added_at": "2023-02-24 11:07:17",
+      "album": {
+        "name": "O Tamanho da Tua Dor",
+        "url": "https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "O Tamanho da Tua Dor",
+      "url": "https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90"
+    },
+    {
+      "added_at": "2023-02-24 11:07:17",
+      "album": {
+        "name": "Paz da Minha Alma",
+        "url": "https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 278031,
+      "name": "Paz da Minha Alma",
+      "url": "https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7"
     },
     {
       "added_at": "2023-02-24 11:07:17",
@@ -355,22 +371,6 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
-        "name": "Paz da Minha Alma",
-        "url": "https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 278031,
-      "name": "Paz da Minha Alma",
-      "url": "https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7"
-    },
-    {
-      "added_at": "2023-02-24 11:07:17",
-      "album": {
         "name": "A Mesa",
         "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
       },
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
+        "name": "Acoustic Session, Vol. 01",
+        "url": "https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 342250,
+      "name": "A Casa \u00c9 Sua - Acoustic Session",
+      "url": "https://open.spotify.com/track/2KF9qAiNUBdCAkFb1tiyk5"
+    },
+    {
+      "added_at": "2023-02-24 11:07:17",
+      "album": {
         "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
       },
@@ -419,6 +435,22 @@
       "duration_ms": 255600,
       "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
+    },
+    {
+      "added_at": "2023-02-24 11:07:17",
+      "album": {
+        "name": "Impressionante (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
+      },
+      "artists": [
+        {
+          "name": "Klebson Kollins",
+          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
+        }
+      ],
+      "duration_ms": 331250,
+      "name": "Impressionante - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
     },
     {
       "added_at": "2023-02-24 11:07:17",
@@ -439,18 +471,18 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
-        "name": "Acoustic Session, Vol. 01",
-        "url": "https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig"
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
       },
       "artists": [
         {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
         }
       ],
-      "duration_ms": 342250,
-      "name": "A Casa \u00c9 Sua - Acoustic Session",
-      "url": "https://open.spotify.com/track/2KF9qAiNUBdCAkFb1tiyk5"
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2023-02-24 11:07:17",
@@ -487,38 +519,6 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
-        "name": "Impressionante (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
-      },
-      "artists": [
-        {
-          "name": "Klebson Kollins",
-          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
-        }
-      ],
-      "duration_ms": 331250,
-      "name": "Impressionante - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
-    },
-    {
-      "added_at": "2023-02-24 11:07:17",
-      "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
-    },
-    {
-      "added_at": "2023-02-24 11:07:17",
-      "album": {
         "name": "N\u00e3o Mais Escravos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 246506,
       "name": "N\u00e3o Mais Escravos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0NW8ucEVIPzLRp4zBhJyv4"
+    },
+    {
+      "added_at": "2023-02-24 11:07:17",
+      "album": {
+        "name": "Acoustic Session, Vol. 01",
+        "url": "https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 280161,
+      "name": "Eu Te Vejo Em Tudo - Acoustic Session",
+      "url": "https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly"
     },
     {
       "added_at": "2023-02-24 11:07:17",
@@ -587,22 +603,6 @@
       "duration_ms": 337525,
       "name": "Eu e o Rei - Ao Vivo",
       "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
-    },
-    {
-      "added_at": "2023-02-24 11:07:17",
-      "album": {
-        "name": "Acoustic Session, Vol. 01",
-        "url": "https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 280161,
-      "name": "Eu Te Vejo Em Tudo - Acoustic Session",
-      "url": "https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly"
     },
     {
       "added_at": "2023-02-24 11:07:17",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
-        "name": "Milagres (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "Milagres - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
-    },
-    {
-      "added_at": "2023-02-24 11:07:17",
-      "album": {
         "name": "Miseric\u00f3rdia \u00c9s",
         "url": "https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 154104,
       "name": "Miseric\u00f3rdia \u00c9s",
       "url": "https://open.spotify.com/track/5AKt5pJIlou7XCZvWH1hGV"
+    },
+    {
+      "added_at": "2023-02-24 11:07:17",
+      "album": {
+        "name": "Milagres (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Milagres - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
     },
     {
       "added_at": "2023-02-24 11:07:17",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
-    },
-    {
-      "added_at": "2023-02-24 11:07:17",
-      "album": {
         "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
         "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 219625,
       "name": "Intimidade - Ao Vivo",
       "url": "https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG"
+    },
+    {
+      "added_at": "2023-02-24 11:07:17",
+      "album": {
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
     },
     {
       "added_at": "2023-02-24 11:07:17",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
-        "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
-        "url": "https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 252874,
-      "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF"
-    },
-    {
-      "added_at": "2023-02-24 11:07:17",
-      "album": {
         "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 437014,
       "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
+    },
+    {
+      "added_at": "2023-02-24 11:07:17",
+      "album": {
+        "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
+        "url": "https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 252874,
+      "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF"
     },
     {
       "added_at": "2023-02-24 11:07:17",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-02-24 11:07:17",
       "album": {
-        "name": "Prossiga",
-        "url": "https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 307319,
-      "name": "Prossiga",
-      "url": "https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi"
-    },
-    {
-      "added_at": "2023-02-24 11:07:17",
-      "album": {
         "name": "Weslei Santos no Ess\u00eancia Sessions",
         "url": "https://open.spotify.com/album/57c7bRChhj4vPRaeafLnI5"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 300734,
       "name": "Eu Te Agrade\u00e7o (Ess\u00eancia Sessions)",
       "url": "https://open.spotify.com/track/2gMLLBjJgVTWiH4u8X3xVV"
+    },
+    {
+      "added_at": "2023-02-24 11:07:17",
+      "album": {
+        "name": "Prossiga",
+        "url": "https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 307319,
+      "name": "Prossiga",
+      "url": "https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi"
     },
     {
       "added_at": "2023-02-24 11:07:17",

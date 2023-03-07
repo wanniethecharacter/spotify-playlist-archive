@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Adrenaline Kicks",
+        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+      },
+      "artists": [
+        {
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160390,
+      "name": "Adrenaline Kicks",
+      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+    },
+    {
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
@@ -108,7 +126,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 294600,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t"
@@ -409,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Death Jams",
+        "url": "https://open.spotify.com/album/2x44uTjnKxzCNujOQ3qCqM"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174297,
+      "name": "Death Jams",
+      "url": "https://open.spotify.com/track/4adnfSbly0bAD5YTDh30Jx"
+    },
+    {
+      "album": {
         "name": "Deathblow",
         "url": "https://open.spotify.com/album/6PmtZ0lfWZ5XFl4IryXLxa"
       },
@@ -516,7 +552,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-05",
+      "date_removed": null,
       "duration_ms": 240300,
       "name": "Die For This",
       "url": "https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG"
@@ -600,7 +636,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 203428,
       "name": "DROP IT - Better With Condom Remix",
       "url": "https://open.spotify.com/track/3yTdymL1rPChfLBzoyXqFG"
@@ -792,7 +828,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 153640,
       "name": "Franse Beuker",
       "url": "https://open.spotify.com/track/5ViJfFeCmWETxaW29QLMgr"
@@ -1188,7 +1224,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 144035,
       "name": "Hypnosis",
       "url": "https://open.spotify.com/track/77WTQNkAcCLStiMBWVySK9"
@@ -1250,7 +1286,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 161048,
       "name": "Imma Boss - Fraw Remix",
       "url": "https://open.spotify.com/track/0pKujVFb0bAPeCorHRkEjG"
@@ -1418,7 +1454,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 233806,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF"
@@ -1508,7 +1544,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 194332,
       "name": "MAKE IT POP",
       "url": "https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3"
@@ -1544,7 +1580,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 160187,
       "name": "Mi Madre",
       "url": "https://open.spotify.com/track/7sy5W4vCjRAifgy14muCpP"
@@ -1628,7 +1664,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 211727,
       "name": "NARKOS",
       "url": "https://open.spotify.com/track/2gCNvpnuWTcV05hpFzZ1xd"
@@ -1646,7 +1682,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 227294,
       "name": "No Matter",
       "url": "https://open.spotify.com/track/33C0wJkcVVMIy2aMIhgnVJ"
@@ -1668,7 +1704,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 201014,
       "name": "NO MONEY",
       "url": "https://open.spotify.com/track/6wXivsC50mnHuToD2BAytt"
@@ -1908,7 +1944,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 312838,
       "name": "Pussy Lovers - Gunz Pumping Remix",
       "url": "https://open.spotify.com/track/22ykr4tkk4WINmBZ2r9Zmv"
@@ -1970,7 +2006,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-16",
+      "date_removed": null,
       "duration_ms": 237818,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
@@ -2018,6 +2054,24 @@
       "duration_ms": 237677,
       "name": "Road Rage",
       "url": "https://open.spotify.com/track/5hZuHOC9L0OAYz26BHWsh3"
+    },
+    {
+      "album": {
+        "name": "RUDE METHODS",
+        "url": "https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188487,
+      "name": "RUDE METHODS",
+      "url": "https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV"
     },
     {
       "album": {
@@ -2266,7 +2320,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 222317,
       "name": "Syndicate Of Rave - Official Syndicate 2021 Anthem",
       "url": "https://open.spotify.com/track/2O4jRluPaWopM90WioFwHK"
@@ -2506,7 +2560,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 191428,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/0j6lCCFLzJWdNeNoRZhCa7"
@@ -2598,7 +2652,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "You Ain't Telling Me Shit",
       "url": "https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC"

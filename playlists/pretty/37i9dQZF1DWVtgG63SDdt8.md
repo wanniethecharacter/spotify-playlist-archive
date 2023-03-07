@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  LaTocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,438 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,567 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 55 | [Ungodly](https://open.spotify.com/track/7KetrsLsI4NlqVeIuYX0xG) | [Larell](https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw) | [Ungodly](https://open.spotify.com/album/7cKWVzaT3Pnr8qkhQ3ywg7) | 2:10 |
 | 56 | [Patience](https://open.spotify.com/track/0h6SHHQqcK32Wr9HjuWEuo) | [Triple O](https://open.spotify.com/artist/5XcUqQbaEWVFP2PU6HAnDT) | [Patience](https://open.spotify.com/album/0I2okndWeoiWSSfdRVP013) | 3:05 |
 | 57 | [Forever](https://open.spotify.com/track/4qmJJ3G4jBYGidkYAsdSI5) | [Kaboose](https://open.spotify.com/artist/2zD5NNTrgXT3o2RVrRBvv1), [Alyssa Jane](https://open.spotify.com/artist/22IXfQIItP8FJ1eLcKeNM9) | [Forever](https://open.spotify.com/album/5hrgVgSIJQfmbwhZUVgzua) | 2:45 |
-| 58 | [Gold Soul](https://open.spotify.com/track/2T9yGwYXDrzBe0YzWlO0fm) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Zee](https://open.spotify.com/artist/6ga1PbdZXrQvrlFjjSOVQ6), [Seth Benjamin](https://open.spotify.com/artist/2nrhvcz8dJeLzoNIuhrgGh) | [Gold Soul](https://open.spotify.com/album/7BXwjSTciPPPlHmtJqrafm) | 2:48 |
+| 58 | [Gold Soul](https://open.spotify.com/track/2T9yGwYXDrzBe0YzWlO0fm) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Zee](https://open.spotify.com/artist/0d2diExytbLBj7Ff3FLX9p), [Seth Benjamin](https://open.spotify.com/artist/2nrhvcz8dJeLzoNIuhrgGh) | [Gold Soul](https://open.spotify.com/album/7BXwjSTciPPPlHmtJqrafm) | 2:48 |
 | 59 | [IT TAKEZ 2](https://open.spotify.com/track/2kzSY131rue6HAzOUPEMzf) | [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [1995](https://open.spotify.com/artist/5JbYUdjaOALZLyhYRI79K2), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [BODEGA! DELUXE](https://open.spotify.com/album/3stR8IWgTa7ljuOQMPDkML) | 3:12 |
 | 60 | [Praise the Lord](https://open.spotify.com/track/2cslGS7Ol2JcFmjDQbnXIW) | [Lord Badu](https://open.spotify.com/artist/4jEb6WmKH5T9kxkuSoxQ55) | [Praise the Lord](https://open.spotify.com/album/1xWaEseHov8UnTKkGcAyEC) | 2:02 |
 | 61 | [Use A Friend \- Spotify Singles](https://open.spotify.com/track/2UcL1AVLr0292Rci5S1cpu) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Spotify Singles](https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Yet Not I But Through Christ In Me \- Live](https://open.spotify.com/track/4AyMkg7hwh0JImec4c1PdE) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C) | [Yet Not I But Through Christ In Me \(Live\)](https://open.spotify.com/album/5ZECpVVy0yf8mC2Cq9wEbD) | 4:42 |
 | 100 | [You Hold It All](https://open.spotify.com/track/7dqrnw5tNT5pFMNqqmcND1) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [You Hold It All](https://open.spotify.com/album/60r65i9JdzwZWRsQIP2lvb) | 2:25 |
 
-Snapshot ID: `MTY3NzgyNzY0NSwwMDAwMDAwMDhmZjJmMTMwZjA1MDYyYjAzODJlNDU0NDc2OGRiZjFj`
+Snapshot ID: `MTY3NzgyNzY0NSwwMDAwMDAwMDI2NGUzY2JkNzQ2MzhjNzdjZmNjNWQ3YmRkZTliMWM1`

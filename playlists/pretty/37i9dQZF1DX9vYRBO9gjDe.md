@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。3月4日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,149 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,225 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [にじいろ](https://open.spotify.com/track/3JrxNi0sQ1Lnx8eGonp3Ma) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [レインボーロード](https://open.spotify.com/album/0PxbPJV4yqtEe6Vk6nvK03) | 3:44 |
 | 50 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
 
-Snapshot ID: `MTY3ODAyNDk1NCwwMDAwMDAwMDcyMDZjMWJlMDhkNjIyOTRmN2QzNzU4ZGQyZTZiYTM5`
+Snapshot ID: `MTY3ODAyNDk1NCwwMDAwMDAwMDQ3YzRjZGMzMTFjZTkwNDE3ZjdhNWEzMzQyOGZmYTkx`

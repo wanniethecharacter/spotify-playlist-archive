@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,234 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,435 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
 | 99 | [I'm The One](https://open.spotify.com/track/4QZ4TuOBORzBr7dPuTaXkX) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [I'm The One](https://open.spotify.com/album/3vBSsA8nIL5aJYLxiXiZzD) | 3:20 |
 
-Snapshot ID: `MTY3Nzg1NDU0NywwMDAwMDAwMDljM2IyMmZhOTJkYTc1OGViYTRhMzYzNWUxNWRmMjgy`
+Snapshot ID: `MTY3ODA5NDc3MywwMDAwMDAwMDA0YWNmNmY1ZTI3Mzk5MTkyZWIxMjRiM2IzYzcyNGMw`

@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Youth Lagoon
 
-4,921 songs - 12 day 0 hr 34 min
+4,922 songs - 12 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,7 +561,8 @@
 | [bones](https://open.spotify.com/track/3iiWBQdl6H8xtwC5i2wVFF) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Bones](https://open.spotify.com/album/2X4ANfaVHU15i4IwvBugPB) | 2:48 | 2023-01-13 | 2023-02-18 |
 | [Bones](https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Bones](https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy) | 4:05 | 2022-05-20 | 2022-07-09 |
 | [Bones \(God Like You\)](https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Bones \(God Like You\)](https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ) | 2:48 | 2022-07-01 | 2022-07-30 |
-| [Bonfire](https://open.spotify.com/track/4baCFMTnuJ3dZByzDqH5Vb) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Bonfire](https://open.spotify.com/album/7ddufmgNH80Koz363srzHB) | 4:00 | 2023-02-10 |  |
+| [Bonfire](https://open.spotify.com/track/4baCFMTnuJ3dZByzDqH5Vb) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Bonfire](https://open.spotify.com/album/7ddufmgNH80Koz363srzHB) | 4:00 | 2023-02-10 | 2023-03-07 |
+| [Bonfire](https://open.spotify.com/track/6CG8dgiiPzPvEmSC3XOhpC) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Music for the Future](https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm) | 4:00 | 2023-02-10 |  |
 | [Book Of Our Names](https://open.spotify.com/track/1RJKZ9na1sB3RrUIEeinLg) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Book Of Our Names](https://open.spotify.com/album/2P6xXZdy5Gxn5EhqAGqhTF) | 3:31 | 2022-04-08 | 2022-04-23 |
 | [bop it up!](https://open.spotify.com/track/06yhr4JeQjIcyDZwEwjGcm) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [bop it up!](https://open.spotify.com/album/2N0mrM0E67bgXuOkeuEHjC) | 2:46 | 2020-10-24 | 2020-12-22 |
 | [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 | 2023-01-06 | 2023-01-28 |

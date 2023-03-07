@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Winaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,684 likes - 63 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,716 likes - 63 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 62 | [They Don't Mean a Thing](https://open.spotify.com/track/6uTaEiDGoRtzR2zpiQP2LY) | [Alvin Wardiman](https://open.spotify.com/artist/1C1xHPlFYwO4XsngjC87yt) | [They Don't Mean a Thing](https://open.spotify.com/album/4qld8aPUSIZkfReQYd1Kwm) | 4:06 |
 | 63 | [tequila on our 17th](https://open.spotify.com/track/7kQBD92BIaq8bHIjiU1t81) | [Calinn](https://open.spotify.com/artist/6SbqLtBLg1JMLhQWDt5r4E) | [tequila on our 17th](https://open.spotify.com/album/3ifkMTDTlVljVWGaSV8RLc) | 3:53 |
 
-Snapshot ID: `MTY3Nzg0Mjc2NSwwMDAwMDAwMDIzMTYxYjhkNjc3YmI4Nzg0ZmE3ZDQ0YWUzNDlhZDIw`
+Snapshot ID: `MTY3Nzg0Mjc2NSwwMDAwMDAwMDRiZWJiYzMwMjZmNDBhZDMxNWM2MjJlN2Q1ODE2ZmI2`

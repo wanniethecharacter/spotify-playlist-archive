@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 60123,
+  "num_followers": 60141,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDQ3YmIwMmUzMmRlY2JkNmRkZjU3ODgzNzE0NGIzZDY2",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDEwZjczZDkzYjUyNDUyZWRlNjM0OWQxYzdkMTE3Zjc5",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "100 \u00edslensk \u00ed fer\u00f0alagi\u00f0",
-        "url": "https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3hanna Gu\u00f0r\u00fan",
-          "url": "https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu"
-        }
-      ],
-      "duration_ms": 180558,
-      "name": "Is It True?",
-      "url": "https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "\u0421\u043e\u043b\u043d\u0446\u0435",
         "url": "https://open.spotify.com/album/3Be7rJ72wTrmE0W6oSUt32"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 178880,
       "name": "Shady Lady",
       "url": "https://open.spotify.com/track/0DHet9TdSsdouIbOjvLf3m"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "100 \u00edslensk \u00ed fer\u00f0alagi\u00f0",
+        "url": "https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hanna Gu\u00f0r\u00fan",
+          "url": "https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu"
+        }
+      ],
+      "duration_ms": 180558,
+      "name": "Is It True?",
+      "url": "https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "P\u00e4rlor - Antique",
-        "url": "https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU"
-      },
-      "artists": [
-        {
-          "name": "Antique",
-          "url": "https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G"
-        }
-      ],
-      "duration_ms": 178053,
-      "name": "(I Would) Die For You",
-      "url": "https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "This Is Our Night",
         "url": "https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 177562,
       "name": "This Is Our Night",
       "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "P\u00e4rlor - Antique",
+        "url": "https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU"
+      },
+      "artists": [
+        {
+          "name": "Antique",
+          "url": "https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G"
+        }
+      ],
+      "duration_ms": 178053,
+      "name": "(I Would) Die For You",
+      "url": "https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL"
     },
     {
       "added_at": "2022-05-16 13:21:08",

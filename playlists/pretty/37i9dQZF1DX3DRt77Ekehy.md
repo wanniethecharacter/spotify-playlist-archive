@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 
 > Tune in, resonate and manifest at 432 hertz..\. <br/>A positive solfeggio frequency to meditate to
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,169 likes - 86 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,809 likes - 86 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 | 85 | [432 Hz Calm Down](https://open.spotify.com/track/4akwXGgZFoFluoLdNYE6As) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [432 Hz Recovery](https://open.spotify.com/album/7zhD1a20UknFtOrI6dWiZL) | 2:57 |
 | 86 | [432hz Manara \(Lighthouse\)](https://open.spotify.com/track/4Q3jMkeCcW0HQlDIAzQYBN) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Manara \(Lighthouse\)](https://open.spotify.com/album/44Bv426Wz9k6NjE9Boh5cG) | 3:01 |
 
-Snapshot ID: `MTY3Njk4Mjc2NiwwMDAwMDAwMDQ3MDBlYzZiYjY0NTMyN2U4YzAyYjQ1MmM5YWUyNjUw`
+Snapshot ID: `MTY3Njk4Mjc2NiwwMDAwMDAwMDY0OTRiMTUwNWMyOTE2MTBhNjRlMTVhYTNlNzZiNGFh`

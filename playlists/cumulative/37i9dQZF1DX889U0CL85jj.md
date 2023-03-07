@@ -4,7 +4,7 @@
 
 > Just chill.
 
-453 songs - 1 day 2 hr 1 min
+454 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,13 +34,14 @@
 | [Angel's Song](https://open.spotify.com/track/5hXTMmVXz1Ablgu34BkTz1) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Angel's Song](https://open.spotify.com/album/0Ym8AaoLrK5HHQ0lCYgASd) | 3:17 | 2019-12-06 | 2022-01-22 |
 | [angels \(emily\)](https://open.spotify.com/track/4CwgOt8rqXn4t9wOQB6Lej) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [angels \(emily\)](https://open.spotify.com/album/33RyzgCDN8X2JhPVolscRw) | 2:49 | 2020-12-11 | 2022-01-22 |
 | [anywhere](https://open.spotify.com/track/2AuLEJxJsMVjFggVyv80ev) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [souvenir](https://open.spotify.com/album/4cabxBosFk0C7xVD1lVitq) | 3:08 | 2022-04-29 |  |
+| [apathy](https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 3:09 | 2023-03-06 |  |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2022-08-02 |  |
 | [As if the Sea Should Part \- Adam Dodson x rhubiqs remix](https://open.spotify.com/track/2mLxwzYA4HvOLrlPVY2QUo) | [Jason Keisling](https://open.spotify.com/artist/11BnYiy4JkEXwZUVGBVnRH), [Adam Dodson](https://open.spotify.com/artist/0me95qZRAj797NaS72KUCZ), [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT) | [As if the Sea Should Part \(Adam Dodson x rhubiqs remix\)](https://open.spotify.com/album/0g4l3sXMYPCMFS2HYjDyAY) | 5:00 | 2022-10-13 | 2022-11-26 |
 | [As It Was](https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [As It Was](https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl) | 3:10 | 2022-10-08 |  |
 | [Automatic \- Orion Sun Remix](https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Automatic \(Orion Sun Remix\)](https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ) | 2:04 | 2021-06-07 | 2022-01-22 |
 | [Averío De Ti](https://open.spotify.com/track/45PSB45t9c5XcDZ0Abft6X) | [Carolina Sarta](https://open.spotify.com/artist/38Tnki67cV9yqRdfTv1JxF), [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Averío De Ti](https://open.spotify.com/album/3EcmfOJQR9kIQRSbxQQe3v) | 3:12 | 2022-09-02 |  |
 | [Azul](https://open.spotify.com/track/5ft3oLnoWPgrH7xMf5auO7) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Azul](https://open.spotify.com/album/4SQJqQE51LU9pTWX0zC7s6) | 3:06 | 2020-07-31 | 2022-01-22 |
-| [Baby Blue Eyes](https://open.spotify.com/track/1cQvQwl6KNmXQuD69ytYX1) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Baby Blue Eyes](https://open.spotify.com/album/4Ime9yylJOlanUElSsvltm) | 3:29 | 2022-11-11 |  |
+| [Baby Blue Eyes](https://open.spotify.com/track/1cQvQwl6KNmXQuD69ytYX1) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Baby Blue Eyes](https://open.spotify.com/album/4Ime9yylJOlanUElSsvltm) | 3:29 | 2022-11-11 | 2023-03-07 |
 | [Back To You](https://open.spotify.com/track/5kdMBPrJNUjFnT9scCIIZq) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [iamnotshane](https://open.spotify.com/album/3UOa7f8LdL49ghQq1aWHd0) | 2:40 | 2020-03-19 | 2022-01-22 |
 | [Bad Company](https://open.spotify.com/track/324lDigyaxTDd7UG2PGisD) | [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Bad Company](https://open.spotify.com/album/4WwvhF9b5WtWhUS3mjAVve) | 3:39 | 2020-03-26 | 2022-01-22 |
 | [Bamboo](https://open.spotify.com/track/1r5KciSPXmBoyipN2UvCGk) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [elizatwinkies](https://open.spotify.com/artist/7i2E2RkfMP2y8HMKkcD16P) | [Bamboo](https://open.spotify.com/album/3SabVlWz5Xkwcf2tWtrAfo) | 2:56 | 2020-05-22 | 2022-01-22 |

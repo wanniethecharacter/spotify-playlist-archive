@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,334 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,607 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 74 | [Blow Our Cover](https://open.spotify.com/track/67hXpN0LZxZgQN2bS12mRf) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Blow Our Cover](https://open.spotify.com/album/5diAiYQd0LqFslr6jxEhWj) | 2:48 |
 | 75 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 |
 
-Snapshot ID: `MTY3Nzc2MjAwMCwwMDAwMDAwMDBlYWU3YWZiNDc4NzI4YTMyY2Y5Yzg3NmJjMTU0MzJk`
+Snapshot ID: `MTY3Nzc2MjAwMCwwMDAwMDAwMGUwOTk5NTYwNzYwMTU2NTA3NzU3YjYyM2UyMjM1ZTZi`

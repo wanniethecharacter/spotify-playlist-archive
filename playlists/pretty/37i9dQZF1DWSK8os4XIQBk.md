@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,222 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,322 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 99 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 |
 | 100 | [Close To You](https://open.spotify.com/track/3hivGTG25qjgCFU9fGL1x1) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Four Good Years](https://open.spotify.com/album/3OFpU1aJJJzwEI7ixUZer1) | 2:45 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGYzY2MyOGZhMzAzODM1MjU4MjAwNDc5ZjdhZjBjMGUx`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGEzZmQ0ZTk0YThiMTQ4ODkzMzkzOTIyMDNkODAxMzcx`

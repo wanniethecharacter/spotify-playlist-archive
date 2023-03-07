@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Youth Lagoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,814 likes - 174 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,986 likes - 174 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 127 | [Night Vision](https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Night Vision](https://open.spotify.com/album/4lN4JWv9uMwvZ7eL1XviGa) | 3:50 |
 | 128 | [More Than Fine](https://open.spotify.com/track/4BAT0xxJnymne7WzeT0Upq) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [More Than Fine](https://open.spotify.com/album/7z7MswXt77DjYaKSuUOmHV) | 3:27 |
 | 129 | [Girls Are Mean](https://open.spotify.com/track/0fMtFak025bkGYL8GHQ2UE) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Girls Are Mean](https://open.spotify.com/album/182qE2hYjrQqJie3Dqrzlo) | 2:50 |
-| 130 | [Bonfire](https://open.spotify.com/track/4baCFMTnuJ3dZByzDqH5Vb) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Bonfire](https://open.spotify.com/album/7ddufmgNH80Koz363srzHB) | 4:00 |
+| 130 | [Bonfire](https://open.spotify.com/track/6CG8dgiiPzPvEmSC3XOhpC) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Music for the Future](https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm) | 4:00 |
 | 131 | [Risk to my Reward](https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Risk to my Reward](https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw) | 2:51 |
 | 132 | [It's Just A Bit Of Blood](https://open.spotify.com/track/2lToI26o842YtPLOQHPM7r) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [It's Just A Bit Of Blood](https://open.spotify.com/album/12DSMvIltoBDrMGwFgDLgn) | 4:46 |
 | 133 | [Grief](https://open.spotify.com/track/5t9LP7mKj0KQPtg3LN5kvn) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Grief](https://open.spotify.com/album/57cK7JRwiSTzqEtNMVE6O7) | 3:39 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 173 | [Sick of Being Young](https://open.spotify.com/track/0B2K9f0kVANUarmZNHcTLw) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [Sick of Being Young](https://open.spotify.com/album/6o8iNwAFCq5jcZm05ERIv6) | 2:59 |
 | 174 | [Highwire Days](https://open.spotify.com/track/1W3bzGF3V7mLGDa3cfYGpF) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Highwire Days](https://open.spotify.com/album/3EsY0dzU2ZGH15VC7MbwTi) | 3:38 |
 
-Snapshot ID: `MTY3NzkwNjIzMywwMDAwMDAwMDk0ZjAyMGEyZjgxNjliMDM4Y2MwMjhjYTUyYTA5Mzcy`
+Snapshot ID: `MTY3NzkwNjIzMywwMDAwMDAwMDYzZjJmN2YzYzYwOWI1MmE3NTg4NGJhZjE4YTc4ZDAz`

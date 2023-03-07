@@ -2,7 +2,7 @@
 
 ### [Perreo Party](https://open.spotify.com/playlist/37i9dQZF1DWXRx4AFLjzB2)
 
-> Only perreo!
+> Spring break full of perreo!
 
 142 songs - 8 hr 20 min
 

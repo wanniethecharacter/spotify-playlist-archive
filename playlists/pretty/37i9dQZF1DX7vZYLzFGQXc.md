@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: V1VA\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,948 likes - 93 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,951 likes - 93 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 92 | [세션맨](https://open.spotify.com/track/17Zyp5evNDU8i3A21bX7ii) | [AMHO](https://open.spotify.com/artist/5HletaYAQGurTXlY0WfFHs) | [SESSION MAN](https://open.spotify.com/album/4uVMcFU1GiebB352eAsI6p) | 3:42 |
 | 93 | [WYA](https://open.spotify.com/track/0pZ8Y9fgNWVukHGF441xqA) | [MGFF](https://open.spotify.com/artist/0gnodTptHI3U140iAE7HDl) | [MOIM](https://open.spotify.com/album/2VlR7hshadizStmHBSmoGR) | 3:22 |
 
-Snapshot ID: `MTY3NzczNDA3OSwwMDAwMDAwMDRhNjljZTE2ZWQ4YTU1MWRmMGYyNDE0ZGFiMjhhYjA4`
+Snapshot ID: `MTY3NzczNDA3OSwwMDAwMDAwMGQzMzYzMmJlN2YwOWZjNTVjNjFjNjg2OGU0OGI1Mzdl`

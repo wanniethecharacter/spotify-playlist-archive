@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'E Cose Bell",
+        "url": "https://open.spotify.com/album/4U6REdkekt7LDSUVRTmfAc"
+      },
+      "artists": [
+        {
+          "name": "Lucariello",
+          "url": "https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160909,
+      "name": "'E Cose Bell",
+      "url": "https://open.spotify.com/track/34ez6AvIIDQfvn2qrqvBgM"
+    },
+    {
+      "album": {
         "name": "'O NOMME",
         "url": "https://open.spotify.com/album/0PWAS2mH0qvRuT5Pos0Q5Q"
       },
@@ -218,7 +236,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 169239,
       "name": "BENJAMINS (feat. MV Killa, Yung Snapp, Lele Blade)",
       "url": "https://open.spotify.com/track/5fevLKhPKHtyJOtaL9DF67"
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 189620,
       "name": "OMBRELLO",
       "url": "https://open.spotify.com/track/7yxJ1UAV4FrpGsOiQrp1WV"
@@ -3133,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "U&Me",
+        "url": "https://open.spotify.com/album/1puWVzOemxlp8c2QQGaar9"
+      },
+      "artists": [
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193613,
+      "name": "U&Me",
+      "url": "https://open.spotify.com/track/6jueM7b7fc7eWQcgnTu9Rr"
+    },
+    {
+      "album": {
         "name": "UEUE",
         "url": "https://open.spotify.com/album/2XCdtqGGbxzFq6OVg5jVK9"
       },
@@ -3296,7 +3332,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 172491,
       "name": "Welcome To Favelas",
       "url": "https://open.spotify.com/track/0m0usigRxg1cvBo0ezr0ts"

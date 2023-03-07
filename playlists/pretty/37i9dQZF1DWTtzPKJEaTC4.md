@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:02HpkiuAylAwAnQBswaXlP">Terri Lyne Carrington</a> shares her jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,288 likes - 27 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,254 likes - 27 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 26 | [Pace](https://open.spotify.com/track/0Pica2SLigNeS6dd14gclm) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [SOURCE](https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6) | 7:52 |
 | 27 | [Unconditional Love](https://open.spotify.com/track/3KvLcnv7irEiRuXFyNlsvT) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Emily’s D+Evolution](https://open.spotify.com/album/1aGm5Dz2FocgtXxKfrK0gn) | 3:46 |
 
-Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMGQ0NzBkNzZjMjRkMzJmMjdkN2Y0ZThjZGIwMGM2ZGNm`
+Snapshot ID: `MTY3NTQwMDQwMCwwMDAwMDAwMDFiNjQ4NDc1MzMzNGJmOTFkYzczNzcyZjY2MTM4Nzg2`

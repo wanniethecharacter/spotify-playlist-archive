@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Grupo Los de la O & Tony Aguirre en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,468 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,731 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [El Plumas](https://open.spotify.com/track/0HPVA8D3dB1VvmCKW7epcN) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Plumas](https://open.spotify.com/album/2m1Z4pRYQopVrLb5jKqNBT) | 2:08 |
 | 75 | [Oro Negro](https://open.spotify.com/track/627JaIxyG2KyF2BKRMOPhK) | [Los De La 21](https://open.spotify.com/artist/1BGwlfPEZp2S4eBxOclgaE) | [Oro Negro](https://open.spotify.com/album/6QeXTk5uTSARcSO6NR7OJF) | 3:41 |
 
-Snapshot ID: `MTY3NzgyMzIwMCwwMDAwMDAwMGI2ZThhYWFmMTY3YzFhYjkxOTFiYTAwYTg0NmVjOGFi`
+Snapshot ID: `MTY3NzgyMzIwMCwwMDAwMDAwMGJlZjE3ZjE5NjY4NTZkZjAxNTdlOGI2MDdlNGE5YmNj`

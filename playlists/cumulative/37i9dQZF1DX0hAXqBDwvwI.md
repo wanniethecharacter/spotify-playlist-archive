@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-614 songs - 1 day 16 hr 31 min
+615 songs - 1 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Stranger](https://open.spotify.com/track/2g3R8innEqjZN0et6hSbVY) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Stranger](https://open.spotify.com/album/2Sz9p0ivUrlqKsSSu4pijV) | 3:35 | 2022-06-03 | 2022-06-13 |
 | [Strangers](https://open.spotify.com/track/0S94H0JHLS3P9C5sgofjIj) | [TRD](https://open.spotify.com/artist/6uLJZQnkE2LOdY4iitog1A) | [Strangers](https://open.spotify.com/album/77uZoegjsuyArwPIFFlVRY) | 3:54 | 2022-07-14 | 2022-07-20 |
 | [Super Bright Shining Girl "Chika"](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2022-07-14 | 2022-07-18 |
+| [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2023-03-06 |  |
 | [SWEET MOONLIGHT](https://open.spotify.com/track/4Xc5dFjD5ceLgRKKLI3D7L) | [BREAKERZ](https://open.spotify.com/artist/1U1oKFcjwl8Tb3b3APG9lE) | [SWEET MOONLIGHT](https://open.spotify.com/album/0mMRdHKZwUomD5L4r12LF9) | 3:06 | 2022-07-14 | 2022-07-27 |
 | [Synthetic Sympathy](https://open.spotify.com/track/4j3Pltbaj60JQJGKqsXkkb) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [wyxt.](https://open.spotify.com/album/0ob5CzODkCFV3LSZjIRmmb) | 3:06 | 2022-06-03 | 2022-06-13 |
 | [Tail](https://open.spotify.com/track/2J7EDsnqCVCiXxYvtcYujV) | [山下大輝](https://open.spotify.com/artist/4JFyikk3GFeUaSYiSKuXEB) | [hear me?](https://open.spotify.com/album/3XP7cOF2GmNcZsycqYyp89) | 3:42 | 2022-06-24 | 2022-06-29 |
@@ -548,7 +549,7 @@
 | [火炎](https://open.spotify.com/track/3xVCQGla5LLhrwqNS2FcHo) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [Fire \(Full Edition\)](https://open.spotify.com/album/74Ml5uN949WSHheLQxgaeB) | 3:35 | 2022-07-28 | 2022-09-16 |
 | [灯日](https://open.spotify.com/track/5shTlJsofq6UMl93Q4BwDZ) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [灯日](https://open.spotify.com/album/4IG5QN4PXjTZBsGTlPzggG) | 3:15 | 2022-06-24 | 2022-07-27 |
 | [灰色のサーガ](https://open.spotify.com/track/2prKFbvl9cvM2IKDB1twOi) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [灰色のサーガ](https://open.spotify.com/album/2jZ60kmYUrfI8X5ozmXi25) | 3:32 | 2022-07-26 | 2022-07-28 |
-| [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 | 2022-06-03 |  |
+| [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 | 2022-06-03 | 2023-03-07 |
 | [無心拍数 \- アオアシ ver.](https://open.spotify.com/track/5PfEiDJQNLsk0XCZ0GH1FJ) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [無心拍数 \(アオアシver.\)](https://open.spotify.com/album/59Cuih5G9jnGF2Qs5WrmvH) | 3:30 | 2022-07-28 | 2022-09-16 |
 | [無敵☆moment](https://open.spotify.com/track/2goljoDnqomoNJJ2p3riqj) | [Peaky P\-key](https://open.spotify.com/artist/2y2OpuI8DOIoELH8NEqd6D) | [無敵☆moment](https://open.spotify.com/album/19PpDv8I45mvefli1Nuwdx) | 4:53 | 2022-07-14 | 2022-07-25 |
 | [熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:43 | 2022-07-28 | 2023-01-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,341 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,370 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 99 | [Lucha](https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6) | [AKACATS](https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Lucha](https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6) | 3:26 |
 | 100 | [Champurria \(Mestizo \- Mestiza\)](https://open.spotify.com/track/5JQSEd9TCQjv3QhWJji5lQ) | [Luanko](https://open.spotify.com/artist/7J7cHGJ6KfcK5diHzt78k4) | [Champurria \(Mestizo \- Mestiza\)](https://open.spotify.com/album/1Dw7LcmouwJyN2KIS4sjhD) | 3:41 |
 
-Snapshot ID: `MTY3NTM5MzIwMCwwMDAwMDAwMDhmNWUyN2Q4ZDBiYjczZjc4MzM4MGYyMDg0Zjk1ZTFl`
+Snapshot ID: `MTY3NTM5MzIwMCwwMDAwMDAwMGE1OWJlMzcwNjAyMTJhOGRmMDEzZThkNWQ4NDk3OWM4`

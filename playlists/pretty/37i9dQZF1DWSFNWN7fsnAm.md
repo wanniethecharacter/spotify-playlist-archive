@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,366 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,401 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 | 74 | [My Church](https://open.spotify.com/track/6TKfUcycoUsmVPPmow9UVl) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [My Church](https://open.spotify.com/album/6Q7Jq268XHZ8p43gt5Unkq) | 3:19 |
 | 75 | [Better \(feat\. Teddy Swims\) \- Coco & Breezy Remix](https://open.spotify.com/track/3UlDH6ha7GsPkxKWpH8sPu) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Better EP \(feat\. Teddy Swims\)](https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy) | 3:27 |
 
-Snapshot ID: `MTY3Nzc5OTUyMCwwMDAwMDAwMGM2ZDdhNWY5ZmY5ZDQ2ZmEyNjc1OGFkMjNhMDQ1MGI5`
+Snapshot ID: `MTY3Nzc5OTUyMCwwMDAwMDAwMGRjNzcxNTk1NWI0M2ZhNTkxZTIzMmZlNGMyMGRjZjk5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy?si=bVY7L2IsT2WrsEWdiJNLJg">Bokani Dyer</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,798 likes - 80 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,803 likes - 80 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 79 | [Indawu](https://open.spotify.com/track/1nKWE1I0RRz5RgykyKPEDB) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Modes Of Communication: Letters From The Underworlds](https://open.spotify.com/album/6D5gR5dxP0iUeueQlwRQDe) | 8:34 |
 | 80 | [Red Room](https://open.spotify.com/track/7qCcZTizjFBYCdqGjhvCoV) | [Tune Recreation Committee](https://open.spotify.com/artist/6lNEil3Rutgl0lscHp9pZx) | [Afrika Grooves With the Tune Recreation Committee](https://open.spotify.com/album/7etAEMYrH6A4M3Q7LvaycA) | 7:07 |
 
-Snapshot ID: `MTY3NTk4NjAxMiwwMDAwMDAwMDIxZGYzOTJiYzQxYzVmNTMyMjliOTUyYTM2NGU4NmY1`
+Snapshot ID: `MTY3NTk4NjAxMiwwMDAwMDAwMDVmOGZjMWY1OGU5MGRiYmM3MWE2MTVmYzVkYmU5NmJi`

@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Agnes Nunes
 
-275 songs - 13 hr 49 min
+277 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Ceder](https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Ceder](https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS) | 3:17 | 2022-06-14 | 2022-07-02 |
 | [cedo pra dizer](https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [cedo pra dizer](https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR) | 3:06 | 2023-02-03 |  |
 | [Coisa Luz](https://open.spotify.com/track/7fOGpThy7S9B8bXkRftLXj) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Coisa Luz](https://open.spotify.com/album/5gAMEcKyLLcSDjmIYi5con) | 2:52 | 2022-05-13 | 2022-10-11 |
+| [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 | 2023-03-06 |  |
 | [Como Eu Quero](https://open.spotify.com/track/7dsFoAxXjAlvVOXhRkD4sb) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Como Eu Quero](https://open.spotify.com/album/2egRHyN8fmTQjDi7mRLQjB) | 2:47 | 2022-06-03 | 2022-12-10 |
 | [Como Se O Amanha Não Fosse Chegar \- Ao Vivo](https://open.spotify.com/track/4wxIhBInWQcvbZZMhPt21b) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 3:02 | 2022-10-10 | 2022-10-22 |
 | [Condição](https://open.spotify.com/track/27qcJqjaTfi0kNWLVaTxcH) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Condição](https://open.spotify.com/album/29ZkkYqN1Sy2p1K66HCGaO) | 2:39 | 2022-05-13 | 2022-06-15 |
@@ -115,7 +116,7 @@
 | [Faz Frio Aqui no Sul](https://open.spotify.com/track/13CbrA1hFYQE7gJUcLY99L) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk) | [Faz Frio Aqui no Sul](https://open.spotify.com/album/0H6AIKJCX6yj8NCnM9qaNS) | 2:48 | 2022-08-05 | 2022-09-03 |
 | [feitiço](https://open.spotify.com/track/6SB9mfvH0SoT3qoRbeOTlL) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [feitiço](https://open.spotify.com/album/2rbpZj8PRp8yCBRVwd04vY) | 3:02 | 2022-10-21 | 2022-11-12 |
 | [Fica lá Com Ela](https://open.spotify.com/track/0D4oKyrvWNp7ONO0H7xlc5) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Unilateral](https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO) | 2:37 | 2022-11-11 |  |
-| [FICA PRO CAFÉ](https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [FICA PRO CAFÉ](https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId) | 2:30 | 2022-11-11 |  |
+| [FICA PRO CAFÉ](https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [FICA PRO CAFÉ](https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId) | 2:30 | 2022-11-11 | 2023-03-07 |
 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 | 2022-11-11 |  |
 | [fico mais leve](https://open.spotify.com/track/5Q2Ao87PW5rxZqF5JCjtk7) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [fico mais leve](https://open.spotify.com/album/1p7gZmejbbMBXt7xMOIwh9) | 2:14 | 2022-05-13 | 2022-06-04 |
 | [Fim do Mundo](https://open.spotify.com/track/6ZIylywjoQtsAbUhvrtwuH) | [Mathias](https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28) | [Fim do Mundo](https://open.spotify.com/album/3cJTbDY2c0qiaUEjshzblz) | 3:00 | 2022-08-01 | 2022-09-03 |
@@ -187,6 +188,7 @@
 | [Oi Sumido](https://open.spotify.com/track/1L0x0SGUaUMDJSPVSs2LhY) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Oi Sumido](https://open.spotify.com/album/1etuvaB2Anel6HSOW2f47m) | 2:31 | 2022-09-16 | 2022-10-11 |
 | [Oi Sumido](https://open.spotify.com/track/7a56p3neclUh34UPhndqAe) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Oi Sumido](https://open.spotify.com/album/1syJN4C3ySg3i595zybozJ) | 2:31 | 2022-05-13 | 2022-09-19 |
 | [Olha Bela](https://open.spotify.com/track/3r6dxRa9SNMWSah8R9VDyW) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Olha Bela](https://open.spotify.com/album/2H84den6cdw9vICRQfwav0) | 2:49 | 2023-02-03 |  |
+| [Olhar Sereno](https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Olhar Sereno](https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL) | 3:05 | 2023-03-06 |  |
 | [Olho de Girassol](https://open.spotify.com/track/3s0A8jRhbklln6u5eZFxSX) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Bráulio Bessa](https://open.spotify.com/artist/4G22JHSJnunUt8t3yMt46A) | [Olho de Girassol](https://open.spotify.com/album/6sFjAGgZMaQTYa4j5OlJhj) | 3:14 | 2022-08-19 | 2023-01-28 |
 | [Olhos Caramelos](https://open.spotify.com/track/1RXevytE5CpdBZYvkQkQJa) | [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96) | [Olhos Caramelos](https://open.spotify.com/album/50M4O5lbjQaKI8lk3xeR3N) | 3:12 | 2022-06-24 | 2022-08-02 |
 | [Olhos Cor de Mel](https://open.spotify.com/track/1yEyhET3yLUypqqD3Juvqw) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Olhos Cor de Mel](https://open.spotify.com/album/7y4uE2werAmyajYm5PMU7M) | 2:21 | 2022-05-13 | 2022-07-29 |
@@ -268,7 +270,7 @@
 | [Vem Meu Amor](https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Vem Meu Amor](https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw) | 2:35 | 2023-02-03 |  |
 | [vem pra perto](https://open.spotify.com/track/1HfYw6gTSOzeCFwdEJ3fqr) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [vem pra perto](https://open.spotify.com/album/7BTA7ELwKm8YRLpZpsG1PE) | 2:49 | 2022-09-09 | 2023-01-28 |
 | [Ver Em Cores](https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:03 | 2022-12-02 |  |
-| [VERÃO DOS MEUS SONHOS](https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [REALVERSO: Lado A](https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ) | 3:09 | 2023-02-10 |  |
+| [VERÃO DOS MEUS SONHOS](https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [REALVERSO: Lado A](https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ) | 3:09 | 2023-02-10 | 2023-03-07 |
 | [Viciado em Você](https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Viciado em Você](https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb) | 2:27 | 2022-06-14 | 2022-08-06 |
 | [Vida Livre](https://open.spotify.com/track/7uzqTJLFkKJd8724zmcmV5) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Aetd+](https://open.spotify.com/album/60UPKT3azkcUp2wc4WxKIz) | 3:27 | 2022-05-13 | 2022-06-04 |
 | [Voa Comigo](https://open.spotify.com/track/5lOfQOMUWLoTnHLG55b89p) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Voa Comigo](https://open.spotify.com/album/0n88BIlztRuQRRZj5hH92C) | 2:49 | 2022-05-13 | 2022-12-03 |

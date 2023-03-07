@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Oliver Tree & David Guetta, Sigala, Linkin Park, NiziU and more! Cover: Oliver Tree & David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,147 likes - 73 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,159 likes - 73 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 72 | [Endlessly](https://open.spotify.com/track/2XM0y8rmX13FWSGDhgvqlX) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Endlessly](https://open.spotify.com/album/4SyKnlO19mrQhdvbAEwnQn) | 3:36 |
 | 73 | [FourSixty \- Feat\. Aaron Taylor](https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Lotus Glow](https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv) | 3:12 |
 
-Snapshot ID: `MTY3Nzc2OTIwMCwwMDAwMDAwMDE5NTAyMTExYjM4ZWM1MDU2OTkwZTcxODJjYTJkY2E1`
+Snapshot ID: `MTY3Nzc2OTIwMCwwMDAwMDAwMGM5YzI5Y2EwYzkxZGY2NmE2ZDA3ZjEwY2Y4YTUyMGY2`

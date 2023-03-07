@@ -1,12 +1,12 @@
 {
   "description": "Rap from hell. Cover: $uicideboy$ & Shakewell",
-  "num_followers": 440952,
+  "num_followers": 441287,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDI5NzBjNThhOWNlMjdlYTRhYTE0NDUwMTdlMDQ2YWM2",
+  "snapshot_id": "MTY3ODEzMTAwMSwwMDAwMDAwMDUwMmM1ODAzNWY0MTNkN2U4YTVhYWE5MzIzNzZkYTE2",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -23,30 +23,6 @@
       "duration_ms": 130914,
       "name": "MK Plus Ultra",
       "url": "https://open.spotify.com/track/4jfsYlMJM9hZNbIWVczbJq"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "BLXXDY NXSE (feat. Scarlxrd & nascar aloe)",
-        "url": "https://open.spotify.com/album/6mDFwhmb1GftFQYpBKDQG2"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        },
-        {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
-        },
-        {
-          "name": "nascar aloe",
-          "url": "https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "BLXXDY NXSE (feat. Scarlxrd & nascar aloe)",
-      "url": "https://open.spotify.com/track/319u15wlYEJnkwaecnQBir"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -125,6 +101,26 @@
       "url": "https://open.spotify.com/track/7kKPew58PQ6s5iFjHzbQ9L"
     },
     {
+      "added_at": "2023-02-13 20:43:12",
+      "album": {
+        "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
+        "url": "https://open.spotify.com/album/4KkI8MEM9ySiNs5PWgm5Mq"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 140877,
+      "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
+      "url": "https://open.spotify.com/track/1mMd869pIVfM8TurlkPjAH"
+    },
+    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "NOT ENOUGH MANA",
@@ -163,26 +159,6 @@
     {
       "added_at": "2023-02-13 20:43:12",
       "album": {
-        "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
-        "url": "https://open.spotify.com/album/4KkI8MEM9ySiNs5PWgm5Mq"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        },
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 140877,
-      "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
-      "url": "https://open.spotify.com/track/1mMd869pIVfM8TurlkPjAH"
-    },
-    {
-      "added_at": "2023-02-13 20:43:12",
-      "album": {
         "name": "You Make Me Sick!",
         "url": "https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ"
       },
@@ -211,6 +187,66 @@
       "duration_ms": 152316,
       "name": "NOTHING IS FOREVER",
       "url": "https://open.spotify.com/track/54GrLa8J4zdvRfU8VXdo8l"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "NECROSSISM",
+        "url": "https://open.spotify.com/album/6tnsPiqgWU9EG8xh8PJBLm"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "duration_ms": 101725,
+      "name": "Necrossist",
+      "url": "https://open.spotify.com/track/5HUpPwK5mJWEHSEMKuYPqO"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "SHAMELESS $UICIDE",
+        "url": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "SHAMELESS $UICIDE",
+      "url": "https://open.spotify.com/track/1vjon7jtpF5usLV2CVxtsw"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "BLXXDY NXSE (feat. Scarlxrd & nascar aloe)",
+        "url": "https://open.spotify.com/album/6mDFwhmb1GftFQYpBKDQG2"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        },
+        {
+          "name": "nascar aloe",
+          "url": "https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "BLXXDY NXSE (feat. Scarlxrd & nascar aloe)",
+      "url": "https://open.spotify.com/track/319u15wlYEJnkwaecnQBir"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -265,22 +301,6 @@
       "url": "https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "NECROSSISM",
-        "url": "https://open.spotify.com/album/6tnsPiqgWU9EG8xh8PJBLm"
-      },
-      "artists": [
-        {
-          "name": "MAKAVELIGODD",
-          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
-        }
-      ],
-      "duration_ms": 101725,
-      "name": "Necrossist",
-      "url": "https://open.spotify.com/track/5HUpPwK5mJWEHSEMKuYPqO"
-    },
-    {
       "added_at": "2023-01-30 15:25:52",
       "album": {
         "name": "OCTOPUS.LADY",
@@ -295,26 +315,6 @@
       "duration_ms": 156476,
       "name": "OCTOPUS.LADY",
       "url": "https://open.spotify.com/track/4vjj0bcIG5O3FA0C9cXNR8"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "SHAMELESS $UICIDE",
-        "url": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Shakewell",
-          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "SHAMELESS $UICIDE",
-      "url": "https://open.spotify.com/track/1vjon7jtpF5usLV2CVxtsw"
     },
     {
       "added_at": "2023-02-16 20:34:22",
@@ -335,6 +335,42 @@
       "duration_ms": 108460,
       "name": "Situation",
       "url": "https://open.spotify.com/track/54s3N71zDs0M9HBPc5SEAK"
+    },
+    {
+      "added_at": "2023-01-05 14:55:55",
+      "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/7l72jwIz37QsEP1RzSNG5O"
+      },
+      "artists": [
+        {
+          "name": "YOUNGX777",
+          "url": "https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/7mlagGXcvSapZdWesGpmdS"
+    },
+    {
+      "added_at": "2023-01-06 16:11:10",
+      "album": {
+        "name": "JFK",
+        "url": "https://open.spotify.com/album/7FIqHpb31hKyUEWv3imPRG"
+      },
+      "artists": [
+        {
+          "name": "Kill Dyll",
+          "url": "https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7"
+        },
+        {
+          "name": "Pranav.Wav",
+          "url": "https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP"
+        }
+      ],
+      "duration_ms": 174757,
+      "name": "JFK",
+      "url": "https://open.spotify.com/track/1utP2KYqItjzrXnbqkwNmz"
     },
     {
       "added_at": "2022-11-09 14:43:01",
@@ -383,6 +419,26 @@
       "duration_ms": 113553,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ"
+    },
+    {
+      "added_at": "2023-03-06 15:58:25",
+      "album": {
+        "name": "Goodnight Lovell",
+        "url": "https://open.spotify.com/album/7DNZURhi8nhcGxhoRriZFS"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        },
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 145202,
+      "name": "JOAN OF ARC",
+      "url": "https://open.spotify.com/track/1nQwi9UGdNeN1FyzGE7jDt"
     },
     {
       "added_at": "2022-12-09 05:09:00",
@@ -453,22 +509,6 @@
       "url": "https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp"
     },
     {
-      "added_at": "2023-01-05 14:55:55",
-      "album": {
-        "name": "TOXIC",
-        "url": "https://open.spotify.com/album/7l72jwIz37QsEP1RzSNG5O"
-      },
-      "artists": [
-        {
-          "name": "YOUNGX777",
-          "url": "https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/7mlagGXcvSapZdWesGpmdS"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "MANSION MUSIK",
@@ -507,6 +547,34 @@
       "duration_ms": 137142,
       "name": "JDM DRIFT EDIT VERY TRENDY HOUSE PHONK!",
       "url": "https://open.spotify.com/track/76arGa0Ye5GwQi0uu1obxs"
+    },
+    {
+      "added_at": "2022-09-30 16:12:10",
+      "album": {
+        "name": "ROLEPLAY",
+        "url": "https://open.spotify.com/album/4tYEe0g5xT5kWJg5wFxrs1"
+      },
+      "artists": [
+        {
+          "name": "OMXNEMO",
+          "url": "https://open.spotify.com/artist/6QK0K28MJ2Fj2nsmrZv1O1"
+        },
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        },
+        {
+          "name": "Lucie's Nightmare",
+          "url": "https://open.spotify.com/artist/73cmp0OKYaPbYsCAgKqAcl"
+        },
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        }
+      ],
+      "duration_ms": 178953,
+      "name": "ROLEPLAY",
+      "url": "https://open.spotify.com/track/6lBjqdPLsOxLSKrBPQufi5"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -783,26 +851,6 @@
       "duration_ms": 90625,
       "name": "NEXTBOT!",
       "url": "https://open.spotify.com/track/0wohSgJuZJvQoMV7gMpMrT"
-    },
-    {
-      "added_at": "2023-01-06 16:11:10",
-      "album": {
-        "name": "JFK",
-        "url": "https://open.spotify.com/album/7FIqHpb31hKyUEWv3imPRG"
-      },
-      "artists": [
-        {
-          "name": "Kill Dyll",
-          "url": "https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7"
-        },
-        {
-          "name": "Pranav.Wav",
-          "url": "https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP"
-        }
-      ],
-      "duration_ms": 174757,
-      "name": "JFK",
-      "url": "https://open.spotify.com/track/1utP2KYqItjzrXnbqkwNmz"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1357,34 +1405,6 @@
       "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
     },
     {
-      "added_at": "2022-09-30 16:12:10",
-      "album": {
-        "name": "ROLEPLAY",
-        "url": "https://open.spotify.com/album/4tYEe0g5xT5kWJg5wFxrs1"
-      },
-      "artists": [
-        {
-          "name": "OMXNEMO",
-          "url": "https://open.spotify.com/artist/6QK0K28MJ2Fj2nsmrZv1O1"
-        },
-        {
-          "name": "YNG Martyr",
-          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
-        },
-        {
-          "name": "Lucie's Nightmare",
-          "url": "https://open.spotify.com/artist/73cmp0OKYaPbYsCAgKqAcl"
-        },
-        {
-          "name": "ISSBROKIE",
-          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
-        }
-      ],
-      "duration_ms": 178953,
-      "name": "ROLEPLAY",
-      "url": "https://open.spotify.com/track/6lBjqdPLsOxLSKrBPQufi5"
-    },
-    {
       "added_at": "2022-09-02 06:10:00",
       "album": {
         "name": "MUDD",
@@ -1855,78 +1875,6 @@
       "duration_ms": 109090,
       "name": "CHARLOTTE'S WEB",
       "url": "https://open.spotify.com/track/5reFpkDbm6k57Oqp6oWVby"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Skeletons In My Closet",
-        "url": "https://open.spotify.com/album/441gYdixMIqkDCiGPsYQLE"
-      },
-      "artists": [
-        {
-          "name": "Lil Toe",
-          "url": "https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z"
-        }
-      ],
-      "duration_ms": 113431,
-      "name": "Skeletons In My Closet",
-      "url": "https://open.spotify.com/track/3OMfco4bEsfCOTc4tKG26F"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/7gYw0aHBDQ3il1QzOKpanx"
-      },
-      "artists": [
-        {
-          "name": "Sidewalks and Skeletons",
-          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
-        }
-      ],
-      "duration_ms": 172048,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/3FsvEEbnIbJzNdpFndf5iM"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "10 FOOT TALL",
-        "url": "https://open.spotify.com/album/4yr5Yn1U79i2HikJSA0lrU"
-      },
-      "artists": [
-        {
-          "name": "Lil Darkie",
-          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
-        },
-        {
-          "name": "BVDLVD",
-          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "10 FOOT TALL",
-      "url": "https://open.spotify.com/track/3hyxHwYJOqSHGRDxwO7OUm"
-    },
-    {
-      "added_at": "2022-09-02 06:10:00",
-      "album": {
-        "name": "Dorohedorohe Drip",
-        "url": "https://open.spotify.com/album/1Uge5Im3luXyVeBvWUeEqW"
-      },
-      "artists": [
-        {
-          "name": "Faceless 1-7",
-          "url": "https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV"
-        },
-        {
-          "name": "TrippyThaKid",
-          "url": "https://open.spotify.com/artist/4ucIxjoWFS3n9KvguhTWpz"
-        }
-      ],
-      "duration_ms": 126980,
-      "name": "Dorohedorohe Drip",
-      "url": "https://open.spotify.com/track/2lcRTWOwCNffdwCs8zEDo7"
     }
   ],
   "unique_name": "TIRADE",

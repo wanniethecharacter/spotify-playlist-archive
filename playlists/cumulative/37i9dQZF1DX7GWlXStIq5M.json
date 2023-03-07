@@ -2337,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "Garota Nota 100",
+        "url": "https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195285,
+      "name": "Garota Nota 100",
+      "url": "https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo"
+    },
+    {
+      "album": {
         "name": "Gatinha",
         "url": "https://open.spotify.com/album/7cG0tGPI9KcNO7v6So6UFW"
       },

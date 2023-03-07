@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,004 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,005 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 99 | [Sacred Place](https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal) | [Jonah Kest](https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk), [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Sacred Place](https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc) | 2:46 |
 | 100 | [Expensive Taste](https://open.spotify.com/track/2GZ7hpra0vcDNXLVQiJsMN) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Expensive Taste](https://open.spotify.com/album/1JYJYA32IjG9AwW6jNvbae) | 2:10 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGI5NGM5OTI4ZjFkNDA5Y2Q3NWM1NjhlYzE3NTA4ZGIz`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDBmYmI4NTBmYTQwNmQ1ZGZiOWRlMDAzYjFhNmRlNjU4`

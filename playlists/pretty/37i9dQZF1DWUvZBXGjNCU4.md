@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,593 likes - 167 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,618 likes - 167 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 166 | [When Sarah Returned](https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:36 |
 | 167 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 |
 
-Snapshot ID: `MTY3NzI0Nzg5OCwwMDAwMDAwMGNlZDNiOGY5OGE3YWFmOGY1YzFhOGViYzYzOGFiY2Zl`
+Snapshot ID: `MTY3NzI0Nzg5OCwwMDAwMDAwMDgxYzc0YTE3NWQ4YjVjNWIzNTdhMzk4YzJhYWI1MjZh`

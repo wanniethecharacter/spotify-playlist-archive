@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Ease into the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,956 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,967 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 99 | [Part of Me](https://open.spotify.com/track/6yHqOUZB0NzzL2prJQmZdB) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [A Pillar of Salt \(Deluxe\)](https://open.spotify.com/album/7pEhrrMcqjsQRLImLZNhCC) | 3:43 |
 | 100 | [Baby Blue](https://open.spotify.com/track/2n6mF6xULADljCtpQkFnyc) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [blablablue](https://open.spotify.com/album/4dXbWNfK5GP9RWbvthTgT8) | 2:12 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMGMwMjcxYjI0ZWI5NzFhZWZiNzVmOWE1ZTgzNDFmNmMy`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDZiOTZiYTZmMWU0OThmNTc4M2ZjMTQ5ZGIwMTMwZjA0`

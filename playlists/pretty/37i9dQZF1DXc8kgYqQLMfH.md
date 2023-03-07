@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,737 likes - 508 songs - 19 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,830 likes - 508 songs - 19 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -517,4 +517,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 507 | [memories](https://open.spotify.com/track/14kGhyabTHGMtbNhraoe0p) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:39 |
 | 508 | [Palm Beach](https://open.spotify.com/track/7HSwYc1zmjCeQjmzgp6YtB) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Embrasser](https://open.spotify.com/album/6VcrwQODoxJbkotX3DFJOk) | 1:52 |
 
-Snapshot ID: `MTY3NzY2NzIwOSwwMDAwMDAwMDg2YzZlZTk4YmY4YmUzMTlmN2FjNTAzMWJmN2JhZGFh`
+Snapshot ID: `MTY3NzY2NzIwOSwwMDAwMDAwMDRiMDI3ODZiM2JlZjJlN2I4YzZiMWE5NzIxMzA2YjAw`

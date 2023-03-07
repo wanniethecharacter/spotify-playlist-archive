@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Mula en portada.
 
-207 songs - 12 hr 26 min
+208 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Hoy Como Siempre](https://open.spotify.com/track/6eIHV4J24fRfxOufyavUbw) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Hoy Como Siempre](https://open.spotify.com/album/3tBwW7YyzDrZ997e2yLcRl) | 4:12 | 2021-10-05 | 2022-11-13 |
 | [Hoy Es Mañana](https://open.spotify.com/track/1lTgSM8RrTANbfPwx9ipif) | [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [The Caribbean Ravers](https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd) | [Música Para Pick Up](https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo) | 3:32 | 2021-10-05 | 2022-09-03 |
 | [Humedad](https://open.spotify.com/track/4FG5aqW3ii8uwi6ghYkhUQ) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN) | [ELCANO](https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw) | 4:17 | 2022-04-05 |  |
+| [I Want 2](https://open.spotify.com/track/6jd3IIlPej4QU0cSKUehsx) | [Banana Leaf Boy](https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY) | [I Want 2](https://open.spotify.com/album/4Vc751bJD0eQkOdqc4IiSj) | 4:33 | 2023-03-07 |  |
 | [Ildé Pa’ Beberte](https://open.spotify.com/track/59sYzy6WyqIzHQS2bH32cy) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Ildé Pa’ Beberte](https://open.spotify.com/album/7CDuf3GTMDB759dQwH0yPw) | 3:28 | 2021-10-05 | 2022-07-28 |
 | [Ildé Pa’ Beberte](https://open.spotify.com/track/5oKi2idPWZmWbpmIkYgvDc) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Ildé Pa’ Beberte](https://open.spotify.com/album/1QX928uCKilM7KCE9G0xhO) | 3:28 | 2021-10-05 |  |
 | [Joyas](https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Joyas](https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN) | 2:52 | 2022-09-15 |  |
@@ -199,7 +200,7 @@
 | [Tu Color](https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m) | 3:46 | 2022-04-09 | 2022-09-16 |
 | [Tártaro](https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP II](https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5) | 3:43 | 2022-05-27 | 2022-11-18 |
 | [Ultramar](https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9), [Álamo Paraíso](https://open.spotify.com/artist/57aJ11lcLJc9TV0Vi3Abj4) | [Ultramar](https://open.spotify.com/album/1ADt93t1NRHPhPE36MPsOE) | 4:24 | 2022-07-15 |  |
-| [Un Manhattan](https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl) | [Lázaro Cristóbal Comala](https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK) | [Belmont](https://open.spotify.com/album/797ZnganZpmTHcULejYwDt) | 2:48 | 2022-07-13 |  |
+| [Un Manhattan](https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl) | [Lázaro Cristóbal Comala](https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK) | [Belmont](https://open.spotify.com/album/797ZnganZpmTHcULejYwDt) | 2:48 | 2022-07-13 | 2023-03-07 |
 | [Vayayó \- Jiony Remix](https://open.spotify.com/track/2oLwAiavBBRwmJpEBsiVko) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Vayayó \(Jiony Remix\)](https://open.spotify.com/album/4sr9L7lfsAJsnuQXgBcrgl) | 3:21 | 2021-10-05 | 2022-07-29 |
 | [Vayayó \- Jiony Remix](https://open.spotify.com/track/63Ey7CXax01hC8niuvTVhE) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Ofrenda Remixes](https://open.spotify.com/album/1IZY8qRezmtg1ftavo78iA) | 3:21 | 2021-10-05 | 2022-09-27 |
 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 | 2022-09-26 |  |

@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Mo Lowda & the Humble
 
-830 songs - 1 day 23 hr 28 min
+831 songs - 1 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Lore](https://open.spotify.com/track/7fYMNO8W4OQUwdZoLwzhW2) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Devil for the Fire](https://open.spotify.com/album/61CtQxxTAKjdaBgVkg1hGL) | 3:21 | 2022-05-19 | 2022-10-01 |
 | [Love Child](https://open.spotify.com/track/5NRUB58dHpsWrpSS3aUvvp) | [High Waisted](https://open.spotify.com/artist/3mnkKjjmtXT6mpSAxUSiIo) | [Love Child](https://open.spotify.com/album/1FzXfUv6thn2iE9qm2turU) | 3:01 | 2023-03-03 |  |
 | [Love Is Yours](https://open.spotify.com/track/6C2iCgLA9oMrY4mmZjxjrn) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Love Is Yours](https://open.spotify.com/album/6OdHR7gaFBioS9JJKdHlv3) | 3:02 | 2022-04-29 | 2022-05-19 |
+| [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2023-03-06 |  |
 | [Love Song for the Haters](https://open.spotify.com/track/5PNmLOkhsm69IfOdHknhmR) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Love Song for the Haters](https://open.spotify.com/album/7bU1jffvaKgQ7QKtzoph3Q) | 4:38 | 2021-03-05 | 2022-04-29 |
 | [Love333](https://open.spotify.com/track/0wAQl7JsYX4PgX3YCBf8RN) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Forgiveness](https://open.spotify.com/album/1rkbaI9xnf7yi70SyGNKi2) | 3:09 | 2022-04-29 | 2022-05-17 |
 | [Low Era](https://open.spotify.com/track/1GKdMtwcB3oi0uwr4M1B5G) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 4:14 | 2022-06-02 | 2023-03-04 |
@@ -719,7 +720,7 @@
 | [The Burned Down Dairy Queen](https://open.spotify.com/track/6RbFAkfrbJB3BYyNPme7er) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 3:08 | 2022-09-19 | 2023-01-21 |
 | [The Cause](https://open.spotify.com/track/5cFx3Oi4oaNHL090x1LIyQ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [The Cause](https://open.spotify.com/album/0P3CvoVxTcnTPgwUvR3bbe) | 3:05 | 2021-11-19 | 2022-04-28 |
 | [The Detail](https://open.spotify.com/track/1eVNSUm4POzvNUa9IqiltN) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [The Detail](https://open.spotify.com/album/43OoHqzqkT2tWRoj1hohdz) | 4:29 | 2021-06-11 | 2022-09-03 |
-| [The Extra Sees the Film](https://open.spotify.com/track/1WPsYspncOcNNSMTcmv8Uq) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 4:37 | 2022-07-22 |  |
+| [The Extra Sees the Film](https://open.spotify.com/track/1WPsYspncOcNNSMTcmv8Uq) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 4:37 | 2022-07-22 | 2023-03-07 |
 | [The Extra Sees the Film](https://open.spotify.com/track/1dtzTEzZFYilvvriv0T7CI) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [The Extra Sees the Film](https://open.spotify.com/album/6fxUNarVTuQmvyD1wJ9ESK) | 4:37 | 2022-07-22 | 2022-08-17 |
 | [the fatalist](https://open.spotify.com/track/4tjU3FbweegHC4T3taQ7RI) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the fatalist](https://open.spotify.com/album/3B21t0wxJugADsFAd6SU2X) | 4:27 | 2021-03-05 | 2022-04-29 |
 | [The Gloam](https://open.spotify.com/track/6pWyQjg29ytSLtIWkNEJuc) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Devil for the Fire](https://open.spotify.com/album/61CtQxxTAKjdaBgVkg1hGL) | 3:30 | 2022-04-29 | 2022-05-18 |

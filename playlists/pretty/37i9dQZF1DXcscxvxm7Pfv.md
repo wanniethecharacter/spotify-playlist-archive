@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from disturbing sounds with white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,515 likes - 188 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,681 likes - 188 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 187 | [White Noise 1795Hz](https://open.spotify.com/track/5iLpROHgIqGmOZWmlbWTum) | [Freq Molecule](https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO) | [Dreamstate](https://open.spotify.com/album/0KmFDlITMQbYnC2cN0Fyue) | 3:27 |
 | 188 | [High Altitudes](https://open.spotify.com/track/2aeYy4OvCZWqZWVrbKeh6m) | [Zen Maestro](https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv) | [Relaxed State of Mind](https://open.spotify.com/album/4xYs7vQmlu7qFDVvy9BCcJ) | 3:54 |
 
-Snapshot ID: `MTY3Mjc0NDk1MCwwMDAwMDAwMDEzMmI3ZGZmMzA4N2VmN2JiZDQ3NDAwZDhhZDEyODc0`
+Snapshot ID: `MTY3Mjc0NDk1MCwwMDAwMDAwMDVjMzg1MGQ4YzQ3MDYxOTU0ODg0NzEwNzE1ZmYwNDFm`

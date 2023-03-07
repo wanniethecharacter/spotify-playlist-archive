@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Thiago Kelbert, Kweller, Sotam, Enzo Cello
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,442 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,659 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [ESSÊNCIA DE CRIA](https://open.spotify.com/track/1iaPDgTbsKrlznVu13EWIf) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:12 |
 | 75 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
 
-Snapshot ID: `MTY3ODA1MTcxNiwwMDAwMDAwMDhmMzZmZDQwMDkyMWExNDc2N2U1OWMyZTU4NzRiNzJm`
+Snapshot ID: `MTY3ODA1MTcxNiwwMDAwMDAwMGFkMjZjZDYzMThkNWIyMWRjYTY4MjkyMzRjM2UxN2Vi`

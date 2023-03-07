@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,852 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,941 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [miss misery](https://open.spotify.com/track/3Bey9kH0UEORyDMxT7Oph8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [miss misery](https://open.spotify.com/album/3AOmVaNza6c5sfnjDeYDVk) | 2:59 |
 | 100 | [crash](https://open.spotify.com/track/3KeRiLJg8l0xQx7gU59EYt) | [csurf](https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ) | [crash](https://open.spotify.com/album/7oHkAzKI2ImQrUnd71HSoo) | 2:13 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGFiYmU3OTZmMzI4NGVkZGUwMjlhMGY1N2Q0ODk4ZWI2`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGIyNGNlNjQ0MTlhMDlhY2NmZWU1MWZiMWMzZWEwNmZm`

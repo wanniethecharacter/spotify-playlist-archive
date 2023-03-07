@@ -1,13 +1,33 @@
 {
   "description": "ft. Frost Children",
-  "num_followers": 368226,
+  "num_followers": 368289,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMGU3ZGRhOTg5NTg3YTRjMTJkZDU3YTZhNDA4MzJkMDYy",
+  "snapshot_id": "MTY3ODExODAwOCwwMDAwMDAwMDI0MzMzMTE0MDAwZGRjY2MyMmE2ZjhlNWZkNzRkMjZl",
   "tracks": [
+    {
+      "added_at": "2023-03-06 15:53:28",
+      "album": {
+        "name": ">one",
+        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": ">one",
+      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
+    },
     {
       "added_at": "2023-03-02 16:06:39",
       "album": {
@@ -585,26 +605,6 @@
       "url": "https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Keep Me Safe (Ninajirachi Remix)",
-        "url": "https://open.spotify.com/album/3WXIWhBFhCfnKj3Ckgn5jp"
-      },
-      "artists": [
-        {
-          "name": "Cub Sport",
-          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 197791,
-      "name": "Keep Me Safe - Ninajirachi Remix",
-      "url": "https://open.spotify.com/track/4jaJZnBGeCkBcKlUTDJPzt"
-    },
-    {
       "added_at": "2022-09-23 07:48:00",
       "album": {
         "name": "ABC (feat. Sophia Black)",
@@ -641,26 +641,6 @@
       "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "pls (\u2212_\u2212;)",
-        "url": "https://open.spotify.com/album/37Hl1DV0EnLAAhrZEI6qDx"
-      },
-      "artists": [
-        {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
-        },
-        {
-          "name": "Deko",
-          "url": "https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn"
-        }
-      ],
-      "duration_ms": 126432,
-      "name": "pls (\u2212_\u2212;)",
-      "url": "https://open.spotify.com/track/1y7ZG3g05KN8L2BUm4qRtw"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Welcome To My Island (Remix)",
@@ -683,6 +663,254 @@
       "duration_ms": 202494,
       "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
       "url": "https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Motorola",
+        "url": "https://open.spotify.com/album/39r2qwtznLXOFLYSh2aNOx"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 133280,
+      "name": "Motorola",
+      "url": "https://open.spotify.com/track/0wWbbWBINccmqmpjtfWpVO"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/0Evr5vaROxhu2I01MzqlU1"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
+        }
+      ],
+      "duration_ms": 131004,
+      "name": "red",
+      "url": "https://open.spotify.com/track/3fqC2P9K6zmYKJ2sAmOdse"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "H\u00eb\u0142l\u0153 K\u012ftt\u00ff",
+        "url": "https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 166727,
+      "name": "H\u00eb\u0142l\u0153 K\u012ftt\u00ff",
+      "url": "https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI"
+    },
+    {
+      "added_at": "2023-01-24 15:21:57",
+      "album": {
+        "name": "SPIRAL",
+        "url": "https://open.spotify.com/album/10qWPkPkr3hstmzIaVHtRN"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 150769,
+      "name": "FOX BOP",
+      "url": "https://open.spotify.com/track/0Nh440aKOuihvPcXaSMiob"
+    },
+    {
+      "added_at": "2022-09-23 07:48:00",
+      "album": {
+        "name": "emotional trap",
+        "url": "https://open.spotify.com/album/4cdU2gjBC7yLhs7tZCR2jB"
+      },
+      "artists": [
+        {
+          "name": "she loves boon",
+          "url": "https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23"
+        }
+      ],
+      "duration_ms": 142914,
+      "name": "everything ab u",
+      "url": "https://open.spotify.com/track/1KFM9g1C6GHuUGtTUETo66"
+    },
+    {
+      "added_at": "2022-09-23 07:48:00",
+      "album": {
+        "name": "boythots",
+        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 137844,
+      "name": "boythots",
+      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
+    },
+    {
+      "added_at": "2022-09-23 07:48:00",
+      "album": {
+        "name": "minnesota is a place that exists",
+        "url": "https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "minnesota is a place that exists",
+      "url": "https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "where\u2019d u go? o(\u2565_\u2565)o .\u3002*\u309a+",
+        "url": "https://open.spotify.com/album/1MFYXg6npaLvWvDidgtzqo"
+      },
+      "artists": [
+        {
+          "name": "Yameii Online",
+          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+        }
+      ],
+      "duration_ms": 149691,
+      "name": "where\u2019d u go? o(\u2565_\u2565)o .\u3002*\u309a+",
+      "url": "https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan"
+    },
+    {
+      "added_at": "2023-01-06 12:38:00",
+      "album": {
+        "name": "homesick",
+        "url": "https://open.spotify.com/album/05dMayZSFvTtR3vwHeqZCj"
+      },
+      "artists": [
+        {
+          "name": "kmoe",
+          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
+        }
+      ],
+      "duration_ms": 127714,
+      "name": "homesick",
+      "url": "https://open.spotify.com/track/2v3yISHLk0QNStai26hvkw"
+    },
+    {
+      "added_at": "2022-11-25 05:02:00",
+      "album": {
+        "name": "short + sweet.\u3002oO",
+        "url": "https://open.spotify.com/album/30GP4icYN3yefbYo3Phl2e"
+      },
+      "artists": [
+        {
+          "name": "Yameii Online",
+          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+        }
+      ],
+      "duration_ms": 181031,
+      "name": "short + sweet.\u3002oO",
+      "url": "https://open.spotify.com/track/6Md0EvbTJd4EHBncTHWCDw"
+    },
+    {
+      "added_at": "2022-09-30 16:07:13",
+      "album": {
+        "name": "Nymph",
+        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 132625,
+      "name": "Shlut",
+      "url": "https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC"
+    },
+    {
+      "added_at": "2022-09-28 04:05:00",
+      "album": {
+        "name": "three wheels and it still drives!",
+        "url": "https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 200117,
+      "name": "three wheels and it still drives!",
+      "url": "https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Icedancer",
+        "url": "https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 121690,
+      "name": "Waster",
+      "url": "https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Keep Me Safe (Ninajirachi Remix)",
+        "url": "https://open.spotify.com/album/3WXIWhBFhCfnKj3Ckgn5jp"
+      },
+      "artists": [
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 197791,
+      "name": "Keep Me Safe - Ninajirachi Remix",
+      "url": "https://open.spotify.com/track/4jaJZnBGeCkBcKlUTDJPzt"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "pls (\u2212_\u2212;)",
+        "url": "https://open.spotify.com/album/37Hl1DV0EnLAAhrZEI6qDx"
+      },
+      "artists": [
+        {
+          "name": "Yameii Online",
+          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+        },
+        {
+          "name": "Deko",
+          "url": "https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn"
+        }
+      ],
+      "duration_ms": 126432,
+      "name": "pls (\u2212_\u2212;)",
+      "url": "https://open.spotify.com/track/1y7ZG3g05KN8L2BUm4qRtw"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -817,38 +1045,6 @@
       "url": "https://open.spotify.com/track/71VTfrC31aOa60H85GfmA2"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Motorola",
-        "url": "https://open.spotify.com/album/39r2qwtznLXOFLYSh2aNOx"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 133280,
-      "name": "Motorola",
-      "url": "https://open.spotify.com/track/0wWbbWBINccmqmpjtfWpVO"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/0Evr5vaROxhu2I01MzqlU1"
-      },
-      "artists": [
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
-        }
-      ],
-      "duration_ms": 131004,
-      "name": "red",
-      "url": "https://open.spotify.com/track/3fqC2P9K6zmYKJ2sAmOdse"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "bone and skin",
@@ -889,22 +1085,6 @@
       "url": "https://open.spotify.com/track/590dohozCjn1gqD468XJDO"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "H\u00eb\u0142l\u0153 K\u012ftt\u00ff",
-        "url": "https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 166727,
-      "name": "H\u00eb\u0142l\u0153 K\u012ftt\u00ff",
-      "url": "https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI"
-    },
-    {
       "added_at": "2023-01-24 15:21:57",
       "album": {
         "name": "1:15",
@@ -919,22 +1099,6 @@
       "duration_ms": 130206,
       "name": "1:15",
       "url": "https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY"
-    },
-    {
-      "added_at": "2023-01-24 15:21:57",
-      "album": {
-        "name": "SPIRAL",
-        "url": "https://open.spotify.com/album/10qWPkPkr3hstmzIaVHtRN"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 150769,
-      "name": "FOX BOP",
-      "url": "https://open.spotify.com/track/0Nh440aKOuihvPcXaSMiob"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1279,70 +1443,6 @@
     {
       "added_at": "2022-09-23 07:48:00",
       "album": {
-        "name": "emotional trap",
-        "url": "https://open.spotify.com/album/4cdU2gjBC7yLhs7tZCR2jB"
-      },
-      "artists": [
-        {
-          "name": "she loves boon",
-          "url": "https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23"
-        }
-      ],
-      "duration_ms": 142914,
-      "name": "everything ab u",
-      "url": "https://open.spotify.com/track/1KFM9g1C6GHuUGtTUETo66"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "boythots",
-        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 137844,
-      "name": "boythots",
-      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "minnesota is a place that exists",
-        "url": "https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "minnesota is a place that exists",
-      "url": "https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "where\u2019d u go? o(\u2565_\u2565)o .\u3002*\u309a+",
-        "url": "https://open.spotify.com/album/1MFYXg6npaLvWvDidgtzqo"
-      },
-      "artists": [
-        {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
-        }
-      ],
-      "duration_ms": 149691,
-      "name": "where\u2019d u go? o(\u2565_\u2565)o .\u3002*\u309a+",
-      "url": "https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
         "name": "exit life",
         "url": "https://open.spotify.com/album/4uvTUbN7nlJaNzIeXGPVP3"
       },
@@ -1589,38 +1689,6 @@
       "url": "https://open.spotify.com/track/0Ukv1JUvVApUcleaxS8xvb"
     },
     {
-      "added_at": "2023-01-06 12:38:00",
-      "album": {
-        "name": "homesick",
-        "url": "https://open.spotify.com/album/05dMayZSFvTtR3vwHeqZCj"
-      },
-      "artists": [
-        {
-          "name": "kmoe",
-          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
-        }
-      ],
-      "duration_ms": 127714,
-      "name": "homesick",
-      "url": "https://open.spotify.com/track/2v3yISHLk0QNStai26hvkw"
-    },
-    {
-      "added_at": "2022-11-25 05:02:00",
-      "album": {
-        "name": "short + sweet.\u3002oO",
-        "url": "https://open.spotify.com/album/30GP4icYN3yefbYo3Phl2e"
-      },
-      "artists": [
-        {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
-        }
-      ],
-      "duration_ms": 181031,
-      "name": "short + sweet.\u3002oO",
-      "url": "https://open.spotify.com/track/6Md0EvbTJd4EHBncTHWCDw"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "ONCE (feat. Jedwill)",
@@ -1639,38 +1707,6 @@
       "duration_ms": 156000,
       "name": "ONCE (feat. Jedwill)",
       "url": "https://open.spotify.com/track/1xEBVidPz2Le4IJWMO0mkF"
-    },
-    {
-      "added_at": "2022-09-30 16:07:13",
-      "album": {
-        "name": "Nymph",
-        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 132625,
-      "name": "Shlut",
-      "url": "https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC"
-    },
-    {
-      "added_at": "2022-09-28 04:05:00",
-      "album": {
-        "name": "three wheels and it still drives!",
-        "url": "https://open.spotify.com/album/6j7Str8rnrWCUEWOe4rPFV"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 200117,
-      "name": "three wheels and it still drives!",
-      "url": "https://open.spotify.com/track/7z21w7xNVQyAnTtoQhhlBk"
     },
     {
       "added_at": "2022-12-16 05:26:00",
@@ -1757,22 +1793,6 @@
       "url": "https://open.spotify.com/track/1VD9GWAvof6JERoHuYEHl7"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Snake Eyes",
-        "url": "https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 148040,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/5OvFZ5TPlYAZmH6mpj88N7"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "i wish my dad was still alive",
@@ -1787,122 +1807,6 @@
       "duration_ms": 140214,
       "name": "i wish my dad was still alive",
       "url": "https://open.spotify.com/track/0URmsHOFzwaBU8NDaL7l55"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Icedancer",
-        "url": "https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse"
-      },
-      "artists": [
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        }
-      ],
-      "duration_ms": 121690,
-      "name": "Waster",
-      "url": "https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1"
-    },
-    {
-      "added_at": "2022-11-18 05:09:00",
-      "album": {
-        "name": "fisheye",
-        "url": "https://open.spotify.com/album/0CbZLVfA3Kld5bgGM0ORPR"
-      },
-      "artists": [
-        {
-          "name": "rouri404",
-          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
-        }
-      ],
-      "duration_ms": 136540,
-      "name": "fisheye",
-      "url": "https://open.spotify.com/track/5FyREIsIuTxSlt3kYuAqx6"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "bad reputation",
-        "url": "https://open.spotify.com/album/0fwCuaiR2e1EipnyR6hcJQ"
-      },
-      "artists": [
-        {
-          "name": "angelus",
-          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "bad reputation",
-      "url": "https://open.spotify.com/track/2lQvwqK0xkUqxrm5W9YtQW"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "THERAPY",
-        "url": "https://open.spotify.com/album/2C3cFLc3glI5iLjdZWPsHI"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hall",
-          "url": "https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "THERAPY",
-      "url": "https://open.spotify.com/track/3t55Jn2LRmQxNxC0q12uwE"
-    },
-    {
-      "added_at": "2022-11-15 16:17:36",
-      "album": {
-        "name": "punch back",
-        "url": "https://open.spotify.com/album/5FK5312txKT8bF6IEDEaOv"
-      },
-      "artists": [
-        {
-          "name": "savesomeone",
-          "url": "https://open.spotify.com/artist/1FWrpUh8hTnIpPZW5MP4mz"
-        }
-      ],
-      "duration_ms": 133286,
-      "name": "punch back",
-      "url": "https://open.spotify.com/track/2vOLEQPJAFD3uFmeJaD24H"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "white noise! (feat. cybertrash)",
-        "url": "https://open.spotify.com/album/4gIJoCUfHRHnKeAY8uiCTt"
-      },
-      "artists": [
-        {
-          "name": "she loves boon",
-          "url": "https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23"
-        },
-        {
-          "name": "Cybertrash",
-          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
-        }
-      ],
-      "duration_ms": 127896,
-      "name": "white noise! (feat. cybertrash)",
-      "url": "https://open.spotify.com/track/4RZRRDbFDgxkf5hV2xizyr"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Hands",
-        "url": "https://open.spotify.com/album/5EZem9tly4tOWXDwNxYdcF"
-      },
-      "artists": [
-        {
-          "name": "Billy Sane",
-          "url": "https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4"
-        }
-      ],
-      "duration_ms": 130731,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/6pEZRq5TNVu2mk0Kp74Pts"
     }
   ],
   "unique_name": "hyperpop",

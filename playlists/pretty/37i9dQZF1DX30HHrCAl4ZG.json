@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Featuring Slow Pulp.",
-  "num_followers": 843919,
+  "num_followers": 843986,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MTg1MywwMDAwMDAwMDg4MGRlMWVmOGFiZTMzYjcyYTIyMGY2Y2Y1YmI1YmFk",
+  "snapshot_id": "MTY3ODEzNzk4MSwwMDAwMDAwMGZjOTQ4Njc4NTdhMmViOTM2NjU2MmIyMWU3ZmE0OWJk",
   "tracks": [
     {
       "added_at": "2023-03-03 05:01:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
+        "name": "Sofa King",
+        "url": "https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
         "name": "Hotel Window",
         "url": "https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 183852,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Sofa King",
-        "url": "https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J"
     },
     {
       "added_at": "2023-02-15 16:30:53",
@@ -153,20 +153,20 @@
       "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
     },
     {
-      "added_at": "2023-03-03 05:01:00",
+      "added_at": "2023-02-22 15:48:06",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0EkJjzIlZsOtkOablHVy9P"
+        "name": "Hate.",
+        "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
       },
       "artists": [
         {
-          "name": "Brevin Kim",
-          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/2WSbMaSstjDFlY30mRaRz5"
+      "duration_ms": 134769,
+      "name": "Hate.",
+      "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0EkJjzIlZsOtkOablHVy9P"
+      },
+      "artists": [
+        {
+          "name": "Brevin Kim",
+          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2WSbMaSstjDFlY30mRaRz5"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
         "name": "Fish Maan",
         "url": "https://open.spotify.com/album/0LgNeIrO1osf37UbuW1BIa"
       },
@@ -233,22 +249,6 @@
       "url": "https://open.spotify.com/track/0j7cIOFS3nNTZyzkAuS2Rm"
     },
     {
-      "added_at": "2023-02-22 15:48:06",
-      "album": {
-        "name": "Hate.",
-        "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Hate.",
-      "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
-    },
-    {
       "added_at": "2023-03-03 05:01:00",
       "album": {
         "name": "Bang Bang",
@@ -263,6 +263,22 @@
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
+    },
+    {
+      "added_at": "2023-02-22 15:48:06",
+      "album": {
+        "name": "Flowers & Chocolate",
+        "url": "https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 195509,
+      "name": "Flowers & Chocolate",
+      "url": "https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -343,22 +359,6 @@
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
-    },
-    {
-      "added_at": "2023-02-22 15:48:06",
-      "album": {
-        "name": "Flowers & Chocolate",
-        "url": "https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 195509,
-      "name": "Flowers & Chocolate",
-      "url": "https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5"
     },
     {
       "added_at": "2022-12-16 04:00:00",

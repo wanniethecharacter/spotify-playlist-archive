@@ -4,7 +4,7 @@
 
 > 
 
-382 songs - 16 hr 51 min
+386 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Bet](https://open.spotify.com/track/504JCx3dJov6Fi5083r4Hb) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [BPL](https://open.spotify.com/album/5gHs4xLkr2g66PRNsvSh83) | 2:22 | 2022-07-28 |  |
 | [bfo2](https://open.spotify.com/track/1A60dNMbkartuzixGZt2Rc) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 1:59 | 2022-07-22 |  |
 | [bird allegiance](https://open.spotify.com/track/1fdoecpz1y8yo74NOlMVC7) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [bird allegiance](https://open.spotify.com/album/41KloqSqoao47CGew9Pucl) | 2:18 | 2022-05-08 |  |
-| [Bitch Yeah](https://open.spotify.com/track/3Kzs3pxIOGsLXHBgcKltpn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:48 | 2023-01-06 |  |
+| [Bitch Yeah](https://open.spotify.com/track/3Kzs3pxIOGsLXHBgcKltpn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:48 | 2023-01-06 | 2023-03-07 |
 | [Black](https://open.spotify.com/track/45k6Qexq0mavylcq1hNl4G) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:08 | 2023-01-06 |  |
 | [Black Petunia](https://open.spotify.com/track/2f83a8dYxb43CK1V6F89t9) | [Capital STEEZ Archive](https://open.spotify.com/artist/4LHyVZgCe5QLSmCILz5Fvy) | [AmeriKKKan Korruption](https://open.spotify.com/album/77btIQG6LDaCWiWmWtnCXr) | 3:29 | 2023-02-01 |  |
 | [Bloody Runtz](https://open.spotify.com/track/2PcuF9PUKm1N1gmLxQeyDG) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Bloody Runtz](https://open.spotify.com/album/0lKKlcELABWjmMgkCpuoUu) | 2:42 | 2022-10-21 |  |
@@ -140,6 +140,7 @@
 | [Goyard](https://open.spotify.com/track/5nBBdfEP8RYglPxTClmvW7) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Serious](https://open.spotify.com/album/6vAdaRFZy95JxZqmt9q0wk) | 2:18 | 2022-12-25 |  |
 | [Great](https://open.spotify.com/track/1LPiF0OU0DcQpkXmFgrfG5) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [D Savage 3900](https://open.spotify.com/artist/3oGynnWhEGK08xqXbhyYmZ) | [Ultraviolet.](https://open.spotify.com/album/2BTEr1ARUMwQG4Bdu6wmW2) | 1:31 | 2022-07-22 |  |
 | [Groovy](https://open.spotify.com/track/6lO1vt2ipUxh1bmxK8cR2s) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Groovy](https://open.spotify.com/album/2OeKQdJREBGjuX94QL0MfY) | 3:10 | 2023-01-05 |  |
+| [Guillotine](https://open.spotify.com/track/7491l7CnemDkYH0jsoLvYr) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [The Life Of Pi'erre 4](https://open.spotify.com/album/0agALBMd2a8cnpbpukTg03) | 2:59 | 2023-03-06 |  |
 | [Gët Busy](https://open.spotify.com/track/20O48JTG6O46tPAuZbliRA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:37 | 2022-10-14 |  |
 | [hat4hat](https://open.spotify.com/track/1DWFO7hrTW9TkSLHzyLeGA) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:12 | 2022-10-04 |  |
 | [Head$hot! \(with Trippie Redd\)](https://open.spotify.com/track/6xLaQvMFknex88LVALSgYP) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [HYPERNOVA.](https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og) | 2:16 | 2023-01-23 |  |
@@ -164,6 +165,7 @@
 | [i wanna know](https://open.spotify.com/track/2YgvTYJbzUDR1FUXejWGiu) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [K Suave](https://open.spotify.com/artist/5quPjryJ2Pn2qmiPAbGtbz) | [plugg!](https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV) | 1:59 | 2022-12-21 |  |
 | [IDK](https://open.spotify.com/track/3okt3nuNT8pNPzxuUeDrvL) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F), [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [2014](https://open.spotify.com/album/2tf3aF0klfrWgl9x60waZ6) | 2:28 | 2023-01-20 |  |
 | [If It Means Anything!](https://open.spotify.com/track/5Y8mZp8WevMgxRqc2uyJsS) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [If It Means Anything!](https://open.spotify.com/album/37MZEYFZ622doZCLUxKVh4) | 2:09 | 2023-02-20 |  |
+| [Igloo](https://open.spotify.com/track/1K0otsAQ9l0HZlAC8PHnQ0) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Son Of A Gun](https://open.spotify.com/album/14QMSPjwCAdA2qr6rKUXSs) | 3:17 | 2023-03-06 |  |
 | [IKYMMG](https://open.spotify.com/track/5VZEJToLT00Hzh6lp6OS98) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:50 | 2023-01-27 |  |
 | [Im Ready](https://open.spotify.com/track/0b7bWXWTXGasUQKBjNdDJH) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Nothing more Nothing LESS](https://open.spotify.com/album/0oQ0ObULWWC4LItIkL9hM0) | 2:13 | 2022-05-03 |  |
 | [Impala](https://open.spotify.com/track/7EgThh6AbBM6nWs4XOPx2T) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:05 | 2022-12-15 |  |
@@ -234,6 +236,7 @@
 | [NEVEREVER](https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 2:24 | 2022-11-18 |  |
 | [New Drank](https://open.spotify.com/track/3icILkEkTKNPaPQ5usTbsw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [New Drank](https://open.spotify.com/album/0tQDck9jmRmZNuXh1j3wJI) | 1:28 | 2022-09-01 |  |
 | [New Semi](https://open.spotify.com/track/6ekOd6GLZJ3PZwyMmbZVGY) | [Slimesito](https://open.spotify.com/artist/1qIl64lvKUWBbNRuUOImVh) | [New Semi](https://open.spotify.com/album/3gEdxJx0fDwv40orvc784Y) | 2:19 | 2023-01-07 |  |
+| [News or Something](https://open.spotify.com/track/3BzlZAqfnZDjv1F5CLlpHx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:33 | 2023-03-06 |  |
 | [NIMBUS](https://open.spotify.com/track/57Ncx9h7EhfEpdg5RCSkui) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [8 ALBUM](https://open.spotify.com/album/3CbN0bwf9B6SwqLlLOtrri) | 3:05 | 2023-01-07 |  |
 | [No Clout](https://open.spotify.com/track/4tZq0ffmq0i7fRth0CiYjI) | [SeptembersRich](https://open.spotify.com/artist/2AXsnwUyL9eMUy3y0ly2si) | [No Clout](https://open.spotify.com/album/0fWxUdkKbbEdzwm148Kxt8) | 2:24 | 2022-06-26 |  |
 | [No Doubt](https://open.spotify.com/track/11tz24eBH29z4yPx01s2AY) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [No Doubt](https://open.spotify.com/album/72QkBajuAgdgr6RWfcSDeX) | 1:12 | 2022-12-21 |  |
@@ -245,7 +248,7 @@
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2022-08-12 |  |
 | [Not My Friend](https://open.spotify.com/track/6HwCzNa8P25H6CZ2pZXNW7) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 3:00 | 2023-01-06 |  |
 | [Notorious Thugs \- 2014 Remaster](https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 6:06 | 2022-09-11 |  |
-| [NUN \(feat\. DaBaby\)](https://open.spotify.com/track/3FmD4u75G1cdA7bt7KgCA5) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:33 | 2023-01-20 |  |
+| [NUN \(feat\. DaBaby\)](https://open.spotify.com/track/3FmD4u75G1cdA7bt7KgCA5) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:33 | 2023-01-20 | 2023-03-07 |
 | [Nun To Me](https://open.spotify.com/track/1wNdaSWQHqXTlwFYiORqdg) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Nun To Me](https://open.spotify.com/album/1cTbBlZz7ZBLQ2ddL2VNG0) | 2:06 | 2022-03-07 |  |
 | [Nun To Me 2](https://open.spotify.com/track/4sFgIu8crDuYFB5D9rPnwc) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Nun To Me 2](https://open.spotify.com/album/7xA683YceDSM06T3w4przz) | 2:06 | 2022-07-24 |  |
 | [Off Tha Lot](https://open.spotify.com/track/5RdiPZzjXTmp9N51wBEzCv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 2:03 | 2022-11-30 |  |
@@ -343,8 +346,9 @@
 | [Teach You To Be Lonely](https://open.spotify.com/track/1u3SbjzS20gjIePyLGZmYR) | [Sybyr](https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ) | [Salty Sammy](https://open.spotify.com/album/0lmjWuU4ZrinYP5NW7ip61) | 4:39 | 2022-09-05 |  |
 | [Teen X Babe](https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:56 | 2022-03-07 |  |
 | [Temporary Time](https://open.spotify.com/track/6kGsugpyKSa1m8bTtfZqca) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Lost Files](https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q) | 2:48 | 2022-12-23 |  |
+| [Temptation](https://open.spotify.com/track/513pwnUHAEGZJKFrReMpE6) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Cold Summer](https://open.spotify.com/album/0TxLAUhKclBHQUoeunGQlq) | 1:36 | 2023-03-06 |  |
 | [Thank You \- Radio Edit](https://open.spotify.com/track/1boN869O5BJIYgX7ANzC4B) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [elijahdior](https://open.spotify.com/artist/6e7qUgEO2fWE5dt2PMXGdB) | [Sapphire.](https://open.spotify.com/album/22HA1nornnauA428zn6gHB) | 1:27 | 2022-08-05 |  |
-| [The Detox](https://open.spotify.com/track/1rWYoUOprzYyzlxL9so9jF) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:30 | 2023-01-27 |  |
+| [The Detox](https://open.spotify.com/track/1rWYoUOprzYyzlxL9so9jF) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:30 | 2023-01-27 | 2023-03-07 |
 | [The End](https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:15 | 2022-07-09 |  |
 | [The LifeStyle!](https://open.spotify.com/track/5Umai3Zrbd80hOcvgAlBmw) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [SNOTTY WORLD](https://open.spotify.com/album/4WsroDqYcqI1DpRgRAwqF2) | 1:33 | 2022-10-26 |  |
 | [The Remorse!](https://open.spotify.com/track/65sqEIYumzpGkUovLPmuiD) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [\#\#B4GC3 \#\#B4GC3](https://open.spotify.com/album/0KR2S7qR0ZUH6ggPrvOtPw) | 3:03 | 2023-01-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Eric Whitacre
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,648 likes - 85 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,751 likes - 85 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 84 | [The Jade Mountain, Op\. 116: II\. On Hearing Her Play the Harp](https://open.spotify.com/track/3giTRb6HBW6bE8tshF08dr) | [Edmund Rubbra](https://open.spotify.com/artist/5KNv9Vn1TSzUzMp5ay2jPO), [Lucy Crowe](https://open.spotify.com/artist/4nQeAjF99FSjaawoCaImcc), [Catrin Finch](https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818) | [The Jade Mountain – Songs by Edmund Rubbra](https://open.spotify.com/album/0GHH41iBoCxsKuje8Mw1Ap) | 1:10 |
 | 85 | [Sonatina: Danza de la pastora](https://open.spotify.com/track/6ch5CtZys6tZV2gOc1Z2OW) | [Halffter, Ernesto](https://open.spotify.com/artist/2LUSvJocpk3nYYHYVkIMis), [Andrew Rangell](https://open.spotify.com/artist/0EwuU4DvzAwMq8uYQ3xSiS) | [A Spanish Sojourn](https://open.spotify.com/album/5fCbk7PuwEpDPdqCWPk0MO) | 4:20 |
 
-Snapshot ID: `MTY3Nzg0ODE5MiwwMDAwMDAwMDIwZjk1OTQ1MjQyMGIzZTljNTJiOTMxYzljMDcwODc1`
+Snapshot ID: `MTY3Nzg0ODE5MiwwMDAwMDAwMGRjM2YyMzcyNWIyOTQ0OTUyN2U2NzNhNGFlOTFiMGU5`

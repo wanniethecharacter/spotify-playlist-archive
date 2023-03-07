@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Bordeaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,898 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,915 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 69 | [Kelly](https://open.spotify.com/track/0J5rO7iKSFzzYfBLd0Xu86) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [L'R&B IN ITALIA NON ESISTE](https://open.spotify.com/album/41IqmB0uShPRiNVsYyOmbg) | 2:44 |
 | 70 | [Ghosted](https://open.spotify.com/track/7zmpAz5fdaF2HQFm8OqxUn) | [Isabel Mohr](https://open.spotify.com/artist/54DVheLZCzfAMIu5SAoUc2) | [Ghosted](https://open.spotify.com/album/2G5n7ncP61pKLJeaZttcIg) | 3:12 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMGUwMjZhNWM3NTlmMzI1YmEzZjY0NDE1ZGJmN2JjZGQz`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDcwNTIzMmY3OTRkNGY4M2RlOWM1NmYxNzE5ZTYxMTE5`

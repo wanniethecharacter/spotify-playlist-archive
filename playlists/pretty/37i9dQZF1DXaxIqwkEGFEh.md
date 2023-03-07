@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,988 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,072 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Losses \(feat\. NoCap\)](https://open.spotify.com/track/2miKbwMMfzYwGVizkbzJ84) | [FN DaDealer](https://open.spotify.com/artist/1bqJuNMz1iBqWo9B0BdIiM), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [From Nun](https://open.spotify.com/album/0I7ZBXiekiRkLJKoP232tM) | 3:07 |
 | 100 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGViMzhjYjY0Njc0YWQ1NTM4NGE4NTU3NjI3YjAyZWZj`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDQzMWViOTBmMDMwNWY2ZmI2OTQ0NTdhM2NkM2VmZmQ3`

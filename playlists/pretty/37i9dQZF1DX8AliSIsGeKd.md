@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: biskuwi, Sylvie Miles
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,513 likes - 81 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,682 likes - 81 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 80 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Nevile](https://open.spotify.com/artist/3sy43mZfZxqIWbFli9A8fg) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 |
 | 81 | [Let's Move](https://open.spotify.com/track/1fDsFj0la9WK0lSaQtuaqp) | [DJ Dee](https://open.spotify.com/artist/6BJUZfk50Ru1g0sMC4dcsf) | [Let's Move](https://open.spotify.com/album/2KyJKTjiW8X68cBFpL8SVJ) | 3:55 |
 
-Snapshot ID: `MTY3NzgzNzUyNywwMDAwMDAwMDRkYjBmYzcwMzQ3Y2RjNDcxYzUzYTcyNGE0NjRhNmVl`
+Snapshot ID: `MTY3NzgzNzUyNywwMDAwMDAwMGZiMWFiZDY5N2U4MDNjN2Y4ZTljM2IwY2E4OTVkODgw`

@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 109682,
+  "num_followers": 109796,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMGYxODZkYTQ5NWVlODYwZGM0Y2ExODkzNjM1YjJkZjVm",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDlkMTYxNjlkYzk4YWIwMWRmMzEzOGQzYWRiZTAyNDE4",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -105,22 +105,6 @@
       "url": "https://open.spotify.com/track/2T6pMaivfX7w4tfAUX4uU9"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Real Deal: Greatest Hits Volume 1",
-        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Pride and Joy",
-      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
-    },
-    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "Fitchburg Street",
@@ -135,22 +119,6 @@
       "duration_ms": 185693,
       "name": "Life by the Drop",
       "url": "https://open.spotify.com/track/0yqpt8kklxBeMD8dpvoD8l"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Wait On Time",
-      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -205,6 +173,38 @@
       "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
     },
     {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Wait On Time",
+      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Real Deal: Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Pride and Joy",
+      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
+    },
+    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "Cold Snap (Remastered)",
@@ -255,22 +255,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 320706,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "Have Blues, Will Travel",
         "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
       },
@@ -283,22 +267,6 @@
       "duration_ms": 247373,
       "name": "Have Blues, Will Travel",
       "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -335,18 +303,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 261920,
-      "name": "Good Texan",
-      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -363,6 +331,38 @@
       "duration_ms": 260733,
       "name": "Don't Cha Know",
       "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320706,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+      },
+      "artists": [
+        {
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+        }
+      ],
+      "duration_ms": 261920,
+      "name": "Good Texan",
+      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -491,22 +491,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Read My Lips",
-        "url": "https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN"
-      },
-      "artists": [
-        {
-          "name": "Lou Ann Barton",
-          "url": "https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "Sugar Coated Love",
-      "url": "https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Family Style",
         "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 305053,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN"
+      },
+      "artists": [
+        {
+          "name": "Lou Ann Barton",
+          "url": "https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "Sugar Coated Love",
+      "url": "https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -763,6 +763,22 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
+        "name": "Texas Guitar Slinger",
+        "url": "https://open.spotify.com/album/5DalVOtB3z3HLahNqkbX0l"
+      },
+      "artists": [
+        {
+          "name": "Joe \"Guitar\" Hughes",
+          "url": "https://open.spotify.com/artist/5bRmUejPq8I7a7y0coLC8r"
+        }
+      ],
+      "duration_ms": 314493,
+      "name": "A Blue Song",
+      "url": "https://open.spotify.com/track/1YyHSGKbfEiI7xwwvSn5z5"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
         "name": "Texas Bluesmen",
         "url": "https://open.spotify.com/album/45O218hUcFN5yPA9rnOj7m"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 385453,
       "name": "Part Time Love",
       "url": "https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Texas Guitar Slinger",
-        "url": "https://open.spotify.com/album/5DalVOtB3z3HLahNqkbX0l"
-      },
-      "artists": [
-        {
-          "name": "Joe \"Guitar\" Hughes",
-          "url": "https://open.spotify.com/artist/5bRmUejPq8I7a7y0coLC8r"
-        }
-      ],
-      "duration_ms": 314493,
-      "name": "A Blue Song",
-      "url": "https://open.spotify.com/track/1YyHSGKbfEiI7xwwvSn5z5"
     },
     {
       "added_at": "2018-02-27 16:43:49",

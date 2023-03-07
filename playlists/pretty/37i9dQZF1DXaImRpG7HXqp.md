@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,095 likes - 244 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,221 likes - 244 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,4 +253,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 243 | [You Have My Blessing](https://open.spotify.com/track/1lgdO7zTcawmoXYIilHsyv) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [You Have My Blessing](https://open.spotify.com/album/3mlWPRNsIWaXb5yVki7LLj) | 4:27 |
 | 244 | [Carmel by the Sea](https://open.spotify.com/track/0cMFYGlDdLfCvrqQhx4ESk) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Carmel by the Sea](https://open.spotify.com/album/5fYNY8XJ9eKPFLcrhBvLCl) | 1:42 |
 
-Snapshot ID: `MTY3NzIyOTAyOCwwMDAwMDAwMGFhNGZiYTFhMDk2MzhhODFkNWM1ODYwMDExZDE0OWIx`
+Snapshot ID: `MTY3NzIyOTAyOCwwMDAwMDAwMDk4YjBhZDg0YmU5YmIxYTJmOGU1ZDE0OGQ1YjQ2YWFm`

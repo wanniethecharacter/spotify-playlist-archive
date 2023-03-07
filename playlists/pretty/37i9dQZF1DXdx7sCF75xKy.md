@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: SHN
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,097 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,109 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [Boneka](https://open.spotify.com/track/1C9wjvXDwQQEaVlNJn4lAV) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Koleksi Terbaik Ernie Zakri](https://open.spotify.com/album/0RJfa9ixS7mhDhhQLvlKXg) | 3:50 |
 | 50 | [不, 要不要](https://open.spotify.com/track/53dWaPiPkR1bJKpqJZN7Sd) | [Angelloweee](https://open.spotify.com/artist/3VKXShqcZPqG6OPlvIAQ7t) | [不, 要不要](https://open.spotify.com/album/6cNHhVnI9wvR1KNAzgRp7O) | 3:04 |
 
-Snapshot ID: `MTY3NzYwMDAwMCwwMDAwMDAwMGQxM2RhMmU4ODQ1Nzk5NzI4ZjQ3OGFjZjk0MDRiMGU0`
+Snapshot ID: `MTY3NzYwMDAwMCwwMDAwMDAwMDc4YTJlNjU4ZmM3ZTcwYTU5NmU0YTExNjRmYTA2YWU1`

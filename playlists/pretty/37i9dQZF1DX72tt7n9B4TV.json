@@ -1,12 +1,12 @@
 {
   "description": "Hot noise for summer days.",
-  "num_followers": 28735,
+  "num_followers": 28733,
   "original_name": "Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjkyOTIyNCwwMDAwMDAwMDAzZGE5N2ZkNmY3OGI5ZGQxN2NiNWFlZDFkODhhODU4",
+  "snapshot_id": "MTY1NjkyOTIyNCwwMDAwMDAwMDNhMDlmZTBlMWQzMWI5NjI4NDYzOTljMWMxNDUyYTgw",
   "tracks": [
     {
       "added_at": "2022-04-01 17:23:34",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
         "name": "Holy Fire",
         "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 133678,
       "name": "Loser",
       "url": "https://open.spotify.com/track/01VbCa15MmvNg3KMOfoHa2"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -417,20 +417,20 @@
       "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
     },
     {
-      "added_at": "2022-06-17 12:12:36",
+      "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+      "duration_ms": 167365,
+      "name": "cotton candy",
+      "url": "https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -449,20 +449,20 @@
       "url": "https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW"
     },
     {
-      "added_at": "2022-04-01 17:23:34",
+      "added_at": "2022-06-17 12:12:36",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
         }
       ],
-      "duration_ms": 167365,
-      "name": "cotton candy",
-      "url": "https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps"
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/5V3bFQnpSALvyDEyHsCHat"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
         "name": "girlfriends",
         "url": "https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 163832,
       "name": "California",
       "url": "https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/5V3bFQnpSALvyDEyHsCHat"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q"
     },
     {
       "added_at": "2022-04-01 17:23:34",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-04-01 17:23:34",
       "album": {
-        "name": "weapon",
-        "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "weapon",
-      "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
-    },
-    {
-      "added_at": "2022-04-01 17:23:34",
-      "album": {
         "name": "Rage (feat. Travis Barker and Aimee Interrupter of The Interrupters)",
         "url": "https://open.spotify.com/album/00HwTxnfnfF0OVuXeOhJCZ"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 194789,
       "name": "Rage (feat. Travis Barker and Aimee Interrupter of The Interrupters)",
       "url": "https://open.spotify.com/track/7Eta7z7ofiykxOyk9HVWij"
+    },
+    {
+      "added_at": "2022-04-01 17:23:34",
+      "album": {
+        "name": "weapon",
+        "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "weapon",
+      "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
     },
     {
       "added_at": "2022-04-01 17:23:34",

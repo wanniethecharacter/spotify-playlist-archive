@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best new alternative rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,115 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,203 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 |
 | 60 | [Eyes Won't See](https://open.spotify.com/track/1pyypCHNVxC3Ju8LUMfm4z) | [Vain Valkyries](https://open.spotify.com/artist/2NMfkZdWVg1LFSQRYMoAI7) | [The Great Suffering](https://open.spotify.com/album/0faVxGhKDgCeekHyOyrEuq) | 2:06 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDg4ZDk2MDQzMmE2NzRhMTU4NmFkYmY5MzdjZGE5YzJk`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDhiYTljZWM0M2JjMTZmMjMzMzc4NTA1MTRhOGZiNjA1`

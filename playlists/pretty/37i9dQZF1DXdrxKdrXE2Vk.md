@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Hillsong Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,809 likes - 124 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,940 likes - 124 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 123 | [Highest Hallelujah](https://open.spotify.com/track/2Hw7sdkm2TUTIxPFeSUy6L) | [Modern Day Cure](https://open.spotify.com/artist/2Y7qvpOpTRUYs7NSi0kw7s) | [Highest Hallelujah](https://open.spotify.com/album/25BOqHoxTTibHK5BDqwERr) | 4:37 |
 | 124 | [Jesus You Alone \- Live](https://open.spotify.com/track/3j2Kq2L2oTa5qmrtYnpbeX) | [The Well Music](https://open.spotify.com/artist/5hsV0doq7qtCnN3GxAtRjR) | [Jesus You Alone \(Live\)](https://open.spotify.com/album/7aAvbIts1nYFkRhPkN5jHG) | 5:24 |
 
-Snapshot ID: `MTY2MzQ1NjA3NiwwMDAwMDAwMDk1NzM5YjVlODRiMDI2MjdkNDEyMzEyNzNmY2EzZmY1`
+Snapshot ID: `MTY2MzQ1NjA3NiwwMDAwMDAwMDgxYTZlYmM3MzU5NjkzYjQ4ZjkyNGI0OTQ1OTlmN2Qw`

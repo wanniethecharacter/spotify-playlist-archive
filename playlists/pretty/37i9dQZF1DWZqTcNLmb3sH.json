@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 47324,
+  "num_followers": 47362,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0NTEzMiwwMDAwMDAwMDdkNTcxZGYyODM4ZGY2ODZiNmM3MjJkOWQ0MDA1ZmI5",
+  "snapshot_id": "MTY3ODA5NDgxMywwMDAwMDAwMDIxODdjOWI0NTYzZThjMDhjNzI1NTlkNzMxZjIwYzVh",
   "tracks": [
     {
       "added_at": "2023-02-06 07:20:37",
@@ -281,30 +281,6 @@
       "url": "https://open.spotify.com/track/4sMuno4hnbfTB8s556K7YO"
     },
     {
-      "added_at": "2023-01-17 04:08:55",
-      "album": {
-        "name": "Kailasa (From \"Ranga Samudra\")",
-        "url": "https://open.spotify.com/album/3cGRrgqrOBY1MEvbzI7M5j"
-      },
-      "artists": [
-        {
-          "name": "Kailash Kher",
-          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
-        },
-        {
-          "name": "Desi Mohan",
-          "url": "https://open.spotify.com/artist/3ulgjGAAoPrw7rHaMfR9sa"
-        },
-        {
-          "name": "Vagish Channagiri",
-          "url": "https://open.spotify.com/artist/7fLsKdmYi0nnKNRnydobpO"
-        }
-      ],
-      "duration_ms": 256294,
-      "name": "Kailasa (From \"Ranga Samudra\")",
-      "url": "https://open.spotify.com/track/2B9YnY1V5BczXTyauNUIwo"
-    },
-    {
       "added_at": "2023-01-18 14:00:04",
       "album": {
         "name": "Ghost",
@@ -319,6 +295,30 @@
       "duration_ms": 52659,
       "name": "Ghost Theme Music",
       "url": "https://open.spotify.com/track/2Z4NzOBH9myKArrhWnGxtp"
+    },
+    {
+      "added_at": "2023-03-06 09:26:53",
+      "album": {
+        "name": "Mana Manohara (From \"Beega\")",
+        "url": "https://open.spotify.com/album/09KvqsW4OIy6y49tX45U6f"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        },
+        {
+          "name": "Chethan Gandharva",
+          "url": "https://open.spotify.com/artist/2aZR9aRrSC2OodxW3hkbj5"
+        },
+        {
+          "name": "Sri Guru",
+          "url": "https://open.spotify.com/artist/7lhJIYws0pC5cM7Oxh2WUU"
+        }
+      ],
+      "duration_ms": 243040,
+      "name": "Mana Manohara (From \"Beega\")",
+      "url": "https://open.spotify.com/track/6r16xEv74M5cSuIicBs4np"
     },
     {
       "added_at": "2023-03-03 12:05:32",
@@ -355,6 +355,26 @@
       "duration_ms": 268245,
       "name": "Aala Jeevadala",
       "url": "https://open.spotify.com/track/0z5tEA7dRjGzptM6O47g6D"
+    },
+    {
+      "added_at": "2023-03-06 09:26:53",
+      "album": {
+        "name": "Jaagore Bhayya (From \"Beega\")",
+        "url": "https://open.spotify.com/album/4urVazjtFdbmnc2GBf9hnD"
+      },
+      "artists": [
+        {
+          "name": "Shashank Sheshadri",
+          "url": "https://open.spotify.com/artist/3EL5RwJR1fd0DpHqKmk6Dg"
+        },
+        {
+          "name": "Sri Guru",
+          "url": "https://open.spotify.com/artist/7lhJIYws0pC5cM7Oxh2WUU"
+        }
+      ],
+      "duration_ms": 263445,
+      "name": "Jaagore Bhayya (From \"Beega\")",
+      "url": "https://open.spotify.com/track/3hdVb9nPas5y6nMS1e1WcW"
     },
     {
       "added_at": "2023-02-16 11:11:32",
@@ -419,6 +439,34 @@
       "duration_ms": 122283,
       "name": "Baa Horage Baa (From \"Pentagon\")",
       "url": "https://open.spotify.com/track/1nktraUJOPM9wSvXazDg1x"
+    },
+    {
+      "added_at": "2023-03-06 09:26:53",
+      "album": {
+        "name": "Biso Galiyallu (From \"Feel My Love\")",
+        "url": "https://open.spotify.com/album/38y9ajWEzku4sGaHMIpCaS"
+      },
+      "artists": [
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        },
+        {
+          "name": "Rahul Raj",
+          "url": "https://open.spotify.com/artist/4kbWDG96QZ2HkyVl9l1EmL"
+        },
+        {
+          "name": "DR. V. Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/4oVhMd9AnB4r19qg2ttT6z"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        }
+      ],
+      "duration_ms": 246900,
+      "name": "Biso Galiyallu - From \"Feel My Love\"",
+      "url": "https://open.spotify.com/track/32tOotZHLGvyWTmTRcnh72"
     },
     {
       "added_at": "2023-03-03 12:05:32",
@@ -893,30 +941,6 @@
       "url": "https://open.spotify.com/track/6k52XXQIJRDmgpxMqsUIFF"
     },
     {
-      "added_at": "2023-01-27 04:56:59",
-      "album": {
-        "name": "Rasika Baaro (From \"Mr. Bachelor\")",
-        "url": "https://open.spotify.com/album/1taXgVueqWwlC9HFFvmYVT"
-      },
-      "artists": [
-        {
-          "name": "Manikanth Kadri",
-          "url": "https://open.spotify.com/artist/72FU41te5OsCvKjScvQGw1"
-        },
-        {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
-        },
-        {
-          "name": "Supriyaa Ram",
-          "url": "https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp"
-        }
-      ],
-      "duration_ms": 209679,
-      "name": "Rasika Baaro (From \"Mr. Bachelor\")",
-      "url": "https://open.spotify.com/track/5nPrzXVk6YJD6wPudPFCjz"
-    },
-    {
       "added_at": "2023-02-03 09:21:47",
       "album": {
         "name": "Kethi Bidabeaku Kanasugalanna (From \"Tanuja\") - Single",
@@ -939,22 +963,6 @@
       "duration_ms": 190582,
       "name": "Kethi Bidabeaku Kanasugalanna (From \"Tanuja\")",
       "url": "https://open.spotify.com/track/2sKCPpddu0CVPNhde3YiVz"
-    },
-    {
-      "added_at": "2023-01-18 14:00:04",
-      "album": {
-        "name": "Bucket song (From \"Dove Master\")",
-        "url": "https://open.spotify.com/album/4v5ygNCVafP3RWHNbQfISR"
-      },
-      "artists": [
-        {
-          "name": "Shakeel Ahmad",
-          "url": "https://open.spotify.com/artist/2WwQXiC4kHB16DykZHjVOp"
-        }
-      ],
-      "duration_ms": 237791,
-      "name": "Bucket song - From \"Dove Master\"",
-      "url": "https://open.spotify.com/track/4n5mBQbMK3zoMu3nB3uJsf"
     },
     {
       "added_at": "2023-02-03 09:21:47",
@@ -1171,22 +1179,6 @@
       "duration_ms": 344005,
       "name": "Autograph Of Telugu Abbai & Kannada Hudugi",
       "url": "https://open.spotify.com/track/2cIqx8TZg0N186uHt1ANiN"
-    },
-    {
-      "added_at": "2023-01-06 03:07:52",
-      "album": {
-        "name": "Thugs of Ramaghada",
-        "url": "https://open.spotify.com/album/6dEEtaejICedDt8oPSPbQM"
-      },
-      "artists": [
-        {
-          "name": "Shashank Sheshagiri",
-          "url": "https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy"
-        }
-      ],
-      "duration_ms": 154975,
-      "name": "Thugs of Ramaghada",
-      "url": "https://open.spotify.com/track/3AGnK91jZkYMMvORQFSp8p"
     },
     {
       "added_at": "2023-01-05 10:38:33",
@@ -1661,34 +1653,6 @@
       "url": "https://open.spotify.com/track/5T8wOodxnY4yKIUqL3WyC7"
     },
     {
-      "added_at": "2022-10-02 05:35:08",
-      "album": {
-        "name": "Kantara (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ANhkyLkujmP1HbDrMCvfM"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Ananya Bhat",
-          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
-        },
-        {
-          "name": "Nagraj Panar Valtur",
-          "url": "https://open.spotify.com/artist/4nsD0AxhwNYicOOmCGwUd4"
-        }
-      ],
-      "duration_ms": 281364,
-      "name": "Singara Siriye",
-      "url": "https://open.spotify.com/track/6J7whJ91XKvDnLWpa1Cqn2"
-    },
-    {
       "added_at": "2022-12-22 05:39:38",
       "album": {
         "name": "Bond Ravi",
@@ -2071,30 +2035,6 @@
       "duration_ms": 217193,
       "name": "Belakina Kavithe (From \"Banaras\")",
       "url": "https://open.spotify.com/track/0MM43BqsYS3872t9D5oKby"
-    },
-    {
-      "added_at": "2022-11-04 08:43:35",
-      "album": {
-        "name": "Inthavara Santhana Bhagya Kittu (From\"Jugalbandi\")",
-        "url": "https://open.spotify.com/album/2eN7rNisBfyAWmebvcpS93"
-      },
-      "artists": [
-        {
-          "name": "Vaikom Vijayalakshmi",
-          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
-        },
-        {
-          "name": "Praddyottan",
-          "url": "https://open.spotify.com/artist/2cM8BF1ngqyE703rsaRbaw"
-        },
-        {
-          "name": "Divakar Dimdima",
-          "url": "https://open.spotify.com/artist/3t0VYNjVeKzKOHEMO7OjoH"
-        }
-      ],
-      "duration_ms": 258415,
-      "name": "Inthavara Santhana Bhagya Kittu - From\"Jugalbandi\"",
-      "url": "https://open.spotify.com/track/1XGofN9UujsqY2FRCdw77W"
     },
     {
       "added_at": "2022-10-27 11:09:02",

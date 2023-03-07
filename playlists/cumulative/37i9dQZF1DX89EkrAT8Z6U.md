@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene\. Cover: Lucy from Cyberpunk: Edgerunners
 
-180 songs - 8 hr 3 min
+181 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [two fictitious stories \(alongside mine\)](https://open.spotify.com/track/1YMZ8RyeVqD8GslkDbnA8P) | [KevinKempt](https://open.spotify.com/artist/5rW6rpuV2MZfke72uiQe8a) | [two fictitious stories \(alongside mine\)](https://open.spotify.com/album/4bYDy0YixPRlX5MZbIPmWm) | 7:21 | 2022-07-08 | 2022-10-22 |
 | [uhh](https://open.spotify.com/track/3iDQnloxYVrnzE0eNZ85en) | [framed](https://open.spotify.com/artist/6qW2MCeqjNlMwiLl0JPbuZ) | [Uhh](https://open.spotify.com/album/3PgoWZSSEFdI0f5gektpdn) | 1:23 | 2022-07-08 |  |
 | [uhh](https://open.spotify.com/track/73qtTW9MmYLc0PR5CQCTq5) | [framed](https://open.spotify.com/artist/6qW2MCeqjNlMwiLl0JPbuZ) | [uhh](https://open.spotify.com/album/0cRZQBnOH50bpW2JHKJ47v) | 1:23 | 2022-05-25 | 2022-07-29 |
+| [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 | 2023-03-03 |  |
 | [Unimportant](https://open.spotify.com/track/47c7UE5KeA9uetI6DGG2od) | [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn), [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Unimportant](https://open.spotify.com/album/6xJUTgwoTW6JB3QIe6PJgL) | 3:22 | 2022-05-25 | 2022-07-29 |
 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 | 2022-06-21 |  |
 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 | 2022-05-25 |  |
@@ -175,7 +176,7 @@
 | [Wind \(Naruto\) \- Trap Remix](https://open.spotify.com/track/2LmyFJW92BeYl0qdH3ztiO) | [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3), [Tha J\-SQUAD](https://open.spotify.com/artist/1GaBxa6meZLiIEHjCIzEzb) | [Wind \(Naruto\) \[Trap Remix\]](https://open.spotify.com/album/3ak7Khm75GZ0K3ivsJndS7) | 3:00 | 2022-06-21 | 2022-07-27 |
 | [WTH](https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 1:39 | 2022-11-29 |  |
 | [You Are Weak](https://open.spotify.com/track/01aKVGWw3AWlQz3oBGl4oO) | [Cassanova](https://open.spotify.com/artist/4ZRk4osI9p0fYRIATEG1zO) | [You Are Weak](https://open.spotify.com/album/7sdJRlKuNfCWvE3YeW3PEC) | 1:40 | 2022-06-16 | 2022-07-09 |
-| [Young Kid](https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Young Kid](https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz) | 3:29 | 2023-02-27 |  |
+| [Young Kid](https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Young Kid](https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz) | 3:29 | 2023-02-27 | 2023-03-07 |
 | [Zoom!](https://open.spotify.com/track/1Vv93qCC50ckZdeXh7Etln) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Zoom!](https://open.spotify.com/album/10WMv6j9OpkTHVafzM3JSx) | 2:07 | 2022-06-10 |  |
 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 | 2022-05-25 |  |
 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 | 2022-05-25 |  |

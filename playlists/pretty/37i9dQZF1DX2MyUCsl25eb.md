@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,704 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,740 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [Blood](https://open.spotify.com/track/0Ht4rJqj1RsXPrgbhbcDOa) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Blood](https://open.spotify.com/album/2A3a9WxEKjpG4nLdJrTQcX) | 3:56 |
 | 100 | [Burden](https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Burden](https://open.spotify.com/album/563cZfoxfkypO8RnzIbNGE) | 2:25 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDQ2MGEyYThlYmI0N2I0YjQyNDM2MDI5NjliNzRmYzgx`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDNmYjFhN2JlNWRiYjYzNzg0OTliODdjODIxZjVlZGY0`

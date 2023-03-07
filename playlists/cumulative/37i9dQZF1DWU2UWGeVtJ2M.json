@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2V5sPS4x8LB3H7q3Q00Cjn"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209609,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0DeERXbSE5amnnFx5MSycO"
+    },
+    {
+      "album": {
         "name": "Break Me.",
         "url": "https://open.spotify.com/album/7uuSPVQe5FKPQruNG9sClB"
       },
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 188478,
       "name": "Holding the Gun",
       "url": "https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz"

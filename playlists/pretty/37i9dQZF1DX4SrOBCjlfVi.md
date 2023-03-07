@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nicki Minaj, Young Nudy and more\. Cover: BIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,269 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,317 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/track/50IvZsOmgJvxjpELTWFaMa) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/album/4zfoWbjbK5uWArDGCbElnp) | 3:10 |
 | 49 | [I Don't](https://open.spotify.com/track/69BD6r8XVw0qQEr2N9mj3Y) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Bank Appointment](https://open.spotify.com/album/7KscDRhoL85Uci4y12Wl4t) | 2:59 |
 
-Snapshot ID: `MTY3Nzg2MjM5NywwMDAwMDAwMGI4NGQzYzM0MTU5NGFkMWQzODliYWIyNTU1NzMxNmFi`
+Snapshot ID: `MTY3Nzg2MjM5NywwMDAwMDAwMGYyMjVhOWZhZWYyOWI4NWEyMzFlNDQwMjk4NzBlY2Vl`

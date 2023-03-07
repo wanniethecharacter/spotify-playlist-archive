@@ -4,7 +4,7 @@
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Gerardo Ortíz & Oscar Maydon en portada.
 
-1,370 songs - 3 day 1 hr 37 min
+1,371 songs - 3 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1213,6 +1213,7 @@
 | [Te Mentiría](https://open.spotify.com/track/1lfoMpqMqxOEuSVSEdXMlB) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Te Mentiría](https://open.spotify.com/album/62YZ87Ldhb3gxhBlBp9wRc) | 2:49 | 2022-08-19 | 2022-08-27 |
 | [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 | 2023-03-03 |  |
 | [TE QUIERO](https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [TE QUIERO](https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq) | 2:33 | 2023-01-20 | 2023-02-04 |
+| [Te Quiero \- Live](https://open.spotify.com/track/1Z6mjxGzbilLNnRDXlZ61Z) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Te Quiero \(Live\)](https://open.spotify.com/album/6YV2xEVGlp9PLTv2wHS04X) | 3:02 | 2023-03-03 |  |
 | [Te Quiero Besar](https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Quiero Besar](https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr) | 3:10 | 2023-02-17 | 2023-02-25 |
 | [Te Quiero Mil](https://open.spotify.com/track/741g3I9tKBq0GHEx0up03Z) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Te Quiero Mil](https://open.spotify.com/album/1lj9LmpujBYxwvM5IOvwBc) | 3:03 | 2023-01-13 | 2023-01-21 |
 | [Te Regalo](https://open.spotify.com/track/3Vsx2aTTs6cTGnoTADHdUh) | [Peligro](https://open.spotify.com/artist/7J9IRSc5ZxqMMdH5bmjqtP) | [Te Regalo](https://open.spotify.com/album/4HvWmPaGmmzIuUfChtdC8r) | 4:01 | 2022-12-23 | 2022-12-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Peso Pluma y Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,980 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,138 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 75 | [Amargo](https://open.spotify.com/track/3gvfEvfSVFXWCL7NpPj0N1) | [The Vue](https://open.spotify.com/artist/1bCVI2X0v8Ext3IXFNd0oY) | [Amargo](https://open.spotify.com/album/0e7TO0L0WpChjnnzfFXoV8) | 3:49 |
 | 76 | [Pódio](https://open.spotify.com/track/3HbwiEXq3qP1fxF34knmnV) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Pódio](https://open.spotify.com/album/7APauEMJTjJ92yVrCoa16T) | 4:52 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGNhNGI4MDFmMjg2MWUwOGViZDFlOGQyYmEzZGFmNjgx`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGM3ZDM0ODJkYzMyZTVjNjAzOGM2NTRmOTkwMzU2YTE1`

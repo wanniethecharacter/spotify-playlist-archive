@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Kassi Ashton
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,789 likes - 149 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,860 likes - 149 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 148 | [Singing In A Beer](https://open.spotify.com/track/7gr4XUVtcogJ9ZmiLwc9Fe) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Singing In A Beer](https://open.spotify.com/album/2Rf3FtApcWOYcUSSUEc3v5) | 2:52 |
 | 149 | [Howdy Howdy Howdy](https://open.spotify.com/track/5nfueskTryDjBrdTsex5fr) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Howdy Howdy Howdy](https://open.spotify.com/album/40P6FRU7yKMatNchYEaSRm) | 3:04 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDU4MDg5NzQxNmVmMTU3N2Y5YTM4OGM3NDQ4MGJkMmFl`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGEyY2I1YTBiZjNhN2QwZGE3NjJiYzVjNjc2MTJjMmQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Carminho, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,739 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,767 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 20 | [A noite não conta](https://open.spotify.com/track/36S4xnUQpRr3it9WPb5Gcy) | [Isaura](https://open.spotify.com/artist/2oiBFya19iAwi0SCaltq1F) | [A noite não conta](https://open.spotify.com/album/5yjLmqBL5vWh37Z8bQVqaw) | 2:56 |
 | 21 | [Estações](https://open.spotify.com/track/75WHmcPKPHcV9vvF4sKikH) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Estações](https://open.spotify.com/album/2j6hIjOJXpWeBxXGJxJlIV) | 3:30 |
 | 22 | [bandeira de liberdade](https://open.spotify.com/track/3B0wA2BZso7Y2BY05NWK4G) | [Mara Nunes](https://open.spotify.com/artist/7nwRVzVhK3SkzSRJMZweXO) | [bandeira de liberdade](https://open.spotify.com/album/799cQYqTQt68zMK9elKyvZ) | 3:40 |
-| 23 | [ouvi dizer](https://open.spotify.com/track/0mrWtdiImFX4bsU03Czryl) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3GMuMRTMVX0cGnol8lRiBR) | 2:56 |
+| 23 | [ouvi dizer](https://open.spotify.com/track/6zVFjOyyapIpNDZxYQVsnF) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/6dvJwQ43S7Q1avsF1wT6XA) | 2:56 |
 | 24 | [Sem Ti Não Dá](https://open.spotify.com/track/0kZXuNjVgjmkOpXy0sNvmL) | [Joana Oliveira](https://open.spotify.com/artist/2E0tfKjtPJhGFmkjf7Srjh) | [Sem Ti Não Dá](https://open.spotify.com/album/08I6COxIrblOLfnC5lJ26b) | 2:32 |
 | 25 | [Goodnight](https://open.spotify.com/track/2zBVLxBa67NP7rO4wjJMmP) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:57 |
 | 26 | [A+](https://open.spotify.com/track/2gGsuFVySFk1lMI2QNRHl1) | [Mary Jane](https://open.spotify.com/artist/7De3aXysEvuHh3pEGZqBau) | [A+](https://open.spotify.com/album/057KMRdPqQAKKZkwbkylzh) | 2:52 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 48 | [Grog d'Pilha](https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Grog d'Pilha](https://open.spotify.com/album/1FUTIJ9OdcQ86eiSW4FUxo) | 3:08 |
 | 49 | [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 |
 
-Snapshot ID: `MTY3NzY2MTkxMCwwMDAwMDAwMGI2YzlkNTM3MjZkOTEzMGQzZGZmZDgzMzA2NmUzYjMx`
+Snapshot ID: `MTY3NzY2MTkxMCwwMDAwMDAwMDNkY2E2MjA5ZmUyNjBiMDU1N2MyMTA2NTgzM2YwMjA0`

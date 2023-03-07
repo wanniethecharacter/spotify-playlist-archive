@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: Joony
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,503 likes - 76 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,516 likes - 76 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 42 | [Gotsta Get Paid](https://open.spotify.com/track/05NtQ4hY7LiPApiQrA5P5c) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Gotsta Get Paid](https://open.spotify.com/album/0NKxUky8rIoZ2fTeXEIMku) | 3:30 |
 | 43 | [FORGIVENESS](https://open.spotify.com/track/59EgdZjkgN9RSgv8S4pS5B) | [Deetranada](https://open.spotify.com/artist/2wZt8FDVui01y98mChSK0t) | [NADAWORLD 2](https://open.spotify.com/album/2xvKxZaBXgG2VfzxL7Cftd) | 2:01 |
 | 44 | [Snake](https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:24 |
-| 45 | [IDC](https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 1:52 |
+| 45 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 |
 | 46 | [HEAD TO HADES](https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 2:55 |
 | 47 | [I Tried](https://open.spotify.com/track/0blQoUZeDKJEH3gIbkr4XR) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [Juveniletristen](https://open.spotify.com/artist/0DpzEg1qaTcFvCmpiHm4vc) | [I Tried](https://open.spotify.com/album/3mslHmvlKarV3pzjylYTFZ) | 1:57 |
 | 48 | [Boy Bye \(feat\. Lucky Daye\)](https://open.spotify.com/track/0U8tC6UzgYePgOJT6Chlw9) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 5:01 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 75 | [Something To Talk About](https://open.spotify.com/track/7hKWeVTJDVKf9Ogd21RmpB) | [Until The Very End](https://open.spotify.com/artist/5Jv5Lpg9AV9WJK9kfnZAX0), [FNSHLINE](https://open.spotify.com/artist/2BveIQx5v3GG0w8aI7zFUE) | [Something To Talk About](https://open.spotify.com/album/4MaSCgUF7hMjc7QCdIBsb0) | 3:37 |
 | 76 | [No Idea](https://open.spotify.com/track/4nm75i28hDQ7O3BTAAH4Af) | [Db Bantino](https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa) | [No Idea](https://open.spotify.com/album/7ElhteNY76LkciyHyttnNS) | 3:21 |
 
-Snapshot ID: `MTY3NDU0MjIyNiwwMDAwMDAwMGFkZWZmMjFmNGQyYjM3MzU3ZWM0YTlmOTFhODY3MTEz`
+Snapshot ID: `MTY3NDU0MjIyNiwwMDAwMDAwMDQzNzM5MjEwMTMyMjdjYzI2ZGRjZGQyMTUwYzQzNWUz`

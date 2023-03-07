@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Noah Pope
 
-1,244 songs - 2 day 20 hr 19 min
+1,246 songs - 2 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Again After](https://open.spotify.com/track/6aEw27jlxfAXYmAzaOioms) | [toothbrusher2000](https://open.spotify.com/artist/3q9iFDEpawpnqcnsKikFpm) | [Again & Again](https://open.spotify.com/album/7DqEtsjq3NdksoSdvy9Q8k) | 3:26 | 2022-08-25 | 2022-10-06 |
 | [Age Carry](https://open.spotify.com/track/4NvtXz0bIWCMP33FOP0sCW) | [Jane Lai](https://open.spotify.com/artist/6UdWXal82m8FV736R59CsV) | [Age Carry](https://open.spotify.com/album/1QgRX3fuZiewPQ5TyTT2Z9) | 2:22 | 2022-03-16 | 2022-04-13 |
 | [Age of Anxious](https://open.spotify.com/track/5DA27g2tzcNKDpeH2rulzS) | [Pony Girl](https://open.spotify.com/artist/4AHK4mLrsycTVKUQMAUsy0) | [Age Of Anxious](https://open.spotify.com/album/7bcmNxE5eyC3qZQg837s60) | 3:55 | 2022-06-15 | 2022-06-30 |
-| [Air Conditioner](https://open.spotify.com/track/7ey9wdCqiRTOFWnc2gWQVv) | [Japan, Man](https://open.spotify.com/artist/54MEW8n5kP8oN7qSvb72Nb) | [Air Conditioner](https://open.spotify.com/album/3RopKTfo8EP7bq7RZJ8ZPL) | 3:31 | 2023-02-15 |  |
+| [Air Conditioner](https://open.spotify.com/track/7ey9wdCqiRTOFWnc2gWQVv) | [Japan, Man](https://open.spotify.com/artist/54MEW8n5kP8oN7qSvb72Nb) | [Air Conditioner](https://open.spotify.com/album/3RopKTfo8EP7bq7RZJ8ZPL) | 3:31 | 2023-02-15 | 2023-03-07 |
 | [Alice](https://open.spotify.com/track/4iliH1pecbImn1IJfNnLB7) | [Cloud Cukkoo](https://open.spotify.com/artist/3bIIfcj0VjiKKPrJgA57Rg) | [Alice](https://open.spotify.com/album/7oPduVHuOL5mK87EqNN8BE) | 3:51 | 2022-07-06 | 2022-08-04 |
 | [ALIEN](https://open.spotify.com/track/6laEKEHjds44RV91KfptRM) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [ALIEN](https://open.spotify.com/album/50ClXs3SvYRKRpZ0052qy4) | 4:14 | 2022-03-30 | 2022-04-27 |
 | [Alive](https://open.spotify.com/track/5Q4bmZEH8ZGFNrscDb7ctH) | [Stella Bridie](https://open.spotify.com/artist/6N7zzgXz4PvcAf5NMPpQjL) | [Alive](https://open.spotify.com/album/7stTDOnHQ7nfPnPVejZowY) | 2:38 | 2022-07-27 | 2022-08-25 |
@@ -329,7 +329,7 @@
 | [Ef](https://open.spotify.com/track/636mLRkAl5yW0HpaUUUoj8) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Ef](https://open.spotify.com/album/2cINsbA2p9tJUKegZmNBcB) | 2:58 | 2023-01-11 | 2023-02-09 |
 | [Ego](https://open.spotify.com/track/6eNGfuzoD1IAlyEwe0Fhp4) | [Layzi](https://open.spotify.com/artist/1Osd22FCebAqWNl7q2sazx) | [Ego](https://open.spotify.com/album/7odGCe7dK2EiWtK6uwWvVL) | 2:38 | 2022-06-08 | 2022-07-28 |
 | [eighteen](https://open.spotify.com/track/5uMkaBsallKqRteHGUOjtY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j), [Cole Bauer](https://open.spotify.com/artist/57gW9421NHL1WJjJ82Qdn1) | [eighteen](https://open.spotify.com/album/0y9L01zTXkz4ogsNCX2cA6) | 1:51 | 2023-02-08 | 2023-02-16 |
-| [elsie](https://open.spotify.com/track/5dSAVONexmt8XipPux7QjZ) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [elsie](https://open.spotify.com/album/4pWfJR7DS0DMbpU4dh3U4Y) | 3:23 | 2023-02-08 |  |
+| [elsie](https://open.spotify.com/track/5dSAVONexmt8XipPux7QjZ) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [elsie](https://open.spotify.com/album/4pWfJR7DS0DMbpU4dh3U4Y) | 3:23 | 2023-02-08 | 2023-03-07 |
 | [emotional softie](https://open.spotify.com/track/0ANkt7hXhZb7rdCr9UavOb) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [emotional softie](https://open.spotify.com/album/3VtMLvm4wLhZ5kJFZ2QmhG) | 3:20 | 2021-12-01 | 2022-01-13 |
 | [empty](https://open.spotify.com/track/0nx0l4QmVFV7BdNuUELVg2) | [Human Barbie](https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv) | [empty](https://open.spotify.com/album/4DqyPkbIaL3uQU5D0S55rv) | 4:30 | 2022-10-19 | 2022-12-01 |
 | [Epoch](https://open.spotify.com/track/75NobUSglm9bEYUd9pee0d) | [Quasi Qui](https://open.spotify.com/artist/6QN9eVzG8N5pKQmkZrPWCB) | [Epoch](https://open.spotify.com/album/37rih338EqfPOdjOC1AZiM) | 3:45 | 2022-05-11 | 2022-06-30 |
@@ -796,6 +796,7 @@
 | [One of Us](https://open.spotify.com/track/0g5RxGn5jysuXNZLdXhzzc) | [Goodfight](https://open.spotify.com/artist/4WGLErOggMv0RntY1Zwazt) | [Goodfight](https://open.spotify.com/album/11leyVMUVHgOjJpjEYoUrX) | 3:48 | 2023-01-11 | 2023-02-16 |
 | [One Step Closer](https://open.spotify.com/track/6fr1iIeJ2AQaHZW1uzrCAS) | [Cloe Wilder](https://open.spotify.com/artist/4OmElN0ORkBfPbLi0vtCVf) | [One Step Closer](https://open.spotify.com/album/0p1uWugmpyDBESfUPQG4xk) | 3:39 | 2022-06-29 | 2022-08-11 |
 | [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 | 2022-07-27 | 2022-09-07 |
+| [Only Me](https://open.spotify.com/track/7rsTbTq5J6roqC6iNTV3OI) | [Bliss Samsa](https://open.spotify.com/artist/5Jb935Bdh5o2pBYzXFSFU6) | [Only Me](https://open.spotify.com/album/2VkhUYQyYJMeRBNCEJkOTX) | 2:41 | 2023-03-06 |  |
 | [ONLY RIGHT](https://open.spotify.com/track/7KyfWlIniWCJvwITiq5ncO) | [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [ONLY RIGHT](https://open.spotify.com/album/6fGF6tTw7ytPaZbVem4x9K) | 3:50 | 2021-12-01 | 2022-01-13 |
 | [Only You](https://open.spotify.com/track/0WOZE3f9YtnibC3sVpVV4O) | [Travis Stacey](https://open.spotify.com/artist/6C4mpyQuK5MYFUGsORJkYZ) | [Only You](https://open.spotify.com/album/7gkeRLjkfHAPzhzKunFRCq) | 3:01 | 2022-08-31 | 2022-10-06 |
 | [Original Sins](https://open.spotify.com/track/06YUbOPy89awY5hAolsUj9) | [Sandy Hawkins](https://open.spotify.com/artist/60MgYlGdnbP7B5PxIoUfJj) | [Original Sins](https://open.spotify.com/album/2mxnYkzbzdTNbueQQDQOji) | 3:22 | 2021-12-01 | 2022-01-13 |
@@ -1018,6 +1019,7 @@
 | [Squirrel](https://open.spotify.com/track/3o75ZmQ9nFkIL13FQ0gSaa) | [Howevever](https://open.spotify.com/artist/0OBmQ0rKcwQQS31X1kDpdY) | [Squirrel](https://open.spotify.com/album/1V3YxI3ymnI5uvhxEgldd8) | 3:00 | 2022-10-05 | 2022-12-01 |
 | [Star](https://open.spotify.com/track/4XoKlAEHzeBVu450sMOkSu) | [Deja Blu](https://open.spotify.com/artist/1vKMD4LElQSFvLcdqaA1EB) | [Slow Dance 22.3](https://open.spotify.com/album/5ldWnqIICLsC96tB5SEZFy) | 5:01 | 2023-02-01 | 2023-03-02 |
 | [Star Signs](https://open.spotify.com/track/5aC4aoeeahZuCDc99phOHn) | [roman around](https://open.spotify.com/artist/18pfB891JbZKKn0bCueMvY) | [Star Signs](https://open.spotify.com/album/2FHrVV45Kc7pSUFE26gtKq) | 3:58 | 2022-02-02 | 2022-02-23 |
+| [Starlight](https://open.spotify.com/track/6I7FMBBW5HTzOLQdW8S8Fj) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [Starlight](https://open.spotify.com/album/178AogD4KE27DekV3bpYHX) | 4:52 | 2023-03-06 |  |
 | [Start To Breathe](https://open.spotify.com/track/2o8YkLtvVagI1ODecSRT57) | [Honest Creature](https://open.spotify.com/artist/3g7dxn32LcEGhZqHCGi05D) | [Start To Breathe](https://open.spotify.com/album/3qCeUd5yX2cGIY9xBvwo2s) | 4:21 | 2022-06-29 | 2022-08-11 |
 | [Stay](https://open.spotify.com/track/6DAAty8YhmGwjbuKKtyQVD) | [Daphnie](https://open.spotify.com/artist/3jcJNIWXWGF68CeXff8MQe) | [Stay](https://open.spotify.com/album/2pSOD33Atm2XYhcZcnT8Pi) | 3:30 | 2022-03-22 | 2022-04-27 |
 | [Stealing Turf from a Cowboy](https://open.spotify.com/track/52vuO3gRJ9tdLFGFRmAvhc) | [Floats](https://open.spotify.com/artist/4U0rW1T9UZvITOSfbMcoBp) | [Stealing Turf from a Cowboy](https://open.spotify.com/album/3MAKcjH6LVgDEcH4R1SvMS) | 2:24 | 2023-02-08 | 2023-02-28 |
@@ -1099,7 +1101,7 @@
 | [The Man For You](https://open.spotify.com/track/0MBEey00CAc28CSFfszRHA) | [Patriarchy](https://open.spotify.com/artist/6iA1dQ8FgTN96un4zy5eki) | [The Man For You](https://open.spotify.com/album/4AWiEzN4lyGCiTYNRJufpa) | 4:28 | 2022-07-27 | 2022-08-25 |
 | [The Night Has Missed Me](https://open.spotify.com/track/0tH8LYAaoTsPWmFeEUEnIF) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P) | [From Heaven](https://open.spotify.com/album/260smJl1zubR2fxh8OD0rz) | 3:49 | 2022-05-04 | 2023-01-12 |
 | [The Noise](https://open.spotify.com/track/7rKLae1s1rGPRdS2SvPfyh) | [The Seshen](https://open.spotify.com/artist/2rkxM3pdssb12wllaVcYSC) | [The Noise](https://open.spotify.com/album/3cW9uj6ypzOSrZ8tHhj2qA) | 3:40 | 2022-04-27 | 2022-05-26 |
-| [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 | 2023-02-08 |  |
+| [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 | 2023-02-08 | 2023-03-07 |
 | [the party](https://open.spotify.com/track/2refb65AS7jf0ILJnlXX5y) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [crash landing](https://open.spotify.com/album/6GP7ELTsVdcALvRbD8Qm1X) | 3:49 | 2023-03-01 |  |
 | [The Visitation](https://open.spotify.com/track/7c4T0WGil3iBfVtfMXxU2T) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew), [Jon Nellen](https://open.spotify.com/artist/68eXZPcc2MQ1xEbwQ0M1Gn) | [The Visitation](https://open.spotify.com/album/33LAgAXSxNEHqeX1AKykTt) | 3:04 | 2023-03-01 |  |
 | [therapy](https://open.spotify.com/track/49JbiWqd2bINwP1No7x3aD) | [Bathtub Cig](https://open.spotify.com/artist/36OSPlIMogn7w28xGz8keY) | [therapy](https://open.spotify.com/album/6uPxjrsU1DztGL3ORoQIHG) | 1:59 | 2022-01-12 | 2022-02-10 |

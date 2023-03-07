@@ -3085,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "Under the Tree",
+        "url": "https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121692,
+      "name": "Under the Tree",
+      "url": "https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0"
+    },
+    {
+      "album": {
         "name": "Unimportant",
         "url": "https://open.spotify.com/album/6xJUTgwoTW6JB3QIe6PJgL"
       },
@@ -3346,7 +3364,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 209057,
       "name": "Young Kid",
       "url": "https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf"

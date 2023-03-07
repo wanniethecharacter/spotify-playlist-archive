@@ -4,7 +4,7 @@
 
 > Always come in 1st.
 
-100 songs - 5 hr 57 min
+101 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [I don't give a Fuck](https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [NICESKEIK](https://open.spotify.com/artist/4yP08tX8zhyAQLFZDLLA6D) | [I don't give a Fuck](https://open.spotify.com/album/3qC18tclXE1DFHzQKqTRAM) | 2:17 | 2022-04-01 |  |
 | [I Feel](https://open.spotify.com/track/0IBnpls76TVHzixSJsLiQM) | [Blue Marble](https://open.spotify.com/artist/0MNUH1lQn0AOMZxDvVbwfF) | [I Feel](https://open.spotify.com/album/2u6zKLd0vGq6aAG5zQYcp2) | 3:55 | 2022-07-07 | 2022-07-29 |
 | [I Swirl](https://open.spotify.com/track/2DZe6IQX5WIhTgr2q5Mu3w) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [242 mph](https://open.spotify.com/album/0WNIarunIrgirdxgsIH10u) | 3:14 | 2022-05-12 | 2022-07-29 |
-| [If You Wanna](https://open.spotify.com/track/5BO9RCcQFzOcuweoahVaLZ) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Want U EP](https://open.spotify.com/album/3F501X0TTF56zKitLaTd5m) | 3:35 | 2022-05-12 |  |
+| [If You Wanna](https://open.spotify.com/track/5BO9RCcQFzOcuweoahVaLZ) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Want U EP](https://open.spotify.com/album/3F501X0TTF56zKitLaTd5m) | 3:35 | 2022-05-12 | 2023-03-07 |
 | [In My Car](https://open.spotify.com/track/6iXxT2TCOyOmq15lDMHmiR) | [Davuiside](https://open.spotify.com/artist/76f3kykMC0OdbzXU02T1QV) | [In My Car](https://open.spotify.com/album/6q4kFWpgSaUGNk8ukEPJRR) | 2:58 | 2022-04-01 | 2022-07-29 |
 | [Issa Vibe](https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [House of Wax](https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW) | 2:48 | 2022-04-01 |  |
 | [Keep Crashing](https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Keep Crashing](https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg) | 2:58 | 2022-04-01 |  |
@@ -72,6 +72,7 @@
 | [LIFT YOU UP](https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg), [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [LIFT YOU UP](https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp) | 3:01 | 2022-05-12 |  |
 | [Lions \- VIP](https://open.spotify.com/track/5nDxkmW3YrWh6KfSMXcIKQ) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Lions \(VIP\)](https://open.spotify.com/album/11yUbbKozNofq5fixsJnPh) | 4:39 | 2022-12-09 |  |
 | [MAKE A MOVE](https://open.spotify.com/track/3iXf7W37Yetv36gTgDlZ93) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Make A Move](https://open.spotify.com/album/7y82PxGmIMKNyCmZvRbqIa) | 3:46 | 2022-04-01 | 2023-02-26 |
+| [MAKE A MOVE](https://open.spotify.com/track/4rV50yTt1Me3sFhExrScR1) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [DISRUPTOR LP](https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa) | 3:46 | 2022-12-09 |  |
 | [Misdemeanor](https://open.spotify.com/track/1Bg8eYRESsgf64VK9GvbsO) | [ØDAL](https://open.spotify.com/artist/45vLqgwpe4xKX3dJFwII0L) | [Misdemeanor](https://open.spotify.com/album/4kizoNp9DrivpjkoQO2CO6) | 3:42 | 2022-04-01 | 2022-07-27 |
 | [Move To The Beat Like](https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX) | [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X) | [Move To The Beat Like](https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip) | 1:46 | 2022-04-01 |  |
 | [Not Enough](https://open.spotify.com/track/1dEud4LT7T7Yd7KMpo8Qz2) | [Near x Far](https://open.spotify.com/artist/3jHNFPilH4sebvSIGwdSmG) | [Not Enough](https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb) | 3:40 | 2022-09-03 |  |

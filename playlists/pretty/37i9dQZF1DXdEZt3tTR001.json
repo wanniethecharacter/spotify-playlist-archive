@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 102794,
+  "num_followers": 102970,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzYzODY5NiwwMDAwMDAwMDc1YjVmNDc5ODQ4MDkyN2E2ZGEyNTVlNGUxYmM5MWZk",
+  "snapshot_id": "MTY3NzYzODY5NiwwMDAwMDAwMDBlNDVlOGZjNjdjODE0MmZmYWM0YzU5MmE3YWEwOGVm",
   "tracks": [
     {
       "added_at": "2023-03-01 02:44:56",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-01 02:44:56",
       "album": {
-        "name": "Pronounced Jah-Nay",
-        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
-      },
-      "artists": [
-        {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "Sending My Love",
-      "url": "https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm"
-    },
-    {
-      "added_at": "2023-03-01 02:44:56",
-      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/3uXIOaZWXwkW3CYVwcIxLy"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 201333,
       "name": "If Only",
       "url": "https://open.spotify.com/track/4jyU03J2YOhRxgOHit2auK"
+    },
+    {
+      "added_at": "2023-03-01 02:44:56",
+      "album": {
+        "name": "Pronounced Jah-Nay",
+        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
+      },
+      "artists": [
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Sending My Love",
+      "url": "https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm"
     },
     {
       "added_at": "2023-03-01 02:44:56",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-03-01 02:44:56",
       "album": {
+        "name": "Spark Of Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo"
+      },
+      "artists": [
+        {
+          "name": "Lenny Williams",
+          "url": "https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN"
+        }
+      ],
+      "duration_ms": 429120,
+      "name": "'Cause I Love You",
+      "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
+    },
+    {
+      "added_at": "2023-03-01 02:44:56",
+      "album": {
         "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
         "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2023-03-01 02:44:56",
       "album": {
-        "name": "Spark Of Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
-          "name": "Lenny Williams",
-          "url": "https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 429120,
-      "name": "'Cause I Love You",
-      "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
+      "duration_ms": 279360,
+      "name": "Can U Handle It?",
+      "url": "https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd"
     },
     {
       "added_at": "2023-03-01 02:44:56",
@@ -979,22 +995,6 @@
       "duration_ms": 212571,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0"
-    },
-    {
-      "added_at": "2023-03-01 02:44:56",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Can U Handle It?",
-      "url": "https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd"
     },
     {
       "added_at": "2023-03-01 02:44:56",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-03-01 02:44:56",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 273760,
-      "name": "Seduction",
-      "url": "https://open.spotify.com/track/2qVqxcTXGugY41u8Sr8xfp"
-    },
-    {
-      "added_at": "2023-03-01 02:44:56",
-      "album": {
         "name": "Lost And Found",
         "url": "https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 214054,
       "name": "How Could I Forget You",
       "url": "https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi"
+    },
+    {
+      "added_at": "2023-03-01 02:44:56",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 273760,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/2qVqxcTXGugY41u8Sr8xfp"
     },
     {
       "added_at": "2023-03-01 02:44:56",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-03-01 02:44:56",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+        "name": "A Real Romantic",
+        "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
         }
       ],
-      "duration_ms": 288453,
-      "name": "Read My Mind",
-      "url": "https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6"
+      "duration_ms": 269354,
+      "name": "Livid",
+      "url": "https://open.spotify.com/track/6cYqxLD2d6zdNXIJU3CAbR"
     }
   ],
   "unique_name": "floating",

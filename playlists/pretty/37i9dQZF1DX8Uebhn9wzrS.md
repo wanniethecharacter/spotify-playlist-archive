@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,594 likes - 500 songs - 18 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,814 likes - 500 songs - 18 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 499 | [No Ice](https://open.spotify.com/track/0Ki80etD1qrDyTHXR9Ufaw) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [No Ice](https://open.spotify.com/album/4z75LOO80h08jNgo4vPuDK) | 2:17 |
 | 500 | [Get Off Your Horse](https://open.spotify.com/track/0M0toTLY69gmI8ddjadJnt) | [Fox and Hounds](https://open.spotify.com/artist/1SSyBpR4c7ItGstC9MR3s3) | [Get Off Your Horse](https://open.spotify.com/album/1XPQ8nrf1I19sLHhN6IbGo) | 2:08 |
 
-Snapshot ID: `MTY3NzY2NjczMSwwMDAwMDAwMGI1ODU2NWI0YjdmMGIzMjE3NGFmZWZhMjU0ODQ1ZWQ3`
+Snapshot ID: `MTY3NzY2NjczMSwwMDAwMDAwMDdkN2M4YzA4ZjY5MjMzMjQ5MWM1NmIwMzQ0ZDkwZjdi`

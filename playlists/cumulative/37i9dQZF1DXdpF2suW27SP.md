@@ -2,7 +2,7 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Wet Bed Gang entram na zona.
+> 9 Miller e Mizzy Miles entram na zona.
 
 219 songs - 11 hr 54 min
 

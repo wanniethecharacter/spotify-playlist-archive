@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 206720,
       "name": "5AM",
       "url": "https://open.spotify.com/track/3riOdbVB5Ma1SrhKjBt7bl"
@@ -146,6 +146,24 @@
       "duration_ms": 198720,
       "name": "a song from yesterday",
       "url": "https://open.spotify.com/track/1rIvV3vogPZDoEz4Ra0bei"
+    },
+    {
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/5WIID0lQrxRT5xsXrOd0E5"
+      },
+      "artists": [
+        {
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228666,
+      "name": "Acrobatics",
+      "url": "https://open.spotify.com/track/60o8hG5Y3wDYQuxRJFarqQ"
     },
     {
       "album": {
@@ -1743,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "flood lines",
+        "url": "https://open.spotify.com/album/4T9DEhlakkK3iD2Zw0Cwyr"
+      },
+      "artists": [
+        {
+          "name": "Ivytide",
+          "url": "https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241250,
+      "name": "flood lines",
+      "url": "https://open.spotify.com/track/3FbCoTjGMj9u4VLecvKh1Y"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
       },
@@ -1960,6 +1996,24 @@
       "duration_ms": 289045,
       "name": "Godzilla",
       "url": "https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM"
+    },
+    {
+      "album": {
+        "name": "Good, but not together",
+        "url": "https://open.spotify.com/album/5CG9626TPlTSDlOlsVXafP"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183365,
+      "name": "Good, but not together",
+      "url": "https://open.spotify.com/track/6YiR17DGpJa5r4X7RjwCwW"
     },
     {
       "album": {
@@ -2493,6 +2547,28 @@
     },
     {
       "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217172,
+      "name": "I Hope I Packed A Parachute (feat. Charlotte Cardin)",
+      "url": "https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif"
+    },
+    {
+      "album": {
         "name": "Good Riddance",
         "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
       },
@@ -2858,7 +2934,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 158000,
       "name": "labyrinth",
       "url": "https://open.spotify.com/track/3qbzROYNqCrv7hAPjFKzHP"
@@ -2894,7 +2970,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 171984,
       "name": "Last First Kiss",
       "url": "https://open.spotify.com/track/3NRsALILJmLX78BLoVjgE5"
@@ -3363,6 +3439,28 @@
     },
     {
       "album": {
+        "name": "rave (nc)",
+        "url": "https://open.spotify.com/album/0ALMEZvu4E26GuMykkZ2PV"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Prentiss",
+          "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113607,
+      "name": "meet me at the tryouts (feat. Prentiss) - nc",
+      "url": "https://open.spotify.com/track/2584UpE1DH9iHKUepsIQNu"
+    },
+    {
+      "album": {
         "name": "Men On The Moon",
         "url": "https://open.spotify.com/album/1mK3MLTmhxsrOTx7ceJwyr"
       },
@@ -3826,7 +3924,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 356000,
       "name": "One More Try",
       "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
@@ -3934,7 +4032,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 306000,
       "name": "Parcel",
       "url": "https://open.spotify.com/track/7mMuc0fI5zlcQ6YXsQfVBk"
@@ -4450,7 +4548,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 217781,
       "name": "Secondhand Smoke",
       "url": "https://open.spotify.com/track/5OrCYSGfpVUy5WEX0B6MUM"
@@ -5114,7 +5212,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 289532,
       "name": "the man who flew into space",
       "url": "https://open.spotify.com/track/09tv20euln883gMT36Agpr"
@@ -5399,6 +5497,24 @@
     },
     {
       "album": {
+        "name": "Until Now",
+        "url": "https://open.spotify.com/album/656QB1tzxNjCNtDUswWRAF"
+      },
+      "artists": [
+        {
+          "name": "Abe Parker",
+          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Until Now",
+      "url": "https://open.spotify.com/track/4djT5qYz4PIcIDV6TziZhm"
+    },
+    {
+      "album": {
         "name": "I Loved You, What Happened?",
         "url": "https://open.spotify.com/album/3K6gfRB0Yn4IEd5VDThMXv"
       },
@@ -5428,7 +5544,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 173540,
       "name": "van gogh",
       "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
@@ -5705,6 +5821,28 @@
     },
     {
       "album": {
+        "name": "When You're Gone (with Bedouine) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/1lfGD8BicdqCr2Rt7MYSt0"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282974,
+      "name": "When You're Gone (with Bedouine) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/7Gp2tFkwXuiDF0CdbGsXZN"
+    },
+    {
+      "album": {
         "name": "Where do we go now?",
         "url": "https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T"
       },
@@ -5842,7 +5980,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 208493,
       "name": "Woman No",
       "url": "https://open.spotify.com/track/1FmvLSFlQNc2z8BFGOP8kn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Aggiornata ogni venerdì\. Cover: Russ Millions, Capo Plaza, Rondodasosa e Noizy
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,723 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,819 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [NASTY](https://open.spotify.com/track/62qL3R7T6G4wgHBpZ8efBu) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [NASTY](https://open.spotify.com/album/03x49jYtwYvQuvAsiOdcm2) | 2:41 |
 | 50 | [No Gangsta \(feat\. Diss Gacha\)](https://open.spotify.com/track/7jchp8dvNtPolD0UJHjDLs) | [Yamba](https://open.spotify.com/artist/5cmAoURYGVEFe0FyqQ127T), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [No Gangsta \(feat\. Diss Gacha\)](https://open.spotify.com/album/1FCvC9JiVSiFYxyguzXb4B) | 2:31 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDI1ZmRkODVkOTA0ZWUwYWI5ZjlhOTFkZjZkNGFjZWQz`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDcyZGI2NDFlMmI0NGRhNjM2Mzg0YTU4NmJmOWE5MzE2`

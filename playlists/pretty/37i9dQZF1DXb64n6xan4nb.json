@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 23276,
+  "num_followers": 23294,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTEyNjU2NiwwMDAwMDAwMGFkNmExYzI4YjQ1MWVmOTgzYzAxZTJlNzFiYzU0MzNl",
+  "snapshot_id": "MTY1NTEyNjU2NiwwMDAwMDAwMGMyNzU1MDU1NWRjZjBlNTY0MzdhYWU2MDVkNzYzNGFm",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:46",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
-        "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "\ub450 \uc0ac\ub78c",
-      "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Hexagonal",
         "url": "https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 207826,
       "name": "\ubc8c\uc368 \uc77c\ub144",
       "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
+        "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "\ub450 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "The Ballads",
-        "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "\uac70\ub9ac\uc5d0\uc11c",
-      "url": "https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Stylish\u2026",
         "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 237871,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/5nfb7IPrj9awskmLFSykWr"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "The Ballads",
+        "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "\uac70\ub9ac\uc5d0\uc11c",
+      "url": "https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
-      },
-      "artists": [
-        {
-          "name": "Tim",
-          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Generation",
         "url": "https://open.spotify.com/album/0Uc0sXadTVlym7WxpQo0E0"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
+      },
+      "artists": [
+        {
+          "name": "Tim",
+          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Reason 4 breathing?",
         "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Buzz Effect",
-        "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
-      },
-      "artists": [
-        {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
-        }
-      ],
-      "duration_ms": 283960,
-      "name": "\uac81\uc7c1\uc774",
-      "url": "https://open.spotify.com/track/6Ef8tkhiFOOFOAeaQBFqtA"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 323531,
       "name": "\uace0\ubc31",
       "url": "https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Buzz Effect",
+        "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "duration_ms": 283960,
+      "name": "\uac81\uc7c1\uc774",
+      "url": "https://open.spotify.com/track/6Ef8tkhiFOOFOAeaQBFqtA"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Buzz Effect",
-        "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
-      },
-      "artists": [
-        {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "\ub098\uc5d0\uac8c\ub85c \ub5a0\ub098\ub294 \uc5ec\ud589",
-      "url": "https://open.spotify.com/track/4K35mmvZKAq3ue2TyXisMW"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Made In Korea?",
         "url": "https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 230240,
       "name": "sweet little kitty",
       "url": "https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Buzz Effect",
+        "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "\ub098\uc5d0\uac8c\ub85c \ub5a0\ub098\ub294 \uc5ec\ud589",
+      "url": "https://open.spotify.com/track/4K35mmvZKAq3ue2TyXisMW"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.36",
-        "url": "https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 226998,
-      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
-      "url": "https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Like The Bible",
         "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.36",
+        "url": "https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 226998,
+      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
+      "url": "https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Kim Hyung Joong",
         "url": "https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN"
       },
@@ -1199,6 +1199,26 @@
       "duration_ms": 269832,
       "name": "\uadf8\ub7ac\ub098\ubd10",
       "url": "https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Re - Feel",
+        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        },
+        {
+          "name": "Jang Hye Jin",
+          "url": "https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH"
+        }
+      ],
+      "duration_ms": 272875,
+      "name": "The man and the woman",
+      "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1235,26 +1255,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Re - Feel",
-        "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
-      },
-      "artists": [
-        {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
-        },
-        {
-          "name": "Jang Hye Jin",
-          "url": "https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH"
-        }
-      ],
-      "duration_ms": 272875,
-      "name": "The man and the woman",
-      "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Lovers in Paris (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 249352,
       "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
       "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Vivid Summer Edition 1st Amaranth Repackage Album",
+        "url": "https://open.spotify.com/album/506YM58qyGoCHcTB1EZmVS"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 259372,
+      "name": "\uc0ac\ub791\uacfc \uc804\uc7c1 - \ud558\ud558 Narration Version",
+      "url": "https://open.spotify.com/track/17nIj0cUDWtrsj5NbTh3E5"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Vivid Summer Edition 1st Amaranth Repackage Album",
-        "url": "https://open.spotify.com/album/506YM58qyGoCHcTB1EZmVS"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 259372,
-      "name": "\uc0ac\ub791\uacfc \uc804\uc7c1 - \ud558\ud558 Narration Version",
-      "url": "https://open.spotify.com/track/17nIj0cUDWtrsj5NbTh3E5"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "\ub354 \ub11b\uce20 1\uc9d1",
         "url": "https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Like A Movie",
-        "url": "https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj"
-      },
-      "artists": [
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 270240,
-      "name": "\uc548\ub418\ub098\uc694",
-      "url": "https://open.spotify.com/track/7JXQOKFhZ0h8VrYdWbwM8F"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Sung Si kyung Remake Album",
         "url": "https://open.spotify.com/album/5Ul0btt4Y5eWe1Rff1rmNQ"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 236002,
       "name": "\uc81c\uc8fc\ub3c4\uc758 \ud478\ub978 \ubc24",
       "url": "https://open.spotify.com/track/7dxyNzfhhXpqIHttzNFxn5"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Like A Movie",
+        "url": "https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "duration_ms": 270240,
+      "name": "\uc548\ub418\ub098\uc694",
+      "url": "https://open.spotify.com/track/7JXQOKFhZ0h8VrYdWbwM8F"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
-      },
-      "artists": [
-        {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
-        }
-      ],
-      "duration_ms": 251194,
-      "name": "Love Me Once Again",
-      "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        }
+      ],
+      "duration_ms": 251194,
+      "name": "Love Me Once Again",
+      "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "The Wind, The Sea, The Rain",
-        "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
-      },
-      "artists": [
-        {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "Nothing Better",
-      "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "It's Real",
         "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 210293,
       "name": "With Me",
       "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "The Wind, The Sea, The Rain",
+        "url": "https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "Nothing Better",
+      "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Chapter 5 Letter",
+        "url": "https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "0%",
+      "url": "https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "CYWORLD BGM 2021",
         "url": "https://open.spotify.com/album/3HHwRV6jbYvwshPkNwOLj0"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Chapter 5 Letter",
-        "url": "https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "0%",
-      "url": "https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "sweetbox The Best",
         "url": "https://open.spotify.com/album/7w2Xfa9r5FkS4u7l9T7TqM"
       },
@@ -1587,6 +1587,22 @@
       "duration_ms": 168320,
       "name": "Life Is Cool",
       "url": "https://open.spotify.com/track/3kslq6hNK1NPQBZKa6bDfW"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "The Jadu 3",
+        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
+      },
+      "artists": [
+        {
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "\uae40\ubc25",
+      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "The Jadu 3",
-        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
-      },
-      "artists": [
-        {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "\uae40\ubc25",
-      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "TIME FOR LOVE",
         "url": "https://open.spotify.com/album/4vOrKQQbPSjYGQRbixrdRi"
       },
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Fool Again",
-        "url": "https://open.spotify.com/album/4wYYHmNtTMjlG8WXfznCwU"
+        "name": "It's Unique",
+        "url": "https://open.spotify.com/album/38nBVXCPRp1GS5mRu8MabS"
       },
       "artists": [
         {
-          "name": "8Eight",
-          "url": "https://open.spotify.com/artist/5fp3IPvTlnkqI5NvRnwldJ"
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
         }
       ],
-      "duration_ms": 217871,
-      "name": "Without a Heart - 10th Anniversary Ver.",
-      "url": "https://open.spotify.com/track/5kEDvns1MRfQG1b28KMmHI"
+      "duration_ms": 277746,
+      "name": "\uc5ec\uc790",
+      "url": "https://open.spotify.com/track/4rbMCf0AKkx2QaarW4COPD"
     }
   ],
   "unique_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",

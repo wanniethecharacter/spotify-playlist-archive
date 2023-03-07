@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Connor Price, 4Korners, Nic D
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,501 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,545 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Soul Stone](https://open.spotify.com/track/4shnE5Kjnw1YmdDsKjfBL8) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [GE20](https://open.spotify.com/album/4CnGPsn4uWiA8XXwrH5p6M) | 2:50 |
 | 100 | [UPTOWN](https://open.spotify.com/track/1WvSl4dDdvazHNEy7SaYxW) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [UPTOWN](https://open.spotify.com/album/2QJGJezLbxbCTCwuktLR1I) | 2:45 |
 
-Snapshot ID: `MTY3Nzg4OTc5OSwwMDAwMDAwMGU1NWJjNWU0Mzg5ZGE0NzFlZDI5OTZjN2ViNmZmNTU2`
+Snapshot ID: `MTY3Nzg4OTc5OSwwMDAwMDAwMGNkNzVjZTZkY2U3NDk5MzI4YjQ5MzdjZTVkOGVlZDkx`

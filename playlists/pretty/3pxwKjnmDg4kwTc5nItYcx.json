@@ -1,12 +1,12 @@
 {
   "description": "Let your mind float away with these down-tempo easy listening tracks. Cover: Budjerah",
-  "num_followers": 5725,
+  "num_followers": 5724,
   "original_name": "Low Key Pop",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTYwOSwwMDE2NjEwYzIxZjE2ODVmZTE4ZjBiZTM2ZTBjZWFlMGE1NjcyYjEy",
+  "snapshot_id": "MTYxMSwzNGU4ZWE1NWJiMDNkYmM0ZWM5YmMwNTM0MzRhNTFiZWZlOTM2ZTEy",
   "tracks": [
     {
       "added_at": "2023-02-10 00:29:32",
@@ -91,6 +91,26 @@
       "duration_ms": 148648,
       "name": "knight to e5",
       "url": "https://open.spotify.com/track/79DFcXX6Tz8dulqbA6v1wN"
+    },
+    {
+      "added_at": "2023-03-06 21:18:58",
+      "album": {
+        "name": "BEN",
+        "url": "https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Collett",
+          "url": "https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "NO BAD DAYS (feat. Collett)",
+      "url": "https://open.spotify.com/track/5C8ySsx3AT121g24uYR823"
     },
     {
       "added_at": "2023-02-02 22:47:19",

@@ -4,7 +4,7 @@
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Ayra Starr
 
-375 songs - 19 hr 49 min
+376 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Blessed](https://open.spotify.com/track/4DHKU5Drre8uccA9qCu1O0) | [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Blessed](https://open.spotify.com/album/4AsBXK2LqjLyZdzcSxLDgJ) | 2:30 | 2021-12-20 | 2022-01-10 |
 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 | 2022-08-18 | 2022-09-17 |
 | [Blessings \(feat\. Chronixx\)](https://open.spotify.com/track/4RZr9mvLnec8QYlRTmwl3V) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Truth Be Told](https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs) | 3:44 | 2022-01-24 | 2022-07-29 |
+| [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV) | 3:42 | 2023-03-03 |  |
 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 | 2022-01-24 |  |
 | [Body](https://open.spotify.com/track/5Wwj8vYEbA5I9NYePl9Ydm) | [Olivia Louise](https://open.spotify.com/artist/6E1v7RmEYvZIvhauy9v0sd) | [Body](https://open.spotify.com/album/4hgf72mQ48IN74KqkqEdko) | 3:10 | 2022-05-20 | 2022-05-28 |
 | [Boom Bam \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/5GKkxxgMILISES4LHFu85M) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Boom Bam \(feat\. Young T & Bugsey\)](https://open.spotify.com/album/4dBnzKXw0SFRy9vzOYypgU) | 3:32 | 2021-12-20 | 2022-07-23 |
@@ -135,7 +136,7 @@
 | [Freeway \- Remix](https://open.spotify.com/track/0uDYSd5vnBCaAjvYLA5c6R) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Dj Pee Raven](https://open.spotify.com/artist/4vV4WxPTFXfZlK6Z2rKSHi) | [Freeway \(Remix\)](https://open.spotify.com/album/716o2Sc0MXnixRhTABreb4) | 4:15 | 2022-05-06 | 2022-05-08 |
 | [FYE](https://open.spotify.com/track/0nO4zZnJfxDXwTIwqLy5iL) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 3:30 | 2022-02-28 | 2022-07-27 |
 | [FYN](https://open.spotify.com/track/5gdhbzqHrZsjc3Rf3SdeXE) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [FYN](https://open.spotify.com/album/2U86RJZhOyvFzLxZtol3fH) | 3:27 | 2022-03-14 | 2022-07-16 |
-| [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 | 2021-12-20 |  |
+| [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 | 2021-12-20 | 2023-03-07 |
 | [Get Low](https://open.spotify.com/track/70RGIx9mqB96wMwtA8ybOa) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bank Statement](https://open.spotify.com/album/0Ytf68szpup3NtusbOcg0v) | 2:55 | 2022-08-18 | 2022-09-17 |
 | [Gimme Some \- Radio Edit](https://open.spotify.com/track/4accPh4Moan4rmdR71oom9) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [K\-Zaka](https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR) | [Gimme Some](https://open.spotify.com/album/28hzuLw9VcFUyFkCQGOIZK) | 4:05 | 2022-05-06 | 2022-07-17 |
 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 | 2021-12-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Reyna Roberts, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,715 likes - 126 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,744 likes - 126 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 125 | [Can't Call You Beautiful](https://open.spotify.com/track/5JbwjJGfajXcvuR23N4chq) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Can't Call You Beautiful](https://open.spotify.com/album/19u0bXNkPWffSQwnsUTi2S) | 3:25 |
 | 126 | [no other](https://open.spotify.com/track/2taNV2RQIImsSLma7UFpyr) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [no other](https://open.spotify.com/album/1GI25TRmqjBzIVXgR36EPC) | 3:12 |
 
-Snapshot ID: `MTY3NzcwOTQ1NSwwMDAwMDAwMDA0MzE2MmJiZmQzY2NiY2Q1MmFjMTFkNTM0NWUxNTI0`
+Snapshot ID: `MTY3NzcwOTQ1NSwwMDAwMDAwMGE2OWVjMmJlNzdjZGY1YzU5NDMzN2VhZjU1YmIyMWQ3`

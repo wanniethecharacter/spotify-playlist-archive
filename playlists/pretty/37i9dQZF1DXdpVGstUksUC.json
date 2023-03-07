@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 487622,
+  "num_followers": 487860,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGY0MjFiMDg3NmM3MTQ5ZDhmYjdmNThiOGQ4MWI3MTRk",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDIwZTdhZGEzOTk1MzM5NTVmNzkwYTgxNTA0MjExZGMx",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Black Sabbath (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "The Wizard - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Sleep's Holy Mountain",
         "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
       },
@@ -219,6 +235,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "The Lost Art Of Keeping A Secret",
+      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Age of Winters",
         "url": "https://open.spotify.com/album/3s4TEYpm0Nl7csTO3NCQ1I"
       },
@@ -231,22 +263,6 @@
       "duration_ms": 274400,
       "name": "Freya",
       "url": "https://open.spotify.com/track/5CocEvWeRX1VIMNAMwVdmk"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Black Sabbath (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "The Wizard - 2014 Remaster",
-      "url": "https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -283,22 +299,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "The Lost Art Of Keeping A Secret",
-      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Deliverance",
         "url": "https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh"
       },
@@ -311,22 +311,6 @@
       "duration_ms": 320333,
       "name": "Albatross",
       "url": "https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Dopes To Infinity",
-        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Negasonic Teenage Warhead",
-      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -347,22 +331,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
-      },
-      "artists": [
-        {
-          "name": "Witchcraft",
-          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
-        }
-      ],
-      "duration_ms": 317600,
-      "name": "An Alternative to Freedom",
-      "url": "https://open.spotify.com/track/0fATnWJXdt6ke5kR2klu7g"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Queens of the Stone Age",
         "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
       },
@@ -379,6 +347,38 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Dopes To Infinity",
+        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Negasonic Teenage Warhead",
+      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
+      },
+      "artists": [
+        {
+          "name": "Witchcraft",
+          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
+        }
+      ],
+      "duration_ms": 317600,
+      "name": "An Alternative to Freedom",
+      "url": "https://open.spotify.com/track/0fATnWJXdt6ke5kR2klu7g"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Tame Impala",
         "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 266920,
       "name": "Half Full Glass Of Wine",
       "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 422533,
+      "name": "Space Cadet",
+      "url": "https://open.spotify.com/track/3iYermCTDOt4YfeCqf3sIn"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -427,18 +443,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+        "name": "Dopethrone",
+        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
       },
       "artists": [
         {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+          "name": "Electric Wizard",
+          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
         }
       ],
-      "duration_ms": 422533,
-      "name": "Space Cadet",
-      "url": "https://open.spotify.com/track/3iYermCTDOt4YfeCqf3sIn"
+      "duration_ms": 523333,
+      "name": "Funeralopolis",
+      "url": "https://open.spotify.com/track/6DU1WKdUnR7OZkw7BZl9P0"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -459,34 +475,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
+        "name": "...And the Circus Leaves Town",
+        "url": "https://open.spotify.com/album/6O5lhr0v3ci9fMEIK5g5a9"
       },
       "artists": [
         {
-          "name": "Witchcraft",
-          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
         }
       ],
-      "duration_ms": 309986,
-      "name": "Deconstruction",
-      "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Dopethrone",
-        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
-      },
-      "artists": [
-        {
-          "name": "Electric Wizard",
-          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
-        }
-      ],
-      "duration_ms": 523333,
-      "name": "Funeralopolis",
-      "url": "https://open.spotify.com/track/6DU1WKdUnR7OZkw7BZl9P0"
+      "duration_ms": 152040,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6QNJfu01hcQ8n8taGXXEqY"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -523,50 +523,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "...And the Circus Leaves Town",
-        "url": "https://open.spotify.com/album/6O5lhr0v3ci9fMEIK5g5a9"
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
       },
       "artists": [
         {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+          "name": "Witchcraft",
+          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
         }
       ],
-      "duration_ms": 152040,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/6QNJfu01hcQ8n8taGXXEqY"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Mars Red Sky",
-        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
-      },
-      "artists": [
-        {
-          "name": "Mars Red Sky",
-          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
-        }
-      ],
-      "duration_ms": 329626,
-      "name": "Strong Reflection",
-      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Get What You Deserve",
-        "url": "https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f"
-      },
-      "artists": [
-        {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
-        }
-      ],
-      "duration_ms": 550665,
-      "name": "Get What You Deserve",
-      "url": "https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3"
+      "duration_ms": 309986,
+      "name": "Deconstruction",
+      "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -587,18 +555,34 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Dig. Sow. Love. Grow.",
-        "url": "https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2"
+        "name": "Get What You Deserve",
+        "url": "https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f"
       },
       "artists": [
         {
-          "name": "Buffalo Killers",
-          "url": "https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV"
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
         }
       ],
-      "duration_ms": 190586,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee"
+      "duration_ms": 550665,
+      "name": "Get What You Deserve",
+      "url": "https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Mars Red Sky",
+        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
+      },
+      "artists": [
+        {
+          "name": "Mars Red Sky",
+          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+        }
+      ],
+      "duration_ms": 329626,
+      "name": "Strong Reflection",
+      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -615,6 +599,22 @@
       "duration_ms": 190800,
       "name": "Eatin' Dust",
       "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Dig. Sow. Love. Grow.",
+        "url": "https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Killers",
+          "url": "https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Our Mother Electricity",
-        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 352073,
-      "name": "Elk.Blood.Heart",
-      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Dead Rock Commandos",
         "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Our Mother Electricity",
+        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 352073,
+      "name": "Elk.Blood.Heart",
+      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Luciferian Towers",
         "url": "https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "In The Future",
-        "url": "https://open.spotify.com/album/6bFa0guTmFUo2DKGiVts6R"
-      },
-      "artists": [
-        {
-          "name": "Black Mountain",
-          "url": "https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4"
-        }
-      ],
-      "duration_ms": 362960,
-      "name": "Wucan",
-      "url": "https://open.spotify.com/track/4T74vnnnEEVZbgxgiIwSpV"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Dopethrone",
         "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 636226,
       "name": "Dopethrone",
       "url": "https://open.spotify.com/track/6rbtbfELvUHsOjgYyz52lT"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "In The Future",
+        "url": "https://open.spotify.com/album/6bFa0guTmFUo2DKGiVts6R"
+      },
+      "artists": [
+        {
+          "name": "Black Mountain",
+          "url": "https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4"
+        }
+      ],
+      "duration_ms": 362960,
+      "name": "Wucan",
+      "url": "https://open.spotify.com/track/4T74vnnnEEVZbgxgiIwSpV"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "All You Can Eat!!",
-        "url": "https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH"
-      },
-      "artists": [
-        {
-          "name": "Left Lane Cruiser",
-          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "Putain!",
-      "url": "https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Tempel",
         "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 848346,
       "name": "Uluru Rock",
       "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "All You Can Eat!!",
+        "url": "https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH"
+      },
+      "artists": [
+        {
+          "name": "Left Lane Cruiser",
+          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "Putain!",
+      "url": "https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "The Devil and the Almighty Blues",
+        "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
+      },
+      "artists": [
+        {
+          "name": "The Devil and the Almighty Blues",
+          "url": "https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ"
+        }
+      ],
+      "duration_ms": 387668,
+      "name": "Tired Old Dog",
+      "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 244720,
       "name": "The Great American Death Rattle",
       "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "The Devil and the Almighty Blues",
-        "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
-      },
-      "artists": [
-        {
-          "name": "The Devil and the Almighty Blues",
-          "url": "https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ"
-        }
-      ],
-      "duration_ms": 387668,
-      "name": "Tired Old Dog",
-      "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Psych Aux Tropiques",
+        "url": "https://open.spotify.com/album/5FPimyiGTHOTXXiabVXWUL"
+      },
+      "artists": [
+        {
+          "name": "Kamggarn",
+          "url": "https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2"
+        }
+      ],
+      "duration_ms": 161771,
+      "name": "Cranberry Kiss",
+      "url": "https://open.spotify.com/track/0kiSbJ3HyRnHLiHYLqpTaz"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Arch Stanton",
         "url": "https://open.spotify.com/album/6lMTeRjXuXSVGePMeAz9Uv"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 300666,
       "name": "The Seeker",
       "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Psych Aux Tropiques",
-        "url": "https://open.spotify.com/album/5FPimyiGTHOTXXiabVXWUL"
-      },
-      "artists": [
-        {
-          "name": "Kamggarn",
-          "url": "https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2"
-        }
-      ],
-      "duration_ms": 161771,
-      "name": "Cranberry Kiss",
-      "url": "https://open.spotify.com/track/0kiSbJ3HyRnHLiHYLqpTaz"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Trails & Passes",
-        "url": "https://open.spotify.com/album/4nrv5D1bFcXVe8Bv7Ra0tr"
+        "name": "Sagor",
+        "url": "https://open.spotify.com/album/01iXYjSbjTWy8vNjoN7wmp"
       },
       "artists": [
         {
-          "name": "Greenleaf",
-          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
+          "name": "Skraeckoedlan",
+          "url": "https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb"
         }
       ],
-      "duration_ms": 194866,
-      "name": "Our Mother Ash",
-      "url": "https://open.spotify.com/track/06X9h0zkeEncfohssytDp8"
+      "duration_ms": 393040,
+      "name": "El Monstro",
+      "url": "https://open.spotify.com/track/4NWhOcJUUYesYsHNHrGDrS"
     }
   ],
   "unique_name": "Stoner Rock",

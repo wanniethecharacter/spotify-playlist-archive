@@ -1790,10 +1790,32 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 198307,
       "name": "La Faca",
       "url": "https://open.spotify.com/track/1JpecUG8sPntakN0orOpgN"
+    },
+    {
+      "album": {
+        "name": "La Faca",
+        "url": "https://open.spotify.com/album/1W96U3aPA75X8oxRyfAEI0"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngel Strife",
+          "url": "https://open.spotify.com/artist/3Lse4fAlOchY8msotsYMA6"
+        },
+        {
+          "name": "Maritza Merk",
+          "url": "https://open.spotify.com/artist/1I8DWt5B1TNO1ZMUcsUziI"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "La Faca",
+      "url": "https://open.spotify.com/track/3wt9IGfeow7fndcKW4HOPB"
     },
     {
       "album": {
@@ -2175,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "Malo Para M\u00ed",
+        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
+      },
+      "artists": [
+        {
+          "name": "Banana Leaf Boy",
+          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282415,
+      "name": "Malo Para M\u00ed",
+      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
+    },
+    {
+      "album": {
         "name": "Mam\u00e1",
         "url": "https://open.spotify.com/album/7BwXwHltlavtSymrUeug1V"
       },
@@ -2404,7 +2444,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
@@ -2422,7 +2462,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 197669,
       "name": "Mi Acento",
       "url": "https://open.spotify.com/track/6DxgdO95EnrXOVHGNFI33B"
@@ -2818,7 +2858,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 180026,
       "name": "OTRAS MUJERES",
       "url": "https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV"
@@ -2840,7 +2880,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 351813,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
@@ -2916,7 +2956,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
@@ -2934,7 +2974,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 222005,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA"
@@ -3464,7 +3504,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 166172,
       "name": "Supersticioso",
       "url": "https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6"

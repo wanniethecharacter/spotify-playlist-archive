@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi superstar’s biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,966 likes - 64 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,031 likes - 64 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 63 | [Kismat \- From "Punjab 1984"](https://open.spotify.com/track/4SyJ5EGcKes6ko7TTtYd5i) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Veet Baljit](https://open.spotify.com/artist/4Ax6JQQBWP2BqmmcbVvZwl) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 3:37 |
 | 64 | [Dhan Guru Nanak](https://open.spotify.com/track/2ANLVRKX1yKrYODxZH5EBX) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Dhan Guru Nanak](https://open.spotify.com/album/04HkWmXIM1ZorFIs3BucsR) | 3:32 |
 
-Snapshot ID: `MTY2NTEzNTUyNCwwMDAwMDAwMGFiOWFmYTJlMWJmM2ZlMDM3OTcxNTUzMjMwMzUwM2Zm`
+Snapshot ID: `MTY2NTEzNTUyNCwwMDAwMDAwMGMwZGIyYjJjM2JiNWQ2Nzk1ZjMxOTBhYTJmNTQ3ZjIx`

@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-208 songs - 13 hr 51 min
+209 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 | 2022-05-06 |  |
 | [Enredo](https://open.spotify.com/track/4Kj95umHAARCK2IQBTXyip) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3), [Tomás Maldonado](https://open.spotify.com/artist/6prihyniSR9AcgzNKRIX7p) | [Enredo](https://open.spotify.com/album/01mBIFc1U66MZlbfsYUXXN) | 3:28 | 2022-05-06 | 2022-06-06 |
 | [Es Real](https://open.spotify.com/track/3c3JLfQzhxsFhsk9kG13vP) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Es Real](https://open.spotify.com/album/6HawoCyWYtfN2lNjGtOLCI) | 4:17 | 2022-05-06 | 2022-07-25 |
-| [Es Real](https://open.spotify.com/track/4X4hOKhoNHdwpvS6bwLvX9) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Es Real](https://open.spotify.com/album/67sqDVeSGLXUmM3cPx4B3d) | 4:17 | 2023-03-03 |  |
+| [Es Real](https://open.spotify.com/track/4X4hOKhoNHdwpvS6bwLvX9) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Es Real](https://open.spotify.com/album/67sqDVeSGLXUmM3cPx4B3d) | 4:17 | 2023-03-03 | 2023-03-07 |
 | [Esclavo](https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Esclavo](https://open.spotify.com/album/1eVMXERactTzMCN0xab6j8) | 4:16 | 2022-05-06 | 2022-07-29 |
 | [Escucha](https://open.spotify.com/track/2ee0MvrSY21olco3ClSD39) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY) | [Escucha](https://open.spotify.com/album/22gZ02nObeSz08waVkTozY) | 3:03 | 2022-05-06 | 2022-07-24 |
 | [Espera](https://open.spotify.com/track/46YAvb4Ns6X6cODHCmZS8P) | [Kika Mousse](https://open.spotify.com/artist/1fFShpF6NjQ8ditOzSQio8) | [Historias](https://open.spotify.com/album/63DcaLRhxpXv9d08lQ5LRY) | 7:24 | 2022-05-06 | 2022-06-24 |
@@ -147,6 +147,7 @@
 | [Por Amor : Florencia Andrada Meets Kingston Factory](https://open.spotify.com/track/3eoMgT4LrNBOt5WsKaG4rX) | [Florencia Andrada](https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2) | [Por Amor : Florencia Andrada Meets Kingston Factory](https://open.spotify.com/album/5yXv0sGIvnDhJkl31GeIXe) | 4:15 | 2022-05-06 | 2022-07-12 |
 | [Por Cultivar Marihuana](https://open.spotify.com/track/3hcGo9ePUX6CFqB1NpZE9L) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Worrrrssss!!!!](https://open.spotify.com/album/4vwvC9kGtFHo17jY2KvnIb) | 5:09 | 2022-05-06 | 2022-07-29 |
 | [Por Cultivar Marihuana](https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Worrrrssss!!!!](https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu) | 5:09 | 2022-07-01 |  |
+| [Portal De Luz](https://open.spotify.com/track/7qAsDWTNvpxY3ao7sFvDUQ) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Portal De Luz](https://open.spotify.com/album/5UdNKgMCEDftWSYelCWBIw) | 4:19 | 2023-03-03 |  |
 | [Puede Parecer](https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 3:18 | 2022-05-06 |  |
 | [Pupilas Lejanas](https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Pupilas Lejanas](https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn) | 3:46 | 2022-05-06 |  |
 | [Pupilas Lejanas](https://open.spotify.com/track/0VZ2rAa5ceRaMPMufTVmqd) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:54 | 2022-05-06 |  |

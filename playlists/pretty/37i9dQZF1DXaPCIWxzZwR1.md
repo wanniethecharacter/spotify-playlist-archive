@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop cover: Ruel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235,512 likes - 103 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,235,727 likes - 103 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 102 | [moon and back](https://open.spotify.com/track/4228YpK0ZZuY4CZzBDVi3q) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:28 |
 | 103 | [Showed Me \(How I Fell In Love With You\)](https://open.spotify.com/track/5Kq2GzvM6XE8zN4RAKKLSf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Showed Me \(How I Fell In Love With You\)](https://open.spotify.com/album/78MbgfbZml1ZYJ0AUJB1HR) | 3:15 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDVjZjBhYzNjM2JmMjhlZDQ4YTNiNDI4NjFiZDMxOWM2`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGViMWM0MDQxMTAzMjI1YzhlMTI2ZTU0MjJmODBkNDY1`

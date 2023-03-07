@@ -78,6 +78,24 @@
     {
       "album": {
         "name": "15",
+        "url": "https://open.spotify.com/album/4LgJTdMeISiivM6UFbBdxs"
+      },
+      "artists": [
+        {
+          "name": "Bishop Ivy",
+          "url": "https://open.spotify.com/artist/2Iq2lTFLmxtdaYCmhRSMbb"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197371,
+      "name": "15",
+      "url": "https://open.spotify.com/track/5GKYQChx7GSYAN9tvA3FeW"
+    },
+    {
+      "album": {
+        "name": "15",
         "url": "https://open.spotify.com/album/1ukbsiFX0gLmoS5bCbMysd"
       },
       "artists": [
@@ -298,7 +316,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 272154,
       "name": "A Case of You",
       "url": "https://open.spotify.com/track/17Havncclel6RTzL9yAAJ8"
@@ -324,7 +342,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 190124,
       "name": "A Hurt Like That",
       "url": "https://open.spotify.com/track/5ZexyOqEsTpebhYXOl1n89"
@@ -2730,7 +2748,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 217322,
       "name": "Bugs",
       "url": "https://open.spotify.com/track/4hqzAvAbP5ulItbPPdnfuj"
@@ -4126,6 +4144,24 @@
     {
       "album": {
         "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263080,
+      "name": "Crying on the Dancefloor",
+      "url": "https://open.spotify.com/track/34bkeltN0CGAKzj4DRG4sX"
+    },
+    {
+      "album": {
+        "name": "Harmony House",
         "url": "https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle"
       },
       "artists": [
@@ -4302,7 +4338,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 211782,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/3um7PdgFORPl7JODlbg2Pd"
@@ -4758,7 +4794,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 180906,
       "name": "Don't Move",
       "url": "https://open.spotify.com/track/0C6CoqHRXeBRUUncY0Uch5"
@@ -5058,7 +5094,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 269289,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/2FXLQhGVKt9uFhgT47SpH7"
@@ -6228,7 +6264,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 239102,
       "name": "Flight",
       "url": "https://open.spotify.com/track/19ymPOxpTMo9Ghfca0gxQ0"
@@ -6426,7 +6462,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 255586,
       "name": "Forest",
       "url": "https://open.spotify.com/track/7vEdB5iMHeDapfu9kzqquJ"
@@ -6740,7 +6776,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 233969,
       "name": "Garden Song",
       "url": "https://open.spotify.com/track/7GYrwtOThIk6Zc11yJwEhh"
@@ -7072,6 +7108,28 @@
       "duration_ms": 191133,
       "name": "Golf On TV",
       "url": "https://open.spotify.com/track/6yg9sPJsnGStmIIcxzOaTL"
+    },
+    {
+      "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177746,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh"
     },
     {
       "album": {
@@ -7710,7 +7768,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 267066,
       "name": "HEARTSONG",
       "url": "https://open.spotify.com/track/1ElhhIQkuuzoLG4S5hp067"
@@ -7934,7 +7992,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 175789,
       "name": "hemenway",
       "url": "https://open.spotify.com/track/0xGtDIhYMXjIWCOJxbztYs"
@@ -8262,7 +8320,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 189264,
       "name": "Home",
       "url": "https://open.spotify.com/track/1lIUrOa83EFonIiC5a5ffO"
@@ -8298,7 +8356,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 288720,
       "name": "Home",
       "url": "https://open.spotify.com/track/6nWPoFQrZHgICYr6S0nmnJ"
@@ -9458,7 +9516,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 240466,
       "name": "If Christopher Calls",
       "url": "https://open.spotify.com/track/5FezXLz0FERGvPLne2CJqi"
@@ -10130,7 +10188,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 314449,
       "name": "It's You That Makes Me",
       "url": "https://open.spotify.com/track/3jRyEvEWkmmuZekA288SwA"
@@ -10554,7 +10612,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 282627,
       "name": "Kyra - The Midnight Remix",
       "url": "https://open.spotify.com/track/28JgeXZxmTfzsfYLGo3e5G"
@@ -11454,7 +11512,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 221632,
       "name": "Look At Those Clouds",
       "url": "https://open.spotify.com/track/2GFsGAnVE0UJ6SAvZJp4av"
@@ -11674,7 +11732,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 187374,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/1iXYxNHTrHUOpqGwgktbTA"
@@ -12744,7 +12802,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 318666,
       "name": "Midtown Waitress",
       "url": "https://open.spotify.com/track/4ltyZZtnOj9PtqOvDtOd4t"
@@ -13040,7 +13098,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 233408,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/6JX1bKlX3oggD55jA1IosK"
@@ -13080,6 +13138,24 @@
       "duration_ms": 314000,
       "name": "Mother Tongue",
       "url": "https://open.spotify.com/track/6OLCKFLE1LRrjsbF8eEY6s"
+    },
+    {
+      "album": {
+        "name": "Give Me Your Shoulders, Pt. 1",
+        "url": "https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216533,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi"
     },
     {
       "album": {
@@ -13766,7 +13842,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 190565,
       "name": "North Dakota",
       "url": "https://open.spotify.com/track/2l70NKAySm5pCzRAZxzPbn"
@@ -14090,7 +14166,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 180090,
       "name": "Okay, Saint Laurent",
       "url": "https://open.spotify.com/track/2imaPIi0SzIERouU5yFxmf"
@@ -14430,7 +14506,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 308373,
       "name": "Ouroboros",
       "url": "https://open.spotify.com/track/4rR9QNdMpQR7TMLs91nhBO"
@@ -14578,7 +14654,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 271790,
       "name": "Paint",
       "url": "https://open.spotify.com/track/5lHA0VtRqd0jsaT46xC3Ae"
@@ -16576,7 +16652,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 246461,
       "name": "sink our love now (work tape)",
       "url": "https://open.spotify.com/track/1FNvmZLzmMR2Ozjzzul0iQ"
@@ -17071,6 +17147,24 @@
     },
     {
       "album": {
+        "name": "January Flower",
+        "url": "https://open.spotify.com/album/4DvC7DqqEcba2kHAlkUL5x"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3ph7CkhxkT7rduXJrm1jto"
+    },
+    {
+      "album": {
         "name": "Thrilled To Be Here",
         "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
       },
@@ -17082,7 +17176,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 241120,
       "name": "Something Tells Me",
       "url": "https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i"
@@ -17244,7 +17338,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "Sparrows And Lilies",
       "url": "https://open.spotify.com/track/5MQTn8l3zaKk74LeGDrGUl"
@@ -17598,7 +17692,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 219344,
       "name": "Still The One - Bonus Track",
       "url": "https://open.spotify.com/track/33uyY8ZlcIC6bAsYYnCWIQ"
@@ -19190,7 +19284,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 195157,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/0AZjGAFciL2GpwoBqDxgg9"
@@ -19382,6 +19476,24 @@
       "duration_ms": 273573,
       "name": "Thumbs",
       "url": "https://open.spotify.com/track/0mRcrW5I1FIf7Ryv3KBcCr"
+    },
+    {
+      "album": {
+        "name": "Thumbs",
+        "url": "https://open.spotify.com/album/0WUM4bW3g3qi6IYvYGKzl6"
+      },
+      "artists": [
+        {
+          "name": "Zander Hawley",
+          "url": "https://open.spotify.com/artist/0lfHZCO5590Y3vuuNEXcwZ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273573,
+      "name": "Thumbs",
+      "url": "https://open.spotify.com/track/4U0sMvuBHBy6JEMmij7ZAt"
     },
     {
       "album": {
@@ -19628,7 +19740,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 236159,
       "name": "Toasty",
       "url": "https://open.spotify.com/track/1lKFFSCV3ANTPoeEStxoYE"
@@ -19743,6 +19855,24 @@
     },
     {
       "album": {
+        "name": "LP3",
+        "url": "https://open.spotify.com/album/34WlhzjmpUgrRBiO39MOba"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268633,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/1hn29zEumNXoUasJco6wuc"
+    },
+    {
+      "album": {
         "name": "Paper Castle",
         "url": "https://open.spotify.com/album/36zwzBHisd2DwE2REsv5QR"
       },
@@ -19754,7 +19884,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 323200,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/08DKaoHjJm9zAMBJwnLJ4V"
@@ -20524,6 +20654,24 @@
       "duration_ms": 221237,
       "name": "What a Wonderful World - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/60WpbrUWeXDBQlSrs8haWi"
+    },
+    {
+      "album": {
+        "name": "the work tapes ep",
+        "url": "https://open.spotify.com/album/3ar7fdO90G3stCV7uGvL0U"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189938,
+      "name": "what are you afraid of (work tape)",
+      "url": "https://open.spotify.com/track/2mfoVCqMqnUPR8K0Fq8Cs4"
     },
     {
       "album": {
@@ -21322,6 +21470,24 @@
       "duration_ms": 198600,
       "name": "YOU",
       "url": "https://open.spotify.com/track/1EaXOdLVaBjeKXCBDoQ67C"
+    },
+    {
+      "album": {
+        "name": "Telescope EP",
+        "url": "https://open.spotify.com/album/1dOQNJCOzmleHv8HxTFUQB"
+      },
+      "artists": [
+        {
+          "name": "Tennyson",
+          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221502,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5532lQKkhAZUyUKOBA9yrB"
     },
     {
       "album": {

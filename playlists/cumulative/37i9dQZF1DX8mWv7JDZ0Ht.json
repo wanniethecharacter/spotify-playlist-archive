@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197802,
+      "name": "Coisas De Voc\u00ea",
+      "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
+    },
+    {
+      "album": {
         "name": "Como Eu Quero",
         "url": "https://open.spotify.com/album/2egRHyN8fmTQjDi7mRLQjB"
       },
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 150260,
       "name": "FICA PRO CAF\u00c9",
       "url": "https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu"
@@ -3564,6 +3582,24 @@
       "duration_ms": 169928,
       "name": "Olha Bela",
       "url": "https://open.spotify.com/track/3r6dxRa9SNMWSah8R9VDyW"
+    },
+    {
+      "album": {
+        "name": "Olhar Sereno",
+        "url": "https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185552,
+      "name": "Olhar Sereno",
+      "url": "https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW"
     },
     {
       "album": {
@@ -5212,7 +5248,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-07",
       "duration_ms": 189781,
       "name": "VER\u00c3O DOS MEUS SONHOS",
       "url": "https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q"

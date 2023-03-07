@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: j\-hope
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,593 likes - 92 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,602 likes - 92 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 91 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 |
 | 92 | [Get Up](https://open.spotify.com/track/0NiDg4RY2CmZnwAJd8Bbw6) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Get Up](https://open.spotify.com/album/002rBz3Sdq0ES9zNCFg76j) | 3:32 |
 
-Snapshot ID: `MTY3NzgyMDA1MywwMDAwMDAwMDBkN2M0ZjIzZWVkZWI5ZDY4NWMyMTFkZjBlY2JiYjMx`
+Snapshot ID: `MTY3NzgyMDA1MywwMDAwMDAwMDE3MzY3NmYwMTAwZTEzMTYwZTQ0YmVkN2Y3YjJlOWE4`

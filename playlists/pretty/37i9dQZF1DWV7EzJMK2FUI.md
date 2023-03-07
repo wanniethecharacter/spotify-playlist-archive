@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,933 likes - 536 songs - 1 day 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,357 likes - 536 songs - 1 day 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -545,4 +545,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 535 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 |
 | 536 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMGMxZTAxNTY3MjE3MzU1MjI5NGZmYmYwZmNkZDRkODQ0`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDI3YWQwYTI2ZTExMGNhNzRlMGQ0OWI5NTFmMGVmNjhh`

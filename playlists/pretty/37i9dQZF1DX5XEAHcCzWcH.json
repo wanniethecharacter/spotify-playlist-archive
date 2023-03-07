@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 21808,
+  "num_followers": 21829,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMGI1MDQ2OGQzMzM1ZDY5YjU5M2Y0ZTU0M2VlNGI2ZDQ2",
+  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMGQ0MWEyNDFmNDg3OGFmNWMzMDY2MzlkNWUzMGMxM2U1",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 261092,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/4qeeoJt7NRA6hPXYrIMguD"
       },
@@ -215,22 +199,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Rock Me Daddy, Vol. 1",
         "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
       },
@@ -243,6 +211,22 @@
       "duration_ms": 154840,
       "name": "Boogie In \"G\"",
       "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -263,22 +247,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Sweet Giant of the Blues",
-        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 366826,
-      "name": "Bird in a Cage",
-      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -291,6 +259,38 @@
       "duration_ms": 160226,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 261092,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Sweet Giant of the Blues",
+        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 366826,
+      "name": "Bird in a Cage",
+      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -311,38 +311,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Presenting Willie Mabon",
-        "url": "https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim"
-      },
-      "artists": [
-        {
-          "name": "Willie Mabon",
-          "url": "https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "La cave saravah, vol.1",
-        "url": "https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 369893,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Classified (Remixed & Expanded Edition)",
         "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
       },
@@ -359,6 +327,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Presenting Willie Mabon",
+        "url": "https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim"
+      },
+      "artists": [
+        {
+          "name": "Willie Mabon",
+          "url": "https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "The Sonet Blues Story",
         "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
       },
@@ -371,22 +355,6 @@
       "duration_ms": 236733,
       "name": "Lovesick Soul",
       "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Sweet Giant of the Blues",
-        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 266253,
-      "name": "Moon Blues",
-      "url": "https://open.spotify.com/track/5WZhJc7JFZFxflEjxitzwy"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -431,6 +399,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "La cave saravah, vol.1",
+        "url": "https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 369893,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "The Essential Leroy Carr",
         "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 223386,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Sweet Giant of the Blues",
+        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 266253,
+      "name": "Moon Blues",
+      "url": "https://open.spotify.com/track/5WZhJc7JFZFxflEjxitzwy"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -495,38 +495,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Chess Story 1947-1956",
-        "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
-      },
-      "artists": [
-        {
-          "name": "Little Johnny Jones",
-          "url": "https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4"
-        }
-      ],
-      "duration_ms": 175640,
-      "name": "Big Town Playboy",
-      "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "The Biggest Thing Since Colossus",
-        "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 315373,
-      "name": "Ain't Nobody's Business",
-      "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Easy Blues (France, 1978) [Blues Reference]",
         "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
       },
@@ -543,6 +511,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "The Chess Story 1947-1956",
+        "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
+      },
+      "artists": [
+        {
+          "name": "Little Johnny Jones",
+          "url": "https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4"
+        }
+      ],
+      "duration_ms": 175640,
+      "name": "Big Town Playboy",
+      "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "I've Got News For You",
         "url": "https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 189146,
       "name": "Anytime, Anyplace, Anywhere",
       "url": "https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "The Biggest Thing Since Colossus",
+        "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 315373,
+      "name": "Ain't Nobody's Business",
+      "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 322426,
-      "name": "Somebody To Shack",
-      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "The Bach of Rock",
         "url": "https://open.spotify.com/album/3XQzUwB49DzREHCMuFZz8s"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 274360,
       "name": "Make Me a Pallet on the Floor",
       "url": "https://open.spotify.com/track/14AxqPeIqpVySnvgLf6ZKv"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 322426,
+      "name": "Somebody To Shack",
+      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "SUN STUDIO STORY",
-        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Early In The Morning",
-      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "This Is the Blues! Vol. 7 (Mono Version)",
         "url": "https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 192011,
       "name": "Me and My Gin",
       "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "SUN STUDIO STORY",
+        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Early In The Morning",
+      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     },
     {
       "added_at": "2022-05-13 10:49:08",

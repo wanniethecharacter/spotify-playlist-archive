@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: Marz23
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,707 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,719 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 |
 | 60 | [巴黎德州](https://open.spotify.com/track/646sWCgtmmdysQ5ozDoADF) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Real Love Is...](https://open.spotify.com/album/1HuMI9YQymF8NWBn2D8BdK) | 4:24 |
 
-Snapshot ID: `MTY3Nzc3MjgwMCwwMDAwMDAwMDI2NTc5OWIxZjBjZWEzZTUzYzhjZTA1ODdmNzM5NjBj`
+Snapshot ID: `MTY3Nzc3MjgwMCwwMDAwMDAwMDVlNWVjZjNhYzQ4ZmQ2MjRlZTlhZDQ4MjBlOTBmM2E3`

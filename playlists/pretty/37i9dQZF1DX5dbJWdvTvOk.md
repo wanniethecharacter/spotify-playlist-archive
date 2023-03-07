@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,175 likes - 157 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,287 likes - 157 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 156 | [Nachtfalke](https://open.spotify.com/track/1KA3f0hBZfwbcoeDidN91k) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Nachtfalke](https://open.spotify.com/album/665FBCmE1FNe3sycFJ5wCO) | 4:21 |
 | 157 | [Canción A Solas](https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Canción A Solas](https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ) | 2:26 |
 
-Snapshot ID: `MTY3NzIzMjk0NCwwMDAwMDAwMDJhNmE4YzA3ZjFhNTgxYzU5YTE1NTM1OTE5OGFkNDcw`
+Snapshot ID: `MTY3NzIzMjk0NCwwMDAwMDAwMDljYWVlNGY1NGRhZTdiYTIwZDdmNTZhZGI4YWI3YTE1`

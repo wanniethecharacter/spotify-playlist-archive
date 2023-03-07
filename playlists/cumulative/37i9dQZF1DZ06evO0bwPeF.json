@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Born Annoying",
+        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363626,
+      "name": "Born Annoying (1989)",
+      "url": "https://open.spotify.com/track/3658BS7fkT41j9Bo6I2Ojn"
+    },
+    {
+      "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
       },

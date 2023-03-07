@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Alice et Moi
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,392 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,580 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Ghost story](https://open.spotify.com/track/1rYLirLvSfSo5jbbl7wHE5) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Ghost story](https://open.spotify.com/album/0NH6qv94SMwDOCyMoO9V6P) | 2:30 |
 | 50 | [Feux follets](https://open.spotify.com/track/7fSPvXfHmeLdFZXCMuLLnP) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Feux follets](https://open.spotify.com/album/3akneBnhOBkOhH4NdLVsqk) | 3:40 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDA2MTFkMjQ3YzlkY2NkN2ZjNTMyMjBmZjczMjUyMzJk`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMGMxMGJhYWMzMzFjNzJmZWY5ZjYyYjZhMGRiZDg1NWFm`

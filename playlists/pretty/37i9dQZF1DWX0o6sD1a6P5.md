@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: BNXN fka Buju
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,591 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,153 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 |
 | 50 | [Beyonce](https://open.spotify.com/track/56O8EgjeU6V80lGOUfweGp) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8) | [Beyonce](https://open.spotify.com/album/4HuXXaCjFpdeEnQCWenYGs) | 2:51 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDJjMGNhNmQ1Zjg4YTIzMzc2NDRjNjIwYzQyM2NkYzQy`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDkxN2QwYzgxZThjNmY2ODYwYTMwOTA1MWU1Y2RlNDZh`

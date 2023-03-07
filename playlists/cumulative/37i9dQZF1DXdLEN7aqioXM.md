@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-392 songs - 1 day 4 hr 2 min
+393 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Emerald](https://open.spotify.com/track/3j0R8oOFx3tW8owV1ezt0s) | [System96](https://open.spotify.com/artist/5NgUA4FZtrzQPgSdbAkoXn), [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Emerald](https://open.spotify.com/album/2daD1BDrdh6yK9evj3jm8q) | 3:01 | 2021-10-15 | 2022-07-30 |
 | [Emerald Rising](https://open.spotify.com/track/7lUNro5GwphA1CIq620wlc) | [Lueur Verte](https://open.spotify.com/artist/236Oy3MFNzz5zbBwowuxlW) | [Crystalica \- EP](https://open.spotify.com/album/3uSmnYqAXeS13BFvkQbG0w) | 5:36 | 2022-04-01 |  |
 | [Endless Lines](https://open.spotify.com/track/0qmwrnZPm1EOxPPkAmtYwW) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Endless Lines](https://open.spotify.com/album/1DXMn45B0AZibNcAkQQiWx) | 4:12 | 2022-07-01 | 2022-07-29 |
+| [Endless Lines](https://open.spotify.com/track/5VyjYh1xSRY08srq7TKQme) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Endless Lines](https://open.spotify.com/album/4BDIAcy8a1R31qcuEdNh3u) | 4:12 | 2023-01-13 |  |
 | [Enigma](https://open.spotify.com/track/1i3F8GA8NrSkvUi7LSkacK) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Solai](https://open.spotify.com/album/1bYzU5vcNDHjnsJIpBtPvf) | 3:18 | 2021-10-15 |  |
 | [Escaping the Void](https://open.spotify.com/track/67oYdAby38ElzDhS6S7mWN) | [Timecop1983](https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r) | [Multiverse](https://open.spotify.com/album/3YoxddtXSFXuu2eP6ueosY) | 5:11 | 2022-09-23 |  |
 | [Event Horizon](https://open.spotify.com/track/1g93dmi3Uw9YLFs0roRedm) | [World Complete](https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq) | [Event Horizon](https://open.spotify.com/album/3oLt3Z4c5n6t4XbAYCCccO) | 4:07 | 2022-02-04 | 2022-07-24 |
@@ -192,7 +193,7 @@
 | [Keepin' on](https://open.spotify.com/track/6o0AOlWQHSyto3C4wFeP8m) | [Myrone](https://open.spotify.com/artist/36pSrxZllYXcKEeyUqnXTX) | [Humanity](https://open.spotify.com/album/1mNWCwd5pDxalbFZndW2lg) | 4:25 | 2022-07-22 |  |
 | [Kintsugi](https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [Metaversal](https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK) | 5:39 | 2022-02-04 |  |
 | [Krater 3000](https://open.spotify.com/track/6CcXm3RDDNfSjI0AxzYnNC) | [Mono\-Tone](https://open.spotify.com/artist/6x0lWImvRmAYedYhoQkjUx) | [Krater 3000](https://open.spotify.com/album/63OaEhzeCzMhLmhic0W1wY) | 6:00 | 2022-02-04 | 2022-07-28 |
-| [Last Path](https://open.spotify.com/track/2Apx7HHXWmBitTwJxOtQV2) | [VIQ](https://open.spotify.com/artist/6XpN8mRlhuOXuvEyva4yjZ) | [Last Path](https://open.spotify.com/album/6k4WHhBJaf9QdJmbq7QeJK) | 4:02 | 2023-01-13 |  |
+| [Last Path](https://open.spotify.com/track/2Apx7HHXWmBitTwJxOtQV2) | [VIQ](https://open.spotify.com/artist/6XpN8mRlhuOXuvEyva4yjZ) | [Last Path](https://open.spotify.com/album/6k4WHhBJaf9QdJmbq7QeJK) | 4:02 | 2023-01-13 | 2023-03-07 |
 | [Last Path](https://open.spotify.com/track/6g8EEkAjIuJ56RLKKgHpKT) | [VIQ](https://open.spotify.com/artist/6XpN8mRlhuOXuvEyva4yjZ) | [Last Path](https://open.spotify.com/album/2Kk03vlxFYQwv3xH5k3wNC) | 4:02 | 2021-10-15 | 2022-07-28 |
 | [Laugh Away](https://open.spotify.com/track/4qSG7uX4AGz0rBxDQoFxH9) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Laugh Away](https://open.spotify.com/album/6SSX0knQ6kawHeYhyecKFh) | 2:51 | 2021-10-15 | 2022-04-02 |
 | [Less Than Zero \- Waveshaper Remix](https://open.spotify.com/track/3HwJmPyOpvA2uzQ9U48yP5) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [King Protea](https://open.spotify.com/artist/3PwDndbBVU4u5Pgvx0mf9c), [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Less Than Zero \(feat\. King Protea\) \[Waveshaper Remix\]](https://open.spotify.com/album/0ii4KfMrtI7OSNfHnJj8S4) | 4:21 | 2021-10-15 |  |

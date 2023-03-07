@@ -1185,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "HER",
+        "url": "https://open.spotify.com/album/00YaZIXwhtyUVAQW1XSNZH"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173615,
+      "name": "Capsize (feat. Sarah de Warren)",
+      "url": "https://open.spotify.com/track/6FxILeOa0DIDHq5oD05zpI"
+    },
+    {
+      "album": {
         "name": "care about u",
         "url": "https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2"
       },

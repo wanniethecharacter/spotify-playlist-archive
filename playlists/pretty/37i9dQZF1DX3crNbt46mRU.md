@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Milky Chance
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,217 likes - 108 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,223 likes - 108 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 107 | [Schauspieler](https://open.spotify.com/track/73InJ1k3QVhf3c3k7hPxxv) | [Katha Rosa](https://open.spotify.com/artist/767iqRy8U8T4rAdDscZt57) | [Schauspieler](https://open.spotify.com/album/0AuQE02YXWXaBuIsJTG1X9) | 2:13 |
 | 108 | [biggest asshole in the room](https://open.spotify.com/track/5p6hhmsw3JMoDc4bxMR3zY) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [biggest asshole in the room](https://open.spotify.com/album/4CII79RgJo3ijYIgiX1xMI) | 2:31 |
 
-Snapshot ID: `MTY3NzgzOTY3MCwwMDAwMDAwMDhiNmRkM2NmY2JjYTljMWVkNDg0NTI2MzUwNDMyY2Rm`
+Snapshot ID: `MTY3NzgzOTY3MCwwMDAwMDAwMDcwODVlZWU4ZDFhNDJkNzkyMjQ5YzdkNjk4ZmNmOWM4`

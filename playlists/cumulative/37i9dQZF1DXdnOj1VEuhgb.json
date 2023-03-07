@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "CRIMINAL",
+        "url": "https://open.spotify.com/album/44mBi9nKjqxRkNGVaQyvVX"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        },
+        {
+          "name": "OSVETA",
+          "url": "https://open.spotify.com/artist/7kRCHCbPeiKoKAg6Kxdf4M"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168709,
+      "name": "CRIMINAL",
+      "url": "https://open.spotify.com/track/6Xr5IpNOPgW6X0Giyd7yUw"
+    },
+    {
+      "album": {
         "name": "DACIA",
         "url": "https://open.spotify.com/album/4nO3TIfUPnGSnryBvA9q1N"
       },

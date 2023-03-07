@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvVDEhwyL17.md) - [plain]
 
 > Cozy acoustic covers to accompany all your DIY, painting and creative crafts projects.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,166 likes - 77 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,210 likes - 77 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvVDEhwyL17.md) - [plain]
 | 76 | [Perfect](https://open.spotify.com/track/13j8NnWrcfmasCTBPc5ESv) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw), [Sad Boy](https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC) | [Covers EP](https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs) | 3:39 |
 | 77 | [u are my sunshine](https://open.spotify.com/track/69aQlycGbzRbcY2gPTSQsh) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [untrusted](https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [u are my sunshine](https://open.spotify.com/album/4xIKwtgVoRggtMXiv9ySOu) | 2:05 |
 
-Snapshot ID: `MTY3NDgyNjIxNywwMDAwMDAwMDRlNzU5Yjc2NzlhZWY5NjExZjJiN2E1ZmViNWE3Y2U3`
+Snapshot ID: `MTY3NDgyNjIxNywwMDAwMDAwMGFlNThmYzUzODFiNTQ5MmE1MTczMzFmNjg3MDdlZWQy`

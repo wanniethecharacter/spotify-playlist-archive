@@ -67,8 +67,9 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5693\)
+## Playlists \(5694\)
 
+- ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
 - [\#Hotmess](/playlists/pretty/2Rah43YvyO765e4gACIDef.md)
@@ -175,7 +176,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [2009](/playlists/pretty/1fLy5EE5473UueC82LvQub.md)
 - [2010](/playlists/pretty/2eCpwX876ZuWtIsZweYMnr.md)
 - [2010s Country](/playlists/pretty/37i9dQZF1DWXdiK4WAVRUW.md)
-- [2010s Hits 🔥](/playlists/pretty/1tPWTwuxOLsE2Do1JQSUxA.md)
+- [2010s HITS \| TOP 100 SONGS 🔥](/playlists/pretty/1tPWTwuxOLsE2Do1JQSUxA.md)
 - [2010년대 베스트](/playlists/pretty/37i9dQZF1DX4winw66sZTE.md)
 - [2011](/playlists/pretty/0BXZJ6BiA151CzaMcTKPMN.md)
 - [2012](/playlists/pretty/7z2Wo5a21ENb24YGcEdoTE.md)
@@ -1099,6 +1100,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Complete Chaos](/playlists/pretty/37i9dQZF1DX1fmyMdW2PaL.md)
 - [Composer Weekly: Michael Nyman](/playlists/pretty/37i9dQZF1DX21bRPJuEN7r.md)
 - [Con Fe](/playlists/pretty/37i9dQZF1DX9uNKnwcoVm9.md)
+- [Con Mis Besties](/playlists/pretty/37i9dQZF1DX0tBpY9zn0Sa.md)
 - [Concentración Perfecta](/playlists/pretty/37i9dQZF1DX0MqBmOXvo6b.md)
 - [Concentração Perfeita](/playlists/pretty/37i9dQZF1DX1zM9gA91vC5.md)
 - [Conchita: Pride](/playlists/pretty/37i9dQZF1DX8SiEKUUEVVi.md)
@@ -3926,7 +3928,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Stargazer](/playlists/pretty/37i9dQZF1DX1SGz4XfZKy2.md)
 - [Starring Shah Rukh Khan](/playlists/pretty/37i9dQZF1DWZ2bQuX4pBHH.md)
 - [Starring: Raj Kapoor](/playlists/pretty/37i9dQZF1DX56TbM1BxdqS.md)
-- [StartSelect: Kratos and Atreus](/playlists/pretty/37i9dQZF1DX1xEPBKyoFUz.md)
+- [StartSelect: QTCinderella](/playlists/pretty/37i9dQZF1DX1xEPBKyoFUz.md)
 - [State of Jazz](/playlists/pretty/37i9dQZF1DX7YCknf2jT6s.md)
 - [State of Mind](/playlists/pretty/37i9dQZF1DX1YPTAhwehsC.md)
 - [Stay Scary](/playlists/pretty/37i9dQZF1DX5xhM3wDbSS5.md)
@@ -5708,7 +5710,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [悲傷釋放](/playlists/pretty/37i9dQZF1DWV3IJ2kse1M3.md)
 - [想愛就愛](/playlists/pretty/37i9dQZF1DWVrewvmoU2pr.md)
 - [我的微醺夜](/playlists/pretty/37i9dQZF1DWU2UWGeVtJ2M.md)
-- [新海誠 音楽の扉 \- Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [映画ドラえもん \-Doraemon The Movie\-](/playlists/pretty/37i9dQZF1DWUVNUz8WZk9Y.md)
 - [昭和仮面ライダー](/playlists/pretty/37i9dQZF1DX6w9umnoLA0o.md)
 - [暖心情歌](/playlists/pretty/37i9dQZF1DX7pGtIaS1UoB.md)

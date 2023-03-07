@@ -11443,6 +11443,24 @@
     },
     {
       "album": {
+        "name": "Songs About It",
+        "url": "https://open.spotify.com/album/3rYf5r2ZZzOuHzRlIXvuaW"
+      },
+      "artists": [
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220971,
+      "name": "Songs About It",
+      "url": "https://open.spotify.com/track/26QgeLPqt5k8wtDyPkQjNZ"
+    },
+    {
+      "album": {
         "name": "UGLY",
         "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
       },

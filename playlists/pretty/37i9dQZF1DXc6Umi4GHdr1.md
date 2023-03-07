@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,043 likes - 119 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,057 likes - 119 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 118 | [Ambre](https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Ambre](https://open.spotify.com/album/2xlkLv8kVIODBwA5pt6RbC) | 3:44 |
 | 119 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 |
 
-Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMDhlNGVkNjMwYzE3OGVjNGZlNjNiOWU0NTVkYTU2MzUz`
+Snapshot ID: `MTY3NDE3Mjg2MCwwMDAwMDAwMGVlZjdmOTM0NjQ2NjAwMTg4YWU5Nzk1MDQwNTkzZGE2`

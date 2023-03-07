@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,963 likes - 62 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,982 likes - 62 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 61 | [Jolean](https://open.spotify.com/track/2ng0DafMn7xw3JnzF1Zzmi) | [Get Real](https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql), [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Jolean](https://open.spotify.com/album/3IuM6CZV1zSyZIKl2tbbpj) | 3:13 |
 | 62 | [Enjoy The Day \- Vocal](https://open.spotify.com/track/5PSGcb5x12NYNaOkmZeXAc) | [Phil Kieran](https://open.spotify.com/artist/7fVBYlm65H50HLNLAQHBt5), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Enjoy The Day](https://open.spotify.com/album/6W6PXpiLO5GKjMvrIsnQpE) | 5:40 |
 
-Snapshot ID: `MTY2Nzg0NTU1NCwwMDAwMDAwMGZhZjczZjVkYzJkZTNhN2I4MGRhYmRhNmYzNjNkMjc0`
+Snapshot ID: `MTY2Nzg0NTU1NCwwMDAwMDAwMGRjZGI5YzNiZjk0Nzg3YzMwOTQ5NDE0YmQ2YzllODdi`

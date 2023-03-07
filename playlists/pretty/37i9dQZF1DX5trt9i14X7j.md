@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 
 > Dedicated to all the programmers out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,922 likes - 117 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,219 likes - 117 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Patience Is A Virtue](https://open.spotify.com/track/2KJkKZ6u3QRm9Xpu5I2CPB) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [Rest](https://open.spotify.com/album/0zR6lyMZuofipT1Mh4Glrn) | 1:59 |
-| 2 | [Precipice](https://open.spotify.com/track/4CHIJuqR1jLfzA72THSzUm) | [The Flashbulb](https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH) | [Piety of Ashes](https://open.spotify.com/album/6Nap8Im1EOFrqTVdoD8fAf) | 2:10 |
-| 3 | [Candles](https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl) | 2:28 |
+| 1 | [Candles](https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl) | 2:28 |
+| 2 | [Patience Is A Virtue](https://open.spotify.com/track/2KJkKZ6u3QRm9Xpu5I2CPB) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [Rest](https://open.spotify.com/album/0zR6lyMZuofipT1Mh4Glrn) | 1:59 |
+| 3 | [Precipice](https://open.spotify.com/track/4CHIJuqR1jLfzA72THSzUm) | [The Flashbulb](https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH) | [Piety of Ashes](https://open.spotify.com/album/6Nap8Im1EOFrqTVdoD8fAf) | 2:10 |
 | 4 | [Solar Sailer \- From "TRON: Legacy"/Score](https://open.spotify.com/track/0Jc2SfIHv63JNsUZpunh54) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx) | 2:42 |
 | 5 | [Emerald and Stone](https://open.spotify.com/track/6fymXW3eFHPmIOdDfnLXS4) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg) | 2:12 |
 | 6 | [Train From Paris](https://open.spotify.com/track/2xibxsCa7g3ScMB2vIwHWC) | [Mindtrap](https://open.spotify.com/artist/4OA32fupbR1suJd44PZJxU) | [Northern Rooms](https://open.spotify.com/album/1KKp6eBkErHQ6V04jWfqPR) | 4:28 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 116 | [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 |
 | 117 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 |
 
-Snapshot ID: `MTY3NzU3NjU0NywwMDAwMDAwMGNkODA1ZmM3ZWNjODY4MDJmNWZkN2EwNGE4OWE5NTJj`
+Snapshot ID: `MTY3ODEwNjgwNCwwMDAwMDAwMDAzODY2ODIzNzgwNGMyZjQ1MGEwM2JiOWIyNmIyYzA5`

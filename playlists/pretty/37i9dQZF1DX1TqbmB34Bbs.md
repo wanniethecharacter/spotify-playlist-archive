@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 
 > Enjoy the must\-listen VMC songs selected by VMC that will go down in the history of Korean hip\-hop\. \(Cover: VMC\) \(한국힙합 역사에 길이남을 VMC가 직접 선곡한 꼭 들어봐야할 VMC 노래들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,018 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,010 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 | 59 | [Island Phobia \(feat\. Tiger JK\)](https://open.spotify.com/track/0WegGUMx1IRzq2gkEwX5Bd) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [MONEY BREATH](https://open.spotify.com/album/6Yhynoz0adjSekgJunlYSG) | 2:48 |
 | 60 | [Highway](https://open.spotify.com/track/7s1UQZJPcuF6I5vEmfDMsv) | [TK](https://open.spotify.com/artist/0kA2cuK2RR04zHvuFtFzDJ) | [Highway](https://open.spotify.com/album/1xWV1KfTfyZDrqhSTD5JuA) | 3:35 |
 
-Snapshot ID: `MTY3NjUyMTI1NCwwMDAwMDAwMDhlZWY0YWE3YTc2NjNjYzUyODdmNDM1MTViZGI4Y2Uw`
+Snapshot ID: `MTY3NjUyMTI1NCwwMDAwMDAwMDhiZjI3YjFjY2FjMjUzMzVjOTI0ZGRlZGNkNGVkMWQy`

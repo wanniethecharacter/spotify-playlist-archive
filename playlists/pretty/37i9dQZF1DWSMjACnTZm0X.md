@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=yhkjM4YgQcialbj\-N\_\-D4A">Mr Eazi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,388 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,402 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [Walking On Water](https://open.spotify.com/track/6krVefZEplWKpATeUAZc1D) | [Obi Sanaa](https://open.spotify.com/artist/6Jwq0DU8WsVYLYyJqzfhEM), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Walking on Water](https://open.spotify.com/album/7ofRbTcpB7C0hYNhBL18p7) | 3:45 |
 | 50 | [Punk Luv](https://open.spotify.com/track/6bqzTc0gaDiq1wzaHW0g2d) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Punk Luv](https://open.spotify.com/album/37oAGxwK44ijCSqaHy6Mca) | 3:16 |
 
-Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMDhkOTM2NDY5ZTAyNmI2NjAzM2YxNThiYjZmMTg5ZDFm`
+Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMDE1NTVlY2U4Y2Q1MjA0ODc1ZTY0ZDc3ZjhiOWU5M2M3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,908 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,920 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 59 | [Revolve](https://open.spotify.com/track/4a2PTeP8MF4q4MphoV3iE3) | [Little Sea](https://open.spotify.com/artist/05JF2urTunljp953SopuXc) | [Revolve](https://open.spotify.com/album/0ATFW1N2rZb1fhW8wUYG16) | 4:04 |
 | 60 | [Friends](https://open.spotify.com/track/71bAQugadZL7hSKS9DUCbC) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:24 |
 | 61 | [Rumours](https://open.spotify.com/track/122HY5fBoA7FzHiognH3PP) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [Bad Habits](https://open.spotify.com/album/52tqBFO4WgbW0C1WZzItgE) | 3:11 |
-| 62 | [Love Pocket](https://open.spotify.com/track/1VmjjzWu2bfSzEDYoUskGR) | [SaraCortez](https://open.spotify.com/artist/6r14qqaIQA7lLEezQkQ8Hm) | [Love Pocket](https://open.spotify.com/album/1AG0EVWWRdtX9o7hxEqRX0) | 2:55 |
+| 62 | [Love Pocket](https://open.spotify.com/track/6cjZgQBK1bXdbcFYjHxMAy) | [SaraCortez](https://open.spotify.com/artist/6r14qqaIQA7lLEezQkQ8Hm) | [Love Pocket](https://open.spotify.com/album/05rkn9YXm66phKIK5qMVzD) | 2:55 |
 | 63 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
 | 64 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [sadHAPPY](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 65 | [Corset.](https://open.spotify.com/track/4OUWZo6p7Kf7Oqe9dovS00) | [Keigo.](https://open.spotify.com/artist/3YkzB5L1vnpsFgIS849R7y), [Paulo Herrera](https://open.spotify.com/artist/3m1FQvDukcgiSWImE3Flqb) | [Corset.](https://open.spotify.com/album/6tK73Hl7cCf9E0PHmQzYtS) | 2:07 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 69 | [Oblivion](https://open.spotify.com/track/7y5Epl5axmVOZY2MmpxmtJ) | [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Pillar](https://open.spotify.com/album/4KeaAueVERsbmdJJCixuNG) | 3:41 |
 | 70 | [Priceless \(The Film Ballad\)](https://open.spotify.com/track/4K7d9xMOpYuLuikWsCO9lq) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [I WAS THE LION](https://open.spotify.com/artist/0hYPQPYA6Wu90339kq6046), [Bianca Santos](https://open.spotify.com/artist/6ZBUOrayQFAZwWKeoNKvzm) | [Priceless \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VbOGrb2x72BLZSAP5hJha) | 3:24 |
 
-Snapshot ID: `MTY3NjQ0NjM2NCwwMDAwMDAwMGJkM2E5ZTMyMGFjNTk1MzY3MzVmYzlmMGRiM2RiZTY3`
+Snapshot ID: `MTY3NjQ0NjM2NCwwMDAwMDAwMDU3MTE2OTU3YmU3OWM3MmU3ZTE4ZjYzYTdiZDJjMDQz`

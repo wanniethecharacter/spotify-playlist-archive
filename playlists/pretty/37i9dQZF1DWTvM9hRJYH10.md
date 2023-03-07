@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Karley Scott Collins
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,620 likes - 138 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,639 likes - 138 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 137 | [Ruin A Beach](https://open.spotify.com/track/0BVbf4047jr9EXMwrgMNEY) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Ruin A Beach](https://open.spotify.com/album/3KqFxUwQ2ltFATUisQU6U6) | 3:28 |
 | 138 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 
-Snapshot ID: `MTY3NzcwMjU4NSwwMDAwMDAwMGJkY2M2M2FhNGNiNDQxZDUwOGM4ZmY0OTc0ODJkODIw`
+Snapshot ID: `MTY3NzcwMjU4NSwwMDAwMDAwMDYwZGRmNWM2ZmU2YjcwNjhmYWFlNmEyMTk2YzEyZTM5`
